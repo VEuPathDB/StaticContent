@@ -2,6 +2,7 @@
 title: Scientific Working Group
 tag: swg_Current
 order: 1
+published: true
 ---
 EuPathDB is pleased to announce the members of the scientific working group
 (SWG). The SWG provides EuPathDB with scientific oversight and
@@ -11,7 +12,7 @@ guidance.<br><br>
   <tbody>
     <tr>
       <td> <a href="http://med.stanford.edu/profiles/John_Boothroyd/">John
-          Boothroyd</a>, Co-Chair<br>
+          BoothroydBLABLABLA</a>, Co-Chair<br>
         Stanford University<br>
         <em>Toxoplasma</em> biology &amp; host-pathogen interactions<br>
       </td>
@@ -96,4 +97,3 @@ User Interface and Portal Manager<br>
 Omar Harb &lt;<a href="mailto:oharb@upenn.edu">oharb@upenn.edu</a>&gt;
 Scientific Outreach &amp; Education Manager<br>
 </body>
-
