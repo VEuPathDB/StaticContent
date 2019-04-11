@@ -12,7 +12,7 @@ guidance.<br><br>
   <tbody>
     <tr>
       <td> <a href="http://med.stanford.edu/profiles/John_Boothroyd/">John
-          Boothroyd</a>, Co-Chair<br>
+          BoothroydBLABLABLA</a>, Co-Chair<br>
         Stanford University<br>
         <em>Toxoplasma</em> biology &amp; host-pathogen interactions<br>
       </td>
