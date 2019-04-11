@@ -8,11 +8,13 @@ EuPathDB is pleased to announce the members of the scientific working group
 (SWG). The SWG provides EuPathDB with scientific oversight and
 guidance.<br><br>
 
+
+
 <table>
   <tbody>
     <tr>
       <td> <a href="http://med.stanford.edu/profiles/John_Boothroyd/">John
-          BoothroydBLABLABLA</a>, Co-Chair<br>
+          Boothroyd</a>, Co-Chair<br>
         Stanford University<br>
         <em>Toxoplasma</em> biology &amp; host-pathogen interactions<br>
       </td>
