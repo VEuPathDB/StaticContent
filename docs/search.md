@@ -2,6 +2,7 @@
 layout: default
 title: Search
 nav_order: 7
+published: true
 ---
 
 # Search
@@ -14,6 +15,9 @@ nav_order: 7
 {:toc}
 
 ---
+
+This is on the livesite branch
+
 
 Just the Docs uses [lunr.js](http://lunrjs.com) to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points:
 
