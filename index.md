@@ -2,8 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: >-
+  Just the Docs is a responsive Jekyll theme with built-in search that is easily
+  customizable and hosted on GitHub Pages.
 permalink: /
+published: true
 ---
 
 # Focus on writing good documentation
@@ -17,7 +20,7 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 ---
 
 ## Getting started
-
+Livesite update
 ### Dependencies
 
 Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler.
