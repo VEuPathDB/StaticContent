@@ -2,7 +2,6 @@
 layout: default
 title: Configuration
 nav_order: 2
-published: true
 ---
 
 # Configuration
@@ -71,5 +70,3 @@ See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more
 # e.g, UA-1234567-89
 ga_tracking: UA-5555555-55
 ```
-
-I want to add content here.
