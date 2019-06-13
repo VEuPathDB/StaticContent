@@ -43,7 +43,7 @@ ga_tracking: UA-2709176-10
 collections:
   - embedded_content
 
-# this uses the list of projects in _date/projects.yml to iterate and build all the embedded help pages
+# this uses the list of projects in _data/projects.yml to iterate and build all the embedded help pages
 # each of these pages will be build using the _layouts/help.html template.  
 
 page_gen-dirs: false
