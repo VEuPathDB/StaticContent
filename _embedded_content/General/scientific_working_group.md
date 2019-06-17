@@ -4,12 +4,13 @@ tag: swg_Current
 order: 1
 published: true
 ---
-<h3>EuPathDB is pleased to announce the members of the scientific working group (SWG). The SWG provides EuPathDB with scientific oversight and guidance.</h3>
+<h3>EuPathDB is pleased to announce the members of the scientific working group (SWG). The SWG provides EuPathDB with scientific oversight and guidance.
+</h3>
+
 <table>
   <tbody>
     <tr>
-      <td> <a href="http://med.stanford.edu/profiles/John_Boothroyd/">John
-          Boothroyd</a>, Co-Chair<br>
+      <td> <a href="http://med.stanford.edu/profiles/John_Boothroyd/">John Boothroyd</a>, Co-Chair<br>
         Stanford University<br>
         <em>Toxoplasma</em> biology &amp; host-pathogen interactions<br>
       </td>
@@ -68,6 +69,7 @@ published: true
     </tr>
   </tbody>
 </table>
+
 <h3>EuPathDB BRC Management</h3>
 David S Roos &lt;<a href="mailto:droos@sas.upenn.edu">droos@sas.upenn.edu</a>&gt;
 Joint-PI, BRC Contract; WT Co-PI<br>
