@@ -22,7 +22,7 @@ published: true
       <li> TriTrypDB: Dr. Rick Tarleton (University of Georgia)</li>
     </ul>
   </li>
-  <br>
+  <br><br><br>
   <li>The team behind EuPathDB:
     <br><br>
     <ul  class="cirbulletlist">
