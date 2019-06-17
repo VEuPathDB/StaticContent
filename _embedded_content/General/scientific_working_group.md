@@ -4,12 +4,7 @@ tag: swg_Current
 order: 1
 published: true
 ---
-EuPathDB is pleased to announce the members of the scientific working group
-(SWG). The SWG provides EuPathDB with scientific oversight and
-guidance.<br><br>
-
-
-
+<h3>EuPathDB is pleased to announce the members of the scientific working group (SWG). The SWG provides EuPathDB with scientific oversight and guidance.</h3>
 <table>
   <tbody>
     <tr>
@@ -73,10 +68,8 @@ guidance.<br><br>
     </tr>
   </tbody>
 </table>
-<b><br>
-  EuPathDB BRC Management<br>
-  <br>
-</b> David S Roos &lt;<a href="mailto:droos@sas.upenn.edu">droos@sas.upenn.edu</a>&gt;
+<h3>EuPathDB BRC Management</h3>
+David S Roos &lt;<a href="mailto:droos@sas.upenn.edu">droos@sas.upenn.edu</a>&gt;
 Joint-PI, BRC Contract; WT Co-PI<br>
 Jessica C Kissinger &lt;<a href="mailto:jkissing@uga.edu">jkissing@uga.edu</a>&gt;
 Joint-PI, BRC Contract; WT Co-PI <br>
@@ -98,4 +91,5 @@ Cristina Aurrecoechea &lt;<a href="mailto:aurreco@uga.edu">aurreco@uga.edu</a>&g
 User Interface and Portal Manager<br>
 Omar Harb &lt;<a href="mailto:oharb@upenn.edu">oharb@upenn.edu</a>&gt;
 Scientific Outreach &amp; Education Manager<br>
-</body>
+
+
