@@ -5,6 +5,7 @@ order: 5
 published: true
 ---
 <h3>EuPathDB wishes to acknowledge:</h3>
+<div class="eupathdb-content">
 <ul class="cirbulletlist">
 <li>All the community members who have contributed data (often pre-publication), entered user comments or sent us their suggestions.</li>
 <br>
@@ -50,3 +51,4 @@ published: true
 </ul> <!-- The team behind EuPathDB -->
 </li>
 </ul>
+</div>
