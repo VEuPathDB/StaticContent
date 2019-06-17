@@ -5,7 +5,7 @@ order: 2
 published: true
 ---
 <h3>Previous Scientific Working Group</h3>
-<div>EuPathDB wishes to acknowledge previous scientific working group members listed below:</div>
+<div class="eupathdb-content">EuPathDB wishes to acknowledge previous scientific working group members listed below:</div>
 
 <table>
 <tr>
