@@ -2,8 +2,9 @@
 title: Previous Scientific Working Group
 tag: swg_previous
 order: 2
+published: true
 ---
-EuPathDB wishes to acknowledge previous scientific working group members listed below:<br><br>
+<h3>EuPathDB wishes to acknowledge previous scientific working group members listed below:<br><br>
 
 <table>
 <tr>
@@ -82,4 +83,3 @@ Plasmodium population biology, drug discovery<br>
 Broad Institute<br>
 Microbial Informatics Genome Sequencing & Analysis Program<br>
 </td></tr></table>
-
