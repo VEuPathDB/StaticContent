@@ -10,7 +10,7 @@ published: true
   <li>All the community members who have contributed data (often pre-publication), entered user comments or sent us their suggestions.</li>
   <br>
   <li>Scientists who provided images to be used as a template for the logos in our websites. These are:
-  <br><br>
+  <br>
     <ul  class="cirbulletlist">
       <li> AmoebaDB:  Dr. Graham Clark (London School of Hygiene & Tropical Medicine), Dr. Fiona Henriquez (University of West Scotland), Dr. William Petri (University of Virginia), Dr. Craig Roberts (University of Strathclyde)</li>
       <li> GiardiaDB: Dr. Fran Gillin, Dr. Tineke Lauwaet and Dr. Barbara Davids (University of California, San Diego)</li>
@@ -22,7 +22,7 @@ published: true
       <li> TriTrypDB: Dr. Rick Tarleton (University of Georgia)</li>
     </ul>
   </li>
-  <br><br><br>
+  <br><br>
   <li>The team behind EuPathDB:
     <br><br>
     <ul  class="cirbulletlist">
@@ -30,7 +30,7 @@ published: true
       </li>
       <br>
       <li>In United Kingdom: <br>Evelina Basenko<sup>9</sup>, Kathryn Crouch<sup>11</sup>, Christiane Hertz-Fowler<sup>9</sup>, Achchuthan Shanmugasundram<sup>9</sup>, David Starns<sup>9</sup>
-      <br><br><br>
+      <br><br>
         <ol>
           <li>Center for Tropical & Emerging Global Diseases, University of Georgia, Athens, GA 30602 USA</li>
           <li>Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104 USA</li>
