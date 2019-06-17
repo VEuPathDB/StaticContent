@@ -1,6 +1,6 @@
 ---
 title: Scientific Working Group
-tag: swg_Current
+tag: swg_current
 order: 1
 published: true
 ---
