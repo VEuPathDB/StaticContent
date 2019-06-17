@@ -70,7 +70,11 @@ published: true
     </tr>
   </tbody>
 </table>
-<br><br><hr/><br><br>
+
+<br><br>
+<hr/>
+<br><br>
+
 <h3>EuPathDB BRC Management</h3>
 <div class="eupathdb-content">
 David S Roos &lt;<a href="mailto:droos@sas.upenn.edu">droos@sas.upenn.edu</a>&gt;
