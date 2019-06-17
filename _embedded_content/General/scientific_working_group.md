@@ -71,9 +71,7 @@ published: true
   </tbody>
 </table>
 
-<br><br>
 <hr/>
-<br>
 
 <h3>EuPathDB BRC Management</h3>
 <div class="eupathdb-content">
