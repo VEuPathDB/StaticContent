@@ -4,8 +4,9 @@ tag: swg_current
 order: 1
 published: true
 ---
-<h3>EuPathDB is pleased to announce the members of the scientific working group (SWG). The SWG provides EuPathDB with scientific oversight and guidance.
-</h3>
+<h3>Scientific Working Group</h3>
+<div>EuPathDB is pleased to announce the members of the scientific working group (SWG). The SWG provides EuPathDB with scientific oversight and guidance.
+</div>
 
 <table>
   <tbody>
