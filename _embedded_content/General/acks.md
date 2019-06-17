@@ -33,18 +33,18 @@ published: true
 </li>
 <br>
 <ol>
-<li>Center for Tropical & Emerging Global Diseases, University of Georgia, Athens, GA 30602 USA
-<li>Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104 USA
-<li>Center for Applied Genetic Technologies, University of Georgia, Athens, GA, 30602 USA
-<li>Department of Genetics, University of Pennsylvania School of Medicine, Philadelphia, PA 19104 USA
-<li>Department of Genetics, University of Georgia, Athens, GA 30602 USA
-<li>Department of Computer Science, University of Georgia, Athens, GA 30602 USA
-<li>Department of Biology, University of Pennsylvania, Philadelphia, PA 19104 USA
-<li>Institute of Bioinformatics, University of Georgia, Athens 30602 USA
-<li>Institute of Integrative Biology, University of Liverpool, UK
-<li>The Wellcome Trust Sanger Institute
-<li>The Wellcome Trust Centre for Molecular Parasitology, University of Glasgow, UK
-<li>Uganda
+<li>Center for Tropical & Emerging Global Diseases, University of Georgia, Athens, GA 30602 USA</li>
+<li>Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104 USA</li>
+<li>Center for Applied Genetic Technologies, University of Georgia, Athens, GA, 30602 USA</li>
+<li>Department of Genetics, University of Pennsylvania School of Medicine, Philadelphia, PA 19104 USA</li>
+<li>Department of Genetics, University of Georgia, Athens, GA 30602 USA</li>
+<li>Department of Computer Science, University of Georgia, Athens, GA 30602 USA</li>
+<li>Department of Biology, University of Pennsylvania, Philadelphia, PA 19104 USA</li>
+<li>Institute of Bioinformatics, University of Georgia, Athens 30602 USA</li>
+<li>Institute of Integrative Biology, University of Liverpool, UK</li>
+<li>The Wellcome Trust Sanger Institute</li>
+<li>The Wellcome Trust Centre for Molecular Parasitology, University of Glasgow, UK</li>
+<li>Uganda</li>
 </ol>
 <br><br>
 <li>Former members: <br>Austin Billings<sup>7</sup>, Ulrike Böhme<sup>10</sup>, Shon Cade<sup>4</sup>, Cristian Cocos<sup>7</sup>, Kathy Couch<sup>1</sup>, Ale Diaz Miranda<sup>7</sup>, Jennifer Dommer<sup>2,4</sup>, Xin Gao<sup>2,7</sup>, Alan Gingle<sup>3</sup>, Greg Grant<sup>2,4</sup>, Matt Guidry<sup>1</sup>, Mark Heiges<sup>1</sup>, Frank Innamorato<sup>2,4</sup>, San James<sup>12</sup>, Eileen T. Kraemer<sup>6</sup>, Cris Lawrence<sup>7</sup>, Elisabetta Manduchi <sup>2,4</sup>, John A. Miller<sup>6</sup>, Vishal Nayak<sup>2,4</sup>, Cary Pennington<sup>1</sup>, Brian Pitts<sup>1</sup>, Jane. A.Pulman<sup>9</sup>, Chris Ross<sup>1</sup>, Ganesh Srinivasamoorthy<sup>1</sup>, Ryan Thibodeau<sup>1</sup>, Charles Treatman<sup>2,7</sup>, Betsy Wenthe<sup>1</sup>, Patricia L. Whetzel<sup>2,4</sup>, Fatima Silva<sup>9</sup>.
