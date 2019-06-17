@@ -4,7 +4,7 @@ tag: swg_previous
 order: 2
 published: true
 ---
-<h3>EuPathDB wishes to acknowledge previous scientific working group members listed below:<br><br>
+<h3>EuPathDB wishes to acknowledge previous scientific working group members listed below:</h3>
 
 <table>
 <tr>
