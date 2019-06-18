@@ -4,7 +4,7 @@ tag: downloads
 order: 4
 published: true
 ---
-<h3>There are several kinds of downloads available in a EuPathDB site:</h3>
+<h3>There are several kinds of downloads available in a EuPathDB site: BLA</h3>
 <div id="cirbulletlist" class="eupathdb-content">
 <ul>
 <li> Download files that we create at release time. The link to access these files is under the menu item "Downloads":"Data Files". These include fasta files for all available sequences, gff files with complete gene information, and other formats.
