@@ -24,27 +24,25 @@
           <b>Data Loading and Database Schema</b><br><br>We use the <b>G</b>enomics <b>U</b>nified <b>S</b>chema (GUS) database schema and data loading infrastructure available at <a target="_blank" href="http://www.gusdb.org">GusDB.org</a>.  This includes not only a comprehensive database schema for integrating and representing genomic and functional (or post) genomic data but also tools for loading said data into that system.  We have made some extensions to the schema and tools for EuPathDB specific purposes primarily to generate de-normalized views of the data for query optimization purposes.</p><br>
           <p>Our data are all stored in Oracle12c databases.  Our software infrastructure also supports PostgreSQL but we have some Oracle specific SQL constructs in our model that would need to be changed in order to run successfully in PostgreSQL.  </p><br>
           <p>We load all data using an in house engineered workflow system called <a target="_blank" href="https://github.com/EuPathDB/ReFlow">ReFlow</a>.  Briefly, ReFlow is engineered to be an efficient graph-based workflow system. In it each step (node in the graph) has the ability to be undone and subsequently rerun with updated data.  This was a significant requirement as it enables us to undo entire genomes when the annotation or underlying sequence changes.  This results in automated removal of all data dependent on that genome. When the step is re-run with the new annotation, all dependent data are recomputed and reloaded automatically, thus greatly improving our ability to keep these complex databases up-to-date.</p><br>
-          <p>The ReFlow workflow system utilizes another piece of software developed at the University of Pennsylvania to schedule, manage and monitor running tasks called <a href="http://www.google.com/url?q=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fpub%3Fid%3D1BixZ5t2c0hnOZES-Rk2wG2loAQqclcmRj7AeKQjZMHA">DistribJob</a>.  DistribJob distributes tasks generated from a large input dataset such as a set of sequences to compute nodes in a cluster for analysis and retrieves and collates the results in an efficient manner. We automate the running of large compute tasks on compute clusters located at the University of Pennsylvania and the University of Georgia.</p>
+          <p>The ReFlow workflow system utilizes another piece of software developed at the University of Pennsylvania to schedule, manage and monitor running tasks called <a target="_blank" href="http://www.google.com/url?q=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fpub%3Fid%3D1BixZ5t2c0hnOZES-Rk2wG2loAQqclcmRj7AeKQjZMHA">DistribJob</a>.  DistribJob distributes tasks generated from a large input dataset such as a set of sequences to compute nodes in a cluster for analysis and retrieves and collates the results in an efficient manner. We automate the running of large compute tasks on compute clusters located at the University of Pennsylvania and the University of Georgia.</p>
           <br>
         </td></tr>
       </table>
 
-      <a name="newsText3"/>
       <a name="wdk"/>
       <table border="0" cellpadding="2" cellspacing="0" width="100%">
         <tr><td colspan="2"><hr></td></tr>
         <tr class="rowLight"><td>
-          <b>Web Presentation System and User Interfaces</b><br><br><p>Our websites are based on code that we developed and have released to the community called the Strategies-WDK (Strategies Web Development Kit) which enables the graphical strategies search system.  You can download the software and see documentation for this toolkit at <a href="https://github.com/EuPathDB-Infra/WDK">Strategies-WDK google code website</a>.  This toolkit enables us to represent our data as an XML model which is then turned into the web interfaces that are presented to users using these tools.</p>
+          <b>Web Presentation System and User Interfaces</b><br><br><p>Our websites are based on code that we developed and have released to the community called the Strategies-WDK (Strategies Web Development Kit) which enables the graphical strategies search system.  You can download the software and see documentation for this toolkit at <a target="_blank" href="https://github.com/EuPathDB/WDK">Strategies-WDK</a>.  This toolkit enables us to represent our data as an XML model which is then turned into the web interfaces that are presented to users using these tools.</p>
           <br>
           <div id="cirbulletlist">
             <ul>
-            <li><a href="https://github.com/EuPathDB-Infra/WDK">Strategies-WDK Website</a>
+            <li><a href="https://github.com/EuPathDB/WDK">Strategies-WDK Website</a>
             <li><a href="https://docs.google.com/document/d/1kmNWkkcInKoxxiuUJqbc4QPWuySQud0OuECJ2TmEMTo/pub">Strategies-WDK Documentation</a>
             </ul>
           </div></td></tr>
       </table>
   
-      <a name="newsText4"/>
       <a name="hardware"/>
       <table border="0" cellpadding="2" cellspacing="0" width="100%">
         <tr><td colspan="2"><hr></td></tr>
