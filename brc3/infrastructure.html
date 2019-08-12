@@ -1,17 +1,17 @@
 <h2>EuPathDB Infrastructure Document</h2>
 
 <a name="overview"/>
-<b>Overview</b><br><br>
-<p>This document provides a high-level overview of the software infrastructure utilized by the EuPathDB BRC to load, 
-  integrate and provide data to users.  The links provide details for each of the components summarized here.</p>
+<h3>Overview</h3><br><br>
+<div>This document provides a high-level overview of the software infrastructure utilized by the EuPathDB BRC to load, 
+  integrate and provide data to users.  The links provide details for each of the components summarized here.</div>
 
 <a name="data"/>
-<b>Data Loading and Database Schema</b><br><br>
-<p>We use the <b>G</b>enomics <b>U</b>nified <b>S</b>chema (GUS) database schema and 
+<h3>Data Loading and Database Schema</h3><br><br>
+<div>We use the <b>G</b>enomics <b>U</b>nified <b>S</b>chema (GUS) database schema and 
   data loading infrastructure available at <a target="_blank" href="http://www.gusdb.org">GusDB.org</a>.  
   This includes not only a comprehensive database schema for integrating and representing genomic and functional (or post) 
   genomic data but also tools for loading said data into that system.  We have made some extensions to the schema and tools for 
-  EuPathDB specific purposes primarily to generate de-normalized views of the data for query optimization purposes.</p>
+  EuPathDB specific purposes primarily to generate de-normalized views of the data for query optimization purposes.</div>
 <br>
 <p>Our data are all stored in Oracle12c databases.  Our software infrastructure also supports PostgreSQL but we have some Oracle 
   specific SQL constructs in our model that would need to be changed in order to run successfully in PostgreSQL.  </p>
