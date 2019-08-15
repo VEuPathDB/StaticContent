@@ -24,8 +24,13 @@
   and retrieves and collates the results in an efficient manner. We automate the running of large compute tasks on compute clusters 
   located at the University of Pennsylvania and the University of Georgia.</p>
 <details>
-  <summary style="font-size:110%;font-weight:bold;margin-bottom:5px">Other Github Repositories</summary>
+  <summary style="font-size:110%;font-weight:bold;margin-bottom:5px">Github Repositories</summary>
   <ul>
+    <li><a target="_blank" href="https://github.com/EuPathDB/GusSchema">GusSchema</a>: Relational Database schema definition for Genomics data.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/GusAppFramework">GusAppFramework</a>: GUS application framework.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/ReFlow">ReFlow</a>: ReFlow (see explanation above).</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/DJob">DJob</a>: DistribJob (see explanation above).</li>
+    <br>
     <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonWorkflow">ApiCommonWorkflow</a>: Supports the workflow graph for the Genomic sites.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/OrthoMCLWorkflow">OrthoMCLWorkflow</a>: Supports the workflow graph for the OrthoMCL site.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/ClinEpiWorkflow">ClinEpiWorkflow</a>: Supports the workflow graph for the epidemiology sites.</li>
@@ -38,13 +43,8 @@
     <li><a target="_blank" href="https://github.com/EuPathDB/ClinEpiData">ClinEpiData</a>: Defines the workflow graph for the epidemiology sites and contains SQL to generate denormalized tables.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/MicrobiomeData">MicrobiomeData</a>: Defines the workflow graph for the Microbiome site and contains SQL to generate denormalized tables.</li>
     <br>
-    <li>ApiCommonDatasets: Data Sets to be loaded in the database by the Workflows. Also needed at site build time for model injection.</li>
-    <li>ClinEpiDatasets</a>: Data Sets to be loaded in the database by the Workflows. Also needed at site build time for model injection.</li>
-    <li>MicrobiomeDatasets</a>: Data Sets to be loaded in the database by the Workflows. Also needed at site build time for model injection.</li>
-    <br>
-    <li>ApiCommonPresenters: Data Set metadata to be loaded in denormalized tables. Also needed at site build time for model injection.</li>
-    <li>ClinEpiPresenters: Data Set metadata to be loaded in denormalized tables. Also needed at site build time for model injection.</li>
-    <li>MicrobiomePresenters: Data Set metadata to be loaded in denormalized tables. Also needed at site build time for model injection.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/ExampleDatasets">ExampleDatasets</a>: Example of the Data Sets to be loaded in the database by the Workflows. Also needed at site build time for model injection.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/ExamplePresenters">ExamplePresenters</a>: Example of the Data Set metadata to be loaded in denormalized tables. Also needed at site build time for model injection.</li>
   </ul>
 </details>
      
@@ -69,11 +69,18 @@
     <li><a target="_blank" href="https://github.com/EuPathDB/WSF">WSF</a>: The WDK Services Framework: web service architecture to support searches that instead of accessing the database run plugins/processes.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/EbrcWebSvcCommon">EbrcWebSvcCommon</a>: Plugins common to all sites (eg: Blast, Text search).</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonWebService">ApiCommonWebService</a>: Plugins specific to genomic sites.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/OrthoMCLWebService">OrthoMCLWebService</a>: Plugins specific to OrthoMCL.</li>
     <br>
-    <li><a target="_blank" href="https://github.com/EuPathDB/WSF">WSF</a>: The WDK Services Framework: web service architecture to support searches that instead of accessing the database run plugins/processes.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/WSF">WSF</a>: The WDK Services Framework: web service architecture to support searches that instead of accessing the database run plugins/processes.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/WSF">WSF</a>: The WDK Services Framework: web service architecture to support searches that instead of accessing the database run plugins/processes.</li>
-    
+    <li><a target="_blank" href="https://github.com/EuPathDB/WDKClient">WDKClient</a>: a React-based frontend for WDK (js, jsx, css).</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/WDKWebsite">WDKWebsite</a>: legacy frontend (html, jsp, css) being replaced.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/EbrcWebsiteCommon">EbrcWebsiteCommon</a>: frontend pages (html, jsp, js, css) that add or modify WDKClient, common to all sites.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonWebsite">ApiCommonWebsite</a>: frontend pages (html, jsp, js, css) that add or modify WDKClient, common to the genomic sites.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/OrthoMCLWebsite">OrthoMCLWebsite</a>: frontend pages (html, jsp, js, css) that add or modify WDKClient, for OrthoMCL.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/ClinEpiWebsite">ClinEpiWebsite</a>: frontend pages (html, jsp, js, css) that add or modify WDKClient, common to all Clinepi sites.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/MicrobiomeWebsite">MicrobiomeWebsite</a>: frontend pages (html, jsp, js, css) that add or modify WDKClient, for Microbiome.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/JBrowse">JBrowse</a>: modern genome browser, replaces GBrowse.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/EuPathDBIrods">EuPathDBIrods</a>: Irods storage for the user workspace, which allows users to export data sets from the EuPathDB Galaxy site and run analyses on them.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/EuPathGalaxy">EuPathGalaxy</a>: code that runs in the EuPathDB Galaxy, which includes the EuPathDB written tools and workflows.</li>
   </ul>
 </details>
     
