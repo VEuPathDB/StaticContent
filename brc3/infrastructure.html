@@ -2,12 +2,13 @@
 <h2>EuPathDB Infrastructure Document</h2>
 <p>This document provides a high-level overview of the software infrastructure utilized by the EuPathDB BRC to load, 
   integrate and provide data to users.  The links provide details for each of the components summarized here.</p>
-<p>This is <a href="https://eupathdb.org/eupathdb/app/search/dataset/AllDatasets/result">a list of all the data sets</a> loaded in our EuPathDB sites utlizing this infrastcrture </p>
+<p>This is <a target="_blank" href="https://eupathdb.org/eupathdb/app/search/dataset/AllDatasets/result">a list of all the data sets</a> loaded 
+  in our EuPathDB sites utilizing this infrastructure.</p>
 
 <a name="data"/>
 <h3>Data Loading and Database Schema</h3>
-<p>We use the <b>G</b>enomics <b>U</b>nified <b>S</b>chema (GUS) database schema and 
-  data loading infrastructure available at <a target="_blank" href="http://www.gusdb.org">GusDB.org</a>.  
+<p>We use the <a target="_blank" href="https://github.com/EuPathDB/GusSchema"><b>G</b>enomics <b>U</b>nified <b>S</b>chema (GUS) database schema</a> and 
+  data loading infrastructure and its framework available at <a target="_blank" href="https://github.com/EuPathDB/GusAppFramework">GusAppFramework</a>.  
   This includes not only a comprehensive database schema for integrating and representing genomic and functional (or post) 
   genomic data but also tools for loading said data into that system.  We have made some extensions to the schema and tools for 
   EuPathDB specific purposes primarily to generate de-normalized views of the data for query optimization purposes.</p>
@@ -27,23 +28,22 @@
   located at the University of Pennsylvania and the University of Georgia.</p>
 <details>
   <summary style="font-size:110%;font-weight:bold;margin-bottom:5px;cursor:pointer;"> >>> Github Repositories</summary>
+  These are the repositories needed for the loading infrastructure:
   <ul>
+    <li><a target="_blank" href="https://github.com/EuPathDB/install">install</a>: starter.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/CBIL">CBIL</a>: scripts to generate GUS perl objects .</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/GusSchema">GusSchema</a>: Relational Database schema definition for Genomics data.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/GusAppFramework">GusAppFramework</a>: GUS application framework.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/ReFlow">ReFlow</a>: ReFlow (see explanation above).</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/DJob">DJob</a>: DistribJob (see explanation above).</li>
-    <br>
-    <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonWorkflow">ApiCommonWorkflow</a>: Supports the workflow graph for the Genomic sites.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/OrthoMCLWorkflow">OrthoMCLWorkflow</a>: Supports the workflow graph for the OrthoMCL site.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/ClinEpiWorkflow">ClinEpiWorkflow</a>: Supports the workflow graph for the epidemiology sites.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/MicrobiomeWorkflow">MicrobiomeWorkflow</a>: Supports the workflow graph for the Microbiome site.</li>
-    <br>
+    <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonWorkflow">ApiCommonWorkflow</a>: Supports the workflow graph for the Genomic sites.
+        (Also: <a target="_blank" href="https://github.com/EuPathDB/OrthoMCLWorkflow">OrthoMCLWorkflow</a>, 
+               <a target="_blank" href="https://github.com/EuPathDB/ClinEpiWorkflow">ClinEpiWorkflow</a>, 
+               <a target="_blank" href="https://github.com/EuPathDB/MicrobiomeWorkflow">MicrobiomeWorkflow</a>.)</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/TuningManager">TuningManager</a>: Engine to generate denormalized tables in a database.</li>
-    <br>
-    <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonData">ApiCommonData</a>: Defines the workflow graph for the Genomic sites and contains SQL to generate denormalized tables.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/OrthoMCLData">OrthoMCLData</a>: Defines the workflow graph for the OrthoMCL site and contains SQL to generate denormalized tables.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/ClinEpiData">ClinEpiData</a>: Defines the workflow graph for the epidemiology sites and contains SQL to generate denormalized tables.</li>
-    <br>
+    <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonData">ApiCommonData</a>: Defines the workflow graph for the Genomic sites and contains SQL to generate denormalized tables.
+        (Also: <a target="_blank" href="https://github.com/EuPathDB/OrthoMCLData">OrthoMCLData</a>,
+               <a target="_blank" href="https://github.com/EuPathDB/ClinEpiData">ClinEpiData</a>.)</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/ExampleDatasets">ExampleDatasets</a>: Example of the Data Sets to be loaded in the database by the Workflows. Also needed at site build time for model injection.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/ExamplePresenters">ExamplePresenters</a>: Example of the Data Set metadata to be loaded in denormalized tables. Also needed at site build time for model injection.</li>
   </ul>
@@ -57,13 +57,17 @@
   data as an XML model which is then turned into the web interfaces that are presented to users using these tools.</p>
 <details>
   <summary style="font-size:110%;font-weight:bold;margin-bottom:5px;cursor:pointer;"> >>> Github Repositories</summary>
+  These are the repositories needed to build a website:
   <ul>
+    <li><a target="_blank" href="https://github.com/EuPathDB/install">install</a>: starter.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/CBIL">CBIL</a>: scripts to generate GUS perl objects .</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/ExampleDatasets">ExampleDatasets</a>: Example of the Data Sets to be loaded in the database by the Workflows. Also needed at site build time for model injection.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/ExamplePresenters">ExamplePresenters</a>: Example of the Data Set metadata to be loaded in denormalized tables. Also needed at site build time for model injection.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/EbrcModelCommon">EbrcModelCommon</a>: xml files with basic data types definitions, and their structured searches, common to all sites (genomic, epidemiology, microbiome).</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonModel">ApiCommonModel</a>: xml files with basic data types definitions, and their structured searches, for genomic sites.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/OrthoMCLModel">OrthoMCLModel</a>: xml files with basic data types definitions, and their structured searches, for OrthoMCL.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/ClinEpiModel">OrthoMCLModel</a>: xml files with basic data types definitions, and their structured searches, for epidemiology sites.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/MicrobiomeModel">MicrobiomeModel</a>: xml files with basic data types definitions, and their structured searches, for MicrobiomeDB.</li>
-    <br>
+    <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonModel">ApiCommonModel</a>: xml files with basic data types definitions, and their structured searches, for genomic sites.
+        (Also: <a target="_blank" href="https://github.com/EuPathDB/OrthoMCLModel">OrthoMCLModel</a>,
+               <a target="_blank" href="https://github.com/EuPathDB/ClinEpiModel">ClinEpiModel</a>,
+               <a target="_blank" href="https://github.com/EuPathDB/MicrobiomeModel">MicrobiomeModel</a>.)</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/FgpUtil">FgpUtil</a>: Basic utilities used by the WDK such as access to database, and SQL runs.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/WDK">WDK</a>: The Web Development Kit. It reads the model (xml files) and loads into java structures. Engine for search runs, step and strategy creation, baskets and favorites and user workspace.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/OAuth2Server">OAuth2Server</a>: authentication to one site used by all sites within EuPathDB including the galaxy site.</li>
@@ -71,14 +75,13 @@
     <li><a target="_blank" href="https://github.com/EuPathDB/EbrcWebSvcCommon">EbrcWebSvcCommon</a>: Plugins common to all sites (eg: Blast, Text search).</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonWebService">ApiCommonWebService</a>: Plugins specific to genomic sites.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/OrthoMCLWebService">OrthoMCLWebService</a>: Plugins specific to OrthoMCL.</li>
-    <br>
     <li><a target="_blank" href="https://github.com/EuPathDB/WDKClient">WDKClient</a>: a React-based frontend for WDK (js, jsx, css).</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/WDKWebsite">WDKWebsite</a>: legacy frontend (html, jsp, css) being replaced.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/EbrcWebsiteCommon">EbrcWebsiteCommon</a>: frontend pages (html, jsp, js, css) that add or modify WDKClient, common to all sites.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonWebsite">ApiCommonWebsite</a>: frontend pages (html, jsp, js, css) that add or modify WDKClient, common to the genomic sites.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/OrthoMCLWebsite">OrthoMCLWebsite</a>: frontend pages (html, jsp, js, css) that add or modify WDKClient, for OrthoMCL.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/ClinEpiWebsite">ClinEpiWebsite</a>: frontend pages (html, jsp, js, css) that add or modify WDKClient, common to all Clinepi sites.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/MicrobiomeWebsite">MicrobiomeWebsite</a>: frontend pages (html, jsp, js, css) that add or modify WDKClient, for Microbiome.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonWebsite">ApiCommonWebsite</a>: frontend pages (html, jsp, js, css) that add or modify WDKClient, common to the genomic sites.
+        (Also: <a target="_blank" href="https://github.com/EuPathDB/OrthoMCLWebsite">OrthoMCLWebsite</a>,
+               <a target="_blank" href="https://github.com/EuPathDB/ClinEpiWebsite">ClinEpiWebsite</a>,
+               <a target="_blank" href="https://github.com/EuPathDB/MicrobiomeWebsite">MicrobiomeWebsite</a>.)</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/JBrowse">JBrowse</a>: modern genome browser, replaces GBrowse.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/EuPathDBIrods">EuPathDBIrods</a>: Irods storage for the user workspace, which allows users to export data sets from the EuPathDB Galaxy site and run analyses on them.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/EuPathGalaxy">EuPathGalaxy</a>: code that runs in the EuPathDB Galaxy, which includes the EuPathDB written tools and workflows.</li>
