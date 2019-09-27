@@ -41,14 +41,19 @@ color_scheme: nil
 prose:
   metadata:
     _posts:
-      - name: "Category"
+      - name: "category"
         field:
           element: "multiselect"
+          label: "Select Categories"
           options:
             - name: "PlasmoDB"
               value: "PlasmoDB"
             - name: "EuPathDB"
               value: "EuPathDB"
+            - name: "All"
+              value:
+                - PlasmoDB
+                - EuPathDB
 
 
 collections:
