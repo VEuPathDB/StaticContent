@@ -50,10 +50,6 @@ prose:
               value: "PlasmoDB"
             - name: "EuPathDB"
               value: "EuPathDB"
-            - name: "All"
-              value:
-                - PlasmoDB
-                - EuPathDB
 
 
 collections:
