@@ -38,6 +38,17 @@ color_scheme: nil
 
 #prose:
 #  siteurl: "https://devcommunity.eupathdb.org/"
+prose:
+  metadata:
+    _posts:
+      - name: "Category"
+        field:
+          element: "multiselect"
+          options:
+            - name: "PlasmoDB"
+              value: "PlasmoDB"
+            - name: "EuPathDB"
+              value: "EuPathDB"
 
 
 collections:
