@@ -3,7 +3,7 @@ layout: post
 headline: ClinEpiDB 8 Released
 date: 2 Jul 2019 13:00
 tag: clinepidb_8_release
-category: release
+category: [ClinEpiDB, release]
 ---
 
 We are pleased to announce the release of ClinEpiDB 8!
