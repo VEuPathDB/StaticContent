@@ -1,0 +1,5 @@
+---
+layout: plain
+title: workshop_exercises
+---
+{{ site.data.workshop_exercises | jsonify }}
