@@ -60,10 +60,10 @@
   listTitle: "Transcriptomic Resources"
   descriptionTitle: "Transcriptomic Resources"
   descriptionBody: |
-      <p class="card-text">VEuPathDB supports research in transcriptomics. You can:</p>
+      <p class="card-text"><b>VEuPathDB supports research in transcriptomics.</b> You can:</p>
       <ul class="card-text">
         <li>
-          <b>View</b> all <a href="#">RNA Seq and Transcriptomics datasets</a> in VEuPathDB.
+          <b>View all</b> <a href="#">RNA Seq and Transcriptomics datasets</a> in VEuPathDB.
         </li>
         <li>
           <b>Search for genes</b> 
@@ -78,19 +78,19 @@
           Apply GO term enrichment or metabolic pathway analyses to your result. Or download expression profiles from multiple experiments for the genes in the result.
         </li>
         <li>
-          View integrated transcriptomic data on gene pages (ex. <a href="#">PF3D7_1133400</a>). See changes in RNA expression across different lifecycle stages or culture conditions.
+          <b>View integrated transcriptomic data</b> on gene pages (ex. <a href="#">PF3D7_1133400</a>). See changes in RNA expression across different lifecycle stages or culture conditions.
         </li>
         <li>
-          Add graphical or numeric transcript expression columns to any gene result set.
+          <b>Add graphical or numeric transcript expression</b> columns to any gene result set.
         </li>
         <li>
-          View transcriptomic data mapped to the genome as <a href="#">genome browser tracks</a>, including <a href="#">predicted intron junctions</a>.
+          <b>View transcriptomic data mapped</b> to the genome as <a href="#">genome browser tracks</a>, including <a href="#">predicted intron junctions</a>.
         </li>
         <li>
-          Analyze your own RNA-Seq data using the <a href="#">VEuPathDB Galaxy instance</a> and then bring your results back to VEuPathDB to use privately in your search strategies.
+          <b>Analyze your own RNA-Seq data</b> using the <a href="#">VEuPathDB Galaxy instance</a> and then bring your results back to VEuPathDB to use privately in your search strategies.
         </li>
         <li>
-          Provide a gene set and <a href="#">find transcriptomic experiments</a> that show similar regulation patterns.
+          <b>Provide a gene set</b> and <a href="#">find transcriptomic experiments</a> that show similar regulation patterns.
         </li>
       </ul>
 - identifier: "tips"
