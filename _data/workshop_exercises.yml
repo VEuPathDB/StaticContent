@@ -6,7 +6,7 @@ cards:
         path: workshops/athens/2019/exercises/2_Browser_Exercises-I.pdf
         description: 
   - card: RNA Sequencing Data Analysis
-    description: Analyze your RNA experiments in Galaxy and import back here.
+    description: Analyze your RNA experiments using a workflow in VEuPathDB Galaxy and import the results back here.
     links:
       - name: Analyzing RNAseq data in VEuPathDB Galaxy (Part 1)
         path: workshops/athens/2019/exercises/RNAseq_Mapping_Galaxy_1.pdf
@@ -15,7 +15,7 @@ cards:
         path: workshops/athens/2019/exercises/RNAseq_mapping_Galaxy2.pdf
         description: pdf (for the icon)
   - card: Variant Calling
-    description:  Analyze DNA sequence for variants using a workflow in EuPathDB Galaxy 
+    description:  Analyze DNA sequence for variants using a workflow in VEuPathDB Galaxy 
     links:
       - name: Variant calling in VEuPathDB galaxy (Part 1)
         path: workshops/athens/2019/exercises/Variant_Calling_Galaxy1.pdf
