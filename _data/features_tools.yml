@@ -63,16 +63,22 @@
       <p class="card-text">VEuPathDB supports research in transcriptomics. You can:</p>
       <ul class="card-text">
         <li>
-          View a list of the <a href="#">32 RNA Seq and Transcriptomics datasets</a> in VEuPathDB.
+          <b>View</b> all <a href="#">RNA Seq and Transcriptomics datasets</a> in VEuPathDB.
         </li>
         <li>
-          Search for genes by their  <a href="#">RNA-Seq</a>, <a href="#">Microarray</a>, and <a href="#">EST</a> expression profiles. Apply GO term enrichment or metabolic pathway analyses to your result. Or download expression profiles from multiple experiments for the genes in the result.
+          <b>Search for genes</b> 
+          <ul>
+            <li>
+              by their <a href="#">RNA-Seq</a>, <a href="#">Microarray</a>, and <a href="#">EST</a> expression profiles. 
+            </li>
+            <li>
+               <a href="#">with a Similar Expression Profile</a> to your gene of interest
+            </li>
+          </ul>
+          Apply GO term enrichment or metabolic pathway analyses to your result. Or download expression profiles from multiple experiments for the genes in the result.
         </li>
         <li>
-          Search for <a href="#">Genes with a Similar Expression Profile</a> to your gene of interest.
-        </li>
-        <li>
-          View integrated transcriptomic data on individual gene pages (ex. <a href="#">PF3D7_1133400</a>). See changes in RNA expression across different lifecycle stages or culture conditions.
+          View integrated transcriptomic data on gene pages (ex. <a href="#">PF3D7_1133400</a>). See changes in RNA expression across different lifecycle stages or culture conditions.
         </li>
         <li>
           Add graphical or numeric transcript expression columns to any gene result set.
