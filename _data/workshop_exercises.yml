@@ -1,12 +1,12 @@
 cards:
   - card: Genome Browser
-    description: 
+    description: Select and configure a diversity of tracks
     links:
       - name: Genome browser basics
         path: workshops/athens/2019/exercises/2_Browser_Exercises-I.pdf
         description: 
   - card: RNA Sequencing Data Analysis
-    description: 
+    description: Analyze your RNA experiments in Galaxy and import back here.
     links:
       - name: Analyzing RNAseq data in VEuPathDB Galaxy (Part 1)
         path: workshops/athens/2019/exercises/RNAseq_Mapping_Galaxy_1.pdf
@@ -15,7 +15,7 @@ cards:
         path: workshops/athens/2019/exercises/RNAseq_mapping_Galaxy2.pdf
         description: pdf (for the icon)
   - card: Variant Calling
-    description: 
+    description:  Analyze DNA sequence for variants using a workflow in EuPathDB Galaxy 
     links:
       - name: Variant calling in VEuPathDB galaxy (Part 1)
         path: workshops/athens/2019/exercises/Variant_Calling_Galaxy1.pdf
@@ -24,19 +24,19 @@ cards:
         path: workshops/athens/2019/exercises/Variant_Calling_Galaxy2.pdf
         description: 
   - card: Orthology and phylogenetics
-    description: 
+    description: Use orthology to infer function and cross-species relationships
     links:
       - name: Orthology and phylogenetic profile searches
         path: workshops/athens/2019/exercises/Orthology_Phyletic_Patterns.pdf
         description: 
   - card: Motifs and Domains and colocation
-    description: 
+    description: Use motifs, domains and relative genome location to infer function and regulation
     links:
       - name: Motifs, domains and colocation
         path: workshops/athens/2019/exercises/Motif%20Searches_RegularExpressions.pdf
         description: 
   - card: Functional Genomics
-    description: 
+    description: Find genes using a diversity of functional genomics assays. 
     links:
       - name: Functional genomics exercises
         path: workshops/athens/2019/exercises/FunctionalGenomicsI.pdf
