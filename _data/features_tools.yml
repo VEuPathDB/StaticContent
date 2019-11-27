@@ -31,30 +31,6 @@
       <div style="display: flex; justify-content: center; align-items: center">  
         ...
       </div>
-- identifier: "pathways"
-  listIconKey: "share-alt"
-  listTitle: "Signalling Pathways"
-  descriptionTitle: "Signalling Pathways"
-  descriptionBody: |
-      <div style="display: flex; justify-content: center; align-items: center">  
-        ...
-      </div>
-- identifier: "phenotype"
-  listIconKey: "flask"
-  listTitle: "Phenotype"
-  descriptionTitle: "Phenotype"
-  descriptionBody: |
-      <div style="display: flex; justify-content: center; align-items: center">  
-        ...
-      </div>
-- identifier: "genome-browser"
-  listIconKey: "sliders"
-  listTitle: "Genome Browser"
-  descriptionTitle: "Genome Browser"
-  descriptionBody: |
-      <div style="display: flex; justify-content: center; align-items: center">  
-        ...
-      </div>
 - identifier: "transcriptomic-resources"
   listIconKey: "list-ul"
   listTitle: "Transcriptomic Resources"
@@ -92,7 +68,31 @@
         <li>
           <b>Provide a gene set</b> and <a href="#">find transcriptomic experiments</a> that show similar regulation patterns.
         </li>
-      </ul>
+      </ul>- identifier: "pathways"
+  listIconKey: "share-alt"
+  listTitle: "Metabolic Pathways"
+  descriptionTitle: "Metabolic Pathways"
+  descriptionBody: |
+      <div style="display: flex; justify-content: center; align-items: center">  
+        ...
+      </div>
+- identifier: "phenotype"
+  listIconKey: "flask"
+  listTitle: "Phenotype"
+  descriptionTitle: "Phenotype"
+  descriptionBody: |
+      <div style="display: flex; justify-content: center; align-items: center">  
+        ...
+      </div>
+- identifier: "genome-browser"
+  listIconKey: "sliders"
+  listTitle: "Genome Browser"
+  descriptionTitle: "Genome Browser"
+  descriptionBody: |
+      <div style="display: flex; justify-content: center; align-items: center">  
+        ...
+      </div>
+
 - identifier: "tips"
   listIconKey: "lightbulb-o"
   listTitle: "Featured Tip"
