@@ -13,7 +13,7 @@
           </div>
           <div style="width: 20em">
             <img style="width: 18em" src="//qa.community.eupathdb.org/assets/images/features_tools/strategy_panel_1.png" alt="Strategy panel"/>
-            <div style="margin-top: 1em">On the search results page, click <strong>Extend your search strategy</strong> to add another step.</div>
+            <div style="margin-top: 1em">On the search results page, click <em>Extend your search strategy</em> to add another step.</div>
           </div>
         </div>
         <div style="text-align: center; margin-top: 3em">
@@ -34,9 +34,39 @@
   listTitle: "Analyze My Data"
   descriptionTitle: "Analyze My Data"
   descriptionBody: |
-      <div style="display: flex; justify-content: center; align-items: center">  
-        ...
+    <div style="margin: auto; max-width: 51em;">
+      <p>Use pre-configured workflows in VEuPathDB's Galaxy to analyze your data.  Workflows include:</p>
+      <ul>
+        <li>RNA Seq:coverage across the genome and RPKM for each gene</li>
+        <li>RNA Seq identification of genes with statistically significant expression differences between two samples</li>
+        <li>Assign your proteins to OrthoMCL groups</li>
+        <li>Variant calling</li>
+      </ul>
+
+      <p>For RNA Seq analyses you'll be able to export your results back to PlasmoDB.  You can:</p>
+      <ul>
+        <li>run searches against them</li>
+        <li>see them as columns in search results</li>
+        <li>see them as graphs in gene pages</li>
+        <li>see them as  genome browser tracks.</li> 
+      </ul>
+
+      <div style="display: flex; justify-content: space-between">
+        <div>
+          <img src="//qa.community.eupathdb.org/assets/images/features_tools/analyze1.png"/>
+          <div>Start by clicking <em>My Galaxy analyses</em> to go to Galaxy</div>
+        </div>
+        <div>
+          <img src="//qa.community.eupathdb.org/assets/images/features_tools/analyze2.png"/>
+          <div>Run workflows in Galaxy, and export the results back.</div>
+        </div>
+        <div>
+          <img src="//qa.community.eupathdb.org/assets/images/features_tools/analyze3.png"/>
+          <div>Then click on <em>My data sets</em> to see your data here</div>
+        </div>
       </div>
+
+    </div>
 - identifier: "population"
   listIconKey: "globe"
   listTitle: "Population Biology"
