@@ -73,7 +73,35 @@
   descriptionTitle: "Population Biology"
   descriptionBody: |
       <div style="display: flex; justify-content: center; align-items: center">  
-        ...
+        <ul>
+          <li>
+            View all population biology datasets in VEuPathDB
+            <ul>
+              <li>Whole genome sequencing (SNPs and copy number)</li>
+              <li>SNP chip</li>
+              <li>Popset isolates</li>
+            </ul>
+          </li>
+          <li>
+            Search for genes
+            <ul>
+              <li>By SNP characteristics</li>
+              <li>By copy number</li>
+            </ul>
+          </li>
+          <li>
+            Search for SNPs
+            <ul>
+              <li>Within a group of isolates</li>
+              <li>Between two groups of isolates</li>
+            </ul>
+          </li>
+          <li>Search for isolates textually or with the Map App</li>
+          <li>View summarised SNP information on gene pages</li>
+          <li>View sequencing coverage and called SNPs as genome browser tracks</li>
+          <li>Analyse your own whole genome sequencing data using the VEuPathDB Galaxy instance</li>
+        </ul>
+        <img style="width: 11em" src="//qa.community.eupathdb.org/assets/images/features_tools/pop_bio.png"/>
       </div>
 - identifier: "transcriptomic-resources"
   listIconKey: "list-ul"
