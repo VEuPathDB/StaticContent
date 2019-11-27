@@ -51,16 +51,16 @@
         <li>see them as  genome browser tracks.</li> 
       </ul>
 
-      <div style="display: flex; justify-content: space-between">
-        <div>
+      <div style="display: flex; justify-content: space-between; margin-top: 2em;">
+        <div style="width: 10em">
           <img src="//qa.community.eupathdb.org/assets/images/features_tools/analyze1.png"/>
           <div>Start by clicking <em>My Galaxy analyses</em> to go to Galaxy</div>
         </div>
-        <div>
+        <div style="width: 15em">
           <img src="//qa.community.eupathdb.org/assets/images/features_tools/analyze2.png"/>
           <div>Run workflows in Galaxy, and export the results back.</div>
         </div>
-        <div>
+        <div style="width: 10em">
           <img src="//qa.community.eupathdb.org/assets/images/features_tools/analyze3.png"/>
           <div>Then click on <em>My data sets</em> to see your data here</div>
         </div>
