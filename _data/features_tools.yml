@@ -4,7 +4,7 @@
   listTitle: "Search Strategies"
   descriptionTitle: "Search Strategies"
   descriptionBody: |
-      <div style="margin: auto; width: 51em;">
+      <div style="margin: auto; max-width: 51em;">
         <p>Search Strategies are a central feature of PlasmoDB.  Use them to precisely mine PlasmoDB data.</p>
         <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 2em">
           <div style="width: 12em">
