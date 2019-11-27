@@ -146,7 +146,7 @@
   listTitle: "Metabolic Pathways"
   descriptionTitle: "Metabolic Pathways"
   descriptionBody: |
-      <div style="display: flex; justify-content: center; align-items: flex-start; max-width: 600px; margin-auto;">  
+      <div style="display: flex; justify-content: center; align-items: center; max-width: 600px; margin-auto;">  
         <ul>
           <li>View metabolic pathway maps from KEGG, MetaCyc and organism-specific resources</li>
           <li>Search for pathways by the compounds or genes that they contain</li>
@@ -160,7 +160,7 @@
           <li>Paint transcriptomics data onto metabolic pathways</li>
           <li>Apply metabolic pathway enrichment analysis to a list of genes</li>
         </ul>
-        <img style="width: 40%; margin-top: 3em;" src="//qa.community.eupathdb.org/assets/images/features_tools/pathways.png"/>
+        <img style="width: 40%;" src="//qa.community.eupathdb.org/assets/images/features_tools/pathways.png"/>
       </div>
 - identifier: "phenotype"
   listIconKey: "flask"
