@@ -68,7 +68,8 @@
         <li>
           <b>Provide a gene set</b> and <a href="#">find transcriptomic experiments</a> that show similar regulation patterns.
         </li>
-      </ul>- identifier: "pathways"
+      </ul>
+- identifier: "pathways"
   listIconKey: "share-alt"
   listTitle: "Metabolic Pathways"
   descriptionTitle: "Metabolic Pathways"
