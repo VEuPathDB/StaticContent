@@ -4,8 +4,22 @@
   listTitle: "Search Strategies"
   descriptionTitle: "Search Strategies"
   descriptionBody: |
-      <div style="display: flex; justify-content: center; align-items: center">
-        ...
+      <div>
+        <p>Search Strategies are a central feature of PlasmoDB.  Use them to precisely mine PlasmoDB data.</p>
+        <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 2em">
+          <div style="width: 12em">
+            <img style="width: 8em" src="//qa.community.eupathdb.org/assets/images/features_tools/searches.png" alt="Searches"/>
+            <div style="margin-top: 1em">Start by running a search from the Searches menu</div>
+          </div>
+          <div style="width: 20em">
+            <img style="width: 18em" src="//qa.community.eupathdb.org/assets/images/features_tools/strategy_panel_1.png" alt="Strategy panel"/>
+            <div style="margin-top: 1em">On the search results page, click <strong>Extend your search strategy</strong> to add another step.</div>
+          </div>
+        </div>
+        <div style="text-align: center; margin-top: 3em">
+          <img src="//qa.community.eupathdb.org/assets/images/features_tools/strategy_panel_2.png" alt="Strategy panel"/>
+          <div style="margin-top: 1em">Build up a powerful  search strategy to find exactly the results you need</div>
+        </div>
       </div>
 - identifier: "tour"
   listIconKey: "motorcycle"
