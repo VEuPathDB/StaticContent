@@ -4,8 +4,22 @@
   listTitle: "Search Strategies"
   descriptionTitle: "Search Strategies"
   descriptionBody: |
-      <div style="display: flex; justify-content: center; align-items: center">
-        ...
+      <div style="margin: auto; max-width: 51em;">
+        <p>Search Strategies are a central feature of PlasmoDB.  Use them to precisely mine PlasmoDB data.</p>
+        <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 2em">
+          <div style="width: 12em">
+            <img style="width: 8em" src="//qa.community.eupathdb.org/assets/images/features_tools/searches.png" alt="Searches"/>
+            <div style="margin-top: 1em">Start by running a search from the Searches menu</div>
+          </div>
+          <div style="width: 20em">
+            <img style="width: 18em" src="//qa.community.eupathdb.org/assets/images/features_tools/strategy_panel_1.png" alt="Strategy panel"/>
+            <div style="margin-top: 1em">On the search results page, click <em>Extend your search strategy</em> to add another step.</div>
+          </div>
+        </div>
+        <div style="text-align: center; margin-top: 3em">
+          <img src="//qa.community.eupathdb.org/assets/images/features_tools/strategy_panel_2.png" alt="Strategy panel"/>
+          <div style="margin-top: 1em">Build up a powerful  search strategy to find exactly the results you need</div>
+        </div>
       </div>
 - identifier: "tour"
   listIconKey: "motorcycle"
@@ -20,40 +34,74 @@
   listTitle: "Analyze My Data"
   descriptionTitle: "Analyze My Data"
   descriptionBody: |
-      <div style="display: flex; justify-content: center; align-items: center">  
-        ...
+    <div style="margin: auto; max-width: 51em;">
+      <p>Use pre-configured workflows in VEuPathDB's Galaxy to analyze your data.  Workflows include:</p>
+      <ul>
+        <li>RNA Seq:coverage across the genome and RPKM for each gene</li>
+        <li>RNA Seq identification of genes with statistically significant expression differences between two samples</li>
+        <li>Assign your proteins to OrthoMCL groups</li>
+        <li>Variant calling</li>
+      </ul>
+
+      <p>For RNA Seq analyses you'll be able to export your results back to PlasmoDB.  You can:</p>
+      <ul>
+        <li>run searches against them</li>
+        <li>see them as columns in search results</li>
+        <li>see them as graphs in gene pages</li>
+        <li>see them as  genome browser tracks.</li> 
+      </ul>
+
+      <div style="display: flex; justify-content: space-between; margin-top: 3em;">
+        <div style="width: 10em; margin: 0 1em;">
+          <img style="width: 10em" src="//qa.community.eupathdb.org/assets/images/features_tools/analyze1.png"/>
+          <div style="font-size: .85em">Start by clicking <em>My Galaxy analyses</em> to go to Galaxy</div>
+        </div>
+        <div style="width: 15em; margin: 0 1em;">
+          <img style="width: 15em" src="//qa.community.eupathdb.org/assets/images/features_tools/analyze2.png"/>
+          <div style="font-size: .85em">Run workflows in Galaxy, and export the results back.</div>
+        </div>
+        <div style="width: 10em; margin: 0 1em;">
+          <img style="width: 10em" src="//qa.community.eupathdb.org/assets/images/features_tools/analyze3.png"/>
+          <div style="font-size: .85em">Then click on <em>My data sets</em> to see your data here</div>
+        </div>
       </div>
+
+    </div>
 - identifier: "population"
   listIconKey: "globe"
   listTitle: "Population Biology"
   descriptionTitle: "Population Biology"
   descriptionBody: |
-      <div style="display: flex; justify-content: center; align-items: center">  
-        ...
-      </div>
-- identifier: "pathways"
-  listIconKey: "share-alt"
-  listTitle: "Signalling Pathways"
-  descriptionTitle: "Signalling Pathways"
-  descriptionBody: |
-      <div style="display: flex; justify-content: center; align-items: center">  
-        ...
-      </div>
-- identifier: "phenotype"
-  listIconKey: "flask"
-  listTitle: "Phenotype"
-  descriptionTitle: "Phenotype"
-  descriptionBody: |
-      <div style="display: flex; justify-content: center; align-items: center">  
-        ...
-      </div>
-- identifier: "genome-browser"
-  listIconKey: "sliders"
-  listTitle: "Genome Browser"
-  descriptionTitle: "Genome Browser"
-  descriptionBody: |
-      <div style="display: flex; justify-content: center; align-items: center">  
-        ...
+      <div style="display: flex; justify-content: center; align-items: flex-start; max-width: 600px; margin-auto;">  
+        <ul>
+          <li>
+            View all population biology datasets in VEuPathDB
+            <ul>
+              <li>Whole genome sequencing (SNPs and copy number)</li>
+              <li>SNP chip</li>
+              <li>Popset isolates</li>
+            </ul>
+          </li>
+          <li>
+            Search for genes
+            <ul>
+              <li>By SNP characteristics</li>
+              <li>By copy number</li>
+            </ul>
+          </li>
+          <li>
+            Search for SNPs
+            <ul>
+              <li>Within a group of isolates</li>
+              <li>Between two groups of isolates</li>
+            </ul>
+          </li>
+          <li>Search for isolates textually or with the Map App</li>
+          <li>View summarised SNP information on gene pages</li>
+          <li>View sequencing coverage and called SNPs as genome browser tracks</li>
+          <li>Analyse your own whole genome sequencing data using the VEuPathDB Galaxy instance</li>
+        </ul>
+        <img style="width: 40%; margin-top: 3em;" src="//qa.community.eupathdb.org/assets/images/features_tools/pop_bio.png"/>
       </div>
 - identifier: "transcriptomic-resources"
   listIconKey: "list-ul"
@@ -93,6 +141,44 @@
           <b>Provide a gene set</b> and <a href="#">find transcriptomic experiments</a> that show similar regulation patterns.
         </li>
       </ul>
+- identifier: "pathways"
+  listIconKey: "share-alt"
+  listTitle: "Metabolic Pathways"
+  descriptionTitle: "Metabolic Pathways"
+  descriptionBody: |
+      <div style="display: flex; justify-content: center; align-items: center; max-width: 600px; margin-auto;">  
+        <ul>
+          <li>View metabolic pathway maps from KEGG, MetaCyc and organism-specific resources</li>
+          <li>Search for pathways by the compounds or genes that they contain</li>
+          <li>
+            Search for genes
+            <ul>
+              <li>that metabolise specified compounds</li>
+              <li>that encode enzymes in specified pathways</li>
+            </ul>
+          </li>
+          <li>Paint transcriptomics data onto metabolic pathways</li>
+          <li>Apply metabolic pathway enrichment analysis to a list of genes</li>
+        </ul>
+        <img style="width: 40%;" src="//qa.community.eupathdb.org/assets/images/features_tools/pathways.png"/>
+      </div>
+- identifier: "phenotype"
+  listIconKey: "flask"
+  listTitle: "Phenotype"
+  descriptionTitle: "Phenotype"
+  descriptionBody: |
+      <div style="display: flex; justify-content: center; align-items: center">  
+        ...
+      </div>
+- identifier: "genome-browser"
+  listIconKey: "sliders"
+  listTitle: "Genome Browser"
+  descriptionTitle: "Genome Browser"
+  descriptionBody: |
+      <div style="display: flex; justify-content: center; align-items: center">  
+        ...
+      </div>
+
 - identifier: "tips"
   listIconKey: "lightbulb-o"
   listTitle: "Featured Tip"
