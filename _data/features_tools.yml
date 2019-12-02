@@ -11,12 +11,11 @@
         .search-strategies-feature--panels {
           display: flex;
           flex-wrap: wrap;
-          justify-content: space-between;
           align-items: flex-end;
           counter-reset: panel;
         }
         .search-strategies-feature--panels > * {
-          margin: 1em;
+          margin: 2em;
           overflow: hidden;
         }
         .search-strategies-feature--panels > * > div {
