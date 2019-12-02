@@ -17,6 +17,7 @@
         }
         .search-strategies-feature--panels > * {
           margin: 1em;
+          overflow: hidden;
         }
         .search-strategies-feature--panels > * > div {
           margin-top: 1em;
