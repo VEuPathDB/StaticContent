@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: ClinEpiDB Resources and Tutorials
-permalink: /tutorials
+permalink: /resources
 ---
 
 <div id="clinepi-resources">
