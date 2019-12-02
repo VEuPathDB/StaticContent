@@ -11,7 +11,7 @@
         .search-strategies-feature--panels {
           display: flex;
           flex-wrap: wrap;
-          align-items: flex-end;
+          align-items: flex-start;
           counter-reset: panel;
         }
         .search-strategies-feature--panels > * {
