@@ -138,7 +138,7 @@
           <li>Search for isolates <a href="#">textually</a> or with the <a href="#">Map App</a></li>
           <li>View summarised SNP information on <a href="#">gene pages</a></li>
           <li>View sequencing coverage and called SNPs as <a href="#">genome browser tracks</a></li>
-          <li>Analyse your own whole genome sequencing data using the <a href="#">VEuPathDB Galaxy instance</li>
+          <li>Analyse your own whole genome sequencing data using the <a href="#">VEuPathDB Galaxy instance</a></li>
         </ul>
         <img style="width: 40%; margin-top: 3em;" src="//qa.community.eupathdb.org/assets/images/features_tools/pop_bio.png"/>
       </div>
