@@ -206,9 +206,15 @@
   listTitle: "Phenotype"
   descriptionTitle: "Phenotype"
   descriptionBody: |
-      <div style="display: flex; justify-content: center; align-items: center">  
-        ...
-      </div>
+    <p>Phenotype data types include PHI-base phenotypes and manually curated phenotypes from peer-reviewed research literature</p>
+    <p>Use phenotype data to:</p>
+    <ul>
+      <li>Search for genes based on the observable characteristics of genetic manipulations and outcomes of host-pathogen interactions.</li>  
+      <li>View all high throughput phenotyping datasets in VEuPathDB</li>
+      <li>View summary information on gene pages</li>
+    </ul>
+    <img src="//qa.community.eupathdb.org/assets/images/features_tools/phenotype.png"/>
+
 - identifier: "genome-browser"
   listIconKey: "sliders"
   listTitle: "Genome Browser"
