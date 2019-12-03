@@ -140,7 +140,7 @@
           <li>View sequencing coverage and called SNPs as <a href="#">genome browser tracks</a></li>
           <li>Analyse your own whole genome sequencing data using the <a href="#">VEuPathDB Galaxy instance</a></li>
         </ul>
-        <img style="max-width: 300px" src="//qa.community.eupathdb.org/assets/images/features_tools/pop_bio.png"/>
+        <img style="max-width: 250px" src="//qa.community.eupathdb.org/assets/images/features_tools/pop_bio.png"/>
       </div>
 - identifier: "transcriptomic-resources"
   listIconKey: "list-ul"
