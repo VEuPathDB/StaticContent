@@ -111,7 +111,7 @@
   listTitle: "Population Biology"
   descriptionTitle: "Population Biology"
   descriptionBody: |
-      <div style="display: flex; justify-content: center; align-items: flex-start; max-width: 600px; margin-auto;">  
+      <div style="display: flex; justify-content: flex-start; align-items: flex-start; max-width: 1000px; margin: auto;">  
         <ul>
           <li>
             View <a href="#">all population biology datasets</a> in VEuPathDB
@@ -140,7 +140,7 @@
           <li>View sequencing coverage and called SNPs as <a href="#">genome browser tracks</a></li>
           <li>Analyse your own whole genome sequencing data using the <a href="#">VEuPathDB Galaxy instance</a></li>
         </ul>
-        <img style="width: 40%; margin-top: 3em;" src="//qa.community.eupathdb.org/assets/images/features_tools/pop_bio.png"/>
+        <img style="max-width: 300px" src="//qa.community.eupathdb.org/assets/images/features_tools/pop_bio.png"/>
       </div>
 - identifier: "transcriptomic-resources"
   listIconKey: "list-ul"
