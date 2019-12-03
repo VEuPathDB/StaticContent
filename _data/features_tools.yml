@@ -213,7 +213,7 @@
       <li>View all high throughput phenotyping datasets in VEuPathDB</li>
       <li>View summary information on gene pages</li>
     </ul>
-    <img src="//qa.community.eupathdb.org/assets/images/features_tools/phenotype.png"/>
+    <img style="margin-top: 1em" src="//qa.community.eupathdb.org/assets/images/features_tools/phenotype.png"/>
 
 - identifier: "genome-browser"
   listIconKey: "sliders"
