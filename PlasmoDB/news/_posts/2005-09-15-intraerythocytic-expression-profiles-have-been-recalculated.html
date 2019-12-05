@@ -1,0 +1,9 @@
+---
+layout: post
+title: Intraerythocytic expression profiles have been recalculated
+category: [PlasmoDB]
+---
+
+The expression profiles obtained from Joe DeRisi's group (UCSF) are processed by the PlasmoDB team for generating the images on the expression pages and for use in the expression profile queries. The original HB3 data were processed without background subtraction while the more recent 3D7 and DD2 data were processed with background subtraction. These have now all been processed consistently in the following manner.<p>
+Raw data were loess normalized using the default loess implementation in the R package for microarray analysis (marray).  The non-background corrected foreground mean was used as input to the loess algorithm. Replicate arrays for the same time point were then averaged to give one value for each timepoint/gene. Data was then smoothed using a least squares fit to each data point and its two neighbors on each side.<p>
+The profiles seen in PlasmoDB 4.4 have also been corrected. The correlation table that gives correlations between the different studies (the three DeRisi and the two Winzeler) has been recalculated based on the new profiles.  This new data is not yet displayed on 4.4 but will be on 5.0 Beta.
