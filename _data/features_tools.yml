@@ -111,36 +111,36 @@
   listTitle: "Population Biology"
   descriptionTitle: "Population Biology"
   descriptionBody: |
-      <div style="display: flex; justify-content: center; align-items: flex-start; max-width: 600px; margin-auto;">  
+      <div style="display: flex; justify-content: flex-start; align-items: flex-start; max-width: 1000px; margin: auto;">  
         <ul>
           <li>
-            View all population biology datasets in VEuPathDB
+            View <a href="#">all population biology datasets</a> in VEuPathDB
             <ul>
-              <li>Whole genome sequencing (SNPs and copy number)</li>
-              <li>SNP chip</li>
-              <li>Popset isolates</li>
+              <li><a href="#">Whole genome sequencing</a> (SNPs and copy number)</li>
+              <li><a href="#">SNP chip</a></li>
+              <li><a href="#">Popset isolates</a></li>
             </ul>
           </li>
           <li>
             Search for genes
             <ul>
-              <li>By SNP characteristics</li>
-              <li>By copy number</li>
+              <li><a href="#">By SNP characteristics</a></li>
+              <li><a href="#">By copy number</a></li>
             </ul>
           </li>
           <li>
             Search for SNPs
             <ul>
-              <li>Within a group of isolates</li>
-              <li>Between two groups of isolates</li>
+              <li><a href="#">Within a group of isolates</a></li>
+              <li><a href="#">Between two groups of isolates</a></li>
             </ul>
           </li>
-          <li>Search for isolates textually or with the Map App</li>
-          <li>View summarised SNP information on gene pages</li>
-          <li>View sequencing coverage and called SNPs as genome browser tracks</li>
-          <li>Analyse your own whole genome sequencing data using the VEuPathDB Galaxy instance</li>
+          <li>Search for isolates <a href="#">textually</a> or with the <a href="#">Map App</a></li>
+          <li>View summarised SNP information on <a href="#">gene pages</a></li>
+          <li>View sequencing coverage and called SNPs as <a href="#">genome browser tracks</a></li>
+          <li>Analyse your own whole genome sequencing data using the <a href="#">VEuPathDB Galaxy instance</a></li>
         </ul>
-        <img style="width: 40%; margin-top: 3em;" src="//qa.community.eupathdb.org/assets/images/features_tools/pop_bio.png"/>
+        <img style="max-width: 250px" src="//qa.community.eupathdb.org/assets/images/features_tools/pop_bio.png"/>
       </div>
 - identifier: "transcriptomic-resources"
   listIconKey: "list-ul"
@@ -187,17 +187,17 @@
   descriptionBody: |
       <div style="display: flex; justify-content: center; align-items: center; max-width: 600px; margin-auto;">  
         <ul>
-          <li>View metabolic pathway maps from KEGG, MetaCyc and organism-specific resources</li>
-          <li>Search for pathways by the compounds or genes that they contain</li>
+          <li>View metabolic pathway maps from <a href="#">KEGG, MetaCyc and organism-specific resources</a></li>
+          <li>Search for pathways by the <a href="#">compounds or genes that they contain</a></li>
           <li>
             Search for genes
             <ul>
-              <li>that metabolise specified compounds</li>
-              <li>that encode enzymes in specified pathways</li>
+              <li>that <a href="#">metabolise specified compounds</a></li>
+              <li>that <a href="#">encode enzymes in specified pathways</a></li>
             </ul>
           </li>
-          <li>Paint transcriptomics data onto metabolic pathways</li>
-          <li>Apply metabolic pathway enrichment analysis to a list of genes</li>
+          <li><a href="#">Paint transcriptomics data</a> onto metabolic pathways</li>
+          <li>Apply <a href="#">metabolic pathway enrichment analysis</a> to a list of genes</li>
         </ul>
         <img style="width: 40%;" src="//qa.community.eupathdb.org/assets/images/features_tools/pathways.png"/>
       </div>
@@ -209,9 +209,9 @@
     <p>Phenotype data types include PHI-base phenotypes and manually curated phenotypes from peer-reviewed research literature</p>
     <p>Use phenotype data to:</p>
     <ul>
-      <li>Search for genes based on the observable characteristics of genetic manipulations and outcomes of host-pathogen interactions.</li>  
-      <li>View all high throughput phenotyping datasets in VEuPathDB</li>
-      <li>View summary information on gene pages</li>
+      <li><a href="#">Search for genes</a> based on the observable characteristics of genetic manipulations and outcomes of host-pathogen interactions.</li>  
+      <li>View <a href="#">all high throughput phenotyping datasets</a> in VEuPathDB</li>
+      <li>View summary information on <a href="#">gene pages</a></li>
     </ul>
     <img style="margin-top: 1em" src="//qa.community.eupathdb.org/assets/images/features_tools/phenotype.png"/>
 
@@ -221,7 +221,7 @@
   descriptionTitle: "Genome Browser"
   descriptionBody: |
       <div style="display: flex; justify-content: center; align-items: center">  
-        ...
+        COMING SOON...
       </div>
 
 - identifier: "tips"
