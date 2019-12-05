@@ -1,52 +1,64 @@
-
+---
+permalink: /webServices
+---
 
 <!-- display wdkModel introduction text -->
-<h1>Searches via Web Services</h1>
+<h1>How to run a structured search using web services</h1>
 
-
+<h2>Overview</h2>
 
 <div class="eupathdb-content">
-PlasmoDB provides programmatic access to <a href="/plasmo.aurreco/queries_tools.jsp">its searches</a>, via <a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm"><b>REST</b></a> Web Services. 
-The result of a web service request is a list of records (genes, ESTs, etc) in either 
-<a href="http://www.w3.org/XML/">XML</a> or <a href="http://json.org/">JSON</a> format. 
+PlasmoDB provides programmatic access to its searches, via <a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm"><b>REST</b></a> Web Services. 
+The result of a web service request is a list of records (genes, compounds, etc.) in one of various formats (json, csv, etc.).
 REST services can be executed in a browser by typing a specific URL. 
 
 <br><br>For example, this URL:
-<br><span style="position:relative;left:15px;font-size:110%"><a href="/plasmo.aurreco/webservices/GeneQuestions/GenesByMolecularWeight.xml?min_molecular_weight=10000&max_molecular_weight=50000&reference_strains_only=Yes&organism=Plasmodium falciparum,Plasmodium knowlesi&o-fields=gene_type,organism">http://PlasmoDB.org/webservices/GeneQuestions/GenesByMolecularWeight.xml?<br>min_molecular_weight=10000&<br>max_molecular_weight=50000&<br>reference_strains_only=Yes&<br>organism=Plasmodium falciparum,Plasmodium knowlesi&<br>o-fields=gene_type,organism</a></span>
+<br><span style="position:relative;left:15px;font-size:110%">
+<a href="/a/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism=Plasmodium falciparum3D7&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"]}">
+https://plasmodb.org/plasmo/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism=Plasmodium falciparum3D7&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"]}</a></span>
 
 <br><br>Corresponds to this request: 
 <br><span style="font-style:italic;font-weight:bold;position:relative;left:15px;">
 Find all (Plasmodium falciparum,Plasmodium knowlesi) genes that have molecular weight between 10,000 and 50,000. 
 <br>For each gene ID in the result, return its gene type and organism.
-<br>Provide the result in an XML document.
+<br>Provide the result in this format.
 </span>
 </div>
-<br><br><br>
 
 
+<h2>The Details</h2>
+
+<ol>
+<li>First choose a search you want to run via web services. For example, you can go to the home page and select a search:</li>
 
 
+<li>Next fill in the parameters in the search page, to describe how you would like the web service URL parameters to be
+configured.</li>
 
 
+<li>When done filling in parameters, click the Build a web service URL from this search link. You will go to the Build a
+web services URL page:</li>
 
 
+<li>Choose a report, and then configure the report in the way you would like your web services URL to be configured.</li>
 
 
+<li> Finally, click the Build URL button. Your built up URL will display in the box below. It is ready for use.</li>
+</ol>
 
 
-
-
-<b style="font-size:120%">Downloading DNA sequences in a text file in FASTA format:</b><br>
-<br>For specific genomic segments:
+<br><br>
+<h2>Downloading DNA sequences in a text file in FASTA format</h2>
+For specific genomic segments:
 <ul>
 <li>To download one sequence, please use one of the following URL formats:
-<br><a target="_blank" href="http://PlasmoDB.org/cgi-bin/contigSrt?project_id=PlasmoDB&ids=Pf3D7_04_v3&start=14&end=700">
+<br><a target="_blank" href="/cgi-bin/contigSrt?project_id=PlasmoDB&ids=Pf3D7_04_v3&start=14&end=700">
   http://PlasmoDB.org/cgi-bin/contigSrt?project_id=PlasmoDB&ids=Pf3D7_04_v3&start=14&end=700</a>
-<br><a target="_blank" href="http://PlasmoDB.org/cgi-bin/contigSrt?project_id=PlasmoDB&ids=Pf3D7_04_v3:14..700">
+<br><a target="_blank" href="/cgi-bin/contigSrt?project_id=PlasmoDB&ids=Pf3D7_04_v3:14..700">
   http://PlasmoDB.org/cgi-bin/contigSrt?project_id=PlasmoDB&ids=Pf3D7_04_v3:14..700</a>
 </li>
 <li>For multiple sequences use the line feed character (%0A) as separator (comma or semicolon or carriage return do not work):
-<br><a target="_blank" href="http://PlasmoDB.org/cgi-bin/contigSrt?project_id=PlasmoDB&ids=Pf3D7_04_v3:14..700%0APf3D7_04_v3:800..900">
+<br><a target="_blank" href="/cgi-bin/contigSrt?project_id=PlasmoDB&ids=Pf3D7_04_v3:14..700%0APf3D7_04_v3:800..900">
 http://PlasmoDB.org/cgi-bin/contigSrt?project_id=PlasmoDB&ids=Pf3D7_04_v3:14..700%0APf3D7_04_v3:800..900</a>
 </li>
 </ul>
@@ -54,6 +66,6 @@ http://PlasmoDB.org/cgi-bin/contigSrt?project_id=PlasmoDB&ids=Pf3D7_04_v3:14..70
 For gene related regions:
 <ul>
 <li>To download one sequence, please use one of the following URL format:
-<br><a target="_blank" href="http://PlasmoDB.org/cgi-bin/geneSrt?project_id=PlasmoDB&ids=PF3D7_1133400&type=genomic&upstreamAnchor=Start&upstreamSign=minus&upstreamOffset=10&downstreamAnchor=End&downstreamSign=plus&downstreamOffset=2000">http://PlasmoDB.org/cgi-bin/geneSrt?project_id=PlasmoDB&ids=PF3D7_1133400&type=genomic&upstreamAnchor=Start&upstreamSign=minus&upstreamOffset=10&downstreamAnchor=End&downstreamSign=plus&downstreamOffset=2000</a>
+<br><a target="_blank" href="/cgi-bin/geneSrt?project_id=PlasmoDB&ids=PF3D7_1133400&type=genomic&upstreamAnchor=Start&upstreamSign=minus&upstreamOffset=10&downstreamAnchor=End&downstreamSign=plus&downstreamOffset=2000">http://PlasmoDB.org/cgi-bin/geneSrt?project_id=PlasmoDB&ids=PF3D7_1133400&type=genomic&upstreamAnchor=Start&upstreamSign=minus&upstreamOffset=10&downstreamAnchor=End&downstreamSign=plus&downstreamOffset=2000</a>
 </li>
 </ul>
