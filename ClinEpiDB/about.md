@@ -45,8 +45,7 @@ isualized via interactive web applications built in <a target="_blank" href="htt
 
       <h2 id="how-do-i-use-site">How do I use ClinEpiDB?</h2>
       <div>
-        <p>See our written <a href="/a/community/ClinEpiDB/resources.html">Tutorials and Resources</a> and <a target="_blank" href="https://www.youtube.com/playlist?list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh">Vi
-deo Tutorials</a>.
+        <p>See our written <a href="/a/app/community/ClinEpiDB/resources.html">Tutorials and Resources</a> and <a target="_blank" href="https://www.youtube.com/playlist?list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh">Video Tutorials</a>.
         </p>
       </div>
 
