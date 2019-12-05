@@ -2,4 +2,8 @@
 layout: plain
 title: features_tools
 ---
-{{ site.data.features_tools | jsonify }}
+{%
+  include collection.json
+  collection=site.featured_tools
+  keys="output,descriptionTitle,identifier,listIconKey,listTitle"
+%}

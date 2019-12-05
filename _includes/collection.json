@@ -1,0 +1,10 @@
+{% assign keys = include.keys | split:"," %}
+[
+  {% for item in include.collection %}
+    {
+      {% for k in keys %}
+        {{ k | jsonify }}: {{ item[k] | jsonify }}{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    }{% unless forloop.last %}, {% endunless %}
+  {% endfor %}
+]

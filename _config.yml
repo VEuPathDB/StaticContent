@@ -16,7 +16,8 @@
 title: Just the Docs
 description: A Jekyll theme for documentation
 baseurl: "/" # the subpath of your site, e.g. /blog
-#url: "https://community.eupathdb.org" # the base hostname & protocol for your site, e.g. http://example.com
+# FIXME This should get set via command line when built by jenkins
+url: "https://qa.community.eupathdb.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
@@ -53,7 +54,9 @@ prose:
 
 
 collections:
-  - embedded_content
+  embedded_content: {}
+  featured_tools:
+    json_keys: [ output, descriptionTitle, identifier, listIconKey, listTitle ]
 
 # this uses the list of projects in _data/projects.yml to iterate and build all the embedded help pages
 # each of these pages will be build using the _layouts/help.html template.  
