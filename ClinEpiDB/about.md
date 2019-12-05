@@ -47,7 +47,7 @@ isualized via interactive web applications built in <a target="_blank" href="htt
       <div>
          <!--    "{{ '/resources.html' | relative_url }}"    -->
          <!--   "/a/app/community/ClinEpiDB/resources.html"  -->
-        <p>See our written <a href="{{ '/resources.html' | relative_url }}">Tutorials and Resources</a> and <a target="_blank" href="https://www.youtube.com/playlist?list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh">Video Tutorials</a>.
+        <p>See our written <a href="/a/app/community/ClinEpiDB/resources.html">Tutorials and Resources</a> and <a target="_blank" href="https://www.youtube.com/playlist?list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh">Video Tutorials</a>.
         </p>
       </div>
 
