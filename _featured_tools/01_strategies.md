@@ -2,7 +2,7 @@
 identifier: search-strategies
 listTitle: Search Strategies
 descriptionTitle: Search Strategies
-listIconKey: code-fork fa-rotate-90
+listIconKey: code-fork fa-rotate-270
 ---
 <style>
   .search-strategies-feature {
