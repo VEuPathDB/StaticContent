@@ -16,7 +16,8 @@
 title: Just the Docs
 description: A Jekyll theme for documentation
 baseurl: "/" # the subpath of your site, e.g. /blog
-# FIXME This should get set via command line when built by jenkins
+
+# Jenkins modifies this value directly with the correct url for the environment before the build
 url: "https://qa.community.eupathdb.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
