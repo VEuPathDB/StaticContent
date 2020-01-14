@@ -1,13 +1,14 @@
 --- # clinepi faq page
 - type: general
   question: "Introductory tour"
-  answer: "This video (https://www.youtube.com/watch?v=535PcFrBH8M&list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh&index=2&t=0s) provides a short overview of the major features of ClinEpiDB."
+  answer: "This <a target="_blank" href="https://www.youtube.com/watch?v=535PcFrBH8M&list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh&index=2&t=0s">video</a> provides a short overview of the major features of ClinEpiDB."
   uid: g1
   projects: "ClinEpiDB,AllClinEpiDB"
   date: "Jan 14, 2019"
 - type: using_site
   question: "How to create an account"
-  answer: "Hover over the icon labeled 'Guest' in the top right-hand corner, then click 'Register'. Fill out the registration form then click the ‘Register’ button. A green text box should appear, indicating successful registration. Check your email to retrieve your temporary password. Note:  You only need one account for all VEuPathDB websites. This means that if you have an account for other VEuPathDB resources such as PlasmoDB or MicrobiomeDB, you can log into ClinEpiDB with those credentials and vice versa."
+  answer: "Hover over the icon labeled 'Guest' in the top right-hand corner, then click 'Register'. Fill out the registration form then click the ‘Register’ button. A green text box should appear, indicating successful registration. Check your email to retrieve your temporary password.
+  </p>Note: You only need one account for all VEuPathDB websites. This means that if you have an account for other VEuPathDB resources such as PlasmoDB or MicrobiomeDB, you can log into ClinEpiDB with those credentials and vice versa."
   uid: u1
   projects: "ClinEpiDB,AllClinEpiDB"
   date: "Jan 14, 2019"
