@@ -10,19 +10,18 @@ permalink: /ClinEpiDB/faq
 
 {% for item in site.data.clinepi_faq %}
  {% if item.type == "general" %}
- <li id="{{ item.uid }}">
-   <details>
-   <summary>{{ item.question }}</summary>
-
-   {{ item.answer }}
-   </p>
-   </details>
-
- </li>
+  <li id="{{ item.uid }}">
+    <details>
+      <summary>{{ item.question }}</summary>
+      <p>
+        {{ item.answer }}
+      </p>
+    </details>
+  </li>
  {% endif %}
 {% unless forloop.last %}{% endunless %}{% endfor %}
 
-</ul>
+  </ul>
 </div>
 
 
@@ -32,12 +31,17 @@ permalink: /ClinEpiDB/faq
 
 {% for item in site.data.clinepi_faq %}
  {% if item.type == "using_site" %}
- <li id="{{ item.uid }}">
-   <a href="https://eupathdb.org/tutorials/{{ item.fileName }}" title="{{ item.date  }}"><i class="fa fa-file-pdf-o"></i>{{ item.question }}</a>
- </li>
+  <li id="{{ item.uid }}">
+    <details>
+      <summary>{{ item.question }}</summary>
+      <p>
+        {{ item.answer }}
+      </p>
+    </details>
+  </li>
  {% endif %}
 {% unless forloop.last %}{% endunless %}{% endfor %}
 
-</ul>
+  </ul>
 </div>
 
