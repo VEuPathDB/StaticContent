@@ -37,24 +37,11 @@ isualized via interactive web applications built in <a target="_blank" href="htt
         </p>
       </div>
 
-      <h2 id="How-do-i-cite-site">How do I cite ClinEpiDB?</h2>
-      <div>
-        <p>You can reference ClinEpiDB as part of the EuPathDB project <a target="_blank" href="https://www.ncbi.nlm.nih.gov/pubmed/27903906">(Aurrecoechea et al. 2017)</a>.
-        </p>
-      </div>
-
       <h2 id="how-do-i-use-site">How do I use ClinEpiDB?</h2>
       <div>
          <!--    "{{ '/resources.html' | relative_url }}"    -->
          <!--   "/a/app/community/ClinEpiDB/resources.html"  -->
         <p>See our written <a href="/a/app/community/ClinEpiDB/resources.html">Tutorials and Resources</a> and <a target="_blank" href="https://www.youtube.com/playlist?list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh">Video Tutorials</a>.
-        </p>
-      </div>
-
-      <h2 id="Can-i-use-site-to-analyze-my-own-unpublished-data">Can I use ClinEpiDB to analyze my own unpublished data?</h2>
-      <div>
-        <p>ClinEpiDB does not allow you to load and analyze your own data. However, you can reach out to the ClinEpiDB team at the 'Contact Us' link on the homepage to inquire about having your own data 
-loaded into the site.
         </p>
       </div>
 
