@@ -45,13 +45,6 @@ isualized via interactive web applications built in <a target="_blank" href="htt
         </p>
       </div>
 
-      <h2 id="Can-i-access-code-used-for-site">Can I access code used for ClinEpiDB?</h2>
-      <div>
-        <p>Yes! Our code is maintained using Git, and we welcome input from the community. Check out our <a target="_blank" href="https://github.com/VEuPathDB/ClinEpiWebsite/tree/master/View/lib/R/shiny/a
-pps">scripts for each of the Shiny apps</a>.
-        </p>
-      </div>
-
       <h2 id="who-is-behind-this-project">Who is behind this project?</h2>
       <div>
         <div>David Roos<sup>1</sup> &mdash; Project PI</div>

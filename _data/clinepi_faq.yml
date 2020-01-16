@@ -17,7 +17,8 @@
            To access the study page, click the name of the study on the homepage or on the dropdown 'Search a study' menu. 
            Authors are listed in a table at the bottom of the page in the 'Principal Investigator and Collaborators' table, while the study name and release date are at the top of the page. You can also find links to original study publications on the study page, which may want to cite.<br>
            <br>
-           If you want to cite ClinEpiDB directly, please use:<br>
+           If you want to cite ClinEpiDB directly, please use:
+
            Ruhamyankaka E, Brunk BP, Dorsey G <i>et al.</i> 'ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies.' [version 1; peer review: 1 approved]. <i>Gates Open Res</i> 2019, 3:1661 (<a target='_blank' href='https://doi.org/10.12688/gatesopenres.13087.1'> https://doi.org/10.12688/gatesopenres.13087.1</a>)"
   uid: g2
   projects: "ClinEpiDB,AllClinEpiDB"
@@ -26,6 +27,11 @@
   answer: "ClinEpiDB does not allow you to upload and analyze your own data. 
            However, you can reach out to the ClinEpiDB team using the 'Contact Us' link at the top of the page to inquire about having your own data loaded into the site."
   uid: g3
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: general
+  question: "Can I access code used for ClinEpiDB?"
+  answer: "Yes! Our code is maintained using Git, and we welcome input from the community. Check out our [scripts for each of the Shiny apps] (https://github.com/VEuPathDB/ClinEpiWebsite/tree/master/View/lib/R/shiny/apps)."
+  uid: g4
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: using_site
   question: "Create an account"
