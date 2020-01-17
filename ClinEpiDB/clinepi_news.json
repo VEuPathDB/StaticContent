@@ -3,10 +3,16 @@ layout: null
 title: clinepi_news_json
 permalink: ClinEpiDB/news.json
 ---
-{"records": [
-{% for post in site.posts %}
-{% if post.categories contains "ClinEpiDB" %}   
-{"attributes":{"date":{{ post.date | truncate: 10, "" | jsonify }},"item":{{ post.content | jsonify  }},"tag":{{ post.tag | jsonify }},"category":"release","headline":{{ post.title | jsonify }}},"id":{{ post.date | remove: " " | jsonify }}},
-{% endif %}
- {% unless forloop.last %}{% endunless %}{% endfor %}
-]}
+{% assign filtered_posts = site.posts | where: 'category','ClinEpiDB' %}
+{"records": [{% for post in filtered_posts %}
+           {
+               "attributes": {
+                               "date":{{ post.date | truncate: 10, "" | jsonify }},
+                               "item":{{ post.content | jsonify  }},
+                               "tag":{{ post.tag | jsonify }},
+                               "category":"release",
+                               "headline":{{ post.title | jsonify }}},
+                       "id": {{ post.date | remove: " " | jsonify }}
+           }{% unless forloop.last %},{% endunless %}{% endfor %}
+         ]
+}
