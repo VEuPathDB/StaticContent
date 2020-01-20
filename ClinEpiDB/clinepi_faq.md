@@ -14,7 +14,7 @@ permalink: /ClinEpiDB/faq
     <details>
       <summary>{{ item.question }}</summary>
       <p>
-        {{ item.answer }}
+        {{ item.answer | markdownify }}
       </p>
     </details>
   </li>
