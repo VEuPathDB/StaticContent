@@ -26,6 +26,8 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 # Enable or disable the site search
 search_enabled: true
 
+#theme: minima
+
 # Aux links for the upper right navigation
 aux_links:
   "Just the Docs on GitHub":
@@ -56,6 +58,8 @@ prose:
 
 collections:
   embedded_content: {}
+  clinepi_faq: {}
+  faq: {}
   featured_tools:
     json_keys: [ output, descriptionTitle, identifier, listIconKey, listTitle ]
 
@@ -68,9 +72,6 @@ page_gen:
     template: 'help'
     name: 'name'
     dir: 'embedded/help'
-
-# this uses the same mechanism to generate a 'general' page
-
   - data: 'general'
     template: 'help'
     name: 'name'
@@ -82,6 +83,19 @@ plugins:
 
 feed:
   categories:
-    - PlasmoDB
-    - EuPathDB
+    - AmoebaDB
     - ClinEpiDB
+    - CryptoDB
+    - EuPathFB
+    - FungiDB
+    - GiardiaDB
+    - HostDB
+    - MicrobiomeDB
+    - MicrosporidiaDB
+    - PiroplasmaDB
+    - PlasmoDB
+    - SchistoDB
+    - ToxoDB
+    - TrichDB
+    - TriTrypDB
+    - VectorBase
