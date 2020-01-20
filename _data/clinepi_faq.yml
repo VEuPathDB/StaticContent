@@ -42,20 +42,23 @@
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: using_site
   question: "Create an account"
-  answer: "Hover over the icon labeled 'Guest' in the top right-hand corner, then click 'Register'. 
-           Fill out the registration form then click the ‘Register’ button. 
-           A green text box should appear, indicating successful registration. 
-           Check your email to retrieve your temporary password.
+  answer: |
+           1. Hover over the icon labeled 'Guest' in the top right-hand corner, then click 'Register'. 
+           2. Fill out the registration form then click the ‘Register’ button. 
+           3. A green text box should appear, indicating successful registration. 
+           4. Check your email to retrieve your temporary password.
+
            Note: You only need one account for all VEuPathDB websites. 
-           This means that if you have an account for other VEuPathDB resources such as PlasmoDB or MicrobiomeDB, you can log into ClinEpiDB with those credentials and vice versa."
+           This means that if you have an account for other VEuPathDB resources such as PlasmoDB or MicrobiomeDB, you can log into ClinEpiDB with those credentials and vice versa.
   uid: u1
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: using_site
   question: "Change your password"
-  answer: "Log in to your account. 
-           To access your account page, hover over the icon with your name beneath it in the top right-hand corner, then click your name in the window that appears. 
-           At the bottom of the 'My Account' page, click the blue 'Change your password' link. 
-           Complete the form and click 'Submit'. 
-           If you have successfully changed your password, green text will appear confirming the password change."
+  answer: |
+           1. Log in to your account. 
+           2. To access your account page, hover over the icon with your name beneath it in the top right-hand corner, then click your name in the window that appears. 
+           3. At the bottom of the 'My Account' page, click the blue 'Change your password' link. 
+           4. Complete the form and click 'Submit'. 
+           5. If you have successfully changed your password, green text will appear confirming the password change."
   uid: u1
   projects: "ClinEpiDB,AllClinEpiDB"
