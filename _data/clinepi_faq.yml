@@ -24,13 +24,15 @@
 
            If you want to cite ClinEpiDB directly, please use:
 
-           Ruhamyankaka E, Brunk BP, Dorsey G <i>et al.</i> 'ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies.' [version 1; peer review: 1 approved]. <i>Gates Open Res</i> 2019, 3:1661 (<a target='_blank' href='https://doi.org/10.12688/gatesopenres.13087.1'> https://doi.org/10.12688/gatesopenres.13087.1</a>)
+           <span class='indent'>Ruhamyankaka E, Brunk BP, Dorsey G <i>et al.</i> 'ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies.' [version 1; peer review: 1 approved]. <i>Gates Open Res</i> 2019, 3:1661 (<a target='_blank' href='https://doi.org/10.12688/gatesopenres.13087.1'> https://doi.org/10.12688/gatesopenres.13087.1</a>)</span>
   uid: g2
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
   question: "Can I use ClinEpiDB to analyze my own unpublished data?"
-  answer: "ClinEpiDB does not allow you to upload and analyze your own data. 
-           However, you can reach out to the ClinEpiDB team using the 'Contact Us' link at the top of the page to inquire about having your own data loaded into the site."
+  answer: |
+           ClinEpiDB does not allow you to upload and analyze your own data. 
+
+           However, you can reach out to the ClinEpiDB team using the ['Contact Us' link](/a/app/contact-us){:target='_blank'}  at the top of the page to inquire about having your own data loaded into the site.
   uid: g3
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
