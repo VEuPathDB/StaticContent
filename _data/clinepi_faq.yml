@@ -15,7 +15,8 @@
            When citing a dataset that you accessed via ClinEpiDB, please include the dataset authors, name, date of release on ClinEpiDB, study page URL, and the fact that the data came from ClinEpiDB. 
 
            For example, the citation for the PRISM Cohort study would be:
-           <div class='indent'>Dorsey G, Kamya M, Greenhouse B, <i>et al.</i> 'Study: PRISM Cohort.' <i>ClinEpiDB</i>. 2018. <a target='_blank' href='https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e'>https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e</a></div>
+
+           <span class='indent'>Dorsey G, Kamya M, Greenhouse B, <i>et al.</i> 'Study: PRISM Cohort.' <i>ClinEpiDB</i>. 2018. <a target='_blank' href='https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e'>https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e</a></span>
 
            All the information can be found on the study page. 
            To access the study page, click the name of the study on the homepage or on the dropdown 'Search a study' menu. 
