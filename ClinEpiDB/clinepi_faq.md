@@ -32,7 +32,7 @@ permalink: /ClinEpiDB/faq
     <details id="{{ item.uid }}">
       <summary>{{ item.question }}</summary>
       <p>
-        {{ item.answer }}
+        {{ item.answer | markdownify}}
       </p>
     </details>
   </li>
