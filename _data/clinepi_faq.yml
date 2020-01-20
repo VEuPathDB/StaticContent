@@ -37,7 +37,7 @@
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
   question: "Can I access code used for ClinEpiDB?"
-  answer: "Yes! Our code is maintained using Git, and we welcome input from the community. Check out our [scripts for each of the Shiny apps] (https://github.com/VEuPathDB/ClinEpiWebsite/tree/master/View/lib/R/shiny/apps)."
+  answer: "Yes! Our code is maintained using Git, and we welcome input from the community. Check out our [scripts for each of the Shiny apps](https://github.com/VEuPathDB/ClinEpiWebsite/tree/master/View/lib/R/shiny/apps){:target='_blank'}."
   uid: g4
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: using_site
