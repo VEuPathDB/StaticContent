@@ -5,14 +5,14 @@ permalink: /ClinEpiDB/faq
 ---
 <h1>Frequently Asked Questions</h1>
 
-<div id="clinepi-general">
-  <h2>General</h2>
+<div style="padding:0.2em" id="clinepi-general">
+  <h2 style="font-size:120%">General</h2>
 <ul>
 {% for item in site.data.clinepi_faq %}
  {% if item.type == "general" %}
   <li>
     <details id="{{ item.uid }}">
-      <summary style="font-size:120%">{{ item.question }}</summary>
+      <summary style="color:#069;font-size:120%">{{ item.question }}</summary>
       <p>
         {{ item.answer | markdownify }}
       </p>
