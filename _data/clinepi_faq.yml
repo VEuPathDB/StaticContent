@@ -11,15 +11,18 @@
 - type: general
   question: "How do I cite ClinEpiDB?"
   answer: |
-           When citing a dataset that you accessed via ClinEpiDB, please include the dataset authors, name, date of release on ClinEpiDB, study page URL, and the fact that the data came from ClinEpiDB. 
-           For example, the citation for the PRISM Cohort study would be:
+           When citing a dataset that you accessed via ClinEpiDB, please include the dataset authors, 
+           name, date of release on ClinEpiDB, study page URL, and the fact that the data came from 
+           ClinEpiDB. For example, the citation for the PRISM Cohort study would be:
 
            <span class='indent'>Dorsey G, Kamya M, Greenhouse B, <i>et al.</i> Study: PRISM Cohort. <i>ClinEpiDB</i>. 2018. <a target='_blank' href='https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e'>https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e</a></span>
 
-           All the information can be found on the study page. 
-           To access the study page, click the name of the study on the homepage or on the dropdown 'Search a study' menu. 
-           Authors are listed in a table at the bottom of the page in the 'Principal Investigator and Collaborators' table, while the study name and release date are at the top of the page.
-           You can also find links to original study publications on the study page, which may want to cite.
+           All the information can be found on the study page. To get there, click the study name
+           on the homepage or on the dropdown 'Search a study' menu. The study name and release date 
+           are at the top of the page while authors are listed in the 'Principal Investigator and 
+           Collaborators' table at the bottom of the page. You can also find links to original study 
+           publications, which may want to cite.
+
            If you want to cite ClinEpiDB directly, please use:
 
            <span class='indent'>Ruhamyankaka E, Brunk BP, Dorsey G <i>et al.</i> ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. [version 1; peer review: 1 approved]. <i>Gates Open Res</i> 2019, 3:1661 (<a target='_blank' href='https://doi.org/10.12688/gatesopenres.13087.1'>https://doi.org/10.12688/gatesopenres.13087.1</a>)</span>
@@ -29,7 +32,7 @@
   question: "Can I use ClinEpiDB to analyze my own unpublished data?"
   answer: |
            ClinEpiDB does not allow you to upload and analyze your own data. However, you can 
-           ['Contact Us'](/a/app/contact-us){:target='_blank'} to inquire about having your own 
+           [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about having your own 
            data loaded into the site.
   uid: g3
   projects: "ClinEpiDB,AllClinEpiDB"
@@ -48,17 +51,20 @@
            3. A green text box should appear, indicating successful registration. 
            4. Check your email to retrieve your temporary password.
 
-           Note: You only need one account for all VEuPathDB websites. 
-           This means that if you have an account for other VEuPathDB resources such as PlasmoDB or MicrobiomeDB, you can log into ClinEpiDB with those credentials and vice versa.
+           Note: You only need one account for all VEuPathDB websites. This means that if you have 
+           an account for other VEuPathDB resources such as PlasmoDB or MicrobiomeDB, you can log 
+           into ClinEpiDB with those credentials and vice versa.
   uid: u1
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: using_site
   question: "Change your password"
   answer: |
            1. Log in to your account. 
-           2. To access your account page, hover over the icon with your name beneath it in the top right-hand corner, then click your name in the window that appears. 
+           2. To access your account page, hover over the icon with your name beneath it in the top 
+           right-hand corner, then click your name in the window that appears. 
            3. At the bottom of the 'My Account' page, click the blue 'Change your password' link. 
            4. Complete the form and click 'Submit'. 
-           5. If you have successfully changed your password, green text will appear confirming the password change.
+           5. If you have successfully changed your password, green text will appear confirming the 
+           password change.
   uid: u2
   projects: "ClinEpiDB,AllClinEpiDB"
