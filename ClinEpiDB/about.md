@@ -20,20 +20,11 @@ released by others.
         <div>
           <img alt="ClinEpiDB How we process the data from different studies" src="/a/images/ClinEpiDB/ClinEpi_About_page_data_processing.png" />
         </div>
-        <p>ClinEpiDB was developed using the existing infrastructure of <a target="_blank" href="https://eupathdb.org">EuPathDB</a>, a collection of databases covering 170+ eukaryotic pathogens, along wi
-th relevant free-living and non-pathogenic species and select pathogen hosts, which provides a sophisticated search strategy system enabling complex interrogations of underlying data. Currently, data int
-egration for ClinEpiDB has occurred or is in process for NIH-supported International Centers for Excellence in Malaria Research (ICEMR), the Gates Foundation-supported Malnutrition and Enteric Diseases N
-etwork (MAL-ED), and the Global Enteric Multicenter Study (GEMS) projects. Greyed-out cards on the homepage indicate studies that have been loaded into a QA site, but are not yet publicly available. In t
-he process of data integration, a unified semantic web framework has been used to describe data generated from these studies. Over 1500 different data variables about participants, their disease episodes
-, households, and other potential exposure factors were collected in these clinical epidemiology studies and mapped for web display.
+        <p>ClinEpiDB was developed using the existing infrastructure of <a target="_blank" href="https://eupathdb.org">EuPathDB</a>, a collection of databases covering 170+ eukaryotic pathogens, along with relevant free-living and non-pathogenic species and select pathogen hosts, which provides a sophisticated search strategy system enabling complex interrogations of underlying data. Currently, data integration for ClinEpiDB has occurred or is in process for NIH-supported International Centers for Excellence in Malaria Research (ICEMR), the Gates Foundation-supported Malnutrition and Enteric Diseases Network (MAL-ED), and the Global Enteric Multicenter Study (GEMS) projects. Greyed-out cards on the homepage indicate studies that have been loaded into a QA site, but are not yet publicly available. In the process of data integration, a unified semantic web framework has been used to describe data generated from these studies. Over 1500 different data variables about participants, their disease episodes, households, and other potential exposure factors were collected in these clinical epidemiology studies and mapped for web display.
         </p>
-        <p>The data is loaded into a GUS4 schema. When combined with the unified semantic web framework and the extensive web toolkit and infrastructure developed by EuPathDB, the user is presented with 
-a point-and-click web interface that provides insight into data distributions and exploratory associations with any observational covariates. Query results can be statistically analyzed and graphically v
-isualized via interactive web applications built in <a target="_blank" href="https://shiny.rstudio.com">Shiny</a> that is launched directly in the ClinEpiDB browser.
+        <p>The data is loaded into a GUS4 schema. When combined with the unified semantic web framework and the extensive web toolkit and infrastructure developed by EuPathDB, the user is presented with a point-and-click web interface that provides insight into data distributions and exploratory associations with any observational covariates. Query results can be statistically analyzed and graphically visualized via interactive web applications built in <a target="_blank" href="https://shiny.rstudio.com">Shiny</a> that is launched directly in the ClinEpiDB browser.
         </p>
-        <p>As we continue to load datasets, we are also working on expanding our functionality. By developing the ability to query across EuPathDB databases, we plan to allow users to identify samples of
- interest in ClinEpiDB and match them to molecular data loaded in other EuPathDB database resources such as <a target="_blank" href="http://microbiomedb.org">MicrobiomeDB</a> and <a target="_blank" href=
-"http://plasmodb.org">PlasmoDB</a>, and vice versa.
+        <p>As we continue to load datasets, we are also working on expanding our functionality. By developing the ability to query across EuPathDB databases, we plan to allow users to identify samples of interest in ClinEpiDB and match them to molecular data loaded in other EuPathDB database resources such as <a target="_blank" href="http://microbiomedb.org">MicrobiomeDB</a> and <a target="_blank" href="http://plasmodb.org">PlasmoDB</a>, and vice versa.
         </p>
       </div>
 
