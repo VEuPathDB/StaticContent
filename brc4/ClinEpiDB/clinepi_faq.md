@@ -3,15 +3,16 @@ layout: plain
 title: ClinEpiDB Frequently Asked Questions
 permalink: /ClinEpiDB/faq
 ---
+<h1>Frequently Asked Questions</h1>
 
 <div id="clinepi-general">
-  <h1>General</h1>
+  <h2>General</h2>
 <ul>
 {% for item in site.data.clinepi_faq %}
  {% if item.type == "general" %}
   <li>
     <details id="{{ item.uid }}">
-      <summary>{{ item.question }}</summary>
+      <summary style="font-size:120%">{{ item.question }}</summary>
       <p>
         {{ item.answer | markdownify }}
       </p>
@@ -24,7 +25,7 @@ permalink: /ClinEpiDB/faq
 
 
 <div id="clinepi-using_site">
-  <h1>Using the site</h1>
+  <h2>Using the site</h2>
 <ul>
 {% for item in site.data.clinepi_faq %}
  {% if item.type == "using_site" %}
