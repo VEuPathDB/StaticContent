@@ -13,7 +13,6 @@
   question: "How do I cite ClinEpiDB?"
   answer: |
            When citing a dataset that you accessed via ClinEpiDB, please include the dataset authors, name, date of release on ClinEpiDB, study page URL, and the fact that the data came from ClinEpiDB. 
-
            For example, the citation for the PRISM Cohort study would be:
 
            <span class='indent'>Dorsey G, Kamya M, Greenhouse B, <i>et al.</i> 'Study: PRISM Cohort.' <i>ClinEpiDB</i>. 2018. <a target='_blank' href='https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e'>https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e</a></span>
@@ -60,5 +59,5 @@
            3. At the bottom of the 'My Account' page, click the blue 'Change your password' link. 
            4. Complete the form and click 'Submit'. 
            5. If you have successfully changed your password, green text will appear confirming the password change.
-  uid: u1
+  uid: u2
   projects: "ClinEpiDB,AllClinEpiDB"

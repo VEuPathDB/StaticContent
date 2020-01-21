@@ -9,9 +9,7 @@ permalink: /ClinEpiDB/about
 
       <h2 id="what-is-it">What is it?</h2>
         <div>
-          <p>Population-based epidemiological studies provide new opportunities for innovation and collaboration among researchers addressing pressing global-health concerns, however open access to study
- data pose many challenges. ClinEpiDB, launched in February 2018, is an open-access online resource enabling investigators to maximize the utility and reach of their data and to make optimal use of data 
-released by others.
+          <p>Population-based epidemiological studies provide new opportunities for innovation and collaboration among researchers addressing pressing global-health concerns, however open access to study data pose many challenges. ClinEpiDB, launched in February 2018, is an open-access online resource enabling investigators to maximize the utility and reach of their data and to make optimal use of data released by others.
           </p>
         </div>
 
