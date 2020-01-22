@@ -6,7 +6,7 @@ permalink: /ClinEpiDB/resources
 <h1 id="resources">Tutorials and Resources</h1>
 
 <div id="clinepi-tutorials">
-  <details><summary><h2>Tutorials</h2></summary>
+  <details><h2><summary>Tutorials</summary></h2>
   <p>
 
   <ul>
