@@ -8,7 +8,6 @@ permalink: /ClinEpiDB/resources
 <div id="clinepi-tutorials">
   <details><summary><h2>Tutorials</h2></summary>
   <p>
-
   <ul>
 
 {% for item in site.data.clinepi_tutorials %}
@@ -26,7 +25,7 @@ permalink: /ClinEpiDB/resources
 
 
 <div id="clinepi-exercises">
-  <details><h2><summary>Workshop Exercises</summary></h2>
+  <details><summary><h2>Workshop Exercises</summary></h2>
   <p>
   <ul>
 
@@ -45,7 +44,7 @@ permalink: /ClinEpiDB/resources
 
 
 <div id="clinepi-resources">
-  <h2>External Resources</h2>
+  <details><summary><h2>External Resources</summary></h2>
   <ul>
 
 {% for item in site.data.clinepi_tutorials %}
@@ -57,5 +56,7 @@ permalink: /ClinEpiDB/resources
 {% unless forloop.last %}{% endunless %}{% endfor %}
 
 </ul>
+</p>
+</details>
 </div>
 
