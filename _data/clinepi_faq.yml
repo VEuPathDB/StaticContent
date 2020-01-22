@@ -17,11 +17,11 @@
 
            <span class='indent'>Dorsey G, Kamya M, Greenhouse B, <i>et al.</i> Study: PRISM Cohort. <i>ClinEpiDB</i>. 2018. <a target='_blank' href='https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e'>https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e</a></span>
 
-           All the information can be found on the study page. To get there, click the study name
+           You can find the information on the study page by clicking the study name
            on the homepage or on the dropdown 'Search a study' menu. The study name and release date 
-           are at the top of the page while authors are listed in the 'Principal Investigator and 
+           are at the top of the page, while authors are listed in the 'Principal Investigator and 
            Collaborators' table at the bottom of the page. You can also find links to original study 
-           publications, which may want to cite.
+           publications, which you may want to cite.
 
            If you want to cite ClinEpiDB directly, please use:
 
@@ -29,7 +29,7 @@
   uid: g2
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "Can I use ClinEpiDB to analyze my own unpublished data?"
+  question: "Can I use ClinEpiDB to analyze my own data?"
   answer: |
            ClinEpiDB does not allow you to upload and analyze your own data. However, you can 
            [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about having your own 
