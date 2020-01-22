@@ -25,7 +25,7 @@ permalink: /ClinEpiDB/resources
 
 
 <div id="clinepi-exercises">
-  <details><summary><h2>Workshop Exercises</summary></h2>
+  <details><summary><h2>Workshop Exercises</h2></summary>
   <p>
   <ul>
 
@@ -44,7 +44,8 @@ permalink: /ClinEpiDB/resources
 
 
 <div id="clinepi-resources">
-  <details><summary><h2>External Resources</summary></h2>
+  <details><summary><h2>External Resources</h2></summary>
+  <p>
   <ul>
 
 {% for item in site.data.clinepi_tutorials %}
