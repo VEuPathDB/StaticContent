@@ -43,7 +43,7 @@ permalink: /ClinEpiDB/resources
 {% for item in site.data.clinepi_tutorials %}
  {% if item.type == "resource" %}
  <li id="{{ item.uid }}">
-   <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}"></i>{{ item.title }} - {{ item.description }}</a>
+   <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }} - {{ item.description }}</a>
  </li>
  {% endif %}
 {% unless forloop.last %}{% endunless %}{% endfor %}
