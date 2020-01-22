@@ -27,12 +27,9 @@ permalink: /ClinEpiDB/resources
 
 <div id="clinepi-exercises">
   <details>
-    <summary>
-      <h2>Workshop Exercises</h2>
-    </summary>
-    <p>
-    <ul>
-
+  <summary><h2>Workshop Exercises</h2></summary>
+  <p>
+  <ul>
   {% for item in site.data.clinepi_tutorials %}
    {% if item.type == "exercise" %}
    <li id="{{ item.uid }}">
@@ -40,13 +37,15 @@ permalink: /ClinEpiDB/resources
  {% endif %}
 {% unless forloop.last %}{% endunless %}{% endfor %}
 
-  </ul></p>
-  </details>
+</ul>
+</p>
+</details>
 </div>
 
 
 <div id="clinepi-resources">
-  <details><summary><h2>External Resources</h2></summary>
+  <details>
+  <summary><h2>External Resources</h2></summary>
   <p>
   <ul>
 
