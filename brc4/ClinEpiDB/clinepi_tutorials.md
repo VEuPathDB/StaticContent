@@ -3,9 +3,12 @@ layout: plain
 title: ClinEpiDB Tutorials and Resources
 permalink: /ClinEpiDB/resources
 ---
+<h1 id="resources">Tutorials and Resources</h1>
 
 <div id="clinepi-tutorials">
-  <h2>Tutorials</h2>
+  <details><summary><h2>Tutorials</h2></summary>
+  <p>
+
   <ul>
 
 {% for item in site.data.clinepi_tutorials %}
@@ -17,6 +20,8 @@ permalink: /ClinEpiDB/resources
 {% unless forloop.last %}{% endunless %}{% endfor %}
 
 </ul>
+</p>
+</details>
 </div>
 
 
