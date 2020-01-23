@@ -39,22 +39,22 @@ permalink: /ClinEpiDB/about
         <div style="padding:1em 0">
           <div style="textDecoration:underline">The VEuPathDB Team</div>
           <div>
-            Cristina Aurrecoechea<sup>2</sup>,
-            John Brestelli<sup>3</sup>,
-            Brian Brunk<sup>1</sup>,
-            Danielle Callan<sup>1</sup>,
-            Dave Falke<sup>2</sup>,
-            Steve Fischer<sup>4</sup>,
-            Omar Harb<sup>1</sup>,
-            Danica Helb<sup>1</sup>,
-            Jay Humphrey<sup>2</sup>,
+            Cristina Aurrecoechea<sup>1</sup>,
+            John Brestelli<sup>2</sup>,
+            Brian Brunk<sup>3</sup>,
+            Danielle Callan<sup>3</sup>,
+            Dave Falke<sup>1</sup>,
+            Steve Fischer<sup>2</sup>,
+            Omar Harb<sup>3</sup>,
+            Danica Helb<sup>3</sup>,
+            Jay Humphrey<sup>1</sup>,
             John Judkins<sup>3</sup>,
-            Jessica Kissinger<sup>2</sup>,
-            Brianna Lindsay<sup>1*</sup>,
-            David Roos<sup>1#</sup>,
-            Christian J. Stoeckert<sup>3</sup>,
-            Sheena Shah Tomko<sup>1</sup>,
-            Jie Zheng<sup>3,5</sup>
+            Jessica Kissinger<sup>1</sup>,
+            Brianna Lindsay<sup>3*</sup>,
+            David Roos<sup>3#</sup>,
+            Christian J. Stoeckert<sup>2</sup>,
+            Sheena Shah Tomko<sup>3</sup>,
+            Jie Zheng<sup>2,4</sup>
           </div>
         </div>
 
@@ -62,10 +62,9 @@ permalink: /ClinEpiDB/about
       <div><sup>#</sup>Primary investigator</div>
 
         <ol>
-          <li>Department of Biology, University of Pennsylvania, Philadelphia, PA 19104 USA</li>
           <li>Center for Tropical &amp; Emerging Global Diseases, University of Georgia, Athens, GA 30602 USA</li>
           <li>Department of Genetics, University of Pennsylvania School of Medicine, Philadelphia, PA 19104 USA</li>
-          <li>Institute of Integrative Biology, University of Liverpool, UK</li>
+          <li>Department of Biology, University of Pennsylvania, Philadelphia, PA 19104 USA</li>
           <li>Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104 USA</li>
         </ol>
       </div>
