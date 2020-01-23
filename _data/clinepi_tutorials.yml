@@ -155,7 +155,7 @@
   date: "Jan 22, 2020"
 - type: resource
   title: "IHME Global Burden of Disease"
-  description: "The Institute for Health Metrics and Evaluation (IHME) is an independent global health research center at the University of Washington that manages both global and local burden of disease projects, resources, and tools."
+  description: "Provides interactive data visualization tools focused on global and local burden of disease projects based on data coallated from around the world."
   uid: r9
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: http://www.healthdata.org/gbd
