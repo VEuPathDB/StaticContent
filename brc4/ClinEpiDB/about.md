@@ -36,13 +36,8 @@ permalink: /ClinEpiDB/about
 
       <h2 id="who-is-behind-this-project">Who is behind this project?</h2>
       <div>
-        <div>David Roos<sup>1</sup> &mdash; Project PI</div>
-        <div>Jessica Kissinger<sup>2</sup> &mdash; Project PI</div>
-        <div>Christian J. Stoeckert<sup>3</sup> &mdash; Project PI</div>
-        <div>Christiane Hertz-Fowler<sup>4</sup> &mdash; Project PI</div>
-
         <div style="padding:1em 0">
-          <div style="textDecoration:underline">The EuPathDB Team</div>
+          <div style="textDecoration:underline">The VEuPathDB Team</div>
           <div>
             Cristina Aurrecoechea<sup>2</sup>,
             John Brestelli<sup>3</sup>,
@@ -54,11 +49,17 @@ permalink: /ClinEpiDB/about
             Danica Helb<sup>1</sup>,
             Jay Humphrey<sup>2</sup>,
             John Judkins<sup>3</sup>,
-            Brianna Lindsay<sup>1</sup>,
+            Jessica Kissinger<sup>2</sup>,
+            Brianna Lindsay<sup>1*</sup>,
+            David Roos<sup>1#</sup>,
+            Christian J. Stoeckert<sup>3</sup>,
             Sheena Shah Tomko<sup>1</sup>,
             Jie Zheng<sup>3,5</sup>
           </div>
         </div>
+
+      <div><sup>*</sup>Project manager</div>
+      <div><sup>#</sup>Primary investigator</div>
 
         <ol>
           <li>Department of Biology, University of Pennsylvania, Philadelphia, PA 19104 USA</li>
