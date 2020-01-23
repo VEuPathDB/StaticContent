@@ -19,7 +19,7 @@
            study name, date of release and release number on ClinEpiDB, study page URL, and the fact that 
            the data came from ClinEpiDB. For example, the citation for the PRISM Cohort study would be:
 
-           > Dorsey G, Kamya M, Greenhouse B, *et al.* Study: PRISM Cohort. *ClinEpiDB*. 2018, 5 (<a target='_blank' href='https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e'>https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e</a>)
+           > Dorsey G, Kamya M, Greenhouse B, *et al.* Study: PRISM Cohort. *ClinEpiDB*. 2018, 5 (<https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e>{:target='_blank'})
 
            You can find the information on the study page by clicking the study name on the homepage 
            or on the dropdown 'Search a study' menu. The study name, release number, and release date 

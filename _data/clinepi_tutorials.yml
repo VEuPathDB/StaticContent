@@ -98,10 +98,79 @@
   fileName: GEMS_GiardiaMatched.pdf
   date: "Apr 26, 2019"
 - type: resource
+  title: "Data science specialization on Coursera"
+  description: "Free online series of 10 courses developed by faculty at Johns Hopkins University that covers the basics of data science."
+  uid: r1
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.coursera.org/specializations/jhu-data-science
+  date: "Jan 22, 2020"
+- type: resource
+  title: "Fundamentals of Data Visualization (Wilke 2018)"
+  description: "A guide covering how to make compelling figures."
+  uid: r2
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: http://serialmentor.com/dataviz/
+  date: "Jan 22, 2020"
+- type: resource
+  title: "RECON Learn"
+  description: "Training resources focused on outbreak response, health emergencies and humanitarian crises."
+  uid: r3
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.reconlearn.org/
+  date: "Jan 22, 2020"
+- type: resource
+  title: "Data Organization in Spreadsheets"
+  description: "Reviews good habits for managing data entry and storage in spreadsheet format."
+  uid: r4
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
+  date: "Jan 22, 2020"
+- type: resource
+  title: "Guidelines for Accurate and Transparent Health Estimates Reporting (GATHER)"
+  description: "Promotes best practices by providing a checklist of items to include for studies reporting health estimates."
+  uid: r5
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: http://gather-statement.org/
+  date: "Jan 22, 2020"
+- type: resource
+  title: "Open Science Framework (OSF)"
+  description: "Platform for research support and collaboration, it allows users to search for public datasets and papers and store their own protocols, data, code, and more."
+  uid: r6
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://osf.io
+  date: "Jan 22, 2020"
+- type: resource
+  title: "Disease Surveillance And Risk Monitoring (DiSARM) "
+  description: "Develops algorithms and applications that turn raw data into easily visualized, actionable outputs to support disease control programs."
+  uid: r7
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: Disease Surveillance And Risk Monitoring (DiSARM) 
+  date: "Jan 22, 2020"
+- type: resource
+  title: "GLEAMviz"
+  description: "Downloadable epidemic simulation software that combines data on populations and human mobility with stochastic models of disease transmission."
+  uid: r8
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: http://www.gleamviz.org/
+  date: "Jan 22, 2020"
+- type: resource
   title: "IHME Global Burden of Disease"
   description: "The Institute for Health Metrics and Evaluation (IHME) is an independent global health research center at the University of Washington that manages both global and local burden of disease projects, resources, and tools."
-  uid: r1
+  uid: r9
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: http://www.healthdata.org/gbd
   date: "Jan 22, 2020"
-
+- type: resource
+  title: "Malaria Atlas Project (MAP)"
+  description: "Assembles data on malaria risk and intervention coverage from global sources and develops analysis tools."
+  uid: r10
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://malariaatlas.org/
+  date: "Jan 22, 2020"
+- type: resource
+  title: "R Epidemics CONsortium (RECON)"
+  description: "Creates and supports R packages for handling, visualising, and analyzing outbreak data. Also provides tools for data cleaning, versioning, encryption, and system infrastructure."
+  uid: r11
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: http://www.repidemicsconsortium.org/
+  date: "Jan 22, 2020"
