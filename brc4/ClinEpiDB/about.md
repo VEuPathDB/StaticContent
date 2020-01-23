@@ -36,8 +36,7 @@ permalink: /ClinEpiDB/about
 
       <h2 id="who-is-behind-this-project">Who is behind this project?</h2>
       <div>
-        <div style="padding:1em 0">
-          <div style="textDecoration:underline">The VEuPathDB Team</div>
+          <div style="textDecoration:underline"><h4>The VEuPathDB Team</h4></div>
           <div>
             Cristina Aurrecoechea<sup>1</sup>,
             John Brestelli<sup>2</sup>,
@@ -57,8 +56,8 @@ permalink: /ClinEpiDB/about
             Jie Zheng<sup>2,4</sup>
           </div>
         </div>
-
-      <div><sup>*</sup>Project manager</div>
+      <div style="padding:1em 0">
+      <div><sup>*</sup>Project coordinator</div>
       <div><sup>#</sup>Primary investigator</div>
 
         <ol>
