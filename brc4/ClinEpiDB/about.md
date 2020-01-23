@@ -36,7 +36,7 @@ permalink: /ClinEpiDB/about
 
   <h2 id="who-is-behind-this-project">Who is behind this project?</h2>
   <div>
-    <h5>The VEuPathDB Team</h5><br>
+    <h4>The VEuPathDB Team</h4><br>
       <div>
         Cristina Aurrecoechea<sup>1</sup>,
         John Brestelli<sup>2</sup>,

@@ -2,10 +2,10 @@
 - type: general
   question: "Introductory tour"
   answer: |
-           This [video](https://www.youtube.com/watch?v=535PcFrBH8M&list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh&index=2&t=0s'){:target='_blank'} 
-           provides a short overview of the major features of ClinEpiDB.
-           You can also find tutorials, workshop exercises, and additional resources on our 
-           [Tutorials and Resources](/a/app/static-content/ClinEpiDB/resources.html) page.
+           This [video](https://www.youtube.com/watch?v=535PcFrBH8M&list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh&index=2&t=0s){:target='_blank'} 
+           provides a short overview of the major features of ClinEpiDB. You can also find 
+           tutorials, workshop exercises, and additional resources on our 
+           [Tutorials and Resources](/a/app/static-content/ClinEpiDB/resources.html){:target='_blank'} page.
   uid: g1
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
@@ -13,16 +13,16 @@
   answer: |
            If you want to cite ClinEpiDB directly, please use:
 
-           > Ruhamyankaka E, Brunk BP, Dorsey G *et al.* ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. [version 1; peer review: 1 approved]. <i>Gates Open Res</i> 2019, 3:1661 (<a target='_blank' href='https://doi.org/10.12688/gatesopenres.13087.1'>https://doi.org/10.12688/gatesopenres.13087.1</a>)
+           > Ruhamyankaka E, Brunk BP, Dorsey G *et al.* ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. [version 1; peer review: 1 approved]. *Gates Open Res* 2019, 3:1661 (<https://doi.org/10.12688/gatesopenres.13087.1>{:target='_blank'})
 
            When citing a dataset that you accessed via ClinEpiDB, please include the dataset authors, 
-           name, date of release on ClinEpiDB, study page URL, and the fact that the data came from 
-           ClinEpiDB. For example, the citation for the PRISM Cohort study would be:
+           study name, date of release and release number on ClinEpiDB, study page URL, and the fact that 
+           the data came from ClinEpiDB. For example, the citation for the PRISM Cohort study would be:
 
-           <span class='indent'>Dorsey G, Kamya M, Greenhouse B, <i>et al.</i> Study: PRISM Cohort. <i>ClinEpiDB</i>. 2018. <a target='_blank' href='https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e'>https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e</a></span>
+           > Dorsey G, Kamya M, Greenhouse B, *et al.* Study: PRISM Cohort. *ClinEpiDB*. 2018, 5 (<a target='_blank' href='https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e'>https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e</a>)
 
-           You can find the information on the study page by clicking the study name
-           on the homepage or on the dropdown 'Search a study' menu. The study name and release date 
+           You can find the information on the study page by clicking the study name on the homepage 
+           or on the dropdown 'Search a study' menu. The study name, release number, and release date 
            are at the top of the page, while authors are listed in the 'Principal Investigator and 
            Collaborators' table at the bottom of the page. You can also find links to original study 
            publications, which you may want to cite.
