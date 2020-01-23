@@ -36,7 +36,7 @@ permalink: /ClinEpiDB/about
 
       <h2 id="who-is-behind-this-project">Who is behind this project?</h2>
       <div>
-          <div style="textDecoration:underline"><h4>The VEuPathDB Team</h4></div>
+          <h4>The VEuPathDB Team</h4><br>
           <div>
             Cristina Aurrecoechea<sup>1</sup>,
             John Brestelli<sup>2</sup>,
@@ -55,10 +55,8 @@ permalink: /ClinEpiDB/about
             Sheena Shah Tomko<sup>3</sup>,
             Jie Zheng<sup>2,4</sup>
           </div>
-        </div>
-      <div style="padding:1em 0">
-      <div><sup>*</sup>Project coordinator</div>
-      <div><sup>#</sup>Primary investigator</div>
+          <p>
+          <sup>*</sup>Project coordinator, <sup>#</sup>Primary investigator
 
         <ol>
           <li>Center for Tropical &amp; Emerging Global Diseases, University of Georgia, Athens, GA 30602 USA</li>
