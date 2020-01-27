@@ -4,7 +4,7 @@ layout: null
 permalink: /ClinEpiDB/about
 ---
 
-<div id="about">
+<div id="ce-static-content">
   <h1>About ClinEpiDB</h1>
 
   <h2 id="what-is-it">What is it?</h2>
@@ -65,4 +65,5 @@ permalink: /ClinEpiDB/about
       <li>Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104 USA</li>
     </ol>
   </div>
+
 </div>
