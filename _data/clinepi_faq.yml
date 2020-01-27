@@ -38,7 +38,7 @@
   uid: g3
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "How do I submit data to ClinEpiDB?"
+  question: "How do I submit data?"
   answer: |
            To start, you should [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about 
            having your data loaded into ClinEpiDB. Tell us about the study objectives and design, 
@@ -50,10 +50,26 @@
   uid: g4
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "Can I access code used for ClinEpiDB?"
+  question: "How do I submit data?"
+  answer: |
+           1. We ask all users to agree to our [Data Access and Use Policy](DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'}
+           2. Direct identifiers such as names and GPS coordinates are removed for all studies. Dates are obfuscated, locations are generalized, and additional indirect identifiers are removed or obfuscated as needed on a case-by-case basis. For some studies, subject IDs are re-assigned to break the link to the institution’s copy of the data
+           3. Data access restrictions are implemented as needed (see [Data Access and Use Policy](DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'})
+  uid: g5
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: general
+  question: "How does ClinEpiDB protect human subject data?"
+  answer: |
+           Yes! If you intend to make data available, it’s important to include that in your consent
+           forms and your IRB proposal. Our [IRB data sharing guidance](IRB_data_sharing_guidance.pdf){:target='_blank'}
+           document contains a brief summary of what to consider when putting together an IRB proposal.
+  uid: g6
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: general
+  question: "Can I access the code used for ClinEpiDB?"
   answer: 
            Yes! Our code is maintained using [Git](https://github.com/VEuPathDB?utf8=%E2%9C%93&q=ClinEpi&type=&language=){:target='_blank'}, 
-           and we welcome input from the community. Check out our [Shiny app scripts](https://github.com/VEuPathDB/ClinEpiWebsite/tree/master/View/lib/R/shiny/apps){:target='_blank'}.
+           and we welcome input from the community. For instance, check out our [Shiny app scripts](https://github.com/VEuPathDB/ClinEpiWebsite/tree/master/View/lib/R/shiny/apps){:target='_blank'}.
   uid: g5
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: using_site
