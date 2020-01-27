@@ -126,51 +126,58 @@
   fileName: https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
   date: "Jan 22, 2020"
 - type: resource
+  title: "CDC Managing Data Workbook"
+  description: "Reviews best practices for data management and cleaning."
+  uid: r5
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.cdc.gov/globalhealth/healthprotection/fetp/training_modules/10/managing-data_pw_final_09252013.pdf
+  date: "Jan 22, 2020"
+- type: resource
   title: "Guidelines for Accurate and Transparent Health Estimates Reporting (GATHER)"
   description: "Promotes best practices by providing a checklist of items to include for studies reporting health estimates."
-  uid: r5
+  uid: r6
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: http://gather-statement.org/
   date: "Jan 22, 2020"
 - type: resource
   title: "Open Science Framework (OSF)"
   description: "Platform for research support and collaboration, it allows users to search for public datasets and papers and store their own protocols, data, code, and more."
-  uid: r6
+  uid: r7
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: https://osf.io
   date: "Jan 22, 2020"
 - type: resource
   title: "Disease Surveillance And Risk Monitoring (DiSARM) "
   description: "Develops algorithms and applications that turn raw data into easily visualized, actionable outputs to support disease control programs."
-  uid: r7
+  uid: r8
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: https://www.disarm.io/ 
   date: "Jan 22, 2020"
 - type: resource
   title: "GLEAMviz"
   description: "Downloadable epidemic simulation software that combines data on populations and human mobility with stochastic models of disease transmission."
-  uid: r8
+  uid: r9
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: http://www.gleamviz.org/
   date: "Jan 22, 2020"
 - type: resource
   title: "IHME Global Burden of Disease"
   description: "Provides interactive data visualization tools focused on global and local burden of disease projects based on data coallated from around the world."
-  uid: r9
+  uid: r10
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: http://www.healthdata.org/gbd
   date: "Jan 22, 2020"
 - type: resource
   title: "Malaria Atlas Project (MAP)"
   description: "Assembles data on malaria risk and intervention coverage from global sources and develops analysis tools."
-  uid: r10
+  uid: r11
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: https://malariaatlas.org/
   date: "Jan 22, 2020"
 - type: resource
   title: "R Epidemics CONsortium (RECON)"
   description: "Creates and supports R packages for handling, visualising, and analyzing outbreak data. Also provides tools for data cleaning, versioning, encryption, and system infrastructure."
-  uid: r11
+  uid: r12
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: http://www.repidemicsconsortium.org/
   date: "Jan 22, 2020"

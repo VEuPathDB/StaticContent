@@ -2,10 +2,12 @@
 - type: general
   question: "Introductory tour"
   answer: |
-           This [video](https://www.youtube.com/watch?v=535PcFrBH8M&list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh&index=2&t=0s){:target='_blank'} 
+           The video below [video](https://www.youtube.com/watch?v=535PcFrBH8M&list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh&index=2&t=0s){:target='_blank'} 
            provides a short overview of the major features of ClinEpiDB. You can also find 
            tutorials, workshop exercises, and additional resources on our 
            [Tutorials and Resources](/a/app/static-content/ClinEpiDB/resources.html){:target='_blank'} page.
+
+           <iframe style="margin-left:3em;margin-top:3em;" width="560" height="315" src="https://www.youtube.com/embed/535PcFrBH8M"></iframe>
   uid: g1
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
@@ -13,7 +15,7 @@
   answer: |
            If you want to cite ClinEpiDB directly, please use:
 
-           > Ruhamyankaka E, Brunk BP, Dorsey G *et al.* ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. [version 1; peer review: 1 approved]. *Gates Open Res* 2019, 3:1661 (<https://doi.org/10.12688/gatesopenres.13087.1>{:target='_blank'})
+           > Ruhamyankaka E, Brunk BP, Dorsey G *et al.* ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. [version 1; peer review: 2 approved]. *Gates Open Res* 2019, 3:1661 (<https://doi.org/10.12688/gatesopenres.13087.1>{:target='_blank'})
 
            When citing a dataset that you accessed via ClinEpiDB, please include the dataset authors, 
            study name, date of release and release number on ClinEpiDB, study page URL, and the fact that 
