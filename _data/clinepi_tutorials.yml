@@ -35,67 +35,67 @@
   fileName: General_2_get_help_or_submit_comment.pdf
   date: "Apr 26, 2019"
 - type: exercise
-  title: "MAL-ED Data Set page: the key to understanding the study methodologies"
-  description: "MAL-ED Data Set page: the key to understanding the study methodologies"
+  title: "GEMS exercise: Age distributions of females vs. males with diarrheal illness longer than 3 days"
+  description: "GEMS exercise: Age distributions of females vs. males with diarrheal illness longer than 3 days"
   uid: e1
-  projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: MALED_1_data_set_page.pdf
-  date: "Apr 26, 2019"
-- type: exercise
-  title: "Accessing and exploring MAL-ED data via the filters"
-  description: "Accessing and exploring MAL-ED data via the filters"
-  uid: e2
-  projects: "ClinEpiDB,,AllClinEpiDB"
-  fileName: MALED_2_explore_data.pdf
-  date: "Apr 26, 2019"
-- type: exercise
-  title: "Building a search of MAL-ED data with Related Observations and revising the search strategy"
-  description: "Building a search of MAL-ED data with Related Observations and revising the search strategy"
-  uid: e3
-  projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: MALED_3_related_observations.pdf
-  date: "Apr 26, 2019"
-- type: exercise
-  title: "PRISM exercise: house design and malaria incidence in children"
-  description: "PRISM exercise: house design and malaria incidence in children"
-  uid: e6
-  projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: PRISM_dwelling.pdf
-  date: "Apr 26, 2019"
-- type: exercise
-  title: "PRISM exercise: average age of first asymptomatic parasitemia"
-  description: "PRISM exercise: average age of first asymptomatic parasitemia"
-  uid: e7
-  projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: PRISM_asymptomaticAge.pdf
-  date: "Apr 26, 2019"
-- type: exercise
-  title: "India ICEMR longitudinal cohort exercise: poverty and the use of bednets"
-  description: "India ICEMR longitudinal cohort exercise: poverty and the use of bednets"
-  uid: e8
-  projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: India_longitudinal_bednet.pdf
-  date: "Apr 26, 2019"
-- type: exercise
-  title: "GEMS exercise: age distributions of females vs. males with diarrheal illness longer than 3 days"
-  description: "GEMS exercise: age distributions of females vs. males with diarrheal illness longer than 3 days"
-  uid: e9
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: GEMS_DiarrheaDuration.pdf
   date: "Apr 26, 2019"
 - type: exercise
-  title: "GEMS exercise: prevalence of wasting and stunting and relationship to various pathogens"
-  description: "GEMS exercise: prevalence of wasting and stunting and relationship to various pathogens"
-  uid: e10
+  title: "GEMS exercise: Prevalence of wasting and stunting and relationship to various pathogens"
+  description: "GEMS exercise: Prevalence of wasting and stunting and relationship to various pathogens"
+  uid: e2
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: GEMS_Anthropometry.pdf
   date: "Apr 26, 2019"
 - type: exercise
-  title: "GEMS exercise: relationship between Giardia or Cryptosporidium and moderate-to-severe diarrhea"
-  description: "GEMS exercise: relationship between Giardia or Cryptosporidium and moderate-to-severe diarrhea"
-  uid: e11
+  title: "GEMS exercise: Relationship between Giardia or Cryptosporidium and moderate-to-severe diarrhea"
+  description: "GEMS exercise: Relationship between Giardia or Cryptosporidium and moderate-to-severe diarrhea"
+  uid: e3
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: GEMS_GiardiaMatched.pdf
+  date: "Apr 26, 2019"
+- type: exercise
+  title: "India ICEMR cohort exercise: Poverty and the use of bednets"
+  description: "India ICEMR  cohort exercise: Poverty and the use of bednets"
+  uid: e4
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: India_longitudinal_bednet.pdf
+  date: "Apr 26, 2019"
+- type: exercise
+  title: "MAL-ED exercise: Using the Study Page to understand study methodologies"
+  description: "MAL-ED: the key to understanding the study methodologies"
+  uid: e5
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: MALED_1_data_set_page.pdf
+  date: "Apr 26, 2019"
+- type: exercise
+  title: "MAL-ED exercise: Accessing and exploring data via the filters"
+  description: "MAL-ED exercise: Accessing and exploring data via the filters"
+  uid: e6
+  projects: "ClinEpiDB,,AllClinEpiDB"
+  fileName: MALED_2_explore_data.pdf
+  date: "Apr 26, 2019"
+- type: exercise
+  title: "MAL-ED exercise: Building a search with Related Observations and revising the search strategy"
+  description: "MAL-ED exercise: Building a search with Related Observations and revising the search strategy"
+  uid: e7
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: MALED_3_related_observations.pdf
+  date: "Apr 26, 2019"
+- type: exercise
+  title: "PRISM exercise: House design and malaria incidence in children"
+  description: "PRISM exercise: House design and malaria incidence in children"
+  uid: e8
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: PRISM_dwelling.pdf
+  date: "Apr 26, 2019"
+- type: exercise
+  title: "PRISM exercise: Average age of first asymptomatic parasitemia"
+  description: "PRISM exercise: Average age of first asymptomatic parasitemia"
+  uid: e9
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: PRISM_asymptomaticAge.pdf
   date: "Apr 26, 2019"
 - type: resource
   title: "Data science specialization on Coursera"
