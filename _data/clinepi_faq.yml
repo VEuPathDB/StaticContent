@@ -50,7 +50,7 @@
   uid: g4
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "How do I submit data?"
+  question: "How does ClinEpiDB protect human subject data?"
   answer: |
            1. We ask all users to agree to our [Data Access and Use Policy](DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'}
            2. Direct identifiers such as names and GPS coordinates are removed for all studies. Dates are obfuscated, locations are generalized, and additional indirect identifiers are removed or obfuscated as needed on a case-by-case basis. For some studies, subject IDs are re-assigned to break the link to the institution’s copy of the data
@@ -58,7 +58,7 @@
   uid: g5
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "How does ClinEpiDB protect human subject data?"
+  question: "If I want to share data via ClinEpiDB, do I need to include data sharing in my IRB proposal?"
   answer: |
            Yes! If you intend to make data available, it’s important to include that in your consent
            forms and your IRB proposal. Our [IRB data sharing guidance](IRB_data_sharing_guidance.pdf){:target='_blank'}
