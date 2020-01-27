@@ -14,9 +14,23 @@
   fileName: ClinEpiDBDatasetGuidelinesforDataProviders.pdf
   date: "Oct 28, 2019"
 - type: tutorial
+  title: "Accessing ClinEpiDB data and exploring via the filters"
+  description: "This tutorial explains what types of data searches you can do and how to use the search filters and visualization tools built into the website."
+  uid: t3
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: ClinEpiDBTutorial1.pdf
+  date: "Mar 18, 2018"
+- type: tutorial
+  title: "Understanding the results table"
+  description: "Learn about the tools available to view your search results and how to download the data."
+  uid: t4
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: ClinEpiDBTutorial2ResultstableanddownloadsFINAL.pdf
+  date: "Apr 11, 2018"
+- type: tutorial
   title: "Getting help and submitting feedback"
   description: "Getting help and submitting feedback"
-  uid: t3
+  uid: t5
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: General_2_get_help_or_submit_comment.pdf
   date: "Apr 26, 2019"
@@ -41,20 +55,6 @@
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: MALED_3_related_observations.pdf
   date: "Apr 26, 2019"
-- type: exercise
-  title: "Accessing and exploring PRISM data via the filters"
-  description: "This tutorial explains what types of data searches you can do and how to use the search filters and visualization tools built into the website."
-  uid: e4
-  projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: ClinEpiDBTutorial1.pdf
-  date: "Mar 18, 2018"
-- type: exercise
-  title: "Viewing PRISM search results: tabular outputs, column visualization, and data download options"
-  description: "Learn about the tools available to view your search results and how to download the data."
-  uid: e5
-  projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: ClinEpiDBTutorial2ResultstableanddownloadsFINAL.pdf
-  date: "Apr 11, 2018"
 - type: exercise
   title: "PRISM exercise: house design and malaria incidence in children"
   description: "PRISM exercise: house design and malaria incidence in children"
