@@ -39,7 +39,7 @@ permalink: /ClinEpiDB/resources
 
 <div id="clinepi-resources">
   <details>
-    <summary>External Resources</summary>
+    <summary>External Resources 2</summary>
     <ul>
       {% for item in site.data.clinepi_tutorials %}
       {% if item.type == "resource" %}
@@ -51,7 +51,7 @@ permalink: /ClinEpiDB/resources
             <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
           </li>
           {% endif %}
-          {% endfor %}
+          {% unless forloop.last %}{% endunless %}{% endfor %}
       </details>
       <details>
         <summary>Data Management</summary>
@@ -61,7 +61,7 @@ permalink: /ClinEpiDB/resources
             <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
           </li>
           {% endif %}
-          {% endfor %}
+          {% unless forloop.last %}{% endunless %}{% endfor %}
       </details>
       <details>
         <summary>Data Visualization, Analysis, Modeling, and Simulations</summary>
@@ -71,7 +71,7 @@ permalink: /ClinEpiDB/resources
             <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
           </li>
           {% endif %}
-          {% endfor %}
+          {% unless forloop.last %}{% endunless %}{% endfor %}
       </details>
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
