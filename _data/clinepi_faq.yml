@@ -52,7 +52,7 @@
 - type: general
   question: "How does ClinEpiDB protect human subject data?"
   answer: |
-           1. We ask all users to agree to our <a href="/a/app/search/dataset/DataAccessUsePolicyClinEpiDB.latest.pdf">Data Access and Use Policy</a>
+           1. We ask all users to agree to our <a href="/a/documents/DataAccessUsePolicyClinEpiDB.latest.pdf">Data Access and Use Policy</a>
            2. Direct identifiers such as names and GPS coordinates are removed for all studies. Dates are obfuscated, locations are generalized, and additional indirect identifiers are removed or obfuscated as needed on a case-by-case basis. For some studies, subject IDs are re-assigned to break the link to the institution’s copy of the data
            3. Data access restrictions are implemented as needed (see [Data Access and Use Policy](/a/app/search/dataset/DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'})
   uid: g5
