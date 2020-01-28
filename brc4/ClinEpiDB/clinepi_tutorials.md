@@ -45,12 +45,15 @@ permalink: /ClinEpiDB/resources
       {% if item.type == "resource" %}
       <details>
         <summary>Education and Training</summary>
-         {% if item.subtype == "education" %}
+        {% for subitem in site.data.clinepi_tutorials %}
+         {% if subitem.subtype == "education" %}
           <li id="{{ item.uid }}">
             <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
           </li>
+          {% endif %}
+          {% endfor %}
       </details>
-      <details>
+<!--      <details>
         <summary>Data Management</summary>
         {% elseif item.subtype == "management" %}
           <li id="{{ item.uid }}">
@@ -63,7 +66,7 @@ permalink: /ClinEpiDB/resources
           <li id="{{ item.uid }}">
             <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
           </li>
-      </details>
+      </details> -->
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
       {% endif %}
