@@ -61,7 +61,7 @@
   question: "If I want to share data via ClinEpiDB, do I need to include data sharing in my IRB proposal?"
   answer: |
            Yes! If you intend to make data available, it’s important to include that in your consent
-           forms and your IRB proposal. Our [IRB data sharing guidance](/documents/IRB_data_sharing_guidance.pdf){:target='_blank'}
+           forms and your IRB proposal. Our [IRB data sharing guidance](/documents/IRBDataSharingGuidance.pdf){:target='_blank'}
            document contains a brief summary of what to consider when putting together an IRB proposal.
   uid: g6
   projects: "ClinEpiDB,AllClinEpiDB"

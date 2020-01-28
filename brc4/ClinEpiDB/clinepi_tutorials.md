@@ -43,30 +43,30 @@ permalink: /ClinEpiDB/resources
     <ul>
       {% for item in site.data.clinepi_tutorials %}
       {% if item.type == "resource" %}
+      <details>
+        <summary>Education and Training</summary>
         {% if item.subtype == "education" %}
-        <details>
-          <summary>Education and Training</summary>
-            <li id="{{ item.uid }}">
-              <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
-            </li>
-        </details>
+          <li id="{{ item.uid }}">
+            <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
+          </li>
         {% endif %}
+      </details>
+      <details>
+        <summary>Data Management</summary>
         {% if item.subtype == "management" %}
-        <details>
-          <summary>Data Management</summary>
-            <li id="{{ item.uid }}">
-              <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
-            </li>
-        </details>
+          <li id="{{ item.uid }}">
+            <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
+          </li>
         {% endif %}
+      </details>
+      <details>
+        <summary>Data Visualization, Analysis, Modeling, and Simulations</summary>
         {% if item.subtype == "visualization" %}
-        <details>
-          <summary>Data Visualization, Analysis, Modeling, and Simulations</summary>
-            <li id="{{ item.uid }}">
-              <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
-            </li>
-        </details>
+          <li id="{{ item.uid }}">
+            <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
+          </li>
         {% endif %}
+      </details>
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
     </ul>
