@@ -44,7 +44,7 @@ permalink: /ClinEpiDB/resources
       {% for item in site.data.clinepi_tutorials %}
       {% if item.type == "resource" %}
       <details>
-        <summary>Education  Training</summary>
+        <summary>Education and Training</summary>
         {% for subitem in site.data.clinepi_tutorials %}
          {% if subitem.subtype == "education" %}
           <li id="{{ item.uid }}">
@@ -74,7 +74,7 @@ permalink: /ClinEpiDB/resources
           {% endfor %}
       </details>
       {% endif %}
-      {% endfor %}
+      {% unless forloop.last %}{% endunless %}{% endfor %}
     </ul>
   </details>
 </div>
