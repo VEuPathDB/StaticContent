@@ -3,13 +3,13 @@ layout: null
 permalink: /ClinEpiDB/news
 ---
 <div id="ce-static-content"> 
-<h1>ClinEpiDB News</h1>
+<h1 id="news">ClinEpiDB News</h1>
 {% for post in site.posts %}
 {% if post.categories contains "ClinEpiDB" %}   
 <a name = "{{post.tag}}"></a>
 <h2>{{ post.title }}</h2> 
-<i>{{ post.date }}</i>
-<br>
+(<i>{{ post.date }}</i>)
+<br><br>
 {{ post.content  }}
 <hr>
 {% endif %}
