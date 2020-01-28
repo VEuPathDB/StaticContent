@@ -68,9 +68,7 @@ permalink: /ClinEpiDB/resources
           </li>
       </details> -->
       {% endif %}
-      {% unless forloop.last %}{% endunless %}{% endfor %}
-      {% endif %}
-      {% unless forloop.last %}{% endunless %}{% endfor %}
+      {% endfor %}
     </ul>
   </details>
 </div>
