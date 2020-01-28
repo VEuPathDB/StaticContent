@@ -14,7 +14,7 @@ permalink: /ClinEpiDB/resources
       {% for item in site.data.clinepi_tutorials %}
       {% if item.type == "tutorial" %}
       <li id="{{ item.uid }}">
-        <a target="_blank" href="https://eupathdb.org/tutorials/{{ item.fileName }}" title="{{ item.date  }} - {{ item.description  }}">
+        <a target="_blank" href="/documents/tutorials/{{ item.fileName }}" title="{{ item.date  }} - {{ item.description  }}">
           <i class="fa fa-file-pdf-o"></i>{{ item.title }}</a></li>
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
@@ -29,7 +29,7 @@ permalink: /ClinEpiDB/resources
       {% for item in site.data.clinepi_tutorials %}
       {% if item.type == "exercise" %}
       <li id="{{ item.uid }}">
-        <a target="_blank" href="https://eupathdb.org/tutorials/{{ item.fileName }}" title="{{ item.date  }} - {{ item.description  }}">
+        <a target="_blank" href="/documents/workshop_exercises/{{ item.fileName }}" title="{{ item.date  }} - {{ item.description  }}">
           <i class="fa fa-file-pdf-o"></i>{{ item.title }}</a></li>
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
