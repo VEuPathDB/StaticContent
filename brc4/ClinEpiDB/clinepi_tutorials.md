@@ -39,30 +39,27 @@ permalink: /ClinEpiDB/resources
 
 <div id="clinepi-resources">
   <details>
-    <summary>External Resources 2</summary>
+    <summary>External Resources 3</summary>
     <ul>
       {% for item in site.data.clinepi_tutorials %}
       {% if item.type == "resource" %}
       {% for subitem in site.data.clinepi_tutorials %}
-         {% if subitem.subtype == "education" %}
+      {% if subitem.subtype == "education" %}
       <details>
         <summary>Education and Training</summary>
           <li id="{{ item.uid }}">
             <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
           </li>
-      {% endif %}
-     {% unless forloop.last %}{% endunless %}{% endfor %}
       </details>
-    {% for subitem in site.data.clinepi_tutorials %}
-    {% if subitem.subtype == "management" %}
+      {% elseif subitem.subtype == "management" %}
       <details>
         <summary>Data Management</summary>
           <li id="{{ item.uid }}">
             <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
           </li>
-          {% endif %}
-          {% unless forloop.last %}{% endunless %}{% endfor %}
       </details>
+      {% endif %}
+      {% unless forloop.last %}{% endunless %}{% endfor %}
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
     </ul>
