@@ -43,30 +43,20 @@ permalink: /ClinEpiDB/resources
     <ul>
       {% for item in site.data.clinepi_tutorials %}
       {% if item.type == "resource" %}
+      {% for subitem in site.data.clinepi_tutorials %}
+         {% if subitem.subtype == "education" %}
       <details>
         <summary>Education and Training</summary>
-        {% for subitem in site.data.clinepi_tutorials %}
-         {% if subitem.subtype == "education" %}
           <li id="{{ item.uid }}">
             <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
           </li>
-          {% endif %}
-          {% unless forloop.last %}{% endunless %}{% endfor %}
+      {% endif %}
+     {% unless forloop.last %}{% endunless %}{% endfor %}
       </details>
+    {% for subitem in site.data.clinepi_tutorials %}
+    {% if subitem.subtype == "management" %}
       <details>
         <summary>Data Management</summary>
-        {% for subitem in site.data.clinepi_tutorials %}
-        {% if subitem.subtype == "management" %}
-          <li id="{{ item.uid }}">
-            <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
-          </li>
-          {% endif %}
-          {% unless forloop.last %}{% endunless %}{% endfor %}
-      </details>
-      <details>
-        <summary>Data Visualization, Analysis, Modeling, and Simulations</summary>
-        {% for subitem in site.data.clinepi_tutorials %}
-        {% if subitem.subtype == "visualization" %}
           <li id="{{ item.uid }}">
             <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
           </li>
