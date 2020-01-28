@@ -39,11 +39,10 @@ permalink: /ClinEpiDB/resources
 
 <div id="clinepi-resources">
   <details>
-    <summary>External Resources 3</summary>
+    <summary>External Resources 4</summary>
     <ul>
       {% for item in site.data.clinepi_tutorials %}
       {% if item.type == "resource" %}
-      {% for subitem in site.data.clinepi_tutorials %}
       {% if subitem.subtype == "education" %}
       <details>
         <summary>Education and Training</summary>
@@ -59,7 +58,6 @@ permalink: /ClinEpiDB/resources
           </li>
       </details>
       {% endif %}
-      {% unless forloop.last %}{% endunless %}{% endfor %}
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
     </ul>
