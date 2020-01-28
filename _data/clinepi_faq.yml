@@ -43,7 +43,7 @@
            To start, you should [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about 
            having your data loaded into ClinEpiDB. Tell us about the study objectives and design, 
            the size of the dataset, types of variables, and your funding source. Then, check out our 
-           [Data Submission Guidelines](ClinEpiDBDatasetGuidelinesforDataProviders.pdf){:target='_blank'} 
+           [Data Submission Guidelines](/a/app/search/dataset/ClinEpiDBDatasetGuidelinesforDataProviders.pdf){:target='_blank'} 
            to learn more about how to prepare your data for us and what additional files we need. 
            If we are able to integrate your data, we'll give you access to a secure Box folder where 
            you can upload your data and accompanying files. 
@@ -52,16 +52,16 @@
 - type: general
   question: "How does ClinEpiDB protect human subject data?"
   answer: |
-           1. We ask all users to agree to our [Data Access and Use Policy](DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'}
+           1. We ask all users to agree to our [Data Access and Use Policy](/a/app/search/dataset/DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'}
            2. Direct identifiers such as names and GPS coordinates are removed for all studies. Dates are obfuscated, locations are generalized, and additional indirect identifiers are removed or obfuscated as needed on a case-by-case basis. For some studies, subject IDs are re-assigned to break the link to the institution’s copy of the data
-           3. Data access restrictions are implemented as needed (see [Data Access and Use Policy](DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'})
+           3. Data access restrictions are implemented as needed (see [Data Access and Use Policy](/a/app/search/dataset/DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'})
   uid: g5
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
   question: "If I want to share data via ClinEpiDB, do I need to include data sharing in my IRB proposal?"
   answer: |
            Yes! If you intend to make data available, it’s important to include that in your consent
-           forms and your IRB proposal. Our [IRB data sharing guidance](IRB_data_sharing_guidance.pdf){:target='_blank'}
+           forms and your IRB proposal. Our [IRB data sharing guidance](/a/app/search/dataset/IRB_data_sharing_guidance.pdf){:target='_blank'}
            document contains a brief summary of what to consider when putting together an IRB proposal.
   uid: g6
   projects: "ClinEpiDB,AllClinEpiDB"
