@@ -44,7 +44,7 @@ permalink: /ClinEpiDB/resources
       {% for item in site.data.clinepi_tutorials %}
       {% if item.type == "resource" %}
       <details>
-        <summary>Education and Training</summary>
+        <summary>Education  Training</summary>
         {% for subitem in site.data.clinepi_tutorials %}
          {% if subitem.subtype == "education" %}
           <li id="{{ item.uid }}">
