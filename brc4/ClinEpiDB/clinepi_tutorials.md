@@ -53,20 +53,26 @@ permalink: /ClinEpiDB/resources
           {% endif %}
           {% endfor %}
       </details>
-<!--      <details>
+      <details>
         <summary>Data Management</summary>
-        {% elseif item.subtype == "management" %}
+        {% for subitem in site.data.clinepi_tutorials %}
+        {% if subitem.subtype == "management" %}
           <li id="{{ item.uid }}">
             <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
           </li>
+          {% endif %}
+          {% endfor %}
       </details>
       <details>
         <summary>Data Visualization, Analysis, Modeling, and Simulations</summary>
-        {% elseif item.subtype == "visualization" %}
+        {% for subitem in site.data.clinepi_tutorials %}
+        {% if subitem.subtype == "visualization" %}
           <li id="{{ item.uid }}">
             <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
           </li>
-      </details> -->
+          {% endif %}
+          {% endfor %}
+      </details>
       {% endif %}
       {% endfor %}
     </ul>
