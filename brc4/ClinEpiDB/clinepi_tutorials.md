@@ -39,37 +39,45 @@ permalink: /ClinEpiDB/resources
 
 <div id="clinepi-resources">
   <details>
-    <summary>External Resources 4</summary>
-    <ul>
-      {% for item in site.data.clinepi_tutorials %}
-      {% if item.type == "resource" %}
+    <summary>External Resources</summary>
       <details>
         <summary>Education and Training</summary>
-        {% if item.subtype == "education" %}
+        <ul>
+        {% for item in site.data.clinepi_tutorials %}
+        {% if item.type == "resource" and  item.subtype == "education" %}
           <li id="{{ item.uid }}">
             <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
           </li>
         {% endif %}
+        {% unless forloop.last %}{% endunless %}{% endfor %}
+        </ul>
       </details>
+
       <details>
         <summary>Data Management</summary>
-        {% if item.subtype == "management" %}
+        <ul>
+        {% for item in site.data.clinepi_tutorials %}
+        {% if item.type == "resource" and  item.subtype == "management" %}
           <li id="{{ item.uid }}">
             <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
           </li>
         {% endif %}
+        {% unless forloop.last %}{% endunless %}{% endfor %}
+        </ul>
       </details>
+
       <details>
         <summary>Data Visualization, Analysis, Modeling, and Simulations</summary>
-        {% if item.subtype == "visualization" %}
+        <ul>
+        {% for item in site.data.clinepi_tutorials %}
+        {% if item.type == "resource" and  item.subtype == "visualization" %}
           <li id="{{ item.uid }}">
             <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
           </li>
         {% endif %}
+        {% unless forloop.last %}{% endunless %}{% endfor %}
+        </ul>
       </details>
-      {% endif %}
-      {% unless forloop.last %}{% endunless %}{% endfor %}
-    </ul>
   </details>
 </div>
 
