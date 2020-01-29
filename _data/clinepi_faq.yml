@@ -5,7 +5,6 @@
            The video below provides a short overview of the major features of ClinEpiDB. You can 
            also find tutorials, workshop exercises, and additional resources on our 
            [Tutorials and Resources](/a/app/static-content/ClinEpiDB/resources.html){:target='_blank'} page.
-
            <iframe style="margin-left:3em;margin-top:3em;" width="560" height="315" src="https://www.youtube.com/embed/535PcFrBH8M"></iframe>
   uid: g1
   projects: "ClinEpiDB,AllClinEpiDB"
@@ -75,10 +74,10 @@
 - type: using_site
   question: "Create an account"
   answer: |
-           1. Hover over the icon labeled 'Guest' in the top right-hand corner, then click 'Register'. 
-           2. Fill out the registration form then click the ‘Register’ button. 
-           3. A green text box should appear, indicating successful registration. 
-           4. Check your email to retrieve your temporary password.
+           1. Hover over the icon labeled 'Guest' in the top right-hand corner, then click 'Register'
+           2. Fill out the registration form then click the ‘Register’ button
+           3. A green text box should appear, indicating successful registration
+           4. Check your email to retrieve your temporary password
 
            Note: You only need one account for all VEuPathDB websites. This means that if you have 
            an account for other VEuPathDB resources such as PlasmoDB or MicrobiomeDB, you can log 
@@ -88,12 +87,22 @@
 - type: using_site
   question: "Change your password"
   answer: |
-           1. Log in to your account. 
+           1. Log in to your account
            2. To access your account page, hover over the icon with your name beneath it in the top 
-           right-hand corner, then click your name in the window that appears. 
-           3. At the bottom of the 'My Account' page, click the blue 'Change your password' link. 
-           4. Complete the form and click 'Submit'. 
+           right-hand corner, then click your name in the window that appears
+           3. At the bottom of the 'My Account' page, click the blue 'Change your password' link
+           4. Complete the form and click 'Submit'
            5. If you have successfully changed your password, green text will appear confirming the 
-           password change.
+           password change
   uid: u2
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: using_site
+  question: "Find a variable within a study"
+  answer: |
+           1. Start a search for your study of interest 
+           2. Type into the search box at the top of the page. A drop down will apear listing 
+           all variables that include your keyword in the label, description, or values
+           3. Click a variable to jump directly to its data
+           <iframe style="margin-left:3em;margin-top:3em;" width="560" height="315" src="https://www.youtube.com/embed/nU0cWYyf62E"></iframe>
+  uid: u3
   projects: "ClinEpiDB,AllClinEpiDB"
