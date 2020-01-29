@@ -55,7 +55,7 @@ listIconKey: code-fork fa-rotate-270
       <img style="width: 20em" src="{{ "/assets/images/features_tools/SignalPeptide.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
     <div>
-      <div>Build up a powerful  search strategy to find exactly the results you need</div>
+      <div>Add searches one at a time to create a strategy and find exactly the type of genes you need such as Signal peptide containing genes that are expressed in merozoites.</div>
       <img style="width: 30em" src="{{ "/assets/images/features_tools/strategy_panel_2.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
   </div>
