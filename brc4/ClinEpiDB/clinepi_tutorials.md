@@ -9,7 +9,7 @@ permalink: /ClinEpiDB/resources
 
 <div id="clinepi-tutorials">
   <details>
-    <summary>Tutorials</summary>
+    <summary class="h2">Tutorials</summary>
     <ul>
       {% for item in site.data.clinepi_tutorials %}
       {% if item.type == "tutorial" %}
@@ -24,7 +24,7 @@ permalink: /ClinEpiDB/resources
 
 <div id="clinepi-exercises">
   <details>
-    <summary>Workshop Exercises</summary>
+    <summary class="h2">Workshop Exercises</summary>
     <ul>
       {% for item in site.data.clinepi_tutorials %}
       {% if item.type == "exercise" %}
@@ -39,9 +39,9 @@ permalink: /ClinEpiDB/resources
 
 <div id="clinepi-resources">
   <details>
-    <summary>External Resources</summary>
+    <summary class="h2">External Resources</summary>
       <details>
-        <summary>Education and Training</summary>
+        <summary class="h3">Education and Training</summary>
         <ul>
         {% for item in site.data.clinepi_tutorials %}
         {% if item.type == "resource" and  item.subtype == "education" %}
@@ -54,7 +54,7 @@ permalink: /ClinEpiDB/resources
       </details>
 
       <details>
-        <summary>Data Management</summary>
+        <summary class="h3">Data Management</summary>
         <ul>
         {% for item in site.data.clinepi_tutorials %}
         {% if item.type == "resource" and  item.subtype == "management" %}
@@ -67,7 +67,7 @@ permalink: /ClinEpiDB/resources
       </details>
 
       <details>
-        <summary>Data Visualization, Analysis, Modeling, and Simulations</summary>
+        <summary class="h3">Data Visualization, Analysis, Modeling, and Simulations</summary>
         <ul>
         {% for item in site.data.clinepi_tutorials %}
         {% if item.type == "resource" and  item.subtype == "visualization" %}
