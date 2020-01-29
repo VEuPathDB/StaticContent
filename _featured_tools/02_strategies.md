@@ -48,11 +48,11 @@ listIconKey: code-fork fa-rotate-270
   <div class="search-strategies-feature--panels">
     <div>
       <div>We analyze the data.</div>
-      <img style="width: 8em; margin-top: .5em;" src="{{ "/assets/images/features_tools/SearchFor.png" | absolute_url }}" alt="Searches"/>
+      <img style="width: 8em; margin-top: .5em;" src="{{ "/assets/images/features_tools/We-analyze.png" | absolute_url }}" alt="Searches"/>
     </div>
     <div>
-      <div>On the search results page, click <em>Extend your search strategy</em> to add another step.</div>
-      <img style="width: 30em" src="{{ "/assets/images/features_tools/strategy_panel_1.png" | absolute_url }}" alt="Strategy panel"/>
+      <div>You search our analysis results from ourpoint and click interface.  Choose from >100 searches that query ~20 data types and ~1000 data sets</div>
+      <img style="width: 30em" src="{{ "/assets/images/features_tools/SearchFor.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
     <div>
       <div>Build up a powerful  search strategy to find exactly the results you need</div>
