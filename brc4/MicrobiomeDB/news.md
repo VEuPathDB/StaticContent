@@ -1,9 +1,9 @@
 ---
 layout: null
-permalink: /VectorBase/news
+permalink: /MicrobiomeDB/news
 --- 
 {% for post in site.posts %}
-{% if post.categories contains "VectorBase" %}   
+{% if post.categories contains "MicrobiomeDB" %}   
 <h1>{{ post.title }}</h1> 
 <h3>{{ post.date }}</h3>
 <div>
