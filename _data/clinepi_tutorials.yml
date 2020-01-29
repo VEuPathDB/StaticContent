@@ -179,3 +179,27 @@
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: http://www.repidemicsconsortium.org/
   date: "Jan 22, 2020"
+- type: resource
+  subtype: visualization
+  title: "Gapminder"
+  description: "Visualizations of global health, socioeconomic and other data indicators. Contains links to all source data."
+  uid: r12
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.gapminder.org/tools/#$chart-type=bubbles
+  date: "Jan 29, 2020"
+- type: resource
+  subtype: visualization
+  title: "PathogenWatch"
+  description: "Platform for genomic surveillance of microbial pathogens"
+  uid: r12
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://pathogen.watch/
+  date: "Jan 29, 2020"
+- type: resource
+  subtype: visualization
+  title: "NextStrain"
+  description: "Publicly available data alongside analytic and visualization tools for use by the community. Goal to aid epidemiological understanding and improve outbreak response."
+  uid: r12
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://nextstrain.org/
+  date: "Jan 29, 2020"
