@@ -44,11 +44,11 @@ listIconKey: code-fork fa-rotate-270
   }
 </style>
 <div class="search-strategies-feature">
-  <p>Search Strategies are a central feature of PlasmoDB.  Use them to precisely mine PlasmoDB data.</p>
+  <p>Discover meaningful biological relationships from large volumes of data with VEuPathDB's unique and powerful <b>Search Strategies</b> - a tool for mining Omics data without programming experience. </p>
   <div class="search-strategies-feature--panels">
     <div>
       <div>We analyze the data.</div>
-      <img style="width: 8em; margin-top: .5em;" src="{{ "/assets/images/features_tools/searches.png" | absolute_url }}" alt="Searches"/>
+      <img style="width: 8em; margin-top: .5em;" src="{{ "/assets/images/features_tools/SearchFor.png" | absolute_url }}" alt="Searches"/>
     </div>
     <div>
       <div>On the search results page, click <em>Extend your search strategy</em> to add another step.</div>
