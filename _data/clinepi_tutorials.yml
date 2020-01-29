@@ -203,3 +203,27 @@
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: https://nextstrain.org/
   date: "Jan 29, 2020"
+- type: resource
+  subtype: management
+  title: "EpiCollect"
+  description: "Mobile & web application for free and straightforward data collection."
+  uid: r16
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://five.epicollect.net/
+  date: "Jan 29, 2020"
+- type: resource
+  subtype: education
+  title: "Public Health Alliance for Genomic Epidemiology"
+  description: "Newly established global coalition working to establish consensus standards; document and share best practices; improve the availability of critical bioinformatic tools and resources; and advocate for greater openness, interoperability, accessibility and reproducibility in public health microbial bioinformatics."
+  uid: r17
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://pha4ge.github.io/
+  date: "Jan 29, 2020"
+- type: resource
+  subtype: visualization
+  title: "HealthMap"
+  description: "Online source for disease outbreak monitoring and real-time surveillance of emerging public health threats. For a diverse audience including libraries, local health departments, governments, and international travelers, data collected from publicly accessible sources. "
+  uid: r18
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.healthmap.org/en/
+  date: "Jan 29, 2020"
