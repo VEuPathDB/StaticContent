@@ -47,7 +47,7 @@ listIconKey: code-fork fa-rotate-270
   <p>Search Strategies are a central feature of PlasmoDB.  Use them to precisely mine PlasmoDB data.</p>
   <div class="search-strategies-feature--panels">
     <div>
-      <div>Start by running a search from the Searches menu</div>
+      <div>We analyze the data.</div>
       <img style="width: 8em; margin-top: .5em;" src="{{ "/assets/images/features_tools/searches.png" | absolute_url }}" alt="Searches"/>
     </div>
     <div>
