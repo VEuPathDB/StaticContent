@@ -39,7 +39,7 @@ permalink: /ClinEpiDB/resources
 
 <div id="clinepi-resources">
   <details>
-    <summary class="h2">External Resources</summary>
+    <summary class="h2">External Global Health Data Resources</summary>
       <details>
         <summary class="h3">Education and Training</summary>
         <ul>
