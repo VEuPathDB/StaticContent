@@ -14,7 +14,7 @@ permalink: /ClinEpiDB/resources
       {% for item in site.data.clinepi_tutorials %}
       {% if item.type == "tutorial" %}
       <li id="{{ item.uid }}">
-        <a target="_blank" href="https://eupathdb.org/tutorials/{{ item.fileName }}" title="{{ item.date  }} - {{ item.description  }}">
+        <a target="_blank" href="/documents/tutorials/{{ item.fileName }}" title="{{ item.date  }} - {{ item.description  }}">
           <i class="fa fa-file-pdf-o"></i>{{ item.title }}</a></li>
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
@@ -29,7 +29,7 @@ permalink: /ClinEpiDB/resources
       {% for item in site.data.clinepi_tutorials %}
       {% if item.type == "exercise" %}
       <li id="{{ item.uid }}">
-        <a target="_blank" href="https://eupathdb.org/tutorials/{{ item.fileName }}" title="{{ item.date  }} - {{ item.description  }}">
+        <a target="_blank" href="/documents/workshop_exercises/{{ item.fileName }}" title="{{ item.date  }} - {{ item.description  }}">
           <i class="fa fa-file-pdf-o"></i>{{ item.title }}</a></li>
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
@@ -39,13 +39,34 @@ permalink: /ClinEpiDB/resources
 
 <div id="clinepi-resources">
   <details>
-    <summary>External Resources</summary>
+    <summary>External Resources 4</summary>
     <ul>
       {% for item in site.data.clinepi_tutorials %}
       {% if item.type == "resource" %}
-      <li id="{{ item.uid }}">
-        <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
-      </li>
+      <details>
+        <summary>Education and Training</summary>
+        {% if item.subtype == "education" %}
+          <li id="{{ item.uid }}">
+            <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
+          </li>
+        {% endif %}
+      </details>
+      <details>
+        <summary>Data Management</summary>
+        {% if item.subtype == "management" %}
+          <li id="{{ item.uid }}">
+            <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
+          </li>
+        {% endif %}
+      </details>
+      <details>
+        <summary>Data Visualization, Analysis, Modeling, and Simulations</summary>
+        {% if item.subtype == "visualization" %}
+          <li id="{{ item.uid }}">
+            <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
+          </li>
+        {% endif %}
+      </details>
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
     </ul>
