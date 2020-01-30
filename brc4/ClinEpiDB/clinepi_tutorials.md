@@ -40,7 +40,7 @@ permalink: /ClinEpiDB/resources
 <div id="clinepi-resources">
   <details>
     <summary class="h2">External Global Health Data Resources</summary>
-      <details>
+      <details class="h3">
         <summary class="h3">Education and Training</summary>
         <ul>
         {% for item in site.data.clinepi_tutorials %}
@@ -53,7 +53,7 @@ permalink: /ClinEpiDB/resources
         </ul>
       </details>
 
-      <details>
+      <details class="h3">
         <summary class="h3">Data Management</summary>
         <ul>
         {% for item in site.data.clinepi_tutorials %}
@@ -66,7 +66,7 @@ permalink: /ClinEpiDB/resources
         </ul>
       </details>
 
-      <details>
+      <details class="h3">
         <summary class="h3">Data Visualization, Analysis, Modeling, and Simulations</summary>
         <ul>
         {% for item in site.data.clinepi_tutorials %}
