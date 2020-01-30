@@ -4,7 +4,8 @@ listIconKey: "list-ul"
 listTitle: "Transcriptomic Resources"
 descriptionTitle: "Transcriptomic Resources"
 ---
-<p class="card-text"><b>VEuPathDB supports research in transcriptomics.</b> You can:</p>
+<p class="card-text">VEuPathDB supports transcriptomic data mining from RNA sequence, microarray, and expressed seqeunce tags.</p>
+<img style="width: 20em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/features_tools/Transcription.png" | absolute_url }}" alt="Searches"/>
 <ul class="card-text">
   <li>
     <b>View all</b> <a href="#">RNA Seq and Transcriptomics datasets</a> in VEuPathDB.
