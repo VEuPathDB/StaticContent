@@ -6,35 +6,16 @@ descriptionTitle: "Transcriptomic Resources"
 ---
 <p class="card-text">VEuPathDB supports transcriptomic data mining from RNA sequence, microarray, and expressed seqeunce tags.</p>
 <img style="width: 20em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/features_tools/Transcription.png" | absolute_url }}" alt="Searches"/>
+
+<p class="card-text">We analyze pertinent data and make our analysis results available to you as:</p>
 <ul class="card-text">
   <li>
-    <b>View all</b> <a href="#">RNA Seq and Transcriptomics datasets</a> in VEuPathDB.
+    Tables and graphs on gene pages (add an image and link to gene page)
   </li>
   <li>
-    <b>Search for genes</b> 
-    <ul>
-      <li>
-        by their <a href="#">RNA-Seq</a>, <a href="#">Microarray</a>, and <a href="#">EST</a> expression profiles. 
-      </li>
-      <li>
-         <a href="#">with a Similar Expression Profile</a> to your gene of interest
-      </li>
-    </ul>
-    Apply GO term enrichment or metabolic pathway analyses to your result. Or download expression profiles from multiple experiments for the genes in the result.
+    Dynamic track in a genome browser (add an image and link to JBrowse track)
   </li>
   <li>
-    <b>View integrated transcriptomic data</b> on gene pages (ex. <a href="#">PF3D7_1133400</a>). See changes in RNA expression across different lifecycle stages or culture conditions.
-  </li>
-  <li>
-    <b>Add graphical or numeric transcript expression</b> columns to any gene result set.
-  </li>
-  <li>
-    <b>View transcriptomic data mapped</b> to the genome as <a href="#">genome browser tracks</a>, including <a href="#">predicted intron junctions</a>.
-  </li>
-  <li>
-    <b>Analyze your own RNA-Seq data</b> using the <a href="#">VEuPathDB Galaxy instance</a> and then bring your results back to VEuPathDB to use privately in your search strategies.
-  </li>
-  <li>
-    <b>Provide a gene set</b> and <a href="#">find transcriptomic experiments</a> that show similar regulation patterns.
+    Searches that query individual data sets and return lists of genes based on experimental parameters like life cycle stage, treatment or expression level. (add image)
   </li>
 </ul>
