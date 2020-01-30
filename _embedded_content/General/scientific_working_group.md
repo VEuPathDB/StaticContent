@@ -91,7 +91,7 @@ John Brestelli &lt;<a href="mailto:jbrestel@upenn.edu">jbrestel@upenn.edu</a>&gt
 Data Development Manager<br>
 Deborah Pinney &lt;<a href="mailto:pinney@upenn.edu">pinney@upenn.edu</a>&gt;
 Data Loading Manager<br>
-Bob Benlap &lt;<a href="mailto:robert.benlap@uga.edu">robert.benlap@uga.edu</a>&gt;
+Bob Belnap &lt;<a href="mailto:robert.belnap@uga.edu">robert.belnap@uga.edu</a>&gt;
 Systems and Databases Manager<br>
 Cristina Aurrecoechea &lt;<a href="mailto:aurreco@uga.edu">aurreco@uga.edu</a>&gt;
 User Interface and Portal Manager<br>
