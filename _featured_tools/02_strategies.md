@@ -59,7 +59,7 @@ listIconKey: code-fork fa-rotate-270
       <img style="width: 30em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/features_tools/strategy_panel_2.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
     <div>
-      <div>To delve deeper into Search Strategies, try our <a href="assets/images/features_tools/Strategies_Training_Module_2019.pdf">Strategies learning exercise</a>.  It takes about an hour to complete.  And please <a href="https://eupathdb.org/eupathdb/app/contact-us">Contact Us</a> with any questions or suggestions.</div>
+      <div>To delve deeper into Search Strategies, try our <a href="/assets/images/features_tools/Strategies_Training_Module_2019.pdf">Strategies learning exercise</a>.  It takes about an hour to complete.  And please <a href="https://eupathdb.org/eupathdb/app/contact-us">Contact Us</a> with any questions or suggestions.</div>
     </div>
   </div>
 </div>
