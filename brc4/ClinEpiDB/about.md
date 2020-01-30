@@ -31,7 +31,7 @@ permalink: /ClinEpiDB/about
      <!--    "{{ '/resources.html' | relative_url }}"    -->
      <!--   "/a/app/community/ClinEpiDB/resources.html"  -->
     <p>The video below provides a short overview of the major features of ClinEpiDB. See our written <a href="/a/app/community/ClinEpiDB/resources.html">Tutorials and Resources</a> and <a target="_blank" href="https://www.youtube.com/playlist?list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh">Video Tutorials</a> to learn more!</p>
-    <iframe style="margin-left:3em;margin-top:3em;" width="560" height="315" src="https://www.youtube.com/embed/535PcFrBH8M"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/535PcFrBH8M"></iframe>
   </div>
 
   <h2 id="who-is-behind-this-project">Who is behind this project?</h2>
