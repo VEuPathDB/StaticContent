@@ -30,7 +30,7 @@ permalink: /ClinEpiDB/about
   <div>
      <!--    "{{ '/resources.html' | relative_url }}"    -->
      <!--   "/a/app/community/ClinEpiDB/resources.html"  -->
-    <p>The video below provides a short overview of the major features of ClinEpiDB. Visit our written <a href="/a/app/community/ClinEpiDB/resources.html">Tutorials and Resources</a> page, check out our <a target="_blank" href="https://www.youtube.com/playlist?list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh">Video Tutorials</a>, or read our <a target="_blank" href="https://doi.org/10.12688/gatesopenres.13087.1">paper</a> to learn more!</p>
+    <p>The video below provides a short overview of the major features of ClinEpiDB. Visit our written <a href="/a/app/static-content/ClinEpiDB/resources.html">Tutorials and Resources</a> page, check out our <a target="_blank" href="https://www.youtube.com/playlist?list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh">Video Tutorials</a>, or read our <a target="_blank" href="https://doi.org/10.12688/gatesopenres.13087.1">paper</a> to learn more!</p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/535PcFrBH8M"></iframe>
   </div>
 
