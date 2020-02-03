@@ -9,7 +9,7 @@ permalink: PlasmoDB/news.json
                "attributes": {
                                "date":{{ post.date | truncate: 10, "" | jsonify }},
                                "item":{{ post.content | jsonify  }},
-                               "tag":{{ post.tag | jsonify }},
+                               "tag":{{ post.title | remove:' ' | jsonify }},
                                "category":"release",
                                "headline":{{ post.title | jsonify }}},
                        "id": {{ post.date | remove: " " | jsonify }}
