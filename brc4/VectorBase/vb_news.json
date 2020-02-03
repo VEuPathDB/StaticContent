@@ -3,13 +3,13 @@ layout: null
 title: vb_news_json
 permalink: VectorBase/news.json
 ---
-{% assign filtered_posts = site.posts | where: 'category','PlasmoDB' %}
+{% assign filtered_posts = site.posts | where: 'category','VectorBase' %}
 {"records": [{% for post in filtered_posts %}
            {
                "attributes": {
                                "date":{{ post.date | truncate: 10, "" | jsonify }},
                                "item":{{ post.content | jsonify  }},
-                               "tag":{{ post.tag | jsonify }},
+                               "tag":{{ post.title | remove:' ' | jsonify }},
                                "category":"release",
                                "headline":{{ post.title | jsonify }}},
                        "id": {{ post.date | remove: " " | jsonify }}
