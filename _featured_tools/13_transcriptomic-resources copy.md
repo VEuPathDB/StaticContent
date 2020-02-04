@@ -1,7 +1,7 @@
 ---
-identifier: "transcriptomic-resources"
+identifier: "transcriptomic-resources-old"
 listIconKey: "list-ul"
-listTitle: "Transcriptomic Resources"
+listTitle: "Transcriptomic Resources Old"
 descriptionTitle: "Transcriptomic Resources"
 ---
 <p class="card-text">VEuPathDB supports transcriptomic data mining from RNA sequence, microarray, and expressed seqeunce tags.</p>
