@@ -52,14 +52,14 @@ descriptionTitle: "Transcriptomic Resources"
 <div class="transcriptomic-resources-feature--panels">
   <div>
     <div>Tables, and graphs on gene pages or in search result columns </div>
-      <img style="width: 20em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/features_tools/Transcript-Table-Graph.png" | absolute_url }}" alt="Searches"/><br>
+      <img style="width: 25em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/features_tools/Transcript-Table-Graph.png" | absolute_url }}" alt="Searches"/><br>
   </div>
   <div>
     <div>Dynamic tracks in a genome browser such as read coverage plots or predicted intron junctions.</div>
-      <img style="width: 25em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/features_tools/Transcript-JBrowse.png" | absolute_url }}" alt="Searches"/><br>
+      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/features_tools/Transcript-JBrowse.png" | absolute_url }}" alt="Searches"/><br>
   </div>
   <div>
     <div>Searches that query individual data sets and return lists of genes based on experimental parameters like life cycle stage, treatment or expression level.</div>
-      <img style="width: 15em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/features_tools/Transcript-Search.png" | absolute_url }}" alt="Searches"/>
+      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/features_tools/Transcript-Search.png" | absolute_url }}" alt="Searches"/>
   </div>
 </div>
