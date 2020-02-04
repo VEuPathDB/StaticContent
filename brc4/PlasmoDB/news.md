@@ -10,7 +10,9 @@ permalink: /PlasmoDB/news
 <h2>{{ post.title }}</h2> 
 (<i>{{ post.date | date_to_string }}</i>)
 <br><br>
+<div>
 {{ post.content  }}
+</div>
 <hr>
 {% endif %}
 {% unless forloop.last %}{% endunless %}{% endfor %}
