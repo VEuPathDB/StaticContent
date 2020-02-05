@@ -1,0 +1,40 @@
+---
+layout: post
+title: ToxoDB 4.2 is released
+category: [ToxoDB]
+---
+
+ToxoDB 4.2 provides microarray expression data and mass-spec data, and queries against them. The Genome Browser has new tracks for the proteomics data, and cosmid and BAC ends. 
+<p>
+The ToxoDB 4.2 web site also has significant improvements to the query and results pages. Many of the queries have been reorganized. For example, the SNPs based on Gene ID query now allows an input of a list of genes, either put in by hand or uploaded from a file. The results from this and all other queries can be sorted on various columns. It is also now possible to add columns of interest (e.g., protein features, GO annotation, even expression characteristics for gene results) and sort on them.
+<p>
+New data and queries in ToxoDB 4.2:
+<ul>
+<li>Two expression experiments carried out on the Toxo Affymetrix array, namely:
+  <ul>
+  <li> Effects of Glucose Starvation in Toxoplasma gondii 
+  <li> Expression profiling of the 3 archetypal T. gondii lineages
+  </ul>
+ have been added to the ToxoDB Database, and queries are provided to find genes by differential expression and by percentile of expression.
+
+<li> Proteomics data provided by two labs (Wastling and Murray) have been loaded, and these are visible on the Genome Sequence Browser. Queries to find genes, or ORFs, that show evidence of protein expression based on Mass Spec analyses are also available.
+<li>BAC ends and cosmid ends sequences have been loaded, and can be viewed in the Genome Sequence Browser
+<li>A mapping of epitopes to <i>Toxoplasma</i> provided by the Immune Epitope Database and Analysis Resource (IEDB) <http://www.immuneepitope.org/home.do>. A query is now provided to identify genes whose encoding protein has an epitope at different levels of confidence.
+<li>Updated E.C. number and metabolic pathway assignments, Interpro protein domains and associated GO predictions, 
+<li>A new build of ortholog groups from Orthomcl for use in ToxoDB. The list of genomes represented has increased from 55 to 87  and includes all the organisms covered by the different NIH/NIAID funded Bioinformatics Resource Centers.
+<li>ToxoCyc, a database of computationally predicted metabolic pathways for <i>Toxplasma</i>, is available online and is cross-referenced on the gene pages of ToxoDB.
+</ul>
+<p>
+New features in ToxoDB 4.2:
+<ul>
+<li>Most of the queries have been reorganized to make them more intuitive. Some include a new "Advanced Parameters" section. See for example "Identify Genes based on EST evidence."
+<li>The columns displayed in query result pages are improved.  The result pages also offer options for sorting, adding new columns, and moving columns around.
+<li>Downloading results is improved. A choice of formats is provided including tab-delimited, text, GFF, and FASTA to meet different needs.
+  <ul>
+  <li>Tab delimited provides an expanded list of annotations that can be directly exported as an Excel spreadsheet.
+  <li>Text provides a detailed summary for each gene including SNPs, metabolic pathways, notes, sequence, and many other choices.
+  <li> GFF is a format recognized by many applications such as the genome browser, gbrowse.
+  <li> FASTA also provides a common format used for BLAST and other applications. The FASTA option provides the functionality of the SRT (sequence retrieval tool).
+  </ul>
+<li> As per request, we have provided for Blast against GT1, VEG and RH (Chr Ia, Ib) genome sequences, in addition to the reference ME49 genome.
+</ul>

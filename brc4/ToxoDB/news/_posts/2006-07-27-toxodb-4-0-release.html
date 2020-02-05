@@ -1,0 +1,25 @@
+---
+layout: post
+title: ToxoDB 4.0 release
+category: [ToxoDB]
+---
+
+We are pleased to announce Version 4.0 of the Toxoplasma Genome Database. 
+
+<p>ToxoDB provides access to the genome sequence and annotation of the apicomplexan parasite <i>T. gondii</i> &nbsp; (ME49 strain). We have also incorporated into this release the genomic sequence of <i>T. gondii</i> GT1 strain, provided by The Institute for Genome Research (TIGR). 
+<!--As a result, we have focused on providing access to ... through the ToxoDB 4.0 site but have not completely reproduced all the functions in ToxoDB 3.0. Therefore we have kept the ToxoDB 3.0 site fully active for continued use. -->
+<p>
+ToxoDB 4.0 includes:
+<ul>
+<li>A new interactive genome browser, based on the GBrowse module of the GMOD project, providing rapid visualization of the parasite genome and gene models, custom restriction site identification, open reading frame identification, and downloads in various formats.
+<li>The genome sequence for T. gondii GT1 strain (from TIGR).
+<li><i>T. gondii</i> ME49 strain annotation, including manual annotation from Toxoplasma Genome Sequencing Project; updated GO term curation.
+<li>TIGR Gene Indices for <i>T. gondii</i>.
+<li>New ortholog analyses, using the OrthoMCL algorithm to group genes from <i>T. gondii</i> with other complete eukaryotic and prokaryotic genomes (Chen et al., Nucl. Acids Res. 34:D363; 2006).
+</ul>
+</p>
+<p>The release represents a complete restructuring of this database resource. 
+We have eliminated the practice of using flat files as a means of data storage, upgraded to use the Genomics Unified Schema (GUS) database system and populated an underlying Oracle database in a systematic fashion. 
+Additionally, we have employed the new Web Development Kit (WDK), dramatically changing the way the web site operates under the hood. 
+This transformation conforms to the model used by all <a href="http://www.apidb.org">ApiDB</a> projects; it will henceforth not only make it easier to generate future releases in short cycles, but these changes also ensure a consistent look and feel for all ApiDB projects, namely ToxoDB, <a href="http://www.cryptodb.org">CryptoDB</a>, and <a href="http://www.plasmodb.org">PlasmoDB</a> (supported by a Bioinformatics Resource Center contract from the US NIH / NIAID).</p>
+<p>Further, note that not only can the users ask questions (by issuing queries), but the website also provides the improved functionality of combining queries together and/or downloading the results in a customizable manner.</p>
