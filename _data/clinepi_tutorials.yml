@@ -227,3 +227,11 @@
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: https://www.healthmap.org/en/
   date: "Jan 29, 2020"
+- type: resource
+  subtype: education
+  title: "The Missing Semester of Your CS Education"
+  description: "Series of videos that teach computing ecosystem literacy including how to master the command-line, use a powerful text editor, use fancy features of version control systems, and more."
+  uid: r19
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://missing.csail.mit.edu/
+  date: "Feb 5, 2020"
