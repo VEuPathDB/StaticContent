@@ -8,7 +8,7 @@ permalink: /ClinEpiDB/resources
 <h1 id="resources">Tutorials and Resources</h1>
 
 <div id="clinepi-tutorials">
-  <details>
+  <details open>
     <summary class="h2">Tutorials</summary>
     <ul>
       {% for item in site.data.clinepi_tutorials %}
