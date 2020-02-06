@@ -47,15 +47,21 @@ permalink: /feature14
     position: absolute;
     right: 1em;
     top: 3em;
-   /* display: block;
-    height: 125px;
-    width: 125px;
-    background: url(TRbanner.gif) no-repeat;
-    text-indent: -999em;
-    text-decoration: none;*/
+    padding: 0.5em;
+    border: 1px solid #d6c5c5;
+    border-radius: 0.5em;
+    background-color: #d6c5c5;
+}
+  #topright a {
+    text-decoration: none;
+    font-family: Roboto;
+    color: #413737;
 }
 </style>
-<a id="topright" href="/a/app/workspace/strategies" title="TopRight">My Strategies</a>
+
+<div id="topright"><a href="/a/app/workspace/strategies" title="TopRight">My Strategies</a>
+</div>
+
 
 <div class="search-strategies-feature">
   <p>Search Strategies are a central feature of PlasmoDB.  Use them to precisely mine PlasmoDB data.</p>
