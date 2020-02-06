@@ -42,7 +42,19 @@ listIconKey: code-fork fa-rotate-270
     left: -2em;
     top: -0.25em;
   }
+  #topright {
+    position: absolute;
+    right: 1em;
+    top: 3em;
+   /* display: block;
+    height: 125px;
+    width: 125px;
+    background: url(TRbanner.gif) no-repeat;
+    text-indent: -999em;
+    text-decoration: none;*/
+}
 </style>
+<a id="topright" href="/a/app/workspace/strategies" title="TopRight">My Strategies</a>
 <div class="search-strategies-feature">
   <p>Discover meaningful biological relationships from large volumes of data with VEuPathDB's unique and powerful <b>Search Strategies</b> - a tool for mining Omics data without programming experience. </p>
   <div class="search-strategies-feature--panels">
