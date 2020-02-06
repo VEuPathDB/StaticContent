@@ -22,6 +22,21 @@ permalink: /ClinEpiDB/resources
   </details>
 </div>
 
+<div id="clinepi-videos">
+  <details open>
+    <summary class="h2">Video Tutorials</summary>
+    <ul>
+      {% for item in site.data.clinepi_tutorials %}
+      {% if item.type == "video" %}
+      <li id="{{ item.uid }}">
+        <a target="_blank" href="/documents/tutorials/{{ item.fileName }}" title="{{ item.date  }} - {{ item.description  }}">
+          <i class="fa fa-youtube-play"></i>{{ item.title }}</a></li>
+      {% endif %}
+      {% unless forloop.last %}{% endunless %}{% endfor %}
+    </ul>
+  </details>
+</div>
+
 <div id="clinepi-exercises">
   <details>
     <summary class="h2">Workshop Exercises</summary>
@@ -29,7 +44,7 @@ permalink: /ClinEpiDB/resources
       {% for item in site.data.clinepi_tutorials %}
       {% if item.type == "exercise" %}
       <li id="{{ item.uid }}">
-        <a target="_blank" href="/documents/workshop_exercises/{{ item.fileName }}" title="{{ item.date  }} - {{ item.description  }}">
+        <a target="_blank" href="{{ item.fileName }}" title="{{ item.date  }} - {{ item.description  }}">
           <i class="fa fa-file-pdf-o"></i>{{ item.title }}</a></li>
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}

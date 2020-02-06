@@ -20,6 +20,27 @@
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: General_2_get_help_or_submit_comment.pdf
   date: "Apr 26, 2019"
+- type: video
+  title: "ClinEpiDB introductory tour"
+  description: "Covers different tools the site offers to explore and visualize data"
+  uid: v1
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.youtube.com/watch?v=535PcFrBH8M&list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh&index=1
+  date: "Feb 6, 2018"
+- type: video
+  title: "Get the most out of the homepage"
+  description: "Covers the different features accessible from the ClinEpiDB homepage"
+  uid: v2
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.youtube.com/watch?v=emupZ983zPg&list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh&index=2
+  date: "Feb 12, 2018"
+- type: video
+  title: "Find a variable within a study"
+  description: "How to search for specific variables within a study"
+  uid: v3
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.youtube.com/watch?v=nU0cWYyf62E&list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh&index=8
+  date: "Nov 5, 2019"
 - type: exercise
   title: "GEMS exercise: Age distributions of females vs. males with diarrheal illness longer than 3 days"
   description: "GEMS exercise: Age distributions of females vs. males with diarrheal illness longer than 3 days"
