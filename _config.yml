@@ -62,6 +62,7 @@ collections:
   clinepi_faq: {}
   faq: {}
   featured_tools:
+    output: true
     json_keys: [ output, descriptionTitle, identifier, listIconKey, listTitle ]
 
 # this uses the list of projects in _data/projects.yml to iterate and build all the embedded help pages
