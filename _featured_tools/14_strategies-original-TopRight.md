@@ -44,14 +44,14 @@ listIconKey: code-fork fa-rotate-270
   }
   #topright {
     position: absolute;
-    right: 0;
-    top: 0;
-    display: block;
+    right: 1em;
+    top: 3em;
+   /* display: block;
     height: 125px;
     width: 125px;
     background: url(TRbanner.gif) no-repeat;
     text-indent: -999em;
-    text-decoration: none;
+    text-decoration: none;*/
 }
 </style>
 <a id="topright" href="/a/app/workspace/strategies" title="TopRight">My Strategies</a>
