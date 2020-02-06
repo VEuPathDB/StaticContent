@@ -55,7 +55,7 @@ descriptionTitle: "Transcriptomic Resources"
       <img style="width: 25em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/features_tools/Transcript-Table-Graph.png" | absolute_url }}" alt="Searches"/><br>
   </div>
   <div>
-    <div>Dynamic tracks in a genome browser such as read coverage plots or predicted intron junctions.</div>
+    <div>Genome browser tracks for dynamic visualization of analyzed data as read coverage plots or predicted introns. </div>
       <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/features_tools/Transcript-JBrowse.png" | absolute_url }}" alt="Searches"/><br>
   </div>
   <div>
