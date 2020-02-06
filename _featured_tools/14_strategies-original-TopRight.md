@@ -54,7 +54,7 @@ listIconKey: code-fork fa-rotate-270
     text-decoration: none;
 }
 </style>
-<a id="topright" title="TopRight" href="/a/app/workspace/strategies">My Strategies</a>
+<a id="topright" href="/a/app/workspace/strategies" title="TopRight">My Strategies</a>
 
 <div class="search-strategies-feature">
   <p>Search Strategies are a central feature of PlasmoDB.  Use them to precisely mine PlasmoDB data.</p>
