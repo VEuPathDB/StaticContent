@@ -58,6 +58,10 @@ listIconKey: code-fork fa-rotate-270
 }
 </style>
 <a id="topright" href="/a/app/workspace/strategies" title="TopRight">My Strategies</a>
+
+<div id="topright"><a href="/a/app/workspace/strategies" title="TopRight">My Strategies</a>
+</div>
+
 <div class="search-strategies-feature">
   <p>Discover meaningful biological relationships from large volumes of data with VEuPathDB's unique and powerful <b>Search Strategies</b> - a tool for mining Omics data without programming experience. </p>
   <div class="search-strategies-feature--panels">
