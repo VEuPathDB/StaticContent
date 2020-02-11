@@ -66,10 +66,10 @@ descriptionTitle: "Transcriptomic Resources"
     color: #413737;
 }
 </style>
-<div id="topright"><a href="/a/app/search/transcript/GenesByRNASeqEvidence" title="TopRight">Identify Genes based on RNA Seq Evidence</a>
+<div id="topright"><a href="/a/app/search/transcript/GenesByRNASeqEvidence" title="TopRight">Search RNA Seq Data</a>
 </div>
 <br/>
-<div id="toprightsecond"><a href="/a/app/record/gene/PF3D7_1133400#category:transcriptomics" title="TopRight">Gene page transcriptomics section</a>
+<div id="toprightsecond"><a href="/a/app/record/gene/PF3D7_1133400#category:transcriptomics" title="TopRight">Gene Page Transcriptomics</a>
 </div>
 <br/>
 </style>
