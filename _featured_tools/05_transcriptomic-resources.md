@@ -51,6 +51,15 @@ descriptionTitle: "Transcriptomic Resources"
     border-radius: 0.5em;
     background-color: #d6c5c5;
 }
+     #toprightsecond {
+    position: absolute;
+    right: 1em;
+    top: 6em;
+    padding: 0.5em;
+    border: 1px solid #d6c5c5;
+    border-radius: 0.5em;
+    background-color: #d6c5c5;
+}
   #topright a {
     text-decoration: none;
     font-family: Roboto;
@@ -60,7 +69,7 @@ descriptionTitle: "Transcriptomic Resources"
 <div id="topright"><a href="/a/app/search/transcript/GenesByRNASeqEvidence" title="TopRight">Identify Genes based on RNA Seq Evidence</a>
 </div>
 <br/>
-<div id="topright"><a href="/a/app/record/gene/PF3D7_1133400#category:transcriptomics" title="TopRight">Gene page transcriptomics section</a>
+<div id="toprightsecond"><a href="/a/app/record/gene/PF3D7_1133400#category:transcriptomics" title="TopRightSecond">Gene page transcriptomics section</a>
 </div>
 <br/>
 </style>
