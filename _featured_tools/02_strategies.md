@@ -51,6 +51,15 @@ listIconKey: code-fork fa-rotate-270
     border-radius: 0.5em;
     background-color: #d6c5c5;
 }
+   #toprightsecond {
+    position: absolute;
+    right: 1em;
+    top: 6em;
+    padding: 0.5em;
+    border: 1px solid #d6c5c5;
+    border-radius: 0.5em;
+    background-color: #d6c5c5;
+}
   #topright a {
     text-decoration: none;
     font-family: Roboto;
@@ -58,6 +67,9 @@ listIconKey: code-fork fa-rotate-270
 }
 </style>
 <div id="topright"><a href="/a/app/workspace/strategies" title="TopRight">My Strategies</a>
+</div>
+<br/>
+<div id="toprightsecond"><a href="/a/app/query-grid" title="TopRight">All Available Searches</a>
 </div>
 <br/>
 <div class="search-strategies-feature">
