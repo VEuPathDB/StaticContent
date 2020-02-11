@@ -72,7 +72,6 @@ descriptionTitle: "Transcriptomic Resources"
 <div id="toprightsecond"><a href="/a/app/record/gene/PF3D7_1133400#category:transcriptomics" title="TopRight">Gene Page Transcriptomics</a>
 </div>
 <br/>
-</style>
 <div class="transcriptomic-resources-feature">
 <p class="card-text">VEuPathDB supports transcriptomic data mining from RNA sequence, microarray, and expressed seqeunce tags.</p>
 <img style="width: 20em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/features_tools/Transcription.png" | absolute_url }}" alt="Searches"/>
