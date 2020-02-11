@@ -69,7 +69,7 @@ descriptionTitle: "Transcriptomic Resources"
 <div id="topright"><a href="/a/app/search/transcript/GenesByRNASeqEvidence" title="TopRight">Identify Genes based on RNA Seq Evidence</a>
 </div>
 <br/>
-<div id="toprightsecond"><a href="/a/app/record/gene/PF3D7_1133400#category:transcriptomics" title="TopRightSecond">Gene page transcriptomics section</a>
+<div id="toprightsecond"><a href="/a/app/record/gene/PF3D7_1133400#category:transcriptomics" title="TopRight">Gene page transcriptomics section</a>
 </div>
 <br/>
 </style>
