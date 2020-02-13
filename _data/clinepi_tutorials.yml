@@ -256,3 +256,11 @@
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: https://missing.csail.mit.edu/
   date: "Feb 5, 2020"
+- type: resource
+  subtype: education
+  title: "The Open-Source Data Science Masters"
+  description: "An open-source curriculum for learning Data Science that breaks down the core competencies necessary to making use of data."
+  uid: r20
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: http://datasciencemasters.org/
+  date: "Feb 13, 2020"
