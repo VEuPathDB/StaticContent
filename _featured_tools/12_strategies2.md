@@ -1,6 +1,6 @@
 ---
 identifier: search-strategies-2
-listTitle: Search Strategies 2
+listTitle: Search Strategies 22
 descriptionTitle: Search Strategies 2
 listIconKey: code-fork fa-rotate-270
 ---
