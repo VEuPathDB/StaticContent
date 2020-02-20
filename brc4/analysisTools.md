@@ -11,11 +11,12 @@ permalink: /analysisTools
   often in the gene result set than it does in the set of all genes for that organism.  </p>
 
   <div style="text-align:center">
-    <img src="/a/images/Overall.jpg"  width="400px" /></div>
-    <br><br>
+    <img src="/a/images/Overall.jpg"  width="400px" />
+  </div>
+  <br><br>
 
-    <h3> 4 Steps to Analyzing a Search or Strategy Result:</h3>
-    <div>
+  <h3> 4 Steps to Analyzing a Search or Strategy Result:</h3>
+  <div>
       <ol>
         <li>Start a new search, or open an existing strategy.</li>
         <li>When the search or strategy is loaded,
@@ -30,5 +31,4 @@ permalink: /analysisTools
           <div><img src="/a/images/choose_analysis.jpg"  width="400px" /></div></li>
       </ol>
       <em>Not all search results have analysis tools available.</em>
-    </div>
   </div>
