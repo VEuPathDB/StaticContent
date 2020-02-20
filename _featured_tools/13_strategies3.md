@@ -50,15 +50,6 @@ listIconKey: code-fork fa-rotate-270
   }
   #topright a {
     padding: 0.5em;
-    border: 1px solid #d6c5c5;
-    border-radius: 0.5em;
-    background-color: #d6c5c5;
-  }
-  #toprightsecond {
-    position: absolute;
-    right: 1em;
-    top: 6em;
-    padding: 0.5em;
     border: 1px solid #cfcfcf;
     border-radius: 0.5em;
     background-color: #efefef;
