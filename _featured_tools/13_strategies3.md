@@ -1,13 +1,13 @@
 ---
-identifier: search-strategies-2
-listTitle: Search Strategies 22
-descriptionTitle: Search Strategies 2
+identifier: search-strategies-3
+listTitle: Search Strategies 3
+descriptionTitle: Search Strategies 3
 listIconKey: code-fork fa-rotate-270
 ---
 <style>
   .search-strategies-feature {
     margin: auto;
-    margin-top: 3em;
+    margin-top: 3em; 
   }
   .search-strategies-feature--panels {
     display: flex;
@@ -45,8 +45,8 @@ listIconKey: code-fork fa-rotate-270
   }
   #topright {
     position: absolute;
-    right: 1em;
-    top: 4em;
+/*    right: 1em;
+    top: 4em;*/
   }
   #topright a {
     padding: 0.5em;
@@ -70,7 +70,7 @@ listIconKey: code-fork fa-rotate-270
   }
 </style>
 
-<div id="topright">
+<div>
   <a href="/a/app/workspace/strategies">My Strategies</a>
   <a href="/a/app/query-grid">All Available Searches</a>
 </div>
