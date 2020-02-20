@@ -1,0 +1,7 @@
+---
+categories: []
+layout: news_articles
+title: Microarray probe mappings have been updated
+created: 1487706293
+---
+Microarray probe mappings have been updated for all species in light of the RNA gene model changes in this release

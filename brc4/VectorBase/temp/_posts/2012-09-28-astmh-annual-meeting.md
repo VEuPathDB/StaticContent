@@ -1,0 +1,8 @@
+---
+categories:
+- meeting
+layout: news_articles
+title: ASTMH Annual Meeting
+created: 1348840985
+---
+VectorBase will have a booth at the ASTMH Annual Meeting being held from November 11 - 15 in Atlanta, GA.
