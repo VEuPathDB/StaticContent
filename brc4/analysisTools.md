@@ -7,6 +7,7 @@ permalink: /analysisTools
 <h1>Analyze Your Strategy Results <a href="https://www.youtube.com/watch?v=npgkkychkrI" class="new-window">
   <img src="/a/images/camera.png"  width="25px" /></a></h1>
 
+<div style="font-sze:130%">
   <p>Our sites offer tools for analyzing the results of gene searches or strategies.
   After running a search or strategy that returns genes, you can analyze the results to find
   statistically enriched Gene Ontology annotations, Metabolic Pathway annotations or words
@@ -35,4 +36,6 @@ permalink: /analysisTools
       </ol>
       <em>Not all search results have analysis tools available.</em>
   </div>
+</div>
+
 </div>
