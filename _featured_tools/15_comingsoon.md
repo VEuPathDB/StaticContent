@@ -1,13 +1,12 @@
 ---
-identifier: search-strategies-3
-listTitle: Search Strategies 3
-descriptionTitle: Search Strategies 3
+identifier: coming-soon
+listTitle: Coming Soon
+descriptionTitle: Coming Soon
 listIconKey: code-fork fa-rotate-270
 ---
 <style>
   .search-strategies-feature {
     margin: auto;
-    margin-top: 3em; 
   }
   .search-strategies-feature--panels {
     display: flex;
@@ -43,28 +42,36 @@ listIconKey: code-fork fa-rotate-270
     left: -2em;
     top: -0.25em;
   }
-  #topright {
+   #topright {
     position: absolute;
-/*    right: 1em;
-    top: 4em;*/
-  }
-  #topright a {
+    right: 1em;
+    top: 3em;
     padding: 0.5em;
-    border: 1px solid #cfcfcf;
+    border: 1px solid #d6c5c5;
     border-radius: 0.5em;
-    background-color: #efefef;
-  }
+    background-color: #d6c5c5;
+}
+   #toprightsecond {
+    position: absolute;
+    right: 1em;
+    top: 6em;
+    padding: 0.5em;
+    border: 1px solid #d6c5c5;
+    border-radius: 0.5em;
+    background-color: #d6c5c5;
+}
   #topright a {
     text-decoration: none;
     font-family: Roboto;
     color: #413737;
-  }
+}
 </style>
-
-<div id="topright">
-  <a href="/a/app/workspace/strategies">My Strategies</a>
-  <a href="/a/app/query-grid">All Available Searches</a>
+<div id="topright"><a href="/a/app/workspace/strategies" title="TopRight">My Strategies</a>
 </div>
+<br/>
+<div id="toprightsecond"><a href="/a/app/query-grid" title="TopRight">All Available Searches</a>
+</div>
+<br/>
 <div class="search-strategies-feature">
   <p>Discover meaningful biological relationships from large volumes of data with VEuPathDB's unique and powerful <b>Search Strategies</b> - a tool for mining Omics data without programming experience. </p>
   <div class="search-strategies-feature--panels">
@@ -80,7 +87,7 @@ listIconKey: code-fork fa-rotate-270
       <div>Add searches one at a time to create a strategy and find exactly the type of genes you need, such as signal peptide containing genes that are expressed in merozoites.</div>
       <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/features_tools/strategy-panel_3.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
-  </div>
   <p><br/>To delve deeper into Search Strategies, try our 
   <a href="{{ "/assets/images/features_tools/Strategies_Training_Module_2019.pdf" | absolute_url }}"><b>Strategies learning exercise</b></a> which takes about an hour to complete.  And please <a href="https://eupathdb.org/eupathdb/app/contact-us"><b>Contact Us</b></a> with any questions or suggestions.</p>
+  </div>
 </div>
