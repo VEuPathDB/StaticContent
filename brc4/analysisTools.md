@@ -1,7 +1,7 @@
 ---
 permalink: /analysisTools
 ---
-<h1>Analyze Your Strategy Results <a href=https://www.youtube.com/watch?v=npgkkychkrI class="new-window">
+<h1>Analyze Your Strategy Results <a href="https://www.youtube.com/watch?v=npgkkychkrI" class="new-window">
   <img src="/a/images/camera.png"  width="25px" /></a></h1>
 
   <p>Our sites offer tools for analyzing the results of gene searches or strategies.
