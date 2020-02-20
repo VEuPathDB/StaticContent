@@ -1,6 +1,9 @@
 ---
+layout: plain
+title: Analysis tools tutorial
 permalink: /analysisTools
 ---
+<div id="ce-static-content">
 <h1>Analyze Your Strategy Results <a href="https://www.youtube.com/watch?v=npgkkychkrI" class="new-window">
   <img src="/a/images/camera.png"  width="25px" /></a></h1>
 
@@ -32,3 +35,4 @@ permalink: /analysisTools
       </ol>
       <em>Not all search results have analysis tools available.</em>
   </div>
+</div>
