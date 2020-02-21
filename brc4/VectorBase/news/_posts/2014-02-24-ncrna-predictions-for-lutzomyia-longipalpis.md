@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: ncRNA predictions for Lutzomyia longipalpis
 category: [VectorBase]
 created: 1393280952

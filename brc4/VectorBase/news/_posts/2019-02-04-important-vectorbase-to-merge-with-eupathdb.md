@@ -1,7 +1,6 @@
 ---
 categories:
 - news article
-layout: news_articles
 title: IMPORTANT! VectorBase to merge with EupathDB
 category: [VectorBase]
 created: 1549282692

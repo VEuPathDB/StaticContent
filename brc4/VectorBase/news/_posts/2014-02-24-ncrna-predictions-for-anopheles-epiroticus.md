@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: ncRNA predictions for Anopheles epiroticus
 category: [VectorBase]
 created: 1393247364

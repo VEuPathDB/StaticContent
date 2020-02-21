@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: First-pass annotation of An. albimanus genome
 category: [VectorBase]
 created: 1371828387

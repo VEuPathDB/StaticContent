@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: updates to the gene sets for 4 species
 category: [VectorBase]
 created: 1556039718

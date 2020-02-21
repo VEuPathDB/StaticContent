@@ -1,7 +1,6 @@
 ---
 categories:
 - news article
-layout: news_articles
 title: Update to annotated transcriptomes, including the recent Triatoma sp datasets
 category: [VectorBase]
 created: 1498510947

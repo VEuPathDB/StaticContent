@@ -1,7 +1,6 @@
 ---
 categories:
 - highlight organism
-layout: news_articles
 title: Initial release of Anopheles darlingi at VectorBase
 category: [VectorBase]
 created: 1341288000

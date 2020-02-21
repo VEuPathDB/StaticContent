@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Updates to the gene sets for 11 species based on community annotation
 category: [VectorBase]
 created: 1519153264

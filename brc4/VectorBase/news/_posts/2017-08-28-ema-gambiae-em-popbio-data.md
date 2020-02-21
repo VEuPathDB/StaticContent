@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: "<em>A. gambiae</em> PopBio data"
 category: [VectorBase]
 created: 1503951956

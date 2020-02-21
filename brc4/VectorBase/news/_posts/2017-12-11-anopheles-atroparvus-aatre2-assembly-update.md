@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Anopheles atroparvus AatrE2 assembly update
 category: [VectorBase]
 created: 1512992341

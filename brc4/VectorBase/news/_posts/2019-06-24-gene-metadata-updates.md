@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Gene metadata updates
 category: [VectorBase]
 created: 1561408927

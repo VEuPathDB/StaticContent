@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Forthcoming SNP data
 category: [VectorBase]
 created: 1516982345

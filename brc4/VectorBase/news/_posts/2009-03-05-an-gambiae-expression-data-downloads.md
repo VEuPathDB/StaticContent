@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: An. gambiae expression data downloads
 category: [VectorBase]
 created: 1236312000

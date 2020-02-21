@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Updated An. gambiae gene set (AgamP3.6)
 category: [VectorBase]
 created: 1292216400

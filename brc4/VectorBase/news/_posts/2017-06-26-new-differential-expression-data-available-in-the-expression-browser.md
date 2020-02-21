@@ -1,7 +1,6 @@
 ---
 categories:
 - news article
-layout: news_articles
 title: New differential expression data available (in the Expression Browser)
 category: [VectorBase]
 created: 1498507820

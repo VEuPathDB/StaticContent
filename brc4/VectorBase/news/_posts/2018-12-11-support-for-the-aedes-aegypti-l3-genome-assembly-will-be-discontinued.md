@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: support for the Aedes aegypti L3 genome assembly will be discontinued
 category: [VectorBase]
 created: 1544560974

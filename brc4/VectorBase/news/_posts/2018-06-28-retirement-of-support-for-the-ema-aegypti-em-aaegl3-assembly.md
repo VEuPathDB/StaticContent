@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Retirement of support for the <em>A. aegypti</em> AaegL3 assembly.
 category: [VectorBase]
 created: 1530203369

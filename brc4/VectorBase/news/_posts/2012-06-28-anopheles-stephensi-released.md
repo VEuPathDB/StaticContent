@@ -1,7 +1,6 @@
 ---
 categories:
 - highlight organism
-layout: news_articles
 title: Anopheles stephensi released
 category: [VectorBase]
 created: 1340942400

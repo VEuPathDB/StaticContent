@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Stage two Population Data beta testing
 category: [VectorBase]
 created: 1234843200

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: An. gambiae M & S form trace reads online
 category: [VectorBase]
 created: 1178596800

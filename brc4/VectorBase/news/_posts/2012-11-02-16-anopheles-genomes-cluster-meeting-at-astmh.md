@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: 16 Anopheles Genomes Cluster Meeting at ASTMH
 category: [VectorBase]
 created: 1351877146

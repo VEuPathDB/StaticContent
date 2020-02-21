@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New microarray and RNA-seq experiments
 category: [VectorBase]
 created: 1476971437

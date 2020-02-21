@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: 24 New Population Biology projects
 category: [VectorBase]
 created: 1540385117

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New PopBio data and updates (usually to fix minor data inconsistencies)
 category: [VectorBase]
 created: 1561471371

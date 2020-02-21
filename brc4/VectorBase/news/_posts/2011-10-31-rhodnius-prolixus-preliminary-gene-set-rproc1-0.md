@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Rhodnius prolixus preliminary gene set RproC1.0
 category: [VectorBase]
 created: 1320120000

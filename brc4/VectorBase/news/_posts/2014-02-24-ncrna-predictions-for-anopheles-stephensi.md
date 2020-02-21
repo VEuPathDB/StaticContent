@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: ncRNA predictions for Anopheles stephensi
 category: [VectorBase]
 created: 1393279677

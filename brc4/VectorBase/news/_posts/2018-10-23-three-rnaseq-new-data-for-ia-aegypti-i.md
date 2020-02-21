@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Three RNAseq new data for <i>A. aegypti</i>
 category: [VectorBase]
 created: 1540334034

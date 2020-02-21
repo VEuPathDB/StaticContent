@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Anopheles Genomes White Paper
 category: [VectorBase]
 created: 1217908800

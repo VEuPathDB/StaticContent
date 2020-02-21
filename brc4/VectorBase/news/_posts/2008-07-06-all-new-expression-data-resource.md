@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: All new expression data resource
 category: [VectorBase]
 created: 1215403200

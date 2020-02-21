@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: ncRNA predictions for Pediculus humanus
 category: [VectorBase]
 created: 1393281339

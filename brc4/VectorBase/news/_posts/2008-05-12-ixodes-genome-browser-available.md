@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Ixodes genome browser available
 category: [VectorBase]
 created: 1210651200

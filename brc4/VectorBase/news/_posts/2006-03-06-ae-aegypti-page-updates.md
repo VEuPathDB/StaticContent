@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Ae. aegypti Page Updates
 category: [VectorBase]
 created: 1141704000

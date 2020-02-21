@@ -1,7 +1,6 @@
 ---
 categories:
 - geneset
-layout: news_articles
 title: Rhodnius prolixus gene set RproC1.1 released
 category: [VectorBase]
 created: 1367587872

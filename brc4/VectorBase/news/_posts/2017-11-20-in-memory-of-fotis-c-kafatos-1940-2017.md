@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: 'In memory of Fotis C. Kafatos: 1940-2017'
 category: [VectorBase]
 created: 1511192546

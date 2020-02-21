@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Rhodnius genome project announcement
 category: [VectorBase]
 created: 1166500800

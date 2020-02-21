@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: News Support Added
 category: [VectorBase]
 created: 1115611200

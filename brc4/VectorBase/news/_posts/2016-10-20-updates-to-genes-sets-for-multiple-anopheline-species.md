@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Updates to genes sets for multiple Anopheline species
 category: [VectorBase]
 created: 1476970624

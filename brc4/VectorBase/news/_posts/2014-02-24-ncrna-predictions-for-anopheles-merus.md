@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: ncRNA predictions for Anopheles merus
 category: [VectorBase]
 created: 1393248466

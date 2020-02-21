@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New RNA-seq differential expression studies added
 category: [VectorBase]
 created: 1471967409

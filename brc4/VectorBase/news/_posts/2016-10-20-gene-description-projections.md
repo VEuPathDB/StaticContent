@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Gene description projections
 category: [VectorBase]
 created: 1476971374

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: VectorBase team members among the six 2018 Ebbe Nielsen Challenge winners
 category: [VectorBase]
 created: 1540324624

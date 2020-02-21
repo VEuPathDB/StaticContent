@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Culex quniquefasciatus traces online
 category: [VectorBase]
 created: 1152763200

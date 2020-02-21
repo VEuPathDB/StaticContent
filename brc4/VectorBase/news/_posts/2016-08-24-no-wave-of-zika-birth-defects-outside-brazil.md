@@ -1,7 +1,6 @@
 ---
 categories:
 - zika news
-layout: news_articles
 title: No wave of Zika birth defects outside Brazil
 category: [VectorBase]
 created: 1472048120

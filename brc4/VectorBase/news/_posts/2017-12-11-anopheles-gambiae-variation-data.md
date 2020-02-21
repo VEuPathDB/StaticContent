@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Anopheles gambiae variation data
 category: [VectorBase]
 created: 1512992530

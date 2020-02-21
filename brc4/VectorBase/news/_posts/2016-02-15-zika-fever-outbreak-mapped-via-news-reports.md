@@ -1,7 +1,6 @@
 ---
 categories:
 - zika news
-layout: news_articles
 title: Zika fever outbreak mapped via news reports
 category: [VectorBase]
 created: 1455578924

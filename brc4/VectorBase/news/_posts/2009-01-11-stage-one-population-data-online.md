@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Stage one Population Data online
 category: [VectorBase]
 created: 1231732800

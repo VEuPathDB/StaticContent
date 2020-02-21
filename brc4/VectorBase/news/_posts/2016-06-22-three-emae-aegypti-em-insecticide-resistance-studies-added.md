@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Three <em>Ae. aegypti</em> insecticide resistance studies added
 category: [VectorBase]
 created: 1466617011

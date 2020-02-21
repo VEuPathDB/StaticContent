@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Worldwide microsatellites for Aedes aegypti
 category: [VectorBase]
 created: 1481560926

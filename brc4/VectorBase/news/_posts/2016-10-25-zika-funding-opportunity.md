@@ -1,7 +1,6 @@
 ---
 categories:
 - zika news
-layout: news_articles
 title: Zika funding opportunity
 category: [VectorBase]
 created: 1477407626

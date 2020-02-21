@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New 'Trends in Parisitology' opinion paper
 category: [VectorBase]
 created: 1212984000

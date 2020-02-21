@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: VectorBase Scientific User Group
 category: [VectorBase]
 created: 1357143310

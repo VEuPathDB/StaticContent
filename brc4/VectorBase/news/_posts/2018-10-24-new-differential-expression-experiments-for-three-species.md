@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New differential expression experiments for three species
 category: [VectorBase]
 created: 1540384970

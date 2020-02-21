@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New chromosomal assembly for Anopheles albimanus
 category: [VectorBase]
 created: 1481560742

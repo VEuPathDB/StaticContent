@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Getting Started Docs Added
 category: [VectorBase]
 created: 1117598400

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New I. scapularis Home Page
 category: [VectorBase]
 created: 1148356800

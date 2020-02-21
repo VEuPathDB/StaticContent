@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: VectorBase P. humanus 0.5 gene build available
 category: [VectorBase]
 created: 1173844800

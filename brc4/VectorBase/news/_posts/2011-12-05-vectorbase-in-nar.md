@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: VectorBase in NAR
 category: [VectorBase]
 created: 1323147600

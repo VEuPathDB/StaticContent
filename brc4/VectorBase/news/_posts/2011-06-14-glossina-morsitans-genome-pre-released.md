@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Glossina morsitans genome pre-released
 category: [VectorBase]
 created: 1308082075

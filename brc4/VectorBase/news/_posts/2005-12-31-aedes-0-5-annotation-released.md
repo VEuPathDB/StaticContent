@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Aedes 0.5 Annotation Released
 category: [VectorBase]
 created: 1136088000

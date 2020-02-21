@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Three <em>Ae. aegypti</em> microarray expression experiments added
 category: [VectorBase]
 created: 1466616716

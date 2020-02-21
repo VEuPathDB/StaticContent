@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Seven new insecticide resistance studies added
 category: [VectorBase]
 created: 1481561673

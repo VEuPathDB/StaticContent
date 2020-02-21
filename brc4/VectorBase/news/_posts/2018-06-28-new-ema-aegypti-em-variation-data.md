@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New <em>A. aegypti</em> variation data
 category: [VectorBase]
 created: 1530203159

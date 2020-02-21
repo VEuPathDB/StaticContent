@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Image and Genome Search
 category: [VectorBase]
 created: 1115870400

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Gene set updates
 category: [VectorBase]
 created: 1530202918

@@ -2,7 +2,6 @@
 categories:
 - anopheles
 - highlight organism
-layout: news_articles
 title: Anopheles cluster sequencing underway
 category: [VectorBase]
 created: 1301976000

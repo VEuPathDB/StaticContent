@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: RNAseq search functionality and data update
 category: [VectorBase]
 created: 1487708704

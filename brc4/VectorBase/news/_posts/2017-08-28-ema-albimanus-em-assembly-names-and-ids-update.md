@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: "<em>A. albimanus</em> assembly names and IDs update"
 category: [VectorBase]
 created: 1503951641

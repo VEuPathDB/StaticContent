@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: First VectorBase Meeting
 category: [VectorBase]
 created: 1094011200

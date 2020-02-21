@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: G. morsitans preliminary gene set
 category: [VectorBase]
 created: 1320033600

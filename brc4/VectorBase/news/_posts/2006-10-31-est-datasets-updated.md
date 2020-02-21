@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: EST Datasets Updated
 category: [VectorBase]
 created: 1162353600

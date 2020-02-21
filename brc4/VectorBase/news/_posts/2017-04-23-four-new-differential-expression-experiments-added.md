@@ -1,7 +1,6 @@
 ---
 categories:
 - news article
-layout: news_articles
 title: Four new differential expression experiments added
 category: [VectorBase]
 created: 1493004363

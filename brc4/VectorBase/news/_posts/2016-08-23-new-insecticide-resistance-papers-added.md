@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New insecticide resistance papers added
 category: [VectorBase]
 created: 1471967536

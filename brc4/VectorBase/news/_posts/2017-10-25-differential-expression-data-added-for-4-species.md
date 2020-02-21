@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Differential expression data added for 4 species
 category: [VectorBase]
 created: 1508961074

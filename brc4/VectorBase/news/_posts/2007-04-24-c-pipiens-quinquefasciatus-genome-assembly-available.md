@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: C. pipiens quinquefasciatus genome assembly available
 category: [VectorBase]
 created: 1177473600

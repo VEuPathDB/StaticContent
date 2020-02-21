@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: In memory of VectorBase alumnus Dr. Martin Hammond
 category: [VectorBase]
 created: 1403727215

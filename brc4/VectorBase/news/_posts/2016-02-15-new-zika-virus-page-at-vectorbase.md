@@ -1,7 +1,6 @@
 ---
 categories:
 - zika news
-layout: news_articles
 title: New Zika virus page at VectorBase
 category: [VectorBase]
 created: 1455575783

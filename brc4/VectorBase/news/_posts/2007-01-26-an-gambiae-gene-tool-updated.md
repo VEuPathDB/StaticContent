@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: An. gambiae Gene Tool Updated
 category: [VectorBase]
 created: 1169870400

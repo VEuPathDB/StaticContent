@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: RFP for Driving Biological Projects announced
 category: [VectorBase]
 created: 1265173200

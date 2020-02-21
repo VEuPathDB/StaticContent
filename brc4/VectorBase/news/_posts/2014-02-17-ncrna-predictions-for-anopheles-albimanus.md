@@ -1,7 +1,6 @@
 ---
 categories:
 - highlight organism
-layout: news_articles
 title: ncRNA predictions for Anopheles albimanus
 category: [VectorBase]
 created: 1392691996

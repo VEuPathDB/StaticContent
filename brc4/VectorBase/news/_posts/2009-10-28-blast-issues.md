@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: BLAST issues
 category: [VectorBase]
 created: 1256788800

@@ -1,7 +1,6 @@
 ---
 categories:
 - zika news
-layout: news_articles
 title: Emergency funds to fight Zika
 category: [VectorBase]
 created: 1476466107

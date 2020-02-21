@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: E-Mail Listserv Online
 category: [VectorBase]
 created: 1095393600

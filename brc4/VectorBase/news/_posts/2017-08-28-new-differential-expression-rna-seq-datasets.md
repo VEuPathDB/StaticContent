@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New differential expression RNA-seq datasets
 category: [VectorBase]
 created: 1503952140

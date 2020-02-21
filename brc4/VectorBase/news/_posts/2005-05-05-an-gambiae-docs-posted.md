@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: An. gambiae Docs Posted
 category: [VectorBase]
 created: 1115352000

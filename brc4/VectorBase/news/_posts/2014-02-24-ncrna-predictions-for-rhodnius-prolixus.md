@@ -1,7 +1,6 @@
 ---
 categories:
 - news article
-layout: news_articles
 title: ncRNA predictions for Rhodnius prolixus
 category: [VectorBase]
 created: 1393281605

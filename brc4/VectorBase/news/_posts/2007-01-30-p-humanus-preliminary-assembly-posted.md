@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: P. humanus Preliminary Assembly Posted
 category: [VectorBase]
 created: 1170216000

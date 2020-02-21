@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: HMMER Tools
 category: [VectorBase]
 created: 1196913600

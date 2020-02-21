@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Forthcoming Aedes population genomics data
 category: [VectorBase]
 created: 1508949179

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New An. gambiae Strain Sequencing Approved
 category: [VectorBase]
 created: 1119412800

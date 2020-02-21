@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Fall VectorBase Announcements
 category: [VectorBase]
 created: 1164772800

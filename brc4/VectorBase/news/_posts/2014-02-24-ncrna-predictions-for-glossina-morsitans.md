@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: ncRNA predictions for Glossina morsitans
 category: [VectorBase]
 created: 1393280659

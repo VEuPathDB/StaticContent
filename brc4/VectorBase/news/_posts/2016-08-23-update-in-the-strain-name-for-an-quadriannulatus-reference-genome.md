@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Update in the strain name for An. quadriannulatus reference genome
 category: [VectorBase]
 created: 1471967654

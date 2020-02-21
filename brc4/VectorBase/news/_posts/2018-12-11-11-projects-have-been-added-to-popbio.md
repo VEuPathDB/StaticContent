@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: 11 projects have been added to PopBio
 category: [VectorBase]
 created: 1544560420

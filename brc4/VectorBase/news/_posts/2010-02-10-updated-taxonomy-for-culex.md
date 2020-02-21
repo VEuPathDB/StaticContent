@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Updated taxonomy for Culex
 category: [VectorBase]
 created: 1265864400

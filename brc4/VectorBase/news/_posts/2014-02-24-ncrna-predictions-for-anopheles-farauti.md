@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: ncRNA predictions for Anopheles farauti
 category: [VectorBase]
 created: 1393247706

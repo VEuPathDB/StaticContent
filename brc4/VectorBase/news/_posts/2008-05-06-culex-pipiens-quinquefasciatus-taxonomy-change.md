@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Culex pipiens quinquefasciatus taxonomy change
 category: [VectorBase]
 created: 1210132800

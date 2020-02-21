@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Microarrays probe drug resistance
 category: [VectorBase]
 created: 1193025600

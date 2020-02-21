@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Gene expression summaries on gene report pages
 category: [VectorBase]
 created: 1228104000

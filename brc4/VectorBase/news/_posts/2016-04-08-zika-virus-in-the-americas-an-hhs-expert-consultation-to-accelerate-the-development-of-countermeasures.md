@@ -1,7 +1,6 @@
 ---
 categories:
 - zika news
-layout: news_articles
 title: 'Zika Virus in the Americas: An HHS Expert Consultation to Accelerate the Development
 category: [VectorBase]
   of Countermeasures'

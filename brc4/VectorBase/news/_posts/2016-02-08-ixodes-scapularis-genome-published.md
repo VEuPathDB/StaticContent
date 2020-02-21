@@ -1,7 +1,6 @@
 ---
 categories:
 - genome publication
-layout: news_articles
 title: Ixodes scapularis genome published
 category: [VectorBase]
 created: 1454976000

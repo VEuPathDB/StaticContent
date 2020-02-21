@@ -1,7 +1,6 @@
 ---
 categories:
 - meeting
-layout: news_articles
 title: ASTMH Annual Meeting
 category: [VectorBase]
 created: 1348840985

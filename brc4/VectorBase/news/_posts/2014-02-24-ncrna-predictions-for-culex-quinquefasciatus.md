@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: ncRNA predictions for Culex quinquefasciatus
 category: [VectorBase]
 created: 1393280522

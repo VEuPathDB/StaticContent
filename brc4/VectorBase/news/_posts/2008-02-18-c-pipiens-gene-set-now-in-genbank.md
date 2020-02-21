@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: C. pipiens gene set now in GenBank
 category: [VectorBase]
 created: 1203397200

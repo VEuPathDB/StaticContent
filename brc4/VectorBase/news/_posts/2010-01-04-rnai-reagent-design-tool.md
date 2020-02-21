@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: RNAi reagent design tool
 category: [VectorBase]
 created: 1262667600

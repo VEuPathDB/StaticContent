@@ -1,7 +1,6 @@
 ---
 categories:
 - news article
-layout: news_articles
 title: New population biology datasets added
 category: [VectorBase]
 created: 1493005505

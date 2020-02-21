@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: AedEST Initial Release
 category: [VectorBase]
 created: 1138593600

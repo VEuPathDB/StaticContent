@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Three new microarray experiments added
 category: [VectorBase]
 created: 1232683200

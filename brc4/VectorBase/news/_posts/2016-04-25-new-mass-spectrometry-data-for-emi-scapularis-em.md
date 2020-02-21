@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New mass spectrometry data for <em>I. scapularis</em>
 category: [VectorBase]
 created: 1461611585

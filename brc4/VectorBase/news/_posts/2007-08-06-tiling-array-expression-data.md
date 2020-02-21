@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Tiling array expression data
 category: [VectorBase]
 created: 1186459200

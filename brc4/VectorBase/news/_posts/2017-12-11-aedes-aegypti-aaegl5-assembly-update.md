@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Aedes aegypti AaegL5 assembly update
 category: [VectorBase]
 created: 1512990881

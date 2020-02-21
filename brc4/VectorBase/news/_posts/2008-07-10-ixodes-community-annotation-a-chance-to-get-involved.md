@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Ixodes Community Annotation - a chance to get involved.
 category: [VectorBase]
 created: 1215748800

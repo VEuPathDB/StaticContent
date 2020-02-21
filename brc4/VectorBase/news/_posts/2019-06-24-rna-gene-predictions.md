@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: RNA gene predictions
 category: [VectorBase]
 created: 1561408866

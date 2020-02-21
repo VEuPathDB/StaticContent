@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: VectorBase New Year's Resolution!
 category: [VectorBase]
 created: 1389805412

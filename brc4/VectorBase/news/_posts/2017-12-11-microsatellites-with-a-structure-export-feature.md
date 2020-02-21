@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Microsatellites with a STRUCTURE export feature
 category: [VectorBase]
 created: 1512993044

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Six new insecticide resistance (IR) studies
 category: [VectorBase]
 created: 1508961299

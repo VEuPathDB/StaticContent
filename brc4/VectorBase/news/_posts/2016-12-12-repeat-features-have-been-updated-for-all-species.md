@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Repeat features have been updated for all species
 category: [VectorBase]
 created: 1481562448

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Anopheles gambiae genome update
 category: [VectorBase]
 created: 1141272000

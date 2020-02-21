@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: BAC Images Online
 category: [VectorBase]
 created: 1109995200

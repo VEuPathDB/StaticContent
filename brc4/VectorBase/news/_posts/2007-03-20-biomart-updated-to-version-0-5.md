@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: BioMart updated to version 0.5
 category: [VectorBase]
 created: 1174449600

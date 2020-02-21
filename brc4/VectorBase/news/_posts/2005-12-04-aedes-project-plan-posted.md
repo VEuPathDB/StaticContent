@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Aedes Project Plan Posted
 category: [VectorBase]
 created: 1133755200

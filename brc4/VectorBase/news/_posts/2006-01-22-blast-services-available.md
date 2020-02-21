@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: BLAST Services Available
 category: [VectorBase]
 created: 1137988800

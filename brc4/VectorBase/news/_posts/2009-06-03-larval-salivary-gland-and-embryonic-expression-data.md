@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Larval salivary gland and embryonic expression data
 category: [VectorBase]
 created: 1244088000

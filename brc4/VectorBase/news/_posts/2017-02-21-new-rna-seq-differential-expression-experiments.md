@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New RNA-seq differential expression experiments
 category: [VectorBase]
 created: 1487711126

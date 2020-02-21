@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: PopBio new projects, major updates and fixes
 category: [VectorBase]
 created: 1503952487

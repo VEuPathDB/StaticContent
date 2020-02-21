@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New variation data for <i>A. gambiae</i>
 category: [VectorBase]
 created: 1540333884

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: In memory of VectorBase founding member Bill Gelbart
 category: [VectorBase]
 created: 1440174099

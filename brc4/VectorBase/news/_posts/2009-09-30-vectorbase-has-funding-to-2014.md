@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: VectorBase has funding to 2014
 category: [VectorBase]
 created: 1254369600

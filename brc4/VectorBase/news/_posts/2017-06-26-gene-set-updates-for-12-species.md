@@ -1,7 +1,6 @@
 ---
 categories:
 - news article
-layout: news_articles
 title: Gene set updates for 12 species
 category: [VectorBase]
 created: 1498509188

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New I. scapularis genomic data available
 category: [VectorBase]
 created: 1188878400

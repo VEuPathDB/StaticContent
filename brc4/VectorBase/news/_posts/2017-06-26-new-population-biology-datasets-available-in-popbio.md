@@ -1,7 +1,6 @@
 ---
 categories:
 - news article
-layout: news_articles
 title: New population biology datasets available (in PopBio)
 category: [VectorBase]
 created: 1498508647

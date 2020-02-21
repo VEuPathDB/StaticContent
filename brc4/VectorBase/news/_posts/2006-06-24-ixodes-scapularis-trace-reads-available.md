@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Ixodes scapularis Trace Reads Available
 category: [VectorBase]
 created: 1151208000

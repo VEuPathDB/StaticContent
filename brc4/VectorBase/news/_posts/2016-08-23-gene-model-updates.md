@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Gene model updates
 category: [VectorBase]
 created: 1471967603

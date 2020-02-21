@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: I. scapularis 0.5 annotation released
 category: [VectorBase]
 created: 1209441600

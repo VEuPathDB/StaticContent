@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Initial release of BioMart
 category: [VectorBase]
 created: 1161316800

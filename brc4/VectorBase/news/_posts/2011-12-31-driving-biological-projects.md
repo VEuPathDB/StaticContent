@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Driving Biological Projects
 category: [VectorBase]
 created: 1325384336

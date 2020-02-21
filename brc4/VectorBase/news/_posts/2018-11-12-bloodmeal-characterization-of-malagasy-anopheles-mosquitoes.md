@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Bloodmeal Characterization of Malagasy Anopheles Mosquitoes
 category: [VectorBase]
 created: 1542017651

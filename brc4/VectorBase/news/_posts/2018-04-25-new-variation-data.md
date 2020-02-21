@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New variation data
 category: [VectorBase]
 created: 1524676332

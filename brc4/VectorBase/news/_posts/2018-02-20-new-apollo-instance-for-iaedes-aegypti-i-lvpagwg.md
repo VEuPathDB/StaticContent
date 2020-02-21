@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New Apollo (instance) for <i>Aedes aegypti</i> LVPAGWG
 category: [VectorBase]
 created: 1519154399

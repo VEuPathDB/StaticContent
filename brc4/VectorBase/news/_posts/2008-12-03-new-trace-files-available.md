@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New Trace files available
 category: [VectorBase]
 created: 1228363200

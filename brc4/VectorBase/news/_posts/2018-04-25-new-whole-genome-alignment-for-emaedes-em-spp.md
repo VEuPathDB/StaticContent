@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New whole genome alignment for <em>Aedes</em> spp
 category: [VectorBase]
 created: 1524677080

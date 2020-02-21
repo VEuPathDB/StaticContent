@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Sequence fetching updated
 category: [VectorBase]
 created: 1174190400

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Ae. aegypti BAC end sequence data available
 category: [VectorBase]
 created: 1170302400

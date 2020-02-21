@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Insecticide Resistance Data Available
 category: [VectorBase]
 created: 1228190400

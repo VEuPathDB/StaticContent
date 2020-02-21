@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Update to the C. quinquefasciatus gene set
 category: [VectorBase]
 created: 1336017600

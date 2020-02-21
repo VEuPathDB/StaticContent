@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: C. pipiens Trace Reads Updated
 category: [VectorBase]
 created: 1158552000

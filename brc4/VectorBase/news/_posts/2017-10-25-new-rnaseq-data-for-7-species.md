@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New RNAseq data for 7 species
 category: [VectorBase]
 created: 1508960781

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Call for DBP Proposals
 category: [VectorBase]
 created: 1302235200

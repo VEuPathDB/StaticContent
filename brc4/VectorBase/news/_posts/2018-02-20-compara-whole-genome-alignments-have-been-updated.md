@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: 'Compara: whole genome alignments have been updated'
 category: [VectorBase]
 created: 1519154114

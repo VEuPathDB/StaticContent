@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: VectorBase Scientific Working Group formed
 category: [VectorBase]
 created: 1270008000

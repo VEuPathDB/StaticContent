@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: C. pipiens gene set CpipJ1.2 available
 category: [VectorBase]
 created: 1215748800

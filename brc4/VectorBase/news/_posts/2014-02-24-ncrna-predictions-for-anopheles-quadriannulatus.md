@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: ncRNA predictions for Anopheles quadriannulatus
 category: [VectorBase]
 created: 1393248749

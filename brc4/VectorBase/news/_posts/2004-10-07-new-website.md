@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New Website
 category: [VectorBase]
 created: 1097208000

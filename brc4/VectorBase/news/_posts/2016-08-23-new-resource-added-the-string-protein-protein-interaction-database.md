@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: 'New resource added: the STRING protein-protein interaction database'
 category: [VectorBase]
 created: 1471967785

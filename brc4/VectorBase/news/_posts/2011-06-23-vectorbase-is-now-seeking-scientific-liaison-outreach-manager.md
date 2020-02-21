@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: VectorBase is now seeking scientific liaison/outreach manager
 category: [VectorBase]
 created: 1308872182

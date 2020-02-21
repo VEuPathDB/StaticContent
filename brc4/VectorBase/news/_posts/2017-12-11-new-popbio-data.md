@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New PopBio data
 category: [VectorBase]
 created: 1512995933

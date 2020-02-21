@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Variant effects have been updated
 category: [VectorBase]
 created: 1487706540

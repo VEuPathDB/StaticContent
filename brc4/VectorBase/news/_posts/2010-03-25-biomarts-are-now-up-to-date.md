@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: BioMarts are now up to date
 category: [VectorBase]
 created: 1269576000

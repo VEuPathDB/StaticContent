@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: ClustalW results in Jalview
 category: [VectorBase]
 created: 1191902400

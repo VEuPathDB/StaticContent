@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Expression microarray probes have been updated
 category: [VectorBase]
 created: 1519154342

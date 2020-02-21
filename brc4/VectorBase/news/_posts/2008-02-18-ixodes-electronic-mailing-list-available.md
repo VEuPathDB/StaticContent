@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Ixodes electronic mailing list available
 category: [VectorBase]
 created: 1203393600

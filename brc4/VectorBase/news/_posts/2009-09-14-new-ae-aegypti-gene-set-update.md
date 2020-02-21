@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New Ae. aegypti gene set update
 category: [VectorBase]
 created: 1252987200

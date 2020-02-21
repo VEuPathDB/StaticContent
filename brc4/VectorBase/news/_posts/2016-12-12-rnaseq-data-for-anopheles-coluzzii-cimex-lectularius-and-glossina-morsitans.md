@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: RNAseq data for Anopheles coluzzii, Cimex lectularius and Glossina morsitans
 category: [VectorBase]
 created: 1481561185

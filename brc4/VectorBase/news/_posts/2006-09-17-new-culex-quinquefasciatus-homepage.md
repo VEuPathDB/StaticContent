@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New Culex quinquefasciatus Homepage
 category: [VectorBase]
 created: 1158552000

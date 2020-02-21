@@ -1,7 +1,6 @@
 ---
 categories:
 - news article
-layout: news_articles
 title: Aedes albopictus C6/36 cell line assembly
 category: [VectorBase]
 created: 1493002399

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Microarray probe mappings have been updated
 category: [VectorBase]
 created: 1487706293

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Kissing bugs for Valentine's Day!
 category: [VectorBase]
 created: 1297659600

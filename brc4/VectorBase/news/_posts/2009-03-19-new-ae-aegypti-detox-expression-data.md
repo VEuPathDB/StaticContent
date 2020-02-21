@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New Ae. aegypti detox expression data
 category: [VectorBase]
 created: 1237521600

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New mass spectrometry data for <em>An. gambiae</em>
 category: [VectorBase]
 created: 1461612646

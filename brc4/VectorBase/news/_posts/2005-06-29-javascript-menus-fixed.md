@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Javascript Menus Fixed
 category: [VectorBase]
 created: 1120104000

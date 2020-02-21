@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New assembly - Aag2 <em>Ae. aegypti</em> cell line
 category: [VectorBase]
 created: 1466616793

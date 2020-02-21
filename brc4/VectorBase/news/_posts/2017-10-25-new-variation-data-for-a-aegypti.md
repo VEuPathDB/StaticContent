@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New variation data for A. aegypti
 category: [VectorBase]
 created: 1508960650

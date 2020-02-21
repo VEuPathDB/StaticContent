@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New genome browser look and feel
 category: [VectorBase]
 created: 1274414400

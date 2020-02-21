@@ -1,7 +1,6 @@
 ---
 categories:
 - culex quinquefasciatus
-layout: news_articles
 title: C. quinquefasciatus genome paper published
 category: [VectorBase]
 created: 1285905600

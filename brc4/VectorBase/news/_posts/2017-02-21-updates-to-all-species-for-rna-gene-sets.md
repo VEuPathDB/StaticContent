@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Updates to all species for RNA gene sets
 category: [VectorBase]
 created: 1487705918

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: C. pipiens quinquefasciatus 0.5 gene build available
 category: [VectorBase]
 created: 1177473600

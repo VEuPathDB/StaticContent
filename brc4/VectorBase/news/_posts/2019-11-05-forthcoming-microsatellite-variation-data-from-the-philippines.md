@@ -1,7 +1,6 @@
 ---
 categories:
 - placeholder
-layout: news_articles
 title: Forthcoming microsatellite variation data from the Philippines
 category: [VectorBase]
 created: 1572962012

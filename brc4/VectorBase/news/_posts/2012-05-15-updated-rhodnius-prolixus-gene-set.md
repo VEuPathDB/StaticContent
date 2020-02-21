@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Updated Rhodnius prolixus gene set
 category: [VectorBase]
 created: 1337140800

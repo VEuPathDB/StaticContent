@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: 'Detox time: larval expression profiles for 5 xenobiotics'
 category: [VectorBase]
 created: 1201147200

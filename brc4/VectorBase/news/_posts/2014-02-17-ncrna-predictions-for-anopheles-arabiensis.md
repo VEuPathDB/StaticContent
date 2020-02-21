@@ -1,7 +1,6 @@
 ---
 categories:
 - highlight organism
-layout: news_articles
 title: ncRNA predictions for Anopheles arabiensis
 category: [VectorBase]
 created: 1392691431

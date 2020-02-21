@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New An. gambiae Homepage
 category: [VectorBase]
 created: 1120104000

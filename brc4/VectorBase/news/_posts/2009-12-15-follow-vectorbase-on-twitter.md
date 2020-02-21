@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Follow VectorBase on Twitter
 category: [VectorBase]
 created: 1260939600

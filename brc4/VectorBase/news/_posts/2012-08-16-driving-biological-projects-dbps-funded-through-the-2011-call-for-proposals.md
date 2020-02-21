@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Driving Biological Projects (DBPs) funded through the 2011 call for proposals
 category: [VectorBase]
 created: 1345155979

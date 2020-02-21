@@ -1,7 +1,6 @@
 ---
 categories:
 - news article
-layout: news_articles
 title: Variation updates
 category: [VectorBase]
 created: 1493003534

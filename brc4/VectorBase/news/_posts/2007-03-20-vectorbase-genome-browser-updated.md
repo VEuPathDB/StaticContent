@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: VectorBase genome browser updated
 category: [VectorBase]
 created: 1174449600

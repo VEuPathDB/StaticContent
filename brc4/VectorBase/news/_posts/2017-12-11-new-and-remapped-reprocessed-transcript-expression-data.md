@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New and remapped/reprocessed transcript expression data
 category: [VectorBase]
 created: 1512993902

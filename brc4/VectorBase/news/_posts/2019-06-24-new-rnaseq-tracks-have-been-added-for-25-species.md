@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New RNAseq tracks have been added for 25 species
 category: [VectorBase]
 created: 1561409012

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: An assembly and minor gene set update for <em>A. atroparvus</em>
 category: [VectorBase]
 created: 1530203032

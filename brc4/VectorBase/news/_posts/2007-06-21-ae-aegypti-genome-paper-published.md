@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Ae. aegypti Genome paper published
 category: [VectorBase]
 created: 1182484800

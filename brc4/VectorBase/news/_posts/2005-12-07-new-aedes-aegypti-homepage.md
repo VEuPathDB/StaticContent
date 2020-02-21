@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New Aedes aegypti Homepage
 category: [VectorBase]
 created: 1134014400

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New BLAST interface launched
 category: [VectorBase]
 created: 1253764800

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: INSDC accessions for G. morsitans
 category: [VectorBase]
 created: 1508960871

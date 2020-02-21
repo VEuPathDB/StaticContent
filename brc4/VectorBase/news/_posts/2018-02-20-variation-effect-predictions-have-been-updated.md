@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Variation effect predictions have been updated
 category: [VectorBase]
 created: 1519154277

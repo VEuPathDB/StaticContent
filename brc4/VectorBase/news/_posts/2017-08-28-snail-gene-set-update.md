@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Snail gene set update
 category: [VectorBase]
 created: 1503951201

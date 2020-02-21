@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Driving Biological Projects Funded by NIH/NIAID
 category: [VectorBase]
 created: 1287374400

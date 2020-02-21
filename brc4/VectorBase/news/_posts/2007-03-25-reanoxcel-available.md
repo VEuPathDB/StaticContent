@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: ReAnoXcel available
 category: [VectorBase]
 created: 1174881600

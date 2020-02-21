@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New An. gambiae gene build
 category: [VectorBase]
 created: 1186545600

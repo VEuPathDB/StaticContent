@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Enhanced BLAST Online
 category: [VectorBase]
 created: 1151985600

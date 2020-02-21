@@ -1,7 +1,6 @@
 ---
 categories:
 - news article
-layout: news_articles
 title: Microarray mapping updates
 category: [VectorBase]
 created: 1493003176

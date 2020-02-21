@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: The Photography of Jim Gathany
 category: [VectorBase]
 created: 1487652751

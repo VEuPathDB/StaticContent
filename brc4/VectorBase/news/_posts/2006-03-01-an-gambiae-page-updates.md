@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: An. gambiae Page Updates
 category: [VectorBase]
 created: 1141272000

@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: M & S form expression data now available
 category: [VectorBase]
 created: 1224129600

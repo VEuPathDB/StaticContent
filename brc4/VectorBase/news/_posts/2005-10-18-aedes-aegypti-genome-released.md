@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Aedes aegypti genome released
 category: [VectorBase]
 created: 1129694400

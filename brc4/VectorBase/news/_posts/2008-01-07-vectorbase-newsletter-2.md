@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: 'VectorBase Newsletter #2'
 category: [VectorBase]
 created: 1199764800

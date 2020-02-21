@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: New Aedes aegypti gene set
 category: [VectorBase]
 created: 1336017600

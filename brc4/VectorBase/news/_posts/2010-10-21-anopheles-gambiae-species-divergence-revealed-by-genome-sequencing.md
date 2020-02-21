@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Anopheles gambiae species divergence revealed by genome sequencing
 category: [VectorBase]
 created: 1287720000

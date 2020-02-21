@@ -1,7 +1,6 @@
 ---
 categories:
 - news article
-layout: news_articles
 title: New ortholog metrics
 category: [VectorBase]
 created: 1493004106

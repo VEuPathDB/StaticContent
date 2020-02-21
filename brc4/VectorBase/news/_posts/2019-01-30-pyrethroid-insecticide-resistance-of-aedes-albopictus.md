@@ -1,6 +1,5 @@
 ---
 categories: []
-layout: news_articles
 title: Pyrethroid insecticide resistance of Aedes albopictus
 category: [VectorBase]
 created: 1548867188
