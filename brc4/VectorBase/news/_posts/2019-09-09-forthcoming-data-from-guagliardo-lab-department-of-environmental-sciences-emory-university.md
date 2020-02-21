@@ -1,11 +1,6 @@
 ---
-categories:
-- placeholder
-layout: news_articles
 title: Forthcoming data from Guagliardo lab, Department of Environmental Sciences,
 category: [VectorBase]
-  Emory University.
-created: 1568021234
 ---
 Microsatellite data for Aedes aegypti mosquitoes collected from the Peruvian Amazon by Sarah Anne J. Guagliardo and colleagues, as published in PLoS Neglected Tropical Diseases, will be made available here soon after the merger of VectorBase and EuPathDB.
 
