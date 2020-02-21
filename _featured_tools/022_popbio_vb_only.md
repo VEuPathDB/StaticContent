@@ -1,6 +1,6 @@
 ---
 identifier: "popbio"
-listIconKey: "globe-stand"
+listIconKey: "globe"
 listTitle: "Population Biology"
 descriptionTitle: "Population Biology"
 category: [VectorBase]
