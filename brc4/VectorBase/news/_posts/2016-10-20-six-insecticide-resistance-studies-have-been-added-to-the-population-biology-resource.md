@@ -1,10 +1,6 @@
 ---
-categories: []
-layout: news_articles
 title: Six insecticide resistance studies have been added to the population biology
 category: [VectorBase]
-  resource
-created: 1476971511
 ---
 <p>Data from six insecticide resistance papers have been added:
 <ul>
