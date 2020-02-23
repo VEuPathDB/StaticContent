@@ -9,7 +9,7 @@ listIconKey: code-fork fa-rotate-270
     margin: auto;
     margin-top: 3em; 
   }
-   .vpdb-FeaturedToolsSelectionBodyReadMore__expanded .search-strategies-feature {
+   .vpdb-FeaturedToolsSelectionBodyContent__expanded .search-strategies-feature {
     margin: auto;
     margin-top: 4em;
   }
@@ -50,7 +50,7 @@ listIconKey: code-fork fa-rotate-270
   #topright {
     position: absolute;
   }
-  vpdb-FeaturedToolsSelectionBodyReadMore__expanded . #topright { 
+  .vpdb-FeaturedToolsSelectionBodyContent__expanded . #topright { 
     position: absolute;
     top: 6em;
   }
