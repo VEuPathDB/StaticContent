@@ -1,13 +1,5 @@
 ---
 layout: null
-title: vb_features_tools_json
 permalink: VectorBase/features_tools.json
 ---
-{% capture output %}[{% for ft in site.featured_tools %}{% if ft.category contains "VectorBase" or ft.category == nil %}
-   {
-     "output":{{ ft.output | jsonify }},
-     "descriptionTitle":{{ ft.descriptionTitle | jsonify }},
-     "identifier":{{ ft.identifier | jsonify }},
-     "listIconKey":{{ ft.listIconKey | jsonify }},
-     "listTitle":{{ ft.listTitle | jsonify }} 
-   },{% endif %}{% endfor %}]{% endcapture %}{{ output | remove: ",]" | append: "]" }}
+{% include featured_tools.json %}

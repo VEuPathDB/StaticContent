@@ -1,0 +1,8 @@
+{% capture output %}[{% for ft in site.featured_tools %}{% if ft.category contains '{{ page.dir | remove: "/" }}' or ft.category == nil %}
+   {
+     "output":{{ ft.output | jsonify }},
+     "descriptionTitle":{{ ft.descriptionTitle | jsonify }},
+     "identifier":{{ ft.identifier | jsonify }},
+     "listIconKey":{{ ft.listIconKey | jsonify }},
+     "listTitle":{{ ft.listTitle | jsonify }}
+   },{% endif %}{% endfor %}]{% endcapture %}{{ output | remove: ",]" | append: "]" }}

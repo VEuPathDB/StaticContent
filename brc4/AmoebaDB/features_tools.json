@@ -1,5 +1,5 @@
 ---
 layout: null
-permalink: PlasmoDB/features_tools.json
+permalink: AmoebaDB/features_tools.json
 ---
 {% include featured_tools.json %}
