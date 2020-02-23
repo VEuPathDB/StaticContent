@@ -9,6 +9,10 @@ listIconKey: code-fork fa-rotate-270
     margin: auto;
     margin-top: 3em; 
   }
+   .vpdb-FeaturedToolsSelectionBodyReadMore__expanded .search-strategies-feature {
+    margin: auto;
+    margin-top: 4em;
+  }
   .search-strategies-feature--panels {
     display: flex;
     flex-wrap: wrap;
@@ -45,16 +49,16 @@ listIconKey: code-fork fa-rotate-270
   }
   #topright {
     position: absolute;
-/*    right: 1em;
-    top: 4em;*/
+  }
+  vpdb-FeaturedToolsSelectionBodyReadMore__expanded . #topright { 
+    position: absolute;
+    top: 6em;
   }
   #topright a {
     padding: 0.5em;
     border: 1px solid #cfcfcf;
     border-radius: 0.5em;
     background-color: #efefef;
-  }
-  #topright a {
     text-decoration: none;
     font-family: Roboto;
     color: #413737;
