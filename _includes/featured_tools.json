@@ -1,4 +1,5 @@
-{% capture output %}[{% for ft in site.featured_tools %}{% if ft.category contains '{{ page.dir | remove: "/" }}' or ft.category == nil %}
+{% assign project = page.dir | remove: "/" %}
+{% capture output %}[{% for ft in site.featured_tools %}{% if ft.category == nil or ft.category contains project %}
    {
      "output":{{ ft.output | jsonify }},
      "descriptionTitle":{{ ft.descriptionTitle | jsonify }},
