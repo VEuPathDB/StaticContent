@@ -11,7 +11,7 @@ listIconKey: code-fork fa-rotate-270
   }
    .vpdb-FeaturedToolsSelectionBodyContent__expanded .search-strategies-feature {
     margin: auto;
-    margin-top: 4em;
+    margin-top: 5em;
   }
   .search-strategies-feature--panels {
     display: flex;
@@ -52,7 +52,7 @@ listIconKey: code-fork fa-rotate-270
   }
   .vpdb-FeaturedToolsSelectionBodyContent__expanded #topright { 
     position: absolute;
-    top: 6em;
+    top: 7em;
   }
   #topright a {
     padding: 0.5em;
