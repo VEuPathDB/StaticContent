@@ -3,7 +3,7 @@ identifier: "population"
 listIconKey: "globe"
 listTitle: "Population Biology"
 descriptionTitle: "Population Biology"
-category: [PlasmoDB]
+category: [VectorBase]
 ---
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; max-width: 1000px; margin: auto;">  
   <ul>
