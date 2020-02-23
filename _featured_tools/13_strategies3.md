@@ -50,7 +50,7 @@ listIconKey: code-fork fa-rotate-270
   #topright {
     position: absolute;
   }
-  .vpdb-FeaturedToolsSelectionBodyContent__expanded . #topright { 
+  .vpdb-FeaturedToolsSelectionBodyContent__expanded #topright { 
     position: absolute;
     top: 6em;
   }
