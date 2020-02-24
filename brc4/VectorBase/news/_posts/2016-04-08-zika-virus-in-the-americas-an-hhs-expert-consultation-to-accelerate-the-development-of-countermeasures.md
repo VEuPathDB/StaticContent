@@ -1,10 +1,6 @@
 ---
-categories:
-- zika news
-title: 'Zika Virus in the Americas: An HHS Expert Consultation to Accelerate the Development
+title: 'Zika Virus in the Americas: An HHS Expert Consultation to Accelerate the Developmen of Countermeasures't
 category: [VectorBase]
-  of Countermeasures'
-created: 1460127509
 ---
 <p>March 28-29, 2016
 <p>Bethesda North Marriott Hotel and Conference Center
