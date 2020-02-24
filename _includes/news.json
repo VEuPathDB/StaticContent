@@ -8,8 +8,8 @@
                      "date":{{ post.date | truncate: 10, "" | jsonify }},
                      "item":{{ post.content | jsonify  }},
                      "tag":{{ post.title | remove:' ' | jsonify }},
-                     "category":"release",
+                     "category":{{ post.tag | jsonify  }},
                      "headline":{{ post.title | jsonify }}},
-                     "id": {{ post.date | remove: " " | jsonify }}
+             "id": {{ post.date | remove: " " | jsonify }}
    },{% endif %}{% endfor %}]{% endcapture %}{{ output | remove: ",]" | append: newLine | append: "]" }}
 }
