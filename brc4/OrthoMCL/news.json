@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: OrthoMCL/news.json
+---
+{% include news.json %}

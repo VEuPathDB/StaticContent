@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: CryptoDB/news.json
+---
+{% include news.json %}

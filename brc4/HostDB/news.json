@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: HostDB/news.json
+---
+{% include news.json %}

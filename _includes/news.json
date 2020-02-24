@@ -1,0 +1,15 @@
+{% assign project = page.dir | remove: "/" %}
+{% capture newLine %}
+{% endcapture %}
+{"records":
+{% capture output %}[{% for post in site.posts %}{% if post.category == nil or post.category contains project %}
+   {
+     "attributes": {
+                     "date":{{ post.date | truncate: 10, "" | jsonify }},
+                     "item":{{ post.content | jsonify  }},
+                     "tag":{{ post.title | remove:' ' | jsonify }},
+                     "category":"release",
+                     "headline":{{ post.title | jsonify }}},
+                     "id": {{ post.date | remove: " " | jsonify }}
+   },{% endif %}{% endfor %}]{% endcapture %}{{ output | remove: ",]" | append: newLine | append: "]" }}
+}

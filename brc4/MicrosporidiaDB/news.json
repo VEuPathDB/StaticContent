@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: MicrosporidiaDB/news.json
+---
+{% include news.json %}

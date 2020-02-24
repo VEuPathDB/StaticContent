@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: ToxoDB/news.json
+---
+{% include news.json %}

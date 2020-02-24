@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: MicrobiomeDB/news.json
+---
+{% include news.json %}
