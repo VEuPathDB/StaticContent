@@ -2,17 +2,4 @@
 layout: null
 permalink: EuPathDB/news.json
 ---
-{% capture newLine %}
-{% endcapture %}
-{"records":
-{% capture output %}[{% for post in site.posts %}
-     {
-      "attributes": {
-                     "date":{{ post.date | truncate: 10, "" | jsonify }},
-                     "item":{{ post.content | jsonify  }},
-                     "tag":{{ post.title | remove:' ' | jsonify }},
-                     "category":"release",
-                     "headline":{{ post.title | jsonify }}},
-              "id": {{ post.date | remove: " " | jsonify }}
-   },{% endfor %}]{% endcapture %}{{ output | remove: ",]" | append: newLine | append: "]" }}
-}
+{% include news.json %}
