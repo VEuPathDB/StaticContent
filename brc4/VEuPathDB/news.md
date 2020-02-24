@@ -1,5 +1,5 @@
 ---
 layout: null
-permalink: EuPathDB/news
+permalink: VEuPathDB/news
 ---
 {% include news.md %}
