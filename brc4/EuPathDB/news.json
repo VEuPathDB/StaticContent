@@ -14,5 +14,5 @@ permalink: EuPathDB/news.json
                      "category":"release",
                      "headline":{{ post.title | jsonify }}},
               "id": {{ post.date | remove: " " | jsonify }}
-   },{% endif %}{% endfor %}]{% endcapture %}{{ output | remove: ",]" | append: newLine | append: "]" }}
+   },{% endfor %}]{% endcapture %}{{ output | remove: ",]" | append: newLine | append: "]" }}
 }
