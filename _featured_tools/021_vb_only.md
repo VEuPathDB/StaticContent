@@ -5,10 +5,8 @@ listTitle: "What is new"
 descriptionTitle: "What is new"
 category: [VectorBase]
 ---
-<div style="display: flex; justify-content: center; align-items: center">  
-(Placeholder)
-  
-  <p>Welcome to VectorBase new (beta) website!</p>
+
+<p>Welcome to VectorBase new (beta) website!</p>
 
 <p>We have many new tools, to help you better browse and query omics and population data.</p>
 
