@@ -26,7 +26,7 @@ url: "https://qa.community.eupathdb.org" # the base hostname & protocol for your
 search_enabled: true
 future: true
 
-theme: minima
+#theme: minima
 
 #prose:
 #  siteurl: "https://devcommunity.eupathdb.org/"
