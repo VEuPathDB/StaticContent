@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: EuPathDB/features_tools.json
+---
+{% include featured_tools.json %}
