@@ -6,7 +6,7 @@ descriptionTitle: "What is new"
 category: [VectorBase]
 ---
 
-<h1>Welcome to VectorBase new (beta) website!</h1>
+<h2>Welcome to VectorBase new (beta) website!</h2>
 
 <p>We have many new tools, to help you better browse and query omics and population data.</p>
 
