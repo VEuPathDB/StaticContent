@@ -1,5 +1,5 @@
 ---
 layout: null
-permalink: ClinEpiDB/news
+permalink: SchistoDB/news
 ---
 {% include news.md %}

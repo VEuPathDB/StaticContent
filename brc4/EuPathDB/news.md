@@ -1,5 +1,5 @@
 ---
 layout: null
-permalink: ClinEpiDB/news
+permalink: EuPathDB/news
 ---
 {% include news.md %}

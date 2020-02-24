@@ -1,5 +1,5 @@
 ---
 layout: null
-permalink: ClinEpiDB/news
+permalink: FungiDB/news
 ---
 {% include news.md %}

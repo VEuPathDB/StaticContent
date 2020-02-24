@@ -1,5 +1,5 @@
 ---
 layout: null
-permalink: ClinEpiDB/news
+permalink: OrthoMCL/news
 ---
 {% include news.md %}
