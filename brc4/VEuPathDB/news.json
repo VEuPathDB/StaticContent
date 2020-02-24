@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: EuPathDB/news.json
+---
+{% include news.json %}
