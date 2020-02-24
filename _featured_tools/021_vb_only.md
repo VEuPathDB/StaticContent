@@ -10,9 +10,9 @@ category: [VectorBase]
 
 <p>We have many new tools, to help you better browse and query omics and population data.</p>
 
-<p>The old website <a href="https://www.vectorbase.org/legacy">[Data > Organisms > Data type summary]</a>, will remain available until the new one has all the datasets, and all the tools and resources with its corresponding desired functionalities working properly.</p>
+<p>The <a href="https://www.vectorbase.org">old website</a> will remain available until the new one has all the datasets, and all the tools and resources with its corresponding desired functionalities working properly.</p>
 
-<p>Follow this link <a href="https://qa.vectorbase.org/vectorbase.b47/app/search/organism/GenomeDataTypes/result">VectorBase</a> to view a summary table of the currently available datasets for each species.</p>
+<p>Follow this link <a href="https://www.vectorbase.org/legacy">[Data > Organisms > Data type summary]</a> to view a summary table of the currently available datasets for each species.</p>
 
 <p>New datasets will start to be incorporated towards the middle or end of this year 2020 calendar year.  Please lets us know if you wish to submit a new data set or make us aware of one relevant for your research.</p>
 
