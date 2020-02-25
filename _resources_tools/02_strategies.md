@@ -46,7 +46,9 @@ listIconKey: code-fork fa-rotate-270
     position: absolute;
     right: 1em;
     top: 3em;
-    padding: 0.5em;
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
 }
    #toprightsecond {
     position: absolute;
