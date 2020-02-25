@@ -46,7 +46,9 @@ listIconKey: code-fork fa-rotate-270
     position: absolute;
     right: 1em;
     top: 3em;
-    padding: 0.5em;
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
 }
    #toprightsecond {
     position: absolute;
@@ -61,7 +63,7 @@ listIconKey: code-fork fa-rotate-270
 }
 </style>
 <div id="topright">
-  <a href="/a/app/workspace/strategies">My Strategies</a>
+  <a href="/a/app/workspace/strategies">My Strategies</a>&nbsp; &nbsp; &nbsp;
   <a href="/a/app/query-grid">All Available Searches</a>
 </div>
 <br/>
@@ -73,12 +75,12 @@ listIconKey: code-fork fa-rotate-270
       <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/We-analyze.png" | absolute_url }}" alt="Searches"/>
     </div>
     <div>
-      <div>You search our analysis results from our point and click interface.  Choose from >100 searches that query ~20 data types and ~1000 data sets</div>
-      <img style="width: 20em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/SignalPeptide.png" | absolute_url }}" alt="Strategy panel"/>
+      <div>You search our analysis results from our point and click interface.  Choose from >100 searches that query ~20 data types and ~1000 data sets.  Access the searches from the homepage <b><i>'Search for...'</i></b> panel or from the dropdown Searches menu in every page header. </div>
+      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/SignalPeptide.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
     <div>
       <div>Add searches one at a time to create a strategy and find exactly the type of genes you need, such as signal peptide containing genes that are expressed in merozoites.</div>
-      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/strategy-panel_3.png" | absolute_url }}" alt="Strategy panel"/>
+      <img style="width: 45em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/strategy-panel_3.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
   <p><br/>To delve deeper into Search Strategies, try our 
   <a href="{{ "/assets/images/resources_tools/Strategies_Training_Module_2019.pdf" | absolute_url }}"><b>Strategies learning exercise</b></a> which takes about an hour to complete.  And please <a href="https://eupathdb.org/eupathdb/app/contact-us"><b>Contact Us</b></a> with any questions or suggestions.</p>

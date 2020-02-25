@@ -3,6 +3,7 @@ identifier: search-strategies-original-TopRight
 listTitle: Search Strategies Top Right
 descriptionTitle: Search Strategies Top Right
 listIconKey: code-fork fa-rotate-270
+published: false
 ---
 <style>
   .search-strategies-feature {
