@@ -47,18 +47,12 @@ listIconKey: code-fork fa-rotate-270
     right: 1em;
     top: 3em;
     padding: 0.5em;
-    border: 1px solid #d6c5c5;
-    border-radius: 0.5em;
-    background-color: #d6c5c5;
 }
    #toprightsecond {
     position: absolute;
     right: 1em;
     top: 6em;
     padding: 0.5em;
-    border: 1px solid #d6c5c5;
-    border-radius: 0.5em;
-    background-color: #d6c5c5;
 }
   #topright a {
     text-decoration: none;
