@@ -16,6 +16,4 @@ category: [VectorBase]
 
 <p>New datasets will start to be incorporated after the middle of this 2020 calendar year.  Please lets us know if you wish to submit a new data set or make us aware of one relevant for your research to help us prioritize our list.</p>
 
-<p>If you have questions, want to give feedback or have ideas about the new site, need help or, or anything else that you can think of, email us to <a href="/vectorbase.b47/app/contact-us">help@veupathdb.orga</a>.</p>  
-  
-</div>
+<p>If you have questions, want to give feedback or have ideas about the new site, need help or, or anything else that you can think of, email us to <a href="/vectorbase.b47/app/contact-us">help@veupathdb.org</a>.</p>  
