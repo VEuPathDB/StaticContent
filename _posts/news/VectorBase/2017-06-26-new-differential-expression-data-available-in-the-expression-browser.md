@@ -1,9 +1,6 @@
 ---
-categories:
-- news article
 title: New differential expression data available (in the Expression Browser)
 category: [VectorBase]
-created: 1498507820
 ---
 Differential RNA-seq expression data added from four publications. There is now differential expression data available for <a href="/search/site/*?&site=%22Expression%22&bundle_name=%22Experiment%22">ten species</a>.
 <li>

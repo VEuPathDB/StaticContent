@@ -1,9 +1,6 @@
 ---
-categories:
-- news article
 title: VectorBase private virtual lab meetings, webinars and other outreach events
 category: [VectorBase]
-created: 1549924259
 ---
 <p style="text-align:justify">Dear VectorBasers,
 

@@ -1,9 +1,6 @@
 ---
-categories:
-- placeholder
 title: Forthcoming microsatellite variation data from the Philippines
 category: [VectorBase]
-created: 1572962012
 ---
 Microsatellite data from Metropolitan Manila, Philippines, corresponding to a forthcoming publication from the Carvajal lab. will be made publicly available in a forthcoming VectorBase release.
 

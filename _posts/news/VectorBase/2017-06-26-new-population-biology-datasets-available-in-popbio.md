@@ -1,9 +1,6 @@
 ---
-categories:
-- news article
 title: New population biology datasets available (in PopBio)
 category: [VectorBase]
-created: 1498508647
 ---
 Ten new population biology datasets are available:
 

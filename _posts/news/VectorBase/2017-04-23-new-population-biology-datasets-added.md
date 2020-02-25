@@ -1,9 +1,6 @@
 ---
-categories:
-- news article
 title: New population biology datasets added
 category: [VectorBase]
-created: 1493005505
 ---
 Fourteen new population biology datasets added, including sample metadata from the MalariaGen 1000 <i>Anopheles gambiae</i> genomes project, insecticide resistance studies and several large new blood meal species identification studies.
 
