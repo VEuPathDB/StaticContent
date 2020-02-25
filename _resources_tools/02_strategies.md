@@ -51,7 +51,7 @@ listIconKey: code-fork fa-rotate-270
    #toprightsecond {
     position: absolute;
     right: 1em;
-    top: 6em;
+    top: 5em;
     padding: 0.5em;
 }
   #topright a {
@@ -60,10 +60,9 @@ listIconKey: code-fork fa-rotate-270
     color: #413737;
 }
 </style>
-<div id="topright"><a href="/a/app/workspace/strategies" title="TopRight">My Strategies</a>
-</div>
-<br/>
-<div id="toprightsecond"><a href="/a/app/query-grid" title="TopRight">All Available Searches</a>
+<div id="topright">
+  <a href="/a/app/workspace/strategies">My Strategies</a>
+  <a href="/a/app/query-grid">All Available Searches</a>
 </div>
 <br/>
 <div class="search-strategies-feature">
