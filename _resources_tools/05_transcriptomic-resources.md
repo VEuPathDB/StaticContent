@@ -46,19 +46,15 @@ descriptionTitle: "Transcriptomic Resources"
     position: absolute;
     right: 1em;
     top: 3em;
-    padding: 0.5em;
-    border: 1px solid #d6c5c5;
-    border-radius: 0.5em;
-    background-color: #d6c5c5;
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
 }
      #toprightsecond {
     position: absolute;
     right: 1em;
     top: 6em;
     padding: 0.5em;
-    border: 1px solid #d6c5c5;
-    border-radius: 0.5em;
-    background-color: #d6c5c5;
 }
   #topright a {
     text-decoration: none;
@@ -66,10 +62,9 @@ descriptionTitle: "Transcriptomic Resources"
     color: #413737;
 }
 </style>
-<div id="topright"><a href="/a/app/search/transcript/GenesByRNASeqEvidence" title="TopRight">Search RNA Seq Data</a>
-</div>
-<br/>
-<div id="toprightsecond"><a href="/a/app/record/gene/PF3D7_1133400#category:transcriptomics" title="TopRight">Gene Page Transcriptomics</a>
+<div id="topright">
+   <a href="/a/app/search/transcript/GenesByRNASeqEvidence">Search RNA Seq Data</a>&nbsp; &nbsp; &nbsp;
+   <a href="app/record/gene/PF3D7_1133400#ExpressionGraphs">Gene Page Expression Graphs</a>
 </div>
 <br/>
 <div class="transcriptomic-resources-feature">
