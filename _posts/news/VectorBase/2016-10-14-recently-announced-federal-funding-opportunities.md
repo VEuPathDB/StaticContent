@@ -1,9 +1,6 @@
 ---
-categories:
-- zika news
 title: Recently announced federal funding opportunities
 category: [VectorBase]
-created: 1476465899
 ---
 Recently announced federal funding opportunities:
 

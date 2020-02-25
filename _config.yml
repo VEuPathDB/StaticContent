@@ -58,7 +58,7 @@ page_gen:
   - data: 'projects'
     template: 'help'
     name: 'name'
-    dir: 'embedded/help'
+    dir: 'aboutall'
   - data: 'general'
     template: 'help'
     name: 'name'

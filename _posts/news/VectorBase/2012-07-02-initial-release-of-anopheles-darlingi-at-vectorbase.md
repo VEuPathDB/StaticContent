@@ -1,9 +1,6 @@
 ---
-categories:
-- highlight organism
 title: Initial release of Anopheles darlingi at VectorBase
 category: [VectorBase]
-created: 1341288000
 ---
 <p>
 The <i>Anopheles darlingi</i> genome and annotations have been included in the VB-2012-06 release:

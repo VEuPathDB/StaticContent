@@ -1,9 +1,6 @@
 ---
-categories:
-- news article
 title: IMPORTANT! VectorBase to merge with EupathDB
 category: [VectorBase]
-created: 1549282692
 ---
 <p style="text-align:justify">Dear VectorBasers,
 
