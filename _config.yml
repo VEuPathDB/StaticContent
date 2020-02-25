@@ -62,7 +62,7 @@ page_gen:
   - data: 'general'
     template: 'help'
     name: 'name'
-    dir: 'embedded/help'
+    dir: 'aboutall'
 
 plugins:
   - jekyll-seo-tag
