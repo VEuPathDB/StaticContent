@@ -1,5 +1,0 @@
----
-layout: null
-permalink: CryptoDB/features_tools.json
----
-{% include featured_tools.json %}

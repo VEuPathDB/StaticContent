@@ -3,17 +3,12 @@ layout: plain
 published: true
 ---
 
-{%- assign project = page.title -%}
-{%- capture path_match -%}_embedded_content/{{project}}{%- endcapture -%}
-
-{%- assign records = site.embedded_content | sort: 'order' -%}
+{%- assign records = site.about_all | sort: 'order' -%}
 
 {%- for item in records -%}
-  {% if item.path contains path_match %}
-    
-    <a id="{{ item.tag }}"/>
-    {{ item.content }}
-    <hr/>
 
-  {% endif %}
+  <a id="{{ item.tag }}"/>
+  {{ item.content }}
+  <hr/>
+
 {%- endfor -%}

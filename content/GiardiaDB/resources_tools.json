@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: GiardiaDB/resources_tools.json
+---
+{% include resources_tools.json %}

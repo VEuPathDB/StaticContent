@@ -1,9 +1,0 @@
----
-layout: plain
-title: features_tools
----
-{%
-  include collection.json
-  collection=site.featured_tools
-  keys="output,descriptionTitle,identifier,listIconKey,listTitle"
-%}

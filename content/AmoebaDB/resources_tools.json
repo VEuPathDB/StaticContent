@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: AmoebaDB/resources_tools.json
+---
+{% include resources_tools.json %}

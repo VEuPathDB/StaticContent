@@ -1,0 +1,9 @@
+{% assign project = page.dir | remove: "/" %}
+{% capture output %}[{% for ft in site.resources_tools %}{% if ft.category == nil or ft.category contains project %}
+   {
+     "output":{{ ft.output | jsonify }},
+     "descriptionTitle":{{ ft.descriptionTitle | jsonify }},
+     "identifier":{{ ft.identifier | jsonify }},
+     "listIconKey":{{ ft.listIconKey | jsonify }},
+     "listTitle":{{ ft.listTitle | jsonify }}
+   },{% endif %}{% endfor %}]{% endcapture %}{{ output | remove: ",]" | append: "]" }}
