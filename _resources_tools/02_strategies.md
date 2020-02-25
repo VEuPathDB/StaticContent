@@ -75,7 +75,7 @@ listIconKey: code-fork fa-rotate-270
       <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/We-analyze.png" | absolute_url }}" alt="Searches"/>
     </div>
     <div>
-      <div>You search our analysis results from our point and click interface.  Choose from >100 searches that query ~20 data types and ~1000 data sets.  Access the searches from the homepage <b><i>'Search for...</i></b> panel or from the dropdown Searches menu in every page header. </div>
+      <div>You search our analysis results from our point and click interface.  Choose from >100 searches that query ~20 data types and ~1000 data sets.  Access the searches from the homepage <b><i>'Search for...'</i></b> panel or from the dropdown Searches menu in every page header. </div>
       <img style="width: 27em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/SignalPeptide.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
     <div>
