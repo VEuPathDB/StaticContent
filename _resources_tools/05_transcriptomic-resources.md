@@ -56,11 +56,7 @@ descriptionTitle: "Transcriptomic Resources"
     top: 6em;
     padding: 0.5em;
 }
-  #topright a {
-    text-decoration: none;
-    font-family: Roboto;
-    color: #413737;
-}
+
 </style>
 <div id="topright">
   <b>TOOLS: </b>
