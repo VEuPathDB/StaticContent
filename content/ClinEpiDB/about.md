@@ -2,6 +2,7 @@
 title: About ClinEpiDB
 layout: null
 permalink: /ClinEpiDB/about
+tags: [general]
 ---
 
 <div id="ce-static-content">
