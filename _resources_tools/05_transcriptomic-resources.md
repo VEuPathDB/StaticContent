@@ -63,8 +63,10 @@ descriptionTitle: "Transcriptomic Resources"
 }
 </style>
 <div id="topright">
-   <a href="/a/app/search/transcript/GenesByRNASeqEvidence">Search RNA Seq Data</a>&nbsp; &nbsp; &nbsp;
-   <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs">Gene Page Expression Graphs</a>
+  <b>TOOLS: </b>
+   <a href="/a/app/search/transcript/GenesByRNASeqEvidence"><b>Search RNA-Seq Data</b></a>&nbsp; &nbsp; &nbsp;
+   <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs"><b>Example Gene Page Data</b></a>&nbsp; &nbsp; &nbsp;
+   <a href="/a/app/search/transcript/GenesByMicroarrayEvidence"><b>Search Microarray Data</b></a>&nbsp; &nbsp; &nbsp;
 </div>
 <br/>
 <div class="transcriptomic-resources-feature">
@@ -75,18 +77,15 @@ descriptionTitle: "Transcriptomic Resources"
 
 <div class="transcriptomic-resources-feature--panels">
   <div>
-    <div>Tables, and graphs on gene pages or in search result columns.  <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs">Example Gene Page Expression Graphs</a>  </div>
+    <div>Tables, and graphs on gene pages or in search result columns.  <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs"><b>Example Gene Page Data</b></a>  </div>
       <img style="width: 25em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Table-Graph.png" | absolute_url }}" alt="Searches"/><br>
   </div>
   <div>
-    <div>Genome browser tracks for dynamic visualization of analyzed data as read coverage plots or predicted introns. <a href="/a/jbrowse.jsp?loc=Pf3D7_11_v3%3A1278857..1310725&data=%2Fa%2Fservice%2Fjbrowse%2Ftracks%2Fpfal3D7&tracks=gene%2CRNASeq%20Evidence%20for%20Introns%20(Inclusive)%2CRNASeq%20Evidence%20for%20Introns%20(Refined)&highlight=">Example JBrowse view</a></div>
+    <div>Genome browser tracks for dynamic visualization of analyzed data as read coverage plots or predicted introns. <a href="/a/jbrowse.jsp?loc=Pf3D7_11_v3%3A1278857..1310725&data=%2Fa%2Fservice%2Fjbrowse%2Ftracks%2Fpfal3D7&tracks=gene%2CRNASeq%20Evidence%20for%20Introns%20(Inclusive)%2CRNASeq%20Evidence%20for%20Introns%20(Refined)&highlight="><b>Example JBrowse view</b></a></div>
       <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-JBrowse.png" | absolute_url }}" alt="Searches"/><br>
   </div>
-
-
-  
   <div>
-    <div>Searches that query individual data sets and return lists of genes based on experimental parameters like life cycle stage, treatment or expression level. <a href="/a/app/search/transcript/GenesByRNASeqEvidence">Search RNA Seq Data</a></div>
+    <div>Searches that query individual data sets and return lists of genes based on parameters like life cycle stage, treatment, expression level, fold change. <a href="/a/app/search/transcript/GenesByRNASeqEvidence"><b>Search RNA Seq Data</b></a></div>
       <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Search.png" | absolute_url }}" alt="Searches"/>
   </div>
 </div>
