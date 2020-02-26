@@ -2,6 +2,7 @@
 layout: plain
 title: ClinEpiDB Tutorials and Resources
 permalink: /ClinEpiDB/resources
+tags: [tutorial]
 ---
 <div id="ce-static-content">
 
