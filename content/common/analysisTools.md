@@ -2,6 +2,7 @@
 layout: plain
 title: Analysis tools tutorial
 permalink: /analysisTools
+tags: [tutorial]
 ---
 <div id="ce-static-content">
 <h1>Analyze Your Strategy Results <a href="https://www.youtube.com/watch?v=npgkkychkrI" class="new-window">
