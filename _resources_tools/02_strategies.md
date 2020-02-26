@@ -83,6 +83,6 @@ listIconKey: code-fork fa-rotate-270
       <img style="width: 45em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/strategy-panel_3.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
   <p><br/>To delve deeper into Search Strategies, try our 
-  <a href="{{ "/assets/images/resources_tools/Strategies_Training_Module_2019.pdf" | absolute_url }}"><b>Strategies learning exercise</b></a> which takes about an hour to complete.  And please <a href="https://eupathdb.org/eupathdb/app/contact-us"><b>Contact Us</b></a> with any questions or suggestions.</p>
+<a href="/documents/Strategies_Training_Module_2019.pdf"><b>Strategies learning exercise</b></a> which takes about an hour to complete.  And please <a href="/a/app/contact-us"><b>Contact Us</b></a> with any questions or suggestions.</p>
   </div>
 </div>
