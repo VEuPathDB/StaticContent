@@ -15,7 +15,7 @@ VEuPathDB is packed with data, tools and visualizations that can help answer you
    <p class="indent">Enter a term of ID in the site search box at the top of any page to query the site.  The site search returns a categorized list of records that contain your term.  It's easy to find genes, data sets, pathways andmore with the site search.<br>
 
    <div style="display: flex; justify-content: center; align-items: center">  
-   <iframe width="300" height="168" src="{{ "/assets/images/resources_tools/Dowload-data-values-HQ.gif" | absolute_url }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="300" height="168" src="{{ "/assets/images/resources_tools/Dowload-data-values-HQ.gif" | absolute_url }}" alt="GIF" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </div>
    </p>
 
