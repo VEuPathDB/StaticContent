@@ -2,7 +2,7 @@
 identifier: getting-started
 listTitle: Getting Started
 descriptionTitle: Getting Started
-listIconKey: fa-hourglass-start
+listIconKey: hourglass-start
 ---
 <style>
 p.indent {
@@ -15,7 +15,7 @@ VEuPathDB is packed with data, tools and visualizations that can help answer you
    <p class="indent">Enter a term of ID in the site search box at the top of any page to query the site.  The site search returns a categorized list of records that contain your term.  It's easy to find genes, data sets, pathways andmore with the site search.<br>
 
    <div style="display: flex; justify-content: center; align-items: center">  
-   <img width="300" height="168" src="{{ "/assets/images/resources_tools/Dowload-data-values-HQ.gif" | absolute_url }}" alt="GIF"></img>
+   <img width="300" height="220" src="{{ "/assets/images/resources_tools/Dowload-data-values-HQ.gif" | absolute_url }}" alt="GIF"></img>
    </div>
    </p>
 
