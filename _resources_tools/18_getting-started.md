@@ -9,9 +9,6 @@ p.indent {
     margin-left: 3em
 }
 
-p.ortion50 {
-    wra
-}
 </style>
 VEuPathDB is packed with data, tools and visualizations that can help answer your research questions.  We gather data from many sources, analyze according to standard workflows, and present the results for you to mine in a point and click interface. Here's a little on how to get started:<br><br>
 
