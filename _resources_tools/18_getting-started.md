@@ -13,7 +13,7 @@ p.indent {
 VEuPathDB is packed with data, tools and visualizations that can help answer your research questions.  We gather data from many sources, analyze according to standard workflows, and present the results for you to mine in a point and click interface. Here's a little on how to get started:<br><br>
 
 <b>SITE SEARCH</b>: Find what you need<br>
-   <p class="indent">Enter a term or ID in the site search box at the top of any page to query the site.  The site search returns a categorized list of records that contain your term.  It's easy to find genes, data sets, pathways, searches and more with the site search.<br>
+   <p class="indent">Enter a term or ID in the site search box at the top of any page.  The site search returns a categorized list of records that contain your term.  It's easy to find genes, data sets, pathways, searches and more with the site search.<br>
 
    <div style="display: flex; justify-content: center; align-items: center">  
    <img width="300" height="220" src="{{ "/assets/images/resources_tools/Dowload-data-values-HQ.gif" | absolute_url }}" alt="GIF" />
