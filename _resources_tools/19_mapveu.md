@@ -2,7 +2,7 @@
 identifier: mapveu
 listTitle: MapVeu
 descriptionTitle: MapVeu
-listIconKey: "bullhorn"
+listIconKey: "globe"
 ---
 <style>
   .search-strategies-feature {
