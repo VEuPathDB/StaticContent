@@ -1,5 +1,5 @@
 ---
-layout: plain
+permalink: workshop_exercises
 title: workshop_exercises
 ---
 {{ site.data.workshop_exercises | jsonify }}
