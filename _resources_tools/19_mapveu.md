@@ -80,10 +80,10 @@ listIconKey: code-fork fa-rotate-270
     </div>
     <div>
       <div>Raw data is available for download and export.</div>
-      <img style="width: 45em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/download.png" | absolute_url }}" alt="Strategy panel"/>
+      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/download.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
     <div>
       <div>Search results may also be shared.</div>
-      <img style="width: 45em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/share.png" | absolute_url }}" alt="Strategy panel"/>
+      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/share.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
 <div>
