@@ -85,6 +85,6 @@ listIconKey: "globe"
     <div>
     <br/>
       <div>Search results may also be shared.</div>
-      <img style="width: 25em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/share.png" | absolute_url }}" alt="Strategy panel"/>
+      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/share.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
 <div>
