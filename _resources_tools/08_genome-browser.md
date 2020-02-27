@@ -4,25 +4,14 @@ listIconKey: "sliders"
 listTitle: "Genome Browser"
 descriptionTitle: "Genome Browser"
 ---
-<div style="display: flex; justify-content: center; align-items: center">
-  <html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title></title>
-  </head>
-  <body>
+
     <p>VEuPathDB provides genome browsing capability through the
       JBrowse genome browser. JBrowse may be accessed directly or from specific
       gene pages of interest.&nbsp; JBrowse provides numerous functionalities
       including:</p>
-    <ul>
+  <ul>
       <li>Data tracks that can be turn on or off from the select tracks section.</li>
       <li>Zooming and panning across your genome of interest.</li>
       <li>uploading your own data tracks, such as RNAseq coverage data.</li>
       <li>Search capabilities both with key words and regular expressions.</li>
     </ul>
-    <p><br>
-    </p>
-  </body>
-</html>
-</div>
