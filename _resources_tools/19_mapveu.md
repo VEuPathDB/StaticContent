@@ -75,10 +75,12 @@ listIconKey: "globe"
       <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/views-in-mapveu.png" | absolute_url }}" alt="Searches"/>
     </div>
     <div>
-      <div>The map displays circular markers, each one is a data point with rich metadata. </div>
+    <br/>
+      <div>Data is displayed as circular markers that are responsive to zoom level. Clicking on a marker provides access to rich metadata and plotting options. </div>
       <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/metadata.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
     <div>
+    <br/>
       <div>Raw data is available for download and export.</div>
       <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/download.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
