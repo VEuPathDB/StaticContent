@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: ClinEpiDB/news2.json
+permalink: ClinEpiDB/news.json
 ---
 {% assign project = page.dir | remove: "/" %}
 {% capture newLine %}
