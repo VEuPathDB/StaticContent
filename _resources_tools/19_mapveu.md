@@ -2,7 +2,7 @@
 identifier: mapveu
 listTitle: MapVeu
 descriptionTitle: MapVeu
-listIconKey: code-fork fa-rotate-270
+listIconKey: "bullhorn"
 ---
 <style>
   .search-strategies-feature {
