@@ -1,7 +1,7 @@
 ---
 identifier: mapveu
-listTitle: MapVeu
-descriptionTitle: MapVeu
+listTitle: MapVEu
+descriptionTitle: MapVEu
 listIconKey: "globe"
 ---
 <style>
@@ -68,10 +68,10 @@ listIconKey: "globe"
 </div>
 <br/>
 <div class="search-strategies-feature">
-  <p>MapVeu integrates genomic, phenotypic and population data for traits such as insecticide resistance genotypes and phenotypes, genetic variation with microsatellites, chromosomal inversions and SNPs, population abundance, pathogen infection status and blood meal identification. </p>
+  <p>MapVEu integrates genomic, phenotypic and population data for traits such as insecticide resistance genotypes and phenotypes, genetic variation with microsatellites, chromosomal inversions and SNPs, population abundance, pathogen infection status and blood meal identification. </p>
   <div class="search-strategies-feature--panels">
     <div>
-      <div>Five available map views.</div>
+      <div>Six available map views.</div>
       <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/views-in-mapveu.png" | absolute_url }}" alt="Searches"/>
     </div>
     <div>
@@ -83,7 +83,8 @@ listIconKey: "globe"
       <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/download.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
     <div>
+    <br/>
       <div>Search results may also be shared.</div>
-      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/share.png" | absolute_url }}" alt="Strategy panel"/>
+      <img style="width: 25em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/share.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
 <div>
