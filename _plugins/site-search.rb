@@ -35,5 +35,5 @@ end
 
 Jekyll::Hooks.register :site, :post_write do |site|
   `rm -rf _site/api`
-  `mv -t _site api`
+  `mv api _site/api`
 end
