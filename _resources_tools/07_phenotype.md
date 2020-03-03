@@ -11,4 +11,4 @@ descriptionTitle: "Phenotype"
   <li>View text and image data associated with various phenotype collections on individual gene record pages. <a href="#"><b>Example of Phenotype section on a gene record page</b></a></li>
   <li>Create search strategies to cross-reference your results with other VEuPathDB manually curated or user submitted phenotypes.</li>
 </ul>
-<img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotype1.png" | absolute_url }}"/>
+<img style="width: 60em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotype1.png" | absolute_url }}"/>
