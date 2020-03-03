@@ -1,6 +1,6 @@
 ---
 identifier: "pathways"
-listIconKey: "exchange"
+listIconKey: "connectdevelop"
 listTitle: "Metabolic Pathways"
 descriptionTitle: "Metabolic Pathways"
 ---
