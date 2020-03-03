@@ -1,6 +1,6 @@
 ---
 identifier: "pathways"
-listIconKey: "share-alt"
+listIconKey: "exchange"
 listTitle: "Metabolic Pathways"
 descriptionTitle: "Metabolic Pathways"
 ---
