@@ -1,0 +1,181 @@
+= Community Site Static Content Generator
+:icons: font
+ifdef::env-github[]
+:warning-caption: ⚠
+:note-caption: 🛈
+endif::[]
+:toc:
+
+// TODO: Where do pdfs go?
+// TODO: Explain the assets directory
+
+== Contributing
+
+=== Directory Structure & Meaning
+
+----
+/
+├── _about_all <1>
+├── assets
+│   └── images
+├── content <2>
+│   ├── AmoebaDB
+│   ├── ClinEpiDB
+│   ├── common <3>
+│   └── ...
+├── _data <4>
+├── documents
+├── _includes
+├── _layouts
+├── _plugins
+├── _posts
+│   └── news <5>
+│       ├── AmoebaDB
+│       ├── ClinEpiDB
+│       ├── EuPathDB
+│       └── ...
+├── _resources_tools <1>
+└── _scripts
+----
+<1> <<Collections>>
+<2> <<Content>>
+<3> <<Common>>
+<4> <<Data>>
+<5> <<News>>
+
+==== Collections
+
+Collections are groups of data or content that can be
+injected into the templates in the <<Content>> directory.
+
+Collections are directories grouped by type or purpose that
+must exist at the root of the project with a directory name
+beginning with an underscore character.
+
+Additionally all collections must be registered in the
+`_config.yml` file at the root of the project under the
+block titled `collections:`.  Entries must match the name of
+the collection directory minus the leading underscore.
+
+.Example
+[source, yaml]
+----
+collections:
+  about_all:
+  resources_tools:
+----
+
+`_about_all`::
+  Collection of content applicable to all sites
+
+`_resources_tools`::
++
+WARNING: TODO
+
+==== Content
+
+----
+content
+├── AmoebaDB
+│   ├── about.html
+│   ├── externalLinks.html
+│   ├── news.json
+│   ├── news.md
+│   └── resources_tools.json
+...
+----
+
+The content directory houses Liquid templates representing
+the rendered html/json documents organized by project in
+subdirectories.
+
+If your goal is to add a new page/url to the site, a Liquid
+template for that page should be added here for that page.
+
+===== Common
+
+A non-project directory containing globally used pages.
+
+==== Data
+
+WARNING: TODO
+
+==== News
+
+----
+_posts
+└── news
+    ├── AmoebaDB
+    │   ├── 2010-02-04-eupathdb-driving-biological-projects.html
+    │   ├── 2010-03-15-amoebadb-1-0-released.html
+    │   ├── 2010-03-31-eupathdb-scientific-working-group.html
+        ...
+----
+
+Contains news entries organized by project.  These pages are
+static content (containing no Liquid templating) and can be
+written in either HTML or Markdown
+
+== Frontmatter
+
+See https://jekyllrb.com/docs/front-matter/ for a detailed
+explanation of Jekyll's front matter and what meta tags are
+available.
+
+.Example
+[source, yaml, linenums]
+----
+---
+title: Some content page
+permalink: /PlasmoDB/something
+tags: [tutorial, topic1, topic2]
+---
+# Liquid template goes here
+----
+
+=== Site Requirements
+
+The following metadata is required in the front matter for
+community site pages:
+
+`permalink`::
+
+This tells Jekyll the path that a given page should be
+made available at in the generated site.  Content under
+one of the project directories under `content/` should
+include their project name in the permalink.  For example
+`permalink: /ClinEpiDB/faq` tells Jekyll to mount this
+page at `\http://{community-site-url}/ClinEpiDB/faq.html`.
++
+The exceptions to this rule are the pages under the
+`content/common` directory which are generally mounted
+at the root of the site.
+
+=== Site Search Requirements
+
+In addition to the above front matter requirements, for a
+page to be available in site search it must also contain
+the following metadata:
+
+`title`::
+
+The page title is used when displaying search results or
+creating a link to the page from search results.
+
+`tags`::
+
+Tags can be used to provide information about what topics
+are on a page or what the page's purpose is, but site search
+uses specific tags to determine a page's document type.  If
+one of the known tags does not appear in a page's tags
+metadata, the page will not be indexed.  The specific site
+search tags are:
++
+====
+* `general`
+* `tutorial`
+* `news`
+* `workshop-exercise`
+====
++
+Additionally, tags must be provided as an array in the form `[tag1, tag2, tag3]`.
