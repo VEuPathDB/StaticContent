@@ -66,17 +66,17 @@ descriptionTitle: "Phenotype"
   <div>
     <div>Tables (text and image data) associated with various phenotype collections on individual gene record pages. <a href="#"><b>Example of Phenotype Datasets</b></a>
 	</div>
-      <img style="width: 25em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypegenepage.png" | absolute_url }}" alt="Searches"/><br>
+      <img style="width: 60em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypegenepage.png" | absolute_url }}" alt="Searches"/><br>
   </div>
 
   <div>
     <div>Searches that query some datasets for genes based on their observable characteristics of genetic manipulations, outcomes of host-pathogen interactions, CRISPR and quantitative phenotypes, etc. <a href="#"><b>Example of Phenotype section on a gene record page</b></a>
 	</div>
-      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypesearch.png" | absolute_url }}" alt="Searches"/><br>
+      <img style="width: 60em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypesearch.png" | absolute_url }}" alt="Searches"/><br>
   </div>
 
   <div>
     <div>Columns in the search results table.</div>
-      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotyperesult.png" | absolute_url }}" alt="Searches"/>
+      <img style="width: 60em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotyperesult.png" | absolute_url }}" alt="Searches"/>
   </div>
 </div>
