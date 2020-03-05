@@ -5,16 +5,16 @@ listTitle: "Phenotype"
 descriptionTitle: "Phenotype"
 ---
 <style>
-  .transcriptomic-resources-feature {
+  .phenotype-resources-feature {
     margin: auto;
   }
-  .transcriptomic-resources-feature--panels {
+  .phenotype-resources-feature--panels {
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
     counter-reset: panel;
   }
-  .transcriptomic-resources-feature--panels > * {
+  .phenotype-resources-feature--panels > * {
     overflow: hidden;
     margin: 0 2em;
   }
@@ -23,10 +23,10 @@ descriptionTitle: "Phenotype"
     margin-left: 2em;
     position: relative;
   }
-  .transcriptomic-resources-feature--panels > * img {
+  .phenotype-resources-feature--panels > * img {
     margin-left: 2em;
   }
-  .transcriptomic-resources-feature--panels > * > div:before {
+  .phenotype-resources-feature--panels > * > div:before {
     counter-increment: panel;
     content: counter(panel);
     background: #3171d8;
@@ -62,7 +62,7 @@ descriptionTitle: "Phenotype"
 <p>Phenotype evidence includes high-throughput phenotype data from experiments involving RNAi target sequencing, whole-genome knockout collections, piggyBac insertion mutagenesis, and also manually curated phenotypes by VEuPathDB and other resources.</p>
 <p>Phenotype data is available to you as:</p>
 
-<div class="transcriptomic-resources-feature--panels">
+<div class="phenotype-resources-feature--panels">
   <div>
     <div>Tables (text and image data) associated with various phenotype collections on individual gene record pages. <a href="#"><b>Example of Phenotype Datasets</b></a>
 	</div>
