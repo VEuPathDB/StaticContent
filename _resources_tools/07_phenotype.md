@@ -4,11 +4,79 @@ listIconKey: "flask"
 listTitle: "Phenotype"
 descriptionTitle: "Phenotype"
 ---
-<p>Phenotype data types include high-throughput phenotyping using RNAi target sequencing, whole genome knockout collections, piggyBac insertion mutagenesis, manually curated phenotypes by VEuPathDB and other resources (e.g. PHI-Base) and more.</p>
-<p>Use phenotype data to:</p>
-<ul>
-  <li>Search for genes based on the observable characteristics of genetic manipulations, outcomes of host-pathogen interactions, CRISPR and quantitative phenotypes. <a href="#"><b>Example of Phenotype Datasets</b></a></li>  
-  <li>View text and image data associated with various phenotype collections on individual gene record pages. <a href="#"><b>Example of Phenotype section on a gene record page</b></a></li>
-  <li>Create search strategies to cross-reference your results with other VEuPathDB manually curated or user submitted phenotypes.</li>
-</ul>
-<img style="width: 80em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotype1.png" | absolute_url }}"/>
+<style>
+  .transcriptomic-resources-feature {
+    margin: auto;
+  }
+  .transcriptomic-resources-feature--panels {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    counter-reset: panel;
+  }
+  .transcriptomic-resources-feature--panels > * {
+    overflow: hidden;
+    margin: 0 2em;
+  }
+  .transcriptomic-resources-feature--panels > * > div {
+    margin-top: 1em;
+    margin-left: 2em;
+    position: relative;
+  }
+  .transcriptomic-resources-feature--panels > * img {
+    margin-left: 2em;
+  }
+  .transcriptomic-resources-feature--panels > * > div:before {
+    counter-increment: panel;
+    content: counter(panel);
+    background: #3171d8;
+    border-radius: 1em;
+    height: 1.5em;
+    width: 1.5em;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: .5em;
+    color: white;
+    position: absolute;
+    left: -2em;
+    top: -0.25em;
+  }
+     #topright {
+    position: absolute;
+    right: 1em;
+    top: 3em;
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 1.5em;
+}
+     #toprightsecond {
+    position: absolute;
+    right: 1em;
+    top: 6em;
+    padding: 0.5em;
+}
+
+</style>
+
+<p>Phenotype evidence includes high-throughput phenotype data from experiments involving RNAi target sequencing, whole-genome knockout collections, piggyBac insertion mutagenesis, and also manually curated phenotypes by VEuPathDB and other resources.</p>
+<p>Phenotype data is available to you as:</p>
+
+<div class="transcriptomic-resources-feature--panels">
+  <div>
+    <div>Tables (text and image data) associated with various phenotype collections on individual gene record pages. <a href="#"><b>Example of Phenotype Datasets</b></a>
+	</div>
+      <img style="width: 25em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypegenepage.png" | absolute_url }}" alt="Searches"/><br>
+  </div>
+
+  <div>
+    <div>Searches that query some datasets for genes based on their observable characteristics of genetic manipulations, outcomes of host-pathogen interactions, CRISPR and quantitative phenotypes, etc. <a href="#"><b>Example of Phenotype section on a gene record page</b></a>
+	</div>
+      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypesearch.png" | absolute_url }}" alt="Searches"/><br>
+  </div>
+
+  <div>
+    <div>Columns in the search results table.</div>
+      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotyperesult.png" | absolute_url }}" alt="Searches"/>
+  </div>
+</div>
