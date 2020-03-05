@@ -18,7 +18,7 @@ descriptionTitle: "Phenotype"
     overflow: hidden;
     margin: 0 2em;
   }
-  .transcriptomic-resources-feature--panels > * > div {
+  .phenotype-resources-feature--panels > * > div {
     margin-top: 1em;
     margin-left: 2em;
     position: relative;
@@ -60,7 +60,9 @@ descriptionTitle: "Phenotype"
 </style>
 
 <p>Phenotype evidence includes high-throughput phenotype data from experiments involving RNAi target sequencing, whole-genome knockout collections, piggyBac insertion mutagenesis, and also manually curated phenotypes by VEuPathDB and other resources.</p>
-<p>Phenotype data is available to you as:</p>
+
+<div class="phenotype-resources-feature">
+<p class="card-text">Phenotype data is available to you as:</p>
 
 <div class="phenotype-resources-feature--panels">
   <div>
