@@ -45,8 +45,8 @@ prose:
 
 
 collections:
-  about_all: {}
-  resources_tools:
+  collection_about_all: {}
+  collection_resources_tools:
     output: true
     json_keys: [ output, descriptionTitle, identifier, listIconKey, listTitle ]
 
