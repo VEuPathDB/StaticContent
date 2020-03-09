@@ -68,8 +68,8 @@ listIconKey: "cloud-download-alt"
    </p>
   <div class="search-strategies-feature--panels">
     <div>
-      <div>Use <a href="app/downloads/"><b>Data Downloads</b> to download current and archived genome .fasta, .gff, .gaf, etc files</div>
-      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/views-in-mapveu.png" | absolute_url }}" alt="Searches"/>
+      <div>Use <a href="app/downloads/"><b>Data Downloads</b></a> to download current and archived genome .fasta, .gff, .gaf, etc files</div>
+      
     </div>
     <div>
     <br/>
@@ -83,7 +83,7 @@ listIconKey: "cloud-download-alt"
     </div>
     <div>
     <br/>
-      <div>Search results may also be shared.</div>
-      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/share.png" | absolute_url }}" alt="Strategy panel"/>
+      <div>You can utilize our <a href="/trichdb/serviceList.jsp"><b>Web Services</b></a> to programmatically access our searches</div>
+      
     </div>
 <div>
