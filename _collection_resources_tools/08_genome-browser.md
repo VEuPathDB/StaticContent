@@ -74,17 +74,17 @@ descriptionTitle: "Genome Browser"
 <div class="search-strategies-feature--panels">
 <div>
       <div>Data tracks that can be turned on or off from the select tracks section.</div>
-      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/select_tracks.png" | absolute_url }}" alt="Searches"/>
+      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resource_tools/select_tracks.png" | absolute_url }}" alt="Searches"/>
     </div>
     <div>
       <div>Zooming and panning across your genome of interest.</div>
-      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/zooming.png" | absolute_url }}" alt="Searches"/>
+      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resource_tools/zooming.png" | absolute_url }}" alt="Searches"/>
     </div>
     <div>
       <div>Uploading your own data tracks, such as RNAseq coverage data.</div>
-      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/upload.png" | absolute_url }}" alt="Searches"/>
+      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resource_tools/upload.png" | absolute_url }}" alt="Searches"/>
     </div>
     <div>
       <div>Search capabilities both with key words and regular expressions.</div>
-      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/jbrowse_search.png" | absolute_url }}" alt="Searches"/>
+      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resource_tools/jbrowse_search.png" | absolute_url }}" alt="Searches"/>
 </div>
