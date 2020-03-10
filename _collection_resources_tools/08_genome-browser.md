@@ -77,7 +77,7 @@ descriptionTitle: "Genome Browser"
     </div>
     <div>
       <div>Zooming and panning across your genome of interest.</div>
-      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/zooming.png" | absolute_url }}" alt="JBrowse zooming and panning"/>
+      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/zooming.png" | absolute_url }}" alt="JBrowse zooming and panning"/>
     </div>
     <div>
       <div>Uploading your own data tracks, such as RNAseq coverage data.</div>
@@ -85,5 +85,5 @@ descriptionTitle: "Genome Browser"
     </div>
     <div>
       <div>Search capabilities both with key words and regular expressions.</div>
-      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/jbrowse_search.png" | absolute_url }}" alt="JBrowse searches"/>
+      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/jbrowse_search.png" | absolute_url }}" alt="JBrowse searches"/>
 </div>
