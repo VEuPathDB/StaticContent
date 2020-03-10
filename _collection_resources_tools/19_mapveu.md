@@ -63,8 +63,7 @@ listIconKey: "globe"
 }
 </style>
 <div id="topright">
-  <a href="/a/app/workspace/strategies">My Strategies</a>&nbsp; &nbsp; &nbsp;
-  <a href="/a/app/query-grid">All Available Searches</a>
+  <a href="https://qa.vectorbase.org/popbio-map/web/">MapVEu</a>
 </div>
 <br/>
 <div class="search-strategies-feature">
