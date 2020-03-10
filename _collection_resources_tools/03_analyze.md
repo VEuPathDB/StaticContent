@@ -13,7 +13,7 @@ descriptionTitle: "Analyze My Data"
     <li>Variant calling</li>
   </ul>
 
-  <p>For RNA Seq analyses you'll be able to export your results back to PlasmoDB.  You can:</p>
+  <p>For RNA Seq analyses you'll be able to export your results back to your own private dataset section.  You can:</p>
   <ul>
     <li>run searches against them</li>
     <li>see them as columns in search results</li>
@@ -24,15 +24,15 @@ descriptionTitle: "Analyze My Data"
   <div style="display: flex; justify-content: space-between; margin-top: 3em;">
     <div style="width: 10em; margin: 0 1em;">
       <img style="width: 10em" src="{{ "/assets/images/resources_tools/analyze1.png" | absolute_url }}"/>
-      <div style="font-size: .85em">Start by clicking <em>My Galaxy analyses</em> to go to Galaxy</div>
+      <div style="font-size: .85em">Start by clicking <em>Analyze my data (Galaxy)</em> in the "My Workspace" menu to go to Galaxy</div>
     </div>
     <div style="width: 15em; margin: 0 1em;">
       <img style="width: 15em" src="{{ "/assets/images/resources_tools/analyze2.png" | absolute_url }}"/>
       <div style="font-size: .85em">Run workflows in Galaxy, and export the results back.</div>
     </div>
     <div style="width: 10em; margin: 0 1em;">
-      <img style="width: 10em" src="{{ "/assets/images/resources_tools/analyze3.png" | absolute_url }}"/>
-      <div style="font-size: .85em">Then click on <em>My data sets</em> to see your data here</div>
+      <img style="width: 10em" src="{{ "/assets/images/resources_tools/analyze1.png" | absolute_url }}"/>
+      <div style="font-size: .85em">Then click on <em>data sets</em> in the "My Workspace" menu to see your data here</div>
     </div>
   </div>
 
