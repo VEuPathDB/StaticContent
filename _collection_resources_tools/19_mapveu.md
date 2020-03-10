@@ -63,7 +63,7 @@ listIconKey: "globe"
 }
 </style>
 <div id="topright">
-  <a href="https://qa.vectorbase.org/popbio-map/web/">MapVEu</a>
+  <a href="/a/popbio-map/web/">MapVEu</a>
 </div>
 <br/>
 <div class="search-strategies-feature">
