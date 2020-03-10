@@ -67,7 +67,7 @@ listIconKey: "globe"
 </div>
 <br/>
 <div class="search-strategies-feature">
-  <p>MapVEu integrates genomic, phenotypic and population data for traits such as insecticide resistance genotypes and phenotypes, genetic variation with microsatellites, chromosomal inversions and SNPs, population abundance, pathogen infection status and blood meal identification. </p>
+  <p><a href="{{ "https://qa.vectorbase.org/popbio-map/web/" | absolute_url }}">MapVEu</a> integrates genomic, phenotypic and population data for traits such as insecticide resistance genotypes and phenotypes, genetic variation with microsatellites, chromosomal inversions and SNPs, population abundance, pathogen infection status and blood meal identification. </p>
   <div class="search-strategies-feature--panels">
     <div>
       <div>Six available map views.</div>
