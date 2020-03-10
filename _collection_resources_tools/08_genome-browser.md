@@ -4,6 +4,11 @@ listIconKey: "sliders"
 listTitle: "Genome Browser"
 descriptionTitle: "Genome Browser"
 ---
+</style>
+<div id="topright">
+  <a href="/a/app/jbrowse?data=/a/service/jbrowse/tracks/default&tracks=gene">JBrowse</a>
+</div>
+<br/>
 <div>
     <p>VEuPathDB provides genome browsing capability through the
       JBrowse genome browser. JBrowse may be accessed directly or from specific
