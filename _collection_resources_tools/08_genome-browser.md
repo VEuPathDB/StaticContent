@@ -72,6 +72,10 @@ descriptionTitle: "Genome Browser"
       gene pages of interest.&nbsp; JBrowse provides numerous functionalities
       including:</p>
 <div class="search-strategies-feature--panels">
+<div>
+      <div>Data tracks that can be turn on or off from the select tracks section.</div>
+      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/select_tracks.png" | absolute_url }}" alt="Searches"/>
+    </div>
   <ul>
       <li>Data tracks that can be turn on or off from the select tracks section.</li>
       <li>Zooming and panning across your genome of interest.</li>
