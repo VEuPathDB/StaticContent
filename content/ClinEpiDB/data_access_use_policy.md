@@ -32,7 +32,7 @@ tags: [general]
   <div>
      Each dataset that is submitted to ClinEpiDB is unique and may require implementation of a different level of data access restriction even once the dataset is publicly released. Each dataset will fall into one of the five categories described in the table below: public, controlled, limited, protected, and private. These categories differ in what levels of access are required to see aggregated vs disaggregated data. Aggregated data includes what can be seen in the search wizard and Shiny App analysis tools, while disaggregated data includes what can be seen on the results page, individual record pages, and the downloaded files.
 
-     __Access level__|__Description__
+__Access level__ | __Description__
 --- | ---
 Public | No access restrictions. Users can view and download the data as "Guests" without logging in
 Controlled | Guest users can view data and access analysis tools and record pages, but must obtain approval from the data providers to download data. The request may be submitted via a form that pops up when a user logs in with a registered account and clicks "Download data".
