@@ -15,6 +15,7 @@ tags: [general]
   <div>
     ClinEpiDB is committed to ensuring the appropriate protection of all study data made available through its platform. Prior to accessing any data provided through ClinEpiDB, the User acknowledges that study data are interpretable only to the extent that the study design and context are understood and agrees:
 
+
    * To adhere to the principles presented in the access system description below
    * To use the datasets solely for research and statistical analysis and not for investigating specific research participants
    * To guard the confidentiality of research participants by making no attempt to identify individual participants
