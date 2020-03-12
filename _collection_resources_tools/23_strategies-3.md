@@ -68,7 +68,7 @@ listIconKey: code-fork fa-rotate-270
 </div>
 <br/>
 <div class="search-strategies-feature">
-<img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ /assets/images/resources_tools/strategy_panel_2.png" | absolute_url }}" alt="Searches"/><br/>
+<img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/strategy_panel_2.png" | absolute_url }}" alt="Searches"/><br/>
   <p>Discover meaningful biological relationships from large volumes of data with VEuPathDB's unique and powerful <b>Search Strategies</b> - a tool for mining Omics data without programming experience. </p>
   <div class="search-strategies-feature--panels">
     <div>
