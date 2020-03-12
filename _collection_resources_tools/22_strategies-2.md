@@ -1,7 +1,7 @@
 ---
-identifier: search-strategies
-listTitle: Search Strategies
-descriptionTitle: Search Strategies
+identifier: search-strategies-2
+listTitle: Search Strategies-2
+descriptionTitle: Search Strategies-2
 listIconKey: code-fork fa-rotate-270
 ---
 <style>
