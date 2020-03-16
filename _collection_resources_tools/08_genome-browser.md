@@ -69,10 +69,7 @@ descriptionTitle: "Genome Browser"
 <div id="topright">
   <a href="/a/app/jbrowse?data=/a/service/jbrowse/tracks/default&tracks=gene">JBrowse</a>
 </div>
-<br/>
-
 <div class="search-strategies-feature">
-
   <section class="container">
     <div id="col-1">
       <p>VEuPathDB provides genome browsing capability through the
@@ -84,7 +81,6 @@ descriptionTitle: "Genome Browser"
       <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/jbrowse_view1.png" | absolute_url }}" alt="JBrowse select tracks"/>
     </div>
   </section>
-
   <div class="search-strategies-feature--panels">
     <div>
       <div>Data tracks that can be turned on or off from the select tracks section.</div>
