@@ -62,7 +62,7 @@ descriptionTitle: "Genome Browser"
   flex: 1;
 }
 #col-2 {
-  flex: 4;
+  flex: 3;
 }
 </style>
 
