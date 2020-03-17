@@ -60,9 +60,9 @@ descriptionTitle: "Transcriptomic Resources"
 </style>
 <div id="topright">
   <b>TOOLS:&nbsp; &nbsp; &nbsp; </b>
-   <a href="/a/app/search/transcript/GenesByRNASeqEvidence"><b>Search RNA-Seq Data</b></a>&nbsp; &nbsp; &nbsp;
-   <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs"><b>Example Gene Page Data</b></a>&nbsp; &nbsp; &nbsp;
-   <a href="/a/app/search/transcript/GenesByMicroarrayEvidence"><b>Search Microarray Data</b></a>&nbsp; &nbsp; &nbsp;
+   <a href="/a/app/search/transcript/GenesByRNASeqEvidence">Search RNA-Seq Data</a>&nbsp; &nbsp; &nbsp;
+   <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs">Example Gene Page Data</a>&nbsp; &nbsp; &nbsp;
+   <a href="/a/app/search/transcript/GenesByMicroarrayEvidence">Search Microarray Data</a>&nbsp; &nbsp; &nbsp;
 </div>
 <br/>
 <div class="transcriptomic-resources-feature">
