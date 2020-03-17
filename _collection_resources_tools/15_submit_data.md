@@ -1,7 +1,7 @@
 ---
-identifier: coming-soon
-listTitle: Coming Soon
-descriptionTitle: Coming Soon
+identifier: submit-data
+listTitle: How to Submit Data
+descriptionTitle: How to Submit Data
 listIconKey: code-fork fa-rotate-270
 ---
 <style>
