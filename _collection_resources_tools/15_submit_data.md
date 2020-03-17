@@ -76,14 +76,14 @@ listIconKey: code-fork fa-rotate-270
     <div>For proteomics datasets, including quantitative MassSpec experiments, Excel or tab-delimited text files are preferred, but we can accommodate xml file format. Required columns include gene IDs, peptide sequences, peptide counts and scores
 	</div>
   
-<br>
+<br/><br/>
 Tell us about your data as early as possible, to allow ample time for scheduling into VEuPathDB release cycles. Depending on the dataset type, we can provide instructions on how to transfer your data to us (e.g. formats of proteomics datasets may differ depending on the nature and scale of the data to be transferred), or we may be able to facilitate data submission to a repository (e.g. GenBank, GEO/ArrayExpress). 
 
-<br>
+<br/><br/>
 <b>What data types are supported by VEuPathDB?</b> 
 In one form or another, VEuPathDB currently represents sequence data (genomes, ESTs, RNA-seq, generated on various platforms), comparative genomic information, DNA polymorphism and population genetics data, information on the field and clinical isolates (with geo-stratographic and other metadata), chromatin modification data (ChIP-chip and ChIP-seq), manually curated and automatically generated gene models and other annotation (GO terms, InterPro domains, etc.), transcript and proteomic profiling, and host response data sets (multiple platforms), interactome data, structural information, metabolic pathways and metabolomics data, phenotyping information, reagents (clones, antibodies, etc.), publication references, image data, and more. Please let us know if you have data to provide that is not currently supported! To contact the VEuPathDB support team, click the ‘Contact Us’ link on any VEuPathDB page. 
 
-<br>
+<br/><br/>
 <b>What species are supported by VEuPathDB?</b> 
 The VEuPathDB contract from NIAID provides support for biosecurity pathogens, including Babesia, Cryptosporidium, Entamoeba, Giardia, Microsporidia (various genera), Toxoplasma, Plasmodium, and related taxa (Acanthamoeba, Gregarina, Neospora, Theileria) and also arthropod vectors (ticks, mosquitoes, biting flies, etc.) of human disease, as well as the sail, and comparator species. Support for kinetoplastid parasites (Crithidia, Endotrypanum, Leishmania, Trypanosoma) is provided by The Bill & Melinda Gates Foundation and the Wellcome Trust. The FungiDB project encompasses a large (and growing) number of species supported by the Wellcome Trust. Trichomonas is supported as a legacy of previous NIH funding. Please contact us if you have data from other species that should be incorporated into VEuPathDB! 
 
