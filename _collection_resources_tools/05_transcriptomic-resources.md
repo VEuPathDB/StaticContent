@@ -74,11 +74,11 @@ descriptionTitle: "Transcriptomic Resources"
 <div class="transcriptomic-resources-feature--panels">
   <div>
     <div>Tables, and graphs on gene pages or in search result columns.  <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs"><b>Example Gene Page Data</b></a>  </div>
-      <img style="width: 25em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Table-Graph.png" | absolute_url }}" alt="Searches"/><br>
+      <img style="width: 25em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Table-Graph.png" | absolute_url }}" alt="Searches"/><br/><br/>
   </div>
   <div>
     <div>Genome browser tracks for dynamic visualization of analyzed data as read coverage plots or predicted introns. <a href="/a/jbrowse.jsp?loc=Pf3D7_11_v3%3A1278857..1310725&data=%2Fa%2Fservice%2Fjbrowse%2Ftracks%2Fpfal3D7&tracks=gene%2CRNASeq%20Evidence%20for%20Introns%20(Inclusive)%2CRNASeq%20Evidence%20for%20Introns%20(Refined)&highlight="><b>Example JBrowse view</b></a></div>
-      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-JBrowse.png" | absolute_url }}" alt="Searches"/><br>
+      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-JBrowse.png" | absolute_url }}" alt="Searches"/><br/><br/>
   </div>
   <div>
     <div>Searches that query individual data sets and return lists of genes based on parameters like life cycle stage, treatment, expression level, fold change. <a href="/a/app/search/transcript/GenesByRNASeqEvidence"><b>Search RNA Seq Data</b></a></div>
