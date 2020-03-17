@@ -70,7 +70,7 @@ listIconKey: code-fork fa-rotate-270
 
 <div class="submit-data-feature--panels">
   <div>
-    <div>For all datasets available in GenBank, ENA or DDBJ or other repositories, fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScmRz2amcjBHQh0D1HPXwmAQTi-k67VRtXRoIOLopCCSo-VcA/viewform"><b>VEuPAthDB Dataset & Bioinformatics Tool Nomination Form</b></a>
+    <div>For all datasets available in GenBank, ENA or DDBJ or other repositories, fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScmRz2amcjBHQh0D1HPXwmAQTi-k67VRtXRoIOLopCCSo-VcA/viewform"><b>VEuPathDB Dataset & Bioinformatics Tool Nomination Form</b></a>
 	</div>
       <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/nomination_form.png" | absolute_url }}" alt="Searches"/><br>
   </div>
