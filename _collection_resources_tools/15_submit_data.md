@@ -79,19 +79,13 @@ listIconKey: code-fork fa-rotate-270
   <div>
     <div>VEuPathDB can integrate a variety of datasets, including genomes & high throughput sequencing data (e.g. RNA-Seq, ChiP-Seq, isolates typed by WGS or by sequencing limited genetic loci). These data must be available in GenBank, ENA or DDBJ. Genome functional annotation only (e.g. gene names, products, GO terms, etc. in gff, ensemble, gtf or genbank formats) can be submitted directly to VEuPathDB.  
 	</div>
-      <img style="width: 60em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypesearch.png" | absolute_url }}" alt="Searches"/><br>
-  </div>
  <br/>
 
   <div>
     <div>For proteomics datasets, including quantitative MassSpec experiments, Excel or tab-delimited text files are preferred, but we can accommodate xml file format. Required columns include gene IDs, peptide sequences, peptide counts and scores
 	</div>
-      <img style="width: 60em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotyperesult.png" | absolute_url }}" alt="Searches"/>
-  </div>
   
   <div>
     <div>For proteomics datasets, including quantitative MassSpec experiments, Excel or tab-delimited text files are preferred, but we can accommodate xml file format. Required columns include gene IDs, peptide sequences, peptide counts and scores
 	</div>
-      <img style="width: 60em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotyperesult.png" | absolute_url }}" alt="Searches"/>
-  </div>
 </div>
