@@ -1,8 +1,8 @@
 ---
 identifier: submit-data
+listIconKey: "arrow-alt-circle-up"
 listTitle: How to Submit Data
 descriptionTitle: How to Submit Data
-listIconKey: arrow-alt-circle-up
 ---
 <style>
   .submit-data-feature {
