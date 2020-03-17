@@ -67,7 +67,7 @@ descriptionTitle: "Genome Browser"
 </style>
 
 <div id="topright">
-  <a href="/a/app/jbrowse?data=/a/service/jbrowse/tracks/default&tracks=gene">JBrowse</a>
+  <a href="/a/app/jbrowse?data=/a/service/jbrowse/tracks/default&tracks=gene">Genome Browser</a>
 </div>
 <div class="search-strategies-feature">
   <section class="container">
