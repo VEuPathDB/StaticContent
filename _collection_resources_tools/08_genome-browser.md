@@ -59,10 +59,10 @@ descriptionTitle: "Genome Browser"
   display: flex;
 }
 #col-1 {
-  flex: 1; margin-left: .3em;
+  flex: 1; margin-left: .7em;
 }
 #col-2 {
-  flex: 3;
+  flex: 3; margin-left: .7em;
 }
 </style>
 
