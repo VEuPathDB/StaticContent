@@ -5,28 +5,28 @@ descriptionTitle: How to Submit Data
 listIconKey: code-fork fa-rotate-270
 ---
 <style>
-  .phenotype-resources-feature {
+  .submit-data-feature {
     margin: auto;
   }
-  .phenotype-resources-feature--panels {
+  .submit-data-feature--panels {
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
     counter-reset: panel;
   }
-  .phenotype-resources-feature--panels > * {
+  .submit-data-feature--panels > * {
     overflow: hidden;
     margin: 0 2em;
   }
-  .phenotype-resources-feature--panels > * > div {
+  .submit-data-feature--panels > * > div {
     margin-top: 1em;
     margin-left: 2em;
     position: relative;
   }
-  .phenotype-resources-feature--panels > * img {
+  .submit-data-feature--panels > * img {
     margin-left: 2em;
   }
-  .phenotype-resources-feature--panels > * > div:before {
+  .submit-data-feature--panels > * > div:before {
     counter-increment: panel;
     content: counter(panel);
     background: #3171d8;
@@ -61,10 +61,10 @@ listIconKey: code-fork fa-rotate-270
 
 <p>Phenotype evidence includes high-throughput phenotype data from experiments involving RNAi target sequencing, whole-genome knockout collections, piggyBac insertion mutagenesis, and also manually curated phenotypes by VEuPathDB and other resources.</p>
 
-<div class="phenotype-resources-feature">
+<div class="submit-data-feature">
 <p class="card-text">Phenotype data is available to you as:</p>
 
-<div class="phenotype-resources-feature--panels">
+<div class="submit-data-feature--panels">
   <div>
     <div>Tables (text and image data) associated with various phenotype collections on individual gene record pages.
 	</div>
