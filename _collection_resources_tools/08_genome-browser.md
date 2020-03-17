@@ -50,31 +50,39 @@ descriptionTitle: "Genome Browser"
     padding-left: 0.5em;
     padding-right: 1.5em;
 }
-   #toprightsecond {
-    position: absolute;
-    right: 1em;
-    top: 5em;
-    padding: 0.5em;
-}
   #topright a {
     text-decoration: none;
     font-family: Roboto;
     color: #413737;
 }
+.container {
+  display: flex;
+}
+#col-1 {
+  flex: 1;
+}
+#col-2 {
+  flex: 3;
+}
 </style>
+
 <div id="topright">
-  <a href="/a/app/jbrowse?data=/a/service/jbrowse/tracks/default&tracks=gene">JBrowse</a>
+  <a href="/a/app/jbrowse?data=/a/service/jbrowse/tracks/default&tracks=gene">Genome Browser</a>
 </div>
-<br/>
 <div class="search-strategies-feature">
-    <p>VEuPathDB provides genome browsing capability through the
+  <section class="container">
+    <div id="col-1">
+      <p><br><br><br>VEuPathDB provides genome browsing capability through the
       JBrowse genome browser. JBrowse may be accessed directly from the tools section located in the menu bar in the header or from relevant sections on gene pages of interest.&nbsp; JBrowse provides numerous functionalities
-      including:</p>
- <div>
-      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/jbrowse_view1.png" | absolute_url }}" alt="JBrowse select tracks"/>
-    </div>     
-<div class="search-strategies-feature--panels">
-<div>
+      including:
+      </p>
+    </div>
+    <div id="col-2">
+      <img style="width: 30em; margin-top: 1em; margin-left: 3em;" src="{{ "/assets/images/resources_tools/jbrowse_view1.png" | absolute_url }}" alt="JBrowse screen shot"/>
+    </div>
+  </section>
+  <div class="search-strategies-feature--panels">
+    <div>
       <div>Data tracks that can be turned on or off from the select tracks section.</div>
       <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/select_tracks.png" | absolute_url }}" alt="JBrowse select tracks"/>
     </div>
@@ -89,4 +97,8 @@ descriptionTitle: "Genome Browser"
     <div>
       <div>Search capabilities both with key words and regular expressions.</div>
       <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/jbrowse_search.png" | absolute_url }}" alt="JBrowse searches"/>
+    </div>
+  </div>
 </div>
+
+
