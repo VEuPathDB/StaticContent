@@ -3,6 +3,7 @@ identifier: search-strategies-3
 listTitle: Search Strategies-3
 descriptionTitle: Search Strategies-3
 listIconKey: code-fork fa-rotate-270
+published: false
 ---
 <style>
   .search-strategies-feature {
@@ -63,7 +64,6 @@ listIconKey: code-fork fa-rotate-270
 }
 </style>
 <div id="topright">
-  <a href="/a/app/workspace/strategies">My Strategies</a>&nbsp; &nbsp; &nbsp;
   <a href="/a/app/query-grid">All Available Searches</a>
 </div>
 <br/>
