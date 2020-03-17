@@ -2,7 +2,7 @@
 identifier: Downloads
 listTitle: Downloads
 descriptionTitle: Downloads
-listIconKey: "cloud-download-alt"
+listIconKey: "fa-cloud-download"
 ---
 <style>
   .search-strategies-feature {
@@ -68,7 +68,7 @@ listIconKey: "cloud-download-alt"
    </p>
   <div class="search-strategies-feature--panels">
     <div>
-      <div>Use <a href="app/downloads/"><b>Data Downloads</b></a> to download current and archived genome .fasta, .gff, .gaf, etc files</div>
+      <div>Use <a href="/downloads/"><b>Data Downloads</b></a> to download current and archived genome .fasta, .gff, .gaf, etc files</div>
       
     </div>
     <div>
