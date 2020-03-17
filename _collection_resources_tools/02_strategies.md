@@ -56,11 +56,6 @@ listIconKey: code-fork fa-rotate-270
     top: 5em;
     padding: 0.5em;
 }
-  #topright a {
-    text-decoration: none;
-    font-family: Roboto;
-    color: #413737;
-}
 </style>
 <div id="topright">
   <a href="/a/app/query-grid">All Available Searches</a>
