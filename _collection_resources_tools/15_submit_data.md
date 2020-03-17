@@ -1,6 +1,6 @@
 ---
 identifier: submit-data
-listIconKey: "luggage-cart"
+listIconKey: "fa-arrow-circle-o-up"
 listTitle: How to Submit Data
 descriptionTitle: How to Submit Data
 ---
