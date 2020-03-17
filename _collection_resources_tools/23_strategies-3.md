@@ -63,7 +63,6 @@ listIconKey: code-fork fa-rotate-270
 }
 </style>
 <div id="topright">
-  <a href="/a/app/workspace/strategies">My Strategies</a>&nbsp; &nbsp; &nbsp;
   <a href="/a/app/query-grid">All Available Searches</a>
 </div>
 <br/>
