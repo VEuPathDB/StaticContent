@@ -2,7 +2,7 @@
 identifier: submit-data
 listTitle: How to Submit Data
 descriptionTitle: How to Submit Data
-listIconKey: code-fork fa-rotate-270
+listIconKey: arrow-alt-circle-up
 ---
 <style>
   .submit-data-feature {
