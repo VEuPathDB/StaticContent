@@ -58,12 +58,6 @@ listIconKey: code-fork fa-rotate-270
 }
 
 </style>
-
-<p class="card-text"><b>By submitting data to VEuPathDB, the communities facilitate:</b></p>
-<ul class="card-text">
-  <li>the expansion of genomic scale experiments available from researchers around the world</li>
-  <li>analysis of this data in greater depth than possible in print</li>
-  <li>the global visibility of the data</li>
 	
 <br/><br/>VEuPathDB can integrate a variety of datasets, including genomes & high throughput sequencing data (e.g. RNA-Seq, ChiP-Seq, isolates typed by WGS or by sequencing limited genetic loci). These data must be available in GenBank, ENA or DDBJ. Genome functional annotation only (e.g. gene names, products, GO terms, etc. in gff, ensemble, gtf or genbank formats) can be submitted directly to VEuPathDB.
 
