@@ -1,6 +1,6 @@
 ---
 identifier: submit-data
-listIconKey: "arrow-alt-circle-up"
+listIconKey: "fa-arrow-circle-o-up"
 listTitle: How to Submit Data
 descriptionTitle: How to Submit Data
 ---
