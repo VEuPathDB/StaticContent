@@ -64,6 +64,8 @@ listIconKey: code-fork fa-rotate-270
   <li>the expansion of genomic scale experiments available from researchers around the world</li>
   <li>analysis of this data in greater depth than possible in print</li>
   <li>the global visibility of the data</li>
+	
+<br/><br/>VEuPathDB can integrate a variety of datasets, including genomes & high throughput sequencing data (e.g. RNA-Seq, ChiP-Seq, isolates typed by WGS or by sequencing limited genetic loci). These data must be available in GenBank, ENA or DDBJ. Genome functional annotation only (e.g. gene names, products, GO terms, etc. in gff, ensemble, gtf or genbank formats) can be submitted directly to VEuPathDB.
 
 <div class="submit-data-feature">
 <p class="card-text">How to nominate data for integration in VEuPathDB</p>
@@ -75,12 +77,7 @@ listIconKey: code-fork fa-rotate-270
       <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/nomination_form.png" | absolute_url }}" alt="Searches"/><br>
   </div>
 <br/>
-
-  <div>
-    <div>VEuPathDB can integrate a variety of datasets, including genomes & high throughput sequencing data (e.g. RNA-Seq, ChiP-Seq, isolates typed by WGS or by sequencing limited genetic loci). These data must be available in GenBank, ENA or DDBJ. Genome functional annotation only (e.g. gene names, products, GO terms, etc. in gff, ensemble, gtf or genbank formats) can be submitted directly to VEuPathDB.  
-	</div>
- <br/>
-
+  
   <div>
     <div>For proteomics datasets, including quantitative MassSpec experiments, Excel or tab-delimited text files are preferred, but we can accommodate xml file format. Required columns include gene IDs, peptide sequences, peptide counts and scores
 	</div>
