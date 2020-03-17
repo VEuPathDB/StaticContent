@@ -2,7 +2,7 @@
 identifier: Downloads
 listTitle: Downloads
 descriptionTitle: Downloads
-listIconKey: "fa-cloud-download"
+listIconKey: "cloud-download"
 ---
 <style>
   .search-strategies-feature {
