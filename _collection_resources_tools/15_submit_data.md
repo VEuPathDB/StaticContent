@@ -59,28 +59,39 @@ listIconKey: code-fork fa-rotate-270
 
 </style>
 
-<p>Phenotype evidence includes high-throughput phenotype data from experiments involving RNAi target sequencing, whole-genome knockout collections, piggyBac insertion mutagenesis, and also manually curated phenotypes by VEuPathDB and other resources.</p>
+<p class="card-text"><b>By submitting data to VEuPathDB, the communities facilitate:</b></p>
+<ul class="card-text">
+  <li>the expansion of genomic scale experiments available from researchers around the world</li>
+  <li>analysis of this data in greater depth than possible in print</li>
+  <li>the global visibility of the data</li>
 
 <div class="submit-data-feature">
-<p class="card-text">Phenotype data is available to you as:</p>
+<p class="card-text">How to nominate data for integration in VEuPathDB</p>
 
 <div class="submit-data-feature--panels">
   <div>
-    <div>Tables (text and image data) associated with various phenotype collections on individual gene record pages.
+    <div>For all datasets available in GenBank, ENA or DDBJ or other repositories, fill out the VEuPathDB Dataset nomination form
 	</div>
       <img style="width: 60em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypegenepage.png" | absolute_url }}" alt="Searches"/><br>
   </div>
 <br/>
 
   <div>
-    <div>Searches that query datasets for genes based on their observable characteristics of genetic manipulations, outcomes of host-pathogen interactions, CRISPR and quantitative phenotypes, etc. 
+    <div>VEuPathDB can integrate a variety of datasets, including genomes & high throughput sequencing data (e.g. RNA-Seq, ChiP-Seq, isolates typed by WGS or by sequencing limited genetic loci). These data must be available in GenBank, ENA or DDBJ. Genome functional annotation only (e.g. gene names, products, GO terms, etc. in gff, ensemble, gtf or genbank formats) can be submitted directly to VEuPathDB.  
 	</div>
       <img style="width: 60em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypesearch.png" | absolute_url }}" alt="Searches"/><br>
   </div>
  <br/>
 
   <div>
-    <div>Columns in the search results table.</div>
+    <div>For proteomics datasets, including quantitative MassSpec experiments, Excel or tab-delimited text files are preferred, but we can accommodate xml file format. Required columns include gene IDs, peptide sequences, peptide counts and scores
+	</div>
+      <img style="width: 60em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotyperesult.png" | absolute_url }}" alt="Searches"/>
+  </div>
+  
+  <div>
+    <div>For proteomics datasets, including quantitative MassSpec experiments, Excel or tab-delimited text files are preferred, but we can accommodate xml file format. Required columns include gene IDs, peptide sequences, peptide counts and scores
+	</div>
       <img style="width: 60em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotyperesult.png" | absolute_url }}" alt="Searches"/>
   </div>
 </div>
