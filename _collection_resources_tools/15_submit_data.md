@@ -72,7 +72,7 @@ listIconKey: code-fork fa-rotate-270
   <div>
     <div>For all datasets available in GenBank, ENA or DDBJ or other repositories, fill out the VEuPathDB Dataset nomination form
 	</div>
-      <img style="width: 60em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/nomination_form.png" | absolute_url }}" alt="Searches"/><br>
+      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/nomination_form.png" | absolute_url }}" alt="Searches"/><br>
   </div>
 <br/>
 
