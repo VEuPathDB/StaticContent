@@ -72,13 +72,13 @@ descriptionTitle: "Genome Browser"
 <div class="search-strategies-feature">
   <section class="container">
     <div id="col-1">
-      <p>VEuPathDB provides genome browsing capability through the
+      <p><br><br><br>VEuPathDB provides genome browsing capability through the
       JBrowse genome browser. JBrowse may be accessed directly from the tools section located in the menu bar in the header or from relevant sections on gene pages of interest.&nbsp; JBrowse provides numerous functionalities
       including:
       </p>
     </div>
     <div id="col-2">
-      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/jbrowse_view1.png" | absolute_url }}" alt="JBrowse select tracks"/>
+      <img style="width: 30em; margin-top: 1em; margin-left: 3em;" src="{{ "/assets/images/resources_tools/jbrowse_view1.png" | absolute_url }}" alt="JBrowse screen shot"/>
     </div>
   </section>
   <div class="search-strategies-feature--panels">
