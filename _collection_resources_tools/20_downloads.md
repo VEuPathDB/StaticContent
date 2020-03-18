@@ -1,7 +1,7 @@
 ---
 identifier: Downloads
 listTitle: Downloads
-descriptionTitle: Downloads
+descriptionTitle: Data Downloads
 listIconKey: "cloud-download"
 ---
 <style>
@@ -72,8 +72,8 @@ listIconKey: "cloud-download"
       <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-JBrowse.png" | absolute_url }}" alt="Searches"/><br/><br/>
   </div>
   <div>
-    <div>From the strategy system, Add Columns of data (such as expression values) you wish to access then Download the gene results table. </div>
-      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Search.png" | absolute_url }}" alt="Searches"/>
+    <div>From the strategy system, add Columns of data (such as expression values) you wish to access then Download the gene results table. </div>
+      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/download_strat_example.png" | absolute_url }}" alt="Searches"/>
   </div>
     <div>You can utilize our <a href="/trichdb/serviceList.jsp"><b>Web Services</b></a> to programmatically access our searches.
   </div>
