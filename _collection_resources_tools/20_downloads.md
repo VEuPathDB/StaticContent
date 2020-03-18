@@ -5,28 +5,28 @@ descriptionTitle: Downloads
 listIconKey: "cloud-download"
 ---
 <style>
-  .transcriptomic-resources-feature {
+  .downloads-feature {
     margin: auto;
   }
-  .transcriptomic-resources-feature--panels {
+  .downloads-feature--panels {
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
     counter-reset: panel;
   }
-  .transcriptomic-resources-feature--panels > * {
+  .downloads--panels > * {
     overflow: hidden;
     margin: 0 2em;
   }
-  .transcriptomic-resources-feature--panels > * > div {
+  .downloads--panels > * > div {
     margin-top: 1em;
     margin-left: 2em;
     position: relative;
   }
-  .transcriptomic-resources-feature--panels > * img {
+  .downloads--panels > * img {
     margin-left: 2em;
   }
-  .transcriptomic-resources-feature--panels > * > div:before {
+  .downloads--panels > * > div:before {
     counter-increment: panel;
     content: counter(panel);
     background: #3171d8;
