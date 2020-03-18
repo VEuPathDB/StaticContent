@@ -14,19 +14,19 @@ listIconKey: "cloud-download"
     align-items: flex-start;
     counter-reset: panel;
   }
-  .downloads--panels > * {
+  .downloads-feature--panels > * {
     overflow: hidden;
     margin: 0 2em;
   }
-  .downloads--panels > * > div {
+  .downloads-feature--panels > * > div {
     margin-top: 1em;
     margin-left: 2em;
     position: relative;
   }
-  .downloads--panels > * img {
+  .downloads-feature--panels > * img {
     margin-left: 2em;
   }
-  .downloads--panels > * > div:before {
+  .downloads-feature--panels > * > div:before {
     counter-increment: panel;
     content: counter(panel);
     background: #3171d8;
