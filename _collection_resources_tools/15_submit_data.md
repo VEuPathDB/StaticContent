@@ -1,6 +1,6 @@
 ---
 identifier: submit-data
-listIconKey: fa-arrow-circle-o-up
+listIconKey: "sliders"
 listTitle: How to Submit Data
 descriptionTitle: How to Submit Data
 ---
