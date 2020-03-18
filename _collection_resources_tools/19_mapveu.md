@@ -3,6 +3,7 @@ identifier: mapveu
 listTitle: MapVEu
 descriptionTitle: MapVEu
 listIconKey: "globe"
+category: [VectorBase]
 ---
 <style>
   .search-strategies-feature {
