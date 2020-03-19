@@ -59,9 +59,9 @@ descriptionTitle: "Transcriptomic Resources"
 
 </style>
 <div id="topright">
-   <a href="/a/app/search/transcript/GenesByRNASeqEvidence">Search RNA-Seq Data</a>&nbsp; &nbsp; &nbsp;
+   <a href="/a/app/search/transcript/GenesByRNASeqEvidence">All RNA-Seq Searches</a>&nbsp; &nbsp; &nbsp;
    <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs">Example Gene Page Data</a>&nbsp; &nbsp; &nbsp;
-   <a href="/a/app/search/transcript/GenesByMicroarrayEvidence">Search Microarray Data</a>&nbsp; &nbsp; &nbsp;
+   <a href="/a/app/search/transcript/GenesByMicroarrayEvidence">All Microarray Searches</a>&nbsp; &nbsp; &nbsp;
 </div>
 <br/>
 <div class="transcriptomic-resources-feature">
@@ -77,7 +77,9 @@ descriptionTitle: "Transcriptomic Resources"
       <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-JBrowse.png" | absolute_url }}" alt="Searches"/><br/><br/>
   </div>
   <div>
-    <div>Searches that query individual data sets and return lists of genes based on parameters like life cycle stage, treatment, expression level, fold change. Searches return genes based on <a href="/a/app/search/transcript/GenesByRNASeqEvidence"><b>Search RNA Seq Data</b></a></div>
+    <div>Searches that query individual data sets and return lists of genes based on sample characteristics like life cycle stage or treatment. We offer six query types including differential expression (Fischer's exact test), fold change (algebraic calculation), percentile within a sample, sense/antisense comparisons, expression profile similarity.  
+    <a href="/a/app/search/transcript/GenesByRNASeqEvidence"><b>Search RNA Seq Data</b></a> &nbsp; &nbsp; 
+    <a href="/a/app/search/transcript/GenesByMicroarrayEvidence"><b>Search Microarray Data</b></a> </div>
       <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Search.png" | absolute_url }}" alt="Searches"/>
   </div>
 </div>
