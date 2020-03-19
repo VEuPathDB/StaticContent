@@ -1,7 +1,7 @@
 ---
 identifier: "phenotype"
 listIconKey: "flask"
-listTitle: "Phenotype"
+listTitle: "Phenotypic data"
 descriptionTitle: "Phenotype"
 ---
 <style>
