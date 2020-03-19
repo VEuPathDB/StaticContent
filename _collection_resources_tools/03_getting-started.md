@@ -16,7 +16,7 @@ VEuPathDB is packed with data, tools and visualizations that can help answer you
    <p class="indent">Enter a term or ID in the site search box at the top of any page.  The site search returns a categorized list of records that contain your term.  It's easy to find genes, data sets, pathways, searches and more with the site search.<br>
 
    <div style="display: flex; justify-content: center; align-items: center">  
-   <img width="300" height="220" src="{{ "/assets/images/resources_tools/Dowload-data-values-HQ.gif" | absolute_url }}" alt="GIF" />
+   <img width="300" height="220" src="{{ "/assets/images/resources_tools/Site-Search.gif" | absolute_url }}" alt="GIF" />
    </div>
    </p>
 <b>SEARCH STRATEGY SYSTEM</b>: Discover meaningful biological relationships from large volumes of data<br>
