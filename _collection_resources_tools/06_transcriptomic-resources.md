@@ -82,6 +82,7 @@ descriptionTitle: "Transcriptomic Resources"
     <a href="/a/app/search/transcript/GenesByMicroarrayEvidence"><b>Search Microarray Data</b></a> </div>
       <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Search.png" | absolute_url }}" alt="Searches"/>
   </div>
+  </div>
 <br/><br/>
  In addition, <a href="/a/app/galaxy-orientation">My Workspaces</a> offers a private Galaxy workspace for analyzing your own data and porting the results to VEuPathDB to compare with public data.  All VEuPathDB genomes are pre-loaded and several pre-configured workflows <a href="/a/app/galaxy-orientation"><b>My Workspaces</b></a> for RNA-seq analysis and viarant calling are available.   IMAGE SOON 
 </div>
