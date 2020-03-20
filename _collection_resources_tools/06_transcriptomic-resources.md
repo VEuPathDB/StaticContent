@@ -73,8 +73,8 @@ descriptionTitle: "Transcriptomic Resources"
       <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Table-Graph.png" | absolute_url }}" alt="Searches"/><br/><br/>
   </div>
   <div>
-    <div>Genome browser tracks for dynamic visualization of analyzed data as read coverage plots or predicted introns. <a href="/a/jbrowse.jsp?loc=Pf3D7_11_v3%3A1278857..1310725&data=%2Fa%2Fservice%2Fjbrowse%2Ftracks%2Fpfal3D7&tracks=gene%2CRNASeq%20Evidence%20for%20Introns%20(Inclusive)%2CRNASeq%20Evidence%20for%20Introns%20(Refined)&highlight="><b>Example JBrowse view</b></a></div>
-      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-JBrowse.png" | absolute_url }}" alt="Searches"/><br/><br/>
+    <div>Genome browser tracks for dynamic visualization of analyzed data as read coverage plots or predicted introns. Sequence data is mapped to a reference genome and made available in JBrowse. Scroll, zoom or stack data for more data mining power. <a href="/a/app/jbrowse?data=/a/service/jbrowse/tracks/default&tracks=gene"><b>Example JBrowse view</b></a></div>
+      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-JBrowse-2.png" | absolute_url }}" alt="Searches"/><br/><br/>
   </div>
   <div>
     <div>Searches that query individual data sets and return lists of genes based on sample characteristics like life cycle stage or treatment. We offer six query types including:
