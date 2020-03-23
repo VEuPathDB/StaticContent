@@ -3,7 +3,7 @@ identifier: search-strategies
 listTitle: Search Strategies
 descriptionTitle: Search Strategies
 listIconKey: code-fork fa-rotate-270
-tag: [general]
+tag: [tutorial]
 title: Search strategies
 permalink: #search-strategies
 ---
