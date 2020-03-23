@@ -42,18 +42,6 @@ Jekyll::Hooks.register :site, :post_render do |site|
     pipe.close_write
     puts pipe.read
   end
-
-  # puts "----"
-  # puts "static_files - #{site.static_files[0].class}"
-  # puts "data - #{site.data}"
-  # puts "file_read_opts - #{site.file_read_opts.class}"
-  # puts "converters - #{site.converters[0].class}"
-  # puts "generators - #{site.generators[0].class}"
-  #
-  # site.collections.each do |colName, collection|
-  # puts site.layouts["plain"].instance_variables
-  # puts "----"
-
 end
 
 Jekyll::Hooks.register :site, :post_write do |site|
