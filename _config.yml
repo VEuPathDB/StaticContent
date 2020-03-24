@@ -26,43 +26,11 @@ url: "https://qa.community.eupathdb.org" # the base hostname & protocol for your
 search_enabled: true
 future: true
 
-#theme: minima
-
-#prose:
-#  siteurl: "https://devcommunity.eupathdb.org/"
-prose:
-  metadata:
-    _posts:
-      - name: "category"
-        field:
-          element: "multiselect"
-          label: "Select Categories"
-          options:
-            - name: "PlasmoDB"
-              value: "PlasmoDB"
-            - name: "EuPathDB"
-              value: "EuPathDB"
-
-
 collections:
   collection_about_all: {}
   collection_resources_tools:
     output: true
     json_keys: [ output, descriptionTitle, identifier, listIconKey, listTitle ]
-
-# this uses the list of projects in _data/projects.yml to iterate and build all the embedded help pages
-# each of these pages will be build using the _layouts/help.html template.  
-
-page_gen-dirs: false
-page_gen:
-  - data: 'projects'
-    template: 'help'
-    name: 'name'
-    dir: 'aboutall'
-  - data: 'general'
-    template: 'help'
-    name: 'name'
-    dir: 'aboutall'
 
 plugins:
   - jekyll-seo-tag
