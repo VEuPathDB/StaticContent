@@ -85,6 +85,7 @@ descriptionTitle: "Transcriptomic Resources"
          <li>sense/antisense comparisons, and</li>
          <li>expression profile similarity.</li> 
        </ul> 
+       <br/><br/>
     <a href="/a/app/search/transcript/GenesByRNASeqEvidence"><b>Search RNA Seq Data</b></a> &nbsp; &nbsp; 
     <a href="/a/app/search/transcript/GenesByMicroarrayEvidence"><b>Search Microarray Data</b></a> </div>
       <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Search.png" | absolute_url }}" alt="Searches"/>
