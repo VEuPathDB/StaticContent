@@ -44,19 +44,8 @@ category: [VectorBase]
     top: -0.25em;
   }
    #topright {
-    position: absolute;
-    right: 1em;
-    top: 3em;
-    padding-top: 0.5em;
-    padding-left: 0.5em;
-    padding-right: 1.5em;
-}
-   #toprightsecond {
-    position: absolute;
-    right: 1em;
-    top: 5em;
-    padding: 0.5em;
-}
+    text-align: right;
+  }
   #topright a {
     text-decoration: none;
     font-family: Roboto;
@@ -66,7 +55,6 @@ category: [VectorBase]
 <div id="topright">
   <a href="/popbio-map/web/">MapVEu</a>
 </div>
-<br/>
 <div class="search-strategies-feature">
   <p><a href="/popbio-map/web/">MapVEu</a> integrates genomic, phenotypic and population data for traits such as insecticide resistance genotypes and phenotypes, genetic variation with microsatellites, chromosomal inversions and SNPs, population abundance, pathogen infection status and blood meal identification. </p>
   <div class="search-strategies-feature--panels">

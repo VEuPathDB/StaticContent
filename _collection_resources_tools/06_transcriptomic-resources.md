@@ -42,20 +42,9 @@ descriptionTitle: "Transcriptomic Resources"
     left: -2em;
     top: -0.25em;
   }
-     #topright {
-    position: absolute;
-    right: 1em;
-    top: 3em;
-    padding-top: 0.5em;
-    padding-left: 0.5em;
-    padding-right: 1.5em;
-}
-     #toprightsecond {
-    position: absolute;
-    right: 1em;
-    top: 6em;
-    padding: 0.5em;
-}
+  #topright {
+    text-align: right;
+  }
 
 </style>
 <div id="topright">
@@ -63,7 +52,6 @@ descriptionTitle: "Transcriptomic Resources"
    <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs">Example Gene Page Data</a>&nbsp; &nbsp; &nbsp;
    <a href="/a/app/search/transcript/GenesByMicroarrayEvidence">All Microarray Searches</a>&nbsp; &nbsp; &nbsp;
 </div>
-<br/>
 <div class="transcriptomic-resources-feature">
 <p class="card-text">VEuPathDB supports transcriptomic data mining from RNA sequence, microarray, and expressed seqeunce tags. We analyze pertinent data from your research community and make our analysis results available to you as:</p>
 

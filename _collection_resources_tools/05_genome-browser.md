@@ -42,14 +42,9 @@ descriptionTitle: "Genome Browser"
     left: -2em;
     top: -0.25em;
   }
-   #topright {
-    position: absolute;
-    right: 1em;
-    top: 3em;
-    padding-top: 0.5em;
-    padding-left: 0.5em;
-    padding-right: 1.5em;
-}
+  #topright {
+    text-align: right;
+  }
   #topright a {
     text-decoration: none;
     font-family: Roboto;
