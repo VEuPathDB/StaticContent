@@ -75,7 +75,7 @@ descriptionTitle: "Transcriptomic Resources"
        </ul>  
        <br/><br/>
      </div>
-      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/transcript-add-column-crop.png" | absolute_url }}" alt="Searches"/>
+      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/transcript-add-column-crop-box.png" | absolute_url }}" alt="Searches"/>
   </div>
   </div>
 <br/><br/>
