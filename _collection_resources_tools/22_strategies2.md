@@ -45,9 +45,7 @@ published: false
     top: -0.25em;
   }
   #topright {
-    position: absolute;
-    right: 1em;
-    top: 4em;
+    text-align: right;
   }
   #topright a {
     padding: 0.5em;
@@ -56,10 +54,7 @@ published: false
     background-color: #d6c5c5;
   }
   #toprightsecond {
-    position: absolute;
-    right: 1em;
-    top: 6em;
-    padding: 0.5em;
+    text-align: right;
     border: 1px solid #d6c5c5;
     border-radius: 0.5em;
     background-color: #d6c5c5;

@@ -42,20 +42,9 @@ descriptionTitle: "Transcriptomic Resources"
     left: -2em;
     top: -0.25em;
   }
-     #topright {
-    position: absolute;
-    right: 1em;
-    top: 3em;
-    padding-top: 0.5em;
-    padding-left: 0.5em;
-    padding-right: 1.5em;
-}
-     #toprightsecond {
-    position: absolute;
-    right: 1em;
-    top: 6em;
-    padding: 0.5em;
-}
+  #topright {
+    text-align: right;
+  }
 
 </style>
 <div id="topright">
@@ -63,13 +52,12 @@ descriptionTitle: "Transcriptomic Resources"
    <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs">Example Gene Page Data</a>&nbsp; &nbsp; &nbsp;
    <a href="/a/app/search/transcript/GenesByMicroarrayEvidence">All Microarray Searches</a>&nbsp; &nbsp; &nbsp;
 </div>
-<br/>
 <div class="transcriptomic-resources-feature">
 <p class="card-text">VEuPathDB supports transcriptomic data mining from RNA sequence, microarray, and expressed seqeunce tags. We analyze pertinent data from your research community and make our analysis results available to you as:</p>
 
 <div class="transcriptomic-resources-feature--panels">
   <div>
-    <div>Tables, and graphs on gene pages or in search result columns.  <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs"><b>Example Gene Page Data</b></a>  </div>
+    <div>Tables, and graphs on gene pages.  <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs"><b>Example Gene Page Data</b></a>  </div>
       <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Table-Graph.png" | absolute_url }}" alt="Searches"/><br/><br/>
   </div>
   <div>
@@ -77,17 +65,17 @@ descriptionTitle: "Transcriptomic Resources"
       <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-JBrowse-2.png" | absolute_url }}" alt="Searches"/><br/><br/>
   </div>
   <div>
-    <div>Searches that query individual data sets and return lists of genes based on sample characteristics like life cycle stage or treatment. We offer six query types including:
+    <div>Searches that query individual <a href="/a/app/search/transcript/GenesByRNASeqEvidence"><b>RNA Seq</b></a> or <a href="/a/app/search/transcript/GenesByMicroarrayEvidence"><b>Microarray</b></a> data sets and return a list of genes based on sample characteristics such as life cycle stage or treatment. Associated gene data can be added to the search result via the Add Columns tool.  We offer six query types including:
        <ul>
          <li>differential expression (Fischer's exact test),</li>
          <li>fold change (algebraic calculation),</li>
          <li>percentile rank within a sample,</li>
          <li>sense/antisense comparisons, and</li>
          <li>expression profile similarity.</li> 
-       </ul> 
-    <a href="/a/app/search/transcript/GenesByRNASeqEvidence"><b>Search RNA Seq Data</b></a> &nbsp; &nbsp; 
-    <a href="/a/app/search/transcript/GenesByMicroarrayEvidence"><b>Search Microarray Data</b></a> </div>
-      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Search.png" | absolute_url }}" alt="Searches"/>
+       </ul>  
+       <br/><br/>
+     </div>
+      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Search-2.png" | absolute_url }}" alt="Searches"/>
   </div>
   </div>
 <br/><br/>

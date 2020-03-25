@@ -46,26 +46,14 @@ permalink: #search-strategies
     top: -0.25em;
   }
    #topright {
-    position: absolute;
-    right: 1em;
-    top: 3em;
-    padding-top: 0.5em;
-    padding-left: 0.5em;
-    padding-right: 1.5em;
-}
-   #toprightsecond {
-    position: absolute;
-    right: 1em;
-    top: 5em;
-    padding: 0.5em;
-}
+     text-align: right;
+  }
 </style>
 <div id="topright">
   <a href="/a/app/query-grid">All Available Searches</a>
 </div>
-<br/>
 <div class="search-strategies-feature">
-<img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/strategy_panel_2.png" | absolute_url }}" alt="Searches"/><br/>
+<img style="width: 40em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/Strat_upper.png" | absolute_url }}" alt="Searches"/><br/>
   <p>Discover meaningful biological relationships from large volumes of data with VEuPathDB's unique and powerful <b>Search Strategies</b> - a tool for mining Omics data without programming experience. </p>
   <div class="search-strategies-feature--panels">
     <div>
