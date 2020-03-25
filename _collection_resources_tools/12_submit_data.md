@@ -46,32 +46,24 @@ descriptionTitle: How to Submit Data
     text-align: right;
   }
 </style>
-VEuPathDB can integrate a variety of datasets, including genomes & high throughput sequencing data (e.g. RNA-Seq, ChiP-Seq, isolates typed by WGS or by sequencing limited genetic loci, etc.). These data must be available in GenBank, ENA or DDBJ. Genome functional annotation only (e.g. gene names, products, GO terms, etc. in gff, ensemble, gtf or genbank formats) can be submitted directly to VEuPathDB.
 
-<div class="submit-data-feature">
-<p class="card-text"><b>How to nominate data for integration in VEuPathDB</b></p>
+VEuPathDB integrates unpublished, pre-publication, and published genomic-scale datasets associated with the diverse eukaryotic microbes, fungi, vectors of human disease, and hosts. 
+
+While some data can be accepted directly from the provider (for example, proteomics data in Excel spreadsheets or population data with GPS coordinates), all sequence data such as genomes, RNA-Seq or ChiP-Seq data sets, must be available from an INSDC database (DDBJ, EMBL-EBI ENA, or NCBI GenBank).
+
+Plan ahead and let us know of the data availability in advance to reserve your spot in the submission queue. We have data releases every two months and will get in contact with you once your data is scheduled for the release. 
 
 <div class="submit-data-feature--panels">
   <div>
-    <div>For all datasets available in GenBank, ENA or DDBJ or other repositories, fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScmRz2amcjBHQh0D1HPXwmAQTi-k67VRtXRoIOLopCCSo-VcA/viewform"><b>VEuPathDB Dataset & Bioinformatics Tool Nomination Form</b></a>
+    <div><a href="a/app/static-content/dataSubmission.html"><b>Read more on VEuPathDB data submission and release policies
+</b></a>
+	</div>
+<br/>
+
+
+<div class="submit-data-feature--panels">
+  <div>
+    <div><a href="https://docs.google.com/forms/d/e/1FAIpQLScmRz2amcjBHQh0D1HPXwmAQTi-k67VRtXRoIOLopCCSo-VcA/viewform"><b>Nominate a dataset for integration into VEuPathDB</b></a>
 	</div>
       <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/nomination_form.png" | absolute_url }}" alt="Searches"/><br>
   </div>
-<br/>
-  
-  <div>
-    <div>For proteomics datasets, including quantitative MassSpec experiments, Excel or tab-delimited text files are preferred, but we can accommodate xml file format. Required columns include gene IDs, peptide sequences, peptide counts and scores
-	</div>
-  
-<br/><br/>
-Tell us about your data as early as possible, to allow ample time for scheduling into VEuPathDB release cycles. Depending on the dataset type, we can provide instructions on how to transfer your data to us (e.g. formats of proteomics datasets may differ depending on the nature and scale of the data to be transferred), or we may be able to facilitate data submission to a repository (e.g. GenBank, GEO/ArrayExpress). 
-
-<br/><br/>
-<b>What data types are supported by VEuPathDB?</b> 
-In one form or another, VEuPathDB currently represents sequence data (genomes, ESTs, RNA-seq, generated on various platforms), comparative genomic information, DNA polymorphism and population genetics data, information on the field and clinical isolates (with geo-stratographic and other metadata), chromatin modification data (ChIP-chip and ChIP-seq), manually curated and automatically generated gene models and other annotation (GO terms, InterPro domains, etc.), transcript and proteomic profiling, and host response data sets (multiple platforms), interactome data, structural information, metabolic pathways and metabolomics data, phenotyping information, reagents (clones, antibodies, etc.), publication references, image data, and more. Please let us know if you have data to provide that is not currently supported! To contact the VEuPathDB support team, click the ‘Contact Us’ link on any VEuPathDB page. 
-
-<br/><br/>
-<b>What species are supported by VEuPathDB?</b> 
-The VEuPathDB contract from NIAID provides support for biosecurity pathogens, including Babesia, Cryptosporidium, Entamoeba, Giardia, Microsporidia (various genera), Toxoplasma, Plasmodium, and related taxa (Acanthamoeba, Gregarina, Neospora, Theileria) and also arthropod vectors (ticks, mosquitoes, biting flies, etc.) of human disease, as well as the sail, and comparator species. Support for kinetoplastid parasites (Crithidia, Endotrypanum, Leishmania, Trypanosoma) is provided by The Bill & Melinda Gates Foundation and the Wellcome Trust. The FungiDB project encompasses a large (and growing) number of species supported by the Wellcome Trust. Trichomonas is supported as a legacy of previous NIH funding. Please contact us if you have data from other species that should be incorporated into VEuPathDB! 
-
-</div>
