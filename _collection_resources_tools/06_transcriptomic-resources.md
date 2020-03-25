@@ -66,6 +66,7 @@ descriptionTitle: "Transcriptomic Resources"
   </div>
   <div>
     <div>Searches that query individual <a href="/a/app/search/transcript/GenesByRNASeqEvidence"><b>RNA Seq</b></a> or <a href="/a/app/search/transcript/GenesByMicroarrayEvidence"><b>Microarray</b></a> data sets and return a list of genes based on sample characteristics such as life cycle stage or treatment. Associated gene data can be added to the search result via the Add Columns tool.  We offer six query types including:
+       <div style="margin-left: 3em;">
        <ul>
          <li>differential expression (Fischer's exact test),</li>
          <li>fold change (algebraic calculation),</li>
@@ -73,6 +74,7 @@ descriptionTitle: "Transcriptomic Resources"
          <li>sense/antisense comparisons, and</li>
          <li>expression profile similarity.</li> 
        </ul>  
+       </div>
        <br/><br/>
      </div>
       <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/transcript-add-column-crop-box.png" | absolute_url }}" alt="Searches"/>
