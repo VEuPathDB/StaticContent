@@ -57,11 +57,10 @@ Plan ahead and let us know of the data availability in advance to reserve your s
   <div>
     <div><a href="a/app/static-content/dataSubmission.html"><b>Read more on VEuPathDB data submission and release policies
 </b></a><br/><br/>
-</div>
+  </div>
 
-<div class="submit-data-feature--panels">
   <div>
     <div><a href="https://docs.google.com/forms/d/e/1FAIpQLScmRz2amcjBHQh0D1HPXwmAQTi-k67VRtXRoIOLopCCSo-VcA/viewform"><b>Nominate a dataset for integration into VEuPathDB</b></a>
-	</div>
+    </div>
       <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/nomination_form.png" | absolute_url }}" alt="Searches"/><br>
   </div>
