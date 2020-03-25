@@ -60,7 +60,7 @@ Plan ahead and let us know of the data availability in advance to reserve your s
   </div>
 
   <div>
-    <div><a href="https://docs.google.com/forms/d/e/1FAIpQLScmRz2amcjBHQh0D1HPXwmAQTi-k67VRtXRoIOLopCCSo-VcA/viewform"><b>Nominate a dataset for integration into VEuPathDB</b></a>
+    <div><a href="https://docs.google.com/forms/d/e/1FAIpQLScmRz2amcjBHQh0D1HPXwmAQTi-k67VRtXRoIOLopCCSo-VcA/viewform"><b>Nominate a data set for integration into VEuPathDB</b></a>
     </div>
       <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/nomination_form.png" | absolute_url }}" alt="Searches"/><br>
   </div>
