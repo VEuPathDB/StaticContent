@@ -3,6 +3,7 @@ identifier: "genome-browser"
 listIconKey: "sliders"
 listTitle: "Genome Browser"
 descriptionTitle: "Genome Browser"
+tags: [tutorial]
 ---
 <style>
   .search-strategies-feature {

@@ -4,6 +4,7 @@ listIconKey: "bullhorn"
 listTitle: "What is new"
 descriptionTitle: "What is new"
 category: [VectorBase]
+tags: [tutorial]
 ---
 
 <h2>Welcome to VectorBase new (beta) website!</h2>

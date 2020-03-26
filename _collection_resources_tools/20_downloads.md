@@ -3,6 +3,7 @@ identifier: Downloads
 listTitle: Downloads
 descriptionTitle: Data Downloads
 listIconKey: "cloud-download"
+tags: [tutorial]
 ---
 <style>
   .downloads-feature {
