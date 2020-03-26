@@ -4,6 +4,7 @@ listIconKey: "list-ul"
 listTitle: "Transcriptomic Resources 2"
 descriptionTitle: "Transcriptomic Resources"
 published: false
+tags: [tutorial]
 ---
 <p class="card-text"><b>VEuPathDB supports research in transcriptomics.</b> You can:</p>
 <ul class="card-text">

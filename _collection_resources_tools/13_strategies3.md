@@ -4,6 +4,7 @@ listTitle: Search Strategies 3
 descriptionTitle: Search Strategies 3
 listIconKey: code-fork fa-rotate-270
 published: false
+tags: [tutorial]
 ---
 <style>
   .search-strategies-feature {

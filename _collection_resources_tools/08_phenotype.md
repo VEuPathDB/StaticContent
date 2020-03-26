@@ -3,6 +3,7 @@ identifier: "phenotype"
 listIconKey: "flask"
 listTitle: "Phenotypic data"
 descriptionTitle: "Phenotype"
+tags: [tutorial]
 ---
 <style>
   .phenotype-resources-feature {

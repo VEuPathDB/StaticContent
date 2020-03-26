@@ -3,6 +3,7 @@ identifier: submit-data
 listIconKey: arrow-circle-o-up
 listTitle: How to Submit Data
 descriptionTitle: How to Submit Data
+tags: [tutorial]
 ---
 <style>
   .submit-data-feature {

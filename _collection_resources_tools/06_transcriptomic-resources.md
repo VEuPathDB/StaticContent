@@ -3,6 +3,7 @@ identifier: "transcriptomic-resources"
 listIconKey: "list-ul"
 listTitle: "Transcriptomic Resources"
 descriptionTitle: "Transcriptomic Resources"
+tags: [tutorial]
 ---
 <style>
   .transcriptomic-resources-feature {

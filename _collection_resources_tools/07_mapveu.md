@@ -4,6 +4,7 @@ listTitle: MapVEu
 descriptionTitle: MapVEu
 listIconKey: "globe"
 category: [VectorBase]
+tags: [tutorial]
 ---
 <style>
   .search-strategies-feature {

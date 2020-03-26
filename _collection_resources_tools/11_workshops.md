@@ -3,6 +3,7 @@ identifier: Workshops
 listTitle: Workshops
 descriptionTitle: Workshops
 listIconKey: "desktop"
+tags: [tutorial]
 ---
 <style>
   .downloads-feature {

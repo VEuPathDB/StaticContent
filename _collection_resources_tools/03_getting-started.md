@@ -3,6 +3,7 @@ identifier: getting-started
 listTitle: Getting Started
 descriptionTitle: Getting Started
 listIconKey: hourglass-start
+tags: [tutorial]
 ---
 <style>
 p.indent {
