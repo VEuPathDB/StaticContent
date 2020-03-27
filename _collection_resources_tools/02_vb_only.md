@@ -5,6 +5,7 @@ listTitle: "What is new"
 descriptionTitle: "What is new"
 category: [VectorBase]
 tags: [tutorial]
+title: "What is new"
 permalink: '#what-is-new'
 ---
 

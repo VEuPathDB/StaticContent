@@ -4,6 +4,7 @@ listIconKey: "motorcycle"
 listTitle: "Take a Tour"
 descriptionTitle: "Take a Tour"
 tags: [tutorial]
+title: "Take a Tour"
 permalink: '#tour'
 ---
 <div style="display: flex; justify-content: center; align-items: center">  

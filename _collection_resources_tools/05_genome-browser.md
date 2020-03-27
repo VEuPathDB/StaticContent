@@ -4,6 +4,8 @@ listIconKey: "sliders"
 listTitle: "Genome Browser"
 descriptionTitle: "Genome Browser"
 tags: [tutorial]
+title: "Genome Browser"
+permalink: '#genome-browser'
 ---
 <style>
   .search-strategies-feature {
