@@ -1,11 +1,11 @@
 ---
 identifier: "vb"
 listIconKey: "bullhorn"
-listTitle: "What is new"
+listTitle: "What is New"
 descriptionTitle: "What is new"
 category: [VectorBase]
 tags: [tutorial]
-title: "What is new"
+title: "What is New"
 permalink: '#what-is-new'
 ---
 

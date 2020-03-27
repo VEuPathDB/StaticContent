@@ -4,6 +4,8 @@ listTitle: Downloads
 descriptionTitle: Data Downloads
 listIconKey: "cloud-download"
 tags: [tutorial]
+title: Downloads
+permalink: '#download'
 ---
 <style>
   .downloads-feature {

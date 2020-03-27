@@ -1,9 +1,11 @@
 ---
-identifier: Workshops
+identifier: workshops
 listTitle: Workshops
 descriptionTitle: Workshops
 listIconKey: "desktop"
 tags: [tutorial]
+title: Workshops
+permalink: "workshops"
 ---
 <style>
   .downloads-feature {

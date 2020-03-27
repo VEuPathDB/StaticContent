@@ -4,6 +4,8 @@ listIconKey: "list-ul"
 listTitle: "Transcriptomic Resources"
 descriptionTitle: "Transcriptomic Resources"
 tags: [tutorial]
+title: "Transcriptomic Resources"
+permalink: '#transcriptomic-resources'
 ---
 <style>
   .transcriptomic-resources-feature {

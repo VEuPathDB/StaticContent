@@ -1,9 +1,11 @@
 ---
 identifier: "phenotype"
 listIconKey: "flask"
-listTitle: "Phenotypic data"
+listTitle: "Phenotypic Data"
 descriptionTitle: "Phenotype"
 tags: [tutorial]
+title: "Phenotypic Data"
+permalink: '#phenotype'
 ---
 <style>
   .phenotype-resources-feature {

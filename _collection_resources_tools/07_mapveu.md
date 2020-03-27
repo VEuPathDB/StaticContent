@@ -5,6 +5,8 @@ descriptionTitle: MapVEu
 listIconKey: "globe"
 category: [VectorBase]
 tags: [tutorial]
+title: MapVEu
+permalink: '#mapveu'
 ---
 <style>
   .search-strategies-feature {

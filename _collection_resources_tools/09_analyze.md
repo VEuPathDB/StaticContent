@@ -4,6 +4,8 @@ listIconKey: "bar-chart"
 listTitle: "Analyze My Data"
 descriptionTitle: "Analyze My Data"
 tags: [tutorial]
+title: "Analyze My Data"
+permalink: '#analyze'
 ---
 <div style="margin: auto; max-width: 51em;">
   <p>Use pre-configured workflows in VEuPathDB's Galaxy to analyze your data.  Workflows include:</p>

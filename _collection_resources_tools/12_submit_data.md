@@ -4,6 +4,8 @@ listIconKey: arrow-circle-o-up
 listTitle: How to Submit Data
 descriptionTitle: How to Submit Data
 tags: [tutorial]
+title: How to Submit Data
+permalink: '#submit-data'
 ---
 <style>
   .submit-data-feature {

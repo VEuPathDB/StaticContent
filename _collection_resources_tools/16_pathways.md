@@ -4,6 +4,8 @@ listIconKey: "connectdevelop"
 listTitle: "Metabolic Pathways"
 descriptionTitle: "Metabolic Pathways"
 tags: [tutorial]
+title: "Metabolic Pathways"
+permalink: '#pathways'
 ---
 <div style="display: flex; justify-content: center; align-items: center; max-width: 600px; margin-auto;">  
   <ul>
