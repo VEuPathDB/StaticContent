@@ -4,6 +4,7 @@ listTitle: Getting Started
 descriptionTitle: Getting Started
 listIconKey: hourglass-start
 tags: [tutorial]
+permalink: '#getting-started'
 ---
 <style>
 p.indent {

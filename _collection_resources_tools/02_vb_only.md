@@ -5,6 +5,7 @@ listTitle: "What is new"
 descriptionTitle: "What is new"
 category: [VectorBase]
 tags: [tutorial]
+permalink: '#what-is-new'
 ---
 
 <h2>Welcome to VectorBase new (beta) website!</h2>
