@@ -5,7 +5,7 @@ descriptionTitle: Search Strategies
 listIconKey: code-fork fa-rotate-270
 tags: [tutorial]
 title: Search strategies
-permalink: #search-strategies
+permalink: '#search-strategies'
 ---
 <style>
   .search-strategies-feature {
