@@ -58,7 +58,7 @@ category: [AmoebaDB,CryptoDB,FungiDB,GiardiaDB,HostDB,MicrosporidiaDB,Piroplasma
 
 <div class="downloads-feature--panels">
   <div>
-    <div>Use <a href="/app/downloads/"><b>Data Downloads</b></a> to download current and archived genome .fasta, .gff, .gaf, etc files
+    <div>Use <a href="/a/app/downloads/"><b>Data Downloads</b></a> to download current and archived genome .fasta, .gff, .gaf, etc files
   </div>
   <div>
     <div>You can download most tables on our gene pages </div>
