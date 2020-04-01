@@ -68,7 +68,7 @@ category: [AmoebaDB,CryptoDB,FungiDB,GiardiaDB,HostDB,MicrosporidiaDB,Piroplasma
     <div>From the strategy system, add Columns of data (such as expression values) you wish to access then Download the gene results table. </div>
       <img style="width: 50em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/download_stragegy.png" | absolute_url }}" alt="Searches"/>
   </div>
-    <div>You can utilize our <a href="/trichdb/serviceList.jsp"><b>Web Services</b></a> to programmatically access our searches.
+    <div>You can utilize our <a href="/a/app/static-content/webServices.html"><b>Web Services</b></a> to programmatically access our searches.
   </div>
   
 </div>
