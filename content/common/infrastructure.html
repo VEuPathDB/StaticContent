@@ -1,11 +1,12 @@
 ---
 permalink: /infrastructure
 tags: [general]
+title: VEuPathDB infrastructure
 ---
-<h2>EuPathDB Infrastructure Document</h2>
-<p>This document provides a high-level overview of the software infrastructure utilized by the EuPathDB BRC to load, 
+<h2>VEuPathDB Infrastructure Document</h2>
+<p>This document provides a high-level overview of the software infrastructure utilized by the VEuPathDB BRC to load, 
   integrate and provide data to users. Please check <a target="_blank" href="https://eupathdb.org/eupathdb/app/search/dataset/AllDatasets/result">
-  a list of all the data sets</a> loaded in our EuPathDB sites utilizing this infrastructure.</p>
+  a list of all the data sets</a> loaded in our VEuPathDB sites utilizing this infrastructure.</p>
 
 <a name="data"/>
 <h3>Data Loading and Database Schema</h3>
@@ -13,7 +14,7 @@ tags: [general]
   data loading infrastructure and its framework available at <a target="_blank" href="https://github.com/EuPathDB/GusAppFramework">GusAppFramework</a>.  
   This includes not only a comprehensive database schema for integrating and representing genomic and functional (or post) 
   genomic data but also tools for loading said data into that system.  We have made some extensions to the schema and tools for 
-  EuPathDB specific purposes primarily to generate de-normalized views of the data for query optimization purposes.</p>
+  VEuPathDB specific purposes primarily to generate de-normalized views of the data for query optimization purposes.</p>
 <p>Our data are all stored in Oracle12c databases.  Our software infrastructure also supports PostgreSQL but we have some Oracle 
   specific SQL constructs in our model that would need to be changed in order to run successfully in PostgreSQL.  </p>
 <p>We load all data using an in house engineered workflow system called <a target="_blank" href="https://github.com/EuPathDB/ReFlow">
@@ -72,7 +73,7 @@ tags: [general]
                <a target="_blank" href="https://github.com/EuPathDB/MicrobiomeModel">MicrobiomeModel</a>.)</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/FgpUtil">FgpUtil</a>: Basic utilities used by the WDK such as access to database, and SQL runs.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/WDK">WDK</a>: The Web Development Kit. It reads the model (xml files) and loads into java structures. Engine for search runs, step and strategy creation, baskets and favorites and user workspace.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/OAuth2Server">OAuth2Server</a>: authentication to one site used by all sites within EuPathDB including the galaxy site.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/OAuth2Server">OAuth2Server</a>: authentication to one site used by all sites within VEuPathDB including the galaxy site.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/WSF">WSF</a>: The WDK Services Framework: web service architecture to support searches that instead of accessing the database run plugins/processes.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/EbrcWebSvcCommon">EbrcWebSvcCommon</a>: Plugins common to all sites (eg: Blast, Text search).</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonWebService">ApiCommonWebService</a>: Plugins specific to genomic sites.</li>
@@ -85,8 +86,8 @@ tags: [general]
                <a target="_blank" href="https://github.com/EuPathDB/ClinEpiWebsite">ClinEpiWebsite</a>,
                <a target="_blank" href="https://github.com/EuPathDB/MicrobiomeWebsite">MicrobiomeWebsite</a>.)</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/JBrowse">JBrowse</a>: modern genome browser, replaces GBrowse.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/EuPathDBIrods">EuPathDBIrods</a>: Irods storage for the user workspace, which allows users to export data sets from the EuPathDB Galaxy site and run analyses on them.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/EuPathGalaxy">EuPathGalaxy</a>: code that runs in the EuPathDB Galaxy, which includes the EuPathDB written tools and workflows.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/EuPathDBIrods">EuPathDBIrods</a>: Irods storage for the user workspace, which allows users to export data sets from the VEuPathDB Galaxy site and run analyses on them.</li>
+    <li><a target="_blank" href="https://github.com/EuPathDB/EuPathGalaxy">EuPathGalaxy</a>: code that runs in the VEuPathDB Galaxy, which includes the VEuPathDB written tools and workflows.</li>
   </ul>
 </details>
     

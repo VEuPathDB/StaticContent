@@ -22,12 +22,23 @@ Jekyll::Hooks.register :site, :post_render do |site|
   cmd = "_scripts/post-process#{os}"
 
   IO.popen(cmd, "r+") do |pipe|
+
+    # Process Pages
     site.pages.each do |page|
       if page.ext != '.json'
         tmp = JSON.generate({:header => page.data, :output => page.output})
         pipe << "#{tmp}\n"
       end
     end
+
+    # Process Collections
+    site.collections.each do |name, coll|
+      coll.docs.each do |doc|
+        tmp = JSON.generate({:header => doc.data, :output => doc.output})
+        pipe << "#{tmp}\n"
+      end
+    end
+
     pipe.close_write
     puts pipe.read
   end

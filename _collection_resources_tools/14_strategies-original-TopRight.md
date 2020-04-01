@@ -4,6 +4,7 @@ listTitle: Search Strategies Top Right
 descriptionTitle: Search Strategies Top Right
 listIconKey: code-fork fa-rotate-270
 published: false
+tags: [tutorial]
 ---
 <style>
   .search-strategies-feature {
@@ -44,13 +45,7 @@ published: false
     top: -0.25em;
   }
   #topright {
-    position: absolute;
-    right: 1em;
-    top: 3em;
-    padding: 0.5em;
-    border: 1px solid #d6c5c5;
-    border-radius: 0.5em;
-    background-color: #d6c5c5;
+    text-align: right;
 }
   #topright a {
     text-decoration: none;

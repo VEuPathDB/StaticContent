@@ -1,32 +1,34 @@
 ---
 identifier: Downloads
 listTitle: Downloads
-descriptionTitle: Downloads
-listIconKey: "cloud-download-alt"
+descriptionTitle: Data Downloads
+listIconKey: "cloud-download"
+published: false
+tags: [tutorial]
 ---
 <style>
-  .search-strategies-feature {
+  .downloads-feature {
     margin: auto;
   }
-  .search-strategies-feature--panels {
+  .downloads-feature--panels {
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
     counter-reset: panel;
   }
-  .search-strategies-feature--panels > * {
+  .downloads-feature--panels > * {
     overflow: hidden;
     margin: 0 2em;
   }
-  .search-strategies-feature--panels > * > div {
+  .downloads-feature--panels > * > div {
     margin-top: 1em;
     margin-left: 2em;
     position: relative;
   }
-  .search-strategies-feature--panels > * img {
+  .downloads-feature--panels > * img {
     margin-left: 2em;
   }
-  .search-strategies-feature--panels > * > div:before {
+  .downloads-feature--panels > * > div:before {
     counter-increment: panel;
     content: counter(panel);
     background: #3171d8;
@@ -42,48 +44,29 @@ listIconKey: "cloud-download-alt"
     left: -2em;
     top: -0.25em;
   }
-   #topright {
-    position: absolute;
-    right: 1em;
-    top: 3em;
-    padding-top: 0.5em;
-    padding-left: 0.5em;
-    padding-right: 1.5em;
-}
-   #toprightsecond {
-    position: absolute;
-    right: 1em;
-    top: 5em;
-    padding: 0.5em;
-}
-  #topright a {
-    text-decoration: none;
-    font-family: Roboto;
-    color: #413737;
-}
+  #topright {
+    text-align: right;
+  }
+
 </style>
 
-<div class="search-strategies-feature">
-  <p>There are numerous ways to download raw data files from VEuPathDB:
-   </p>
-  <div class="search-strategies-feature--panels">
-    <div>
-      <div>Use <a href="app/downloads/"><b>Data Downloads</b></a> to download current and archived genome .fasta, .gff, .gaf, etc files</div>
-      
-    </div>
-    <div>
-    <br/>
-      <div>You can download most tables on our gene pages </div>
-      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/metadata.png" | absolute_url }}" alt="Strategy panel"/>
-    </div>
-    <div>
-    <br/>
-      <div>Raw data is available for download and export.</div>
-      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/download.png" | absolute_url }}" alt="Strategy panel"/>
-    </div>
-    <div>
-    <br/>
-      <div>You can utilize our <a href="/trichdb/serviceList.jsp"><b>Web Services</b></a> to programmatically access our searches</div>
-      
-    </div>
-<div>
+
+<div class="downloads-feature">
+<p class="card-text">There are numerous ways to download raw data files from VEuPathDB.</p>
+
+<div class="downloads-feature--panels">
+  <div>
+    <div>Use <a href="/app/downloads/"><b>Data Downloads</b></a> to download current and archived genome .fasta, .gff, .gaf, etc files
+  </div>
+  <div>
+    <div>You can download most tables on our gene pages </div>
+      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/download_table.png" | absolute_url }}" alt="Searches"/><br/><br/>
+  </div>
+  <div>
+    <div>From the strategy system, add Columns of data (such as expression values) you wish to access then Download the gene results table. </div>
+      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/download_strat_example.png" | absolute_url }}" alt="Searches"/>
+  </div>
+    <div>You can utilize our <a href="/trichdb/serviceList.jsp"><b>Web Services</b></a> to programmatically access our searches.
+  </div>
+  
+</div>

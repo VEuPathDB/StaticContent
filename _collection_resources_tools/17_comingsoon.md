@@ -3,6 +3,8 @@ identifier: coming-soon
 listTitle: Coming Soon
 descriptionTitle: Coming Soon
 listIconKey: code-fork fa-rotate-270
+published: false
+tags: [tutorial]
 ---
 <style>
   .search-strategies-feature {
@@ -43,22 +45,10 @@ listIconKey: code-fork fa-rotate-270
     top: -0.25em;
   }
    #topright {
-    position: absolute;
-    right: 1em;
-    top: 3em;
-    padding: 0.5em;
-    border: 1px solid #d6c5c5;
-    border-radius: 0.5em;
-    background-color: #d6c5c5;
+    text-align: right;
 }
    #toprightsecond {
-    position: absolute;
-    right: 1em;
-    top: 6em;
-    padding: 0.5em;
-    border: 1px solid #d6c5c5;
-    border-radius: 0.5em;
-    background-color: #d6c5c5;
+    text-align: right;
 }
   #topright a {
     text-decoration: none;
@@ -68,10 +58,8 @@ listIconKey: code-fork fa-rotate-270
 </style>
 <div id="topright"><a href="/a/app/workspace/strategies" title="TopRight">My Strategies</a>
 </div>
-<br/>
 <div id="toprightsecond"><a href="/a/app/query-grid" title="TopRight">All Available Searches</a>
 </div>
-<br/>
 <div class="search-strategies-feature">
   <p>Discover meaningful biological relationships from large volumes of data with VEuPathDB's unique and powerful <b>Search Strategies</b> - a tool for mining Omics data without programming experience. </p>
   <div class="search-strategies-feature--panels">

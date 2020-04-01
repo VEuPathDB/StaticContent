@@ -4,6 +4,7 @@ listTitle: Search Strategies 3
 descriptionTitle: Search Strategies 3
 listIconKey: code-fork fa-rotate-270
 published: false
+tags: [tutorial]
 ---
 <style>
   .search-strategies-feature {
@@ -49,11 +50,7 @@ published: false
     top: -0.25em;
   }
   #topright {
-    position: absolute;
-  }
-  .vpdb-FeaturedToolsSelectionBodyContent__expanded #topright { 
-    position: absolute;
-    top: 7em;
+    text-align: right;
   }
   #topright a {
     padding: 0.5em;
