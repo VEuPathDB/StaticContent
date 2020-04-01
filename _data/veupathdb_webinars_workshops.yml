@@ -1,0 +1,29 @@
+--- # veupathdb webinars page
+- type: webinar
+  title: "VEuPathDB: EuPathDB and VectorBase"
+  description: "This webinar..."
+  uid: web1
+  projects: ""
+  fileName: 
+  date: "Apr 18, 2020"
+- type: video
+  title: "Introductory tour"
+  description: "Covers different tools the site offers to explore and visualize data"
+  uid: v1
+  projects: ""
+  fileName: https://www.youtube.com/
+  date: "Feb 6, 2018"
+- type: workshop
+  title: "Workshop 1"
+  description: "Workshop 1 description"
+  uid: workshop1
+  projects: ""
+  fileName:
+  date: "Apr 26, 2019"
+- type: workshop
+  title: "Workshop 2"
+  description: "Workshop 2 description"
+  uid: workshop2
+  projects: ""
+  fileName:
+  date: "Apr 26, 2019"
