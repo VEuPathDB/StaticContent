@@ -5,6 +5,8 @@ descriptionTitle: Workshops
 listIconKey: "desktop"
 tags: [tutorial]
 title: Workshops
+published: false
+
 permalink: "workshops"
 ---
 <style>
