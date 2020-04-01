@@ -3,6 +3,19 @@ permalink: /webServices
 tags: [tutorial]
 title: VEuPathDB web services
 ---
+<style>
+
+.container {
+  display: flex;
+}
+#col-1 {
+  flex: 1; margin-left: 2em;
+}
+#col-2 {
+  flex: 1; margin-left: 2em;
+}
+
+</style>
 
 <!-- display wdkModel introduction text -->
 <h1>How to run a search using web services</h1>
@@ -30,8 +43,10 @@ Find all (Plasmodium falciparum 3D7) genes that have molecular weight between 10
 
 <h2>Follow these steps...</h2>
 
-<div class="eupathdb-content">
-<ol>
+<div class="eupathdb-content container">
+
+
+<ol id="col-1">
 <li>Go to a search you want to run via web services. (Choose one from the <b>Searches</b> menu or the <a href="">home page</a>.)</li> 
 <li>Fill in the parameters in the search page.  (These choices will be built into your web service URL)</li>
 <li>Click <b>Build a web service URL from this search >></b> at the bottom of the search page.</li>
@@ -39,5 +54,8 @@ Find all (Plasmodium falciparum 3D7) genes that have molecular weight between 10
 <li>Your GET or POST is now configured!</li>
 </ol>
 
+<div id="col-2">
+  <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/webservices-tutorial.png" | absolute_url }}" alt="Searches"  />
+</div>
 </div>
 
