@@ -29,7 +29,7 @@ published: true
 <ul>
 <li><a href="http://zygolife.org">ZyGoLife</a></li>
 <li>Jason Stajich</li>
-<li>Zachary Lewis</il>
+<li>Zachary Lewis</li>
 <li>Evelina Basenko</li>
 </ul>
 <li><b>GiardiaDB:</b></li>
