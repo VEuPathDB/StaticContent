@@ -9,19 +9,84 @@ published: true
 <ul class="cirbulletlist">
   <li>All the community members who have contributed data (often pre-publication), entered user comments or sent us their suggestions.</li>
   <br>
-  <li>Scientists who provided images to be used as a template for the logos in our websites. These are:
+  <li>Scientists who provided images to be used as a template for the logos in our websites and for images used in the header section of our sites:
+
   <br>
     <ul  class="cirbulletlist">
-      <li> AmoebaDB:  Dr. Graham Clark (London School of Hygiene & Tropical Medicine), Dr. Fiona Henriquez (University of West Scotland), Dr. William Petri (University of Virginia), Dr. Craig Roberts (University of Strathclyde)</li>
-      <li> GiardiaDB: Dr. Fran Gillin, Dr. Tineke Lauwaet and Dr. Barbara Davids (University of California, San Diego)</li>
-      <li> MicrosporidiaDB: Dr. Louis Weiss (Albert Einstein School of Medicine)</li>
-      <li> PiroplasmaDB: Dr. Ellen Yeh (Stanford) for proposing the logo idea. Dr. Lowell Kappemeyer, Dr. Audrey Lau (University of Washington) and Dr. Dirk Dobbelaere (University of Bern) for supplying images.</li>
-      <li> PlasmoDB: Dr. Pedro Moura for providing images of Giemsa stained parasites</li>
-      <li> ToxoDB: Dr. Boris Striepen (University of Georgia)</li>
-      <li> TrichDB: Antonio Pereira-Neves and Marlene Benchimol, Santa Ursula University, Rio de Janeiro, Brazil</li>
-      <li> TriTrypDB: Dr. Rick Tarleton (University of Georgia)</li>
-    </ul>
-  </li>
+<ul>
+<li>AmoebaDB:</li>
+<ul>
+<li>Graham Clark</li>
+<li>Fiona Henriquez William Petri Craig RobertsSerge Ankri</li>
+<li>Hugo Aguilar-D&iacute;az</li>
+<li>Julio C. Carrero</li>
+</ul>
+<li>CryptoDB:</li>
+<ul>
+<li>Boris Striepen</li>
+</ul>
+<li>FungiDB:</li>
+<ul>
+<li>ZygoLife</li>
+<li>Jason Stajich</li>
+<li>Evelina Basenko</li>
+</ul>
+<li>GiardiaDB:</li>
+<ul>
+<li>Fran Gillin</li>
+<li>Tineke Lauwaet</li>
+<li>Barbara Davids</li>
+<li>Scott Dawson</li>
+</ul>
+<li>MicrosporidiaDB:</li>
+<ul>
+<li>Louis Weiss</li>
+<li>Gira Bhabha</li>
+<li>Pattana Jaroenlak (Michael)</li>
+<li>Damian Ekiert</li>
+<li>Michael Cammer</li>
+</ul>
+<li>PiroplasmaDB:</li>
+<ul>
+<li>Ellen Yeh</li>
+<li>Lowell Kappemeyer</li>
+<li>Audrey Lau</li>
+<li>Dirk Dobbelaere</li>
+<li>Manoj Duraisingh</li>
+<li>Brendan Elsworth</li>
+<li>Caroline Keroack</li>
+<li>Marc-Jan Gubbels</li>
+<li>Isabelle Coppens</li>
+</ul>
+<li>PlasmoDB:</li>
+<ul>
+<li>Lawrence Bannister</li>
+<li>Lewis Tilney</li>
+<li>Pedro Moura</li>
+</ul>
+<li>ToxoDB:</li>
+<ul>
+<li>Boris Striepen</li>
+<li>David Roos</li>
+</ul>
+<li>TrichDB:</li>
+<ul>
+<li>Antonio Pereira-Neves</li>
+<li>Marlene Benchimol</li>
+</ul>
+<li>TriTrypDB:</li>
+<ul>
+<li>Rick Tarleton (University of Georgia)</li>
+<li>Richard wheeler</li>
+<li>Leandro Lemgruber Soares</li>
+<li>Margaret Mullin</li>
+<li>Camila Silva Gon&ccedil;alves</li>
+<li>Wanderley de Souza</li>
+<li>Maria Cristina Machado Motta</li>
+<li>Danielle Pereira Cavalcanti</li>
+</ul>
+</ul>
+</ul>
   <br><br>
   <li>The team behind EuPathDB:
     <br><br>
