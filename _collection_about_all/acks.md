@@ -27,8 +27,9 @@ published: true
 </ul>
 <li><b>FungiDB:</b></li>
 <ul>
-<li>ZygoLife</li>
+<li><a href="http://zygolife.org">ZyGoLife</a></li>
 <li>Jason Stajich</li>
+<li>Zachary Lewis</li>
 <li>Evelina Basenko</li>
 </ul>
 <li><b>GiardiaDB:</b></li>
@@ -76,7 +77,7 @@ published: true
 </ul>
 <li><b>TriTrypDB:</b></li>
 <ul>
-<li>Rick Tarleton (University of Georgia)</li>
+<li>Rick Tarleton</li>
 <li>Richard wheeler</li>
 <li>Leandro Lemgruber Soares</li>
 <li>Margaret Mullin</li>
