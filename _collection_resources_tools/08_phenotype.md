@@ -59,7 +59,7 @@ permalink: '#phenotype'
   <div>
     <div>Tables (text and image data) associated with various phenotype collections on individual gene record pages.
 	</div>
-      <img style="width: 60em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypegenepage.png" | absolute_url }}" alt="Searches"/><br>
+      <img style="width: 50em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypegenepage.png" | absolute_url }}" alt="Searches"/><br>
   </div>
 <br/>
 
