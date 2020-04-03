@@ -14,31 +14,31 @@ published: true
   <br>
     <ul  class="cirbulletlist">
 <ul>
-<li>AmoebaDB:</li>
+<li><b>AmoebaDB:</b></li>
 <ul>
 <li>Graham Clark</li>
 <li>Fiona Henriquez William Petri Craig RobertsSerge Ankri</li>
 <li>Hugo Aguilar-D&iacute;az</li>
 <li>Julio C. Carrero</li>
 </ul>
-<li>CryptoDB:</li>
+<li><b>CryptoDB:</b></li>
 <ul>
 <li>Boris Striepen</li>
 </ul>
-<li>FungiDB:</li>
+<li><b>FungiDB:</b></li>
 <ul>
 <li>ZygoLife</li>
 <li>Jason Stajich</li>
 <li>Evelina Basenko</li>
 </ul>
-<li>GiardiaDB:</li>
+<li><b>GiardiaDB:</b></li>
 <ul>
 <li>Fran Gillin</li>
 <li>Tineke Lauwaet</li>
 <li>Barbara Davids</li>
 <li>Scott Dawson</li>
 </ul>
-<li>MicrosporidiaDB:</li>
+<li><b>MicrosporidiaDB:</b></li>
 <ul>
 <li>Louis Weiss</li>
 <li>Gira Bhabha</li>
@@ -46,7 +46,7 @@ published: true
 <li>Damian Ekiert</li>
 <li>Michael Cammer</li>
 </ul>
-<li>PiroplasmaDB:</li>
+<li><b>PiroplasmaDB:</b></li>
 <ul>
 <li>Ellen Yeh</li>
 <li>Lowell Kappemeyer</li>
@@ -58,23 +58,23 @@ published: true
 <li>Marc-Jan Gubbels</li>
 <li>Isabelle Coppens</li>
 </ul>
-<li>PlasmoDB:</li>
+<li><b>PlasmoDB:</b></li>
 <ul>
 <li>Lawrence Bannister</li>
 <li>Lewis Tilney</li>
 <li>Pedro Moura</li>
 </ul>
-<li>ToxoDB:</li>
+<li><b>ToxoDB:</b></li>
 <ul>
 <li>Boris Striepen</li>
 <li>David Roos</li>
 </ul>
-<li>TrichDB:</li>
+<li><b>TrichDB:</b></li>
 <ul>
 <li>Antonio Pereira-Neves</li>
 <li>Marlene Benchimol</li>
 </ul>
-<li>TriTrypDB:</li>
+<li><b>TriTrypDB:</b></li>
 <ul>
 <li>Rick Tarleton (University of Georgia)</li>
 <li>Richard wheeler</li>
