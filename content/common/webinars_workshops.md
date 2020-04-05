@@ -7,9 +7,12 @@ tags: [general]
 <div class="static-content">
 
 <h1 id="resources">VEuPathDB Workshops and Training</h1>
+<br>
+We are working on updating our workshop material and tutorials based on our new websites.  We will be posting new exercises regularly and will be holding regularly scheduled webinars that we will announce in banners on the website.  Feel free to explore our previous workshop material and tutorials.
 <br><br>
-<b>We are working on updating our workshop material and tutorials based on our new websites.  We will be posting new exercises regularly and will be holding regularly scheduled webinars that we will announce in banners on the website.  Feel free to explore our previous workshop material and tutorials.</b>
-
+* VectorBase workshops (https://www.vectorbase.org/workshops)
+* EuPathDB workshops (https://workshop.eupathdb.org)
+<br><br>
 <div id="clinepi-tutorials">
   <details open>
     <summary class="h2">Webinars</summary>
