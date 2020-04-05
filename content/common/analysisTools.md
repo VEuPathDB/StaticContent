@@ -4,7 +4,7 @@ title: Analysis tools tutorial
 permalink: /analysisTools
 tags: [tutorial]
 ---
-<div id="static-content">
+<div class="static-content">
 <h1>Analyze Your Strategy Results <a href="https://www.youtube.com/watch?v=npgkkychkrI" class="new-window">
   <img src="/a/images/camera.png"  width="25px" /></a></h1>
 
