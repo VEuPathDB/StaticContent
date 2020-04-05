@@ -6,7 +6,9 @@ tags: [general]
 ---
 <div class="static-content">
 
-<h1 id="resources">VEuPathDB Webinars and Workshops</h1>
+<h1 id="resources">VEuPathDB Workshops and Training</h1>
+<br><br>
+<h2>We are working on updating our workshop material and tutorials based on our new websites.  We will be posting new exercises regularly and will be holding regularly scheduled webinars that we will announce in banners on the website.  Feel free to explore our previous workshop material and tutorials.</h2>
 
 <div id="clinepi-tutorials">
   <details open>
