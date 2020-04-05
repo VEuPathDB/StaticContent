@@ -10,10 +10,12 @@ tags: [general]
 <br>
 We are working on updating our workshop material and tutorials based on our new websites.  We will be posting new exercises regularly and will be holding regularly scheduled webinars that we will announce in banners on the website.  Feel free to explore our previous workshop material and tutorials.
 <br><br>
-* VectorBase workshops (https://www.vectorbase.org/workshops)
-* EuPathDB workshops (https://workshop.eupathdb.org)
+<ul>
+<li><a href="https://www.vectorbase.org/workshops">VectorBase workshops</a></li>
+<li><a href="https://workshop.eupathdb.org">EuPathDB workshops</a></li>
+</ul>
 <br><br>
-<div id="clinepi-tutorials">
+<!-- <div id="clinepi-tutorials">
   <details open>
     <summary class="h2">Webinars</summary>
     <ul>
@@ -28,7 +30,7 @@ We are working on updating our workshop material and tutorials based on our new 
   </details>
 </div>
 
-<div id="clinepi-videos">
+<!-- <div id="clinepi-videos">
   <details open>
     <summary class="h2">Video Tutorials</summary>
     <ul>
@@ -57,6 +59,6 @@ We are working on updating our workshop material and tutorials based on our new 
     </ul>
   </details>
 </div>
-
+-->
 
 </div>
