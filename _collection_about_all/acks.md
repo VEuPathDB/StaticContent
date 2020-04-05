@@ -4,7 +4,7 @@ tag: acks
 order: 5
 published: true
 ---
-<h3>EuPathDB wishes to acknowledge:</h3>
+<h3>VEuPathDB wishes to acknowledge:</h3>
 <div class="eupathdb-content">
 <ul class="cirbulletlist">
   <li>All the community members who have contributed data (often pre-publication), entered user comments or sent us their suggestions.</li>
@@ -89,7 +89,7 @@ published: true
 </ul>
 </ul>
   <br><br>
-  <li>The team behind EuPathDB:
+  <li>The team behind VEuPathDB:
     <br><br>
     <ul  class="cirbulletlist">
       <li>In USA: <br>Rachel Ankirskiy<sup>1</sup>, Cristina Aurrecoechea<sup>1</sup>, Ana Barreto<sup>4</sup>, Bob Belnap<sup>1</sup>, John Brestelli<sup>4</sup>, Brian Brunk<sup>7</sup>, Danielle Callan<sup>7</sup>, Ryan Doherty<sup>4</sup>, Dave Falke<sup>1</sup>, Steve Fischer<sup>4</sup>, Bindu Gajria<sup>7</sup>, Omar S. Harb<sup>7</sup>, Elizabeth Harper<sup>7</sup>, Danica Helb<sup>7</sup>, Mark Hickman<sup>7</sup>, Sufen Hu<sup>2,7</sup>, Jay Humphrey<sup>1</sup>, John Iodice<sup>4</sup>, Jessica C. Kissinger<sup>1,5,8</sup>, Kris Lamoureux<sup>1</sup>, Wei Li<sup>7</sup>, Brianna Lindsay<sup>7</sup>, Jamie Long<sup>7</sup>, Deborah F. Pinney<sup>2,4</sup>, David S. Roos<sup>7</sup>, Sheena Shah-Simpson<sup>7</sup>, Drew Spruill<sup>1</sup>, Christian J. Stoeckert Jr.<sup>4</sup>, Haiming Wang<sup>1</sup>, Susanne Warrenfeltz<sup>1</sup>, Mariann Winkelman<sup>7</sup>, Lin Xu<sup>7</sup>, Jie Zheng<sup>2,4</sup>.
