@@ -4,7 +4,7 @@ title: VEuPathDB Webinars and Workshops
 permalink: /webinars_workshops
 tags: [general]
 ---
-<div id="ce-static-content">
+<div id="static-content">
 
 <h1 id="resources">VEuPathDB Webinars and Workshops</h1>
 
