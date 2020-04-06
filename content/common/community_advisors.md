@@ -9,24 +9,37 @@ title: VEuPathDB community advisors
 VEuPathDB wishes to acknowledge previous scientific working group members. They provided regular feedback oversight and guidance.<br><br>
 
 
-+--------------------+------------------------------+-------------------+
-|                    |                              |                   |
-| Lyric Bartholomay| | Steve Higgs|                 | Hillary Ranson    |
-| Matt Berriman|     | Catherine Hill|              | Alexander Raikhel |
-| Bill Black|        | Marcelo Jacobs-Lorena|       | Lincoln Stein     |
-| John Boothroyd|    | Anthony (Tony) James|        | John Taylor       |
-| Greg Buck|         | Pedro Lagerblad de Oliveira| | Jake Tu           |
-| Geraldine Butler|  | Greg Lanzaro|                | Brett Tyler       |
-| Angela Cruz|       | Daniel Masiga|               | Kenneth Vernick   |
-| George Dimopoulos| | Malcolm McConville|          | Sarah Volkman     |
-| Martin Donnelly|   | Nicola Mulder|               | Jonathan Wastling |
-| Patrick Duffy|     | Ull Munderloh|               | Scott Weaver      |
-| Pascale Gaudet|    | Daniel Neafsey|              | Louis Weiss       |
-| Michael Gottlieb|  | Kenneth Olson|               | Dyann Wirth       |
-| Keith Gull|        | Bill Petri|                  | Jennifer Wortman  |
-| Matthew Hahn|      | Barry Pittendrigh|           | Guiyun Yan        |
-| Adrian Hehl|       | Jeffrey Powell|              |                   |
-+--------------------+------------------------------+-------------------+
++-------------------+-----------------------------+-------------------+
+| Lyric Bartholomay | Steve Higgs                 | Hillary Ranson    |
++-------------------+-----------------------------+-------------------+
+| Matt Berriman     | Catherine Hill              | Alexander Raikhel |
++-------------------+-----------------------------+-------------------+
+| Bill Black        | Marcelo Jacobs-Lorena       | Lincoln Stein     |
++-------------------+-----------------------------+-------------------+
+| John Boothroyd    | Anthony (Tony) James        | John Taylor       |
++-------------------+-----------------------------+-------------------+
+| Greg Buck         | Pedro Lagerblad de Oliveira | Jake Tu           |
++-------------------+-----------------------------+-------------------+
+| Geraldine Butler  | Greg Lanzaro                | Brett Tyler       |
++-------------------+-----------------------------+-------------------+
+| Angela Cruz       | Daniel Masiga               | Kenneth Vernick   |
++-------------------+-----------------------------+-------------------+
+| George Dimopoulos | Malcolm McConville          | Sarah Volkman     |
++-------------------+-----------------------------+-------------------+
+| Martin Donnelly   | Nicola Mulder               | Jonathan Wastling |
++-------------------+-----------------------------+-------------------+
+| Patrick Duffy     | Ull Munderloh               | Scott Weaver      |
++-------------------+-----------------------------+-------------------+
+| Pascale Gaudet    | Daniel Neafsey              | Louis Weiss       |
++-------------------+-----------------------------+-------------------+
+| Michael Gottlieb  | Kenneth Olson               | Dyann Wirth       |
++-------------------+-----------------------------+-------------------+
+| Keith Gull        | Bill Petri                  | Jennifer Wortman  |
++-------------------+-----------------------------+-------------------+
+| Matthew Hahn      | Barry Pittendrigh           | Guiyun Yan        |
++-------------------+-----------------------------+-------------------+
+| Adrian Hehl       | Jeffrey Powell              |                   |
++-------------------+-----------------------------+-------------------+
 
 
 
