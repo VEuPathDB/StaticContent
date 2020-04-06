@@ -42,8 +42,7 @@
 - type: general
   question: "Does the site handle shotgun metagenomic data?"
   answer: |
-           Not yet, but this is one of our future goals.  
-           Although the datasets currently loaded in the site are from 16S rDNA marker gene sequencing, 
+           Not yet, but this is one of our future goals. Although the datasets currently loaded in the site are from 16S rDNA marker gene sequencing, 
            we are working on adding functionality for handling 'shotgun' metagenomic sequence data, 
            potentially allowing interrogation of community composition at the species or strain level, 
            looking at other organisms in complex communities (e.g. fungi and prokaryotes), 
@@ -122,8 +121,8 @@
   answer: 
            Several of the studies available on MicrobiomeDB, including the [GEMS1 Case Control study](https://qa.microbiomedb.org/mbio.b17/app/record/dataset/DS_bb7b589593), [MAL-ED 2yr](https://qa.microbiomedb.org/mbio.b17/app/record/dataset/DS_9d44f0a9b5), and [MAL-ED diarrhea](https://qa.microbiomedb.org/mbio.b17/app/record/dataset/DS_71c725321c)
            are all part of large studies where rich clinical and epidemiological data were collected from thousands of participants across multiple countries.
-           For each of these studies, only a subset of participants had samples collected and processed for microbiomeDB.  Moreover, the sample metadata that we loaded
-           was based on what was published with these microbiome data.  Additional sample- and participant-level clinical and epidemiological data (often times extensive)
+           For each of these studies, only a subset of participants had samples collected and processed for microbiome analysis.  Moreover, the sample metadata available on MicrobiomeDB for these studies includes only
+           what was made available in the publication describing the results from the microbiome study.  Additional sample- and participant-level clinical and epidemiological data (often times extensive)
            are available for these participants and many more participants at our partner site, [ClinEpiDB.org](https://clinepidb.org/ce/app/).
   uid: g10
   projects: "MicrobiomeDB"
