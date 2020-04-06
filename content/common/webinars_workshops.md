@@ -12,8 +12,8 @@ tags: [general]
 We are working on updating our workshop material and tutorials based on our new websites.  We will be posting new exercises regularly and will be holding regularly scheduled webinars that we will announce in banners on the website.  Feel free to explore our previous workshop material and tutorials.
 <br><br>
 <ul>
-<li><a href="https://www.vectorbase.org/workshops">VectorBase workshops</a></li>
-<li><a href="https://workshop.eupathdb.org">EuPathDB workshops</a></li>
+<li><a href="https://www.vectorbase.org/workshops" target="_blank">VectorBase workshops</a></li>
+<li><a href="https://workshop.eupathdb.org" target="_blank">EuPathDB workshops</a></li>
 </ul>
 <br><br>
 <!-- <div id="clinepi-tutorials">
