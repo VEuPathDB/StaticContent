@@ -9,7 +9,7 @@ title: VEuPathDB community advisors
 VEuPathDB wishes to acknowledge previous scientific working group members. They provided regular feedback oversight and guidance.<br>
 
 | | | |
-|:&nbsc;&nbsc;&nbsc;:|:&nbsc;&nbsc;&nbsc;:|:&nbsc;&nbsc;&nbsc;:|:&nbsc;&nbsc;&nbsc;:|
+|:&nbsp;&nbsp;&nbsp;:|:&nbsp;&nbsp;&nbsp;:|:&nbsp;&nbsp;&nbsp;:|:&nbsp;&nbsp;&nbsp;:|
 |Lyric Bartholomay|Michael Gottlieb|Malcolm McConville|John Taylor|
 |Matt Berriman|Keith Gull|Nicola Mulder|Jake Tu|
 |Bill Black|Matthew Hahn|Ull Munderloh|Brett Tyler|
