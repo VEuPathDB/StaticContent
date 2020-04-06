@@ -7,31 +7,30 @@ title: VEuPathDB personnel
 
 <div class="static-content">
 
-<h3>EuPathDB BRC Management</h3>
+<h3>VEuPathDB Management</h3>
 
 <div>
-David S Roos &lt;<a href="mailto:droos@sas.upenn.edu">droos@sas.upenn.edu</a>&gt;
-Joint-PI, BRC Contract; WT Co-PI<br>
-Jessica C Kissinger &lt;<a href="mailto:jkissing@uga.edu">jkissing@uga.edu</a>&gt;
-Joint-PI, BRC Contract; WT Co-PI <br>
-Christiane Hertz-Fowler &lt;<a href="mailto:C.Hertz-Fowler@liverpool.ac.uk">C.Hertz-Fowler@liverpool.ac.uk</a>&gt;
-PI, Wellcome Trust Grant<br>
-Chris J Stoeckert &lt;<a href="mailto:stoeckrt@upenn.edu">stoeckrt@upenn.edu</a>&gt;
-Co-I, BRC Contract<br>
-Brian Brunk &lt;<a href="mailto:brunkb@upenn.edu">brunkb@upenn.edu</a>&gt;
-EuPathDB Manager<br>
-Steve Fischer &lt;<a href="mailto:sfischer@upenn.edu">sfischer@upenn.edu</a>&gt;
-Software and Infrastructure Manager<br>
-John Brestelli &lt;<a href="mailto:jbrestel@upenn.edu">jbrestel@upenn.edu</a>&gt;
-Data Development Manager<br>
-Deborah Pinney &lt;<a href="mailto:pinney@upenn.edu">pinney@upenn.edu</a>&gt;
-Data Loading Manager<br>
-Bob Belnap &lt;<a href="mailto:robert.belnap@uga.edu">robert.belnap@uga.edu</a>&gt;
-Systems and Databases Manager<br>
-Cristina Aurrecoechea &lt;<a href="mailto:aurreco@uga.edu">aurreco@uga.edu</a>&gt;
-User Interface and Portal Manager<br>
-Omar Harb &lt;<a href="mailto:oharb@upenn.edu">oharb@upenn.edu</a>&gt;
-Scientific Outreach
+Beatrice Amos, Annotation Manager<br>
+Cristina Aurrecoechea, User Interface and Portal Manager<br>
+Bob Belnap, Systems and Databases Manager<br>
+John Brestelli, Data Development Manager<br>
+Brian Brunk, VEuPathDB Senior Manager<br>
+Mark Caddick, Wellcome Trust PI; Co-I NIAID BRC Contract <br>
+George Christophides, Co-I, NIAID BRC Contract<br>
+Kathryn Crouch, Co-I, Wellcome Trust<br>
+Jeremy DeBarry, Project Coordinator<br>
+Steve Fischer, Software and Infrastructure Manager<br>
+Paul Flicek, Co-I, NIAID BRC Contract<br>
+Omar Harb, Director of Scientific Outreach & Education<br>
+Jessica C Kissinger, Joint-PI, NIAID BRC Contract; WT Co-PI<br>
+Dan Lawson, Project Coordinator<br>
+Wei Li, Data Loading Manager<br>
+Mary Ann McDowell, Joint-PI, NIAID BRC Contract<br>
+David S Roos, Joint-PI, NIAID BRC Contract; WT Co-PI<br>
+Chris J Stoeckert, Co-I, NIAID BRC Contract<br><br>
+
+To contact any one of us please use the <a href="app/contact-us">contact us form</a>.
+
 </div>
 
 <h3>The team behind VEuPathDB</h3>
