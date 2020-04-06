@@ -3,6 +3,7 @@ permalink: /acks
 tags: [general]
 title: VEuPathDB acknowledgements
 ---
+
 <h1>VEuPathDB wishes to acknowledge</h1>
 
 <div class="static-content" markdown="1">
@@ -11,9 +12,12 @@ title: VEuPathDB acknowledgements
   <li>All the community members who have contributed data (often pre-publication), entered user comments or sent us their suggestions.</li>
   <br>
   <li>Scientists who provided images to be used as a template for the logos in our websites and for images used in the header section of our sites:
+  </li>
+</ul>
 
   <br>
-    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AmoebaDB:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;MicrosporidiaDB:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;ToxoDB:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AmoebaDB:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;MicrosporidiaDB:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;ToxoDB:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;William Petri&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Gira Bhabha&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;David Roos&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Serge Ankri&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Pattana Jaroenlak (Michael)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;TrichDB:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Craig Roberts&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Damian Ekiert&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Antonio Pereira-Neves&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -31,4 +35,8 @@ title: VEuPathDB acknowledgements
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Tineke Lauwaet&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Lawrence Bannister&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Barbara Davids&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Lewis Tilney&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Scott Dawson&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Pedro Moura&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+</div>
+
+
 
