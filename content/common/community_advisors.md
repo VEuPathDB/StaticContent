@@ -8,22 +8,19 @@ title: VEuPathDB community advisors
 <h3>Previous Scientific Working Group</h3>
 VEuPathDB wishes to acknowledge previous scientific working group members. They provided regular feedback oversight and guidance.<br>
 
-| | |
-| Lyric Bartholomay   |   &nbsp;&nbsp;Steve Higgs                   |  &nbsp; &nbsp;Hillary Ranson    |   
-| Matt Berriman       |   &nbsp;&nbsp;Catherine Hill                |  &nbsp; &nbsp;Alexander Raikhel | 
-| Bill Black          |   &nbsp;&nbsp;Marcelo Jacobs-Lorena         |  &nbsp; &nbsp;Lincoln Stein     |
-| John Boothroyd      |   &nbsp;&nbsp;Anthony (Tony) James          |  &nbsp; &nbsp;John Taylor       |
-| Greg Buck           |  &nbsp;&nbsp;Pedro Lagerblad de Oliveira   |   &nbsp;&nbsp;Jake Tu           |
-| Geraldine Butler    |  &nbsp; &nbsp;Greg Lanzaro                  |  &nbsp;&nbsp; Brett Tyler       |
-| Angela Cruz         |   &nbsp;&nbsp;Daniel Masiga                 | &nbsp; &nbsp; Kenneth Vernick   |
-| George Dimopoulos   |   &nbsp;&nbsp;Malcolm McConville            |  &nbsp;&nbsp; Sarah Volkman     |
-| Martin Donnelly     |   &nbsp;&nbsp;Nicola Mulder                 | &nbsp; &nbsp; Jonathan Wastling |
-| Patrick Duffy       |   &nbsp;&nbsp;Ull Munderloh                 | &nbsp; &nbsp; Scott Weaver      |
-| Pascale Gaudet      |  &nbsp;&nbsp;Daniel Neafsey                |  &nbsp; &nbsp;Louis Weiss       |
-| Michael Gottlieb    |  &nbsp; &nbsp;Kenneth Olson                 |  &nbsp; &nbsp;Dyann Wirth       |
-| Keith Gull          |   &nbsp;&nbsp;Bill Petri                    |  &nbsp; &nbsp;Jennifer Wortman  |
-| Matthew Hahn        |   &nbsp;&nbsp;Barry Pittendrigh             |   &nbsp;&nbsp;Guiyun Yan        |
-| Adrian Hehl         |   &nbsp;&nbsp;Jeffrey Powell                |                     |
+| | | |
+|Lyric Bartholomay|Michael Gottlieb|Malcolm McConville|John Taylor|
+|Matt Berriman|Keith Gull|Nicola Mulder|Jake Tu|
+|Bill Black|Matthew Hahn|Ull Munderloh|Brett Tyler|
+|John Boothroyd|Adrian Hehl|Daniel Neafsey|Kenneth Vernick|
+|Greg Buck|Steve Higgs|Kenneth Olson|Sarah Volkman|
+|Geraldine Butler|Catherine Hill|Bill Petri|Jonathan Wastling|
+|Angela Cruz|Marcelo Jacobs-Lorena|Barry Pittendrigh|Scott Weaver|
+|George Dimopoulos|Anthony (Tony) James|Jeffrey Powell|Louis Weiss|
+|Martin Donnelly|Pedro Lagerblad de Oliveira|Hillary Ranson|Dyann Wirth|
+|Patrick Duffy|Greg Lanzaro|Alexander Raikhel|Jennifer Wortman|
+|Pascale Gaudet|Daniel Masiga|Lincoln Stein|Guiyun Yan|
+
 
 <br>
 
