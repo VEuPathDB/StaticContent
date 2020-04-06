@@ -1,76 +1,69 @@
 --- # microbiomeDB faq page
 - type: general
-  question: "Introductory tour"
+  question: "I'm new to the site. Where should I start?'"
   answer: |
-           The video below provides a short overview of the major features of ClinEpiDB. You can 
-           also find tutorials, workshop exercises, and additional resources on our 
-           [Tutorials and Resources](/a/app/static-content/ClinEpiDB/resources.html){:target='_blank'} page.
-           <iframe style="margin-left:3em;margin-top:1em;" width="560" height="315" src="https://www.youtube.com/embed/535PcFrBH8M"></iframe>
+           The video below provides a 5 minute overview that highlights the main features of MicrobiomeDB. You can 
+           find additional video tutorials that dive into to specific features of the site by checking out **[our Vimeo page](https://vimeo.com/showcase/5598563)**.
+           <iframe src="https://player.vimeo.com/video/307120623" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   uid: g1
   projects: "MicrobiomeDB"
+
+
+- type: general
+  question: "Can I analzye my own unpublished data using the tools on MicrobiomeDB?'"
+  answer: |
+           Sorry, but this feature isn't available yet.  However, we're working hard to develop a user workspace that would allow you to upload **[.biom files](http://biom-format.org/)**.  You can also 
+           **[Contact Us](https://microbiomedb.org/mbio/app/contact-us)** to inquire about having your own 
+           data (published or unpublished) loaded into the site for public access!
+  uid: g2
+  projects: "MicrobiomeDB"
+- type: general
+  question: "How are datasets chosen for loading into MicrobiomeDB?'"
+  answer: |
+           Several things factor into our decision to load a dataset.  First, we have a strong interest in studies of the microbiome in infant and child health and in enteric diseases.  Second, we're also interested in understanding how different animal models (mice, dogs, pigs, etc) might help us understand the role of the microbiome during health and disease.  Finally, we're interested in multifactorial and longitudinal datasets, since these provide a unique opportunity to data mining approaches to reveal interesting associations.
+  uid: g3
+  projects: "MicrobiomeDB"
+
+
 - type: general
   question: "How do I cite MicrobiomeDB?"
   answer: |
            If you want to cite MicrobiomeDB directly, please use:
 
-           > Ruhamyankaka E, Brunk BP, Dorsey G *et al.* ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. [version 1; peer review: 2 approved]. *Gates Open Res* 2019, 3:1661 (<https://doi.org/10.12688/gatesopenres.13087.1>{:target='_blank'})
+           > Oliveira FS, Brestelli J, Cade S, *et al.*; MicrobiomeDB: A Systems Biology Platform for Integrating, Mining and Analyzing Microbiome Experiments. *Nucleic Acids Research* 2018 (<https://doi.org/10.1093/nar/gkx1027>{:target='_blank'})
 
-           When citing a dataset that you accessed via ClinEpiDB, please include the dataset authors, 
-           study name, date of release and release number on ClinEpiDB, study page URL, and the fact that 
-           the data came from ClinEpiDB. For example, the citation for the PRISM Cohort study would be:
+           When citing a dataset that you accessed via MicrobiomeDB, please include the dataset authors, 
+           study name, date of release and release number on MicrobiomeDB, study page URL, and the fact that 
+           the data came from MicrobiomeDB. For example, the citation for the PRISM Cohort study would be:
 
-           > Dorsey G, Kamya M, Greenhouse B, *et al.* Study: PRISM Cohort. *ClinEpiDB*. 2018, 5 (<https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e>{:target='_blank'})
+           > Pop M, *et al.* Study: GEMS1 Case Control. *MicrobiomeDB*. 2020; release 17(<https://microbiomedb.org/mbio/app/record/dataset/DS_bb7b589593>{:target='_blank'})
 
            You can find the information on the study page by clicking the study name on the homepage 
            or on the dropdown 'Search a study' menu. The study name, release number, and release date 
            are at the top of the page, while authors are listed in the 'Principal Investigator and 
            Collaborators' table at the bottom of the page. You can also find links to original study 
            publications, which you may want to cite.
-  uid: g2
-  projects: "MicrobiomeDB"
-- type: general
-  question: "Can I use ClinEpiDB to analyze my own data?"
-  answer: |
-           ClinEpiDB does not allow you to upload and analyze your own data. However, you can 
-           [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about having your own 
-           data loaded into the site.
-  uid: g3
-  projects: "MicrobiomeDB"
-- type: general
-  question: "How do I submit data?"
-  answer: |
-           To start, you should [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about 
-           having your data loaded into ClinEpiDB. Tell us about the study objectives and design, 
-           the size of the dataset, types of variables, and your funding source. Then, check out our 
-           [Data Submission Guidelines](/documents/ClinEpiDBDatasetGuidelinesforDataProviders.pdf){:target='_blank'} 
-           to learn more about how to prepare your data for us and what additional files we need. 
-           If we are able to integrate your data, we'll give you access to a secure Box folder where 
-           you can upload your data and accompanying files. 
   uid: g4
   projects: "MicrobiomeDB"
+
+
 - type: general
-  question: "How does ClinEpiDB protect human subject data?"
-  answer: |
-           1. We ask all users to agree to our [Data Access and Use Policy](/documents/DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'}
-           2. Direct identifiers such as names and GPS coordinates are removed for all studies. Dates are obfuscated, locations are generalized, and additional indirect identifiers are removed or obfuscated as needed on a case-by-case basis. For some studies, subject IDs are re-assigned to break the link to the institution’s copy of the data
-           3. Data access restrictions are implemented as needed (see [Data Access and Use Policy](/documents/DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'})
+  question: "Can I access the code used for MicrobiomeDB?"
+  answer: 
+           Yes! Our code can be found on **[Github](https://github.com/VEuPathDB?q=microbiome&type=&language=)**, 
+           and we welcome input from the community. Check out our **[Shiny app scripts](https://github.com/VEuPathDB/MicrobiomeWebsite/tree/master/View/lib/R/shiny/apps)** or the code we use for running a **[DADA2-based automated data loading workflow](https://github.com/VEuPathDB/DJob/tree/master/DistribJobTasks/bin/dada2)**, which processes fastq files for all the studies on MicrobiomeDB and produces taxonomy tables that are represented on the site.
   uid: g5
   projects: "MicrobiomeDB"
+
+
 - type: general
-  question: "If I want to share data via ClinEpiDB, do I need to include data sharing in my IRB proposal?"
-  answer: |
-           Yes! If you intend to make data available, it’s important to include that in your consent
-           forms and your IRB proposal. Our [IRB data sharing guidance](/documents/IRBDataSharingGuidance.pdf){:target='_blank'}
-           document contains a brief summary of what to consider when putting together an IRB proposal.
+  question: "Where did you get the images on the MicrobiomeDB homepage?"
+  answer: 
+           Our **[banner image](https://phil.cdc.gov/Details.aspx?pid=18128)** shows methicillin-resistant, *Staphylococcus aureus* (MRSA) bacteria in the process of being ingested by a neutrophil, and our **[icon](https://phil.cdc.gov/Details.aspx?pid=18170)** shows *Klebsiella pneumoniae* interacting with a human neutrophil. Both images are courtesy of the National Institute for Allergy and Infectious Disease and are free of any copyright restrictions
   uid: g6
   projects: "MicrobiomeDB"
-- type: general
-  question: "Can I access the code used for ClinEpiDB?"
-  answer: 
-           Yes! Our code is maintained using [Git](https://github.com/VEuPathDB?utf8=%E2%9C%93&q=ClinEpi&type=&language=){:target='_blank'}, 
-           and we welcome input from the community. For instance, check out our [Shiny app scripts](https://github.com/VEuPathDB/ClinEpiWebsite/tree/master/View/lib/R/shiny/apps){:target='_blank'}.
-  uid: g5
-  projects: "MicrobiomeDB"
+
+
 - type: using_site
   question: "Create an account"
   answer: |
@@ -81,9 +74,11 @@
 
            Note: You only need one account for all VEuPathDB websites. This means that if you have 
            an account for other VEuPathDB resources such as PlasmoDB or MicrobiomeDB, you can log 
-           into ClinEpiDB with those credentials and vice versa.
+           into MicrobiomeDB with those credentials and vice versa.
   uid: u1
   projects: "MicrobiomeDB"
+
+
 - type: using_site
   question: "Change your password"
   answer: |
@@ -96,13 +91,4 @@
            password change
   uid: u2
   projects: "MicrobiomeDB"
-- type: using_site
-  question: "Find a variable within a study"
-  answer: |
-           1. Start a search for your study of interest 
-           2. Type into the search box at the top of the page. A drop down will apear listing 
-           all variables that include your keyword in the label, description, or values
-           3. Click a variable to jump directly to its data
-           <iframe style="margin-left:3em;margin-top:3em;" width="560" height="315" src="https://www.youtube.com/embed/nU0cWYyf62E"></iframe>
-  uid: u3
-  projects: "MicrobiomeDB"
+
