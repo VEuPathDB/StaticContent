@@ -1,6 +1,6 @@
 --- # microbiomeDB faq page
 - type: general
-  question: "I'm new to the site. Where should I start?'"
+  question: "I'm new to the site. Where should I start?"
   answer: |
            The video below provides a 5 minute overview that highlights the main features of MicrobiomeDB. You can 
            find additional video tutorials that dive into to specific features of the site by checking out **[our Vimeo page](https://vimeo.com/showcase/5598563)**.
@@ -30,7 +30,7 @@
   answer: |
            If you want to cite MicrobiomeDB directly, please use:
 
-           > Oliveira FS, Brestelli J, Cade S, *et al.*; MicrobiomeDB: A Systems Biology Platform for Integrating, Mining and Analyzing Microbiome Experiments. *Nucleic Acids Research* 2018 (<https://doi.org/10.1093/nar/gkx1027>{:target='_blank'})
+           > [Oliveira FS, Brestelli J, Cade S, *et al.*; MicrobiomeDB: A Systems Biology Platform for Integrating, Mining and Analyzing Microbiome Experiments. *Nucleic Acids Research* 2018](https://doi.org/10.1093/nar/gkx1027)
 
            When citing a dataset that you accessed via MicrobiomeDB, please include the dataset authors, 
            study name, date of release and release number on MicrobiomeDB, study page URL, and the fact that 
