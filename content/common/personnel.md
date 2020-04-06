@@ -7,7 +7,7 @@ title: VEuPathDB personnel
 
 <div class="static-content">
 
-<h3>VEuPathDB Management</h3>
+<h3>VEuPathDB Management</h3><br>
 
 <div>
 Beatrice Amos, Annotation Manager<br>
@@ -29,7 +29,7 @@ Mary Ann McDowell, Joint-PI, NIAID BRC Contract<br>
 David S Roos, Joint-PI, NIAID BRC Contract; WT Co-PI<br>
 Chris J Stoeckert, Co-I, NIAID BRC Contract<br><br>
 
-To contact any one of us please use the <a href="app/contact-us">contact us form</a>.<br><br>
+To contact any one of us please use the <a href="/a/app/contact-us">contact us form</a>.<br><br>
 
 <h3>Current VEuPathDB Team members</h3>
     <br>
