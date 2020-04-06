@@ -5,7 +5,7 @@ title: VEuPathDB community advisors
 ---
 <div class="static-content">
 
-<h1>Previous Scientific Working Group</h1>
+<h3>Previous Scientific Working Group</h3>
 VEuPathDB wishes to acknowledge previous scientific working group members. They provided regular feedback oversight and guidance.<br><br>
 
 Lyric Bartholomay|	Steve Higgs|	Hillary Ranson
@@ -26,7 +26,7 @@ Adrian Hehl|	Jeffrey Powell|
 
 <br><br>
 
-<h1>Previous VEuPathDB Comumunity Advisors</h1>
+<h3>Previous VEuPathDB Comumunity Advisors</h3>
 
 VEuPathDB wishes to acknowledge previous scientific user group members. They provided feedback on VectorBase's and EuPathDB’s new data, tools and resources, suggested and tested new features and provided input on outreach plans.  <br><br>
 <b>Amoeba</b>: Open community call and Carol Gilchrist, Upi Singh<br>
