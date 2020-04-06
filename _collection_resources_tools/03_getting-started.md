@@ -19,6 +19,10 @@ VEuPathDB is packed with data, tools and visualizations that can help answer you
    <p class="indent">Enter a term or ID in the site search box at the top of any page.  The site search finds documents and records that contain your term and returns a summary of categorized matches.  Its easy to find genes, pathways, searches, data sets and more with the site search.<br>
 
    <div style="display: flex; justify-content: center; align-items: center">  
+  <iframe width="560" height="315" src="http://www.youtube.com/watch?v=xb5jK_moNJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+   <div style="display: flex; justify-content: center; align-items: center">  
    <img width="300" height="220" src="{{ "/assets/images/resources_tools/Site-Search.gif" | absolute_url }}" alt="GIF" />
    </div>
    </p>
