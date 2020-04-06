@@ -4,9 +4,10 @@ title: VEuPathDB Webinars and Workshops
 permalink: /webinars_workshops
 tags: [general]
 ---
+<h1 id="resources">VEuPathDB Workshops and Training</h1>
+
 <div class="static-content">
 
-<h1 id="resources">VEuPathDB Workshops and Training</h1>
 <br>
 We are working on updating our workshop material and tutorials based on our new websites.  We will be posting new exercises regularly and will be holding regularly scheduled webinars that we will announce in banners on the website.  Feel free to explore our previous workshop material and tutorials.
 <br><br>
