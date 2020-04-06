@@ -9,21 +9,21 @@ title: VEuPathDB community advisors
 VEuPathDB wishes to acknowledge previous scientific working group members. They provided regular feedback oversight and guidance.<br>
 
 | | |
-| Lyric Bartholomay   |   &nbsp;Steve Higgs                   |   &nbsp;Hillary Ranson    |   
-| Matt Berriman       |   &nbsp;Catherine Hill                |   &nbsp;Alexander Raikhel | 
-| Bill Black          |   &nbsp;Marcelo Jacobs-Lorena         |   &nbsp;Lincoln Stein     |
-| John Boothroyd      |   &nbsp;Anthony (Tony) James          |   &nbsp;John Taylor       |
-| Greg Buck           |  &nbsp;Pedro Lagerblad de Oliveira   |   &nbsp;Jake Tu           |
-| Geraldine Butler    |   &nbsp;Greg Lanzaro                  |  &nbsp; Brett Tyler       |
-| Angela Cruz         |   &nbsp;Daniel Masiga                 |  &nbsp; Kenneth Vernick   |
-| George Dimopoulos   |   &nbsp;Malcolm McConville            |  &nbsp; Sarah Volkman     |
-| Martin Donnelly     |   &nbsp;Nicola Mulder                 |  &nbsp; Jonathan Wastling |
-| Patrick Duffy       |   &nbsp;Ull Munderloh                 |  &nbsp; Scott Weaver      |
-| Pascale Gaudet      |  &nbsp;Daniel Neafsey                |   &nbsp;Louis Weiss       |
-| Michael Gottlieb    |   &nbsp;Kenneth Olson                 |   &nbsp;Dyann Wirth       |
-| Keith Gull          |   &nbsp;Bill Petri                    |   &nbsp;Jennifer Wortman  |
-| Matthew Hahn        |   &nbsp;Barry Pittendrigh             |   &nbsp;Guiyun Yan        |
-| Adrian Hehl         |   &nbsp;Jeffrey Powell                |                     |
+| Lyric Bartholomay   |   &nbsp;&nbsp;Steve Higgs                   |  &nbsp; &nbsp;Hillary Ranson    |   
+| Matt Berriman       |   &nbsp;&nbsp;Catherine Hill                |  &nbsp; &nbsp;Alexander Raikhel | 
+| Bill Black          |   &nbsp;&nbsp;Marcelo Jacobs-Lorena         |  &nbsp; &nbsp;Lincoln Stein     |
+| John Boothroyd      |   &nbsp;&nbsp;Anthony (Tony) James          |  &nbsp; &nbsp;John Taylor       |
+| Greg Buck           |  &nbsp;&nbsp;Pedro Lagerblad de Oliveira   |   &nbsp;&nbsp;Jake Tu           |
+| Geraldine Butler    |  &nbsp; &nbsp;Greg Lanzaro                  |  &nbsp;&nbsp; Brett Tyler       |
+| Angela Cruz         |   &nbsp;&nbsp;Daniel Masiga                 | &nbsp; &nbsp; Kenneth Vernick   |
+| George Dimopoulos   |   &nbsp;&nbsp;Malcolm McConville            |  &nbsp;&nbsp; Sarah Volkman     |
+| Martin Donnelly     |   &nbsp;&nbsp;Nicola Mulder                 | &nbsp; &nbsp; Jonathan Wastling |
+| Patrick Duffy       |   &nbsp;&nbsp;Ull Munderloh                 | &nbsp; &nbsp; Scott Weaver      |
+| Pascale Gaudet      |  &nbsp;&nbsp;Daniel Neafsey                |  &nbsp; &nbsp;Louis Weiss       |
+| Michael Gottlieb    |  &nbsp; &nbsp;Kenneth Olson                 |  &nbsp; &nbsp;Dyann Wirth       |
+| Keith Gull          |   &nbsp;&nbsp;Bill Petri                    |  &nbsp; &nbsp;Jennifer Wortman  |
+| Matthew Hahn        |   &nbsp;&nbsp;Barry Pittendrigh             |   &nbsp;&nbsp;Guiyun Yan        |
+| Adrian Hehl         |   &nbsp;&nbsp;Jeffrey Powell                |                     |
 
 <br>
 
