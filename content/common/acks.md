@@ -3,13 +3,9 @@ permalink: /acks
 tags: [general]
 title: VEuPathDB acknowledgements
 ---
-<h1>VEuPathDB acknowledgements</h1>
+<h1>VEuPathDB wishes to acknowledge</h1>
 
 <div class="static-content">
-
-  <a name="acks"></a>
-  <h3>VEuPathDB wishes to acknowledge:</h3>
-
 
 <ul class="cirbulletlist">
   <li>All the community members who have contributed data (often pre-publication), entered user comments or sent us their suggestions.</li>
@@ -93,9 +89,6 @@ title: VEuPathDB acknowledgements
 </ul>
 </ul>
 </ul>
-  <br><br>
-
-
 
 </div>
 
