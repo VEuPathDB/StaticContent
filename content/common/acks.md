@@ -14,7 +14,7 @@ title: VEuPathDB acknowledgements
   <li>Scientists who provided images to be used as a template for the logos in our websites and for images used in the header section of our sites:
   </li>
 </ul>
-
+<br>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>AmoebaDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>MicrosporidiaDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>ToxoDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;William Petri&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Gira Bhabha&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;David Roos&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Serge Ankri&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Pattana Jaroenlak (Michael)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>TrichDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
