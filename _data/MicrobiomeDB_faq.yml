@@ -9,24 +9,50 @@
   projects: "MicrobiomeDB"
 
 
+
 - type: general
   question: "Why was MicrobiomeDB created?"
+  answer: |
+           MicrobiomeDB uses an automated pipeline for loading raw fastq files from microbiome experiments carried out on the Illumina or 454 'pyrosequencing' platforms. 
+           Raw sequences from each study are processed using [DADA2](https://benjjneb.github.io/dada2/) and the [Silva database](https://www.arb-silva.de/) of high quality ribosomal RNA sequences
+           In addition to loading taxonomic data, MicrobiomeDB loads all 'metadata' terms used by the experimenter to describe each sample. 
+           These terms are mapped to the MIxS ontology and unmapped terms are manually curated and used to expand a custom, MIxS-compliant, ontology tree. 
+           This rich, structured sample description generates an ISA.tab file that is then loaded into microbiomeDB. 
+           When combined with the extensive web toolkit and infrastructure developed by VEuPathDB, 
+           the user is provided with an web interface to interrogate complex, even massive-scale, microbiome studies using metadata queries. 
+           The resulting queries are then visualized using a suite of Shiny apps available directly in the browser.
+  uid: g2
+  projects: "MicrobiomeDB"
+
+
+
+- type: general
+  question: "How is the database populated?"
   answer: |
            High-throughput sequencing has revolutionized microbiology by allowing scientists to complement culture-based approaches with culture-independent profiling 
            of complex microbial communities. Whether studying these communities in soil, on plants, or in animals, the collection of community composition data is often 
            accompanied with rich metadata that describes the source from which the sample was derived, how samples were treated prior to collection, and how they were processed after collection. 
            Increasingly, the goal of microbiome experiments is to understand how these various attributes represented by the metadata, influence the microbial community. 
            **MicrobiomeDB was developed as a discovery tool that empowers researchers to fully leverage their experimental metadata to construct queries that interrogate microbiome datasets.**
-  uid: g2
+  uid: g3
   projects: "MicrobiomeDB"
+
 
 
 - type: general
   question: "Does the site handle shotgun metagenomic data?"
   answer: |
-           Not yet, but this is one of our future goals.  Currently, MicrobiomeDB loads data from 16S rRNA marker gene studies.
-  uid: g3
+           Not yet, but this is one of our future goals.  
+           Although the datasets currently loaded in the site are from 16S rDNA marker gene sequencing, 
+           we are working on adding functionality for handling 'shotgun' metagenomic sequence data, 
+           potentially allowing interrogation of community composition at the species or strain level, 
+           looking at other organisms in complex communities (e.g. fungi and prokaryotes), 
+           as well as identification of samples based on the relative abundance of bacterial genes (e.g. antibiotic resistance, virulence factors, etc.). 
+           Taken together, our goal is to develop a full-featured, open-source platform for a systems biology view of microbial communities.
+
+  uid: g4
   projects: "MicrobiomeDB"
+
 
 
 - type: general
@@ -35,16 +61,18 @@
            Sorry, but this feature isn't available yet.  However, we're working hard to develop a user workspace that would allow you to upload **[.biom files](http://biom-format.org/)**.  You can also 
            **[Contact Us](https://microbiomedb.org/mbio/app/contact-us)** to inquire about having your own 
            data (published or unpublished) loaded into the site for public access!
-  uid: g4
+  uid: g5
   projects: "MicrobiomeDB"
+
 
 
 - type: general
   question: "How are datasets chosen for loading into MicrobiomeDB?'"
   answer: |
            Several things factor into our decision to load a dataset.  First, we have a strong interest in studies of the microbiome in infant and child health and in enteric diseases.  Second, we're also interested in understanding how different animal models (mice, dogs, pigs, etc) might help us understand the role of the microbiome during health and disease.  Finally, we're interested in multifactorial and longitudinal datasets, since these provide a unique opportunity to data mining approaches to reveal interesting associations.
-  uid: g5
+  uid: g6
   projects: "MicrobiomeDB"
+
 
 
 - type: general
@@ -65,8 +93,9 @@
            are at the top of the page, while authors are listed in the 'Principal Investigator and 
            Collaborators' table at the bottom of the page. You can also find links to original study 
            publications, which you may want to cite.
-  uid: g6
+  uid: g7
   projects: "MicrobiomeDB"
+
 
 
 - type: general
@@ -74,16 +103,19 @@
   answer: 
            Yes! Our code can be found on **[Github](https://github.com/VEuPathDB?q=microbiome&type=&language=)**, 
            and we welcome input from the community. Check out our **[Shiny app scripts](https://github.com/VEuPathDB/MicrobiomeWebsite/tree/master/View/lib/R/shiny/apps)** or the code we use for running a **[DADA2-based automated data loading workflow](https://github.com/VEuPathDB/DJob/tree/master/DistribJobTasks/bin/dada2)**, which processes fastq files for all the studies on MicrobiomeDB and produces taxonomy tables that are represented on the site.
-  uid: g7
+  uid: g8
   projects: "MicrobiomeDB"
+
 
 
 - type: general
   question: "Where did you get the images on the MicrobiomeDB homepage?"
   answer: 
            Our **[banner image](https://phil.cdc.gov/Details.aspx?pid=18128)** shows methicillin-resistant, *Staphylococcus aureus* (MRSA) bacteria in the process of being ingested by a neutrophil, and our **[icon](https://phil.cdc.gov/Details.aspx?pid=18170)** shows *Klebsiella pneumoniae* interacting with a human neutrophil. Both images are courtesy of the National Institute for Allergy and Infectious Disease and are free of any copyright restrictions
-  uid: g8
+  uid: g9
   projects: "MicrobiomeDB"
+
+
 
 - type: general
   question: "Where can I find additional information for the large epidemiological studies you have loaded on MicrobiomeDB?"
@@ -93,16 +125,21 @@
            For each of these studies, only a subset of participants had samples collected and processed for microbiomeDB.  Moreover, the sample metadata that we loaded
            was based on what was published with these microbiome data.  Additional sample- and participant-level clinical and epidemiological data (often times extensive)
            are available for these participants and many more participants at our partner site, [ClinEpiDB.org](https://clinepidb.org/ce/app/).
-  uid: g9
+  uid: g10
   projects: "MicrobiomeDB"
+
+
+
 
 - type: general
   question: "Can I download raw data from MicrobiomeDB?"
   answer: 
            No. We never intended for MicrobiomeDB to serve as a data repository.  Although we use raw sequence data (fastq files) when we load data into our website, we do not host these files for download.  
            In many cases, these data are already available for published studies on the [SRA](https://www.ncbi.nlm.nih.gov/sra/) or [ENA](https://www.ebi.ac.uk/ena).
-  uid: g10
+  uid: g11
   projects: "MicrobiomeDB"
+
+
 
 - type: using_site
   question: "How do I create an account on MicrobiomeDB?"
@@ -119,6 +156,7 @@
   projects: "MicrobiomeDB"
 
 
+
 - type: using_site
   question: "How do I change my password?"
   answer: |
@@ -133,6 +171,7 @@
   projects: "MicrobiomeDB"
 
 
+
 - type: using_site
   question: "How do I search a study based on sample metadata?"
   answer: |
@@ -145,6 +184,7 @@
   projects: "MicrobiomeDB"
 
 
+
 - type: using_site
   question: "How do I search a study based on taxon abundance?"
   answer: |
@@ -155,6 +195,7 @@
            <iframe src="https://player.vimeo.com/video/307535216" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   uid: u4
   projects: "MicrobiomeDB"
+
 
 
 - type: using_site
