@@ -7,7 +7,7 @@
            [Tutorials and Resources](/a/app/static-content/ClinEpiDB/resources.html){:target='_blank'} page.
            <iframe style="margin-left:3em;margin-top:1em;" width="560" height="315" src="https://www.youtube.com/embed/535PcFrBH8M"></iframe>
   uid: g1
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: "MicrobiomeDB"
 - type: general
   question: "How do I cite MicrobiomeDB?"
   answer: |
@@ -27,7 +27,7 @@
            Collaborators' table at the bottom of the page. You can also find links to original study 
            publications, which you may want to cite.
   uid: g2
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: "MicrobiomeDB"
 - type: general
   question: "Can I use ClinEpiDB to analyze my own data?"
   answer: |
@@ -35,7 +35,7 @@
            [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about having your own 
            data loaded into the site.
   uid: g3
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: "MicrobiomeDB"
 - type: general
   question: "How do I submit data?"
   answer: |
@@ -47,7 +47,7 @@
            If we are able to integrate your data, we'll give you access to a secure Box folder where 
            you can upload your data and accompanying files. 
   uid: g4
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: "MicrobiomeDB"
 - type: general
   question: "How does ClinEpiDB protect human subject data?"
   answer: |
@@ -55,7 +55,7 @@
            2. Direct identifiers such as names and GPS coordinates are removed for all studies. Dates are obfuscated, locations are generalized, and additional indirect identifiers are removed or obfuscated as needed on a case-by-case basis. For some studies, subject IDs are re-assigned to break the link to the institution’s copy of the data
            3. Data access restrictions are implemented as needed (see [Data Access and Use Policy](/documents/DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'})
   uid: g5
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: "MicrobiomeDB"
 - type: general
   question: "If I want to share data via ClinEpiDB, do I need to include data sharing in my IRB proposal?"
   answer: |
@@ -63,14 +63,14 @@
            forms and your IRB proposal. Our [IRB data sharing guidance](/documents/IRBDataSharingGuidance.pdf){:target='_blank'}
            document contains a brief summary of what to consider when putting together an IRB proposal.
   uid: g6
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: "MicrobiomeDB"
 - type: general
   question: "Can I access the code used for ClinEpiDB?"
   answer: 
            Yes! Our code is maintained using [Git](https://github.com/VEuPathDB?utf8=%E2%9C%93&q=ClinEpi&type=&language=){:target='_blank'}, 
            and we welcome input from the community. For instance, check out our [Shiny app scripts](https://github.com/VEuPathDB/ClinEpiWebsite/tree/master/View/lib/R/shiny/apps){:target='_blank'}.
   uid: g5
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: "MicrobiomeDB"
 - type: using_site
   question: "Create an account"
   answer: |
@@ -83,7 +83,7 @@
            an account for other VEuPathDB resources such as PlasmoDB or MicrobiomeDB, you can log 
            into ClinEpiDB with those credentials and vice versa.
   uid: u1
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: "MicrobiomeDB"
 - type: using_site
   question: "Change your password"
   answer: |
@@ -95,7 +95,7 @@
            5. If you have successfully changed your password, green text will appear confirming the 
            password change
   uid: u2
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: "MicrobiomeDB"
 - type: using_site
   question: "Find a variable within a study"
   answer: |
@@ -105,4 +105,4 @@
            3. Click a variable to jump directly to its data
            <iframe style="margin-left:3em;margin-top:3em;" width="560" height="315" src="https://www.youtube.com/embed/nU0cWYyf62E"></iframe>
   uid: u3
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: "MicrobiomeDB"
