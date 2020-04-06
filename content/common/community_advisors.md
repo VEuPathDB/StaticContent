@@ -9,21 +9,21 @@ title: VEuPathDB community advisors
 VEuPathDB wishes to acknowledge previous scientific working group members. They provided regular feedback oversight and guidance.<br>
 
 | | |
-| Lyric Bartholomay   |   |Steve Higgs                   |   Hillary Ranson    |   
-| Matt Berriman       |   |Catherine Hill                |   Alexander Raikhel | 
-| Bill Black          |   Marcelo Jacobs-Lorena         |   Lincoln Stein     |
-| John Boothroyd      |   Anthony (Tony) James          |   John Taylor       |
-| Greg Buck           |   Pedro Lagerblad de Oliveira   |   |Jake Tu           |
-| Geraldine Butler    |   Greg Lanzaro                  |   Brett Tyler       |
-| Angela Cruz         |   Daniel Masiga                 |   Kenneth Vernick   |
-| George Dimopoulos   |   Malcolm McConville            |   Sarah Volkman     |
-| Martin Donnelly     |   Nicola Mulder                 |   Jonathan Wastling |
-| Patrick Duffy       |   Ull Munderloh                 |   Scott Weaver      |
-| Pascale Gaudet      |   Daniel Neafsey                |   Louis Weiss       |
-| Michael Gottlieb    |   Kenneth Olson                 |   Dyann Wirth       |
-| Keith Gull          |   Bill Petri                    |   Jennifer Wortman  |
-| Matthew Hahn        |   Barry Pittendrigh             |   Guiyun Yan        |
-| Adrian Hehl         |   Jeffrey Powell                |                     |
+| Lyric Bartholomay   |   &nbsp;Steve Higgs                   |   &nbsp;Hillary Ranson    |   
+| Matt Berriman       |   &nbsp;Catherine Hill                |   &nbsp;Alexander Raikhel | 
+| Bill Black          |   &nbsp;Marcelo Jacobs-Lorena         |   &nbsp;Lincoln Stein     |
+| John Boothroyd      |   &nbsp;Anthony (Tony) James          |   &nbsp;John Taylor       |
+| Greg Buck           |  &nbsp;Pedro Lagerblad de Oliveira   |   &nbsp;Jake Tu           |
+| Geraldine Butler    |   &nbsp;Greg Lanzaro                  |  &nbsp; Brett Tyler       |
+| Angela Cruz         |   &nbsp;Daniel Masiga                 |  &nbsp; Kenneth Vernick   |
+| George Dimopoulos   |   &nbsp;Malcolm McConville            |  &nbsp; Sarah Volkman     |
+| Martin Donnelly     |   &nbsp;Nicola Mulder                 |  &nbsp; Jonathan Wastling |
+| Patrick Duffy       |   &nbsp;Ull Munderloh                 |  &nbsp; Scott Weaver      |
+| Pascale Gaudet      |  &nbsp;Daniel Neafsey                |   &nbsp;Louis Weiss       |
+| Michael Gottlieb    |   &nbsp;Kenneth Olson                 |   &nbsp;Dyann Wirth       |
+| Keith Gull          |   &nbsp;Bill Petri                    |   &nbsp;Jennifer Wortman  |
+| Matthew Hahn        |   &nbsp;Barry Pittendrigh             |   &nbsp;Guiyun Yan        |
+| Adrian Hehl         |   &nbsp;Jeffrey Powell                |                     |
 
 <br>
 
