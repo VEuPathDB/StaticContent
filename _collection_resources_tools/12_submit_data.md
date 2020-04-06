@@ -58,7 +58,7 @@ Plan ahead and let us know of the data availability in advance to reserve your s
 
 <div class="submit-data-feature--panels">
   <div>
-    <div><a href="/a/app/static-content/dataSubmission.html" class="new-window"><b>Read more on VEuPathDB data submission and release policies
+    <div><a href="/a/app/static-content/dataSubmission.html" class="new-window" data-name="Data_submission"><b>Read more on VEuPathDB data submission and release policies
 </b></a><br/><br/>
   </div>
 
