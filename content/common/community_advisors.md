@@ -8,6 +8,16 @@ title: VEuPathDB community advisors
 <h3>Previous Scientific Working Group</h3>
 VEuPathDB wishes to acknowledge previous scientific working group members. They provided regular feedback oversight and guidance.<br><br>
 
+
+|                    |                              |                   |
+| Lyric Bartholomay| | Steve Higgs|                 | Hillary Ranson    |
+| Matt Berriman|     | Catherine Hill|              | Alexander Raikhel |
+| Bill Black|        | Marcelo Jacobs-Lorena|       | Lincoln Stein     |
+| John Boothroyd|    | Anthony (Tony) James|        | John Taylor       |
+| Greg Buck|         | Pedro Lagerblad de Oliveira| | Jake Tu           |
+| Geraldine Butler|  | Greg Lanzaro|                | Brett Tyler       |
+| Angela Cruz|       | Daniel Masiga|               | Kenneth Vernick   |
+| George Dimopoulos| | Malcolm McConville|          | Sarah Volkman     |
 | Martin Donnelly|   | Nicola Mulder|               | Jonathan Wastling |
 | Patrick Duffy|     | Ull Munderloh|               | Scott Weaver      |
 | Pascale Gaudet|    | Daniel Neafsey|              | Louis Weiss       |
@@ -15,6 +25,9 @@ VEuPathDB wishes to acknowledge previous scientific working group members. They 
 | Keith Gull|        | Bill Petri|                  | Jennifer Wortman  |
 | Matthew Hahn|      | Barry Pittendrigh|           | Guiyun Yan        |
 | Adrian Hehl|       | Jeffrey Powell|              |                   |
+
+
+
 
 <br><br>
 
