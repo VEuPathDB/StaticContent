@@ -33,32 +33,26 @@ To contact any one of us please use the <a href="app/contact-us">contact us form
 
 </div>
 
-<h3>The team behind VEuPathDB</h3>
+<h3>Current VEuPathDB Team members</h3>
+    <br>
+    Beatrice Amos<sup>4</sup>, Rachel Ankirskiy<sup>1</sup>, Cristina Aurrecoechea<sup>1</sup>, Matthieu Barba<sup>9</sup>, Ana Barreto<sup>3</sups>, Evelina Basenko<sup>4</sup>, Wojtek Bazant<sup>2</sup>, Dan Beiting<sup>2</sup>, Bob Belnap<sup>1</sup>, Uli Bohme<sup>5</sup>, John Brestelli<sup>3</sups>, Brian Brunk<sup>2</sup>, Mark Caddick<sup>4</sup>, Danielle Callan<sup>2</sup>, Mikkel Christensen<sup>9</sup>, George Christophides<sup>8</sup>, Kathryn Crouch<sup>6</sup>, Katie Cybulski<sup>7</sup>, Elaine Daugan<sup>4</sup>, Jeremy DeBarry<sup>1</sup>, Ryan Doherty<sup>3</sups>, Yikun Duan<sup>2</sup>, Dave Falke<sup>1</sup>, Steve Fischer<sup>3</sups>, Paul Flicek<sup>9</sup>, Bindu Gajria<sup>2</sup>, Gloria I. Giraldo-Calderón<sup>7</sup>, Omar S. Harb<sup>2</sup>, Elizabeth Harper<sup>2</sup>, Danica Helb<sup>2</sup>, Mark Hickman<sup>2</sup>, Connor Howington<sup>7</sup> Sufen Hu<sup>2</sup>, Jay Humphrey<sup>1</sup>, John Iodice<sup>3</sups>, John Judkins<sup>2</sup>, Sarah Kelly<sup>8</sup>, Jessica C. Kissinger<sup>1</sup>, Dae Kum Kwon<sup>7</sup>, Kris Lamoureux<sup>1</sup>, Daniel Lawson<sup>8</sup>, Wei Li<sup>2</sup>, Brianna Lindsay<sup>2</sup>, Jamie Long<sup>2</sup>, Gareth Maslen<sup>9</sup>, Bob McCallum<sup>8</sup>, Mary Ann McDowell<sup>7</sup>,  Jarek Nabrzyski<sup>7</sup>, David S. Roos<sup>2</sup>, Samuel Rund<sup>7</sup>, Steph Wever Schulman<sup>2</sup>, Achchuthan Shanmugasundram<sup>4</sup>, Vasily Sitnik<sup>9</sup>, Drew Spruill<sup>1</sup>, David Starns<sup>4</sup>, Christian J. Stoeckert Jr.<sup>3</sups>, Sheena Shah Tomko<sup>2</sup>, Haiming Wang<sup>1</sup>, Susanne Warrenfeltz<sup>1</sup>, Robert Wieck<sup>7</sup>, Mariann Winkelman<sup>2</sup>, Lin Xu<sup>2</sup>, Jie Zheng<sup>3</sups>.
     <br><br>
-    <ul class="cirbulletlist">
-      <li>In USA: <br>Rachel Ankirskiy<sup>1</sup>, Cristina Aurrecoechea<sup>1</sup>, Ana Barreto<sup>4</sup>, Bob Belnap<sup>1</sup>, John Brestelli<sup>4</sup>, Brian Brunk<sup>7</sup>, Danielle Callan<sup>7</sup>, Ryan Doherty<sup>4</sup>, Dave Falke<sup>1</sup>, Steve Fischer<sup>4</sup>, Bindu Gajria<sup>7</sup>, Omar S. Harb<sup>7</sup>, Elizabeth Harper<sup>7</sup>, Danica Helb<sup>7</sup>, Mark Hickman<sup>7</sup>, Sufen Hu<sup>2,7</sup>, Jay Humphrey<sup>1</sup>, John Iodice<sup>4</sup>, Jessica C. Kissinger<sup>1,5,8</sup>, Kris Lamoureux<sup>1</sup>, Wei Li<sup>7</sup>, Brianna Lindsay<sup>7</sup>, Jamie Long<sup>7</sup>, Deborah F. Pinney<sup>2,4</sup>, David S. Roos<sup>7</sup>, Sheena Shah-Simpson<sup>7</sup>, Drew Spruill<sup>1</sup>, Christian J. Stoeckert Jr.<sup>4</sup>, Haiming Wang<sup>1</sup>, Susanne Warrenfeltz<sup>1</sup>, Mariann Winkelman<sup>7</sup>, Lin Xu<sup>7</sup>, Jie Zheng<sup>2,4</sup>.
-      </li>
-      <br>
-      <li>In United Kingdom: <br>Evelina Basenko<sup>9</sup>, Kathryn Crouch<sup>11</sup>, Christiane Hertz-Fowler<sup>9</sup>, Achchuthan Shanmugasundram<sup>9</sup>, David Starns<sup>9</sup>
-      <br><br>
-        <ol>
-          <li>Center for Tropical &amp; Emerging Global Diseases, University of Georgia, Athens, GA 30602 USA</li>
-          <li>Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104 USA</li>
-          <li>Center for Applied Genetic Technologies, University of Georgia, Athens, GA, 30602 USA</li>
-          <li>Department of Genetics, University of Pennsylvania School of Medicine, Philadelphia, PA 19104 USA</li>
-          <li>Department of Genetics, University of Georgia, Athens, GA 30602 USA</li>
-          <li>Department of Computer Science, University of Georgia, Athens, GA 30602 USA</li>
-          <li>Department of Biology, University of Pennsylvania, Philadelphia, PA 19104 USA</li>
-          <li>Institute of Bioinformatics, University of Georgia, Athens 30602 USA</li>
-          <li>Institute of Integrative Biology, University of Liverpool, UK</li>
-          <li>The Wellcome Trust Sanger Institute</li>
-          <li>The Wellcome Trust Centre for Molecular Parasitology, University of Glasgow, UK</li>
-          <li>Uganda</li>
-        </ol>
-      </li>
-      <br><br>
-      <li>Former members: <br>Austin Billings<sup>7</sup>, Ulrike Böhme<sup>10</sup>, Shon Cade<sup>4</sup>, Cristian Cocos<sup>7</sup>, Kathy Couch<sup>1</sup>, Ale Diaz Miranda<sup>7</sup>, Jennifer Dommer<sup>2,4</sup>, Xin Gao<sup>2,7</sup>, Alan Gingle<sup>3</sup>, Greg Grant<sup>2,4</sup>, Matt Guidry<sup>1</sup>, Mark Heiges<sup>1</sup>, Frank Innamorato<sup>2,4</sup>, San James<sup>12</sup>, Eileen T. Kraemer<sup>6</sup>, Cris Lawrence<sup>7</sup>, Elisabetta Manduchi <sup>2,4</sup>, John A. Miller<sup>6</sup>, Vishal Nayak<sup>2,4</sup>, Cary Pennington<sup>1</sup>, Brian Pitts<sup>1</sup>, Jane. A.Pulman<sup>9</sup>, Chris Ross<sup>1</sup>, Ganesh Srinivasamoorthy<sup>1</sup>, Ryan Thibodeau<sup>1</sup>, Charles Treatman<sup>2,7</sup>, Betsy Wenthe<sup>1</sup>, Patricia L. Whetzel<sup>2,4</sup>, Fatima Silva<sup>9</sup>.
-      </li>
-    </ul> <!-- The team behind EuPathDB -->
-
+<h3>Previous VEuPathDB Team members</h3>
+<br>
+    Antelmo Aguilar<sup>7</sup>, James Allen<sup>9</sup>, Alexis Allot<sup>9</sup>, Nora Besansky<sup>7</sup>, Austin Billings<sup>2</sup>, Sanjay Boddu<sup>9</sup>, Steve Bogol<sup>7</sup>, Ulrike Böhme<sup>10</sup>, Ewan Birney<sup>9</sup>, Andrew Brockman<sup>8</sup>, Robert Bruggner<sup>7</sup>, Shon Cade<sup>3</sup>, David Campbell<sup>7, Cristian Cocos<sup>2</sup>, Frank Collins (VectorBase Principal Investigator, 2004-2018)<sup>7</sup>, Kathy Couch<sup>1</sup>, Greg Davies<sup>7</sup>, Ale Diaz Miranda<sup>2</sup>, Emmanuel Dialynas, Jennifer Dommer<sup>3</sup>, Vicky Dritsou, Scott Emrich<sup>10</sup>, Xin Gao<sup>2</sup>, William Gelbart<sup>12</sup>, Sandra Gesing<sup>7</sup>, Alan Gingle<sup>1</sup>, Greg Grant<sup>3</sup>, Matt Guidry<sup>1</sup>, Martin Hammond<sup>9</sup>, Mark Heiges<sup>1</sup>, Christiane Hertz-Fowler (Principal Investigator, WT 2008-2019)<sup>4</sup>, Nicholas Ho<sup>8</sup>, Daniel Hughes<sup>9</sup>, Frank Innamorato<sup>3</sup>, San James<sup>14</sup>, Amie Jaye<sup>8</sup>, Fotis Kafatos<sup>8</sup>, Paul Kersey<sup>9</sup>, Ioannis Kimitzoglou<sup>8</sup>, Nathan Konopinski<sup>7</sup>, Eileen T. Kraemer<sup>1</sup>, Nick Langridge<sup>9</sup>, Cris Lawrence<sup>2</sup>, Neil Lobo<sup>7</sup>, Christos (Kitsos) Louis<sup>11</sup>, Greg Madey<sup>7</sup>, Elisabetta Manduchi<sup>3</sup>, Karine Megy<sup>9</sup>, John A. Miller<sup>6</sup>, Elvira Mitraka<sup>11</sup>, Vishal Nayak<sup>3</sup>, Cary Pennington<sup>1</sup>, Deborah F. Pinney<sup>3</sup>, Brian Pitts<sup>1</sup>, Jane. A.Pulman<sup>4</sup>, Caleb Reinking<sup>7</sup>, Seth Redmon, Chris Ross<sup>1</sup>, Andrew Sheehan<sup>7</sup>, Fatima Silva<sup>4</sup>, Ganesh Srinivasamoorthy<sup>1</sup>, Scott Szakonyi<sup>7</sup>, Pantelis Toplais<sup>11</sup>, Ryan Thibodeau<sup>1</sup>, Charles Treatman<sup>2</sup>, Betsy Wenthe<sup>1</sup>, Matt Vander Werf<sup>7</sup>, Maggie Werner-Washburne<sup>13</sup>, Patricia L. Whetzel<sup>3</sup>, Derek Wilson<sup>9</sup>, Andrew Yates<sup>9</sup>
+    <br><br>
+    <sup>1</sup>University of Georgia, Athens, GA 30602, USA<br>
+<sup>2</sup>University of Pennsylvania, Philadelphia, PA 19104, USA<br>
+<sup>3</sup>University of Pennsylvania School of Medicine, Philadelphia, PA 19104, USA<br>
+<sup>4</sup>University of Liverpool, UK<br>
+<sup>5</sup>The Wellcome Trust Sanger Institute, Hinxton, CB10 1RQ, UK<br>
+<sup>6</sup>The Wellcome Trust Centre for Molecular Parasitology, University of Glasgow, UK<br>
+<sup>7</sup>University of Notre Dame, Notre Dame, IN  46556, USA<br>
+<sup>8</sup>Imperial College London, South Kensington, London SW7 2BU, UK<br>
+<sup>9</sup>European Bioinformatics Institute, Hinxton, CB10 1SD, UK<br>
+<sup>10</sup>University of Tennessee, Knoxville, TN 37996, USA<br>
+<sup>11</sup>Institute of Molecular Biology and Biotechnology-FORTH, Heraklion, Crete, Greece<br>
+<sup>12</sup>Harvard University, Cambridge, MA 02138, USA<br>
+<sup>13</sup>University of New Mexico, Albuquerque, NM 87131, USA<br>
+<sup>14</sup>Kampala, Uganda<br>
 </div>
