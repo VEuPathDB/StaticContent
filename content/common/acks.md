@@ -14,7 +14,7 @@ title: VEuPathDB acknowledgements
   <li>Scientists who provided images to be used as a template for the logos in our websites and for images used in the header section of our sites:
   </li>
 </ul>
-<p>
+<br></br>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>AmoebaDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>MicrosporidiaDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>ToxoDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;William Petri&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Gira Bhabha&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;David Roos&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Serge Ankri&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Pattana Jaroenlak (Michael)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>TrichDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -33,7 +33,7 @@ title: VEuPathDB acknowledgements
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Tineke Lauwaet&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Lawrence Bannister&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Barbara Davids&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Lewis Tilney&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Scott Dawson&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Pedro Moura&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</P>
+
 </div>
 
 
