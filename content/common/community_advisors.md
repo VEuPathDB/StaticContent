@@ -9,6 +9,7 @@ title: VEuPathDB community advisors
 VEuPathDB wishes to acknowledge previous scientific working group members. They provided regular feedback oversight and guidance.<br><br>
 
 
++--------------------+------------------------------+-------------------+
 |                    |                              |                   |
 | Lyric Bartholomay| | Steve Higgs|                 | Hillary Ranson    |
 | Matt Berriman|     | Catherine Hill|              | Alexander Raikhel |
@@ -25,6 +26,7 @@ VEuPathDB wishes to acknowledge previous scientific working group members. They 
 | Keith Gull|        | Bill Petri|                  | Jennifer Wortman  |
 | Matthew Hahn|      | Barry Pittendrigh|           | Guiyun Yan        |
 | Adrian Hehl|       | Jeffrey Powell|              |                   |
++--------------------+------------------------------+-------------------+
 
 
 
