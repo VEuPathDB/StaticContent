@@ -15,8 +15,6 @@ title: VEuPathDB acknowledgements
   </li>
 </ul>
 
-  <br>
-
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>AmoebaDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>MicrosporidiaDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>ToxoDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;William Petri&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Gira Bhabha&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;David Roos&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Serge Ankri&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Pattana Jaroenlak (Michael)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>TrichDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -27,7 +25,7 @@ title: VEuPathDB acknowledgements
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>CryptoDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Lowell Kappemeyer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Richard wheeler&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Boris Striepen&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Audrey Lau&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Leandro Lemgruber Soares&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>FungiDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Dirk Dobbelaere&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Margaret Mullin&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;ZyGoLife&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Manoj Duraisingh&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Camila Silva Gonçalves&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://zygolife.org">ZyGoLife</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Manoj Duraisingh&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Camila Silva Gonçalves&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Jason Stajich&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Brendan Elsworth&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Wanderley de Souza&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Zachary Lewis&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Caroline Keroack&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Maria Cristina Machado Motta&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>GiardiaDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Isabelle Coppens&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
