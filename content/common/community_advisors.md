@@ -24,7 +24,7 @@ VEuPathDB wishes to acknowledge previous scientific working group members. They 
 
 <br>
 
-<h3>Previous VEuPathDB Comumunity Advisors</h3>
+<h3>Previous VEuPathDB Community Advisors</h3>
 
 VEuPathDB wishes to acknowledge previous scientific user group members. They provided feedback on VectorBase's and EuPathDB’s new data, tools and resources, suggested and tested new features and provided input on outreach plans.  <br><br>
 <b>Amoeba</b>: Open community call and Carol Gilchrist, Upi Singh<br>

@@ -2,21 +2,21 @@
 identifier: "vb"
 listIconKey: "bullhorn"
 listTitle: "What is New"
-descriptionTitle: "What is new"
+descriptionTitle: "What is New"
 category: [VectorBase]
 tags: [tutorial]
 title: "What is New"
 permalink: '#what-is-new'
 ---
 
-<h2>Welcome to VectorBase new (beta) website!</h2>
+<h2>Welcome to the new VectorBase <I>beta</i> website!</h2>
 
-<p>We have many new tools, to help you better browse and query omics and population data.</p>
+<p>This beta site has many new tools to help you better browse and query vector omics and population data.  Feel free to review the other <b>Overview of Resources and Tools</b> cards to learn more.</p>
 
-<p>The <a href="https://www.vectorbase.org"><u>old website</u></a> will remain available until the new one has all the datasets, and all the tools and resources with its corresponding desired functionalities working properly.</p>
+<p>The <a href="https://www.vectorbase.org">legacy vectorbase.org</a> site is still available to help you transition to the new site, if needed.</p>
 
-<p>Follow this link <a href="/vectorbase.b47/app/search/organism/GenomeDataTypes/result"><u>[Data > Organisms > Data type summary]</u></a> to view a summary table of the currently available datasets for each species.</p>
+<p>To view a summary of the datasets available for each species, follow this link in the header menu <a href="/a/app/search/organism/GenomeDataTypes/result">Data => Organisms - Data type summary</a> </p>
 
-<p>New datasets will start to be incorporated after the middle of this 2020 calendar year.  Please lets us know if you wish to submit a new data set or make us aware of one relevant for your research to help us prioritize our list.</p>
+<p>We will start to be incorporate new data sets in the second half of 2020.  Please let us know if you wish to submit a data set or make us aware of one relevant to your research, to help us prioritize our list.</p>
 
-<p>If you have questions, want to give feedback or have ideas about the new site, need help or, or anything else that you can think of, email us to <a href="/vectorbase.b47/app/contact-us"><u>help@veupathdb.org</u></a> or fill up this <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_3rzHCq7GXOTVbY9"><u>survey</u></a>.</p>  
+<p>If you have questions, want to give feedback, have ideas about the new site, need help or have any other issues, email us at <a href="/a/app/contact-us">help@veupathdb.org</a> or fill in this <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_3rzHCq7GXOTVbY9">survey</a>.</p>
