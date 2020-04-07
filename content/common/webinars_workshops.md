@@ -15,7 +15,7 @@ We are working on updating our workshop material and tutorials based on our new 
 <li>VectorBase
   <a href="https://www.vectorbase.org/tutorials" target="_blank">old tutorials</a>
   and
-  <a href="https://www.vectorbase.org/workshops" target="_blank">old workshops</a>
+  <a href="https://www.vectorbase.org/workshops" target="_blank">old workshops and webinars</a>
   </li>
 <li><a href="https://workshop.eupathdb.org" target="_blank">old EuPathDB and new VEuPathDB workshops</a></li>
 </ul>
