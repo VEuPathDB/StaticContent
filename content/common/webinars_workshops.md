@@ -12,7 +12,10 @@ tags: [general]
 We are working on updating our workshop material and tutorials based on our new websites.  We will be posting new exercises regularly and will be holding regularly scheduled webinars that we will announce in banners on the website.  Feel free to explore our previous workshop material and tutorials.
 <br><br>
 <ul>
-<li><a href="https://www.vectorbase.org/tutorials" target="_blank">VectorBase workshops</a></li>
+<li>VectorBase
+  <a href="https://www.vectorbase.org/tutorials" target="_blank">old tutorials</a>
+  <a href="https://www.vectorbase.org/workshops" target="_blank">old workshops</a>
+  </li>
 <li><a href="https://workshop.eupathdb.org" target="_blank">VEuPathDB workshops</a></li>
 </ul>
 <br><br>
