@@ -29,7 +29,7 @@ VEuPathDB wishes to acknowledge previous scientific working group members. They 
 VEuPathDB wishes to acknowledge previous scientific user group members. They provided feedback on VectorBase's and EuPathDB’s new data, tools and resources, suggested and tested new features and provided input on outreach plans.  <br><br>
 <b>Amoeba</b>: Open community call and Carol Gilchrist, Upi Singh<br>
 <b>Cryptosporidium</b>: Gregory Buck, Guy Robinson, Karin Troell, Sumiti Vinayak, Jonathon Wastling, Giovanni Widmer, Lihua Xiao, Guan Zhu<br>
-<b>Fungi</b>: Bridget Barker, Elaine Bignell, Katherine Borkovich, Michael Bromley, Christina Cuomo, Tamara Doering, Jay Dunlap, Michael Freitag, Louise Glass, Kim Hammond-Kosack, Guilhem Janbon, Seogchan Kang, Theo Kirkland, Corby Kistler, Jennifer Lodge, Robin May, Vera Meyer, Marc Orbach, Nadia Ponts, Antonis Rokas, Jason Stajich, George R. Thompson, Martin Urban, Nathan P. Wiederhold<br>
+<b>Fungi</b>: Bridget Barker, Elaine Bignell, Katherine Borkovich, Michael Bromley, Christina Cuomo, Tamara Doering, Jay Dunlap, Michael Freitag, Louise Glass, Kim Hammond-Kosack, Guilhem Janbon, Seogchan Kang, Theo Kirkland, Corby Kistler, Jennifer Lodge, Robin May, Jessie Uehling, Sinem Beyhan, Douglas Lake, Natalie Mitchell, Maureen Donlin, Vera Meyer, Marc Orbach, Nadia Ponts, Antonis Rokas, Jason Stajich, Matt Sachs, George R. Thompson, Martin Urban, Nathan P. Wiederhold<br>
 <b>Giardia</b>: Scott Dawson, Fran Gillin, Adrian Hehl, Aaron Jex, Hilary Morrison, John Samuelson, Cornelia Spycher, Staffan Svard <br>
 <b>Microsporidia</b>: James Becnel, Nicolas Corradi, Elizabeth Didier,  Patrick Keeling, Emily Troemel, Louis Weiss<br>
 <b>Piroplasma</b>: Open community call and Choukri Mamoun<br>
