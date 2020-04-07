@@ -6,7 +6,7 @@ descriptionTitle: "Transcriptomic Resources"
 tags: [tutorial]
 title: "Transcriptomic Resources"
 permalink: '#transcriptomic-resources'
-category: [PlasmoDB]
+category: [testDB]
 ---
 <style>
   .transcriptomic-resources-feature {
