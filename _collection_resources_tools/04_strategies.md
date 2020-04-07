@@ -68,9 +68,11 @@ permalink: '#search-strategies'
       <div>Add searches one at a time to create a strategy and find exactly the type of genes you need, such as signal peptide containing genes that are expressed in merozoites.</div>
       <img style="width: 45em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/strategy-panel_3.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
+
+    <! ––
   <p><br/>To delve deeper into Search Strategies, try our 
 <a href="/documents/Strategies_Training_Module_2019.pdf"><b>Strategies learning exercise</b></a> 
 (or <a href="{{ "/documents/Strategies_Training_Module_2019.pdf" | absolute_url }}"><i>Strategies learning exercise</i></a>)
-which takes about an hour to complete.  And please <a href="/a/app/contact-us"><b>Contact Us</b></a> with any questions or suggestions.</p>
+which takes about an hour to complete.  And please <a href="/a/app/contact-us"><b>Contact Us</b></a> with any questions or suggestions.</p> -->
   </div>
 </div>
