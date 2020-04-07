@@ -69,7 +69,7 @@ permalink: '#search-strategies'
       <img style="width: 45em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/strategy-panel_3.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
 
-    <! ––
+    <!––
   <p><br/>To delve deeper into Search Strategies, try our 
 <a href="/documents/Strategies_Training_Module_2019.pdf"><b>Strategies learning exercise</b></a> 
 (or <a href="{{ "/documents/Strategies_Training_Module_2019.pdf" | absolute_url }}"><i>Strategies learning exercise</i></a>)
