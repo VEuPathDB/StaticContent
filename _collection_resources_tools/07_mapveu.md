@@ -68,7 +68,7 @@ permalink: '#mapveu'
     <div>
     <br/>
       <div>Data is displayed as circular markers that are responsive to zoom level. Clicking on a marker provides access to rich metadata and plotting options. </div>
-      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/metadata.png" | absolute_url }}" alt="Strategy panel"/>
+      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/metadata.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
     <div>
     <br/>
