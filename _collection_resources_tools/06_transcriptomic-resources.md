@@ -52,23 +52,21 @@ permalink: '#transcriptomic-resources'
 </style>
 <div id="topright">
    <a href="/a/app/search/transcript/GenesByRNASeqEvidence">All RNA-Seq Searches</a>&nbsp; &nbsp; &nbsp;
-   <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs">Example Gene Page Data</a>&nbsp; &nbsp; &nbsp;
-   <a href="/a/app/search/transcript/GenesByMicroarrayEvidence">All Microarray Searches</a>&nbsp; &nbsp; &nbsp;
 </div>
 <div class="transcriptomic-resources-feature">
 <p class="card-text">VEuPathDB supports transcriptomic data mining from RNA sequence, microarray, and expressed seqeunce tags. We analyze pertinent data from your research community and make our analysis results available to you as:</p>
 
 <div class="transcriptomic-resources-feature--panels">
   <div>
-    <div>Tables, and graphs on gene pages.  <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs"><b>Example Gene Page Data</b></a>  </div>
+    <div>Tables, and graphs on gene pages.   </div>
       <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Table-Graph.png" | absolute_url }}" alt="Searches"/><br/><br/>
   </div>
   <div>
-    <div>Genome browser tracks for dynamic visualization of analyzed data as read coverage plots or predicted introns. Sequence data is mapped to a reference genome and made available in JBrowse. Scroll, zoom or stack data for more data mining power. <a href="/a/app/jbrowse?data=/a/service/jbrowse/tracks/default&tracks=gene"><b>Example JBrowse view</b></a></div>
+    <div>Genome browser tracks for dynamic visualization of analyzed data as read coverage plots or predicted introns. Sequence data is mapped to a reference genome and made available in JBrowse. Scroll, zoom or stack data for more data mining power. </div>
       <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-JBrowse-2.png" | absolute_url }}" alt="Searches"/><br/><br/>
   </div>
   <div>
-    <div>Searches that query individual <a href="/a/app/search/transcript/GenesByRNASeqEvidence"><b>RNA Seq</b></a> or <a href="/a/app/search/transcript/GenesByMicroarrayEvidence"><b>Microarray</b></a> data sets and return a list of genes based on sample characteristics such as life cycle stage or treatment. Associated gene data can be added to the search result via the Add Columns tool.  We offer several query types including:
+    <div>Searches that query individual RNA Seq or Microarray data sets and return a list of genes based on sample characteristics such as life cycle stage or treatment. Associated gene data can be added to the search result via the Add Columns tool.  We offer several query types including:
        <div style="margin-left: 3em;">
        <ul>
          <li>differential expression (Fischer's exact test),</li>
