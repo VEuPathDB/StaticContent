@@ -17,7 +17,7 @@ We are working on updating our workshop material and tutorials based on our new 
   and
   <a href="https://www.vectorbase.org/workshops" target="_blank">old workshops</a>
   </li>
-<li><a href="https://workshop.eupathdb.org" target="_blank">VEuPathDB workshops</a></li>
+<li><a href="https://workshop.eupathdb.org" target="_blank">old EuPathDB and new VEuPathDB workshops</a></li>
 </ul>
 <br><br>
 <!-- <div id="clinepi-tutorials">
