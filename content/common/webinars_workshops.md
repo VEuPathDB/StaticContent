@@ -13,11 +13,11 @@ We are working on updating our workshop material and tutorials based on our new 
 <br><br>
 <ul>
 <li>VectorBase
-  <a href="https://www.vectorbase.org/tutorials" target="_blank">old tutorials</a>
+  <a href="https://www.vectorbase.org/tutorials" target="_blank">Previous tutorials</a>
   and
-  <a href="https://www.vectorbase.org/workshops" target="_blank">old workshops and webinars</a>
+  <a href="https://www.vectorbase.org/workshops" target="_blank">Previous workshops and webinars</a>
   </li>
-<li><a href="https://workshop.eupathdb.org" target="_blank">old EuPathDB and new VEuPathDB workshops</a></li>
+<li><a href="https://workshop.eupathdb.org" target="_blank">Previous EuPathDB and new VEuPathDB workshops</a></li>
 </ul>
 <br><br>
 <!-- <div id="clinepi-tutorials">
