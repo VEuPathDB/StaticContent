@@ -2,7 +2,7 @@
 identifier: "vb"
 listIconKey: "bullhorn"
 listTitle: "What is New"
-descriptionTitle: "What is new"
+descriptionTitle: "What is New"
 category: [VectorBase]
 tags: [tutorial]
 title: "What is New"
