@@ -68,7 +68,10 @@
 - type: general
   question: "How are datasets chosen for loading into MicrobiomeDB?"
   answer: |
-           Several things factor into our decision to load a dataset.  First, we have a strong interest in studies of the microbiome in infant and child health and in enteric diseases.  Second, we're also interested in understanding how different animal models (mice, dogs, pigs, etc) might help us understand the role of the microbiome during health and disease.  Finally, we're interested in multifactorial and longitudinal datasets, since these provide a unique opportunity to data mining approaches to reveal interesting associations.
+           Several things factor into our decision to load a dataset.  
+           First, we have a strong interest in studies of the microbiome in infant and child health and in enteric diseases.  
+           Second, we're also interested in understanding how different animal models (mice, dogs, pigs, etc) might help us understand the role of the microbiome during health and disease.  
+           Finally, we're interested in multifactorial and longitudinal datasets, since these qualities of datasets provide a unique opportunity to employ data mining and visualization to reveal interesting associations.
   uid: g6
   projects: "MicrobiomeDB"
 
