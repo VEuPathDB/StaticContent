@@ -27,7 +27,6 @@ search_enabled: true
 future: true
 
 collections:
-  collection_about_all: {}
   collection_resources_tools:
     output: true
     json_keys: [ output, descriptionTitle, identifier, listIconKey, listTitle ]
@@ -54,6 +53,7 @@ feed:
     - TrichDB
     - TriTrypDB
     - VectorBase
+    - VEuPathDB
 
 exclude:
   - ./api

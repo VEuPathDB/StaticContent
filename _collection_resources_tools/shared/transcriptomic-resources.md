@@ -1,12 +1,4 @@
 ---
-identifier: "transcriptomic-resources"
-listIconKey: "list-ul"
-listTitle: "Transcriptomic Resources"
-descriptionTitle: "Transcriptomic Resources"
-tags: [tutorial]
-title: "Transcriptomic Resources"
-permalink: '#transcriptomic-resources'
-category: [testDB]
 ---
 <style>
   .transcriptomic-resources-feature {
@@ -49,19 +41,22 @@ category: [testDB]
   #topright {
     text-align: right;
   }
-
 </style>
+
+{% assign geneId  = site.data.projects[include.project].geneId %}
+
 <div id="topright">
    <a href="/a/app/search/transcript/GenesByRNASeqEvidence">All RNA-Seq Searches</a>&nbsp; &nbsp; &nbsp;
-   <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs">Example Gene Page Data</a>&nbsp; &nbsp; &nbsp;
+   <a href="/a/app/record/gene/{{geneId}}#ExpressionGraphs">Example Gene Page Data</a>&nbsp; &nbsp; &nbsp;
    <a href="/a/app/search/transcript/GenesByMicroarrayEvidence">All Microarray Searches</a>&nbsp; &nbsp; &nbsp;
 </div>
+
 <div class="transcriptomic-resources-feature">
 <p class="card-text">VEuPathDB supports transcriptomic data mining from RNA sequence, microarray, and expressed seqeunce tags. We analyze pertinent data from your research community and make our analysis results available to you as:</p>
 
 <div class="transcriptomic-resources-feature--panels">
   <div>
-    <div>Tables, and graphs on gene pages.  <a href="/a/app/record/gene/PF3D7_1133400#ExpressionGraphs"><b>Example Gene Page Data</b></a>  </div>
+    <div>Tables, and graphs on gene pages.  <a href="/a/app/record/gene/{{geneId}}#ExpressionGraphs"><b>Example Gene Page Data</b></a>  </div>
       <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Table-Graph.png" | absolute_url }}" alt="Searches"/><br/><br/>
   </div>
   <div>
