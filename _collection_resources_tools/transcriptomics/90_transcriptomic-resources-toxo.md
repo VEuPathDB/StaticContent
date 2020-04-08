@@ -6,7 +6,7 @@ descriptionTitle: "Transcriptomic Resources test"
 tags: [tutorial]
 title: "Transcriptomic Resources test"
 permalink: '#transcriptomic-resources-test'
-category: [ToxoDB]
+category: [TrichDB]
 ---
 {% assign project = page.category[0] %}
 {% include_relative shared/transcriptomic-resources.md project = project %}

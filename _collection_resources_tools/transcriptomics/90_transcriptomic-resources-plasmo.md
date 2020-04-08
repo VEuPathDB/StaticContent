@@ -6,8 +6,7 @@ descriptionTitle: "Transcriptomic Resources test"
 tags: [tutorial]
 title: "Transcriptomic Resources test"
 permalink: '#transcriptomic-resources-test'
-category: [PlasmoDB]
+category: [SchistoDB]
 ---
-{% assign project = page.category[0] %}
-{% include_relative shared/transcriptomic-resources.md project = project %}
+{% assign projectName = page.category[0] %}{% include_relative shared/transcriptomic-resources.md project = projectName %}
 

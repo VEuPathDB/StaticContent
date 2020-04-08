@@ -57,7 +57,7 @@ published: false
 
 <div class="transcriptomic-resources-feature--panels">
   <div>
-    <div>Tables, and graphs on gene pages.  <a href="/a/app/record/gene/{{geneId}}#ExpressionGraphs"><b>Example Gene Page Data</b></a>  </div>
+    <div>Tables, and graphs on gene pages.  <a href="/a/app/record/gene/{{geneId | default: AALB009782}}#ExpressionGraphs"><b>Example Gene Page Data</b></a>  </div>
       <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Table-Graph.png" | absolute_url }}" alt="Searches"/><br/><br/>
   </div>
   <div>
