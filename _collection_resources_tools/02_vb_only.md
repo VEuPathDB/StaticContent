@@ -19,4 +19,8 @@ permalink: '#what-is-new'
 
 <p>We will start to incorporate new data sets in the second half of 2020.  Please let us know if you wish to submit a data set or make us aware of one relevant to your research, to help us prioritize our list.</p>
 
-<p>If you have questions, want to give feedback, have ideas about the new site, need help or have any other issues, email us at <a href="/a/app/contact-us">help@veupathdb.org</a> or fill one, two or all three surveys found <a href="/vectorbase.b47/app/static-content/VectorBase/news.html#VectorBase47Releasedhere">here</a> 
+<p>If you have questions, want to give feedback, have ideas about the new site, need help or have any other issues, email us at <a href="/a/app/contact-us">help@veupathdb.org</a> or fill 
+  <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_cumyAxYi8ybn6Bv">one</a>, 
+  <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_6ziJ958a9hclGFn">two</a> or 
+  <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_6urr6AkL1HqWHFr">all three</a>   
+  surveys. If you open the link first just to browse all the questions and pages, notice that the next time you open the survey to provide your answers, your browser (e.g., Chrome or Firefox), will land by default in the last page you visited. We apologize for this inconvenience and ask for you to please clear your browser history, reload the page, scroll to the bottom of the page and be sure to click the ‘back’ button to start from the first page. 
