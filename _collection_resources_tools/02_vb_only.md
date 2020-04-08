@@ -19,4 +19,4 @@ permalink: '#what-is-new'
 
 <p>We will start to incorporate new data sets in the second half of 2020.  Please let us know if you wish to submit a data set or make us aware of one relevant to your research, to help us prioritize our list.</p>
 
-<p>If you have questions, want to give feedback, have ideas about the new site, need help or have any other issues, email us at <a href="/a/app/contact-us">help@veupathdb.org</a> or fill in this <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_3rzHCq7GXOTVbY9">survey</a>.</p>
+<p>If you have questions, want to give feedback, have ideas about the new site, need help or have any other issues, email us at <a href="/a/app/contact-us">help@veupathdb.org</a> or fill one, two or all three surveys found <a href="/vectorbase.b47/app/static-content/VectorBase/news.html#VectorBase47Releasedhere">here</a> 
