@@ -1,10 +1,43 @@
-- name: AmoebaDB
+AmoebaDB:
   geneId: NF0067790
   gbrowseTrack: blablabla
-- name: PlasmoDB
+CryptoDB:
   geneId: PF3D7_1133400
   gbrowseTrack: ExpressionGraphs
-- name: VectorBase
+FungiDB:
+  geneId: PF3D7_1133400
+  gbrowseTrack: ExpressionGraphs
+GiardiaDB:
+  geneId: PF3D7_1133400
+  gbrowseTrack: ExpressionGraphs
+HostDB:
+  geneId: PF3D7_1133400
+  gbrowseTrack: ExpressionGraphs
+MicrosporidiaDB:
+  geneId: PF3D7_1133400
+  gbrowseTrack: ExpressionGraphs
+PiroplasmaDB:
+  geneId: PF3D7_1133400
+  gbrowseTrack: ExpressionGraphs
+PlasmoDB:
+  geneId: PF3D7_1133400
+  gbrowseTrack: ExpressionGraphs
+SchistoDB:
+  geneId: PF3D7_1133400
+  gbrowseTrack: ExpressionGraphs
+ToxoDB:
+  geneId: TGME49_239250
+  gbrowseTrack: ExpressionGraphs
+TrichDB:
+  geneId: PF3D7_1133400
+  gbrowseTrack: ExpressionGraphs
+TriTrypDB:
+  geneId: PF3D7_1133400
+  gbrowseTrack: ExpressionGraphs
+VectorBase:
+  geneId: AALB009782
+  gbrowseTrack: ExpressionGraphs
+VEuPathDB:
   geneId: AALB009782
   gbrowseTrack: ExpressionGraphs
  

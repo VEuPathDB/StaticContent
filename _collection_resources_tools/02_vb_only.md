@@ -11,7 +11,7 @@ permalink: '#what-is-new'
 
 <h2>Welcome to the new VectorBase <I>beta</i> website!</h2>
 
-<p>This beta site has many new tools to help you better browse and query vector omics and population data.  Feel free to review the other <b>Overview of Resources and Tools</b> cards to learn more.</p>
+<p>Welcome.  VectorBase <i>beta</i> has a new look and new tools to help you better browse and query vector omics and population data.  Feel free to review the other <b>Overview of Resources and Tools</b> cards to learn more.</p>
 
 <p>The <a href="https://www.vectorbase.org">legacy vectorbase.org</a> site is still available to help you transition to the new site, if needed.</p>
 
