@@ -26,7 +26,7 @@ SchistoDB:
   geneId: PF3D7_1133400
   gbrowseTrack: ExpressionGraphs
 ToxoDB:
-  geneId: PF3D7_1133400
+  geneId: TGME49_239250
   gbrowseTrack: ExpressionGraphs
 TrichDB:
   geneId: PF3D7_1133400
