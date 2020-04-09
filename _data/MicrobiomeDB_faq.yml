@@ -47,7 +47,8 @@
            potentially allowing interrogation of community composition at the species or strain level, 
            looking at other organisms in complex communities (e.g. fungi and prokaryotes), 
            as well as identification of samples based on the relative abundance of bacterial genes (e.g. antibiotic resistance, virulence factors, etc.). 
-           Taken together, our goal is to develop a full-featured, open-source platform for a systems biology view of microbial communities.
+           Taken together, our goal is to develop a full-featured, open-source platform for a systems biology view of microbial communities.  
+           If you are interested in analyzing your own shotgun metagenomic data, check out the tools available at **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource.
 
   uid: g4
   projects: "MicrobiomeDB"
@@ -59,7 +60,9 @@
   answer: |
            Sorry, but this feature isn't available yet.  However, we're working hard to develop a user workspace that would allow you to upload **[.biom files](http://biom-format.org/)**.  You can also 
            **[Contact Us](https://microbiomedb.org/mbio/app/contact-us)** to inquire about having your own 
-           data (published or unpublished) loaded into the site for public access!
+           data (published or unpublished) loaded into the site for public access!  
+           You may also be interested in the tools available at **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource for preprocessing and analysis of 16S rRNA marker gene data..
+
   uid: g5
   projects: "MicrobiomeDB"
 
