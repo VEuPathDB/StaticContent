@@ -25,7 +25,9 @@
 <BODY LANG="en-US" LINK="#0563c1" DIR="LTR">
 
 <style>
-
+body {
+  margin: 0 2.5em;
+}
 p {
   font-family: arial;
   font-size: 120%;
@@ -41,11 +43,18 @@ details {
   margin: 1em 0;
 }
 details summary {
+  font-family: arial;
   font-size: 110%;
   margin-bottom: 1em;
 }
 details#references > summary::-webkit-details-marker { display: none; }
-
+details#references div {
+  margin: 0 2em;
+}
+#ground summary {
+  font-weight: bold;
+  margin-left: 1em;
+}
 table {
   margin-left: auto;
   margin-right: auto;
@@ -53,6 +62,14 @@ table {
 }
 
 </style>
+
+
+<script>
+  function scrollWin(x, y) {
+    window.scrollBy(x, y);
+  }
+
+</script>
 
 
 <h1><A NAME="_GoBack"></A>Summaries of Current Research Data on SARS-CoV-2 - April 08, 2020</h1>
@@ -744,6 +761,7 @@ standardized way of the question, design, outcome under evaluation,
 participants, findings, and limitations in interpretation. This is
 meant to be the data that can be linked to from overview pages.</I></P>
 
+<div id="ground">
 
 <details>
 <summary><a name="Hydroxychloroquine">Hydroxychloroquine</a></summary>
@@ -7216,6 +7234,7 @@ meant to be the data that can be linked to from overview pages.</I></P>
 </TABLE>
 </details>
 
+</div>
 
 
 <!-- =========================== REFERENCES ====================== -->
@@ -7223,8 +7242,10 @@ meant to be the data that can be linked to from overview pages.</I></P>
 
 <details id="references">
 <summary>
-<h2>References >>> </h2>
+<h2 onclick="scrollWin(0, 200)">References  >> </h2>
 </summary>
+
+<div>
 
 <P STYLE="margin-left: 0.5in; text-indent: -0.5in; margin-bottom: 0in">
 <FONT SIZE=2>1.	Chen Z, Hu J, Zhang Z, et al. Efficacy of
@@ -7480,6 +7501,8 @@ China: a retrospective cohort study. </FONT><FONT SIZE=2><I>Lancet.
 </I></FONT><FONT SIZE=2>2020.</FONT></P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
+
+</div>
 
 </details>
 
