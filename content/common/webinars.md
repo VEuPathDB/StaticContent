@@ -21,8 +21,8 @@ This webinar will introduce you to VEuPathDB resources and highlight some of the
 <li>MapVEu</li>
 <li>Phenotype data</li>
 <li>Galaxy tools</li>
-</div>
-<div>
+
+
 <b>Topic:</b> Introduction to VEuPathDB resources<br>
 <b>Date:</b> Thursday April 16th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
@@ -35,5 +35,5 @@ This webinar will introduce you to VEuPathDB resources and highlight some of the
 <li>MapVEu</li>
 <li>Phenotype data</li>
 <li>Galaxy tools</li>
-</div>
+
 </div>
