@@ -42,7 +42,7 @@ This webinar will introduce you to the genome browser in VEuPathDB resources. To
 <br>
 <div>
 <b>Topic:</b> Interpreting RNAseq data in the genome browser<br>
-<b>Date:</b> Thursday April , 2020<br>
+<b>Date:</b> Thursday April 30th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2363902027475326733">https://attendee.gotowebinar.com/register/2363902027475326733</a> <br>
 <b>Additional Details:</b> <br>
@@ -52,6 +52,36 @@ This webinar will guide you through the process of viewing RNA-seq coverage trac
 <li>Loading RNA-seq and viewing data tracks</li>
 <li>Loading and viewing splice junction tracks</li>
 <li>Interpreting RNA-seq results to confirm gene models and propose alternative ones</li>
+</ul>
+</div>
+<div>
+<b>Topic:</b> Manual gene annotation in Apollo<br>
+<b>Date:</b> Thursday May 7th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/5680450209801571854">https://attendee.gotowebinar.com/register/5680450209801571854</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will guide you through the process of updating and fixing gene models based on underlying data. Topics covered will include:
+<br>
+<ul>
+<li>How to add new gene models</li>
+<li>How to alter the structure of a gene</li>
+<li>How to use underlying data to support structural changes</li>
+</ul>
+</div>
+<div>
+<b>Topic:</b> Building search strategies in VEuPathDB<br>
+<b>Date:</b> Thursday May 7th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/5373351114605639182">https://attendee.gotowebinar.com/register/5373351114605639182</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will guide you through the process of building search strategies in VEuPathDB resources. Topics covered will include:
+<br>
+<ul>
+<li>Running searches</li>
+<li>Combining searches in your strategy space</li>
+<li>Editing steps in your search strategy</li>
+<li>Examining results of search strategies</li>
+<li>Analyzing search strategy results (eg. GO enrichment)</li>
 </ul>
 </div>
 </div>
