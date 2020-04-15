@@ -54,6 +54,7 @@ This webinar will guide you through the process of viewing RNA-seq coverage trac
 <li>Interpreting RNA-seq results to confirm gene models and propose alternative ones</li>
 </ul>
 </div>
+<br>
 <div>
 <b>Topic:</b> Manual gene annotation in Apollo<br>
 <b>Date:</b> Thursday May 7th, 2020<br>
@@ -68,6 +69,7 @@ This webinar will guide you through the process of updating and fixing gene mode
 <li>How to use underlying data to support structural changes</li>
 </ul>
 </div>
+<br>
 <div>
 <b>Topic:</b> Building search strategies in VEuPathDB<br>
 <b>Date:</b> Thursday May 7th, 2020<br>
