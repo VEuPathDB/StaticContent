@@ -26,7 +26,7 @@ This webinar will introduce you to VEuPathDB resources and highlight some of the
 <br>
 <div>
 <b>Topic:</b>Introduction to the genome browser in VEuPathDB<br>
-<b>Date:</b> Thursday April 16th, 2020<br>
+<b>Date:</b> Thursday April 23rd, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration Link:</b><a href="https://attendee.gotowebinar.com/register/615670842729855757">https://attendee.gotowebinar.com/register/615670842729855757</a> <br>
 <b>Additional Details:</b> <br>
@@ -37,6 +37,21 @@ This webinar will introduce you to the genome browser in VEuPathDB resources. To
 <li>How to search in JBrowse</li>
 <li>How to move around</li>
 <li>How to load your own data</li>
+</ul>
+</div>
+<br>
+<div>
+<b>Topic:</b>Interpreting RNAseq data in the genome browser<br>
+<b>Date:</b> Thursday April , 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link:</b><a href="https://attendee.gotowebinar.com/register/2363902027475326733">https://attendee.gotowebinar.com/register/2363902027475326733</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will guide you through the process of viewing RNA-seq coverage tracks in the genome browser and how to use this data to examine gene structure. Specifically the webinar will cover:
+<br>
+<ul>
+<li>Loading RNA-seq and viewing data tracks</li>
+<li>Loading and viewing splice junction tracks</li>
+<li>Interpreting RNA-seq results to confirm gene models and propose alternative ones</li>
 </ul>
 </div>
 </div>
