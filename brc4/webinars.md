@@ -12,7 +12,7 @@ tags: [general]
 <b>Topic:</b> Introduction to VEuPathDB resources<br>
 <b>Date:</b> Thursday April 16th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link:</b><a href="https://attendee.gotowebinar.com/register/568061989127243788">https://attendee.gotowebinar.com/register/568061989127243788</a> <br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/568061989127243788">https://attendee.gotowebinar.com/register/568061989127243788</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will introduce you to VEuPathDB resources and highlight some of the tools available to you to explore and analyze underlying data.  Topics covered will include:<br>
 <ul>
@@ -25,10 +25,10 @@ This webinar will introduce you to VEuPathDB resources and highlight some of the
 </div>
 <br>
 <div>
-<b>Topic:</b>Introduction to the genome browser in VEuPathDB<br>
+<b>Topic:</b> Introduction to the genome browser in VEuPathDB<br>
 <b>Date:</b> Thursday April 23rd, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link:</b><a href="https://attendee.gotowebinar.com/register/615670842729855757">https://attendee.gotowebinar.com/register/615670842729855757</a> <br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/615670842729855757">https://attendee.gotowebinar.com/register/615670842729855757</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will introduce you to the genome browser in VEuPathDB resources. Topics covered will include:<br>
 <ul>
@@ -41,10 +41,10 @@ This webinar will introduce you to the genome browser in VEuPathDB resources. To
 </div>
 <br>
 <div>
-<b>Topic:</b>Interpreting RNAseq data in the genome browser<br>
+<b>Topic:</b> Interpreting RNAseq data in the genome browser<br>
 <b>Date:</b> Thursday April , 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link:</b><a href="https://attendee.gotowebinar.com/register/2363902027475326733">https://attendee.gotowebinar.com/register/2363902027475326733</a> <br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2363902027475326733">https://attendee.gotowebinar.com/register/2363902027475326733</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will guide you through the process of viewing RNA-seq coverage tracks in the genome browser and how to use this data to examine gene structure. Specifically the webinar will cover:
 <br>
