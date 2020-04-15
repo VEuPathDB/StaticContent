@@ -23,12 +23,12 @@ This webinar will introduce you to VEuPathDB resources and highlight some of the
 <li>Galaxy tools</li>
 </ul>
 </div>
-<br><br><br>
+<br>
 <div>
-<b>Topic:</b> Introductio to the genome browser in VEuPathDB<br>
+<b>Topic:</b>Introduction to the genome browser in VEuPathDB<br>
 <b>Date:</b> Thursday April 16th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link:</b><a href=""></a> <br>
+<b>Registration Link:</b><a href="https://attendee.gotowebinar.com/register/615670842729855757">https://attendee.gotowebinar.com/register/615670842729855757</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will introduce you to the genome browser in VEuPathDB resources. Topics covered will include:<br>
 <ul>
