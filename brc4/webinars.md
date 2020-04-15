@@ -86,4 +86,13 @@ This webinar will guide you through the process of building search strategies in
 <li>Analyzing search strategy results (eg. GO enrichment)</li>
 </ul>
 </div>
+<br>
+<div>
+<b>Topic:</b> Running a Galaxy workflow and integrating data into VEuPathDB<br>
+<b>Date:</b> Thursday May 21st, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2911235617248014349">https://attendee.gotowebinar.com/register/2911235617248014349</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will guide you through the process of running a workflow in galaxy and exporting the results to your VEuPathDB workspace.
+</div>
 </div>
