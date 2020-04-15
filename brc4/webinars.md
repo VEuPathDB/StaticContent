@@ -72,7 +72,7 @@ This webinar will guide you through the process of updating and fixing gene mode
 <br>
 <div>
 <b>Topic:</b> Building search strategies in VEuPathDB<br>
-<b>Date:</b> Thursday May 7th, 2020<br>
+<b>Date:</b> Thursday May 14th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/5373351114605639182">https://attendee.gotowebinar.com/register/5373351114605639182</a> <br>
 <b>Additional Details:</b> <br>
