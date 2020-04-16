@@ -31,9 +31,9 @@ tags: [general]
   <p><b>Thursday April 16th, 2020:</b> <a href="#intro">Introduction to VEuPathDB resources.</a></p>
   <p><b>Thursday April 23rd, 2020:</b> <a href="#browser">Introduction to the genome browser in VEuPathDB.</a></p>
   <p><b>Thursday April 30th, 2020:</b> <a href="#rnaseq">Interpreting RNAseq data in the genome browser.</a></p>
-  <p><b>Thursday May 7th, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p>
-  <p><b>Thursday May 14th, 2020:</b> <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
-  <p><b>Thursday May 21st, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
+  <p><b>Thursday May 7th, 2020:</b> <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
+  <p><b>Thursday May 14th, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
+  <p><b>Thursday May 21st, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p>
 </div>
 
 <br>
@@ -95,28 +95,10 @@ This webinar will guide you through the process of viewing RNA-seq coverage trac
 
 <hr>
 
-<div class="anchor"><a name="apollo"></a></div>
-<div class="webinar">
-<b>Topic:</b> Manual gene annotation in Apollo<br>
-<b>Date:</b> Thursday May 7th, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/5680450209801571854">https://attendee.gotowebinar.com/register/5680450209801571854</a> <br>
-<b>Additional Details:</b> <br>
-This webinar will guide you through the process of updating and fixing gene models based on underlying data. Topics covered will include:
-<br>
-<ul>
-<li>How to add new gene models</li>
-<li>How to alter the structure of a gene</li>
-<li>How to use underlying data to support structural changes</li>
-</ul>
-</div>
-
-<hr>
-
 <div class="anchor"><a name="strategies"></a></div>
 <div class="webinar">
 <b>Topic:</b> Building search strategies in VEuPathDB<br>
-<b>Date:</b> Thursday May 14th, 2020<br>
+<b>Date:</b> Thursday May 7th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/5373351114605639182">https://attendee.gotowebinar.com/register/5373351114605639182</a> <br>
 <b>Additional Details:</b> <br>
@@ -136,12 +118,29 @@ This webinar will guide you through the process of building search strategies in
 <div class="anchor"><a name="galaxy"></a></div>
 <div class="webinar">
 <b>Topic:</b> Running a Galaxy workflow and integrating data into VEuPathDB<br>
-<b>Date:</b> Thursday May 21st, 2020<br>
+<b>Date:</b> Thursday May 14th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2911235617248014349">https://attendee.gotowebinar.com/register/2911235617248014349</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will guide you through the process of running a workflow in galaxy and exporting the results to your VEuPathDB workspace.
 </div>
 
+<div class="anchor"><a name="apollo"></a></div>
+<div class="webinar">
+<b>Topic:</b> Manual gene annotation in Apollo<br>
+<b>Date:</b> Thursday May 21st, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/5680450209801571854">https://attendee.gotowebinar.com/register/5680450209801571854</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will guide you through the process of updating and fixing gene models based on underlying data. Topics covered will include:
+<br>
+<ul>
+<li>How to add new gene models</li>
+<li>How to alter the structure of a gene</li>
+<li>How to use underlying data to support structural changes</li>
+</ul>
+</div>
+
+<hr>
 
 </div>
