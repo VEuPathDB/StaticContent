@@ -31,9 +31,9 @@ tags: [general]
   <p><a href="#intro">Introduction to VEuPathDB resources. Thursday April 16th, 2020.</a></p>
   <p><a href="#browser">Introduction to the genome browser in VEuPathDB. Thursday April 23rd, 2020.</a></p>
   <p><a href="#rnaseq">Interpreting RNAseq data in the genome browser. Thursday April 30th, 2020.</a></p>
-  <p><a href="#apollo">Manual gene annotation in Apollo</a></p>
-  <p><a href="#strategies">Building search strategies in VEuPathDB</a></p>
-  <p><a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB</a></p>
+  <p><a href="#apollo">Manual gene annotation in Apollo. Thursday May 7th, 2020.</a></p>
+  <p><a href="#strategies">Building search strategies in VEuPathDB. Thursday May 14th, 2020.</a></p>
+  <p><a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB. Thursday May 21st, 2020.</a></p>
 </div>
 
 <br>
