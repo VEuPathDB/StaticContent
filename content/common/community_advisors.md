@@ -36,7 +36,7 @@ VEuPathDB wishes to acknowledge previous scientific user group members. They pro
 <b>Plasmodium</b>: John Adams, Chris Janse, Rays H.Y. Jiang, Shahid Khan, Stuart Ralph, Akhil Vaidya, Andy Waters<br>
 <b>Toxoplasma</b>: John Boothroyd, Jon P. Boyle, Vern B. Carruthers, Marc-Jan Gubbels, Kami Kim, 
 Markus Meissner, Jeroen Saeij, Lilach Sheiner, Ross Waller, Michael White<br>
-<b>Trichomonas</b>: Jane Carlton, Patricia Johnson, Steven Sullivan, Jan Tachazy**<br>
+<b>Trichomonas</b>: Jane Carlton, Patricia Johnson, Steven Sullivan, Jan Tachazy<br>
 <b>Trypanosoma/Kinetoplastids</b>: Fernan Aguero, Vivian Bellofatto, Richard Burchmore, George Cross, Angela Cruz, Antonio Estevez, Mark Field, Catarina Gadelha, Eva Gluenz,Keith Gull, John Kelly, Annette MacLeod, Jeremy Mottram, Torsten Ochsenreiter, Marc Ouellette, Barbara Papadopoulou, Laurie Read, Sergio Schenkman, Rick Tarleton, Brent Weatherly, Bill Wickstead, Michael (Mick) Urbaniak <br>
 <b>Vectors</b>: Gregory Dasch, Jeff Grabowski, María de Lourdes Muñoz, Monika Gulia-Nuss, Sukanya Narasimhan, Kristin Michel, Michael Povelones, Igor Sharakhov, Ronald van Rij, Rob Waterhouse
 
