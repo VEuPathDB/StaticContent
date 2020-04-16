@@ -9,6 +9,8 @@ tags: [general]
     font-size: 2.5em;
   }
   div#contents p {
+    margin-left: 1em;
+    margin-bottom: 1em;
     line-height: 90%;
   }
   div.webinar {
