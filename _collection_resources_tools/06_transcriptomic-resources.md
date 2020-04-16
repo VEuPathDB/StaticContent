@@ -66,10 +66,10 @@ permalink: '#transcriptomic-resources'
       <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-JBrowse-2.png" | absolute_url }}" alt="Searches"/><br/><br/>
   </div>
   <div>
-    <div>Searches that query individual RNA Seq or Microarray data sets and return a list of genes based on sample characteristics such as life cycle stage or treatment. Associated gene data can be added to the search result via the Add Columns tool.  We offer several query types including:
+    <div>Searches that search individual RNA Seq or Microarray data sets and return a list of genes based on sample characteristics such as life cycle stage or treatment. Associated gene data can be added to the search result via the Add Columns tool.  We offer several search types including:
        <div style="margin-left: 3em;">
        <ul>
-         <li>differential expression (Fisher's exact test),</li>
+         <li>differential expression (DEseq2),</li>
          <li>fold change (algebraic calculation),</li>
          <li>percentile rank within a sample,</li>
          <li>sense/antisense comparisons, and</li>
@@ -81,5 +81,5 @@ permalink: '#transcriptomic-resources'
   </div>
   </div>
 <br/><br/>
- In addition, <a href="/a/app/galaxy-orientation"><b>My Workspace</b></a> offers a private Galaxy workspace for analyzing your own data and porting the results to VEuPathDB to compare with public data.  All VEuPathDB genomes are pre-loaded and several pre-configured workflows for RNA-seq analysis and viarant calling are available.
+ In addition, <a href="/a/app/galaxy-orientation"><b>My Workspace</b></a> offers a private Galaxy workspace for analyzing your own data and porting the results to VEuPathDB to compare with public data.  All VEuPathDB genomes are pre-loaded and several pre-configured workflows for RNA-seq analysis and variant calling are available.
 </div>
