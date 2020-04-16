@@ -6,7 +6,7 @@ descriptionTitle: "Phenotype"
 tags: [tutorial]
 title: "Phenotypic Data"
 permalink: '#phenotype'
-category: [FungiDB,PlasmoDB,ToxoDB,TriTrypDB]
+category: [FungiDB,PlasmoDB,ToxoDB,TriTrypDB,VEuPathDB]
 ---
 <style>
   .phenotype-resources-feature {
