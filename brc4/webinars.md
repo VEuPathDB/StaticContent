@@ -7,8 +7,20 @@ tags: [general]
 <h1 id="resources">VEuPathDB Webinars</h1>
 
 <div class="static-content">
+
+<div id="contents">
+<a href="#intro">Introduction to VEuPathDB resources</a>
+<a href="#browser">Introduction to the genome browser in VEuPathDB</a>
+<a href="#rnaseq">Interpreting RNAseq data in the genome browser</a>
+<a href="#apollo">Manual gene annotation in Apollo</a>
+<a href="#strategies">Building search strategies in VEuPathDB</a>
+<a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB</a>
+</div>
+
+
 <h3>Upcoming Webinars</h3><br>
 <div>
+<a name="intro"></a>
 <b>Topic:</b> Introduction to VEuPathDB resources<br>
 <b>Date:</b> Thursday April 16th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
@@ -23,8 +35,11 @@ This webinar will introduce you to VEuPathDB resources and highlight some of the
 <li>Galaxy tools</li>
 </ul>
 </div>
-<br>
+
+<hr>
+
 <div>
+<a name="browser"></a>
 <b>Topic:</b> Introduction to the genome browser in VEuPathDB<br>
 <b>Date:</b> Thursday April 23rd, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
@@ -39,8 +54,11 @@ This webinar will introduce you to the genome browser in VEuPathDB resources. To
 <li>How to load your own data</li>
 </ul>
 </div>
-<br>
+
+<hr>
+
 <div>
+<a name="rnaseq"></a>
 <b>Topic:</b> Interpreting RNAseq data in the genome browser<br>
 <b>Date:</b> Thursday April 30th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
@@ -54,8 +72,11 @@ This webinar will guide you through the process of viewing RNA-seq coverage trac
 <li>Interpreting RNA-seq results to confirm gene models and propose alternative ones</li>
 </ul>
 </div>
-<br>
+
+<hr>
+
 <div>
+<a name="apollo"></a>
 <b>Topic:</b> Manual gene annotation in Apollo<br>
 <b>Date:</b> Thursday May 7th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
@@ -69,8 +90,11 @@ This webinar will guide you through the process of updating and fixing gene mode
 <li>How to use underlying data to support structural changes</li>
 </ul>
 </div>
-<br>
+
+<hr>
+
 <div>
+<a name="strategies"></a>
 <b>Topic:</b> Building search strategies in VEuPathDB<br>
 <b>Date:</b> Thursday May 14th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
@@ -86,8 +110,11 @@ This webinar will guide you through the process of building search strategies in
 <li>Analyzing search strategy results (eg. GO enrichment)</li>
 </ul>
 </div>
-<br>
+
+<hr>
+
 <div>
+<a name="galaxy"></a>
 <b>Topic:</b> Running a Galaxy workflow and integrating data into VEuPathDB<br>
 <b>Date:</b> Thursday May 21st, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
@@ -95,4 +122,6 @@ This webinar will guide you through the process of building search strategies in
 <b>Additional Details:</b> <br>
 This webinar will guide you through the process of running a workflow in galaxy and exporting the results to your VEuPathDB workspace.
 </div>
+
+
 </div>
