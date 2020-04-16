@@ -28,33 +28,19 @@ tags: [general]
 <h3>Upcoming Webinars</h3><br>
 
 <div id="contents">
-  <p><b>Thursday April 16th, 2020:</b> <a href="#intro">Introduction to VEuPathDB resources.</a></p>
+  
   <p><b>Thursday April 23rd, 2020:</b> <a href="#browser">Introduction to the genome browser in VEuPathDB.</a></p>
   <p><b>Thursday April 30th, 2020:</b> <a href="#rnaseq">Interpreting RNAseq data in the genome browser.</a></p>
   <p><b>Thursday May 7th, 2020:</b> <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
   <p><b>Thursday May 14th, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
-  <p><b>Thursday May 21st, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p>
-</div>
+  <p><b>Thursday May 21st, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p><br>
+  <h3>Previous Webinars</h3><br>
+  If you missed any of our previous webinars feel free to explore the free recordings:<br>
+<p><b>Thursday April 16th, 2020:</b> <a href="#intro">Introduction to VEuPathDB resources.</a></p>
+  </div>
 
 <br>
-<hr>
 
-<div class="anchor"><a name="intro"></a></div>
-<div class="webinar">
-<b>Topic:</b> Introduction to VEuPathDB resources<br>
-<b>Date:</b> Thursday April 16th, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/568061989127243788">https://attendee.gotowebinar.com/register/568061989127243788</a> <br>
-<b>Additional Details:</b> <br>
-This webinar will introduce you to VEuPathDB resources and highlight some of the tools available to you to explore and analyze underlying data.  Topics covered will include:<br>
-<ul>
-<li>How to get started</li>
-<li>RNAseq searches</li>
-<li>MapVEu</li>
-<li>Phenotype data</li>
-<li>Galaxy tools</li>
-</ul>
-</div>
 
 <hr>
 
@@ -142,5 +128,26 @@ This webinar will guide you through the process of updating and fixing gene mode
 </div>
 
 <hr>
+<div>
+<div class="webinar">
+<h3>Previous Webinars</h3><br>
+<hr>
 
+<div class="anchor"><a name="intro"></a></div>
+<div class="webinar">
+<b>Topic:</b> Introduction to VEuPathDB resources<br>
+<b>Date:</b> Thursday April 16th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/YprhSDTvsEE">https://youtu.be/YprhSDTvsEE</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will introduce you to VEuPathDB resources and highlight some of the tools available to you to explore and analyze underlying data.  Topics covered will include:<br>
+<ul>
+<li>How to get started</li>
+<li>RNAseq searches</li>
+<li>MapVEu</li>
+<li>Phenotype data</li>
+<li>Galaxy tools</li>
+</ul>
+</div>
+</div>
 </div>
