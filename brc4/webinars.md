@@ -8,9 +8,11 @@ tags: [general]
   h1 {
     font-size: 2.5em;
   }
-  div#contents p {
+  div#contents {
     margin-left: 1em;
     margin-bottom: 1em;
+  }
+  div#contents p {
     line-height: 90%;
   }
   div.webinar {
