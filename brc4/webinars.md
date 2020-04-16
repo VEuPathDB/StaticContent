@@ -36,6 +36,8 @@ tags: [general]
   <p><a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB</a></p>
 </div>
 
+<br>
+<hr>
 
 <div class="webinar">
 <a name="intro"></a>
