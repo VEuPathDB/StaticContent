@@ -5,14 +5,23 @@ permalink: /webinars
 tags: [general]
 ---
 <style>
-div#contents p {
-  line-height: 90%;
-}
-
+  h1 {
+    font-size: 2.5em;
+  }
+  div#contents p {
+    line-height: 90%;
+  }
+  div.webinar {
+    margin: 2em 0;
+  }
 </style>
+
+
 <h1 id="resources">VEuPathDB Webinars</h1>
 
 <div class="static-content">
+
+<h3>Upcoming Webinars</h3><br>
 
 <div id="contents">
   <p><a href="#intro">Introduction to VEuPathDB resources</a></p>
@@ -24,8 +33,7 @@ div#contents p {
 </div>
 
 
-<h3>Upcoming Webinars</h3><br>
-<div>
+<div class="webinar">
 <a name="intro"></a>
 <b>Topic:</b> Introduction to VEuPathDB resources<br>
 <b>Date:</b> Thursday April 16th, 2020<br>
@@ -44,7 +52,7 @@ This webinar will introduce you to VEuPathDB resources and highlight some of the
 
 <hr>
 
-<div>
+<div class="webinar">
 <a name="browser"></a>
 <b>Topic:</b> Introduction to the genome browser in VEuPathDB<br>
 <b>Date:</b> Thursday April 23rd, 2020<br>
@@ -63,7 +71,7 @@ This webinar will introduce you to the genome browser in VEuPathDB resources. To
 
 <hr>
 
-<div>
+<div class="webinar">
 <a name="rnaseq"></a>
 <b>Topic:</b> Interpreting RNAseq data in the genome browser<br>
 <b>Date:</b> Thursday April 30th, 2020<br>
@@ -81,7 +89,7 @@ This webinar will guide you through the process of viewing RNA-seq coverage trac
 
 <hr>
 
-<div>
+<div class="webinar">
 <a name="apollo"></a>
 <b>Topic:</b> Manual gene annotation in Apollo<br>
 <b>Date:</b> Thursday May 7th, 2020<br>
@@ -99,7 +107,7 @@ This webinar will guide you through the process of updating and fixing gene mode
 
 <hr>
 
-<div>
+<div class="webinar">
 <a name="strategies"></a>
 <b>Topic:</b> Building search strategies in VEuPathDB<br>
 <b>Date:</b> Thursday May 14th, 2020<br>
@@ -119,7 +127,7 @@ This webinar will guide you through the process of building search strategies in
 
 <hr>
 
-<div>
+<div class="webinar">
 <a name="galaxy"></a>
 <b>Topic:</b> Running a Galaxy workflow and integrating data into VEuPathDB<br>
 <b>Date:</b> Thursday May 21st, 2020<br>
