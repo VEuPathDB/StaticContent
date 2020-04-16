@@ -39,8 +39,8 @@ tags: [general]
 <br>
 <hr>
 
+<div class="anchor"><a name="intro"></a></div>
 <div class="webinar">
-<a name="intro"></a>
 <b>Topic:</b> Introduction to VEuPathDB resources<br>
 <b>Date:</b> Thursday April 16th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
@@ -58,8 +58,8 @@ This webinar will introduce you to VEuPathDB resources and highlight some of the
 
 <hr>
 
+<div class="anchor"><a name="browser"></a></div>
 <div class="webinar">
-<a name="browser"></a>
 <b>Topic:</b> Introduction to the genome browser in VEuPathDB<br>
 <b>Date:</b> Thursday April 23rd, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
@@ -77,8 +77,8 @@ This webinar will introduce you to the genome browser in VEuPathDB resources. To
 
 <hr>
 
+<div class="anchor"><a name="rnaseq"></a></div>
 <div class="webinar">
-<a name="rnaseq"></a>
 <b>Topic:</b> Interpreting RNAseq data in the genome browser<br>
 <b>Date:</b> Thursday April 30th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
@@ -95,8 +95,8 @@ This webinar will guide you through the process of viewing RNA-seq coverage trac
 
 <hr>
 
+<div class="anchor"><a name="apollo"></a></div>
 <div class="webinar">
-<a name="apollo"></a>
 <b>Topic:</b> Manual gene annotation in Apollo<br>
 <b>Date:</b> Thursday May 7th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
@@ -113,8 +113,8 @@ This webinar will guide you through the process of updating and fixing gene mode
 
 <hr>
 
+<div class="anchor"><a name="strategies"></a></div>
 <div class="webinar">
-<a name="strategies"></a>
 <b>Topic:</b> Building search strategies in VEuPathDB<br>
 <b>Date:</b> Thursday May 14th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
@@ -133,8 +133,8 @@ This webinar will guide you through the process of building search strategies in
 
 <hr>
 
+<div class="anchor"><a name="galaxy"></a></div>
 <div class="webinar">
-<a name="galaxy"></a>
 <b>Topic:</b> Running a Galaxy workflow and integrating data into VEuPathDB<br>
 <b>Date:</b> Thursday May 21st, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
