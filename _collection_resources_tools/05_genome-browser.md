@@ -81,7 +81,7 @@ permalink: '#genome-browser'
   </section>
   <div class="search-strategies-feature--panels">
     <div>
-      <div>Data tracks that can be turned on or off from the select tracks section.</div>
+      <div>Data tracks that can be turned on or off from the select tracks tab.</div>
       <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/select_tracks.png" | absolute_url }}" alt="JBrowse select tracks"/>
     </div>
     <div>
@@ -93,7 +93,7 @@ permalink: '#genome-browser'
       <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/upload.png" | absolute_url }}" alt="JBrowse data upload"/>
     </div>
     <div>
-      <div>Search capabilities both with key words and regular expressions.</div>
+      <div>Search capabilities both with key words and regular expressions (select the add sequence search track shown in image above).</div>
       <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/jbrowse_search.png" | absolute_url }}" alt="JBrowse searches"/>
     </div>
   </div>

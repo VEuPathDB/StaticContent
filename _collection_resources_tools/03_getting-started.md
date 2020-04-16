@@ -25,7 +25,7 @@ VEuPathDB is packed with data, tools and visualizations that can help answer you
 
    </p>
 <b>SEARCH STRATEGY SYSTEM</b>: Discover meaningful biological relationships from large volumes of data<br>
-   <p class="indent">The strategy system offers over 100 structured searches that can be combined to produce multi-step strategies. Each search queries a specific data set and returns a list of records that share the biological characteristic defined by the data. To run a search, navigate to one from the Search For... menu, adjust the search parameters if desired, and then click Get Answer.  Your results are presented in the My Strategies section.  <br>
+   <p class="indent">The strategy system offers over 100 structured searches that can be combined to produce multi-step strategies. Each search queries a specific data set and returns a list of records that share the biological characteristic defined by the data. To run a search, navigate to one from the Search For... menu on the left, adjust the search parameters if desired, and then click Get Answer.  Your results are presented in the My Strategies section.  <br>
 
   <div style="display: flex; justify-content: center; align-items: center">  
      <iframe width="560" height="315" src="https://www.youtube.com/embed/rAXBKJicVL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
