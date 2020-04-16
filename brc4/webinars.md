@@ -4,17 +4,23 @@ title: VEuPathDB Webinars
 permalink: /webinars
 tags: [general]
 ---
+<style>
+div#contents p {
+  line-height: 90%;
+}
+
+</style>
 <h1 id="resources">VEuPathDB Webinars</h1>
 
 <div class="static-content">
 
 <div id="contents">
-<a href="#intro">Introduction to VEuPathDB resources</a>
-<a href="#browser">Introduction to the genome browser in VEuPathDB</a>
-<a href="#rnaseq">Interpreting RNAseq data in the genome browser</a>
-<a href="#apollo">Manual gene annotation in Apollo</a>
-<a href="#strategies">Building search strategies in VEuPathDB</a>
-<a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB</a>
+  <p><a href="#intro">Introduction to VEuPathDB resources</a></p>
+  <p><a href="#browser">Introduction to the genome browser in VEuPathDB</a></p>
+  <p><a href="#rnaseq">Interpreting RNAseq data in the genome browser</a></p>
+  <p><a href="#apollo">Manual gene annotation in Apollo</a></p>
+  <p><a href="#strategies">Building search strategies in VEuPathDB</a></p>
+  <p><a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB</a></p>
 </div>
 
 
