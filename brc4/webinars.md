@@ -28,7 +28,7 @@ tags: [general]
 <h3>Upcoming Webinars</h3><br>
 
 <div id="contents">
-  <p>Thursday April 16th, 2020: <a href="#intro">Introduction to VEuPathDB resources.</a></p>
+  <p><b>Thursday April 16th, 2020:</b> <a href="#intro">Introduction to VEuPathDB resources.</a></p>
   <p>Thursday April 23rd, 2020: <a href="#browser">Introduction to the genome browser in VEuPathDB.</a></p>
   <p>Thursday April 30th, 2020: <a href="#rnaseq">Interpreting RNAseq data in the genome browser.</a></p>
   <p>Thursday May 7th, 2020: <a href="#apollo">Manual gene annotation in Apollo.</a></p>
