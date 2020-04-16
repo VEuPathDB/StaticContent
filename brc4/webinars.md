@@ -29,11 +29,11 @@ tags: [general]
 
 <div id="contents">
   <p><b>Thursday April 16th, 2020:</b> <a href="#intro">Introduction to VEuPathDB resources.</a></p>
-  <p>Thursday April 23rd, 2020: <a href="#browser">Introduction to the genome browser in VEuPathDB.</a></p>
-  <p>Thursday April 30th, 2020: <a href="#rnaseq">Interpreting RNAseq data in the genome browser.</a></p>
-  <p>Thursday May 7th, 2020: <a href="#apollo">Manual gene annotation in Apollo.</a></p>
-  <p>Thursday May 14th, 2020: <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
-  <p>Thursday May 21st, 2020: <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
+  <p><b>Thursday April 23rd, 2020:</b> <a href="#browser">Introduction to the genome browser in VEuPathDB.</a></p>
+  <p><b>Thursday April 30th, 2020:</b> <a href="#rnaseq">Interpreting RNAseq data in the genome browser.</a></p>
+  <p><b>Thursday May 7th, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p>
+  <p><b>Thursday May 14th, 2020:</b> <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
+  <p><b>Thursday May 21st, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
 </div>
 
 <br>
