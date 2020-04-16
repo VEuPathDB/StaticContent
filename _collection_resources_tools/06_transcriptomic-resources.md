@@ -54,11 +54,11 @@ permalink: '#transcriptomic-resources'
    <a href="/a/app/search/transcript/GenesByRNASeqEvidence">All RNA-Seq Searches</a>&nbsp; &nbsp; &nbsp;
 </div>
 <div class="transcriptomic-resources-feature">
-<p class="card-text">VEuPathDB supports transcriptomic data mining from RNA sequence, microarray, and expressed seqeunce tags. We analyze pertinent data from your research community and make our analysis results available to you as:</p>
+<p class="card-text">VEuPathDB supports transcriptomic data mining from RNA sequence, microarray, and expressed sequence tags. We analyze pertinent data from your research community and make our analysis results available to you as:</p>
 
 <div class="transcriptomic-resources-feature--panels">
   <div>
-    <div>Tables, and graphs on gene pages.   </div>
+    <div>Tables and graphs on gene pages.   </div>
       <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/Transcript-Table-Graph.png" | absolute_url }}" alt="Searches"/><br/><br/>
   </div>
   <div>
@@ -69,7 +69,7 @@ permalink: '#transcriptomic-resources'
     <div>Searches that query individual RNA Seq or Microarray data sets and return a list of genes based on sample characteristics such as life cycle stage or treatment. Associated gene data can be added to the search result via the Add Columns tool.  We offer several query types including:
        <div style="margin-left: 3em;">
        <ul>
-         <li>differential expression (Fischer's exact test),</li>
+         <li>differential expression (Fisher's exact test),</li>
          <li>fold change (algebraic calculation),</li>
          <li>percentile rank within a sample,</li>
          <li>sense/antisense comparisons, and</li>
