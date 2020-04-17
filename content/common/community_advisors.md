@@ -22,7 +22,7 @@ Markus Meissner, Jeroen Saeij, Lilach Sheiner, Ross Waller, Michael White<br>
 <h3>Previous Scientific Working Group</h3>
 <br>
 
-VEuPathDB wishes to acknowledge previous scientific working group members. They provided regular feedback oversight and guidance.<br>
+VEuPathDB wishes to acknowledge previous scientific working group members. They provided regular feedback oversight and guidance.
 
 | | | |
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Lyric Bartholomay&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Michael Gottlieb&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Malcolm McConville&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;John Taylor&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
