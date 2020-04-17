@@ -20,7 +20,7 @@ Markus Meissner, Jeroen Saeij, Lilach Sheiner, Ross Waller, Michael White<br>
 <b>Trypanosoma/Kinetoplastids</b>: Fernan Aguero, Vivian Bellofatto, Richard Burchmore, George Cross, Angela Cruz, Antonio Estevez, Mark Field, Catarina Gadelha, Eva Gluenz,Keith Gull, John Kelly, Annette MacLeod, Jeremy Mottram, Torsten Ochsenreiter, Marc Ouellette, Barbara Papadopoulou, Laurie Read, Sergio Schenkman, Rick Tarleton, Brent Weatherly, Bill Wickstead, Michael (Mick) Urbaniak <br>
 <b>Vectors</b>: Gregory Dasch, Jeff Grabowski, María de Lourdes Muñoz, Monika Gulia-Nuss, Sukanya Narasimhan, Kristin Michel, Michael Povelones, Igor Sharakhov, Ronald van Rij, Rob Waterhouse
 <h3>Previous Scientific Working Group</h3>
-<br>
+<br><br>
 
 VEuPathDB wishes to acknowledge previous scientific working group members. They provided regular feedback oversight and guidance.
 
