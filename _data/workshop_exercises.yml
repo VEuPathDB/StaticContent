@@ -1,5 +1,5 @@
 cards:
-- card: Site Search
+  - card: Site Search
     description: Explore site search and learn how to filter your results or export them to a search strategy
     links:
       - name: Site Search
