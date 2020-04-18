@@ -1,4 +1,10 @@
 cards:
+- card: Site Search
+    description: Explore site search and learn how to filter your results or export them to a search strategy
+    links:
+      - name: Site Search
+        path: SiteSearch.pdf
+        description:
   - card: Genome Browser
     description: Basic tutorial on how to effectively explore data in the genome browser including track selection and configuration.
     links:
