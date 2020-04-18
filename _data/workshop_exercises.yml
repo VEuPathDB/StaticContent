@@ -1,6 +1,6 @@
 cards:
   - card: Genome Browser
-    description: Basic tutorial on how to effectively explore data in the genome browse including track selection and configuration.
+    description: Basic tutorial on how to effectively explore data in the genome browser including track selection and configuration.
     links:
       - name: Genome browser basics
         path: JBrowseBasics.pdf
