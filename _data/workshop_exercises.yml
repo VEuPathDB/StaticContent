@@ -3,7 +3,7 @@ cards:
     description: Select and configure a diversity of tracks
     links:
       - name: Genome browser basics
-        path: workshops/athens/2019/exercises/2_Browser_Exercises-I.pdf
+        path: JBrowseBasics.pdf
         description: 
   - card: RNA Sequencing Data Analysis
     description: Analyze your RNA experiments using a workflow in VEuPathDB Galaxy and import the results back here.
