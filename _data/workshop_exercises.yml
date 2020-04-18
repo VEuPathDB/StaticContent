@@ -3,9 +3,6 @@ cards:
     description: Select and configure a diversity of tracks
     links:
       - name: Genome browser basics
-        path: workshops/athens/2019/exercises/2_Browser_Exercises-I.pdf
-        description: 
-      - name: Genome browser basics2
         path: JBrowseBasics.pdf
         description:
   - card: RNA Sequencing Data Analysis
