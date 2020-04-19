@@ -11,6 +11,12 @@ cards:
       - name: Genome browser basics
         path: JBrowseBasics.pdf
         description:
+  - card: Regular expressions and colocation
+    description: Use regular expressions to identify protein or DNA patters. Use the colocation tool to identify DNA segments based on their relative location on the genome.
+    links:
+      - name: Regular expressions & genomic colocation
+        path: RegEx_colocate.pdf
+        description: 
   - card: RNA Sequencing Data Analysis
     description: Analyze your RNA experiments using a workflow in VEuPathDB Galaxy and import the results back here.
     links:
@@ -34,12 +40,6 @@ cards:
     links:
       - name: Orthology and phylogenetic profile searches
         path: workshops/athens/2019/exercises/Orthology_Phyletic_Patterns.pdf
-        description: 
-  - card: Motifs and Domains and colocation
-    description: Use motifs, domains and relative genome location to infer function and regulation
-    links:
-      - name: Motifs, domains and colocation
-        path: workshops/athens/2019/exercises/Motif%20Searches_RegularExpressions.pdf
         description: 
   - card: Functional Genomics
     description: Find genes using a diversity of functional genomics assays. 
