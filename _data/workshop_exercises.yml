@@ -11,7 +11,7 @@ cards:
       - name: Genome browser basics
         path: JBrowseBasics.pdf
         description:
-  - card: Regular expressions and colocation
+  - card: Regular expressions & colocation
     description: Use regular expressions to identify protein or DNA patters. Use the colocation tool to identify DNA segments based on their relative location on the genome.
     links:
       - name: Regular expressions & genomic colocation
