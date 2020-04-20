@@ -52,5 +52,5 @@ To contact any one of us please use the <a href="/a/app/contact-us">contact us f
 <sup>11</sup>Institute of Molecular Biology and Biotechnology-FORTH, Heraklion, Crete, Greece<br>
 <sup>12</sup>Harvard University, Cambridge, MA 02138, USA<br>
 <sup>13</sup>University of New Mexico, Albuquerque, NM 87131, USA<br>
-<sup>14</sup>Kampala, Uganda<br>
+<sup>14</sup>Makerere University and Infectious Diseases Research Collaboration (IDRC), Kampala, Uganda<br>
 </div>
