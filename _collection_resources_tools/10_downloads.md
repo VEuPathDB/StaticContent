@@ -1,5 +1,5 @@
 ---
-identifier: Downloads
+identifier: downloads
 listTitle: Downloads
 descriptionTitle: Downloads
 listIconKey: "cloud-download"
