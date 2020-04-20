@@ -52,7 +52,7 @@ permalink: '#submit-data'
 
 VEuPathDB integrates unpublished, pre-publication, and published genomic-scale datasets associated with the diverse eukaryotic microbes, fungi, vectors of human disease, and hosts. 
 
-While some data can be accepted directly from the provider (for example, proteomics data in Excel spreadsheets or population data with GPS coordinates), all sequence data such as genomes, RNA-Seq or ChiP-Seq data sets, must be available from an INSDC database (DDBJ, ENA, or GenBank).
+While some data can be accepted directly from the provider (for example, proteomics data in Excel spreadsheets or population data with GPS coordinates), all sequence data such as genomes, RNA-Seq or ChIP-Seq data sets, must be available from an INSDC database (DDBJ, ENA, or GenBank).
 
 Plan ahead and let us know of the data availability in advance to reserve your spot in the submission queue. We have data releases every two months and will get in contact with you once your data is scheduled for the release. 
 

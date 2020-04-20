@@ -89,7 +89,7 @@ permalink: '#genome-browser'
       <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/zooming.png" | absolute_url }}" alt="JBrowse zooming and panning"/>
     </div>
     <div>
-      <div>Uploading your own data tracks, such as RNAseq coverage data.</div>
+      <div>Uploading your own data tracks, such as RNA-Seq coverage data.</div>
       <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/upload.png" | absolute_url }}" alt="JBrowse data upload"/>
     </div>
     <div>
