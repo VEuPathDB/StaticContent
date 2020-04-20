@@ -5,7 +5,7 @@ descriptionTitle: Data Downloads
 listIconKey: "cloud-download"
 tags: [tutorial]
 title: Downloads
-permalink: '#download'
+permalink: '#downloads'
 category: [AmoebaDB,CryptoDB,FungiDB,GiardiaDB,HostDB,MicrosporidiaDB,PiroplasmaDB,PlasmoDB,SchistoDB,ToxoDB,TrichDB,TriTrypDB,VectorBase]
 ---
 <style>
