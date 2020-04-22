@@ -1,2 +1,2 @@
 /title: /a\
-category: [HostDB]
+category: [EuPathDB,VEuPathDB,HostDB]

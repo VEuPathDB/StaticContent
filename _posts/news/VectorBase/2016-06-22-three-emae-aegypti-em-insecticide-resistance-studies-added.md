@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Three <em>Ae. aegypti</em> insecticide resistance studies added
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1466617011
 ---
 <p>Three insecticide resistance papers have been added:

@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Culex pipiens quinquefasciatus taxonomy change
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1210132800
 ---
 The NCBI has decided to follow the near-unanimous consensus in the taxonomic literature and promoted the subspecies <i>Culex pipiens quinquefasciatus</i> to species level, as <i>Culex quinquefasciatus</i>. The NCBI taxid will remain the same (7176).

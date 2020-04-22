@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Driving Biological Projects
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1325384336
 ---
 VectorBase invited up to four research investigations called Driving Biological Projects (DBPs) from organizations housing experimental laboratories that had expertise and knowledge in working with arthropod vectors of human pathogens. A two page Letter of Intent (LOI) was followed by invited full proposals reviewed by the <a href="/swg">VectorBase Scientific Working Group (SWG)</a> and approved by NIAID. DBP proposals were required to include research that used high-throughput (HTP) experimental technologies to functionally characterize the genome, proteome or metabolome of vectors to help elucidate how genes, proteins and metabolites may be involved in pathogen transmission, resistance or susceptibility of vectors to control interventions, or other biological processes of interest in the study of the role of vectors in the transmission of human pathogens. HTP approaches that improved the usefulness and accessibility of VectorBase-hosted resources were especially encouraged, including those that addressed such issues as significant improvements in genome assembly, development of improved and better supported genome annotations, development of tools for population level analysis of vectors, and studies that established the molecular physiologies that underlie key phenotypes that characterize major vectors. 

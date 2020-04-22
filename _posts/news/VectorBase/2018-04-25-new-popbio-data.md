@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New PopBio data
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1524675860
 ---
 <p style="text-align:justify">Forty-one large (and small) datasets have been added to the Population Biology database, including abundance data from four counties in Florida, additional years of data from Southern Nevada, and entomological monitoring data from Uganda. In total 1.6 million new data records have been added, representing 16 million individual vector specimens.</p>

@@ -1,2 +1,2 @@
 /title: /a\
-category: [TrichDB]
+category: [EuPathDB,VEuPathDB,TrichDB]

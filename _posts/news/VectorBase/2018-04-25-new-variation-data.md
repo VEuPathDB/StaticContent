@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New variation data
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1524676332
 ---
 New variation data have been added for 

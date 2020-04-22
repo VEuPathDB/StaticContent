@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Updated An. gambiae gene set (AgamP3.6)
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1292216400
 ---
 We've incorporated another 500 community annotations to the <i>Anopheles gambiae</i> gene set! More precisely, the update has lead to:  

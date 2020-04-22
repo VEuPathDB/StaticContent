@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Microsatellites with a STRUCTURE export feature
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1512993044
 ---
 <li>We have introduced a new Export feature, called Export STRUCTURE, to enhance Search functionality, for which the exported CSV file can be used with the STRUCTURE software.</li>

@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Update to the C. quinquefasciatus gene set
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1336017600
 ---
 <p>The <b>Culex gene set (CpipJ1.3) been updated</b>, with integration of over 1,200 community submitted models. A small proportion of them (72) are new models, the rest being improvements to existing gene models. The total numbers of protein coding genes for this species is about 19,000. More details on the gene content on our <a href="/organisms/culex-quinquefasciatus/johannesburg-jhb/CpipJ1.3">Gene set page</a>.</p>

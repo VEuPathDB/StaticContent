@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Updated taxonomy for Culex
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1265864400
 ---
 <i>Culex pipiens quinquefasciatus</i> as been promoted from sub-species to  species, and is now called <i>Culex quinquefasciatus</i> .

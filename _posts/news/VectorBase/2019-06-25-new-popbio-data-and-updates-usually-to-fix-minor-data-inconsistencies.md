@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New PopBio data and updates (usually to fix minor data inconsistencies)
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1561471371
 ---
 <h3 class="title" style="border-bottom: 1px solid #D6DDB9;">Population Biology/Insecticide Resistance</h3>

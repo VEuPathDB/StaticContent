@@ -1,7 +1,7 @@
 ---
 categories: []
 title: 'Newsletter #9'
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1278648000
 ---
 Welcome to the<a href="/newsletters/issue-9"> 9th issue</a> of the VectorBase newsletter!<br><br>

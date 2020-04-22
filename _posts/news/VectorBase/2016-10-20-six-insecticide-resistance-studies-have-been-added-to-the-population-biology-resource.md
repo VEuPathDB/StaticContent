@@ -1,6 +1,6 @@
 ---
 title: Six insecticide resistance studies have been added to the population biology
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 ---
 <p>Data from six insecticide resistance papers have been added:
 <ul>

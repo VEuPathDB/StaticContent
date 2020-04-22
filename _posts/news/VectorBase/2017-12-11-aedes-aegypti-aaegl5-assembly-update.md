@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Aedes aegypti AaegL5 assembly update
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1512990881
 ---
 <ul>

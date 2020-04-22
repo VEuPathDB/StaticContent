@@ -1,7 +1,7 @@
 ---
 categories: []
 title: VectorBase team members among the six 2018 Ebbe Nielsen Challenge winners
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1540324624
 ---
 <h1>Six winners top the 2018 Ebbe Nielsen Challenge</h1>

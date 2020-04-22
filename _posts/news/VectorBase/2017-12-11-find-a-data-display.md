@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Find a Data Display
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1512993314
 ---
 <li>The <a href="https://www.vectorbase.org/navigation/tools">Tools</a> page has been updated to include resources within the tools. We invite you to take a look, most are not new but you may have not noticed them before. One of these is <a href="https://www.vectorbase.org/info/website/gallery.html">'Find a Data Display'</a>. 

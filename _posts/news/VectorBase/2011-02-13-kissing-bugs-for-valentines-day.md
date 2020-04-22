@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Kissing bugs for Valentine's Day!
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1297659600
 ---
 A preliminary data set for Rhodnius prolixus is included in the VB-2011-02 release:

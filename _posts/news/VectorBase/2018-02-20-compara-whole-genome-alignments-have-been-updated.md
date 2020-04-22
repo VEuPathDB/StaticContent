@@ -1,7 +1,7 @@
 ---
 categories: []
 title: 'Compara: whole genome alignments have been updated'
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1519154114
 ---
 Whole genome alignments have been updated for: 

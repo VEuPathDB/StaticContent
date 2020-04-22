@@ -1,7 +1,7 @@
 ---
 categories: []
 title: updates to the gene sets for 4 species
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1556039718
 ---
 In this release there were updates to the gene sets for 4 species based on community annotation: 

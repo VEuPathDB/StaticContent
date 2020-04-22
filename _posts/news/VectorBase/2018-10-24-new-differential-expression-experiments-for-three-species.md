@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New differential expression experiments for three species
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1540384970
 ---
 <p>

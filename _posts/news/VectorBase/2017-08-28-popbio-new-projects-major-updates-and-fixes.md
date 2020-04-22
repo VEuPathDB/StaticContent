@@ -1,7 +1,7 @@
 ---
 categories: []
 title: PopBio new projects, major updates and fixes
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1503952487
 ---
 Five insecticide resistance studies have been added to the population biology resource.

@@ -1,7 +1,7 @@
 ---
 categories: []
 title: HMMER Tools
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1196913600
 ---
 HMMER Build and Search are now available on VectorBase. This version of HMMER Search takes advantage of MPI code, allowing it to run its search on multiple machines at the same time. With our equipment, speed results are on the order of twenty times faster than the traditional version. All peptides and supercontigs databases are accessible for searching.

@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New RNA-seq differential expression studies added
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1471967409
 ---
 Four RNA-seq differential expression experiments have been added for mosquitoes:

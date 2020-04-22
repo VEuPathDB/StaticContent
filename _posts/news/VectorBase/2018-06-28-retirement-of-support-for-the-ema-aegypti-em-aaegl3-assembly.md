@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Retirement of support for the <em>A. aegypti</em> AaegL3 assembly.
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1530203369
 ---
 Retirement of support for the Aedes aegypti AaegL3 assembly.

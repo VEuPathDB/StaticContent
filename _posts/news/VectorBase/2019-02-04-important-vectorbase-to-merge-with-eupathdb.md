@@ -1,6 +1,6 @@
 ---
 title: IMPORTANT! VectorBase to merge with EupathDB
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 ---
 <p style="text-align:justify">Dear VectorBasers,
 

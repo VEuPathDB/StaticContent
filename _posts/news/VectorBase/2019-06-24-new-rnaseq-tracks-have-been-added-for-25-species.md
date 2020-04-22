@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New RNAseq tracks have been added for 25 species
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1561409012
 ---
 New RNAseq tracks have been added for 25 species: <a href="/organisms/aedes-aegypti"><i>Aedes aegypti</i></a>, 

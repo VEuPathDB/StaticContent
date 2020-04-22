@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New I. scapularis genomic data available
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1188878400
 ---
 ~19 million genomic trace reads and ~370,000 BAC end sequences from the <i>Ixodes scapularis</i> genome project are now available.

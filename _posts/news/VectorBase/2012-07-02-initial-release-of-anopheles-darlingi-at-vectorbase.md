@@ -1,6 +1,6 @@
 ---
 title: Initial release of Anopheles darlingi at VectorBase
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 ---
 <p>
 The <i>Anopheles darlingi</i> genome and annotations have been included in the VB-2012-06 release:

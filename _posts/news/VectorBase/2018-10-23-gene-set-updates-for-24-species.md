@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Gene set updates for 24 species
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1540333718
 ---
 We have updates to the gene sets for 24 species based on community annotation: <i>

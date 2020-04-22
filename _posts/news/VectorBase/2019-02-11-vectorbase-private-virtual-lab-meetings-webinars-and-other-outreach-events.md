@@ -1,6 +1,6 @@
 ---
 title: VectorBase private virtual lab meetings, webinars and other outreach events
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 ---
 <p style="text-align:justify">Dear VectorBasers,
 

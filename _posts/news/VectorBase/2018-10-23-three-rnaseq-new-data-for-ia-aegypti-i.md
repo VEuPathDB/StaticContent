@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Three RNAseq new data for <i>A. aegypti</i>
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1540334034
 ---
 Three RNA-Seq new track hubs for <i>Aedes aegypti</i> related to Zika and Dengue viruses:

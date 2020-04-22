@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New RNAseq differential expression experiments
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1524676761
 ---
 These four new differential expression datasets have been added: 

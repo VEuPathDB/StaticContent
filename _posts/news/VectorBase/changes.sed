@@ -1,2 +1,2 @@
 /title: /a\
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]

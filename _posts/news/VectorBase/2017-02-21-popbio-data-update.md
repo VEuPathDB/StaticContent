@@ -1,7 +1,7 @@
 ---
 categories: []
 title: PopBio data update
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1487711719
 ---
 <p>PopBio has 10 new datasets (and eight updated to improve data consistency):</p>

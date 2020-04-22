@@ -1,7 +1,7 @@
 ---
 categories: []
 title: 24 New Population Biology projects
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1540385117
 ---
 <h3 class="title" style="border-bottom: 1px solid #D6DDB9;">Population Biology</h3>

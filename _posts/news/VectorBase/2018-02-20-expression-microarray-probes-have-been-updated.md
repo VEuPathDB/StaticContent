@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Expression microarray probes have been updated
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1519154342
 ---
 Expression microarray probes have been updated for

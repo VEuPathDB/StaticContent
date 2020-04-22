@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Stage two Population Data beta testing
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1234843200
 ---
 We have recently completed  <a href="/popbio">Stage 1 of this population genomics database</a>

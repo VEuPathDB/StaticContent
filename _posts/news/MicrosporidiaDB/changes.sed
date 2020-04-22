@@ -1,2 +1,2 @@
 /title: /a\
-category: [MicrosporidiaDB]
+category: [EuPathDB,VEuPathDB,MicrosporidiaDB]

@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Rhodnius prolixus preliminary gene set RproC1.0
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1320120000
 ---
 A preliminary 0.5 data set for <a href="/organisms/rhodnius-prolixus"><em>Rhodnius prolixus</em></a> is included in the VB-2011-10 release: 

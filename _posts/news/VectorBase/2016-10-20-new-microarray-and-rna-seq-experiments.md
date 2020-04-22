@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New microarray and RNA-seq experiments
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1476971437
 ---
 <p align="justify">Two microarray and two RNA-seq experiments have been added to the expression browser for <i>Ixodes scapularis</i>, <i>Aedes aegypti</i> and <i>Anopheles gambiae</i>. These four new differential expression experiments are:

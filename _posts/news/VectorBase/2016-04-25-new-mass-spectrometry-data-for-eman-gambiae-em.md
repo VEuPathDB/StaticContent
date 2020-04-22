@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New mass spectrometry data for <em>An. gambiae</em>
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1461612646
 ---
 In addition to the previous mass spectrometry experiments (<a href="http://www.ncbi.nlm.nih.gov/pubmed/21795387">Chaerkady et al. 2011</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/23986098/">Rund et al. 2013</a> and <a href="https://www.vectorbase.org/dataset/champion-et-al-2015-anopheles-gambiae-mass-spec-peptides">Champion et al. 2015</a>), in this release we have added data from four more publications, 

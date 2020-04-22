@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New PopBio data
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1512995933
 ---
 <p>Ten new insecticide resistance projects have been added to PopBio and a beta/prototype <a href="/popbio/map/?view=geno">genotype view</a> is available for testing. This shows allele frequencies for commonly assayed variant loci such as kdr and Ace1.</p>

@@ -1,7 +1,7 @@
 ---
 categories: []
 title: 'Newsletter #7'
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1255060800
 ---
 The <a href="/newsletters/issue-7">7th issue</a> of the VectorBase newsletter is now available. It is accessible on-line and in PDF from the <a href="/newsletters">Newsletter Page</a>. You can also subscribe to the Newsletter mailing list to receive it directly in your mail box.

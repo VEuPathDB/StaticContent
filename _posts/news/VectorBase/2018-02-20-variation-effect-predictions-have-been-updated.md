@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Variation effect predictions have been updated
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1519154277
 ---
 Variation effect predictions have been updated for 

@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New An. gambiae gene build
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1186545600
 ---
 VectorBase has moved to the new AgamP3.4 gene build. It incorporates improved models (including manually annotated genes) and changes gene identifiers from the EnsEMBL naming convention (ENSANG*) to the VectorBase naming convention (AGAP*).

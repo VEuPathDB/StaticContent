@@ -1,6 +1,6 @@
 ---
 title: Four new differential expression experiments added
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 ---
 New experiments processed and added to the <a href="/expression-browser">expression browser</a>: <br><ul>
 <li>

@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Updated Rhodnius prolixus gene set
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1337140800
 ---
 <p>An enhanced gene build for <a href="/organisms/rhodnius-prolixus"><em>Rhodnius prolixus</em></a> has been included as part of the VB-2012-04 release.  The high number of transcripts has been reduced.</p>
