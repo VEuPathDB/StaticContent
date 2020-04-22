@@ -17,30 +17,36 @@ cards:
       - name: Regular expressions & genomic colocation
         path: RegEXcolocate.pdf
         description: 
-  - card: RNA Sequencing Data Analysis
-    description: Analyze your RNA experiments using a workflow in VEuPathDB Galaxy and import the results back here.
+  - card: New Exercises and Tutorials will be added regularly to this section
+    description:
     links:
-      - name: Analyzing RNAseq data in VEuPathDB Galaxy (Part 1)
-        path: workshops/athens/2019/exercises/RNAseq_Mapping_Galaxy_1.pdf
-        description: 
-      - name: Analyzing RNAseq data in VEuPathDB Galaxy (Part 2)
-        path: workshops/athens/2019/exercises/RNAseq_mapping_Galaxy2.pdf
-        description: pdf (for the icon)
-  - card: Variant Calling
-    description:  Analyze DNA sequence for variants using a workflow in VEuPathDB Galaxy 
-    links:
-      - name: Variant calling in VEuPathDB galaxy (Part 1)
-        path: workshops/athens/2019/exercises/Variant_Calling_Galaxy1.pdf
-        description: 
-      - name: Variant calling in VEuPathDB galaxy (Part 2)
-        path: workshops/athens/2019/exercises/Variant_Calling_Galaxy2.pdf
-        description: 
-  - card: Orthology and phylogenetics
-    description: Use orthology to infer function and cross-species relationships
-    links:
-      - name: Orthology and phylogenetic profile searches
-        path: workshops/athens/2019/exercises/Orthology_Phyletic_Patterns.pdf
-        description: 
+      - name: 
+        path: 
+        description:       
+ # - card: RNA Sequencing Data Analysis
+ #   description: Analyze your RNA experiments using a workflow in VEuPathDB Galaxy and import the results back here.
+ #   links:
+ #     - name: Analyzing RNAseq data in VEuPathDB Galaxy (Part 1)
+ #       path: workshops/athens/2019/exercises/RNAseq_Mapping_Galaxy_1.pdf
+ #       description: 
+ #     - name: Analyzing RNAseq data in VEuPathDB Galaxy (Part 2)
+ #       path: workshops/athens/2019/exercises/RNAseq_mapping_Galaxy2.pdf
+ #       description: pdf (for the icon)
+ # - card: Variant Calling
+ #   description:  Analyze DNA sequence for variants using a workflow in VEuPathDB Galaxy 
+ #   links:
+ #     - name: Variant calling in VEuPathDB galaxy (Part 1)
+ #       path: workshops/athens/2019/exercises/Variant_Calling_Galaxy1.pdf
+ #       description: 
+ #     - name: Variant calling in VEuPathDB galaxy (Part 2)
+ #       path: workshops/athens/2019/exercises/Variant_Calling_Galaxy2.pdf
+ #       description: 
+ # - card: Orthology and phylogenetics
+ #   description: Use orthology to infer function and cross-species relationships
+ #   links:
+ #     - name: Orthology and phylogenetic profile searches
+ #       path: workshops/athens/2019/exercises/Orthology_Phyletic_Patterns.pdf
+ #       description: 
  # - card: Functional Genomics
  #   description: Find genes using a diversity of functional genomics assays. 
  #   links:
