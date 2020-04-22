@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Differential expression data added for 4 species
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1508961074
 ---
 <p>

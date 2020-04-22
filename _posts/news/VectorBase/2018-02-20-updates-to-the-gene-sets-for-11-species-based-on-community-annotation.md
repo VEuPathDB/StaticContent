@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Updates to the gene sets for 11 species based on community annotation
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1519153264
 ---
 Updates to the gene sets for 11 species based on community annotation with 	<a href="/apollo">Apollo</a> : <i>

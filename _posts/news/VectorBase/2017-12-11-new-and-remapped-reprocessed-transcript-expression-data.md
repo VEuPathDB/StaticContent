@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New and remapped/reprocessed transcript expression data
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1512993902
 ---
 <li>Three new differential expression experiments have been added to the expression browser, including the first expression data in VectorBase for <i>Glossina</i> :

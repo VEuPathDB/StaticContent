@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Glossina morsitans genome pre-released
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1308082075
 ---
 The latest VectorBase release (VB-2011-06) contains preliminary data for the <em>Glossina morsitans</em> genome:

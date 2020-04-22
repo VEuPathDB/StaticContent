@@ -1,6 +1,6 @@
 ---
 title: Recently announced federal funding opportunities
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 ---
 Recently announced federal funding opportunities:
 

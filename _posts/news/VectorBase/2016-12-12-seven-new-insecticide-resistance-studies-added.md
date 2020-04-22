@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Seven new insecticide resistance studies added
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1481561673
 ---
 <ul>

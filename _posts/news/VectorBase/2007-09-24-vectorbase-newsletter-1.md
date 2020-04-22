@@ -1,7 +1,7 @@
 ---
 categories: []
 title: 'VectorBase Newsletter #1'
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1190692800
 ---
 The inaugural VectorBase newsletter is <a href="/newsletters/issue-1">available</a>. The newsletter will be published every quarter bringing you an update on new data and tools available through the VectorBase site.

@@ -1,6 +1,6 @@
 ---
 title: New population biology datasets available (in PopBio)
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 ---
 Ten new population biology datasets are available:
 

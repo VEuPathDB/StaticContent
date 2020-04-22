@@ -1,2 +1,2 @@
 /title: /a\
-category: [PiroplasmaDB]
+category: [EuPathDB,VEuPathDB,PiroplasmaDB]

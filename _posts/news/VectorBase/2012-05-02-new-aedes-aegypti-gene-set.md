@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New Aedes aegypti gene set
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1336017600
 ---
 <p>A <b>new <em>Aedes aegypti</em> gene set</b> (AaegL1.3) has just been released. It is a patch to the previous one, with the incorporation of about 50 community genes: 10 are new genes, the others are improvement to existing gene models. The total number of protein coding genes for this organism is slightly below 16,000. 

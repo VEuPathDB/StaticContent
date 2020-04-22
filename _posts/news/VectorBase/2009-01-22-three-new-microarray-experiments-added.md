@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Three new microarray experiments added
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1232683200
 ---
 Three new experiments are now available in the VectorBase Gene Expression resource:

@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Three new assemblies
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1561408730
 ---
 <ul>

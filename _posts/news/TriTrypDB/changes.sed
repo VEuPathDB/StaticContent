@@ -1,2 +1,2 @@
 /title: /a\
-category: [TriTrypDB]
+category: [EuPathDB,VEuPathDB,TriTrypDB]

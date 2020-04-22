@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New RNAseq data for 7 species
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1508960781
 ---
 New RNAseq data have been added as track hubs in this release for 

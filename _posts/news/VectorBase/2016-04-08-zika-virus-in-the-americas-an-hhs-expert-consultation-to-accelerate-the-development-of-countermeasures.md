@@ -1,6 +1,6 @@
 ---
 title: 'Zika Virus in the Americas: An HHS Expert Consultation to Accelerate the Developmen of Countermeasures'
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 ---
 <p>March 28-29, 2016
 <p>Bethesda North Marriott Hotel and Conference Center

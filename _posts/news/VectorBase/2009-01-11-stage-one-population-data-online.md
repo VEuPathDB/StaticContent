@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Stage one Population Data online
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1231732800
 ---
 In October 2008 VectorBase initiated a plan for the development of a web-based data repository for information about the population genomics of invertebrate vectors of human disease. This endeavor is being pursued via a subcontract with Dr. Gregory C. Lanzaro, University of California-Davis and Dr. Charles E. Taylor, University of California-Los Angeles.  Development of this new functionality of VectorBase will begin with a population genomics database for <i>Anopheles gambiae</i>, now available at <a href="/popbio">VectorBase</a>.

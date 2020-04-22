@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New An. gambiae gene set update
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1252987200
 ---
 A new <i>Anopheles gambiae</i> gene set, AgamP3.5, is available.

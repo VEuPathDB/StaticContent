@@ -1,7 +1,7 @@
 ---
 categories: []
 title: 'In memory of Fotis C. Kafatos: 1940-2017'
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1511192546
 ---
 <img style="padding-left:10px" src="/sites/default/files/ftp/styles/slideshow_348/public/fotis348.jpg" width="174" height="152" align="right">It is with great sadness that we mark the passing of Fotis C. Kafatos on 18 November 2017 in Heraklion, Crete.

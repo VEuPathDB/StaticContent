@@ -1,7 +1,7 @@
 ---
 categories: []
 title: VectorBase New Year's Resolution!
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1389805412
 ---
 <p>Dear VectorBase users,</p>

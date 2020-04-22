@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New insecticide resistance papers added
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1471967536
 ---
 <p>Five insecticide resistance papers have been added:

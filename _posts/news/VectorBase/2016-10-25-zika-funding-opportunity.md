@@ -1,6 +1,6 @@
 ---
 title: Zika funding opportunity
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 ---
 <p align="justify">The CDC are soliciting applications for activities that relate to Zika vector control, epidemiology and surveillance as well as Zika pregnancy. The total amount available is expected to be approximately $70-120 millions. Funds will be awarded from January 1, 2017 to July 31, 2017. 
 

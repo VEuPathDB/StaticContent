@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Repeat features have been updated for all species
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1481562448
 ---
 Repeat features have been updated for all species with the following improvements:

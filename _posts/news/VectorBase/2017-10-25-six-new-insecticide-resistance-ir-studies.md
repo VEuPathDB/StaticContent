@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Six new insecticide resistance (IR) studies
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1508961299
 ---
 <p>

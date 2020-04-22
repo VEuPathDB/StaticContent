@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Ixodes Community Annotation - a chance to get involved.
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1215748800
 ---
 VectorBase encourages community scientists to contribute to the Ixodes annotation effort through submission of their own gene models. Community-generated gene models will be displayed as a separate manual annotation track in the Ixodes Genome Browser. Community annotations will also be considered for incorporation into the final Ixodes gene set, which is targeted for release at Vectorbase and GenBank in a few months.  

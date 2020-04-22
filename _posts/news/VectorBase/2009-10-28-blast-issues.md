@@ -1,7 +1,7 @@
 ---
 categories: []
 title: BLAST issues
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1256788800
 ---
 We are aware the there are some issues with our BLAST tool at the moment.

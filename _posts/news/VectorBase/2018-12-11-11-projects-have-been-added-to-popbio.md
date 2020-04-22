@@ -1,7 +1,7 @@
 ---
 categories: []
 title: 11 projects have been added to PopBio
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1544560420
 ---
 The projects added include the first biochemical insecticide resistance assay and the first "barcoded" samples data added to PopBio. The 11 new projects are:

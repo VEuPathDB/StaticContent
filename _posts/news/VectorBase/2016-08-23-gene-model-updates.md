@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Gene model updates
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1471967603
 ---
 For this August release (VB-2016-08) the gene model updates include three species: 

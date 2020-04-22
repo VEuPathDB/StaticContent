@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Driving Biological Projects (DBPs) funded through the 2011 call for proposals
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1345155979
 ---
 <p>The  2011 DBP call will fund the following proposals:</p>

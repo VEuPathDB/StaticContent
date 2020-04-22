@@ -1,7 +1,7 @@
 ---
 categories: []
 title: An. gambiae expression data downloads
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1236312000
 ---
 Just added to VectorBase's download section: tab delimited text files containing gene-averaged expression data for all <i>Anopheles gambiae</i> genes.  This data is identical to that shown on the gene expression report pages.

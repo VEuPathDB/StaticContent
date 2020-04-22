@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Gene description projections
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1476971374
 ---
 Gene description projections have been performed one-to-many orthologs from

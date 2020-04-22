@@ -1,6 +1,6 @@
 ---
 title: Updates to the gene sets for 7 species
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 ---
 <p style="text-align:justify">
 In this February release there were updates to the gene sets for 7 species based on community annotation:  

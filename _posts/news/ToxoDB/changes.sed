@@ -1,2 +1,2 @@
 /title: /a\
-category: [ToxoDB]
+category: [EuPathDB,VEuPathDB,ToxoDB]

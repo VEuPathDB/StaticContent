@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Rhodnius genome project announcement
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1166500800
 ---
 Janiero with participants from Canada, USA, Brazil, Argentina and Uruguay. At this meeting a Steering Committee to oversee and coordinate the Genome Project and work with John Spieth ( Washington U Genome Sequencing Center) to accomplish the goals of the White Paper. The Steering Committee consists of Erwin Huebner (Coordinator), Antonio Bernardo de Carvalho , Ellen Dotson, Carl Lowenberger, Fernando Monteiro, Pedro  Oliveira, Francisco Panzera and Rolando Rivera Pomar. Other sub-committees were also established which will become more active once the genome project progresses further.<br/> 

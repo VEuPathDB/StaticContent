@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Forthcoming Aedes population genomics data
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1508949179
 ---
 Microsatellite/SNP data corresponding to the forthcoming publication accepted in the American Journal of Tropical Medicine & Hygiene

@@ -1,7 +1,7 @@
 ---
 categories: []
 title: The Photography of Jim Gathany
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1487652751
 ---
 <h1>A lens on CDC: The Photographs of Jim Gathany</h1>

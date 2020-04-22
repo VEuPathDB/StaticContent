@@ -1,7 +1,7 @@
 ---
 categories: []
 title: support for the Aedes aegypti L3 genome assembly will be discontinued
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1544560974
 ---
 As noted in the VectorBase <a href="https://www.vectorbase.org/release/release-vb-2018-06">June 2018 release notes</a> support for the Aedes aegypti L3 genome assembly will be discontinued after this release. The <a href="http://metazoa.ensembl.org/index.html">Ensembl Genomes</a> site continues to host the old VectorBase AaegL3 <a href="http://metazoa.ensembl.org/Aedes_aegypti/Info/Index">browser</a> and <a href="http://metazoa.ensembl.org/biomart/martview/ba322d4847317dad207ef0cf2f80b9a0">BioMart</a> instance, but these resources will also be discontinued by Ensembl in early 2019. VectorBase continues to provide a number of other resources to help with the transition between assemblies and older gene sets.

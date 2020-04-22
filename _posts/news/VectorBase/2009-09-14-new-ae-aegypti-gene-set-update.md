@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New Ae. aegypti gene set update
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1252987200
 ---
 A new <i>Aedes aegypti</i> gene set, AaegL1.2, is now accessible.

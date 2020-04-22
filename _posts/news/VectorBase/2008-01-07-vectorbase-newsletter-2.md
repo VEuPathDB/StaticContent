@@ -1,7 +1,7 @@
 ---
 categories: []
 title: 'VectorBase Newsletter #2'
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1199764800
 ---
 The <a href="/newsletters/issue-2">2nd issue</a> of the VectorBase newsletter is available. Come and check the new data and tools that are available through the VectorBase site!

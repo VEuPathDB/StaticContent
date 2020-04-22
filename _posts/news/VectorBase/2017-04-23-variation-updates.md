@@ -1,5 +1,5 @@
 ---
 title: Variation updates
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 ---
 Variation consequence effects have been updated for all species.

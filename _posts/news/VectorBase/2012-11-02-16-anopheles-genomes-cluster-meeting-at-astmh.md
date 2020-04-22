@@ -1,7 +1,7 @@
 ---
 categories: []
 title: 16 Anopheles Genomes Cluster Meeting at ASTMH
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1351877146
 ---
 You are cordially invited to attend a public forum regarding the status of the 16 Anopheles Genomes Cluster project to be held in conjunction with the upcoming ASTMH meeting in Atlanta:

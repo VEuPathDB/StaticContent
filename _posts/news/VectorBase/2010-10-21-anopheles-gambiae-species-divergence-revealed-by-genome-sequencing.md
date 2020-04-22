@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Anopheles gambiae species divergence revealed by genome sequencing
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1287720000
 ---
 Genome sequencing of the M & S molecular forms of <i>Anopheles gambiae</i> were published today showing that speciation is more advanced than previously thought. This greater divergence between the genomes has highlights the need to identify those genes critical for initiating this process. A companion paper describes the development of a SNP genotyping platform for investigating gene flow between the incipient species.

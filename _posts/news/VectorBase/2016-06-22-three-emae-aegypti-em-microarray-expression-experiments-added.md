@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Three <em>Ae. aegypti</em> microarray expression experiments added
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1466616716
 ---
 We have new data for three microarray experiments performed in <i>Ae. aegypti</i>:

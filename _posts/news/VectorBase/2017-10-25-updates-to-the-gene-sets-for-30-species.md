@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Updates to the gene sets for 30 species
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1508960226
 ---
 <p>In this release there were updates to the gene sets for 30 species based on community annotation ( <i>

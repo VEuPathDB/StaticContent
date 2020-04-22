@@ -1,7 +1,7 @@
 ---
 categories: []
 title: New differential expression RNA-seq datasets
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1503952140
 ---
 Three differential expression RNA-seq datasets have been added to the expression browser.

@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Fall VectorBase Announcements
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1164772800
 ---
 <table border="0" cellspacing="0" cellpadding="2" width="100%">

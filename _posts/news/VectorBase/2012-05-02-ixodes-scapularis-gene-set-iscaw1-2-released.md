@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Ixodes scapularis gene set IscaW1.2 released
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1336017600
 ---
 <p>

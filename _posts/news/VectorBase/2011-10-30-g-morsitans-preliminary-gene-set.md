@@ -1,7 +1,7 @@
 ---
 categories: []
 title: G. morsitans preliminary gene set
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1320033600
 ---
 The <i>Glossina morsitans</i> 0.5 gene set is now available!

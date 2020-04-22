@@ -1,7 +1,7 @@
 ---
 categories: []
 title: Anopheles atroparvus AatrE2 assembly update
-category: [VectorBase]
+category: [EuPathDB,VEuPathDB,VectorBase]
 created: 1512992341
 ---
 <ul>
