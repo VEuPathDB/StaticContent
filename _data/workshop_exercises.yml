@@ -2,8 +2,8 @@ cards:
   - card: New Exercises and Tutorials will be added regularly
     description: We continue to expand our repertoire of exercises on a regular basis. Visit this section regularly to explore to training material.
     links:
-      - name:
-        path:
+      - name: ''
+        path: ''
         description:
   - card: Site Search
     description: Explore site search and learn how to filter your results or export them to a search strategy
