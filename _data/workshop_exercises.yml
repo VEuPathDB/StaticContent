@@ -41,10 +41,10 @@ cards:
       - name: Orthology and phylogenetic profile searches
         path: workshops/athens/2019/exercises/Orthology_Phyletic_Patterns.pdf
         description: 
-  - card: Functional Genomics
-    description: Find genes using a diversity of functional genomics assays. 
-    links:
-      - name: Functional genomics exercises
-        path: workshops/athens/2019/exercises/FunctionalGenomicsI.pdf
-        description:
+ # - card: Functional Genomics
+ #   description: Find genes using a diversity of functional genomics assays. 
+ #   links:
+ #     - name: Functional genomics exercises
+ #       path: workshops/athens/2019/exercises/FunctionalGenomicsI.pdf
+ #       description:
 
