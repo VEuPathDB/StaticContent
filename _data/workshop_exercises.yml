@@ -16,13 +16,7 @@ cards:
     links:
       - name: Regular expressions & genomic colocation
         path: RegEXcolocate.pdf
-        description: 
-  - card: New Exercises and Tutorials will be added regularly
-    description: We continue to expand our repertoire of exercises on a regular basis. Visit this section regularly to explore to training material.
-    links:
-      - name:
-        path:
-        description:          
+        description:           
  # - card: RNA Sequencing Data Analysis
  #   description: Analyze your RNA experiments using a workflow in VEuPathDB Galaxy and import the results back here.
  #   links:
