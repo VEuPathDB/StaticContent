@@ -29,7 +29,7 @@ tags: [general]
 
 <div id="contents">
   
-  <p><b>Thursday April 23rd, 2020:</b> <a href="#browser">Introduction to the genome browser in VEuPathDB.</a></p>
+  
   <p><b>Thursday April 30th, 2020:</b> <a href="#rnaseq">Interpreting RNAseq data in the genome browser.</a></p>
   <p><b>Thursday May 7th, 2020:</b> <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
   <p><b>Thursday May 14th, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
@@ -39,30 +39,14 @@ tags: [general]
   <h3>Previous Webinars</h3><br>
   <div id="contents">
   If you missed any of our previous webinars feel free to explore the free recordings:<br>
+  <p><b>Thursday April 23rd, 2020:</b> <a href="#browser">Introduction to the genome browser in VEuPathDB.</a></p>
 <p><b>Thursday April 16th, 2020:</b> <a href="#intro">Introduction to VEuPathDB resources.</a></p>
   </div>
 
 <br>
 
 
-<hr>
 
-<div class="anchor"><a name="browser"></a></div>
-<div class="webinar">
-<b>Topic:</b> Introduction to the genome browser in VEuPathDB<br>
-<b>Date:</b> Thursday April 23rd, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/615670842729855757">https://attendee.gotowebinar.com/register/615670842729855757</a> <br>
-<b>Additional Details:</b> <br>
-This webinar will introduce you to the genome browser in VEuPathDB resources. Topics covered will include:<br>
-<ul>
-<li>How to get started with JBrowse</li>
-<li>How to add tracks</li>
-<li>How to search in JBrowse</li>
-<li>How to move around</li>
-<li>How to load your own data</li>
-</ul>
-</div>
 
 <hr>
 
@@ -134,6 +118,26 @@ This webinar will guide you through the process of updating and fixing gene mode
 <div>
 <div class="webinar">
 <h3>Previous Webinars</h3><br>
+
+
+<hr>
+
+<div class="anchor"><a name="browser"></a></div>
+<div class="webinar">
+<b>Topic:</b> Introduction to the genome browser in VEuPathDB<br>
+<b>Date:</b> Thursday April 23rd, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/GfV1LrycO7Y">https://youtu.be/GfV1LrycO7Y</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will introduce you to the genome browser in VEuPathDB resources. Topics covered will include:<br>
+<ul>
+<li>How to get started with JBrowse</li>
+<li>How to add tracks</li>
+<li>How to search in JBrowse</li>
+<li>How to move around</li>
+<li>How to load your own data</li>
+</ul>
+</div>
 <hr>
 
 <div class="anchor"><a name="intro"></a></div>
