@@ -1,6 +1,6 @@
 ---
-permalink: /newglossary
-tags: [general2]
+permalink: /glossary
+tags: [general]
 title: VEuPathDB glossary
 ---
 <style>
@@ -13,7 +13,7 @@ ul.glossary li {
 }
 ul.glossary li div.item-term {
   margin: 1em 0;
-  font-weight: 500;
+  font-weight: bold;
 }
 
 </style>
@@ -21,6 +21,8 @@ ul.glossary li div.item-term {
 <h1>VEuPathDB Glossary</h1>
 
 <div class="static-content">
+
+<p>Please check the <a href="https://www.genome.gov/genetics-glossary" target="_blank">NCBI glossary</a></p>
 
 <ul class="glossary">
   {% for item in site.data.glossary %}
