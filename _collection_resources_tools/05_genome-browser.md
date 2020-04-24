@@ -6,6 +6,7 @@ descriptionTitle: "Genome Browser"
 tags: [tutorial]
 title: "Genome Browser"
 permalink: '#genome-browser'
+category: [AmoebaDB,CryptoDB,FungiDB,GiardiaDB,HostDB,MicrosporidiaDB,PiroplasmaDB,PlasmoDB,SchistoDB,ToxoDB,TrichDB,TriTrypDB,VectorBase]
 ---
 <style>
   .search-strategies-feature {
