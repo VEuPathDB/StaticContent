@@ -1,43 +1,71 @@
 AmoebaDB:
+  webapp: amoeba
   geneId: NF0067790
   gbrowseTrack: blablabla
+  organism: Acanthamoeba castellanii str. Neff
 CryptoDB:
+  webapp: cryptodb
   geneId: PF3D7_1133400
   gbrowseTrack: ExpressionGraphs
+  organism: Chromera velia CCMP2878
 FungiDB:
+  webapp: fungidb
   geneId: PF3D7_1133400
   gbrowseTrack: ExpressionGraphs
+  organism: Albugo candida 2VRR
 GiardiaDB:
+  webapp: giardiadb
   geneId: PF3D7_1133400
   gbrowseTrack: ExpressionGraphs
+  organism: Giardia Assemblage A isolate WB
 HostDB:
+  webapp: hostdb
   geneId: PF3D7_1133400
   gbrowseTrack: ExpressionGraphs
+  organism: Bos taurus breed Hereford
 MicrosporidiaDB:
+  webapp: micro
   geneId: PF3D7_1133400
   gbrowseTrack: ExpressionGraphs
+  organism: Amphiamblys sp. WSBS2006
 PiroplasmaDB:
+  webapp: piro
   geneId: PF3D7_1133400
   gbrowseTrack: ExpressionGraphs
+  organism: Babesia bigemina strain BOND
 PlasmoDB:
+  webapp: plasmo
   geneId: PF3D7_1133400
   gbrowseTrack: ExpressionGraphs
+  organism: Plasmodium falciparum 3D7
 SchistoDB:
+  webapp: schisto
   geneId: PF3D7_1133400
   gbrowseTrack: ExpressionGraphs
+  organism: Schistosoma haematobium Egypt
 ToxoDB:
+  webapp: toxo
   geneId: TGME49_239250
   gbrowseTrack: ExpressionGraphs
+  organism: Cyclospora cayetanensis isolate NF1_C8
 TrichDB:
+  webapp: trichdb
   geneId: PF3D7_1133400
   gbrowseTrack: ExpressionGraphs
+  organism: Trichomonas vaginalis G3
 TriTrypDB:
+  webapp: tritrypdb
   geneId: PF3D7_1133400
   gbrowseTrack: ExpressionGraphs
+  organism: Blechomonas ayalai B08-376
 VectorBase:
+  webapp: vectorbase
   geneId: AALB009782
   gbrowseTrack: ExpressionGraphs
+  organism:
 VEuPathDB:
+  webapp: veupathdb
   geneId: AALB009782
   gbrowseTrack: ExpressionGraphs
+  organism: Aedes albopictus Foshan
  

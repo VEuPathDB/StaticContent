@@ -1,8 +1,3 @@
----
-permalink: /webServices
-tags: [tutorial]
-title: VEuPathDB web services
----
 <style>
 .container {
   display: flex;
@@ -14,6 +9,10 @@ title: VEuPathDB web services
   flex: 1; margin-left: 0;
 }
 </style>
+
+{% assign project  = include.project %}
+{% assign organism  = site.data.projects[project].organism %}
+{% assign webapp  = site.data.projects[project].webapp %}
 
 <!-- display wdkModel introduction text -->
 <h1>Run a search using web services</h1>
@@ -29,8 +28,7 @@ REST services can be executed in a browser by typing a specific URL.
 <p>
 For example, this URL:
 <br><span style="position:relative;left:15px;font-size:110%">
-<a href='https://plasmodb.org/plasmo/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism=Plasmodium falciparum 3D7&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"]}'>
-https://plasmodb.org/plasmo/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism=Plasmodium falciparum 3D7&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"]}</a></span>
+<a href='/a/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"]}'>https://{{project}}.org/{{webapp}}/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"]}</a></span>
 </p>
 
 <p>Corresponds to this request: 
@@ -64,4 +62,3 @@ Advanced users might want to view the <a href="/service-api.html">VEuPathDB Web 
 This is the <a href="/a/service">base URL for the service</a>.
 
 </div>
-
