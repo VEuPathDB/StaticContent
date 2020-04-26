@@ -1,6 +1,3 @@
----
-published: false
----
 <style>
   .transcriptomic-resources-feature {
     margin: auto;
