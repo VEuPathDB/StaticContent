@@ -33,7 +33,7 @@ For example, this URL:
 
 <p>Corresponds to this request: 
 <br><span style="font-style:italic;position:relative;left:15px;">
-Find all (Plasmodium falciparum 3D7) genes that have molecular weight between 10,000 and 10,500. 
+Find all (<i>{{organism}}</i>) genes that have molecular weight between 10,000 and 10,500. 
 <br>For each gene ID in the result, return its gene type and organism.
 <br>Provide the result in standard (json) format.
 </span>
