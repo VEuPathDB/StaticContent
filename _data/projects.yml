@@ -62,10 +62,10 @@ VectorBase:
   webapp: vectorbase
   geneId: AALB009782
   gbrowseTrack: ExpressionGraphs
-  organism:
+  organism: Aedes albopictus Foshan
 VEuPathDB:
   webapp: veupathdb
   geneId: AALB009782
   gbrowseTrack: ExpressionGraphs
-  organism: Aedes albopictus Foshan
+  organism: Plasmodium falciparum 3D7
  
