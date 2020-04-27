@@ -5,8 +5,8 @@ listTitle: "Genome Browser"
 descriptionTitle: "Genome Browser"
 tags: [tutorial]
 title: "Genome Browser"
-permalink: '#genome-browser-test'
-category: [AmoebaDB,CryproDB,FungiDB,GiardiaDB,HostDB,MicrosporidiaDB,PiroplasmaDB,PlasmoDB,SchistoDB,ToxoDB,TrichDB,TriTrypDB,VectorBase]
+permalink: '#genome-browser'
+category: [EuPathDB]
 ---
 {% assign projectName = page.category[0] %}{% include_relative shared/genome_browser.md project = projectName %}
 

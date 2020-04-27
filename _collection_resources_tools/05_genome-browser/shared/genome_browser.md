@@ -56,7 +56,7 @@
 </style>
 
 {% if include.project == "VEuPathDB" or include.project == "EuPathDB" %}
-  {% assign genomeBrowserLink  = "Please go to component sites to access JBrowse." %}
+  {% assign genomeBrowserLink  = "Please go to a component site to access JBrowse." %}
 {% else %}
   {% assign genomeBrowserLink  = "<a href='/a/app/jbrowse?data=/a/service/jbrowse/tracks/default&tracks=gene'>Genome Browser</a>" %}
 {% endif %}

@@ -7,6 +7,7 @@ tags: [tutorial]
 title: "Transcriptomic Resources test"
 permalink: '#transcriptomic-resources-test'
 category: [TrichDB]
+published: false
 ---
 {% assign project = page.category[0] %}
 {% include_relative shared/transcriptomic-resources.md project = project %}
