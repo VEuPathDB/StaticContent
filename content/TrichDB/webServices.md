@@ -1,5 +1,6 @@
 ---
 layout: null
+title: Web Services
 permalink: :path/webServices
 tags: [tutorial]
 ---
