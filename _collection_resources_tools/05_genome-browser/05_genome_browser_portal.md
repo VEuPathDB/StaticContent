@@ -6,7 +6,7 @@ descriptionTitle: "Genome Browser"
 tags: [tutorial]
 title: "Genome Browser"
 permalink: '#genome-browser'
-category: [EuPathDB]
+category: [VEuPathDB,EuPathDB]
 ---
 {% assign projectName = page.category[0] %}{% include_relative shared/genome_browser.md project = projectName %}
 
