@@ -26,7 +26,7 @@ Jekyll::Hooks.register :site, :post_render do |site|
     # Process Pages
     site.pages.each do |page|
       if page.ext != '.json'
-        tmp = JSON.generate({:header => page.data, :output => page.output})
+        tmp = JSON.generate({:header => page.data, :output => page.output, :path => page.path})
         pipe << "#{tmp}\n"
       end
     end
