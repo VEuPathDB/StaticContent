@@ -2,7 +2,7 @@
 layout: plain
 title: Analysis tools tutorial
 permalink: /analysisTools
-tags: [tutorial]
+published: false
 ---
 <h1>Analyze Your Strategy Results <a href="https://www.youtube.com/watch?v=npgkkychkrI" class="new-window">
   <img src="/a/images/camera.png"  width="25px" /></a>
