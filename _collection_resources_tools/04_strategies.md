@@ -4,7 +4,7 @@ listTitle: Search Strategies
 descriptionTitle: Search Strategies
 listIconKey: code-fork fa-rotate-270
 tags: [tutorial]
-title: Search strategies
+title: Search Strategies
 permalink: '#search-strategies'
 ---
 <style>

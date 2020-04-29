@@ -10,13 +10,13 @@ permalink: '#analyze'
 <div style="margin: auto; max-width: 51em;">
   <p>Use pre-configured workflows in VEuPathDB's Galaxy to analyze your data.  Workflows include:</p>
   <ul>
-    <li>RNA Seq:coverage across the genome and RPKM for each gene</li>
-    <li>RNA Seq identification of genes with statistically significant expression differences between two samples</li>
+    <li>RNA-Seq coverage across the genome and RPKM for each gene</li>
+    <li>RNA-Seq identification of genes with statistically significant expression differences between two samples</li>
     <li>Assign your proteins to OrthoMCL groups</li>
     <li>Variant calling</li>
   </ul>
 
-  <p>For RNA Seq analyses you'll be able to export your results back to your own private dataset section.  You can:</p>
+  <p>For RNA-Seq analyses you'll be able to export your results to your own private dataset section in VEuPathDB.  You can:</p>
   <ul>
     <li>run searches against them</li>
     <li>see them as columns in search results</li>

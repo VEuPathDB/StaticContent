@@ -1,7 +1,7 @@
 ---
 identifier: downloads
 listTitle: Downloads
-descriptionTitle: Data Downloads
+descriptionTitle: Downloads
 listIconKey: "cloud-download"
 tags: [tutorial]
 title: Downloads

@@ -1,43 +1,71 @@
 AmoebaDB:
-  geneId: NF0067790
+  webapp: amoeba
+  geneId: EDI_244000
   gbrowseTrack: blablabla
+  organism: Acanthamoeba castellanii str. Neff
 CryptoDB:
-  geneId: PF3D7_1133400
+  webapp: cryptodb
+  geneId: cgd7_230
   gbrowseTrack: ExpressionGraphs
+  organism: Chromera velia CCMP2878
 FungiDB:
-  geneId: PF3D7_1133400
+  webapp: fungidb
+  geneId: NCU06658
   gbrowseTrack: ExpressionGraphs
+  organism: Albugo candida 2VRR
 GiardiaDB:
-  geneId: PF3D7_1133400
+  webapp: giardiadb
+  geneId: GL50803_102438
   gbrowseTrack: ExpressionGraphs
+  organism: Giardia Assemblage A isolate WB
 HostDB:
-  geneId: PF3D7_1133400
+  webapp: hostdb
+  geneId: ENSMUSG00000021403.2
   gbrowseTrack: ExpressionGraphs
+  organism: Bos taurus breed Hereford
 MicrosporidiaDB:
-  geneId: PF3D7_1133400
+  webapp: micro
+  geneId: ECU03_0820i
   gbrowseTrack: ExpressionGraphs
+  organism: Amphiamblys sp. WSBS2006
 PiroplasmaDB:
-  geneId: PF3D7_1133400
+  webapp: piro
+  geneId: TA14985
   gbrowseTrack: ExpressionGraphs
+  organism: Babesia bigemina strain BOND
 PlasmoDB:
+  webapp: plasmo
   geneId: PF3D7_1133400
   gbrowseTrack: ExpressionGraphs
+  organism: Plasmodium falciparum 3D7
 SchistoDB:
+  webapp: schisto
   geneId: PF3D7_1133400
   gbrowseTrack: ExpressionGraphs
+  organism: Schistosoma haematobium Egypt
 ToxoDB:
+  webapp: toxo
   geneId: TGME49_239250
   gbrowseTrack: ExpressionGraphs
+  organism: Cyclospora cayetanensis isolate NF1_C8
 TrichDB:
-  geneId: PF3D7_1133400
+  webapp: trichdb
+  geneId: TVAG_386080
   gbrowseTrack: ExpressionGraphs
+  organism: Trichomonas vaginalis G3
 TriTrypDB:
+  webapp: tritrypdb
+  geneId: Tb927.11.3120
+  gbrowseTrack: ExpressionGraphs
+  organism: Blechomonas ayalai B08-376
+VectorBase:
+  webapp: vectorbase
+  geneId: AAEL004325
+  gbrowseTrack: ExpressionGraphs
+  organism: Aedes albopictus Foshan
+VEuPathDB:
+  webapp: veupathdb
   geneId: PF3D7_1133400
   gbrowseTrack: ExpressionGraphs
-VectorBase:
-  geneId: AALB009782
-  gbrowseTrack: ExpressionGraphs
-VEuPathDB:
-  geneId: AALB009782
-  gbrowseTrack: ExpressionGraphs
+  organism: Plasmodium falciparum 3D7
  

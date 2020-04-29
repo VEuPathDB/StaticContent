@@ -1,6 +1,6 @@
 ---
 layout: plain
-title: VEuPathDB Webinars and Workshops 
+title: VEuPathDB webinars and workshops 
 permalink: /webinars_workshops
 tags: [general]
 ---

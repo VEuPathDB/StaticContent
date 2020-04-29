@@ -6,6 +6,7 @@ descriptionTitle: "Phenotype"
 tags: [tutorial]
 title: "Phenotypic Data"
 permalink: '#phenotype'
+category: [FungiDB,PlasmoDB,ToxoDB,TriTrypDB,VEuPathDB,EuPathDB]
 ---
 <style>
   .phenotype-resources-feature {
@@ -50,10 +51,10 @@ permalink: '#phenotype'
   }
 </style>
 
-<p>Phenotype evidence includes high-throughput phenotype data from experiments involving RNAi target sequencing, whole-genome knockout collections, piggyBac insertion mutagenesis, and also manually curated phenotypes by VEuPathDB and other resources.</p>
+<p>Phenotypic evidence includes high-throughput phenotype data from experiments involving RNAi target sequencing, whole-genome knockout collections, piggyBac insertion mutagenesis, and also manually curated phenotypes by VEuPathDB and other resources.</p>
 
 <div class="phenotype-resources-feature">
-<p class="card-text">Phenotype data is available to you as:</p>
+<p class="card-text">Phenotypic data is available to you as:</p>
 
 <div class="phenotype-resources-feature--panels">
   <div>
