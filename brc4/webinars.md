@@ -44,10 +44,6 @@ tags: [general]
   </div>
 
 <br>
-
-
-
-
 <hr>
 
 <div class="anchor"><a name="rnaseq"></a></div>
@@ -97,6 +93,9 @@ This webinar will guide you through the process of building search strategies in
 <b>Additional Details:</b> <br>
 This webinar will guide you through the process of running a workflow in galaxy and exporting the results to your VEuPathDB workspace.
 </div>
+
+
+<hr>
 
 <div class="anchor"><a name="apollo"></a></div>
 <div class="webinar">
