@@ -1,9 +1,12 @@
 ---
 layout: post
 title: VectorBase 47 Released
-category: [EuPathDB,VEuPathDB,VectorBase]
+category: [VectorBase,EuPathDB,VEuPathDB]
 ---
+{% assign project = page.category[0] %}
+
 <p><b>This is a draft news release that will be finalized upon Release 47 approval.</b></p>
+
 <p><strong>We are pleased to announce the release of VectorBase 47.</strong><br><br>  The product of 6 months of 
   back-end infrastructure work, Release 47 includes <a href="https://beta.vectorbase.org" target="_blank">beta.vectorbase.org</a> 
   in addition to our legacy sites. The beta site features an updated and streamlined interface that emphasizes 
@@ -17,7 +20,7 @@ category: [EuPathDB,VEuPathDB,VectorBase]
       <li>These tools have been retired: BioMart, ClustalW, Hmmer, Expression Browser and map, Ontology Browser and Sample and Genotype Explorer.</li> 
     </ul>
 
-    <p>Underlying our website's new look is a modernized client-server architecture. After three years of planning and development, the site is now driven completely by our new <a href="/a/app/static-content/content/{{project}}/webServices.html">REST API</a>. The browser-based user interface accesses that API to get all data, and is coded using the React/Redux framework.</p> 
+<p>Underlying our website's new look is a modernized client-server architecture. After three years of planning and development, the site is now driven completely by our new <a href="/a/app/static-content/content/{{project}}/webServices.html">REST API</a>. The browser-based user interface accesses that API to get all data, and is coded using the React/Redux framework.</p> 
     
 
 <p>
