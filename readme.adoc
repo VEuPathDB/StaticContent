@@ -16,7 +16,7 @@ endif::[]
 ----
 /
 ├── assets
-│   └── images
+│   └── images <6>
 ├── _collection_resources_tools <1>
 ├── content <2>
 │   ├── AmoebaDB
@@ -24,12 +24,12 @@ endif::[]
 │   ├── common <3>
 │   └── ...
 ├── _data <4>
-├── documents
+├── documents <5>
 ├── _includes
 ├── _layouts
 ├── _plugins
 ├── _posts
-│   └── news <5>
+│   └── news <7>
 │       ├── AmoebaDB
 │       ├── ClinEpiDB
 │       ├── EuPathDB
@@ -40,7 +40,9 @@ endif::[]
 <2> <<Content>>
 <3> <<Common>>
 <4> <<Data>>
-<5> <<News>>
+<5> <<Documents>>
+<6> <<Images>>
+<7> <<News>>
 
 ==== Collections
 
@@ -92,7 +94,16 @@ A non-project directory containing globally used pages.
 
 ==== Data
 
-WARNING: TODO
+Files that contain data such as site specific values for all projects or a list of exercise cards to show in home page. 
+Template files in the Content directory might read these data, or the data might be use to generate site specific links using site speciifc project information such as a gene id or an example organism.
+
+==== Documents
+
+PDF files are stored here. Feel free to generate subdirectories for organization.
+
+==== Images
+
+Images are stored in assets/images.  Again feel free to generate subdirectories for organization.
 
 ==== News
 
