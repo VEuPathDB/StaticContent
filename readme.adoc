@@ -18,6 +18,7 @@ endif::[]
 ├── _about_all <1>
 ├── assets
 │   └── images
+|__ _collection_resources_tools
 ├── content <2>
 │   ├── AmoebaDB
 │   ├── ClinEpiDB
@@ -61,16 +62,11 @@ the collection directory minus the leading underscore.
 [source, yaml]
 ----
 collections:
-  about_all:
-  resources_tools:
+  _collection_resources_tools:
 ----
 
-`_about_all`::
-  Collection of content applicable to all sites
-
-`_resources_tools`::
-+
-WARNING: TODO
+`_collection_resources_tools/`::
+  Collection of home page resources on cards, by default applicable to all sites
 
 ==== Content
 
