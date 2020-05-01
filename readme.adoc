@@ -15,10 +15,9 @@ endif::[]
 
 ----
 /
-├── _about_all <1>
 ├── assets
 │   └── images
-|__ _collection_resources_tools
+├── _collection_resources_tools <1>
 ├── content <2>
 │   ├── AmoebaDB
 │   ├── ClinEpiDB
@@ -35,7 +34,6 @@ endif::[]
 │       ├── ClinEpiDB
 │       ├── EuPathDB
 │       └── ...
-├── _resources_tools <1>
 └── _scripts
 ----
 <1> <<Collections>>
