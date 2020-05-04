@@ -30,7 +30,7 @@ tags: [general]
 <div id="contents">
   
   
-  
+
   <p><b>Thursday May 7th, 2020:</b> <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
   <p><b>Thursday May 14th, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
   <p><b>Thursday May 21st, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p>
@@ -46,26 +46,6 @@ tags: [general]
   </div>
 
 <br>
-<<<<<<< HEAD
-=======
-<hr>
-
-<div class="anchor"><a name="rnaseq"></a></div>
-<div class="webinar">
-<b>Topic:</b> Interpreting RNAseq data in the genome browser<br>
-<b>Date:</b> Thursday April 30th, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2363902027475326733">https://attendee.gotowebinar.com/register/2363902027475326733</a> <br>
-<b>Additional Details:</b> <br>
-This webinar will guide you through the process of viewing RNA-seq coverage tracks in the genome browser and how to use this data to examine gene structure. Specifically the webinar will cover:
-<br>
-<ul>
-<li>Loading RNA-seq and viewing data tracks</li>
-<li>Loading and viewing splice junction tracks</li>
-<li>Interpreting RNA-seq results to confirm gene models and propose alternative ones</li>
-</ul>
-</div>
->>>>>>> 051e0b0273b93c59a4c57c39e3074e90ac028347
 
 <hr>
 
