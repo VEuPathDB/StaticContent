@@ -13,7 +13,7 @@ permalink: /ClinEpiDB/faq
     {% for item in site.data.clinepi_faq %}
     {% if item.type == "general" %}
     <li><a name="{{ item.uid }}"></a>
-      <details">
+      <details>
         <summary>{{ item.question }}</summary>
         <p>
           {{ item.answer | markdownify }}
