@@ -28,10 +28,7 @@ tags: [general]
 <h3>Upcoming Webinars</h3><br>
 
 <div id="contents">
-  
-  
 
-  <p><b>Thursday May 7th, 2020:</b> <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
   <p><b>Thursday May 14th, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
   <p><b>Thursday May 21st, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p>
   </div>
@@ -39,6 +36,7 @@ tags: [general]
   <h3>Previous Webinars</h3><br>
   <div id="contents">
   If you missed any of our previous webinars feel free to explore the free recordings:<br>
+  <p><b>Thursday May 7th, 2020:</b> <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
   <p><b>Thursday April 30th, 2020:</b> <a href="#rnaseq">Interpreting RNAseq data in the genome browser.</a></p>
   <p><b>Thursday April 23rd, 2020:</b> <a href="#browser">Introduction to the genome browser in VEuPathDB.</a></p>
 <p><b>Thursday April 16th, 2020:</b> <a href="#intro">Introduction to VEuPathDB resources.</a></p>
@@ -46,26 +44,6 @@ tags: [general]
   </div>
 
 <br>
-
-<hr>
-
-<div class="anchor"><a name="strategies"></a></div>
-<div class="webinar">
-<b>Topic:</b> Building search strategies in VEuPathDB<br>
-<b>Date:</b> Thursday May 7th, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/5373351114605639182">https://attendee.gotowebinar.com/register/5373351114605639182</a> <br>
-<b>Additional Details:</b> <br>
-This webinar will guide you through the process of building search strategies in VEuPathDB resources. Topics covered will include:
-<br>
-<ul>
-<li>Running searches</li>
-<li>Combining searches in your strategy space</li>
-<li>Editing steps in your search strategy</li>
-<li>Examining results of search strategies</li>
-<li>Analyzing search strategy results (eg. GO enrichment)</li>
-</ul>
-</div>
 
 <hr>
 
@@ -103,6 +81,25 @@ This webinar will guide you through the process of updating and fixing gene mode
 <div class="webinar">
 <h3>Previous Webinars</h3><br>
 
+<hr>
+
+<div class="anchor"><a name="strategies"></a></div>
+<div class="webinar">
+<b>Topic:</b> Building search strategies in VEuPathDB<br>
+<b>Date:</b> Thursday May 7th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/hmTzUUibSeY">https://youtu.be/hmTzUUibSeY</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will guide you through the process of building search strategies in VEuPathDB resources. Topics covered will include:
+<br>
+<ul>
+<li>Running searches</li>
+<li>Combining searches in your strategy space</li>
+<li>Editing steps in your search strategy</li>
+<li>Examining results of search strategies</li>
+<li>Analyzing search strategy results (eg. GO enrichment)</li>
+</ul>
+</div>
 <hr>
 
 <div class="anchor"><a name="rnaseq"></a></div>
