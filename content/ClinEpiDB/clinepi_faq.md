@@ -12,8 +12,8 @@ permalink: /ClinEpiDB/faq
   <ul>
     {% for item in site.data.clinepi_faq %}
     {% if item.type == "general" %}
-    <li>
-      <details id="{{ item.uid }}">
+    <li><a name="{{ item.uid }}"></a>
+      <details">
         <summary>{{ item.question }}</summary>
         <p>
           {{ item.answer | markdownify }}
@@ -30,8 +30,8 @@ permalink: /ClinEpiDB/faq
   <ul>
     {% for item in site.data.clinepi_faq %}
     {% if item.type == "using_site" %}
-    <li>
-      <details id="{{ item.uid }}">
+    <li><a name="{{ item.uid }}"></a>
+      <details>
         <summary>{{ item.question }}</summary>
         <p>
           {{ item.answer | markdownify}}
