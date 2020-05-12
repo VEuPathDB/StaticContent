@@ -29,22 +29,24 @@ title: VEuPathDB landing
   <div>
     <h3>Webinars</h3>
     <p>Live and on-demand instructional videos.</p>
-    <button>Explore</button>
+    <button><a href="{{ './webinars.html' | relative_url }}">Explore</a></button>
   </div>
   <div>
     <h3>Learning Materials</h3>
     <p>Explore quickstarts and tutorials.</p>
-    <button>Explore</button>
+    <button><a href="{{ './tutorials.html' | relative_url }}">Explore</a></button>
   </div>
   <div>
     <h3>Workshops</h3>
     <p>In-person training to improve your skills.</p>
-    <button>Explore</button>
+    <button><a href="{{ './workshops.html' | relative_url }}">Explore</a></button>
   </div>
-  <div>
+
+<!--  <div>
     <h3>Methods</h3>
     <p>Understand our data and its provenance.</p>
     <button>Explore</button>
   </div>
+-->
 
 </div>
