@@ -19,6 +19,9 @@ title: VEuPathDB landing
 .flex-container div button {
   padding: 0.5em;
 }
+.flex-container div button a {
+  text-decoration: none;
+}
 .flex-container div h3 {
   text-align: center;
 }
