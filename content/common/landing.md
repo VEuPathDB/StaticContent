@@ -39,7 +39,7 @@ title: VEuPathDB landing
   <div>
     <h3>Workshops</h3>
     <p>In-person training to improve your skills.</p>
-    <button><a href="{{ './workshops.html' | relative_url }}">Explore</a></button>
+    <button><a href="{{ './webinars_workshops.html' | relative_url }}">Explore</a></button>
   </div>
 
 <!--  <div>
