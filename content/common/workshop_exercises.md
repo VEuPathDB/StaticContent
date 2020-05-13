@@ -8,7 +8,7 @@ title: VEuPathDB tutorials
 
 {% for tut in site.data.workshop_exercises.cards %}{% if tut.links[0].name != '' %} 
 <a name = "{{tut.card | remove:' '}}"></a>
-<h2>{{ tut.card }}</h2> 
+<h3>{{ tut.card }}</h3> 
 (<i>updated: {{ tut.date | date_to_string }}</i>)
 <br><br>
 {{ tut.description }}
