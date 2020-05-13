@@ -8,6 +8,7 @@ title: VEuPathDB landing
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  font-size: 75%;
 }
 .flex-container div {
   border: 0.2em solid lightblue;
@@ -47,12 +48,11 @@ title: VEuPathDB landing
     <p>In-person training to improve your skills.</p>
     <button><a href="/a/app/static-content/webinars_workshops.html">Explore</a></button>
   </div>
-
-<!--  <div>
+  <div>
     <h3>Methods</h3>
     <p>Understand our data and its provenance.</p>
-    <button>Explore</button>
+    <button><a href="">Explore</a></button>
   </div>
--->
+
 </div>
 </div>
