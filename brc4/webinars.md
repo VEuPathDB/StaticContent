@@ -31,6 +31,7 @@ tags: [general]
 
   <p><b>Thursday May 14th, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
   <p><b>Thursday May 21st, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p>
+  <p><b>Thursday May 28th, 2020:</b> <a href="#GO">GO Enrichment in VEuPathDB.</a></p>
   </div>
   
   <h3>Previous Webinars</h3><br>
@@ -73,6 +74,24 @@ This webinar will guide you through the process of updating and fixing gene mode
 <li>How to add new gene models</li>
 <li>How to alter the structure of a gene</li>
 <li>How to use underlying data to support structural changes</li>
+</ul>
+</div>
+<hr>
+
+<div class="anchor"><a name="GO"></a></div>
+<div class="webinar">
+<b>Topic:</b> GO Enrichment in VEuPathDB<br>
+<b>Date:</b> Thursday May 28th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/3774615028951499279">https://attendee.gotowebinar.com/register/3774615028951499279</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will guide you through the process of running enrichment analyses in VEuPathDB. Topics covered will include:
+<br>
+<ul>
+<li>Gene ontology</li>
+<li>GO enrichment</li>
+<li>
+Metabolic pathway enrichment</li>
 </ul>
 </div>
 
