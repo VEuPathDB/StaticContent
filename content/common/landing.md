@@ -3,16 +3,18 @@ permalink: /landing
 title: VEuPathDB landing
 ---
 <style>
+
 .flex-container {
   display: flex;
   flex-wrap: wrap;
-  text-align: center;
+  justify-content: center;
 }
 .flex-container div {
   border: 0.2em solid lightblue;
   border-radius: 0.5em;
   margin: 0 1em 1em 0;
   padding: 0 1em 1em;
+  text-align: center;
 }
 .flex-container div button {
   padding: 0.5em;
@@ -20,12 +22,13 @@ title: VEuPathDB landing
 .flex-container div h3 {
   text-align: center;
 }
+
 </style>
 
 <h1>Learning about VEuPathDB</h1>
 
-<div class="static-content flex-container">
-
+<div class="static-content">
+<div class="flex-container">
   <div>
     <h3>Webinars</h3>
     <p>Live and on-demand instructional videos.</p>
@@ -48,5 +51,5 @@ title: VEuPathDB landing
     <button>Explore</button>
   </div>
 -->
-
+</div>
 </div>
