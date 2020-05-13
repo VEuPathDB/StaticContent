@@ -32,17 +32,17 @@ title: VEuPathDB landing
   <div>
     <h3>Webinars</h3>
     <p>Live and on-demand instructional videos.</p>
-    <button><a href="{{ '/webinars.html' | absolute_url }}">Explore</a></button>
+    <button><a href="/a/app/static-content/webinars.html">Explore</a></button>
   </div>
   <div>
     <h3>Learning Materials</h3>
     <p>Explore quickstarts and tutorials.</p>
-    <button><a href="{{ '/tutorials.html' | relative_url }}">Explore</a></button>
+    <button><a href="/a/app/static-content/tutorials.html">Explore</a></button>
   </div>
   <div>
     <h3>Workshops</h3>
     <p>In-person training to improve your skills.</p>
-    <button><a href="{{ '/webinars_workshops.html' | relative_url }}">Explore</a></button>
+    <button><a href="/a/app/static-content/webinars_workshops.html">Explore</a></button>
   </div>
 
 <!--  <div>
