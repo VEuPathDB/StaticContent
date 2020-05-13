@@ -32,7 +32,7 @@ title: VEuPathDB landing
   <div>
     <h3>Webinars</h3>
     <p>Live and on-demand instructional videos.</p>
-    <button><a href="{{ '/webinars.html' | relative_url }}">Explore</a></button>
+    <button><a href="{{ '/webinars.html' | absolute_url }}">Explore</a></button>
   </div>
   <div>
     <h3>Learning Materials</h3>
