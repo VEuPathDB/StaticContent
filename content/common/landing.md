@@ -48,10 +48,10 @@ title: VEuPathDB landing
     <p>In-person training to improve your skills.</p>
     <button><a href="/a/app/static-content/webinars_workshops.html">Explore</a></button>
   </div>
-  <div>
+  <div title="Coming soon!">
     <h3>Methods</h3>
     <p>Understand our data and its provenance.</p>
-    <button title="Coming soon!"><a href="">Explore</a></button>
+    <button><a href="">Explore</a></button>
   </div>
 
 </div>
