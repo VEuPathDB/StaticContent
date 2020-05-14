@@ -31,6 +31,9 @@ tags: [general]
 
   <p><b>Thursday May 14th, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
   <p><b>Thursday May 21st, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p>
+  <p><b>Thursday May 28th, 2020:</b> <a href="#GO">GO and other enrichment analyses in VEuPathDB.</a></p>
+  <p><b>Thursday June 4th, 2020:</b> <a href="#motif">Motif searches and regular expressions in VEuPathDB.</a></p>
+  <p><b>Thursday June 11th, 2020:</b> <a href="#mapveu">MapVEu: population biology map filtering and searches.</a></p>
   </div>
   
   <h3>Previous Webinars</h3><br>
@@ -39,7 +42,7 @@ tags: [general]
   <p><b>Thursday May 7th, 2020:</b> <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
   <p><b>Thursday April 30th, 2020:</b> <a href="#rnaseq">Interpreting RNAseq data in the genome browser.</a></p>
   <p><b>Thursday April 23rd, 2020:</b> <a href="#browser">Introduction to the genome browser in VEuPathDB.</a></p>
-<p><b>Thursday April 16th, 2020:</b> <a href="#intro">Introduction to VEuPathDB resources.</a></p>
+<p><b>Thursday April 16th, 2020:</b> <a href="#motif">Introduction to VEuPathDB resources.</a></p>
 
   </div>
 
@@ -75,9 +78,62 @@ This webinar will guide you through the process of updating and fixing gene mode
 <li>How to use underlying data to support structural changes</li>
 </ul>
 </div>
+<hr>
+
+<div class="anchor"><a name="GO"></a></div>
+<div class="webinar">
+<b>Topic:</b> GO and other enrichment analyses in VEuPathDB<br>
+<b>Date:</b> Thursday May 28th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/3774615028951499279">https://attendee.gotowebinar.com/register/3774615028951499279</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will guide you through the process of running enrichment analyses in VEuPathDB. Topics covered will include:
+<br>
+<ul>
+<li>Gene ontology</li>
+<li>GO enrichment</li>
+<li>
+Metabolic pathway enrichment</li>
+</ul>
+</div>
 
 <hr>
-<div>
+<div class="anchor"><a name="motif"></a></div>
+<div class="webinar">
+<b>Topic:</b> Motif searches and regular expressions in VEuPathDB<br>
+<b>Date:</b> Thursday June 4th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/6380113439642894608">https://attendee.gotowebinar.com/register/6380113439642894608</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will describe the different available motif searches including regular expressions in VEuPathDB . Topics covered will include:
+<br>
+<ul>
+<li>InterPro domains</li>
+<li>InterPro domain searches</li>
+<li>
+Regular expressions</li>  
+<li>
+Regular expressions searches</li>
+</ul>
+</div>
+
+<hr>
+<div class="anchor"><a name="mapveu"></a></div>
+<div class="webinar">
+<b>Topic:</b> MapVEu: population biology map filtering and searches<br>
+<b>Date:</b> Thursday June 11th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/6787119658896862224">https://attendee.gotowebinar.com/register/6787119658896862224</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics covered will include:
+<br>
+<ul>
+<li>Basic MapVEu navigation</li>
+<li>Filtering data in the map</li>
+<li>
+Exploring record details</li>  
+</div>
+<hr>
 <div class="webinar">
 <h3>Previous Webinars</h3><br>
 
