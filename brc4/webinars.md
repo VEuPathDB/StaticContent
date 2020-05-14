@@ -134,7 +134,6 @@ This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics co
 Exploring record details</li>  
 </div>
 <hr>
-<div>
 <div class="webinar">
 <h3>Previous Webinars</h3><br>
 
