@@ -20,35 +20,28 @@ tags: [general]
   }
 </style>
 
-
 <h1 id="resources">VEuPathDB Webinars</h1>
-
 <div class="static-content">
 
-<h3>Upcoming Webinars</h3><br>
-
-<div id="contents">
-
-  <p><b>Thursday May 14th, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
-  <p><b>Thursday May 21st, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p>
-  <p><b>Thursday May 28th, 2020:</b> <a href="#GO">GO and other enrichment analyses in VEuPathDB.</a></p>
-  <p><b>Thursday June 4th, 2020:</b> <a href="#motif">Motif searches and regular expressions in VEuPathDB.</a></p>
-  <p><b>Thursday June 11th, 2020:</b> <a href="#mapveu">MapVEu: population biology map filtering and searches.</a></p>
+  <h3>Upcoming Webinars</h3><br>
+  <div id="contents">
+    <p><b>Thursday May 14th, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
+    <p><b>Thursday May 21st, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p>
+    <p><b>Thursday May 28th, 2020:</b> <a href="#GO">GO and other enrichment analyses in VEuPathDB.</a></p>
+    <p><b>Thursday June 4th, 2020:</b> <a href="#motif">Motif searches and regular expressions in VEuPathDB.</a></p>
+    <p><b>Thursday June 11th, 2020:</b> <a href="#mapveu">MapVEu: population biology map filtering and searches.</a></p>
   </div>
   
   <h3>Previous Webinars</h3><br>
   <div id="contents">
-  If you missed any of our previous webinars feel free to explore the free recordings:<br>
-  <p><b>Thursday May 7th, 2020:</b> <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
-  <p><b>Thursday April 30th, 2020:</b> <a href="#rnaseq">Interpreting RNAseq data in the genome browser.</a></p>
-  <p><b>Thursday April 23rd, 2020:</b> <a href="#browser">Introduction to the genome browser in VEuPathDB.</a></p>
-<p><b>Thursday April 16th, 2020:</b> <a href="#motif">Introduction to VEuPathDB resources.</a></p>
-
+    If you missed any of our previous webinars feel free to explore the free recordings:<br>
+    <p><b>Thursday May 7th, 2020:</b> <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
+    <p><b>Thursday April 30th, 2020:</b> <a href="#rnaseq">Interpreting RNAseq data in the genome browser.</a></p>
+    <p><b>Thursday April 23rd, 2020:</b> <a href="#browser">Introduction to the genome browser in VEuPathDB.</a></p>
+    <p><b>Thursday April 16th, 2020:</b> <a href="#motif">Introduction to VEuPathDB resources.</a></p>
   </div>
-
 <br>
-
-<hr>
+<hr> <!-- ==== UPCOMING WEBINARS =============================== -->
 
 <div class="anchor"><a name="galaxy"></a></div>
 <div class="webinar">
@@ -59,8 +52,6 @@ tags: [general]
 <b>Additional Details:</b> <br>
 This webinar will guide you through the process of running a workflow in galaxy and exporting the results to your VEuPathDB workspace.
 </div>
-
-
 <hr>
 
 <div class="anchor"><a name="apollo"></a></div>
@@ -96,8 +87,8 @@ This webinar will guide you through the process of running enrichment analyses i
 Metabolic pathway enrichment</li>
 </ul>
 </div>
-
 <hr>
+
 <div class="anchor"><a name="motif"></a></div>
 <div class="webinar">
 <b>Topic:</b> Motif searches and regular expressions in VEuPathDB<br>
@@ -130,14 +121,14 @@ This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics co
 <ul>
 <li>Basic MapVEu navigation</li>
 <li>Filtering data in the map</li>
-<li>
-Exploring record details</li>  
+<li>Exploring record details</li>  
+</ul>
 </div>
-<hr>
-<div class="webinar">
-<h3>Previous Webinars</h3><br>
+<hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 
-<hr>
+
+<h3>Previous Webinars</h3>
+<br>
 
 <div class="anchor"><a name="strategies"></a></div>
 <div class="webinar">
@@ -145,6 +136,7 @@ Exploring record details</li>
 <b>Date:</b> Thursday May 7th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording Link: </b><a href="https://youtu.be/hmTzUUibSeY">https://youtu.be/hmTzUUibSeY</a> <br>
+<b>Handout: </b> <a href="/a/app/static-content/documents/07May2020_Building-search-strategies-in-FungiDB.pdf">Building search strategies in FungiDB.pdf</a><br>
 <b>Additional Details:</b> <br>
 This webinar will guide you through the process of building search strategies in VEuPathDB resources. Topics covered will include:
 <br>
@@ -209,5 +201,6 @@ This webinar will introduce you to VEuPathDB resources and highlight some of the
 <li>Galaxy tools</li>
 </ul>
 </div>
-</div>
+
+
 </div>
