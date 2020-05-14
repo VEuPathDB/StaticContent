@@ -34,6 +34,7 @@ tags: [general]
   <h3>Previous Webinars</h3><br>
   <div id="contents">
     If you missed any of our previous webinars feel free to explore the free recordings:<br>
+    <p><b>Thursday May 14th, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
     <p><b>Thursday May 7th, 2020:</b> <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
     <p><b>Thursday April 30th, 2020:</b> <a href="#rnaseq">Interpreting RNAseq data in the genome browser.</a></p>
     <p><b>Thursday April 23rd, 2020:</b> <a href="#browser">Introduction to the genome browser in VEuPathDB.</a></p>
@@ -42,19 +43,6 @@ tags: [general]
 <br>
 <hr> <!-- ==== UPCOMING WEBINARS =============================== -->
 
-<div class="anchor"><a name="galaxy"></a></div>
-<div class="webinar">
-<b>Topic:</b> Running a Galaxy workflow and integrating data into VEuPathDB<br>
-<b>Date:</b> Thursday May 14th, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2911235617248014349">https://attendee.gotowebinar.com/register/2911235617248014349</a> <br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/14May2020_How-to-set-an-account-in-VEuPathDB-Galaxy.pdf">How to set up an account in VEuPathDB Galaxy.pdf</a><br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/14May2020_RNA-sequence-data-analysis-in-VEuPathDB-Galaxy-Part-1.pdf">RNA sequence data analysis in VEuPathDB Galaxy Part 1.pdf</a><br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/14May2020_RNA-sequence-data-analysis-in-VEuPathDB-Galaxy-Part-2.pdf">RNA sequence data analysis in VEuPathDB Galaxy Part 2.pdf</a><br>
-<b>Additional Details:</b> <br>
-This webinar will guide you through the process of running a workflow in galaxy and exporting the results to your VEuPathDB workspace.
-</div>
-<hr>
 
 <div class="anchor"><a name="apollo"></a></div>
 <div class="webinar">
@@ -131,6 +119,20 @@ This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics co
 
 <h3>Previous Webinars</h3>
 <br>
+
+<div class="anchor"><a name="galaxy"></a></div>
+<div class="webinar">
+<b>Topic:</b> Running a Galaxy workflow and integrating data into VEuPathDB<br>
+<b>Date:</b> Thursday May 14th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2911235617248014349">https://attendee.gotowebinar.com/register/2911235617248014349</a> <br>
+<b>Handout: </b> <a href="https://community.eupathdb.org/documents/14May2020_How-to-set-an-account-in-VEuPathDB-Galaxy.pdf">How to set up an account in VEuPathDB Galaxy.pdf</a><br>
+<b>Handout: </b> <a href="https://community.eupathdb.org/documents/14May2020_RNA-sequence-data-analysis-in-VEuPathDB-Galaxy-Part-1.pdf">RNA sequence data analysis in VEuPathDB Galaxy Part 1.pdf</a><br>
+<b>Handout: </b> <a href="https://community.eupathdb.org/documents/14May2020_RNA-sequence-data-analysis-in-VEuPathDB-Galaxy-Part-2.pdf">RNA sequence data analysis in VEuPathDB Galaxy Part 2.pdf</a><br>
+<b>Additional Details:</b> <br>
+This webinar will guide you through the process of running a workflow in galaxy and exporting the results to your VEuPathDB workspace.
+</div>
+<hr>
 
 <div class="anchor"><a name="strategies"></a></div>
 <div class="webinar">
