@@ -32,7 +32,7 @@ tags: [general]
   <p><b>Thursday May 14th, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
   <p><b>Thursday May 21st, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p>
   <p><b>Thursday May 28th, 2020:</b> <a href="#GO">GO and other enrichment analyses in VEuPathDB.</a></p>
-  <p><b>Thursday June 4th, 2020:</b> <a href="#interpro">Motif searches and regular expressions in VEuPathDB.</a></p>
+  <p><b>Thursday June 4th, 2020:</b> <a href="#motif">Motif searches and regular expressions in VEuPathDB.</a></p>
   </div>
   
   <h3>Previous Webinars</h3><br>
