@@ -33,6 +33,7 @@ tags: [general]
   <p><b>Thursday May 21st, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p>
   <p><b>Thursday May 28th, 2020:</b> <a href="#GO">GO and other enrichment analyses in VEuPathDB.</a></p>
   <p><b>Thursday June 4th, 2020:</b> <a href="#motif">Motif searches and regular expressions in VEuPathDB.</a></p>
+  <p><b>Thursday June 11th, 2020:</b> <a href="#mapveu">MapVEu: population biology map filtering and searches.</a></p>
   </div>
   
   <h3>Previous Webinars</h3><br>
@@ -116,6 +117,22 @@ Regular expressions searches</li>
 </ul>
 </div>
 
+<hr>
+<div class="anchor"><a name="mapveu"></a></div>
+<div class="webinar">
+<b>Topic:</b> MapVEu: population biology map filtering and searches<br>
+<b>Date:</b> Thursday June 11th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/6787119658896862224">https://attendee.gotowebinar.com/register/6787119658896862224</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics covered will include:
+<br>
+<ul>
+<li>Basic MapVEu navigation</li>
+<li>Filtering data in the map</li>
+<li>
+Exploring record details</li>  
+</div>
 <hr>
 <div>
 <div class="webinar">
