@@ -22,6 +22,7 @@ cards:
         description: 
   - card: Variant Calling
     description: Analyze DNA sequence for variants using a workflow in VEuPathDB Galaxy 
+    date: 2020/05/15
     links:
       - name: Variant calling in VEuPathDB galaxy (Part 1)
         path: VariantAnalysisVEuPathDBGalaxyPart1.pdf
