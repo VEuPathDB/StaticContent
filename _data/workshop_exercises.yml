@@ -21,7 +21,7 @@ cards:
         path: RegEXcolocate.pdf
         description: 
   - card: Variant Calling
-    description:  Analyze DNA sequence for variants using a workflow in VEuPathDB Galaxy 
+    description: Analyze DNA sequence for variants using a workflow in VEuPathDB Galaxy 
     links:
       - name: Variant calling in VEuPathDB galaxy (Part 1)
         path: VariantAnalysisVEuPathDBGalaxyPart1.pdf
