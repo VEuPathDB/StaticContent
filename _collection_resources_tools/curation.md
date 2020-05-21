@@ -1,7 +1,7 @@
 ---
-identifier: search-strategies-2
-listTitle: Search Strategies 22
-descriptionTitle: Search Strategies 2
+identifier: curation-and-annotation
+listTitle: Curation and Annotation
+descriptionTitle: Curation and Annotation
 listIconKey: code-fork fa-rotate-270
 published: false
 tags: [tutorial]
