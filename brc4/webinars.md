@@ -43,24 +43,6 @@ tags: [general]
 <br>
 <hr> <!-- ==== UPCOMING WEBINARS =============================== -->
 
-
-<div class="anchor"><a name="apollo"></a></div>
-<div class="webinar">
-<b>Topic:</b> Manual gene annotation in Apollo<br>
-<b>Date:</b> Thursday May 21st, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/5680450209801571854">https://attendee.gotowebinar.com/register/5680450209801571854</a> <br>
-<b>Additional Details:</b> <br>
-This webinar will guide you through the process of updating and fixing gene models based on underlying data. Topics covered will include:
-<br>
-<ul>
-<li>How to add new gene models</li>
-<li>How to alter the structure of a gene</li>
-<li>How to use underlying data to support structural changes</li>
-</ul>
-</div>
-<hr>
-
 <div class="anchor"><a name="GO"></a></div>
 <div class="webinar">
 <b>Topic:</b> GO and other enrichment analyses in VEuPathDB<br>
@@ -119,6 +101,23 @@ This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics co
 
 <h3>Previous Webinars</h3>
 <br>
+
+<div class="anchor"><a name="apollo"></a></div>
+<div class="webinar">
+<b>Topic:</b> Manual gene annotation in Apollo<br>
+<b>Date:</b> Thursday May 21st, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/RMXZDBMh8Fo">https://youtu.be/RMXZDBMh8Fo</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will guide you through the process of updating and fixing gene models based on underlying data. Topics covered will include:
+<br>
+<ul>
+<li>How to add new gene models</li>
+<li>How to alter the structure of a gene</li>
+<li>How to use underlying data to support structural changes</li>
+</ul>
+</div>
+<hr>
 
 <div class="anchor"><a name="galaxy"></a></div>
 <div class="webinar">
