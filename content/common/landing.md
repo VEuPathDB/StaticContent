@@ -8,7 +8,7 @@ title: VEuPathDB landing
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  font-size: 75%;
+  font-size: 95%;
 }
 .flex-container div {
   border: 0.2em solid lightblue;
