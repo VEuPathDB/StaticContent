@@ -69,7 +69,7 @@ Regular expressions searches</li>
 <div class="anchor"><a name="release47"></a></div>
 <div class="webinar">
 <b>Topic:</b> VEuPathDB Release 47<br>
-<b>Date:</b> Thursday June 10th, 2020<br>
+<b>Date:</b> Wednesday June 10th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/5450036552813162253">https://attendee.gotowebinar.com/register/5450036552813162253</a> <br>
 <b>Additional Details:</b> <br>
