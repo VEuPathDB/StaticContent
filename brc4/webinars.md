@@ -26,7 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3><br>
   <div id="contents">
     <p><b>Thursday June 4th, 2020:</b> <a href="#motif">Motif searches and regular expressions in VEuPathDB.</a></p>
-    <p><b>Thursday June 10th, 2020:</b> <a href="#release47">VEuPathDB Release 47.</a></p>
+    <p><b>Wednesday June 10th, 2020:</b> <a href="#release47">VEuPathDB Release 47.</a></p>
     <p><b>Thursday June 11th, 2020:</b> <a href="#mapveu">MapVEu: population biology map filtering and searches.</a></p>
   </div>
   
