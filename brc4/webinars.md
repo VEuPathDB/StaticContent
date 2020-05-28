@@ -25,7 +25,6 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3><br>
   <div id="contents">
-    <p><b>Thursday May 28th, 2020:</b> <a href="#GO">GO and other enrichment analyses in VEuPathDB.</a></p>
     <p><b>Thursday June 4th, 2020:</b> <a href="#motif">Motif searches and regular expressions in VEuPathDB.</a></p>
     <p><b>Thursday June 11th, 2020:</b> <a href="#mapveu">MapVEu: population biology map filtering and searches.</a></p>
   </div>
@@ -33,6 +32,7 @@ tags: [general]
   <h3>Previous Webinars</h3><br>
   <div id="contents">
     If you missed any of our previous webinars feel free to explore the free recordings:<br>
+   <p><b>Thursday May 28th, 2020:</b> <a href="#GO">GO and other enrichment analyses in VEuPathDB.</a></p>
    <p><b>Thursday May 21st, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p>
     <p><b>Thursday May 14th, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
     <p><b>Thursday May 7th, 2020:</b> <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
@@ -45,24 +45,6 @@ tags: [general]
 
 <h3>Upcoming Webinars</h3>
 <br>
-
-<div class="anchor"><a name="GO"></a></div>
-<div class="webinar">
-<b>Topic:</b> GO and other enrichment analyses in VEuPathDB<br>
-<b>Date:</b> Thursday May 28th, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/3774615028951499279">https://attendee.gotowebinar.com/register/3774615028951499279</a> <br>
-<b>Additional Details:</b> <br>
-This webinar will guide you through the process of running enrichment analyses in VEuPathDB. Topics covered will include:
-<br>
-<ul>
-<li>Gene ontology</li>
-<li>GO enrichment</li>
-<li>
-Metabolic pathway enrichment</li>
-</ul>
-</div>
-<hr>
 
 <div class="anchor"><a name="motif"></a></div>
 <div class="webinar">
@@ -104,6 +86,25 @@ This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics co
 
 <h3>Previous Webinars</h3>
 <br>
+
+<div class="anchor"><a name="GO"></a></div>
+<div class="webinar">
+<b>Topic:</b> GO and other enrichment analyses in VEuPathDB<br>
+<b>Date:</b> Thursday May 28th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/RMXZDBMh8Fo">https://youtu.be/RMXZDBMh8Fo</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will guide you through the process of running enrichment analyses in VEuPathDB. Topics covered will include:
+<br>
+<ul>
+<li>Gene ontology</li>
+<li>GO enrichment</li>
+<li>
+Metabolic pathway enrichment</li>
+</ul>
+</div>
+<hr>
+
 
 <div class="anchor"><a name="apollo"></a></div>
 <div class="webinar">
