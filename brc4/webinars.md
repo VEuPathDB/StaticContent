@@ -26,6 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3><br>
   <div id="contents">
     <p><b>Thursday June 4th, 2020:</b> <a href="#motif">Motif searches and regular expressions in VEuPathDB.</a></p>
+    <p><b>Thursday June 10th, 2020:</b> <a href="#release47">VEuPathDB Release 47.</a></p>
     <p><b>Thursday June 11th, 2020:</b> <a href="#mapveu">MapVEu: population biology map filtering and searches.</a></p>
   </div>
   
@@ -63,6 +64,16 @@ Regular expressions</li>
 <li>
 Regular expressions searches</li>
 </ul>
+</div>
+
+<div class="anchor"><a name="release47"></a></div>
+<div class="webinar">
+<b>Topic:</b> VEuPathDB Release 47<br>
+<b>Date:</b> Thursday June 10th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/5450036552813162253">https://attendee.gotowebinar.com/register/5450036552813162253</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will discuss and demonstrate new features and data available in release 47 of the newly merged VEuPathDB sites.
 </div>
 
 <hr>
