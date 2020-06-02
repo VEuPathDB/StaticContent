@@ -81,7 +81,7 @@
 
            Note: You only need one account for all VEuPathDB websites. This means that if you have 
            an account for other VEuPathDB resources such as PlasmoDB or MicrobiomeDB, you can log 
-           into ClinEpiDB with those credentials and vice versa.
+           into ClinEpiDB with those credentials and vice versa
   uid: u1
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: using_site
