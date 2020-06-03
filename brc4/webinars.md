@@ -31,7 +31,7 @@ tags: [general]
     <p><b>Thursday June 18th, 2020:</b> <a href="#special">Special event: Introduction for VectorBase users.</a></p>
     <p><b>Thursday June 25th, 2020:</b> <a href="#phenotypic">Searching Phenotypic datasets in VEuPathDB.</a></p>
     <p><b>Thursday July 2nd, 2020:</b> <a href="#ortho">Orthology searches and OrthoMCL.</a></p>
-    <p><b>Thursday July 9th, 2020:</b> <a href="#RNAseq">RNAseq searches in VEuPathDB.</a></p>
+    <p><b>Thursday July 9th, 2020:</b> <a href="#rnaseq">RNAseq searches in VEuPathDB.</a></p>
   </div>
   
   <h3>Previous Webinars</h3><br>
@@ -70,6 +70,7 @@ Regular expressions searches</li>
 </ul>
 </div>
 
+<hr>
 <div class="anchor"><a name="release47"></a></div>
 <div class="webinar">
 <b>Topic:</b> VEuPathDB Release 47<br>
@@ -96,6 +97,28 @@ This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics co
 <li>Exploring record details</li>  
 </ul>
 </div>
+
+<hr>
+<div class="anchor"><a name="special"></a></div>
+<div class="webinar">
+<b>Topic:</b> Special event: Introduction for VectorBase users<br>
+<b>Date:</b> Thursday June 18th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/3260743976520156429">https://attendee.gotowebinar.com/register/3260743976520156429</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics covered will include:
+<br>
+<ul>
+<li>Tour of the new (beta) website layout and organization</li>
+<li>Overview of the new tools</li>
+<li>Process for new data set incorporation</li>  
+</ul>
+</div>
+
+
+
+
+
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 
 
