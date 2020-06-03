@@ -115,7 +115,17 @@ This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics co
 </ul>
 </div>
 
-
+<hr>
+<div class="anchor"><a name="phenotypic"></a></div>
+<div class="webinar">
+<b>Topic:</b> Searching Phenotypic datasets in VEuPathDB<br>
+<b>Date:</b> Thursday June 25th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/8560087656702937101">https://attendee.gotowebinar.com/register/8560087656702937101</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will demonstrate how to search for phenotypic datasets. 
+<br>
+</div>
 
 
 
