@@ -1,35 +1,36 @@
 ---
-identifier: curation-and-annotation
-listTitle: Curation and Annotation
-descriptionTitle: Curation and Annotation
-listIconKey: code-fork fa-rotate-270
-published: false
+identifier: "curation"
+listIconKey: "flask"
+listTitle: "Curation and Annotation"
+descriptionTitle: "Curation"
 tags: [tutorial]
+title: "Curation"
+permalink: '#curation'
+category: [FungiDB,PlasmoDB,TriTrypDB,VEuPathDB,EuPathDB]
 ---
 <style>
-  .search-strategies-feature {
+  .phenotype-resources-feature {
     margin: auto;
-    margin-top: 3em;
   }
-  .search-strategies-feature--panels {
+  .phenotype-resources-feature--panels {
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
     counter-reset: panel;
   }
-  .search-strategies-feature--panels > * {
+  .phenotype-resources-feature--panels > * {
     overflow: hidden;
     margin: 0 2em;
   }
-  .search-strategies-feature--panels > * > div {
+  .phenotype-resources-feature--panels > * > div {
     margin-top: 1em;
     margin-left: 2em;
     position: relative;
   }
-  .search-strategies-feature--panels > * img {
+  .phenotype-resources-feature--panels > * img {
     margin-left: 2em;
   }
-  .search-strategies-feature--panels > * > div:before {
+  .phenotype-resources-feature--panels > * > div:before {
     counter-increment: panel;
     content: counter(panel);
     background: #3171d8;
@@ -48,45 +49,30 @@ tags: [tutorial]
   #topright {
     text-align: right;
   }
-  #topright a {
-    padding: 0.5em;
-    border: 1px solid #d6c5c5;
-    border-radius: 0.5em;
-    background-color: #d6c5c5;
-  }
-  #toprightsecond {
-    text-align: right;
-    border: 1px solid #d6c5c5;
-    border-radius: 0.5em;
-    background-color: #d6c5c5;
-  }
-  #topright a {
-    text-decoration: none;
-    font-family: Roboto;
-    color: #413737;
-  }
 </style>
 
-<div id="topright">
-  <a href="/a/app/workspace/strategies">My Strategies</a>
-  <a href="/a/app/query-grid">All Available Searches</a>
-</div>
-<div class="search-strategies-feature">
-  <p>Discover meaningful biological relationships from large volumes of data with VEuPathDB's unique and powerful <b>Search Strategies</b> - a tool for mining Omics data without programming experience. </p>
-  <div class="search-strategies-feature--panels">
-    <div>
-      <div>We analyze the data.</div>
-      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/We-analyze.png" | absolute_url }}" alt="Searches"/>
-    </div>
-    <div>
-      <div>You search our analysis results from our point and click interface.  Choose from >100 searches that query ~20 data types and ~1000 data sets</div>
-      <img style="width: 20em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/SignalPeptide.png" | absolute_url }}" alt="Strategy panel"/>
-    </div>
-    <div>
-      <div>Add searches one at a time to create a strategy and find exactly the type of genes you need, such as signal peptide containing genes that are expressed in merozoites.</div>
-      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/strategy-panel_3.png" | absolute_url }}" alt="Strategy panel"/>
-    </div>
+<p>Phenotypic evidence includes high-throughput phenotype data from experiments involving RNAi target sequencing, whole-genome knockout collections, piggyBac insertion mutagenesis, and also manually curated phenotypes by VEuPathDB and other resources.</p>
+
+<div class="phenotype-resources-feature">
+<p class="card-text">Phenotypic data is available to you as:</p>
+
+<div class="phenotype-resources-feature--panels">
+  <div>
+    <div>Tables (text and image data) associated with various phenotype collections on individual gene record pages.
+	</div>
+      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypegenepage.png" | absolute_url }}" alt="Searches"/><br>
   </div>
-  <p><br/>To delve deeper into Search Strategies, try our 
-  <a href="{{ "/assets/images/resources_tools/Strategies_Training_Module_2019.pdf" | absolute_url }}"><b>Strategies learning exercise</b></a> which takes about an hour to complete.  And please <a href="https://eupathdb.org/eupathdb/app/contact-us"><b>Contact Us</b></a> with any questions or suggestions.</p>
+<br/>
+
+  <div>
+    <div>Searches that query datasets for genes based on their observable characteristics of genetic manipulations, outcomes of host-pathogen interactions, CRISPR and quantitative phenotypes, etc. 
+	</div>
+      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypesearch.png" | absolute_url }}" alt="Searches"/><br>
+  </div>
+ <br/>
+
+  <div>
+    <div>Columns in the search results table.</div>
+      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotyperesult.png" | absolute_url }}" alt="Searches"/>
+  </div>
 </div>
