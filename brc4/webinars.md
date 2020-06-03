@@ -130,7 +130,7 @@ This webinar will demonstrate how to search for phenotypic datasets.
 <hr>
 <div class="anchor"><a name="ortho"></a></div>
 <div class="webinar">
-<b>Topic:</b>Orthology searches and OrthoMCL<br>
+<b>Topic:</b> Orthology searches and OrthoMCL<br>
 <b>Date:</b> Thursday July 2nd, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2184936719927506189">https://attendee.gotowebinar.com/register/2184936719927506189</a> <br>
@@ -142,7 +142,7 @@ This webinar will demonstrate how to search for homolog genes.
 <hr>
 <div class="anchor"><a name="rnaseq"></a></div>
 <div class="webinar">
-<b>Topic:</b>RNAseq searches in VEuPathDB<br>
+<b>Topic:</b> RNAseq searches in VEuPathDB<br>
 <b>Date:</b> Thursday July 9th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2472825147963078669">https://attendee.gotowebinar.com/register/2472825147963078669</a> <br>
