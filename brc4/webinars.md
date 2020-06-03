@@ -41,9 +41,9 @@ tags: [general]
    <p><b>Thursday May 21st, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p>
     <p><b>Thursday May 14th, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
     <p><b>Thursday May 7th, 2020:</b> <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
-    <p><b>Thursday April 30th, 2020:</b> <a href="#rnaseq">Interpreting RNAseq data in the genome browser.</a></p>
+    <p><b>Thursday April 30th, 2020:</b> <a href="#interpreting">Interpreting RNAseq data in the genome browser.</a></p>
     <p><b>Thursday April 23rd, 2020:</b> <a href="#browser">Introduction to the genome browser in VEuPathDB.</a></p>
-    <p><b>Thursday April 16th, 2020:</b> <a href="#motif">Introduction to VEuPathDB resources.</a></p>
+    <p><b>Thursday April 16th, 2020:</b> <a href="#introduction">Introduction to VEuPathDB resources.</a></p>
   </div>
 <br>
 <hr> <!-- ==== UPCOMING WEBINARS =============================== -->
@@ -231,7 +231,7 @@ This webinar will guide you through the process of building search strategies in
 </div>
 <hr>
 
-<div class="anchor"><a name="rnaseq"></a></div>
+<div class="anchor"><a name="interpreting"></a></div>
 <div class="webinar">
 <b>Topic:</b> Interpreting RNAseq data in the genome browser<br>
 <b>Date:</b> Thursday April 30th, 2020<br>
@@ -266,7 +266,7 @@ This webinar will introduce you to the genome browser in VEuPathDB resources. To
 </div>
 <hr>
 
-<div class="anchor"><a name="intro"></a></div>
+<div class="anchor"><a name="introduction"></a></div>
 <div class="webinar">
 <b>Topic:</b> Introduction to VEuPathDB resources<br>
 <b>Date:</b> Thursday April 16th, 2020<br>
