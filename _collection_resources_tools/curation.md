@@ -51,28 +51,31 @@ category: [FungiDB,PlasmoDB,TriTrypDB,VEuPathDB,EuPathDB]
   }
 </style>
 
-<p>Phenotypic evidence includes high-throughput phenotype data from experiments involving RNAi target sequencing, whole-genome knockout collections, piggyBac insertion mutagenesis, and also manually curated phenotypes by VEuPathDB and other resources.</p>
-
 <div class="phenotype-resources-feature">
-<p class="card-text">Phenotypic data is available to you as:</p>
+<p class="card-text">Genome curation and annotation:</p>
 
 <div class="phenotype-resources-feature--panels">
   <div>
-    <div>Tables (text and image data) associated with various phenotype collections on individual gene record pages.
+    <div> Structural and functional annotation in Apollo.
 	</div>
       <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypegenepage.png" | absolute_url }}" alt="Searches"/><br>
   </div>
+	
+<p> VEuPathDB provides means to improve gene models using the Apollo,  a collaborative, real-time, genome annotation web-based editor. The recent implementation of Apollo allows structural improvement of gene models via individual or collaborative efforts while taking advantage of VEuPathDB-integrated data or user-generated tracks.</p>
 <br/>
 
   <div>
-    <div>Searches that query datasets for genes based on their observable characteristics of genetic manipulations, outcomes of host-pathogen interactions, CRISPR and quantitative phenotypes, etc. 
+    <div> Manual curation (functional annotation) by VEuPathDB.
 	</div>
       <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypesearch.png" | absolute_url }}" alt="Searches"/><br>
   </div>
+  <p> Manual curation of genomes improves gene models. Functional attributes of genes and phenotypic annotations of the selected genomes (LINK) are manually curated by VEuPathDB regularly updated on live sites. Phenotypic annotations can be updated using the scientific literature and various external resources (e.g. user- and community-generated files, databases, etc.) </p>
  <br/>
 
   <div>
-    <div>Columns in the search results table.</div>
+    <div>User comments. </div>
       <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotyperesult.png" | absolute_url }}" alt="Searches"/>
   </div>
+  
+  <p> Functional annotation of genes can be updated via user comments. User comments are linked to user accounts and become visible immediately after submission. User comments can include files (e.g. protein location images or knockout library phenotype descriptions) or a list of relevant PubMed IDs.  </p>
 </div>
