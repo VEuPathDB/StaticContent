@@ -2,9 +2,9 @@
 identifier: "curation"
 listIconKey: "flask"
 listTitle: "Curation and Annotation"
-descriptionTitle: "Curation"
+descriptionTitle: "Curation and Annotation"
 tags: [tutorial]
-title: "Curation"
+title: "Curation and Annotation"
 permalink: '#curation'
 category: [FungiDB,PlasmoDB,TriTrypDB,VEuPathDB,EuPathDB]
 ---
