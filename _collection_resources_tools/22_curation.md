@@ -59,7 +59,7 @@ category: [FungiDB,PlasmoDB,TriTrypDB,VEuPathDB,EuPathDB]
     <div> Structural and functional annotation in Apollo.
 	</div>
 <p> VEuPathDB provides means to improve gene models using the Apollo,  a collaborative, real-time, genome annotation web-based editor. The recent implementation of Apollo allows structural improvement of gene models via individual or collaborative efforts while taking advantage of VEuPathDB-integrated data or user-generated tracks.</p>
-      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypegenepage.png" | absolute_url }}" alt="Searches"/><br>
+      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/curation1.png" | absolute_url }}" alt="Searches"/><br>
   </div>
 	
 <p> VEuPathDB provides means to improve gene models using the Apollo,  a collaborative, real-time, genome annotation web-based editor. The recent implementation of Apollo allows structural improvement of gene models via individual or collaborative efforts while taking advantage of VEuPathDB-integrated data or user-generated tracks.</p>
@@ -69,7 +69,7 @@ category: [FungiDB,PlasmoDB,TriTrypDB,VEuPathDB,EuPathDB]
     <div> Manual curation (functional annotation) by VEuPathDB.
 	</div>
 	<p> Manual curation of genomes improves gene models. Functional attributes of genes and phenotypic annotations of the selected genomes (LINK) are manually curated by VEuPathDB regularly updated on live sites. Phenotypic annotations can be updated using the scientific literature and various external resources (e.g. user- and community-generated files, databases, etc.) </p>
-      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotypesearch.png" | absolute_url }}" alt="Searches"/><br>
+      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/curation2.png" | absolute_url }}" alt="Searches"/><br>
   </div>
   
  <br/>
@@ -77,7 +77,7 @@ category: [FungiDB,PlasmoDB,TriTrypDB,VEuPathDB,EuPathDB]
   <div>
     <div>User comments. </div>
 	<p> Functional annotation of genes can be updated via user comments. User comments are linked to user accounts and become visible immediately after submission. User comments can include files (e.g. protein location images or knockout library phenotype descriptions) or a list of relevant PubMed IDs.  </p>
-      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/phenotyperesult.png" | absolute_url }}" alt="Searches"/>
+      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/curation3.png" | absolute_url }}" alt="Searches"/>
   </div>
   
   
