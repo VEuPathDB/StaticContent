@@ -52,7 +52,7 @@ category: [FungiDB,PlasmoDB,TriTrypDB,VEuPathDB,EuPathDB]
 </style>
 
 <div class="phenotype-resources-feature">
-<p class="card-text">Genome curation and annotation:</p>
+<p class="card-text">VEuPathDB supports curation and annotation of genomes and provides various tools to support individual and community-driven projects:</p>
 
 <div class="phenotype-resources-feature--panels">
   <div>
