@@ -155,10 +155,10 @@ This webinar will demonstrate how to search for under differential expression wi
 This webinar will describe the different available motif searches including regular expressions in VEuPathDB . Topics covered will include:
 <br>
 <ul>
-<li>InterPro domains</li>
-<li>InterPro domain searches</li>
-<li>Regular expressions</li>  
-<li>Regular expressions searches</li>
+  <li>InterPro domains</li>
+  <li>InterPro domain searches</li>
+  <li>Regular expressions</li>  
+  <li>Regular expressions searches</li>
 </ul>
 </div>
 <hr>
