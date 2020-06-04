@@ -51,25 +51,6 @@ tags: [general]
 <h3>Upcoming Webinars</h3>
 <br>
 
-<div class="anchor"><a name="motif"></a></div>
-<div class="webinar">
-<b>Topic:</b> Motif searches and regular expressions in VEuPathDB<br>
-<b>Date:</b> Thursday June 4th, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/6380113439642894608">https://attendee.gotowebinar.com/register/6380113439642894608</a> <br>
-<b>Additional Details:</b> <br>
-This webinar will describe the different available motif searches including regular expressions in VEuPathDB . Topics covered will include:
-<br>
-<ul>
-<li>InterPro domains</li>
-<li>InterPro domain searches</li>
-<li>
-Regular expressions</li>  
-<li>
-Regular expressions searches</li>
-</ul>
-</div>
-
 <hr>
 <div class="anchor"><a name="release47"></a></div>
 <div class="webinar">
@@ -158,6 +139,31 @@ This webinar will demonstrate how to search for under differential expression wi
 
 <h3>Previous Webinars</h3>
 <br>
+
+<div class="anchor"><a name="motif"></a></div>
+<div class="webinar">
+<b>Topic:</b> Motif searches and regular expressions in VEuPathDB<br>
+<b>Date:</b> Thursday June 4th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/6380113439642894608">https://attendee.gotowebinar.com/register/6380113439642894608</a> <br>
+<b>Recording Link: <br>  
+<b>Handout: </b> <a href="https://community.eupathdb.org/documents/Handout1-Webinar-4-June-2020.pdf">Motifs and regular expressions 1</a><br>
+<b>Handout: </b> <a href="https://community.eupathdb.org/documents/Handout2-Webinar-4-June-2020.pdf">Motifs and regular expressions 2</a><br>
+<b>Handout: </b> <a href="https://community.eupathdb.org/documents/Handout3-Webinar-4-June-2020.pdf">Motifs and regular expressions 3</a><br>
+<b>Handout: </b> <a href="https://community.eupathdb.org/documents/Regular-Expressions-slides.pdf">Motifs and regular expressions presentation slides</a><br>
+<b>Additional Details:</b> <br>
+This webinar will describe the different available motif searches including regular expressions in VEuPathDB . Topics covered will include:
+<br>
+<ul>
+<li>InterPro domains</li>
+<li>InterPro domain searches</li>
+<li>
+Regular expressions</li>  
+<li>
+Regular expressions searches</li>
+</ul>
+</div>
+<hr>
 
 <div class="anchor"><a name="GO"></a></div>
 <div class="webinar">
