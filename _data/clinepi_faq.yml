@@ -74,7 +74,7 @@
 - type: general
   question: "How does ClinEpiDB use ontologies?"
   answer: 
-           We use the [VEuPathDB ontology](http://obofoundry.org/ontology/eupath.html){:target='_blank'}, which is part of the Open Biological and Biomedical Ontology (OBO) Foundry, to increase data interoperablility. We map each data variable, and even some of the data values, to ontology terms. The identifiers for those ontology terms are provided in the download files and look like "EUPATH_0000120" or "PATO_0000047". We use the same ontology term identifier in every study where the same variable was collected. For instance, "Sex" was collected in all studies we have loaded so far, and you can find "Sex [PATO_0000047]" in the download files for every study.
+           We use the [VEuPathDB ontology](http://obofoundry.org/ontology/eupath.html){:target='_blank'}, which is part of the Open Biological and Biomedical Ontology (OBO) Foundry, to increase data interoperability. We map each data variable, and even some of the data values, to ontology terms. The identifiers for those ontology terms are provided in the download files and look like "EUPATH_0000120" or "PATO_0000047". We use the same ontology term identifier in every study where the same variable was collected. For instance, "Sex" was collected in all studies we have loaded so far, and you can find "Sex [PATO_0000047]" in the download files for every study.
   uid: g6
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: using_site
