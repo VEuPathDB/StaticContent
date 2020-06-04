@@ -157,10 +157,8 @@ This webinar will describe the different available motif searches including regu
 <ul>
 <li>InterPro domains</li>
 <li>InterPro domain searches</li>
-<li>
-Regular expressions</li>  
-<li>
-Regular expressions searches</li>
+<li>Regular expressions</li>  
+<li>Regular expressions searches</li>
 </ul>
 </div>
 <hr>
