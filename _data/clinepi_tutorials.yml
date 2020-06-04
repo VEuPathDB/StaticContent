@@ -264,3 +264,59 @@
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: http://datasciencemasters.org/
   date: "Feb 13, 2020"
+- type: resource
+  subtype: repository
+  title: "ClinicalStudyDataRequest"
+  description: "Facilitates access to patient-level data from clinical studies."
+  uid: r21
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.clinicalstudydatarequest.com/Default.aspx
+  date: "Jun 4, 2020"
+- type: resource
+  subtype: repository
+  title: "Vivli"
+  description: "Center for global clinical research data. The Vivli platform acts as an independent data repository and includes an in-depth search engine and a secure research environment."
+  uid: r22
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://vivli.org/
+  date: "Jun 4, 2020"
+- type: resource
+  subtype: repository
+  title: "Dryad"
+  description: "Repository for a wide variety of scientific fields and data types."
+  uid: r23
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://datadryad.org/stash
+  date: "Jun 4, 2020"
+- type: resource
+  subtype: repository
+  title: "Harvard Dataverse"
+  description: "Repository for a wide variety of research fields."
+  uid: r24
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://dataverse.harvard.edu/
+  date: "Jun 4, 2020"
+- type: resource
+  subtype: repository
+  title: "OSF"
+  description: "Platform supporting research from inception to publication. Hosts data files, protocols, and more."
+  uid: r25
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://osf.io/
+  date: "Jun 4, 2020"
+- type: resource
+  subtype: repository
+  title: "Inter-university Consortium for Political and Social Research (ICPSR)"
+  description: "Although primarily a repository for social and behavioral science research, this resource contains some datasets relevant to human health and disease."
+  uid: r26
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.icpsr.umich.edu/web/pages/index.html
+  date: "Jun 4, 2020"
+- type: resource
+  subtype: repository
+  title: "Data and Specimen Hub (DASH)"
+  description: "Resource for researchers to store de-identified data and to access data and associated biospecimens from NICHD-supported studies."
+  uid: r27
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://dash.nichd.nih.gov/
+  date: "Jun 4, 2020"
