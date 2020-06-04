@@ -146,6 +146,7 @@ This webinar will demonstrate how to search for under differential expression wi
 <b>Date:</b> Thursday June 4th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/6380113439642894608">https://attendee.gotowebinar.com/register/6380113439642894608</a> <br>  
+<b>Recording: </b><a href="https://youtu.be/kaQbEdtjIew">https://youtu.be/kaQbEdtjIew</a> <br> 
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/Handout1-Webinar-4-June-2020.pdf">Motifs and regular expressions 1</a><br>
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/Handout2-Webinar-4-June-2020.pdf">Motifs and regular expressions 2</a><br>
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/Handout3-Webinar-4-June-2020.pdf">Motifs and regular expressions 3</a><br>
