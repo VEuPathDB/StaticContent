@@ -71,6 +71,12 @@
            and we welcome input from the community. For instance, check out our [Shiny app scripts](https://github.com/VEuPathDB/ClinEpiWebsite/tree/master/View/lib/R/shiny/apps){:target='_blank'}.
   uid: g5
   projects: "ClinEpiDB,AllClinEpiDB"
+- type: general
+  question: "How does ClinEpiDB use ontologies?"
+  answer: 
+           We use the [VEuPathDB ontology](http://obofoundry.org/ontology/eupath.html){:target='_blank'}, which is part of the Open Biological and Biomedical Ontology (OBO) Foundry. We map each data variable, and even some of the data values, to ontology terms. The identifiers for those ontology terms are provided in the download files and look like "EUPATH_0000120" or "PATO_0000047". We use the same ontology term identifier in every study where the same variable was collected. For instance, "Sex" was collected in all studies we have loaded so far, and you can find "Sex [PATO_0000047]" in the download files for every study.
+  uid: g6
+  projects: "ClinEpiDB,AllClinEpiDB"
 - type: using_site
   question: "Create an account"
   answer: |
@@ -81,19 +87,17 @@
 
            Note: You only need one account for all VEuPathDB websites. This means that if you have 
            an account for other VEuPathDB resources such as PlasmoDB or MicrobiomeDB, you can log 
-           into ClinEpiDB with those credentials and vice versa
+           into ClinEpiDB with those credentials and vice versa.
   uid: u1
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: using_site
   question: "Change your password"
   answer: |
            1. Log in to your account
-           2. To access your account page, hover over the icon with your name beneath it in the top 
-           right-hand corner, then click your name in the window that appears
+           2. To access your account page, hover over the icon with your name beneath it in the top right-hand corner, then click your name in the window that appears
            3. At the bottom of the 'My Account' page, click the blue 'Change your password' link
            4. Complete the form and click 'Submit'
-           5. If you have successfully changed your password, green text will appear confirming the 
-           password change
+           5. If you have successfully changed your password, green text will appear confirming the password change
   uid: u2
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: using_site
