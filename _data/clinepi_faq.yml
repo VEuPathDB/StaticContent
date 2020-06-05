@@ -13,7 +13,7 @@
   answer: |
            If you want to cite ClinEpiDB directly, please use:
 
-           > Ruhamyankaka E, Brunk BP, Dorsey G *et al.* ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. [version 1; peer review: 2 approved]. *Gates Open Res* 2019, 3:1661 (<https://doi.org/10.12688/gatesopenres.13087.1>{:target='_blank'})
+           > Ruhamyankaka E, Brunk BP, Dorsey G *et al.* ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. [version 1; peer review: 2 approved]. *Gates Open Res* 2019, 3:1661 (<https://gatesopenresearch.org/articles/3-1661/v2>{:target='_blank'})
 
            When citing a dataset that you accessed via ClinEpiDB, please include the dataset authors, 
            study name, date of release and release number on ClinEpiDB, study page URL, and the fact that 
@@ -74,7 +74,9 @@
 - type: general
   question: "How does ClinEpiDB use ontologies?"
   answer: 
-           We use the [VEuPathDB ontology](http://obofoundry.org/ontology/eupath.html){:target='_blank'}, which is part of the Open Biological and Biomedical Ontology (OBO) Foundry, to increase data interoperability. We map each data variable, and even some of the data values, to ontology terms. The identifiers for those ontology terms are provided in the download files and look like "EUPATH_0000120" or "PATO_0000047". We use the same ontology term identifier in every study where the same variable was collected. For instance, "Sex" was collected in all studies we have loaded so far, and you can find "Sex [PATO_0000047]" in the download files for every study.
+           We use the [VEuPathDB ontology](http://obofoundry.org/ontology/eupath.html){:target='_blank'}, which is part of the Open Biological and Biomedical Ontology (OBO) Foundry, to increase data interoperability. Every ontology term has its own identifier, called an Internationalized Resource Identifier (IRI). For each ontology term, we create a label, which is what you see displayed as the variable name on ClinEpiDB and in the download files. While we don’t show IRIs on the website, you can always find them in the download files. They look like "EUPATH_0000120" or "PATO_0000047".
+           
+           We use the same ontology term in every study where the same variable was collected. For instance, information on participant sex was collected in all studies we have loaded so far, and you can find "Sex [PATO_0000047]" in the download files for every study. To learn more, check out our [Gates Open Research article](https://gatesopenresearch.org/articles/3-1661/v2){:target='_blank'}.
   uid: g6
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: using_site
