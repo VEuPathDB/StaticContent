@@ -87,12 +87,12 @@ This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics co
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/3260743976520156429">https://attendee.gotowebinar.com/register/3260743976520156429</a> <br>
 <b>Additional Details:</b> <br>
-This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics covered will include:
+Topics covered will include:
 <br>
 <ul>
 <li>Tour of the new (beta) website layout and organization</li>
 <li>Overview of the new tools</li>
-<li>Process for new data set incorporation</li>  
+<li>Process for new data set incorporation</li>
 </ul>
 </div>
 
