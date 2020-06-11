@@ -120,7 +120,7 @@ This webinar will demonstrate how to search for under differential expression wi
 <b>Topic:</b> MapVEu: population biology map filtering and searches<br>
 <b>Date:</b> Thursday June 11th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording link: </b><a href="https://youtu.be/Ab0V1ojYono">https://youtu.be/Ab0V1ojYono</a> <br> 
+<b>Recording link: </b><a href="https://youtu.be/XhnUuDN7CLo">https://youtu.be/XhnUuDN7CLo</a> <br> 
 <b>Additional Details:</b> <br>
 This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics covered will include:
 <br>
