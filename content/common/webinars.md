@@ -140,6 +140,7 @@ This webinar will demonstrate how to search for under differential expression wi
 <b>Additional Details:</b> <br>
 This webinar will discuss and demonstrate new features and data available in release 47 of the newly merged VEuPathDB sites.
 </div>
+<hr>
 
 <div class="anchor"><a name="motif"></a></div>
 <div class="webinar">
