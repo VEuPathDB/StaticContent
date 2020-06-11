@@ -25,7 +25,6 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3><br>
   <div id="contents">
-    <p><b>Thursday June 11th, 2020:</b> <a href="#mapveu">MapVEu: population biology map filtering and searches.</a></p>
     <p><b>Thursday June 18th, 2020:</b> <a href="#special">Special event: Introduction for VectorBase users.</a></p>
     <p><b>Thursday June 25th, 2020:</b> <a href="#phenotypic">Searching Phenotypic datasets in VEuPathDB.</a></p>
     <p><b>Thursday July 2nd, 2020:</b> <a href="#ortho">Orthology searches and OrthoMCL.</a></p>
@@ -37,7 +36,7 @@ tags: [general]
   
     If you missed any of our previous webinars feel free to explore the free recordings:
   
-  
+   <p><b>Thursday June 11th, 2020:</b> <a href="#mapveu">MapVEu: population biology map filtering and searches.</a></p>
    <p><b>Wednesday June 10th, 2020:</b> <a href="#release47">VEuPathDB Release 47.</a></p>
    <p><b>Thursday June 4th, 2020:</b> <a href="#motif">Motif searches and regular expressions in VEuPathDB.</a></p>
    <p><b>Thursday May 28th, 2020:</b> <a href="#GO">GO and other enrichment analyses in VEuPathDB.</a></p>
@@ -53,23 +52,6 @@ tags: [general]
 
 <h3>Upcoming Webinars</h3>
 <br>
-
-<hr>
-<div class="anchor"><a name="mapveu"></a></div>
-<div class="webinar">
-<b>Topic:</b> MapVEu: population biology map filtering and searches<br>
-<b>Date:</b> Thursday June 11th, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/6787119658896862224">https://attendee.gotowebinar.com/register/6787119658896862224</a> <br>
-<b>Additional Details:</b> <br>
-This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics covered will include:
-<br>
-<ul>
-<li>Basic MapVEu navigation</li>
-<li>Filtering data in the map</li>
-<li>Exploring record details</li>  
-</ul>
-</div>
 
 <hr>
 <div class="anchor"><a name="special"></a></div>
@@ -133,12 +115,29 @@ This webinar will demonstrate how to search for under differential expression wi
 <br>
 
 <hr>
+<div class="anchor"><a name="mapveu"></a></div>
+<div class="webinar">
+<b>Topic:</b> MapVEu: population biology map filtering and searches<br>
+<b>Date:</b> Thursday June 11th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording link: </b><a href="https://youtu.be/Ab0V1ojYono">https://youtu.be/Ab0V1ojYono</a> <br> 
+<b>Additional Details:</b> <br>
+This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics covered will include:
+<br>
+<ul>
+<li>Basic MapVEu navigation</li>
+<li>Filtering data in the map</li>
+<li>Exploring record details</li>  
+</ul>
+</div>
+
+<hr>
 <div class="anchor"><a name="release47"></a></div>
 <div class="webinar">
 <b>Topic:</b> VEuPathDB Release 47<br>
 <b>Date:</b> Wednesday June 10th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/5450036552813162253">https://attendee.gotowebinar.com/register/5450036552813162253</a> <br>
+<b>Recording link: </b><a href="https://youtu.be/Ab0V1ojYono">https://youtu.be/Ab0V1ojYono</a> <br> 
 <b>Additional Details:</b> <br>
 This webinar will discuss and demonstrate new features and data available in release 47 of the newly merged VEuPathDB sites.
 </div>
@@ -149,8 +148,7 @@ This webinar will discuss and demonstrate new features and data available in rel
 <b>Topic:</b> Motif searches and regular expressions in VEuPathDB<br>
 <b>Date:</b> Thursday June 4th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/6380113439642894608">https://attendee.gotowebinar.com/register/6380113439642894608</a> <br>  
-<b>Recording: </b><a href="https://youtu.be/kaQbEdtjIew">https://youtu.be/kaQbEdtjIew</a> <br> 
+<b>Recording link: </b><a href="https://youtu.be/kaQbEdtjIew">https://youtu.be/kaQbEdtjIew</a> <br> 
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/Handout1-Webinar-4-June-2020.pdf">Motifs and regular expressions 1</a><br>
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/Handout2-Webinar-4-June-2020.pdf">Motifs and regular expressions 2</a><br>
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/Handout3-Webinar-4-June-2020.pdf">Motifs and regular expressions 3</a><br>
