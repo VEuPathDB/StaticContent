@@ -65,6 +65,13 @@ category: [FungiDB,PlasmoDB,TriTrypDB,VEuPathDB,EuPathDB]
 <br/>
 
   <div>
+    <div>User comments. </div>
+	<p> Functional annotation of genes can be updated via user comments. User comments are linked to user accounts and become visible immediately after submission. User comments can include files (e.g. protein location images or knockout library phenotype descriptions) or a list of relevant PubMed IDs.  </p>
+      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/curation3.png" | absolute_url }}" alt="Searches"/>
+  </div>
+  
+  
+  <div>
     <div> Manual curation (functional annotation).
 	</div>
 	<p> Functional attributes of genes and phenotypic annotations of the <a href="https://docs.google.com/spreadsheets/d/1jDApyD-tIjISELD_oS0-4_5WRX5Vrrdfl0OuIvXQ3_c/edit?usp=sharing"><b>selected genomes</b></a> are manually curated by VEuPathDB regularly updated on live sites. Phenotypic annotations can be updated using the scientific literature and various external resources (e.g. user- and community-generated files, databases, etc.) </p>
@@ -72,12 +79,6 @@ category: [FungiDB,PlasmoDB,TriTrypDB,VEuPathDB,EuPathDB]
   </div>
   
  <br/>
-
-  <div>
-    <div>User comments. </div>
-	<p> Functional annotation of genes can be updated via user comments. User comments are linked to user accounts and become visible immediately after submission. User comments can include files (e.g. protein location images or knockout library phenotype descriptions) or a list of relevant PubMed IDs.  </p>
-      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/curation3.png" | absolute_url }}" alt="Searches"/>
-  </div>
   
   
 </div>
