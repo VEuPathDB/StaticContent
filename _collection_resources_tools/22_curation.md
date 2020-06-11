@@ -74,7 +74,7 @@ category: [FungiDB,PlasmoDB,TriTrypDB,VEuPathDB,EuPathDB]
   <div>
     <div> Manual curation (functional annotation).
 	</div>
-	<p> Functional attributes of genes and phenotypic annotations of the <a href="https://docs.google.com/spreadsheets/d/1jDApyD-tIjISELD_oS0-4_5WRX5Vrrdfl0OuIvXQ3_c/edit?usp=sharing"><b>selected genomes</b></a> are manually curated by VEuPathDB regularly updated on live sites. Phenotypic annotations can be updated using the scientific literature and various external resources (e.g. user- and community-generated files, databases, etc.) </p>
+	<p> VEuPathDB regularly curates and updates functional attributes of genes for the group of <a href="https://docs.google.com/spreadsheets/d/1jDApyD-tIjISELD_oS0-4_5WRX5Vrrdfl0OuIvXQ3_c/edit?usp=sharing"><b>selected genomes</b></a>. For example, gene names, gene synonyms, product descriptions, Gene Ontology annotations, EC numbers and PubMed IDs are integrated regularly from user comments and scientific publications. </p>
       <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/curation2.png" | absolute_url }}" alt="Searches"/><br>
   </div>
   
