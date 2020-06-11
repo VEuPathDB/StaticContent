@@ -59,7 +59,7 @@ category: [FungiDB,PlasmoDB,TriTrypDB,VEuPathDB,EuPathDB]
     <div> Structural and functional annotation in Apollo.
 	</div>
 <p> Apollo is  a collaborative, real-time, genome annotation web-based editor. It allows structural improvement of gene models via individual or collaborative efforts while taking advantage of VEuPathDB-integrated data or user-generated tracks.</p>
-  <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/curation1.png" | absolute_url }}" alt="Searches"/><br>
+  <img style="width: 35em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/curation1.png" | absolute_url }}" alt="Searches"/><br>
   </div>
 	
 <br/>
