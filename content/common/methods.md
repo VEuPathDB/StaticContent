@@ -17,7 +17,7 @@ div.coming-soon {
 
 <div class="static-content"> 
   <div class="coming-soon">
-    Coming Soon!
+    <i class="fa fa-gears"></i> Coming Soon!
   </div>
 </div>
 
