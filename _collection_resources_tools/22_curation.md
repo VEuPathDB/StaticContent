@@ -59,7 +59,7 @@ category: [FungiDB,PlasmoDB,TriTrypDB,VEuPathDB,EuPathDB]
     <div> Structural and functional annotation in Apollo.
 	</div>
 <p> Apollo is  a collaborative, real-time, genome annotation web-based editor. The recent implementation of Apollo allows structural improvement of gene models via individual or collaborative efforts while taking advantage of VEuPathDB-integrated data or user-generated tracks.</p>
-  <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/curation1.png" | absolute_url }}" alt="Searches"/><br>
+  <img style="width: 25em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/curation1.png" | absolute_url }}" alt="Searches"/><br>
   </div>
 	
 <br/>
@@ -76,7 +76,7 @@ category: [FungiDB,PlasmoDB,TriTrypDB,VEuPathDB,EuPathDB]
   <div>
     <div>User comments. </div>
 	<p> Functional annotation of genes can be updated via user comments. User comments are linked to user accounts and become visible immediately after submission. User comments can include files (e.g. protein location images or knockout library phenotype descriptions) or a list of relevant PubMed IDs.  </p>
-      <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/curation3.png" | absolute_url }}" alt="Searches"/>
+      <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/resources_tools/curation3.png" | absolute_url }}" alt="Searches"/>
   </div>
   
   
