@@ -7,6 +7,8 @@ title: VEuPathDB methods
 div.coming-soon {
   font-size: 200%;
   text-align: center;
+  margin-top: 3em;
+  color: grey;
 }
 
 </style>
