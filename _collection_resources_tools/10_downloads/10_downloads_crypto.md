@@ -6,7 +6,7 @@ listIconKey: "cloud-download"
 tags: [tutorial]
 title: Downloads
 permalink: '#downloads'
-category: [AmoebaDB,CryptoDB,FungiDB,GiardiaDB,HostDB,MicrosporidiaDB,PiroplasmaDB,PlasmoDB,SchistoDB,ToxoDB,TrichDB,TriTrypDB,VectorBase]
+category: [CryptoDB]
 ---
 {% assign projectName = page.category[0] %}{% include_relative shared/downloads.md project = projectName %}
 
