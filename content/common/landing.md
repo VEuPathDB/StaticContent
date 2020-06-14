@@ -51,7 +51,7 @@ title: VEuPathDB landing
   <div title="Coming soon!">
     <h3>Methods</h3>
     <p>Understand our data and its provenance.</p>
-    <button><a href="">Explore</a></button>
+    <button><a href="/a/app/static-content/methods.html">Explore</a></button>
   </div>
 
 </div>
