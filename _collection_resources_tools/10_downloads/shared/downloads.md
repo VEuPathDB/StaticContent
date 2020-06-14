@@ -42,7 +42,7 @@
 
 </style>
 
-{% assign webServicesPageLink  = "<a href='/a/app/static-content/content/{{project}}/webServices.html'><b>Web Services</b></a>" %}
+{% assign webServicesPageLink  = "<a href='/a/app/static-content/content/{{include.project}}/webServices.html'><b>Web Services</b></a>" %}
 
 <div class="downloads-feature">
 <p class="card-text">There are numerous ways to download raw data files from VEuPathDB.</p>
