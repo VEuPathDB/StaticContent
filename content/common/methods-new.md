@@ -57,7 +57,7 @@ div.coming-soon i{
 
    <p>On rare occasions the EBI pipeline cannot be applied to a genome.  For example, genomes that are not housed at an INSDC repository cannot be analyzed by the EBI pipeline.  VEuPathDB uses the following in-house analyses in lieu of the EBI pipeline. </p>
 
-   <p><u>BLAT against NRDB: this needs a description.</p>
+   <p><u>BLAT against NRDB</u>: this needs a description.</p>
 
    <p><u>Compute open reading frames</u>: Open reading frames are generated from genomic DNA or EST sequences.  The analysis produces a gff file containing the ORFs (50 or more amino acid translations of the input nucleic acid) for the 6 reading frames. The translations in all 6 reading frames do not necessarily begin with MET but always end at a stop codon. ORF names are in the form template-frame-start-end, e.g. AAEL01000396-5-5847-4366. </p>
 
