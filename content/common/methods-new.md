@@ -11,6 +11,9 @@ div.coming-soon {
 div.coming-soon i{
   padding-right: 0.5em;
 }
+div.method-details {
+  margin: 2em;
+}
 </style>
 
 
@@ -19,13 +22,14 @@ div.coming-soon i{
 
 <p>VEuPathDB draws data from many sources.  To facilitate comparisons across data sets, we analyze all data with standardized, data type-specific analyses.  All data of one type are analyzed with the same workflow.  Although our results may show some differences from an author’s publication, our re-analysis of the data makes it feasible to compare data sets from very different sources and to update the data analysis with contemporary methods.  For transparency, the methods we use to analyze data are presented here.  </p>
 
+<hr>
 <h2>Genome analyses</h2>
 
 <p>Genome sequence and annotation are  analyzed by the <a href="EBIpipeline">EBI Pipeline</a> supplemented with <a href="threeInHouse">three in-house analyses</a>.  In the rare case that the EBI pipeline cannot be applied to a genome, we use an <a href="serieInHouse">series of in-house analyses</a>. </p>
 
 <div class="anchor"><a name=EBIpipeline></a></div>
 <h3>EBI Pipeline</h3>
-
+  <div class="method-details">
    <p>VEuPathDB employs the <a href="http://ensemblgenomes.org/info/data">Ensembl genome analysis</a> pipelines for analyzing genomic sequence to enhance annotations. While most of the genomic sequence (FASTA) are integrated into VEuPathDB from an INSDC repository, genome annotation (GFF3) may come from either the INSDC repository or a community submission. </p>
 
    <p><u>Core database pipelines</u> (figure 1)- Primary genomic sequence and structural annotation data are loaded into a core database and run through 6 pipelines: core statistics, DNA feature annotation, <a href="http://ensemblgenomes.org/info/data/cross_references">external cross reference</a> annotation, <a href="http://ensemblgenomes.org/info/data/ncrna">RNA gene</a> annotation, <a href="http://ensemblgenomes.org/info/data/repeat_features">repeat feature</a> annotation, and <a href="http://ensemblgenomes.org/info/data/protein_features">protein feature</a> annotation.  The main pipelines applied to the core database and their components are listed in table 1. </p>
@@ -37,9 +41,12 @@ div.coming-soon i{
    <p>Table 1 goes here</p>
 
    <p>Table 2 goes here</p>
+  </div>
 
+<hr>
 <div class="anchor"><a name=threeInHouse></a></div>
 <h3>Supplements to the EBI Pipelines</h3>
+  <div class="method-details">
 
    <p>VEuPath DB supplements the EBI pipeline with workflows that produce data for EST alignments, Open reading frames, and synteny (Table).</p>
 
@@ -50,11 +57,12 @@ div.coming-soon i{
    <p><u>Synteny</u>: VEuPathDB uses an in-house script called runMercator to run pair-wise alignments that employs Mercator and MAVID for comparative genome analysis. Mercator generates orthology maps using genomes and exon coordinates to create exon translations for protein BLAT alignments. The orthology maps are used as a guide for MAVID which also uses a phylogenetic newick tree to generate gene alignments.</p>
 
    <p>Another table here</p>
+  </div>
 
-
+<hr>
 <div class="anchor"><a name="serieInHouse"></a></div>
 <h3>Genome analyses in Lieu of the EBI Pipeline</h3>
-
+  <div class="method-details">
    <p>On rare occasions the EBI pipeline cannot be applied to a genome.  For example, genomes that are not housed at an INSDC repository cannot be analyzed by the EBI pipeline.  VEuPathDB uses the following in-house analyses in lieu of the EBI pipeline. </p>
 
    <p><u>BLAT against NRDB</u>: this needs a description.</p>
@@ -76,8 +84,9 @@ div.coming-soon i{
    <p><u>tRNA gene prediction</u>: tRNAScan identifies transfer RNA genes in transcript or genome sequences.  </p>
 
    <p> another table goes here</p>
+  </div>
 
-
+<hr>
 <h2>Proteomics</h2>
 
 <p>Wei gave me info in the google doc</p>
