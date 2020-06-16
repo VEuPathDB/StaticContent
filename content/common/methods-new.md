@@ -30,6 +30,12 @@ div.coming-soon i{
 
 <p><u>Core database pipelines</u> (figure 1)- Primary genomic sequence and structural annotation data are loaded into a core database and run through 6 pipelines: core statistics, DNA feature annotation, <a href="http://ensemblgenomes.org/info/data/cross_references">external cross reference</a> annotation, <a href="http://ensemblgenomes.org/info/data/ncrna">RNA gene</a> annotation, <a href="http://ensemblgenomes.org/info/data/repeat_features">repeat feature</a> annotation, and <a href="http://ensemblgenomes.org/info/data/protein_features">protein feature</a> annotation.  The main pipelines applied to the core database and their components are listed in table 1. </p>
 
+<p>Configuration details for each pipeline are determined in Ensembl hive pipeline config files for each pipeline. Since the Ensemble pipelines may change to accommodate bioinformatic advances, pipeline component programs (e.g. Interpro for protein features), versions, and parameters are recorded in the core db analysis table. Final data check results are saved to disk and manually reviewed to determine if the final core db is suitable for release to be loaded into the GUS system.</p>
+
+<img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/Core-analyses-image.png" | absolute_url }}" alt="Searches"/></br></br>
+
+
+
 
 
   <div class="coming-soon">
