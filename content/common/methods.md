@@ -18,8 +18,8 @@ div.method-details {
 <p>VEuPathDB draws data from many sources.  To facilitate comparisons across data sets, we analyze all data with standardized, data type-specific analyses.  All data of one type are analyzed with the same workflow.  Although our results may show some differences from an author’s publication, our re-analysis of the data makes it feasible to compare data sets from very different sources and to update the data analysis with contemporary methods.  For transparency, the methods we use to analyze data are presented here.  </p>
 
 <hr>
-
 <h2>Genome analyses</h2>
+<hr>
 
 <p>Genome sequence and annotation are  analyzed by the <a href="#EBIpipeline">EBI Pipeline</a> supplemented with <a href="#threeInHouse">three in-house analyses</a>.  In the rare case that the EBI pipeline cannot be applied to a genome, we use an <a href="#serieInHouse">series of in-house analyses</a>. </p>
 
@@ -85,8 +85,8 @@ div.method-details {
   </div>
 
 <hr>
-
 <h2>Proteomics</h2>
+<hr>
 
 <p>Wei gave me info in the google doc</p>
 
