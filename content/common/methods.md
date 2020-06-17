@@ -87,10 +87,15 @@ div.method-details {
 <hr>
 <h2>Proteomics</h2>
 <hr>
+<div class="method-details">
+   <p>VEuPathDB integrates the results of proteomics experiments as peptides aligned to a reference genome or as abundance data assigned to a gene.   We do not reanalyze the raw mass spec data but instead use an in-house plugin that loads found peptides or abundance data from tab delimited input files of a specific format.</p>
+   
+   <p> another table goes here</p>
+  </div>
 
-<p>Wei gave me info in the google doc</p>
-
-
+<hr>
+<h2>RNA-Sequence</h2>
+<hr>
 
 </div>
 
