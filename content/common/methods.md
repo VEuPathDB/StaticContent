@@ -52,7 +52,7 @@ div.method-details {
    
    <p><u>Synteny</u>: VEuPathDB uses an in-house script called runMercator to run pair-wise alignments that employs Mercator and MAVID for comparative genome analysis. Mercator generates orthology maps using genomes and exon coordinates to create exon translations for protein BLAT alignments. The orthology maps are used as a guide for MAVID which also uses a phylogenetic newick tree to generate gene alignments.</p>
    
-   <p><a href="htpps://qa.static-content.veupathdb.org/documents/Methods-Supplements-Genomes.pdf">Details for the supplements to the EBI pipelines</a></p>
+   <p><a href="https://qa.static-content.veupathdb.org/documents/Methods-Supplements-Genomes.pdf">Details for the supplements to the EBI pipelines</a></p>
   </div>
 
 <hr>
