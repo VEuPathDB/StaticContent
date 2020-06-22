@@ -25,7 +25,6 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3><br>
   <div id="contents">
-    <p><b>Thursday June 18th, 2020:</b> <a href="#special">Special event: Introduction for VectorBase users.</a></p>
     <p><b>Thursday June 25th, 2020:</b> <a href="#phenotypic">Searching Phenotypic datasets in VEuPathDB.</a></p>
     <p><b>Thursday July 2nd, 2020:</b> <a href="#ortho">Orthology searches and OrthoMCL.</a></p>
     <p><b>Thursday July 9th, 2020:</b> <a href="#rnaseq">RNAseq searches in VEuPathDB.</a></p>
@@ -35,7 +34,8 @@ tags: [general]
   <div id="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
-  
+   
+   <p><b>Thursday June 18th, 2020:</b> <a href="#special">Special event: Introduction for VectorBase users.</a></p>
    <p><b>Thursday June 11th, 2020:</b> <a href="#mapveu">MapVEu: population biology map filtering and searches.</a></p>
    <p><b>Wednesday June 10th, 2020:</b> <a href="#release47">VEuPathDB Release 47.</a></p>
    <p><b>Thursday June 4th, 2020:</b> <a href="#motif">Motif searches and regular expressions in VEuPathDB.</a></p>
@@ -53,22 +53,6 @@ tags: [general]
 <h3>Upcoming Webinars</h3>
 <br>
 
-<hr>
-<div class="anchor"><a name="special"></a></div>
-<div class="webinar">
-<b>Topic:</b> Special event: Introduction for VectorBase users<br>
-<b>Date:</b> Thursday June 18th, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/3260743976520156429">https://attendee.gotowebinar.com/register/3260743976520156429</a> <br>
-<b>Additional Details:</b> <br>
-Topics covered will include:
-<br>
-<ul>
-<li>Tour of the new (beta) website layout and organization</li>
-<li>Overview of the new tools</li>
-<li>Process for new data set incorporation</li>  
-</ul>
-</div>
 
 <hr>
 <div class="anchor"><a name="phenotypic"></a></div>
@@ -113,6 +97,24 @@ This webinar will demonstrate how to search for under differential expression wi
 
 <h3>Previous Webinars</h3>
 <br>
+
+
+<hr>
+<div class="anchor"><a name="special"></a></div>
+<div class="webinar">
+<b>Topic:</b> Special event: Introduction for VectorBase users<br>
+<b>Date:</b> Thursday June 18th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/nETsJDwFxBA">https://youtu.be/nETsJDwFxBA</a> <br>
+<b>Additional Details:</b> <br>
+Topics covered included:
+<br>
+<ul>
+<li>Tour of the new (beta) website layout and organization</li>
+<li>Overview of the new tools</li>
+<li>Process for new data set incorporation</li>  
+</ul>
+</div>
 
 <hr>
 <div class="anchor"><a name="mapveu"></a></div>
