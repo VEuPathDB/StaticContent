@@ -34,9 +34,9 @@ div.method-details {
 
    <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/Core-analyses-image.png" | absolute_url }}" alt="Searches"/>
 
-   <p> <a href="https://community.eupathdb.org/documents/Methods-Core-Table.pdf">Core database analysis pipelines and hive components </a> </p>
+   <p> <a href="https://qa.static-content.veupathdb.org/documents/Methods-Core-Table.pdf">Core database analysis pipelines and hive components </a> </p>
 
-   <p><a href="https://community.eupathdb.org/documents/Methods-Ex-Pipelines.pdf">Example ehive pipelines, modules, programs and parameter data from coredb analysis table</a></p>
+   <p><a href="https://qa.static-content.veupathdb.org/documents/Methods-Ex-Pipelines.pdf">Example ehive pipelines, modules, programs and parameter data from coredb analysis table</a></p>
   </div>
 
 <hr>
@@ -80,7 +80,7 @@ div.method-details {
    
    <p><u>tRNA gene prediction</u>: tRNAScan identifies transfer RNA genes in transcript or genome sequences.  </p>
    
-   <p><a href="https://community.eupathdb.org/documents/Methods-Details-In-Lieu-genomes.pdf">Details for the VEuPathDB in-house pipelines</a></p>
+   <p><a href="https://qa.static-content.veupathdb.org/documents/Methods-Details-In-Lieu-genomes.pdf">Details for the VEuPathDB in-house pipelines</a></p>
   </div>
 
 <hr>
@@ -89,7 +89,7 @@ div.method-details {
 <div class="method-details">
    <p>VEuPathDB integrates the results of proteomics experiments as peptides aligned to a reference genome or as abundance data assigned to a gene.   We do not reanalyze the raw mass spec data but instead use an in-house plugin that loads found peptides or abundance data from tab delimited input files of a specific format.</p>
    
-   <p><a href="https://community.eupathdb.org/documents/Methods-Proteomics.pdf">Details for the VEuPathDB in-house proteomics pipeline</a></p>
+   <p><a href="https://qa.static-content.veupathdb.org/documents/Methods-Proteomics.pdf">Details for the VEuPathDB in-house proteomics pipeline</a></p>
   </div>
 
 <hr>
