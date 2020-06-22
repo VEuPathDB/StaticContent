@@ -34,9 +34,9 @@ div.method-details {
 
    <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/Core-analyses-image.png" | absolute_url }}" alt="Searches"/>
 
-   <p> <a href="https://community.eupathdb.org/documents/Methods-Core-Table.pdf">Core database analysis pipelines and hive components </a><br> </p>
+   <p> <a href="https://community.eupathdb.org/documents/Methods-Core-Table.pdf">Core database analysis pipelines and hive components </a> </p>
 
-   <p>Table 2 goes here</p>
+   <p><a href="https://community.eupathdb.org/documents/Methods-Ex-Pipelines.pdf">Example ehive pipelines, modules, programs and parameter data from coredb analysis table</a></p>
   </div>
 
 <hr>
