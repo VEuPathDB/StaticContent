@@ -21,7 +21,7 @@ div.method-details {
 <h2>Genome analyses</h2>
 <hr>
 
-<p>Genome sequence and annotation are  analyzed by the <a href="#EBIpipeline">EBI Pipeline</a> supplemented with <a href="#threeInHouse">three in-house analyses</a>.  In the rare case that the EBI pipeline cannot be applied to a genome, we use an <a href="#serieInHouse">series of in-house analyses</a>. </p>
+<p>Genome sequence and annotation are  analyzed by the <a href="#EBIpipeline">EBI Pipeline</a> supplemented with <a href="#threeInHouse">three in-house analyses</a>.  In the rare case that the EBI pipeline cannot be applied to a genome, we use a <a href="#serieInHouse">series of in-house analyses</a> in lieu of the EBI Pipelines. </p>
 
   <div class="anchor"><a name="EBIpipeline"></a></div>
   <h3>EBI Pipeline</h3>
@@ -58,11 +58,11 @@ div.method-details {
 <hr>
   
   <div class="anchor"><a name="serieInHouse"></a></div>
-  <h3>Genome analyses in Lieu of the EBI Pipeline</h3>
+  <h3>In-house genome analyses in Lieu of the EBI Pipeline</h3>
   <div class="method-details">
    <p>On rare occasions the EBI pipeline cannot be applied to a genome.  For example, genomes that are not housed at an INSDC repository cannot be analyzed by the EBI pipeline.  VEuPathDB uses the following in-house analyses in lieu of the EBI pipeline. </p>
    
-   <p><u>BLAT against NRDB</u>: this needs a description.</p>
+   <p><u>BLAT against NRDB</u>: For every genome, VEuPathDB runs BLAT alignements of the annotated proteins against the GenBank Non-Redundant Protein Sequence Database (NRDB) to identify possible relationships and alignments outside the scope of VEuPathDB-supported organisms. </p>
    
    <p><u>Compute open reading frames</u>: Open reading frames are generated from genomic DNA or EST sequences.  The analysis produces a gff file containing the ORFs (50 or more amino acid translations of the input nucleic acid) for the 6 reading frames. The translations in all 6 reading frames do not necessarily begin with MET but always end at a stop codon. ORF names are in the form template-frame-start-end, e.g. AAEL01000396-5-5847-4366. </p>
    
