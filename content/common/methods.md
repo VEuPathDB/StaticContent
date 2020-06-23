@@ -34,7 +34,7 @@ div.method-details {
 
    <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/Core-analyses-image.png" | absolute_url }}" alt="Searches"/>
 
-   <p> <a href="https://qa.static-content.veupathdb.org/documents/Methods-Core-Table.pdf">Core database analysis pipelines and hive components </a> </p>
+   <p> <a href="{{'/documents/Methods-Core-Table.pdf" | absolute_url}}>Core database analysis pipelines and hive components </a> </p>
 
    <p><a href="https://qa.static-content.veupathdb.org/documents/Methods-Ex-Pipelines.pdf">Example ehive pipelines, modules, programs and parameter data from coredb analysis table</a></p>
   </div>
