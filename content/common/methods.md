@@ -34,9 +34,9 @@ div.method-details {
 
    <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/Core-analyses-image.png" | absolute_url }}" alt="Searches"/>
 
-   <p> <a href="{{'/documents/Methods-Core-Table.pdf" | absolute_url}}>Core database analysis pipelines and hive components </a> </p>
+   <p> <a href="{{'/documents/Methods-Core-Table.pdf' | absolute_url}}">Core database analysis pipelines and hive components </a> </p>
 
-   <p><a href="{{'/documents/Methods-Ex-Pipelines.pdf" | absolute_url}}>Example ehive pipelines, modules, programs and parameter data from coredb analysis table</a></p>
+   <p><a href="{{'/documents/Methods-Ex-Pipelines.pdf' | absolute_url}}">Example ehive pipelines, modules, programs and parameter data from coredb analysis table</a></p>
   </div>
 
 <hr>
@@ -80,7 +80,7 @@ div.method-details {
    
    <p><u>tRNA gene prediction</u>: tRNAScan identifies transfer RNA genes in transcript or genome sequences.  </p>
    
-   <p><a href="{{'/documents/Methods-Details-In-Lieu-genomes.pdf | absolute_url}} ">Details for the VEuPathDB in-house pipelines</a></p>
+   <p><a href="{{'/documents/Methods-Details-In-Lieu-genomes.pdf' | absolute_url }}">Details for the VEuPathDB in-house pipelines</a></p>
   </div>
 
 <hr>
