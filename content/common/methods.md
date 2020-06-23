@@ -95,6 +95,7 @@ div.method-details {
 <hr>
 <h2>RNA-Sequence</h2>
 <hr>
-
+<div class="method-details">
+   <p>VEuPathDB integrates RNA-Seq data from many different experiments and analyzes all data with the same EBI RNA-Seq analysis pipeline. Further details coming soon. </p>
 </div>
 
