@@ -36,7 +36,7 @@ div.method-details {
 
    <p> <a href="{{'/documents/Methods-Core-Table.pdf" | absolute_url}}>Core database analysis pipelines and hive components </a> </p>
 
-   <p><a href="https://qa.static-content.veupathdb.org/documents/Methods-Ex-Pipelines.pdf">Example ehive pipelines, modules, programs and parameter data from coredb analysis table</a></p>
+   <p><a href="{{'/documents/Methods-Ex-Pipelines.pdf" | absolute_url}}>Example ehive pipelines, modules, programs and parameter data from coredb analysis table</a></p>
   </div>
 
 <hr>
@@ -52,7 +52,7 @@ div.method-details {
    
    <p><u>Synteny</u>: VEuPathDB uses an in-house script called runMercator to run pair-wise alignments that employs Mercator and MAVID for comparative genome analysis. Mercator generates orthology maps using genomes and exon coordinates to create exon translations for protein BLAT alignments. The orthology maps are used as a guide for MAVID which also uses a phylogenetic newick tree to generate gene alignments.</p>
    
-   <p><a href="https://qa.static-content.veupathdb.org/documents/Methods-Supplements-Genomes.pdf">Details for the supplements to the EBI pipelines</a></p>
+   <p><a href="{{'/documents/Methods-Supplements-Genomes.pdf' | absolute_url }}">Details for the supplements to the EBI pipelines</a></p>
   </div>
 
 <hr>
@@ -80,7 +80,7 @@ div.method-details {
    
    <p><u>tRNA gene prediction</u>: tRNAScan identifies transfer RNA genes in transcript or genome sequences.  </p>
    
-   <p><a href="https://qa.static-content.veupathdb.org/documents/Methods-Details-In-Lieu-genomes.pdf">Details for the VEuPathDB in-house pipelines</a></p>
+   <p><a href="{{'/documents/Methods-Details-In-Lieu-genomes.pdf | absolute_url}} ">Details for the VEuPathDB in-house pipelines</a></p>
   </div>
 
 <hr>
@@ -89,7 +89,7 @@ div.method-details {
 <div class="method-details">
    <p>VEuPathDB integrates the results of proteomics experiments as peptides aligned to a reference genome or as abundance data assigned to a gene.   We do not reanalyze the raw mass spec data but instead use an in-house plugin that loads found peptides or abundance data from tab delimited input files of a specific format.</p>
    
-   <p><a href="https://qa.static-content.veupathdb.org/documents/Methods-Proteomics.pdf">Details for the VEuPathDB in-house proteomics pipeline</a></p>
+   <p><a href="{{'/documents/Methods-Proteomics.pdf' | absolute_url}}">Details for the VEuPathDB in-house proteomics pipeline</a></p>
   </div>
 
 <hr>
