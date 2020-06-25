@@ -94,7 +94,7 @@ This webinar will demonstrate how to search for under differential expression wi
 <b>Topic:</b> Searching Phenotypic datasets in VEuPathDB<br>
 <b>Date:</b> Thursday June 25th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link: </b><a href="https://youtu.be/0KNatBANi94">https://youtu.be/0KNatBANi94</a> <br>
+<b>Recording Link: </b><a href="https://youtu.be/0KNatBANi94" target="_blank">https://youtu.be/0KNatBANi94</a> <br>
 <b>Additional Details:</b> <br>
 This webinar gives an overview of phenotypic data on VEuPathDB sites, including representation of data on gene pages and searches that access all data so that you can find all genes with a certain phenotype.  Phenotype data on our sites is based on cellular imaging experiments, and mutagenesis studies (among others).
 <br>
@@ -107,7 +107,7 @@ This webinar gives an overview of phenotypic data on VEuPathDB sites, including 
 <b>Topic:</b> Special event: Introduction for VectorBase users<br>
 <b>Date:</b> Thursday June 18th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link: </b><a href="https://youtu.be/nETsJDwFxBA">https://youtu.be/nETsJDwFxBA</a> <br>
+<b>Recording Link: </b><a href="https://youtu.be/nETsJDwFxBA" target="_blank">https://youtu.be/nETsJDwFxBA</a> <br>
 <b>Additional Details:</b> <br>
 Topics covered included:
 <br>
@@ -124,7 +124,7 @@ Topics covered included:
 <b>Topic:</b> MapVEu: population biology map filtering and searches<br>
 <b>Date:</b> Thursday June 11th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording link: </b><a href="https://youtu.be/XhnUuDN7CLo">https://youtu.be/XhnUuDN7CLo</a> <br> 
+<b>Recording link: </b><a href="https://youtu.be/XhnUuDN7CLo" target="_blank">https://youtu.be/XhnUuDN7CLo</a> <br> 
 <b>Additional Details:</b> <br>
 This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics covered will include:
 <br>
@@ -141,7 +141,7 @@ This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics co
 <b>Topic:</b> VEuPathDB Release 47<br>
 <b>Date:</b> Wednesday June 10th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording link: </b><a href="https://youtu.be/Ab0V1ojYono">https://youtu.be/Ab0V1ojYono</a> <br> 
+<b>Recording link: </b><a href="https://youtu.be/Ab0V1ojYono" target="_blank">https://youtu.be/Ab0V1ojYono</a> <br> 
 <b>Additional Details:</b> <br>
 This webinar will discuss and demonstrate new features and data available in release 47 of the newly merged VEuPathDB sites.
 </div>
@@ -152,7 +152,7 @@ This webinar will discuss and demonstrate new features and data available in rel
 <b>Topic:</b> Motif searches and regular expressions in VEuPathDB<br>
 <b>Date:</b> Thursday June 4th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording link: </b><a href="https://youtu.be/kaQbEdtjIew">https://youtu.be/kaQbEdtjIew</a> <br> 
+<b>Recording link: </b><a href="https://youtu.be/kaQbEdtjIew" target="_blank">https://youtu.be/kaQbEdtjIew</a> <br> 
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/Handout1-Webinar-4-June-2020.pdf">Motifs and regular expressions 1</a><br>
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/Handout2-Webinar-4-June-2020.pdf">Motifs and regular expressions 2</a><br>
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/Handout3-Webinar-4-June-2020.pdf">Motifs and regular expressions 3</a><br>
@@ -174,7 +174,7 @@ This webinar will describe the different available motif searches including regu
 <b>Topic:</b> GO and other enrichment analyses in VEuPathDB<br>
 <b>Date:</b> Thursday May 28th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link: </b><a href="https://youtu.be/l5Uf49T9AF4">https://youtu.be/l5Uf49T9AF4</a> <br>
+<b>Recording Link: </b><a href="https://youtu.be/l5Uf49T9AF4" target="_blank">https://youtu.be/l5Uf49T9AF4</a> <br>
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/27May2020VEuPathDBWebinarfinal.pdf">Enrichment Analysis in VEuPathDB</a><br>
 <b>Additional Details:</b> <br>
 This webinar will guide you through the process of running enrichment analyses in VEuPathDB. Topics covered will include:
@@ -194,7 +194,7 @@ Metabolic pathway enrichment</li>
 <b>Topic:</b> Manual gene annotation in Apollo<br>
 <b>Date:</b> Thursday May 21st, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link: </b><a href="https://youtu.be/RMXZDBMh8Fo">https://youtu.be/RMXZDBMh8Fo</a> <br>
+<b>Recording Link: </b><a href="https://youtu.be/RMXZDBMh8Fo" target="_blank">https://youtu.be/RMXZDBMh8Fo</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will guide you through the process of updating and fixing gene models based on underlying data. Topics covered will include:
 <br>
@@ -211,7 +211,7 @@ This webinar will guide you through the process of updating and fixing gene mode
 <b>Topic:</b> Running a Galaxy workflow and integrating data into VEuPathDB<br>
 <b>Date:</b> Thursday May 14th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link: </b><a href="https://youtu.be/k15AJlZpNH8">https://youtu.be/k15AJlZpNH8</a> <br>
+<b>Recording Link: </b><a href="https://youtu.be/k15AJlZpNH8" target="_blank">https://youtu.be/k15AJlZpNH8</a> <br>
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/14May2020_How-to-set-an-account-in-VEuPathDB-Galaxy.pdf">How to set up an account in VEuPathDB Galaxy</a><br>
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/14May2020_RNA-sequence-data-analysis-in-VEuPathDB-Galaxy-Part-1.pdf">RNA sequence data analysis in VEuPathDB Galaxy Part 1</a><br>
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/14May2020_RNA-sequence-data-analysis-in-VEuPathDB-Galaxy-Part-2.pdf">RNA sequence data analysis in VEuPathDB Galaxy Part 2</a><br>
@@ -225,7 +225,7 @@ This webinar will guide you through the process of running a workflow in galaxy 
 <b>Topic:</b> Building search strategies in VEuPathDB<br>
 <b>Date:</b> Thursday May 7th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link: </b><a href="https://youtu.be/hmTzUUibSeY">https://youtu.be/hmTzUUibSeY</a> <br>
+<b>Recording Link: </b><a href="https://youtu.be/hmTzUUibSeY" target="_blank">https://youtu.be/hmTzUUibSeY</a> <br>
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/07May2020-Strategies-in-PlasmoDB.pdf">Building Strategies- example in PlasmoDB</a><br>
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/07May2020_Building-search-strategies-in-FungiDB.pdf">Building search strategies in FungiDB</a><br>
 <b>Additional Details:</b> <br>
@@ -246,7 +246,7 @@ This webinar will guide you through the process of building search strategies in
 <b>Topic:</b> Interpreting RNAseq data in the genome browser<br>
 <b>Date:</b> Thursday April 30th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link: </b><a href="https://youtu.be/W-HKQMq2_tI">https://youtu.be/W-HKQMq2_tI</a> <br>
+<b>Recording Link: </b><a href="https://youtu.be/W-HKQMq2_tI" target="_blank">https://youtu.be/W-HKQMq2_tI</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will guide you through the process of viewing RNA-seq coverage tracks in the genome browser and how to use this data to examine gene structure. Specifically the webinar will cover:
 <br>
@@ -263,7 +263,7 @@ This webinar will guide you through the process of viewing RNA-seq coverage trac
 <b>Topic:</b> Introduction to the genome browser in VEuPathDB<br>
 <b>Date:</b> Thursday April 23rd, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link: </b><a href="https://youtu.be/GfV1LrycO7Y">https://youtu.be/GfV1LrycO7Y</a> <br>
+<b>Recording Link: </b><a href="https://youtu.be/GfV1LrycO7Y" target="_blank">https://youtu.be/GfV1LrycO7Y</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will introduce you to the genome browser in VEuPathDB resources. Topics covered will include:<br>
 <ul>
@@ -281,7 +281,7 @@ This webinar will introduce you to the genome browser in VEuPathDB resources. To
 <b>Topic:</b> Introduction to VEuPathDB resources<br>
 <b>Date:</b> Thursday April 16th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link: </b><a href="https://youtu.be/YprhSDTvsEE">https://youtu.be/YprhSDTvsEE</a> <br>
+<b>Recording Link: </b><a href="https://youtu.be/YprhSDTvsEE" target="_blank">https://youtu.be/YprhSDTvsEE</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will introduce you to VEuPathDB resources and highlight some of the tools available to you to explore and analyze underlying data.  Topics covered will include:<br>
 <ul>
