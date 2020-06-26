@@ -52,14 +52,14 @@
   question: "How does ClinEpiDB protect human subject data?"
   answer: |
            1. We ask all users to agree to our [Data Access and Use Policy](/documents/DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'}
-           2. Direct identifiers such as names and GPS coordinates are removed for all studies. Dates are obfuscated, locations are generalized, and additional indirect identifiers are removed or obfuscated as needed on a case-by-case basis. For some studies, subject IDs are re-assigned to break the link to the institution’s copy of the data
+           2. Direct identifiers such as names and GPS coordinates are removed for all studies. Dates are obfuscated, locations are generalized, and additional indirect identifiers are removed or obfuscated as needed on a case-by-case basis. For some studies, subject IDs are re-assigned to break the link to the institution's copy of the data
            3. Data access restrictions are implemented as needed (see [Data Access and Use Policy](/documents/DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'})
   uid: g5
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
   question: "If I want to share data via ClinEpiDB, do I need to include data sharing in my IRB proposal?"
   answer: |
-           Yes! If you intend to make data available, it’s important to include that in your consent
+           Yes! If you intend to make data available, it's important to include that in your consent
            forms and your IRB proposal. Our [IRB data sharing guidance](/documents/IRBDataSharingGuidance.pdf){:target='_blank'}
            document contains a brief summary of what to consider when putting together an IRB proposal.
   uid: g6
@@ -74,7 +74,7 @@
 - type: general
   question: "How does ClinEpiDB use ontologies?"
   answer: |
-           We use the [VEuPathDB ontology](http://obofoundry.org/ontology/eupath.html){:target='_blank'}, which is an Open Biological and Biomedical Ontology (OBO) Foundry ontology, to increase data interoperability. As a part of ClinEpiDB data processing, every variable within a study is assigned to a unique ontology term. Each ontology term has its own identifier, called an Internationalized Resource Identifier (IRI). For each term, we create a user-friendly label, which is what you see displayed as the variable name on ClinEpiDB and in the download files. These labels are generally consistent across studies. We don’t display IRIs on the website, but you can find them in the download files. They look like "EUPATH_0000120" or "PATO_0000047".
+           We use the [VEuPathDB ontology](http://obofoundry.org/ontology/eupath.html){:target='_blank'}, which is an Open Biological and Biomedical Ontology (OBO) Foundry ontology, to increase data interoperability. As a part of ClinEpiDB data processing, every variable within a study is assigned to a unique ontology term. Each ontology term has its own identifier, called an Internationalized Resource Identifier (IRI). For each term, we create a user-friendly label, which is what you see displayed as the variable name on ClinEpiDB and in the download files. These labels are generally consistent across studies. We don't display IRIs on the website, but you can find them in the download files. They look like "EUPATH_0000120" or "PATO_0000047".
 
            In our annotation we use the same ontology term in every study where the same variable was collected. For instance, information on participant sex was collected in all studies we have loaded so far, and you can find "Sex [PATO_0000047]"" in the download files for every study. To learn more, check out our general [Gates Open Research article](https://doi.org/10.12688/gatesopenres.13087.2){:target='_blank'} or our [article on using ontologies](https://pdfs.semanticscholar.org/888e/a51dbb138122d39c42f863f2a1ada7976db4.pdf){:target='_blank'}.
   uid: g6
@@ -83,7 +83,7 @@
   question: "Create an account"
   answer: |
            1. Hover over the icon labeled 'Guest' in the top right-hand corner, then click 'Register'
-           2. Fill out the registration form then click the ‘Register’ button
+           2. Fill out the registration form then click the 'Register' button
            3. A green text box should appear, indicating successful registration
            4. Check your email to retrieve your temporary password
 
