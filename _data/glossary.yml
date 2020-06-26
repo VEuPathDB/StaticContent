@@ -11,7 +11,9 @@
   description: Amino acid sequence.
 - term: Affymetrix genotyped SNP probes
   description: Probes on Affymetrix <a href="#SNP">SNP</a> (single nucleotide polymorphism)
-      arrays, which are used for <a href="#SNP genotyping">SNP genotyping</a>. See <a href="#Affymetrix microarray technology">Affymetrix microarray technology</a> and <a href="http://www.affymetrix.com">www.affymetrix.com</a>
+      arrays, which are used for <a href="#SNP genotyping">SNP
+      genotyping</a>. See <a href="#Affymetrix microarray
+      technology">Affymetrix microarray technology</a> and <a href="http://www.affymetrix.com">www.affymetrix.com</a>
 - term: Affymetrix microarray technology
   description: <a href="#Microarray">Microarray</a> manufacturing technology developed
       by Affymetrix. Combines semiconductor fabrication techniques, solid phase chemistry,
