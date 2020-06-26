@@ -22,7 +22,7 @@ title: VEuPathDB acknowledgements
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Fiona Henriquez&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Michael Cammer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Marlene Benchimol&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Hugo Aguilar-Díaz&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>PiroplasmaDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>TriTrypDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Julio C. Carrero&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Ellen Yeh&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Rick Tarleton&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>CryptoDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Lowell Kappemeyer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Richard wheeler&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>CryptoDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Lowell Kappemeyer&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Richard Wheeler&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Boris Striepen&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Audrey Lau&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Leandro Lemgruber Soares&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>FungiDB:</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Dirk Dobbelaere&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Margaret Mullin&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://zygolife.org">ZyGoLife</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Manoj Duraisingh&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Camila Silva Gonçalves&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
