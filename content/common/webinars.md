@@ -25,7 +25,6 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3><br>
   <div id="contents">
-    <p><b>Thursday July 2nd, 2020:</b> <a href="#ortho">Orthology searches and OrthoMCL.</a></p>
     <p><b>Thursday July 9th, 2020:</b> <a href="#rnaseq">RNAseq searches in VEuPathDB.</a></p>
   </div>
   
@@ -34,7 +33,7 @@ tags: [general]
   
     If you missed any of our previous webinars feel free to explore the free recordings:
    
-   
+   <p><b>Thursday July 2nd, 2020:</b> <a href="#ortho">Orthology searches and OrthoMCL.</a></p>
    <p><b>Thursday June 25th, 2020:</b> <a href="#phenotypic">Searching Phenotypic datasets in VEuPathDB.</a></p>
    <p><b>Thursday June 18th, 2020:</b> <a href="#special">Special event: Introduction for VectorBase users.</a></p>
    <p><b>Thursday June 11th, 2020:</b> <a href="#mapveu">MapVEu: population biology map filtering and searches.</a></p>
@@ -53,19 +52,6 @@ tags: [general]
 
 <h3>Upcoming Webinars</h3>
 <br>
-
-
-<hr>
-<div class="anchor"><a name="ortho"></a></div>
-<div class="webinar">
-<b>Topic:</b> Orthology searches and OrthoMCL<br>
-<b>Date:</b> Thursday July 2nd, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2184936719927506189">https://attendee.gotowebinar.com/register/2184936719927506189</a> <br>
-<b>Additional Details:</b> <br>
-This webinar will demonstrate how to search for homolog genes. 
-<br>
-</div>
 
 <hr>
 <div class="anchor"><a name="rnaseq"></a></div>
@@ -86,6 +72,18 @@ This webinar will demonstrate how to search for under differential expression wi
 
 <h3>Previous Webinars</h3>
 <br>
+
+<hr>
+<div class="anchor"><a name="ortho"></a></div>
+<div class="webinar">
+<b>Topic:</b> Orthology searches and OrthoMCL<br>
+<b>Date:</b> Thursday July 2nd, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/KYD44dBteSs">https://youtu.be/KYD44dBteSs</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will demonstrate how to search for homolog genes. 
+<br>
+</div>
 
 
 <hr>
