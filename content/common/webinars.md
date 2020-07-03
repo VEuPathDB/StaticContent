@@ -26,6 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3><br>
   <div id="contents">
     <p><b>Thursday July 9th, 2020:</b> <a href="#rnaseq">RNAseq searches in VEuPathDB.</a></p>
+    <p><b>Thursday July 16th, 2020:</b> <a href="#fungidb">Introduction to FungiDB - Data and Functionality.</a></p>
   </div>
   
   <h3>Previous Webinars</h3><br>
@@ -64,7 +65,21 @@ tags: [general]
 This webinar will demonstrate how to search for under differential expression with RNAseq datasets. 
 <br>
 </div>
-
+<div class="webinar">
+<b>Topic:</b> Introduction to FungiDB - Data and Functionality<br>
+<b>Date:</b> Thursday July 16th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/1504596308712173839">https://attendee.gotowebinar.com/register/1504596308712173839</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will cover:<br>
+<ul>
+<li>What type of data is in FungiDB</li>
+<li>How do we find out about data and schedule it for release</li>
+<li>Demo of key searches</li>
+<li>Demo of key search and analysis tools</li>
+</ul>
+<br>
+</div>
 
 
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
