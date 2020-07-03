@@ -26,6 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3><br>
   <div id="contents">
     <p><b>Thursday July 9th, 2020:</b> <a href="#rnaseq">RNAseq searches in VEuPathDB.</a></p>
+  <p><b>Thursday July 16th, 2020:</b> <a href="#fungidb">Introduction to FungiDB - Data and Functionality.</a></p>
   </div>
   
   <h3>Previous Webinars</h3><br>
