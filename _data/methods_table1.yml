@@ -1,0 +1,32 @@
+---
+tableName: Core database analysis pipelines and hive components
+lastUpdate: 2020-07-04
+organization: EBI
+type: Genome
+rows:
+  - data: EST alignments
+    program: BLAT
+    params: |
+           -nohead 
+           -maxIntron=1000 
+           -t=dna 
+           -q=dna 
+           -dots=10
+    version: 35
+  - data: Open Reading Frames
+    program: orfFinder
+    params: "--minPepLength 50"
+    version: https://github.com/VEuPathDB/.../orfFinder
+  - data: Synteny
+    program: Mercator and MAVID
+    params: |
+           -p (PATH TO MERCATOR DIRECTORY)
+           -t (tree string)
+           -m (MAVID_EXE)
+           -c (CNDSRC_DIR) 
+           -d draftGenome1... 
+           -d draftGemoneN 
+           -n nonDraftGeome1... 
+           -n nonDraftGenomeN 
+           -r referenceGenome
+    version: https://github.com/VEuPathDB/.../runMercator
