@@ -20,20 +20,12 @@ ul {
 
 # Data Access and Use Policy for ClinEpiDB, a VEuPathDB Database
 
-<div>
-
 The Clinical Epidemiology Database, ClinEpiDB (http://ClinEpiDB.org) is operated under funding from the Bill and Melinda Gates Foundation. ClinEpiDB is charged with ensuring that epidemiologic datasets are conveniently and freely accessible to the global biomedical researcher community. This document summarizes policies associated with the access and use of datasets on ClinEpiDB.
 
-</div>
-
 ## Access and use agreement
-
-<div>
   
 ClinEpiDB is committed to ensuring the appropriate protection of all study data made available through its platform.<br> 
 Prior to accessing any data provided through ClinEpiDB, the User acknowledges that study data are interpretable only to the extent that the study design and context are understood and agrees:
-
-</div>
     
 * To adhere to the principles presented in the access system description below
 * To use the datasets solely for research and statistical analysis and not for investigating specific research participants
@@ -46,13 +38,8 @@ Prior to accessing any data provided through ClinEpiDB, the User acknowledges th
 
 ##  Data access restrictions
     
-<div>
-
 Each dataset that is submitted to ClinEpiDB is unique and may require implementation of a different level of data access restriction even once the dataset is publicly released. Each dataset will fall into one of the five categories described in the table below: public, controlled, limited, protected, and private. These categories differ in what levels of access are required to see aggregated vs disaggregated data. Aggregated data includes what can be seen in the search wizard and Shiny App analysis tools, while disaggregated data includes what can be seen on the results page, individual record pages, and the downloaded files.
 
-</div>
-<br>
-   
 |  __Access level__ | __Description__ |
 | :----- | :----- |
 | Public | No access restrictions. Users can view and download the data as "Guests" without logging in. |
