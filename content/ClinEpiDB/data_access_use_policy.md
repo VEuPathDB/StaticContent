@@ -20,7 +20,7 @@ ul {
 
 # Data Access and Use Policy for ClinEpiDB, a VEuPathDB Database
 
-The Clinical Epidemiology Database, ClinEpiDB (http://ClinEpiDB.org) is operated under funding from the Bill and Melinda Gates Foundation. ClinEpiDB is charged with ensuring that epidemiologic datasets are conveniently and freely accessible to the global biomedical researcher community. This document summarizes policies associated with the access and use of datasets on ClinEpiDB.
+The Clinical Epidemiology Database, ClinEpiDB [http://ClinEpiDB.org](http://ClinEpiDB.org), is operated under funding from the Bill and Melinda Gates Foundation. ClinEpiDB is charged with ensuring that epidemiologic datasets are conveniently and freely accessible to the global biomedical researcher community. This document summarizes policies associated with the access and use of datasets on ClinEpiDB.
 
 ## Access and use agreement
   
