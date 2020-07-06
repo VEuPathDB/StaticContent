@@ -13,7 +13,7 @@ permalink: /ClinEpiDB/faq
     {% for item in site.data.clinepi_faq %}
     {% if item.type == "general" %}
     <li><a name="{{ item.uid }}"></a>
-      <details>
+      <details id="{{ item.uid }}">
         <summary>{{ item.question }}</summary>
         <p>
           {{ item.answer | markdownify }}
@@ -31,7 +31,7 @@ permalink: /ClinEpiDB/faq
     {% for item in site.data.clinepi_faq %}
     {% if item.type == "using_site" %}
     <li><a name="{{ item.uid }}"></a>
-      <details>
+      <details id="{{ item.uid }}">
         <summary>{{ item.question }}</summary>
         <p>
           {{ item.answer | markdownify}}
@@ -44,3 +44,17 @@ permalink: /ClinEpiDB/faq
 </div>
 
 </div>
+
+<script>
+function getHashFromUrl(url){
+    console.log("My url: ", url);
+    var a = document.createElement("a");
+    a.href = url;
+    return a.hash.replace(/^#/, "");
+}
+function openEntry(myanchor) {
+  console.log("My Anchor: ", myanchor);
+  document.getElementById(myanchor).open = true;
+}
+document.onload = openEntry(getHashFromUrl(window.location.href));
+</script>
