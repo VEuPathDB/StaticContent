@@ -16,7 +16,7 @@ ul {
 }
 </style>
 
-<div id="ce-static-content" markdown="1">
+<div id="ce-data-access" markdown="1">
 
 # Data Access and Use Policy for ClinEpiDB, a VEuPathDB Database
 
