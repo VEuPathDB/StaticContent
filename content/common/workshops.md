@@ -49,7 +49,6 @@ tags: [general]
 
 <h4>VectorBase workshop at AGS</h4>
 <p>
-<b>About the VectorBase Workshop:</b>
 The VectorBase workshop is a 3-hour introduction to this database, which is part of the VEuPathDB project. 
 </p>
 <p>
@@ -122,8 +121,7 @@ Email your questions to help@vectorbase.org
 
 <h4>Gene manual annotation with Apollo workshop at AGS</h4>
 <p>
-<b>About the Workshop:</b>
-The VectorBase workshop is a 2-hour introduction to the tool Apollo, which is currently available in VectorBase. This course will guide you through the process of updating and fixing gene models based on underlying data, including topics such as the addition of new genes, edition of the intron/exon boundaries, use of RNAseq and homology alignment data to support changes. This workshop would benefit vector biologist or any scientist with interest in annotating their favorite genes in Apollo available in other databases, e.g., i5k (https://i5k.nal.usda.gov/jbrowse-and-apollo).  
+This workshop is a 2-hour introduction to the tool Apollo, which is currently available in VectorBase. This course will guide you through the process of updating and fixing gene models based on underlying data, including topics such as the addition of new genes, edition of the intron/exon boundaries, use of RNAseq and homology alignment data to support changes. This workshop would benefit vector biologist or any scientist with interest in annotating their favorite genes in Apollo available in other databases, e.g., i5k (https://i5k.nal.usda.gov/jbrowse-and-apollo).  
 </p>
 <p>
 <b>Who should apply:</b> 
