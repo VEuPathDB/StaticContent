@@ -23,18 +23,18 @@ tags: [general]
 <h1 id="resources">VEuPathDB Webinars</h1>
 <div class="static-content">
 
-  <h3>Upcoming Webinars</h3><br>
+  <h3>Upcoming Webinars</h3>
   <div id="contents">
-    <p><b>Thursday July 9th, 2020:</b> <a href="#rnaseq">RNAseq searches in VEuPathDB.</a></p>
+    <p>
     <p><b>Thursday July 16th, 2020:</b> <a href="#fungidb">Introduction to FungiDB - Data and Functionality.</a></p>
     <p><b>Thursday July 23th, 2020:</b> <a href="#snp">Variant data in VEuPathDB.</a></p>
   </div>
   
-  <h3>Previous Webinars</h3><br>
+  <h3>Previous Webinars</h3>
   <div id="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
-   
+   <p><b>Thursday July 9th, 2020:</b> <a href="#rnaseq">RNAseq searches in VEuPathDB.</a></p>
    <p><b>Thursday July 2nd, 2020:</b> <a href="#ortho">Orthology searches and OrthoMCL.</a></p>
    <p><b>Thursday June 25th, 2020:</b> <a href="#phenotypic">Searching Phenotypic datasets in VEuPathDB.</a></p>
    <p><b>Thursday June 18th, 2020:</b> <a href="#special">Special event: Introduction for VectorBase users.</a></p>
@@ -53,19 +53,7 @@ tags: [general]
 <hr> <!-- ==== UPCOMING WEBINARS =============================== -->
 
 <h3>Upcoming Webinars</h3>
-<br>
 
-<hr>
-<div class="anchor"><a name="rnaseq"></a></div>
-<div class="webinar">
-<b>Topic:</b> RNAseq searches in VEuPathDB<br>
-<b>Date:</b> Thursday July 9th, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2472825147963078669">https://attendee.gotowebinar.com/register/2472825147963078669</a> <br>
-<b>Additional Details:</b> <br>
-This webinar will demonstrate how to search for under differential expression with RNAseq datasets. 
-<br>
-</div>
 <hr>
 <div class="anchor"><a name="fungidb"></a></div>
 <div class="webinar">
@@ -103,8 +91,17 @@ This webinar will cover:<br>
 
 
 <h3>Previous Webinars</h3>
+<hr>
+<div class="anchor"><a name="rnaseq"></a></div>
+<div class="webinar">
+<b>Topic:</b> RNAseq searches in VEuPathDB<br>
+<b>Date:</b> Thursday July 9th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/D2NAqIz6Fug">https://youtu.be/D2NAqIz6Fug</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will demonstrate how to search for under differential expression with RNAseq datasets. 
 <br>
-
+</div>
 <hr>
 <div class="anchor"><a name="ortho"></a></div>
 <div class="webinar">
