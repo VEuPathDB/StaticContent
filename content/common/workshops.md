@@ -47,6 +47,7 @@ tags: [general]
 <div class="anchor"><a name="vb"></a></div>
 <div class="workshop">
 
+<h4>VectorBase workshop at AGS</h4>
 <p>
 <b>About the VectorBase Workshop:</b>
 The VectorBase workshop is a 3-hour introduction to this database, which is part of the VEuPathDB project. 
@@ -91,8 +92,23 @@ To encourage the active participation/Q&A during the hands-on activities, limite
 <b>Additional Information:</b> 
 Email your questions to help@vectorbase.org  
 </p>
+
 <details>
-<summary>Agenda, schedule and instructors:</summary>
+<summary><b>Agenda, schedule and instructors:</b></summary>
+
+<ul>
+<li>GIGC: Gloria I. Giraldo-Calderón, University of Notre Dame</li>
+<li>OH: Omar Harb, Pennsylvania State University</li>
+</ul>
+
+<table style="border:1px solid black">
+  <thead style="font-weight:bold">
+    <tr><th>Time</th><th>Topic</th><th>Instructor</th></tr>
+  </thead>
+  <tbody>
+    <tr><td></td><td></td><td></td><td></td></tr>
+  </tbody>
+</table>
 
 </details>
 
@@ -104,6 +120,7 @@ Email your questions to help@vectorbase.org
 <div class="anchor"><a name="apollo"></a></div>
 <div class="workshop">
 
+<h4>Gene manual annotation with Apollo workshop at AGS</h4>
 <p>
 <b>About the Workshop:</b>
 The VectorBase workshop is a 2-hour introduction to the tool Apollo, which is currently available in VectorBase. This course will guide you through the process of updating and fixing gene models based on underlying data, including topics such as the addition of new genes, edition of the intron/exon boundaries, use of RNAseq and homology alignment data to support changes. This workshop would benefit vector biologist or any scientist with interest in annotating their favorite genes in Apollo available in other databases, e.g., i5k (https://i5k.nal.usda.gov/jbrowse-and-apollo).  
@@ -149,7 +166,7 @@ To encourage the active participation/Q&A during the hands-on activities, limite
 Email your questions to help@vectorbase.org  
 </p>
 <details>
-<summary>Agenda, schedule and instructors:</summary>
+<summary><b>Agenda, schedule and instructors:</b></summary>
 
 </details>
 
