@@ -16,7 +16,7 @@ tags: [general]
     line-height: 90%;
   }
   div.workshop {
-    margin: 2em 0;
+    margin: 2em 1em;
   }
 </style>
 
