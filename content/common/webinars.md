@@ -27,6 +27,7 @@ tags: [general]
   <div id="contents">
     <p><b>Thursday July 9th, 2020:</b> <a href="#rnaseq">RNAseq searches in VEuPathDB.</a></p>
     <p><b>Thursday July 16th, 2020:</b> <a href="#fungidb">Introduction to FungiDB - Data and Functionality.</a></p>
+    <p><b>Thursday July 23th, 2020:</b> <a href="#snp">Variant data in VEuPathDB.</a></p>
   </div>
   
   <h3>Previous Webinars</h3><br>
@@ -81,8 +82,22 @@ This webinar will cover:<br>
 <li>Demo of key search and analysis tools</li>
 </ul>
 <br>
+<hr>
+<div class="anchor"><a name="snp"></a></div>
+<div class="webinar">
+<b>Topic:</b> Variant data in VEuPathDB<br>
+<b>Date:</b> Thursday July 23th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/9005464633523261196">https://attendee.gotowebinar.com/register/9005464633523261196</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will cover:<br>
+<ul>
+<li>Single nucleotide polymorphism searches</li>
+<li>Copy number variation searches</li>
+<li>Variant data visualizations</li>
+</ul>
+<br>
 </div>
-
 
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 
