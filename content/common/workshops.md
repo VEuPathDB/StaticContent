@@ -246,6 +246,9 @@ To encourage the active participation/Q&A during the hands-on activities, limite
     <tr><th>PDT (W. Coast)</th><th>EDT (E. Coast)</th><th>CET (Europe)</th><th>Length (mn)</th></tr>
   </thead>
   <tbody>
+    <tr><td></td><td></td><td></td><td></td>
+        <td></td>
+        <td></td>
     <tr><td>8:00</td><td>11:00</td><td>17:00</td><td>45 min</td>
         <td>Demonstration</td>
         <td>DL</td>
