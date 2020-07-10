@@ -258,7 +258,7 @@ To encourage the active participation/Q&A during the hands-on activities, limite
         <td>Break</td>
         <td></td>
     </tr>
-    <tr><td>8:</td><td>11:55</td><td>17:55</td><td>45</td>
+    <tr><td>9:15</td><td>12:15</td><td>18:15</td><td>45</td>
         <td>Hands-on exercises</td>
         <td>DL,OH,GIGC</td>
     </tr>
