@@ -235,8 +235,9 @@ To encourage the active participation/Q&A during the hands-on activities, limite
 <summary><b>Agenda, schedule and instructors:</b></summary>
 
 <ul>
-<li>DL: Daniel Lawson, Imperial College London</li>
+<li>CH: Christopher Childers, United States Department of Agriculture </li>
 <li>GIGC: Gloria I. Giraldo-Calderón, University of Notre Dame</li>
+<li>DL: Daniel Lawson, Imperial College London</li>
 <li>OH: Omar Harb, Pennsylvania State University</li>
 </ul>
 
@@ -247,8 +248,8 @@ To encourage the active participation/Q&A during the hands-on activities, limite
   </thead>
   <tbody>
    <tr><td>8:00</td><td>11:00</td><td>17:00</td><td>15</td>
-        <td></td>
-        <td></td>
+        <td>i5K@NAL: Who we are and what data we host with an emphasis on Apollo</td>
+        <td>CH</td>
     <tr><td>8:15</td><td>11:15</td><td>17:15</td><td>45 min</td>
         <td>Demonstration</td>
         <td>DL</td>
