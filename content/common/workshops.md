@@ -244,21 +244,21 @@ To encourage the active participation/Q&A during the hands-on activities, limite
 <table>
   <thead style="font-weight:bold">
     <tr><th colspan="4">Time</th><th rowspan="2">Topic</th><th rowspan="2">Instructor</th></tr>
-    <tr><th>PDT (W. Coast)</th><th>EDT (E. Coast)</th><th>CET (Europe)</th><th>Length (mn)</th></tr>
+    <tr><th>PDT (W. Coast)</th><th>EDT (E. Coast)</th><th>CET (Europe)</th><th>Length (min)</th></tr>
   </thead>
   <tbody>
    <tr><td>8:00</td><td>11:00</td><td>17:00</td><td>15</td>
         <td>i5K@NAL: Who we are and what data we host with an emphasis on Apollo</td>
         <td>CH</td>
-    <tr><td>8:15</td><td>11:15</td><td>17:15</td><td>45 min</td>
+    <tr><td>8:15</td><td>11:15</td><td>17:15</td><td>45</td>
         <td>Demonstration</td>
         <td>DL</td>
     </tr>
-    <tr class="break"><td></td><td></td><td></td><td>15 min</td>
+    <tr class="break"><td></td><td></td><td></td><td>15</td>
         <td>Break</td>
         <td></td>
     </tr>
-    <tr><td>8:</td><td>11:55</td><td>17:55</td><td>45 min</td>
+    <tr><td>8:</td><td>11:55</td><td>17:55</td><td>45</td>
         <td>Hands-on exercises</td>
         <td>DL,OH,GIGC</td>
     </tr>
