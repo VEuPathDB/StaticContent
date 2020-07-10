@@ -32,7 +32,7 @@ tr.break td {
 th {
   text-align: center;
 }
-summary {
+details summary, details ul {
   margin-top: 1em;
 }
 </style>
