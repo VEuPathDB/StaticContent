@@ -147,11 +147,11 @@ To encourage the active participation/Q&A during the hands-on activities, limite
         <td>Break</td>
         <td></td>
     </tr>
-    <tr><td></td><td></td><td></td><td>40</td>
+    <tr><td>9:25</td><td>12:25</td><18:25td></td><td>40</td>
         <td>Exercise 3: GO enrichment </td>
         <td>OH</td>
     </tr>
-    <tr><td></td><td></td><td></td><td>40</td>
+    <tr><td>10:10</td><td>13:10</td><td>19:10</td><td>40</td>
         <td>Exercise 4: Gene page and genome browser </td>
         <td>GIGC</td>
     </tr>
