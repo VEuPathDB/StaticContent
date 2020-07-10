@@ -67,9 +67,9 @@ summary {
 <div class="anchor"><a name="vb-2020-7-24"></a></div>
 <div class="workshop">
 
-<h4>VectorBase workshop at AGS
+<h3>VectorBase workshop at AGS
 <span style="font-weight:100">, on Friday July 24th, 2020</span>
-</h4>
+</h3>
 
 <p>
 The VectorBase workshop is a 3-hour introduction to this database, which is part of the VEuPathDB project. 
@@ -182,9 +182,9 @@ Email your questions to help@vectorbase.org
 <div class="anchor"><a name="apollo-2020-7-27"></a></div>
 <div class="workshop">
 
-<h4>Gene manual annotation with Apollo workshop at AGS
+<h3>Gene manual annotation with Apollo workshop at AGS
 <span style="font-weight:100">, on Monday July 27th, 2020</span>
-</h4>
+</h3>
 
 <p>
 This workshop is a 2-hour introduction to the tool Apollo, which is currently available in VectorBase. This course will guide you through the process of updating and fixing gene models based on underlying data, including topics such as the addition of new genes, edition of the intron/exon boundaries, use of RNAseq and homology alignment data to support changes. This workshop would benefit vector biologist or any scientist with interest in annotating their favorite genes in Apollo available in other databases, e.g., i5k (<a target="_blank" href="https://i5k.nal.usda.gov/jbrowse-and-apollo">https://i5k.nal.usda.gov/jbrowse-and-apollo</a>).  
