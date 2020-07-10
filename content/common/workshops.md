@@ -246,18 +246,18 @@ To encourage the active participation/Q&A during the hands-on activities, limite
     <tr><th>PDT (W. Coast)</th><th>EDT (E. Coast)</th><th>CET (Europe)</th><th>Length (mn)</th></tr>
   </thead>
   <tbody>
-    <tr><td></td><td></td><td></td><td></td>
+   <tr><td>8:00</td><td>11:00</td><td>17:00</td><td>15</td>
         <td></td>
         <td></td>
-    <tr><td>8:00</td><td>11:00</td><td>17:00</td><td>45 min</td>
+    <tr><td>8:15</td><td>11:15</td><td>17:15</td><td>45 min</td>
         <td>Demonstration</td>
         <td>DL</td>
     </tr>
-    <tr class="break"><td></td><td></td><td></td><td>10 min</td>
+    <tr class="break"><td></td><td></td><td></td><td>15 min</td>
         <td>Break</td>
         <td></td>
     </tr>
-    <tr><td>8:55</td><td>11:55</td><td>17:55</td><td>45 min</td>
+    <tr><td>8:</td><td>11:55</td><td>17:55</td><td>45 min</td>
         <td>Hands-on exercises</td>
         <td>DL,OH,GIGC</td>
     </tr>
