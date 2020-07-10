@@ -270,5 +270,10 @@ Email your questions to help@vectorbase.org
 <h3>Previous Workshops</h3>
 <hr>
 
+  <div id="contents">
+    <p>VectorBase: <a rel="noreferrer" href="https://www.vectorbase.org/tutorials" target="_blank">Previous tutorials</a>
+       and <a rel="noreferrer" href="https://www.vectorbase.org/workshops" target="_blank">Previous workshops and webinars</a>.</p>
+    <p>EuPathDB: <a href="https://workshop.eupathdb.org" target="_blank">Previous workshops</a>.</p>
+  </div>
 
 </div>
