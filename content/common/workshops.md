@@ -160,10 +160,6 @@ To encourage the active participation/Q&A during the hands-on activities, limite
         <td>Additional questions, wrap-up and workshop feedback</td>
         <td>OH</td>
     </tr>
-    <tr><td></td><td></td><td></td><td></td>
-        <td></td>
-        <td></td>
-    </tr>
   </tbody>
 </table>
 
