@@ -128,7 +128,7 @@ To encourage the active participation/Q&A during the hands-on activities, limite
 <table>
   <thead style="font-weight:bold">
     <tr><th colspan="4">Time</th><th rowspan="2">Topic</th><th rowspan="2">Instructor</th></tr>
-    <tr><th>PDT (W. Coast)</th><th>EDT (E. Coast)</th><th>CET (Europe)</th><th>Length (mn)</th></tr>
+    <tr><th>PDT (W. Coast)</th><th>EDT (E. Coast)</th><th>CET (Europe)</th><th>Length (min)</th></tr>
   </thead>
   <tbody>
     <tr><td>8:00</td><td>11:00</td><td>17:00</td><td>10</td>
