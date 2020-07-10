@@ -19,6 +19,7 @@ tags: [general]
     margin: 2em 1em;
   }
 table {
+  margin-top: 1em;
   border-collapse: collapse;
 }
 table, th, td {
@@ -27,6 +28,12 @@ table, th, td {
 }
 tr.break td {
   background-color: lightgrey;
+}
+th {
+  text-align: center;
+}
+summary {
+  margin-top: 1em;
 }
 </style>
 
