@@ -18,6 +18,16 @@ tags: [general]
   div.workshop {
     margin: 2em 1em;
   }
+table {
+  border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid black;
+  padding: 0.5em;
+}
+tr.break td {
+  background-color: lightgrey;
+}
 </style>
 
 <h1>VEuPathDB Workshops</h1>
@@ -26,16 +36,18 @@ tags: [general]
   <h3>Upcoming Workshops</h3><br>
   <div id="contents">
     <h4>2020 VectorBase, Arthropod Genomics Symposium (AGS), virtual.</h4>
-    <p>Friday July 24th, 2020: <a href="#vb">3-hour event, VectorBase workshop at AGS .</a></p>
-    <p>Monday July 27th, 2020: <a href="#apollo">2-hour event, Gene manual annotation with Apollo workshop at AGS .</a></p>
+    <ul>
+    <li>Friday July 24th, 2020: <a href="#vb-2020-7-24">VectorBase workshop at AGS</a> (3-hour event)</li>
+    <li>Monday July 27th, 2020: <a href="#apollo-2020-7-27">Gene manual annotation with Apollo workshop at AGS</a> (2-hour event)</li>
+    </ul>
   </div>
 
 <br>
   
   <h3>Previous Workshops</h3><br>
   <div id="contents">
-    <p>VectorBase: <a href="https://www.vectorbase.org/tutorials" target="_blank">Previous tutorials</a>
-       and <a href="https://www.vectorbase.org/workshops" target="_blank">Previous workshops and webinars</a>.</p>
+    <p>VectorBase: <a rel="noreferrer" href="https://www.vectorbase.org/tutorials" target="_blank">Previous tutorials</a>
+       and <a rel="noreferrer" href="https://www.vectorbase.org/workshops" target="_blank">Previous workshops and webinars</a>.</p>
     <p>EuPathDB: <a href="https://workshop.eupathdb.org" target="_blank">Previous workshops</a>.</p> 
   </div>
 
@@ -43,50 +55,57 @@ tags: [general]
 <hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
 
 <h3>Upcoming Workshops</h3>
+<hr>
 
-<div class="anchor"><a name="vb"></a></div>
+<div class="anchor"><a name="vb-2020-7-24"></a></div>
 <div class="workshop">
 
-<h4>VectorBase workshop at AGS</h4>
+<h4><span style="font-weight:100">Friday July 24th, 2020:</span> VectorBase workshop at AGS</h4>
+
 <p>
 The VectorBase workshop is a 3-hour introduction to this database, which is part of the VEuPathDB project. 
 </p>
+
 <p>
 <b>Who should apply:</b>
 The ideal candidate has a need to use VectorBase (or any of the other parasite and fungi databases, which all have the same layout) and presumably has a bioinformatics research problem to work on after attending the course. 
 </p>
+
 <p>
 <b>Database covered:</b> 
 VectorBase 
 </p>
+
 <p>
 <b>Costs and Fees:</b> 
 The course is free. However, to make the most out of it we will have limited seats in other to ensure participants can easily interact with the instructors while solving the exercises. Please only apply if you plan to attend the workshop in full
 </p>
-<p>
-<b>When:</b> 
-Friday, 24th July 2020  
-</p>
+
 <p>
 <b>Where:</b> 
 Accepted participants will receive the appropriate workshop link 
 </p>
+
 <p>
 <b>Application deadline:</b> 
 Friday, July 17th 2020
 </p>
+
 <p>
 <b>Acceptance notification by:</b> 
 Monday, July 20th 2020  
 </p>
+
 <p>
 <b>Registration link:</b>   
 https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ_jo-EKX8bA/viewform  
 </p>
+
 <p>
 <b>Note:</b> 
 To encourage the active participation/Q&A during the hands-on activities, limited seats are available and the sessions will not be recorded. Priority seating will be given to AGS meeting attendees.  
 </p>
+
 <p>
 <b>Additional Information:</b> 
 Email your questions to help@vectorbase.org  
@@ -100,12 +119,24 @@ Email your questions to help@vectorbase.org
 <li>OH: Omar Harb, Pennsylvania State University</li>
 </ul>
 
-<table style="border:1px solid black">
+<table>
   <thead style="font-weight:bold">
-    <tr><th>Time</th><th>Topic</th><th>Instructor</th></tr>
+    <tr><th colspan="4">Time</th><th rowspan="2">Topic</th><th rowspan="2">Instructor</th></tr>
+    <tr><th>PDT (W. Coast)</th><th>EDT (E. Coast)</th><th>CET (Europe)</th><th>Length (mn)</th></tr>
   </thead>
   <tbody>
-    <tr><td></td><td></td><td></td><td></td></tr>
+    <tr><td>8:00</td><td>11:00</td><td>17:00</td><td>10</td>
+        <td>Quick introduction and demonstrations about the VEuPathDB resources</td>
+        <td>GIGC</td>
+    </tr>
+    <tr><td>8:10</td><td>11:10</td><td>17:10</td><td>20</td>
+        <td>Exercise 1: Site search</td>
+        <td>GIGC</td>
+    </tr>
+    <tr><td>8:30</td><td>11:30</td><td>17:30</td><td>40</td>
+        <td>Exercise 2: Search strategies </td>
+        <td>GIGC</td>
+    </tr>
   </tbody>
 </table>
 
@@ -116,55 +147,89 @@ Email your questions to help@vectorbase.org
 <br>
 <hr>
 
-<div class="anchor"><a name="apollo"></a></div>
+<div class="anchor"><a name="apollo-2020-7-27"></a></div>
 <div class="workshop">
 
-<h4>Gene manual annotation with Apollo workshop at AGS</h4>
+<h4><span style="font-weight:100">Monday July 27th, 2020:</span> Gene manual annotation with Apollo workshop at AGS</h4>
+
 <p>
 This workshop is a 2-hour introduction to the tool Apollo, which is currently available in VectorBase. This course will guide you through the process of updating and fixing gene models based on underlying data, including topics such as the addition of new genes, edition of the intron/exon boundaries, use of RNAseq and homology alignment data to support changes. This workshop would benefit vector biologist or any scientist with interest in annotating their favorite genes in Apollo available in other databases, e.g., i5k (https://i5k.nal.usda.gov/jbrowse-and-apollo).  
 </p>
+
 <p>
 <b>Who should apply:</b> 
 The ideal candidate has a need to use Apollo and presumably has a list of genes to work on after attending the course. 
 </p>
+
 <p>
 <b>Tool covered:</b> 
 VectorBase Apollo 
 </p>
+
 <p>
 <b>Costs and Fees:</b> 
 The course is free. However, to make the most out of it we will have limited seats in other to ensure participants can easily interact with the instructors while solving the exercises. Please only apply if you plan to attend the workshop in full
 </p>
-<p>
-<b>When:</b> 
-Monday, 27th July 2020  
-</p>
+
 <p>
 <b>Where:</b> 
 Accepted participants will receive the appropriate workshop link 
 </p>
+
 <p>
 <b>Application deadline:</b> 
 Friday, July 17th 2020
 </p>
+
 <p>
 <b>Acceptance notification by:</b>
 Monday, July 20th 2020  
 </p>
+
 <p>
 <b>Registration link:</b>
 https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ_jo-EKX8bA/viewform  
 </p>
+
 <p>
 <b>Note:</b>
 To encourage the active participation/Q&A during the hands-on activities, limited seats are available and the sessions will not be recorded. Priority seating will be given to AGS meeting attendees.  
 </p>
+
 <p>
 <b>Additional Information:</b> 
 Email your questions to help@vectorbase.org  
 </p>
+
 <details>
 <summary><b>Agenda, schedule and instructors:</b></summary>
+
+<ul>
+<li>DL: Daniel Lawson, Imperial College London</li>
+<li>GIGC: Gloria I. Giraldo-Calderón, University of Notre Dame</li>
+<li>OH: Omar Harb, Pennsylvania State University</li>
+</ul>
+
+<table>
+  <thead style="font-weight:bold">
+    <tr><th colspan="4">Time</th><th rowspan="2">Topic</th><th rowspan="2">Instructor</th></tr>
+    <tr><th>PDT (W. Coast)</th><th>EDT (E. Coast)</th><th>CET (Europe)</th><th>Length (mn)</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>8:00</td><td>11:00</td><td>17:00</td><td>45 min</td>
+        <td>Demonstration</td>
+        <td>DL</td>
+    </tr>
+    <tr class="break"><td></td><td></td><td></td><td>10 min</td>
+        <td>Break</td>
+        <td></td>
+    </tr>
+    <tr><td>8:55</td><td>11:55</td><td>17:55</td><td>45 min</td>
+        <td>Hands-on exercises</td>
+        <td>DL,OH,GIGC</td>
+    </tr>
+  </tbody>
+</table>
 
 </details>
 
@@ -175,7 +240,7 @@ Email your questions to help@vectorbase.org
 
 
 <h3>Previous Workshops</h3>
-
+<hr>
 
 
 </div>
