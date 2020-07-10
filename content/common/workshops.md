@@ -123,6 +123,7 @@ To encourage the active participation/Q&A during the hands-on activities, limite
 <ul>
 <li>GIGC: Gloria I. Giraldo-Calderón, University of Notre Dame</li>
 <li>OH: Omar Harb, Pennsylvania State University</li>
+<li>Other members from VEuPathDB team will join us during the exercises to help you during the exercises</li>
 </ul>
 
 <table>
@@ -239,6 +240,7 @@ To encourage the active participation/Q&A during the hands-on activities, limite
 <li>GIGC: Gloria I. Giraldo-Calderón, University of Notre Dame</li>
 <li>DL: Daniel Lawson, Imperial College London</li>
 <li>OH: Omar Harb, Pennsylvania State University</li>
+<li>Other members from VEuPathDB team will join us during the exercises to help you during the exercises</li>
 </ul>
 
 <table>
@@ -260,7 +262,7 @@ To encourage the active participation/Q&A during the hands-on activities, limite
     </tr>
     <tr><td>9:15</td><td>12:15</td><td>18:15</td><td>45</td>
         <td>Hands-on exercises</td>
-        <td>DL,OH,GIGC</td>
+        <td>DL, OH, GIGC</td>
     </tr>
   </tbody>
 </table>
