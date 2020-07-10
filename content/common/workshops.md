@@ -37,8 +37,8 @@ tr.break td {
   <div id="contents">
     <h4>2020 VectorBase, Arthropod Genomics Symposium (AGS), virtual.</h4>
     <ul>
-    <li>Friday July 24th, 2020: <a href="#vb-2020-7-24">VectorBase workshop at AGS</a> (3-hour event)</li>
-    <li>Monday July 27th, 2020: <a href="#apollo-2020-7-27">Gene manual annotation with Apollo workshop at AGS</a> (2-hour event)</li>
+    <li><a href="#vb-2020-7-24">VectorBase workshop at AGS</a>, on Friday July 24th, 2020 (3-hour event)</li>
+    <li><a href="#apollo-2020-7-27">Gene manual annotation with Apollo workshop at AGS</a>, on Monday July 27th, 2020 (2-hour event)</li>
     </ul>
   </div>
 
@@ -60,7 +60,9 @@ tr.break td {
 <div class="anchor"><a name="vb-2020-7-24"></a></div>
 <div class="workshop">
 
-<h4><span style="font-weight:100">Friday July 24th, 2020:</span> VectorBase workshop at AGS</h4>
+<h4>VectorBase workshop at AGS
+<span style="font-weight:100">, on Friday July 24th, 2020</span>
+</h4>
 
 <p>
 The VectorBase workshop is a 3-hour introduction to this database, which is part of the VEuPathDB project. 
@@ -98,17 +100,14 @@ Monday, July 20th 2020
 
 <p>
 <b>Registration link:</b>   
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ_jo-EKX8bA/viewform">
 https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ_jo-EKX8bA/viewform  
+</a>
 </p>
 
 <p>
 <b>Note:</b> 
 To encourage the active participation/Q&A during the hands-on activities, limited seats are available and the sessions will not be recorded. Priority seating will be given to AGS meeting attendees.  
-</p>
-
-<p>
-<b>Additional Information:</b> 
-Email your questions to help@vectorbase.org  
 </p>
 
 <details>
@@ -142,6 +141,11 @@ Email your questions to help@vectorbase.org
 
 </details>
 
+<p>
+<b>Additional Information:</b>
+Email your questions to help@vectorbase.org 
+</p>
+
 </div>
 
 <br>
@@ -150,10 +154,12 @@ Email your questions to help@vectorbase.org
 <div class="anchor"><a name="apollo-2020-7-27"></a></div>
 <div class="workshop">
 
-<h4><span style="font-weight:100">Monday July 27th, 2020:</span> Gene manual annotation with Apollo workshop at AGS</h4>
+<h4>Gene manual annotation with Apollo workshop at AGS
+<span style="font-weight:100">, on Monday July 27th, 2020</span>
+</h4>
 
 <p>
-This workshop is a 2-hour introduction to the tool Apollo, which is currently available in VectorBase. This course will guide you through the process of updating and fixing gene models based on underlying data, including topics such as the addition of new genes, edition of the intron/exon boundaries, use of RNAseq and homology alignment data to support changes. This workshop would benefit vector biologist or any scientist with interest in annotating their favorite genes in Apollo available in other databases, e.g., i5k (https://i5k.nal.usda.gov/jbrowse-and-apollo).  
+This workshop is a 2-hour introduction to the tool Apollo, which is currently available in VectorBase. This course will guide you through the process of updating and fixing gene models based on underlying data, including topics such as the addition of new genes, edition of the intron/exon boundaries, use of RNAseq and homology alignment data to support changes. This workshop would benefit vector biologist or any scientist with interest in annotating their favorite genes in Apollo available in other databases, e.g., i5k (<a target="_blank" href="https://i5k.nal.usda.gov/jbrowse-and-apollo">https://i5k.nal.usda.gov/jbrowse-and-apollo</a>).  
 </p>
 
 <p>
@@ -188,17 +194,14 @@ Monday, July 20th 2020
 
 <p>
 <b>Registration link:</b>
-https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ_jo-EKX8bA/viewform  
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ_jo-EKX8bA/viewform">
+https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ_jo-EKX8bA/viewform
+</a>
 </p>
 
 <p>
 <b>Note:</b>
 To encourage the active participation/Q&A during the hands-on activities, limited seats are available and the sessions will not be recorded. Priority seating will be given to AGS meeting attendees.  
-</p>
-
-<p>
-<b>Additional Information:</b> 
-Email your questions to help@vectorbase.org  
 </p>
 
 <details>
@@ -232,6 +235,11 @@ Email your questions to help@vectorbase.org
 </table>
 
 </details>
+
+<p>
+<b>Additional Information:</b>
+Email your questions to help@vectorbase.org 
+</p>
 
 </div>
 
