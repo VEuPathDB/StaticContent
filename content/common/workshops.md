@@ -136,6 +136,26 @@ To encourage the active participation/Q&A during the hands-on activities, limite
         <td>Exercise 2: Search strategies </td>
         <td>GIGC</td>
     </tr>
+    <tr class="break"><td></td><td></td><td></td><td>15</td>
+        <td>Break</td>
+        <td></td>
+    </tr>
+    <tr><td></td><td></td><td></td><td>40</td>
+        <td>Exercise 3: GO enrichment </td>
+        <td>OH</td>
+    </tr>
+    <tr><td></td><td></td><td></td><td>40</td>
+        <td>Exercise 4: Gene page and genome browser </td>
+        <td>GIGC</td>
+    </tr>
+    <tr><td></td><td></td><td></td><td>10</td>
+        <td>Additional questions, wrap-up and workshop feedback</td>
+        <td>OH</td>
+    </tr>
+    <tr><td></td><td></td><td></td><td></td>
+        <td></td>
+        <td></td>
+    </tr>
   </tbody>
 </table>
 
