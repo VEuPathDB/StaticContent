@@ -171,7 +171,10 @@ To encourage the active participation/Q&A during the hands-on activities, limite
 
 <p>
 <b>Additional Information:</b>
-Email your questions to help@vectorbase.org 
+Email your questions to 
+  <a target="_blank" href="https://beta.vectorbase.org/vectorbase.beta/app/contact-us">
+help@vectorbase.org  
+</a>
 </p>
 
 </div>
@@ -271,7 +274,10 @@ To encourage the active participation/Q&A during the hands-on activities, limite
 
 <p>
 <b>Additional Information:</b>
-Email your questions to help@vectorbase.org 
+Email your questions to 
+  <a target="_blank" href="https://beta.vectorbase.org/vectorbase.beta/app/contact-us">
+help@vectorbase.org  
+</a>
 </p>
 
 </div>
