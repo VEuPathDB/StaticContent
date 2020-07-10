@@ -155,7 +155,7 @@ To encourage the active participation/Q&A during the hands-on activities, limite
         <td>Exercise 4: Gene page and genome browser </td>
         <td>GIGC</td>
     </tr>
-    <tr><td></td><td></td><td></td><td>10</td>
+    <tr><td>10:50</td><td>13:50</td><td>19:50</td><td>10</td>
         <td>Additional questions, wrap-up and workshop feedback</td>
         <td>OH</td>
     </tr>
