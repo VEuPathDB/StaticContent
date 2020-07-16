@@ -33,6 +33,7 @@ tags: [general]
   <div id="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+    
    <p><b>Thursday July 16th, 2020:</b> <a href="#fungidb">Introduction to FungiDB - Data and Functionality.</a></p>
    <p><b>Thursday July 9th, 2020:</b> <a href="#rnaseq">RNAseq searches in VEuPathDB.</a></p>
    <p><b>Thursday July 2nd, 2020:</b> <a href="#ortho">Orthology searches and OrthoMCL.</a></p>
@@ -54,6 +55,7 @@ tags: [general]
 
 <h3>Upcoming Webinars</h3>
 
+
 <hr>
 <div class="anchor"><a name="snp"></a></div>
 <div class="webinar">
@@ -70,6 +72,7 @@ This webinar will cover:<br>
 </ul>
 <br>
 </div>
+
 
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 
