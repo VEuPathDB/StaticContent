@@ -25,7 +25,6 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div id="contents">
-  <p><b>Thursday July 16th, 2020:</b> <a href="#fungidb">Introduction to FungiDB - Data and Functionality.</a></p>
   <p><b>Thursday July 23th, 2020:</b> <a href="#snp">Variant data in VEuPathDB.</a></p>
   </div>
   
@@ -84,7 +83,7 @@ This webinar will cover:<br>
 <b>Topic:</b> Introduction to FungiDB - Data and Functionality<br>
 <b>Date:</b> Thursday July 16th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link: </b><a href="https://youtu.be/D2NAqIz6Fug">https://youtu.be/EAL_7uCPH3Q</a> <br>
+<b>Recording Link: </b><a href="https://youtu.be/EAL_7uCPH3Q">https://youtu.be/EAL_7uCPH3Q</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will cover:<br>
 <ul>
