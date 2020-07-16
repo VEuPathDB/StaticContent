@@ -25,8 +25,8 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div id="contents">
-    <p>
-    <p><b>Thursday July 23th, 2020:</b> <a href="#snp">Variant data in VEuPathDB.</a></p>
+  <p><b>Thursday July 16th, 2020:</b> <a href="#fungidb">Introduction to FungiDB - Data and Functionality.</a></p>
+  </div>
   
   <h3>Previous Webinars</h3>
   <div id="contents">
