@@ -27,8 +27,6 @@ tags: [general]
   <div id="contents">
     <p>
     <p><b>Thursday July 23th, 2020:</b> <a href="#snp">Variant data in VEuPathDB.</a></p>
-  </div>
-</div>
   
   <h3>Previous Webinars</h3>
   <div id="contents">
