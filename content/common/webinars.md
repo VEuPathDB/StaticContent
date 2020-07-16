@@ -26,7 +26,6 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div id="contents">
     <p>
-    <p><b>Thursday July 16th, 2020:</b> <a href="#fungidb">Introduction to FungiDB - Data and Functionality.</a></p>
     <p><b>Thursday July 23th, 2020:</b> <a href="#snp">Variant data in VEuPathDB.</a></p>
   </div>
   
@@ -34,6 +33,7 @@ tags: [general]
   <div id="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+   <p><b>Thursday July 16th, 2020:</b> <a href="#fungidb">Introduction to FungiDB - Data and Functionality.</a></p>
    <p><b>Thursday July 9th, 2020:</b> <a href="#rnaseq">RNAseq searches in VEuPathDB.</a></p>
    <p><b>Thursday July 2nd, 2020:</b> <a href="#ortho">Orthology searches and OrthoMCL.</a></p>
    <p><b>Thursday June 25th, 2020:</b> <a href="#phenotypic">Searching Phenotypic datasets in VEuPathDB.</a></p>
@@ -54,22 +54,6 @@ tags: [general]
 
 <h3>Upcoming Webinars</h3>
 
-<hr>
-<div class="anchor"><a name="fungidb"></a></div>
-<div class="webinar">
-<b>Topic:</b> Introduction to FungiDB - Data and Functionality<br>
-<b>Date:</b> Thursday July 16th, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/1504596308712173839">https://attendee.gotowebinar.com/register/1504596308712173839</a> <br>
-<b>Additional Details:</b> <br>
-This webinar will cover:<br>
-<ul>
-<li>What type of data is in FungiDB</li>
-<li>How do we find out about data and schedule it for release</li>
-<li>Demo of key searches</li>
-<li>Demo of key search and analysis tools</li>
-</ul>
-<br>
 <hr>
 <div class="anchor"><a name="snp"></a></div>
 <div class="webinar">
@@ -92,6 +76,24 @@ This webinar will cover:<br>
 
 <h3>Previous Webinars</h3>
 <hr>
+<div class="anchor"><a name="fungidb"></a></div>
+<div class="webinar">
+<b>Topic:</b> Introduction to FungiDB - Data and Functionality<br>
+<b>Date:</b> Thursday July 16th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/D2NAqIz6Fug">https://youtu.be/EAL_7uCPH3Q</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will cover:<br>
+<ul>
+<li>What type of data is in FungiDB</li>
+<li>How do we find out about data and schedule it for release</li>
+<li>Demo of key searches</li>
+<li>Demo of key search and analysis tools</li>
+</ul>
+<br>
+</div>
+
+<hr>
 <div class="anchor"><a name="rnaseq"></a></div>
 <div class="webinar">
 <b>Topic:</b> RNAseq searches in VEuPathDB<br>
@@ -102,6 +104,7 @@ This webinar will cover:<br>
 This webinar will demonstrate how to search for under differential expression with RNAseq datasets. 
 <br>
 </div>
+
 <hr>
 <div class="anchor"><a name="ortho"></a></div>
 <div class="webinar">
