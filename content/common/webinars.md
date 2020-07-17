@@ -84,7 +84,6 @@ This webinar will cover:<br>
 <b>Date:</b> Thursday July 16th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording Link: </b><a href="https://youtu.be/EAL_7uCPH3Q">https://youtu.be/EAL_7uCPH3Q</a> <br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/FungiDBNavigatingmainpage.pdf">Anatomy of the main page</a><br>
 <b>Additional Details:</b> <br>
 This webinar will cover:<br>
 <ul>
