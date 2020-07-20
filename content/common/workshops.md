@@ -137,11 +137,11 @@ To encourage the active participation/Q&A during the hands-on activities, limite
         <td>GIGC</td>
     </tr>
     <tr><td>8:10</td><td>11:10</td><td>17:10</td><td>20</td>
-        <td>Site search: Exercises and  answer key 1</td>
+        <td>1. Site search: Exercises and  answer key</td>
         <td>GIGC</td>
     </tr>
     <tr><td>8:30</td><td>11:30</td><td>17:30</td><td>40</td>
-        <td>Search strategies: Exercises and  answer key 2</td>
+        <td>2. Search strategies: Exercises and  answer key</td>
         <td>GIGC</td>
     </tr>
     <tr class="break"><td></td><td></td><td></td><td>15</td>
@@ -149,11 +149,11 @@ To encourage the active participation/Q&A during the hands-on activities, limite
         <td></td>
     </tr>
     <tr><td>9:25</td><td>12:25</td><td>18:25</td><td>40</td>
-        <td>GO enrichment: Exercises and  answer key 3</td>
+        <td>3. GO enrichment: Exercises and  answer key</td>
         <td>OH</td>
     </tr>
     <tr><td>10:10</td><td>13:10</td><td>19:10</td><td>40</td>
-        <td>Gene page and genome browser: Exercises and  answer key 4</td>
+        <td>4. Gene page and genome browser: Exercises and  answer key</td>
         <td>GIGC</td>
     </tr>
     <tr><td>10:50</td><td>13:50</td><td>19:50</td><td>15</td>
