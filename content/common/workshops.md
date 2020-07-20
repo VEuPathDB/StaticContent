@@ -137,7 +137,7 @@ To encourage the active participation/Q&A during the hands-on activities, limite
         <td>GIGC</td>
     </tr>
     <tr><td>8:10</td><td>11:10</td><td>17:10</td><td>20</td>
-        <td>1. Site search: <a href=“{{‘/documents/13_SiteSearch.docx’ | absolute_url}}“>Exercises</a> and  Answer key</td>
+        <td>1. Site search: <a href=“{{‘/documents/13_SiteSearch.docx’ | absolute_url}}“>Exercise</a> and  Answer key</td>
         <td>GIGC</td>
     </tr>
     <tr><td>8:30</td><td>11:30</td><td>17:30</td><td>40</td>
