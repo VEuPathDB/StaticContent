@@ -27,6 +27,9 @@ tags: [general]
   <div id="contents">
   
   <p><b>Thursday July 23th, 2020:</b> <a href="#snp">Variant data in VEuPathDB.</a></p>
+    <p><b>Thursday July 30th, 2020:</b> <a href="#proteomics">Proteomics data in VEuPathDB.</a></p>
+  <p><b>Thursday August 6th, 2020:</b> <a href="#hostdb">HostDB: finding host genes responding to infection.</a></p>
+  <p><b>Thursday August 13th, 2020:</b> <a href="#complexstrat">Building complex search strategies in VEuPathDB.</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
@@ -70,6 +73,43 @@ This webinar will cover:<br>
 <li>Copy number variation searches</li>
 <li>Variant data visualizations</li>
 </ul>
+</div>
+
+  <hr>
+<div class="anchor"><a name="proteomics"></a></div>
+<div class="webinar">
+<b>Topic:</b> Proteomics data in VEuPathDB<br>
+<b>Date:</b> Thursday July 30th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/1354732874287907595">https://attendee.gotowebinar.com/register/1354732874287907595</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will cover the types of proteomics data and searches available in VEuPathDB. Including:<br>
+<ul>
+<li>Peptides</li>
+<li>Quantitative proteomics</li>
+<li>Post translational modifications (PTMs)</li>
+</ul>
+</div>
+<hr>
+<div class="anchor"><a name="hostdb"></a></div>
+<div class="webinar">
+<b>Topic:</b> HostDB: finding host genes responding to infection<br>
+<b>Date:</b> Thursday August 6th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/472066929741932555">https://attendee.gotowebinar.com/register/472066929741932555</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will feature beta.HostDB.org and will showcase the types of available data to query host response to infection. 
+<br>
+</div>
+<hr>
+<div class="anchor"><a name="complexstrat"></a></div>
+<div class="webinar">
+<b>Topic:</b> Building complex search strategies in VEuPathDB<br>
+<b>Date:</b> Thursday August 13th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/8715843375480877323">https://attendee.gotowebinar.com/register/8715843375480877323</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will demonstrate how to integrate diverse data types in search strategies to answer biological questions and build testable hypotheses.
 <br>
 </div>
 
