@@ -154,7 +154,7 @@ To encourage the active participation/Q&A during the hands-on activities, limite
         <td>OH</td>
     </tr>
     <tr><td>10:10</td><td>13:10</td><td>19:10</td><td>40</td>
-        <td>4. Gene page and genome browser: Exercises and  Answer key</td>
+        <td>4. Gene page and genome browser: <a href=“{{‘/documents/GenePages_GenomeBrowser_Exercise.docx’ | absolute_url}}“>Exercise</a> and  <a href=“{{‘/documents/GenePages_GenomeBrowser_AnswerKey.docx’ | absolute_url}}“>Answer Key</a></td>
         <td>GIGC</td>
     </tr>
     <tr><td>10:50</td><td>13:50</td><td>19:50</td><td>15</td>
