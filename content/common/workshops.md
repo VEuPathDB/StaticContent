@@ -141,7 +141,7 @@ To encourage the active participation/Q&A during the hands-on activities, limite
         <td>GIGC</td>
     </tr>
     <tr><td>8:30</td><td>11:30</td><td>17:30</td><td>40</td>
-        <td>2. Search strategies: Exercises and  Answer key</td>
+        <td>2. Search strategies: <a href=“{{‘/documents/SearchStrategies_Exercise.docx’ | absolute_url}}“>Exercise</a> and  <a href=“{{‘/documents/SearchStrategies_AnswerKey.docx’ | absolute_url}}“>Answer Key</a></td>
         <td>GIGC</td>
     </tr>
     <tr class="break"><td></td><td></td><td></td><td>15</td>
