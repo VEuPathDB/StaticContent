@@ -30,6 +30,11 @@ tags: [general]
     <p><b>Thursday July 30th, 2020:</b> <a href="#proteomics">Proteomics data in VEuPathDB.</a></p>
   <p><b>Thursday August 6th, 2020:</b> <a href="#hostdb">HostDB: finding host genes responding to infection.</a></p>
   <p><b>Thursday August 13th, 2020:</b> <a href="#complexstrat">Building complex search strategies in VEuPathDB.</a></p>
+  <p><b>Thursday August 20th, 2020:</b> <a href="#">TBD</a></p>
+   <p><b>Thursday August 27th, 2020:</b> <a href="#">TBD</a></p>
+    <p><b>Thursday September 3rd, 2020:</b> <a href="#">TBD</a></p>
+    <p><b>Thursday September 10th, 2020:</b> <a href="#">TBD</a></p>
+     <p><b>Thursday September 17th, 2020:</b> <a href="#">TBD</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
