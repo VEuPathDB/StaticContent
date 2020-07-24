@@ -150,7 +150,7 @@ To encourage the active participation/Q&A during the hands-on activities, limite
         <td></td>
     </tr>
     <tr><td>9:25</td><td>12:25</td><td>18:25</td><td>40</td>
-        <td>3. GO enrichment: <a href="{{'/documents/SiteSearch_AnswerKey.docx' | absolute_url}}">Answer Key</a> and  <a href="{{'/documents/SiteSearch_AnswerKey.docx' | absolute_url}}">Answer Key</a></td>
+        <td>3. GO enrichment: <a href="{{'/documents/GO_Enrichment_Exercise.docx' | absolute_url}}">Exercise</a> and  <a href="{{'/documents/GO_Enrichment_AnswerKey.docx' | absolute_url}}">Answer Key</a></td>
         <td>OH</td>
     </tr>
     <tr><td>10:10</td><td>13:10</td><td>19:10</td><td>40</td>
