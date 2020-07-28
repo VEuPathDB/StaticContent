@@ -25,15 +25,24 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div id="contents">
-    <p>
-    <p><b>Thursday July 16th, 2020:</b> <a href="#fungidb">Introduction to FungiDB - Data and Functionality.</a></p>
-    <p><b>Thursday July 23th, 2020:</b> <a href="#snp">Variant data in VEuPathDB.</a></p>
+  
+  <p>
+    <p><b>Thursday July 30th, 2020:</b> <a href="#proteomics">Proteomics data in VEuPathDB.</a></p>
+  <p><b>Thursday August 6th, 2020:</b> <a href="#hostdb">HostDB: finding host genes responding to infection.</a></p>
+  <p><b>Thursday August 13th, 2020:</b> <a href="#complexstrat">Building complex search strategies in VEuPathDB.</a></p>
+  <p><b>Thursday August 20th, 2020:</b> <a href="#">TBD</a></p>
+   <p><b>Thursday August 27th, 2020:</b> <a href="#">TBD</a></p>
+    <p><b>Thursday September 3rd, 2020:</b> <a href="#">TBD</a></p>
+    <p><b>Thursday September 10th, 2020:</b> <a href="#">TBD</a></p>
+     <p><b>Thursday September 17th, 2020:</b> <a href="#">TBD</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
   <div id="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+   <p><b>Thursday July 23th, 2020:</b> <a href="#snp">Variant data in VEuPathDB.</a></p>
+   <p><b>Thursday July 16th, 2020:</b> <a href="#fungidb">Introduction to FungiDB - Data and Functionality.</a></p>
    <p><b>Thursday July 9th, 2020:</b> <a href="#rnaseq">RNAseq searches in VEuPathDB.</a></p>
    <p><b>Thursday July 2nd, 2020:</b> <a href="#ortho">Orthology searches and OrthoMCL.</a></p>
    <p><b>Thursday June 25th, 2020:</b> <a href="#phenotypic">Searching Phenotypic datasets in VEuPathDB.</a></p>
@@ -54,13 +63,76 @@ tags: [general]
 
 <h3>Upcoming Webinars</h3>
 
+
+
+
+  <hr>
+<div class="anchor"><a name="proteomics"></a></div>
+<div class="webinar">
+<b>Topic:</b> Proteomics data in VEuPathDB<br>
+<b>Date:</b> Thursday July 30th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/1354732874287907595">https://attendee.gotowebinar.com/register/1354732874287907595</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will cover the types of proteomics data and searches available in VEuPathDB. Including:<br>
+<ul>
+<li>Peptides</li>
+<li>Quantitative proteomics</li>
+<li>Post translational modifications (PTMs)</li>
+</ul>
+</div>
 <hr>
+<div class="anchor"><a name="hostdb"></a></div>
+<div class="webinar">
+<b>Topic:</b> HostDB: finding host genes responding to infection<br>
+<b>Date:</b> Thursday August 6th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/472066929741932555">https://attendee.gotowebinar.com/register/472066929741932555</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will feature beta.HostDB.org and will showcase the types of available data to query host response to infection. 
+<br>
+</div>
+<hr>
+<div class="anchor"><a name="complexstrat"></a></div>
+<div class="webinar">
+<b>Topic:</b> Building complex search strategies in VEuPathDB<br>
+<b>Date:</b> Thursday August 13th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/8715843375480877323">https://attendee.gotowebinar.com/register/8715843375480877323</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will demonstrate how to integrate diverse data types in search strategies to answer biological questions and build testable hypotheses.
+<br>
+</div>
+
+
+<hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
+
+
+<h3>Previous Webinars</h3>
+<hr>
+<div class="anchor"><a name="snp"></a></div>
+<div class="webinar">
+<b>Topic:</b> Variant data in VEuPathDB<br>
+<b>Date:</b> Thursday July 23th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/1ZUPQCCdhAg">https://youtu.be/1ZUPQCCdhAg</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will cover:<br>
+<ul>
+<li>Single nucleotide polymorphism searches</li>
+<li>Copy number variation searches</li>
+<li>Variant data visualizations</li>
+</ul>
+</div>
+<hr>
+
 <div class="anchor"><a name="fungidb"></a></div>
 <div class="webinar">
 <b>Topic:</b> Introduction to FungiDB - Data and Functionality<br>
 <b>Date:</b> Thursday July 16th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/1504596308712173839">https://attendee.gotowebinar.com/register/1504596308712173839</a> <br>
+<b>Recording Link: </b><a href="https://youtu.be/EAL_7uCPH3Q">https://youtu.be/EAL_7uCPH3Q</a> <br>
+<b>Handout: </b> <a href="https://community.eupathdb.org/documents/FungiDBNavigatingmainpage.pdf">Anatomy of the main page</a><br>
 <b>Additional Details:</b> <br>
 This webinar will cover:<br>
 <ul>
@@ -69,28 +141,8 @@ This webinar will cover:<br>
 <li>Demo of key searches</li>
 <li>Demo of key search and analysis tools</li>
 </ul>
-<br>
-<hr>
-<div class="anchor"><a name="snp"></a></div>
-<div class="webinar">
-<b>Topic:</b> Variant data in VEuPathDB<br>
-<b>Date:</b> Thursday July 23th, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/9005464633523261196">https://attendee.gotowebinar.com/register/9005464633523261196</a> <br>
-<b>Additional Details:</b> <br>
-This webinar will cover:<br>
-<ul>
-<li>Single nucleotide polymorphism searches</li>
-<li>Copy number variation searches</li>
-<li>Variant data visualizations</li>
-</ul>
-<br>
+
 </div>
-
-<hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
-
-
-<h3>Previous Webinars</h3>
 <hr>
 <div class="anchor"><a name="rnaseq"></a></div>
 <div class="webinar">
@@ -102,6 +154,7 @@ This webinar will cover:<br>
 This webinar will demonstrate how to search for under differential expression with RNAseq datasets. 
 <br>
 </div>
+
 <hr>
 <div class="anchor"><a name="ortho"></a></div>
 <div class="webinar">
