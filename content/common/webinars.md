@@ -26,8 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div id="contents">
   
-  <p>
-    <p><b>Thursday July 30th, 2020:</b> <a href="#proteomics">Proteomics data in VEuPathDB.</a></p>
+
   <p><b>Thursday August 6th, 2020:</b> <a href="#hostdb">HostDB: finding host genes responding to infection.</a></p>
   <p><b>Thursday August 13th, 2020:</b> <a href="#complexstrat">Building complex search strategies in VEuPathDB.</a></p>
   <p><b>Thursday August 20th, 2020:</b> <a href="#">TBD</a></p>
@@ -41,6 +40,7 @@ tags: [general]
   <div id="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+   <p><b>Thursday July 30th, 2020:</b> <a href="#proteomics">Proteomics data in VEuPathDB.</a></p> 
    <p><b>Thursday July 23th, 2020:</b> <a href="#snp">Variant data in VEuPathDB.</a></p>
    <p><b>Thursday July 16th, 2020:</b> <a href="#fungidb">Introduction to FungiDB - Data and Functionality.</a></p>
    <p><b>Thursday July 9th, 2020:</b> <a href="#rnaseq">RNAseq searches in VEuPathDB.</a></p>
@@ -63,24 +63,6 @@ tags: [general]
 
 <h3>Upcoming Webinars</h3>
 
-
-
-
-  <hr>
-<div class="anchor"><a name="proteomics"></a></div>
-<div class="webinar">
-<b>Topic:</b> Proteomics data in VEuPathDB<br>
-<b>Date:</b> Thursday July 30th, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/1354732874287907595">https://attendee.gotowebinar.com/register/1354732874287907595</a> <br>
-<b>Additional Details:</b> <br>
-This webinar will cover the types of proteomics data and searches available in VEuPathDB. Including:<br>
-<ul>
-<li>Peptides</li>
-<li>Quantitative proteomics</li>
-<li>Post translational modifications (PTMs)</li>
-</ul>
-</div>
 <hr>
 <div class="anchor"><a name="hostdb"></a></div>
 <div class="webinar">
@@ -106,6 +88,22 @@ This webinar will demonstrate how to integrate diverse data types in search stra
 
 
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
+
+  <hr>
+<div class="anchor"><a name="proteomics"></a></div>
+<div class="webinar">
+<b>Topic:</b> Proteomics data in VEuPathDB<br>
+<b>Date:</b> Thursday July 30th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/fXMs7mx3x5s">https://youtu.be/fXMs7mx3x5s</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will cover the types of proteomics data and searches available in VEuPathDB. Including:<br>
+<ul>
+<li>Peptides</li>
+<li>Quantitative proteomics</li>
+<li>Post translational modifications (PTMs)</li>
+</ul>
+</div>
 
 
 <h3>Previous Webinars</h3>
