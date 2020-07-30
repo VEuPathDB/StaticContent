@@ -88,8 +88,10 @@ This webinar will demonstrate how to integrate diverse data types in search stra
 
 
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
+<h3>Previous Webinars</h3>
+<hr>
 
-  <hr>
+
 <div class="anchor"><a name="proteomics"></a></div>
 <div class="webinar">
 <b>Topic:</b> Proteomics data in VEuPathDB<br>
@@ -105,8 +107,6 @@ This webinar will cover the types of proteomics data and searches available in V
 </ul>
 </div>
 
-
-<h3>Previous Webinars</h3>
 <hr>
 <div class="anchor"><a name="snp"></a></div>
 <div class="webinar">
