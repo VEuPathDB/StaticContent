@@ -95,7 +95,7 @@ This webinar will demonstrate how to integrate diverse data types in search stra
 <b>Topic:</b> Proteomics data in VEuPathDB<br>
 <b>Date:</b> Thursday July 30th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/1354732874287907595">https://attendee.gotowebinar.com/register/1354732874287907595</a> <br>
+<b>Recording Link: </b><a href="https://youtu.be/fXMs7mx3x5s">https://youtu.be/fXMs7mx3x5s</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will cover the types of proteomics data and searches available in VEuPathDB. Including:<br>
 <ul>
