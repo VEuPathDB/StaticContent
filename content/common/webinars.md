@@ -88,6 +88,7 @@ This webinar will focus on how to use and explore metabolic pathways in VEuPathD
 
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 <h3>Previous Webinars</h3>
+<hr>
 
 <hr>
 <div class="anchor"><a name="hostdb"></a></div>
