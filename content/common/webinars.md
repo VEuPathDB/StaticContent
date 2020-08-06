@@ -26,8 +26,6 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div id="contents">
   
-
-  
   <p><b>Thursday August 13th, 2020:</b> <a href="#complexstrat">Building complex search strategies in VEuPathDB.</a></p>
   <p><b>Thursday August 20th, 2020:</b> <a href="#metabo">Metabolic Pathways in VEuPathDB</a></p>
    <p><b>Thursday August 27th, 2020:</b> <a href="#">TBD</a></p>
