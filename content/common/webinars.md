@@ -91,7 +91,7 @@ This webinar will demonstrate how to integrate diverse data types in search stra
 <b>Topic:</b> Metabolic Pathways in VEuPathDB<br>
 <b>Date:</b> Thursday August 20th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="Join my webinar! Aug 20, 2020 10:00 AM - 11:00 AM EDT. https://attendee.gotowebinar.com/register/2185988953943444495">Join my webinar! Aug 20, 2020 10:00 AM - 11:00 AM EDT. https://attendee.gotowebinar.com/register/2185988953943444495</a> <br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2185988953943444495">https://attendee.gotowebinar.com/register/2185988953943444495</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will focus on how to use and explore metabolic pathways in VEuPathDB sites.
 <br>
