@@ -29,7 +29,7 @@ tags: [general]
 
   <p><b>Thursday August 6th, 2020:</b> <a href="#hostdb">HostDB: finding host genes responding to infection.</a></p>
   <p><b>Thursday August 13th, 2020:</b> <a href="#complexstrat">Building complex search strategies in VEuPathDB.</a></p>
-  <p><b>Thursday August 20th, 2020:</b> <a href="#">TBD</a></p>
+  <p><b>Thursday August 20th, 2020:</b> <a href="#metabo">Metabolic Pathways in VEuPathDB</a></p>
    <p><b>Thursday August 27th, 2020:</b> <a href="#">TBD</a></p>
     <p><b>Thursday September 3rd, 2020:</b> <a href="#">TBD</a></p>
     <p><b>Thursday September 10th, 2020:</b> <a href="#">TBD</a></p>
@@ -83,6 +83,17 @@ This webinar will feature beta.HostDB.org and will showcase the types of availab
 <b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/8715843375480877323">https://attendee.gotowebinar.com/register/8715843375480877323</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will demonstrate how to integrate diverse data types in search strategies to answer biological questions and build testable hypotheses.
+<br>
+</div>
+<hr>
+<div class="anchor"><a name="metabo"></a></div>
+<div class="webinar">
+<b>Topic:</b> Metabolic Pathways in VEuPathDB<br>
+<b>Date:</b> Thursday August 20th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="Join my webinar! Aug 20, 2020 10:00 AM - 11:00 AM EDT. https://attendee.gotowebinar.com/register/2185988953943444495">Join my webinar! Aug 20, 2020 10:00 AM - 11:00 AM EDT. https://attendee.gotowebinar.com/register/2185988953943444495</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will focus on how to use and explore metabolic pathways in VEuPathDB sites.
 <br>
 </div>
 
