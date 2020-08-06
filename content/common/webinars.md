@@ -97,7 +97,7 @@ This webinar will focus on how to use and explore metabolic pathways in VEuPathD
 <b>Topic:</b> HostDB: finding host genes responding to infection<br>
 <b>Date:</b> Thursday August 6th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/472066929741932555">https://attendee.gotowebinar.com/register/472066929741932555</a> <br>
+<b>RRecording Link: <</b><a href="https://youtu.be/VdlzBcTyJ2U">https://youtu.be/VdlzBcTyJ2U</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will feature beta.HostDB.org and will showcase the types of available data to query host response to infection. 
 <br>
