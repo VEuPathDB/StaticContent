@@ -94,7 +94,7 @@ This webinar will cover basic usage of MicrobiomeDB.org and describe some of its
 <b>Date:</b> Thursday August 13th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording Link: </b><a href="https://youtu.be/OBQCI5_Y9jU">https://youtu.be/OBQCI5_Y9jU</a> <br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/13August2020webinar.pdf">Building complex search strategies in FungiDB</a><br>
+<b>Handout: </b> <a href="{{'/documents/13August2020webinar.pdf' | absolute_url}}">Building complex search strategies in FungiDB</a><br>
 <b>Additional Details:</b> <br>
 This webinar will demonstrate how to integrate diverse data types in search strategies to answer biological questions and build testable hypotheses.
 <br>
