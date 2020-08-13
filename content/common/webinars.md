@@ -31,7 +31,7 @@ tags: [general]
    <p><b>Thursday August 27th, 2020:</b> <a href="#">TBD</a></p>
     <p><b>Thursday September 3rd, 2020:</b> <a href="#">TBD</a></p>
     <p><b>Thursday September 10th, 2020:</b> <a href="#">TBD</a></p>
-     <p><b>Thursday September 17th, 2020:</b> <a href="#">TBD</a></p>
+     <p><b>Thursday September 17th, 2020:</b> <a href="#microbiome">Introduction to MicrobiomeDB</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
@@ -82,6 +82,17 @@ This webinar will demonstrate how to integrate diverse data types in search stra
 <b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2185988953943444495">https://attendee.gotowebinar.com/register/2185988953943444495</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will focus on how to use and explore metabolic pathways in VEuPathDB sites.
+<br>
+</div>
+<hr>
+<div class="anchor"><a name="microbiome"></a></div>
+<div class="webinar">
+<b>Topic:</b> Introduction to MicrobiomeDB<br>
+<b>Date:</b> Thursday September 17th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2125108995288807693">https://attendee.gotowebinar.com/register/2125108995288807693</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will cover basic usage of MicrobiomeDB.org and describe some of its key features
 <br>
 </div>
 
