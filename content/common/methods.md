@@ -106,7 +106,7 @@ div.method-details {
     </ul>
     
    <p><a href="https://docs.google.com/document/d/1igsvk73s3pNjeaJvwLtitfFLexhNfr6-Vk3OIKqq3bw/edit?usp=sharing">EBI RNA-Seq pipeline details</a></p>
-
+</div>
 
 <hr>
 <h2>ChIP-Sequence</h2>
