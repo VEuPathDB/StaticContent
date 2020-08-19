@@ -91,7 +91,6 @@ div.method-details {
 
 <hr>
 <h2>RNA-Sequence</h2>
-
 <div class="method-details">
    <p>VEuPathDB integrates RNA-Seq data from many different experiments and analyzes all data with the same EBI RNA-Seq analysis pipeline. The RNA sequence data that we integrate is processed at EBI. </p>
 
@@ -110,25 +109,31 @@ div.method-details {
 
 <hr>
 <h2>ChIP-Sequence</h2>
-
-
 <div class="method-details">
    <p>VEuPathDB integrates ChIP-Seq data from many different experiments and sources. Details coming soon. </p>
 </div>   
 
 <hr>
 <h2>Copy Number Variation </h2>
-
-
 <div class="method-details">
    <p>VEuPathDB analyzes whole genome resequencing data to estimate each gene's copy number in resequenced strains. Details coming soon. </p>
 </div>  
 
 <hr>
 <h2>Genetic Variation and SNP calling</h2>
-
-
 <div class="method-details">
    <p>VEuPathDB analyzes whole genome resequencing data to call single nucleotide polymorphisms of isolates. Details coming soon. </p>
+</div> 
+
+<hr>
+<h2>Protein Array data</h2>
+<div class="method-details">
+   <p>VEuPathDB integrates protein array data from serm antibody microarray expeirments. Analysis details coming soon. </p>
+</div> 
+
+<hr>
+<h2>Metabolic Pathways</h2>
+<div class="method-details">
+   <p>VEuPathDB integrates metabolic pathways from KEGG and MetCyc.  Metabolic pathways are associated with genes via Enzyme Commission annotations.  Details coming soon. </p>
 </div> 
 
