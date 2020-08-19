@@ -96,7 +96,7 @@ div.method-details {
    <p>VEuPathDB integrates RNA-Seq data from many different experiments and analyzes all data with the same EBI RNA-Seq analysis pipeline. The RNA sequence data that we integrate is processed at EBI. </p>
 
    
-   <p>The following is a general outline of the analysis process.  <p>
+   <p>The following is a general outline of the analysis process.  </p>
     <ul>
      <li>Trim poor quality data (Trimmomatic)</li>
      <li>HiSAT2 alignment to a reference genome</li>
@@ -106,7 +106,7 @@ div.method-details {
     </ul>
     
    <p><a href="https://docs.google.com/document/d/1igsvk73s3pNjeaJvwLtitfFLexhNfr6-Vk3OIKqq3bw/edit?usp=sharing">EBI RNA-Seq pipeline details</a></p>
-</div>
+ </div>
 
 <hr>
 <h2>ChIP-Sequence</h2>
