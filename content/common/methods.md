@@ -96,6 +96,19 @@ div.method-details {
 <h2>RNA-Sequence</h2>
 <hr>
 <div class="method-details">
-   <p>VEuPathDB integrates RNA-Seq data from many different experiments and analyzes all data with the same EBI RNA-Seq analysis pipeline. Further details coming soon. </p>
+   <p>VEuPathDB integrates RNA-Seq data from many different experiments and analyzes all data with the same EBI RNA-Seq analysis pipeline. The RNA sequence data that we integrate is processed at EBI. </p>
+
+   
+   <p>The following is a general outline of the analysis process.  <p>
+    <ul>
+     <li>FASTQ Groomer to ensure proper formatting</li>
+     <li>Trimmomatic to trip reads of bad data</li>
+     <li>HiSAT2 alignment to a reference genome</li>
+     <li>HT-Seq-count to tally aligned reads per gene</li>
+     <li>HT-Seq-count-TPM to convert to transcripts per kilobase million</li>
+    </ul>
+    
+   <p><a href="https://docs.google.com/document/d/1igsvk73s3pNjeaJvwLtitfFLexhNfr6-Vk3OIKqq3bw/edit?usp=sharing">EBI RNA-Seq pipeline details</a></p>
+
 </div>
 
