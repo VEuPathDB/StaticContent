@@ -101,14 +101,37 @@ div.method-details {
    
    <p>The following is a general outline of the analysis process.  <p>
     <ul>
-     <li>FASTQ Groomer to ensure proper formatting</li>
-     <li>Trimmomatic to trip reads of bad data</li>
+     <li>Trim poor quality data (Trimmomatic)</li>
      <li>HiSAT2 alignment to a reference genome</li>
      <li>HT-Seq-count to tally aligned reads per gene</li>
-     <li>HT-Seq-count-TPM to convert to transcripts per kilobase million</li>
+     <li>Convert to transcripts per kilobase million (TPM)</li>
+     <li>DESeq2 to determine differential expression</li>
     </ul>
     
    <p><a href="https://docs.google.com/document/d/1igsvk73s3pNjeaJvwLtitfFLexhNfr6-Vk3OIKqq3bw/edit?usp=sharing">EBI RNA-Seq pipeline details</a></p>
-
 </div>
+
+<hr>
+<h2>ChIP-Sequence</h2>
+<hr>
+
+<div class="method-details">
+   <p>VEuPathDB integrates ChIP-Seq data from many different experiments and sources. Details coming soon. </p>
+</div>   
+
+<hr>
+<h2>Copy Number Variation </h2>
+<hr>
+
+<div class="method-details">
+   <p>VEuPathDB analyzes whole genome resequencing data to estimate each gene's copy number in resequenced strains. Details coming soon. </p>
+</div>  
+
+<hr>
+<h2>Genetic Variation and SNP calling</h2>
+<hr>
+
+<div class="method-details">
+   <p>VEuPathDB analyzes whole genome resequencing data to call single nucleotide polymorphisms of isolates. Details coming soon. </p>
+</div> 
 
