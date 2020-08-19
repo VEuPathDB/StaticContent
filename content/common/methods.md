@@ -19,7 +19,6 @@ div.method-details {
 
 <hr>
 <h2>Genome analyses</h2>
-<hr>
 
 <p>Genome sequence and annotation are  analyzed by the <a href="#EBIpipeline">EBI Pipeline</a> supplemented with <a href="#threeInHouse">three in-house analyses</a>.  In the rare case that the EBI pipeline cannot be applied to a genome, we use a <a href="#serieInHouse">series of in-house analyses</a> in lieu of the EBI Pipelines. </p>
 
@@ -39,7 +38,6 @@ div.method-details {
    <p><a href="{{'/documents/Methods-Ex-Pipelines.pdf' | absolute_url}}">Example ehive pipelines, modules, programs and parameter data from coredb analysis table</a></p>
   </div>
 
-<hr>
 
   <div class="anchor"><a name="threeInHouse"></a></div>
   <h3>Supplements to the EBI Pipelines</h3>
@@ -55,7 +53,6 @@ div.method-details {
    <p><a href="{{'/documents/Methods-Supplements-Genomes.pdf' | absolute_url }}">Details for the supplements to the EBI pipelines</a></p>
   </div>
 
-<hr>
   
   <div class="anchor"><a name="serieInHouse"></a></div>
   <h3>In-house genome analyses in Lieu of the EBI Pipeline</h3>
@@ -85,7 +82,7 @@ div.method-details {
 
 <hr>
 <h2>Proteomics</h2>
-<hr>
+
 <div class="method-details">
    <p>VEuPathDB integrates the results of proteomics experiments as peptides aligned to a reference genome or as abundance data assigned to a gene.   We do not reanalyze the raw mass spec data but instead use an in-house plugin that loads found peptides or abundance data from tab delimited input files of a specific format.</p>
    
@@ -94,7 +91,7 @@ div.method-details {
 
 <hr>
 <h2>RNA-Sequence</h2>
-<hr>
+
 <div class="method-details">
    <p>VEuPathDB integrates RNA-Seq data from many different experiments and analyzes all data with the same EBI RNA-Seq analysis pipeline. The RNA sequence data that we integrate is processed at EBI. </p>
 
@@ -109,11 +106,11 @@ div.method-details {
     </ul>
     
    <p><a href="https://docs.google.com/document/d/1igsvk73s3pNjeaJvwLtitfFLexhNfr6-Vk3OIKqq3bw/edit?usp=sharing">EBI RNA-Seq pipeline details</a></p>
-</div>
+
 
 <hr>
 <h2>ChIP-Sequence</h2>
-<hr>
+
 
 <div class="method-details">
    <p>VEuPathDB integrates ChIP-Seq data from many different experiments and sources. Details coming soon. </p>
@@ -121,7 +118,7 @@ div.method-details {
 
 <hr>
 <h2>Copy Number Variation </h2>
-<hr>
+
 
 <div class="method-details">
    <p>VEuPathDB analyzes whole genome resequencing data to estimate each gene's copy number in resequenced strains. Details coming soon. </p>
@@ -129,7 +126,7 @@ div.method-details {
 
 <hr>
 <h2>Genetic Variation and SNP calling</h2>
-<hr>
+
 
 <div class="method-details">
    <p>VEuPathDB analyzes whole genome resequencing data to call single nucleotide polymorphisms of isolates. Details coming soon. </p>
