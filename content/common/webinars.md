@@ -87,7 +87,7 @@ This webinar will cover basic usage of MicrobiomeDB.org and describe some of its
 This webinar focused on how to use and explore metabolic pathways in VEuPathDB sites.
 <br>
 </div>
-<hr>
+
 
 <hr>
 <div class="anchor"><a name="complexstrat"></a></div>
