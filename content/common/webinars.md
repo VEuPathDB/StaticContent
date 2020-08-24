@@ -28,7 +28,7 @@ tags: [general]
     
 
    <p><b>Thursday August 27th, 2020:</b> <a href="#">TBD</a></p>
-    <p><b>Thursday September 3rd, 2020:</b> <a href="#">TBD</a></p>
+    <p><b>Thursday September 3rd, 2020:</b> <a href="#release48">Release 48 Webinar</a></p>
     <p><b>Thursday September 10th, 2020:</b> <a href="#">TBD</a></p>
      <p><b>Thursday September 17th, 2020:</b> <a href="#microbiome">Introduction to MicrobiomeDB</a></p>
   </div>
@@ -61,7 +61,19 @@ tags: [general]
 <hr> <!-- ==== UPCOMING WEBINARS =============================== -->
 
 <h3>Upcoming Webinars</h3>
+<hr> 
 
+<div class="anchor"><a name="release48"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 48 Webinar<br>
+<b>Date:</b> Thursday September 3rd, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/6333109319823887373">https://attendee.gotowebinar.com/register/6333109319823887373</a> <br>
+<b>Additional Details:</b> <br>
+Join us for an overview of what is new in Release 48 of the VEuPathDB resources.  We will talk about data sets, demonstrate serches and features, and answer questions.
+<br>
+</div>
+<hr>
 
 <div class="anchor"><a name="microbiome"></a></div>
 <div class="webinar">
