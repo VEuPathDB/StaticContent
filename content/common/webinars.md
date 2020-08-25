@@ -27,7 +27,7 @@ tags: [general]
   <div id="contents">
     
 
-   <p><b>Thursday August 27th, 2020:</b> <a href="#">TBD</a></p>
+   <p><b>Thursday August 27th, 2020:</b> <a href="#">None</a></p>
     <p><b>Thursday September 3rd, 2020:</b> <a href="#">TBD</a></p>
     <p><b>Thursday September 10th, 2020:</b> <a href="#">TBD</a></p>
      <p><b>Thursday September 17th, 2020:</b> <a href="#microbiome">Introduction to MicrobiomeDB</a></p>
