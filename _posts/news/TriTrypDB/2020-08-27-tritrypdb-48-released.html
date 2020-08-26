@@ -1,0 +1,154 @@
+---
+layout: post
+title: TriTrypDB 48 Released
+category: [TriTrypDB,EuPathDB,VEuPathDB]
+---
+{% assign project = page.category[0] %}
+
+
+<p><strong>We are pleased to announce the release of {{project}} 48.</strong>  
+
+<p>Beginning with {{project}} 48, the URL <a href="/">https://{{project}}.org</a> directs you to the newest version of our interface.  The site contains all previous data plus some new tools and functions in an updated and streamlined interface that empasizes easy access to help information.   Navigate to <a href="https://legacy.{{project}}.org">https://legacy.{{project}}.org</a> for the previous version of the interface.  The legacy interface will remain active for at least one release.</p>
+
+<section>
+  <h3><b>Release 48 Webinar</b></h3>
+  <div style="margin-left: 3em;">
+    Join us on September 3, 2020 at 10am EDT for our Release 48 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 48.  
+    <a href="https://attendee.gotowebinar.com/register/6333109319823887373" target="_blank">Register here</a>  
+  </div>
+</section>
+
+
+<section>
+  <h3>New data in {{project}} 48</h3>
+
+  <h4>ChIP-Seq Data</h4>
+  <div style="margin-left: 3em;">
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_2bb377de3f">ChIP-Seq - Four histone Variants (<i>Tb Lister</i> 427-2018)</a> &ndash; ChIP-Seq of H4K10ac, bromodomain protein (BDF3), and four histone variants mark the boundaries of polycistronic transcription units in <i>Trypanosoma brucei</i>. These data are aligned for the first time to <i>Trypanosoma brucei</i> Lister strain 427 2018. <a href="http://www.ncbi.nlm.nih.gov/pubmed/19369410" target="_blank">Siegel et al. 2009</a> and <a href="http://www.ncbi.nlm.nih.gov/pubmed/20347883" target="_blank">Wright et al. 2010</a>
+      </li>
+    </ul>
+  </div>  
+
+   <h4>Updated Functional Annotation</h4>
+        <div style="margin-left: 3em;">
+        
+        <a href="https://docs.google.com/spreadsheets/d/11DEziXdXjBIzAEn9oXG9v3zNoFpmpe4KSBJrgRwhNHY/edit?usp=sharing" target="_blank">Summary of annotation updates</a> which include products, GO terms, gene names, synonyms, publications, external database references and notes from curators. These functional annotations are current with GeneDB May, 2020 GFF versions.
+        <br><br>
+        Functional annotations in TriTrypDB 48 have been updated for the following genomes:
+        <br><br>
+        <style>
+           #FunctAnnot_Bld48 table, #FunctAnnot_Bld48 td, #FunctAnnot_Bld48 th, #FunctAnnot_Bld48 tr {
+           text-align : center;
+           padding-left: 5px;
+           padding-right: 5px;
+           padding-top: 5px;
+           padding-bottom: 5px;
+           border: 1px solid black;
+           }
+           #FunctAnnot_Bld48 {
+           margin-left : 5 em;
+           }
+         </style> 
+           <table id="FunctAnnot_Bld48"> 
+           <tr>
+             <th>TriTrypDB Genome Version</th>
+             <th>Download GeneDB GFF file</th>
+             <th>Genes Updated</th>
+           </tr>
+           <tr>
+            <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on TriTrypDB."><a href="http://tritrypdb.org/tritrypdb/app/record/dataset/DS_839623217a"><i>Leishmania major </i>Friedlin</a></td>
+            <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2020-05/Lmajor/Lmajor.gff.gz" target="_blank">GeneDB version May, 2020</a></td> 
+            <td>456 genes</td>
+           </tr>
+           <tr>
+            <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on TriTrypDB."><a href="http://tritrypdb.org/tritrypdb/app/record/dataset/DS_e318592c8e"><i>Leishmania mexicana </i>MHOM/GT/2001/U1103</a></td>
+            <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2020-05/Lmexicana/Lmexicana.gff.gz" target="_blank">GeneDB version May, 2020</a></td> 
+            <td>134 genes</td>
+           </tr>            
+           <tr>
+             <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on TriTrypDB."><a href="http://tritrypdb.org/tritrypdb/app/record/dataset/DS_31282613b1"><i>Trypanosoma brucei </i>927</a></td>
+             <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2020-05/Tbruceibrucei927/Tbruceibrucei927.gff.gz" target="_blank">GeneDB version May, 2020</a></td> 
+             <td>647 genes</td>
+           </tr>
+           <tr>
+            <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on TriTrypDB."><a href="http://tritrypdb.org/tritrypdb/app/record/dataset/DS_26f6be1159"><i>Trypanosoma congolense </i>IL3000</a></td>
+            <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2020-05/Tcongolense/Tcongolense.gff.gz" target="_blank">GeneDB version May, 2020</a></td> 
+            <td>13 genes</td>
+           </tr>
+           <tr>
+            <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on TriTrypDB."><a href="http://tritrypdb.org/tritrypdb/app/record/dataset/DS_1a6c8bdaac"><i>Trypanosoma cruzi </i>CL Brenner</a></td>
+            <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2020-05/Tcruzi/Tcruzi.gff.gz" target="_blank">GeneDB version May, 2020</a></td> 
+            <td>1791 genes</td>
+           </tr>
+           <tr>
+            <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on TriTrypDB."><a href="http://tritrypdb.org/tritrypdb/app/record/dataset/DS_ec7df4510a"><i>Trypanosoma vivax </i>Y486</a></td>
+            <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2020-05/Tvivax/Tvivax.gff.gz" target="_blank">GeneDB version May, 2020</a></td> 
+            <td>18 genes</td>
+           </tr>
+           </table>
+		   </div>
+    <br><br>
+           
+		   
+		 <h4>Curated User Comments</h4>
+       <div style="margin-left: 3em;">
+       
+          Gene page comments that are entered by users are curated at GeneDB and regularly integrated as functional  annotations in TriTrypDB. 202 user comments have been integrated in this release.<br><br>
+          
+         <style>
+           #UComment_Bld48 table, #UComment_Bld48 td, #UComment_Bld48 th, #UComment_Bld48 tr {
+           text-align : center;
+           padding-left: 5px;
+           padding-right: 5px;
+           padding-top: 5px;
+           padding-bottom: 5px;
+           border: 1px solid black;
+           }
+           #UComment_Bld48 {
+           margin-left : 5 em;
+           }
+         </style> 
+           <table id="UComment_Bld48"> 
+           <tr>
+             <th>TriTrypDB Genome Version</th>
+             <th>Comments Integrated</th>
+           </tr>
+           <tr>
+            <td><a href="http://tritrypdb.org/tritrypdb/app/record/dataset/DS_839623217a"><i>Leishmania major</i> Friedlin</a></td>
+            <td>16</td>
+           </tr>
+           <tr>
+            <td><a href="http://tritrypdb.org/tritrypdb/app/record/dataset/DS_e318592c8e"><i>Leishmania mexicana</i> MHOM/GT/2001/U1103</a></td>
+            <td>12</td>
+           </tr>
+           <tr>
+             <td><a href="http://tritrypdb.org/tritrypdb/app/record/dataset/DS_31282613b1"><i>Trypanosoma brucei</i> 927</a></td>
+             <td>128</td>
+           </tr>
+           <tr>
+            <td><a href="http://tritrypdb.org/tritrypdb/app/record/dataset/DS_31282613b1"><i>Trypanosoma cruzi</i> CL Brener</a></td>
+            <td>46</td>
+          </tr>
+          </table>  
+        </div>
+</section>
+
+<section>
+  <h3>New features in {{project}} 48</h3>
+  <div style="margin-left: 3em;"></div>
+   <ul>
+    <li>Gene pages: The sequence section now contains links to copy the sequence to your clipboard. Sequences are copied in FASTA format with the gene ID in the def line.  </li>
+    <li>Gene pages: It is now possible to scroll and zoom within the JBrowse views that are present in the 'Gene models' and 'Protein features and properties' sections. </li>
+    <li>Contact Us form: A new option on the Contact Us form makes it possible to paste a screenshot into the form when sending us questions or suggestions. </li>
+    <li>Search result page: The Download and Add to Basket options from a search result tab now appear as buttons for better visibility.</li>
+    <li>Error messages:  The text in our error messages was reviewed and edited to improve clarity.  And we've made it easier to report errors by adding links in error messages to the Contact Us form.</li>
+   </ul>
+</section>
+
+
+<section>
+  <aside>
+   <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>

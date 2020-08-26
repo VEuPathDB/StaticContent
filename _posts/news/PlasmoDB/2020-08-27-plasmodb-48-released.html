@@ -7,35 +7,20 @@ category: [PlasmoDB,VEuPathDB]
 {% assign project = page.category[0] %}
 
 
-<p><strong>We are pleased to announce the release of {{project}} 48.</strong>  <br><br>The product of 6 months of 
-  back-end infrastructure work, Release 48 includes <a href="https://beta.plasmodb.org" target="_blank">beta.plasmodb.org</a> 
-  in addition to our legacy sites. The beta site contains the same data as the legacy site, but also has new tools and functions in an updated and streamlined interface that emphasizes easy access to tools and help information.  For example, the search functionality in the header now performs a site-wide search.</p>
+<p><strong>We are pleased to announce the release of {{project}} 48.</strong>  
 
-<p>Underlying our website's new look is a modernized client-server architecture. After three years of planning and development, the site is now driven completely by our new <a href="/a/app/static-content/content/{{project}}/webServices.html">REST API</a>. This new API provides better access to the data and enables faster development so we can more readily respond to the needs of our community.</p>
-
-
-<!--
-  <p>
-  Your feedback is invaluable as we improve our sites and transition to our new architecture and interface.  So please try 
-  <a href="https://beta.plasmodb.org" target="_blank">beta.plasmodb.org</a> and let us know how we are 
-  doing by completing one or all of the surveys below.  Each takes about half an hour to complete.
-    <ul>
-      <li><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_3rzHCq7GXOTVbY9" target="_blank">Home page survey</a></li>
-      <li><a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_0V8e16DsND30ccZ" target="_blank">Site search survey</a> </li>
-      <li><a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_b33t5gs2DePPnox" target="_blank">Search strategy system survey</a></li>
-    </ul>
-  </p> 
--->
+<p>Beginning with {{project}} 48, the URL <a href="/">https://{{project}}.org</a> directs you to the newest version of our interface.  The site contains all previous data plus some new tools and functions in an updated and streamlined interface that empasizes easy access to help information.   Navigate to <a href="https://legacy.{{project}}.org">https://legacy.{{project}}.org</a> for the previous version of the interface.  The legacy interface will remain active for at least one release.</p>
 
 <section>
   <h3><b>Release 48 Webinar</b></h3>
   <div style="margin-left: 3em;">
-    Join us for our Release 48 Highlights webinar where we will demonstrate and discuss our new beta sites.  Webinar scheduling details TBD.
-    <a href="xxx" target="_blank">Register here</a>
+    Join us on September 3, 2020 at 10am EDT for our Release 48 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 48.  
+    <a href="https://attendee.gotowebinar.com/register/6333109319823887373" target="_blank">Register here</a>  
   </div>
 </section>
-    <section>
-      <h3><b>New data in PlasmoDB 48</b></h3>
+
+<section>
+  <h3>No new data in {{project}} 48</h3>
       <div style="margin-left: 3em;">
       <h4>RNA Sequence</h4>
          <ul>
@@ -126,12 +111,23 @@ category: [PlasmoDB,VEuPathDB]
             </table>
       </div>
     </section>
-      
-      <section>
-         <aside>
-           <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.
-           Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits.
-           When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it.
-           When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
-         </aside>
-      </section>
+
+  
+
+<section>
+  <h3>New features in {{project}} 48</h3>
+  <div style="margin-left: 3em;"></div>
+   <ul>
+    <li>Gene pages: The sequence section now contains links to copy the sequence to your clipboard. Sequences are copied in FASTA format with the gene ID in the def line.  </li>
+    <li>Gene pages: It is now possible to scroll and zoom within the JBrowse views that are present in the 'Gene models' and 'Protein features and properties' sections. </li>
+    <li>Contact Us form: A new option on the Contact Us form makes it possible to paste a screenshot into the form when sending us questions or suggestions. </li>
+    <li>Search result page: The Download and Add to Basket options from a search result tab now appear as buttons for better visibility.</li>
+    <li>Error messages:  The text in our error messages was reviewed and edited to improve clarity.  And we've made it easier to report errors by adding links in error messages to the Contact Us form.</li>
+   </ul>
+</section>  
+
+<section>
+  <aside>
+    <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>

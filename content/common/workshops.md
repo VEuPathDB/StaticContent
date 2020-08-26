@@ -137,11 +137,12 @@ To encourage the active participation/Q&A during the hands-on activities, limite
         <td>GIGC</td>
     </tr>
     <tr><td>8:10</td><td>11:10</td><td>17:10</td><td>20</td>
-        <td>Exercise 1: Site search</td>
+        <td>1. Site search: <a href="{{'/documents/SiteSearch_Exercise.docx' | absolute_url}}">Exercise</a> and  <a href="{{'/documents/SiteSearch_AnswerKey.docx' | absolute_url}}">Answer Key</a>
+</td>
         <td>GIGC</td>
     </tr>
     <tr><td>8:30</td><td>11:30</td><td>17:30</td><td>40</td>
-        <td>Exercise 2: Search strategies </td>
+        <td>2. Search strategies: <a href="{{'/documents/SearchStrategies_Exercise.docx' | absolute_url}}">Exercise</a> and  <a href="{{'/documents/SearchStrategies_AnswerKey.docx' | absolute_url}}">Answer Key</a></td>
         <td>GIGC</td>
     </tr>
     <tr class="break"><td></td><td></td><td></td><td>15</td>
@@ -149,11 +150,11 @@ To encourage the active participation/Q&A during the hands-on activities, limite
         <td></td>
     </tr>
     <tr><td>9:25</td><td>12:25</td><td>18:25</td><td>40</td>
-        <td>Exercise 3: GO enrichment </td>
+        <td>3. GO enrichment: <a href="{{'/documents/GO_Enrichment_Exercise.docx' | absolute_url}}">Exercise</a> and  <a href="{{'/documents/GO_Enrichment_AnswerKey.docx' | absolute_url}}">Answer Key</a></td>
         <td>OH</td>
     </tr>
     <tr><td>10:10</td><td>13:10</td><td>19:10</td><td>40</td>
-        <td>Exercise 4: Gene page and genome browser </td>
+        <td>4. Gene page and genome browser: <a href="{{'/documents/GenePages_GenomeBrowser_Exercise.docx' | absolute_url}}">Exercise</a> and  <a href="{{'/documents/GenePages_GenomeBrowser_AnswerKey.docx' | absolute_url}}">Answer Key</a></td>
         <td>GIGC</td>
     </tr>
     <tr><td>10:50</td><td>13:50</td><td>19:50</td><td>15</td>

@@ -25,15 +25,22 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div id="contents">
-  
-  <p><b>Thursday July 23th, 2020:</b> <a href="#snp">Variant data in VEuPathDB.</a></p>
+    
+
+   <p><b>Thursday August 27th, 2020:</b> <a href="#">None</a></p>
+    <p><b>Thursday September 3rd, 2020:</b> <a href="#release48">Release 48 Webinar</a></p>
+    <p><b>Thursday September 10th, 2020:</b> <a href="#">TBD</a></p>
+     <p><b>Thursday September 17th, 2020:</b> <a href="#microbiome">Introduction to MicrobiomeDB</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
   <div id="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
-   
+   <p><b>Thursday August 20th, 2020:</b> <a href="#metabo">Metabolic Pathways in VEuPathDB</a></p>   <p><b>Thursday August 13th, 2020:</b> <a href="#complexstrat">Building complex search strategies in VEuPathDB.</a></p>
+   <p><b>Thursday August 6th, 2020:</b> <a href="#hostdb">HostDB: finding host genes responding to infection.</a></p>
+   <p><b>Thursday July 30th, 2020:</b> <a href="#proteomics">Proteomics data in VEuPathDB.</a></p> 
+   <p><b>Thursday July 23th, 2020:</b> <a href="#snp">Variant data in VEuPathDB.</a></p>
    <p><b>Thursday July 16th, 2020:</b> <a href="#fungidb">Introduction to FungiDB - Data and Functionality.</a></p>
    <p><b>Thursday July 9th, 2020:</b> <a href="#rnaseq">RNAseq searches in VEuPathDB.</a></p>
    <p><b>Thursday July 2nd, 2020:</b> <a href="#ortho">Orthology searches and OrthoMCL.</a></p>
@@ -54,7 +61,88 @@ tags: [general]
 <hr> <!-- ==== UPCOMING WEBINARS =============================== -->
 
 <h3>Upcoming Webinars</h3>
+<hr> 
 
+<div class="anchor"><a name="release48"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 48 Webinar<br>
+<b>Date:</b> Thursday September 3rd, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/6333109319823887373">https://attendee.gotowebinar.com/register/6333109319823887373</a> <br>
+<b>Additional Details:</b> <br>
+Join us for an overview of what is new in Release 48 of the VEuPathDB resources.  We will talk about data sets, demonstrate serches and features, and answer questions.
+<br>
+</div>
+<hr>
+
+<div class="anchor"><a name="microbiome"></a></div>
+<div class="webinar">
+<b>Topic:</b> Introduction to MicrobiomeDB<br>
+<b>Date:</b> Thursday September 17th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2125108995288807693">https://attendee.gotowebinar.com/register/2125108995288807693</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will cover basic usage of MicrobiomeDB.org and describe some of its key features
+<br>
+</div>
+
+
+<hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
+<h3>Previous Webinars</h3>
+
+<hr>
+<div class="anchor"><a name="metabo"></a></div>
+<div class="webinar">
+<b>Topic:</b> Metabolic Pathways in VEuPathDB<br>
+<b>Date:</b> Thursday August 20th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/kHD0HbVwFfo">https://youtu.be/kHD0HbVwFfo</a> <br>
+<b>Additional Details:</b> <br>
+This webinar focused on how to use and explore metabolic pathways in VEuPathDB sites.
+<br>
+</div>
+
+
+<hr>
+<div class="anchor"><a name="complexstrat"></a></div>
+<div class="webinar">
+<b>Topic:</b> Building complex search strategies in VEuPathDB<br>
+<b>Date:</b> Thursday August 13th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/OBQCI5_Y9jU">https://youtu.be/OBQCI5_Y9jU</a> <br>
+<b>Handout: </b> <a href="https://community.eupathdb.org/documents/13August2020webinar.pdf">Building complex search strategies in FungiDB</a><br>
+<b>Additional Details:</b> <br>
+This webinar will demonstrate how to integrate diverse data types in search strategies to answer biological questions and build testable hypotheses.
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="hostdb"></a></div>
+<div class="webinar">
+<b>Topic:</b> HostDB: finding host genes responding to infection<br>
+<b>Date:</b> Thursday August 6th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/VdlzBcTyJ2U">https://youtu.be/VdlzBcTyJ2U</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will feature beta.HostDB.org and will showcase the types of available data to query host response to infection. 
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="proteomics"></a></div>
+<div class="webinar">
+<b>Topic:</b> Proteomics data in VEuPathDB<br>
+<b>Date:</b> Thursday July 30th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/fXMs7mx3x5s">https://youtu.be/fXMs7mx3x5s</a> <br>
+<b>Additional Details:</b> <br>
+This webinar will cover the types of proteomics data and searches available in VEuPathDB. Including:<br>
+<ul>
+<li>Peptides</li>
+<li>Quantitative proteomics</li>
+<li>Post translational modifications (PTMs)</li>
+</ul>
+</div>
 
 <hr>
 <div class="anchor"><a name="snp"></a></div>
@@ -62,7 +150,7 @@ tags: [general]
 <b>Topic:</b> Variant data in VEuPathDB<br>
 <b>Date:</b> Thursday July 23th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/9005464633523261196">https://attendee.gotowebinar.com/register/9005464633523261196</a> <br>
+<b>Recording Link: </b><a href="https://youtu.be/1ZUPQCCdhAg">https://youtu.be/1ZUPQCCdhAg</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will cover:<br>
 <ul>
@@ -70,15 +158,9 @@ This webinar will cover:<br>
 <li>Copy number variation searches</li>
 <li>Variant data visualizations</li>
 </ul>
-<br>
 </div>
-
-
-<hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
-
-
-<h3>Previous Webinars</h3>
 <hr>
+
 <div class="anchor"><a name="fungidb"></a></div>
 <div class="webinar">
 <b>Topic:</b> Introduction to FungiDB - Data and Functionality<br>
@@ -94,7 +176,7 @@ This webinar will cover:<br>
 <li>Demo of key searches</li>
 <li>Demo of key search and analysis tools</li>
 </ul>
-<br>
+
 </div>
 <hr>
 <div class="anchor"><a name="rnaseq"></a></div>
