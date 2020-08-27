@@ -42,7 +42,9 @@
 - type: general
   question: "Does the site handle shotgun metagenomic data?"
   answer: |
-           Not yet, but this is one of our future goals. Although the datasets currently loaded in the site are from 16S rDNA marker gene sequencing, 
+           If you have a .biom file from your metagenomic study, then you can upload this directly to MicrobiomeDB under the Workspace menu (see next FAQ below).
+           We do not yet handle loading of raw sequence files from metagenomic studies, but this is one of our future goals. 
+           Although the datasets currently loaded in the site are from 16S rDNA marker gene sequencing, 
            we are working on adding functionality for handling 'shotgun' metagenomic sequence data, 
            potentially allowing interrogation of community composition at the species or strain level, 
            looking at other organisms in complex communities (e.g. fungi and prokaryotes), 
@@ -56,12 +58,15 @@
 
 
 - type: general
-  question: "Can I analyze my own unpublished data using the tools on MicrobiomeDB?"
+  question: "Can I privately analyze my own unpublished data using the tools on MicrobiomeDB?"
   answer: |
-           Sorry, but this feature isn't available yet.  However, we're working hard to develop a user workspace that would allow you to upload **[.biom files](http://biom-format.org/)**.  You can also 
-           **[Contact Us](https://microbiomedb.org/mbio/app/contact-us)** to inquire about having your own 
-           data (published or unpublished) loaded into the site for public access!  
-           You may also be interested in the tools available at **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource for preprocessing and analysis of 16S rRNA marker gene data..
+           Yes! Simply register for a free account, and you'll have access to your own Workspace were you can upload **[.biom files](http://biom-format.org/)** from 16S or shotgun metagenomic studies.  
+           A .biom file can be produced from standard 16S data processing pipelines, such as Mothur and QIIME.
+           When creating your .biom file, be sure to incorporate metadata from your samples. 
+           If you are using QIIME to analyze your 16S data, be sure to take a look at [our QIIME2 protocol](https://www.notion.so/Analysis-of-16S-data-using-QIIME2-f225c95e34784cc3b726cff2d4d137cc). 
+           Instructions for generating a .biom file with metadata included are in the 'OPTIONAL: export .biom file' step in the protocol.
+           If you're looking for web-based access to QIIME or MOTHUR, you may be interested in the tools available at **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource for preprocessing and analysis of 16S rRNA marker gene data.
+           
 
   uid: g5
   projects: "MicrobiomeDB"
@@ -72,7 +77,7 @@
   question: "How are datasets chosen for loading into MicrobiomeDB?"
   answer: |
            Several things factor into our decision to load a dataset.  
-           First, we have a strong interest in studies of the microbiome in infant and child health and in enteric diseases.  
+           First, we have a strong interest in studies of the microbiome in infant and materal/child health and in enteric diseases.  
            Second, we're also interested in understanding how different animal models (mice, dogs, pigs, etc) might help us understand the role of the microbiome during health and disease.  
            Finally, we're interested in multifactorial and longitudinal datasets, since these qualities of datasets provide a unique opportunity to employ data mining and visualization to reveal interesting associations.
   uid: g6
@@ -210,4 +215,15 @@
   answer: |
            Yes!  Clicking on the 'Cross Study Analysis' card on the homepage will take you to a search page that lets you search for samples across the entire database.  
   uid: u5
+  projects: "MicrobiomeDB"
+
+- type: using_site
+  question: "How do I upload my own .biom file for analysis using microbiomeDB tools?"
+  answer: |
+           1. Log in to your account
+           2. Mouse over 'Workspace' at the top menu bar on the microbiomeDB home page, and select 'My Data Sets' from the drop down menu.
+           3. On the 'My Data Sets' page, click 'New upload', fill in the information about your dataset, and locate your .biom file for upload. 
+           4. Once the upload has completed, it will appear under the 'All' tab on the 'My Data Sets' page, but will take additional time to install in the database.
+           5. Once installed, clicking on the dataset displays a dataset description page, with links to search the dataset using microbiomeDB tools.
+  uid: u6
   projects: "MicrobiomeDB"
