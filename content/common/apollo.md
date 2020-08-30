@@ -16,6 +16,7 @@ div.apollo-layout img {
   width: 40em; 
   margin-top: .5em; 
   margin-left: 1em;  
+  border: 1px solid grey;
 }
 
 </style>
