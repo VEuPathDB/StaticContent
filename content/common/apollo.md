@@ -18,6 +18,10 @@ div.apollo-layout img {
   margin-left: 1em;  
   border: 1px solid grey;
 }
+div.centered-button {
+  margin-top: 1.5em;
+  text-align: center;
+}
 
 </style>
 
@@ -25,6 +29,7 @@ div.apollo-layout img {
 
 <div class="static-content">
   <h2>Welcome to the free VEuPathDB Apollo service, a real time collaborative genome annotation and curation platform.</h2>
+
   <div class="apollo-layout">
     <div>
       <p>
@@ -38,5 +43,12 @@ div.apollo-layout img {
       <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" alt="Example of an apollo screen" />      
     </div>
   </div>
+
+  <div class="centered-button">
+    <button class="eupathdb-BigButton" title="Open Apollo in a new tab/window.">
+      <a href="https://apollo.veupathdb.org/">Continue to Apollo</a>
+    </button>
+  </div>
+
 </div>
 
