@@ -13,7 +13,7 @@ div.apollo-layout>div {
   width: 50%;
 }
 div.apollo-layout img {
-  width: 20em; 
+  width: 25em; 
   margin-top: .5em; 
   margin-left: 1em;  
 }
@@ -34,7 +34,7 @@ div.apollo-layout img {
       </p>
     </div>
     <div style="text-align: center;">
-      <img src="{{ "/assets/images/views-in-mapveu.png" | absolute_url }}" alt="Example of an apollo screen" />      
+      <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" alt="Example of an apollo screen" />      
     </div>
   </div>
 </div>
