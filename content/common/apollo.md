@@ -22,6 +22,9 @@ div.centered-button {
   margin-top: 1.5em;
   text-align: center;
 }
+div.centered-button a {
+  text-decoration: none;
+}
 
 </style>
 
