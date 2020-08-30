@@ -10,10 +10,10 @@ div.apollo-layout {
   justify-content: space-between;
 }
 div.apollo-layout>div {
-  width: 50%;
+  width: 60%;
 }
 div.apollo-layout img {
-  width: 25em; 
+  width: 40em; 
   margin-top: .5em; 
   margin-left: 1em;  
 }
