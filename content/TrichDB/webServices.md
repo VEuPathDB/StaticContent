@@ -1,7 +1,7 @@
 ---
 layout: null
 title: Web Services
-permalink: :path/webServices
+permalink: /webServices
 tags: [tutorial]
 ---
 {% assign project = page.dir | remove: "content" | remove: "/"  %}
