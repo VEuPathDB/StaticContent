@@ -369,7 +369,7 @@
       It provides <a href="#Gene">genes</a> shared by two or more species/genomes
       and also genes representing species-specific gene expansion families. Therefore,
       it serves as a utility for automated eukaryotic genome <a href="#Annotation">annotation</a>
-      and phylogenetic profiling. Available at <a href="https://beta.orthomcl.org">orthomcl.org</a>
+      and phylogenetic profiling. Available at <a href="https://orthomcl.org">orthomcl.org</a>
 - term: Ortholog
   description: Same <a href="#Gene">gene</a> in different organisms; having evolved
       from the same ancestral <a href="#Locus">locus</a>.
