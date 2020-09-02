@@ -13,7 +13,7 @@ permalink: '#what-is-new'
 
 <p>Welcome!  VectorBase <i>beta</i> has a new look and new tools to help you better browse and Search vector omics and population data.  Feel free to explore the other cards in the <b>Overview of Resources and Tools</b> section to learn more.</p>
 
-<p>The <a href="https://www.vectorbase.org">legacy vectorbase.org</a> site is still available to help you transition to the new site, if needed.</p>
+<p>The <a href="https://legacy.vectorbase.org">legacy vectorbase.org</a> site is still available to help you transition to the new site, if needed.</p>
 
 <p>To view a summary of the datasets available for each species, follow this link in the header menu <a href="/a/app/search/organism/GenomeDataTypes/result">Data => Organisms - Data type summary</a> </p>
 
