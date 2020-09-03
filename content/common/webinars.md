@@ -27,7 +27,6 @@ tags: [general]
   <div id="contents">
     
 
-   <p><b>Thursday September 3rd, 2020:</b> <a href="#release48">Release 48 Webinar</a></p>
     <p><b>Thursday September 10th, 2020:</b> <a href="#">TBD</a></p>
      <p><b>Thursday September 17th, 2020:</b> <a href="#microbiome">Introduction to MicrobiomeDB</a></p>
   </div>
@@ -36,8 +35,10 @@ tags: [general]
   <div id="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+   <p><b>Thursday September 3rd, 2020:</b> <a href="#release48">Release 48 Webinar</a></p>
    <p><b>Thursday August 27th, 2020:</b> None</p>
-   <p><b>Thursday August 20th, 2020:</b> <a href="#metabo">Metabolic Pathways in VEuPathDB</a></p>   <p><b>Thursday August 13th, 2020:</b> <a href="#complexstrat">Building complex search strategies in VEuPathDB.</a></p>
+   <p><b>Thursday August 20th, 2020:</b> <a href="#metabo">Metabolic Pathways in VEuPathDB</a></p>   
+   <p><b>Thursday August 13th, 2020:</b> <a href="#complexstrat">Building complex search strategies in VEuPathDB.</a></p>
    <p><b>Thursday August 6th, 2020:</b> <a href="#hostdb">HostDB: finding host genes responding to infection.</a></p>
    <p><b>Thursday July 30th, 2020:</b> <a href="#proteomics">Proteomics data in VEuPathDB.</a></p> 
    <p><b>Thursday July 23th, 2020:</b> <a href="#snp">Variant data in VEuPathDB.</a></p>
@@ -63,17 +64,6 @@ tags: [general]
 <h3>Upcoming Webinars</h3>
 <hr> 
 
-<div class="anchor"><a name="release48"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 48 Webinar<br>
-<b>Date:</b> Thursday September 3rd, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/6333109319823887373">https://attendee.gotowebinar.com/register/6333109319823887373</a> <br>
-<b>Additional Details:</b> <br>
-Join us for an overview of what is new in Release 48 of the VEuPathDB resources.  We will talk about data sets, demonstrate serches and features, and answer questions.
-<br>
-</div>
-<hr>
 
 <div class="anchor"><a name="microbiome"></a></div>
 <div class="webinar">
@@ -89,6 +79,18 @@ This webinar will cover basic usage of MicrobiomeDB.org and describe some of its
 
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 <h3>Previous Webinars</h3>
+
+<div class="anchor"><a name="release48"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 48 Webinar<br>
+<b>Date:</b> Thursday September 3rd, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/sFZFTcM0POs">https://youtu.be/sFZFTcM0POs</a> <br>
+<b>Additional Details:</b> <br>
+This webinar focused on what is new in Release 48 of the VEuPathDB resources.  We talked about data sets, demonstrate serches and features, and answer questions.
+<br>
+</div>
+<hr>
 
 <hr>
 <div class="anchor"><a name="metabo"></a></div>
