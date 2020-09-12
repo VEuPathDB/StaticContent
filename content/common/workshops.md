@@ -39,20 +39,21 @@ details summary, details ul {
 
 <h1>VEuPathDB Workshops</h1>
 <div class="static-content">
-
   <h3>Upcoming Workshops</h3><br>
   <div id="contents">
-    <h4>2020 VectorBase, Arthropod Genomics Symposium (AGS), virtual.</h4>
-    <ul>
-    <li><a href="#vb-2020-7-24">VectorBase workshop at AGS</a>, on Friday July 24th, 2020 (3-hour event)</li>
-    <li><a href="#apollo-2020-7-27">Gene manual annotation with Apollo workshop at AGS</a>, on Monday July 27th, 2020 (2-hour event)</li>
-    </ul>
+    <a href="#mpm2020">Molecular Parasitology Pre-meeting VEuPathDB workshop</a>. Friday September 13th, 2020 from 10AM - 2PM US Eastern time. (Virtual).<br><br>
+    <a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/?utm_source=Social&utm_medium=Twitter_Virtual&utm_campaign=ProtozoanParasites20&utm_content=organic_social">Working with Protozoan Parasite Database Resources</a>. October 5-9, 2020. (Virtual)
   </div>
 
 <br>
   
   <h3>Previous Workshops</h3><br>
   <div id="contents">
+<h4>2020 VectorBase, Arthropod Genomics Symposium (AGS), virtual.</h4>
+    <ul>
+    <li><a href="#vb-2020-7-24">VectorBase workshop at AGS</a>, on Friday July 24th, 2020 (3-hour event)</li>
+    <li><a href="#apollo-2020-7-27">Gene manual annotation with Apollo workshop at AGS</a>, on Monday July 27th, 2020 (2-hour event)</li>
+    </ul>
     <p>VectorBase: <a rel="noreferrer" href="https://www.vectorbase.org/tutorials" target="_blank">Previous tutorials</a>
        and <a rel="noreferrer" href="https://www.vectorbase.org/workshops" target="_blank">Previous workshops and webinars</a>.</p>
     <p>EuPathDB: <a href="https://workshop.eupathdb.org" target="_blank">Previous workshops</a>.</p> 
@@ -64,6 +65,20 @@ details summary, details ul {
 <h3>Upcoming Workshops</h3>
 <hr>
 
+<div class="anchor"><a name="mpm2020"></a></div>
+<div class="workshop">
+<h3>Pre-MPM VEuPathDB workshop<span style="font-weight:100">, Friday September 18th, 2020 - from 10AM-2PM US Eastern time</span></h3>
+<p>This 4-hour VEuPathDB workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. Exercises will cover both basic and advanced usage of VEuPathDB resources.</p>
+<p>Registration: Since this is a virtual workshop we are able to accomodate a large number of attendees. <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_el1v0ZyyJB97rzn">Register by September 16th</a>.</p>
+<details open>
+<summary><b>Schedule and exercises:</b></summary>
+<p>The schedule will be made available soon and exercises will be made available on the day of the workshop.</p>
+<br>
+<hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
+
+
+<h3>Previous Workshops</h3>
+<hr>
 <div class="anchor"><a name="vb-2020-7-24"></a></div>
 <div class="workshop">
 
@@ -117,7 +132,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
 To encourage the active participation/Q&A during the hands-on activities, limited seats are available and the sessions will not be recorded. Priority seating will be given to AGS meeting attendees.  
 </p>
 
-<details open>
+<details closed>
 <summary><b>Agenda, schedule and instructors:</b></summary>
 
 <ul>
@@ -137,12 +152,11 @@ To encourage the active participation/Q&A during the hands-on activities, limite
         <td>GIGC</td>
     </tr>
     <tr><td>8:10</td><td>11:10</td><td>17:10</td><td>20</td>
-        <td>1. Site search: <a href="{{'/documents/SiteSearch_Exercise.docx' | absolute_url}}">Exercise</a> and  <a href="{{'/documents/SiteSearch_AnswerKey.docx' | absolute_url}}">Answer Key</a>
-</td>
+        <td>1. Site search: <a href="{{'/documents/SiteSearch_Exercise.docx' | absolute_url}}">Exercise</a></td>
         <td>GIGC</td>
     </tr>
     <tr><td>8:30</td><td>11:30</td><td>17:30</td><td>40</td>
-        <td>2. Search strategies: <a href="{{'/documents/SearchStrategies_Exercise.docx' | absolute_url}}">Exercise</a> and  <a href="{{'/documents/SearchStrategies_AnswerKey.docx' | absolute_url}}">Answer Key</a></td>
+        <td>2. Search strategies: <a href="{{'/documents/SearchStrategies_Exercise.docx' | absolute_url}}">Exercise</a></td>
         <td>GIGC</td>
     </tr>
     <tr class="break"><td></td><td></td><td></td><td>15</td>
@@ -150,11 +164,11 @@ To encourage the active participation/Q&A during the hands-on activities, limite
         <td></td>
     </tr>
     <tr><td>9:25</td><td>12:25</td><td>18:25</td><td>40</td>
-        <td>3. GO enrichment: <a href="{{'/documents/GO_Enrichment_Exercise.docx' | absolute_url}}">Exercise</a> and  <a href="{{'/documents/GO_Enrichment_AnswerKey.docx' | absolute_url}}">Answer Key</a></td>
+        <td>3. GO enrichment: <a href="{{'/documents/GO_Enrichment_Exercise.docx' | absolute_url}}">Exercise</a></td>
         <td>OH</td>
     </tr>
     <tr><td>10:10</td><td>13:10</td><td>19:10</td><td>40</td>
-        <td>4. Gene page and genome browser: <a href="{{'/documents/GenePages_GenomeBrowser_Exercise.docx' | absolute_url}}">Exercise</a> and  <a href="{{'/documents/GenePages_GenomeBrowser_AnswerKey.docx' | absolute_url}}">Answer Key</a></td>
+        <td>4. Gene page and genome browser: <a href="{{'/documents/GenePages_GenomeBrowser_Exercise.docx' | absolute_url}}">Exercise</a></td>
         <td>GIGC</td>
     </tr>
     <tr><td>10:50</td><td>13:50</td><td>19:50</td><td>15</td>
@@ -279,14 +293,6 @@ To encourage the active participation/Q&A during the hands-on activities, limite
 </p>
 
 </div>
-
-<br>
-<hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
-
-
-<h3>Previous Workshops</h3>
-<hr>
-
 <div id="contents">
   <p>VectorBase: <a rel="noreferrer" href="https://www.vectorbase.org/tutorials" target="_blank">Previous tutorials</a>
      and <a rel="noreferrer" href="https://www.vectorbase.org/workshops" target="_blank">Previous workshops and webinars</a>.</p>
