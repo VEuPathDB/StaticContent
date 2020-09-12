@@ -41,8 +41,10 @@ details summary, details ul {
 <div class="static-content">
   <h3>Upcoming Workshops</h3><br>
   <div id="contents">
-    <a href="#mpm2020">Molecular Parasitology Pre-meeting VEuPathDB workshop</a>. Friday September 13th, 2020 from 10AM - 2PM US Eastern time. (Virtual).<br><br>
-    <a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/?utm_source=Social&utm_medium=Twitter_Virtual&utm_campaign=ProtozoanParasites20&utm_content=organic_social">Working with Protozoan Parasite Database Resources</a>. October 5-9, 2020. (Virtual)
+    <a href="#mpm2020"><h4>Molecular Parasitology Pre-meeting VEuPathDB workshop</a></h4>
+    Friday September 13th, 2020 from 10AM - 2PM US Eastern time. (Virtual).<br><br>
+    <a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/?utm_source=Social&utm_medium=Twitter_Virtual&utm_campaign=ProtozoanParasites20&utm_content=organic_social"><h4>Working with Protozoan Parasite Database Resources</h4></a>
+    October 5-9, 2020. (Virtual)
   </div>
 
 <br>
