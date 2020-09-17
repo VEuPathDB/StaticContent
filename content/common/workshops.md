@@ -85,7 +85,87 @@ details p, details table {
   <p>Registration: Since this is a virtual workshop we are able to accomodate a large number of attendees. <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_el1v0ZyyJB97rzn">Register by September 16th</a>.</p>
   <details open>
     <summary><b>Schedule and exercises</b></summary>
-    <p><i>(The schedule will be made available soon and exercises will be made available on the day of the workshop.)</i></p>
+   <table style="float: left;" border=".2">
+<tbody>
+<tr>
+<td><strong>Time</strong></td>
+<td><strong>Activity</strong></td>
+<td><strong>Presenter</strong></td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">10-10:05AM</p>
+</td>
+<td>
+<p dir="ltr">Introduction to workshop</p>
+</td>
+<td>
+<p dir="ltr">David Roos (This session will be recorded)</p>
+</td>
+</tr>
+<tr>
+<td>10:05-10:15AM</td>
+<td>
+<p dir="ltr">Quick intro to the home page layout</p>
+</td>
+<td>Jessica Kissinger (This session will be recorded)</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">10:15-10:45AM</p>
+</td>
+<td>Site search</td>
+<td>Hands-on exercise in breakout rooms</td>
+</tr>
+<tr>
+<td>10:45-11:15AM</td>
+<td>Building a search strategy</td>
+<td>Hands-on exercise in breakout rooms</td>
+</tr>
+<tr>
+<td>11:15-11:30AM</td>
+<td>Break</td>
+<td></td>
+</tr>
+<tr>
+<td>11:30-11:45AM</td>
+<td>Intro to GO enrichment&nbsp;</td>
+<td>Omar Harb (This session will be recorded)</td>
+</tr>
+<tr>
+<td>11:45-12:15PM</td>
+<td>GO enrichment exercise</td>
+<td>Hands-on exercise in breakout rooms</td>
+</tr>
+<tr>
+<td>12:15-1:00PM</td>
+<td>Exploring the gene page and the genome browser</td>
+<td>Hands-on exercise in breakout rooms</td>
+</tr>
+<tr>
+<td>1:00-1:15PM</td>
+<td>Intro to orthology and how it is used in VEuPathDB</td>
+<td>Mark Hickman (This session will be recorded)</td>
+</tr>
+<tr>
+<td>1:15-1:45PM</td>
+<td>Advanced search strategies</td>
+<td>Hands-on exercise in breakout rooms</td>
+
+</tr>
+<tr>
+<td>1:45-2:00PM</td>
+<td>Wrap up</td>
+<td></td>
+</tr>
+<tr>
+<td>2:00-2:30PM (Optional)</td>
+<td>Additional time to work on specific problems or complete exercises</td>
+<td></td>
+</tr>
+
+</tbody>
+</table>
   </details>
 </div>
 
