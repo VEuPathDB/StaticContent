@@ -48,7 +48,7 @@ details p, details table {
 
   <div id="contents">
     <h4><a href="#mpm2020">Molecular Parasitology Pre-meeting VEuPathDB workshop</a></h4>
-    Friday September 13th, 2020 from 10AM - 2PM US Eastern time. (Virtual).
+    Friday September 18th, 2020 from 10AM - 2PM US Eastern time. (Virtual).
     <br><br>
     <h4><a target="_blank" href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/?utm_source=Social&utm_medium=Twitter_Virtual&utm_campaign=ProtozoanParasites20&utm_content=organic_social">
     Working with Protozoan Parasite Database Resources</a></h4>
