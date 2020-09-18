@@ -114,12 +114,12 @@ Quick intro to the home page layout
 <td>
 10:15-10:45AM
 </td>
-<td>Site search</td>
+<td><a href="{{'/documents/MPMSiteSearch.pdf' | absolute_url}}"><b>Site search</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
 </tr>
 <tr>
 <td>10:45-11:15AM</td>
-<td>Building a search strategy</td>
+<td><a href="{{'/documents/MPMSearchStrategies_Exercise' | absolute_url}}"><b>Building a search strategy</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
 </tr>
 <tr>
@@ -134,12 +134,13 @@ Quick intro to the home page layout
 </tr>
 <tr>
 <td>11:45-12:15PM</td>
-<td>GO enrichment exercise</td>
+<td><a href="{{'/documents/MPMGOEnrichment.pdf' | absolute_url}}"><b>GO enrichment exercise</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
 </tr>
 <tr>
 <td>12:15-1:00PM</td>
-<td>Exploring the gene page and the genome browser</td>
+<td><a href="{{'/documents/MPMGenePage.pdf' | absolute_url}}"><b>Exploring the gene page</b></a><br>
+<a href="{{'/documents/MPMJBrowseBasics.pdf' | absolute_url}}"><b>Exploring the genome browser</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
 </tr>
 <tr>
@@ -149,7 +150,7 @@ Quick intro to the home page layout
 </tr>
 <tr>
 <td>1:15-1:45PM</td>
-<td>Advanced search strategies</td>
+<td><a href="{{'/documents/MPMAdvancedStrategies.pdf' | absolute_url}}"><b>Advanced search strategies</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
 </tr>
 <tr>
