@@ -85,7 +85,7 @@ details p, details table {
   <p>Registration: Since this is a virtual workshop we are able to accomodate a large number of attendees. <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_el1v0ZyyJB97rzn">Register by September 16th</a>.</p>
   <details open>
     <summary><b>Schedule and exercises</b></summary>
-    <table style="float: left;" border=".2">
+    <table>
 <tbody>
 <tr>
 <td><strong>Time</strong></td>
@@ -94,25 +94,25 @@ details p, details table {
 </tr>
 <tr>
 <td>
-<p dir="ltr">10-10:05AM</p>
+10-10:05AM
 </td>
 <td>
-<p dir="ltr">Introduction to workshop</p>
+Introduction to workshop
 </td>
 <td>
-<p dir="ltr">David Roos (This session will be recorded)</p>
+David Roos (This session will be recorded)
 </td>
 </tr>
 <tr>
 <td>10:05-10:15AM</td>
 <td>
-<p dir="ltr">Quick intro to the home page layout</p>
+Quick intro to the home page layout
 </td>
 <td>Jessica Kissinger (This session will be recorded)</td>
 </tr>
 <tr>
 <td>
-<p dir="ltr">10:15-10:45AM</p>
+10:15-10:45AM
 </td>
 <td>Site search</td>
 <td>Hands-on exercise in breakout rooms</td>
@@ -129,7 +129,7 @@ details p, details table {
 </tr>
 <tr>
 <td>11:30-11:45AM</td>
-<td>Intro to GO enrichment&nbsp;</td>
+<td>Intro to GO enrichment</td>
 <td>Omar Harb (This session will be recorded)</td>
 </tr>
 <tr>
@@ -151,7 +151,6 @@ details p, details table {
 <td>1:15-1:45PM</td>
 <td>Advanced search strategies</td>
 <td>Hands-on exercise in breakout rooms</td>
-
 </tr>
 <tr>
 <td>1:45-2:00PM</td>
@@ -163,12 +162,10 @@ details p, details table {
 <td>Additional time to work on specific problems or complete exercises</td>
 <td></td>
 </tr>
-
 </tbody>
 </table>
   </details>
 </div>
-
 <br>
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
