@@ -119,7 +119,7 @@ Quick intro to the home page layout
 </tr>
 <tr>
 <td>10:45-11:15AM</td>
-<td><a href="{{'/documents/MPMSearchStrategies' | absolute_url}}"><b>Building a search strategy</b></a></td>
+<td><a href="{{'/documents/MPMSearchStrategies_Exercise.pdf' | absolute_url}}"><b>Building a search strategy</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
 </tr>
 <tr>
