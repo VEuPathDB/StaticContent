@@ -82,7 +82,7 @@ details p, details table {
 <div class="workshop">
   <h3>Pre-MPM VEuPathDB workshop<span style="font-weight:100">, Friday September 18th, 2020 - from 10AM-2PM US Eastern time</span></h3>
   <p>This 4-hour VEuPathDB workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. Exercises will cover both basic and advanced usage of VEuPathDB resources.</p>
-  <p>Registration: Since this is a virtual workshop we are able to accomodate a large number of attendees. <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_el1v0ZyyJB97rzn">Register by September 16th</a>.</p>
+  <p>Registration: closed.</p>
   <details open>
     <summary><b>Schedule and exercises</b></summary>
     <table>
