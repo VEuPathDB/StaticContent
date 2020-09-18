@@ -114,7 +114,7 @@ Quick intro to the home page layout
 <td>
 10:15-10:45AM
 </td>
-<td>Site search</td>
+<td><a href="{{'/documents/MPMSiteSearch.pdf' | absolute_url}}">Site search</a></td>
 <td>Hands-on exercise in breakout rooms</td>
 </tr>
 <tr>
