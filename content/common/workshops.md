@@ -82,10 +82,10 @@ details p, details table {
 <div class="workshop">
   <h3>Pre-MPM VEuPathDB workshop<span style="font-weight:100">, Friday September 18th, 2020 - from 10AM-2PM US Eastern time</span></h3>
   <p>This 4-hour VEuPathDB workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. Exercises will cover both basic and advanced usage of VEuPathDB resources.</p>
-  <p>Registration: Since this is a virtual workshop we are able to accomodate a large number of attendees. <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_el1v0ZyyJB97rzn">Register by September 16th</a>.</p>
+  <p>Registration: closed.</p>
   <details open>
     <summary><b>Schedule and exercises</b></summary>
-   <table style="float: left;" border=".2">
+    <table>
 <tbody>
 <tr>
 <td><strong>Time</strong></td>
@@ -94,32 +94,32 @@ details p, details table {
 </tr>
 <tr>
 <td>
-<p dir="ltr">10-10:05AM</p>
+10-10:05AM
 </td>
 <td>
-<p dir="ltr">Introduction to workshop</p>
+Introduction to workshop
 </td>
 <td>
-<p dir="ltr">David Roos (This session will be recorded)</p>
+David Roos (This session will be recorded)
 </td>
 </tr>
 <tr>
 <td>10:05-10:15AM</td>
 <td>
-<p dir="ltr">Quick intro to the home page layout</p>
+Quick intro to the home page layout
 </td>
 <td>Jessica Kissinger (This session will be recorded)</td>
 </tr>
 <tr>
 <td>
-<p dir="ltr">10:15-10:45AM</p>
+10:15-10:45AM
 </td>
-<td>Site search</td>
+<td><a href="{{'/documents/MPMSiteSearch.pdf' | absolute_url}}"><b>Site search</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
 </tr>
 <tr>
 <td>10:45-11:15AM</td>
-<td>Building a search strategy</td>
+<td><a href="{{'/documents/MPMSearchStrategies_Exercise.pdf' | absolute_url}}"><b>Building a search strategy</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
 </tr>
 <tr>
@@ -129,17 +129,18 @@ details p, details table {
 </tr>
 <tr>
 <td>11:30-11:45AM</td>
-<td>Intro to GO enrichment&nbsp;</td>
+<td>Intro to GO enrichment</td>
 <td>Omar Harb (This session will be recorded)</td>
 </tr>
 <tr>
 <td>11:45-12:15PM</td>
-<td>GO enrichment exercise</td>
+<td><a href="{{'/documents/MPMGOEnrichment.pdf' | absolute_url}}"><b>GO enrichment exercise</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
 </tr>
 <tr>
 <td>12:15-1:00PM</td>
-<td>Exploring the gene page and the genome browser</td>
+<td><a href="{{'/documents/MPMGenePage.pdf' | absolute_url}}"><b>Exploring the gene page</b></a><br>
+<a href="{{'/documents/MPMJBrowseBasics.pdf' | absolute_url}}"><b>Exploring the genome browser</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
 </tr>
 <tr>
@@ -149,9 +150,8 @@ details p, details table {
 </tr>
 <tr>
 <td>1:15-1:45PM</td>
-<td>Advanced search strategies</td>
+<td><a href="{{'/documents/MPMAdvancedStrategies.pdf' | absolute_url}}"><b>Advanced search strategies</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
-
 </tr>
 <tr>
 <td>1:45-2:00PM</td>
@@ -163,12 +163,16 @@ details p, details table {
 <td>Additional time to work on specific problems or complete exercises</td>
 <td></td>
 </tr>
-
 </tbody>
+
+<tfoot>
+    <tr>
+      <td colspan="3"><i>This workshop will be run by a number of VEuPathDB staff members including: Achchuthan Shanmugasundram, David Starns, David Roos, Evelina Basenko, Jessica Kissinger, Gloria I. Giraldo-Calderón, Kathryn Crouch, Mark Hickman, Samual Rund, Sarah Kelly, Susanne Warrenfeltz, Sheena Tomko and Omar Harb</i></td>
+    </tr>
+  </tfoot>
 </table>
   </details>
 </div>
-
 <br>
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
