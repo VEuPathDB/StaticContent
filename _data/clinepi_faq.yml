@@ -82,7 +82,7 @@
 - type: general
   question: "What are the study accessibility levels?"
   answer: |
-           There are currently 5 possible data access levels (public, controlled, limited, protected, and private). See the [Data Access and Use Policy](/a/app/static-content/ClinEpiDB/access_and_use.html){:target='_blank'} to learn more about the restrictions of each level.
+           There are currently 5 possible data access levels (public, controlled, protected, prerelease, and private). See the [Data Access and Use Policy](/a/app/static-content/ClinEpiDB/access_and_use.html){:target='_blank'} to learn more about the restrictions of each level.
   uid: g7
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: using_site
