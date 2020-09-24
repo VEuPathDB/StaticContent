@@ -43,10 +43,12 @@ Each dataset that is submitted to ClinEpiDB is unique and may require implementa
 |  __Access level__ | __Description__ |
 | :----- | :----- |
 | Public | No access restrictions. Users can view and download the data as "Guests" without logging in. |
-| Controlled | Guest users can view aggregated data via the search wizard and analysis applications, but must register and request access to view more than 20 rows of data on the results page, view individual record pages, or download data. The request may be submitted via a form that pops up when a user logs in with a registered account and clicks "Download data". Data can be downloaded by the registered user immediately upon request submission. |
+| Controlled | Guest users can view aggregated data via the search wizard and analysis applications, but must register and request access to view more than 20 rows of data on the results page, view individual record pages, or download data. The request may be submitted via a form that pops up when a user logs in with a registered account and clicks "Download data". Data can be downloaded by the registered user immediately following request submission. |
 | Protected | Guest users can view aggregated data via the search wizard and analysis applications, but must register, request, and obtain approval from the data providers to view more than 20 rows of data on the results page, view individual record pages, or download data. The request may be submitted via a form that pops up when a registered user is logged in and clicks "Download data" or attempts to access the other information. |
 | Private | A registered user must request and obtain approval to access any aspect of the data. The request may be submitted via a form that pops up when a registered user is logged in and clicks on the study. |
-| Prerelease | The study is under active development for future release, and only the study team can access the data. Guest and registered users can view the study page only.
+| Prerelease | The study is under active development for future release, and only the study team can access the data. Guest and registered users can view the study page only. |
+
+<img alt="Data Access Levels" src="/a/images/ClinEpiDB/DataAccessLevels.png" />
   
 ## General principles
 
