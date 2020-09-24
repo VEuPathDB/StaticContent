@@ -48,7 +48,7 @@ Each dataset that is submitted to ClinEpiDB is unique and may require implementa
 | Private | A registered user must request and obtain approval to access any aspect of the data. The request may be submitted via a form that pops up when a registered user is logged in and clicks on the study. |
 | Prerelease | The study is under active development for future release, and only the study team can access the data. Guest and registered users can view the study page only. |
 
-<img alt="Data Access Levels" src="/a/images/ClinEpiDB/DataAccessLevels.png" />
+<img alt="Data Access Levels" width="50em" src="/a/images/ClinEpiDB/DataAccessLevels.png" />
   
 ## General principles
 
