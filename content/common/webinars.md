@@ -27,13 +27,14 @@ tags: [general]
   <div id="contents">
     
     
-   <p><b>Thursday September 17th, 2020:</b> <a href="#microbiome">Introduction to MicrobiomeDB</a></p>
+   <p>More webinars are coming soon.</p>
   </div>
   
   <h3>Previous Webinars</h3>
   <div id="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+   <p><b>Thursday September 17th, 2020:</b> <a href="#microbiome">Introduction to MicrobiomeDB</a></p>
    <p><b>Thursday September 10th, 2020:</b> None</p>
    <p><b>Thursday September 3rd, 2020:</b> <a href="#release48">Release 48 Webinar</a></p>
    <p><b>Thursday August 27th, 2020:</b> None</p>
@@ -63,21 +64,26 @@ tags: [general]
 
 <h3>Upcoming Webinars</h3>
 <hr> 
+<div id="contents">
+    
+    
+   <p>More webinars are coming soon.</p>
+  </div>
+
+
+<hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
+<h3>Previous Webinars</h3>
 
 <div class="anchor"><a name="microbiome"></a></div>
 <div class="webinar">
 <b>Topic:</b> Introduction to MicrobiomeDB<br>
 <b>Date:</b> Thursday September 17th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration Link: </b><a href="https://attendee.gotowebinar.com/register/2125108995288807693">https://attendee.gotowebinar.com/register/2125108995288807693</a> <br>
+<b>Recording Link: </b><a href="https://youtu.be/or0adtDmPhw">https://youtu.be/or0adtDmPhw</a> <br>
 <b>Additional Details:</b> <br>
 This webinar will cover basic usage of MicrobiomeDB.org and describe some of its key features
 <br>
 </div>
-
-
-<hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
-<h3>Previous Webinars</h3>
 
 <div class="anchor"><a name="release48"></a></div>
 <div class="webinar">
