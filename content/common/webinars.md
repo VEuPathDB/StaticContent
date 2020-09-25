@@ -93,7 +93,6 @@ This webinar will cover basic usage of MicrobiomeDB.org and describe some of its
 This webinar focused on what is new in Release 48 of the VEuPathDB resources.  We talked about data sets, demonstrate serches and features, and answer questions.
 <br>
 </div>
-<hr>
 
 <hr>
 <div class="anchor"><a name="metabo"></a></div>
