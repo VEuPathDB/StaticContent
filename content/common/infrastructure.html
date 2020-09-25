@@ -52,19 +52,20 @@ title: VEuPathDB infrastructure
 
   <ul>
     <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonData">ApiCommonData</a>: Defines the workflow graph for the Genomic sites and contains SQL to generate denormalized tables.
-        (Also: <a target="_blank" href="https://github.com/EuPathDB/OrthoMCLData">OrthoMCLData</a>,
-               <a target="_blank" href="https://github.com/EuPathDB/ClinEpiData">ClinEpiData</a>.)</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonWorkflow">ApiCommonWorkflow</a>: Supports the workflow graph for the Genomic sites.
-        (Also: <a target="_blank" href="https://github.com/EuPathDB/OrthoMCLWorkflow">OrthoMCLWorkflow</a>,
-               <a target="_blank" href="https://github.com/EuPathDB/ClinEpiWorkflow">ClinEpiWorkflow</a>,
-               <a target="_blank" href="https://github.com/EuPathDB/MicrobiomeWorkflow">MicrobiomeWorkflow</a>.)</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/ExampleDatasets">ExampleDatasets</a>: Example of the Data Sets to be loaded in the database by the Workflows. Also needed at site build time for model injection.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/ExamplePresenters">ExamplePresenters</a>: Example of the Data Set metadata to be loaded in denormalized tables. Also needed at site build time for model injection.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/TuningManager">TuningManager</a>: Engine to generate denormalized tables in a database.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/CBIL">CBIL</a>: scripts to generate GUS perl objects .</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/DJob">DJob</a>: DistribJob (see explanation above).</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/GusSchema">GusSchema</a>: Relational Database schema definition for Genomics data.</li>
-    <li><a target="_blank" href="https://github.com/EuPathDB/GusAppFramework">GusAppFramework</a>: GUS application framework.</li>
+        (Also: <a target="_blank" href="https://github.com/VEuPathDB/OrthoMCLData">OrthoMCLData</a>,
+               <a target="_blank" href="https://github.com/VEuPathDB/ClinEpiData">ClinEpiData</a>.)</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/ApiCommonWorkflow">ApiCommonWorkflow</a>: Supports the workflow graph for the Genomic sites.
+        (Also: <a target="_blank" href="https://github.com/VEuPathDB/OrthoMCLWorkflow">OrthoMCLWorkflow</a>,
+               <a target="_blank" href="https://github.com/VEuPathDB/ClinEpiWorkflow">ClinEpiWorkflow</a>,
+               <a target="_blank" href="https://github.com/VEuPathDB/MicrobiomeWorkflow">MicrobiomeWorkflow</a>.)</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/ReFlow">ReFlow</a>: ReFlow is a reversible workflow system for building and maintaining large functional genomics databases. It is based on a dependency graph written in XML.</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/ExampleDatasets">ExampleDatasets</a>: Example of the Data Sets to be loaded in the database by the Workflows. Also needed at site build time for model injection.</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/ExamplePresenters">ExamplePresenters</a>: Example of the Data Set metadata to be loaded in denormalized tables. Also needed at site build time for model injection.</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/TuningManager">TuningManager</a>: Engine to generate denormalized tables in a database.</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/CBIL">CBIL</a>: scripts to generate GUS perl objects .</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/DJob">DJob</a>: DistribJob (see explanation above).</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/GusSchema">GusSchema</a>: Relational Database schema definition for Genomics data.</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/GusAppFramework">GusAppFramework</a>: GUS application framework.</li>
   </ul>
   </div>
 </details>
@@ -74,12 +75,23 @@ title: VEuPathDB infrastructure
 <p>Our websites are based on code that we developed and have released to the community called the Strategies-WDK (Strategies Web 
   Development Kit) which enables the graphical strategies search system.  You can download the software and see documentation for this
   toolkit at <a target="_blank" href="https://github.com/EuPathDB/WDK">Strategies-WDK</a>.  This toolkit enables us to represent our 
-  data as an XML model which is then turned into the web interfaces that are presented to users using these tools.</p>
+  data as an XML model which is then turned into the web interfaces that are presented to users using these tools. We are
+  transitioning towards a cloud-ready Restful architecture with user workspaces accessing tools in containerized services.</p>
 
 <details>
   <summary style="font-size:110%;font-weight:bold;margin-bottom:5px;cursor:pointer;color:#069;"> >>> Github Repositories</summary>
   <div style="margin-left:1em;">
   These are the repositories needed to build a website:
+
+  <p><b>Infrastructure</b></p>
+  <ul>
+    <li><a target="_blank" href="https://github.com/EuPathDB/install">install</a>: starter.</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/FgpUtil">FgpUtil</a>: Basic utilities used by the WDK such as access to database, and SQL runs.</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/OAuth2Server">OAuth2Server</a>: authentication to one site used by all sites within VEuPathDB including the galaxy site.</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/WDK">WDK</a>: The Web Development Kit. It reads the model (xml files) and loads into java structures. Engine for search runs, step and strategy creation, baskets and favorites and user workspace.</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/WDKClient">WDKClient</a>: a React-based frontend for WDK (js, jsx, css).</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/WSF">WSF</a>: The WDK Services Framework: web service architecture to support searches that instead of accessing the database run plugins/processes.</li>
+  </ul>
 
   <p><b>Search strategy system</b></p>
   <ul>
@@ -95,6 +107,8 @@ title: VEuPathDB infrastructure
                <a target="_blank" href="https://github.com/VEuPathDB/OrthoMCLWebsite">OrthoMCLWebsite</a>,
                <a target="_blank" href="https://github.com/VEuPathDB/ClinEpiWebsite">ClinEpiWebsite</a>,
                <a target="_blank" href="https://github.com/VEuPathDB/MicrobiomeWebsite">MicrobiomeWebsite</a>.)</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/OrthoMCLClient">OrthoMCLClient</a>: Website client code, extending WDKClient.. 
+    <li><a target="_blank" href="https://github.com/VEuPathDB/OrthoMCLService">OrthoMCLService</a>: Website REST services, extending WDK.
     <li><a target="_blank" href="https://github.com/VEuPathDB/EbrcWebSvcCommon">EbrcWebSvcCommon</a>: plugins common to all sites (eg: Blast, Text search).
         Specialization for specific websites at: 
                <a target="_blank" href="https://github.com/VEuPathDB/ApiCommonWebService">ApiCommonWebService</a>,
@@ -103,23 +117,25 @@ title: VEuPathDB infrastructure
    
   <p><b>Other tools</b></p>
   <ul>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/StaticContent">Static Content</a>: static content in jekyll (help, tutorials, etc.)</li>
     <li><a target="_blank" href="https://github.com/VEuPathDB/Apollo">Apollo</a>: annotation tool.</li>
-    <li><a target="_blank" href="https://github.com/VEuPathDB/EuPathDBIrods">EuPathDBIrods</a>: Irods storage for the user workspace, which allows users to export data sets from the VEuPathDB Galaxy site and run analyses on them.</li>
-    <li><a target="_blank" href="https://github.com/VEuPathDB/EuPathGalaxy">EuPathGalaxy</a>: code that runs in the VEuPathDB Galaxy, which includes the VEuPathDB written tools and workflows.</li>
     <li><a target="_blank" href="https://github.com/VEuPathDB/JBrowse">JBrowse</a>: modern genome browser, replaces GBrowse.</li>
-    <li><a target="_blank" href="https://github.com/VEuPathDB/popbio-map">MapVEu</a>: map visualization tool for genomic, phenotypic and population data.</li>
-    <li><a target="_blank" href="https://github.com/VEuPathDB/SiteSearchService">SiteSearchService</a>: comprehensive site search, integrated with the strategies workspace.</li>
+    <li><a target="_blank" href="https://github.com/VEuPathDB/mapveu">MapVEu</a>: map visualization tool for genomic, phenotypic and population data.</li>
+    <li>Site Search: comprehensive site search, integrated with the strategies workspace.
+      <ul>
+      <li><a target="_blank" href="https://github.com/VEuPathDB/SiteSearchService">SiteSearchService</a></li>
+      <li><a target="_blank" href="https://github.com/VEuPathDB/SiteSearchData">SiteSearchData</a></li>
+      <li><a target="_blank" href="https://github.com/VEuPathDB/jekyll-site-search">Static Content Indexing</a></li> 
+      </ul>
+    </li>
+    <li>User Workspace: enables users to upload their own user datasets and explore their data integrated in our websites.
+      <ul>
+      <li><a target="_blank" href="https://github.com/VEuPathDB/EuPathGalaxy">EuPathGalaxy</a>: code that runs in the VEuPathDB Galaxy, which includes the VEuPathDB written tools and workflows.</li>
+      <li><a target="_blank" href="https://github.com/VEuPathDB/EuPathDBIrods">EuPathDBIrods</a>: Irods storage for the user workspace, which allows users to export data sets from the VEuPathDB Galaxy site and run analyses on them.</li>
+      </ul>
+    </li>
   </ul>
 
-  <p><b>Infrastructure</b></p>
-  <ul>
-    <li><a target="_blank" href="https://github.com/EuPathDB/install">install</a>: starter.</li>
-    <li><a target="_blank" href="https://github.com/VEuPathDB/FgpUtil">FgpUtil</a>: Basic utilities used by the WDK such as access to database, and SQL runs.</li>
-    <li><a target="_blank" href="https://github.com/VEuPathDB/OAuth2Server">OAuth2Server</a>: authentication to one site used by all sites within VEuPathDB including the galaxy site.</li>
-    <li><a target="_blank" href="https://github.com/VEuPathDB/WDK">WDK</a>: The Web Development Kit. It reads the model (xml files) and loads into java structures. Engine for search runs, step and strategy creation, baskets and favorites and user workspace.</li>
-    <li><a target="_blank" href="https://github.com/VEuPathDB/WDKClient">WDKClient</a>: a React-based frontend for WDK (js, jsx, css).</li>
-    <li><a target="_blank" href="https://github.com/VEuPathDB/WSF">WSF</a>: The WDK Services Framework: web service architecture to support searches that instead of accessing the database run plugins/processes.</li>
-  </ul>
 
   </div>
 </details>    
@@ -151,7 +167,7 @@ title: VEuPathDB infrastructure
 <div id="cirbulletlist">
 <ul>
 <li>Organizing and running hands on training workshops and webinars (<a href="https://drive.google.com/open?id=1o063oJ6arjelbDBb_TnTo3MsBN0&usp=sharing">Google Map</a>).
-<li>Developing educational material in the form of <a href="http://workshop.eupathdb.org/current/index.php?page=schedule">exercises</a> and <a href="http://www.youtube.com/user/EuPathDB/">online tutorials</a>.
+<li>Developing educational material in the form of <a href="/a/app/static-content/landing.html">exercises and online tutorials</a>.
 <li>Responding to support emails for users who contact us directly by clicking the "Contact Us" links in the header or footer of any VEuPathDB webpage (average response time is 48 hours).
 <li>Holding open community meetings/forums with our diverse user base.  These meetings are held in person at scientific conferences or using an online conferencing platform.
 <li>Attending national and international meetings with active participation in the form of posters, presentations or help desks.
