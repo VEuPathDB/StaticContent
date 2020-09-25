@@ -26,7 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div id="contents">
     
-   <p><b>More virtual events will be scheduled soon</b></p>
+   <p>More events will be scheduled soon</p>
   </div>
   
   <h3>Previous Webinars</h3>
