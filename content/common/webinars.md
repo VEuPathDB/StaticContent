@@ -74,6 +74,7 @@ tags: [general]
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 <h3>Previous Webinars</h3>
 
+<hr>
 <div class="anchor"><a name="microbiome"></a></div>
 <div class="webinar">
 <b>Topic:</b> Introduction to MicrobiomeDB<br>
@@ -85,6 +86,7 @@ This webinar will cover basic usage of MicrobiomeDB.org and describe some of its
 <br>
 </div>
 
+<hr>
 <div class="anchor"><a name="release48"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 48 Webinar<br>
@@ -166,8 +168,8 @@ This webinar will cover:<br>
 <li>Variant data visualizations</li>
 </ul>
 </div>
-<hr>
 
+<hr>
 <div class="anchor"><a name="fungidb"></a></div>
 <div class="webinar">
 <b>Topic:</b> Introduction to FungiDB - Data and Functionality<br>
@@ -183,8 +185,8 @@ This webinar will cover:<br>
 <li>Demo of key searches</li>
 <li>Demo of key search and analysis tools</li>
 </ul>
-
 </div>
+
 <hr>
 <div class="anchor"><a name="rnaseq"></a></div>
 <div class="webinar">
@@ -267,8 +269,8 @@ This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics co
 <b>Additional Details:</b> <br>
 This webinar will discuss and demonstrate new features and data available in release 47 of the newly merged VEuPathDB sites.
 </div>
-<hr>
 
+<hr>
 <div class="anchor"><a name="motif"></a></div>
 <div class="webinar">
 <b>Topic:</b> Motif searches and regular expressions in VEuPathDB<br>
@@ -289,8 +291,8 @@ This webinar will describe the different available motif searches including regu
   <li>Regular expressions searches</li>
 </ul>
 </div>
-<hr>
 
+<hr>
 <div class="anchor"><a name="GO"></a></div>
 <div class="webinar">
 <b>Topic:</b> GO and other enrichment analyses in VEuPathDB<br>
@@ -308,9 +310,8 @@ This webinar will guide you through the process of running enrichment analyses i
 Metabolic pathway enrichment</li>
 </ul>
 </div>
+
 <hr>
-
-
 <div class="anchor"><a name="apollo"></a></div>
 <div class="webinar">
 <b>Topic:</b> Manual gene annotation in Apollo<br>
@@ -326,8 +327,8 @@ This webinar will guide you through the process of updating and fixing gene mode
 <li>How to use underlying data to support structural changes</li>
 </ul>
 </div>
-<hr>
 
+<hr>
 <div class="anchor"><a name="galaxy"></a></div>
 <div class="webinar">
 <b>Topic:</b> Running a Galaxy workflow and integrating data into VEuPathDB<br>
