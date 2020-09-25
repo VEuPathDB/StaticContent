@@ -26,7 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div id="contents">
     
-   <p>More events will be scheduled soon</p>
+   <p>More webinars are coming soon.</p>
   </div>
   
   <h3>Previous Webinars</h3>
@@ -63,7 +63,10 @@ tags: [general]
 
 <h3>Upcoming Webinars</h3>
 <hr> 
-
+<div id="contents">
+    
+   <p>More webinars are coming soon.</p>
+  </div>
 
 
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
