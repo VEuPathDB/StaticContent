@@ -117,7 +117,7 @@ David Roos
 Quick intro to the home page layout
 </td>
 <td>Jessica Kissinger</td>
-<td><iframe width="360" height="115" src="https://www.youtube.com/embed/videoseries?list=PLWzQB3i5sYAIbOj9nosayPMgdBPH4Y5c3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="180" height="115" src="https://www.youtube.com/embed/videoseries?list=PLWzQB3i5sYAIbOj9nosayPMgdBPH4Y5c3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 <tr>
 <td>
@@ -143,7 +143,7 @@ Quick intro to the home page layout
 <td>11:30-11:45AM</td>
 <td>Intro to GO enrichment</td>
 <td>Omar Harb</td>
-<td><iframe width="360" height="115" src="https://www.youtube.com/embed/Ks_sAmH_6DQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="180" height="115" src="https://www.youtube.com/embed/Ks_sAmH_6DQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 <tr>
 <td>11:45-12:15PM</td>
@@ -162,7 +162,7 @@ Quick intro to the home page layout
 <td>1:00-1:15PM</td>
 <td>Intro to orthology and how it is used in VEuPathDB</td>
 <td>Mark Hickman</td>
-<td><iframe width="360" height="115" src="https://www.youtube.com/embed/q_oWaSDWaHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="180" height="115" src="https://www.youtube.com/embed/q_oWaSDWaHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 <tr>
 <td>1:15-1:45PM</td>
@@ -174,7 +174,7 @@ Quick intro to the home page layout
 <td>1:45-2:00PM</td>
 <td>Wrap up</td>
 <td></td>
-<td><iframe width="360" height="115" src="https://www.youtube.com/embed/IH7mCozhQOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="180" height="115" src="https://www.youtube.com/embed/IH7mCozhQOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 <tr>
 <td>2:00-2:30PM (Optional)</td>
