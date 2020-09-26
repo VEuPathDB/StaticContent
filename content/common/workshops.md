@@ -98,6 +98,7 @@ details p, details table {
 <td><strong>Time</strong></td>
 <td><strong>Activity</strong></td>
 <td><strong>Presenter</strong></td>
+<td><strong>Recording</strong></td>
 </tr>
 <tr>
 <td>
@@ -107,7 +108,7 @@ details p, details table {
 Introduction to workshop
 </td>
 <td>
-David Roos (This session will be recorded)
+David Roos
 </td>
 </tr>
 <tr>
@@ -116,6 +117,7 @@ David Roos (This session will be recorded)
 Quick intro to the home page layout
 </td>
 <td>Jessica Kissinger (This session will be recorded)</td>
+<td><iframe width="360" height="115" src="https://www.youtube.com/embed/videoseries?list=PLWzQB3i5sYAIbOj9nosayPMgdBPH4Y5c3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 <tr>
 <td>
@@ -123,46 +125,55 @@ Quick intro to the home page layout
 </td>
 <td><a href="{{'/documents/MPMSiteSearch.pdf' | absolute_url}}"><b>Site search</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
+<td></td>
 </tr>
 <tr>
 <td>10:45-11:15AM</td>
 <td><a href="{{'/documents/MPMSearchStrategies_Exercise.pdf' | absolute_url}}"><b>Building a search strategy</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
+<td></td>
 </tr>
 <tr>
 <td>11:15-11:30AM</td>
 <td>Break</td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>11:30-11:45AM</td>
 <td>Intro to GO enrichment</td>
-<td>Omar Harb (This session will be recorded)</td>
+<td>Omar Harb</td>
+<td></td>
 </tr>
 <tr>
 <td>11:45-12:15PM</td>
 <td><a href="{{'/documents/MPMGOEnrichment.pdf' | absolute_url}}"><b>GO enrichment exercise</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
+<td></td>
 </tr>
 <tr>
 <td>12:15-1:00PM</td>
 <td><a href="{{'/documents/MPMGenePage.pdf' | absolute_url}}"><b>Exploring the gene page</b></a><br>
 <a href="{{'/documents/MPMJBrowseBasics.pdf' | absolute_url}}"><b>Exploring the genome browser</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
+<td></td>
 </tr>
 <tr>
 <td>1:00-1:15PM</td>
 <td>Intro to orthology and how it is used in VEuPathDB</td>
 <td>Mark Hickman (This session will be recorded)</td>
+<td></td>
 </tr>
 <tr>
 <td>1:15-1:45PM</td>
 <td><a href="{{'/documents/MPMAdvancedStrategies.pdf' | absolute_url}}"><b>Advanced search strategies</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
+<td></td>
 </tr>
 <tr>
 <td>1:45-2:00PM</td>
 <td>Wrap up</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
