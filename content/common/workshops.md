@@ -180,12 +180,13 @@ Quick intro to the home page layout
 <td>2:00-2:30PM (Optional)</td>
 <td>Additional time to work on specific problems or complete exercises</td>
 <td></td>
+<td></td>
 </tr>
 </tbody>
 
 <tfoot>
     <tr>
-      <td colspan="3"><i>This workshop will be run by a number of VEuPathDB staff members including: Achchuthan Shanmugasundram, David Starns, David Roos, Evelina Basenko, Jessica Kissinger, Gloria I. Giraldo-Calderón, Kathryn Crouch, Mark Hickman, Samual Rund, Sarah Kelly, Susanne Warrenfeltz, Sheena Tomko and Omar Harb</i></td>
+      <td colspan="4"><i>This workshop will be run by a number of VEuPathDB staff members including: Achchuthan Shanmugasundram, David Starns, David Roos, Evelina Basenko, Jessica Kissinger, Gloria I. Giraldo-Calderón, Kathryn Crouch, Mark Hickman, Samual Rund, Sarah Kelly, Susanne Warrenfeltz, Sheena Tomko and Omar Harb</i></td>
     </tr>
   </tfoot>
 </table>
