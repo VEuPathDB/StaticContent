@@ -110,6 +110,7 @@ Introduction to workshop
 <td>
 David Roos
 </td>
+<td></td>
 </tr>
 <tr>
 <td>10:05-10:15AM</td>
