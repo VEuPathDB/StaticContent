@@ -18,25 +18,70 @@ tags: [general]
   div.workshop {
     margin: 2em 1em;
   }
+
+details summary, details ul {
+  margin-top: 1em;
+}
+details summary {
+  font-size: 120%;
+  color: #069;
+}
+details p, details table {
+  margin-left: 2em;
+}
+details table {
+  margin-right: 12em;
+}
+
 table {
   margin-top: 1em;
   border-collapse: collapse;
 }
+/*
 table, th, td {
   border: 1px solid black;
   padding: 0.5em;
 }
+*/
 tr.break td {
-  background-color: lightgrey;
+  background-color: #DCDCDC;
 }
-th {
+
+table#hor-minimalist-a {
+  text-align: left;
+}
+table#hor-minimalist-a th {
+  font-size: 110%;
+  font-weight: 400;
+  color: #039;
+  border-bottom: 2px solid #6678b1;
+  padding: 0.5em;
   text-align: center;
 }
-details summary, details ul {
-  margin-top: 1em;
+table#hor-minimalist-a tr {
+  border-bottom: 1px solid #ddd;
 }
-details p, details table {
-  margin-left: 2em;
+table#hor-minimalist-a tr:hover td {
+  color: #039; 
+}
+table#hor-minimalist-a tr.other td {
+  background-color: #fafafa;         
+}
+table#hor-minimalist-a tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+table#hor-minimalist-a td {
+  color: #669; 
+  padding: 0.5em 0.5em 0.5em;
+  vertical-align: middle;
+}
+table#hor-minimalist-a tfoot {
+  font-size: 90%;
+}
+table#hor-minimalist-a tfoot tr {
+  border:0;
 }
 </style>
 
@@ -47,9 +92,7 @@ details p, details table {
   <h3>Upcoming Workshops</h3><br>
 
   <div id="contents">
-    <h4><a href="#mpm2020">Molecular Parasitology Pre-meeting VEuPathDB workshop</a></h4>
-    Friday September 18th, 2020 from 10AM - 2PM US Eastern time. (Virtual).
-    <br><br>
+    
     <h4><a target="_blank" href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/?utm_source=Social&utm_medium=Twitter_Virtual&utm_campaign=ProtozoanParasites20&utm_content=organic_social">
     Working with Protozoan Parasite Database Resources</a></h4>
     October 5-9, 2020. (Virtual).<br>
@@ -60,6 +103,9 @@ details p, details table {
   <h3>Previous Workshops</h3><br>
 
   <div id="contents">
+  <h4><a href="#mpm2020">Molecular Parasitology Pre-meeting VEuPathDB workshop</a></h4>
+    Friday September 18th, 2020 from 10AM - 2PM US Eastern time. (Virtual).
+    <br><br>
 <h4>2020 VectorBase, Arthropod Genomics Symposium (AGS), virtual.</h4>
     <ul>
       <li><a href="#vb-2020-7-24">VectorBase workshop at AGS</a>, on Friday July 24th, 2020 (3-hour event)</li>
@@ -76,6 +122,12 @@ details p, details table {
 <hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
 
 <h3>Upcoming Workshops</h3>
+
+
+
+<hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
+
+<h3>Previous Workshops</h3>
 <hr>
 
 <div class="anchor"><a name="mpm2020"></a></div>
@@ -85,99 +137,119 @@ details p, details table {
   <p>Registration: closed.</p>
   <details open>
     <summary><b>Schedule and exercises</b></summary>
-    <table>
+    <table id="hor-minimalist-a">
+
+<thead>
+<tr>
+<th>Time</th>
+<th>Activity</th>
+<th>Presenter</th>
+<th>Recording</th>
+</tr>
+</thead>
+
 <tbody>
 <tr>
-<td><strong>Time</strong></td>
-<td><strong>Activity</strong></td>
-<td><strong>Presenter</strong></td>
+<td>10-10:05AM</td>
+<td>Introduction to workshop</td>
+<td>David Roos</td>
+<td></td>
 </tr>
-<tr>
-<td>
-10-10:05AM
-</td>
-<td>
-Introduction to workshop
-</td>
-<td>
-David Roos (This session will be recorded)
-</td>
-</tr>
-<tr>
+
+<tr class="other">
 <td>10:05-10:15AM</td>
-<td>
-Quick intro to the home page layout
-</td>
-<td>Jessica Kissinger (This session will be recorded)</td>
+<td>Quick intro to the home page layout</td>
+<td>Jessica Kissinger</td>
+<td><iframe width="180" height="115" src="https://www.youtube.com/embed/videoseries?list=PLWzQB3i5sYAIbOj9nosayPMgdBPH4Y5c3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
+
 <tr>
 <td>
 10:15-10:45AM
 </td>
 <td><a href="{{'/documents/MPMSiteSearch.pdf' | absolute_url}}"><b>Site search</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
+<td></td>
 </tr>
-<tr>
+
+<tr class="other">
 <td>10:45-11:15AM</td>
 <td><a href="{{'/documents/MPMSearchStrategies_Exercise.pdf' | absolute_url}}"><b>Building a search strategy</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
+<td></td>
 </tr>
-<tr>
+
+<tr class="break">
 <td>11:15-11:30AM</td>
 <td>Break</td>
 <td></td>
+<td></td>
 </tr>
+
 <tr>
 <td>11:30-11:45AM</td>
 <td>Intro to GO enrichment</td>
-<td>Omar Harb (This session will be recorded)</td>
+<td>Omar Harb</td>
+<td><iframe width="180" height="115" src="https://www.youtube.com/embed/Ks_sAmH_6DQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
-<tr>
+
+<tr class="other">
 <td>11:45-12:15PM</td>
 <td><a href="{{'/documents/MPMGOEnrichment.pdf' | absolute_url}}"><b>GO enrichment exercise</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
+<td></td>
 </tr>
+
 <tr>
 <td>12:15-1:00PM</td>
 <td><a href="{{'/documents/MPMGenePage.pdf' | absolute_url}}"><b>Exploring the gene page</b></a><br>
 <a href="{{'/documents/MPMJBrowseBasics.pdf' | absolute_url}}"><b>Exploring the genome browser</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
+<td></td>
 </tr>
-<tr>
+
+<tr class="other">
 <td>1:00-1:15PM</td>
 <td>Intro to orthology and how it is used in VEuPathDB</td>
-<td>Mark Hickman (This session will be recorded)</td>
+<td>Mark Hickman</td>
+<td><iframe width="180" height="115" src="https://www.youtube.com/embed/q_oWaSDWaHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
+
 <tr>
 <td>1:15-1:45PM</td>
 <td><a href="{{'/documents/MPMAdvancedStrategies.pdf' | absolute_url}}"><b>Advanced search strategies</b></a></td>
 <td>Hands-on exercise in breakout rooms</td>
+<td></td>
 </tr>
-<tr>
+
+<tr class="other">
 <td>1:45-2:00PM</td>
 <td>Wrap up</td>
 <td></td>
+<td><iframe width="180" height="115" src="https://www.youtube.com/embed/IH7mCozhQOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
+
 <tr>
 <td>2:00-2:30PM (Optional)</td>
 <td>Additional time to work on specific problems or complete exercises</td>
 <td></td>
+<td></td>
 </tr>
+
 </tbody>
 
 <tfoot>
-    <tr>
-      <td colspan="3"><i>This workshop will be run by a number of VEuPathDB staff members including: Achchuthan Shanmugasundram, David Starns, David Roos, Evelina Basenko, Jessica Kissinger, Gloria I. Giraldo-Calderón, Kathryn Crouch, Mark Hickman, Samual Rund, Sarah Kelly, Susanne Warrenfeltz, Sheena Tomko and Omar Harb</i></td>
-    </tr>
-  </tfoot>
+<tr>
+<td colspan="4"><i>This workshop will be run by a number of VEuPathDB staff members including: Achchuthan Shanmugasundram, David Starns, David Roos, Evelina Basenko, Jessica Kissinger, Gloria I. Giraldo-Calderón, Kathryn Crouch, Mark Hickman, Samual Rund, Sarah Kelly, Susanne Warrenfeltz, Sheena Tomko and Omar Harb</i></td>
+</tr>
+</tfoot>
+
 </table>
   </details>
 </div>
 <br>
 
-<hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 
-<h3>Previous Workshops</h3>
 <hr>
 
 <div class="anchor"><a name="vb-2020-7-24"></a></div>
@@ -212,7 +284,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
 <li>Other members from the VEuPathDB team will join us to help you during the exercises</li>
 </ul>
 
-<table>
+<table id="hor-minimalist-a">
   <thead style="font-weight:bold">
     <tr><th colspan="4">Time</th><th rowspan="2">Topic</th><th rowspan="2">Instructor</th></tr>
     <tr><th>PDT (W. Coast)</th><th>EDT (E. Coast)</th><th>CET (Europe)</th><th>Length (min)</th></tr>
@@ -324,7 +396,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
   <li>Other members from the VEuPathDB team will join us to help you during the exercises</li>
 </ul>
 
-<table>
+<table id="hor-minimalist-a">
   <thead style="font-weight:bold">
     <tr><th colspan="4">Time</th><th rowspan="2">Topic</th><th rowspan="2">Instructor</th></tr>
     <tr><th>PDT (W. Coast)</th><th>EDT (E. Coast)</th><th>CET (Europe)</th><th>Length (min)</th></tr>
