@@ -22,6 +22,10 @@ tags: [general]
 details summary, details ul {
   margin-top: 1em;
 }
+details summary {
+  font-size: 120%;
+  color: #069;
+}
 details p, details table {
   margin-left: 2em;
 }
@@ -52,7 +56,7 @@ table#hor-minimalist-a th {
   color: #039;
   border-bottom: 2px solid #6678b1;
   padding: 0.5em;
-  text-align: left;
+  text-align: center;
 }
 table#hor-minimalist-a tr {
   border-bottom: 1px solid #ddd;
@@ -61,7 +65,7 @@ table#hor-minimalist-a tr:hover td {
   color: #039; 
 }
 table#hor-minimalist-a tr.other td {
-  background-color: #fefefe;         
+  background-color: #fafafa;         
 }
 table#hor-minimalist-a tbody {
   display: table-row-group;
