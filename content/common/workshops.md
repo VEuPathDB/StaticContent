@@ -141,10 +141,10 @@ table#hor-minimalist-a tfoot tr {
 
 <thead>
 <tr>
-<th>Time</th>
-<th>Activity</th>
-<th>Presenter</th>
-<th>Recording</th>
+<th style="text-align:left">Time</th>
+<th style="text-align:left">Activity</th>
+<th style="text-align:left">Presenter</th>
+<th style="text-align:left">Recording</th>
 </tr>
 </thead>
 
