@@ -44,15 +44,15 @@ tr.break td {
 }
 
 table#hor-minimalist-a {
-    text-align: left;
+  text-align: left;
 }
 table#hor-minimalist-a th {
-    font-size: 110%;
-    font-weight: 400;
-    color: #039;
-    border-bottom: 2px solid #6678b1;
-    padding: 0.5em;
-    text-align: left;
+  font-size: 110%;
+  font-weight: 400;
+  color: #039;
+  border-bottom: 2px solid #6678b1;
+  padding: 0.5em;
+  text-align: left;
 }
 table#hor-minimalist-a tr {
   border-bottom: 1px solid #ddd;
@@ -64,13 +64,14 @@ table#hor-minimalist-a tr.other td {
   background-color: #fefefe;         
 }
 table#hor-minimalist-a tbody {
-    display: table-row-group;
-    vertical-align: middle;
-    border-color: inherit;
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
 }
 table#hor-minimalist-a td {
-    color: #669; 
-    padding: 0.5em 0.5em 0.5em;
+  color: #669; 
+  padding: 0.5em 0.5em 0.5em;
+  vertical-align: middle;
 }
 table#hor-minimalist-a tfoot {
   font-size: 90%;
