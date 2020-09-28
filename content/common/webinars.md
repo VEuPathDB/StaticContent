@@ -22,6 +22,7 @@ tags: [general]
 
 <h1 id="resources">VEuPathDB Webinars</h1>
 <div class="static-content">
+<p><b>Thursday November 5th, 2020:</b> <a href="#release49">Release 49 Webinar</a></p>
 
   <h3>Upcoming Webinars</h3>
   <div id="contents">
@@ -65,7 +66,17 @@ tags: [general]
 <hr> 
 <div id="contents">
     
-   <p>More webinars are coming soon.</p>
+<div class="anchor"><a name="release49"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 49 Webinar<br>
+<b>Date:</b> Thursday November 5th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Additional Details:</b> <br>
+This webinar focused on what is new in Release 49 of the VEuPathDB resources.  We talked about data sets, demonstrate serches and features, and answer questions.
+<br>
+</div>
+
+<hr>
   </div>
 
 
