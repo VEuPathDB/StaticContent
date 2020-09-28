@@ -22,12 +22,12 @@ tags: [general]
 
 <h1 id="resources">VEuPathDB Webinars</h1>
 <div class="static-content">
-<p><b>Thursday November 5th, 2020:</b> <a href="#release49">Release 49 Webinar</a></p>
+
 
   <h3>Upcoming Webinars</h3>
   <div id="contents">
     
-   <p>More webinars are coming soon.</p>
+   <p><b>Thursday November 5th, 2020:</b> <a href="#release49">Release 49 Webinar</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
