@@ -28,6 +28,10 @@ tags: [general]
   <div id="contents">
     
    <p><b>Thursday November 5th, 2020:</b> <a href="#release49">Release 49 Webinar</a></p>
+   <p><b>Thursday December 15th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
+   <p><b>Thursday February 18th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
+   <p><b>Thursday April 22, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
+   <p><b>Thursday June 24th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
@@ -71,12 +75,49 @@ tags: [general]
 <b>Topic:</b> Release 49 Webinar<br>
 <b>Date:</b> Thursday November 5th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Additional Details:</b> <br>
-This webinar focused on what is new in Release 49 of the VEuPathDB resources.  We talked about data sets, demonstrate serches and features, and answer questions.
+<b>Additional Details:</b> This webinar will focus on what is new in Release 49 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
 
 <hr>
+<div class="anchor"><a name="release50"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 50 Webinar<br>
+<b>Date:</b> Thursday December 17th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Additional Details:</b> This webinar will focus on what is new in Release 50 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="release51"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 51 Webinar<br>
+<b>Date:</b> Thursday February 18th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Additional Details:</b> This webinar will focus on what is new in Release 51 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="release52"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 52 Webinar<br>
+<b>Date:</b> Thursday April 22nd, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Additional Details:</b> This webinar will focus on what is new in Release 52 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="release53"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 53 Webinar<br>
+<b>Date:</b> Thursday June 24th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Additional Details:</b> This webinar will focus on what is new in Release 53 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
   </div>
 
 
