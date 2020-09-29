@@ -70,7 +70,7 @@ tags: [general]
 <hr> <!-- ==== UPCOMING WEBINARS =============================== -->
 
 <h3>Upcoming Webinars</h3>
-Release webinar dates are subject to change due to production issues that may arrise during a release.  Registration links will be available 7-10 days prior to a release webinar.
+Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <hr> 
 <div id="contents">
     
