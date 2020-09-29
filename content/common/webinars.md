@@ -69,7 +69,7 @@ tags: [general]
 <hr> <!-- ==== UPCOMING WEBINARS =============================== -->
 
 <h3>Upcoming Webinars</h3>
-
+Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <hr> 
 <div id="contents">
 <div class="anchor"><a name="release49"></a></div>
@@ -77,6 +77,7 @@ tags: [general]
 <b>Topic:</b> Release 49 Webinar<br>
 <b>Date:</b> Thursday November 5th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> Available 7-10 days prior to webinar<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 49 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
@@ -87,6 +88,7 @@ tags: [general]
 <b>Topic:</b> Release 50 Webinar<br>
 <b>Date:</b> Thursday December 17th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> Available 7-10 days prior to webinar<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 50 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
@@ -97,6 +99,7 @@ tags: [general]
 <b>Topic:</b> Release 51 Webinar<br>
 <b>Date:</b> Thursday March 11th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> Available 7-10 days prior to webinar<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 51 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
@@ -107,6 +110,7 @@ tags: [general]
 <b>Topic:</b> Release 52 Webinar<br>
 <b>Date:</b> Thursday May 13th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> Available 7-10 days prior to webinar<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 52 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
@@ -117,6 +121,7 @@ tags: [general]
 <b>Topic:</b> Release 53 Webinar<br>
 <b>Date:</b> Thursday July 8th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> Available 7-10 days prior to webinar<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 53 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
@@ -127,6 +132,7 @@ tags: [general]
 <b>Topic:</b> Release 54 Webinar<br>
 <b>Date:</b> Thursday Sept 9th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> Available 7-10 days prior to webinar<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 54 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
@@ -137,6 +143,7 @@ tags: [general]
 <b>Topic:</b> Release 55 Webinar<br>
 <b>Date:</b> Thursday Nov 11th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> Available 7-10 days prior to webinar<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 55 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
@@ -147,6 +154,7 @@ tags: [general]
 <b>Topic:</b> Release 56 Webinar<br>
 <b>Date:</b> Thursday Feb 10th, 2022<br>
 <b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> Available 7-10 days prior to webinar<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 56 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
@@ -155,8 +163,9 @@ tags: [general]
 
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 <h3>Previous Webinars</h3>
-
 <hr>
+
+<div id="contents">
 <div class="anchor"><a name="microbiome"></a></div>
 <div class="webinar">
 <b>Topic:</b> Introduction to MicrobiomeDB<br>
@@ -497,6 +506,6 @@ This webinar will introduce you to VEuPathDB resources and highlight some of the
 <li>Galaxy tools</li>
 </ul>
 </div>
-
+</div>
 
 </div>
