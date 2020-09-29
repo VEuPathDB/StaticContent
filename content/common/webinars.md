@@ -28,10 +28,13 @@ tags: [general]
   <div id="contents">
     
    <p><b>Thursday November 5th, 2020:</b> <a href="#release49">Release 49 Webinar</a></p>
-   <p><b>Thursday December 15th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
-   <p><b>Thursday February 18th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
-   <p><b>Thursday April 22, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
-   <p><b>Thursday June 24th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
+   <p><b>Thursday December 17th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
+   <p><b>Thursday March 11th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
+   <p><b>Thursday May 13th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
+   <p><b>Thursday July 8th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
+   <p><b>Thursday September 9th, 2021:</b> <a href="#release54">Release 54 Webinar</a></p>
+   <p><b>Thursday November 11th, 2021:</b> <a href="#release55">Release 55 Webinar</a></p>
+   <p><b>Thursday February 10th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
@@ -93,7 +96,7 @@ tags: [general]
 <div class="anchor"><a name="release51"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 51 Webinar<br>
-<b>Date:</b> Thursday February 18th, 2021<br>
+<b>Date:</b> Thursday March 11th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 51 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
@@ -103,7 +106,7 @@ tags: [general]
 <div class="anchor"><a name="release52"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 52 Webinar<br>
-<b>Date:</b> Thursday April 22nd, 2021<br>
+<b>Date:</b> Thursday May 13th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 52 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
@@ -113,9 +116,39 @@ tags: [general]
 <div class="anchor"><a name="release53"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 53 Webinar<br>
-<b>Date:</b> Thursday June 24th, 2021<br>
+<b>Date:</b> Thursday July 8th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 53 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="release54"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 54 Webinar<br>
+<b>Date:</b> Thursday Sept 9th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Additional Details:</b> This webinar will focus on what is new in Release 54 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="release55"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 55 Webinar<br>
+<b>Date:</b> Thursday Nov 11th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Additional Details:</b> This webinar will focus on what is new in Release 55 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="release56"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 56 Webinar<br>
+<b>Date:</b> Thursday Feb 10th, 2022<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Additional Details:</b> This webinar will focus on what is new in Release 56 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
   </div>
