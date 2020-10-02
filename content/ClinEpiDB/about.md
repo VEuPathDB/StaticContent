@@ -50,7 +50,7 @@ tags: [general]
         Jay Humphrey<sup>1</sup>,
         John Judkins<sup>3</sup>,
         Jessica Kissinger<sup>1</sup>,
-        Nupur Kittur<sup>3</sup>,
+        Nupur Kittur<sup>1</sup>,
         Brianna Lindsay<sup>3*</sup>,
         David Roos<sup>3#</sup>,
         Steph Wever Schulman<sup>3</sup>,
