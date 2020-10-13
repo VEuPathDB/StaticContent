@@ -88,7 +88,7 @@
 - type: general
   question: "Does ClinEpiDB assign persistent identifiers?"
   answer: |
-           Yes! Each study is assigned their own stable identifier that begins with 'DS_'. This identifier is present in all URLs associated with that study, including the Study page. For more information on how to cite the data for a study loaded in ClinEpiDB, see [How do I cite ClinEpiDB?](app/static-content/ClinEpiDB/faq.html#g2){:target='_blank'}
+           Yes! Each study is assigned their own stable identifier that begins with 'DS_'. This identifier is present in all URLs associated with that study, including the Study page. For more information on how to cite the data for a study loaded in ClinEpiDB, see [How do I cite ClinEpiDB?](#g2)
   uid: g10
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
