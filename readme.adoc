@@ -9,6 +9,11 @@ endif::[]
 // TODO: Where do pdfs go?
 // TODO: Explain the assets directory
 
+
+== Description
+
+Handles all static content for web pages across VEuPathDB websites.
+
 == Contributing
 
 === Directory Structure & Meaning
