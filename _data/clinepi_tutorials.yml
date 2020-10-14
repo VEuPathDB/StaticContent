@@ -20,6 +20,13 @@
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: General_2_get_help_or_submit_comment.pdf
   date: "Apr 26, 2019"
+- type: tutorial
+  title: "Downloading data"
+  description: "Learn the 2 ways to download data and extra resources available"
+  uid: t4
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: download_file_README_tutorial.pdf
+  date: "Oct 14, 2020"
 - type: video
   title: "ClinEpiDB introductory tour"
   description: "Covers different tools the site offers to explore and visualize data"
