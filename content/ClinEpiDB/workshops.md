@@ -92,12 +92,12 @@ table#hor-minimalist-a tfoot tr {
   </div>
 
   <div class="workshop">
-    <p>Join <b>ClinEpiDB.org</b> for a <b>FREE</b> Virtual Workshop to learn how to use our open-access online clinical epidemiology database and tools for the exploration of complex public health studies. Attendees do not need to be registered for ASTMH in order to attend this online workshop. There are no software requirements for the workshop, but attendees must have a functioning Internet browser (Chrome, Safari, etc.).
+    <p>Join <b>ClinEpiDB.org</b> for a <b>FREE</b> Virtual Workshop to learn how to use our open-access online clinical epidemiology database and tools for the exploration of complex public health studies. Attendees <b>do not need to be registered for ASTMH</b> in order to attend this online workshop. There are no software requirements for the workshop, but attendees must have a functioning Internet browser (Chrome, Safari, etc.).
     </p>
     <p>
       <b>Date:</b> Friday November 13th, 2020 <br>
       <b>Time:</b> 10AM - 2PM US EST <br>
-      <b>Registration:</b> Spots are limited! To reserve a seat, <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd-CfvdSKrlevSTW5Ex6n5XftbL4nebMrAuFYvuVlfk008ZDQ/viewform" target="_blank">please click to register.</a>
+      <b>Registration:</b> Spots are limited! To reserve a seat, <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd-CfvdSKrlevSTW5Ex6n5XftbL4nebMrAuFYvuVlfk008ZDQ/viewform" target="_blank">please register.</a>
     </p>
     <p>
       <b>Topics:</b> This 4-hour workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. This is a fantastic opportunity for junior researchers, students, and data managers to benefit from training on mining epidemiological datasets.
