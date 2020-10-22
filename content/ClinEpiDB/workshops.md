@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: ClinEpiDB Workshops
-permalink: /workshops
+permalink: /ClinEpiDB/workshops
 tags: [general]
 ---
 <style>
