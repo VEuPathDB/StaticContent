@@ -93,36 +93,33 @@ table#hor-minimalist-a tfoot tr {
   <h3>Upcoming Workshop</h3><br>
 
   <div id="contents">
-  <h4><a href="#astmh2020">ASTMH Pre-meeting ClinEpiDB workshop</a></h4><br>
-  Join <a target="_blank" href="ClinEpiDB.org" target="_blank">ClinEpiDB.org</a> for a <b> FREE </b> virtual workshop to learn how to use our open-access online clinical epidemiology database and tools for the exploration of complex public health studies. <br>
-  <br>
-  <b>Date:</b> Friday November 13th, 2020 <br>
-  <b>Time:</b> 10AM - 2PM US EST <br>
-  <br>
+  <h4><a href="#astmh2020">ASTMH Pre-meeting ClinEpiDB workshop</a></h4>
 
-  <ul>
-    <li>Learn about large-scale epidemiological data sets available for secondary data analyses and translational research discovery</li>
-    <li>Build skills exploring data through the interactive tables, graphs, and intuitive visual query interface available on ClinEpiDB.org </li>
-</ul>
-This 4-hour workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. This is a fantastic opportunity for junior researchers, students, and data managers to benefit from training on mining epidemiological datasets.
-<br>
-<br>
-Attendees do not need to be registered for ASTMH in order to attend this online workshop. There are no software requirements for the workshop, but attendees must have a functioning Internet browser (Chrome, Safari, etc.).
-<br>
-<br>
-<b>Registration:</b> Spots are limited! To reserve a seat, please register <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd-CfvdSKrlevSTW5Ex6n5XftbL4nebMrAuFYvuVlfk008ZDQ/viewform" target="_blank">here.</a>
-<br>
-<br>
+  <p>Join <b>ClinEpiDB.org</b> for a <b>FREE</b> Virtual Workshop to learn how to use our open-access online clinical epidemiology database and tools for the exploration of complex public health studies.
+  </p>
+  <p>Attendees do not need to be registered for ASTMH in order to attend this online workshop. There are no software requirements for the workshop, but attendees must have a functioning Internet browser (Chrome, Safari, etc.).
+  </p>
+  <p>
+    <b>Date:</b> Friday November 13th, 2020 <br>
+    <b>Time:</b> 10AM - 2PM US EST <br>
+    <b>Registration:</b> Spots are limited! To reserve a seat, <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd-CfvdSKrlevSTW5Ex6n5XftbL4nebMrAuFYvuVlfk008ZDQ/viewform" target="_blank">please click to register.</a>
+  </p>
+  <p>
+    <b>Topics:</b> This 4-hour workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. This is a fantastic opportunity for junior researchers, students, and data managers to benefit from training on mining epidemiological datasets.
+    <ul>
+      <li>Learn about large-scale epidemiological data sets available for secondary data analyses and translational research discovery</li>
+      <li>Build skills exploring data through the interactive tables, graphs, and intuitive visual query interface available on ClinEpiDB.org </li>
+    </ul>
+  </p>
 
-<b>To learn more about <a target="_blank" href="ClinEpiDB.org" target="_blank">ClinEpiDB.org:</a></b> 
-<ul>
-<li>Read our recent publication on Gates Open Research <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661/v2" target="_blank">here.</a></li>
-<li>Watch an introductory video <a target="_blank" href="https://www.youtube.com/watch?v=535PcFrBH8M&feature=youtu.be" target="_blank">here.</a> </li>
-<br>
-</ul>
+  <p>
+    <b>To learn more about ClinEpiDB.org:</b> 
+    <ul>
+      <li>Read our recent publication on <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661/v2" target="_blank">Gates Open Research.</a></li>
+      <li>Watch a ClinEpiDB.org <a target="_blank" href="https://www.youtube.com/watch?v=535PcFrBH8M&feature=youtu.be" target="_blank">introductory video.</a> </li>
+    </ul>
+  </p>
 
-Email your questions to 
-  <a target="_blank" href="/a/app/contact-us">
-    help@clinepidb.org  
-  </a>
+  <p>Email your questions to <a target="_blank" href="/a/app/contact-us">help@clinepidb.org.</a>
+  </p>
 </div>
