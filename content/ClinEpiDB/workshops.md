@@ -5,11 +5,11 @@ permalink: /ClinEpiDB/workshops
 tags: [general]
 ---
 <style>
-  div#contents {
+  div.contents {
     margin-left: 1em;
     margin-bottom: 1em;
   }
-  div#contents p {
+  div.contents p {
     line-height: 90%;
   }
   div.workshop {
@@ -85,38 +85,49 @@ table#hor-minimalist-a tfoot tr {
 
 <div id="ce-static-content">
   <h1>ClinEpiDB Workshops</h1>
-  <h2>Upcoming Workshop</h2>
 
-  <div id="contents">
-  <h4><a href="#astmh2020">ASTMH Pre-meeting ClinEpiDB workshop</a></h4>
+  
+  <h2>Upcoming Workshops</h2>
 
-  <p>Join <b>ClinEpiDB.org</b> for a <b>FREE</b> Virtual Workshop to learn how to use our open-access online clinical epidemiology database and tools for the exploration of complex public health studies.
-  </p>
-  <p>Attendees do not need to be registered for ASTMH in order to attend this online workshop. There are no software requirements for the workshop, but attendees must have a functioning Internet browser (Chrome, Safari, etc.).
-  </p>
-  <p>
-    <b>Date:</b> Friday November 13th, 2020 <br>
-    <b>Time:</b> 10AM - 2PM US EST <br>
-    <b>Registration:</b> Spots are limited! To reserve a seat, <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd-CfvdSKrlevSTW5Ex6n5XftbL4nebMrAuFYvuVlfk008ZDQ/viewform" target="_blank">please click to register.</a>
-  </p>
-  <p>
-    <b>Topics:</b> This 4-hour workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. This is a fantastic opportunity for junior researchers, students, and data managers to benefit from training on mining epidemiological datasets.
-    <ul>
-      <li>Learn about large-scale epidemiological data sets available for secondary data analyses and translational research discovery</li>
-      <li>Build skills exploring data through the interactive tables, graphs, and intuitive visual query interface available on ClinEpiDB.org </li>
-    </ul>
-  </p>
-
-  <p>
-    <b>To learn more about ClinEpiDB.org:</b> 
-    <ul>
-      <li>Read our recent publication on <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661/v2" target="_blank">Gates Open Research.</a></li>
-      <li>Watch a ClinEpiDB.org <a target="_blank" href="https://www.youtube.com/watch?v=535PcFrBH8M&feature=youtu.be" target="_blank">introductory video.</a> </li>
-    </ul>
-  </p>
-
-  <p>Email your questions to <a target="_blank" href="/a/app/contact-us">help@clinepidb.org.</a>
-  </p>
-
+  <div class="contents">
+    <h4><a href="#astmh2020">ASTMH Pre-meeting ClinEpiDB workshop</a></h4>
+    Date:</b> Friday November 13th, 2020
   </div>
+
+
+<hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
+<h3>Upcoming Workshops</h3>
+<hr> 
+  <div class="anchor"><a name="mpm2020"></a></div>
+  <div class="workshop">
+
+    <p>Join <b>ClinEpiDB.org</b> for a <b>FREE</b> Virtual Workshop to learn how to use our open-access online clinical epidemiology database and tools for the exploration of complex public health studies.
+    </p>
+    <p>Attendees do not need to be registered for ASTMH in order to attend this online workshop. There are no software requirements for the workshop, but attendees must have a functioning Internet browser (Chrome, Safari, etc.).
+    </p>
+    <p>
+      <b>Date:</b> Friday November 13th, 2020 <br>
+      <b>Time:</b> 10AM - 2PM US EST <br>
+      <b>Registration:</b> Spots are limited! To reserve a seat, <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd-CfvdSKrlevSTW5Ex6n5XftbL4nebMrAuFYvuVlfk008ZDQ/viewform" target="_blank">please click to register.</a>
+    </p>
+    <p>
+      <b>Topics:</b> This 4-hour workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. This is a fantastic opportunity for junior researchers, students, and data managers to benefit from training on mining epidemiological datasets.
+      <ul>
+        <li>Learn about large-scale epidemiological data sets available for secondary data analyses and translational research discovery</li>
+        <li>Build skills exploring data through the interactive tables, graphs, and intuitive visual query interface available on ClinEpiDB.org </li>
+      </ul>
+    </p>
+
+    <p>
+      <b>To learn more about ClinEpiDB.org:</b> 
+      <ul>
+        <li>Read our recent publication on <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661/v2" target="_blank">Gates Open Research.</a></li>
+        <li>Watch a ClinEpiDB.org <a target="_blank" href="https://www.youtube.com/watch?v=535PcFrBH8M&feature=youtu.be" target="_blank">introductory video.</a> </li>
+      </ul>
+    </p>
+
+    <p>Email your questions to <a target="_blank" href="/a/app/contact-us">help@clinepidb.org.</a>
+    </p>
+  </div>
+
 </div>
