@@ -5,9 +5,6 @@ permalink: /ClinEpiDB/workshops
 tags: [general]
 ---
 <style>
-  h1 {
-    font-size: 2.5em;
-  }
   div#contents {
     margin-left: 1em;
     margin-bottom: 1em;
@@ -87,10 +84,9 @@ table#hor-minimalist-a tfoot tr {
 
 <h1>ClinEpiDB Workshops</h1>
 
-<div class="static-content">
-
-<br>
-  <h3>Upcoming Workshop</h3><br>
+<div class="ce-static-content">
+  <h1>ClinEpiDB Workshops</h1>
+  <h2>Upcoming Workshop</h2>
 
   <div id="contents">
   <h4><a href="#astmh2020">ASTMH Pre-meeting ClinEpiDB workshop</a></h4>
@@ -122,4 +118,6 @@ table#hor-minimalist-a tfoot tr {
 
   <p>Email your questions to <a target="_blank" href="/a/app/contact-us">help@clinepidb.org.</a>
   </p>
+
+  </div>
 </div>
