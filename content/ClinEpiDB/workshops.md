@@ -82,7 +82,6 @@ table#hor-minimalist-a tfoot tr {
 }
 </style>
 
-<h1>ClinEpiDB Workshops</h1>
 
 <div class="ce-static-content">
   <h1>ClinEpiDB Workshops</h1>
