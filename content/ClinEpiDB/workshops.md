@@ -12,7 +12,7 @@ tags: [general]
     line-height: 90%;
   }
   div.workshop {
-    margin: 1em 2em;
+    margin: 1em 1em;
   }
 
 details summary, details ul {
