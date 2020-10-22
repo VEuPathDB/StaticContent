@@ -6,14 +6,13 @@ tags: [general]
 ---
 <style>
   div.contents {
-    margin-left: 1em;
-    margin-bottom: 1em;
+    margin: 1em;
   }
   div.contents p {
     line-height: 90%;
   }
   div.workshop {
-    margin: 2em 1em;
+    margin: 1em 2em;
   }
 
 details summary, details ul {
@@ -83,9 +82,9 @@ table#hor-minimalist-a tfoot tr {
 </style>
 
 
-<h1>ClinEpiDB Workshops</h1>
+<h1 style="padding:1em">ClinEpiDB Workshops</h1>
 
-<div class="static-content">
+<div class="static-content" style="padding:0 3em">
   <h3>Upcoming Workshops</h3>
 
   <div class="contents">
@@ -93,9 +92,7 @@ table#hor-minimalist-a tfoot tr {
   </div>
 
   <div class="workshop">
-    <p>Join <b>ClinEpiDB.org</b> for a <b>FREE</b> Virtual Workshop to learn how to use our open-access online clinical epidemiology database and tools for the exploration of complex public health studies.
-    </p>
-    <p>Attendees do not need to be registered for ASTMH in order to attend this online workshop. There are no software requirements for the workshop, but attendees must have a functioning Internet browser (Chrome, Safari, etc.).
+    <p>Join <b>ClinEpiDB.org</b> for a <b>FREE</b> Virtual Workshop to learn how to use our open-access online clinical epidemiology database and tools for the exploration of complex public health studies. Attendees do not need to be registered for ASTMH in order to attend this online workshop. There are no software requirements for the workshop, but attendees must have a functioning Internet browser (Chrome, Safari, etc.).
     </p>
     <p>
       <b>Date:</b> Friday November 13th, 2020 <br>
