@@ -86,19 +86,20 @@ table#hor-minimalist-a tfoot tr {
 <div id="ce-static-content">
   <h1>ClinEpiDB Workshops</h1>
 
-  
-  <h2>Upcoming Workshops</h2>
+  <div class="static-content"> 
+  <h3>Upcoming Workshops</h2>
 
   <div class="contents">
     <h4><a href="#astmh2020">ASTMH Pre-meeting ClinEpiDB workshop</a></h4>
-    Date:</b> Friday November 13th, 2020
+    Friday November 13th, 2020 (Virtual).
   </div>
 
 
-<hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
-<h3>Upcoming Workshops</h3>
-<hr> 
-  <div class="anchor"><a name="mpm2020"></a></div>
+  <hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
+  <h3>Upcoming Workshops</h3>
+  <hr> 
+
+  <div class="anchor"><a name="astmh2020"></a></div>
   <div class="workshop">
 
     <p>Join <b>ClinEpiDB.org</b> for a <b>FREE</b> Virtual Workshop to learn how to use our open-access online clinical epidemiology database and tools for the exploration of complex public health studies.
@@ -130,4 +131,6 @@ table#hor-minimalist-a tfoot tr {
     </p>
   </div>
 
+
+  </div>
 </div>
