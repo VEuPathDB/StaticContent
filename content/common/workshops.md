@@ -8,11 +8,11 @@ tags: [general]
   h1 {
     font-size: 2.5em;
   }
-  div#contents {
+  div.contents {
     margin-left: 1em;
     margin-bottom: 1em;
   }
-  div#contents p {
+  div.contents p {
     line-height: 90%;
   }
   div.workshop {
@@ -91,7 +91,7 @@ table#hor-minimalist-a tfoot tr {
 
   <h3>Upcoming Workshops</h3><br>
 
-  <div id="contents">
+  <div class="contents">
     
     <h4><a target="_blank" href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/?utm_source=Social&utm_medium=Twitter_Virtual&utm_campaign=ProtozoanParasites20&utm_content=organic_social">
     Working with Protozoan Parasite Database Resources</a></h4>
@@ -102,7 +102,7 @@ table#hor-minimalist-a tfoot tr {
   
   <h3>Previous Workshops</h3><br>
 
-  <div id="contents">
+  <div class="contents">
   <h4><a href="#mpm2020">Molecular Parasitology Pre-meeting VEuPathDB workshop</a></h4>
     Friday September 18th, 2020 from 10AM - 2PM US Eastern time. (Virtual).
     <br><br>
@@ -434,7 +434,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
 </div>
 
 <br>
-<div id="contents">
+<div class="contents">
   <p><b>VectorBase:</b> <a target="_blank" href="https://legacy.vectorbase.org/tutorials" target="_blank">Previous tutorials</a>
     and <a target="_blank"  href="https://legacy.vectorbase.org/workshops" target="_blank">Previous workshops and webinars</a>.</p>
   <p><b>EuPathDB:</b> <a target="_blank" href="https://workshop.eupathdb.org" target="_blank">Previous workshops</a>.</p>
