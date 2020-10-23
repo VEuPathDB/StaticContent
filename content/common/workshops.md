@@ -102,7 +102,7 @@ table#hor-minimalist-a tfoot tr {
   
   <h3>Previous Workshops</h3><br>
 
-<div class="contents">
+  <div class="contents">
     
     <h4><a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/?utm_source=Social&utm_medium=Twitter_Virtual&utm_campaign=ProtozoanParasites20&utm_content=organic_social">
     Working with Protozoan Parasite Database Resources</a></h4>
