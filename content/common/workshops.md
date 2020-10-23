@@ -91,16 +91,25 @@ table#hor-minimalist-a tfoot tr {
 
   <h3>Upcoming Workshops</h3><br>
 
-  <div id="contents">
+ <div class="contents">
     
-    <h4><a target="_blank" href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/?utm_source=Social&utm_medium=Twitter_Virtual&utm_campaign=ProtozoanParasites20&utm_content=organic_social">
-    Working with Protozoan Parasite Database Resources</a></h4>
-    October 5-9, 2020. (Virtual).<br>
+    <h4>No upcoming events</h4>
+    <br>
   </div>
 
 <br>
   
+  
   <h3>Previous Workshops</h3><br>
+
+<div class="contents">
+    
+    <h4><a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/?utm_source=Social&utm_medium=Twitter_Virtual&utm_campaign=ProtozoanParasites20&utm_content=organic_social">
+    Working with Protozoan Parasite Database Resources</a></h4>
+    October 5-9, 2020 (Virtual).<br>
+  </div>
+
+<br>
 
   <div id="contents">
   <h4><a href="#mpm2020">Molecular Parasitology Pre-meeting VEuPathDB workshop</a></h4>
@@ -129,6 +138,13 @@ table#hor-minimalist-a tfoot tr {
 
 <h3>Previous Workshops</h3>
 <hr>
+
+<div class="contents">
+    
+    <h4><a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/?utm_source=Social&utm_medium=Twitter_Virtual&utm_campaign=ProtozoanParasites20&utm_content=organic_social">
+    Working with Protozoan Parasite Database Resources</a></h4>
+    October 5-9, 2020 (Virtual).<br>
+  </div>
 
 <div class="anchor"><a name="mpm2020"></a></div>
 <div class="workshop">
