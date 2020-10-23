@@ -41,9 +41,7 @@ tags: [general]
   
     If you missed any of our previous webinars feel free to explore the free recordings:
    <p><b>Thursday September 17th, 2020:</b> <a href="#microbiome">Introduction to MicrobiomeDB</a></p>
-   <p><b>Thursday September 10th, 2020:</b> None</p>
    <p><b>Thursday September 3rd, 2020:</b> <a href="#release48">Release 48 Webinar</a></p>
-   <p><b>Thursday August 27th, 2020:</b> None</p>
    <p><b>Thursday August 20th, 2020:</b> <a href="#metabo">Metabolic Pathways in VEuPathDB</a></p>   
    <p><b>Thursday August 13th, 2020:</b> <a href="#complexstrat">Building complex search strategies in VEuPathDB.</a></p>
    <p><b>Thursday August 6th, 2020:</b> <a href="#hostdb">HostDB: finding host genes responding to infection.</a></p>
