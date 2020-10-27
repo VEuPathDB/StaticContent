@@ -1,0 +1,4 @@
+we set these files as 
+ published: false
+so they do not generate html files in the static site.
+

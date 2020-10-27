@@ -13,9 +13,11 @@ title: VEuPathDB tutorials
 <br><br>
 {{ tut.description }}
 <ul>
+  {% for item in tut.links %}
   <li>
-    {% assign filename = tut.links[0].path %}
-    <a href="{{ '/documents/' | append: filename | absolute_url }}">{{ tut.links[0].path }}</a></li>
+    {% assign filename = item.path %}
+    <a href="{{ '/documents/' | append: filename | absolute_url }}">{{ item.path }}</a></li>
+  {% endfor %}
 </ul>
 <hr>
 {% endif %}{% unless forloop.last %}{% endunless %}{% endfor %}
