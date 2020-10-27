@@ -1,10 +1,27 @@
 cards:
+  - card: Gene Pages
+    description: Explore the data and images on gene pages 
+    date: 2020/10/27
+    links:
+      - name: Gene Pages
+        path: Exploring-the-Gene Page.pdf
+        description:
   - card: Genetic Variation
     description: SNPs and CNV based on whole genome sequencing
     date: 2020/10/27
     links:
       - name: Genetic Variation
         path: Genetic-Variation.pdf
+        description:
+  - card: Genome Annotation
+    description: Annotate your genome against a reference using Companion, an easy and reliable parasite genome annotation resource
+    date: 2020/10/27
+    links:
+      - name: Companion (Part 1)
+        path: Companion-1.pdf
+        description:
+      - name: Companion (Part 2)
+        path: Companion-2.pdf
         description:
   - card: Genome Browser
     description: Basic tutorial on how to effectively explore data in the genome browser including track selection and configuration.
