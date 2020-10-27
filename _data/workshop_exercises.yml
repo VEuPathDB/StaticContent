@@ -13,6 +13,13 @@ cards:
       - name: Genome browser basics
         path: JBrowseBasics.pdf
         description:
+  - card: Genome Browser Advanced
+    description: Self-led exercise on investigating genes models and structural annotations with RNA-seq expression data. 
+    date: 2020/10/27
+    links:
+      - name: Genome browser RNA Seq data to check gene model
+        path: JBrowseRNAseq.pdf
+        description:
   - card: Regular expressions & colocation
     description: Use regular expressions to identify protein or DNA patters. Use the colocation tool to identify DNA segments based on their relative location on the genome.
     date: 2020/04/15
