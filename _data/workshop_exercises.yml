@@ -6,6 +6,13 @@ cards:
       - name: Site Search
         path: SiteSearch.pdf
         description:
+  - card: Genetic Variation
+    description: SNPs and CNV based on whole genome sequencing
+    date: 2020/10/27
+    links:
+      - name: Genetic Variation
+        path: Genetic-Variation.pdf
+        description:
   - card: Genome Browser
     description: Basic tutorial on how to effectively explore data in the genome browser including track selection and configuration.
     date: 2020/04/15
@@ -17,8 +24,15 @@ cards:
     description: Self-led exercise on investigating genes models and structural annotations with RNA-seq expression data. 
     date: 2020/10/27
     links:
-      - name: Genome browser RNA Seq data to check gene model
+      - name: RNA-Seq data & gene models
         path: JBrowse-RNAseq.pdf
+        description:
+  - card: GO Enrichment
+    description: Run a GO enrichment on a set of genes from a fold change RNA-Seq search 
+    date: 2020/10/27
+    links:
+      - name: GO Enrichment
+        path: GO-Enrichment.pdf
         description:
   - card: Regular expressions & colocation
     description: Use regular expressions to identify protein or DNA patters. Use the colocation tool to identify DNA segments based on their relative location on the genome.
