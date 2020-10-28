@@ -72,6 +72,20 @@ cards:
       - name: Regular expressions & genomic colocation
         path: RegEXcolocate.pdf
         description: 
+  - card: Search Strategies (Basics)
+    description: Run basic searches, extend them into strategies, and explore search results
+    date: 2020/10/28
+    links:
+      - name: Search Strategies (Basics)
+        path: SearchStrategies.pdf
+        description:
+  - card: Search Strategies (Advanced)
+    description: Integrate diverse data types and leverage orthology or phylogenetic profiling.
+    date: 2020/10/28
+    links:
+      - name: Search Strategies (Advanced)
+        path: Advanced-Search-Strategies.pdf
+        description:
   - card: Site Search
     description: Explore site search and learn how to filter your results or export them to a search strategy
     date: 2020/10/27
