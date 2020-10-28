@@ -51,6 +51,20 @@ cards:
       - name: Host Response (HostDB)
         path: Host-response.pdf
         description:
+  - card: Metabolic Pathways
+    description: Learn to use metabolic pathway searches and visualization tools. 
+    date: 2020/10/28
+    links:
+      - name: Metabolic Pathways
+        path: Metabolic-Pathways.pdf
+        description:
+  - card: Orthology Phyletic Patterns
+    description: Leverage the transform by orthology tool, orthology tables on gene pages, OrthoMCL, and the phyletic pattern search. 
+    date: 2020/10/28
+    links:
+      - name: Orthology and Phyletic Patterns
+        path: Orthology-Phyletic-Patterns.pdf
+        description:
   - card: Regular expressions & colocation
     description: Use regular expressions to identify protein or DNA patters. Use the colocation tool to identify DNA segments based on their relative location on the genome.
     date: 2020/04/15
