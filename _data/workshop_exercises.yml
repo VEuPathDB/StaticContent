@@ -93,6 +93,13 @@ cards:
       - name: Site Search
         path: SiteSearch.pdf
         description:
+  - card: Transcriptomics and Proteomics
+    description: Explore searches that return genes based on expression evidence from RNA-Seq, microaray and proteomics searches.
+    date: 2020/10/28
+    links:
+      - name: Expression searches
+        path: Transcriptomic-proteomics.pdf
+        description:
   - card: Variant Calling
     description: Analyze DNA sequence for variants using a workflow in VEuPathDB Galaxy 
     date: 2020/05/15
