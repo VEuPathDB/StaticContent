@@ -4,7 +4,7 @@ cards:
     date: 2020/10/27
     links:
       - name: Gene Pages
-        path: Exploring-the-Gene Page.pdf
+        path: Exploring-the-Gene-Page.pdf
         description:
   - card: Genetic Variation
     description: SNPs and CNV based on whole genome sequencing
