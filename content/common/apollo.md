@@ -41,16 +41,17 @@ div.centered-button a {
       <p>
         All <a href="/a/app/search/organism/GenomeDataTypes/result">species in VectorBase</a> are available for community curation.
       </p>
-    </div>
-  
-  <div>
+      
       <p>
 <ul> 
   <li>First item</li> 
   <li>Second item</li> 
 </ul>
   </p>
+      
     </div>
+  
+
   
   
     <div style="text-align: center;">
