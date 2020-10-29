@@ -39,14 +39,14 @@ div.centered-button a {
         Utilise Apollo to integrate new or update current structural and functional data for gene models in the organisms available in VEuPathDB.
       </p>
       <p>
-        All <a href="/a/app/search/organism/GenomeDataTypes/result">species in VectorBase</a> are available for community curation.
+        All <a href="/a/app/search/organism/GenomeDataTypes/result">species in this website</a> are available for community curation.
       </p>
       
       <p>
 Apollo help and documentation:
 <ul> 
   <li><a href="https://youtu.be/RMXZDBMh8Fo">Video tutorial</a></li> 
-  <li><a href="https://qa.vectorbase.org/vectorbase.b49/app/static-content/ApolloQuickCommands">Quick commands</a></li> 
+  <li><a href="/a/app/static-content/apolloQuickCommands.html">Quick commands</a></li> 
   <li><a href="https://apollo.veupathdb.org/1613634913933131701353630290/about">About Apollo</a></li> 
   <li><a href="https://genomearchitect.readthedocs.io/en/latest/UsersGuide.html">User Guide</a></li> 
   <li><a href="https://github.com/gmod/apollo/issues/new">Request feature/Report a bug</a></li> 
@@ -66,9 +66,7 @@ Apollo help and documentation:
   </div>
 
   <div class="centered-button">
-    <button class="eupathdb-BigButton" title="Open Apollo in a new tab/window.">
-      <a href="https://apollo.veupathdb.org/">Go to Apollo</a>
-    </button>
+      <a class="eupathdb-BigButton" title="Open Apollo in a new tab/window"  href="https://apollo.veupathdb.org/">Go to Apollo</a>
   </div>
 
 </div>
