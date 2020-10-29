@@ -31,7 +31,7 @@ div.centered-button a {
 <h1>Structural and functional community curation in Apollo</h1>
 
 <div class="static-content">
-  <h2>Welcome to the VEuPathDB Apollo <a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/30726205">(Dunn et al. 2019)</a> service, a real time collaborative genome annotation and curation platform.</h2>
+  <h3>Welcome to the VEuPathDB Apollo <a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/30726205">(Dunn et al. 2019)</a> service, a real time collaborative genome annotation and curation platform.</h3>
 
   <div class="apollo-layout">
     <div>
