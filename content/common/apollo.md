@@ -42,6 +42,14 @@ div.centered-button a {
         All <a href="/a/app/search/organism/GenomeDataTypes/result">species in VectorBase</a> are available for community curation.
       </p>
     </div>
+  
+  
+<ul> 
+  <li>First item</li> 
+  <li>Second item</li> 
+</ul>
+  
+  
     <div style="text-align: center;">
       <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" alt="Example of an apollo screen" />      
     </div>
