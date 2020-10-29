@@ -44,14 +44,14 @@ div.centered-button a {
       
       <p>
 <ul> 
-  Apollo help and documentation:
-  <li>Video tutorial</li> 
-  <li>Quick commands</li> 
-  <li>About Apollo</li> 
-  <li>User Guide</li> 
-  <li>Request feature/Report a bug</li> 
-  <li>Powered by JBrowse</li> 
-  <li>Web Service API</li> 
+Apollo help and documentation:
+  <li><a href="https://youtu.be/RMXZDBMh8Fo">Video tutorial</a>Video tutorial</li> 
+  <li><a href="/a/app/search/organism/GenomeDataTypes/result">Quick commands</a>Quick commands</li> 
+  <li><a href="https://apollo.veupathdb.org/1613634913933131701353630290/about">About Apollo</a>About Apollo</li> 
+  <li><a href="https://genomearchitect.readthedocs.io/en/latest/UsersGuide.html">User Guide</a>User Guide</li> 
+  <li><a href="https://github.com/gmod/apollo/issues/new">Request feature/Report a bug</a>Request feature/Report a bug</li> 
+  <li><a href="https://jbrowse.org/jb2/">Powered by JBrowse</a>Powered by JBrowse</li> 
+  <li><a href="https://apollo.veupathdb.org/56133187121381847651851098590/jbrowse/web_services/api">Web Service API</a>Web Service API</li> 
 </ul>
   </p>
       
