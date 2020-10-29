@@ -43,11 +43,14 @@ div.centered-button a {
       </p>
     </div>
   
-  
+  <div>
+      <p>
 <ul> 
   <li>First item</li> 
   <li>Second item</li> 
 </ul>
+  </p>
+    </div>
   
   
     <div style="text-align: center;">
