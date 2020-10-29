@@ -1,6 +1,6 @@
 ---
 title: VEuPathDB Apollo Quick Commands
-permalink: /ApolloQuickCommands
+permalink: /apolloQuickCommands
 tags: [general]
 ---
 
