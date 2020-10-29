@@ -46,7 +46,7 @@ div.centered-button a {
 Apollo help and documentation:
 <ul> 
   <li><a href="https://youtu.be/RMXZDBMh8Fo">Video tutorial</a></li> 
-  <li><a href="xxx">Quick commands</a></li> 
+  <li><a href="https://qa.vectorbase.org/vectorbase.b49/app/static-content/ApolloQuickCommands">Quick commands</a></li> 
   <li><a href="https://apollo.veupathdb.org/1613634913933131701353630290/about">About Apollo</a></li> 
   <li><a href="https://genomearchitect.readthedocs.io/en/latest/UsersGuide.html">User Guide</a></li> 
   <li><a href="https://github.com/gmod/apollo/issues/new">Request feature/Report a bug</a></li> 
