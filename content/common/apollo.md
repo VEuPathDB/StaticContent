@@ -31,7 +31,7 @@ div.centered-button a {
 <h1>Structural and functional community curation in Apollo</h1>
 
 <div class="static-content">
-  <h2>Welcome to the VEuPathDB <a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/30726205">Apollo</a> service, a real time collaborative genome annotation and curation platform.</h2>
+  <h2>Welcome to the VEuPathDB Apollo <a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/30726205">(Dunn et al. 2019)</a> service, a real time collaborative genome annotation and curation platform.</h2>
 
   <div class="apollo-layout">
     <div>
@@ -44,8 +44,14 @@ div.centered-button a {
       
       <p>
 <ul> 
-  <li>First item</li> 
-  <li>Second item</li> 
+  Apollo help and documentation:
+  <li>Video tutorial</li> 
+  <li>Quick commands</li> 
+  <li>About Apollo</li> 
+  <li>User Guide</li> 
+  <li>Request feature/Report a bug</li> 
+  <li>Powered by JBrowse</li> 
+  <li>Web Service API</li> 
 </ul>
   </p>
       
@@ -61,7 +67,7 @@ div.centered-button a {
 
   <div class="centered-button">
     <button class="eupathdb-BigButton" title="Open Apollo in a new tab/window.">
-      <a href="https://apollo.veupathdb.org/">Continue to Apollo</a>
+      <a href="https://apollo.veupathdb.org/">Go to Apollo</a>
     </button>
   </div>
 
