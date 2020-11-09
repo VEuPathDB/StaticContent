@@ -117,8 +117,8 @@ table#hor-minimalist-a tfoot tr {
 <thead>
 <tr>
 <th style="text-align:left">Time (EST)</th>
-<th style="text-align:center">Activity</th>
-<th style="text-align:center">Presenter</th>
+<th style="text-align:left">Activity</th>
+<th style="text-align:left">Presenter</th>
 </tr>
 </thead>
 
@@ -233,7 +233,7 @@ Workshop conclusion
 <td>2:00 - 3:00 PM</td>
 <td> <b>OPTIONAL SESSION</b>
 <br>
-Individual (or breakout group) exercise - explore a study of your choice and report back with something interesting that you find.
+Individual (or breakout group) exercise - explore a study of your choice and <br>report back with something interesting that you find.
 <br></td>
 <td></td>
 </tr>
