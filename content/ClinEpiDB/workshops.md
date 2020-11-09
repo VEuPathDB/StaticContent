@@ -44,12 +44,12 @@ tr.break td {
 }
 
 table#hor-minimalist-a {
-  text-align: left;
+  text-align: center;
 }
 table#hor-minimalist-a th {
   font-size: 110%;
   font-weight: 400;
-  color: #039;
+  color: #000;
   border-bottom: 2px solid #6678b1;
   padding: 0.5em;
   text-align: center;
@@ -58,7 +58,7 @@ table#hor-minimalist-a tr {
   border-bottom: 1px solid #ddd;
 }
 table#hor-minimalist-a tr:hover td {
-  color: #039; 
+  color: #000; 
 }
 table#hor-minimalist-a tr.other td {
   background-color: #fafafa;         
@@ -69,7 +69,7 @@ table#hor-minimalist-a tbody {
   border-color: inherit;
 }
 table#hor-minimalist-a td {
-  color: #669; 
+  color: #00; 
   padding: 0.5em 0.5em 0.5em;
   vertical-align: middle;
 }
@@ -105,119 +105,124 @@ table#hor-minimalist-a tfoot tr {
         <li>Learn about large-scale epidemiological data sets available for secondary data analyses and translational research discovery</li>
         <li>Build skills exploring data through the interactive tables, graphs, and intuitive visual query interface available on ClinEpiDB.org </li>
       </ul>
+    Please complete these 3 quick exercises prior to the start of the workshop found <a target="_blank" href="{{'/documents/clinEpi/Pre-Workshop homework.pdf' | absolute_url}}" target="_blank">please here.</a>
     </p>
+
+  
+
+
 <details open>
     <summary><b>Schedule and exercises</b></summary>
     <table id="hor-minimalist-a">
 
 <thead>
 <tr>
-<th style="text-align:left">Time</th>
-<th style="text-align:left">Activity</th>
-<th style="text-align:left">Presenter</th>
+<th style="text-align:center">Time (EST)</th>
+<th style="text-align:center">Activity</th>
+<th style="text-align:center">Presenter</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td>10-10:15AM</td>
+<td>10-10:15 AM</td>
 <td> <b> Session 1</b>
 <br>Introduction to workshop 
-<br> Introduction to ClinEpiDB.org and live demo</td>
+<br> Introduction to ClinEpiDB
+</td>
 <td>David Roos, Danica Helb</td>
 
 </tr>
 
-<tbody>
+
 <tr>
-<td>10:15-10:35AM</td>
+<td>10:15-10:35 AM</td>
 <td><b>Breakout 1</b>
-<br> Breakout Teams Introductions
-<br> Exploring the All Studies Table and Study Page </td>
+<br> Breakout group introductions
+<br> Exercise: Exploring the All Studies Table and Study Page </td>
 <td></td>
 </tr>
 
-<tbody>
+
 <tr>
-<td>10:35-10:55AM</td>
+<td>10:35-10:55 AM</td>
 <td><b>Session 2</b>
-<br> Acessing and Exploring Data
+<br> Accessing and exploring data
 </td>
 <td> Sheena Tomko</td>
 </tr>
 
-<tbody>
 <tr>
-<td>10:55-11:10AM</td>
+<td>10:55-11:10 AM</td>
 <td> BREAK
 </td>
 <td></td>
 </tr>
 
-<tbody>
+
 <tr>
-<td>11:10-11:20AM</td>
+<td>11:10-11:20 AM</td>
 <td> <b>Invited Speaker:</b>  LLINEUP study
 </td>
 <td></td>
 </tr>
 
-<tbody>
+
 <tr>
-<td>11:20-12:05PM</td>
-<td> <b>Breakout 2:</b>Review Search types, units of analysis, study designs 
+<td>11:20-12:05 PM</td>
+<td> <b>Breakout 2</b>
+<br>Review Search types, units of analysis, study designs 
 <br>
-LLINE-UP simple search 
+Exercise: LLINE-UP simple search 
 <br>
-The search wizard- variable exploration exercise
+Exercise: The Search Wizard- variable exploration
 <br>
-MAL-ED and GEMS1 simple search
+Exercise: MAL-ED and GEMS1 simple search
 </td>
 <td></td>
 </tr>
 
-<tbody>
+
 <tr>
-<td>12:05-12:40PM</td>
+<td>12:05-12:40 PM</td>
 <td> <b>Session 3</b>
 <br>
-Hands on guided walk-through of complex search
+Complex search with MAL-ED
 <br>
-Introduction to shiny apps
+Visualization and analysis applications using SCORE data
 </td>
 <td>Danica Helb,
 Nupur Kittur
 </td>
 </tr>
 
-<tbody>
 <tr>
-<td>12:40-12:55PM</td>
+<td>12:40-12:55 PM</td>
 <td> BREAK
 </td>
 <td></td>
 </tr>
 
-<tbody>
+
 <tr>
-<td>12:55-1:40PM</td>
+<td>12:55-1:40 PM</td>
 <td> <b>Breakout 3</b>
 <br>
-Viz and analysis apps 
+Exercise: Visualization and analysis apps
 <br>
-Complex searches using PROVIDE 
+Exercise: Complex searches using PROVIDE 
 <br>
-PRISM analysis apps 
+Exercise: PRISM analysis apps 
 </td>
 <td></td>
 </tr>
 
-<tbody>
+
 <tr>
-<td>1:40-2:00PM</td>
+<td>1:40-2:00 PM</td>
 <td> <b>Session 4</b>
 <br>
-How to download data 
+Downloading data
 <br>
 Workshop conclusion
 </td>
@@ -225,31 +230,27 @@ Workshop conclusion
 </td>
 </tr>
 
-<tbody>
+
 <tr>
-<td>2:00 - 3:00PM</td>
+<td>2:00 - 3:00 PM</td>
 <td> <b>OPTIONAL SESSION</b>
 <br>
-Individual (or breakout team) exercise- explore a study of your (your team’s) choice and report back with something interesting that you find (hands-on learning)
-<br>
-</td>
-<td>
-</td>
+Individual (or breakout group) exercise - explore a study of your choice and report back with something interesting that you find.
+<br></td>
+<td></td>
 </tr>
-
 
 </table>
 
-    <p>
-      <b>To learn more about ClinEpiDB.org:</b> 
-      <ul>
-        <li>Read our recent publication on <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661/v2" target="_blank">Gates Open Research.</a></li>
-        <li>Watch a ClinEpiDB.org <a target="_blank" href="https://www.youtube.com/watch?v=535PcFrBH8M&feature=youtu.be" target="_blank">introductory video.</a> </li>
+<br>
+<p>
+<b>To learn more about ClinEpiDB.org:</b> 
+  <ul>
+    <li>Read our recent publication on <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661/v2" target="_blank">Gates Open Research.</a></li>
+    <li>Watch a ClinEpiDB.org <a target="_blank" href="https://www.youtube.com/watch?v=535PcFrBH8M&feature=youtu.be" target="_blank">introductory video.</a> </li>
       </ul>
     </p>
 
-    <p>Email your questions to <a target="_blank" href="/a/app/contact-us">help@clinepidb.org.</a>
-    </p>
+ <p>Email your questions to <a target="_blank" href="/a/app/contact-us">help@clinepidb.org.</a>
+  </p>
   </div>
-
-</div>
