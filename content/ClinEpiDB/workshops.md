@@ -152,7 +152,7 @@ table#hor-minimalist-a tfoot tr {
 
 <tr>
 <td>10:55-11:10 AM</td>
-<td> BREAK
+<td> <b>BREAK </b>
 </td>
 <td></td>
 </tr>
@@ -196,7 +196,7 @@ Nupur Kittur
 
 <tr>
 <td>12:40-12:55 PM</td>
-<td> BREAK
+<td> <b>BREAK</b>
 </td>
 <td></td>
 </tr>
@@ -240,6 +240,7 @@ Individual (or breakout group) exercise - explore a study of your choice and <br
 </tbody>
 </table>
 
+<br>
 <div class="contents">
 <br>
 <p>
