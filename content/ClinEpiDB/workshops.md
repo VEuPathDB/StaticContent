@@ -44,7 +44,7 @@ tr.break td {
 }
 
 table#hor-minimalist-a {
-  text-align: center;
+  text-align: left;
 }
 table#hor-minimalist-a th {
   font-size: 110%;
@@ -52,7 +52,7 @@ table#hor-minimalist-a th {
   color: #000;
   border-bottom: 2px solid #000;
   padding: 0.5em;
-  text-align: center;
+  text-align: left;
 }
 table#hor-minimalist-a tr {
   border-bottom: 1px solid #ddd;
@@ -116,9 +116,9 @@ table#hor-minimalist-a tfoot tr {
     <table id="hor-minimalist-a">
 <thead>
 <tr>
-<th style="text-align:left">Time (EST)</th>
-<th style="text-align:left">Activity</th>
-<th style="text-align:left">Presenter</th>
+<th style="text-align:center">Time (EST)</th>
+<th style="text-align:center">Activity</th>
+<th style="text-align:center">Presenter</th>
 </tr>
 </thead>
 
