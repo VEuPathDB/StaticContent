@@ -116,7 +116,7 @@ table#hor-minimalist-a tfoot tr {
     <table id="hor-minimalist-a">
 <thead>
 <tr>
-<th style="text-align:center">Time (EST)</th>
+<th style="text-align:left">Time (EST)</th>
 <th style="text-align:center">Activity</th>
 <th style="text-align:center">Presenter</th>
 </tr>
