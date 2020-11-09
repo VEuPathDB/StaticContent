@@ -50,7 +50,7 @@ table#hor-minimalist-a th {
   font-size: 110%;
   font-weight: 400;
   color: #000;
-  border-bottom: 2px solid #6678b1;
+  border-bottom: 2px solid #000;
   padding: 0.5em;
   text-align: center;
 }
@@ -233,7 +233,7 @@ Workshop conclusion
 <td>2:00 - 3:00 PM</td>
 <td> <b>OPTIONAL SESSION</b>
 <br>
-Individual (or breakout group) exercise - explore a study of your choice and <br>report back with something interesting that you find.
+Individual (or breakout group) exercise - explore a study of your choice and <br>report back with something interesting that you find
 <br></td>
 <td></td>
 </tr>
