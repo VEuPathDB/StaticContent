@@ -106,7 +106,7 @@ table#hor-minimalist-a tfoot tr {
         <li>Build skills exploring data through the interactive tables, graphs, and intuitive visual query interface available on ClinEpiDB.org </li>
       </ul>
     <br>
-    Please complete these 3 quick exercises prior to the start of the workshop found <a target="_blank" href="{{'/documents/clinEpi/Pre-Workshop homework.pdf' | absolute_url}}" target="_blank">here.</a>
+    Please complete these <a target="_blank" href="{{'/documents/clinEpi/Pre-Workshop homework.pdf' | absolute_url}}" target="_blank">3 quick exercises</a> prior to the start of the workshop.
     </p>
   </div>
 
