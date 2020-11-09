@@ -105,16 +105,15 @@ table#hor-minimalist-a tfoot tr {
         <li>Learn about large-scale epidemiological data sets available for secondary data analyses and translational research discovery</li>
         <li>Build skills exploring data through the interactive tables, graphs, and intuitive visual query interface available on ClinEpiDB.org </li>
       </ul>
-    Please complete these 3 quick exercises prior to the start of the workshop found <a target="_blank" href="{{'/documents/clinEpi/Pre-Workshop homework.pdf' | absolute_url}}" target="_blank">please here.</a>
+    <br>
+    Please complete these 3 quick exercises prior to the start of the workshop found <a target="_blank" href="{{'/documents/clinEpi/Pre-Workshop homework.pdf' | absolute_url}}" target="_blank">here.</a>
     </p>
-
-  
+  </div>
 
 
 <details open>
     <summary><b>Schedule and exercises</b></summary>
     <table id="hor-minimalist-a">
-
 <thead>
 <tr>
 <th style="text-align:center">Time (EST)</th>
@@ -131,7 +130,6 @@ table#hor-minimalist-a tfoot tr {
 <br> Introduction to ClinEpiDB
 </td>
 <td>David Roos, Danica Helb</td>
-
 </tr>
 
 
@@ -239,9 +237,10 @@ Individual (or breakout group) exercise - explore a study of your choice and rep
 <br></td>
 <td></td>
 </tr>
-
+</tbody>
 </table>
 
+<div class="contents">
 <br>
 <p>
 <b>To learn more about ClinEpiDB.org:</b> 
