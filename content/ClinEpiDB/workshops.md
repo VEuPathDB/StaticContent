@@ -233,7 +233,7 @@ Workshop conclusion
 <td>2:00 - 3:00 PM</td>
 <td> <b>OPTIONAL SESSION</b>
 <br>
-Individual (or breakout group) exercise - explore a study of your choice and <br>report back with something interesting that you find
+Individual (or breakout group) exercise - explore a study of your <br>choice and report back with something interesting that you find
 <br></td>
 <td></td>
 </tr>
