@@ -106,6 +106,139 @@ table#hor-minimalist-a tfoot tr {
         <li>Build skills exploring data through the interactive tables, graphs, and intuitive visual query interface available on ClinEpiDB.org </li>
       </ul>
     </p>
+<details open>
+    <summary><b>Schedule and exercises</b></summary>
+    <table id="hor-minimalist-a">
+
+<thead>
+<tr>
+<th style="text-align:left">Time</th>
+<th style="text-align:left">Activity</th>
+<th style="text-align:left">Presenter</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>10-10:15AM</td>
+<td> <b> Session 1</b>
+<br>Introduction to workshop 
+<br> Introduction to ClinEpiDB.org and live demo</td>
+<td>David Roos, Danica Helb</td>
+
+</tr>
+
+<tbody>
+<tr>
+<td>10:15-10:35AM</td>
+<td><b>Breakout 1</b>
+<br> Breakout Teams Introductions
+<br> Exploring the All Studies Table and Study Page </td>
+<td></td>
+</tr>
+
+<tbody>
+<tr>
+<td>10:35-10:55AM</td>
+<td><b>Session 2</b>
+<br> Acessing and Exploring Data
+</td>
+<td> Sheena Tomko</td>
+</tr>
+
+<tbody>
+<tr>
+<td>10:55-11:10AM</td>
+<td> BREAK
+</td>
+<td></td>
+</tr>
+
+<tbody>
+<tr>
+<td>11:10-11:20AM</td>
+<td> <b>Invited Speaker:</b>  LLINEUP study
+</td>
+<td></td>
+</tr>
+
+<tbody>
+<tr>
+<td>11:20-12:05PM</td>
+<td> <b>Breakout 2:</b>Review Search types, units of analysis, study designs 
+<br>
+LLINE-UP simple search 
+<br>
+The search wizard- variable exploration exercise
+<br>
+MAL-ED and GEMS1 simple search
+</td>
+<td></td>
+</tr>
+
+<tbody>
+<tr>
+<td>12:05-12:40PM</td>
+<td> <b>Session 3</b>
+<br>
+Hands on guided walk-through of complex search
+<br>
+Introduction to shiny apps
+</td>
+<td>Danica Helb,
+Nupur Kittur
+</td>
+</tr>
+
+<tbody>
+<tr>
+<td>12:40-12:55PM</td>
+<td> BREAK
+</td>
+<td></td>
+</tr>
+
+<tbody>
+<tr>
+<td>12:55-1:40PM</td>
+<td> <b>Breakout 3</b>
+<br>
+Viz and analysis apps 
+<br>
+Complex searches using PROVIDE 
+<br>
+PRISM analysis apps 
+</td>
+<td></td>
+</tr>
+
+<tbody>
+<tr>
+<td>1:40-2:00PM</td>
+<td> <b>Session 4</b>
+<br>
+How to download data 
+<br>
+Workshop conclusion
+</td>
+<td>Steph Schulman, David Roos
+</td>
+</tr>
+
+<tbody>
+<tr>
+<td>2:00 - 3:00PM</td>
+<td> <b>OPTIONAL SESSION</b>
+<br>
+Individual (or breakout team) exercise- explore a study of your (your team’s) choice and report back with something interesting that you find (hands-on learning)
+<br>
+</td>
+<td>
+</td>
+</tr>
+
+
+</table>
 
     <p>
       <b>To learn more about ClinEpiDB.org:</b> 
