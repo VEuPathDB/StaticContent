@@ -1,6 +1,7 @@
 ---
 permalink: /tutorials
 title: VEuPathDB tutorials
+tags: [tutorial]
 ---
 <h1>VEuPathDB tutorials</h1>
 
