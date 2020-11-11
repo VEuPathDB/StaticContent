@@ -2,7 +2,7 @@
 layout: plain
 title: VEuPathDB Workshops 
 permalink: /workshops
-tags: [general]
+tags: [workshop-exercise]
 ---
 <style>
   h1 {
