@@ -196,7 +196,6 @@ Accessing and exploring data
 <td> <b>Session 3</b>
 <br>
 <a target="_blank" href="{{'/documents/clinEpi/Session2_Guided_complex_search.pdf' | absolute_url}}" target="_blank">Complex search with MAL-ED</a>  
-Complex search with MAL-ED
 <br>
 Visualization and analysis applications using SCORE data
 </td>
