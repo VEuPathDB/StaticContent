@@ -145,7 +145,8 @@ table#hor-minimalist-a tfoot tr {
 <tr>
 <td>10:35-10:55 AM</td>
 <td><b>Session 2</b>
-<br> Accessing and exploring data
+<br>
+<a target="_blank" href="{{'/documents/clinEpi/Session2_Guided_complex_search.pdf' | absolute_url}}" target="_blank">Accessing and exploring data </a>  
 </td>
 <td> Sheena Tomko</td>
 </tr>
@@ -160,22 +161,22 @@ table#hor-minimalist-a tfoot tr {
 
 <tr>
 <td>11:10-11:20 AM</td>
-<td> <b>Invited Speaker:</b>  LLINEUP study
-</td>
-<td></td>
+<td> Introduction to the LLINEUP study</td>
+<td>Samuel Gonahasa</td>
 </tr>
 
 
 <tr>
 <td>11:20-12:05 PM</td>
 <td> <b>Breakout 2</b>
-<br>Review Search types, units of analysis, study designs 
 <br>
-Exercise: LLINE-UP simple search 
+<a target="_blank" href="{{'/documents/clinEpi/Breakout2_Review_search_types.pdf' | absolute_url}}" target="_blank">Review Search types, units of analysis, study designs </a>  
+<br>
+<a target="_blank" href="{{'/documents/clinEpi/Exercise2.1_LLINEUP_simple_search.pdf' | absolute_url}}" target="_blank">Exercise: LLINE-UP simple search</a> 
 <br>
 Exercise: The Search Wizard- variable exploration
 <br>
-Exercise: MAL-ED and GEMS1 simple search
+<a target="_blank" href="{{'/documents/clinEpi/Exercise 2.3 GEMS and MAL-ED simple search.pdf' | absolute_url}}" target="_blank">Exercise: MAL-ED and GEMS1 simple search </a> 
 </td>
 <td></td>
 </tr>
@@ -206,11 +207,11 @@ Nupur Kittur
 <td>12:55-1:40 PM</td>
 <td> <b>Breakout 3</b>
 <br>
-Exercise: Visualization and analysis apps
+<a target="_blank" href="{{'/documents/clinEpi/Exercise 3.1 - Visualization Apps- SCORE Burundi.pdf' | absolute_url}}" target="_blank">Exercise: Visualization and analysis apps</a> 
 <br>
-Exercise: Complex searches using PROVIDE 
+<a target="_blank" href="{{'/documents/clinEpi/Exercise3.2_PROVIDE_complex_search.pdf' | absolute_url}}" target="_blank">Exercise: Complex searches using PROVIDE</a> 
 <br>
-Exercise: PRISM analysis apps 
+<a target="_blank" href="{{'/documents/clinEpi/Exercise3.2_PROVIDE_complex_search.pdf' | absolute_url}}" target="_blank">Exercise: PRISM analysis apps</a> 
 </td>
 <td></td>
 </tr>
