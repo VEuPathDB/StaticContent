@@ -178,7 +178,7 @@ Accessing and exploring data
 <td>11:20-12:05 PM</td>
 <td> <b>Breakout 2</b>
 <br>
-<a target="_blank" href="{{'/documents/clinEpi/Breakout2_Review_search_types.pdf' | absolute_url}}" target="_blank">Review Search types, units of analysis, study designs </a>  
+<a target="_blank" href="{{'/documents/clinEpi/Breakout2_Review_search_types_update.pdf' | absolute_url}}" target="_blank">Review Search types, units of analysis, study designs </a>  
 <br>
 <a target="_blank" href="{{'/documents/clinEpi/Exercise2.1_LLINEUP_simple_search.pdf' | absolute_url}}" target="_blank">Exercise: LLINEUP simple search</a> 
 <br>
