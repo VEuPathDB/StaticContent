@@ -143,7 +143,9 @@ table#hor-minimalist-a tfoot tr {
 <td>10:15-10:35 AM</td>
 <td><b>Breakout 1</b>
 <br> Breakout group introductions
-<br> Exercise: Exploring the All Studies Table and Study Page </td>
+<br> 
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSddLROBdRoWqfB9eVLzkpWCaRvFgaoxVnQqgUYbuINRW0v0hQ/viewform" target="_blank">Exercise: Exploring the All Studies Table and Study Page</a>
+</td>
 <td></td>
 </tr>
 
@@ -152,7 +154,7 @@ table#hor-minimalist-a tfoot tr {
 <td>10:35-10:55 AM</td>
 <td><b>Session 2</b>
 <br>
-<a target="_blank" href="{{'/documents/clinEpi/Session2_Guided_complex_search.pdf' | absolute_url}}" target="_blank">Accessing and exploring data </a>  
+Accessing and exploring data
 </td>
 <td> Sheena Tomko</td>
 </tr>
@@ -178,9 +180,10 @@ table#hor-minimalist-a tfoot tr {
 <br>
 <a target="_blank" href="{{'/documents/clinEpi/Breakout2_Review_search_types.pdf' | absolute_url}}" target="_blank">Review Search types, units of analysis, study designs </a>  
 <br>
-<a target="_blank" href="{{'/documents/clinEpi/Exercise2.1_LLINEUP_simple_search.pdf' | absolute_url}}" target="_blank">Exercise: LLINE-UP simple search</a> 
+<a target="_blank" href="{{'/documents/clinEpi/Exercise2.1_LLINEUP_simple_search.pdf' | absolute_url}}" target="_blank">Exercise: LLINEUP simple search</a> 
 <br>
-Exercise: The Search Wizard- variable exploration
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf6DvYihI0rNwFUcxtaP2V5LOFmVIzS7N_NmZlgQpPNGlxFnA/viewform" target="_blank">Exercise: The Search Wizard- variable exploration</a>
+
 <br>
 <a target="_blank" href="{{'/documents/clinEpi/Exercise 2.3 GEMS and MAL-ED simple search.pdf' | absolute_url}}" target="_blank">Exercise: MAL-ED and GEMS1 simple search </a> 
 </td>
@@ -192,6 +195,7 @@ Exercise: The Search Wizard- variable exploration
 <td>12:05-12:40 PM</td>
 <td> <b>Session 3</b>
 <br>
+<a target="_blank" href="{{'/documents/clinEpi/Session2_Guided_complex_search.pdf' | absolute_url}}" target="_blank">Complex search with MAL-ED</a>  
 Complex search with MAL-ED
 <br>
 Visualization and analysis applications using SCORE data
@@ -217,7 +221,7 @@ Nupur Kittur
 <br>
 <a target="_blank" href="{{'/documents/clinEpi/Exercise3.2_PROVIDE_complex_search.pdf' | absolute_url}}" target="_blank">Exercise: Complex searches using PROVIDE</a> 
 <br>
-<a target="_blank" href="{{'/documents/clinEpi/Exercise3.2_PROVIDE_complex_search.pdf' | absolute_url}}" target="_blank">Exercise: PRISM analysis apps</a> 
+<a target="_blank" href="{{'/documents/clinEpi/Exercise 3.3 PRISM visualization apps.pdf' | absolute_url}}" target="_blank">Exercise: PRISM analysis apps</a> 
 </td>
 <td></td>
 </tr>
