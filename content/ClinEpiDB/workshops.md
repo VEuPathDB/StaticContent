@@ -119,27 +119,27 @@ table#hor-minimalist-a tfoot tr {
 <th style="text-align:left">Time (EST)</th>
 <th style="text-align:left">Activity</th>
 <th style="text-align:left">Presenter</th>
+<th style="text-align:left">Recording</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
 <td>10-10:15 AM</td>
-<td> <b> Session 1</b>
+<td><b>Session 1</b>
 <br>Introduction to workshop 
-<br> Introduction to ClinEpiDB
-</td>
+<br>Introduction to ClinEpiDB</td>
 <td>David Roos, Danica Helb</td>
+<td><iframe width="180" height="115" src="https://youtu.be/mON1TRxT8qs?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></td>
 </tr>
 
 
 <tr>
 <td>10:15-10:35 AM</td>
 <td><b>Breakout 1</b>
-<br> Breakout group introductions
-<br> 
-<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSddLROBdRoWqfB9eVLzkpWCaRvFgaoxVnQqgUYbuINRW0v0hQ/viewform" target="_blank">Exercise: Exploring the All Studies Table and Study Page</a>
-</td>
+<br>Breakout group introductions
+<br><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSddLROBdRoWqfB9eVLzkpWCaRvFgaoxVnQqgUYbuINRW0v0hQ/viewform" target="_blank">Exercise: Exploring the All Studies Table and Study Page</a></td>
+<td></td>
 <td></td>
 </tr>
 
@@ -147,98 +147,82 @@ table#hor-minimalist-a tfoot tr {
 <tr>
 <td>10:35-10:55 AM</td>
 <td><b>Session 2</b>
-<br>
-Accessing and exploring data
-</td>
-<td> Sheena Tomko</td>
+<br>Accessing and exploring data</td>
+<td>Sheena Tomko</td>
+<td><iframe width="180" height="115" src="https://youtu.be/WU1hXR4JNs0?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></td>
 </tr>
 
 <tr>
 <td>10:55-11:10 AM</td>
-<td> <b>BREAK </b>
-</td>
+<td><b>BREAK</b></td>
+<td></td>
 <td></td>
 </tr>
 
 
 <tr>
 <td>11:10-11:20 AM</td>
-<td> Introduction to the LLINEUP study</td>
+<td>Introduction to the LLINEUP study</td>
 <td>Samuel Gonahasa</td>
+<td></td>
 </tr>
 
 
 <tr>
 <td>11:20-12:05 PM</td>
-<td> <b>Breakout 2</b>
-<br>
-<a target="_blank" href="{{'/documents/clinEpi/Breakout2_Review_search_types.pdf' | absolute_url}}" target="_blank">Review Search types, units of analysis, study designs </a>  
-<br>
-<a target="_blank" href="{{'/documents/clinEpi/Exercise2.1_LLINEUP_simple_search.pdf' | absolute_url}}" target="_blank">Exercise: LLINEUP simple search</a> 
-<br>
-<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf6DvYihI0rNwFUcxtaP2V5LOFmVIzS7N_NmZlgQpPNGlxFnA/viewform" target="_blank">Exercise: The Search Wizard- variable exploration</a>
-
-<br>
-<a target="_blank" href="{{'/documents/clinEpi/Exercise 2.3 GEMS and MAL-ED simple search.pdf' | absolute_url}}" target="_blank">Exercise: MAL-ED and GEMS1 simple search </a> 
-</td>
+<td><b>Breakout 2</b>
+<br><a target="_blank" href="{{'/documents/clinEpi/Breakout2_Review_search_types.pdf' | absolute_url}}" target="_blank">Review Search types, units of analysis, study designs </a>  
+<br><a target="_blank" href="{{'/documents/clinEpi/Exercise2.1_LLINEUP_simple_search.pdf' | absolute_url}}" target="_blank">Exercise: LLINEUP simple search</a> 
+<br><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf6DvYihI0rNwFUcxtaP2V5LOFmVIzS7N_NmZlgQpPNGlxFnA/viewform" target="_blank">Exercise: The Search Wizard- variable exploration</a>
+<br><a target="_blank" href="{{'/documents/clinEpi/Exercise 2.3 GEMS and MAL-ED simple search.pdf' | absolute_url}}" target="_blank">Exercise: MAL-ED and GEMS1 simple search </a></td>
+<td></td>
 <td></td>
 </tr>
 
 
 <tr>
 <td>12:05-12:40 PM</td>
-<td> <b>Session 3</b>
-<br>
-<a target="_blank" href="{{'/documents/clinEpi/Session2_Guided_complex_search.pdf' | absolute_url}}" target="_blank">Complex search with MAL-ED</a>  
-<br>
-Visualization and analysis applications using SCORE data
-</td>
-<td>Danica Helb,
-Nupur Kittur
-</td>
+<td><b>Session 3</b>
+<br><a target="_blank" href="{{'/documents/clinEpi/Session2_Guided_complex_search.pdf' | absolute_url}}" target="_blank">Complex search with MAL-ED</a>  
+<br>Visualization and analysis applications using SCORE data</td>
+<td>Danica Helb, Nupur Kittur</td>
+<td><iframe width="180" height="115" src="https://youtu.be/CxjbhR3bgho?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></td>
 </tr>
 
 <tr>
 <td>12:40-12:55 PM</td>
-<td> <b>BREAK</b>
-</td>
+<td><b>BREAK</b></td>
+<td></td>
 <td></td>
 </tr>
 
 
 <tr>
 <td>12:55-1:40 PM</td>
-<td> <b>Breakout 3</b>
-<br>
-<a target="_blank" href="{{'/documents/clinEpi/Exercise 3.1 - Visualization Apps- SCORE Burundi.pdf' | absolute_url}}" target="_blank">Exercise: Visualization and analysis apps</a> 
-<br>
-<a target="_blank" href="{{'/documents/clinEpi/Exercise3.2_PROVIDE_complex_search.pdf' | absolute_url}}" target="_blank">Exercise: Complex searches using PROVIDE</a> 
-<br>
-<a target="_blank" href="{{'/documents/clinEpi/Exercise 3.3 PRISM visualization apps.pdf' | absolute_url}}" target="_blank">Exercise: PRISM analysis apps</a> 
-</td>
+<td><b>Breakout 3</b>
+<br><a target="_blank" href="{{'/documents/clinEpi/Exercise 3.1 - Visualization Apps- SCORE Burundi.pdf' | absolute_url}}" target="_blank">Exercise: Visualization and analysis apps</a> 
+<br><a target="_blank" href="{{'/documents/clinEpi/Exercise3.2_PROVIDE_complex_search.pdf' | absolute_url}}" target="_blank">Exercise: Complex searches using PROVIDE</a> 
+<br><a target="_blank" href="{{'/documents/clinEpi/Exercise 3.3 PRISM visualization apps.pdf' | absolute_url}}" target="_blank">Exercise: PRISM analysis apps</a></td>
+<td></td>
 <td></td>
 </tr>
 
 
 <tr>
 <td>1:40-2:00 PM</td>
-<td> <b>Session 4</b>
-<br>
-Downloading data
-<br>
-Workshop conclusion
-</td>
-<td>Steph Schulman, David Roos
-</td>
+<td><b>Session 4</b>
+<br>Downloading data
+<br>Workshop conclusion</td>
+<td>Steph Schulman, David Roos</td>
+<td><iframe width="180" height="115" src="https://youtu.be/fXtfsYXxLUs?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></td>
 </tr>
 
 
 <tr>
 <td>2:00 - 3:00 PM</td>
-<td> <b>OPTIONAL SESSION</b>
-<br>
-Individual (or breakout group) exercise - explore a study of your <br>choice and report back with something interesting that you find
-<br></td>
+<td><b>OPTIONAL SESSION</b>
+<br>Individual (or breakout group) exercise - explore a study of your <br>choice and report back with something interesting that you find<br></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -251,10 +235,9 @@ Individual (or breakout group) exercise - explore a study of your <br>choice and
 <b>To learn more about ClinEpiDB.org:</b> 
   <ul>
     <li>Read our recent publication on <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661/v2" target="_blank">Gates Open Research.</a></li>
-    <li>Watch a ClinEpiDB.org <a target="_blank" href="https://www.youtube.com/watch?v=535PcFrBH8M&feature=youtu.be" target="_blank">introductory video.</a> </li>
-      </ul>
-    </p>
+    <li>Watch a ClinEpiDB.org <a target="_blank" href="https://www.youtube.com/watch?v=535PcFrBH8M&feature=youtu.be" target="_blank">introductory video.</a></li>
+  </ul>
+</p>
 
- <p>Email your questions to <a target="_blank" href="/a/app/contact-us">help@clinepidb.org.</a>
-  </p>
+<p>Email your questions to <a target="_blank" href="/a/app/contact-us">help@clinepidb.org.</a></p>
   </div>
