@@ -164,7 +164,6 @@ table#hor-minimalist-a tfoot tr {
 <td></td>
 </tr>
 
-
 <tr>
 <td>11:20-12:05 PM</td>
 <td><b>Breakout 2</b>
@@ -175,7 +174,6 @@ table#hor-minimalist-a tfoot tr {
 <td></td>
 <td></td>
 </tr>
-
 
 <tr>
 <td>12:05-12:40 PM</td>
@@ -193,7 +191,6 @@ table#hor-minimalist-a tfoot tr {
 <td></td>
 </tr>
 
-
 <tr>
 <td>12:55-1:40 PM</td>
 <td><b>Breakout 3</b>
@@ -204,7 +201,6 @@ table#hor-minimalist-a tfoot tr {
 <td></td>
 </tr>
 
-
 <tr>
 <td>1:40-2:00 PM</td>
 <td><b>Session 4</b>
@@ -214,7 +210,6 @@ table#hor-minimalist-a tfoot tr {
 <td><iframe width="180" height="115" src="https://youtube.com/embed/fXtfsYXxLUs?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></td>
 </tr>
 
-
 <tr>
 <td>2:00 - 3:00 PM</td>
 <td><b>OPTIONAL SESSION</b>
@@ -223,8 +218,9 @@ table#hor-minimalist-a tfoot tr {
 <td></td>
 </tr>
 </tbody>
+
 </table>
-</details>
+  </details>
 </div>
 
 <br>
