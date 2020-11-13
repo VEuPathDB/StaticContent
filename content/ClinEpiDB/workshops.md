@@ -218,10 +218,8 @@ table#hor-minimalist-a tfoot tr {
 <td></td>
 </tr>
 </tbody>
-
 </table>
-  </details>
-</div>
+
 
 <br>
 <div class="contents">
