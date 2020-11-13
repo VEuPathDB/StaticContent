@@ -27,7 +27,6 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div id="contents">
     
-   <p><b>Thursday November 12th, 2020:</b> <a href="#release49">Release 49 Webinar</a></p>
    <p><b>Thursday December 17th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
    <p><b>Thursday March 11th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
    <p><b>Thursday May 13th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
@@ -41,6 +40,7 @@ tags: [general]
   <div id="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+   <p><b>Thursday November 12th, 2020:</b> <a href="#release49">Release 49 Webinar</a></p>
    <p><b>Thursday September 17th, 2020:</b> <a href="#microbiome">Introduction to MicrobiomeDB</a></p>
    <p><b>Thursday September 3rd, 2020:</b> <a href="#release48">Release 48 Webinar</a></p>
    <p><b>Thursday August 20th, 2020:</b> <a href="#metabo">Metabolic Pathways in VEuPathDB</a></p>   
@@ -71,16 +71,6 @@ tags: [general]
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <hr> 
 <div id="contents">
-    
-<div class="anchor"><a name="release49"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 49 Webinar<br>
-<b>Date:</b> Thursday November 12th, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/5693189155695816719">https://attendee.gotowebinar.com/register/5693189155695816719</a><br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 49 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
-</div>
 
 <hr>
 <div class="anchor"><a name="release50"></a></div>
@@ -166,6 +156,17 @@ Release webinar dates are subject to change due to production issues that may ar
 <hr>
 <div id="contents">
 
+<div class="anchor"><a name="release49"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 49 Webinar<br>
+<b>Date:</b> Thursday November 12th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link: </b><a href="https://youtu.be/VJSLVSBuz-A">https://youtu.be/VJSLVSBuz-A</a> <br>
+<b>Additional Details:</b> This webinar will focus on what is new in Release 49 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
+
+<hr>
 <div class="anchor"><a name="microbiome"></a></div>
 <div class="webinar">
 <b>Topic:</b> Introduction to MicrobiomeDB<br>
