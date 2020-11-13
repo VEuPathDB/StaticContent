@@ -130,9 +130,8 @@ table#hor-minimalist-a tfoot tr {
 <br>Introduction to workshop 
 <br>Introduction to ClinEpiDB</td>
 <td>David Roos, Danica Helb</td>
-<td><iframe width="180" height="115" src="https://youtu.be/mON1TRxT8qs?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></td>
+<td><iframe width="180" height="115" src="https://youtu.be/embed/mON1TRxT8qs?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></td>
 </tr>
-
 
 <tr>
 <td>10:15-10:35 AM</td>
@@ -143,13 +142,12 @@ table#hor-minimalist-a tfoot tr {
 <td></td>
 </tr>
 
-
 <tr>
 <td>10:35-10:55 AM</td>
 <td><b>Session 2</b>
 <br>Accessing and exploring data</td>
 <td>Sheena Tomko</td>
-<td><iframe width="180" height="115" src="https://youtu.be/WU1hXR4JNs0?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></td>
+<td><iframe width="180" height="115" src="https://youtu.be/embed/WU1hXR4JNs0?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></td>
 </tr>
 
 <tr>
@@ -158,7 +156,6 @@ table#hor-minimalist-a tfoot tr {
 <td></td>
 <td></td>
 </tr>
-
 
 <tr>
 <td>11:10-11:20 AM</td>
@@ -186,7 +183,7 @@ table#hor-minimalist-a tfoot tr {
 <br><a target="_blank" href="{{'/documents/clinEpi/Session2_Guided_complex_search.pdf' | absolute_url}}" target="_blank">Complex search with MAL-ED</a>  
 <br>Visualization and analysis applications using SCORE data</td>
 <td>Danica Helb, Nupur Kittur</td>
-<td><iframe width="180" height="115" src="https://youtu.be/CxjbhR3bgho?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></td>
+<td><iframe width="180" height="115" src="https://youtu.be/embed/CxjbhR3bgho?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></td>
 </tr>
 
 <tr>
@@ -214,7 +211,7 @@ table#hor-minimalist-a tfoot tr {
 <br>Downloading data
 <br>Workshop conclusion</td>
 <td>Steph Schulman, David Roos</td>
-<td><iframe width="180" height="115" src="https://youtu.be/fXtfsYXxLUs?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></td>
+<td><iframe width="180" height="115" src="https://youtu.be/embed/fXtfsYXxLUs?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></td>
 </tr>
 
 
@@ -227,6 +224,8 @@ table#hor-minimalist-a tfoot tr {
 </tr>
 </tbody>
 </table>
+</details>
+</div>
 
 <br>
 <div class="contents">
