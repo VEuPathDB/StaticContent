@@ -231,6 +231,6 @@ table#hor-minimalist-a tfoot tr {
     <li>Watch a ClinEpiDB.org <a target="_blank" href="https://www.youtube.com/watch?v=535PcFrBH8M&feature=youtu.be" target="_blank">introductory video.</a></li>
   </ul>
 </p>
-
+<br>
 <p>Email your questions to <a target="_blank" href="/a/app/contact-us">help@clinepidb.org.</a></p>
-  </div>
+</div>
