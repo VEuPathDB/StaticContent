@@ -182,7 +182,6 @@ table#hor-minimalist-a tfoot tr {
 <td>Danica Helb, Nupur Kittur</td>
 <td>
 <iframe width="180" height="115" src="https://www.youtube.com/watch?v=xh8JnPFkxfQ&list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="180" height="115" src="https://youtube.com/embed/CxjbhR3bgho?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></td>
 </tr>
 
 <tr>
