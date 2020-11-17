@@ -160,7 +160,7 @@ table#hor-minimalist-a tfoot tr {
 <td>11:10-11:20 AM</td>
 <td>Introduction to the LLINEUP study</td>
 <td>Samuel Gonahasa</td>
-<td></td>
+<td><iframe width="180" height="115" src="https://www.youtube.com/embed/wPi7lu-A1tc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 
 <tr>
