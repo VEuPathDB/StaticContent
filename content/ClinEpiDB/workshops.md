@@ -96,7 +96,7 @@ table#hor-minimalist-a tfoot tr {
     <p>
       <b>Date:</b> Friday November 13th, 2020 <br>
       <b>Time:</b> 10AM - 2PM US EST <br>
-      <b>Registration:</b> Spots are limited! To reserve a seat, <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd-CfvdSKrlevSTW5Ex6n5XftbL4nebMrAuFYvuVlfk008ZDQ/viewform" target="_blank">please register.</a>
+      <b>Registration:</b> CLOSED
     </p>
     <p>
       <b>Topics:</b> This 4-hour workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. This is a fantastic opportunity for junior researchers, students, and data managers to benefit from training on mining epidemiological datasets.
@@ -104,8 +104,6 @@ table#hor-minimalist-a tfoot tr {
         <li>Learn about large-scale epidemiological data sets available for secondary data analyses and translational research discovery</li>
         <li>Build skills exploring data through the interactive tables, graphs, and intuitive visual query interface available on ClinEpiDB.org </li>
       </ul>
-    <br>
-    Please complete these <a target="_blank" href="{{'/documents/clinEpi/Pre-Workshop homework.pdf' | absolute_url}}" target="_blank">3 quick exercises</a> prior to the start of the workshop.
     </p>
   </div>
 
@@ -123,12 +121,23 @@ table#hor-minimalist-a tfoot tr {
 
 <tbody>
 <tr>
+<td></td>
+<td><b>Session 0</b>
+<br>
+<a target="_blank" href="{{'/documents/clinEpi/Pre-Workshop homework.pdf' | absolute_url}}" target="_blank">Getting started, creating a VEuPathDB account, and asking for help</a>  
+</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td>10-10:15 AM</td>
 <td><b>Session 1</b>
 <br>Introduction to workshop
 <br>Introduction to ClinEpiDB
 </td>
-<td>David Roos, Danica Helb</td>
+<td>David Roos
+<br> Danica Helb</td>
 <td><iframe width="180" height="115" src="https://youtube.com/embed/mON1TRxT8qs?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 
@@ -179,7 +188,8 @@ table#hor-minimalist-a tfoot tr {
 <td><b>Session 3</b>
 <br><a target="_blank" href="{{'/documents/clinEpi/Session2_Guided_complex_search.pdf' | absolute_url}}" target="_blank">Complex search with MAL-ED</a>  
 <br>Visualization and analysis applications using SCORE data</td>
-<td>Danica Helb, Nupur Kittur</td>
+<td>Danica Helb
+<br>Nupur Kittur</td>
 <td>
 <iframe width="180" height="115" src="https://www.youtube.com/embed/xh8JnPFkxfQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
@@ -208,7 +218,8 @@ table#hor-minimalist-a tfoot tr {
 <td><b>Session 4</b>
 <br>Downloading data
 <br>Workshop conclusion</td>
-<td>Steph Schulman, David Roos</td>
+<td>Steph Schulman
+<br>David Roos</td>
 <td><iframe width="180" height="115" src="https://youtube.com/embed/fXtfsYXxLUs?list=PLWzQB3i5sYALwFB5cdZZeXmWU6udl2-tS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 
