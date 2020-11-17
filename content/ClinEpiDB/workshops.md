@@ -180,7 +180,10 @@ table#hor-minimalist-a tfoot tr {
 <br><a target="_blank" href="{{'/documents/clinEpi/Session2_Guided_complex_search.pdf' | absolute_url}}" target="_blank">Complex search with MAL-ED</a>  
 <br>Visualization and analysis applications using SCORE data</td>
 <td>Danica Helb, Nupur Kittur</td>
-<td><iframe width="180" height="115" src="https://www.youtube.com/embed/CxjbhR3bgho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td>
+<iframe width="180" height="115" src="https://www.youtube.com/embed/xh8JnPFkxfQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<iframe width="180" height="115" src="https://www.youtube.com/embed/CxjbhR3bgho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 
 <tr>
