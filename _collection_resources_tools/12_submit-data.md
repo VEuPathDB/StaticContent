@@ -6,6 +6,7 @@ descriptionTitle: How to Submit Data
 tags: [tutorial]
 title: How to Submit Data
 permalink: '#submit-data'
+exclude: [OrthoMCL]
 ---
 <style>
   .submit-data-feature {
