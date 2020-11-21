@@ -1,6 +1,6 @@
 ---
 identifier: "assignProteins"
-listIconKey: "bar-chart"
+listIconKey: "connectdevelop"
 listTitle: "Assign Proteins to Groups"
 descriptionTitle: "Assign Proteins to Groups"
 tags: [tutorial]
