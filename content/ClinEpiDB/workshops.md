@@ -4,17 +4,13 @@ title: ClinEpiDB Workshops
 permalink: /ClinEpiDB/workshops
 tags: [general]
 ---
-<style>
-  div.contents {
+<style> 
+div.contents {
     margin: 1em;
-  }
-  div.contents p {
-    line-height: 90%;
-  }
-  div.workshop {
+} 
+div.workshop {
     margin: 1em 1em;
-  }
-
+}
 details summary, details ul {
   margin-top: 1em;
 }
@@ -28,7 +24,6 @@ details p, details table {
 details table {
   margin-right: 12em;
 }
-
 table {
   margin-top: 1em;
   border-collapse: collapse;
