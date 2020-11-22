@@ -94,7 +94,9 @@ table#hor-minimalist-a tfoot tr {
 
   <div class="contents">
     <h4><a href="#astmh2020-premeeting">ASTMH Pre-meeting ClinEpiDB workshop</a></h4>
+    November 13th, 2020<br>
   </div>
+
 
 
 
