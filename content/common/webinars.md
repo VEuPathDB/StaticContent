@@ -23,7 +23,6 @@ tags: [general]
 <h1 id="resources">VEuPathDB Webinars</h1>
 <div class="static-content">
 
-
   <h3>Upcoming Webinars</h3>
   <div id="contents">
     
@@ -65,11 +64,12 @@ tags: [general]
     <p><b>Thursday April 16th, 2020:</b> <a href="#introduction">Introduction to VEuPathDB resources.</a></p>
   </div>
 <br>
+
 <hr> <!-- ==== UPCOMING WEBINARS =============================== -->
 
 <h3>Upcoming Webinars</h3>
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
-<hr> 
+
 <div id="contents">
 
 <hr>

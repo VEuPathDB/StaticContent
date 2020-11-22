@@ -82,15 +82,46 @@ table#hor-minimalist-a tfoot tr {
 </style>
 
 <h1 style="padding:1em">ClinEpiDB Workshops</h1>
-
 <div class="static-content" style="padding:0 3em">
-  <h3>Upcoming Workshops</h3>
 
-  <div class="contents">
-    <h4>ASTMH Pre-meeting ClinEpiDB workshop</h4>
+  <h3>Upcoming Workshops</h3>
+  <br>
+
+  <div class="contents"> 
+    <h4>No upcoming events</h4>
   </div>
 
+  <br>
+  <br>
+
+  <h3>Previous Workshops</h3>
+  <br>
+
+  <div class="contents">
+    <h4><a href="#astmh2020-premeeting">ASTMH Pre-meeting ClinEpiDB workshop</a></h4>
+  </div>
+
+
+
+<br>
+
+<hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
+
+<h3>Upcoming Workshops</h3>
+
+
+
+<hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
+
+<h3>Previous Workshops</h3>
+<hr>
+
+<div class="contents">
+
+
+  <div class="anchor"><a name="astmh2020-premeeting"></a></div>
   <div class="workshop">
+    <h3>ASTMH Pre-meeting ClinEpiDB workshop</h3>
     <p>Join <b>ClinEpiDB.org</b> for a <b>FREE</b> Virtual Workshop to learn how to use our open-access online clinical epidemiology database and tools for the exploration of complex public health studies. Attendees <b>do not need to be registered for ASTMH</b> in order to attend this online workshop. There are no software requirements for the workshop, but attendees must have a functioning Internet browser (Chrome, Safari, etc.).
     </p>
     <p>
@@ -105,7 +136,7 @@ table#hor-minimalist-a tfoot tr {
         <li>Build skills exploring data through the interactive tables, graphs, and intuitive visual query interface available on ClinEpiDB.org </li>
       </ul>
     </p>
-  </div>
+
 
 <details open>
     <summary><b>Schedule and exercises</b></summary>
@@ -233,7 +264,11 @@ table#hor-minimalist-a tfoot tr {
 
 </tbody>
 </table>
+</details>
 
+</div>  <!-- workshop -->
+
+</div> <!-- contents -->
 
 <br>
 <div class="contents">
@@ -247,4 +282,6 @@ table#hor-minimalist-a tfoot tr {
 </p>
 <br>
 <p>Email your questions to <a target="_blank" href="/a/app/contact-us">help@clinepidb.org.</a></p>
+</div>
+
 </div>
