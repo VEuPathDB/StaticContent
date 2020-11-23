@@ -8,11 +8,11 @@ tags: [general]
   h1 {
     font-size: 2.5em;
   }
-  div#contents {
+  div.contents {
     margin-left: 1em;
     margin-bottom: 1em;
   }
-  div#contents p {
+  div.contents p {
     line-height: 90%;
   }
   div.webinar {
@@ -24,7 +24,7 @@ tags: [general]
 <div class="static-content">
 
   <h3>Upcoming Webinars</h3>
-  <div id="contents">
+  <div class="contents">
     
    <p><b>Thursday December 17th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
    <p><b>Thursday March 11th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
@@ -36,7 +36,7 @@ tags: [general]
   </div>
   
   <h3>Previous Webinars</h3>
-  <div id="contents">
+  <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
    <p><b>Thursday November 12th, 2020:</b> <a href="#release49">Release 49 Webinar</a></p>
@@ -70,7 +70,7 @@ tags: [general]
 <h3>Upcoming Webinars</h3>
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 
-<div id="contents">
+<div class="contents">
 
 <hr>
 <div class="anchor"><a name="release50"></a></div>
@@ -154,7 +154,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 <h3>Previous Webinars</h3>
 <hr>
-<div id="contents">
+<div class="contents">
 
 <div class="anchor"><a name="release49"></a></div>
 <div class="webinar">
