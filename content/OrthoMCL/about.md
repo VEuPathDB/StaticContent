@@ -17,15 +17,12 @@ tags: [general]
 	    In this release, 19 <b>Peripheral</b> species were added. Thus, OrthoMCL now predicts orthology for a total of 563 organisms (413 <b>Peripheral</b> and 150 <b>Core</b>) organisms). Proteins from the 19 new species were mapped into <b>Core</b> ortholog groups. Then, a new set of <b>Residual</b> ortholog groups (e.g. OG6r2_101799) were formed from the collection of all unmapped <b>Peripheral</b> proteins. See below for the methods.
 	  </p>
 	  <p>
-	    To see the current set of organisms, their taxonomic category, their Core/Peripheral status, their abbreviation
-	    for this site, and the source of their protein sequences, go to 
-            <a href="${pageContext.request.contextPath}/getDataSummary.do?summary=data" target="_blank">Proteome Sources</a>.
-            To see the number of sequences and ortholog groups for each organism, go to 
-            <a href="${pageContext.request.contextPath}/getDataSummary.do?summary=release" target="_blank">Proteome Statistics</a>.
+	    To see the current set of organisms as well as their proteome sources and orthology statistics, go to 
+            <a href="${pageContext.request.contextPath}/release-summary" target="_blank">Proteome Sources and Statistics</a>.
           </p>
           <p>
             <strong>Downloads:</strong>
-            Go to the <a href="/common/downloads" target="_blank">download site</a> to obtain the protein sequences
+            Go to the <a href="${pageContext.request.contextPath}/downloads" target="_blank">download site</a> to obtain the protein sequences
             and ortholog groups used in this release.
           </p>
         </div>
