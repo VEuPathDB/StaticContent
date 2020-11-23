@@ -18,11 +18,11 @@ tags: [general]
 	  </p>
 	  <p>
 	    To see the current set of organisms as well as their proteome sources and orthology statistics, go to 
-            <a href="/a/release-summary">Proteome Sources and Statistics</a>.
+            <a href="/a/app/release-summary">Proteome Sources and Statistics</a>.
           </p>
           <p>
             <strong>Downloads:</strong>
-            Go to the <a href="/a/downloads">download site</a> to obtain the protein sequences
+            Go to the <a href="/a/app/downloads">download site</a> to obtain the protein sequences
             and ortholog groups used in this release.
           </p>
         </div>
@@ -116,10 +116,10 @@ tags: [general]
             OrthoMCL was originally implemented by Li Li.  The software was not available for download.
           </p>
           <p>
-            <a href="/a/downloads/software" target="_blank">Version 1.4</a> was developed as publicly available software by Feng Chen (This version is now not supported).
+            <a href="/a/app/downloads/software" target="_blank">Version 1.4</a> was developed as publicly available software by Feng Chen (This version is now not supported).
           </p>
           <p>
-            <a href="/a/downloads/software" target="_blank">Version 2.0</a> was re-engineered to handle large-scale datasets (hundreds of genomes) by Steve Fischer, Mark Heiges, John Iodice, and Ryan Thibodeau.
+            <a href="/a/app/downloads/software" target="_blank">Version 2.0</a> was re-engineered to handle large-scale datasets (hundreds of genomes) by Steve Fischer, Mark Heiges, John Iodice, and Ryan Thibodeau.
           </p>
         </div>
 
