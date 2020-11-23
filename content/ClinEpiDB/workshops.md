@@ -135,7 +135,7 @@ table#hor-minimalist-a tfoot tr {
     </p>
 
 
-<details open>
+<details>
     <summary><b>Schedule and exercises</b></summary>
     <table id="hor-minimalist-a">
 <thead>
