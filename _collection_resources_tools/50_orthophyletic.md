@@ -58,11 +58,11 @@ category: [OrthoMCL]
   <div class="search-strategies-feature--panels">
     <div>
       <div>Using an expression that is a flexible and powerful way to identify ortholog groups with a certain conservation pattern. The pattern is used to identify groups based on whether proteins from specific taxa are present or absent. Also, the pattern finds groups with a certain copy number (e.g., duplications) within specified taxa.</div>
-      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/phyleticexpression.png" | absolute_url }}" alt="Searches"/><br/><br/>
+      <img style="width: 60em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/phyleticexpression.png" | absolute_url }}" alt="Searches"/><br/><br/>
     </div>
     <div>
       <div>Using an expandable and searchable tree menu.   </div>
-      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/phyletictree.png" | absolute_url }}" alt="Strategy panel"/><br/><br/>
+      <img style="width: 60em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/phyletictree.png" | absolute_url }}" alt="Strategy panel"/><br/><br/>
     </div>
     
 
