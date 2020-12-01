@@ -18,7 +18,8 @@ category: [OrthoMCL]
 <li>Navigate to Galaxy and follow the instructions to upload your FASTA file</li>
 <li>Run the OrthoMCL Galaxy workflow</li>
 </ul> 
-
+<div style="width: 10em; margin: 0 1em;">
+      <img style="width: 10em" src="{{ "/assets/images/resources_tools/ortho_assign_proteins.png" | absolute_url }}"/>
 </div>
 
 
