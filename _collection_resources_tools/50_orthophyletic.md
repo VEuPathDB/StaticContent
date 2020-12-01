@@ -1,6 +1,6 @@
 ---
 identifier: "assignProteins"
-listIconKey: "sitemap fa-rotate-90"
+listIconKey: "sitemap fa-rotate-270"
 listTitle: "Assign Proteins to Groups"
 descriptionTitle: "Assign Proteins to Groups"
 tags: [tutorial]
