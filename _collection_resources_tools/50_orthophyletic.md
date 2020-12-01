@@ -1,10 +1,10 @@
 ---
-identifier: "assignProteins"
+identifier: "phyleticPattern"
 listIconKey: "sitemap fa-rotate-270"
-listTitle: "Assign Proteins to Groups"
-descriptionTitle: "Assign Proteins to Groups"
+listTitle: "Phyletic Pattern Search"
+descriptionTitle: "Phyletic Pattern Search"
 tags: [tutorial]
-title: "Assign Proteins to Groups"
+title: "Phyletic Pattern Search"
 permalink: '#phyleticpattern'
 category: [OrthoMCL]
 ---
