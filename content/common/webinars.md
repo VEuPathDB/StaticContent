@@ -27,6 +27,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div id="contents">
    
+   <p><b>Wednesday December 9th, 2020:</b> <a href="#clinepi">Clinical and Epidemiologic Data Exploration for Genomic Researchers</a></p>
    <p><b>Thursday December 17th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
    <p><b>Thursday March 11th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
    <p><b>Thursday May 13th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
@@ -72,6 +73,16 @@ Release webinar dates are subject to change due to production issues that may ar
 <hr> 
 <div id="contents">
     
+<hr>
+<div class="anchor"><a name="clinepi"></a></div>
+<div class="webinar">
+<b>Topic:</b> Clinical and Epidemiologic Data Exploration for Genomic Researchers<br>
+<b>Date:</b> Wednesday December 9th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/3656141554042311437">https://attendee.gotowebinar.com/register/3656141554042311437</a><br>
+<b>Additional Details:</b> In this webinar, we'll cover key features and studies in ClinEpiDB that may be of interest to biologists working on infectious diseases.
+<br>
+</div>
 <hr>
 <div class="anchor"><a name="release50"></a></div>
 <div class="webinar">
