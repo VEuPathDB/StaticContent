@@ -17,9 +17,10 @@ category: [OrthoMCL]
 <li>Go to the <a href="/a/app/galaxy-orientation">Assign my proteins to groups in Galaxy</a> page</li>
 <li>Navigate to Galaxy and follow the instructions to upload your FASTA file</li>
 <li>Run the OrthoMCL Galaxy workflow</li>
-</ul> 
+</ul>
+<br>
 <div style="width: 10em; margin: 0 1em;">
-      <img style="width: 10em" src="{{ "/assets/images/resources_tools/ortho_assign_proteins.png" | absolute_url }}"/>
+      <img style="width: 50em" src="{{ "/assets/images/resources_tools/ortho_assign_proteins.png" | absolute_url }}"/>
 </div>
 
 
