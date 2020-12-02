@@ -61,7 +61,7 @@ category: [OrthoMCL]
       <img style="width: 45em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/phyleticexpression.png" | absolute_url }}" alt="phyletic expression"/><br/><br/>
     </div>
     <div>
-      <div>Using an expandable and searchable tree menu.   </div>
+      <div>Using an expandable and searchable tree menu. Click on the circles to include or exclude taxa.   </div>
       <img style="width: 45em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/phyletictree.png" | absolute_url }}" alt="phyletic tree"/><br/><br/>
     </div>
     
