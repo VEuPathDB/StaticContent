@@ -50,9 +50,6 @@ category: [OrthoMCL]
      text-align: right;
   }
 </style>
-<div id="topright">
-  <a href="/a/app/query-grid">All Available Searches</a>
-</div>
 <div class="search-strategies-feature">
 <img style="width: 40em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/orthostrat1.png" | absolute_url }}" alt="Searches"/><br/>
   <p>Discover meaningful biological relationships based on ortholog group and protein features with VEuPathDB's unique and powerful <b>Search Strategies</b> - a tool for mining Omics data without programming experience. </p>
