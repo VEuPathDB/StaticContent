@@ -6,6 +6,7 @@ listIconKey: code-fork fa-rotate-270
 tags: [tutorial]
 title: Search Strategies
 permalink: '#search-strategies'
+exclude: [OrthoMCL]
 ---
 <style>
   .search-strategies-feature {
