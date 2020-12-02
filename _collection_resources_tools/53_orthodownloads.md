@@ -1,9 +1,10 @@
 ---
 identifier: Downloads
 listTitle: Downloads
-descriptionTitle: Data Downloads
+descriptionTitle: Downloads
 listIconKey: "cloud-download"
-published: false
 tags: [tutorial]
+title: Downloads
+permalink: '#downloads'
 category: [OrthoMCL]
 ---
