@@ -1,11 +1,11 @@
 ---
-identifier: "transformGroups"
+identifier: "transform"
 listIconKey: "exchange"
-listTitle: "Transforming Group Results into Sequences"
-descriptionTitle: "Transforming Group Results into Sequences"
+listTitle: "Transforming Results"
+descriptionTitle: "Transforming Results"
 tags: [tutorial]
-title: "Transforming Group Results into Sequences"
-permalink: '#grouptransform'
+title: "Transforming Results"
+permalink: '#transform'
 category: [OrthoMCL]
 ---
 
