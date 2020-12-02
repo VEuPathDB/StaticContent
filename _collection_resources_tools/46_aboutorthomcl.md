@@ -51,7 +51,7 @@ category: [OrthoMCL]
   }
 </style>
 <div class="search-strategies-feature">
-<img style="width: 40em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/aboutortho.png" | absolute_url }}" alt="Searches"/><br/>        
+<img style="width: 20em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/aboutortho.png" | absolute_url }}" alt="cluster"/><br/>        
 <p>
             Orthologs are homologs seperated by speciation events.  Paralogs are homologs separated
             by duplication events. Detection of orthologs is becoming much more important with the
