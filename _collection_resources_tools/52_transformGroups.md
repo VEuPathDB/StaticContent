@@ -1,6 +1,6 @@
 ---
 identifier: "transformGroups"
-listIconKey: "angle-double-right"
+listIconKey: "exchange"
 listTitle: "Transforming Group Results into Sequences"
 descriptionTitle: "Transforming Group Results into Sequences"
 tags: [tutorial]
@@ -9,4 +9,5 @@ permalink: '#grouptransform'
 category: [OrthoMCL]
 ---
 
-transform a group to proteins
+<p> After running a group or a protein search you can transform your results to groups or proteins.</P>
+
