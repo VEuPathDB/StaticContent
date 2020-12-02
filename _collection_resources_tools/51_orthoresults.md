@@ -11,7 +11,7 @@ category: [OrthoMCL]
 
 <p> Ortholog group results are presented in an interactive and customizable table. </p>
 <ul>
-<li><p>Columns maybe removed or added. To remove a column, click on the x in the columns heading. To add columns, click on the “Add Columns” button.</li>
+<li>Columns maybe removed or added. To remove a column, click on the x in the columns heading. To add columns, click on the “Add Columns” button.</li>
 
 <div style="width: 10em; margin: 0 1em;">
       <img style="width: 50em" src="{{ "/assets/images/resources_tools/addremovecolumns.png" | absolute_url }}"/>
