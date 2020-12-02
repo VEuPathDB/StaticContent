@@ -53,7 +53,7 @@ category: [OrthoMCL]
 <div class="search-strategies-feature">
 <img style="width: 20em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/aboutortho.png" | absolute_url }}" alt="cluster"/><br/>        
 <p>
-            Orthologs are homologs seperated by speciation events.  Paralogs are homologs separated
+            Orthologs are homologs separated by speciation events.  Paralogs are homologs separated
             by duplication events. Detection of orthologs is becoming much more important with the
             rapid progress in genome sequencing (<a href="https://academic.oup.com/mbe/article/36/10/2157/5523206" target="_blank">Glover et al. 2019</a>).
           </p>
@@ -71,7 +71,7 @@ category: [OrthoMCL]
             evolutionary distance the weights are normalized before running MCL.
           </p>
           <p>
-            OrthoMCL is similar to the INPARANOID algorithm (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022283600951970?via%3Dihub" target="_blank">Remm et al. 2001</a>), but is extended
+            OrthoMCL is similar to the INPARANOID algorithm (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022283600951970?via%3Dihub" target="_blank">Remm et al. 2001</a>) but is extended
             to cluster orthologs from multiple species. OrthoMCL clusters are coherent with groups
             identified by EGO (<a href="https://genome.cshlp.org/content/12/3/493.long" target="_blank">Lee et al. 2002</a>), and an analysis using EC number suggests a
             high degree of reliability (<a href="http://www.genome.org/cgi/content/abstract/13/9/2178" target="_blank">Li et al. 2003</a>).
