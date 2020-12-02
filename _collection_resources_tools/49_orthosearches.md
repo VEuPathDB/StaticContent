@@ -54,7 +54,7 @@ category: [OrthoMCL]
   <p>There are three general ways to run searches in OrthoMCL:</p>
   <div class="search-strategies-feature--panels">
     <div>
-      <div>Site search, located at the top center of the page in the banner, allows you to identify groups or proteins based on keywords. A wild card (asteriks *) may be used in combination with words or IDs. For example, *choline, would identify results with the word 'choline' and any compund words ending in choline like 'acetylcholine'. </div>
+      <div>Site search, located at the top center of the page in the banner, allows you to identify groups or proteins based on keywords. A wild card (asteriks *) may be used in combination with words or IDs. For example, *choline, would identify results with the word 'choline' and any compound words ending in choline like 'acetylcholine'. </div>
       <img style="width: 25em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/orthositesearch.png" | absolute_url }}" alt="site search"/><br/><br/>
     </div>
     <div>
