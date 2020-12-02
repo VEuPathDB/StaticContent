@@ -62,3 +62,11 @@ category: [OrthoMCL]
       <div>To download an individual ortholog group or protein sequnece, click on the download link at the top of the ortholog group or protein sequence page.  </div>
       <img style="width: 45em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/orthodownload2.png" | absolute_url }}" alt="proteins to groups"/><br/><br/>
     </div>
+    <div>
+      <div>Configure the download page then click on the download button.  </div>
+      <img style="width: 45em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/orthodownload3.png" | absolute_url }}" alt="proteins to groups"/><br/><br/>
+    </div>
+    <div>
+      <div>Results may also be retrieved programatically using <a href="/a/app/static-content/content/OrthoMCL/webServices.html">Rest web services</a>.   </div>
+      <br/><br/>
+    </div>
