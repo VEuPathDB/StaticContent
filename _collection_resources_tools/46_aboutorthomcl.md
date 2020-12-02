@@ -8,7 +8,51 @@ title: About OrthoMCL
 permalink: '#AboutOrthoMCL'
 category: [OrthoMCL]
 ---
-          <p>
+<style>
+  .search-strategies-feature {
+    margin: auto;
+  }
+  .search-strategies-feature--panels {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    counter-reset: panel;
+  }
+  .search-strategies-feature--panels > * {
+    overflow: hidden;
+    margin: 0 2em;
+  }
+  .search-strategies-feature--panels > * > div {
+    margin-top: 1em;
+    margin-left: 2em;
+    position: relative;
+  }
+  .search-strategies-feature--panels > * img {
+    margin-left: 2em;
+  }
+  .search-strategies-feature--panels > * > div:before {
+    counter-increment: panel;
+    content: counter(panel);
+    background: #3171d8;
+    border-radius: 1em;
+    height: 1.5em;
+    width: 1.5em;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: .5em;
+    color: white;
+    position: absolute;
+    left: -2em;
+    top: -0.25em;
+  }
+   #topright {
+     text-align: right;
+  }
+</style>
+<div class="search-strategies-feature">
+<img style="width: 40em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/aboutortho.png" | absolute_url }}" alt="Searches"/><br/>        
+<p>
             Orthologs are homologs seperated by speciation events.  Paralogs are homologs separated
             by duplication events. Detection of orthologs is becoming much more important with the
             rapid progress in genome sequencing (<a href="https://academic.oup.com/mbe/article/36/10/2157/5523206" target="_blank">Glover et al. 2019</a>).
@@ -32,4 +76,4 @@ category: [OrthoMCL]
             identified by EGO (<a href="https://genome.cshlp.org/content/12/3/493.long" target="_blank">Lee et al. 2002</a>), and an analysis using EC number suggests a
             high degree of reliability (<a href="http://www.genome.org/cgi/content/abstract/13/9/2178" target="_blank">Li et al. 2003</a>).
           </p>
-          
+      </div>    
