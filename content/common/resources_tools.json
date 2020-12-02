@@ -1,9 +1,0 @@
----
-layout: plain
-title: resources_tools
----
-{%
-  include collection.json
-  collection=site.resources_tools
-  keys="output,descriptionTitle,identifier,listIconKey,listTitle"
-%}

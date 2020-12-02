@@ -6,6 +6,7 @@ descriptionTitle: "Transcriptomic Resources"
 tags: [tutorial]
 title: "Transcriptomic Resources"
 permalink: '#transcriptomic-resources'
+exclude: [OrthoMCL]
 ---
 <style>
   .transcriptomic-resources-feature {

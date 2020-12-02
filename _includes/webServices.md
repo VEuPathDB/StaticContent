@@ -27,8 +27,15 @@ REST services can be executed in a browser by typing a specific URL.
 
 <p>
 For example, this URL:
-<br><span style="position:relative;left:15px;font-size:110%">
-<a href='/a/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"]}'>https://{{project}}.org/{{webapp}}/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"]}</a></span>
+<br>
+<span style="position:relative;left:15px;font-size:110%">
+{% if project == 'OrthoMCL' %}
+<a href='/a/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue_min=-100&evalue_max=-98&reportConfig={"attributes":["primary_key","number_of_members","evalue"]}
+'>https://{{project}}.org/{{webapp}}/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue_min=-100&evalue_max=-98&reportConfig={"attributes":["primary_key","number_of_members","evalue"]}</a>
+{% else %}
+<a href='/a/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"]}'>https://{{project}}.org/{{webapp}}/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"]}</a>
+{% endif %}
+</span>
 </p>
 
 <p>Corresponds to this request: 
