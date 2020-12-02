@@ -1,6 +1,6 @@
 ---
 identifier: "orthosearches"
-listIconKey: "fa-search"
+listIconKey: "search"
 listTitle: "Types of Searches in OrthoMCL"
 descriptionTitle: "Types of Searches in OrthoMCL"
 tags: [tutorial]
