@@ -8,7 +8,7 @@ title: About OrthoMCL
 permalink: '#AboutOrthoMCL'
 category: [OrthoMCL]
 ---
-
+<div style="margin: auto; max-width: 51em;">
 <p>
             Orthologs are homologs separated by speciation events.  Paralogs are homologs separated
             by duplication events. Detection of orthologs is becoming much more important with the
@@ -32,3 +32,4 @@ category: [OrthoMCL]
             OrthoMCL is similar to the INPARANOID algorithm (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022283600951970?via%3Dihub" target="_blank">Remm et al. 2001</a>) but is extended to cluster orthologs from multiple species. OrthoMCL clusters are coherent with groups identified by EGO (<a href="https://genome.cshlp.org/content/12/3/493.long" target="_blank">Lee et al. 2002</a>), and an analysis using EC number suggests a
             high degree of reliability (<a href="http://www.genome.org/cgi/content/abstract/13/9/2178" target="_blank">Li et al. 2003</a>).
           </p>  
+          </div>
