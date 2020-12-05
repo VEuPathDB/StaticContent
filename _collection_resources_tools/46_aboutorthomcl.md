@@ -19,7 +19,7 @@ category: [OrthoMCL]
             OrthoMCL is a genome-scale algorithm for grouping orthologous protein sequences. It
             provides not only groups shared by two or more species/genomes, but also groups
             representing species-specific gene expansion families. Thus, it serves as an important
-            utility for automated eukaryotic genome annotation. OrthoMCL starts with reciprocal best
+            utility for automated eukaryotic genome annotation. <br><br>OrthoMCL starts with reciprocal best
             hits within each genome as potential in-paralog/recent paralog pairs and reciprocal best
             hits across any two genomes as potential ortholog pairs.  Related proteins are interlinked
             in a similarity graph. Then, MCL (Markov Clustering algorithm; <a href="https://dspace.library.uu.nl/handle/1874/848" target="_blank">Dongen 2000</a>;
