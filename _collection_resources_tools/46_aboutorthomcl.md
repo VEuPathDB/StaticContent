@@ -14,7 +14,7 @@ category: [OrthoMCL]
             by duplication events. Detection of orthologs is becoming much more important with the
             rapid progress in genome sequencing (<a href="https://academic.oup.com/mbe/article/36/10/2157/5523206" target="_blank">Glover et al. 2019</a>).<br>
          
-<img style="width: 15em; margin-top: auto; margin-left: auto; float:right" src="{{ "/assets/images/resources_tools/aboutortho.png" | absolute_url }}" alt="cluster"/><br/>
+<img style="width: 20em; margin-top: auto; margin-left: auto; float:right" src="{{ "/assets/images/resources_tools/aboutortho.png" | absolute_url }}" alt="cluster"/><br/>
         
             OrthoMCL is a genome-scale algorithm for grouping orthologous protein sequences. It
             provides not only groups shared by two or more species/genomes, but also groups
