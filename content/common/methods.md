@@ -25,7 +25,7 @@ div.method-details {
   <div class="anchor"><a name="EBIpipeline"></a></div>
   <h3>EBI Pipeline</h3>
   <div class="method-details">
-   <p>VEuPathDB employs the <!-- <a href="http://uswest.ensembl.org/info/genome/genebuild/index.html">Ensembl genome analysis</a> --> Ensembl genome analysis pipelines for analyzing genomic sequence to enhance annotations. While most of the genomic sequence (FASTA) are integrated into VEuPathDB from an INSDC repository, genome annotation (GFF3) may come from either the INSDC repository or a community submission. </p>
+   <p>VEuPathDB employs the <a href="http://uswest.ensembl.org/info/genome/genebuild/index.html">Ensembl genome analysis</a>  for analyzing genomic sequence to enhance annotations. While most of the genomic sequence (FASTA) are integrated into VEuPathDB from an INSDC repository, genome annotation (GFF3) may come from either the INSDC repository or a community submission. </p>
 
    <p><u>Core database pipelines</u> (figure 1)- Primary genomic sequence and structural annotation data are loaded into a <a href="http://uswest.ensembl.org/info/docs/api/core/index.html">core database</a> and run through 6 pipelines: core statistics, DNA feature annotation, <a href="http://uswest.ensembl.org/info/genome/genebuild/xrefs.html">external cross reference</a> annotation, <a href="http://uswest.ensembl.org/info/genome/genebuild/ncrna.html">RNA gene</a> annotation, <a href="http://uswest.ensembl.org/info/genome/genebuild/assembly_repeats.html">repeat feature</a> annotation, and <!-- <a href="http://ensemblgenomes.org/info/data/protein_features">protein feature</a>--> protein feature annotation.  The main pipelines applied to the core database and their components are listed in table 1. </p>
 
