@@ -160,7 +160,21 @@ div.method-details {
 <hr>
 <h2>Genetic Variation and SNP calling</h2>
 <div class="method-details">
-   <p>VEuPathDB analyzes whole genome resequencing data to call single nucleotide polymorphisms of isolates. Details coming soon. </p>
+   <p>VEuPathDB analyzes whole genome resequencing data to call single nucleotide polymorphisms of isolates. The method employed by VEuPathDB to call SNPs from short read sequencing like Illumina reads, follows these steps:<br>
+   <ul>
+   <li>Reads are aligned to the reference genome using bowtie2</li>
+<li>The resulting BAM file from bowtie2 is sorted and a pileup file using samtools is generated</li>
+<li>Reads around indels are realigned using GATK</li>
+<li>SNPs and indels are called consensus sequence using VarScan is generated:
+<ul>
+<li>P value <= 0.01</li>
+<li>minimum aligned reads >= 5</li>
+<li>minimum read frequency >= 0.8</li>
+</ul>
+</li>
+<li>SNP calls where coverage is >2.5x the median coverage are removed to limit erroneous calls in repeat regions</li>
+<li>At each SNP position “like reference” calls are generated for each strain that is identical to the reference to give the full picture of each SNP</li>
+   </ul> </p>
 </div> 
 
 <hr>
