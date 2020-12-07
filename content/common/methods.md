@@ -112,7 +112,7 @@ div.method-details {
 <hr>
 <h2>Proteomics</h2>
 
-<div class="method-details">
+  <div class="method-details">
    <p>VEuPathDB integrates the results of proteomics experiments as peptides aligned to a reference genome or as abundance data assigned to a gene.   We do not reanalyze the raw mass spec data but instead use an in-house plugin that loads found peptides or abundance data from tab delimited input files of a specific format.</p>
    
    <p><a href="{{'/documents/Methods-Proteomics.pdf' | absolute_url}}">Details for the VEuPathDB in-house proteomics pipeline</a></p>
@@ -152,10 +152,9 @@ div.method-details {
 </div> 
 
   <h3>Searches for genes based on Copy Number Variation</h3>
-  <div class="method-details">
-    <p>There are two searches that query copy number data in VEuPathDB.  The first, Identify Genes based on Copy Number (CNV), returns genes that are present at copy numbers (based on your haploid number or gene dose) within a range that you specify. The second, Identify Genes based on Copy Number Comparison (CNV), returns genes for which the copy number varies between reference and your chosen isolates. This search compares the estimated copy number of a gene in the resequenced strain with the copy number in the reference annotation. The copy number in the reference annotation is calculated as the number of genes that are both on the same chromosome and in the same ortholog group as the gene of interest. We infer that these genes have arisen as a result of tandem duplication of a common ancestor.
-
-In this search, the metric for copy number is the haploid number, which is the number of copies of a gene on a single chromosome.
+   <div class="method-details">
+    <p>There are two searches that query copy number data in VEuPathDB.  The first, Identify Genes based on Copy Number (CNV), returns genes that are present at copy numbers within a range that you specify. The search can be configured to return genes based on the haploid number or gene dose. The second search, Identify Genes based on Copy Number Comparison (CNV), returns genes for which the copy number varies between the reference and your chosen isolates. This search compares the estimated copy number of a gene in the resequenced strain(s) with the copy number in the reference annotation. The copy number in the reference annotation is calculated as the number of genes that are both on the same chromosome and in the same ortholog group as the gene of interest. We infer that these genes have arisen as a result of tandem duplication of a common ancestor. In this search, the metric for copy number is the haploid number, which is the number of copies of a gene on a single chromosome.</p>
+   </div>
  
 
 <hr>
