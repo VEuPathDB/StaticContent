@@ -145,7 +145,10 @@ div.method-details {
 <hr>
 <h2>Copy Number Variation </h2>
 <div class="method-details">
-   <p>VEuPathDB analyzes whole genome resequencing data to estimate each gene's copy number in resequenced strains. Details coming soon. </p>
+   <p>VEuPathDB analyzes whole genome resequencing data to estimate each gene's copy number in resequenced strains. To determine a baseline copy number, the WGS reads from the reference strain are aligned back to the reference.  For comparison, WGS data from parasite isolates are aligned to the same reference.  Copy number variation is determined by comparing baseline to isolate coverage.    </p>
+   
+   
+   <p>Haploid number and gene dose are metrics used to define copy number in VEuPathDB. Haploid number is the number of genes on an individual chromosome. Gene dose is the total number of genes in an organism, accounting for copy number of the chromosome. For example, a single-copy gene in a diploid organism has a haploid number of 1 and a gene dose of 2. </p>
 </div>  
 
 <hr>
