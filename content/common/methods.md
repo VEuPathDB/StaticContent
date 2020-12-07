@@ -149,7 +149,14 @@ div.method-details {
    
    
    <p>Haploid number and gene dose are metrics used to define copy number in VEuPathDB. Haploid number is the number of genes on an individual chromosome. Gene dose is the total number of genes in an organism, accounting for copy number of the chromosome. For example, a single-copy gene in a diploid organism has a haploid number of 1 and a gene dose of 2. </p>
-</div>  
+</div> 
+
+  <h3>Searches for genes based on Copy Number Variation</h3>
+  <div class="method-details">
+    <p>There are two searches that query copy number data in VEuPathDB.  The first, Identify Genes based on Copy Number (CNV), returns genes that are present at copy numbers (based on your haploid number or gene dose) within a range that you specify. The second, Identify Genes based on Copy Number Comparison (CNV), returns genes for which the copy number varies between reference and your chosen isolates. This search compares the estimated copy number of a gene in the resequenced strain with the copy number in the reference annotation. The copy number in the reference annotation is calculated as the number of genes that are both on the same chromosome and in the same ortholog group as the gene of interest. We infer that these genes have arisen as a result of tandem duplication of a common ancestor.
+
+In this search, the metric for copy number is the haploid number, which is the number of copies of a gene on a single chromosome.
+ 
 
 <hr>
 <h2>Genetic Variation and SNP calling</h2>
