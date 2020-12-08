@@ -107,6 +107,32 @@ table#hor-minimalist-a tfoot tr {
     Working with Protozoan Parasite Database Resources</a></h4>
 
     October 5-9, 2020 (Virtual).<br>
+    <ul>
+    <li>Search Strategy Basics</li>
+    <li>Site Search</li>
+    <li>Exploring Gene Pages</li>
+    <li>JBrowse Basics</li>
+    <li>Gene Structure and RNA-Seq Data in JBrowse</li>
+    <li>Genome Annotation with Companion
+    <ul>
+    <li>Companion Part I</li>
+    <li>Companion Part II</li>
+    </ul>
+    </li>
+    <li>Population Biology: SNPs and CNVs</li>
+    <li>GO Enrichment</li>
+    <li>Mapping RNA-Seq Data in Galaxy:
+    <ul>
+    <li>Galaxy Part I</li>
+    <li>Galaxy Part II</li>
+    </ul>
+    </li>
+    <li>Transcriptomic & Proteomic Searches</li>
+    <li>Orthology Phylogenetic Searches</li>
+    <li>Host Response</li>
+    <li>Metabolic Pathways</li>
+    <li>Advanced Searches</li>
+    </ul>
   </div>
 
 <br>
