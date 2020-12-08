@@ -23,7 +23,7 @@ div.method-details {
 <p>Genome sequence and annotation are  analyzed by the <a href="#EBIpipeline">EBI Pipeline</a> supplemented with <a href="#threeInHouse">three in-house analyses</a>.  In the rare case that the EBI pipeline cannot be applied to a genome, we use a <a href="#serieInHouse">series of in-house analyses</a> in lieu of the EBI Pipelines. </p>
 
   <div class="anchor"><a name="EBIpipeline"></a></div>
-  <h3>EBI Pipeline</h3>
+  <h4>EBI Pipeline</h4>
   <div class="method-details">
    <p>VEuPathDB employs the <a href="http://uswest.ensembl.org/info/genome/genebuild/index.html" target="_blank">Ensembl genome analysis</a>  for analyzing genomic sequence to enhance annotations. While most of the genomic sequence (FASTA) are integrated into VEuPathDB from an INSDC repository, genome annotation (GFF3) may come from either the INSDC repository or a community submission. </p>
 
@@ -40,7 +40,7 @@ div.method-details {
 
 
   <div class="anchor"><a name="threeInHouse"></a></div>
-  <h3>Supplements to the EBI Pipelines</h3>
+  <h4>Supplements to the EBI Pipelines</h4>
   <div class="method-details">
    <p>VEuPath DB supplements the EBI pipeline with workflows that produce data for EST alignments, Open reading frames, and synteny (Table).</p>
    
@@ -55,7 +55,7 @@ div.method-details {
 
   
   <div class="anchor"><a name="serieInHouse"></a></div>
-  <h3>In-house genome analyses in Lieu of the EBI Pipeline</h3>
+  <h4>In-house genome analyses in Lieu of the EBI Pipeline</h4>
   <div class="method-details">
    <p>On rare occasions the EBI pipeline cannot be applied to a genome.  For example, genomes that are not housed at an INSDC repository cannot be analyzed by the EBI pipeline.  VEuPathDB uses the following in-house analyses in lieu of the EBI pipeline. </p>
    
