@@ -186,6 +186,6 @@ div.method-details {
 <hr>
 <h2>Metabolic Pathways</h2>
 <div class="method-details">
-   <p>VEuPathDB integrates metabolic pathways from <a href="https://www.genome.jp/kegg/" target="_blank">KEGG</a> and <a href="https://metacyc.org/" target="_blank">MetaCyc</a>. For TriTrypDB, pathways are also integrated from LeishCyc and TrypanoCyc. Metabolic pathways are associated with genes via Enzyme Commission annotations. </p>
+   <p>VEuPathDB integrates metabolic pathways from <a href="https://www.genome.jp/kegg/" target="_blank">KEGG</a> and <a href="https://metacyc.org/" target="_blank">MetaCyc</a>. For TriTrypDB, pathways are also integrated from <a href="http://vm-trypanocyc.toulouse.inra.fr/LEISH/organism-summary" target="_blank">LeishCyc</a> and <a href="http://vm-trypanocyc.toulouse.inra.fr/" target="_blank">TrypanoCyc</a>. Metabolic pathways are associated with genes via Enzyme Commission annotations. </p>
 </div> 
 
