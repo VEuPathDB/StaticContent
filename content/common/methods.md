@@ -24,7 +24,7 @@ div.method-details {
   <p><a href="#Supplements-to-EBI">Supplements to the EBI Pipelines</a></p>
   <p><a href="#In-House-genome-analyses">In-house genome analyses in Lieu of the EBI Pipeline</a></p>
   </div>
-<p><a href="#Orthology">Orthology</a></p>
+<p><a href="#Orthology"><b>Orthology</b></a></p>
    <div style="margin-left: 3em;">
    <p><a href="#OrthoMCL">OrthoMCL</a></p>
 	<p><a href="#Orthology-on-the-gene-page">Orthology on the gene page</a></p>
