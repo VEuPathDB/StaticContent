@@ -32,15 +32,15 @@ div.method-details {
 	<p><a href="#Searches-for-genes-based-on-orthology">Searches for genes based on orthology</a></p>
    </div>
 <p><a href="#Proteomics">Proteomics</a></p>
-<p>RNA-Sequence</p>
-<p>ChIP-Sequence</p>
-<p>Copy Number Variation</p>
+<p><a href="#RNA-Sequence">RNA-Sequence</a></p>
+<p><a href="#ChIP-Sequence">ChIP-Sequence</a></p>
+<p><a href="#Copy-Number-Variation">Copy Number Variation</a></p>
    <div style="margin-left: 3em;">
-   <p>Searches for genes based on Copy Number Variation</p>
+   <p><a href="#Searches-Copy-Number-Variation">Searches for genes based on Copy Number Variation</a></p>
    </div>
-<p>Genetic Variation and SNP calling</p>
-<p>Protein Array Data</p>
-<p>Metabolic Pathways</p>
+<p><a href="#Genetic-Variation-and-SNP-calling">Genetic Variation and SNP calling</a></p>
+<p><a href="#Protein-Array">Protein Array Data</a></p>
+<p><a href="#Metabolic-Pathways">Metabolic Pathways</a></p>
 
 
 <hr>
