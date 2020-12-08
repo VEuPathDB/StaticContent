@@ -139,7 +139,7 @@ div.method-details {
 <hr>
 <h2>ChIP-Sequence</h2>
 <div class="method-details">
-   <p>VEuPathDB integrates ChIP-Seq data from many different experiments and sources. Details coming soon. </p>
+   <p>VEuPathDB integrates ChIP-Seq data from many different experiments and sources. DNA seq data are aligned to the reference genome using Bowtie2.  Alignment results are converted to bigwig and displayed in JBrowse. </p>
 </div>   
 
 <hr>
