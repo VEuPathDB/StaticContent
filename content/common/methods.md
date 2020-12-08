@@ -17,10 +17,37 @@ div.method-details {
 
 <p>VEuPathDB draws data from many sources.  To facilitate comparisons across data sets, we analyze all data with standardized, data type-specific analyses.  All data of one type are analyzed with the same workflow.  Although our results may show some differences from an author’s publication, our re-analysis of the data makes it feasible to compare data sets from very different sources and to update the data analysis with contemporary methods.  For transparency, the methods we use to analyze data are presented here.  </p>
 
+<p>Contents</p>
+<p><a href="#GenomeAnalyses">Genome Analyses</a></p>
+  <div style="margin-left: 3em;">
+  <p>EBI Pipeline</p>
+  <p>Supplements to the EBI Pipelines</p>
+  <p>In-house genome analyses in Lieu of the EBI Pipeline</p>
+  </div>
+<p>Orthology</p>
+   <div style="margin-left: 3em;">
+   <p>OrthoMCL</p>
+	<p>Orthology on the gene page</p>
+	<p>Function prediction on the gene page</p>
+	<p>Searches for genes based on orthology</p>
+   </div>
+<p>Proteomics</p>
+<p>RNA-Sequence</p>
+<p>ChIP-Sequence</p>
+<p>Copy Number Variation</p>
+   <div style="margin-left: 3em;">
+   <p>Searches for genes based on Copy Number Variation</p>
+   </div>
+<p>Genetic Variation and SNP calling</p>
+<p>Protein Array Data</p>
+<p>Metabolic Pathways</p>
+
+
 <hr>
+<div class="anchor"><a name="GenomeAnalyses"></a></div>
 <h2>Genome analyses</h2>
 
-<p>Genome sequence and annotation are  analyzed by the <a href="#EBIpipeline">EBI Pipeline</a> supplemented with <a href="#threeInHouse">three in-house analyses</a>.  In the rare case that the EBI pipeline cannot be applied to a genome, we use a <a href="#serieInHouse">series of in-house analyses</a> in lieu of the EBI Pipelines. </p>
+<p>Genome sequence and annotation are analyzed by the <a href="#EBIpipeline">EBI Pipeline</a> supplemented with <a href="#threeInHouse">three in-house analyses</a>.  In the rare case that the EBI pipeline cannot be applied to a genome, we use a <a href="#serieInHouse">series of in-house analyses</a> in lieu of the EBI Pipelines. </p>
 
   <div class="anchor"><a name="EBIpipeline"></a></div>
   <h4>EBI Pipeline</h4>
