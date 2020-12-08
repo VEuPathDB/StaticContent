@@ -86,25 +86,25 @@ div.method-details {
 <p>Orthologs are homologs separated by speciation events. Paralogs are homologs separated by duplication events. Identification of orthologs is important in annotating newly-sequenced genomes, in predicting gene function and in understanding gene evolution. Orthology relationships are predicted across all VEuPathDB sites using <a href="https://orthomcl.org/" target="_blank">OrthoMCL</a>, a VEuPathDB website designed to predict, analyze, and display orthology relationships.</p>
 
   <div class="anchor"><a name="OrthoMCL"></a></div>
-  <h3>OrthoMCL</h3>
+  <h4>OrthoMCL</h4>
   <div class="method-details">
    <p><a href="https://orthomcl.org/" target="_blank">OrthoMCL</a> employs BLAST and clustering to predict orthologs and paralogs amongst all organisms at VEuPathDB sites, as well as additional organisms spread across Eukaryota, Bacteria, and Archaea. In the <a href="https://orthomcl.org/a/app/static-content/OrthoMCL/about.html" target="_blank">OrthoMCL algorithm</a>, each protein is assigned an ortholog group (such as OG6_135465 or OG6r2_106455), which contains proteins predicted to be orthologs or paralogs of each other. The OrthoMCL website allows users to explore ortholog groups and the proteins within these groups. The site offers the ability to explore protein sequences, sequence alignments, PFam domains, EC numbers, and sequence similarity metrics. More detailed information is provided on the <a href="https://orthomcl.org/a/app/static-content/OrthoMCL/about.html" target="_blank">About OrthoMCL page</a>. The following sections describe how OrthoMCL predictions are used throughout VEuPathDB sites. </p>
   </div>
 
   <div class="anchor"><a name="Orthology on the gene page"></a></div>
-  <h3>Orthology on the gene page</h3>
+  <h4>Orthology on the gene page</h4>
   <div class="method-details">
    <p>A gene page, like <a href="https://plasmodb.org/plasmo/app/record/gene/PF3D7_1371700" target="_blank">that for <i>Plasmodium falciparum</i> PF3D7_1371700</a>, contains an 'Orthology and synteny' section. This section displays the 'Ortholog Group' (with a link to the group page on OrthoMCL), 'Orthologs and Paralogs within PlasmoDB' (listing genes within the same ortholog group), 'Strains summary' (listing the corresponding gene in strains of the same species), and 'Synteny' (a JBrowse view of syntenic chromosomes with shading connecting genes in the same OrthoMCL-predicted group).</p>
    </div>
 
   <div class="anchor"><a name="Function prediction on the gene page"></a></div>
-  <h3>Function prediction on the gene page</h3>
+  <h4>Function prediction on the gene page</h4>
   <div class="method-details">
    <p>Orthology is used to predict gene function on the gene pages. We and others have found that orthologs and paralogs share a high degree of function. A gene page, like <a href="https://plasmodb.org/plasmo/app/record/gene/PF3D7_1371700" target="_blank">that for <i>Plasmodium falciparum</i> PF3D7_1371700</a>, contains a 'Function prediction' section. The EC Numbers table may contain EC numbers that have been predicted for the gene, based on other genes within the same ortholog group having been assigned this EC number. This EC number prediction in turn influences the 'Pathways and interactions' section, containing the 'Metabolic Pathways' and 'Metabolic Pathways Reactions' tables. These tables list the predicted pathways and reactions for a gene assigned a specific EC Number. Thus, a user can make inferences about a gene's function in specific pathways based on orthology.</p>
    </div>
 
   <div class="anchor"><a name="Searches for genes based on orthology"></a></div>
-  <h3>Searches for genes based on orthology</h3>
+  <h4>Searches for genes based on orthology</h4>
   <div class="method-details">
    <p>There are three Searches that employ orthology to identify a set of genes. First, in the <a href="/a/app/search/transcript/GenesByOrthologPattern" target="_blank">Orthology Phylogenetic Profile Search</a>, users can identify genes that are found in certain taxonomic groups but not in others (i.e., that have a specific pattern of conservation across species). For example, users can identify genes that are present in <i>Toxoplasma gondii</i> but not present in mammals (i.e., the ortholog group is present in <i>T. gondii</i> but not in mammals). Second, in the <a href="/a/app/search/transcript/GenesByParalogCount" target="_blank">Paralog Count Search</a>, users can identify genes that have a specific range of paralogs within a species (i.e., genes that have undergone an expansion in a species due to one or more gene duplications). Third, within a Search Strategy (<a href="https://static-content.veupathdb.org/documents/Orthology-Phyletic-Patterns.pdf" target="_blank">see tutorial here</a>), users can choose to transform their list of genes from one species into the list of orthologs in another species. This is particularly useful when a user is working with a species that is little studied. For example, a user has found a set of genes induced by hypoxia in <i>Aspergillus fumigatus</i> and wants to know their orthologs in the less-studied <i>Aspergillus oryzae</i>.</p>
    </div>
