@@ -147,19 +147,12 @@ Details of upcoming workshops such as registration link and preliminary schedule
 <h3>Previous Workshops</h3>
 <hr>
 
-<<<<<<< HEAD
- <div class="contents">
-    
-    <h4><a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/?utm_source=Social&utm_medium=Twitter_Virtual&utm_campaign=ProtozoanParasites20&utm_content=organic_social">
-    Working with Protozoan Parasite Database Resources</a></h4>
-=======
 <div class="contents">    
 <div class="anchor"><a name="hinxton2020"></a></div>
   <div class="workshop">
   <h4>Working with Protozoan Parasite Database Resources</h4>
     This workshop was organized by the Wellcome Trust Advanced Courses and was held virtually. <a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/">
     Working with Protozoan Parasite Database Resources</a>.
->>>>>>> abf54cd5... some changes to formating of hinxton workshop
     October 5-9, 2020 (Virtual).<br>
     <details open>
       <summary><b>Exercises</b></summary>
@@ -190,17 +183,7 @@ Details of upcoming workshops such as registration link and preliminary schedule
     <li><a href="{{'/documents/hinxtonparasite/Advanced Search Strategies.pdf' | absolute_url}}">Advanced Searches</a></li>
     </ul>
     </details>
-<<<<<<< HEAD
-
-<div class="anchor"><a name="mpm2020"></a></div>
-<div class="workshop">
-  <h3>Pre-MPM VEuPathDB workshop<span style="font-weight:100">, Friday September 18th, 2020 - from 10AM-2PM US Eastern time</span></h3>
-  <p>This 4-hour VEuPathDB workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. Exercises will cover both basic and advanced usage of VEuPathDB resources.</p>
-  <p>Registration: closed.</p>
-  <details open>
-    <summary><b>Schedule and exercises</b></summary>
-    <table id="hor-minimalist-a">
-=======
+    <br>
 <hr>
   <div class="anchor"><a name="mpm2020"></a></div>
   <div class="workshop">
@@ -210,7 +193,6 @@ Details of upcoming workshops such as registration link and preliminary schedule
     <details open>
       <summary><b>Schedule and exercises</b></summary>
       <table id="hor-minimalist-a">
->>>>>>> a937d23c... minor cosmetic updates
 
 <thead>
 <tr>
