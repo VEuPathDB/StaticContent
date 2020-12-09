@@ -91,22 +91,12 @@ table#hor-minimalist-a tfoot tr {
 
   <h3>Upcoming Workshops</h3><br>
 
-<<<<<<< HEAD
-  <div class="contents">
-    
-    <h4>No upcoming events</h4>
-    <br>
-  </div>
-
-<br>
-=======
   <div class="contents"> 
     <h4>Details of upcoming workshops will be posted here as they are scheduled.</h4>
   </div>
 
   <br>
   <hr>
->>>>>>> a937d23c... minor cosmetic updates
   
   <h3>Previous Workshops</h3><br>
   
