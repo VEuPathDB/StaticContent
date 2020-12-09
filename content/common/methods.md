@@ -219,23 +219,23 @@ div.method-details {
 <div class="anchor"><a name="Microarray"></a>
 <h2>Microarray data</h2>
 <div class="method-details">
-   <p>VEuPathDB integrates microarray data from high density ligonucleotide as well as spotted arrays.</p>
+   <p>VEuPathDB integrates microarray data from high density oligonucleotide as well as spotted arrays.  In general, the data comes to us as intensities associated with probes.  VEuPathDB does not reanalyze the original fluorescence data. We process the data we receive according to the following outline:</p>
 
    <ul>
-      <li>Map the array probes to the reference genome's transcripome</li>
+      <li>Map the array probes to the reference genome's transcriptome</li>
       <li>Filter data to remove outliers</li>
       <li>Normalize</li>
          <ul>
-         <li>For one channel data we perform a robust multi-array average (RMA) normalizations</li>
+         <li>For one channel data we perform a robust multi-array average (RMA) normalizations.</li>
          <li>For two channel data we perform a Loess normalization</li>
          </ul>
-      <li>Compute the average probe intensity per gene</li>
-      <li>Compute the expression average per gene</li>
+      <li>Compute the average probe intensity per gene.</li>
+      <li>Compute the expression average per gene.</li>
          <ul>
-         <li>first average technical replicates</li>
-         <li>second average biological replicates (if any)</li>
+         <li>First, average the technical replicates.</li>
+         <li>Second, average the biological replicates (if any).</li>
          </ul>
-      <li>Optional: perform differential expression analysis if sufficient number of biological replicates</li>
+      <li>Optional: perform differential expression analysis if there is a sufficient number of biological replicates.</li>
    </ul>
 </div> 
 
@@ -245,6 +245,25 @@ div.method-details {
 <h2>Protein Array data</h2>
 <div class="method-details">
    <p>VEuPathDB integrates protein array data from serm antibody microarray expeirments. Analysis details coming soon. </p>
+
+      <p>VEuPathDB integrates protein array data from serm antibody microarray expeirments.  In general, the data comes to us as intensities associated with probes.  VEuPathDB does not reanalyze the original fluorescence data. Although each experiment and data set can have special considerations, we process the data we receive according to the following outline:</p>
+
+   <ul>
+      <li>Map the array probes to the reference genome's transcriptome</li>
+      <li>Filter data to remove outliers</li>
+      <li>Normalize</li>
+         <ul>
+         <li>For one channel data we perform a robust multi-array average (RMA) normalizations.</li>
+         <li>For two channel data we perform a Loess normalization</li>
+         </ul>
+      <li>Compute the average probe intensity per gene.</li>
+      <li>Compute the expression average per gene.</li>
+         <ul>
+         <li>First, average the technical replicates.</li>
+         <li>Second, average the biological replicates (if any).</li>
+         </ul>
+      <li>Optional: perform differential expression analysis if there is a sufficient number of biological replicates.</li>
+   </ul>
 </div> 
 
 <hr>
