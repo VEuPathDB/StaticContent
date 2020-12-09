@@ -152,29 +152,29 @@ table#hor-minimalist-a tfoot tr {
       <summary><b>Exercises</b></summary>
       <ul>
     <li><a href="{{'/documents/hinxtonparasite/01b_SearchStrategies_Exercise_PlasmoDB.pdf' | absolute_url}}">Search Strategy Basics</a></li>
-    <li>Site Search</li>
-    <li>Exploring Gene Pages</li>
-    <li>JBrowse Basics</li>
-    <li>Gene Structure and RNA-Seq Data in JBrowse</li>
+    <li><a href="{{'/documents/hinxtonparasite/01b_SiteSearch_PlasmoDB.pdf' | absolute_url}}">Site Search</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/02_Exploring the Gene Page.pdf' | absolute_url}}">Exploring Gene Pages</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/05_JBrowseBasics.pdf' | absolute_url}}">JBrowse Basics</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/06_JBrowse_RNAseqII.pdf' | absolute_url}}">Gene Structure and RNA-Seq Data in JBrowse</a></li>
     <li>Genome Annotation with Companion
     <ul>
-    <li>Companion Part I</li>
-    <li>Companion Part II</li>
+    <li><a href="{{'/documents/hinxtonparasite/07_Companion_1.pdf' | absolute_url}}">Companion Part I</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/08a_Companion_2.pdf' | absolute_url}}">Companion Part II</a></li>
     </ul><br>
     </li>
-    <li>Population Biology: SNPs and CNVs</li>
-    <li>GO Enrichment</li>
+    <li><a href="{{'/documents/hinxtonparasite/12_Population_Biology_SNPs_CNVs.pdf' | absolute_url}}">Population Biology: SNPs and CNVs</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/14_GO Enrichment.pdf' | absolute_url}}">GO Enrichment</a></li>
     <li>Mapping RNA-Seq Data in Galaxy:
     <ul>
-    <li>Galaxy Part I</li>
-    <li>Galaxy Part II</li>
+    <li><a href="{{'/documents/hinxtonparasite/16_RNAseq_Mapping_Galaxy_1.pdf' | absolute_url}}">Galaxy Part I</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/20_RNAseq_mapping_Galaxy_2.pdf' | absolute_url}}">Galaxy Part II</a></li>
     </ul><br>
     </li>
-    <li>Transcriptomic & Proteomic Searches</li>
-    <li>Orthology Phylogenetic Searches</li>
-    <li>Host Response</li>
-    <li>Metabolic Pathways</li>
-    <li>Advanced Searches</li>
+    <li><a href="{{'/documents/hinxtonparasite/17_Transcriptomic_proteomics1.pdf' | absolute_url}}">Transcriptomic & Proteomic Searches</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/19_Orthology_Phyletic_Patterns.pdf' | absolute_url}}">Orthology Phylogenetic Searches</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/22_Host_response.pdf' | absolute_url}}">Host Response</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/23_Metabolic_Pathways_kc.pdf' | absolute_url}}">Metabolic Pathways</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/Advanced Search Strategies.pdf' | absolute_url}}">Advanced Searches</a></li>
     </ul>
     </details>
 
