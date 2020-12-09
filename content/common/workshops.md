@@ -91,6 +91,7 @@ table#hor-minimalist-a tfoot tr {
 
   <h3>Upcoming Workshops</h3><br>
 
+<<<<<<< HEAD
   <div class="contents">
     
     <h4>No upcoming events</h4>
@@ -98,6 +99,14 @@ table#hor-minimalist-a tfoot tr {
   </div>
 
 <br>
+=======
+  <div class="contents"> 
+    <h4>Details of upcoming workshops will be posted here as they are scheduled.</h4>
+  </div>
+
+  <br>
+  <hr>
+>>>>>>> a937d23c... minor cosmetic updates
   
   <h3>Previous Workshops</h3><br>
   
@@ -131,7 +140,7 @@ table#hor-minimalist-a tfoot tr {
 
 <h3>Upcoming Workshops</h3>
 
-
+Details of upcoming workshops such as registration link and preliminary schedule will be posted here when available. 
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 
@@ -181,6 +190,7 @@ table#hor-minimalist-a tfoot tr {
     <li><a href="{{'/documents/hinxtonparasite/Advanced Search Strategies.pdf' | absolute_url}}">Advanced Searches</a></li>
     </ul>
     </details>
+<<<<<<< HEAD
 
 <div class="anchor"><a name="mpm2020"></a></div>
 <div class="workshop">
@@ -190,6 +200,17 @@ table#hor-minimalist-a tfoot tr {
   <details open>
     <summary><b>Schedule and exercises</b></summary>
     <table id="hor-minimalist-a">
+=======
+<hr>
+  <div class="anchor"><a name="mpm2020"></a></div>
+  <div class="workshop">
+    <h3>Pre-MPM VEuPathDB workshop<span style="font-weight:100">, Friday September 18th, 2020 - from 10AM-2PM US Eastern time</span></h3>
+    <p>This 4-hour VEuPathDB workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. Exercises will cover both basic and advanced usage of VEuPathDB resources.</p>
+    <p>Registration: closed.</p>
+    <details open>
+      <summary><b>Schedule and exercises</b></summary>
+      <table id="hor-minimalist-a">
+>>>>>>> a937d23c... minor cosmetic updates
 
 <thead>
 <tr>
