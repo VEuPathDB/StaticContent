@@ -178,6 +178,7 @@ Details of upcoming workshops such as registration link and preliminary schedule
     <li><a href="{{'/documents/hinxtonparasite/Advanced Search Strategies.pdf' | absolute_url}}">Advanced Searches</a></li>
     </ul>
     </details>
+    <br>
 <hr>
   <div class="anchor"><a name="mpm2020"></a></div>
   <div class="workshop">
