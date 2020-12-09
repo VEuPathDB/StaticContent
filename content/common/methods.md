@@ -223,7 +223,7 @@ div.method-details {
 
    <ul>
       <li>Map the array probes to the reference genome's transcriptome</li>
-      <li>Filter data to remove outliers</li>
+      <li>Filter the data to remove outliers.</li>
       <li>Normalize</li>
          <ul>
          <li>For one channel data we perform a robust multi-array average (RMA) normalizations.</li>
@@ -244,13 +244,11 @@ div.method-details {
 <div class="anchor"><a name="Protein-Array"></a></div>
 <h2>Protein Array data</h2>
 <div class="method-details">
-   <p>VEuPathDB integrates protein array data from serm antibody microarray expeirments. Analysis details coming soon. </p>
-
-      <p>VEuPathDB integrates protein array data from serm antibody microarray expeirments.  In general, the data comes to us as intensities associated with probes.  VEuPathDB does not reanalyze the original fluorescence data. Although each experiment and data set can have special considerations, we process the data we receive according to the following outline:</p>
+   <p>VEuPathDB integrates protein array data from serm antibody microarray experiments.  In general, the data comes to us as intensities associated with probes.  VEuPathDB does not reanalyze the original fluorescence data. Although each experiment and data set can have special considerations, we process the data according to the following outline:</p>
 
    <ul>
       <li>Map the array probes to the reference genome's transcriptome</li>
-      <li>Filter data to remove outliers</li>
+      <li>Filter the data to remove outliers.</li>
       <li>Normalize</li>
          <ul>
          <li>For one channel data we perform a robust multi-array average (RMA) normalizations.</li>
