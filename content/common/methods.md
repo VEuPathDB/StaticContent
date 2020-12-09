@@ -216,7 +216,7 @@ div.method-details {
 
 
 <hr>
-<div class="anchor"><a name="Microarray"></a></div>
+<div class="anchor"><a name="Microarray"></a>
 <h2>Microarray data</h2>
 <div class="method-details">
    <p>VEuPathDB integrates microarray data from high density ligonucleotide as well as spotted arrays.</p>
@@ -229,8 +229,8 @@ div.method-details {
          <li>For one channel data we perform a robust multi-array average (RMA) normalizations</li>
          <li>For two channel data we perform a Loess normalization</li>
          </ul>
-      <li>Compute the average probe intensity per gene<li>
-      <li>Compute the expression average per gene
+      <li>Compute the average probe intensity per gene</li>
+      <li>Compute the expression average per gene</li>
          <ul>
          <li>first average technical replicates</li>
          <li>second average biological replicates (if any)</li>
