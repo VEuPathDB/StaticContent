@@ -28,7 +28,7 @@ tags: [general]
   <div id="contents">
    
    <p><b>Wednesday December 9th, 2020:</b> <a href="#clinepi">Clinical and Epidemiologic Data Exploration for Genomic Researchers</a></p>
-   <p><b>Thursday December 17th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
+   <p><b>Thursday January 14th, 2021:</b> <a href="#release50">Release 50 Webinar</a></p>
    <p><b>Thursday March 11th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
    <p><b>Thursday May 13th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
    <p><b>Thursday July 8th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
