@@ -40,6 +40,7 @@ div.method-details {
       <li><a href="#Searches-Copy-Number-Variation">Searches for genes based on Copy Number Variation</a></li>
       </ul>
    <li><a href="#Genetic-Variation-and-SNP-calling">Genetic Variation and SNP calling</a></li>
+   <li><a href="#Microarray">Microarray Data</a></li>
    <li><a href="#Protein-Array">Protein Array Data</a></li>
    <li><a href="#Metabolic-Pathways">Metabolic Pathways</a></li>
 </ul>
@@ -212,6 +213,32 @@ div.method-details {
 <li>At each SNP position “like reference” calls are generated for each strain that is identical to the reference to give the full picture of each SNP</li>
    </ul> </p>
 </div> 
+
+
+<hr>
+<div class="anchor"><a name="Microarray"></a></div>
+<h2>Microarray data</h2>
+<div class="method-details">
+   <p>VEuPathDB integrates microarray data from high density ligonucleotide as well as spotted arrays.</p>
+
+   <ul>
+      <li>Map the array probes to the reference genome's transcripome</li>
+      <li>Filter data to remove outliers</li>
+      <li>Normalize</li>
+         <ul>
+         <li>For one channel data we perform a robust multi-array average (RMA) normalizations</li>
+         <li>For two channel data we perform a Loess normalization</li>
+         </ul>
+      <li>Compute the average probe intensity per gene<li>
+      <li>Compute the expression average per gene
+         <ul>
+         <li>first average technical replicates</li>
+         <li>second average biological replicates (if any)</li>
+         </ul>
+      <li>Optional: perform differential expression analysis if sufficient number of biological replicates</li>
+   </ul>
+</div> 
+
 
 <hr>
 <div class="anchor"><a name="Protein-Array"></a></div>
