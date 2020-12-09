@@ -103,7 +103,7 @@ table#hor-minimalist-a tfoot tr {
   
   <div class="contents">
     
-    <h4><a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/?utm_source=Social&utm_medium=Twitter_Virtual&utm_campaign=ProtozoanParasites20&utm_content=organic_social">
+    <h4><a href="#hinxton2020">
     Working with Protozoan Parasite Database Resources</a></h4>
     October 5-9, 2020 (Virtual).<br>
   </div>
@@ -138,10 +138,19 @@ table#hor-minimalist-a tfoot tr {
 <h3>Previous Workshops</h3>
 <hr>
 
+<<<<<<< HEAD
  <div class="contents">
     
     <h4><a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/?utm_source=Social&utm_medium=Twitter_Virtual&utm_campaign=ProtozoanParasites20&utm_content=organic_social">
     Working with Protozoan Parasite Database Resources</a></h4>
+=======
+<div class="contents">    
+<div class="anchor"><a name="hinxton2020"></a></div>
+  <div class="workshop">
+  <h4>Working with Protozoan Parasite Database Resources</h4>
+    This workshop was organized by the Wellcome Trust Advanced Courses and was held virtually. <a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/">
+    Working with Protozoan Parasite Database Resources</a>.
+>>>>>>> abf54cd5... some changes to formating of hinxton workshop
     October 5-9, 2020 (Virtual).<br>
     <details open>
       <summary><b>Exercises</b></summary>
