@@ -143,7 +143,35 @@ table#hor-minimalist-a tfoot tr {
     <h4><a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/?utm_source=Social&utm_medium=Twitter_Virtual&utm_campaign=ProtozoanParasites20&utm_content=organic_social">
     Working with Protozoan Parasite Database Resources</a></h4>
     October 5-9, 2020 (Virtual).<br>
-  </div>
+    <details open>
+      <summary><b>Exercises</b></summary>
+      <ul>
+    <li><a href="{{'/documents/hinxtonparasite/01b_SearchStrategies_Exercise_PlasmoDB.pdf' | absolute_url}}">Search Strategy Basics</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/01b_SiteSearch_PlasmoDB.pdf' | absolute_url}}">Site Search</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/02_Exploring the Gene Page.pdf' | absolute_url}}">Exploring Gene Pages</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/05_JBrowseBasics.pdf' | absolute_url}}">JBrowse Basics</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/06_JBrowse_RNAseqII.pdf' | absolute_url}}">Gene Structure and RNA-Seq Data in JBrowse</a></li>
+    <li>Genome Annotation with Companion
+    <ul>
+    <li><a href="{{'/documents/hinxtonparasite/07_Companion_1.pdf' | absolute_url}}">Companion Part I</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/08a_Companion_2.pdf' | absolute_url}}">Companion Part II</a></li>
+    </ul><br>
+    </li>
+    <li><a href="{{'/documents/hinxtonparasite/12_Population_Biology_SNPs_CNVs.pdf' | absolute_url}}">Population Biology: SNPs and CNVs</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/14_GO Enrichment.pdf' | absolute_url}}">GO Enrichment</a></li>
+    <li>Mapping RNA-Seq Data in Galaxy:
+    <ul>
+    <li><a href="{{'/documents/hinxtonparasite/16_RNAseq_Mapping_Galaxy_1.pdf' | absolute_url}}">Galaxy Part I</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/20_RNAseq_mapping_Galaxy_2.pdf' | absolute_url}}">Galaxy Part II</a></li>
+    </ul><br>
+    </li>
+    <li><a href="{{'/documents/hinxtonparasite/17_Transcriptomic_proteomics1.pdf' | absolute_url}}">Transcriptomic & Proteomic Searches</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/19_Orthology_Phyletic_Patterns.pdf' | absolute_url}}">Orthology Phylogenetic Searches</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/22_Host_response.pdf' | absolute_url}}">Host Response</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/23_Metabolic_Pathways_kc.pdf' | absolute_url}}">Metabolic Pathways</a></li>
+    <li><a href="{{'/documents/hinxtonparasite/Advanced Search Strategies.pdf' | absolute_url}}">Advanced Searches</a></li>
+    </ul>
+    </details>
 
 <div class="anchor"><a name="mpm2020"></a></div>
 <div class="workshop">
