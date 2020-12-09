@@ -17,30 +17,32 @@ div.method-details {
 
 <p>VEuPathDB draws data from many sources.  To facilitate comparisons across data sets, we analyze all data with standardized, data type-specific analyses.  All data of one type are analyzed with the same workflow.  Although our results may show some differences from an author’s publication, our re-analysis of the data makes it feasible to compare data sets from very different sources and to update the data analysis with contemporary methods.  For transparency, the methods we use to analyze data are presented here.  </p>
 
-<p><b>Contents</b></p>
-<p><a href="#GenomeAnalyses">Genome Analyses</a></p>
-  <div style="margin-left: 3em;">
-  <p><a href="#EBIpipeline">EBI Pipeline</a></p>
-  <p><a href="#Supplements-to-EBI">Supplements to the EBI Pipelines</a></p>
-  <p><a href="#In-House-genome-analyses">In-house genome analyses in Lieu of the EBI Pipeline</a></p>
-  </div>
-<p><a href="#Orthology"><b>Orthology</b></a></p>
-   <div style="margin-left: 3em;">
-   <p><a href="#OrthoMCL">OrthoMCL</a></p>
-	<p><a href="#Orthology-on-the-gene-page">Orthology on the gene page</a></p>
-	<p><a href="#Function-prediction-on-the-gene-page">Function prediction on the gene page</a></p>
-	<p><a href="#Searches-for-genes-based-on-orthology">Searches for genes based on orthology</a></p>
-   </div>
-<p><a href="#Proteomics">Proteomics</a></p>
-<p><a href="#RNA-Sequence">RNA-Sequence</a></p>
-<p><a href="#ChIP-Sequence">ChIP-Sequence</a></p>
-<p><a href="#Copy-Number-Variation">Copy Number Variation</a></p>
-   <div style="margin-left: 3em;">
-   <p><a href="#Searches-Copy-Number-Variation">Searches for genes based on Copy Number Variation</a></p>
-   </div>
-<p><a href="#Genetic-Variation-and-SNP-calling">Genetic Variation and SNP calling</a></p>
-<p><a href="#Protein-Array">Protein Array Data</a></p>
-<p><a href="#Metabolic-Pathways">Metabolic Pathways</a></p>
+<h4>Contents</h4>
+<ul>
+   <li><a href="#GenomeAnalyses">Genome Analyses</a></li>
+      <ul>
+      <li><a href="#EBIpipeline">EBI Pipeline</a></li>
+      <li><a href="#Supplements-to-EBI">Supplements to the EBI Pipelines</a></li>
+      <li><a href="#In-House-genome-analyses">In-house genome analyses in Lieu of the EBI Pipeline</a></li>
+      </ul>
+   <li><a href="#Orthology"><b>Orthology</b></a></li>
+      <ul>
+      <li><a href="#OrthoMCL">OrthoMCL</a></li>
+      <li><a href="#Orthology-on-the-gene-page">Orthology on the gene page</a></li>
+      <li><a href="#Function-prediction-on-the-gene-page">Function prediction on the gene page</a></li>
+      <li><a href="#Searches-for-genes-based-on-orthology">Searches for genes based on orthology</a></li>
+      </ul>
+   <li><a href="#Proteomics">Proteomics</a></li>
+   <li><a href="#RNA-Sequence">RNA-Sequence</a></li>
+   <li><a href="#ChIP-Sequence">ChIP-Sequence</a></li>
+   <li><a href="#Copy-Number-Variation">Copy Number Variation</a></li>
+      <ul>
+      <li><a href="#Searches-Copy-Number-Variation">Searches for genes based on Copy Number Variation</a></li>
+      </ul>
+   <li><a href="#Genetic-Variation-and-SNP-calling">Genetic Variation and SNP calling</a></li>
+   <li><a href="#Protein-Array">Protein Array Data</a></li>
+   <li><a href="#Metabolic-Pathways">Metabolic Pathways</a></li>
+</ul>
 
 
 <hr>
