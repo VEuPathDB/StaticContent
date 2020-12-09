@@ -17,13 +17,43 @@ div.method-details {
 
 <p>VEuPathDB draws data from many sources.  To facilitate comparisons across data sets, we analyze all data with standardized, data type-specific analyses.  All data of one type are analyzed with the same workflow.  Although our results may show some differences from an author’s publication, our re-analysis of the data makes it feasible to compare data sets from very different sources and to update the data analysis with contemporary methods.  For transparency, the methods we use to analyze data are presented here.  </p>
 
+<h4>Contents</h4>
+<ul>
+   <li><a href="#GenomeAnalyses">Genome Analyses</a></li>
+      <ul>
+      <li><a href="#EBIpipeline">EBI Pipeline</a></li>
+      <li><a href="#Supplements-to-EBI">Supplements to the EBI Pipelines</a></li>
+      <li><a href="#In-House-genome-analyses">In-house genome analyses in Lieu of the EBI Pipeline</a></li>
+      </ul>
+   <li><a href="#Orthology">Orthology</a></li>
+      <ul>
+      <li><a href="#OrthoMCL">OrthoMCL</a></li>
+      <li><a href="#Orthology-on-the-gene-page">Orthology on the gene page</a></li>
+      <li><a href="#Function-prediction-on-the-gene-page">Function prediction on the gene page</a></li>
+      <li><a href="#Searches-for-genes-based-on-orthology">Searches for genes based on orthology</a></li>
+      </ul>
+   <li><a href="#Proteomics">Proteomics</a></li>
+   <li><a href="#RNA-Sequence">RNA-Sequence</a></li>
+   <li><a href="#ChIP-Sequence">ChIP-Sequence</a></li>
+   <li><a href="#Copy-Number-Variation">Copy Number Variation</a></li>
+      <ul>
+      <li><a href="#Searches-Copy-Number-Variation">Searches for genes based on Copy Number Variation</a></li>
+      </ul>
+   <li><a href="#Genetic-Variation-and-SNP-calling">Genetic Variation and SNP calling</a></li>
+   <li><a href="#Microarray">Microarray Data</a></li>
+   <li><a href="#Protein-Array">Protein Array Data</a></li>
+   <li><a href="#Metabolic-Pathways">Metabolic Pathways</a></li>
+</ul>
+
+
 <hr>
+<div class="anchor"><a name="GenomeAnalyses"></a></div>
 <h2>Genome analyses</h2>
 
-<p>Genome sequence and annotation are  analyzed by the <a href="#EBIpipeline">EBI Pipeline</a> supplemented with <a href="#threeInHouse">three in-house analyses</a>.  In the rare case that the EBI pipeline cannot be applied to a genome, we use a <a href="#serieInHouse">series of in-house analyses</a> in lieu of the EBI Pipelines. </p>
+<p>Genome sequence and annotation are analyzed by the <a href="#EBIpipeline">EBI Pipeline</a> supplemented with <a href="#Supplements-to-EBI">three in-house analyses</a>.  In the rare case that the EBI pipeline cannot be applied to a genome, we use a <a href="#In-House-genome-analyses">series of in-house analyses</a> in lieu of the EBI Pipelines. </p>
 
   <div class="anchor"><a name="EBIpipeline"></a></div>
-  <h3>EBI Pipeline</h3>
+  <h4>EBI Pipeline</h4>
   <div class="method-details">
    <p>VEuPathDB employs the <a href="http://uswest.ensembl.org/info/genome/genebuild/index.html" target="_blank">Ensembl genome analysis</a>  for analyzing genomic sequence to enhance annotations. While most of the genomic sequence (FASTA) are integrated into VEuPathDB from an INSDC repository, genome annotation (GFF3) may come from either the INSDC repository or a community submission. </p>
 
@@ -39,8 +69,8 @@ div.method-details {
   </div>
 
 
-  <div class="anchor"><a name="threeInHouse"></a></div>
-  <h3>Supplements to the EBI Pipelines</h3>
+  <div class="anchor"><a name="Supplements-to-EBI"></a></div>
+  <h4>Supplements to the EBI Pipelines</h4>
   <div class="method-details">
    <p>VEuPath DB supplements the EBI pipeline with workflows that produce data for EST alignments, Open reading frames, and synteny (Table).</p>
    
@@ -54,8 +84,8 @@ div.method-details {
   </div>
 
   
-  <div class="anchor"><a name="serieInHouse"></a></div>
-  <h3>In-house genome analyses in Lieu of the EBI Pipeline</h3>
+  <div class="anchor"><a name="In-House-genome-analyses"></a></div>
+  <h4>In-house genome analyses in Lieu of the EBI Pipeline</h4>
   <div class="method-details">
    <p>On rare occasions the EBI pipeline cannot be applied to a genome.  For example, genomes that are not housed at an INSDC repository cannot be analyzed by the EBI pipeline.  VEuPathDB uses the following in-house analyses in lieu of the EBI pipeline. </p>
    
@@ -81,6 +111,7 @@ div.method-details {
   </div>
 
 <hr>
+<div class="anchor"><a name="Orthology"></a></div>
 <h2>Orthology</h2>
 
 <p>Orthologs are homologs separated by speciation events. Paralogs are homologs separated by duplication events. Identification of orthologs is important in annotating newly-sequenced genomes, in predicting gene function and in understanding gene evolution. Orthology relationships are predicted across all VEuPathDB sites using <a href="https://orthomcl.org/" target="_blank">OrthoMCL</a>, a VEuPathDB website designed to predict, analyze, and display orthology relationships.</p>
@@ -91,25 +122,26 @@ div.method-details {
    <p><a href="https://orthomcl.org/" target="_blank">OrthoMCL</a> employs BLAST and clustering to predict orthologs and paralogs amongst all organisms at VEuPathDB sites, as well as additional organisms spread across Eukaryota, Bacteria, and Archaea. In the <a href="https://orthomcl.org/a/app/static-content/OrthoMCL/about.html" target="_blank">OrthoMCL algorithm</a>, each protein is assigned an ortholog group (such as OG6_135465 or OG6r2_106455), which contains proteins predicted to be orthologs or paralogs of each other. The OrthoMCL website allows users to explore ortholog groups and the proteins within these groups. The site offers the ability to explore protein sequences, sequence alignments, PFam domains, EC numbers, and sequence similarity metrics. More detailed information is provided on the <a href="https://orthomcl.org/a/app/static-content/OrthoMCL/about.html" target="_blank">About OrthoMCL page</a>. The following sections describe how OrthoMCL predictions are used throughout VEuPathDB sites. </p>
   </div>
 
-  <div class="anchor"><a name="Orthology on the gene page"></a></div>
+  <div class="anchor"><a name="Orthology-on-the-gene-page"></a></div>
   <h4>Orthology on the gene page</h4>
   <div class="method-details">
    <p>A gene page, like <a href="https://plasmodb.org/plasmo/app/record/gene/PF3D7_1371700" target="_blank">that for <i>Plasmodium falciparum</i> PF3D7_1371700</a>, contains an 'Orthology and synteny' section. This section displays the 'Ortholog Group' (with a link to the group page on OrthoMCL), 'Orthologs and Paralogs within PlasmoDB' (listing genes within the same ortholog group), 'Strains summary' (listing the corresponding gene in strains of the same species), and 'Synteny' (a JBrowse view of syntenic chromosomes with shading connecting genes in the same OrthoMCL-predicted group).</p>
    </div>
 
-  <div class="anchor"><a name="Function prediction on the gene page"></a></div>
+  <div class="anchor"><a name="Function-prediction-on-the-gene-page"></a></div>
   <h4>Function prediction on the gene page</h4>
   <div class="method-details">
    <p>Orthology is used to predict gene function on the gene pages. We and others have found that orthologs and paralogs share a high degree of function. A gene page, like <a href="https://plasmodb.org/plasmo/app/record/gene/PF3D7_1371700" target="_blank">that for <i>Plasmodium falciparum</i> PF3D7_1371700</a>, contains a 'Function prediction' section. The EC Numbers table may contain EC numbers that have been predicted for the gene, based on other genes within the same ortholog group having been assigned this EC number. This EC number prediction in turn influences the 'Pathways and interactions' section, containing the 'Metabolic Pathways' and 'Metabolic Pathways Reactions' tables. These tables list the predicted pathways and reactions for a gene assigned a specific EC Number. Thus, a user can make inferences about a gene's function in specific pathways based on orthology.</p>
    </div>
 
-  <div class="anchor"><a name="Searches for genes based on orthology"></a></div>
+  <div class="anchor"><a name="Searches-for-genes-based-on-orthology"></a></div>
   <h4>Searches for genes based on orthology</h4>
   <div class="method-details">
    <p>There are three Searches that employ orthology to identify a set of genes. First, in the <a href="/a/app/search/transcript/GenesByOrthologPattern" target="_blank">Orthology Phylogenetic Profile Search</a>, users can identify genes that are found in certain taxonomic groups but not in others (i.e., that have a specific pattern of conservation across species). For example, users can identify genes that are present in <i>Toxoplasma gondii</i> but not present in mammals (i.e., the ortholog group is present in <i>T. gondii</i> but not in mammals). Second, in the <a href="/a/app/search/transcript/GenesByParalogCount" target="_blank">Paralog Count Search</a>, users can identify genes that have a specific range of paralogs within a species (i.e., genes that have undergone an expansion in a species due to one or more gene duplications). Third, within a Search Strategy (<a href="https://static-content.veupathdb.org/documents/Orthology-Phyletic-Patterns.pdf" target="_blank">see tutorial here</a>), users can choose to transform their list of genes from one species into the list of orthologs in another species. This is particularly useful when a user is working with a species that is little studied. For example, a user has found a set of genes induced by hypoxia in <i>Aspergillus fumigatus</i> and wants to know their orthologs in the less-studied <i>Aspergillus oryzae</i>.</p>
    </div>
 
 <hr>
+<div class="anchor"><a name="Proteomics"></a></div>
 <h2>Proteomics</h2>
 
   <div class="method-details">
@@ -119,6 +151,7 @@ div.method-details {
   </div>
 
 <hr>
+<div class="anchor"><a name="RNA-Sequence"></a></div>
 <h2>RNA-Sequence</h2>
 <div class="method-details">
    <p>VEuPathDB integrates RNA-Seq data from many different experiments and analyzes all data with the same EBI RNA-Seq analysis pipeline. The RNA sequence data that we integrate is processed at EBI. </p>
@@ -137,12 +170,14 @@ div.method-details {
  </div>
 
 <hr>
+<div class="anchor"><a name="ChIP-Sequence"></a></div>
 <h2>ChIP-Sequence</h2>
 <div class="method-details">
    <p>VEuPathDB integrates ChIP-Seq data from many different experiments and sources. DNA seq data are aligned to the reference genome using Bowtie2.  Alignment results are converted to bigwig and displayed in JBrowse. </p>
 </div>   
 
 <hr>
+<div class="anchor"><a name="Copy-Number-Variation"></a></div>
 <h2>Copy Number Variation </h2>
 <div class="method-details">
    <p>VEuPathDB uses coverage from whole genome sequencing data to estimate gene and chromosome copy numbers in sequenced strains. The bowtie2 alignments generated during SNP analysis are used as a starting point. HTseq-count is used to count the number of reads that align to each gene and the values are converted to transcripts per million (TPM). Assuming that the median TPM value represents a single copy gene on a chromosome of constitutive ploidy, we can infer gene or chromosome duplications by comparing the TPM values for individual genes or the median TPM for individual chromosomes to the whole genome median using custom scripts based on the method described in <a href="https://pubmed.ncbi.nlm.nih.gov/22038252/" target="_blank">PMID: 22038252</a>. Additionally, coverage is calculated in 1 kb bins across the genome, normalised to the constitutive ploidy and converted to bigwig format for visualisation in JBrowse.   </p>
@@ -151,6 +186,7 @@ div.method-details {
    <p>Haploid number and gene dose are metrics used to define copy number in VEuPathDB. Haploid number is the number of genes on an individual chromosome. Gene dose is the total number of genes in an organism, accounting for copy number of the chromosome. For example, a single-copy gene in a diploid organism has a haploid number of 1 and a gene dose of 2. </p>
 </div> 
 
+   <div class="anchor"><a name="Searches-Copy-Number-Variation"></a></div>
   <h4>Searches for genes based on Copy Number Variation</h4>
    <div class="method-details">
     <p>There are two searches that query copy number data in VEuPathDB.  The first, <a href="/a/app/search/transcript/GenesByCopyNumber">Identify Genes based on Copy Number (CNV)</a> returns genes that are present at copy numbers within a range that you specify. The search can be configured to return genes based on the haploid number or gene dose. The second search, <a href="/a/app/search/transcript/GenesByCopyNumberComparison">Identify Genes based on Copy Number Comparison (CNV)</a>, returns genes for which the copy number varies between the reference and your chosen isolates. This search compares the estimated copy number of a gene in the resequenced strain(s) with the copy number in the reference annotation. The copy number in the reference annotation is calculated as the number of genes that are both on the same chromosome and in the same ortholog group as the gene of interest. We infer that these genes have arisen as a result of tandem duplication of a common ancestor. In this search, the metric for copy number is the haploid number, which is the number of copies of a gene on a single chromosome.</p>
@@ -158,6 +194,7 @@ div.method-details {
  
 
 <hr>
+<div class="anchor"><a name="Genetic-Variation-and-SNP-calling"></a></div>
 <h2>Genetic Variation and SNP calling</h2>
 <div class="method-details">
    <p>VEuPathDB analyzes whole genome resequencing data to call single nucleotide polymorphisms of isolates. The method employed by VEuPathDB to call SNPs from short read sequencing like Illumina reads, follows these steps:<br>
@@ -177,15 +214,60 @@ div.method-details {
    </ul> </p>
 </div> 
 
+
 <hr>
+<div class="anchor"><a name="Microarray"></a>
+<h2>Microarray data</h2>
+<div class="method-details">
+   <p>VEuPathDB integrates microarray data from high density oligonucleotide as well as spotted arrays.  In general, the data comes to us as intensities associated with probes.  VEuPathDB does not reanalyze the original fluorescence data. We process the data we receive according to the following outline:</p>
+
+   <ul>
+      <li>Map the array probes to the reference genome's transcriptome</li>
+      <li>Filter the data to remove outliers.</li>
+      <li>Normalize</li>
+         <ul>
+         <li>For one channel data we perform a robust multi-array average (RMA) normalizations.</li>
+         <li>For two channel data we perform a Loess normalization</li>
+         </ul>
+      <li>Compute the average probe intensity per gene.</li>
+      <li>Compute the expression average per gene.</li>
+         <ul>
+         <li>First, average the technical replicates.</li>
+         <li>Second, average the biological replicates (if any).</li>
+         </ul>
+      <li>Optional: perform differential expression analysis if there is a sufficient number of biological replicates.</li>
+   </ul>
+</div> 
+
+
+<hr>
+<div class="anchor"><a name="Protein-Array"></a></div>
 <h2>Protein Array data</h2>
 <div class="method-details">
-   <p>VEuPathDB integrates protein array data from serm antibody microarray expeirments. Analysis details coming soon. </p>
+   <p>VEuPathDB integrates protein array data from serm antibody microarray experiments.  In general, the data comes to us as intensities associated with probes.  VEuPathDB does not reanalyze the original fluorescence data. Although each experiment and data set can have special considerations, we process the data according to the following outline:</p>
+
+   <ul>
+      <li>Map the array probes to the reference genome's transcriptome</li>
+      <li>Filter the data to remove outliers.</li>
+      <li>Normalize</li>
+         <ul>
+         <li>For one channel data we perform a robust multi-array average (RMA) normalizations.</li>
+         <li>For two channel data we perform a Loess normalization</li>
+         </ul>
+      <li>Compute the average probe intensity per gene.</li>
+      <li>Compute the expression average per gene.</li>
+         <ul>
+         <li>First, average the technical replicates.</li>
+         <li>Second, average the biological replicates (if any).</li>
+         </ul>
+      <li>Optional: perform differential expression analysis if there is a sufficient number of biological replicates.</li>
+   </ul>
 </div> 
 
 <hr>
+<div class="anchor"><a name="Metabolic-Pathways"></a></div>
 <h2>Metabolic Pathways</h2>
 <div class="method-details">
-   <p>VEuPathDB integrates metabolic pathways from <a href="https://www.genome.jp/kegg/" target="_blank">KEGG</a> and <a href="https://metacyc.org/" target="_blank">MetaCyc</a>. For TriTrypDB, pathways are also integrated from LeishCyc and TrypanoCyc. Metabolic pathways are associated with genes via Enzyme Commission annotations. </p>
+   <p>VEuPathDB integrates metabolic pathways from <a href="https://www.genome.jp/kegg/" target="_blank">KEGG</a> and <a href="https://metacyc.org/" target="_blank">MetaCyc</a>. For TriTrypDB, pathways are also integrated from <a href="http://vm-trypanocyc.toulouse.inra.fr/LEISH/organism-summary" target="_blank">LeishCyc</a> and <a href="http://vm-trypanocyc.toulouse.inra.fr/" target="_blank">TrypanoCyc</a>. Metabolic pathways are associated with genes via Enzyme Commission annotations. </p>
 </div> 
 
