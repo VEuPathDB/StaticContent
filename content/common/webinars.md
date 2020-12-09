@@ -26,7 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
     
-   <p><b>Thursday December 17th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
+   <p><b>Thursday January 14th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
    <p><b>Thursday March 11th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
    <p><b>Thursday May 13th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
    <p><b>Thursday July 8th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
