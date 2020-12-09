@@ -151,7 +151,7 @@ table#hor-minimalist-a tfoot tr {
     <details open>
       <summary><b>Exercises</b></summary>
       <ul>
-    <li>Search Strategy Basics</li>
+    <li><a href="{{'/documents/hinxtonparasite/01b_SearchStrategies_Exercise_PlasmoDB.pdf' | absolute_url}}">Search Strategy Basics</a></li>
     <li>Site Search</li>
     <li>Exploring Gene Pages</li>
     <li>JBrowse Basics</li>
@@ -160,7 +160,7 @@ table#hor-minimalist-a tfoot tr {
     <ul>
     <li>Companion Part I</li>
     <li>Companion Part II</li>
-    </ul>
+    </ul><br>
     </li>
     <li>Population Biology: SNPs and CNVs</li>
     <li>GO Enrichment</li>
@@ -168,7 +168,7 @@ table#hor-minimalist-a tfoot tr {
     <ul>
     <li>Galaxy Part I</li>
     <li>Galaxy Part II</li>
-    </ul>
+    </ul><br>
     </li>
     <li>Transcriptomic & Proteomic Searches</li>
     <li>Orthology Phylogenetic Searches</li>
