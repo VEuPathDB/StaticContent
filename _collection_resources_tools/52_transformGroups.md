@@ -55,10 +55,10 @@ category: [OrthoMCL]
   <p>A transform step allows you to quickly convert a list of groups into the sequences contained within the groups or a list of proteins into the groups they belong to. </p>
   <div class="search-strategies-feature--panels">
     <div>
-      <div>To transform a group result into proteins, click on the add step button then select the "transform into related records" option then select proteins.</div>
+      <div>To transform a group result into proteins, click on the 'Add a step' button, select "Transform into related records" and then select Proteins.</div>
       <img style="width: 45em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/grouptoprotein.png" | absolute_url }}" alt="groups to prteins"/><br/><br/>
     </div>
     <div>
-      <div>To transform a protein result into groups, click on the add step button then select the "transform into related records" option then select ortholog groups.   </div>
+      <div>To transform a protein result into groups, click on the 'Add a step' button, select "Transform into related records", and then select Ortholog Groups.   </div>
       <img style="width: 45em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/proteintogroup.png" | absolute_url }}" alt="proteins to groups"/><br/><br/>
     </div>

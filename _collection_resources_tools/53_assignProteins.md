@@ -9,7 +9,7 @@ permalink: '#assignProteins'
 category: [OrthoMCL]
 ---
 <div style="margin: auto; max-width: 51em;">
-  <p>If you have a set of proteins (like an entire proteome) and you want to discover orthologs in other species as well as prtein function, use a pre-configured workflow in VEuPathDB's Galaxy to assign proteins to OrthoMCL groups. This workflow uses BLASTP and the OrthoMCL algorithm to assign your set of proteins to groups. </p>
+  <p>If you have a set of proteins (like an entire proteome) and want to discover orthologs in other species as well as protein function, use a pre-configured workflow in VEuPathDB's Galaxy to assign proteins to OrthoMCL groups. This workflow uses BLASTP and the OrthoMCL algorithm to assign your set of proteins to groups. </p>
 <p>To assign proteins to groups:
 <ul>
 <li>Prepare a FASTA file of proteins that you would like to map to OrthoMCL groups</li>

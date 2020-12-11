@@ -17,7 +17,7 @@ Please visit the <a href="/a/app/static-content/OrthoMCL/faq.html">OrthoMCL FAQ<
 	<li>What group information is provided?</li>
 	<li>How are the Group Statistics calculated?</li>
 	<li>I recently sequenced a genome and want to use OrthoMCL to assign the proteins to ortholog groups. Can I do this?</li>
-	<li>How can I find all E. coli genes (protein sequences) which have human orthologs?</li>
+	<li>How can I find all <i>E. coli</i> genes (protein sequences) which have human orthologs?</li>
 </ol>
 
 </p>  
