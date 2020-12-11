@@ -51,7 +51,7 @@ category: [OrthoMCL]
   }
 </style>
 <div class="search-strategies-feature">
-  <p>There are three general ways to run searches in OrthoMCL:</p>
+  <p>The OrthoMCL website contains two types of data: (1) OrthoMCL groups and (2) protein sequences. You can search for groups or proteins in three general ways:</p>
   <div class="search-strategies-feature--panels">
     <div>
       <div>Site search, located at the top center of the page in the banner, allows you to identify groups or proteins based on keywords. A wild card (asteriks *) may be used in combination with words or IDs. For example, *choline, would identify results with the word 'choline' and any compound words ending in choline like 'acetylcholine'. </div>

@@ -25,13 +25,11 @@ tags: [general]
               <p>
                 For each ortholog group, the following information and analyses are provided:
                 <ul>
-                  <li><b>Phyletic Distribution</b> The number of proteins from each species that belong to this ortholog group. The black box indicates presence (with the number below the genome abbreviation representing number of proteins) while the white box indicates absence.</li>
-		  <li><b>Group Statistics</b>  A Core group may contain proteins from Core species only; in this case, statistics are provided for 'Core only'. Alternatively, a Core group may contain proteins from Core species as well as proteins from Peripheral species (that been mapped into the group); in this case, two sets of statistics are provided ('Core only' and 'Core+Peripheral'). A Residual group contains proteins from Peripheral species only; in this case, statistics are provided for 'Peripheral only'.</li>
-                  <li><b>EC Number</b>  A list of all EC numbers assigned to the proteins in the group (Core and Peripheral proteins).</li>
-                  <li><b>List of All Sequences</b>  The proteins in the group, along with their Core/Peripheral status and other useful information. All of the sequences can be downloaded by pressing the 'As Fasta file' or 'As new strategy' buttons.</li>
-                  <li><b>PFam domains (graphic)</b>  The list of PFam domains in the group, along with a graphical representation of the domain within the context of each protein sequence. This representation is useful in comparing the overall structure of each protein and thus identify outliers (that are caused by evolution or sequencing/gene model errors).</li>
-		  <li><b>PFam domains (details)</b>  The start and end location of each PFam domain within each protein sequence. In addition, this page offers a link-out to the PFam web page for each PFam domain.</li>
-                  <li><b>MSA</b>  Multiple Sequence Alignment of the proteins within an ortholog group, using MUSCLE 3.8. For groups consisting of more than 100 protein sequences, 100 random proteins were chosen from the group for alignment. To align a different set of proteins from this group, we recommend downloading sequences (see 'List of All Sequences' above) and using the <a href="https://www.ebi.ac.uk/Tools/msa/muscle/" target="_blank">MUSCLE website</a> or your favorite MSA program.</li>
+                  <li><b>Phyletic Distribution</b> The number of proteins from each taxonomic group or species that belong to this ortholog group.</li>
+		  <li><b>Group Summary</b>  A Core group may contain proteins from Core species only; in this case, statistics are provided for 'Core only'. Alternatively, a Core group may contain proteins from Core species as well as proteins from Peripheral species (that been mapped into the group); in this case, two sets of statistics are provided ('Core only' and 'Core+Peripheral'). A Residual group contains proteins from Peripheral species only; in this case, statistics are provided for 'Peripheral only'.</li>
+                  <li><b>Summary of EC Numbers</b>  A list of all EC numbers assigned to the proteins in the group (Core and Peripheral proteins).</li>
+                  <li><b>List of Proteins</b>  The proteins in the group, along with their Core/Peripheral status and other useful information. View the protein's page by clicking on the Accession link. The sequences can be selected for alignment with Clustal Omega. All of the protein sequences in this group can be downloaded: (1) copy the group name and go to <a href="a/app/search/sequence/ByGroupIdList">Search for Proteins by Group Id(s)</a>, (2) paste the group name in the box and press Get Answer, (3) on the results page, press Download, and (4) on the Download page, choose FASTA and the Download Type.</li>
+                  <li><b>PFam domains</b>  The first table, PFam Legend, contains a list of PFam domains in the group, along with a graphical representation of the domain. The second table, PFam Architecture of Each Protein shows the overall domain structure of each protein, scaled to the protein's length. This representation is useful in comparing the overall structure of each protein and thus identifying outliers (that are caused by evolution or sequencing/gene model errors). The coordinates of these domains can be downloaded using the Download button.</li>
                   <li><b>Cluster graph</b>  Displays the sequence similarity between proteins in the group, using software first developed by Leon Goldovsky, EBI. This is useful in identifying a set of proteins that have diverged from the others, because this diverged set will cluster together in the graph. Graphs of 500 or more proteins cannot be created here; contact us at <a href="mailto:help@orthomcl.org" target="_blank">help@orthomcl.org</a> to request the Cluster layout data that can be used with other clustering software.</li>
                 </ul>
               </p>
@@ -46,7 +44,7 @@ tags: [general]
 		  <li><b>Num Pairs With Similarity</b>  The total number of protein pairs where the NCBI BLASTP E-Value is &lt; 1e-5 and the percent match length is &gt;= 50%.</li>
 		  <li><b>Max Possible Pairs</b>  The maximum number of unique protein pairs that are possible in the group, equal to n*(n-1)/2, where n = number of proteins in the group.</li>
 		  <li><b>% Protein Pairs With Similarity</b>  The percentage of proteins pairs where the two proteins are considered similar, equal to 100*actual/possible, where actual = Num Pairs With Similarity and possible = Max Possible Pairs.</li>
-		  <li><b>Avg % Homology</b>  The percentage of all possible protein pairs where the two proteins are orthologs, co-orthologs, or inparalogs.</li>
+		  <li><b>% Homology</b>  The percentage of all possible protein pairs where the two proteins are orthologs, co-orthologs, or inparalogs.</li>
 		  <li><b>Avg Blast E-value</b>  The average Blast E-value for protein pairs, considering only pairs where the two proteins are considered similar (E-Value &lt; 1e-5 and percent match length &gt;= 50%).</li>
 		</ul>
               </p>
@@ -54,7 +52,7 @@ tags: [general]
 
             <li>
               <span class="question">I recently sequenced a genome and want to use OrthoMCL to assign the proteins to ortholog groups. Can I do this?</span>
-              <p>Yes. You can map your set of proteins to OrthoMCL Groups at the <a href="http://veupathdb.globusgenomics.org/" target="_blank">VEuPathDB Galaxy server</a>. To get started, visit our page: <a href="https://beta.orthomcl.org/orthomcl.beta/proteomeUpload.do" target="_blank">Map your proteins to OrthoMCL groups</a>
+              <p>Yes. You can map your set of proteins to OrthoMCL Groups at the VEuPathDB Galaxy server. To get started, visit our <a href="/a/app/galaxy-orientation">Assign Proteins to Groups</a>.
               </p>
             </li>
 
@@ -63,7 +61,7 @@ tags: [general]
               <p>
                 OrthoMCL-DB includes the <a href="http://code.google.com/p/strategies-wdk/" target="_blank">StrategiesWDK</a> system to allow you to form complex search strategies. In this case, several steps are required to find the answer:
                 <ol>
-                  <li>Find all ortholog groups that contain both human and <i>E. coli</i> sequences.  To do this, on the OrthoMCL home page select the "Phyletic Pattern" search under the "Identify Ortholog Groups" heading.  On that search's page, follow these steps</li>
+                  <li>Find all ortholog groups that contain both human and <i>E. coli</i> sequences.  To do this, in the search menu, select <a href="/a/app/search/group/GroupsByPhyleticPattern">Ortholog Groups-Phyletic Pattern</a>. On the search page, follow these steps</li>
                   <ol>
                     <li>Click once on the gray circle next to "ecol" and click once on the gray circle next to "hsap".  Clicking once will convert the gray circle into a green check mark indicating that the organism or phyletic group have been selected.</li>
                     <li>An alternative method for defining the phyletic pattern is to use an orthology phyletic pattern expression.  For this example the expression would be "ecol+hsap=2T".  Additional details describing phyletic pattern expressions are available on the search page.</li>
