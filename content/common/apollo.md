@@ -45,8 +45,10 @@ div.centered-button a {
       <p>
 Apollo help and documentation:
 <ul> 
-  <li><a href="https://youtu.be/RMXZDBMh8Fo">Video tutorial (57:40 min)</a></li>
-  <li>Three video tutorials showing <a href="https://youtu.be/JrprCwtU6wE">basic functions</a> (2:22 min), <a href="https://youtu.be/khrQBhYZnwE">how to merge</a> (6:22 min) and <a href="https://youtu.be/zzTA84U-KGk">split (2:56 min) genes</li>
+  <li>Video tutorials:
+  <ul>
+  <li><a href="https://youtu.be/RMXZDBMh8Fo">Comprehensive webinar (57:40 min)</a></li>
+  <li>Three short clips showing <a href="https://youtu.be/JrprCwtU6wE">basic functions</a> (2:22 min), <a href="https://youtu.be/khrQBhYZnwE">how to merge</a> (6:22 min) and <a href="https://youtu.be/zzTA84U-KGk">split (2:56 min) genes</li>
   <li><a href="/a/app/static-content/apolloQuickCommands.html">Quick commands</a></li> 
   <li><a href="https://apollo.veupathdb.org/1613634913933131701353630290/about">About Apollo</a></li> 
   <li><a href="https://genomearchitect.readthedocs.io/en/latest/UsersGuide.html">User Guide</a></li> 
