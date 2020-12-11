@@ -39,7 +39,7 @@ div.centered-button a {
         Utilise Apollo to integrate new or update current structural and functional data for gene models in the organisms available in VEuPathDB.
       </p>
       <p>
-        All <a href="/a/app/search/organism/GenomeDataTypes/result">organisms in VectorBase</a> are available for community curation. A few selected species are also available from AmoebaDB, PiroplasmaDB, ToxoDB and FungiDB.   
+        All <a href="/a/app/search/organism/GenomeDataTypes/result">organisms in VectorBase</a> are available for community curation. A few selected species are also available from AmoebaDB, PiroplasmaDB, ToxoDB and FungiDB; more species from these and other VEuPathDB component sites coming in future releases.  
       </p>
       
       <p>
