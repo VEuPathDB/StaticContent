@@ -53,6 +53,7 @@ Apollo help and documentation:
   <li><a href="https://github.com/gmod/apollo/issues/new">Request feature/Report a bug</a></li> 
   <li><a href="https://jbrowse.org/jb2/">Powered by JBrowse</a></li> 
   <li><a href="https://apollo.veupathdb.org/56133187121381847651851098590/jbrowse/web_services/api">Web Service API</a></li> 
+
 </ul>
   </p>
       
