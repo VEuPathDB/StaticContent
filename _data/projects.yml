@@ -28,6 +28,11 @@ MicrosporidiaDB:
   geneId: ECU03_0820i
   gbrowseTrack: ExpressionGraphs
   organism: Amphiamblys sp. WSBS2006
+OrthoMCL:
+  webapp: orthomcl
+  geneId: TA14985
+  gbrowseTrack: ExpressionGraphs
+  organism: Babesia bigemina strain BOND
 PiroplasmaDB:
   webapp: piro
   geneId: TA14985
