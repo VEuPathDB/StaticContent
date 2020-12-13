@@ -1,4 +1,4 @@
-{% assign project = page.dir | remove: "/" %}
+{% assign project = page.dir | remove: "content" | remove: "/" %}
 {
   "cards": {% capture cardsoutput %}[{% for tut in site.data.workshop_exercises.cards %}{% if tut.links[0].name != '' %}{% if tut.exclude contains project%}{% elsif tut.include contains project or tut.include == nil %}
   {

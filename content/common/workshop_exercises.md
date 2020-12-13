@@ -2,7 +2,7 @@
 permalink: /oldtutorials
 title: VEuPathDB tutorials
 tags: [tutorial]
-published: false
+#published: false
 ---
 <h1>VEuPathDB tutorials</h1>
 
