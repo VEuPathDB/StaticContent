@@ -1,6 +1,6 @@
 {% assign project = page.dir | remove: "content" | remove: "/" %}
 {
-  "cards": {% capture cardsoutput %}[{% for tut in site.data.workshop_exercises.cards %}{% if tut.links[0].name != '' %}{% if tut.exclude contains project%}{% elsif tut.include contains project or tut.include == nil %}
+  "cards": {% capture cardsoutput %}[{% for tut in site.data.workshop_exercises.cards %}{% if tut.exclude contains project%}{% elsif tut.include contains project or tut.include == nil %}
   {
     "card":{{ tut.card | jsonify }},
     "description":{{ tut.description | jsonify }},
@@ -11,5 +11,5 @@
       "path":{{ item.path | jsonify }},
       "description":{{ item.description | jsonify }}
     },{% endfor %}]{% endcapture %}{{ linksoutput | remove: ",]" | append: "]" }}
-  },{% endif %}{% endif %}{% endfor %}]{% endcapture %}{{ cardsoutput | remove: ",]" | append: "]" }}
+  },{% endif %}{% endfor %}]{% endcapture %}{{ cardsoutput | remove: ",]" | append: "]" }}
 }
