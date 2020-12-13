@@ -1,7 +1,7 @@
 ---
 layout: null
 title: VEuPathDB tutorials
-permalink: /tutorials
+permalink: :path/tutorials
 tags: [tutorial]
 ---
 {% assign project = page.dir | remove: "content" | remove: "/"  %}

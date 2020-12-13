@@ -1,5 +1,5 @@
 ---
 layout: null
-permalink: PlasmoDB/workshop_exercises.json
+permalink: :path/workshop_exercises.json
 ---
 {% include workshop_exercises.json %}
