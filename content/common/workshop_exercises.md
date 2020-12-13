@@ -1,5 +1,5 @@
 ---
-permalink: /oldtutorials
+permalink: /tutorials
 title: VEuPathDB tutorials
 tags: [tutorial]
 #published: false
