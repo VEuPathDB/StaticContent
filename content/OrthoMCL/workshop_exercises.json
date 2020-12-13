@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: OrthoMCL/workshop_exercises.json
+---
+{% include workshop_exercises.json %}
