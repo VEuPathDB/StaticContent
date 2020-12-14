@@ -161,7 +161,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> Clinical and Epidemiologic Data Exploration for Genomic Researchers<br>
 <b>Date:</b> Wednesday December 9th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link:</b> <a href="https://youtu.be/fpGjAhLGn8Y?list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh">https://youtu.be/fpGjAhLGn8Y?list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh</a><br>
+<b>Recording Link:</b> <a href="https://youtu.be/fpGjAhLGn8Y">https://youtu.be/fpGjAhLGn8Y</a><br>
 <b>Additional Details:</b> In this webinar, we'll cover key features and studies in ClinEpiDB that may be of interest to biologists working on infectious diseases.
 <br>
 </div>
