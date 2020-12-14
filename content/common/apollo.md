@@ -39,20 +39,21 @@ div.centered-button a {
         Utilise Apollo to integrate new or update current structural and functional data for gene models in the organisms available in VEuPathDB.
       </p>
       <p>
-        All <a href="/a/app/search/organism/GenomeDataTypes/result">species in this website</a> are available for community curation.
+        All <a href="/a/app/search/organism/GenomeDataTypes/result">organisms in VectorBase</a> are available for community curation. A few selected species are also available from AmoebaDB, PiroplasmaDB, ToxoDB and FungiDB; more species from these and other VEuPathDB component sites coming in future releases.  
       </p>
       
       <p>
 Apollo help and documentation:
 <ul> 
-  <li><a href="https://youtu.be/RMXZDBMh8Fo">Video tutorial (57:40 min)</a></li>
-  <li>Three video tutorials showing basic functions (2:22 min), how to merge (6:22 min) and split (2:56 min) genes</li>
+  <li>Comprehensive webinar to learn <a href="https://youtu.be/RMXZDBMh8Fo">how to use Apollo</a> (57:40 min)</li>
+  <li>Three short clips showing <a href="https://youtu.be/JrprCwtU6wE">basic functions</a> (2:22 min), <a href="https://youtu.be/khrQBhYZnwE">how to merge</a> (6:22 min) and <a href="https://youtu.be/zzTA84U-KGk">split </a>(2:56 min) genes</li>
   <li><a href="/a/app/static-content/apolloQuickCommands.html">Quick commands</a></li> 
   <li><a href="https://apollo.veupathdb.org/1613634913933131701353630290/about">About Apollo</a></li> 
   <li><a href="https://genomearchitect.readthedocs.io/en/latest/UsersGuide.html">User Guide</a></li> 
   <li><a href="https://github.com/gmod/apollo/issues/new">Request feature/Report a bug</a></li> 
   <li><a href="https://jbrowse.org/jb2/">Powered by JBrowse</a></li> 
   <li><a href="https://apollo.veupathdb.org/56133187121381847651851098590/jbrowse/web_services/api">Web Service API</a></li> 
+
 </ul>
   </p>
       

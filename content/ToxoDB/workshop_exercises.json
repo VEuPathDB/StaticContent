@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: :path/workshop_exercises.json
+---
+{% include workshop_exercises.json %}

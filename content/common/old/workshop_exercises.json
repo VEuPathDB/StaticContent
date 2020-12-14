@@ -1,5 +1,6 @@
 ---
 permalink: workshop_exercises
 title: workshop_exercises
+published: false
 ---
 {{ site.data.workshop_exercises | jsonify }}

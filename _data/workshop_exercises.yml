@@ -2,13 +2,15 @@ cards:
   - card: Gene Pages
     description: Explore the data and images on gene pages 
     date: 2020/10/27
+    exclude: OrthoMCL
     links:
       - name: Gene Pages
         path: Exploring-the-Gene-Page.pdf
         description:
   - card: Genetic Variation
     description: SNPs and CNV based on whole genome sequencing
-    date: 2020/10/27
+    date: 2020/10/27i
+    exclude: OrthoMCL
     links:
       - name: Genetic Variation
         path: Genetic-Variation.pdf
@@ -16,6 +18,7 @@ cards:
   - card: Genome Annotation
     description: Annotate your genome against a reference using Companion, an easy and reliable parasite genome annotation resource
     date: 2020/10/27
+    exclude: OrthoMCL
     links:
       - name: Companion (Part 1)
         path: Companion-1.pdf
@@ -26,6 +29,7 @@ cards:
   - card: Genome Browser
     description: Basic tutorial on how to effectively explore data in the genome browser including track selection and configuration.
     date: 2020/04/15
+    exclude: OrthoMCL
     links:
       - name: Genome browser basics
         path: JBrowseBasics.pdf
@@ -33,6 +37,7 @@ cards:
   - card: Genome Browser Advanced
     description: Self-led exercise on investigating genes models and structural annotations with RNA-seq expression data. 
     date: 2020/10/27
+    exclude: OrthoMCL
     links:
       - name: RNA-Seq data & gene models
         path: JBrowse-RNAseq.pdf
@@ -40,6 +45,7 @@ cards:
   - card: GO Enrichment
     description: Run a GO enrichment on a set of genes from a fold change RNA-Seq search 
     date: 2020/10/27
+    exclude: OrthoMCL
     links:
       - name: GO Enrichment
         path: GO-Enrichment.pdf
@@ -47,6 +53,7 @@ cards:
   - card: Host Response
     description: Explore host responses by building a search strategy in HostDB
     date: 2020/10/27
+    exclude: OrthoMCL
     links:
       - name: Host Response (HostDB)
         path: Host-response.pdf
@@ -54,6 +61,7 @@ cards:
   - card: Metabolic Pathways
     description: Learn to use metabolic pathway searches and visualization tools. 
     date: 2020/10/28
+    exclude: OrthoMCL
     links:
       - name: Metabolic Pathways
         path: Metabolic-Pathways.pdf
@@ -68,6 +76,7 @@ cards:
   - card: Regular expressions & colocation
     description: Use regular expressions to identify protein or DNA patters. Use the colocation tool to identify DNA segments based on their relative location on the genome.
     date: 2020/04/15
+    exclude: OrthoMCL
     links:
       - name: Regular expressions & genomic colocation
         path: RegEXcolocate.pdf
@@ -96,6 +105,7 @@ cards:
   - card: Transcriptomics and Proteomics
     description: Explore searches that return genes based on expression evidence from RNA-Seq, microaray and proteomics searches.
     date: 2020/10/28
+    exclude: OrthoMCL
     links:
       - name: Expression searches
         path: Transcriptomic-proteomics.pdf
@@ -103,6 +113,7 @@ cards:
   - card: Variant Calling
     description: Analyze DNA sequence for variants using a workflow in VEuPathDB Galaxy 
     date: 2020/05/15
+    exclude: OrthoMCL
     links:
       - name: Variant calling in VEuPathDB galaxy (Part 1)
         path: VariantAnalysisVEuPathDBGalaxyPart1.pdf
