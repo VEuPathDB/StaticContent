@@ -14,7 +14,7 @@ tags: [general]
               <span class="question">What is the difference between a Core group and a Residual group?</span>
               <p>
                 <ul>
-                  <li>A <b>Core</b> group is initially formed using all of the proteins from 150 Core species. As proteins from Peripheral species are added to the site, each protein is mapped to its most closely-related Core group. Thus, many Core groups contain proteins from Core and Peripheral species. These groups are stable across sub-releases (e.g., 6.1, 6.2, etc), though the groups may expand as Peripheral species are added to the site. The Core group names have the format OG6_xxxxxx.</li>
+                  <li>A <b>Core</b> group is initially formed using all of the proteins from 150 Core species, which were carefully selected based on two criteria: (1) relatively even sampling across the tree of life and (2) genome and annotation quality. Any species that are subsequently added to the OrthoMCL website are termed Peripheral species. Each protein from Peripheral species is mapped to its most closely-related Core group. Thus, many Core groups contain proteins from Core and Peripheral species. These groups are stable across sub-releases (e.g., 6.1, 6.2, etc), though the groups may expand as Peripheral species are added to the site. The Core group names have the format OG6_xxxxxx.</li>
                   <li>A <b>Residual</b> group is formed at every sub-release (e.g., 6.1, 6.2, etc) using all of the proteins from Peripheral species that did not meet the thresholds necessary to map into a Core group. These groups contain proteins only from Peripheral species. The Residual group names have the format OG6r1_xxxxxx.</li>
                 </ul>
               </p>
