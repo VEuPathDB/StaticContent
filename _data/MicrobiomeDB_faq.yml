@@ -50,7 +50,6 @@
            looking at other organisms in complex communities (e.g. fungi and prokaryotes), 
            as well as identification of samples based on the relative abundance of bacterial genes (e.g. antibiotic resistance, virulence factors, etc.). 
            Taken together, our goal is to develop a full-featured, open-source platform for a systems biology view of microbial communities.  
-\
   uid: g4
   projects: "MicrobiomeDB"
 
@@ -60,7 +59,6 @@
            We can help with that too!
            If you are interested in analyzing your own raw sequence data from 16S, ITS or shotgun metagenomic studies, check out **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource.
            You can run complete workflows on Nephele and produce a 'magic link' to your results.  This link is an authenticated URL that can be copied/pasted into the 'My Data Sets' page of MicrobiomeDB, thus allowing direct transfer of results from Nephele to MicrobiomeDB for filtering, querying and visualizing your results.
-
   uid: g5
   projects: "MicrobiomeDB"
 
@@ -73,8 +71,6 @@
            If you are using QIIME to analyze your 16S data, be sure to take a look at [our QIIME2 protocol](https://www.notion.so/Analysis-of-16S-data-using-QIIME2-f225c95e34784cc3b726cff2d4d137cc). 
            Instructions for generating a .biom file with metadata included are in the 'OPTIONAL: export .biom file' step in the protocol.
            If you're looking for web-based access to QIIME or MOTHUR, you may be interested in the tools available at **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource for preprocessing and analysis of 16S rRNA marker gene data.
-           
-
   uid: g6
   projects: "MicrobiomeDB"
 
