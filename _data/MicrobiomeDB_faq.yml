@@ -43,19 +43,26 @@
   question: "Does the site handle shotgun metagenomic data?"
   answer: |
            If you have a .biom file from your metagenomic study, then you can upload this directly to MicrobiomeDB under the Workspace menu (see next FAQ below).
-           We do not yet handle loading of raw sequence files from metagenomic studies, but this is one of our future goals. 
+           We do not yet handle loading of raw sequence files from metagenomic studies, but this feature is currently under development and will be coming online soon! 
            Although the datasets currently loaded in the site are from 16S rDNA marker gene sequencing, 
            we are working on adding functionality for handling 'shotgun' metagenomic sequence data, 
            potentially allowing interrogation of community composition at the species or strain level, 
            looking at other organisms in complex communities (e.g. fungi and prokaryotes), 
            as well as identification of samples based on the relative abundance of bacterial genes (e.g. antibiotic resistance, virulence factors, etc.). 
            Taken together, our goal is to develop a full-featured, open-source platform for a systems biology view of microbial communities.  
-           If you are interested in analyzing your own shotgun metagenomic data, check out the tools available at **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource.
-
+\
   uid: g4
   projects: "MicrobiomeDB"
 
+- type: general
+  question: "What if I don't have a .biom file, but still want help analyzing raw sequence data?"
+  answer: |
+           We can help with that too!
+           If you are interested in analyzing your own raw sequence data from 16S, ITS or shotgun metagenomic studies, check out **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource.
+           You can run complete workflows on Nephele and produce a 'magic link' to your results.  This link is an authenticated URL that can be copied/pasted into the 'My Data Sets' page of MicrobiomeDB, thus allowing direct transfer of results from Nephele to MicrobiomeDB for filtering, querying and visualizing your results.
 
+  uid: g5
+  projects: "MicrobiomeDB"
 
 - type: general
   question: "Can I privately analyze my own unpublished data using the tools on MicrobiomeDB?"
@@ -68,7 +75,7 @@
            If you're looking for web-based access to QIIME or MOTHUR, you may be interested in the tools available at **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource for preprocessing and analysis of 16S rRNA marker gene data.
            
 
-  uid: g5
+  uid: g6
   projects: "MicrobiomeDB"
 
 
@@ -80,7 +87,7 @@
            First, we have a strong interest in studies of the microbiome in infant and materal/child health and in enteric diseases.  
            Second, we're also interested in understanding how different animal models (mice, dogs, pigs, etc) might help us understand the role of the microbiome during health and disease.  
            Finally, we're interested in multifactorial and longitudinal datasets, since these qualities of datasets provide a unique opportunity to employ data mining and visualization to reveal interesting associations.
-  uid: g6
+  uid: g7
   projects: "MicrobiomeDB"
 
 
@@ -103,7 +110,7 @@
            are at the top of the page, while authors are listed in the 'Principal Investigator and 
            Collaborators' table at the bottom of the page. You can also find links to original study 
            publications, which you may want to cite.
-  uid: g7
+  uid: g8
   projects: "MicrobiomeDB"
 
 
@@ -113,7 +120,7 @@
   answer: 
            Yes! Our code can be found on **[Github](https://github.com/VEuPathDB?q=microbiome&type=&language=)**, 
            and we welcome input from the community. Check out our **[Shiny app scripts](https://github.com/VEuPathDB/MicrobiomeWebsite/tree/master/View/lib/R/shiny/apps)** or the code we use for running a **[DADA2-based automated data loading workflow](https://github.com/VEuPathDB/DJob/tree/master/DistribJobTasks/bin/dada2)**, which processes fastq files for all the studies on MicrobiomeDB and produces taxonomy tables that are represented on the site.
-  uid: g8
+  uid: g9
   projects: "MicrobiomeDB"
 
 
@@ -122,7 +129,7 @@
   question: "Where did you get the images on the MicrobiomeDB homepage?"
   answer: 
            Our **[banner image](https://phil.cdc.gov/Details.aspx?pid=18128)** shows methicillin-resistant, *Staphylococcus aureus* (MRSA) bacteria in the process of being ingested by a neutrophil, and our **[icon](https://phil.cdc.gov/Details.aspx?pid=18170)** shows *Klebsiella pneumoniae* interacting with a human neutrophil. Both images are courtesy of the National Institute for Allergy and Infectious Disease and are free of any copyright restrictions
-  uid: g9
+  uid: g10
   projects: "MicrobiomeDB"
 
 
@@ -135,7 +142,7 @@
            For each of these studies, only a subset of participants had samples collected and processed for microbiome analysis.  Moreover, the sample metadata available on MicrobiomeDB for these studies includes only
            what was made available in the publication describing the results from the microbiome study.  Additional sample- and participant-level clinical and epidemiological data (often times extensive)
            are available for these participants and many more participants at our partner site, [ClinEpiDB.org](https://clinepidb.org/ce/app/).
-  uid: g10
+  uid: g11
   projects: "MicrobiomeDB"
 
 
@@ -148,7 +155,7 @@
            Although we use raw sequence data (fastq files) when we load data into our website, we do not host these files for download. 
            For published studies the raw data is available on the [SRA](https://www.ncbi.nlm.nih.gov/sra/) or [ENA](https://www.ebi.ac.uk/ena).
            If you're interested in accessing raw data for unpublished studies, we can faciliate contact with the data providers.
-  uid: g11
+  uid: g12
   projects: "MicrobiomeDB"
 
 
