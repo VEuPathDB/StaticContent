@@ -2,6 +2,7 @@
 title: VEuPathDB methods
 permalink: /methods
 tags: [general]
+published: false
 ---
 <style>
 
