@@ -39,6 +39,7 @@ tags: [general]
   <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+   <p><b>Wednesday December 9th, 2020:</b> <a href="#clinepi">Clinical and Epidemiologic Data Exploration for Genomic Researchers</a></p>
    <p><b>Thursday November 12th, 2020:</b> <a href="#release49">Release 49 Webinar</a></p>
    <p><b>Thursday September 17th, 2020:</b> <a href="#microbiome">Introduction to MicrobiomeDB</a></p>
    <p><b>Thursday September 3rd, 2020:</b> <a href="#release48">Release 48 Webinar</a></p>
@@ -72,7 +73,6 @@ Release webinar dates are subject to change due to production issues that may ar
 
 <div class="contents">
 
-<hr>
 <div class="anchor"><a name="release50"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 50 Webinar<br>
@@ -156,6 +156,17 @@ Release webinar dates are subject to change due to production issues that may ar
 <hr>
 <div class="contents">
 
+<div class="anchor"><a name="clinepi"></a></div>
+<div class="webinar">
+<b>Topic:</b> Clinical and Epidemiologic Data Exploration for Genomic Researchers<br>
+<b>Date:</b> Wednesday December 9th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link:</b> <a href="https://youtu.be/fpGjAhLGn8Y">https://youtu.be/fpGjAhLGn8Y</a><br>
+<b>Additional Details:</b> In this webinar, we'll cover key features and studies in ClinEpiDB that may be of interest to biologists working on infectious diseases.
+<br>
+</div>
+
+<hr>
 <div class="anchor"><a name="release49"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 49 Webinar<br>
