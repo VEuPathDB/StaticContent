@@ -73,8 +73,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <hr> 
 <div id="contents">
     
-
-<hr>
 <div class="anchor"><a name="release50"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 50 Webinar<br>
@@ -158,7 +156,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <hr>
 <div id="contents">
 
-<hr>
 <div class="anchor"><a name="clinepi"></a></div>
 <div class="webinar">
 <b>Topic:</b> Clinical and Epidemiologic Data Exploration for Genomic Researchers<br>
