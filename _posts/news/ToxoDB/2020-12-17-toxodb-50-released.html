@@ -21,34 +21,24 @@ category: [ToxoDB,VEuPathDB]
 <section>
   <h3>New data in {{project}} 50</h3>
   <div style="margin-left: 3em;">
-    <h4>EBI Pipeline</h4>
-    {{project}} 50 represents the first release that employs the EBI pipeline for analyzing genomes and RNA-Seq data. (<a href="/a/app/static-content/methods.html">{{project}} Analysis Methods</a>) All genomes were run through the EBI pipeline, updating all analyses such as InterproScan and repeat identification.  While much of the EBI pipeline is the same as our previous in-house pipeline, these differences are noted:
-    <ul>
-      <li>Expression values calculated from RNA-Seq data are now presented as TPM (Transcripts Per Kilobase Million) instead of FPKM (Fragments Per Kilobase Million) or RPKM (Reads Per Kilobase Million). <a href="https://rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/" target="_blank">Learn more</a></li>
-      <li>Signal peptide predictions are now made with <a href="http://www.cbs.dtu.dk/services/SignalP-4.1/" target="_blank">SignalP-4.1</a>, updated from <a href="http://www.cbs.dtu.dk/services/SignalP-3.0/" target="_blank">SignalP-3.0</a>.</li>
-    </ul>
+    
     <h4>Annotated genome</h4>
     <ul>
       <li>
-        <a href="/a/app/record/dataset/DS_60798ff9a5"><i>Besnoitia besnoiti</i> strain Bb-Ger1</a> &ndash; PacBio sequence assembled with HGAP v3. <a href="http://www.ncbi.nlm.nih.gov/pubmed/29146849" target="_blank">Schares et al. 2017</a>.
+        <a href="/a/app/record/dataset/DS_413cde922d"><i>oxoplasma gondii </i> strain RH-88</a> &ndash; Genome Sequence and Annotation for Toxoplasma gondii RH-88. Genomic material was obtained from the human isolate RH-88 collected in 2016. Sequencing was conducted using PacBio and data was assembled (HGAP v.3 and mapping to ME49 reference genome) into 13 nuclear chromosomes and 1 apicoplast genome. Consensus sequence was polished with pilon v1.22 after mapping RH-88 Illumina sequencing reads onto assembled contigs with bowtie2.
+        <a href="https://www.ncbi.nlm.nih.gov/assembly/GCA_013099955.1" target="_blank">NCBI Assembly page</a>.  Lorenzi, Sibley, et al. (JCVI) 
       </li>
     </ul>
-    <h4>Unannotated genome sequence</h4>
+    <h4>Proteomics</h4>
     <ul>
       <li>
-        <a href="/a/app/record/dataset/DS_18b198ca24"><i>Toxoplasma gondii</i> strain RH 2016</a> &ndash; Full genome sequence for <i>Toxoplasma gondii</i> strain RH 2016 - sequenced with Illumina methods and assembled with SOAPdenovo v. May-2013.  <a href="http://www.ncbi.nlm.nih.gov/pubmed/27355363" target="_blank">Lau et al. 2016</a>.
+        <a href="/a/app/record/dataset/DS_81ccbd2a97">Self-assembled vesicles (RH) quantitative proteomics</a> &ndash; Quantitative proteomes of self-assembled vesicles from Toxoplasma gondii RH. Samples include ectosomes, exosomes, and ecto/exo supernatant.  <a href="http://www.ncbi.nlm.nih.gov/pubmed/31434009" target="_blank"> Ramírez-Flores et al. 2019 <a>.
       </li>
     </ul>
-    <h4>Transcriptomics</h4>
+    <h4>Transcription Start Sites</h4>
     <ul>
       <li>
-        <a href="/a/app/record/dataset/DS_35f37f1f7a">Tachyzoite and Cyst RNA-seq</a> &ndash; RNA sequencing of Besnoitia besnoiti Lisbon14 tachyzoite and cyst transcriptomes. <a href="https://www.paras.uzh.ch/de/research/molecularparasitology.html" target="_blank">Adrian Hehl labs</a>.
-      </li>
-    </ul>
-    <h4>RFLP Analysis</h4>
-    <ul>
-      <li>
-        <a href="/a/app/record/dataset/DS_b23482fada"> A canine isolate of <i>Toxoplasma gondii</i></a> &ndash; RFLP genotype of an isolate of <i>Toxoplasma gondii</i> obtained from a dog with neurological disease in the city of Salvador, Brazil.
+        <a href="/a/app/record/dataset/DS_011c12b8d3">Genome-wide mapping of transcription initiation</a> &ndash; Strand-specific 5′-end RNA sequencing reads were collapsed onto the 5′-most nucleotide (5′ tag) to generate maps of transcription initiation events.  Markus et al. Frontiers in Cellular and Infection Microbiology in press <a href="https://louridolab.wi.mit.edu/" target="_blank">Lourido Lab</a>.
       </li>
     </ul>
   </div>
