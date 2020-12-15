@@ -479,8 +479,8 @@
       more reliable than those with XM_XXXXXX accessions (predicted mRNA sequences).
 - term: Reference genome sequence
   description: The community gold standard genome sequence. Usually the most complete 
-  assembly including an annotation. Reference genome sequences do change as superior 
-  assemblies and annotation become available.
+      assembly including an annotation. Reference genome sequences do change as superior 
+      assemblies and annotation become available.
 - term: RefSeq noncoding RNA
   description: Nonredundant noncoding RNA (ncRNA) sequence in the RefSeq database.
       RefSeq <a href="#ncRNA">ncRNA</a> sequences with an NR_XXXXXX accession are
