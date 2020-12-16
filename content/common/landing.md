@@ -64,4 +64,11 @@ title: VEuPathDB landing
 <p align="center">
 <iframe src="https://calendar.google.com/calendar/embed?src=c_qlogpapbubfhu3g7rh3ek289ac%40group.calendar.google.com&ctz=America%2FNew_York" style="border: .3" width="1000" height="500" frameborder="0" scrolling="no"></iframe>
 </p>
-
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
+<script type="text/javascript">
+ var timezone = encodeURIComponent(jstz.determine().name()); 
+ var pref = '<iframe src="https://calendar.google.com/calendar/embed?mode=agenda&src=src=YnJjZ2F0ZXdheUBnbWFpbC5jb20&amp;src=Y19xbG9ncGFwYnViZmh1M2c3cmgzZWsyODlhY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=YnZicmMxQGdtYWlsLmNvbQ&amp;&ctz=';
+ var suff = '" style=" border-width:0 " width="1000" height="500" frameborder="0" scrolling="no"></iframe>';
+ var iframe_html = pref + timezone + suff;
+ document.getElementById('calendar-container').innerHTML = iframe_html;
+</script>
