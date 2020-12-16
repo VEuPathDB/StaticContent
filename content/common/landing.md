@@ -60,7 +60,7 @@ title: VEuPathDB landing
   </div>
 
 </div>
-<div>
-<iframe src="https://calendar.google.com/calendar/embed?src=c_qlogpapbubfhu3g7rh3ek289ac%40group.calendar.google.com&ctz=America%2FNew_York" style="border: .3" width="1000" height="500" frameborder=".3" scrolling="no" align="middle"></iframe>
-</div>
+<p align="center">
+<iframe src="https://calendar.google.com/calendar/embed?src=c_qlogpapbubfhu3g7rh3ek289ac%40group.calendar.google.com&ctz=America%2FNew_York" style="border: .3" width="1000" height="500" frameborder="0" scrolling="no"></iframe>
+</p>
 
