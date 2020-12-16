@@ -67,7 +67,7 @@ title: VEuPathDB landing
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
 <script type="text/javascript">
  var timezone = encodeURIComponent(jstz.determine().name()); 
- var pref = '<iframe src="https://calendar.google.com/calendar/embed?mode=agenda&src=src=YnJjZ2F0ZXdheUBnbWFpbC5jb20&amp;src=Y19xbG9ncGFwYnViZmh1M2c3cmgzZWsyODlhY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=YnZicmMxQGdtYWlsLmNvbQ&amp;&ctz=';
+ var pref = '<iframe src="https://calendar.google.com/calendar/embed?src=YnJjZ2F0ZXdheUBnbWFpbC5jb20&amp;src=Y19xbG9ncGFwYnViZmh1M2c3cmgzZWsyODlhY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=YnZicmMxQGdtYWlsLmNvbQ&amp;&ctz=';
  var suff = '" style=" border-width:0 " width="1000" height="500" frameborder="0" scrolling="no"></iframe>';
  var iframe_html = pref + timezone + suff;
  document.getElementById('calendar-container').innerHTML = iframe_html;
