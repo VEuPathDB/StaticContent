@@ -46,7 +46,7 @@ div.centered-button a {
 Apollo help and documentation:
 <ul> 
   <li>Comprehensive webinar to learn <a href="https://youtu.be/RMXZDBMh8Fo">how to use Apollo</a> (57:40 min)</li>
-  <li>A "sandbox" is available for you to get familiar with all Apollo menus, tools, and tracks before you decide to use it for your real annotation. These changes will not affect any of the organism official gene set, neither will be preserved.</li>
+  <li>A "sandbox" is available for you to get familiar with all Apollo menus, tools, and tracks before you decide to use it for your real annotation. These changes will not affect any of the organism's official gene set, neither will be preserved.</li>
   <li><a href="/a/app/static-content/apolloQuickCommands.html">Quick commands</a></li> 
   <li><a href="https://apollo.veupathdb.org/1613634913933131701353630290/about">About Apollo</a></li> 
   <li><a href="https://genomearchitect.readthedocs.io/en/latest/UsersGuide.html">User Guide</a></li> 
