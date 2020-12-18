@@ -13,7 +13,7 @@ tags: [general]
         <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p></p><center><a href="/assets/images/Apollo0red.png"><img  src="{{ "/assets/images/Apollo0red.png" | absolute_url }}" alt="" width="" /></a></center>
         
         <li>Option 2: Left hand side menu</li>
-        <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p></p><center><a href="/assets/images/Apollo0orange3.png"><img  src="{{ "/assets/images/Apollo0orange3.png" | absolute_url }}" alt="" width="" /></a></center>
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p></p><center><a href="/assets/images/Apollo0orange3.png"><img  src="{{ "/assets/images/Apollo0orange3.png" | absolute_url }}" alt="" width="100px" /></a></center>
         </ul>
 <li>Click-and-drag features to the User-created annotations or right click features and select "Create new annotation".</li> 
 <li> Use "edge matching" function, shown as red highlight, to match exon boundaries to evidence from gene models or alignments.</li> 
