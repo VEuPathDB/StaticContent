@@ -6,6 +6,7 @@ tags: [general]
 
 <h3>Annotating features</h3>
 <ul> 
+<li>From either the right hand side or letf hand side menus, you can slect the draggable tracks. These tracks contain both the official gene set and the combined RNAseq evidence.</li> 
 <li>Click-and-drag features to the User-created annotations or right click features and select "Create new annotation".</li> 
         
         <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p></p><center><a href="/assets/images/Apollo1.png"><img  src="{{ "/assets/images/Apollo1.png" | absolute_url }}" alt="" width="" /></a></center>
