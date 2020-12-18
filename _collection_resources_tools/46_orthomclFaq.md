@@ -2,7 +2,7 @@
 identifier: orthomclFaq
 listTitle: OrthoMCL FAQ
 descriptionTitle: OrthoMCL Frequently Asked Questions
-listIconKey: info
+listIconKey: question
 tags: [tutorial]
 title: OrthoMCL Faq
 permalink: '#OrthoMCLFAQ'
