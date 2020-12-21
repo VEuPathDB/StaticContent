@@ -1,5 +1,5 @@
 ---
 layout: null
-permalink: EuPathDB/news.json
+permalink: UniDB/news.json
 ---
 {% include news.json %}

@@ -1,5 +1,5 @@
 ---
 layout: null
-permalink: EuPathDB/resources_tools.json
+permalink: UniDB/resources_tools.json
 ---
 {% include resources_tools.json %}
