@@ -10,10 +10,10 @@ tags: [general]
 <li>From either the right hand side or letf hand side menus, you can slect the draggable tracks. These tracks contain both the official gene set and the combined RNAseq evidence.
   <ul>
   <li>Option 1: Right hand side menu
-    <div style="margin:2em;margin-left: 20em;"><a href="/assets/images/Apollo0red.png"><img  src="{{ "/assets/images/Apollo0red.png" | absolute_url }}" alt="" width="500px" /></a> 
+    <div style="margin:2em;margin-left:20em;"><img  src="{{ "/assets/images/Apollo0red.png" | absolute_url }}" alt="" width="500px" />
     </div></li>
   <li>Option 2: Left hand side menu
-    <div style="margin:2em;margin-left:20em;"><a href="/assets/images/Apollo0orange3.png"><img  src="{{ "/assets/images/Apollo0orange3.png" | absolute_url }}" alt="" width="500px" /></a>
+    <div style="margin:2em;margin-left:20em;"><img  src="{{ "/assets/images/Apollo0orange3.png" | absolute_url }}" alt="" width="500px" />
     </div></li>
   </ul>
 </li>
