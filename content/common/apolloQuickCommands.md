@@ -3,6 +3,7 @@ title: VEuPathDB Apollo Quick Commands
 permalink: /apolloQuickCommands
 tags: [general]
 ---
+<div class="static-content">
 
 <h3>Annotating features</h3>
 <ul> 
@@ -47,6 +48,6 @@ tags: [general]
 <li>Use { and } to jump to the nearest gene on the User-created annotation area.</li> 
 <li>Select a feature in the User-created annotation area and press alt-click to quickly reach the "Information editor". </li> 
 </ul>
-        
-        
-        
+
+</div>
+ 
