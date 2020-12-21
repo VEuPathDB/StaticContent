@@ -6,20 +6,20 @@ tags: [general]
 
 <h3>Annotating features</h3>
 <ul> 
-<li>From either the right hand side or letf hand side menus, you can slect the draggable tracks. These tracks contain both the official gene set and the combined RNAseq evidence.</li>    
-        
-        <ul>
-        <li>Option 1: Right hand side menu</li>
-        <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p></p><center><a href="/assets/images/Apollo0red.png"><img  src="{{ "/assets/images/Apollo0red.png" | absolute_url }}" alt="" width="" /></a></center>
-        
-        <li>Option 2: Left hand side menu</li>
-        <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p></p><center><a href="/assets/images/Apollo0orange3.png"><img  src="{{ "/assets/images/Apollo0orange3.png" | absolute_url }}" alt="" width="100px" /></a></center>
-        </ul>
+<li>From either the right hand side or letf hand side menus, you can slect the draggable tracks. These tracks contain both the official gene set and the combined RNAseq evidence.
+  <ul>
+  <li>Option 1: Right hand side menu
+    <div style="margin:2em;margin-left: 20em;"><a href="/assets/images/Apollo0red.png"><img  src="{{ "/assets/images/Apollo0red.png" | absolute_url }}" alt="" width="500px" /></a> 
+    </div></li>
+  <li>Option 2: Left hand side menu
+    <div style="margin:2em;margin-left:20em;"><a href="/assets/images/Apollo0orange3.png"><img  src="{{ "/assets/images/Apollo0orange3.png" | absolute_url }}" alt="" width="500px" /></a>
+    </div></li>
+  </ul>
+</li>
 <li>Click-and-drag features to the User-created annotations or right click features and select "Create new annotation".</li> 
 <li> Use "edge matching" function, shown as red highlight, to match exon boundaries to evidence from gene models or alignments.</li> 
 <li>Use "Color by CDS" to highlight the calculated translation frame for annotations and evidence features.</li> 
-<li>Add details for each annotation using the "Information Editor" dialog.
-</li> 
+<li>Add details for each annotation using the "Information Editor" dialog.</li> 
 </ul>
 
 <h3>Navigation</h3>
