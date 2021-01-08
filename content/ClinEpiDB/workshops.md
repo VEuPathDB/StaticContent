@@ -83,7 +83,9 @@ table#hor-minimalist-a tfoot tr {
   <br>
 
   <div class="contents"> 
-    <h4>No upcoming events</h4>
+    <h4><a href="gatesworkshop2021">ASTMH Pre-meeting ClinEpiDB workshop</a></h4>
+    November 13th, 2020<br>
+  </div>
   </div>
 
   <br>
@@ -93,8 +95,8 @@ table#hor-minimalist-a tfoot tr {
   <br>
 
   <div class="contents">
-    <h4><a href="#astmh2020-premeeting">ASTMH Pre-meeting ClinEpiDB workshop</a></h4>
-    November 13th, 2020<br>
+    <h4><a href="#astmh2020-premeeting">Gates presentation and workshop</a></h4>
+    January 11th, 2021<br>
   </div>
 
 
@@ -106,7 +108,74 @@ table#hor-minimalist-a tfoot tr {
 
 <h3>Upcoming Workshops</h3>
 
+<div class="contents">
 
+
+  <div class="anchor"><a name="gatesworkshop2021"></a></div>
+  <div class="workshop">
+    <h3>Gates presentation and workshop</h3>
+    <p>
+      <b>Date:</b> Monday January 11th, 2021 <br>
+      <b>Time:</b> 3 PM - 5 PM US EST <br>
+    </p>
+
+
+
+<details>
+    <summary><b>Schedule</b></summary>
+    <table id="hor-minimalist-a">
+<thead>
+<tr>
+<th style="text-align:left">Time (EST)</th>
+<th style="text-align:left">Activity</th>
+<th style="text-align:left">Presenter</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>3:00 PM ET
+<br> (15 min)
+</td>
+<td>Introduction</td>
+<td>David Roos <br>Danica Helb</td>
+</tr>
+
+<tr>
+<td>3:15 PM ET
+<br>(20 min)</td>
+<td>Demo LLINEUP </td>
+<td>Danica Helb</td>
+</tr>
+
+<tr>
+<td>3:35 PM ET
+<br>(10 min)</td>
+<td><b> Breakout 1:</b> MAL-ED and GEMS1 simple search
+</td>
+<td>Sheena Tomko</td>
+</tr>
+
+<tr>
+<td>3:45 PM ET
+<br>(20 min)</td>
+<td>Work in Progress</td>
+<td>Sheena Tomko</td>
+</tr>
+
+<tr>
+<td>4:05 PM ET
+<br>(10 min)</td>
+<td><b> Breakout 2:</b> G-ANC visualization app demo/walk-through
+</td>
+<td>Nupur Kittur</td>
+</tr>
+
+</tbody>
+</table>
+</details>
+
+</div>  <!-- workshop -->
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 
