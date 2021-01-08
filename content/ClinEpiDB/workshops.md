@@ -128,8 +128,7 @@ table#hor-minimalist-a tfoot tr {
 
 <tbody>
 <tr>
-<td>3:00 PM ET
-<br> (15 min)
+<td>3:00 PM EST | 12:00 PM PST
 </td>
 <td>Introduction</td>
 <td>David Roos <br>Danica Helb</td>
