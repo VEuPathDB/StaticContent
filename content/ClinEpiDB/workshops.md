@@ -93,10 +93,7 @@ table#hor-minimalist-a tfoot tr {
     November 13th, 2020
   </div>
 
-
-
-
-<br>
+</div>
 
 <hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
 
@@ -128,7 +125,7 @@ table#hor-minimalist-a tfoot tr {
 
 <tbody>
 <tr>
-<td>3:00 PM EST 
+<td>3:00 PM EST
 <br> 12:00 PM PST
 </td>
 <td>Introduction</td>
