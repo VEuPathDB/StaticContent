@@ -80,19 +80,13 @@ table#hor-minimalist-a tfoot tr {
 <div class="static-content" style="padding:0 3em">
 
   <h3>Upcoming Workshops</h3>
-  <br>
-
   <div class="contents"> 
   <h4><a href="gatesworkshop2021">Gates presentation and workshop</a></h4>
   January 11th, 2021
   </div>
-  </div>
-
-  <br>
   <br>
 
-  <h3>Previous Workshops</h3>
-  <br>
+<h3>Previous Workshops</h3>
 
   <div class="contents">
     <h4><a href="#astmh2020-premeeting">ASTMH Pre-meeting ClinEpiDB workshop</a></h4>
