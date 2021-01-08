@@ -125,8 +125,13 @@ table#hor-minimalist-a tfoot tr {
 
 <tbody>
 <tr>
+<<<<<<< HEAD
 <td>3:00 PM EST
 <br> 12:00 PM PST
+=======
+<td>3:00 PM ET
+<br> (15 min)
+>>>>>>> parent of df33dedd... update time formate with |
 </td>
 <td>Introduction</td>
 <td>David Roos <br>Danica Helb</td>
