@@ -81,19 +81,17 @@ table#hor-minimalist-a tfoot tr {
 
   <h3>Upcoming Workshops</h3>
   <div class="contents"> 
-  <h4><a href="gatesworkshop2021">Gates presentation and workshop</a></h4>
+  <h4><a href="#gatesworkshop2021">ClinEpiDB presentation and workshop (Gates Foundation)
+</a></h4>
   January 11th, 2021
   </div>
-  <br>
+
 
 <h3>Previous Workshops</h3>
-
   <div class="contents">
     <h4><a href="#astmh2020-premeeting">ASTMH Pre-meeting ClinEpiDB workshop</a></h4>
     November 13th, 2020
   </div>
-
-</div>
 
 <hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
 
@@ -102,22 +100,21 @@ table#hor-minimalist-a tfoot tr {
 <div class="contents">
 
 
- <div class="anchor"><a name="gatesworkshop2021"></a></div>
+ <div class="anchor"><a name="#gatesworkshop2021"></a></div>
 <div class="workshop">
-    <h3>Gates presentation and workshop</h3>
+    <h3>ClinEpiDB presentation and workshop (Gates Foundation)</h3>
     <p>
       <b>Date:</b> Monday January 11th, 2021 <br>
-      <b>Time:</b> 3 PM - 5 PM US EST <br>
+      <b>Time:</b> 3-5 PM US Eastern time / 12-2 PM Pacific time
+ <br>
     </p>
-
-
 
 <details>
     <summary><b>Schedule</b></summary>
     <table id="hor-minimalist-a">
 <thead>
 <tr>
-<th style="text-align:left">Time (EST)</th>
+<th style="text-align:left">Time</th>
 <th style="text-align:left">Activity</th>
 <th style="text-align:left">Presenter</th>
 </tr>
@@ -125,46 +122,83 @@ table#hor-minimalist-a tfoot tr {
 
 <tbody>
 <tr>
-<<<<<<< HEAD
 <td>3:00 PM EST
 <br> 12:00 PM PST
-=======
-<td>3:00 PM ET
-<br> (15 min)
->>>>>>> parent of df33dedd... update time formate with |
 </td>
-<td>Introduction</td>
-<td>David Roos <br>Danica Helb</td>
+<td><i>Introduction</i>
+<ul>
+  <li> History and context of the ClinEpiDB project (genomics datasets, VEuPathDB, and other projects)</li>
+  <li> Current objectives and status of ClinEpiDB.org: stakeholders, available datasets</li>
+  <li>Data access and release policies; community trust, uptake & usage, value added </li>
+  <li>Major site features: study pages, study types, data types</li>
+</ul></td>
+<td>David Roos</td>
 </tr>
 
 <tr>
-<td>3:15 PM ET
-<br>(20 min)</td>
-<td>Demo LLINEUP </td>
+<td>3:20 PM ET
+<br>12:20 PM PT</td>
+<td><i>Demonstration:</i> LLINEUP (cluster-randomized trial of insecticidal bednets for malaria)
+<ul>
+  <li>Home page layout: study cards, searches, downloads</li>
+  <li>Exploring the data through the Search Wizard: formulating, asking, revising, and answering questions</li>
+  <li>Results Pages, Visualizations (histograms, apps), Downloads</li>
+</ul>
+</td>
 <td>Danica Helb</td>
 </tr>
 
 <tr>
-<td>3:35 PM ET
-<br>(10 min)</td>
-<td><b> Breakout 1:</b> MAL-ED and GEMS1 simple search
+<td>3:40 PM ET
+<br>12:40 PM PT</td>
+<td><i> Breakout 1:</i> MAL-ED & GEMS (enteric disease datasets)
+<ul>
+  <li>Formulating & reconfiguring simple searches: Comparison of molecular detection methods for ST-ETEC</li>
+  <li>Discussion</li>
+</ul>
 </td>
 <td>Sheena Tomko</td>
 </tr>
 
 <tr>
-<td>3:45 PM ET
-<br>(20 min)</td>
-<td>Work in Progress</td>
+<td>4:00 PM ET
+<br>1:00 PM PT</td>
+<td>Work in Progress
+<ul>
+  <li>Enteric disease studies</li>
+  <li>Maternal, Newborn & Child Health studies (MNCH)</li>
+ <li>Azithromycin studies</li>
+ <li>Data sharing issues</li>
+ <li>Development activities: microbiome datasets, geolocation data, data analysis framework, DIY workspace
+</li>
+</ul>
+</td>
 <td>Sheena Tomko</td>
 </tr>
 
 <tr>
-<td>4:05 PM ET
-<br>(10 min)</td>
-<td><b> Breakout 2:</b> G-ANC visualization app demo/walk-through
+<td>4:20 PM ET
+<br>1:20 PM PT</td>
+<td><i> Breakout 2:</i> G-ANC visualization app demo/walk-through
+<ul>
+  <li>Using visualization apps to answer questions</li>
+  <li>Discussion</li>
+</ul>
 </td>
 <td>Nupur Kittur</td>
+</tr>
+
+<tr>
+<td>4:40 PM ET
+<br>1:40 PM PT</td>
+<td><i> Concluding discussion</i>
+<ul>
+  <li>Timelines for data identification, prioritization, loading, QC & release</li>
+  <li>Community uptake and visibility</li>
+  <li>Opportunities</li>
+</ul>
+</td>
+<td>David Roos</td>
 </tr>
 
 </tbody>
