@@ -83,8 +83,8 @@ table#hor-minimalist-a tfoot tr {
   <br>
 
   <div class="contents"> 
-    <h4><a href="gatesworkshop2021">ASTMH Pre-meeting ClinEpiDB workshop</a></h4>
-    November 13th, 2020<br>
+  <h4><a href="gatesworkshop2021">Gates presentation and workshop</a></h4>
+  January 11th, 2021
   </div>
   </div>
 
@@ -95,8 +95,8 @@ table#hor-minimalist-a tfoot tr {
   <br>
 
   <div class="contents">
-    <h4><a href="#astmh2020-premeeting">Gates presentation and workshop</a></h4>
-    January 11th, 2021<br>
+    <h4><a href="#astmh2020-premeeting">ASTMH Pre-meeting ClinEpiDB workshop</a></h4>
+    November 13th, 2020
   </div>
 
 
