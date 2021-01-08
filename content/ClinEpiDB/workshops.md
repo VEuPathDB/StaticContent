@@ -102,8 +102,8 @@ table#hor-minimalist-a tfoot tr {
 <div class="contents">
 
 
-  <div class="anchor"><a name="gatesworkshop2021"></a></div>
-  <div class="workshop">
+ <div class="anchor"><a name="gatesworkshop2021"></a></div>
+<div class="workshop">
     <h3>Gates presentation and workshop</h3>
     <p>
       <b>Date:</b> Monday January 11th, 2021 <br>
@@ -166,6 +166,7 @@ table#hor-minimalist-a tfoot tr {
 </table>
 </details>
 
+</div>
 </div>  <!-- workshop -->
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
