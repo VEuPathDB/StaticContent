@@ -78,7 +78,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> Release 50 Webinar<br>
 <b>Date:</b> Thursday December 17th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> Available 7-10 days prior to webinar<br>
+<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/6484104154635614223" target="_blank">https://attendee.gotowebinar.com/register/6484104154635614223</a><br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 50 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
