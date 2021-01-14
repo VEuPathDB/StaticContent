@@ -26,7 +26,6 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
     
-   <p><b>Thursday January 14th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
    <p><b>Thursday March 11th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
    <p><b>Thursday May 13th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
    <p><b>Thursday July 8th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
@@ -39,6 +38,7 @@ tags: [general]
   <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+   <p><b>Thursday January 14th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
    <p><b>Wednesday December 9th, 2020:</b> <a href="#clinepi">Clinical and Epidemiologic Data Exploration for Genomic Researchers</a></p>
    <p><b>Thursday November 12th, 2020:</b> <a href="#release49">Release 49 Webinar</a></p>
    <p><b>Thursday September 17th, 2020:</b> <a href="#microbiome">Introduction to MicrobiomeDB</a></p>
@@ -72,16 +72,6 @@ tags: [general]
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 
 <div class="contents">
-
-<div class="anchor"><a name="release50"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 50 Webinar<br>
-<b>Date:</b> Thursday December 17th, 2020<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/6484104154635614223" target="_blank">https://attendee.gotowebinar.com/register/6484104154635614223</a><br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 50 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
-</div>
 
 <hr>
 <div class="anchor"><a name="release51"></a></div>
@@ -155,6 +145,16 @@ Release webinar dates are subject to change due to production issues that may ar
 <h3>Previous Webinars</h3>
 <hr>
 <div class="contents">
+  
+<div class="anchor"><a name="release50"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 50 Webinar<br>
+<b>Date:</b> Thursday December 17th, 2020<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link:</b> <a href="https://youtu.be/5leMraRnnpk">https://youtu.be/5leMraRnnpk</a><br>
+<b>Additional Details:</b> This webinar will focus on what is new in Release 50 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
 
 <div class="anchor"><a name="clinepi"></a></div>
 <div class="webinar">
