@@ -156,6 +156,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <br>
 </div>
 
+<hr>
 <div class="anchor"><a name="clinepi"></a></div>
 <div class="webinar">
 <b>Topic:</b> Clinical and Epidemiologic Data Exploration for Genomic Researchers<br>
