@@ -239,6 +239,10 @@
       the expression of the gene and functional interactions of the gene expression
       products. In this database, genes are depicted on individual gene pages with
       their surrounding genomic region and <a href="#Annotation">annotations</a>.
+- term: Genome Sequence
+  description: The inherited nucleic acid component of the genome. In eukaryotes, organized
+      into linear <a href="#Chromosome">chromosomes</a> that are capped with <a href="#Telomere">telomeres</a>
+      and located in the nucleus. 
 - term: Genotyped SNPs
   description: Single nucleotide polymorphisms (SNPs) identified during <a href="#Genotyping">genotyping</a>
       of individual organism strains. See <a href="#SNP genotyping">SNP
