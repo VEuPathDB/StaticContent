@@ -138,6 +138,7 @@ table#hor-minimalist-a tfoot tr {
     <li>Robustness, security, sustainability, scalability, cost-eﬃcacy</li>
     <li>Relationship with other projects; stakeholders (including funders)</li>
   </ul>
+  <br>
   </li>
   <li>Data access and release policies (tiered design); community trust</li>
 </ul></td>
