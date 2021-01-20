@@ -129,7 +129,7 @@ table#hor-minimalist-a tfoot tr {
 </td>
 <td><b>Introduction</b>
 <ul>
-  <li> History and context of the ClinEpiDB project: integra on of diverse multi-Omics datasets; VEuPathDB and other projects</li>
+  <li> History and context of the ClinEpiDB project: integration of diverse multi-Omics datasets; VEuPathDB and other projects</li>
   <li> Objectives and status of <a href="https://clinepidb.org/">ClinEpiDB.org</a>
   <ul>
     <li>Mission/vision</li>
@@ -216,7 +216,7 @@ table#hor-minimalist-a tfoot tr {
   <li>Opportunities</li>
 </ul>
 </td>
-<td>Roos, et al</td>
+<td>Roos et al</td>
 </tr>
 
 </tbody>
