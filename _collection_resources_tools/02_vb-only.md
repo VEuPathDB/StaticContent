@@ -19,9 +19,4 @@ permalink: '#what-is-new'
 
 <p>We will start to incorporate new data sets in the second half of 2020.  Please let us know if you wish to submit a data set or make us aware of one relevant to your research, to help us prioritize our list.</p>
 
-<p>If you have questions, concerns, suggestions or need additional help please <a href="/a/app/contact-us">contact us</a>.  Specific feedback about the new site is greatly appreciated by completing one of these surveys:<br>
-<ul>
-<li><a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_cumyAxYi8ybn6Bv">Home page survey</a></li>
-<li><a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_6ziJ958a9hclGFn">Site search survey</a></li>
-<li><a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_6urr6AkL1HqWHFr">Search strategy survey</a></li>
-</ul>  
+<p>If you have questions, concerns, suggestions or need additional help please <a href="/a/app/contact-us">contact us</a>.</p>  
