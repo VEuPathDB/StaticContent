@@ -128,11 +128,10 @@ table#hor-minimalist-a tfoot tr {
 <br> <i>20 min</i>
 </td>
 <td><b>Introduction</b>
-<dd>
 <ul>
   <li> History and context of the ClinEpiDB project: integra on of diverse multi-Omics datasets; VEuPathDB and other projects</li>
   <li> Objectives and status of <a href="https://clinepidb.org/">ClinEpiDB.org</a>
-  <ul>
+  <ul style="line-height:.8">
     <li>Mission/vision</li>
     <li>Organization & design: study pages, study types, data types</li>
     <li>Available datasets, site usage, user communities (data providers, study teams, researchers, modellers, students, policy-makers, etc), use cases</li>
@@ -141,7 +140,7 @@ table#hor-minimalist-a tfoot tr {
   </ul>
   </li>
   <li>Data access and release policies (tiered design); community trust</li>
-</ul></dd></td>
+</ul></td>
 <td>David Roos</td>
 </tr>
 
