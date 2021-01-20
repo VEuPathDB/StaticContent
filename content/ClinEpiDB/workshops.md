@@ -74,9 +74,7 @@ table#hor-minimalist-a tfoot {
 table#hor-minimalist-a tfoot tr {
   border:0;
 }
-p, ul {
-    display: inline;
-}
+
 </style>
 
 <h1 style="padding:1em">ClinEpiDB Workshops</h1>
@@ -130,6 +128,7 @@ p, ul {
 <br> <i>20 min</i>
 </td>
 <td><b>Introduction</b>
+<dd>
 <ul>
   <li> History and context of the ClinEpiDB project: integra on of diverse multi-Omics datasets; VEuPathDB and other projects</li>
   <li> Objectives and status of <a href="https://clinepidb.org/">ClinEpiDB.org</a>
@@ -142,7 +141,7 @@ p, ul {
   </ul>
   </li>
   <li>Data access and release policies (tiered design); community trust</li>
-</ul></td>
+</ul></dd></td>
 <td>David Roos</td>
 </tr>
 
