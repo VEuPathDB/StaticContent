@@ -74,6 +74,9 @@ table#hor-minimalist-a tfoot {
 table#hor-minimalist-a tfoot tr {
   border:0;
 }
+p, ul {
+    display: inline;
+}
 </style>
 
 <h1 style="padding:1em">ClinEpiDB Workshops</h1>
@@ -131,11 +134,11 @@ table#hor-minimalist-a tfoot tr {
   <li> History and context of the ClinEpiDB project: integra on of diverse multi-Omics datasets; VEuPathDB and other projects</li>
   <li> Objectives and status of <a href="https://clinepidb.org/">ClinEpiDB.org</a>
   <ul>
-    <li>mission/vision</li>
-    <li>organization & design: study pages, study types, data types</li>
-    <li>available datasets, site usage, user communities (data providers, study teams, researchers, modellers, students, policy-makers, etc), use cases</li>
-    <li>robustness, security, sustainability, scalability, cost-eﬃcacy</li>
-    <li>relationship with other projects; stakeholders (including funders)</li>
+    <li>Mission/vision</li>
+    <li>Organization & design: study pages, study types, data types</li>
+    <li>Available datasets, site usage, user communities (data providers, study teams, researchers, modellers, students, policy-makers, etc), use cases</li>
+    <li>Robustness, security, sustainability, scalability, cost-eﬃcacy</li>
+    <li>Relationship with other projects; stakeholders (including funders)</li>
   </ul>
   </li>
   <li>Data access and release policies (tiered design); community trust</li>
@@ -144,8 +147,8 @@ table#hor-minimalist-a tfoot tr {
 </tr>
 
 <tr>
-<td>3:20 PM ET
-<br>12:20 PM PT
+<td>3:20 PM EST
+<br>12:20 PM PST
 <br><i>20 min</i></td>
 <td><b>Demonstration:</b> LLINEUP (cluster-randomized trial of insecticidal bednets for malaria)
 <ul>
@@ -158,8 +161,8 @@ table#hor-minimalist-a tfoot tr {
 </tr>
 
 <tr>
-<td>3:40 PM ET
-<br>12:40 PM PT
+<td>3:40 PM EST
+<br>12:40 PM PST
 <br><i>20 min</i>
 </td>
 <td><b> Breakout 1:</b> MAL-ED & GEMS (enteric disease datasets)
@@ -172,15 +175,15 @@ table#hor-minimalist-a tfoot tr {
 </tr>
 
 <tr>
-<td>4:00 PM ET
-<br>1:00 PM PT
+<td>4:00 PM EST
+<br>1:00 PM PST
 <br><i>20 min </i>
 </td>
 
-<td>Work in Progress
+<td><b>Work in Progress</b>
 <ul>
   <li>Enteric disease studies</li>
-  <li>Maternal, Newborn & Child Health studies (MNCH)</li>
+  <li>Maternal, Newborn & Child Health (MNCH) studies</li>
  <li>Azithromycin studies</li>
  <li>Data sharing issues</li>
  <li>Development activities: microbiome datasets, geolocation data, data analysis framework, DIY workspace
@@ -191,8 +194,8 @@ table#hor-minimalist-a tfoot tr {
 </tr>
 
 <tr>
-<td>4:20 PM ET
-<br>1:20 PM PT
+<td>4:20 PM EST
+<br>1:20 PM PST
 <br> <i>20 min</i></td>
 <td><b> Breakout 2:</b> G-ANC visualization app demo/walk-through
 <ul>
@@ -204,8 +207,8 @@ table#hor-minimalist-a tfoot tr {
 </tr>
 
 <tr>
-<td>4:40 PM ET
-<br>1:40 PM PT
+<td>4:40 PM EST
+<br>1:40 PM PST
 <br><i>20 min </i></td>
 <td><b> Concluding discussion</b>
 <ul>
@@ -214,7 +217,7 @@ table#hor-minimalist-a tfoot tr {
   <li>Opportunities</li>
 </ul>
 </td>
-<td>David Roos, et al</td>
+<td>Roos, et al</td>
 </tr>
 
 </tbody>
