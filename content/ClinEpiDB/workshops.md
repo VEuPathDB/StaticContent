@@ -131,7 +131,7 @@ table#hor-minimalist-a tfoot tr {
 <ul>
   <li> History and context of the ClinEpiDB project: integra on of diverse multi-Omics datasets; VEuPathDB and other projects</li>
   <li> Objectives and status of <a href="https://clinepidb.org/">ClinEpiDB.org</a>
-  <ul style="line-height:.8">
+  <ul style="line-height:1.0">
     <li>Mission/vision</li>
     <li>Organization & design: study pages, study types, data types</li>
     <li>Available datasets, site usage, user communities (data providers, study teams, researchers, modellers, students, policy-makers, etc), use cases</li>
