@@ -83,7 +83,7 @@ table#hor-minimalist-a tfoot tr {
   <div class="contents"> 
   <h4><a href="#gatesworkshop2021">ClinEpiDB presentation and workshop (Gates Foundation)
 </a></h4>
-  January 11th, 2021
+  TBD
   </div>
 
 
@@ -104,7 +104,7 @@ table#hor-minimalist-a tfoot tr {
 <div class="workshop">
     <h3>ClinEpiDB presentation and workshop (Gates Foundation)</h3>
     <p>
-      <b>Date:</b> Monday January 11th, 2021 <br>
+      <b>Date:</b> TBD <br>
       <b>Time:</b> 3-5 PM US Eastern time / 12-2 PM Pacific time
  <br>
     </p>
@@ -124,21 +124,30 @@ table#hor-minimalist-a tfoot tr {
 <tr>
 <td>3:00 PM EST
 <br> 12:00 PM PST
+<br> <i>20 min</i>
 </td>
-<td><i>Introduction</i>
+<td><b>Introduction</b>
 <ul>
-  <li> History and context of the ClinEpiDB project (genomics datasets, VEuPathDB, and other projects)</li>
-  <li> Current objectives and status of ClinEpiDB.org: stakeholders, available datasets</li>
-  <li>Data access and release policies; community trust, uptake & usage, value added </li>
-  <li>Major site features: study pages, study types, data types</li>
+  <li> History and context of the ClinEpiDB project: integra on of diverse multi-Omics datasets; VEuPathDB and other projects</li>
+  <li> Objectives and status of <a href="https://clinepidb.org/">ClinEpiDB.org</a>
+  <ul>
+    <li>mission/vision</li>
+    <li>organization & design: study pages, study types, data types</li>
+    <li>available datasets, site usage, user communities (data providers, study teams, researchers, modellers, students, policy-makers, etc), use cases</li>
+    <li>robustness, security, sustainability, scalability, cost-eﬃcacy</li>
+    <li>relationship with other projects; stakeholders (including funders)</li>
+  </ul>
+  </li>
+  <li>Data access and release policies (tiered design); community trust</li>
 </ul></td>
 <td>David Roos</td>
 </tr>
 
 <tr>
 <td>3:20 PM ET
-<br>12:20 PM PT</td>
-<td><i>Demonstration:</i> LLINEUP (cluster-randomized trial of insecticidal bednets for malaria)
+<br>12:20 PM PT
+<br><i>20 min</i></td>
+<td><b>Demonstration:</b> LLINEUP (cluster-randomized trial of insecticidal bednets for malaria)
 <ul>
   <li>Home page layout: study cards, searches, downloads</li>
   <li>Exploring the data through the Search Wizard: formulating, asking, revising, and answering questions</li>
@@ -150,19 +159,24 @@ table#hor-minimalist-a tfoot tr {
 
 <tr>
 <td>3:40 PM ET
-<br>12:40 PM PT</td>
-<td><i> Breakout 1:</i> MAL-ED & GEMS (enteric disease datasets)
+<br>12:40 PM PT
+<br><i>20 min</i>
+</td>
+<td><b> Breakout 1:</b> MAL-ED & GEMS (enteric disease datasets)
 <ul>
   <li>Formulating & reconfiguring simple searches: Comparison of molecular detection methods for ST-ETEC</li>
   <li>Discussion</li>
 </ul>
 </td>
-<td>Sheena Tomko</td>
+<td>ClinEpiDB Staff</td>
 </tr>
 
 <tr>
 <td>4:00 PM ET
-<br>1:00 PM PT</td>
+<br>1:00 PM PT
+<br><i>20 min </i>
+</td>
+
 <td>Work in Progress
 <ul>
   <li>Enteric disease studies</li>
@@ -178,27 +192,29 @@ table#hor-minimalist-a tfoot tr {
 
 <tr>
 <td>4:20 PM ET
-<br>1:20 PM PT</td>
-<td><i> Breakout 2:</i> G-ANC visualization app demo/walk-through
+<br>1:20 PM PT
+<br> <i>20 min</i></td>
+<td><b> Breakout 2:</b> G-ANC visualization app demo/walk-through
 <ul>
   <li>Using visualization apps to answer questions</li>
   <li>Discussion</li>
 </ul>
 </td>
-<td>Nupur Kittur</td>
+<td>ClinEpiDB Staff</td>
 </tr>
 
 <tr>
 <td>4:40 PM ET
-<br>1:40 PM PT</td>
-<td><i> Concluding discussion</i>
+<br>1:40 PM PT
+<br><i>20 min </i></td>
+<td><b> Concluding discussion</b>
 <ul>
   <li>Timelines for data identification, prioritization, loading, QC & release</li>
   <li>Community uptake and visibility</li>
   <li>Opportunities</li>
 </ul>
 </td>
-<td>David Roos</td>
+<td>David Roos, et al</td>
 </tr>
 
 </tbody>
