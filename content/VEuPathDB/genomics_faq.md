@@ -3,9 +3,10 @@ layout: plain
 title: VEuPathDB Frequently Asked Questions
 permalink: /VEuPathDB/faq
 ---
-<div id="ce-static-content">
 
 <h1 id="FAQ">Frequently Asked Questions</h1>
+
+<div class="static-content"> 
 
 <div id="general">
   <h2>General</h2>
