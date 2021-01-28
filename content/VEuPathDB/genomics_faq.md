@@ -3,6 +3,16 @@ layout: plain
 title: VEuPathDB Frequently Asked Questions
 permalink: /VEuPathDB/faq
 ---
+<style>
+div.static-content li {
+    font-size: 130%;
+    margin: 1em 0;
+    list-style: none;
+}
+div.static-content summary {
+    color: #069;
+}
+</style>
 
 <h1 id="FAQ">Frequently Asked Questions</h1>
 
