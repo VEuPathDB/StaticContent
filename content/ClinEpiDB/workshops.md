@@ -84,7 +84,7 @@ table#hor-minimalist-a tfoot tr {
   <div class="contents"> 
   <h4><a href="#gatesworkshop2021">ClinEpiDB presentation and workshop (Gates Foundation)
 </a></h4>
-  TBD
+  February 3rd, 2021
   </div>
 
 
