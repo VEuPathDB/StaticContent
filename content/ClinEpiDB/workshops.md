@@ -105,8 +105,8 @@ table#hor-minimalist-a tfoot tr {
 <div class="workshop">
     <h3>ClinEpiDB presentation and workshop (Gates Foundation)</h3>
     <p>
-      <b>Date:</b> TBD <br>
-      <b>Time:</b> 3-5 PM US Eastern time / 12-2 PM Pacific time
+      <b>Date:</b> February 3rd, 2021 <br>
+      <b>Time:</b> 10 AM - 12 PM US Eastern time / 7-9 AM Pacific time
  <br>
     </p>
 
@@ -123,8 +123,8 @@ table#hor-minimalist-a tfoot tr {
 
 <tbody>
 <tr>
-<td>3:00 PM EST
-<br> 12:00 PM PST
+<td>10:00 AM EST
+<br> 7:00 AM PST
 <br> <i>20 min</i>
 </td>
 <td><b>Introduction</b>
@@ -146,8 +146,8 @@ table#hor-minimalist-a tfoot tr {
 </tr>
 
 <tr>
-<td>3:20 PM EST
-<br>12:20 PM PST
+<td>10:20 AM EST
+<br>7:20 AM PST
 <br><i>20 min</i></td>
 <td><b>Demonstration:</b> LLINEUP (cluster-randomized trial of insecticidal bednets for malaria)
 <ul>
@@ -160,8 +160,8 @@ table#hor-minimalist-a tfoot tr {
 </tr>
 
 <tr>
-<td>3:40 PM EST
-<br>12:40 PM PST
+<td>10:40 AM EST
+<br>7:40 AM PST
 <br><i>20 min</i>
 </td>
 <td><b> Breakout 1:</b> MAL-ED & GEMS (enteric disease datasets)
@@ -174,8 +174,8 @@ table#hor-minimalist-a tfoot tr {
 </tr>
 
 <tr>
-<td>4:00 PM EST
-<br>1:00 PM PST
+<td>11:00 AM EST
+<br>8:00 AM PST
 <br><i>20 min </i>
 </td>
 
@@ -193,8 +193,8 @@ table#hor-minimalist-a tfoot tr {
 </tr>
 
 <tr>
-<td>4:20 PM EST
-<br>1:20 PM PST
+<td>11:20 AM EST
+<br>8:20 AM PST
 <br> <i>20 min</i></td>
 <td><b> Breakout 2:</b> G-ANC visualization app demo/walk-through
 <ul>
@@ -206,8 +206,8 @@ table#hor-minimalist-a tfoot tr {
 </tr>
 
 <tr>
-<td>4:40 PM EST
-<br>1:40 PM PST
+<td>11:40 AM EST
+<br>8:40 AM PST
 <br><i>20 min </i></td>
 <td><b> Concluding discussion</b>
 <ul>
