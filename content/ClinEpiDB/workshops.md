@@ -105,6 +105,123 @@ table#hor-minimalist-a tfoot tr {
 <hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
 
 <h3>Upcoming Workshops</h3>
+ <div class="anchor"><a name="#gatesworkshop2021"></a></div>
+<div class="workshop">
+    <h3>ClinEpiDB presentation and workshop (Gates Foundation)</h3>
+    <p>
+      <b>Date:</b> February 3rd, 2021 <br>
+      <b>Time:</b> 10 AM - 12 PM US Eastern time / 7-9 AM Pacific time
+ <br>
+    </p>
+
+<details>
+    <summary><b>Schedule</b></summary>
+    <table id="hor-minimalist-a">
+<thead>
+<tr>
+<th style="text-align:left">Time</th>
+<th style="text-align:left">Activity</th>
+<th style="text-align:left">Presenter</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>10:00 AM EST
+<br> 7:00 AM PST
+<br> <i>20 min</i>
+</td>
+<td><b>Introduction</b>
+<ul>
+  <li> History and context of the ClinEpiDB project: integration of diverse multi-Omics datasets; VEuPathDB and other projects</li>
+  <li> Objectives and status of <a href="https://clinepidb.org/">ClinEpiDB.org</a>
+  <ul>
+    <li>Mission/vision</li>
+    <li>Organization & design: study pages, study types, data types</li>
+    <li>Available datasets, site usage, user communities (data providers, study teams, researchers, modellers, students, policy-makers, etc), use cases</li>
+    <li>Robustness, security, sustainability, scalability, cost-eﬃcacy</li>
+    <li>Relationship with other projects; stakeholders (including funders)</li>
+  </ul>
+  <br>
+  </li>
+  <li>Data access and release policies (tiered design); community trust</li>
+</ul></td>
+<td>David Roos</td>
+</tr>
+
+<tr>
+<td>10:20 AM EST
+<br>7:20 AM PST
+<br><i>20 min</i></td>
+<td><b>Demonstration:</b> LLINEUP (cluster-randomized trial of insecticidal bednets for malaria)
+<ul>
+  <li>Home page layout: study cards, searches, downloads</li>
+  <li>Exploring the data through the Search Wizard: formulating, asking, revising, and answering questions</li>
+  <li>Results Pages, Visualizations (histograms, apps), Downloads</li>
+</ul>
+</td>
+<td>Danica Helb</td>
+</tr>
+
+<tr>
+<td>10:40 AM EST
+<br>7:40 AM PST
+<br><i>20 min</i>
+</td>
+<td><b> Breakout 1:</b> MAL-ED & GEMS (enteric disease datasets)
+<ul>
+  <li>Formulating & reconfiguring simple searches: Comparison of molecular detection methods for ST-ETEC</li>
+  <li>Discussion</li>
+</ul>
+</td>
+<td>ClinEpiDB Staff</td>
+</tr>
+
+<tr>
+<td>11:00 AM EST
+<br>8:00 AM PST
+<br><i>20 min </i>
+</td>
+
+<td><b>Work in Progress</b>
+<ul>
+  <li>Enteric disease studies</li>
+  <li>Maternal, Newborn & Child Health (MNCH) studies</li>
+ <li>Azithromycin studies</li>
+ <li>Data sharing issues</li>
+ <li>Development activities: microbiome datasets, geolocation data, data analysis framework, DIY workspace
+</li>
+</ul>
+</td>
+<td>Sheena Tomko</td>
+</tr>
+
+<tr>
+<td>11:20 AM EST
+<br>8:20 AM PST
+<br> <i>20 min</i></td>
+<td><b> Breakout 2:</b> G-ANC visualization app demo/walk-through
+<ul>
+  <li>Using visualization apps to answer questions</li>
+  <li>Discussion</li>
+</ul>
+</td>
+<td>ClinEpiDB Staff</td>
+</tr>
+
+<tr>
+<td>11:40 AM EST
+<br>8:40 AM PST
+<br><i>20 min </i></td>
+<td><b> Concluding discussion</b>
+<ul>
+  <li>Timelines for data identification, prioritization, loading, QC & release</li>
+  <li>Community uptake and visibility</li>
+  <li>Opportunities</li>
+</ul>
+</td>
+<td>Roos et al</td>
+</tr>
 
 
 
