@@ -74,37 +74,33 @@ table#hor-minimalist-a tfoot {
 table#hor-minimalist-a tfoot tr {
   border:0;
 }
+
 </style>
 
 <h1 style="padding:1em">ClinEpiDB Workshops</h1>
 <div class="static-content" style="padding:0 3em">
 
   <h3>Upcoming Workshops</h3>
-  <br>
-
   <div class="contents"> 
-    <h4>No upcoming events</h4>
+  <h4><a href="#gatesworkshop2021">ClinEpiDB presentation and workshop (Gates Foundation)
+</a></h4>
+  February 3rd, 2021
   </div>
 
-  <br>
-  <br>
 
-  <h3>Previous Workshops</h3>
-  <br>
-
+<h3>Previous Workshops</h3>
   <div class="contents">
     <h4><a href="#astmh2020-premeeting">ASTMH Pre-meeting ClinEpiDB workshop</a></h4>
-    November 13th, 2020<br>
+    November 13th, 2020
   </div>
-
-
-
-
-<br>
 
 <hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
 
 <h3>Upcoming Workshops</h3>
+
+<div class="contents">
+
+
  <div class="anchor"><a name="#gatesworkshop2021"></a></div>
 <div class="workshop">
     <h3>ClinEpiDB presentation and workshop (Gates Foundation)</h3>
@@ -223,7 +219,12 @@ table#hor-minimalist-a tfoot tr {
 <td>Roos et al</td>
 </tr>
 
+</tbody>
+</table>
+</details>
 
+</div>
+</div>  <!-- workshop -->
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 
