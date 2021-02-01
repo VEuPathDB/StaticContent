@@ -162,15 +162,25 @@ table#hor-minimalist-a tfoot tr {
 <tr>
 <td>10:40 AM EST
 <br>7:40 AM PST
-<br><i>20 min</i>
+<br><i>15 min</i>
 </td>
-<td><b> Breakout 1:</b> MAL-ED & GEMS (enteric disease datasets)
+<td><b> Walk Through 1:</b> MAL-ED & GEMS (enteric disease datasets)
 <ul>
   <li>Formulating & reconfiguring simple searches: Comparison of molecular detection methods for ST-ETEC</li>
   <li>Discussion</li>
 </ul>
 </td>
 <td>ClinEpiDB Staff</td>
+</tr>
+
+<tr>
+<td>10:55 AM EST
+<br>7:55 AM PST
+<br><i>5 min</i>
+</td>
+<td> Break
+</td>
+<td></td>
 </tr>
 
 <tr>
@@ -196,7 +206,7 @@ table#hor-minimalist-a tfoot tr {
 <td>11:20 AM EST
 <br>8:20 AM PST
 <br> <i>20 min</i></td>
-<td><b> Breakout 2:</b> G-ANC visualization app demo/walk-through
+<td><b> Walk Through 2:</b> G-ANC visualization app demo/walk-through
 <ul>
   <li>Using visualization apps to answer questions</li>
   <li>Discussion</li>
