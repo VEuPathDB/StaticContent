@@ -164,9 +164,9 @@ table#hor-minimalist-a tfoot tr {
 <br>7:40 AM PST
 <br><i>15 min</i>
 </td>
-<td><b> Walk Through 1:</b> MAL-ED & GEMS (enteric disease datasets)
+<td><b> Walk Through:</b> MAL-ED (enteric disease datasets)
 <ul>
-  <li>Formulating & reconfiguring simple searches: Comparison of molecular detection methods for ST-ETEC</li>
+  <li>Formulating & reconfiguring simple searches: Comparison of breastfeeding status and <i>Giardia</i> infection</li>
   <li>Discussion</li>
 </ul>
 </td>
@@ -206,7 +206,7 @@ table#hor-minimalist-a tfoot tr {
 <td>11:20 AM EST
 <br>8:20 AM PST
 <br> <i>20 min</i></td>
-<td><b> Walk Through 2:</b> G-ANC visualization app demo/walk-through
+<td><b> Demonstration:</b> G-ANC visualization app demo/walk-through
 <ul>
   <li>Using visualization apps to answer questions</li>
   <li>Discussion</li>
