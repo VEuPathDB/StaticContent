@@ -178,7 +178,7 @@ table#hor-minimalist-a tfoot tr {
 <br>7:55 AM PST
 <br><i>5 min</i>
 </td>
-<td> Break
+<td> <b>Break</b>
 </td>
 <td></td>
 </tr>
