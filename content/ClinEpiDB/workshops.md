@@ -170,7 +170,7 @@ table#hor-minimalist-a tfoot tr {
   <li>Discussion</li>
 </ul>
 </td>
-<td>ClinEpiDB Staff</td>
+<td>Sheena Tomko</td>
 </tr>
 
 <tr>
@@ -212,7 +212,7 @@ table#hor-minimalist-a tfoot tr {
   <li>Discussion</li>
 </ul>
 </td>
-<td>ClinEpiDB Staff</td>
+<td>Nupur Kittur</td>
 </tr>
 
 <tr>
