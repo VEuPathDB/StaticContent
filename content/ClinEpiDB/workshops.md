@@ -166,7 +166,8 @@ table#hor-minimalist-a tfoot tr {
 </td>
 <td><b> Walk Through:</b> MAL-ED (enteric disease datasets)
 <ul>
-  <li>Formulating & reconfiguring simple searches: Comparison of breastfeeding status and <i>Giardia</i> infection</li>
+  <li>Formulating & reconfiguring simple searches:
+  <a target="_blank" href="{{'/documents/clinEpi/Exercise 1_ MAL-ED simple search.pdf' | absolute_url}}" target="_blank"> Comparison of breastfeeding status and <i>Giardia</i> infection</a> </li>
   <li>Discussion</li>
 </ul>
 </td>
