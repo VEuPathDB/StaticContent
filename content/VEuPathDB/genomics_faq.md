@@ -19,7 +19,7 @@ div.static-content summary {
 <div class="static-content"> 
 
 <div id="general">
-  <h2>General</h2>
+  <h2>Frequently Asked Questions</h2>
   <ul>
     {% for item in site.data.genomics_faq %}
     {% if item.type == "general" %}
@@ -28,24 +28,6 @@ div.static-content summary {
         <summary>{{ item.question }}</summary>
         <p>
           {{ item.answer | markdownify }}
-        </p>
-      </details>
-    </li>
-    {% endif %}
-    {% unless forloop.last %}{% endunless %}{% endfor %}
-  </ul>
-</div>
-
-<div id="using_site">
-  <h2>Using the site</h2>
-  <ul>
-    {% for item in site.data.genomics_faq %}
-    {% if item.type == "using_site" %}
-    <li><a name="{{ item.uid }}"></a>
-      <details id="{{ item.uid }}">
-        <summary>{{ item.question }}</summary>
-        <p>
-          {{ item.answer | markdownify}}
         </p>
       </details>
     </li>
