@@ -2,14 +2,12 @@
 - type: general
   question: "Introductory tour"
   answer: |
-           The video below provides a short overview of the major features of ClinEpiDB. You can 
-           also find tutorials, workshop exercises, and additional resources on our 
-           [Tutorials and Resources](/a/app/static-content/ClinEpiDB/resources.html){:target='_blank'} page.
-           <iframe style="margin-left:3em;margin-top:1em;" width="560" height="315" src="https://www.youtube.com/embed/535PcFrBH8M"></iframe>
+           The video below provides a short overview of the major features of VEuPathDB. 
+           <iframe style="margin-left:3em;margin-top:1em;" width="560" height="315" src="https://youtu.be/embed/VNqPk_epR58"></iframe>
   uid: g1
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "How do I cite ClinEpiDB?"
+  question: "How do I populate a strategy with my existing list of genes of interest?"
   answer: |
            If you want to cite ClinEpiDB directly, please use:
 
@@ -29,7 +27,7 @@
   uid: g2
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "Can I use ClinEpiDB to analyze my own data?"
+  question: "How do I populate a strategy with all the genes in an organism?"
   answer: |
            ClinEpiDB does not allow you to upload and analyze your own data. However, you can 
            [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about having your own 
@@ -40,16 +38,11 @@
   question: "How do I submit data?"
   answer: |
            To start, you should [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about 
-           having your data loaded into ClinEpiDB. Tell us about the study objectives and design, 
-           the size of the dataset, types of variables, and your funding source. Then, check out our 
-           [Data Submission Guidelines](/documents/ClinEpiDBDatasetGuidelinesforDataProviders.pdf){:target='_blank'} 
-           to learn more about how to prepare your data for us and what additional files we need. 
-           If we are able to integrate your data, we'll give you access to a secure Box folder where 
-           you can upload your data and accompanying files. 
+           having your data loaded into VEuPathDB. Tell us about the study objectives, design, and the platform(s) used.
   uid: g4
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "How does ClinEpiDB protect human subject data?"
+  question: "How do I do an enrichment analysis on a list of genes by GO term or metabolic pathway?"
   answer: |
            1. We ask all users to agree to our [Data Access and Use Policy](/documents/DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'}
            2. Direct identifiers such as names and GPS coordinates are removed for all studies. Dates are obfuscated, locations are generalized, and additional indirect identifiers are removed or obfuscated as needed on a case-by-case basis. For some studies, subject IDs are re-assigned to break the link to the institution's copy of the data
@@ -57,7 +50,7 @@
   uid: g5
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "If I want to share data via ClinEpiDB, do I need to include data sharing in my IRB proposal?"
+  question: "How do I transform a list genes into homologs in a different organism?"
   answer: |
            Yes! If you intend to make data available, it's important to include that in your consent
            forms and your IRB proposal. Our [IRB data sharing guidance](/documents/IRBDataSharingGuidance.pdf){:target='_blank'}
@@ -65,14 +58,14 @@
   uid: g6
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "Can I access the code used for ClinEpiDB?"
+  question: "Download a list of genomic or amino acid sequences?"
   answer: |
            Yes! Our code is maintained using [Git](https://github.com/VEuPathDB?utf8=%E2%9C%93&q=ClinEpi&type=&language=){:target='_blank'}, 
            and we welcome input from the community. For instance, check out our [Shiny app scripts](https://github.com/VEuPathDB/ClinEpiWebsite/tree/master/View/lib/R/shiny/apps){:target='_blank'}.
   uid: g7
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "How does ClinEpiDB use ontologies?"
+  question: "How do I download a table with a list of genes including any field(s) from our gene pages (e.g., gene names and symbols)?"
   answer: |
            We use the [VEuPathDB ontology](http://obofoundry.org/ontology/eupath.html){:target='_blank'}, which is an Open Biological and Biomedical Ontology (OBO) Foundry ontology, to increase data interoperability. As a part of ClinEpiDB data processing, every variable within a study is assigned to a unique ontology term. Each ontology term has its own identifier, called an Internationalized Resource Identifier (IRI). For each term, we create a user-friendly label, which is what you see displayed as the variable name on ClinEpiDB and in the download files. These labels are generally consistent across studies. We don't display IRIs on the website, but you can find them in the download files. They look like "EUPATH_0000120" or "PATO_0000047".
 
@@ -80,21 +73,25 @@
   uid: g8
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "What are the study accessibility levels?"
+  question: "How do I add a comment to a gene pages?"
   answer: |
            There are currently 5 possible data access levels (public, controlled, protected, private, and prerelease). See the [Data Access and Use Policy](/a/app/static-content/ClinEpiDB/access_and_use.html){:target='_blank'} to learn more about the restrictions of each level.
   uid: g9
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "Does ClinEpiDB assign persistent identifiers?"
+  question: "How do I share my stragey /list of genes with someone else?"
   answer: |
            Yes! Each study is assigned their own stable identifier that begins with 'DS_'. This identifier is present in all URLs associated with that study, including the Study page. For more information on how to cite the data for a study loaded in ClinEpiDB, see [How do I cite ClinEpiDB?](#g2)
   uid: g10
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "Is ClinEpiDB a data repository?"
+  question: "How do I cite VEuPathDB"
   answer: |
-           ClinEpiDB is a knowledge base that makes data more FAIR (findable, accessible, interoperable, and reusable). While data can be accessed, explored, and downloaded from our website, we also recommend depositing your data in a formal repository such as [Synapse](https://www.synapse.org/){:target='_blank'} or [Harvard Dataverse](https://dataverse.harvard.edu/){:target='_blank'} to ensure long-term preservation.
+          How to cite <VectorBase, Plamo, Orhtomlc ....> most recent paper? 
+          How to reference an organism genome version (assembly and gene set)?
+          How to reference a VectorBase MapVEu (formely PopBio) project ID, VBP*?
+          How to cite a gene? 
+          How to submit data to <VectorBase, Plamo, ....> and otain IDs? 
   uid: g11
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: using_site
