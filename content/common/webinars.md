@@ -81,7 +81,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Aspergillus & FungiDB<br>
 <b>Date:</b> Tuesday March 2nd, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> https://jcvi.webex.com/jcvi/j.php?RGID=r125e0d7cfb10b9a3adad1699fbe6d1b3<br>
+<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r125e0d7cfb10b9a3adad1699fbe6d1b3">https://jcvi.webex.com/jcvi/j.php?RGID=r125e0d7cfb10b9a3adad1699fbe6d1b3</a> <br>
 <b>Additional Details:</b> This webinar will focus on respiratory <i>Aspergillus</i> pathogens and introduce users to
 bioinformatic resources available at FungiDB.
 <br>
@@ -104,7 +104,7 @@ hr>
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Candida & HostDB<br>
 <b>Date:</b> Tuesday May 4th 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> https://jcvi.webex.com/jcvi/j.php?RGID=rc56f63b3a337eb29428a94f8c9234c07<br>
+<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=rc56f63b3a337eb29428a94f8c9234c07">https://jcvi.webex.com/jcvi/j.php?RGID=rc56f63b3a337eb29428a94f8c9234c07</a><br>
 <b>Additional Details:</b> This webinar will focus on <i>Candida pathogens</i> and introduce users to
 bioinformatic resources available at FungiDB and HostDB.
 <br>
