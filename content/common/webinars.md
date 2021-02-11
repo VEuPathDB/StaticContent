@@ -26,7 +26,9 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
     
+   <p><b>Tuesday March 2nd, 2021:</b> <a href="#BRCfungi1">The Bioinformatic Resource Centers Webinar Series: Aspergillus & FungiDB</a></p>
    <p><b>Thursday March 11th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
+   <p><b>Thursday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Candida & HostDB</a></p>
    <p><b>Thursday May 13th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
    <p><b>Thursday July 8th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
    <p><b>Thursday September 9th, 2021:</b> <a href="#release54">Release 54 Webinar</a></p>
@@ -74,6 +76,18 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="contents">
 
 <hr>
+<div class="anchor"><a name="BRCfungi1"></a></div>
+<div class="webinar">
+<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Aspergillus & FungiDB<br>
+<b>Date:</b> Tuesday March 2nd, 2021<br>
+<b>Time:</b> 11AM US Eastern Time<br>
+<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r125e0d7cfb10b9a3adad1699fbe6d1b3">https://jcvi.webex.com/jcvi/j.php?RGID=r125e0d7cfb10b9a3adad1699fbe6d1b3</a> <br>
+<b>Additional Details:</b> This webinar will focus on respiratory <i>Aspergillus</i> pathogens and introduce users to
+bioinformatic resources available at FungiDB.
+<br>
+</div>
+
+<hr>
 <div class="anchor"><a name="release51"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 51 Webinar<br>
@@ -81,6 +95,18 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration:</b> Available 7-10 days prior to webinar<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 51 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="BRCfungi2"></a></div>
+<div class="webinar">
+<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Candida & HostDB<br>
+<b>Date:</b> Tuesday May 4th 2021<br>
+<b>Time:</b> 11AM US Eastern Time<br>
+<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=rc56f63b3a337eb29428a94f8c9234c07">https://jcvi.webex.com/jcvi/j.php?RGID=rc56f63b3a337eb29428a94f8c9234c07</a><br>
+<b>Additional Details:</b> This webinar will focus on <i>Candida pathogens</i> and introduce users to
+bioinformatic resources available at FungiDB and HostDB.
 <br>
 </div>
 
