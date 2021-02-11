@@ -98,7 +98,7 @@ bioinformatic resources available at FungiDB.
 <br>
 </div>
 
-hr>
+<hr>
 <div class="anchor"><a name="BRCfungi2"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Candida & HostDB<br>
