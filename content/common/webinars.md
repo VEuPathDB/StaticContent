@@ -34,6 +34,8 @@ tags: [general]
    <p><b>Thursday April 20th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
    <p><b>Thursday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Aspergillus &  FungiDB</a></p>
    <p><b>Thursday May 13th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
+   <p><b>Thursday May 4th, 2021:</b> <a href="#BRC5">The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</a></p>
+   <p><b>Thursday May 4th, 2021:</b> <a href="#BRC6">The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC</a></p>
    <p><b>Thursday July 8th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
    <p><b>Thursday September 9th, 2021:</b> <a href="#release54">Release 54 Webinar</a></p>
    <p><b>Thursday November 11th, 2021:</b> <a href="#release55">Release 55 Webinar</a></p>
@@ -127,7 +129,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 </div>
 
 <hr>
-<div class="anchor"><a name="BRC2"></a></div>
+<div class="anchor"><a name="BRC3"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC<br>
 <b>Date:</b> Tuesday March 30h, 2021<br>
@@ -139,7 +141,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 </div>
 
 <hr>
-<div class="anchor"><a name="BRC3"></a></div>
+<div class="anchor"><a name="BRC4"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: RSV, Pneumoviridae & ViPR<br>
 <b>Date:</b> Tuesday April 20th, 2021<br>
@@ -174,7 +176,7 @@ bioinformatic resources available at FungiDB.
 </div>
 
 <hr>
-<div class="anchor"><a name="BRC4"></a></div>
+<div class="anchor"><a name="BRC5"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR<br>
 <b>Date:</b> Tuesday May 18th 2021<br>
@@ -186,7 +188,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 </div>
 
 <hr>
-<div class="anchor"><a name="BRC5"></a></div>
+<div class="anchor"><a name="BRC6"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC<br>
 <b>Date:</b> Tuesday June 1st 2021<br>
