@@ -97,7 +97,7 @@ bioinformatic resources available at the Influenza Research Database.
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB<br>
 <b>Date:</b> Tuesday March 2nd, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r125e0d7cfb10b9a3adad1699fbe6d1b3">https://jcvi.webex.com/jcvi/j.php?RGID=r125e0d7cfb10b9a3adad1699fbe6d1b3</a> <br>
+<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=rcb6fdd4611383ae04ad2071042b7a16f">https://jcvi.webex.com/jcvi/j.php?RGID=rcb6fdd4611383ae04ad2071042b7a16f</a> <br>
 <b>Additional Details:</b> This webinar will focus on respiratory <i>Coccidioides</i> pathogens and introduce users to
 bioinformatic resources available at FungiDB.
 <br>
