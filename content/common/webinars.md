@@ -195,7 +195,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Time:</b> 11AM US Eastern Time<br>
 <b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=re7dd05381f96e50405e90793bae8f838">https://jcvi.webex.com/jcvi/j.php?RGID=re7dd05381f96e50405e90793bae8f838</a><br>
 <b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
-bioinformatic resources available at the the Pathosystems Resource Integration Center.
+bioinformatic resources available at the Pathosystems Resource Integration Center.
 <br>
 </div>
 
