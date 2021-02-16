@@ -27,12 +27,12 @@ tags: [general]
   <div class="contents">
     
    <p><b>Tuesday February 16th, 2021:</b> <a href="#BRC1">The Bioinformatic Resource Centers Webinar Series: Influenza & IRD</a></p>
-   <p><b>Tuesday March 2nd, 2021:</b> <a href="#BRCfungi1">The Bioinformatic Resource Centers Webinar Series: Aspergillus & FungiDB</a></p>
+   <p><b>Tuesday March 2nd, 2021:</b> <a href="#BRCfungi1">The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB</a></p>
    <p><b>Tuesday March 16th, 2021:</b> <a href="#BRC2">The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR</a></p>
    <p><b>Tuesday March 30th, 2021:</b> <a href="#BRC3">The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC</a></p>
    <p><b>Tuesday April 20th, 2021:</b> <a href="#BRC4">The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR</a></p>
    <p><b>Thursday April 20th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
-   <p><b>Thursday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Candida & HostDB</a></p>
+   <p><b>Thursday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Aspergillus &  FungiDB</a></p>
    <p><b>Thursday May 13th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
    <p><b>Thursday July 8th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
    <p><b>Thursday September 9th, 2021:</b> <a href="#release54">Release 54 Webinar</a></p>
