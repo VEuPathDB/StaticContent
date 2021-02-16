@@ -129,7 +129,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 </div>
 
 <hr>
-<div class="anchor"><a name="BRC2"></a></div>
+<div class="anchor"><a name="BRC3"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC<br>
 <b>Date:</b> Tuesday March 30h, 2021<br>
@@ -141,7 +141,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 </div>
 
 <hr>
-<div class="anchor"><a name="BRC3"></a></div>
+<div class="anchor"><a name="BRC4"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: RSV, Pneumoviridae & ViPR<br>
 <b>Date:</b> Tuesday April 20th, 2021<br>
@@ -176,18 +176,7 @@ bioinformatic resources available at FungiDB.
 </div>
 
 <hr>
-<div class="anchor"><a name="release52"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 52 Webinar<br>
-<b>Date:</b> Thursday May 13th, 2021<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> Available 7-10 days prior to webinar<br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 52 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
-</div>
-
-<hr>
-<div class="anchor"><a name="BRC4"></a></div>
+<div class="anchor"><a name="BRC5"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR<br>
 <b>Date:</b> Tuesday May 18th 2021<br>
@@ -199,7 +188,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 </div>
 
 <hr>
-<div class="anchor"><a name="BRC5"></a></div>
+<div class="anchor"><a name="BRC6"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC<br>
 <b>Date:</b> Tuesday June 1st 2021<br>
