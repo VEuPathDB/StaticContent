@@ -31,7 +31,7 @@ tags: [general]
 
 <h3>Zooming</h3>
 <ul> 
-<li>Zoom in and out by clicking or in the navigation bar, or by pressing the up and down arrow keys while holding down "shift".</li> 
+<li>Zoom in and out by clicking in the navigation bar, or by pressing the up and down arrow keys while holding down "shift".</li> 
 <li>Select a region and zoom to it ("rubber-band" zoom) by clicking and dragging in the overview or track scale bar, or shift-clicking and dragging in the track area.</li> 
 </ul>
         
