@@ -7,7 +7,7 @@ tags: [general]
 
 <h3>Annotating features</h3>
 <ul> 
-<li>From either the right hand side or letf hand side menus, you can slect the <b>draggable tracks</b>. These tracks contain both the official gene set and the combined RNAseq evidence.
+<li>From either the right hand side or left hand side menus, you can select the <b>draggable tracks</b>. These tracks contain both the official gene set and the combined RNAseq evidence.
   <ul>
   <li>Option 1: Right hand side menu > Tracks > Draggable Annotation 
     <div style="margin:2em;margin-left:20em;"><img  src="{{ "/assets/images/Apollo0red.png" | absolute_url }}" alt="" width="500px" />
