@@ -18,7 +18,7 @@ published: false
 
 <p>To view a summary of VectorBase 40+ genomes follow this link in the header menu
   <a href="https://vectorbase.org/vectorbase/app/search/organism/GenomeDataTypes/result">Data => Organisms: Genome Info and Stats</a>,
-  for a summary of the VectorBase 480+ datasets available for each species (genomes, transcriptomes, external databases such us InterPro, KEGG, GO, etc), follow this link in the header menu <a href="https://vectorbase.org/vectorbase/app/search/dataset/AllDatasets/result">Data => Data Sets in VectorBase</a> </p>
+  for a summary of the VectorBase 480+ datasets available for each species (genomes, transcriptomes, external databases such us InterPro, KEGG, GO, etc), follow this link in the header menu <a href="https://vectorbase.org/vectorbase/app/search/dataset/AllDatasets/result">Data => Data Sets in VectorBase</a>.</p>
 
 <p>Please let us know if you wish to submit a data set or make us aware of one relevant to your research, to help us prioritize our list filling this only form (in the header menu About => Submit Data => How to submit data to VEuPathDB)
   <a href="https://vectorbase.org/vectorbase/app/static-content/dataSubmission.html">legacy vectorbase.org</a>
