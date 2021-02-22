@@ -16,7 +16,7 @@ published: false
 
 <p>The <a href="https://legacy.vectorbase.org">legacy vectorbase.org</a> site is still available to help you transition to the new site, if needed.</p>
 
-<p>For a summary of the VectorBase 480+ datasets available for each species (genomes, transcriptomes, external databases such us InterPro, KEGG, GO, etc), follow this link in the header menu: <a href="https://vectorbase.org/vectorbase/app/search/dataset/AllDatasets/result">Data => Data Sets in VectorBase</a>. To view only a subset of this page, i.e., a summary of VectorBase 40+ genomes, follow this link in the header menu:
+<p>For a summary of the VectorBase datasets available for each species (genomes, transcriptomes, external databases such us InterPro, KEGG, GO, etc), follow this link in the header menu: <a href="https://vectorbase.org/vectorbase/app/search/dataset/AllDatasets/result">Data => Data Sets in VectorBase</a>. To view only a subset of this page, i.e., a summary of VectorBase 40+ genomes, follow this link in the header menu:
   <a href="https://vectorbase.org/vectorbase/app/search/organism/GenomeDataTypes/result">Data => Organisms: Genome Info and Stats</a>.</p>
 
 <p>Please let us know if you wish to submit a data set or make us aware of one relevant to your research, to help us prioritize our list filling an online form in the header menu: <a href="https://vectorbase.org/vectorbase/app/static-content/dataSubmission.html">About => Submit Data => How to submit data to VEuPathDB</a>.</p>
