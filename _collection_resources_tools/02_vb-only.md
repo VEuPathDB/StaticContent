@@ -7,6 +7,7 @@ category: [VectorBase]
 tags: [tutorial]
 title: "What is New"
 permalink: '#what-is-new'
+published: false
 ---
 
 <h2>Welcome to the new VectorBase <i>beta</i> website!</h2>
