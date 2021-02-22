@@ -12,7 +12,7 @@ published: false
 
 <h2>Welcome to the new VectorBase website!</h2>
 
-<p>Welcome!  VectorBase has a new look and new tools to help you better browse and Search vector omics and population data.  Feel free to explore the other cards in the <b>Overview of Resources and Tools</b> section to learn more.</p>
+<p>VectorBase has a new look and new tools to help you better browse and Search vector omics and population data.  Feel free to explore the other cards in the <b>Overview of Resources and Tools</b> section to learn more.</p>
 
 <p>The <a href="https://legacy.vectorbase.org">legacy vectorbase.org</a> site is still available to help you transition to the new site, if needed.</p>
 
