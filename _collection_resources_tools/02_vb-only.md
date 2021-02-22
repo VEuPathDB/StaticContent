@@ -21,4 +21,5 @@ published: false
 
 <p>Please let us know if you wish to submit a data set or make us aware of one relevant to your research, to help us prioritize our list filling an online form in the header menu: <a href="https://vectorbase.org/vectorbase/app/static-content/dataSubmission.html">About => Submit Data => How to submit data to VEuPathDB</a>.</p>
 
-<p>If you have questions, concerns, suggestions or need additional help please <a href="https://vectorbase.org/vectorbase/app/contact-us">contact us</a>.</p>  
+<p>If you have questions, concerns, suggestions or need additional help please <a href="https://vectorbase.org/vectorbase/app/contact-us">contact us</a> or watch our 
+  <a href="https://vectorbase.org/vectorbase/app/static-content/webinars.html"> webinars</a>.</p>  
