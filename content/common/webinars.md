@@ -79,20 +79,7 @@ tags: [general]
 
 <h3>Upcoming Webinars</h3>
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
-
 <div class="contents">
-
-<hr>
-<div class="anchor"><a name="BRC1"></a></div>
-<div class="webinar">
-<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Influenza & IRD<br>
-<b>Date:</b> Tuesday February 16th, 2021<br>
-<b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r125e0d7cfb10b9a3adad1699fbe6d1b3">https://jcvi.webex.com/jcvi/j.php?RGID=r125e0d7cfb10b9a3adad1699fbe6d1b3</a> <br>
-<b>Additional Details:</b> This webinar focused on respiratory pathogens and introduced users to
-bioinformatic resources available at the Influenza Research Database.
-<br>
-</div>
 
 <hr>
 <div class="anchor"><a name="BRCfungi1"></a></div>
@@ -113,6 +100,7 @@ bioinformatic resources available at FungiDB.
 <b>Date:</b> Thursday March 11th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration:</b> Available 7-10 days prior to webinar<br>
+<!--registration link   https://attendee.gotowebinar.com/register/8137280361730606607-->
 <b>Additional Details:</b> This webinar will focus on what is new in Release 51 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
@@ -250,7 +238,20 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <h3>Previous Webinars</h3>
 <hr>
 <div class="contents">
-  
+
+<hr>
+<div class="anchor"><a name="BRC1"></a></div>
+<div class="webinar">
+<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Influenza & IRD<br>
+<b>Date:</b> Tuesday February 16th, 2021<br>
+<b>Time:</b> 11AM US Eastern Time<br>
+<b>Recording:</b> <br>
+<b>Additional Details:</b> This webinar focused on respiratory pathogens and introduced users to
+bioinformatic resources available at the Influenza Research Database.
+<br>
+</div>
+
+<hr>  
 <div class="anchor"><a name="release50"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 50 Webinar<br>
