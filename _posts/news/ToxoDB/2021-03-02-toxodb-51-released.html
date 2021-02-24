@@ -1,0 +1,79 @@
+---
+layout: post
+title: ToxoDB 50 Released
+category: [ToxoDB,VEuPathDB]
+---
+{% assign project = page.category[0] %}
+
+
+<h4>We are pleased to announce the release of {{project}} 50.</h4>  
+
+<p>The URL <a href="https://{{project}}.org">https://{{project}}.org</a> directs you to the newest version of our interface.  The site contains all previous data plus some new tools and functions in an updated and streamlined interface that empasizes easy access to help information.   Navigate to <a href="https://legacy.{{project}}.org">https://legacy.{{project}}.org</a> for the previous version of the interface.  The legacy interface will remain active for at least one release.</p>
+
+<section>
+  <h3>Release 50 Webinar</h3>
+  <div style="margin-left: 3em;">
+    Join us on January 14, 2021 at 10am EDT for our Release 50 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 50.  
+    <a href="https://attendee.gotowebinar.com/register/6484104154635614223" target="_blank">Register here</a>  
+  </div>
+</section>
+
+<section>
+  <h3>Educational resources</h3>
+  <div style="margin-left: 3em;">
+  The educational resources at <a href="/a/app/static-content/landing.html">Learning about VEuPathDB</a> page have been updated. Updates include new webinar recordings, tutorials, methods descriptions, and an all new <a href="https://www.niaid.nih.gov/research/bioinformatics-resource-centers" target="_blank">Bioinformatics Resource Centers </a>calendar of events.
+</div>
+</section>
+
+<section>
+  <h3>New data in {{project}} 50</h3>
+  <div style="margin-left: 3em;">
+    
+    <h4>Annotated genome</h4>
+    <ul>
+      <li>
+        <a href="/a/app/record/dataset/DS_413cde922d"><i>Toxoplasma gondii </i> strain RH-88</a> &ndash; Genome Sequence and Annotation for <i>Toxoplasma gondii</i> RH-88. Genomic material was obtained from the human isolate RH-88 collected in 2016. Sequencing was conducted using PacBio and data was assembled (HGAP v.3 and mapping to ME49 reference genome) into 13 nuclear chromosomes and 1 apicoplast genome. Consensus sequence was polished with pilon v1.22 after mapping RH-88 Illumina sequencing reads onto assembled contigs with bowtie2.
+        <a href="https://www.ncbi.nlm.nih.gov/assembly/GCA_013099955.1" target="_blank">NCBI Assembly page</a>.  Lorenzi, Sibley, et al. (JCVI) 
+      </li>
+    </ul>
+    <h4>Proteomics</h4>
+    <ul>
+      <li>
+        <a href="/a/app/record/dataset/DS_81ccbd2a97">Self-assembled vesicles (RH) quantitative proteomics</a> &ndash; Quantitative proteomes of self-assembled vesicles from <i>Toxoplasma gondii</i> RH. Samples include ectosomes, exosomes, and ecto/exo supernatant.  <a href="http://www.ncbi.nlm.nih.gov/pubmed/31434009" target="_blank"> Ramírez-Flores et al. 2019 </a>.
+      </li>
+    </ul>
+    <h4>Transcription Start Sites</h4>
+    <ul>
+      <li>
+        <a href="/a/app/record/dataset/DS_011c12b8d3">Genome-wide mapping of transcription initiation</a> &ndash; Strand-specific 5′-end RNA sequencing reads from <i>Toxoplasma gondii</i> ME49 tachyzoites were collapsed onto the 5′-most nucleotide (5′ tag) to generate maps of transcription initiation events.  Markus et al. Frontiers in Cellular and Infection Microbiology in press <a href="https://louridolab.wi.mit.edu/" target="_blank">Lourido Lab</a>.
+      </li>
+    </ul>
+    <h4>Hyperplexed Localization of Organelle Proteins by Isotope Tagging</h4>
+    <ul>
+      <li>The data representation for <a href="/a/app/record/dataset/DS_eda79f81b5">Hyper LOPIT Global mapping of protein subcellular location</a> is updated with improved descrioptions and gene page tables and graphs.  For an example, see the Protein Targeting an Localization section of any TGME49 gene, such as <a href="/a/app/record/gene/TGME49_200250#category:statistics-and-probability">TGME49_200250</a>  </li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <h3>New features in {{project}} 50</h3>
+  <div style="margin-left: 3em;">
+   <ul>
+    <li><a href="https://orthomcl.org/orthomcl/app/" target="_blank">OrthoMCL DB</a> now shares web architecture with other VEuPathDB sites. The updated and streamlined interface emphasizes easy access to tools and help information.  </li>
+      <ul>
+        <li>OrthoMCL now includes orthology information for <a href="https://orthomcl.org/orthomcl/app/release-summary" target="_blank">564 species</a>, including all of the VEuPathDB organisms with annotated genomes. </li>
+        <li>The redesigned home page includes a new site-wide search for easily finding groups, proteins or documents. A categorized list of Searches appears on the left of the home page and the center section is devoted to tutorials for getting you started with OrthoMCL features.</li>
+        <li>Group and protein record pages are redesigned and include a contents section for navigating to the data you are interested in. </li>
+        <li>For more information see the OrthoMCL DB <a href="https://orthomcl.org/orthomcl/app/static-content/OrthoMCL/about.html" target="_blank">About</a> page, the <a href="https://orthomcl.org/orthomcl/app/static-content/OrthoMCL/faq.html" target="_blank">FAQ</a> page or complete this <a href="{{'/documents/OrthoMCL_tutorial1.pdf' | absolute_url}}" target="_blank">tutorial</a>. </li>
+      </ul>
+    <li>Community annotation via <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006790" target="_blank">Apollo</a> is now available in {{project}}. Apollo is an open source software enabling users to inspect, refine and add gene models to the current genome annotations. Community annotation offers a value-added perspective to  curation, especially for genomes without actively funded curation efforts. To contribute structural gene model changes, users inspect data as JBrowse tracks, create new or modified gene models, and save them in Apollo. To access Apollo, navigate to the Tools menu in the {{project}} header.  To learn more, see this <a href="https://youtu.be/RMXZDBMh8Fo" target="_blank">webinar recording describing manual gene annotation in Apollo</a>.  </li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <aside>
+   <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>
+
