@@ -239,7 +239,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <hr>
 <div class="contents">
 
-<hr>
+
 <div class="anchor"><a name="BRC1"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Influenza & IRD<br>
