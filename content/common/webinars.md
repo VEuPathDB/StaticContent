@@ -26,12 +26,11 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
     
-   <p><b>Tuesday February 16th, 2021:</b> <a href="#BRC1">The Bioinformatic Resource Centers Webinar Series: Influenza & IRD</a></p>
    <p><b>Tuesday March 2nd, 2021:</b> <a href="#BRCfungi1">The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB</a></p>
+   <p><b>Thursday March 11th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
    <p><b>Tuesday March 16th, 2021:</b> <a href="#BRC2">The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR</a></p>
    <p><b>Tuesday March 30th, 2021:</b> <a href="#BRC3">The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC</a></p>
    <p><b>Tuesday April 20th, 2021:</b> <a href="#BRC4">The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR</a></p>
-   <p><b>Thursday April 20th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
    <p><b>Thursday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Aspergillus &  FungiDB</a></p>
    <p><b>Thursday May 13th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
    <p><b>Thursday May 4th, 2021:</b> <a href="#BRC5">The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</a></p>
@@ -46,6 +45,8 @@ tags: [general]
   <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+    
+   <p><b>Tuesday February 16th, 2021:</b> <a href="#BRC1">The Bioinformatic Resource Centers Webinar Series: Influenza & IRD</a></p>
    <p><b>Thursday January 14th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
    <p><b>Wednesday December 9th, 2020:</b> <a href="#clinepi">Clinical and Epidemiologic Data Exploration for Genomic Researchers</a></p>
    <p><b>Thursday November 12th, 2020:</b> <a href="#release49">Release 49 Webinar</a></p>
@@ -88,7 +89,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Date:</b> Tuesday February 16th, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
 <b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r125e0d7cfb10b9a3adad1699fbe6d1b3">https://jcvi.webex.com/jcvi/j.php?RGID=r125e0d7cfb10b9a3adad1699fbe6d1b3</a> <br>
-<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
+<b>Additional Details:</b> This webinar focused on respiratory pathogens and introduced users to
 bioinformatic resources available at the Influenza Research Database.
 <br>
 </div>
