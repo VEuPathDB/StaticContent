@@ -33,8 +33,8 @@ tags: [general]
    <p><b>Tuesday April 20th, 2021:</b> <a href="#BRC4">The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR</a></p>
    <p><b>Thursday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Aspergillus &  FungiDB</a></p>
    <p><b>Thursday May 13th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
-   <p><b>Thursday May 4th, 2021:</b> <a href="#BRC5">The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</a></p>
-   <p><b>Thursday May 4th, 2021:</b> <a href="#BRC6">The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC</a></p>
+   <p><b>Tuesday May 18th, 2021:</b> <a href="#BRC5">The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</a></p>
+   <p><b>Tuesday June 1st, 2021:</b> <a href="#BRC6">The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC</a></p>
    <p><b>Thursday July 8th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
    <p><b>Thursday September 9th, 2021:</b> <a href="#release54">Release 54 Webinar</a></p>
    <p><b>Thursday November 11th, 2021:</b> <a href="#release55">Release 55 Webinar</a></p>
