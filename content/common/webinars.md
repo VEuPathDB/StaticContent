@@ -26,7 +26,6 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
     
-   <p><b>Tuesday February 16th, 2021:</b> <a href="#BRC1">The Bioinformatic Resource Centers Webinar Series: Influenza & IRD</a></p>
    <p><b>Tuesday March 2nd, 2021:</b> <a href="#BRCfungi1">The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB</a></p>
    <p><b>Tuesday March 16th, 2021:</b> <a href="#BRC2">The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR</a></p>
    <p><b>Tuesday March 30th, 2021:</b> <a href="#BRC3">The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC</a></p>
@@ -46,6 +45,7 @@ tags: [general]
   <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+   <p><b>Tuesday February 16th, 2021:</b> <a href="#BRC1">The Bioinformatic Resource Centers Webinar Series: Influenza & IRD</a></p>
    <p><b>Thursday January 14th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
    <p><b>Wednesday December 9th, 2020:</b> <a href="#clinepi">Clinical and Epidemiologic Data Exploration for Genomic Researchers</a></p>
    <p><b>Thursday November 12th, 2020:</b> <a href="#release49">Release 49 Webinar</a></p>
@@ -81,17 +81,6 @@ Release webinar dates are subject to change due to production issues that may ar
 
 <div class="contents">
 
-<hr>
-<div class="anchor"><a name="BRC1"></a></div>
-<div class="webinar">
-<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Influenza & IRD<br>
-<b>Date:</b> Tuesday February 16th, 2021<br>
-<b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r125e0d7cfb10b9a3adad1699fbe6d1b3">https://jcvi.webex.com/jcvi/j.php?RGID=r125e0d7cfb10b9a3adad1699fbe6d1b3</a> <br>
-<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
-bioinformatic resources available at the Influenza Research Database.
-<br>
-</div>
 
 <hr>
 <div class="anchor"><a name="BRCfungi1"></a></div>
@@ -249,7 +238,19 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <h3>Previous Webinars</h3>
 <hr>
 <div class="contents">
-  
+
+ <hr>
+<div class="anchor"><a name="BRC1"></a></div>
+<div class="webinar">
+<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Influenza & IRD<br>
+<b>Date:</b> Tuesday February 16th, 2021<br>
+<b>Time:</b> 11AM US Eastern Time<br>
+<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
+bioinformatic resources available at the Influenza Research Database.
+<br>
+</div>
+
+<hr>
 <div class="anchor"><a name="release50"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 50 Webinar<br>
