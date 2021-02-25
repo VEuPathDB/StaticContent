@@ -111,7 +111,7 @@ bioinformatic resources available at FungiDB.
 <b>Topic:</b> Release 51 Webinar<br>
 <b>Date:</b> Thursday March 11th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> Available 7-10 days prior to webinar<br>
+<b>Registration:</b> Available 7-10 days prior to webinar <br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 51 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
