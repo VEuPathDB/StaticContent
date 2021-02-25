@@ -20,17 +20,15 @@ category: [PlasmoDB,VEuPathDB]
 
 <section>
   <h3>New data in {{project}} 51</h3>
-      <div style="margin-left: 3em;">
-        <h4>Proteomics</h4>
-        <ul>
-          <li>
-            <a href="/a/app/record/dataset/DS_0b93ddce0d">Nuclear Proteome</a> &ndash; The nuclear proteome of mixed populations of <i>Plasmodium falciparum</i> 3D7 extracted from infected erythrocytes was determined by GeLC-MS/MS and 2D-LC-MS/MS. A peptide exclusion procedure was used to increase the detection of low abundant proteins such as those involved in gene expression. <a href="http://www.ncbi.nlm.nih.gov/pubmed/30379851" target="_blank">Briquet et al. 2018</a>.
-          </li>
-        </ul>  
-
-      </div>
-        <br><br>
-    </section>
+  <div style="margin-left: 3em;">
+  <h4>EBI Pipeline</h4>
+    {{project}} 51 represents the first release that employs the EBI pipeline for analyzing genomes and RNA-Seq data. (<a href="/a/app/static-content/methods.html">{{project}} Analysis Methods</a>) All genomes were run through the EBI pipeline, updating all analyses such as InterproScan and repeat identification.  While much of the EBI pipeline is the same as our previous in-house pipeline, these differences are noted:
+    <ul>
+      <li>Expression values calculated from RNA-Seq data are now presented as TPM (Transcripts Per Kilobase Million) instead of FPKM (Fragments Per Kilobase Million) or RPKM (Reads Per Kilobase Million). <a href="https://rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/" target="_blank">Learn more</a></li>
+      <li>Signal peptide predictions are now made with <a href="http://www.cbs.dtu.dk/services/SignalP-4.1/" target="_blank">SignalP-4.1</a>, updated from <a href="http://www.cbs.dtu.dk/services/SignalP-3.0/" target="_blank">SignalP-3.0</a>.</li>
+    </ul>
+  </div>
+</section>
 
 <section>
   <h3>New features in {{project}} 51</h3>
