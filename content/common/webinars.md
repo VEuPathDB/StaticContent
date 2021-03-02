@@ -127,7 +127,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Topic:</b> Introduction to VectorBase for the beginner<br>
 <b>Date:</b> Thursday March 25th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> https://attendee.gotowebinar.com/register/5797212854213597199<br>
+<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/5797212854213597199">https://attendee.gotowebinar.com/register/5797212854213597199</a><br>
 <b>Additional Details:</b> This webinar will cover VectorBase basics including:
 <ul>
 <li>The home page</li>
@@ -158,7 +158,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <b>Topic:</b> Building complex search strategies in VectorBase<br>
 <b>Date:</b> Thursday April 15th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> https://attendee.gotowebinar.com/register/1517001004258540814<br>
+<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/1517001004258540814">https://attendee.gotowebinar.com/register/1517001004258540814</a><br>
 <b>Additional Details:</b> This webinar describe how to build search strategies, including:
 <ul>
 <li>Starting your first step</li>
@@ -223,7 +223,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Topic:</b> Exploring transcriptomic data in VectorBase<br>
 <b>Date:</b> Thursday May 20th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> https://attendee.gotowebinar.com/register/7280143977804654094<br>
+<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/7280143977804654094">https://attendee.gotowebinar.com/register/7280143977804654094</a><br>
 <b>Additional Details:</b> This webinar describe how transcriptomic data including:
 <ul>
 <li>Exploring RNAseq searches</li>
@@ -252,7 +252,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <b>Topic:</b> Analyzing your own data in VectorBase<br>
 <b>Date:</b> Thursday June 10th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> https://attendee.gotowebinar.com/register/5862523844903840014<br>
+<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/5862523844903840014">https://attendee.gotowebinar.com/register/5862523844903840014</a><br>
 <b>Additional Details:</b> This webinar describe how you can analyze your own data in VectorBase:
 <ul>
 <li>Go enrichment analysis</li>
