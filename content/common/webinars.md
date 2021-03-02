@@ -29,12 +29,16 @@ tags: [general]
    <p><b>Tuesday March 2nd, 2021:</b> <a href="#BRCfungi1">The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB</a></p>
    <p><b>Thursday March 11th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
    <p><b>Tuesday March 16th, 2021:</b> <a href="#BRC2">The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR</a></p>
+   <p><b>Thursday March 25th, 2021:</b> <a href="#vect1">Introduction to VectorBase for the beginner</a></p>
    <p><b>Tuesday March 30th, 2021:</b> <a href="#BRC3">The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC</a></p>
+   <p><b>Thursday April 15th, 2021:</b> <a href="#vect2">Building complex search strategies in VectorBase</a></p>
    <p><b>Tuesday April 20th, 2021:</b> <a href="#BRC4">The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR</a></p>
    <p><b>Thursday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Aspergillus &  FungiDB</a></p>
    <p><b>Thursday May 13th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
    <p><b>Tuesday May 18th, 2021:</b> <a href="#BRC5">The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</a></p>
+   <p><b>Thursday May 20th, 2021:</b> <a href="#vect3">Exploring transcriptomic data in VectorBase</a></p>
    <p><b>Tuesday June 1st, 2021:</b> <a href="#BRC6">The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC</a></p>
+   <p><b>Thursday June 10th, 2021:</b> <a href="#vect3">Analyzing your own data in VectorBase</a></p>
    <p><b>Thursday July 8th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
    <p><b>Thursday September 9th, 2021:</b> <a href="#release54">Release 54 Webinar</a></p>
    <p><b>Thursday November 11th, 2021:</b> <a href="#release55">Release 55 Webinar</a></p>
@@ -118,6 +122,25 @@ bioinformatic resources available at the Virus Pathogen Resource.
 </div>
 
 <hr>
+<div class="anchor"><a name="vect1"></a></div>
+<div class="webinar">
+<b>Topic:</b> Introduction to VectorBase for the beginner<br>
+<b>Date:</b> Thursday March 25th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> https://attendee.gotowebinar.com/register/5797212854213597199<br>
+<b>Additional Details:</b> This webinar will cover VectorBase basics including:
+<ul>
+<li>The home page</li>
+<li>Site Search</li>
+<li>Building your first search strategy</li>
+<li>The gene page</li>
+<li>Available tools and searches</li>
+<li>The genome browser</li>
+</ul>
+<br>
+</div>
+
+<hr>
 <div class="anchor"><a name="BRC3"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC<br>
@@ -126,6 +149,24 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r6b68a005abac7a6f2679419fc25ec788">https://jcvi.webex.com/jcvi/j.php?RGID=r6b68a005abac7a6f2679419fc25ec788</a> <br>
 <b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
 bioinformatic resources available at the Pathosystems Resource Integration Center.
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="vect2"></a></div>
+<div class="webinar">
+<b>Topic:</b> Building complex search strategies in VectorBase<br>
+<b>Date:</b> Thursday April 15th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> https://attendee.gotowebinar.com/register/1517001004258540814<br>
+<b>Additional Details:</b> This webinar describe how to build search strategies, including:
+<ul>
+<li>Starting your first step</li>
+<li>Adding steps</li>
+<li>Boolean operations</li>
+<li>Transforming results to orthologs</li>
+<li>downloading search results</li>
+</ul>
 <br>
 </div>
 
@@ -177,6 +218,23 @@ bioinformatic resources available at the Virus Pathogen Resource.
 </div>
 
 <hr>
+<div class="anchor"><a name="vect3"></a></div>
+<div class="webinar">
+<b>Topic:</b> Exploring transcriptomic data in VectorBase<br>
+<b>Date:</b> Thursday May 20th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> https://attendee.gotowebinar.com/register/7280143977804654094<br>
+<b>Additional Details:</b> This webinar describe how transcriptomic data including:
+<ul>
+<li>Exploring RNAseq searches</li>
+<li>Exploring microarray searches</li>
+<li>Exploring transcriptomic graphs</li>
+<li>Exploring RNAseq data in the genome browser</li>
+</ul>
+<br>
+</div>
+
+<hr>
 <div class="anchor"><a name="BRC6"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC<br>
@@ -185,6 +243,23 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=re7dd05381f96e50405e90793bae8f838">https://jcvi.webex.com/jcvi/j.php?RGID=re7dd05381f96e50405e90793bae8f838</a><br>
 <b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
 bioinformatic resources available at the Pathosystems Resource Integration Center.
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="vect4"></a></div>
+<div class="webinar">
+<b>Topic:</b> Analyzing your own data in VectorBase<br>
+<b>Date:</b> Thursday June 10th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> https://attendee.gotowebinar.com/register/5862523844903840014<br>
+<b>Additional Details:</b> This webinar describe how you can analyze your own data in VectorBase:
+<ul>
+<li>Go enrichment analysis</li>
+<li>RNAseq analysis in Galaxy</li>
+<li>RNAseq result export to VectorBase</li>
+<li>Exploring your RNAseq data in VectorBase</li>
+</ul>
 <br>
 </div>
 
