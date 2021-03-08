@@ -301,7 +301,6 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 
   <!-- =========== PREVIOUS WEBINARS  ======================== -->
 <h3>Previous Webinars</h3>
-<hr>
 <div class="contents">
 
 
