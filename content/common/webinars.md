@@ -87,7 +87,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="contents">
 
 
-<hr>
+
 <div class="anchor"><a name="release51"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 51 Webinar<br>
@@ -303,8 +303,6 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <h3>Previous Webinars</h3>
 <div class="contents">
 
-
-<hr>
 <div class="anchor"><a name="BRCfungi1"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB<br>
@@ -315,6 +313,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <br>
 </div>
 
+<hr>
 <div class="anchor"><a name="BRC1"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Influenza & IRD<br>
