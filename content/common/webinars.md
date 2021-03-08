@@ -26,8 +26,8 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
     
-   <p><b>Tuesday March 2nd, 2021:</b> <a href="#BRCfungi1">The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB</a></p>
-   <p><b>Thursday March 11th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
+
+   <!--<p><b>Thursday March 11th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>-->
    <p><b>Tuesday March 16th, 2021:</b> <a href="#BRC2">The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR</a></p>
    <p><b>Thursday March 25th, 2021:</b> <a href="#vect1">Introduction to VectorBase for the beginner</a></p>
    <p><b>Tuesday March 30th, 2021:</b> <a href="#BRC3">The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC</a></p>
@@ -49,6 +49,8 @@ tags: [general]
   <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+    
+   <p><b>Tuesday March 2nd, 2021:</b> <a href="#BRCfungi1">The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB</a></p> 
    <p><b>Tuesday February 16th, 2021:</b> <a href="#BRC1">The Bioinformatic Resource Centers Webinar Series: Influenza & IRD</a></p>
    <p><b>Thursday January 14th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
    <p><b>Wednesday December 9th, 2020:</b> <a href="#clinepi">Clinical and Epidemiologic Data Exploration for Genomic Researchers</a></p>
@@ -82,29 +84,17 @@ tags: [general]
 
 <h3>Upcoming Webinars</h3>
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
-
 <div class="contents">
 
 
-<hr>
-<div class="anchor"><a name="BRCfungi1"></a></div>
-<div class="webinar">
-<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB<br>
-<b>Date:</b> Tuesday March 2nd, 2021<br>
-<b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=rcb6fdd4611383ae04ad2071042b7a16f">https://jcvi.webex.com/jcvi/j.php?RGID=rcb6fdd4611383ae04ad2071042b7a16f</a> <br>
-<b>Additional Details:</b> This webinar will focus on respiratory <i>Coccidioides</i> pathogens and introduce users to
-bioinformatic resources available at FungiDB.
-<br>
-</div>
 
-<hr>
 <div class="anchor"><a name="release51"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 51 Webinar<br>
 <b>Date:</b> Thursday March 11th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> Available 7-10 days prior to webinar <br>
+<b>Registration:</b> Available 7-10 days prior to webinar<br>
+<!--registration link   https://attendee.gotowebinar.com/register/8137280361730606607-->
 <b>Additional Details:</b> This webinar will focus on what is new in Release 51 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
@@ -309,23 +299,32 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
   </div>
 
 
-<hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
+  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 <h3>Previous Webinars</h3>
-<hr>
 <div class="contents">
 
- <hr>
+<div class="anchor"><a name="BRCfungi1"></a></div>
+<div class="webinar">
+<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB<br>
+<b>Date:</b> Tuesday March 2nd, 2021<br>
+<b>Time:</b> 11AM US Eastern Time<br>
+<b>Recording:</b> <br>
+<b>Additional Details:</b> This webinar will focus on respiratory <i>Coccidioides</i> pathogens and introduce users to bioinformatic resources available at FungiDB.
+<br>
+</div>
+
+<hr>
 <div class="anchor"><a name="BRC1"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Influenza & IRD<br>
 <b>Date:</b> Tuesday February 16th, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
-bioinformatic resources available at the Influenza Research Database.
+<b>Recording:</b> <br>
+<b>Additional Details:</b> This webinar focused on respiratory pathogens and introduced users to bioinformatic resources available at the Influenza Research Database.
 <br>
 </div>
 
-<hr>
+<hr>  
 <div class="anchor"><a name="release50"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 50 Webinar<br>
