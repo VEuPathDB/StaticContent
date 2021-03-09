@@ -308,8 +308,8 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB<br>
 <b>Date:</b> Tuesday March 2nd, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Recording:</b> <br>
-<b>Additional Details:</b> This webinar will focus on respiratory <i>Coccidioides</i> pathogens and introduce users to bioinformatic resources available at FungiDB.
+<b>Recording Link:</b> <a href="https://youtu.be/SEWk0BvaWkc">https://youtu.be/SEWk0BvaWkc</a><br>
+<b>Additional Details:</b> This webinar will feature a lecture from Dr Bridget Barker from Northern Arizona University and introduce users to bioinformatic resources available at FungiDB.org.
 <br>
 </div>
 
