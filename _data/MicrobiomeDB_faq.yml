@@ -26,8 +26,9 @@
 - type: general
   question: "How is the database populated?"
   answer: |
-           MicrobiomeDB uses an automated pipeline for loading raw fastq files from microbiome experiments carried out on the Illumina or 454 'pyrosequencing' platforms. 
-           Raw sequences from each study are processed using [DADA2](https://benjjneb.github.io/dada2/) and the [Silva database](https://www.arb-silva.de/) of high quality ribosomal RNA sequences
+           MicrobiomeDB uses automated pipelines for loading raw fastq files from 16S rRNA marker gene profiling and 'shotgun' metagenomic studies. 
+           Raw 16S rRNA gene sequences are processed using [DADA2](https://benjjneb.github.io/dada2/) and the [Silva database](https://www.arb-silva.de/) of high quality ribosomal RNA sequences.
+           Raw shotgun metagenomic sequences are processed using [MetaPhlAn3](https://huttenhower.sph.harvard.edu/metaphlan) and [HUMAnN3](https://huttenhower.sph.harvard.edu/humann).
            In addition to loading taxonomic data, MicrobiomeDB loads all 'metadata' terms used by the experimenter to describe each sample. 
            These terms are mapped to the MIxS ontology and unmapped terms are manually curated and used to expand a custom, MIxS-compliant, ontology tree. 
            This rich, structured sample description generates an ISA.tab file that is then loaded into microbiomeDB. 
@@ -42,13 +43,9 @@
 - type: general
   question: "Does the site handle shotgun metagenomic data?"
   answer: |
-           If you have a .biom file from your metagenomic study, then you can upload this directly to MicrobiomeDB under the Workspace menu (see next FAQ below).
-           We do not yet handle loading of raw sequence files from metagenomic studies, but this feature is currently under development and will be coming online soon! 
-           Although the datasets currently loaded in the site are from 16S rDNA marker gene sequencing, 
-           we are working on adding functionality for handling 'shotgun' metagenomic sequence data, 
-           potentially allowing interrogation of community composition at the species or strain level, 
-           looking at other organisms in complex communities (e.g. fungi and prokaryotes), 
-           as well as identification of samples based on the relative abundance of bacterial genes (e.g. antibiotic resistance, virulence factors, etc.). 
+           Yes!  As of release 21 (March 2021) we started loading shotgun metagenomic data.  In addition, If you have have your own metagenomic data that you're interested in analyzing on MicrobiomeDB, you can take advantage of our collaboration with [Nephele](https://nephele.niaid.nih.gov/) 
+           
+           .biom file from your metagenomic study, then you can upload this directly to MicrobiomeDB under the Workspace menu (see next FAQ below).as well as identification of samples based on the relative abundance of bacterial genes (e.g. antibiotic resistance, virulence factors, etc.). 
            Taken together, our goal is to develop a full-featured, open-source platform for a systems biology view of microbial communities.  
   uid: g4
   projects: "MicrobiomeDB"
@@ -65,7 +62,7 @@
 - type: general
   question: "Can I privately analyze my own unpublished data using the tools on MicrobiomeDB?"
   answer: |
-           Yes! Simply register for a free account, and you'll have access to your own Workspace were you can upload **[.biom files](http://biom-format.org/)** from 16S or shotgun metagenomic studies.  
+           Yes! Simply register for a free account, and you'll have access to your own private user workspace were you can upload **[.biom files](http://biom-format.org/)** from 16S or shotgun metagenomic studies.  
            A .biom file can be produced from standard 16S data processing pipelines, such as Mothur and QIIME.
            When creating your .biom file, be sure to incorporate metadata from your samples. 
            If you are using QIIME to analyze your 16S data, be sure to take a look at [our QIIME2 protocol](https://www.notion.so/Analysis-of-16S-data-using-QIIME2-f225c95e34784cc3b726cff2d4d137cc). 
