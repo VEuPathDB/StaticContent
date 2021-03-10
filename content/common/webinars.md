@@ -27,7 +27,7 @@ tags: [general]
   <div class="contents">
     
 
-   <!--<p><b>Thursday March 11th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>-->
+   <!--<p><b>Thursday April 1th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>-->
    <p><b>Tuesday March 16th, 2021:</b> <a href="#BRC2">The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR</a></p>
    <p><b>Thursday March 25th, 2021:</b> <a href="#vect1">Introduction to VectorBase for the beginner</a></p>
    <p><b>Tuesday March 30th, 2021:</b> <a href="#BRC3">The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC</a></p>
@@ -91,7 +91,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="anchor"><a name="release51"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 51 Webinar<br>
-<b>Date:</b> Thursday March 11th, 2021<br>
+<b>Date:</b> Thursday April 1th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration:</b> Available 7-10 days prior to webinar<br>
 <!--registration link   https://attendee.gotowebinar.com/register/8137280361730606607-->
