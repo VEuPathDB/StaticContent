@@ -51,6 +51,12 @@ tags: [general]
             </li>
 
             <li>
+              <span class="question">What is the difference between aaeg and aaeg-old abbreviations?</span>
+              <p>During a sub-release, the proteomes of some species will be updated to the latest version. This can be easily done for a Peripheral species: the old set of proteins are removed from ortholog groups and then the new set is mapped into groups as above. However, this is not possible for Core species because these proteins are used to define Core groups. Thus, the Core species with the older proteome remains on the site but is superficially retired by appending its abbreviation with -old (e.g., aaeg becomes aaeg-old). Then, the latest version of the proteome is mapped in as a peripheral species and obtains the original species abbreviation (e.g., aaeg is a peripheral with a more recent proteome than aaeg-old). When analyzing an ortholog group or protein, you may wish to ignore the aaeg-old proteins and only focus on aaeg proteins. Note that retired species will be eliminated fully when a new set of Core species is defined, as described on the <a href="/a/app/static-content/OrthoMCL/about.html">About OrthoMCL page</a>.
+              </p>
+            </li>
+
+            <li>
               <span class="question">I recently sequenced a genome and want to use OrthoMCL to assign the proteins to ortholog groups. Can I do this?</span>
               <p>Yes. You can map your set of proteins to OrthoMCL Groups at the VEuPathDB Galaxy server. To get started, visit our <a href="/a/app/galaxy-orientation">Assign Proteins to Groups</a>.
               </p>

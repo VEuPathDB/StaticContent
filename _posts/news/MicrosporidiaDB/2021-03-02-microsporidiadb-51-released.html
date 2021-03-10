@@ -1,0 +1,56 @@
+---
+layout: post
+title: MicrosporidiaDB 51 Released
+category: [MicrosporidiaDB,VEuPathDB]
+---
+{% assign project = page.category[0] %}
+
+
+<h3>We are pleased to announce the release of {{project}} 51.</h3>  
+
+<section>
+  <h3>Release 51 Webinar</h3>
+  <div style="margin-left: 3em;">
+    Join us on April 1, 2021 at 10am EDT for our Release 51 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 51.  
+    <a href="https://attendee.gotowebinar.com/register/8137280361730606607" target="_blank">Register here</a>  
+  </div>
+</section>
+
+<!--
+<section>
+  <h3>New data in {{project}} 51</h3>
+  <div style="margin-left: 3em;">
+  <h4>EBI Pipeline</h4>
+    {{project}} 51 represents the first release that employs the EBI pipeline for analyzing genomes and RNA-Seq data. (<a href="/a/app/static-content/methods.html">{{project}} Analysis Methods</a>) All genomes were run through the EBI pipeline, updating all analyses such as InterproScan and repeat identification.  While much of the EBI pipeline is the same as our previous in-house pipeline, these differences are noted:
+    <ul>
+      <li>Expression values calculated from RNA-Seq data are now presented as TPM (Transcripts Per Kilobase Million) instead of FPKM (Fragments Per Kilobase Million) or RPKM (Reads Per Kilobase Million). <a href="https://rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/" target="_blank">Learn more</a></li>
+      <li>Signal peptide predictions are now made with <a href="http://www.cbs.dtu.dk/services/SignalP-4.1/" target="_blank">SignalP-4.1</a>, updated from <a href="http://www.cbs.dtu.dk/services/SignalP-3.0/" target="_blank">SignalP-3.0</a>.</li>
+    </ul>
+  </div>
+</section>
+-->
+
+<section>
+  <h3>New features in {{project}} 51</h3>
+  <div style="margin-left: 3em;">
+   <ul>
+    <li><a href="https://orthomcl.org/orthomcl/app/" target="_blank">OrthoMCL DB</a> now shares web architecture with other VEuPathDB sites. The updated and streamlined interface emphasizes easy access to tools and help information.  </li>
+      <ul>
+        <li>OrthoMCL now includes orthology information for <a href="https://orthomcl.org/orthomcl/app/release-summary" target="_blank">564 species</a>, including all of the VEuPathDB organisms with annotated genomes. </li>
+        <li>The redesigned home page includes a new site-wide search for easily finding groups, proteins or documents. A categorized list of Searches appears on the left of the home page and the center section is devoted to tutorials for getting you started with OrthoMCL features.</li>
+        <li>Group and protein record pages are redesigned and include a contents section for navigating to the data you are interested in. </li>
+        <li>For more information see the OrthoMCL DB <a href="https://orthomcl.org/orthomcl/app/static-content/OrthoMCL/about.html" target="_blank">About</a> page, the <a href="https://orthomcl.org/orthomcl/app/static-content/OrthoMCL/faq.html" target="_blank">FAQ</a> page or complete this <a href="{{'/documents/OrthoMCL_tutorial1.pdf' | absolute_url}}" target="_blank">tutorial</a>. </li>
+      </ul>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <h3>New data in {{project}} 51</h3>
+</section>
+
+<section>
+  <aside>
+   <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>
