@@ -20,7 +20,7 @@ tags: [general]
   }
 </style>
 
-<p>Help >> Learn how to use VEuPathDB >> Webinars - Explore</p>
+<p>Home >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> Webinars - Explore</p>
 
 <h1 id="resources">VEuPathDB Webinars</h1>
 
