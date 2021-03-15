@@ -4,11 +4,12 @@ title: Multi-Blast
 tags: [general]
 ---
 
-<h1>BLAST beta (multi-BLAST capable)</h1>
+<!-- no need for a title in this page -->
 
-<div class="static-content"
+<div class="static-content">
 <!-- use h3 for headings -->
 
+PLEASE ADD HERE
 
 
 </div>
