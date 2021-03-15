@@ -19,6 +19,7 @@ tags: [general]
     <li>Combined Result - a nonredundant list of all sequences with similarity to your input sequence</li>
     <li>Individual Result - categorized lists of sequences with similarity to your input sequence.  One list per input sequence.  </li>
 </ul>
+<br>
 All results can be downloaded in your choice of several formats, and individual results can be exported as a search strategy for further data mining in VEuPathDB.
 </p>
 
