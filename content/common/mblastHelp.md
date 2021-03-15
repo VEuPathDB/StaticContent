@@ -13,7 +13,7 @@ tags: [general]
 
 <p>BLAST finds regions of similarity between biological sequences. The program compares nucleotide or protein sequences to sequence databases and calculates the statistical significance of matches.  Input a single sequence or several fasta-formatted sequences at once.  </p>
 
-<p>Our tool uses the <a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi" target="_blank">NCBI BLAST program</a> to find genes, genomic sequences, ESTs, or PopSet Sequences that have BLAST similarity to your input sequence. The previous 5 minute timeout and 90MB result size limit do not apply.  Each 'job' you submit is logged in your 'My Jobs' page and remains available indefinitely. Jobs run on multiple sequences include results in two formats:
+<p>Our tool uses the <a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi" target="_blank">NCBI BLAST program</a> to find genes, genomic sequences, ESTs, or PopSet Sequences that have BLAST similarity to your input sequence.  Each 'job' you submit is logged in your 'My Jobs' page and remains available indefinitely. Jobs run on multiple sequences include results in two formats:
 <br>
 <ul>
     <li>Combined Result - a nonredundant list of all sequences with similarity to your input sequence</li>
