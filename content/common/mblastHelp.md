@@ -9,7 +9,7 @@ tags: [general]
 <div class="static-content">
 <!-- use h3 for headings -->
 
-<h3>VEuPathDB BLAST<sup><i>beta</i></sup>
+<h3>VEuPathDB BLAST<sup><i>beta</i></sup></h3>
 
 <p>BLAST finds regions of similarity between biological sequences. The program compares nucleotide or protein sequences to sequence databases and calculates the statistical significance of matches.  Input a single sequence or several fasta-formatted sequences at once.  </p>
 
