@@ -31,7 +31,7 @@
            Raw shotgun metagenomic sequences are processed using [MetaPhlAn3](https://huttenhower.sph.harvard.edu/metaphlan) and [HUMAnN3](https://huttenhower.sph.harvard.edu/humann).
            In addition to loading taxonomic data, MicrobiomeDB loads all 'metadata' terms used by the experimenter to describe each sample. 
            These terms are mapped to the MIxS ontology and unmapped terms are manually curated and used to expand a custom, MIxS-compliant, ontology tree. 
-           This rich, structured sample description generates an ISA.tab file that is then loaded into microbiomeDB. 
+           These rich, structured sample details are used to generate an ISA.tab file that is then loaded into microbiomeDB. 
            When combined with the extensive web toolkit and infrastructure developed by VEuPathDB, 
            the user is provided with an web interface to interrogate complex, even massive-scale, microbiome studies using metadata queries. 
            The resulting queries are then visualized using a suite of Shiny apps available directly in the browser.
@@ -43,9 +43,9 @@
 - type: general
   question: "Does the site handle shotgun metagenomic data?"
   answer: |
-           Yes!  As of release 21 (March 2021) we started loading shotgun metagenomic data.  In addition, If you have have your own metagenomic data that you're interested in analyzing on MicrobiomeDB, you can take advantage of our collaboration with [Nephele](https://nephele.niaid.nih.gov/) 
-           
-           .biom file from your metagenomic study, then you can upload this directly to MicrobiomeDB under the Workspace menu (see next FAQ below).as well as identification of samples based on the relative abundance of bacterial genes (e.g. antibiotic resistance, virulence factors, etc.). 
+           Yes!  As of release 21 (March 2021) we started loading shotgun metagenomic data.  In addition, if you have have your own metagenomic data that you're interested in analyzing on MicrobiomeDB, you can take advantage of our collaboration with [Nephele](https://nephele.niaid.nih.gov/) 
+           to generate a .biom file from your metagenomic study, then you can upload this directly to MicrobiomeDB under the Workspace menu (see next FAQ below).  Currently we offer the ability to mine taxonomic data from shotgun studies but loooking ahead to future releases, 
+           we anticipate being able to offer similar search, filter, and visualization tools for functional data such as pathway or gene abundnace. 
            Taken together, our goal is to develop a full-featured, open-source platform for a systems biology view of microbial communities.  
   uid: g4
   projects: "MicrobiomeDB"
@@ -55,19 +55,19 @@
   answer: |
            We can help with that too!
            If you are interested in analyzing your own raw sequence data from 16S, ITS or shotgun metagenomic studies, check out **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource.
-           You can run complete workflows on Nephele and produce a 'magic link' to your results.  This link is an authenticated URL that can be copied/pasted into the 'My Data Sets' page of MicrobiomeDB, thus allowing direct transfer of results from Nephele to MicrobiomeDB for filtering, querying and visualizing your results.
+           You can run complete workflows on Nephele and produce a 'magic link' to your results.  This link is an authenticated URL that can be copied/pasted into the 'My Data Sets' page of MicrobiomeDB, 
+           thus allowing direct transfer of results from Nephele to MicrobiomeDB for filtering, querying and visualizing your results.
   uid: g5
   projects: "MicrobiomeDB"
 
 - type: general
   question: "Can I privately analyze my own unpublished data using the tools on MicrobiomeDB?"
   answer: |
-           Yes! Simply register for a free account, and you'll have access to your own private user workspace were you can upload **[.biom files](http://biom-format.org/)** from 16S or shotgun metagenomic studies.  
+           Yes! Simply register for a free account, and you'll have access to your own private user workspace, called 'My Data Sets', were you can upload **[.biom files](http://biom-format.org/)** from 16S or shotgun metagenomic studies, or import data from **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource.
            A .biom file can be produced from standard 16S data processing pipelines, such as Mothur and QIIME.
            When creating your .biom file, be sure to incorporate metadata from your samples. 
            If you are using QIIME to analyze your 16S data, be sure to take a look at [our QIIME2 protocol](https://www.notion.so/Analysis-of-16S-data-using-QIIME2-f225c95e34784cc3b726cff2d4d137cc). 
            Instructions for generating a .biom file with metadata included are in the 'OPTIONAL: export .biom file' step in the protocol.
-           If you're looking for web-based access to QIIME or MOTHUR, you may be interested in the tools available at **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource for preprocessing and analysis of 16S rRNA marker gene data.
   uid: g6
   projects: "MicrobiomeDB"
 
@@ -76,10 +76,11 @@
 - type: general
   question: "How are datasets chosen for loading into MicrobiomeDB?"
   answer: |
-           Several things factor into our decision to load a dataset.  
+           We consider several factors when prioritizing new studies to load into MicrobiomeDB.  
            First, we have a strong interest in studies of the microbiome in infant and materal/child health and in enteric diseases.  
            Second, we're also interested in understanding how different animal models (mice, dogs, pigs, etc) might help us understand the role of the microbiome during health and disease.  
            Finally, we're interested in multifactorial and longitudinal datasets, since these qualities of datasets provide a unique opportunity to employ data mining and visualization to reveal interesting associations.
+           If you have a dataset you would like us to consider loading into MicrobiomeDB, please get in touch with our team via the [Contact Us](https://microbiomedb.org/mbio/app/contact-us) link at the top of our home page.  We'd love to hear from you!
   uid: g7
   projects: "MicrobiomeDB"
 
@@ -92,7 +93,7 @@
 
            > [Oliveira FS, Brestelli J, Cade S, *et al.*; MicrobiomeDB: A Systems Biology Platform for Integrating, Mining and Analyzing Microbiome Experiments. *Nucleic Acids Research* 2018](https://doi.org/10.1093/nar/gkx1027).
 
-           When citing a dataset that you accessed via MicrobiomeDB, please include the dataset authors, 
+           When citing a dataset that you accessed via MicrobiomeDB, please include the authors of the original publication that released the data (if published), 
            study name, date of release and release number on MicrobiomeDB, study page URL, and the fact that 
            the data came from MicrobiomeDB. For example, the citation for the Global Enteric Multicenter (GEMS) Case Control study would be:
 
@@ -111,8 +112,9 @@
 - type: general
   question: "Can I access the code used for MicrobiomeDB?"
   answer: 
-           Yes! Our code can be found on **[Github](https://github.com/VEuPathDB?q=microbiome&type=&language=)**, 
-           and we welcome input from the community. Check out our **[Shiny app scripts](https://github.com/VEuPathDB/MicrobiomeWebsite/tree/master/View/lib/R/shiny/apps)** or the code we use for running a **[DADA2-based automated data loading workflow](https://github.com/VEuPathDB/DJob/tree/master/DistribJobTasks/bin/dada2)**, which processes fastq files for all the studies on MicrobiomeDB and produces taxonomy tables that are represented on the site.
+           Yes! Our code can be found on **[Github](https://github.com/VEuPathDB?q=microbiome&type=&language=)**, and we welcome input from the community. Check out our **[Shiny app scripts](https://github.com/VEuPathDB/MicrobiomeWebsite/tree/master/View/lib/R/shiny/apps)** 
+           Code for our **[DADA2-based automated data loading workflow](https://github.com/VEuPathDB/DJob/tree/master/DistribJobTasks/bin/dada2)**, which processes fastq files for all the studies on MicrobiomeDB and produces taxonomy tables that are represented on the site.
+           Code for our **[MetaPhlAn3 and HUMAnN3 workflow](https://github.com/VEuPathDB/humann-nextflow)** for loading shotgun metagenomic data
   uid: g9
   projects: "MicrobiomeDB"
 
