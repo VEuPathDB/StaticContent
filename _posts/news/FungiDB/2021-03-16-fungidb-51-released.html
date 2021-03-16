@@ -11,22 +11,134 @@ category: [FungiDB,VEuPathDB]
 <section>
   <h3>Release 51 Webinar</h3>
   <div style="margin-left: 3em;">
-    Join us on March 11, 2021 at 10am EDT for our Release 51 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 51.  
+    Join us on April 1, 2021 at 10am EDT for our Release 51 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 51.  
     <a href="https://attendee.gotowebinar.com/register/8137280361730606607" target="_blank">Register here</a>  
   </div>
 </section>
+
+<section>
+  <h3>Organism name changes in FungiDB 51</h3>
+  <div style="margin-left: 3em;">
+    Organism names were updated based on the NCBI Taxonomy database.
+    <br><br>
+          <div style="margin-left: 3em;">
+                    <style>
+                      #organismname_Bld51 table, #organismname_Bld51 td, #organismname_Bld51 th {
+                      text-align : center;
+                      padding-left: 5px;
+                      padding-right: 5px;
+                      padding-top: 5px;
+                      padding-bottom: 5px;
+                      border: 1px solid black;
+                      }
+                      #organismname_Bld51 {
+                      margin-left : 5 em;
+                      }
+                    </style> 
+                      <table id="organismname_Bld51"> 
+                      <tr>
+                        <th>Previous organism name</th>
+                        <th>New organism name</th>
+                      </tr>
+
+                      <tr>
+                        <td><i>Aspergillus kawachii</i> IFO 4308</td>
+                        <td><i>Aspergillus luchuensis</i> IFO 4308</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Aspergillus zonatus</i> CBS 506.65</td>
+                        <td><i>Penicilliopsis zonata</i> CBS 506.65</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Fusarium oxysporum</i> f. sp. <i>cubense</i> tropical race 4 54006</td>
+                        <td><i>Fusarium odoratissimum</i> NRRL 54006</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Fusarium oxysporum</i> f. sp. <i>cubense</i> race 4</td>
+                        <td><i>Fusarium odoratissimum</i> strain race 4</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Saccharomyces cerevisiae</i> S288c</td>
+                        <td><i>Saccharomyces cerevisiae</i> S288C</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Magnaporthe oryzae</i> 70-15</td>
+                        <td><i>Pyricularia oryzae</i> 70-15</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Magnaporthe oryzae</i> BR32</td>
+                        <td><i>Pyricularia oryzae</i> BR32</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Fusarium oxysporum</i> FOSC 3-a</td>
+                        <td><i>Fusarium oxysporum</i> NRRL 32931</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Aspergillus kawachii</i> IFO 4308</td>
+                        <td><i>Aspergillus luchuensis</i> IFO 4308</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Cryptococcus deuterogattii</i> R265</td>
+                        <td><i>Cryptococcus gattii</i> VGII R265</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Mucor circinelloides f. lusitanicus</i> CBS 277.49</td>
+                        <td><i>Mucor lusitanicus</i> CBS 277.49</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Mucor circinelloides f. circinelloides</i> 1006PhL</td>
+                        <td><i>Mucor circinelloides</i> 1006PhL</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Pythium ultimum</i> var. <i></i> BR650</td>
+                        <td><i>Globisporangium ultimum var. sporangiiferum</i> BR650</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Pythium ultimum</i> DAOM BR144</td>
+                        <td><i>Globisporangium ultimum</i> DAOM BR144</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Pythium vexans</i> DAOM BR484</td>
+                        <td><i>Phytopythium vexans</i> DAOM BR484</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Pythium irregulare</i> DAOM BR486</td>
+                        <td><i>Globisporangium irregulare</i> DAOM BR486</td>
+                      </tr>
+
+                      <tr>
+                        <td><i>Pythium iwayamai</i> DAOM BR242034</td>
+                        <td><i>Globisporangium iwayamae</i> DAOM BR242034</td>
+                      </tr>
+                      </table>
+  </div>
 
     <section>
       <h3>New data in FungiDB 51</h3>
       <div style="margin-left: 3em;">
 
         <h4>EBI Pipeline</h4>
-        {{project}} 51 represents the first release that employs the EBI pipeline for analyzing genomes and RNA-Seq data. (<a href="/a/app/static-content/methods.html">{{project}} Analysis Methods</a>) All genomes were run through the EBI pipeline, updating all analyses such as InterproScan and repeat identification.  While much of the EBI pipeline is the same as our previous in-house pipeline, these differences are noted:
-        <ul>
-          <li>Expression values calculated from RNA-Seq data are now presented as TPM (Transcripts Per Kilobase Million) instead of FPKM (Fragments Per Kilobase Million) or RPKM (Reads Per Kilobase Million). <a href="https://rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/" target="_blank">Learn more</a></li>
-          <li>Signal peptide predictions are now made with <a href="http://www.cbs.dtu.dk/services/SignalP-4.1/" target="_blank">SignalP-4.1</a>, updated from <a href="http://www.cbs.dtu.dk/services/SignalP-3.0/" target="_blank">SignalP-3.0</a>.</li>
-        </ul>
-        <br>
+          {{project}} 51 represents the first release that employs the EBI pipeline for analyzing genomes and RNA-Seq data. (<a href="/a/app/static-content/methods.html">{{project}} Analysis Methods</a>) All genomes were run through the EBI pipeline, updating all analyses such as InterproScan and repeat identification.  While much of the EBI pipeline is the same as our previous in-house pipeline, these differences are noted:
+          <ul>
+            <li>Expression values calculated from RNA-Seq data are now presented as TPM (Transcripts Per Kilobase Million) instead of FPKM (Fragments Per Kilobase Million) or RPKM (Reads Per Kilobase Million). <a href="https://rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/" target="_blank">Learn more</a></li>
+            <li>Signal peptide predictions are now made with <a href="http://www.cbs.dtu.dk/services/SignalP-4.1/" target="_blank">SignalP-4.1</a>, updated from <a href="http://www.cbs.dtu.dk/services/SignalP-3.0/" target="_blank">SignalP-3.0</a>.</li>
+            <li>All pseudogenes now include automatically predicted UTRs.</li>
+          </ul>
 
         <h4>Genome Sequence and Annotation: these annotated genomes appear for the first time in FungiDB.</h4>
         <ul>
@@ -90,10 +202,7 @@ category: [FungiDB,VEuPathDB]
           <li><a href="/a/app/record/dataset/DS_45fe0e4ca4"><i>Thermothelomyces thermophilus</i> ATCC 42464</a> &ndash;
             <a href="http://www.ncbi.nlm.nih.gov/pubmed/21964414">Berka et al. 2011</a>.  
             </li>
-
         </ul>
-
-        <br>
 
         <h4>Genome Sequence: available for the first time in FungiDB:</h4>
         <ul>
@@ -126,11 +235,13 @@ category: [FungiDB,VEuPathDB]
           <a href="http://www.ncbi.nlm.nih.gov/pubmed/16733756">de Jonge et al. 2013</a>.  
           </li>
         </ul>
-      <br>
 
       <h4>Genome Sequence and Annotation: updated genomes </h4>
       <ul>
-        
+        <li><a href="/a/app/record/dataset/DS_8ddc55305a"><i>Aspergillus fischeri</i> NRRL 181</a> &ndash;
+          <a href="http://www.ncbi.nlm.nih.gov/pubmed/18404212">Fedorova et al. 2008</a>.  
+          </li> 
+
         <li><a href="/a/app/record/dataset/DS_96e9022cd3"><i>Sclerotinia sclerotiorum</i> 1980 UF-70</a> &ndash;
           <a href="http://www.ncbi.nlm.nih.gov/pubmed/28204478">Derbyshire et al. 2017</a>.  
           </li>
@@ -138,28 +249,25 @@ category: [FungiDB,VEuPathDB]
         <li><a href="/a/app/record/dataset/DS_cbbce274f6"><i>Ustilago maydis</i> 521</a> &ndash;
           <a href="http://www.ncbi.nlm.nih.gov/pubmed/17080091">Kämperet et al. 2006</a>.  
           </li>
-
-          <li><a href="/a/app/record/dataset/DS_8ddc55305a"><i>Aspergillus fischeri</i> NRRL 181</a> &ndash;
-            <a href="http://www.ncbi.nlm.nih.gov/pubmed/18404212">Fedorova et al. 2008</a>.  
-            </li>
       </ul>
-      <br>
+
 
         <h4>Whole genome sequence of isolates for SNP analysis:</h4>
         <ul>
+          <li>
+            <a href="/a/app/record/dataset/DS_6f53a4a049">SNP calls on 20 <i>Candida albicans</i> clinical isolates</a> &ndash;
+               Intra-species variation.
+            <a href="http://www.ncbi.nlm.nih.gov/pubmed/25514520">Hirakawa et al. 2015</a>.
+          </li>
+
           <li>
             <a href="/a/app/record/dataset/DS_269cf62506">SNP calls on WGS of <i>Pyricularia oryzae</i> isolated from Bangladesh in 2016 and 2017</a> &ndash;
             Nineteen isolates of collected from barley, wheat and torpedo grass.
            The University of Exeter, UK.
           </li>
 
-          <li>
-            <a href="/a/app/record/dataset/DS_6f53a4a049">SNP calls on 20 <i>Candida albicans</i> clinical isolates</a> &ndash;
-               Intra-species variation.
-            <a href="http://www.ncbi.nlm.nih.gov/pubmed/25514520">Hirakawa et al. 2015</a>.
-          </li>
         </ul>
-        <br>
+
 
         <h4>Transcriptomics</h4>
     <ul>
@@ -169,35 +277,31 @@ category: [FungiDB,VEuPathDB]
         <a href="http://www.ncbi.nlm.nih.gov/pubmed/30333805" target="_blank">Sieber et al. 2018</a>. The host component of this data set is available on HostDB: 
         <a href="https://hostdb.org/hostdb/app/record/dataset/DS_fe4f9a11e3">Fresh human whole blood infected with <i>Candida albicans</i></a>.  
       </li>
+
+      <li>
+        <a href="/a/app/record/dataset/DS_51d662f7cb">Fresh whole blood infected with <i>Candida glabrata</i></a> &mdash;
+        RNA-pool of both species extracted at 0min (control), 15, 30, 60, 120 and 240 min.  
+        <a href="http://www.ncbi.nlm.nih.gov/pubmed/30333805" target="_blank">Sieber et al. 2018</a>. The host component of this data set is available on HostDB: 
+        <a href="https://hostdb.org/hostdb/app/record/dataset/DS_9b7a0d35d7">Fresh human whole blood infected with <i>Candida glabrata</i></a>.  
+      </li>
+
       <li>
        <a href="/a/app/record/dataset/DS_b041354581">Fresh whole blood infected with <i>Candida parapsilosis</i></a> &mdash;
        RNA-pool of both species extracted at 0min (control), 15, 30, 60, 120 and 240 min.  
-       <a href="http://www.ncbi.nlm.nih.gov/pubmed/30333805" target="_blank">Sieber et al. 2018</a>. The host component of this data set is available on FungiDB: 
+       <a href="http://www.ncbi.nlm.nih.gov/pubmed/30333805" target="_blank">Sieber et al. 2018</a>. The host component of this data set is available on HostDB: 
        <a href="https://hostdb.org/hostdb/app/record/dataset/DS_dae3a6918a">Fresh human whole blood infected with <i>Candida parapsilosis</i></a>.   
       </li>
       <li>
         <a href="/a/app/record/dataset/DS_1d4b3f2f63">Fresh whole blood infected with <i>Candida tropicalis</i></a> &mdash;
         RNA-pool of both species extracted at 0min (control), 15, 30, 60, 120 and 240 min.  
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/30333805" target="_blank">Sieber et al. 2018</a>. The host component of this data set is available on FungiDB: 
+        <a href="http://www.ncbi.nlm.nih.gov/pubmed/30333805" target="_blank">Sieber et al. 2018</a>. The host component of this data set is available on HostDB: 
         <a href="https://hostdb.org/hostdb/app/record/dataset/DS_a98a0d1f97">Fresh human whole blood infected with <i>Candida tropicalis</i></a>.   
       </li>
-      <li>
-        <a href="/a/app/record/dataset/DS_51d662f7cb">Fresh whole blood infected with <i>Candida glabrata</i></a> &mdash;
-        RNA-pool of both species extracted at 0min (control), 15, 30, 60, 120 and 240 min.  
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/30333805" target="_blank">Sieber et al. 2018</a>. The host component of this data set is available on FungiDB: 
-        <a href="https://hostdb.org/hostdb/app/record/dataset/DS_9b7a0d35d7">Fresh human whole blood infected with <i>Candida glabrata</i></a>.  
-      </li>
 
       <li>
-        <a href="/a/app/record/dataset/DS_5f2f1c9822">Transcriptional landscape of <i>Cryptococcus</i> - host response</a> &mdash;
-        Animal infection model using the mouse <i>Mus musculus</i> to study the host response to infection. 
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/31329596" target="_blank">Li et al. 2019</a>.   
-      </li>
-
-      <li>
-        <a href="/a/app/record/dataset/DS_42a83032dd">Mouse macrophages infected with <i>Mucor circinelloides</i></a> &mdash;
-        A study of the transcriptomics changes occuring in both host and pathogen upon the interaction of <i>Mucor circinelloides</i> spores with phagocytic cells of a mouse.
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/30723131" target="_blank">Pérez-Arques et al. 2019</a>.   
+        <a href="/a/app/record/dataset/DS_f9aae660d7">Total RNA profiles of cells grown in glucose or GlcNAc medium</a> &mdash;
+        Transcriptomic changes occurring during yeast-filament transition in the pathogen fungus <i>Candida tropicalis</i> MYA-3404.
+        <a href="http://www.ncbi.nlm.nih.gov/pubmed/26466925" target="_blank">Zhang et al. 2016</a>.   
       </li>
 
       <li>
@@ -207,20 +311,24 @@ category: [FungiDB,VEuPathDB]
       </li>
 
       <li>
+        <a href="/a/app/record/dataset/DS_5f2f1c9822">Transcriptional landscape of <i>Cryptococcus</i> - host response</a> &mdash;
+        Animal infection model using the mouse <i>Mus musculus</i> to study the host response to infection. 
+        <a href="http://www.ncbi.nlm.nih.gov/pubmed/31329596" target="_blank">Li et al. 2019</a>.   
+      </li>
+
+      <li>
         <a href="/a/app/record/dataset/DS_7ce8a791f1">Gene expression variation in response to biologically relevant stresses</a> &mdash;
         Global transcriptomic changes in the pathogen <i>Crypococcus neoformans</i> occurring in response to host temperature stress.
         <a href="http://www.ncbi.nlm.nih.gov/pubmed/31860441" target="_blank">Yu et al. 2020</a>.   
       </li>
 
       <li>
-        <a href="/a/app/record/dataset/DS_f9aae660d7">Total RNA profiles of cells grown in glucose or GlcNAc medium</a> &mdash;
-        Transcriptomic changes occurring during yeast-filament transition in the pathogen fungus <i>Candida tropicalis</i> MYA-3404.
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/26466925" target="_blank">Zhang et al. 2016</a>.   
+        <a href="/a/app/record/dataset/DS_42a83032dd">Mouse macrophages infected with <i>Mucor circinelloides</i></a> &mdash;
+        A study of the transcriptomics changes occuring in both host and pathogen upon the interaction of <i>Mucor circinelloides</i> spores with phagocytic cells of a mouse.
+        <a href="http://www.ncbi.nlm.nih.gov/pubmed/30723131" target="_blank">Pérez-Arques et al. 2019</a>.   
       </li>
 
     </ul>   
-    <br>
- 
             
         <h4>Phenotype data</h4>
              
@@ -310,7 +418,7 @@ category: [FungiDB,VEuPathDB]
                             <th>Genes with phenotypes</th>
                           </tr>
                           <tr>
-                            <td><i>Cryptococcus neoformans</i> var grubii H99</td>
+                            <td><i>Cryptococcus neoformans</i> var <i>grubii</i> H99</td>
                             <td>4891</td>
                             <td>534</td>
                           </tr>
@@ -362,12 +470,14 @@ category: [FungiDB,VEuPathDB]
                               </tr>
                               </table>
               </div>
-          <br>
              
   		<h4>Updated Functional Annotation</h4>
-             <a href="https://docs.google.com/spreadsheets/d/1mqHh7CEIuwgBnfLA2x1ZnyqKCn8YWXG6mGSEiKUNBjU/edit?usp=sharing" target="_blank">Summary of annotation updates</a>
-               which include product descriptions, GO terms, gene names, synonyms, publications and notes from curators. These functional annotations are current with GeneDB January 2021 GFF versions. <br><br>
-               
+      <ul> 
+        <li>      
+      <a href="https://docs.google.com/spreadsheets/d/1mqHh7CEIuwgBnfLA2x1ZnyqKCn8YWXG6mGSEiKUNBjU/edit?usp=sharing" target="_blank">Summary of annotation updates</a>
+               which include product descriptions, GO terms, gene names, synonyms, publications and notes from curators. These functional annotations are current with GeneDB January 2021 GFF versions. </li>
+      </ul>    
+      <br>   
             <div style="margin-left: 3em;">   
              <style>
                 #FunctAnnot_Bld51 table, #FunctAnnot_Bld51 td, #FunctAnnot_Bld51 th, #FunctAnnot_Bld51 tr {
@@ -408,13 +518,8 @@ category: [FungiDB,VEuPathDB]
   <h3>New features in {{project}} 51</h3>
   <div style="margin-left: 3em;">
    <ul>
-    <li><a href="https://orthomcl.org/orthomcl/app/" target="_blank">OrthoMCL DB</a> now shares web architecture with other VEuPathDB sites. The updated and streamlined interface emphasizes easy access to tools and help information.  </li>
-      <ul>
-        <li>OrthoMCL now includes orthology information for <a href="https://orthomcl.org/orthomcl/app/release-summary" target="_blank">564 species</a>, including all of the VEuPathDB organisms with annotated genomes. </li>
-        <li>The redesigned home page includes a new site-wide search for easily finding groups, proteins or documents. A categorized list of Searches appears on the left of the home page and the center section is devoted to tutorials for getting you started with OrthoMCL features.</li>
-        <li>Group and protein record pages are redesigned and include a contents section for navigating to the data you are interested in. </li>
-        <li>For more information see the OrthoMCL DB <a href="https://orthomcl.org/orthomcl/app/static-content/OrthoMCL/about.html" target="_blank">About</a> page, the <a href="https://orthomcl.org/orthomcl/app/static-content/OrthoMCL/faq.html" target="_blank">FAQ</a> page or complete this <a href="{{'/documents/OrthoMCL_tutorial1.pdf' | absolute_url}}" target="_blank">tutorial</a>. </li>
-      </ul>
+    <li><a href="/a/app/workspace/blast/new" target="_blank">BLAST<i><sup>beta</sup></i> tool</a> &ndash; a new BLAST tool with multi-BLAST capabilities.  Input a single sequence or several FASTA-formatted sequences at once.  Our tool uses NCBI BLAST to find genes, genomic sequences, ESTs, or PopSet Sequences that have BLAST similarity to your input sequence.  <a href="https://youtu.be/mEjt8FhC-W8" target="_blank">BLAST<i><sup>beta</sup></i> video introduction (4 min)</a>  </li>
+    <li><a href="https://statis-content.veupathdb.org//documents/VEuPathDB_BRC4_usage_metrics_report.pdf">Usage</a> and <a href="https://statis-content.veupathdb.org//documents/VEuPathDB_BRC4_performance_metrics_report.pdf">performance</a> metrics for VEuPathDB sites are now updated monthly.  </li>
     </ul>
   </div>
 </section>

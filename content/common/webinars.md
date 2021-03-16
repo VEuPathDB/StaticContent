@@ -20,14 +20,17 @@ tags: [general]
   }
 </style>
 
+<p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> Webinars - Explore</p>
+
 <h1 id="resources">VEuPathDB Webinars</h1>
+
 <div class="static-content">
 
   <h3>Upcoming Webinars</h3>
   <div class="contents">
     
 
-   <!--<p><b>Thursday March 11th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>-->
+   <!--<p><b>Thursday April 1th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>-->
    <p><b>Tuesday March 16th, 2021:</b> <a href="#BRC2">The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR</a></p>
    <p><b>Thursday March 25th, 2021:</b> <a href="#vect1">Introduction to VectorBase for the beginner</a></p>
    <p><b>Tuesday March 30th, 2021:</b> <a href="#BRC3">The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC</a></p>
@@ -91,7 +94,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="anchor"><a name="release51"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 51 Webinar<br>
-<b>Date:</b> Thursday March 11th, 2021<br>
+<b>Date:</b> Thursday April 1th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration:</b> Available 7-10 days prior to webinar<br>
 <!--registration link   https://attendee.gotowebinar.com/register/8137280361730606607-->
@@ -308,8 +311,8 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB<br>
 <b>Date:</b> Tuesday March 2nd, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Recording:</b> <br>
-<b>Additional Details:</b> This webinar will focus on respiratory <i>Coccidioides</i> pathogens and introduce users to bioinformatic resources available at FungiDB.
+<b>Recording Link:</b> <a href="https://youtu.be/SEWk0BvaWkc">https://youtu.be/SEWk0BvaWkc</a><br>
+<b>Additional Details:</b> This webinar will feature a lecture from Dr Bridget Barker from Northern Arizona University and introduce users to bioinformatic resources available at FungiDB.org.
 <br>
 </div>
 
