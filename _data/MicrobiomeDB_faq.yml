@@ -112,9 +112,10 @@
 - type: general
   question: "Can I access the code used for MicrobiomeDB?"
   answer: 
-           Yes! Our code can be found on **[Github](https://github.com/VEuPathDB?q=microbiome&type=&language=)**, and we welcome input from the community. Check out our **[Shiny app scripts](https://github.com/VEuPathDB/MicrobiomeWebsite/tree/master/View/lib/R/shiny/apps)** 
-           Code for our **[DADA2-based automated data loading workflow](https://github.com/VEuPathDB/DJob/tree/master/DistribJobTasks/bin/dada2)**, which processes fastq files for all the studies on MicrobiomeDB and produces taxonomy tables that are represented on the site.
-           Code for our **[MetaPhlAn3 and HUMAnN3 workflow](https://github.com/VEuPathDB/humann-nextflow)** for loading shotgun metagenomic data
+           Yes! Our code can be found on **[Github](https://github.com/VEuPathDB?q=microbiome&type=&language=)**, and we welcome input from the community. 
+           * Check out our **[Shiny app scripts](https://github.com/VEuPathDB/MicrobiomeWebsite/tree/master/View/lib/R/shiny/apps)** 
+           * Code for our **[DADA2-based automated data loading workflow](https://github.com/VEuPathDB/DJob/tree/master/DistribJobTasks/bin/dada2)**, which processes fastq files for all the studies on MicrobiomeDB and produces taxonomy tables that are represented on the site.
+           * Code for our **[MetaPhlAn3 and HUMAnN3 workflow](https://github.com/VEuPathDB/humann-nextflow)** for loading shotgun metagenomic data
   uid: g9
   projects: "MicrobiomeDB"
 
@@ -146,10 +147,10 @@
 - type: general
   question: "Can I download raw data from MicrobiomeDB?"
   answer: 
-           Taxonomic data (counts and abundance) and sample metadata are available for download from MicrobiomeDB as two separate text files (see 'Download Data' link at the bottom of each study card).
-           Although we use raw sequence data (fastq files) when we load data into our website, we do not host these files for download. 
-           For published studies the raw data is available on the [SRA](https://www.ncbi.nlm.nih.gov/sra/) or [ENA](https://www.ebi.ac.uk/ena).
-           If you're interested in accessing raw data for unpublished studies, we can faciliate contact with the data providers.
+           * For 16S studies, taxonomic data (counts and abundance) and sample metadata are available for download from MicrobiomeDB as separate text files or wrapped up into a single .biom file (see 'Download Data' link at the bottom of each study card).
+           * For shotgun metagenomic studies, we offer the same file types mentioned above for 16S as well as both text and .biom options for pathway-level data and gene-level (Enzyme Commission number) data
+           * Although we use raw sequence data (fastq files) when we load data into our website, we do not host these files for download. 
+           * What about raw sequence data?  Well, for published studies the raw data is available on the [SRA](https://www.ncbi.nlm.nih.gov/sra/) or [ENA](https://www.ebi.ac.uk/ena).  If you're interested in accessing raw data for unpublished studies, we can faciliate contact with the data providers.
   uid: g12
   projects: "MicrobiomeDB"
 
