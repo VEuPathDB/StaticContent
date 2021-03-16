@@ -30,10 +30,11 @@ tags: [general]
   <div class="contents">
     
 
-   <!--<p><b>Thursday April 1th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>-->
+   
    <p><b>Tuesday March 16th, 2021:</b> <a href="#BRC2">The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR</a></p>
    <p><b>Thursday March 25th, 2021:</b> <a href="#vect1">Introduction to VectorBase for the beginner</a></p>
    <p><b>Tuesday March 30th, 2021:</b> <a href="#BRC3">The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC</a></p>
+   <p><b>Wednesday March 31th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
    <p><b>Thursday April 15th, 2021:</b> <a href="#vect2">Building complex search strategies in VectorBase</a></p>
    <p><b>Tuesday April 20th, 2021:</b> <a href="#BRC4">The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR</a></p>
    <p><b>Thursday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Aspergillus &  FungiDB</a></p>
@@ -90,27 +91,13 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="contents">
 
 
-
-<div class="anchor"><a name="release51"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 51 Webinar<br>
-<b>Date:</b> Thursday April 1th, 2021<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> Available 7-10 days prior to webinar<br>
-<!--registration link   https://attendee.gotowebinar.com/register/8137280361730606607-->
-<b>Additional Details:</b> This webinar will focus on what is new in Release 51 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
-</div>
-
-<hr>
 <div class="anchor"><a name="BRC2"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR<br>
 <b>Date:</b> Tuesday March 16th, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
 <b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r2bbbbd00a3c3606b0c8f8abc232b2f94">https://jcvi.webex.com/jcvi/j.php?RGID=r2bbbbd00a3c3606b0c8f8abc232b2f94</a> <br>
-<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
-bioinformatic resources available at the Virus Pathogen Resource.
+<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
 <br>
 </div>
 
@@ -137,11 +124,22 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <div class="anchor"><a name="BRC3"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC<br>
-<b>Date:</b> Tuesday March 30h, 2021<br>
+<b>Date:</b> Tuesday March 30th, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
 <b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r6b68a005abac7a6f2679419fc25ec788">https://jcvi.webex.com/jcvi/j.php?RGID=r6b68a005abac7a6f2679419fc25ec788</a> <br>
 <b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
 bioinformatic resources available at the Pathosystems Resource Integration Center.
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="release51"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 51 Webinar<br>
+<b>Date:</b> Wednesday March 31th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/8137280361730606607">https://attendee.gotowebinar.com/register/8137280361730606607</a><br>
+<b>Additional Details:</b> This webinar will focus on what is new in Release 51 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
 
@@ -302,7 +300,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
   </div>
 
 
-  <!-- =========== PREVIOUS WEBINARS  ======================== -->
+<hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 <h3>Previous Webinars</h3>
 <div class="contents">
 
