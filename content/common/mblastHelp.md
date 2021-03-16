@@ -11,7 +11,7 @@ tags: [general]
 
 <h3>BLAST<sup><i>beta</i></sup></h3>
 
-<p>BLAST finds regions of similarity between biological sequences. The program compares nucleotide or protein sequences to sequence databases and calculates the statistical significance of matches.  BLAST<sup><i>beta</i></sup> is VEuPathDB's updated BLAST tool that accomodates input as a single sequence or several fasta-formatted sequences at once.  </p>
+<p>BLAST finds regions of similarity between sequences. The program compares nucleotide or protein sequences to sequence databases and calculates the statistical significance of matches.  BLAST<sup><i>beta</i></sup> is VEuPathDB's updated BLAST tool that accomodates input as a single sequence or several FASTA-formatted sequences at once.  </p>
 
 <div style="display: flex; justify-content: center; align-items: center">  
      <iframe width="560" height="315" src="https://www.youtube.com/embed/mEjt8FhC-W8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
