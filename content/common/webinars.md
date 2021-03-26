@@ -279,7 +279,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <b>Topic:</b> Introduction to VectorBase for the beginner<br>
 <b>Date:</b> Thursday March 25th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link:</b> <a href="https://youtu.be/6UYG4u6VpnQ">https://youtu.be/6UYG4u6VpnQ</a><br>
+<b>Recording Link:</b> <a href="https://youtu.be/Ba4IUnrPOE0">https://youtu.be/Ba4IUnrPOE0</a><br>
 <b>Additional Details:</b> This webinar will cover VectorBase basics including:
 <ul>
 <li>The home page</li>
