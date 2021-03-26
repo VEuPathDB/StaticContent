@@ -30,9 +30,6 @@ tags: [general]
   <div class="contents">
     
 
-   
-   <p><b>Tuesday March 16th, 2021:</b> <a href="#BRC2">The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR</a></p>
-   <p><b>Thursday March 25th, 2021:</b> <a href="#vect1">Introduction to VectorBase for the beginner</a></p>
    <p><b>Tuesday March 30th, 2021:</b> <a href="#BRC3">The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC</a></p>
    <p><b>Wednesday March 31th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p>
    <p><b>Thursday April 15th, 2021:</b> <a href="#vect2">Building complex search strategies in VectorBase</a></p>
@@ -54,6 +51,8 @@ tags: [general]
   
     If you missed any of our previous webinars feel free to explore the free recordings:
     
+   <p><b>Thursday March 25th, 2021:</b> <a href="#vect1">Introduction to VectorBase for the beginner</a></p>
+   <p><b>Tuesday March 16th, 2021:</b> <a href="#BRC2">The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR</a></p>
    <p><b>Tuesday March 2nd, 2021:</b> <a href="#BRCfungi1">The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB</a></p> 
    <p><b>Tuesday February 16th, 2021:</b> <a href="#BRC1">The Bioinformatic Resource Centers Webinar Series: Influenza & IRD</a></p>
    <p><b>Thursday January 14th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
@@ -89,36 +88,6 @@ tags: [general]
 <h3>Upcoming Webinars</h3>
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
-
-
-<div class="anchor"><a name="BRC2"></a></div>
-<div class="webinar">
-<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR<br>
-<b>Date:</b> Tuesday March 16th, 2021<br>
-<b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r2bbbbd00a3c3606b0c8f8abc232b2f94">https://jcvi.webex.com/jcvi/j.php?RGID=r2bbbbd00a3c3606b0c8f8abc232b2f94</a> <br>
-<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
-<br>
-</div>
-
-<hr>
-<div class="anchor"><a name="vect1"></a></div>
-<div class="webinar">
-<b>Topic:</b> Introduction to VectorBase for the beginner<br>
-<b>Date:</b> Thursday March 25th, 2021<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/5797212854213597199">https://attendee.gotowebinar.com/register/5797212854213597199</a><br>
-<b>Additional Details:</b> This webinar will cover VectorBase basics including:
-<ul>
-<li>The home page</li>
-<li>Site Search</li>
-<li>Building your first search strategy</li>
-<li>The gene page</li>
-<li>Available tools and searches</li>
-<li>The genome browser</li>
-</ul>
-<br>
-</div>
 
 <hr>
 <div class="anchor"><a name="BRC3"></a></div>
@@ -303,6 +272,36 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 <h3>Previous Webinars</h3>
 <div class="contents">
+
+<div class="anchor"><a name="BRC2"></a></div>
+<div class="webinar">
+<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR<br>
+<b>Date:</b> Tuesday March 16th, 2021<br>
+<b>Time:</b> 11AM US Eastern Time<br>
+<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r2bbbbd00a3c3606b0c8f8abc232b2f94">https://jcvi.webex.com/jcvi/j.php?RGID=r2bbbbd00a3c3606b0c8f8abc232b2f94</a> <br>
+<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="vect1"></a></div>
+<div class="webinar">
+<b>Topic:</b> Introduction to VectorBase for the beginner<br>
+<b>Date:</b> Thursday March 25th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/5797212854213597199">https://attendee.gotowebinar.com/register/5797212854213597199</a><br>
+<b>Additional Details:</b> This webinar will cover VectorBase basics including:
+<ul>
+<li>The home page</li>
+<li>Site Search</li>
+<li>Building your first search strategy</li>
+<li>The gene page</li>
+<li>Available tools and searches</li>
+<li>The genome browser</li>
+</ul>
+<br>
+</div>
+
 
 <div class="anchor"><a name="BRCfungi1"></a></div>
 <div class="webinar">
