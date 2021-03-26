@@ -273,23 +273,13 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <h3>Previous Webinars</h3>
 <div class="contents">
 
-<div class="anchor"><a name="BRC2"></a></div>
-<div class="webinar">
-<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR<br>
-<b>Date:</b> Tuesday March 16th, 2021<br>
-<b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r2bbbbd00a3c3606b0c8f8abc232b2f94">https://jcvi.webex.com/jcvi/j.php?RGID=r2bbbbd00a3c3606b0c8f8abc232b2f94</a> <br>
-<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
-<br>
-</div>
-
 <hr>
 <div class="anchor"><a name="vect1"></a></div>
 <div class="webinar">
 <b>Topic:</b> Introduction to VectorBase for the beginner<br>
 <b>Date:</b> Thursday March 25th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/5797212854213597199">https://attendee.gotowebinar.com/register/5797212854213597199</a><br>
+<b>Recording Link:</b> <a href="WWW">WWW</a><br>
 <b>Additional Details:</b> This webinar will cover VectorBase basics including:
 <ul>
 <li>The home page</li>
@@ -302,7 +292,18 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <br>
 </div>
 
+<hr>
+<div class="anchor"><a name="BRC2"></a></div>
+<div class="webinar">
+<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR<br>
+<b>Date:</b> Tuesday March 16th, 2021<br>
+<b>Time:</b> 11AM US Eastern Time<br>
+<b>Recording Link:</b> <br>
+<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
+<br>
+</div>
 
+<hr>  
 <div class="anchor"><a name="BRCfungi1"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB<br>
