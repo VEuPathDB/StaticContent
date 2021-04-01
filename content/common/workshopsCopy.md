@@ -138,12 +138,10 @@ table#hor-minimalist-a tfoot tr {
 
 <h3>Upcoming Workshops</h3>
 
-Details of upcoming workshops such as registration link and preliminary schedule will be posted here when available. 
-
 <div class="contents">
 <div class="anchor"><a name="veupath2021"></a><div>
-<div class="workshop">
-<h3>Annual VEuPathDB Workshop 2021 (Virtual)</h3>
+  <div class="workshop">
+  <h3>Annual VEuPathDB Workshop 2021 (Virtual)</h3>
   This is where the text goes.  
 
 </div>
@@ -322,7 +320,7 @@ Details of upcoming workshops such as registration link and preliminary schedule
       <span style="font-weight:100">, on Friday July 24th, 2020</span>
     </h3>
     <p>The VectorBase workshop is a 3-hour introduction to this database, which is part of the VEuPathDB project. </p>
-    <p><b>Who should apply:</b>
+    <!--<p><b>Who should apply:</b>
       The ideal candidate has a need to use VectorBase (or any of the other parasite and fungi databases, which all have the same layout) and presumably has a bioinformatics research problem to work on after attending the course. </p>
     <p><b>Database covered:</b> VectorBase </p>
     <p><b>Costs and Fees:</b> 
@@ -338,6 +336,7 @@ Details of upcoming workshops such as registration link and preliminary schedule
 https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ_jo-EKX8bA/viewform  </a></p>
     <p><b>Note:</b> 
       To encourage the active participation/Q&A during the hands-on activities, limited seats are available and the sessions will not be recorded. Priority seating will be given to AGS meeting attendees.  </p>
+    -->
 
   <details closed>
     <summary><b>Agenda, schedule and instructors</b></summary>
