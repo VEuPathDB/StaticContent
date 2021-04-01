@@ -10,7 +10,7 @@ tags: [workshop-exercise]
   }
   div.contents {
     margin-left: 1em;
-    margin-bottom: 2em;
+    margin-bottom: 3em;
   }
   
   div.workshop {
@@ -90,7 +90,7 @@ table#hor-minimalist-a tfoot tr {
 
   <div class="contents">     
     <h4><a href="#veupath2021">Annual VEuPathDB Workshop 2021 (Virtual)</a></h4>
-      June 7-10, 2021 (Virtual)<br>
+      June 7-10, 2021 (Virtual)
   </div>
 
   <hr>
@@ -99,12 +99,12 @@ table#hor-minimalist-a tfoot tr {
   
   <div class="contents">
     <h4><a href="#hinxton2020">Working with Protozoan Parasite Database Resources</a></h4>
-    October 5-9, 2020 (Virtual).<br>
+    October 5-9, 2020 (Virtual).
   </div>
 
   <div class="contents">
     <h4><a href="#mpm2020">Molecular Parasitology Pre-meeting VEuPathDB workshop</a></h4>
-    Friday September 18th, 2020 from 10AM - 2PM US Eastern time (Virtual).<br>
+    Friday September 18th, 2020 from 10AM - 2PM US Eastern time (Virtual).
   </div>
 
   <div class="contents">
@@ -113,7 +113,6 @@ table#hor-minimalist-a tfoot tr {
       <li><a href="#vb-2020-7-24">VectorBase workshop at AGS</a>, on Friday July 24th, 2020 (3-hour event)</li>
       <li><a href="#apollo-2020-7-27">Gene manual annotation with Apollo workshop at AGS</a>, on Monday July 27th, 2020 (2-hour event)</li>
     </ul>
-    <br>
   </div>
 
   <div class="contents">
