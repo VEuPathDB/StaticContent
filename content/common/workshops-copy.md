@@ -1,6 +1,6 @@
 ---
 layout: plain
-title: VEuPathDB Workshops 
+title: VEuPathDB Workshops Copy
 permalink: /workshops-copy
 tags: [workshop-exercise]
 ---
