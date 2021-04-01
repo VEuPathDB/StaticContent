@@ -145,7 +145,7 @@ Details of upcoming workshops such as registration link and preliminary schedule
 <div class="contents">    
 <div class="anchor"><a name="hinxton2020"></a></div>
   <div class="workshop">
-  <h4>Working with Protozoan Parasite Database Resources</h4>
+  <h3>Working with Protozoan Parasite Database Resources</h3>
     This workshop was organized by the Wellcome Trust Advanced Courses and was held virtually. <a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/">
     Working with Protozoan Parasite Database Resources</a>.
     October 5-9, 2020 (Virtual).<br>
@@ -493,7 +493,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
 <div class="contents">
   <p><b>VectorBase:</b> <a target="_blank" href="https://legacy.vectorbase.org/tutorials" target="_blank">Previous tutorials</a>
     and <a target="_blank"  href="https://legacy.vectorbase.org/workshops" target="_blank">Previous workshops and webinars</a>.</p>
-  <p><b>EuPathDB:</b> <a target="_blank" href="https://workshop.eupathdb.org" target="_blank">Previous workshops</a>.</p>
+  <p><b>VEuPathDB:</b> <a target="_blank" href="https://workshop.eupathdb.org" target="_blank">Previous workshops</a>.</p>
 </div>
 
 </div>
