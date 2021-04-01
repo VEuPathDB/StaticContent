@@ -178,7 +178,7 @@ table#hor-minimalist-a tfoot tr {
     </ul>
     </details>
     <br>
-    </div>
+  </div>
 <hr>
   <div class="anchor"><a name="mpm2020"></a></div>
   <div class="workshop">
@@ -395,7 +395,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
   This workshop is a 2-hour introduction to the tool Apollo, which is currently available in VectorBase. This course will guide you through the process of updating and fixing gene models based on underlying data, including topics such as the addition of new genes, edition of the intron/exon boundaries, use of RNAseq and homology alignment data to support changes. This workshop would benefit vector biologist or any scientist with interest in annotating their favorite genes in Apollo available in other databases, e.g., i5k (<a target="_blank" href="https://i5k.nal.usda.gov/jbrowse-and-apollo">https://i5k.nal.usda.gov/jbrowse-and-apollo</a>).  
 </p>
 
-<p>
+<!--<p>
   <b>Who should apply:</b> 
   The ideal candidate has a need to use Apollo and presumably has a list of genes to work on after attending the course. 
 </p>
@@ -436,7 +436,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
   <b>Note:</b>
   To encourage the active participation/Q&A during the hands-on activities, limited seats are available and the sessions will not be recorded. Priority seating will be given to AGS meeting attendees.  
 </p>
-
+-->
 <details open>
 <summary><b>Agenda, schedule and instructors</b></summary>
 
