@@ -136,6 +136,7 @@ table#hor-minimalist-a tfoot tr {
     <p>Over 4 half-days, the VEuPathDB will provide a thorough and intensive introduction to database resources that are part of the VEuPathDB Bioinformatics Resource Center. The workshop is centered on determining what is — and isn't — working for you, the end-user. Our goal is to maintain a fruitful and ongoing conversation between the developers and the biologists to obtain more efficient, effective ways to help you reach your goals. We hope this experience is as beneficial for you as it is for us, and we look forward to learning together. </p>
     <p> <a href="https://workshop.eupathdb.org/athens/2021/"> More info and apply</a></p>
   </div>
+</div>
 
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
