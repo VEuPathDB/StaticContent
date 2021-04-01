@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Workshops 
-permalink: /workshops
+permalink: /workshops-copy
 tags: [workshop-exercise]
 ---
 <style>
