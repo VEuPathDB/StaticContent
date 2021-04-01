@@ -134,7 +134,7 @@ table#hor-minimalist-a tfoot tr {
     <h3>Annual VEuPathDB Workshop 2021 (Virtual)</h3>
     <p>Half-days on June 7 - 10, 2021</p> 
     <p>Over 4 half-days, the VEuPathDB will provide a thorough and intensive introduction to database resources that are part of the VEuPathDB Bioinformatics Resource Center. The workshop is centered on determining what is — and isn't — working for you, the end-user. Our goal is to maintain a fruitful and ongoing conversation between the developers and the biologists to obtain more efficient, effective ways to help you reach your goals. We hope this experience is as beneficial for you as it is for us, and we look forward to learning together. </p>
-    <p> <a href="https://workshop.eupathdb.org/athens/2021/"> More info and apply</a>
+    <p> <a href="https://workshop.eupathdb.org/athens/2021/"> More info and apply</a></p>
   </div>
 
 
@@ -153,30 +153,30 @@ table#hor-minimalist-a tfoot tr {
     <details open>
       <summary><b>Exercises</b></summary>
       <ul>
-    <li><a href="{{'/documents/hinxtonparasite/01b_SearchStrategies_Exercise_PlasmoDB.pdf' | absolute_url}}">Search Strategy Basics</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/01b_SiteSearch_PlasmoDB.pdf' | absolute_url}}">Site Search</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/02_Exploring the Gene Page.pdf' | absolute_url}}">Exploring Gene Pages</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/05_JBrowseBasics.pdf' | absolute_url}}">JBrowse Basics</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/06_JBrowse_RNAseqII.pdf' | absolute_url}}">Gene Structure and RNA-Seq Data in JBrowse</a></li>
-    <li>Genome Annotation with Companion
-    <ul>
-    <li><a href="{{'/documents/hinxtonparasite/07_Companion_1.pdf' | absolute_url}}">Companion Part I</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/08a_Companion_2.pdf' | absolute_url}}">Companion Part II</a></li>
-    </ul><br>
-    </li>
-    <li><a href="{{'/documents/hinxtonparasite/12_Population_Biology_SNPs_CNVs.pdf' | absolute_url}}">Population Biology: SNPs and CNVs</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/14_GO Enrichment.pdf' | absolute_url}}">GO Enrichment</a></li>
-    <li>Mapping RNA-Seq Data in Galaxy:
-    <ul>
-    <li><a href="{{'/documents/hinxtonparasite/16_RNAseq_Mapping_Galaxy_1.pdf' | absolute_url}}">Galaxy Part I</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/20_RNAseq_mapping_Galaxy_2.pdf' | absolute_url}}">Galaxy Part II</a></li>
-    </ul><br>
-    </li>
-    <li><a href="{{'/documents/hinxtonparasite/17_Transcriptomic_proteomics1.pdf' | absolute_url}}">Transcriptomic & Proteomic Searches</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/19_Orthology_Phyletic_Patterns.pdf' | absolute_url}}">Orthology Phylogenetic Searches</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/22_Host_response.pdf' | absolute_url}}">Host Response</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/23_Metabolic_Pathways_kc.pdf' | absolute_url}}">Metabolic Pathways</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/Advanced Search Strategies.pdf' | absolute_url}}">Advanced Searches</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/01b_SearchStrategies_Exercise_PlasmoDB.pdf' | absolute_url}}">Search Strategy Basics</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/01b_SiteSearch_PlasmoDB.pdf' | absolute_url}}">Site Search</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/02_Exploring the Gene Page.pdf' | absolute_url}}">Exploring Gene Pages</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/05_JBrowseBasics.pdf' | absolute_url}}">JBrowse Basics</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/06_JBrowse_RNAseqII.pdf' | absolute_url}}">Gene Structure and RNA-Seq Data in JBrowse</a></li>
+        <li>Genome Annotation with Companion
+        <ul>
+        <li><a href="{{'/documents/hinxtonparasite/07_Companion_1.pdf' | absolute_url}}">Companion Part I</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/08a_Companion_2.pdf' | absolute_url}}">Companion Part II</a></li>
+        </ul><br>
+        </li>
+        <li><a href="{{'/documents/hinxtonparasite/12_Population_Biology_SNPs_CNVs.pdf' | absolute_url}}">Population Biology: SNPs and CNVs</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/14_GO Enrichment.pdf' | absolute_url}}">GO Enrichment</a></li>
+        <li>Mapping RNA-Seq Data in Galaxy:
+        <ul>
+        <li><a href="{{'/documents/hinxtonparasite/16_RNAseq_Mapping_Galaxy_1.pdf' | absolute_url}}">Galaxy Part I</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/20_RNAseq_mapping_Galaxy_2.pdf' | absolute_url}}">Galaxy Part II</a></li>
+        </ul><br>
+        </li>
+        <li><a href="{{'/documents/hinxtonparasite/17_Transcriptomic_proteomics1.pdf' | absolute_url}}">Transcriptomic & Proteomic Searches</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/19_Orthology_Phyletic_Patterns.pdf' | absolute_url}}">Orthology Phylogenetic Searches</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/22_Host_response.pdf' | absolute_url}}">Host Response</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/23_Metabolic_Pathways_kc.pdf' | absolute_url}}">Metabolic Pathways</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/Advanced Search Strategies.pdf' | absolute_url}}">Advanced Searches</a></li>
     </ul>
     </details>
     <br>
