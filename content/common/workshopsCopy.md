@@ -12,9 +12,7 @@ tags: [workshop-exercise]
     margin-left: 1em;
     margin-bottom: 1em;
   }
-  div.contents p {
-    line-height: 90%;
-  }
+  
   div.workshop {
     margin: 2em 1em;
   }
