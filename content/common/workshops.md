@@ -1,6 +1,6 @@
 ---
 layout: plain
-title: VEuPathDB Workshops 
+title: VEuPathDB Workshops
 permalink: /workshops
 tags: [workshop-exercise]
 ---
@@ -10,11 +10,9 @@ tags: [workshop-exercise]
   }
   div.contents {
     margin-left: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 3em;
   }
-  div.contents p {
-    line-height: 90%;
-  }
+  
   div.workshop {
     margin: 2em 1em;
   }
@@ -89,44 +87,41 @@ table#hor-minimalist-a tfoot tr {
 <div class="static-content">
 
   <h3>Upcoming Workshops</h3>
-  <br>
 
-  <div class="contents"> 
-    <h4>Details of upcoming workshops will be posted here as they are scheduled.</h4>
+  <div class="contents">     
+    <h4><a href="#veupath2021">Annual VEuPathDB Workshop 2021 (Virtual)</a></h4>
+      June 7-10, 2021 (Virtual)
   </div>
 
-  <br>
   <hr>
   
   <h3>Previous Workshops</h3>
-  <br>
   
   <div class="contents">
-    
-    <h4><a href="#hinxton2020">
-    Working with Protozoan Parasite Database Resources</a></h4>
-    October 5-9, 2020 (Virtual).<br>
-    
+    <h4><a href="#hinxton2020">Working with Protozoan Parasite Database Resources</a></h4>
+    October 5-9, 2020 (Virtual).
   </div>
 
-<br>
-
   <div class="contents">
- 
     <h4><a href="#mpm2020">Molecular Parasitology Pre-meeting VEuPathDB workshop</a></h4>
     Friday September 18th, 2020 from 10AM - 2PM US Eastern time (Virtual).
-    <br><br>
+  </div>
 
+  <div class="contents">
     <h4>2020 VectorBase, Arthropod Genomics Symposium, AGS, (Virtual).</h4>
     <ul>
       <li><a href="#vb-2020-7-24">VectorBase workshop at AGS</a>, on Friday July 24th, 2020 (3-hour event)</li>
       <li><a href="#apollo-2020-7-27">Gene manual annotation with Apollo workshop at AGS</a>, on Monday July 27th, 2020 (2-hour event)</li>
     </ul>
-    <br>
-    <p><b>VectorBase:</b> <a target="_blank" href="https://legacy.vectorbase.org/tutorials" target="_blank">Previous tutorials</a>
-       and <a target="_blank"  href="https://legacy.vectorbase.org/workshops" target="_blank">Previous workshops and webinars</a>.</p>
-    <p><b>EuPathDB:</b> <a target="_blank" href="https://workshop.eupathdb.org" target="_blank">Previous workshops</a>.</p> 
+  </div>
 
+  <div class="contents">
+    <h4>Workshops Prior to 2020</h4>
+    <ul>
+      <li><b>VectorBase:</b> <a target="_blank" href="https://legacy.vectorbase.org/tutorials" target="_blank">Previous tutorials</a>
+       and <a target="_blank"  href="https://legacy.vectorbase.org/workshops" target="_blank">Previous workshops and webinars</a>.</li>
+      <li><b>VEuPathDB:</b> <a target="_blank" href="https://workshop.eupathdb.org" target="_blank">Previous workshops</a>.</li>
+    </ul>
   </div>
 
 <br>
@@ -135,7 +130,16 @@ table#hor-minimalist-a tfoot tr {
 
 <h3>Upcoming Workshops</h3>
 
-Details of upcoming workshops such as registration link and preliminary schedule will be posted here when available. 
+<div class="contents">
+<div class="anchor"><a name="veupath2021"></a></div>
+  <div class="workshop">
+    <h3>Annual VEuPathDB Workshop 2021 (Virtual)</h3>
+    <p>Half-days on June 7 - 10, 2021</p> 
+    <p>Over 4 half-days, the VEuPathDB will provide a thorough and intensive introduction to database resources that are part of the VEuPathDB Bioinformatics Resource Center. The workshop is centered on determining what is — and isn't — working for you, the end-user. Our goal is to maintain a fruitful and ongoing conversation between the developers and the biologists to obtain more efficient, effective ways to help you reach your goals. We hope this experience is as beneficial for you as it is for us, and we look forward to learning together. </p>
+    <p> <a href="https://workshop.eupathdb.org/athens/2021/"> More info and apply</a></p>
+  </div>
+</div>
+
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 
@@ -145,40 +149,41 @@ Details of upcoming workshops such as registration link and preliminary schedule
 <div class="contents">    
 <div class="anchor"><a name="hinxton2020"></a></div>
   <div class="workshop">
-  <h4>Working with Protozoan Parasite Database Resources</h4>
+  <h3>Working with Protozoan Parasite Database Resources</h3>
     This workshop was organized by the Wellcome Trust Advanced Courses and was held virtually. <a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/">
     Working with Protozoan Parasite Database Resources</a>.
     October 5-9, 2020 (Virtual).<br>
     <details open>
       <summary><b>Exercises</b></summary>
       <ul>
-    <li><a href="{{'/documents/hinxtonparasite/01b_SearchStrategies_Exercise_PlasmoDB.pdf' | absolute_url}}">Search Strategy Basics</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/01b_SiteSearch_PlasmoDB.pdf' | absolute_url}}">Site Search</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/02_Exploring the Gene Page.pdf' | absolute_url}}">Exploring Gene Pages</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/05_JBrowseBasics.pdf' | absolute_url}}">JBrowse Basics</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/06_JBrowse_RNAseqII.pdf' | absolute_url}}">Gene Structure and RNA-Seq Data in JBrowse</a></li>
-    <li>Genome Annotation with Companion
-    <ul>
-    <li><a href="{{'/documents/hinxtonparasite/07_Companion_1.pdf' | absolute_url}}">Companion Part I</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/08a_Companion_2.pdf' | absolute_url}}">Companion Part II</a></li>
-    </ul><br>
-    </li>
-    <li><a href="{{'/documents/hinxtonparasite/12_Population_Biology_SNPs_CNVs.pdf' | absolute_url}}">Population Biology: SNPs and CNVs</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/14_GO Enrichment.pdf' | absolute_url}}">GO Enrichment</a></li>
-    <li>Mapping RNA-Seq Data in Galaxy:
-    <ul>
-    <li><a href="{{'/documents/hinxtonparasite/16_RNAseq_Mapping_Galaxy_1.pdf' | absolute_url}}">Galaxy Part I</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/20_RNAseq_mapping_Galaxy_2.pdf' | absolute_url}}">Galaxy Part II</a></li>
-    </ul><br>
-    </li>
-    <li><a href="{{'/documents/hinxtonparasite/17_Transcriptomic_proteomics1.pdf' | absolute_url}}">Transcriptomic & Proteomic Searches</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/19_Orthology_Phyletic_Patterns.pdf' | absolute_url}}">Orthology Phylogenetic Searches</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/22_Host_response.pdf' | absolute_url}}">Host Response</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/23_Metabolic_Pathways_kc.pdf' | absolute_url}}">Metabolic Pathways</a></li>
-    <li><a href="{{'/documents/hinxtonparasite/Advanced Search Strategies.pdf' | absolute_url}}">Advanced Searches</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/01b_SearchStrategies_Exercise_PlasmoDB.pdf' | absolute_url}}">Search Strategy Basics</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/01b_SiteSearch_PlasmoDB.pdf' | absolute_url}}">Site Search</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/02_Exploring the Gene Page.pdf' | absolute_url}}">Exploring Gene Pages</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/05_JBrowseBasics.pdf' | absolute_url}}">JBrowse Basics</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/06_JBrowse_RNAseqII.pdf' | absolute_url}}">Gene Structure and RNA-Seq Data in JBrowse</a></li>
+        <li>Genome Annotation with Companion
+        <ul>
+        <li><a href="{{'/documents/hinxtonparasite/07_Companion_1.pdf' | absolute_url}}">Companion Part I</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/08a_Companion_2.pdf' | absolute_url}}">Companion Part II</a></li>
+        </ul><br>
+        </li>
+        <li><a href="{{'/documents/hinxtonparasite/12_Population_Biology_SNPs_CNVs.pdf' | absolute_url}}">Population Biology: SNPs and CNVs</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/14_GO Enrichment.pdf' | absolute_url}}">GO Enrichment</a></li>
+        <li>Mapping RNA-Seq Data in Galaxy:
+        <ul>
+        <li><a href="{{'/documents/hinxtonparasite/16_RNAseq_Mapping_Galaxy_1.pdf' | absolute_url}}">Galaxy Part I</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/20_RNAseq_mapping_Galaxy_2.pdf' | absolute_url}}">Galaxy Part II</a></li>
+        </ul><br>
+        </li>
+        <li><a href="{{'/documents/hinxtonparasite/17_Transcriptomic_proteomics1.pdf' | absolute_url}}">Transcriptomic & Proteomic Searches</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/19_Orthology_Phyletic_Patterns.pdf' | absolute_url}}">Orthology Phylogenetic Searches</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/22_Host_response.pdf' | absolute_url}}">Host Response</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/23_Metabolic_Pathways_kc.pdf' | absolute_url}}">Metabolic Pathways</a></li>
+        <li><a href="{{'/documents/hinxtonparasite/Advanced Search Strategies.pdf' | absolute_url}}">Advanced Searches</a></li>
     </ul>
     </details>
     <br>
+  </div>
 <hr>
   <div class="anchor"><a name="mpm2020"></a></div>
   <div class="workshop">
@@ -309,7 +314,7 @@ Details of upcoming workshops such as registration link and preliminary schedule
       <span style="font-weight:100">, on Friday July 24th, 2020</span>
     </h3>
     <p>The VectorBase workshop is a 3-hour introduction to this database, which is part of the VEuPathDB project. </p>
-    <p><b>Who should apply:</b>
+    <!--<p><b>Who should apply:</b>
       The ideal candidate has a need to use VectorBase (or any of the other parasite and fungi databases, which all have the same layout) and presumably has a bioinformatics research problem to work on after attending the course. </p>
     <p><b>Database covered:</b> VectorBase </p>
     <p><b>Costs and Fees:</b> 
@@ -325,6 +330,7 @@ Details of upcoming workshops such as registration link and preliminary schedule
 https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ_jo-EKX8bA/viewform  </a></p>
     <p><b>Note:</b> 
       To encourage the active participation/Q&A during the hands-on activities, limited seats are available and the sessions will not be recorded. Priority seating will be given to AGS meeting attendees.  </p>
+    -->
 
   <details closed>
     <summary><b>Agenda, schedule and instructors</b></summary>
@@ -394,7 +400,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
   This workshop is a 2-hour introduction to the tool Apollo, which is currently available in VectorBase. This course will guide you through the process of updating and fixing gene models based on underlying data, including topics such as the addition of new genes, edition of the intron/exon boundaries, use of RNAseq and homology alignment data to support changes. This workshop would benefit vector biologist or any scientist with interest in annotating their favorite genes in Apollo available in other databases, e.g., i5k (<a target="_blank" href="https://i5k.nal.usda.gov/jbrowse-and-apollo">https://i5k.nal.usda.gov/jbrowse-and-apollo</a>).  
 </p>
 
-<p>
+<!--<p>
   <b>Who should apply:</b> 
   The ideal candidate has a need to use Apollo and presumably has a list of genes to work on after attending the course. 
 </p>
@@ -435,7 +441,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
   <b>Note:</b>
   To encourage the active participation/Q&A during the hands-on activities, limited seats are available and the sessions will not be recorded. Priority seating will be given to AGS meeting attendees.  
 </p>
-
+-->
 <details open>
 <summary><b>Agenda, schedule and instructors</b></summary>
 
@@ -493,7 +499,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
 <div class="contents">
   <p><b>VectorBase:</b> <a target="_blank" href="https://legacy.vectorbase.org/tutorials" target="_blank">Previous tutorials</a>
     and <a target="_blank"  href="https://legacy.vectorbase.org/workshops" target="_blank">Previous workshops and webinars</a>.</p>
-  <p><b>EuPathDB:</b> <a target="_blank" href="https://workshop.eupathdb.org" target="_blank">Previous workshops</a>.</p>
+  <p><b>VEuPathDB:</b> <a target="_blank" href="https://workshop.eupathdb.org" target="_blank">Previous workshops</a>.</p>
 </div>
 
 </div>
