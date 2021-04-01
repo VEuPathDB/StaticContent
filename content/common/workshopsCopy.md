@@ -10,7 +10,7 @@ tags: [workshop-exercise]
   }
   div.contents {
     margin-left: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 2em;
   }
   
   div.workshop {
@@ -87,47 +87,39 @@ table#hor-minimalist-a tfoot tr {
 <div class="static-content">
 
   <h3>Upcoming Workshops</h3>
-  <br>
 
-  <div class="contents"> 
-    
-   <h4><a href="#veupath2021">
-    Annual VEuPathDB Workshop 2021 (Virtual)</a></h4>
-    June 7-10, 2021 (Virtual)<br>
+  <div class="contents">     
+    <h4><a href="#veupath2021">Annual VEuPathDB Workshop 2021 (Virtual)</a></h4>
+      June 7-10, 2021 (Virtual)<br>
   </div>
 
-  <br>
   <hr>
   
   <h3>Previous Workshops</h3>
-  <br>
   
   <div class="contents">
-    
-   <h4><a href="#hinxton2020">
-    Working with Protozoan Parasite Database Resources</a></h4>
+    <h4><a href="#hinxton2020">Working with Protozoan Parasite Database Resources</a></h4>
     October 5-9, 2020 (Virtual).<br>
-    
   </div>
 
-<br>
+  <div class="contents">
+    <h4><a href="#mpm2020">Molecular Parasitology Pre-meeting VEuPathDB workshop</a></h4>
+    Friday September 18th, 2020 from 10AM - 2PM US Eastern time (Virtual).<br>
+  </div>
 
   <div class="contents">
- 
-    <h4><a href="#mpm2020">Molecular Parasitology Pre-meeting VEuPathDB workshop</a></h4>
-    Friday September 18th, 2020 from 10AM - 2PM US Eastern time (Virtual).
-    <br><br>
-
     <h4>2020 VectorBase, Arthropod Genomics Symposium, AGS, (Virtual).</h4>
     <ul>
       <li><a href="#vb-2020-7-24">VectorBase workshop at AGS</a>, on Friday July 24th, 2020 (3-hour event)</li>
       <li><a href="#apollo-2020-7-27">Gene manual annotation with Apollo workshop at AGS</a>, on Monday July 27th, 2020 (2-hour event)</li>
     </ul>
     <br>
+  </div>
+
+  <div class="contents">
     <p><b>VectorBase:</b> <a target="_blank" href="https://legacy.vectorbase.org/tutorials" target="_blank">Previous tutorials</a>
        and <a target="_blank"  href="https://legacy.vectorbase.org/workshops" target="_blank">Previous workshops and webinars</a>.</p>
     <p><b>EuPathDB:</b> <a target="_blank" href="https://workshop.eupathdb.org" target="_blank">Previous workshops</a>.</p> 
-
   </div>
 
 <br>
@@ -137,12 +129,11 @@ table#hor-minimalist-a tfoot tr {
 <h3>Upcoming Workshops</h3>
 
 <div class="contents">
-<div class="anchor"><a name="veupath2021"></a><div>
+<div class="anchor"><a name="veupath2021"></a></div>
   <div class="workshop">
-  <h3>Annual VEuPathDB Workshop 2021 (Virtual)</h3>
-  This is where the text goes.  
-
-</div>
+    <h3>Annual VEuPathDB Workshop 2021 (Virtual)</h3>
+    This is where the text goes.  
+  </div>
 </div>
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
