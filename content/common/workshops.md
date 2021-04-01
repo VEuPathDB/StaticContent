@@ -179,6 +179,7 @@ Details of upcoming workshops such as registration link and preliminary schedule
     </ul>
     </details>
     <br>
+    </div>
 <hr>
   <div class="anchor"><a name="mpm2020"></a></div>
   <div class="workshop">
