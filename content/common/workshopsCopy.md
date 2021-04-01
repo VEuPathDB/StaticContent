@@ -92,11 +92,10 @@ table#hor-minimalist-a tfoot tr {
   <br>
 
   <div class="contents"> 
-    <h4>Details of upcoming workshops will be posted here as they are scheduled.</h4>
-  </div>
-
-  <div class="contents">
-    <h4>Annual VEuPathDB Workshop 2021 (Virtual)</h4>
+    
+   <h4><a href="#veupath2021">
+    Annual VEuPathDB Workshop 2021 (Virtual)</a></h4>
+    June 7-10, 2021 (Virtual)<br>
   </div>
 
   <br>
@@ -107,7 +106,7 @@ table#hor-minimalist-a tfoot tr {
   
   <div class="contents">
     
-    <h4><a href="#hinxton2020">
+   <h4><a href="#hinxton2020">
     Working with Protozoan Parasite Database Resources</a></h4>
     October 5-9, 2020 (Virtual).<br>
     
@@ -140,6 +139,17 @@ table#hor-minimalist-a tfoot tr {
 <h3>Upcoming Workshops</h3>
 
 Details of upcoming workshops such as registration link and preliminary schedule will be posted here when available. 
+
+<div class="contents">
+<div class="anchor"><a name="veupath2021"></a><div>
+<div class="workshop">
+<h3>Annual VEuPathDB Workshop 2021 (Virtual)</h3>
+  This is where the text goes.  
+
+
+
+
+</div>
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 
