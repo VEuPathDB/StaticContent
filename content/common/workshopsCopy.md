@@ -146,9 +146,7 @@ Details of upcoming workshops such as registration link and preliminary schedule
 <h3>Annual VEuPathDB Workshop 2021 (Virtual)</h3>
   This is where the text goes.  
 
-
-
-
+</div>
 </div>
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
