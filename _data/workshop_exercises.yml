@@ -1,11 +1,11 @@
 cards:
   - card: "Apollo: Gene manual annotation" 
     description: Structural and functional community curation with Apollo, a real time collaborative genome annotation and curation platform 
-    date: 29/03/2021
+    date: 07/04/2021
     exclude: OrthoMCL
     links:
       - name: "Apollo: Gene manual annotation"
-        path: Apollo_functional_annotation_29_03_2021.pdf
+        path: Apollo_functional_annotation_07_04_2021.pdf
         description:
   - card: Gene Pages
     description: Explore the data and images on gene pages 
