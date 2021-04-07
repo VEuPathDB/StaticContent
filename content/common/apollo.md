@@ -40,7 +40,7 @@ div.centered-button a {
 <a href="https://amoebadb.org/amoeba/app/search/organism/GenomeDataTypes/result">AmoebaDB</a>,    
 <a href="https://fungidb.org/fungidb/app/search/organism/GenomeDataTypes/result">FungiDB</a>,
        <a href="https://giardiadb.org/giardiadb/app/search/organism/GenomeDataTypes/result">GiardiaDB</a>,
-       <a href="https://microsporidiadb.org/micro/app/search/organism/GenomeDataTypes/result">MicrosporidiaDB</a>,
+<a href="https://microsporidiadb.org/micro/app/search/organism/GenomeDataTypes/result">MicrosporidiaDB</a>,
 <a href="https://piroplasmadb.org/piro/app/search/organism/GenomeDataTypes/result">PiroplasmaDB</a>,  
 <a href="https://plasmodb.org/plasmo/app/search/organism/GenomeDataTypes/result">PlasmoDB</a>,   
 <a href="https://toxodb.org/toxo/app/search/organism/GenomeDataTypes/result">ToxoDB</a> and
