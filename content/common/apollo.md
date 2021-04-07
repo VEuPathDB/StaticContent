@@ -44,9 +44,8 @@ div.centered-button a {
 <a href="https://cryptodb.org/cryptodb/app/search/organism/GenomeDataTypes/result">CryptoDB</a>,     
 <a href="https://fungidb.org/fungidb/app/search/organism/GenomeDataTypes/result">FungiDB</a>,
 <a href="https://plasmodb.org/plasmo/app/search/organism/GenomeDataTypes/result">PlasmoDB</a>,   
-<a href="https://piroplasmadb.org/piro/app/search/organism/GenomeDataTypes/result">PiroplasmaDB</a>, 
-<a href="https://toxodb.org/toxo/app/search/organism/GenomeDataTypes/result">ToxoDB</a>  
-;more species from these and other <a href="https://veupathdb.org/veupathdb/app/search/organism/GenomeDataTypes/result">VEuPathDB</a> component sites coming in future releases.</p>
+<a href="https://piroplasmadb.org/piro/app/search/organism/GenomeDataTypes/result">PiroplasmaDB</a> and  
+<a href="https://toxodb.org/toxo/app/search/organism/GenomeDataTypes/result">ToxoDB</a>; more species from these and other <a href="https://veupathdb.org/veupathdb/app/search/organism/GenomeDataTypes/result">VEuPathDB</a> component sites coming in future releases.</p>
       
       <p>
 Apollo help and documentation:
