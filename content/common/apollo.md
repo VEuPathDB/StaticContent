@@ -39,14 +39,21 @@ div.centered-button a {
         Utilise Apollo to integrate new or update current structural and functional data for gene models in the organisms available in VEuPathDB.
       </p>
      <p>
-        All organisms in <a href="https://vectorbase.org/vectorbase/app/search/organism/GenomeDataTypes/result">VectorBase</a> are available for community curation. A few selected species are also available from <a href="https://amoebadb.org/amoeba/app/search/organism/GenomeDataTypes/result">AmoebaDB</a>, <a href="https://piroplasmadb.org/piro/app/search/organism/GenomeDataTypes/result">PiroplasmaDB</a>, <a href="https://toxodb.org/toxo/app/search/organism/GenomeDataTypes/result">ToxoDB</a> and <a href="https://fungidb.org/fungidb/app/search/organism/GenomeDataTypes/result">FungiDB</a>; more species from these and other <a href="https://veupathdb.org/veupathdb/app/search/organism/GenomeDataTypes/result">VEuPathDB</a> component sites coming in future releases.</p>
+        All organisms in <a href="https://vectorbase.org/vectorbase/app/search/organism/GenomeDataTypes/result">VectorBase</a> are available for community curation. A few selected species are also available from 
+<a href="https://amoebadb.org/amoeba/app/search/organism/GenomeDataTypes/result">AmoebaDB</a>,
+<a href="https://cryptodb.org/cryptodb/app/search/organism/GenomeDataTypes/result">CryptoDB</a>,     
+<a href="https://fungidb.org/fungidb/app/search/organism/GenomeDataTypes/result">FungiDB</a>,
+<a href="https://plasmodb.org/plasmo/app/search/organism/GenomeDataTypes/result">PlasmoDB</a>,   
+<a href="https://piroplasmadb.org/piro/app/search/organism/GenomeDataTypes/result">PiroplasmaDB</a> and  
+<a href="https://toxodb.org/toxo/app/search/organism/GenomeDataTypes/result">ToxoDB</a>; more species from these and other <a href="https://veupathdb.org/veupathdb/app/search/organism/GenomeDataTypes/result">VEuPathDB</a> component sites coming in future releases.</p>
       
       <p>
 Apollo help and documentation:
 <ul> 
-  <li>Comprehensive webinar to learn <a href="https://youtu.be/RMXZDBMh8Fo">how to use Apollo</a> (57:40 min)</li>
  <li>A <a href="https://apollo-sandbox.veupathdb.org/annotator/index">sandbox</a> is available for you to get familiar with all Apollo menus, tools, and tracks before you decide to use it for your real gene manual annotations. These changes will not affect any of the organism's official gene set, neither will be preserved.</li>
+  <li>Comprehensive webinar to learn <a href="https://youtu.be/RMXZDBMh8Fo">how to use Apollo</a> (57:40 min)</li>
   <li><a href="/a/app/static-content/apolloQuickCommands.html">Quick commands</a></li> 
+  <li><a href="{{'/documents/Apollo_functional_annotation_29_03_2021.pdf' | absolute_url}}">Functional annotation tutorial </a> </li>
   <li><a href="https://apollo.veupathdb.org/1613634913933131701353630290/about">About Apollo</a></li> 
   <li><a href="https://genomearchitect.readthedocs.io/en/latest/UsersGuide.html">User Guide</a></li> 
   <li><a href="https://github.com/gmod/apollo/issues/new">Request feature/Report a bug</a></li> 
