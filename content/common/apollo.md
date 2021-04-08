@@ -54,11 +54,11 @@ Apollo help and documentation:
   <li>Comprehensive webinar to learn <a href="https://youtu.be/RMXZDBMh8Fo">how to use Apollo</a> (57:40 min)</li>
   <li><a href="/a/app/static-content/apolloQuickCommands.html">Quick commands</a></li> 
   <li><a href="{{'/documents/Apollo_functional_annotation_07_04_2021.pdf' | absolute_url}}">Functional annotation tutorial </a> </li>
-  <li><a href="https://apollo.veupathdb.org/1613634913933131701353630290/about">About Apollo</a></li> 
+  <li><a href="https://apollo.veupathdb.org/1613634913933131701353630290/about">About Apollo (Login required)</a></li> 
   <li><a href="https://genomearchitect.readthedocs.io/en/latest/UsersGuide.html">User Guide</a></li> 
   <li><a href="https://github.com/gmod/apollo/issues/new">Request feature/Report a bug</a></li> 
   <li><a href="https://jbrowse.org/jb2/">Powered by JBrowse</a></li> 
-  <li><a href="https://apollo.veupathdb.org/56133187121381847651851098590/jbrowse/web_services/api">Web Service API</a></li> 
+  <li><a href="https://apollo.veupathdb.org/56133187121381847651851098590/jbrowse/web_services/api">Web Service API (Login required)</a></li> 
 
 </ul>
   </p>
