@@ -75,7 +75,7 @@ cards:
         path: MapVEu_part1_05_05_2020.pdf
         description:
       - name: MapVEu: part II - Additional features 
-        path: documents/MapVEu_part2_05_05_2020.pdf
+        path: MapVEu_part2_05_05_2020.pdf
         description:
   - card: Metabolic Pathways
     description: Learn to use metabolic pathway searches and visualization tools 
