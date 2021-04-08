@@ -18,7 +18,7 @@ tags: [tutorial]
   {% for item in tut.links %}
   <li>
     {% assign filename = item.path %}
-    <a href="{{ '/documents/' | append: filename | absolute_url }}">{{ item.path }}</a></li>
+    <a href="{{ '/documents/' | append: filename | absolute_url }}">{{ item.name }}</a></li>
   {% endfor %}
 </ul>
 <hr>
