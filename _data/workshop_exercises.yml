@@ -35,7 +35,7 @@ cards:
         path: Companion-2.pdf
         description:
   - card: Genome Browser
-    description: Basic tutorial on how to effectively explore data in the genome browser including track selection and configuration.
+    description: Basic tutorial on how to effectively explore data in the genome browser including track selection and configuration
     date: 2020/04/15
     exclude: OrthoMCL
     links:
@@ -43,7 +43,7 @@ cards:
         path: JBrowseBasics.pdf
         description:
   - card: Genome Browser Advanced
-    description: Self-led exercise on investigating genes models and structural annotations with RNA-seq expression data. 
+    description: Self-led exercise on investigating genes models and structural annotations with RNA-seq expression data 
     date: 2020/10/27
     exclude: OrthoMCL
     links:
@@ -66,8 +66,19 @@ cards:
       - name: Host Response (HostDB)
         path: Host-response.pdf
         description:
+  - card: MapVEu
+    description: use the map to visualize, search, and analyze field-collected data including: insecticide resistance (phenotypes and genotypes), population abundance, pathogen infection status, and blood meal source among others 
+    date: 2020/05/05
+    exclude: OrthoMCL
+    links:
+      - name: MapVEu: part I - An introduction 
+        path: MapVEu_part1_05_05_2020.pdf
+        description:
+      - name: MapVEu: part II - Additional features 
+        path: documents/MapVEu_part2_05_05_2020.pdf
+        description:
   - card: Metabolic Pathways
-    description: Learn to use metabolic pathway searches and visualization tools. 
+    description: Learn to use metabolic pathway searches and visualization tools 
     date: 2020/10/28
     exclude: OrthoMCL
     links:
@@ -75,21 +86,21 @@ cards:
         path: Metabolic-Pathways.pdf
         description:
   - card: Orthology Phyletic Patterns
-    description: Leverage the transform by orthology tool, orthology tables on gene pages, OrthoMCL, and the phyletic pattern search. 
+    description: Leverage the transform by orthology tool, orthology tables on gene pages, OrthoMCL, and the phyletic pattern search 
     date: 2020/10/28
     links:
       - name: Orthology and Phyletic Patterns
         path: Orthology-Phyletic-Patterns.pdf
         description:
   - card: OrthoMCL tutorial
-    description: Learn standard searches and ortholog group analysis within the OrthoMCL website. 
+    description: Learn standard searches and ortholog group analysis within the OrthoMCL website 
     date: 2020/12/17
     links:
       - name: OrthoMCL tutorial
         path: OrthoMCL_tutorial1.pdf
         description:
   - card: Regular expressions & colocation
-    description: Use regular expressions to identify protein or DNA patters. Use the colocation tool to identify DNA segments based on their relative location on the genome.
+    description: Use regular expressions to identify protein or DNA patters. Use the colocation tool to identify DNA segments based on their relative location on the genome
     date: 2020/04/15
     exclude: OrthoMCL
     links:
@@ -104,7 +115,7 @@ cards:
         path: SearchStrategies.pdf
         description:
   - card: Search Strategies (Advanced)
-    description: Integrate diverse data types and leverage orthology or phylogenetic profiling.
+    description: Integrate diverse data types and leverage orthology or phylogenetic profiling
     date: 2020/10/28
     links:
       - name: Search Strategies (Advanced)
@@ -118,7 +129,7 @@ cards:
         path: SiteSearch.pdf
         description:
   - card: Transcriptomics and Proteomics
-    description: Explore searches that return genes based on expression evidence from RNA-Seq, microaray and proteomics searches.
+    description: Explore searches that return genes based on expression evidence from RNA-Seq, microaray and proteomics searches
     date: 2020/10/28
     exclude: OrthoMCL
     links:
@@ -137,7 +148,7 @@ cards:
         path: VariantAnalysisVEuPathDBGalaxyPart2.pdf
         description: 
   - card: New Exercises and Tutorials will be added regularly
-    description: We continue to expand our repertoire of exercises on a regular basis. Visit this section regularly to explore new training material.
+    description: We continue to expand our repertoire of exercises on a regular basis. Visit this section regularly to explore new training material
     links:
       - name: ''
         path: ''
