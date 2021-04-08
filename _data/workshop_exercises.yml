@@ -67,7 +67,7 @@ cards:
         path: Host-response.pdf
         description:
   - card: MapVEu
-    description: use the map to visualize, search, and analyze field-collected data including: insecticide resistance (phenotypes and genotypes), population abundance, pathogen infection status, and blood meal source among others 
+    description: use the map to visualize, search, and analyze field-collected data including insecticide resistance (phenotypes and genotypes), population abundance, pathogen infection status, and blood meal source among others 
     date: 2020/05/05
     exclude: OrthoMCL
     links:
