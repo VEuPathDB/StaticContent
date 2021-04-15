@@ -241,7 +241,6 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording Link:</b> <a href="https://youtu.be/Ba4IUnrPOE0">https://youtu.be/Ba4IUnrPOE0</a><br>
 <b>Handout: </b> <a href="https://community.eupathdb.org/documents/Strategies_Training_Module_VB_2021.pdf">Introductory/101 guide to construct your first strategy</a><br>
-  
 <b>Additional Details:</b> This webinar describe how to build search strategies, including:
 <ul>
 <li>Starting your first step</li>
