@@ -32,7 +32,7 @@ tags: [general]
    <p><b>Thursday April 15th, 2021:</b> <a href="#vect2">Building complex search strategies in VectorBase</a></p>
    <p><b>Tuesday April 20th, 2021:</b> <a href="#BRC4">The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR</a></p>
    <p><b>Thursday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Aspergillus &  FungiDB</a></p>
-   <p><b>Thursday May 13th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
+   <p><b>Thursday May 27th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
    <p><b>Tuesday May 18th, 2021:</b> <a href="#BRC5">The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</a></p>
    <p><b>Thursday May 20th, 2021:</b> <a href="#vect3">Exploring transcriptomic data in VectorBase</a></p>
    <p><b>Tuesday June 1st, 2021:</b> <a href="#BRC6">The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC</a></p>
@@ -136,7 +136,7 @@ bioinformatic resources available at FungiDB.
 <div class="anchor"><a name="release52"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 52 Webinar<br>
-<b>Date:</b> Thursday May 13th, 2021<br>
+<b>Date:</b> Thursday May 27th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration:</b> Available 7-10 days prior to webinar<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 52 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
