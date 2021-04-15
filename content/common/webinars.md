@@ -90,25 +90,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="contents">
 
 
-
-<hr>
-<div class="anchor"><a name="vect2"></a></div>
-<div class="webinar">
-<b>Topic:</b> Building complex search strategies in VectorBase<br>
-<b>Date:</b> Thursday April 15th, 2021<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/1517001004258540814">https://attendee.gotowebinar.com/register/1517001004258540814</a><br>
-<b>Additional Details:</b> This webinar describe how to build search strategies, including:
-<ul>
-<li>Starting your first step</li>
-<li>Adding steps</li>
-<li>Boolean operations</li>
-<li>Transforming results to orthologs</li>
-<li>downloading search results</li>
-</ul>
-<br>
-</div>
-
 <hr>
 <div class="anchor"><a name="BRC4"></a></div>
 <div class="webinar">
@@ -251,6 +232,26 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 <h3>Previous Webinars</h3>
 <div class="contents">
+
+<hr>
+<div class="anchor"><a name="vect2"></a></div>
+<div class="webinar">
+<b>Topic:</b> Building complex search strategies in VectorBase<br>
+<b>Date:</b> Thursday April 15th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link:</b> <a href="https://youtu.be/Ba4IUnrPOE0">https://youtu.be/Ba4IUnrPOE0</a><br>
+<b>Handout: </b> <a href="https://community.eupathdb.org/documents/Strategies_Training_Module_VB_2021.pdf">Introductory/101 guide to construct your first strategy</a><br>
+  
+<b>Additional Details:</b> This webinar describe how to build search strategies, including:
+<ul>
+<li>Starting your first step</li>
+<li>Adding steps</li>
+<li>Boolean operations</li>
+<li>Transforming results to orthologs</li>
+<li>downloading search results</li>
+</ul>
+<br>
+</div>
 
 <hr>
 <div class="anchor"><a name="release51"></a></div>
