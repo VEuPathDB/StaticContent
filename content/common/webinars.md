@@ -280,6 +280,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <b>Date:</b> Thursday March 25th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording:</b> <a href="https://youtu.be/Ba4IUnrPOE0">https://youtu.be/Ba4IUnrPOE0</a><br>
+<b>Handout: </b> <a href="https://community.eupathdb.org/documents/Guide_for_former_BioMart_users.pdf">Guide for former BioMart users</a><br>
 <b>Additional Details:</b> This webinar will cover VectorBase basics including:
 <ul>
 <li>The home page</li>
