@@ -30,7 +30,6 @@ tags: [general]
   <div class="contents">
     
 
-   <p><b>Thursday April 15th, 2021:</b> <a href="#vect2">Building complex search strategies in VectorBase</a></p>
    <p><b>Tuesday April 20th, 2021:</b> <a href="#BRC4">The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR</a></p>
    <p><b>Thursday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Aspergillus &  FungiDB</a></p>
    <p><b>Thursday May 27th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
@@ -49,6 +48,7 @@ tags: [general]
   
     If you missed any of our previous webinars feel free to explore the free recordings:
    
+   <p><b>Thursday April 15th, 2021:</b> <a href="#vect2">Building complex search strategies in VectorBase</a></p>
    <p><b>Wednesday March 31th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p> 
    <p><b>Tuesday March 30th, 2021:</b> <a href="#BRC3">The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC</a></p>
    <p><b>Thursday March 25th, 2021:</b> <a href="#vect1">Introduction to VectorBase for the beginner</a></p>
