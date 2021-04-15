@@ -66,6 +66,17 @@ cards:
       - name: Host Response (HostDB)
         path: Host-response.pdf
         description:
+  - card: MapVEu
+    description: use the map to visualize, search, and analyze field-collected data including insecticide resistance (phenotypes and genotypes), population abundance, pathogen infection status, and blood meal source among others 
+    date: 2020/05/05
+    exclude: OrthoMCL
+    links:
+      - name: Introduction to MapVEu  
+        path: MapVEu_part1_05_05_2020.pdf
+        description:
+      - name: Additional features of MapVEu 
+        path: MapVEu_part2_05_05_2020.pdf
+        description:
   - card: Metabolic Pathways
     description: Learn to use metabolic pathway searches and visualization tools. 
     date: 2020/10/28
