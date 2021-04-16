@@ -240,7 +240,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <b>Date:</b> Thursday April 15th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording Link:</b> <a href="https://youtu.be/Z_PbgtU9C-k">https://youtu.be/Z_PbgtU9C-k</a><br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/Strategies_Training_Module_VB_2021.pdf">Introductory/101 guide to construct your first strategy</a><br>
+<b>Handout: </b> <a href="{{'/documents/Strategies_Training_Module_VB_2021.pdf' | absolute_url}}">Introductory/101 guide to construct your first strategy</a><br>
 <b>Additional Details:</b> This webinar describe how to build search strategies, including:
 <ul>
 <li>Starting your first step</li>
@@ -280,7 +280,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <b>Date:</b> Thursday March 25th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording Link:</b> <a href="https://youtu.be/Ba4IUnrPOE0">https://youtu.be/Ba4IUnrPOE0</a><br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/Guide_for_former_BioMart_users.pdf">Guide for former BioMart users</a><br>
+<b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/Guide_for_former_BioMart_users.pdf">Guide for former BioMart users</a><br>
 <b>Additional Details:</b> This webinar will cover VectorBase basics including:
 <ul>
 <li>The home page</li>
@@ -403,7 +403,7 @@ This webinar focused on how to use and explore metabolic pathways in VEuPathDB s
 <b>Date:</b> Thursday August 13th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording Link: </b><a href="https://youtu.be/OBQCI5_Y9jU">https://youtu.be/OBQCI5_Y9jU</a> <br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/13August2020webinar.pdf">Building complex search strategies in FungiDB</a><br>
+<b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/13August2020webinar.pdf">Building complex search strategies in FungiDB</a><br>
 <b>Additional Details:</b> <br>
 This webinar will demonstrate how to integrate diverse data types in search strategies to answer biological questions and build testable hypotheses.
 <br>
@@ -460,7 +460,7 @@ This webinar will cover:<br>
 <b>Date:</b> Thursday July 16th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording Link: </b><a href="https://youtu.be/EAL_7uCPH3Q">https://youtu.be/EAL_7uCPH3Q</a> <br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/FungiDBNavigatingmainpage.pdf">Anatomy of the main page</a><br>
+<b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/FungiDBNavigatingmainpage.pdf">Anatomy of the main page</a><br>
 <b>Additional Details:</b> <br>
 This webinar will cover:<br>
 <ul>
@@ -561,10 +561,10 @@ This webinar will discuss and demonstrate new features and data available in rel
 <b>Date:</b> Thursday June 4th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording link: </b><a href="https://youtu.be/kaQbEdtjIew" target="_blank">https://youtu.be/kaQbEdtjIew</a> <br> 
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/Handout1-Webinar-4-June-2020.pdf">Motifs and regular expressions 1</a><br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/Handout2-Webinar-4-June-2020.pdf">Motifs and regular expressions 2</a><br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/Handout3-Webinar-4-June-2020.pdf">Motifs and regular expressions 3</a><br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/Regular-Expressions-slides.pdf">Motifs and regular expressions presentation slides</a><br>
+<b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/Handout1-Webinar-4-June-2020.pdf">Motifs and regular expressions 1</a><br>
+<b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/Handout2-Webinar-4-June-2020.pdf">Motifs and regular expressions 2</a><br>
+<b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/Handout3-Webinar-4-June-2020.pdf">Motifs and regular expressions 3</a><br>
+<b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/Regular-Expressions-slides.pdf">Motifs and regular expressions presentation slides</a><br>
 <b>Additional Details:</b> <br>
 This webinar will describe the different available motif searches including regular expressions in VEuPathDB . Topics covered will include:
 <br>
@@ -583,7 +583,7 @@ This webinar will describe the different available motif searches including regu
 <b>Date:</b> Thursday May 28th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording Link: </b><a href="https://youtu.be/l5Uf49T9AF4" target="_blank">https://youtu.be/l5Uf49T9AF4</a> <br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/27May2020VEuPathDBWebinarfinal.pdf">Enrichment Analysis in VEuPathDB</a><br>
+<b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/27May2020VEuPathDBWebinarfinal.pdf">Enrichment Analysis in VEuPathDB</a><br>
 <b>Additional Details:</b> <br>
 This webinar will guide you through the process of running enrichment analyses in VEuPathDB. Topics covered will include:
 <br>
@@ -619,9 +619,9 @@ This webinar will guide you through the process of updating and fixing gene mode
 <b>Date:</b> Thursday May 14th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording Link: </b><a href="https://youtu.be/k15AJlZpNH8" target="_blank">https://youtu.be/k15AJlZpNH8</a> <br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/14May2020_How-to-set-an-account-in-VEuPathDB-Galaxy.pdf">How to set up an account in VEuPathDB Galaxy</a><br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/14May2020_RNA-sequence-data-analysis-in-VEuPathDB-Galaxy-Part-1.pdf">RNA sequence data analysis in VEuPathDB Galaxy Part 1</a><br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/14May2020_RNA-sequence-data-analysis-in-VEuPathDB-Galaxy-Part-2.pdf">RNA sequence data analysis in VEuPathDB Galaxy Part 2</a><br>
+<b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/14May2020_How-to-set-an-account-in-VEuPathDB-Galaxy.pdf">How to set up an account in VEuPathDB Galaxy</a><br>
+<b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/14May2020_RNA-sequence-data-analysis-in-VEuPathDB-Galaxy-Part-1.pdf">RNA sequence data analysis in VEuPathDB Galaxy Part 1</a><br>
+<b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/14May2020_RNA-sequence-data-analysis-in-VEuPathDB-Galaxy-Part-2.pdf">RNA sequence data analysis in VEuPathDB Galaxy Part 2</a><br>
 <b>Additional Details:</b> <br>
 This webinar will guide you through the process of running a workflow in galaxy and exporting the results to your VEuPathDB workspace.
 </div>
@@ -633,8 +633,8 @@ This webinar will guide you through the process of running a workflow in galaxy 
 <b>Date:</b> Thursday May 7th, 2020<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording Link: </b><a href="https://youtu.be/hmTzUUibSeY" target="_blank">https://youtu.be/hmTzUUibSeY</a> <br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/07May2020-Strategies-in-PlasmoDB.pdf">Building Strategies- example in PlasmoDB</a><br>
-<b>Handout: </b> <a href="https://community.eupathdb.org/documents/07May2020_Building-search-strategies-in-FungiDB.pdf">Building search strategies in FungiDB</a><br>
+<b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/07May2020-Strategies-in-PlasmoDB.pdf">Building Strategies- example in PlasmoDB</a><br>
+<b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/07May2020_Building-search-strategies-in-FungiDB.pdf">Building search strategies in FungiDB</a><br>
 <b>Additional Details:</b> <br>
 This webinar will guide you through the process of building search strategies in VEuPathDB resources. Topics covered will include:
 <br>
