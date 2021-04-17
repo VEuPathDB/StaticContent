@@ -36,17 +36,18 @@ div.centered-button a {
   <div class="apollo-layout">
     <div>
       <p>
-        Utilise Apollo to integrate new or update current structural and functional data for gene models in the organisms available in VEuPathDB. All organisms are available for community curation in the following data bases:  
-<a href="https://amoebadb.org/amoeba/app/search/organism/GenomeDataTypes/result">AmoebaDB</a>,    
-<a href="https://fungidb.org/fungidb/app/search/organism/GenomeDataTypes/result">FungiDB</a>,
-       <a href="https://giardiadb.org/giardiadb/app/search/organism/GenomeDataTypes/result">GiardiaDB</a>,
-<a href="https://microsporidiadb.org/micro/app/search/organism/GenomeDataTypes/result">MicrosporidiaDB</a>,
-<a href="https://piroplasmadb.org/piro/app/search/organism/GenomeDataTypes/result">PiroplasmaDB</a>,  
-<a href="https://plasmodb.org/plasmo/app/search/organism/GenomeDataTypes/result">PlasmoDB</a>,   
-<a href="https://toxodb.org/toxo/app/search/organism/GenomeDataTypes/result">ToxoDB</a> and
-       <a href="https://vectorbase.org/vectorbase/app/search/organism/GenomeDataTypes/result">VectorBase</a>.  
-       The genomes from other sites (CryptoDB, TrichDB and TriTrypDB) are coming in future releases.</p>
-      
+      Utilise Apollo to integrate new or update current structural and functional data for gene models in the organisms available in VEuPathDB. 
+All organisms in <a href="https://vectorbase.org/vectorbase/app/search/organism/GenomeDataTypes/result">VectorBase</a> are available for community curation. 
+A few selected species are also available from 
+<a href="https://amoebadb.org/amoeba/app/search/organism/GenomeDataTypes/result">AmoebaDB</a>, 
+<a href="https://cryptodb.org/cryptodb/app/search/organism/GenomeDataTypes/result">CryptoDB</a>, 
+<a href="https://plasmodb.org/plasmo/app/search/organism/GenomeDataTypes/result">PlasmoDB</a>, 
+<a href="https://piroplasmadb.org/piro/app/search/organism/GenomeDataTypes/result">PiroplasmaDB</a>, 
+<a href="https://toxodb.org/toxo/app/search/organism/GenomeDataTypes/result">ToxoDB</a> and 
+<a href="https://fungidb.org/fungidb/app/search/organism/GenomeDataTypes/result">FungiDB</a>; 
+more species from these and other VEuPathDB component sites coming in future releases.
+      </p>
+
       <p>
 Apollo help and documentation:
 <ul> 
