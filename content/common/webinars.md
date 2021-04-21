@@ -30,7 +30,8 @@ tags: [general]
   <div class="contents">
     
    <p><b>Tuesday April 20th, 2021:</b> <a href="#BRC4">The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR</a></p>
-   <p><b>Thursday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Aspergillus &  FungiDB</a></p>
+   <p><b>Tuesday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Aspergillus &  FungiDB</a></p>
+   <p><b>Thursday May 6th, 2021:</b> <a href="#microbiome2">Web-based analysis of 16S rRNA microbiome data using Nephele and MicrobiomeDB</a></p>
    <p><b>Tuesday May 18th, 2021:</b> <a href="#BRC5">The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</a></p>
    <p><b>Thursday May 20th, 2021:</b> <a href="#vect3">Exploring transcriptomic data in VectorBase</a></p>
    <p><b>Thursday May 27th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
@@ -110,6 +111,21 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=rc56f63b3a337eb29428a94f8c9234c07">https://jcvi.webex.com/jcvi/j.php?RGID=rc56f63b3a337eb29428a94f8c9234c07</a><br>
 <b>Additional Details:</b> This webinar will focus on <i>Aspergillus</i> pathogens and introduce users to
 bioinformatic resources available at FungiDB.
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="#microbiome2"></a></div>
+<div class="webinar">
+<b>Topic:</b> Web-based analysis of 16S rRNA microbiome data using Nephele and MicrobiomeDB<br>
+<b>Date:</b> Thursday May 6th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/6724668505171427856">https://attendee.gotowebinar.com/register/6724668505171427856</a><br>
+<b>Additional Details:</b> This webinar will focus on using web resources to analyze 16s rRNA microbiome, specifically:
+<ul>
+<li>Analyzing data in <a href="https://nephele.niaid.nih.gov/index">Nephele</a> - the National Institute of Allergy & Infectious Diseases microbiome analysis platform.</li>
+<li>Exploring Nephele analyzed data in <a href="https://microbiomedb.org/">MicrobiomeDB</a>.</li>
+</ul>
 <br>
 </div>
 
