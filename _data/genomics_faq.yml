@@ -10,56 +10,78 @@
   question: "How do I populate a strategy with my existing list of genes of interest?"
   answer: |
            First start a new strategy from the home page
-           > From the home page click on "Genes" > "Annotation, curation, and identifiers” > "Gene ID(s)" 
-           > Paste in your existing list of genes or upload a text file
-           > Click "Get Answer"
+           1. From the home page click on "Genes" > "Annotation, curation, and identifiers” > "Gene ID(s)" 
+           2. Paste in your existing list of genes or upload a text file
+           3. Click "Get Answer"
   uid: g2
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
   question: "How do I populate a strategy with all the genes in an organism?"
   answer: |
-           ClinEpiDB does not allow you to upload and analyze your own data. However, you can 
-           [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about having your own 
-           data loaded into the site.
+           First start a new strategy from the home page
+           1. From the home page click on "Genes" > "Taxonomy” > "Organism" 
+           2. Filter for your organism of interest 
+           3. Click "Get Answer"
   uid: g3
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
   question: "How do I submit data?"
   answer: |
-           To start, you should [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about 
-           having your data loaded into VEuPathDB. Tell us about the study objectives, design, and the platform(s) used.
+           Please visit: [data submission] (https://veupathdb.org/veupathdb/app/static-content/dataSubmission.html)
   uid: g4
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
   question: "How do I do an enrichment analysis on a list of genes by GO term or metabolic pathway?"
   answer: |
-           1. We ask all users to agree to our [Data Access and Use Policy](/documents/DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'}
-           2. Direct identifiers such as names and GPS coordinates are removed for all studies. Dates are obfuscated, locations are generalized, and additional indirect identifiers are removed or obfuscated as needed on a case-by-case basis. For some studies, subject IDs are re-assigned to break the link to the institution's copy of the data
-           3. Data access restrictions are implemented as needed (see [Data Access and Use Policy](/documents/DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'})
+           Start with a list of genes using an existing strategy, a list of genes you submit (link), or all the genes in a given organism (link)
+           1. click “Analyze results"
+           This will give you the option to run a variety of analyses on your list of genes
+           See the following worksheet to learn more: [GO enrichment] (https://static-content.veupathdb.org/documents/GO-Enrichment.pdf)
   uid: g5
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "How do I transform a list genes into homologs in a different organism?"
+  question: "How do I transform a list of genes into homologs in a different organism?"
   answer: |
-           Yes! If you intend to make data available, it's important to include that in your consent
-           forms and your IRB proposal. Our [IRB data sharing guidance](/documents/IRBDataSharingGuidance.pdf){:target='_blank'}
-           document contains a brief summary of what to consider when putting together an IRB proposal.
+           Start with a list of genes using an existing strategy, a list of genes you submit (link), or all the genes in a given organism (link)
+           1. Click "Add a step"
+           2. Choose "Transform"
+           3. Click "Orthologs"
+           4. Locate the species/strain that you want to transform your list of genes, into and tick it
+           5. Click "Run Step"
+           You will now have a list of genes in the new species (A) and corresponding list of homologue(s) in the input species (B).
   uid: g6
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "Download a list of genomic or amino acid sequences?"
+  question: "Download a list of genomic or amino acid sequences (one gene)?"
   answer: |
-           Yes! Our code is maintained using [Git](https://github.com/VEuPathDB?utf8=%E2%9C%93&q=ClinEpi&type=&language=){:target='_blank'}, 
-           and we welcome input from the community. For instance, check out our [Shiny app scripts](https://github.com/VEuPathDB/ClinEpiWebsite/tree/master/View/lib/R/shiny/apps){:target='_blank'}.
+           Start with list of genes using an existing strategy, a list of genes you submit (link), or all the genes in a given organism (link)
+           1. From the gene page of your gene of interest, select “Download Gene
+           2. Select “FASTA”
+           3. Select what kind of sequence you want
+           4. Select the region of sequence you want to download including sequences upstream and downstream of the coding region. Instructions at the bottom of the download page will guide you.
+           5. Click "Get Sequence"
   uid: g7
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: general
+  question: "Download a list of genomic or amino acid sequences (lots of genes)?"
+  answer: |
+           Start with list of genes using an existing strategy, a list of genes you submit (link), or all the genes in a given organism (link)
+           1. From the gene page of your gene of interest, select “Download Gene
+           2. Select ”FASTA
+           3. Select what kind of sequence you want
+           4. Select the region of sequences you want to download including sequences upstream and downstream of the coding region. Instructions at the bottom of the download page will guide you.
+           5. Click "Get Sequences"
+  uid: g8
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
   question: "How do I download a table with a list of genes including any field(s) from our gene pages (e.g., gene names and symbols)?"
   answer: |
-           We use the [VEuPathDB ontology](http://obofoundry.org/ontology/eupath.html){:target='_blank'}, which is an Open Biological and Biomedical Ontology (OBO) Foundry ontology, to increase data interoperability. As a part of ClinEpiDB data processing, every variable within a study is assigned to a unique ontology term. Each ontology term has its own identifier, called an Internationalized Resource Identifier (IRI). For each term, we create a user-friendly label, which is what you see displayed as the variable name on ClinEpiDB and in the download files. These labels are generally consistent across studies. We don't display IRIs on the website, but you can find them in the download files. They look like "EUPATH_0000120" or "PATO_0000047".
-
-           In our annotation we use the same ontology term in every study where the same variable was collected. For instance, information on participant sex was collected in all studies we have loaded so far, and you can find "Sex [PATO_0000047]"" in the download files for every study. To learn more, check out our general [Gates Open Research article](https://doi.org/10.12688/gatesopenres.13087.2){:target='_blank'} or our [article on using ontologies](https://pdfs.semanticscholar.org/888e/a51dbb138122d39c42f863f2a1ada7976db4.pdf){:target='_blank'}.
-  uid: g8
+           Start with a list of genes using an existing strategy, a list of genes you submit (link), or all the genes in a given organism (link) 
+           1. Click "Add Columns"
+           2. Add any relevant columns of data you wish
+           3. Click "Update Columns"
+           4. Click "Download"
+  uid: g9
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
   question: "How do I add a comment to a gene pages?"
