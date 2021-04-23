@@ -1,11 +1,4 @@
---- # clinepi faq page
-- type: general
-  question: "Introductory tour"
-  answer: |
-           The video below provides a short overview of the major features of VEuPathDB. 
-           <iframe style="margin-left:3em;margin-top:1em;" width="560" height="315" src="https://youtu.be/embed/VNqPk_epR58"></iframe>
-  uid: g1
-  projects: "ClinEpiDB,AllClinEpiDB"
+--- # genomics faq page
 - type: general
   question: "How do I populate a strategy with my existing list of genes of interest?"
   answer: |
@@ -86,64 +79,15 @@
 - type: general
   question: "How do I add a comment to a gene pages?"
   answer: |
-           There are currently 5 possible data access levels (public, controlled, protected, private, and prerelease). See the [Data Access and Use Policy](/a/app/static-content/ClinEpiDB/access_and_use.html){:target='_blank'} to learn more about the restrictions of each level.
-  uid: g9
+           Our user comment system links your expert knowledge to both gene and other records. Your comments are immediately integrated into the database and become searchable. Your comments will also guide our curators’ efforts.
+  uid: g10
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
   question: "How do I share my stragey /list of genes with someone else?"
   answer: |
-           Yes! Each study is assigned their own stable identifier that begins with 'DS_'. This identifier is present in all URLs associated with that study, including the Study page. For more information on how to cite the data for a study loaded in ClinEpiDB, see [How do I cite ClinEpiDB?](#g2)
-  uid: g10
-  projects: "ClinEpiDB,AllClinEpiDB"
-- type: general
-  question: "How do I cite VEuPathDB"
-  answer: |
-          How to cite <VectorBase, Plamo, Orhtomlc ....> most recent paper? 
-          How to reference an organism genome version (assembly and gene set)?
-          How to reference a VectorBase MapVEu (formely PopBio) project ID, VBP*?
-          How to cite a gene? 
-          How to submit data to <VectorBase, Plamo, ....> and otain IDs? 
+           Ensure you are logged in first
+           1. Click on the share icon
+           2. If necessary, you will be prompted to save your strategy before you can share. Click the share icon again.
+           A link will be provided that you can share. 
   uid: g11
-  projects: "ClinEpiDB,AllClinEpiDB"
-- type: using_site
-  question: "Create an account"
-  answer: |
-           1. Hover over the icon labeled 'Guest' in the top right-hand corner, then click 'Register'
-           2. Fill out the registration form then click the 'Register' button
-           3. A green text box should appear, indicating successful registration
-           4. Check your email to retrieve your temporary password
-
-           Note: You only need one account for all VEuPathDB websites. This means that if you have 
-           an account for other VEuPathDB resources such as PlasmoDB or MicrobiomeDB, you can log 
-           into ClinEpiDB with those credentials and vice versa.
-  uid: u1
-  projects: "ClinEpiDB,AllClinEpiDB"
-- type: using_site
-  question: "Change your password"
-  answer: |
-           1. Log in to your account
-           2. To access your account page, hover over the icon with your name beneath it in the top right-hand corner, then click your name in the window that appears
-           3. At the bottom of the 'My Account' page, click the blue 'Change your password' link
-           4. Complete the form and click 'Submit'
-           5. If you have successfully changed your password, green text will appear confirming the password change
-  uid: u2
-  projects: "ClinEpiDB,AllClinEpiDB"
-- type: using_site
-  question: "Find a variable within a study"
-  answer: |
-           1. Start a search for your study of interest 
-           2. Type into the search box at the top of the page. A drop down will apear listing 
-           all variables that include your keyword in the label, description, or values
-           3. Click a variable to jump directly to its data
-           <iframe style="margin-left:3em;margin-top:3em;" width="560" height="315" src="https://www.youtube.com/embed/nU0cWYyf62E"></iframe>
-  uid: u3
-  projects: "ClinEpiDB,AllClinEpiDB"
-- type: using_site
-  question: "Find a study of interest"
-  answer: |
-           1. Go to 'All Studies' under the 'Search a Study' drop-down menu
-           2. Type keywords such as country, disease, or sample type into the search box at the top of the page
-           3. Use the 'Add/Remove Columns' button to add columns to see more information, or click the link under 'Study' to see the Study page and learn more
-           <iframe style="margin-left:3em;margin-top:3em;" width="560" height="315" src="https://www.youtube.com/embed/UzT139ih5L0"></iframe>
-  uid: u4
   projects: "ClinEpiDB,AllClinEpiDB"
