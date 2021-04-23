@@ -7,7 +7,7 @@
            2. Paste in your existing list of genes or upload a text file
            3. Click "Get Answer"
   uid: g2
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: ""
 - type: general
   question: "How do I populate a strategy with all the genes in an organism?"
   answer: |
@@ -16,13 +16,13 @@
            2. Filter for your organism of interest 
            3. Click "Get Answer"
   uid: g3
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: ""
 - type: general
   question: "How do I submit data?"
   answer: |
            Please visit: [data submission] (https://veupathdb.org/veupathdb/app/static-content/dataSubmission.html)
   uid: g4
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: ""
 - type: general
   question: "How do I do an enrichment analysis on a list of genes by GO term or metabolic pathway?"
   answer: |
@@ -31,7 +31,7 @@
            This will give you the option to run a variety of analyses on your list of genes
            See the following worksheet to learn more: [GO enrichment] (https://static-content.veupathdb.org/documents/GO-Enrichment.pdf)
   uid: g5
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: ""
 - type: general
   question: "How do I transform a list of genes into homologs in a different organism?"
   answer: |
@@ -43,7 +43,7 @@
            5. Click "Run Step"
            You will now have a list of genes in the new species (A) and corresponding list of homologue(s) in the input species (B).
   uid: g6
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: ""
 - type: general
   question: "Download a list of genomic or amino acid sequences (one gene)?"
   answer: |
@@ -54,7 +54,7 @@
            4. Select the region of sequence you want to download including sequences upstream and downstream of the coding region. Instructions at the bottom of the download page will guide you.
            5. Click "Get Sequence"
   uid: g7
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: ""
 - type: general
   question: "Download a list of genomic or amino acid sequences (lots of genes)?"
   answer: |
@@ -65,7 +65,7 @@
            4. Select the region of sequences you want to download including sequences upstream and downstream of the coding region. Instructions at the bottom of the download page will guide you.
            5. Click "Get Sequences"
   uid: g8
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: ""
 - type: general
   question: "How do I download a table with a list of genes including any field(s) from our gene pages (e.g., gene names and symbols)?"
   answer: |
@@ -75,13 +75,13 @@
            3. Click "Update Columns"
            4. Click "Download"
   uid: g9
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: ""
 - type: general
   question: "How do I add a comment to a gene pages?"
   answer: |
            Our user comment system links your expert knowledge to both gene and other records. Your comments are immediately integrated into the database and become searchable. Your comments will also guide our curators’ efforts.
   uid: g10
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: ""
 - type: general
   question: "How do I share my stragey /list of genes with someone else?"
   answer: |
@@ -90,4 +90,4 @@
            2. If necessary, you will be prompted to save your strategy before you can share. Click the share icon again.
            A link will be provided that you can share. 
   uid: g11
-  projects: "ClinEpiDB,AllClinEpiDB"
+  projects: ""
