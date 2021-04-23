@@ -9,21 +9,10 @@
 - type: general
   question: "How do I populate a strategy with my existing list of genes of interest?"
   answer: |
-           If you want to cite ClinEpiDB directly, please use:
-
-           > Ruhamyankaka E, Brunk BP, Dorsey G *et al.* ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. [version 1; peer review: 2 approved]. *Gates Open Res* 2019, 3:1661 (<https://doi.org/10.12688/gatesopenres.13087.2>{:target='_blank'})
-
-           When citing a dataset that you accessed via ClinEpiDB, please include the dataset authors, 
-           study name, date of release and release number on ClinEpiDB, study page URL, and the fact that 
-           the data came from ClinEpiDB. For example, the citation for the PRISM Cohort study would be:
-
-           > Dorsey G, Kamya M, Greenhouse B, *et al.* Study: PRISM Cohort. *ClinEpiDB*. 2018, 5 (<https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e>{:target='_blank'})
-
-           You can find the information on the study page by clicking the study name on the homepage 
-           or on the dropdown 'Search a study' menu. The study name, release number, and release date 
-           are at the top of the page, while authors are listed in the 'Principal Investigator and 
-           Collaborators' table at the bottom of the page. You can also find links to original study 
-           publications, which you may want to cite.
+           First start a new strategy from the home page
+           > From the home page click on "Genes" > "Annotation, curation, and identifiers” > "Gene ID(s)" 
+           > Paste in your existing list of genes or upload a text file
+           > Click "Get Answer"
   uid: g2
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
