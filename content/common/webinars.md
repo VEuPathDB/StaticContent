@@ -29,8 +29,6 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
     
-
-   <p><b>Tuesday April 20th, 2021:</b> <a href="#BRC4">The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR</a></p>
    <p><b>Tuesday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Aspergillus &  FungiDB</a></p>
    <p><b>Thursday May 6th, 2021:</b> <a href="#microbiomedb2">Web-based analysis of 16S rRNA microbiome data using Nephele and MicrobiomeDB</a></p>
    <p><b>Tuesday May 18th, 2021:</b> <a href="#BRC5">The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</a></p>
@@ -48,7 +46,7 @@ tags: [general]
   <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
-   
+   <p><b>Tuesday April 20th, 2021:</b> <a href="#BRC4">The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR</a></p>
    <p><b>Thursday April 15th, 2021:</b> <a href="#vect2">Building complex search strategies in VectorBase</a></p>
    <p><b>Wednesday March 31th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p> 
    <p><b>Tuesday March 30th, 2021:</b> <a href="#BRC3">The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC</a></p>
@@ -89,19 +87,6 @@ tags: [general]
 <h3>Upcoming Webinars</h3>
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
-
-
-<hr>
-<div class="anchor"><a name="BRC4"></a></div>
-<div class="webinar">
-<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: RSV, Pneumoviridae & ViPR<br>
-<b>Date:</b> Tuesday April 20th, 2021<br>
-<b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r3305a49424c66191b85bc2d62611dc74">https://jcvi.webex.com/jcvi/j.php?RGID=r3305a49424c66191b85bc2d62611dc74</a> <br>
-<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
-bioinformatic resources available at the Virus Pathogen Resource.
-<br>
-</div>
 
 <hr>
 <div class="anchor"><a name="BRCfungi2"></a></div>
@@ -248,6 +233,19 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 <h3>Previous Webinars</h3>
 <div class="contents">
+
+
+<hr>
+<div class="anchor"><a name="BRC4"></a></div>
+<div class="webinar">
+<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: RSV, Pneumoviridae & ViPR<br>
+<b>Date:</b> Tuesday April 20th, 2021<br>
+<b>Time:</b> 11AM US Eastern Time<br>
+<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r3305a49424c66191b85bc2d62611dc74">https://jcvi.webex.com/jcvi/j.php?RGID=r3305a49424c66191b85bc2d62611dc74</a> <br>
+<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
+bioinformatic resources available at the Virus Pathogen Resource.
+<br>
+</div>
 
 <hr>
 <div class="anchor"><a name="vect2"></a></div>
