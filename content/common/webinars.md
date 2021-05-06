@@ -29,7 +29,6 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
     
-   <p><b>Tuesday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Aspergillus &  FungiDB</a></p>
    <p><b>Thursday May 6th, 2021:</b> <a href="#microbiomedb2">Web-based analysis of 16S rRNA microbiome data using Nephele and MicrobiomeDB</a></p>
    <p><b>Tuesday May 18th, 2021:</b> <a href="#BRC5">The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</a></p>
    <p><b>Thursday May 20th, 2021:</b> <a href="#vect3">Exploring transcriptomic data in VectorBase</a></p>
@@ -46,6 +45,7 @@ tags: [general]
   <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+   <p><b>Tuesday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Aspergillus &  FungiDB</a></p>
    <p><b>Tuesday April 20th, 2021:</b> <a href="#BRC4">The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR</a></p>
    <p><b>Thursday April 15th, 2021:</b> <a href="#vect2">Building complex search strategies in VectorBase</a></p>
    <p><b>Wednesday March 31th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p> 
@@ -87,18 +87,6 @@ tags: [general]
 <h3>Upcoming Webinars</h3>
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
-
-<hr>
-<div class="anchor"><a name="BRCfungi2"></a></div>
-<div class="webinar">
-<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Aspergillus and FungiDB<br>
-<b>Date:</b> Tuesday May 4th 2021<br>
-<b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=rc56f63b3a337eb29428a94f8c9234c07">https://jcvi.webex.com/jcvi/j.php?RGID=rc56f63b3a337eb29428a94f8c9234c07</a><br>
-<b>Additional Details:</b> This webinar will focus on <i>Aspergillus</i> pathogens and introduce users to
-bioinformatic resources available at FungiDB.
-<br>
-</div>
 
 <hr>
 <div class="anchor"><a name="#microbiomedb2"></a></div>
@@ -234,6 +222,17 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <h3>Previous Webinars</h3>
 <div class="contents">
 
+<hr>
+<div class="anchor"><a name="BRCfungi2"></a></div>
+<div class="webinar">
+<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Aspergillus and FungiDB<br>
+<b>Date:</b> Tuesday May 4th 2021<br>
+<b>Time:</b> 11AM US Eastern Time<br>
+<b>Recording Link:</b> <a href="https://youtu.be/jHDliZnjpS8">https://youtu.be/jHDliZnjpS8</a><br>
+<b>Additional Details:</b> This webinar will focus on <i>Aspergillus</i> pathogens and introduce users to
+bioinformatic resources available at FungiDB.
+<br>
+</div>
 
 <hr>
 <div class="anchor"><a name="BRC4"></a></div>
