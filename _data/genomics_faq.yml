@@ -6,7 +6,7 @@
            2. Paste in your existing list of genes or upload a text file
            3. Click "Get Answer"
             
-           <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "genomics_faq_images/faq_genomics_1.png" | absolute_url }}" alt="Searches"/>
+           <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/genomics_faq_images/faq_genomics_1.png" | absolute_url }}" alt="get geneIDs"/>
            <img src="/assets/images/genomics_faq_images/faq_genomics_1.png">
   uid: g1
   projects: ""
@@ -47,7 +47,7 @@
   uid: g6
   projects: ""
 - type: general
-  question: "Download a list of genomic or amino acid sequences (one gene)?"
+  question: "Download genomic or amino acid sequences (one gene)?"
   answer: |
            Start with list of genes using an existing strategy, a list of genes you submit (link), or all the genes in a given organism (link)
            1. From the gene page of your gene of interest, select “Download Gene
@@ -58,7 +58,7 @@
   uid: g7
   projects: ""
 - type: general
-  question: "Download a list of genomic or amino acid sequences (lots of genes)?"
+  question: "Download genomic or amino acid sequences (lots of genes)?"
   answer: |
            Start with list of genes using an existing strategy, a list of genes you submit (link), or all the genes in a given organism (link)
            1. From the gene page of your gene of interest, select “Download Gene
