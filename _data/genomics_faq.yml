@@ -1,15 +1,14 @@
 --- # genomics faq page
 - type: general
   question: "How do I populate a strategy with my existing list of genes of interest?"
-  answer: |
-           1. From the home page click on "Genes" > "Annotation, curation, and identifiers” > "Gene ID(s)" 
+  answer:  1. From the home page click on "Genes" > "Annotation, curation, and identifiers” > "Gene ID(s)" 
 
            2. Paste in your existing list of genes or upload a text file
 
            3. Click "Get Answer"
 
            <img src="/assets/images/genomics_faq_images/faq_genomics_1.png">
-  uid: g2
+  uid: g1
   projects: ""
 - type: general
   question: "How do I populate a strategy with all the genes in an organism?"
