@@ -7,6 +7,7 @@
            3. Click "Get Answer"
             
            <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/genomics_faq_images/faq_genomics_1.png" | absolute_url }}" alt="get geneIDs"/>
+           
            <img src="/assets/images/genomics_faq_images/faq_genomics_1.png">
   uid: g1
   projects: ""
@@ -28,10 +29,10 @@
 - type: general
   question: "How do I do an enrichment analysis on a list of genes by GO term or metabolic pathway?"
   answer: |
-           "Start with a list of genes using an existing strategy, a list of genes you submit (link), or all the genes in a given organism (link)
+           Start with a list of genes using an existing strategy, a list of genes you submit (link), or all the genes in a given organism (link)
            1. click “Analyze results"
            This will give you the option to run a variety of analyses on your list of genes
-           See the following worksheet to learn more: [GO enrichment] (https://static-content.veupathdb.org/documents/GO-Enrichment.pdf)"
+           See the following worksheet to learn more: [GO enrichment] (https://static-content.veupathdb.org/documents/GO-Enrichment.pdf)
   uid: g5
   projects: ""
 - type: general
