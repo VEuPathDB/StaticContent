@@ -3,10 +3,14 @@
   question: "How do I populate a strategy with my existing list of genes of interest?"
   answer: |
            First start a new strategy from the home page
-           1. From the home page click on "Genes" > "Annotation, curation, and identifiers” > "Gene ID(s)" 
-           2. Paste in your existing list of genes or upload a text file
-           3. Click "Get Answer"
-           <img src="/assets/images/genomics_faq_images/faq_genomics_1.png"/> 
+
+           > From the home page click on "Genes" > "Annotation, curation, and identifiers” > "Gene ID(s)" 
+
+           > Paste in your existing list of genes or upload a text file
+
+           > Click "Get Answer"
+
+           <img src="/assets/images/genomics_faq_images/faq_genomics_1.png"/>
   uid: g2
   projects: ""
 - type: general
