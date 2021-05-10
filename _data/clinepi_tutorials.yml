@@ -327,3 +327,11 @@
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: https://dash.nichd.nih.gov/
   date: "Jun 4, 2020"
+- type: resource
+  subtype: education
+  title: "The Epidemiologist R Handbook"
+  description: "R for applied epidemiology and public health"
+  uid: r28
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://epirhandbook.com/index.html
+  date: "May 10, 2021"
