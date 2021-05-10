@@ -19,6 +19,14 @@ category: [HostDB,VEuPathDB]
 <section>
   <h3> New data in HostDB 52</h3>
   <div style="margin-left: 3em;">
+    <h4>EBI Pipeline</h4>
+    {{project}} 52 represents the first release that employs the EBI pipeline for analyzing genomes and RNA-Seq data. (<a href="/a/app/static-content/methods.html">{{project}} Analysis Methods</a>) All genomes were run through the EBI pipeline, updating all analyses such as InterproScan and repeat identification.  While much of the EBI pipeline is the same as our previous in-house pipeline, these differences are noted:
+    <ul>
+      <li>Expression values calculated from RNA-Seq data are now presented as TPM (Transcripts Per Kilobase Million) instead of FPKM (Fragments Per Kilobase Million) or RPKM (Reads Per Kilobase Million). <a href="https://rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/" target="_blank">Learn more</a></li>
+      <li>Signal peptide predictions are now made with <a href="http://www.cbs.dtu.dk/services/SignalP-4.1/" target="_blank">SignalP-4.1</a>, updated from <a href="http://www.cbs.dtu.dk/services/SignalP-3.0/" target="_blank">SignalP-3.0</a>.</li>
+      <li>All pseudogenes now include automatically predicted UTRs.</li>
+    </ul>
+    <br>
     <h4>Transcriptomics</h4>
       <ul>
         <li><a href="/a/app/record/dataset/DS_e7dd67e2b3">PBMCs stimulated with live <i>Candida</i> spp. and their cell wall components</a> &ndash; RNA sequencing profiles of peripheral blood mononuclear cells stimulated for 4h and 24h with live <i>C. albicans</i> and <i>C. auris</i> and their cell wall components. <a href="http://www.ncbi.nlm.nih.gov/pubmed/32839538"> Bruno et al. 2020</a>. </li>
