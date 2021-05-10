@@ -1,0 +1,162 @@
+---
+categories: []
+layout: post
+title: PlasmoDB 51 Released
+category: [PlasmoDB,VEuPathDB]
+---
+{% assign project = page.category[0] %}
+
+
+<h3>We are pleased to announce the release of {{project}} 51.</h3>  
+
+<section>
+  <h3>Release 51 Webinar</h3>
+  <div style="margin-left: 3em;">
+    Join us on March 31, 2021 at 10am EDT for our Release 51 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 51.  
+    <a href="https://attendee.gotowebinar.com/register/8137280361730606607" target="_blank">Register here</a>  
+  </div>
+</section>
+
+
+<section>
+  <h3>New data in {{project}} 51</h3>
+  <div style="margin-left: 3em;">
+  <h4>EBI Pipeline</h4>
+    {{project}} 51 represents the first release that employs the EBI pipeline for analyzing genomes and RNA-Seq data. (<a href="/a/app/static-content/methods.html">{{project}} Analysis Methods</a>) All genomes were run through the EBI pipeline, updating all analyses such as InterproScan and repeat identification.  While much of the EBI pipeline is the same as our previous in-house pipeline, these differences are noted:
+    <ul>
+      <li>Expression values calculated from RNA-Seq data are now presented as TPM (Transcripts Per Kilobase Million) instead of FPKM (Fragments Per Kilobase Million) or RPKM (Reads Per Kilobase Million). <a href="https://rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/" target="_blank">Learn more</a></li>
+      <li>Signal peptide predictions are now made with <a href="http://www.cbs.dtu.dk/services/SignalP-4.1/" target="_blank">SignalP-4.1</a>, updated from <a href="http://www.cbs.dtu.dk/services/SignalP-3.0/" target="_blank">SignalP-3.0</a>.</li>
+      <li>All pseudogenes now include automatically predicted UTRs.</li>
+    </ul>
+    <br>
+  <h4>Genome Sequence and Annotation</h4>
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_baf7735a82"><i>Hepatocystis sp. ex Piliocolobus tephrosceles</i> 2019</a> Genome for <i>Hepatocystis</i> sp. using DNA sequencing reads from the blood of a naturally infected red colobus monkey. Annotated manually with the benefit of RNA-seq data. <a href="http://www.ncbi.nlm.nih.gov/pubmed/32745123">Aunin et al. 2020.</a>  The <a href="/a/app/record/dataset/DS_5137426106">Blood Stage Transcriptome</a> is also released in PlasmoDB 51 </li>
+    </ul>
+    <br>
+
+  <h4>Transcriptomics</h4>
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_fe2b5a278f">Intraerythrocytic development cycle transcriptome (2019)</a> &ndash; Blood-stage transcriptome determined by RNA-Seq analysis at 8 developmental stages including young ring stage (8 hpi), late ring stage/early trophozoite (16 hpi), mid-age trophozoite (24 hpi), late trophozoite (32 hpi), early schizont (40 hpi), schizont (44 hpi), late schizont (48 hpi) and purified merozoites (0 hpi). <a href="http://www.ncbi.nlm.nih.gov/pubmed/31363031" target="_blank">Wichers et al. 2019</a>.</li>
+      <li><a href="/a/app/record/dataset/DS_aae60e6bf7">Transcriptome in severe vs uncomplicated malaria</a> &ndash; RNA sequencing analysis of gene expression in 44  parasite isolates that caused severe or uncomplicated malaria in Papuan patients (23 severe, 21 uncomplicated cases). Data are aligned to <i>Plasmodium falciparum</i> 3D7. <a href="http://www.ncbi.nlm.nih.gov/pubmed/29529020" target="_blank">Tonkin-Hill et al. 2018</a>.</li>
+      <li><a href="/a/app/record/dataset/DS_5137426106">Blood Stage Transcriptome</a> &ndash; Transcriptome sequencing of <i>Hepatocystis sp. ex Piliocolobus tephrosceles</i> strain 2019 from a <i>Piliocolobus tephrosceles</i> blood sample was performed as part of the red colobus monkey genome sequencing project. <a href="http://www.ncbi.nlm.nih.gov/pubmed/32745123">Aunin et al. 2020.</a> </li>
+      <li><a href="/a/app/record/dataset/DS_7dae78ae0b">Transcriptome during early and mid-stage <i>P. berghei</i> liver infection</a> &ndash; Transcriptome sequencing (RNA-Seq) analysis throughout the Plasmodium berghei liver stage, covering as early as 2 hours post-infection (hpi) and extending to 48 hpi in HuH7 and HepG2 cells. <a href="http://www.ncbi.nlm.nih.gov/pubmed/32019802">Toro-Moreno et al.</a></li>
+    </ul>
+    <br>
+
+  <h4>ChIP-Sequence</h4>
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_fc3ee3e04e">Temporal pattern of H2A.Z, H3 and H3 modifications during asexual life cycle</a> &ndash; Epigenetic analysis of H2A.Z, H3, H3K18ac, H3K27ac, and H3K4me1 during the asexual life cycle - rings, schizonts and trophozoites in <i>Plasmodium falciparum</i> 3D7. <a href="https://pubmed.ncbi.nlm.nih.gov/33225957/">Tang et al. 2020</a> </li>
+    </ul>
+    <br>
+
+  <h4>Updated Functional Annotation</h4>
+        
+    <p><a href="https://docs.google.com/spreadsheets/d/1fhXxuuKRr25hTRxA4NLgksl6qDWbywyPMEcxblvuTM0/edit#gid=11127005" target="_blank">Summary of annotation updates</a>
+      which include products, GO terms, gene names, synonyms and PMID. Functional annotations in PlasmoDB 51 are current with the <a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2020-05/" target="_blank">GeneDB GFF versions from January 2021</a>. </p>
+
+    <p><i>P. falciparum</i> 3D7 now has annotated UTRs based on the following publication: <a href="https://pubmed.ncbi.nlm.nih.gov/32513207" target="_blank">https://pubmed.ncbi.nlm.nih.gov/32513207</a> </p>
+
+    <p><i>P. vivax</i> P01 now has annotated UTRs based on the following publication: <a href="https://pubmed.ncbi.nlm.nih.gov/33028892/" target="_blank">https://pubmed.ncbi.nlm.nih.gov/33028892</a></p>
+    
+    <style>
+       #FunctAnnot_Bld51 table, #FunctAnnot_Bld51 td, #FunctAnnot_Bld51 th, #FunctAnnot_Bld51 tr {
+       text-align : center;
+       padding-left: 5px;
+       padding-right: 5px;
+       padding-top: 5px;
+       padding-bottom: 5px;
+       border: 1px solid black;
+       }
+       #FunctAnnot_Bld51 {
+       margin-left : 5 em;
+       }
+     </style> 
+       <table id="FunctAnnot_Bld51"> 
+       <tr>
+         <th>PlasmoDB Genome Version</th>
+         <th>Download GeneDB GFF file</th>
+         <th>Genes Updated</th>
+       </tr>
+       <tr>
+         <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_f2d80510c7"><i>P. berghei</i> ANKA </a></td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Pberghei/">GeneDB version January 2021</a></td>
+         <td>122 genes</td>
+       </tr>
+       <tr>
+         <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_5dab6e4a9f"><i>P. chabaudi</i> AS </a></td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Pchabaudi/">GeneDB version January 2021</a></td>
+         <td>106 genes</td>
+       </tr>
+       <tr>
+         <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_1d17c1883c"><i>P. falciparum</i> 3D7 </a></td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Pfalciparum/">GeneDB version January 2021</a></td>
+         <td>187 genes</td>
+       </tr>
+       <tr>
+         <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_22b4dadc51"><i>P. gallinaceum</i> 8A </a></td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Pgallinaceum/">GeneDB version January 2021</a></td>
+         <td>102 genes</td>
+       </tr>
+       <tr>
+         <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_8793a259f4"><i>P. knowlesi</i> H </a></td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Pknowlesi/">GeneDB version January 2021</a></td>
+         <td>103 genes</td>
+       </tr>
+       <tr>
+         <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_3986a0b578"><i>P. malariae</i> UG01 </a></td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Pmalariae/">GeneDB version January 2021</a></td>
+         <td>102 genes</td>
+       </tr>
+       <tr>
+         <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_99a2d5bf10"><i>P. ovale curtisi</i> GH01 </a></td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Povale/">GeneDB version January 2021</a></td>
+         <td>103 genes</td>
+       </tr>
+       <tr>
+         <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_91fa338f8f"><i>P. reichenowi</i> CDC </a></td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Preichenowi/">GeneDB version January 2021</a></td>
+         <td>101 genes</td>
+       </tr>
+       <tr>
+         <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_c3f289d21a"><i>P. relictum</i> SGS1 </a></td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Prelictum/">GeneDB version January 2021</a></td>
+         <td>99 genes</td>
+       </tr>
+       <tr>
+         <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_ad07e73d42"><i>P. vivax</i> P01 </a></td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/PvivaxP01/">GeneDB version January 2021</a></td>
+         <td>106 genes</td>
+       </tr>
+       <tr>
+         <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_b5a76b5939"><i>P. yoelii yoelii</i> 17X </a></td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Pyoelii/">GeneDB version January 2021</a></td>
+         <td>107 genes</td>
+       </tr>
+       </table>
+<!--
+  <h4>Browser Tracks</h4>
+    <ul>
+      <li>UTR calls based on DAFT sequencing</li>
+      <li>Transcription start sites based on 5UTR seqencing</li>
+    </ul>
+    <br>
+-->
+    </div>
+</section>
+
+<section>
+  <h3>New features in {{project}} 51</h3>
+  <div style="margin-left: 3em;">
+   <ul>
+    <li><a href="/a/app/workspace/blast/new" target="_blank">BLAST<i><sup>beta</sup></i> tool</a> &ndash; a new BLAST tool with multi-BLAST capabilities.  Input a single sequence or several FASTA-formatted sequences at once.  Our tool uses NCBI BLAST to find genes, genomic sequences, ESTs, or PopSet Sequences that have BLAST similarity to your input sequence.  <a href="https://youtu.be/mEjt8FhC-W8" target="_blank">BLAST<i><sup>beta</sup></i> video introduction (4 min)</a>  </li>
+    <li><a href="https://static-content.veupathdb.org/documents/VEuPathDB_BRC4_usage_metrics_report.pdf">Usage</a> and <a href="https://static-content.veupathdb.org/documents/VEuPathDB_BRC4_performance_metrics_report.pdf">performance</a> metrics for VEuPathDB sites are now updated monthly.  </li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <aside>
+    <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>
