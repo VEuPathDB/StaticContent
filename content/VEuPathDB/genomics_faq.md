@@ -25,7 +25,7 @@ img {
 </style>
 
 <h1 id="FAQ">Frequently Asked Questions</h1>
-
+<br>
 <div class="static-content"> 
 
 <div id="general">
@@ -35,6 +35,7 @@ img {
       <details id="{{ item.uid }}">
         <summary>{{ item.question }}</summary>
         {{ item.answer | markdownify }}
+        <br>
       </details>
     {% endif %}
     {% unless forloop.last %}{% endunless %}{% endfor %}
