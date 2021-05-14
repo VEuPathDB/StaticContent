@@ -6,9 +6,9 @@
            2. Paste in your existing list of genes or upload a text file
            3. Click "Get Answer"
             
-           <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/genomics_faq_images/faq_genomics_1.png" | absolute_url }}" alt="get geneIDs"/>
+           <img src="{{ "/assets/images/genomics_faq_images/faq_genomics_1.png" | absolute_url }}" alt="get geneIDs" />
            
-           <img src="/assets/images/genomics_faq_images/faq_genomics_1.png">
+           <img src="/assets/images/genomics_faq_images/faq_genomics_1.png"  />
   uid: g1
   projects: ""
 - type: general
@@ -86,7 +86,7 @@
   uid: g10
   projects: ""
 - type: general
-  question: "How do I share my stragey /list of genes with someone else?"
+  question: "How do I share my strategy /list of genes with someone else?"
   answer: |
            Ensure you are logged in first
            1. Click on the share icon
