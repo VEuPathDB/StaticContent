@@ -6,7 +6,7 @@ permalink: /VEuPathDB/faq
 <style>
 div.static-content summary {
     font-size: 130%;
-    margin: 1em 1.5em;
+    margin: 0.25em 1.5em 1em;
     color: #069;
 }
 div.static-content li {
