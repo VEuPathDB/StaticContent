@@ -11,9 +11,11 @@ div.static-content summary {
 }
 div.static-content li {
     margin: 1em 2em;
+    font-size: 110%;
 }
 div.static-content p {
     margin: 1em 3.25em;
+    font-size: 110%;
 }
 img {
   width: 35em; 
