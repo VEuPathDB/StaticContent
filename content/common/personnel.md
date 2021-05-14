@@ -18,7 +18,7 @@ Brian Brunk, VEuPathDB Senior Manager<br>
 Andy Jones, Wellcome Trust PI; Co-I NIAID BRC Contract <br>
 George Christophides, Co-I, NIAID BRC Contract<br>
 Kathryn Crouch, Co-I, Wellcome Trust<br>
-Jeremy DeBarry, Project Coordinator<br>
+Jeremy DeBarry, Project Manager<br>
 Steve Fischer, Software and Infrastructure Manager<br>
 Paul Flicek, Co-I, NIAID BRC Contract<br>
 Omar Harb, Director of Scientific Outreach & Education<br>
