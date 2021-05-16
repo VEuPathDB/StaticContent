@@ -17,8 +17,7 @@ div.static-content p {
     margin: 1em 3.25em;
     font-size: 110%;
 }
-img {
-  width: 35em; 
+div.static-content.img {
   margin-top: .5em; 
   margin-left: 6em;
 }
