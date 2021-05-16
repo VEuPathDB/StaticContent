@@ -17,9 +17,12 @@ div.static-content p {
     margin: 1em 3.25em;
     font-size: 110%;
 }
-div.static-content.img {
+div.static-content img {
   margin-top: .5em; 
   margin-left: 6em;
+}
+div.static-content img#faq_genomics_1 {
+  width: 30em;
 }
 </style>
 
