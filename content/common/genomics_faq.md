@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Frequently Asked Questions
-permalink: /faq
+permalink: faq
 ---
 <style>
 div.static-content summary {
