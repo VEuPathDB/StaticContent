@@ -17,7 +17,7 @@
            2. Filter for your organism of interest 
            3. Click "Get Answer"
 
-           <img id="faq_genomics_1" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_2.png"  />
+           <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_2.png"  />
   uid: g3
   projects: ""
 - type: general
