@@ -30,9 +30,16 @@ category: [VectorBase,VEuPathDB]
   <h3>New features in {{project}} 52</h3>
   <div style="margin-left: 3em;">
    <ul>
-    <li><a href="/a/app/workspace/blast/new" target="_blank">BLAST<i><sup>beta</sup></i> tool</a> &ndash; a new BLAST tool with multi-BLAST capabilities.  Input a single sequence or several FASTA-formatted sequences at once.  Our tool uses NCBI BLAST to find genes, genomic sequences, ESTs, or PopSet Sequences that have BLAST similarity to your input sequence.  <a href="https://youtu.be/mEjt8FhC-W8" target="_blank">BLAST<i><sup>beta</sup></i> video introduction (4 min)</a>  </li>
-    <li><a href="https://static-content.veupathdb.org/documents/VEuPathDB_BRC4_usage_metrics_report.pdf">Usage</a> and <a href="https://static-content.veupathdb.org/documents/VEuPathDB_BRC4_performance_metrics_report.pdf">performance</a> metrics for VEuPathDB sites are now updated monthly.  </li>
-    <li>Community annotations made in {{project}} via Apollo are now represented on gene pages in the Gene Models graphic. In addition, links from the gene page to Apollo are offered to facilitate community annotations. <a href="{{'/assets/images/51-apollo-news.png' | absolute_url}}">Example image.</a>  Please see our <a href="https://youtu.be/RMXZDBMh8Fo" target="_blank">Apollo webinar</a> for instruction. </li>
+    <li>The gene pages of <a href="https://en.wikipedia.org/wiki/Pseudogene" target="_blank">pseudogenes</a> are modified to improved clarity: <a href="{{'/assets/images/pseudogene-page.png | absolute_url}}">(helpful image)</a>
+      <ul>
+        <li>The Transcripts table in the Gene Models section now indicates that no protein products are produced. </li>
+        <li>The exons in JBrowse views of pseudogenes are colored gray.  Blue represents genes on the forward strand and red represents genes on the reverse strand. </li>
+        <li>The Orthology and Synteny section indicates that orthology is not determined for pseudogenes.</li>
+        <li>Protein sequences are no longer available from the Sequences section.</li>
+      </ul>
+    </li>
+    <li> Reference organisms are indicated in the Organism parameter on search pages.  VEuPathDB reference organisms chooses a representative genome from each organism to align all sequence based data to the reference so that all data can be viewed and compared in the genome browser.  In some cases, data are aligned to the source organism in addition to the reference. (image)</li>
+    <li>The algorithm for transferring EC Numbers between orthologs is updated. The new algorithm blah</li>
     </ul>
   </div>
 </section>

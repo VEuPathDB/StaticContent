@@ -17,17 +17,21 @@ category: [CryptoDB,VEuPathDB]
 </section>
 
 <section>
-  <h3>New data in {{project}} 52</h3>
+  <h3>New features in {{project}} 52</h3>
   <div style="margin-left: 3em;">
-  <h4>EBI Pipeline</h4>
-    {{project}} 52 represents the first release that employs the EBI pipeline for analyzing genomes and RNA-Seq data. (<a href="/a/app/static-content/methods.html">{{project}} Analysis Methods</a>) All genomes were run through the EBI pipeline, updating all analyses such as InterproScan and repeat identification.  While much of the EBI pipeline is the same as our previous in-house pipeline, these differences are noted:
-    <ul>
-      <li>Expression values calculated from RNA-Seq data are now presented as TPM (Transcripts Per Kilobase Million) instead of FPKM (Fragments Per Kilobase Million) or RPKM (Reads Per Kilobase Million). <a href="https://rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/" target="_blank">Learn more</a></li>
-      <li>Signal peptide predictions are now made with <a href="http://www.cbs.dtu.dk/services/SignalP-4.1/" target="_blank">SignalP-4.1</a>, updated from <a href="http://www.cbs.dtu.dk/services/SignalP-3.0/" target="_blank">SignalP-3.0</a>.</li>
-      <li>All pseudogenes now include automatically predicted UTRs.</li>
+   <ul>
+    <li>The gene pages of <a href="https://en.wikipedia.org/wiki/Pseudogene" target="_blank">pseudogenes</a> are modified to improved clarity: <a href="{{'/assets/images/pseudogene-page.png | absolute_url}}">(helpful image)</a>
+      <ul>
+        <li>The Transcripts table in the Gene Models section now indicates that no protein products are produced. </li>
+        <li>The exons in JBrowse views of pseudogenes are colored gray.  Blue represents genes on the forward strand and red represents genes on the reverse strand. </li>
+        <li>The Orthology and Synteny section indicates that orthology is not determined for pseudogenes.</li>
+        <li>Protein sequences are no longer available from the Sequences section.</li>
+      </ul>
+    </li>
+    <li> Reference organisms are indicated in the Organism parameter on search pages.  VEuPathDB reference organisms chooses a representative genome from each organism to align all sequence based data to the reference so that all data can be viewed and compared in the genome browser.  In some cases, data are aligned to the source organism in addition to the reference. (image)</li>
+    <li>The algorithm for transferring EC Numbers between orthologs is updated. The new algorithm blah</li>
     </ul>
   </div>
-  <br>
 </section>
 
 <section>
