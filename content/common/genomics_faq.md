@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Frequently Asked Questions
-permalink: /VEuPathDB/faq
+permalink: /faq
 ---
 <style>
 div.static-content summary {
@@ -20,10 +20,9 @@ div.static-content p {
 div.static-content img {
   margin-top: .5em; 
   margin-left: 6em;
-}
-div.static-content img#faq_genomics_1 {
   width: 30em;
 }
+
 </style>
 
 <h1 id="FAQ">Frequently Asked Questions</h1>
