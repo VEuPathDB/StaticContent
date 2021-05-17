@@ -6,9 +6,7 @@
            2. Paste in your existing list of genes or upload a text file
            3. Click "Get Answer"
             
-           <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/genomics_faq_images/faq_genomics_1.png" | absolute_url }}" alt="get geneIDs"/>
-           
-           <img src="/assets/images/genomics_faq_images/faq_genomics_1.png">
+           <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_genomics_1.png"  />
   uid: g1
   projects: ""
 - type: general
@@ -18,12 +16,14 @@
            1. From the home page click on "Genes" > "Taxonomy” > "Organism" 
            2. Filter for your organism of interest 
            3. Click "Get Answer"
+
+           <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_2.png"  />
   uid: g3
   projects: ""
 - type: general
   question: "How do I submit data?"
   answer: |
-           Please visit: [data submission] (https://veupathdb.org/veupathdb/app/static-content/dataSubmission.html)
+           Please visit: [data submission](/a/app/static-content/dataSubmission.html)
   uid: g4
   projects: ""
 - type: general
@@ -32,7 +32,9 @@
            Start with a list of genes using an existing strategy, a list of genes you submit (link), or all the genes in a given organism (link)
            1. click “Analyze results"
            This will give you the option to run a variety of analyses on your list of genes
-           See the following worksheet to learn more: [GO enrichment] (https://static-content.veupathdb.org/documents/GO-Enrichment.pdf)
+           See the following worksheet to learn more: [GO enrichment](https://static-content.veupathdb.org/documents/GO-Enrichment.pdf)
+
+            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_3.png"  />  
   uid: g5
   projects: ""
 - type: general
@@ -45,6 +47,8 @@
            4. Locate the species/strain that you want to transform your list of genes, into and tick it
            5. Click "Run Step"
            You will now have a list of genes in the new species (A) and corresponding list of homologue(s) in the input species (B).
+
+           <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_4.png"  />  
   uid: g6
   projects: ""
 - type: general
@@ -56,6 +60,8 @@
            3. Select what kind of sequence you want
            4. Select the region of sequence you want to download including sequences upstream and downstream of the coding region. Instructions at the bottom of the download page will guide you.
            5. Click "Get Sequence"
+
+            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_5.png"  />  
   uid: g7
   projects: ""
 - type: general
@@ -67,6 +73,8 @@
            3. Select what kind of sequence you want
            4. Select the region of sequences you want to download including sequences upstream and downstream of the coding region. Instructions at the bottom of the download page will guide you.
            5. Click "Get Sequences"
+
+            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_6.png"  />  
   uid: g8
   projects: ""
 - type: general
@@ -77,20 +85,26 @@
            2. Add any relevant columns of data you wish
            3. Click "Update Columns"
            4. Click "Download"
+
+            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_7.png"  />  
   uid: g9
   projects: ""
 - type: general
   question: "How do I add a comment to a gene pages?"
   answer: |
            Our user comment system links your expert knowledge to both gene and other records. Your comments are immediately integrated into the database and become searchable. Your comments will also guide our curators’ efforts.
+
+            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_8.png"  />  
   uid: g10
   projects: ""
 - type: general
-  question: "How do I share my stragey /list of genes with someone else?"
+  question: "How do I share my strategy /list of genes with someone else?"
   answer: |
            Ensure you are logged in first
            1. Click on the share icon
            2. If necessary, you will be prompted to save your strategy before you can share. Click the share icon again.
            A link will be provided that you can share. 
+
+            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_9.png"  />  
   uid: g11
   projects: ""
