@@ -50,8 +50,8 @@ category: [ToxoDB,VEuPathDB]
         <li>Protein sequences are no longer available from the Sequences section.</li>
       </ul>
     </li>
-    <li> Reference organisms are indicated in the Organism parameter on search pages.  VEuPathDB reference organisms chooses a representative genome from each organism to align all sequence based data to the reference so that all data can be viewed and compared in the genome browser.  In some cases, data are aligned to the source organism in addition to the reference. (image)</li>
-    <li>The algorithm for transferring EC Numbers between orthologs is updated. The new algorithm blah</li>
+    <li>Reference organisms are indicated in the Organism parameter on search pages.  VEuPathDB chooses a representative genome from each species and aligns all functional genomics data to the reference.  In doing so, all data can be viewed and compared in the genome browser against the reference.  In some cases, data are aligned to the source organism in addition to the reference. (helpful image)</li>
+    <li>The algorithm for transferring EC Numbers between orthologs is updated. We previously predicted EC numbers, but now we offer scores and statistics to help users determine the confidence in this prediction. The new algorithm compares a gene's protein sequence to the protein sequences of other genes in the same ortholog group. A gene is inferred to receive a specific EC number based on how well its sequence matches genes in it's ortholog group that have already been assigned this EC number.</li>
     </ul>
   </div>
 </section>
