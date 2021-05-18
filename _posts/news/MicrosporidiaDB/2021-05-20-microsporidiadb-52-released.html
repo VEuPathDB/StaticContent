@@ -17,6 +17,19 @@ category: [MicrosporidiaDB,VEuPathDB]
 </section>
 
 <section>
+  <h3> New data in {{project}} 52</h3>
+  <div style="margin-left: 3em;">
+    <h4>EBI Pipeline</h4>
+    {{project}} 52 represents the first release that employs the EBI pipeline for analyzing genomes and RNA-Seq data. (<a href="/a/app/static-content/methods.html">{{project}} Analysis Methods</a>) All genomes were run through the EBI pipeline, updating all analyses such as InterproScan and repeat identification.  While much of the EBI pipeline is the same as our previous in-house pipeline, these differences are noted:
+    <ul>
+      <li>Expression values calculated from RNA-Seq data are now presented as TPM (Transcripts Per Kilobase Million) instead of FPKM (Fragments Per Kilobase Million) or RPKM (Reads Per Kilobase Million). <a href="https://rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/" target="_blank">Learn more</a></li>
+      <li>Signal peptide predictions are now made with <a href="http://www.cbs.dtu.dk/services/SignalP-4.1/" target="_blank">SignalP-4.1</a>, updated from <a href="http://www.cbs.dtu.dk/services/SignalP-3.0/" target="_blank">SignalP-3.0</a>.</li>
+      <li>All pseudogenes now include automatically predicted UTRs.</li>
+    </ul>
+  </div>
+</section>
+
+<section>
   <h3>New features in {{project}} 52</h3>
   <div style="margin-left: 3em;">
    <ul>
@@ -31,16 +44,6 @@ category: [MicrosporidiaDB,VEuPathDB]
     <li>Reference organisms are indicated in the Organism parameter on search pages.  VEuPathDB chooses a representative genome from each species and aligns all functional genomics data to the reference.  In doing so, all data can be viewed and compared in the genome browser against the reference.  In some cases, data are aligned to the source organism in addition to the reference. (helpful image)</li>
     <li>The algorithm for transferring EC Numbers between orthologs is updated. We previously predicted EC numbers, but now we offer scores and statistics to help users determine the confidence in this prediction. The new algorithm compares a gene's protein sequence to the protein sequences of other genes in the same ortholog group. A gene is inferred to receive a specific EC number based on how well its sequence matches genes in it's ortholog group that have already been assigned this EC number.</li>
     <li>Community annotations made in {{project}} via Apollo are now represented on gene pages in the Gene Models graphic. In addition, links from the gene page to Apollo are offered to facilitate community annotations. <a href="{{'/assets/images/51-apollo-news.png' | absolute_url}}">Example image.</a>  Please see our <a href="https://youtu.be/RMXZDBMh8Fo" target="_blank">Apollo webinar</a> for instruction. </li>
-    </ul>
-  </div>
-</section>
-
-<section>
-  <h3>New features in {{project}} 52</h3>
-  <div style="margin-left: 3em;">
-   <ul>
-    <li><a href="/a/app/workspace/blast/new" target="_blank">BLAST<i><sup>beta</sup></i> tool</a> &ndash; a new BLAST tool with multi-BLAST capabilities.  Input a single sequence or several FASTA-formatted sequences at once.  Our tool uses NCBI BLAST to find genes, genomic sequences, ESTs, or PopSet Sequences that have BLAST similarity to your input sequence.  <a href="https://youtu.be/mEjt8FhC-W8" target="_blank">BLAST<i><sup>beta</sup></i> video introduction (4 min)</a>  </li>
-    <li><a href="https://static-content.veupathdb.org/documents/VEuPathDB_BRC4_usage_metrics_report.pdf">Usage</a> and <a href="https://static-content.veupathdb.org/documents/VEuPathDB_BRC4_performance_metrics_report.pdf">performance</a> metrics for VEuPathDB sites are now updated monthly.  </li>
     </ul>
   </div>
 </section>
