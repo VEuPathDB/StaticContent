@@ -35,7 +35,7 @@ title: VEuPathDB landing
 <div class="static-content flex-container">
 
   <div>
-    <h3>FAQ</h3>
+    <h3>FAQs</h3>
     <p>Quick answers to your questions!</p>
     <button><a href="/a/app/static-content/faq.html">Explore</a></button>
   </div>
