@@ -5,9 +5,6 @@ permalink: /webinars
 tags: [general]
 ---
 <style>
-  h1 {
-    font-size: 2.5em;
-  }
   div.contents {
     margin-left: 1em;
     margin-bottom: 1em;
