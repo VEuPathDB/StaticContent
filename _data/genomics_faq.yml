@@ -150,4 +150,15 @@
   uid: g13
   projects: ""
   
+  - type: general
+  question: "How to reference a MapVEu (formely PopBio) project ID, VBP*?"
+  answer: |
+           Here is an example from one of our users: 
+           
+           [IMAGE GOES HERE]
+           
+           Gloria-Soria, A., Lima, A., Lovin, D. D., Cunningham, J. M., Severson, D. W., & Powell, J. R. (2018). Origin of a High-Latitude Population of Aedes aegypti in Washington, DC. The American journal of tropical medicine and hygiene, 98(2), 445–452. <a href="https://doi.org/10.4269/ajtmh.17-0676">https://doi.org/10.4269/ajtmh.17-0676</a>
+           
+  uid: g13
+  projects: ""
 
