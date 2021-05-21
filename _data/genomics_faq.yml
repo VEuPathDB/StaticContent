@@ -1,4 +1,5 @@
 --- # genomics faq page
+
 - type: general
   question: "How do I populate a strategy with my existing list of genes of interest?"
   answer: |
@@ -108,3 +109,19 @@
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_9.png"  />  
   uid: g11
   projects: ""
+  
+  - type: general
+  question: "How to cite a genome assembly and/or gene set"
+  answer: |
+           <p>VectorBase, <a href="https://www.vectorbase.org/">www.vectorbase.org</a> (VectorBase most recent paper), &lt;Species_name&gt;&lt;isolate/strain&gt;  &lt;Assembly, Gene set&gt;.
+</p> 
+
+          <p><b>Worked example</b>
+<p>For example if you want to reference your usage of the <i>Anopheles gambiae</i> AgamP4.12 set of predictions you would use:
+</p> 
+<div style="width: 60%; background: #f5f5f5; border: 1px solid #ccc; padding: 4px 6px 4px 6px; -moz-border-radius: 10px;-webkit-border-radius: 10px;"> 
+<p>VectorBase, <a href="https://vectorbase.org/vectorbase/app">www.vectorbase.org</a> (Giraldo-Calderón et al 2015), <i>Anopheles gambiae</i> PEST, AgamP4.13.
+</p> 
+  uid: g12
+  projects: ""
+
