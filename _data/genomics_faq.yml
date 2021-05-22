@@ -8,7 +8,7 @@
            3. Click "Get Answer"
             
            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_genomics_1.png"  />
-  uid: ListOfMyGenes
+  uid: listgenesinterest
   projects: ""
 - type: general
   question: "How do I populate a strategy with all the genes in an organism?"
@@ -19,29 +19,29 @@
            3. Click "Get Answer"
 
            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_2.png"  />
-  uid: AllGenesInOrg
+  uid: allgenesorganism
   projects: ""
 - type: general
   question: "How do I submit data?"
   answer: |
            Please visit: [data submission](/a/app/static-content/dataSubmission.html)
-  uid: g3
+  uid: Howsubmitdata
   projects: ""
 - type: general
   question: "How do I do an enrichment analysis on a list of genes by GO term or metabolic pathway?"
   answer: |
-           Start with a list of genes using an existing strategy, a list of genes you submit (see above), or all the genes in a given organism (see above)
+           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes) or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
            1. click “Analyze results"
            This will give you the option to run a variety of analyses on your list of genes
            See the following worksheet to learn more: [GO enrichment](https://static-content.veupathdb.org/documents/GO-Enrichment.pdf)
 
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_3.png"  />  
-  uid: g4
+  uid: termmetabolicpathway
   projects: ""
 - type: general
   question: "How do I transform a list of genes into homologs in a different organism?"
   answer: |
-           Start with a list of genes using an existing strategy, a list of genes you submit (see above), or all the genes in a given organism (see above)
+           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes) or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
            1. Click "Add a step"
            2. Choose "Transform"
            3. Click "Orthologs"
@@ -50,12 +50,12 @@
            You will now have a list of genes in the new species (A) and corresponding list of homologue(s) in the input species (B).
 
            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_4.png"  />  
-  uid: g5
+  uid: homologsdifferentorganism
   projects: ""
 - type: general
   question: "Download genomic or amino acid sequences (one gene)?"
   answer: |
-           Start with list of genes using an existing strategy, [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes), or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
+           Start with list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes) or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
            1. From the gene page of your gene of interest, select “Download Gene
            2. Select “FASTA”
            3. Select what kind of sequence you want
@@ -63,12 +63,12 @@
            5. Click "Get Sequence"
 
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_5.png"  />  
-  uid: g6
+  uid: sequencesonegene
   projects: ""
 - type: general
   question: "Download genomic or amino acid sequences (lots of genes)?"
   answer: |
-           Start with list of genes using an existing strategy, [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes), or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
+           Start with list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes) or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
            1. From the gene page of your gene of interest, select “Download Gene
            2. Select ”FASTA
            3. Select what kind of sequence you want
@@ -76,19 +76,19 @@
            5. Click "Get Sequences"
 
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_6.png"  />  
-  uid: g7
+  uid: sequenceslotsgenes
   projects: ""
 - type: general
   question: "How do I download a table with a list of genes including any field(s) from our gene pages (e.g., gene names and symbols)?"
   answer: |
-           Start with a list of genes using an existing strategy, [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes), or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
+           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes) or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
            1. Click "Add Columns"
            2. Add any relevant columns of data you wish
            3. Click "Update Columns"
            4. Click "Download"
 
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_7.png"  />  
-  uid: g8
+  uid: namesandsymbol
   projects: ""
 - type: general
   question: "How do I add a comment to a gene pages?"
@@ -96,7 +96,7 @@
            Our user comment system links your expert knowledge to both gene and other records. Your comments are immediately integrated into the database and become searchable. Your comments will also guide our curators’ efforts.
 
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_8.png"  />  
-  uid: g9
+  uid: commentgenepages
   projects: ""
 - type: general
   question: "How do I share my strategy /list of genes with someone else?"
@@ -107,7 +107,7 @@
            A link will be provided that you can share. 
 
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_9.png"  />  
-  uid: g10
+  uid: withsomeoneelse
   projects: ""
   
   - type: general
