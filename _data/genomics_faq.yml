@@ -109,63 +109,45 @@
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_9.png"  />  
   uid: withsomeoneelse
   projects: ""
-  
-  - type: general
+- type: general
   question: "How to cite a genome assembly and/or gene set?"
   answer: |
-  
-           If you use any of the genomes from VEuPathDB genomic sites, when citing them in your work please provide their complete scientific name, strain, assembly, and gene set version, together with the most recent publication that corresponds, as shown in the FAQ "How to cite a VEuPathDB site?"
-           
-              <p><b>Template</b>
-           <p>VectorBase, <a href="https://vectorbase.org/vectorbase/app/">vectorbase.org</a> (VectorBase most recent paper), &lt;Species_name&gt;&lt;isolate/strain&gt;  &lt;Assembly, Gene set&gt;.
-</p> 
+           If you use any of the genomes from VEuPathDB genomic sites, when citing them in your work please provide their complete scientific name, strain, assembly, and gene set version, together with the most recent publication that corresponds, as shown in the FAQ "How to cite a VEuPathDB site?"         
 
-          <p><b>Worked example</b>
-<p>For example if you want to reference your usage of the <i>Anopheles gambiae</i> AgamP4.12 set of predictions you would use:
-</p> 
-<div style="width: 60%; background: #f5f5f5; border: 1px solid #ccc; padding: 4px 6px 4px 6px; -moz-border-radius: 10px;-webkit-border-radius: 10px;"> 
-<p>VectorBase, <a href="https://vectorbase.org/vectorbase/app">www.vectorbase.org</a> (Giraldo-Calderón et al 2015), <i>Anopheles gambiae</i> PEST, AgamP4.13.</p> 
-  uid: g11
+           <p><b>Template</b>
+           <p>VectorBase, <a href="https://vectorbase.org/vectorbase/app/">vectorbase.org</a> (VectorBase most recent paper), &lt;Species_name&gt;&lt;isolate/strain&gt;  &lt;Assembly, Gene set&gt;.</p>
+           <p><b>Worked example</b>
+           <p>For example if you want to reference your usage of the <i>Anopheles gambiae</i> AgamP4.12 set of predictions you would use:</p>
+           <div style="width: 60%; background: #f5f5f5; border: 1px solid #ccc; padding: 4px 6px 4px 6px; -moz-border-radius: 10px;-webkit-border-radius: 10px;">
+           <p>VectorBase, <a href="https://vectorbase.org/vectorbase/app">www.vectorbase.org</a> (Giraldo-Calderón et al 2015), <i>Anopheles gambiae</i> PEST, AgamP4.13.</p>
+  uid: cite-genome-assembly
   projects: ""
-  
-  - type: general
+- type: general
   question: "How to cite a VEuPathDB site?"
   answer: |
-          <p align="justify">If you use VEuPathDB data, tools or resources, we invite you to please cite our most recent publication, for your database of interest:
-
-<p>Aurrecoechea, C., Barreto, A., Basenko, E. Y., Brestelli, J., Brunk, B. P., Cade, S., Crouch, K., Doherty, R., Falke, D., Fischer, S., Gajria, B., Harb, O. S., Heiges, M., Hertz-Fowler, C., Hu, S., Iodice, J., Kissinger, J. C., Lawrence, C., Li, W., Pinney, D. F., … Zheng, J. (2017). <b>EuPathDB</b>: the eukaryotic pathogen genomics database resource. Nucleic acids research, 45(D1), D581–D591. <a href="https://doi.org/10.1093/nar/gkw1105">https://doi.org/10.1093/nar/gkw1105</a></p>
-
-<p>Basenko, E. Y., Pulman, J. A., Shanmugasundram, A., Harb, O. S., Crouch, K., Starns, D., Warrenfeltz, S., Aurrecoechea, C., Stoeckert, C. J., Jr, Kissinger, J. C., Roos, D. S., & Hertz-Fowler, C. (2018). <b>FungiDB</b>: An Integrated Bioinformatic Resource for Fungi and Oomycetes. Journal of fungi (Basel, Switzerland), 4(1), 39. <a href="https://doi.org/10.3390/jof4010039">https://doi.org/10.3390/jof4010039</a></p>
-
-<p>Fischer, S., Brunk, B. P., Chen, F., Gao, X., Harb, O. S., Iodice, J. B., Shanmugam, D., Roos, D. S., & Stoeckert, C. J., Jr (2011). Using OrthoMCL to assign proteins to <b>OrthoMCL-DB</b> groups or to cluster proteomes into new ortholog groups. Current protocols in bioinformatics, Chapter 6, Unit–6.12.19. <a href="https://doi.org/10.1002/0471250953.bi0612s35">https://doi.org/10.1002/0471250953.bi0612s35</a></p>
-
-<p>Giraldo-Calderón, G. I., Emrich, S. J., MacCallum, R. M., Maslen, G., Dialynas, E., Topalis, P., Ho, N., Gesing, S., VectorBase Consortium, Madey, G., Collins, F. H., & Lawson, D. (2015). <b>VectorBase</b>: an updated bioinformatics resource for invertebrate vectors and other organisms related with human diseases. Nucleic acids research, 43(Database issue), D707–D713. <a href="https://doi.org/10.1093/nar/gku1117">https://doi.org/10.1093/nar/gku1117</a></p>
-
-<p>Oliveira, F. S., Brestelli, J., Cade, S., Zheng, J., Iodice, J., Fischer, S., Aurrecoechea, C., Kissinger, J. C., Brunk, B. P., Stoeckert, C. J., Jr, Fernandes, G. R., Roos, D. S., & Beiting, D. P. (2018). <b>MicrobiomeDB</b>: a systems biology platform for integrating, mining and analyzing microbiome experiments. Nucleic acids research, 46(D1), D684–D691. <a href="https://doi.org/10.1093/nar/gkx1027">https://doi.org/10.1093/nar/gkx1027</a></p>
-
-<p>Ruhamyankaka, E., Brunk, B. P., Dorsey, G., Harb, O. S., Helb, D. A., Judkins, J., Kissinger, J. C., Lindsay, B., Roos, D. S., San, E. J., Stoeckert, C. J., Zheng, J., & Tomko, S. S. (2020). <b>ClinEpiDB</b>: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. Gates open research, 3, 1661. <a href="https://doi.org/10.12688/gatesopenres.13087.2">https://doi.org/10.12688/gatesopenres.13087.2</a></p>
-
-<p>Older publications for each VEuPathDB site can be found <a href="https://veupathdb.org/veupathdb/app/static-content/veupathPubs.html">here.</p>
-
+           <p align="justify">If you use VEuPathDB data, tools or resources, we invite you to please cite our most recent publication, for your database of interest:
+           <p>Aurrecoechea, C., Barreto, A., Basenko, E. Y., Brestelli, J., Brunk, B. P., Cade, S., Crouch, K., Doherty, R., Falke, D., Fischer, S., Gajria, B., Harb, O. S., Heiges, M., Hertz-Fowler, C., Hu, S., Iodice, J., Kissinger, J. C., Lawrence, C., Li, W., Pinney, D. F., … Zheng, J. (2017). <b>EuPathDB</b>: the eukaryotic pathogen genomics database resource. Nucleic acids research, 45(D1), D581–D591. <a href="https://doi.org/10.1093/nar/gkw1105">https://doi.org/10.1093/nar/gkw1105</a></p>
+           <p>Basenko, E. Y., Pulman, J. A., Shanmugasundram, A., Harb, O. S., Crouch, K., Starns, D., Warrenfeltz, S., Aurrecoechea, C., Stoeckert, C. J., Jr, Kissinger, J. C., Roos, D. S., & Hertz-Fowler, C. (2018). <b>FungiDB</b>: An Integrated Bioinformatic Resource for Fungi and Oomycetes. Journal of fungi (Basel, Switzerland), 4(1), 39. <a href="https://doi.org/10.3390/jof4010039">https://doi.org/10.3390/jof4010039</a></p>
+           <p>Fischer, S., Brunk, B. P., Chen, F., Gao, X., Harb, O. S., Iodice, J. B., Shanmugam, D., Roos, D. S., & Stoeckert, C. J., Jr (2011). Using OrthoMCL to assign proteins to <b>OrthoMCL-DB</b> groups or to cluster proteomes into new ortholog groups. Current protocols in bioinformatics, Chapter 6, Unit–6.12.19. <a href="https://doi.org/10.1002/0471250953.bi0612s35">https://doi.org/10.1002/0471250953.bi0612s35</a></p>
+           <p>Giraldo-Calderón, G. I., Emrich, S. J., MacCallum, R. M., Maslen, G., Dialynas, E., Topalis, P., Ho, N., Gesing, S., VectorBase Consortium, Madey, G., Collins, F. H., & Lawson, D. (2015). <b>VectorBase</b>: an updated bioinformatics resource for invertebrate vectors and other organisms related with human diseases. Nucleic acids research, 43(Database issue), D707–D713. <a href="https://doi.org/10.1093/nar/gku1117">https://doi.org/10.1093/nar/gku1117</a></p>
+           <p>Oliveira, F. S., Brestelli, J., Cade, S., Zheng, J., Iodice, J., Fischer, S., Aurrecoechea, C., Kissinger, J. C., Brunk, B. P., Stoeckert, C. J., Jr, Fernandes, G. R., Roos, D. S., & Beiting, D. P. (2018). <b>MicrobiomeDB</b>: a systems biology platform for integrating, mining and analyzing microbiome experiments. Nucleic acids research, 46(D1), D684–D691. <a href="https://doi.org/10.1093/nar/gkx1027">https://doi.org/10.1093/nar/gkx1027</a></p>
+           <p>Ruhamyankaka, E., Brunk, B. P., Dorsey, G., Harb, O. S., Helb, D. A., Judkins, J., Kissinger, J. C., Lindsay, B., Roos, D. S., San, E. J., Stoeckert, C. J., Zheng, J., & Tomko, S. S. (2020). <b>ClinEpiDB</b>: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. Gates open research, 3, 1661. <a href="https://doi.org/10.12688/gatesopenres.13087.2">https://doi.org/10.12688/gatesopenres.13087.2</a></p>
+           <p>Older publications for each VEuPathDB site can be found <a href="https://veupathdb.org/veupathdb/app/static-content/veupathPubs.html">here.</p>
   uid: g12
   projects: ""
-  
-  - type: general
+- type: general
   question: "How to reference a MapVEu (formely PopBio) project ID, VBP*?"
   answer: |
-           Here is an example from one of our users: 
-           
+           Here is an example from one of our users:
+
            [IMAGE GOES HERE]
-           
+
            Gloria-Soria, A., Lima, A., Lovin, D. D., Cunningham, J. M., Severson, D. W., & Powell, J. R. (2018). Origin of a High-Latitude Population of Aedes aegypti in Washington, DC. The American journal of tropical medicine and hygiene, 98(2), 445–452. <a href="https://doi.org/10.4269/ajtmh.17-0676">https://doi.org/10.4269/ajtmh.17-0676</a>
-           
   uid: g13
   projects: ""
-  
-   - type: general
+- type: general
   question: "How to cite a gene? Why we recomend gene stable ID in addition to gene metadata"
   answer: |
-           Gene metadata are the gene name or symbol and the gene functional description. The gene stable IDs are, not only stable (as implied by their name), also easier to work with, as you can upload them in GLORIA WORK IN PROFGRESS ...    
+           Gene metadata are the gene name or symbol and the gene functional description. The gene stable IDs are, not only stable (as implied by their name), also easier to work with, as you can upload them in GLORIA WORK IN PROFGRESS ...
   uid: g14
   projects: ""
-
