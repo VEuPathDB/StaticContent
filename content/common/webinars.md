@@ -94,7 +94,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> Release 52 Webinar<br>
 <b>Date:</b> Thursday May 27th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> https://register.gotowebinar.com/register/8223585429100223502<br>
+<b>Registration:</b> <a href="https://register.gotowebinar.com/register/8223585429100223502"https://register.gotowebinar.com/register/8223585429100223502></a><br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 52 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
