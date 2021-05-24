@@ -36,8 +36,8 @@ div.centered-button a {
   <div class="apollo-layout">
     <div>
       <p>
-      Utilise Apollo to integrate new or update current structural and functional data for gene models in the organisms available in VEuPathDB. 
-All organisms in all <a href="https://veupathdb.org/veupathdb/app/search/organism/GenomeDataTypes/result">VEuPathDB</a> genomic sites are available for community curation.
+      Use Apollo to integrate new or update current structural and functional data, for gene models in the organisms available in VEuPathDB. 
+All organisms in all 11 <a href="https://veupathdb.org/veupathdb/app/search/organism/GenomeDataTypes/result">VEuPathDB</a> genomic sites are available for community curation: AmoebaDB, CryptoDB, FungiDB, GiardiaDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB & VectorBase. 
       </p>
 
       <p>
