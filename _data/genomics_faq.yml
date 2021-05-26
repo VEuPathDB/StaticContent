@@ -108,3 +108,15 @@
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_9.png"  />  
   uid: g11
   projects: ""
+- type: general
+  question: "How do I download a sequence in FASTA format from a region of interest in JBrowse?"
+  answer: |
+           1. Make sure the “annotated transcripts” and the “reference sequence” tracks are turned on
+           2. Click on the “highlight a region” button in the navigation bar. It should turn yellow when activated
+           3. Click and drag in the genome view region and select the area you would like to highlight (tip: highlight region from within annotation track)
+           4. Click on the down arrow on the reference sequence track and select “Save track data”
+           5. In the next popup window you can keep everything as the default and either save or view the sequence
+            
+            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/genomics_faq_14.png"  />
+  uid: fastaformat
+  projects: ""
