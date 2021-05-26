@@ -181,7 +181,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <b>Topic:</b> Exploring transcriptomic data in VectorBase<br>
 <b>Date:</b> Thursday May 20th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link:</b> <a href="">coming soon!</a><br>
+<b>Recording Link:</b> <a href="https://youtu.be/Sp7GAjSgDPs">https://youtu.be/Sp7GAjSgDPs</a><br>
 <b>Additional Details:</b> This webinar describe how transcriptomic data including:
 <ul>
 <li>Exploring RNAseq searches</li>
