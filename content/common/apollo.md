@@ -36,17 +36,8 @@ div.centered-button a {
   <div class="apollo-layout">
     <div>
       <p>
-      Utilise Apollo to integrate new or update current structural and functional data for gene models in the organisms available in VEuPathDB. 
-All organisms in <a href="https://vectorbase.org/vectorbase/app/search/organism/GenomeDataTypes/result">VectorBase</a> are available for community curation. 
-A few selected species are also available from 
-<a href="https://amoebadb.org/amoeba/app/search/organism/GenomeDataTypes/result">AmoebaDB</a>, 
-<a href="https://cryptodb.org/cryptodb/app/search/organism/GenomeDataTypes/result">CryptoDB</a>, 
-<a href="https://plasmodb.org/plasmo/app/search/organism/GenomeDataTypes/result">PlasmoDB</a>, 
-<a href="https://piroplasmadb.org/piro/app/search/organism/GenomeDataTypes/result">PiroplasmaDB</a>, 
-<a href="https://toxodb.org/toxo/app/search/organism/GenomeDataTypes/result">ToxoDB</a> and 
-<a href="https://fungidb.org/fungidb/app/search/organism/GenomeDataTypes/result">FungiDB</a>; 
-more species from these and other <a href="https://veupathdb.org/veupathdb/app/search/organism/GenomeDataTypes/result">VEuPathDB</a> component sites coming in future releases.
-      </p>
+      Use Apollo to integrate new or update current structural and functional data, for gene models in the organisms available in <a href="https://veupathdb.org/veupathdb/app/search/organism/GenomeDataTypes/result">VEuPathDB</a>. 
+Organisms in AmoebaDB, CryptoDB, FungiDB, GiardiaDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB & VectorBase are available for community curation.</p>
 
       <p>
 Apollo help and documentation:
