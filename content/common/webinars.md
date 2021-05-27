@@ -5,9 +5,6 @@ permalink: /webinars
 tags: [general]
 ---
 <style>
-  h1 {
-    font-size: 2.5em;
-  }
   div.contents {
     margin-left: 1em;
     margin-bottom: 1em;
@@ -29,9 +26,6 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
     
-   <p><b>Thursday May 6th, 2021:</b> <a href="#microbiomedb2">Web-based analysis of 16S rRNA microbiome data using Nephele and MicrobiomeDB</a></p>
-   <p><b>Tuesday May 18th, 2021:</b> <a href="#BRC5">The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</a></p>
-   <p><b>Thursday May 20th, 2021:</b> <a href="#vect3">Exploring transcriptomic data in VectorBase</a></p>
    <p><b>Thursday May 27th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
    <p><b>Tuesday June 1st, 2021:</b> <a href="#BRC6">The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC</a></p>
    <p><b>Thursday June 10th, 2021:</b> <a href="#vect4">Analyzing your own data in VectorBase</a></p>
@@ -45,6 +39,9 @@ tags: [general]
   <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+   <p><b>Thursday May 20th, 2021:</b> <a href="#vect3">Exploring transcriptomic data in VectorBase</a></p>
+   <p><b>Tuesday May 18th, 2021:</b> <a href="#BRC5">The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</a></p>
+   <p><b>Thursday May 6th, 2021:</b> <a href="#microbiomedb2">Web-based analysis of 16S rRNA microbiome data using Nephele and MicrobiomeDB</a></p>
    <p><b>Tuesday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Aspergillus &  FungiDB</a></p>
    <p><b>Tuesday April 20th, 2021:</b> <a href="#BRC4">The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR</a></p>
    <p><b>Thursday April 15th, 2021:</b> <a href="#vect2">Building complex search strategies in VectorBase</a></p>
@@ -89,56 +86,12 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="contents">
 
 <hr>
-<div class="anchor"><a name="#microbiomedb2"></a></div>
-<div class="webinar">
-<b>Topic:</b> Web-based analysis of 16S rRNA microbiome data using Nephele and MicrobiomeDB<br>
-<b>Date:</b> Thursday May 6th, 2021<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/6724668505171427856">https://attendee.gotowebinar.com/register/6724668505171427856</a><br>
-<b>Additional Details:</b> This webinar will focus on using web resources to analyze 16s rRNA microbiome, specifically:
-<ul>
-<li>Analyzing data in <a href="https://nephele.niaid.nih.gov/index">Nephele</a> - the National Institute of Allergy & Infectious Diseases microbiome analysis platform.</li>
-<li>Exploring Nephele analyzed data in <a href="https://microbiomedb.org/">MicrobiomeDB</a>.</li>
-</ul>
-<br>
-</div>
-
-<hr>
-<div class="anchor"><a name="BRC5"></a></div>
-<div class="webinar">
-<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR<br>
-<b>Date:</b> Tuesday May 18th 2021<br>
-<b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r92ea0b9b113ecdab29ccf51f45bdc209">https://jcvi.webex.com/jcvi/j.php?RGID=r92ea0b9b113ecdab29ccf51f45bdc209</a><br>
-<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
-bioinformatic resources available at the Virus Pathogen Resource.
-<br>
-</div>
-
-<hr>
-<div class="anchor"><a name="vect3"></a></div>
-<div class="webinar">
-<b>Topic:</b> Exploring transcriptomic data in VectorBase<br>
-<b>Date:</b> Thursday May 20th, 2021<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/7280143977804654094">https://attendee.gotowebinar.com/register/7280143977804654094</a><br>
-<b>Additional Details:</b> This webinar describe how transcriptomic data including:
-<ul>
-<li>Exploring RNAseq searches</li>
-<li>Exploring microarray searches</li>
-<li>Exploring transcriptomic graphs</li>
-<li>Exploring RNAseq data in the genome browser</li>
-</ul>
-<br>
-</div>
-
-<hr>
 <div class="anchor"><a name="release52"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 52 Webinar<br>
 <b>Date:</b> Thursday May 27th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> Available 7-10 days prior to webinar<br>
+<b>Registration:</b> <a href="https://register.gotowebinar.com/register/8223585429100223502">https://register.gotowebinar.com/register/8223585429100223502></a><br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 52 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
@@ -222,6 +175,52 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <h3>Previous Webinars</h3>
 <div class="contents">
 
+<hr>
+<div class="anchor"><a name="vect3"></a></div>
+<div class="webinar">
+<b>Topic:</b> Exploring transcriptomic data in VectorBase<br>
+<b>Date:</b> Thursday May 20th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link:</b> <a href="https://youtu.be/Sp7GAjSgDPs">https://youtu.be/Sp7GAjSgDPs</a><br>
+<b>Handout: </b> <a href="{{'/documents/Transcriptomics_VectorBase_webinar2021_QAndA_Report.xlsx' | absolute_url}}">QandA webinar report</a><br>
+<b>Additional Details:</b> This webinar describe how transcriptomic data including:
+<ul>
+<li>Exploring RNAseq searches</li>
+<li>Exploring microarray searches</li>
+<li>Exploring transcriptomic graphs</li>
+<li>Exploring RNAseq data in the genome browser</li>
+</ul>
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="BRC5"></a></div>
+<div class="webinar">
+<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR<br>
+<b>Date:</b> Tuesday May 18th 2021<br>
+<b>Time:</b> 11AM US Eastern Time<br>
+<b>Recording Link:</b> <a href="">coming soon!</a><br>
+<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
+bioinformatic resources available at the Virus Pathogen Resource.
+<br>
+</div>
+  
+<hr>
+<div class="anchor"><a name="#microbiomedb2"></a></div>
+<div class="webinar">
+<b>Topic:</b> Web-based analysis of 16S rRNA microbiome data using Nephele and MicrobiomeDB<br>
+<b>Date:</b> Thursday May 6th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link:</b> <a href="">coming soon!</a><br>
+<b>Additional Details:</b> This webinar will focus on using web resources to analyze 16s rRNA microbiome, specifically:
+<ul>
+<li>Analyzing data in <a href="https://nephele.niaid.nih.gov/index">Nephele</a> - the National Institute of Allergy & Infectious Diseases microbiome analysis platform.</li>
+<li>Exploring Nephele analyzed data in <a href="https://microbiomedb.org/">MicrobiomeDB</a>.</li>
+</ul>
+<br>
+</div>
+
+  
 <hr>
 <div class="anchor"><a name="BRCfungi2"></a></div>
 <div class="webinar">

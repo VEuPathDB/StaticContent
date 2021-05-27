@@ -1,4 +1,5 @@
 --- # genomics faq page
+
 - type: general
   question: "How do I populate a strategy with my existing list of genes of interest?"
   answer: |
@@ -7,7 +8,7 @@
            3. Click "Get Answer"
             
            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_genomics_1.png"  />
-  uid: g1
+  uid: listgenesinterest
   projects: ""
 - type: general
   question: "How do I populate a strategy with all the genes in an organism?"
@@ -18,29 +19,29 @@
            3. Click "Get Answer"
 
            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_2.png"  />
-  uid: g3
+  uid: allgenesorganism
   projects: ""
 - type: general
   question: "How do I submit data?"
   answer: |
            Please visit: [data submission](/a/app/static-content/dataSubmission.html)
-  uid: g4
+  uid: Howsubmitdata
   projects: ""
 - type: general
   question: "How do I do an enrichment analysis on a list of genes by GO term or metabolic pathway?"
   answer: |
-           Start with a list of genes using an existing strategy, a list of genes you submit (see above), or all the genes in a given organism (see above)
+           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes) or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
            1. click “Analyze results"
            This will give you the option to run a variety of analyses on your list of genes
            See the following worksheet to learn more: [GO enrichment](https://static-content.veupathdb.org/documents/GO-Enrichment.pdf)
 
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_3.png"  />  
-  uid: g5
+  uid: termmetabolicpathway
   projects: ""
 - type: general
   question: "How do I transform a list of genes into homologs in a different organism?"
   answer: |
-           Start with a list of genes using an existing strategy, a list of genes you submit (see above), or all the genes in a given organism (see above)
+           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes) or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
            1. Click "Add a step"
            2. Choose "Transform"
            3. Click "Orthologs"
@@ -49,12 +50,12 @@
            You will now have a list of genes in the new species (A) and corresponding list of homologue(s) in the input species (B).
 
            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_4.png"  />  
-  uid: g6
+  uid: homologsdifferentorganism
   projects: ""
 - type: general
   question: "Download genomic or amino acid sequences (one gene)?"
   answer: |
-           Start with list of genes using an existing strategy, a list of genes you submit (see above), or all the genes in a given organism (see above)
+           Start with list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes) or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
            1. From the gene page of your gene of interest, select “Download Gene
            2. Select “FASTA”
            3. Select what kind of sequence you want
@@ -62,12 +63,12 @@
            5. Click "Get Sequence"
 
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_5.png"  />  
-  uid: g7
+  uid: sequencesonegene
   projects: ""
 - type: general
   question: "Download genomic or amino acid sequences (lots of genes)?"
   answer: |
-           Start with list of genes using an existing strategy, a list of genes you submit (link), or all the genes in a given organism ()
+           Start with list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes) or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
            1. From the gene page of your gene of interest, select “Download Gene
            2. Select ”FASTA
            3. Select what kind of sequence you want
@@ -75,19 +76,19 @@
            5. Click "Get Sequences"
 
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_6.png"  />  
-  uid: g8
+  uid: sequenceslotsgenes
   projects: ""
 - type: general
   question: "How do I download a table with a list of genes including any field(s) from our gene pages (e.g., gene names and symbols)?"
   answer: |
-           Start with a list of genes using an existing strategy, a list of genes you submit (see above), or all the genes in a given organism (see above) 
+           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes) or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
            1. Click "Add Columns"
            2. Add any relevant columns of data you wish
            3. Click "Update Columns"
            4. Click "Download"
 
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_7.png"  />  
-  uid: g9
+  uid: namesandsymbol
   projects: ""
 - type: general
   question: "How do I add a comment to a gene pages?"
@@ -95,7 +96,7 @@
            Our user comment system links your expert knowledge to both gene and other records. Your comments are immediately integrated into the database and become searchable. Your comments will also guide our curators’ efforts.
 
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_8.png"  />  
-  uid: g10
+  uid: commentgenepages
   projects: ""
 - type: general
   question: "How do I share my strategy /list of genes with someone else?"
@@ -106,5 +107,59 @@
            A link will be provided that you can share. 
 
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_9.png"  />  
-  uid: g11
+  uid: withsomeoneelse
+  projects: ""
+- type: general
+  question: "How to cite a genome assembly and/or gene set?"
+  answer: |
+           If you use any of the genomes from VEuPathDB genomic sites, when citing them in your work please provide their complete scientific name, strain, assembly, and gene set version, together with the most recent publication that corresponds, as shown in the FAQ "How to cite a VEuPathDB site?"         
+
+           <p><b>Template</b>
+           <p>VectorBase, <a href="https://vectorbase.org/vectorbase/app/">vectorbase.org</a> (VectorBase most recent paper), &lt;Species_name&gt;&lt;isolate/strain&gt;  &lt;Assembly, Gene set&gt;.</p>
+           <p><b>Worked example</b>
+           <p>For example if you want to reference your usage of the <i>Anopheles gambiae</i> AgamP4.12 set of predictions you would use:</p>
+           <div style="width: 60%; background: #f5f5f5; border: 1px solid #ccc; padding: 4px 6px 4px 6px; -moz-border-radius: 10px;-webkit-border-radius: 10px;">
+           <p>VectorBase, <a href="https://vectorbase.org/vectorbase/app">www.vectorbase.org</a> (Giraldo-Calderón et al 2015), <i>Anopheles gambiae</i> PEST, AgamP4.13.</p>
+  uid: cite-genome-assembly
+  projects: ""
+- type: general
+  question: "How to cite a VEuPathDB site?"
+  answer: |
+           <p align="justify">If you use VEuPathDB data, tools or resources, we invite you to please cite our most recent publication, for your database of interest:
+           <p>Aurrecoechea, C., Barreto, A., Basenko, E. Y., Brestelli, J., Brunk, B. P., Cade, S., Crouch, K., Doherty, R., Falke, D., Fischer, S., Gajria, B., Harb, O. S., Heiges, M., Hertz-Fowler, C., Hu, S., Iodice, J., Kissinger, J. C., Lawrence, C., Li, W., Pinney, D. F., … Zheng, J. (2017). <b>EuPathDB</b>: the eukaryotic pathogen genomics database resource. Nucleic acids research, 45(D1), D581–D591. <a href="https://doi.org/10.1093/nar/gkw1105">https://doi.org/10.1093/nar/gkw1105</a></p>
+           <p>Basenko, E. Y., Pulman, J. A., Shanmugasundram, A., Harb, O. S., Crouch, K., Starns, D., Warrenfeltz, S., Aurrecoechea, C., Stoeckert, C. J., Jr, Kissinger, J. C., Roos, D. S., & Hertz-Fowler, C. (2018). <b>FungiDB</b>: An Integrated Bioinformatic Resource for Fungi and Oomycetes. Journal of fungi (Basel, Switzerland), 4(1), 39. <a href="https://doi.org/10.3390/jof4010039">https://doi.org/10.3390/jof4010039</a></p>
+           <p>Fischer, S., Brunk, B. P., Chen, F., Gao, X., Harb, O. S., Iodice, J. B., Shanmugam, D., Roos, D. S., & Stoeckert, C. J., Jr (2011). Using OrthoMCL to assign proteins to <b>OrthoMCL-DB</b> groups or to cluster proteomes into new ortholog groups. Current protocols in bioinformatics, Chapter 6, Unit–6.12.19. <a href="https://doi.org/10.1002/0471250953.bi0612s35">https://doi.org/10.1002/0471250953.bi0612s35</a></p>
+           <p>Giraldo-Calderón, G. I., Emrich, S. J., MacCallum, R. M., Maslen, G., Dialynas, E., Topalis, P., Ho, N., Gesing, S., VectorBase Consortium, Madey, G., Collins, F. H., & Lawson, D. (2015). <b>VectorBase</b>: an updated bioinformatics resource for invertebrate vectors and other organisms related with human diseases. Nucleic acids research, 43(Database issue), D707–D713. <a href="https://doi.org/10.1093/nar/gku1117">https://doi.org/10.1093/nar/gku1117</a></p>
+           <p>Oliveira, F. S., Brestelli, J., Cade, S., Zheng, J., Iodice, J., Fischer, S., Aurrecoechea, C., Kissinger, J. C., Brunk, B. P., Stoeckert, C. J., Jr, Fernandes, G. R., Roos, D. S., & Beiting, D. P. (2018). <b>MicrobiomeDB</b>: a systems biology platform for integrating, mining and analyzing microbiome experiments. Nucleic acids research, 46(D1), D684–D691. <a href="https://doi.org/10.1093/nar/gkx1027">https://doi.org/10.1093/nar/gkx1027</a></p>
+           <p>Ruhamyankaka, E., Brunk, B. P., Dorsey, G., Harb, O. S., Helb, D. A., Judkins, J., Kissinger, J. C., Lindsay, B., Roos, D. S., San, E. J., Stoeckert, C. J., Zheng, J., & Tomko, S. S. (2020). <b>ClinEpiDB</b>: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. Gates open research, 3, 1661. <a href="https://doi.org/10.12688/gatesopenres.13087.2">https://doi.org/10.12688/gatesopenres.13087.2</a></p>
+           <p>Older publications for each VEuPathDB site can be found <a href="https://veupathdb.org/veupathdb/app/static-content/veupathPubs.html">here.</p>
+  uid: g12
+  projects: ""
+- type: general
+  question: "How to reference a MapVEu (formely PopBio) project ID, VBP*?"
+  answer: |
+           Here is an example from one of our users:
+
+           [IMAGE GOES HERE]
+
+           Gloria-Soria, A., Lima, A., Lovin, D. D., Cunningham, J. M., Severson, D. W., & Powell, J. R. (2018). Origin of a High-Latitude Population of Aedes aegypti in Washington, DC. The American journal of tropical medicine and hygiene, 98(2), 445–452. <a href="https://doi.org/10.4269/ajtmh.17-0676">https://doi.org/10.4269/ajtmh.17-0676</a>
+  uid: g13
+  projects: ""
+- type: general
+  question: "How to cite a gene? Why we recomend gene stable ID in addition to gene metadata"
+  answer: |
+           Gene metadata are the gene name or symbol and the gene functional description. The gene stable IDs are, not only stable (as implied by their name), also easier to work with, as you can upload them in GLORIA WORK IN PROFGRESS ...
+  uid: g14
+  projects: ""
+- type: general
+  question: "How do I download a sequence in FASTA format from a region of interest in JBrowse?"
+  answer: |
+           1. Make sure the “annotated transcripts” and the “reference sequence” tracks are turned on
+           2. Click on the “highlight a region” button in the navigation bar. It should turn yellow when activated
+           3. Click and drag in the genome view region and select the area you would like to highlight (tip: highlight region from within annotation track)
+           4. Click on the down arrow on the reference sequence track and select “Save track data”
+           5. In the next popup window you can keep everything as the default and either save or view the sequence
+            
+            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/genomics_faq_14.png"  />
+  uid: fastaformat
   projects: ""
