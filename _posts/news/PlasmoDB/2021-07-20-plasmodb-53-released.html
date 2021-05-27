@@ -1,0 +1,83 @@
+---
+categories: []
+layout: post
+title: PlasmoDB 53 Released
+category: [PlasmoDB,VEuPathDB]
+---
+{% assign project = page.category[0] %}
+
+
+<h3>We are pleased to announce the release of {{project}} 53.</h3>  
+
+<section>
+  <h3>Release 53 Webinar</h3>
+  <div style="margin-left: 3em;">
+    Join us on May 27, 2021 at 10am EDT for our Release 53 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 53.  
+    <a href="https://attendee.gotowebinar.com/register/8223585429100223502" target="_blank">Register here</a>  
+  </div>
+</section>
+
+
+<section>
+  <h3>New data in {{project}} 53</h3>
+  <div style="margin-left: 3em;">
+  <h4>Genome Sequence</h4>
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_895e7649a3"><i>Haemoproteus tartakovskyi</i> strain SISKIN1</a> &ndash; <a href="http://www.ncbi.nlm.nih.gov/pubmed/27190205" target="_blank">Bensch et al. 2016.</a></li>
+    </ul>
+    <br>
+
+  <h4>Transcriptomics</h4>
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_67483bf778">Ex-erythrocytic stage transcriptomes (sporozoite, liver time course and detached cells)</a> &ndash; RNA-seq analyses of various exo-erythrocytic stages of <i>Plasmodium berghei</i> including sporozoites, a time-course of liver stage development and detached cells. <a href="http://www.ncbi.nlm.nih.gov/pubmed/31551073" target="_blank">Caldelari et al. 2019</a>.</li>
+
+      <li><a href="/a/app/record/dataset/DS_b95a38be5e">Transcriptome of the asexual life stages</a> &ndash; RNA sequence analysis of ring, trophozoite and schizont stages as biological duplicates. <a href="http://www.ncbi.nlm.nih.gov/pubmed/33225957" target="_blank">Tang et al. 2020</a>.</li>
+    </ul>
+    <br>
+
+  <h4>Proteomics</h4>
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_be78b1682c">PfCRK4 regulated phosphoproteome at 29 and 37 hpi</a> &ndash; Phosphoproteome of D10-PfCRK4-HA-DD parasites at 29 and 37 hours hours post infection. Peptides associated with proteins found in the phosphoproteome were mapped to the <i>P. falciparum</i> 3D7 genome. <a href="http://www.ncbi.nlm.nih.gov/pubmed/28211852" target="_blank">Ganter et al. 2017</a>. </li>
+<!--
+      <li><a href="/a/app/record/dataset/DS_67256b45a3">PfCRK4 regulated proteome at 29 and 37 hpi (quantitative)</a> &ndash; Proteome determined at 29- and 37- hour post infection in <i>Plasmodium falciparum</i> using a clone in which PfCRK4 was conditionally destabilized. (+Shield = stable PfCRK4, -Shield = destabilized PfCRK4) <a href="http://www.ncbi.nlm.nih.gov/pubmed/28211852" target="_blank">Ganter et al. 2017</a> </li>
+
+      <li><a href="/a/app/record/dataset/DS_ce0f0c5ca3">Proteome of ApiAP2 double vs single knockout</a> &ndash; Proteome deregulation in the purified schizonts of ap2-g/ap2-g2 double knockout compared to the parental ap2-g mutant clone.<a href="http://www.ncbi.nlm.nih.gov/pubmed/28081440" target="_blank">Modrzynska et al. 2017</a> </li>
+--> </ul>
+    <br>
+
+  <h4>Genome Browser Tracks</h4>
+    GFF files showing UTRs for Pf3D7, PfIT, and PfHB3 strains determined by DAFT- and 5UTR-Seq RNA sequencing techniques. Data are shown aligned to the 3D7 genome. <a href="https://www.ncbi.nlm.nih.gov/pubmed/32513207" target="_blank">Chappell et al. 2020.</a>
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_cd7d0ef5f3">UTRs based on DAFT- and UTR-Seq (3D7 2020)</a></li>
+      <li><a href="/a/app/record/dataset/DS_11f60d0e06">UTRs based on DAFT- and UTR-Seq (HB3 2020)</a></li>
+      <li><a href="/a/app/record/dataset/DS_5973aa0e89">UTRs based on DAFT- and UTR-Seq (IT 2020)</a></li>
+      <li><a href="/a/app/jbrowse?data=%2Fa%2Fservice%2Fjbrowse%2Ftracks%2Fdefault&loc=Pf3D7_06_v3%3A155773..194659&tracks=gene%2Cpfal3D7_3D7_UTRs_DAFT_GFF_RSRC%2Cpfal3D7_HB3_UTRs_DAFT_GFF_RSRC%2Cpfal3D7_IT_UTRs_DAFT_GFF_RSRC&highlight=">JBrowse view of all three tracks</a></li>
+    </ul>
+    <br>
+  </div>
+</section>
+
+<section>
+  <h3>New features in {{project}} 53</h3>
+  <div style="margin-left: 3em;">
+   <ul>
+    <li>The gene pages of <a href="https://en.wikipedia.org/wiki/Pseudogene" target="_blank">pseudogenes</a> are modified to improved clarity: <a href="{{'/assets/images/pseudogene-page.png' | absolute_url}}">(Pseudogene page changes)</a>
+      <ul>
+        <li>The Transcripts table in the Gene Models section now indicates that no protein products are produced. </li>
+        <li>The exons in JBrowse views of pseudogenes are colored gray.  Blue represents genes on the forward strand and red represents genes on the reverse strand. </li>
+        <li>The Orthology and Synteny section indicates that orthology is not determined for pseudogenes.</li>
+        <li>Protein sequences are no longer available from the Sequences section.</li>
+      </ul>
+    </li>
+    <li>A new <a href="/a/app/static-content/faq.html">FAQs page</a> is available from the <a href="/a/app/static-content/landing.html">Learn How to use VEuPathDB page</a>. Open each section to reveal step-by-step instructions for common tasks.  </li>
+    <li>Reference organisms are indicated in the Organism parameter on search pages.  VEuPathDB chooses a representative genome from each species and aligns all functional genomics data to the reference.  In doing so, all data can be viewed and compared in the genome browser against the reference.  In some cases, data are aligned to the source organism in addition to the reference. (<a href="{{'/assets/images/Reference.png' | absolute_url}}">Reference-organism.png</a>)</li>
+    <li>The algorithm for predicting EC Numbers of genes has been improved. Previously, we predicted EC numbers by using the most prevalent EC number in an ortholog group (defined by OrthoMCL) and transferring that number to all other members in the group. In the new algorithm, we use orthology as well as protein sequence/domain comparison to infer EC number assignments. Additionally, we provide multiple forms of evidence that are used to inform each prediction, allowing users to determine their confidence in the prediction. Specifically, the algorithm evaluates three features (length, domain architecture and BLAST similarity to other proteins) of each protein in an OrthoMCL ortholog group. Those features are compared to the features of proteins already assigned an EC number, in order to infer which proteins should be assigned a specific EC number.  We also show the number of proteins and the number of genera that are assigned this EC number within the ortholog group, so that the user can assess the prevalence of a given EC number. This new algorithm performs extremely well in predicting previously assigned EC numbers, demonstrating that the algorithm is accurate.</li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <aside>
+    <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>
