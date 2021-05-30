@@ -29,7 +29,6 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
     
-   <p><b>Thursday May 27th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
    <p><b>Tuesday June 1st, 2021:</b> <a href="#BRC6">The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC</a></p>
    <p><b>Thursday June 10th, 2021:</b> <a href="#vect4">Analyzing your own data in VectorBase</a></p>
    <p><b>Thursday July 8th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
@@ -42,6 +41,7 @@ tags: [general]
   <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+   <p><b>Thursday May 27th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
    <p><b>Thursday May 20th, 2021:</b> <a href="#vect3">Exploring transcriptomic data in VectorBase</a></p>
    <p><b>Tuesday May 18th, 2021:</b> <a href="#BRC5">The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</a></p>
    <p><b>Thursday May 6th, 2021:</b> <a href="#microbiomedb2">Web-based analysis of 16S rRNA microbiome data using Nephele and MicrobiomeDB</a></p>
@@ -87,17 +87,6 @@ tags: [general]
 <h3>Upcoming Webinars</h3>
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
-
-<hr>
-<div class="anchor"><a name="release52"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 52 Webinar<br>
-<b>Date:</b> Thursday May 27th, 2021<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://register.gotowebinar.com/register/8223585429100223502">https://register.gotowebinar.com/register/8223585429100223502</a><br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 52 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
-</div>
 
 <hr>
 <div class="anchor"><a name="BRC6"></a></div>
