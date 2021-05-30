@@ -179,6 +179,17 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <div class="contents">
 
 <hr>
+<div class="anchor"><a name="release52"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 52 Webinar<br>
+<b>Date:</b> Thursday May 27th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording:</b> <a href="https://youtu.be/c0kOezp0_ao">https://youtu.be/c0kOezp0_ao</a><br>
+<b>Additional Details:</b> The May 20, 2021 release of the VEuPathDB resources (Release 52) included new data, new features and annotation updated for some genomes.  In this webinar our Outreach team describes the data and demonstrates useful data mining strategies that can be applied to all VEuPathDB data.
+<br>
+</div>
+
+<hr>
 <div class="anchor"><a name="vect3"></a></div>
 <div class="webinar">
 <b>Topic:</b> Exploring transcriptomic data in VectorBase<br>
