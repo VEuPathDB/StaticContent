@@ -98,6 +98,11 @@ table#hor-minimalist-a tfoot tr {
   <h3>Previous Workshops</h3>
   
   <div class="contents">
+    <h4><a href="#hinxton2021">2021 Fungal Pathogen Genomics</a></h4>
+    May 10-14, 2021 (Virtual).
+  </div>
+
+  <div class="contents">
     <h4><a href="#hinxton2020">Working with Protozoan Parasite Database Resources</a></h4>
     October 5-9, 2020 (Virtual).
   </div>
@@ -149,11 +154,11 @@ table#hor-minimalist-a tfoot tr {
 <div class="contents">    
 <div class="anchor"><a name="hinxton2021"></a></div>
   <div class="workshop">
-  <h3>2021 Fungal Pathogen Genomics</h3>
+  <h3></h3>
     This workshop was organized by the Wellcome Trust Advanced Courses and was held virtually. <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-virtual-20210510/#:~:text=Summary-,Summary,and%20human%2Fanimal%2Fplant%20health">
     2021 Fungal Pathogen Genomics (Virtual)</a>.
     May 10-14, 2020 (Virtual).<br>
-    <details open>
+    <details closed>
       <summary><b>Pre-workshop module: Gene pages and Genome browsers</b></summary>
       <ul>
         <li><a href="{{'/documents/2021hinxtonfungal/1_SGD_mainpage_anatomy.pdf' | absolute_url}}">SGD main page anatomy</a></li>
@@ -170,7 +175,7 @@ table#hor-minimalist-a tfoot tr {
      </ul>
     </details>
     <br> 
-    <details open>
+    <details closed>
       <summary><b>Workshop module</b></summary>
       <ul>  
         <li>Database Queries
@@ -179,44 +184,42 @@ table#hor-minimalist-a tfoot tr {
             <li><a href="{{'/documents/2021hinxtonfungal/2_SGD_Search_Strategies_YeastMine.pdf' | absolute_url}}">SGD: Search strategies in YeastMine</a></li>
             <li><a href="{{'/documents/2021hinxtonfungal/3_Database search_BioMart.pdf' | absolute_url}}">Ensembl Fungi: Database search in BioMart</a></li>
            </ul>
-        </li>
+        </li><br>
         <li>Mapping RNA-Seq Data in Galaxy, Part 1
            <ul>
             <li><a href="{{'/documents/2021hinxtonfungal/1_FungiDB_RNASeq_background.pdf' | absolute_url}}">RNA-Seq background</a></li>
             <li><a href="{{'/documents/2021hinxtonfungal/2_FungiDB_RNAseq_Mapping_Galaxy_1.pdf' | absolute_url}}">FungiDB: RNAseq mapping in Galaxy, Part1</a></li>
            </ul>
-        </li>
+        </li><br>
         <li>Database Queries: Transcriptomics and Proteomics
            <ul>
             <li><a href="{{'/documents/2021hinxtonfungal/1_RNAseq_data_trackhubs.pdf' | absolute_url}}">Ensembl Fungi: RNA-Seq data (trackhubs)</a></li>
             <li><a href="{{'/documents/2021hinxtonfungal/2_SGD_Expression_tools_SPELL.pdf' | absolute_url}}">SGD Expression tools: SPELL</a></li>
             <li><a href="{{'/documents/2021hinxtonfungal/3_FungiDB_Transcriptomics_Proteomics.pdf' | absolute_url}}">FungiDB: Transcriptomics and Proteomics</a></li>
            </ul>
-        </li>
+        </li><br>
         <li>Mapping SNPs in Galaxy, Part 1
            <ul>
             <li><a href="{{'/documents/2021hinxtonfungal/1_FungiDB_SNP_Mapping_1.pdf' | absolute_url}}">FungiDB SNP Mapping, Part 1</a></li>
-            </li>
            </ul>
-        </li>
+        </li><br>
         <li>Mapping RNA-Seq Data in Galaxy, Part 2
            <ul>
             <li><a href="{{'/documents/2021hinxtonfungal/1_RNAseq_mapping_Galaxy_2_final_oh.pdf' | absolute_url}}">RNAseq mapping in Galaxy, Part 2</a></li>
            </ul>
-        </li>
+        </li><br>
         <li>Mapping SNPs in Galaxy, Part 2
            <ul>
             <li><a href="{{'/documents/2021hinxtonfungal/1_FungiDB_SNP_Mapping_2.pdf' | absolute_url}}">FungiDB SNP Mapping, Part 2</a></li>
-            </li>
            </ul>
-        </li>
+        </li><br>
          <li>Database Queries: SNPs and variants
            <ul>
             <li><a href="{{'/documents/2021hinxtonfungal/1_SGD_Variant_Viewer.pdf' | absolute_url}}">SGD: Variant Viewer</a></li>
             <li><a href="{{'/documents/2021hinxtonfungal/2_FungiDB_SNPs_CNVs.pdf' | absolute_url}}">FungiDB: SNPs and CNVs</a></li>
             <li><a href="{{'/documents/2021hinxtonfungal/3_Ensembl_Fungi_Variation_exercises.pdf' | absolute_url}}">Ensembl Fungi: Variation exercises</a></li>
            </ul>
-        </li>
+        </li><br>
         <li>Database Queries: Comparative Genomics and Orthology
            <ul>
             <li><a href="{{'/documents/2021hinxtonfungal/1_Comparative genomics_WGA.pdf' | absolute_url}}">Ensembl Fungi: Comparative genomics (WGA)</a></li>
@@ -224,7 +227,7 @@ table#hor-minimalist-a tfoot tr {
             <li><a href="{{'/documents/2021hinxtonfungal/4_Joint Exercise Ensembl and MycoCosm with answersv2.pdf' | absolute_url}}">Mining data across Ensembl Fungi and JGI MycoCosm</a></li>
             <li><a href="{{'/documents/2021hinxtonfungal/GeneFamily_Cazymes_JGI_2021.pdf' | absolute_url}}">JGI MycoCosm: Comparative analysis of Gene Families</a></li>
            </ul>
-        </li>
+        </li><br>
         <li>Database Queries: Evolutionary analysis and cross species inference
            <ul>
             <li><a href="{{'/documents/2021hinxtonfungal/1_SGD_predicting_fungal_biology.pdf' | absolute_url}}">SGD: predicting fungal biology</a></li>
@@ -232,14 +235,14 @@ table#hor-minimalist-a tfoot tr {
             <li><a href="{{'/documents/2021hinxtonfungal/3_FungiDB_MycoCosm_Ensembl_JBrowse_synteny.pdf' | absolute_url}}">Mining data across FungiDB, MycoCosm, and Ensembl Fungi</a></li>
             <li><a href="{{'/documents/2021hinxtonfungal/4_FungiDB_Orthology and Phyletic Patterns.pdf' | absolute_url}}">FungiDB orthology and phyletic patterns</a></li>
            </ul>
-        </li>
+        </li><br>
         <li>Database Queries: Enrichment analysis
            <ul>
             <li><a href="{{'/documents/2021hinxtonfungal/2_CGD_GO_Term_Finder.pdf' | absolute_url}}">CGD: GO Term Finder</a></li>
             <li><a href="{{'/documents/2021hinxtonfungal/3_FungiDB_GO Enrichment.pdf' | absolute_url}}">FungiDB: GO Enrichment</a></li>
             <li><a href="{{'/documents/2021hinxtonfungal/SGD_GO_Slim_Mapper.pdf' | absolute_url}}">SGD: GO Slim Mapper</a></li>
            </ul>
-        </li>
+        </li><br>
         <li>Database Queries: Functional analysis: Pathways and metabolites
            <ul>
             <li><a href="{{'/documents/2021hinxtonfungal/3_FungiDB_Metabolic_Pathways.pdf' | absolute_url}}">FungiDB: Metabolic Pathways</a></li>
@@ -247,10 +250,10 @@ table#hor-minimalist-a tfoot tr {
             <li><a href="{{'/documents/2021hinxtonfungal/MycoCosmKEGGBrowser_2021.pdf' | absolute_url}}">MycoCosm: KEGG Browser</a></li>
             <li><a href="{{'/documents/2021hinxtonfungal/MycoCosmSecondaryMetabolismClustersBrowser_2021.pdf' | absolute_url}}">MycoCosm: Secondary Metabolism Clusters Browser</a></li>
            </ul>
-        </li>
+        </li><br>
         <li>Manual curation in Apollo
            <ul>
-            <li><a href="{{'/documents/2021hinxtonfungal/Community_gene_annotation_WTAC_FINAL.pdf' | absolute_url}}">Community gene annotation in Ensmebl Fungi, FungiDB and MycoCosm</a></li>
+            <li><a href="{{'/documents/2021hinxtonfungal/Community_gene_annotation_WTAC_FINAL.pdf' | absolute_url}}">Community gene annotation in Ensembl Fungi, FungiDB and MycoCosm</a></li>
            </ul>
         </li>
       </ul>
