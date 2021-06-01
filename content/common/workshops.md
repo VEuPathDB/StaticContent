@@ -188,7 +188,7 @@ table#hor-minimalist-a tfoot tr {
         <li>Mapping RNA-Seq Data in Galaxy, Part 1
            <ul>
             <li><a href="{{'/documents/2021hinxtonfungal/1_FungiDB_RNASeq_background.pdf' | absolute_url}}">RNA-Seq background</a></li>
-            <li><a href="{{'/documents/2021hinxtonfungal/2_FungiDB_RNAseq_Mapping_Galaxy_1.pdf' | absolute_url}}">FungiDB: RNAseq mapping in Galaxy, Part1</a></li>
+            <li><a href="{{'/documents/2021hinxtonfungal/2_FungiDB_RNAseq_Mapping_Galaxy_1.pdf' | absolute_url}}">FungiDB: RNA-Seq mapping in Galaxy, Part1</a></li>
            </ul>
         </li><br>
         <li>Database Queries: Transcriptomics and Proteomics
@@ -205,7 +205,7 @@ table#hor-minimalist-a tfoot tr {
         </li><br>
         <li>Mapping RNA-Seq Data in Galaxy, Part 2
            <ul>
-            <li><a href="{{'/documents/2021hinxtonfungal/1_RNAseq_mapping_Galaxy_2_final_oh.pdf' | absolute_url}}">RNAseq mapping in Galaxy, Part 2</a></li>
+            <li><a href="{{'/documents/2021hinxtonfungal/1_RNAseq_mapping_Galaxy_2_final_oh.pdf' | absolute_url}}">RNA-Seq mapping in Galaxy, Part 2</a></li>
            </ul>
         </li><br>
         <li>Mapping SNPs in Galaxy, Part 2
