@@ -181,11 +181,11 @@ table#hor-minimalist-b tfoot tr {
     <p><a href="{{'/documents/2021athens/Pre_workshop_module.pdf' | absolute_url}}"><b>Pre_workshop_module.pdf</b></a>: This module provides a basic understanding of VEuPathDB concepts and practice with the basic tools on our sites.  We estimate that these exercises can be completed in 2 - 2.5 hours.  <b>Please complete this training module before arriving for the workshop on June 7.</b></p>
     <details closed>
       <summary><b>Schedule</b></summary>
+      <p>All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</p>
       <table id="hor-minimalist-b">
       <thead> 
       <tr>
-        <th style="text-align:left">Monday, June 7th<br>
-          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</th>
+        <th style="text-align:left">Monday, June 7th</th>
       </tr>
       <tr>
         <th style="text-align:left">Time</th>
@@ -237,8 +237,7 @@ table#hor-minimalist-b tfoot tr {
       </tbody>
       <thead>
       <tr>
-        <th style="text-align:left">Tuesday, June 8th<br>
-          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</th>
+        <th style="text-align:left">Tuesday, June 8th</th>
       </tr>
       <tr>
         <th style="text-align:left">Time</th>
@@ -285,8 +284,7 @@ table#hor-minimalist-b tfoot tr {
       </tbody>
       <thead>
       <tr>
-        <th style="text-align:left">Wednesday, June 9th<br>
-          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</th>
+        <th style="text-align:left">Wednesday, June 9th</th>
       </tr>
       <tr>
         <th style="text-align:left">Time</th>
@@ -337,8 +335,7 @@ table#hor-minimalist-b tfoot tr {
       </tbody>
       <thead>
       <tr>
-        <th style="text-align:left">Thursday, June 10th<br>
-          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</th>
+        <th style="text-align:left">Thursday, June 10th</th>
       </tr>
       <tr>
         <th style="text-align:left">Time</th>
@@ -381,7 +378,6 @@ table#hor-minimalist-b tfoot tr {
     </table>
     </details>
   </div>
-</div>
 
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
