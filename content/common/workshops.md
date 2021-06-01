@@ -145,6 +145,191 @@ table#hor-minimalist-a tfoot tr {
     <p><a href="{{'/documents/2021athens/Pre_workshop_module.pdf' | absolute_url}}"><b>Pre_workshop_module.pdf</b></a>: This module provides a basic understanding of VEuPathDB concepts and practice with the basic tools on our sites.  We estimate that these exercises can be completed in 2 - 2.5 hours.  <b>Please complete this training module before arriving for the workshop on June 7.</b></p>
     <details closed>
       <summary><b>Schedule</b></summary>
+      <table style="width: 946px; height: 300px;" class="table table-striped table-bordered table-hover">
+      <thead class="bg-primary">
+        <tr>
+          <th>Time</th>
+          <th>Event</th>
+          <th>Instructor</th>
+        </tr>
+      </thead>
+      <thead>
+        <tr>
+          <th class="bg-info" colspan="4" align="center">Monday, June 7th<br>
+          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</th>
+        </tr>
+      </thead>
+    <tbody>
+        <tr>
+          <td>8:30am</td>
+          <td>Zoom session opens for discussion<br>
+               Zoom link coming soon</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>9:00am</td>
+          <td>Workshop Introduction</td>
+          <td>Omar Harb</td>
+        </tr>
+        <tr>
+          <td>10:00am</td>
+          <td>Transcriptomics</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>11:00am</td>
+          <td>Proteomics</td>
+          <td></td>
+        <tr>
+          <td>12:00pm</td>
+          <td>Lunch Break</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>1:00pm</td>
+          <td>GO enrichment</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>2:00pm</td>
+          <td>Galaxy RNAseq Part1</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>4:00pm</td>
+          <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
+          <td></td>
+        </tr>   
+      </tbody>
+      <thead>
+        <tr>
+          <th class="bg-ltblue" colspan="4" align="center"> Tuesday, June 8th <br>
+          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>. </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>8:30am</td>
+          <td>Zoom session opens for discussion</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>9:00am</td>
+          <td>Phenotype data</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>10:00am</td>
+          <td>Advanced Genome Browser</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>12:00pm</td>
+          <td>Lunch Break</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>1:00pm</td>
+          <td>Galaxy RNAseq Part2</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>3:00pm</td>
+          <td>Galaxy Variants Part 1</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>4:00pm</td>
+          <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
+          <td></td>
+        </tr>   
+      </tbody>
+      <thead>
+        <tr>
+          <th class="bg-info" colspan="4" align="center">Wednesday, June 9th<br>
+          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>. </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>8:30am</td>
+          <td>Zoom session opens for discussion</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td>9:00am</td>
+          <td>Orthology</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>10:00am</td>
+          <td>Genetic Variation (SNPs and CNV)</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>11:00am</td>
+          <td>Galaxy Variants Part 2</td>
+          <td></td>
+        <tr>
+          <td>12:00pm</td>
+          <td>Lunch Break</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>1:00pm</td>
+          <td>Galaxy Variants Part 2 (cont.)</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>2:00pm</td>
+          <td>Final group presentation description and breakouts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>4:00pm</td>
+          <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
+          <td></td>
+        </tr>   
+      </tbody>
+      <thead>
+        <tr>
+          <th class="bg-info" colspan="4" align="center">Thursday, June 10th<br>
+          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>. </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>8:30am</td>
+          <td>Zoom session opens for discussion</td> 
+          <td> </td>
+        </tr>
+        <tr>
+          <td>9:00am</td>
+          <td>Metabolic pathways</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>10:00am</td>
+          <td>Final Project group work</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>12:00pm</td>
+          <td>Lunch Break</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>1:00pm</td>
+          <td>Final Project presentations</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>4:00pm</td>
+          <td>Official workshop ends.</td>
+          <td></td>
+        </tr>   
+      </tbody>
+    </table>
     </details>
   </div>
 </div>
