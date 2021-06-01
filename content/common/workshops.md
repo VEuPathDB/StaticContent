@@ -141,7 +141,8 @@ table#hor-minimalist-a tfoot tr {
     <h3>Annual VEuPathDB Workshop 2021 (Virtual)</h3>
     <p>Half-days on June 7 - 10, 2021</p> 
     <p>Over 4 half-days, the VEuPathDB will provide a thorough and intensive introduction to database resources that are part of the VEuPathDB Bioinformatics Resource Center. The workshop is centered on determining what is — and isn't — working for you, the end-user. Our goal is to maintain a fruitful and ongoing conversation between the developers and the biologists to obtain more efficient, effective ways to help you reach your goals. We hope this experience is as beneficial for you as it is for us, and we look forward to learning together. </p>
-    <p> <a href="https://workshop.eupathdb.org/athens/2021/"> More info and apply</a></p>
+    <!--<p> <a href="https://workshop.eupathdb.org/athens/2021/"> More info</a></p>-->
+    <p> <a href="{{'/documents/2021athens/Pre-workshop-module.pdf' | abolute_url}}">Pre-workshop-module.pdf</a>: This module provides a basic understanding of VEuPathDB concepts and practice with the basic tools on our sites.  We estimate that these exercises can be completed in 2 - 2.5 hours.  Please complete this training module <b>before</b> attending the workshop on June 4.</p>
   </div>
 </div>
 
