@@ -269,7 +269,7 @@ table#hor-minimalist-a tfoot tr {
     This workshop was organized by the Wellcome Trust Advanced Courses and was held virtually. <a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/">
     Working with Protozoan Parasite Database Resources</a>.
     October 5-9, 2020 (Virtual).<br>
-    <details open>
+    <details closed>
       <summary><b>Exercises</b></summary>
       <ul>
         <li><a href="{{'/documents/hinxtonparasite/01b_SearchStrategies_Exercise_PlasmoDB.pdf' | absolute_url}}">Search Strategy Basics</a></li>
