@@ -81,6 +81,42 @@ table#hor-minimalist-a tfoot {
 table#hor-minimalist-a tfoot tr {
   border:0;
 }
+table#hor-minimalist-b {
+  text-align: left;
+}
+table#hor-minimalist-b th {
+  font-size: 110%;
+  font-weight: 400;
+  color: #039;
+  border-bottom: 2px solid #6678b1;
+  padding: 0.5em;
+  text-align: center;
+}
+table#hor-minimalist-b tr {
+  border-bottom: 1px solid #ddd;
+}
+table#hor-minimalist-b tr:hover td {
+  color: #039; 
+}
+table#hor-minimalist-b tr.other td {
+  background-color: #fafafa;         
+}
+table#hor-minimalist-b tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+table#hor-minimalist-b td {
+  color: #669; 
+  padding: 0.5em 0.5em 0.5em;
+  vertical-align: middle;
+}
+table#hor-minimalist-b tfoot {
+  font-size: 90%;
+}
+table#hor-minimalist-b tfoot tr {
+  border:0;
+}
 </style>
 
 <h1>VEuPathDB Workshops</h1>
@@ -145,19 +181,17 @@ table#hor-minimalist-a tfoot tr {
     <p><a href="{{'/documents/2021athens/Pre_workshop_module.pdf' | absolute_url}}"><b>Pre_workshop_module.pdf</b></a>: This module provides a basic understanding of VEuPathDB concepts and practice with the basic tools on our sites.  We estimate that these exercises can be completed in 2 - 2.5 hours.  <b>Please complete this training module before arriving for the workshop on June 7.</b></p>
     <details closed>
       <summary><b>Schedule</b></summary>
-      <table style="width: 946px; height: 300px;" class="table table-striped table-bordered table-hover">
-      <thead class="bg-primary">
-        <tr>
-          <th>Time</th>
-          <th>Event</th>
-          <th>Instructor</th>
-        </tr>
-      </thead>
-      <thead>
-        <tr>
-          <th class="bg-info" colspan="4" align="center">Monday, June 7th<br>
+      <table id="hor-minimalist-b">
+      <thead> 
+      <tr>
+        <th style="text-align:left">Time</th>
+        <th style="text-align:left">Event</th>
+        <th style="text-align:left">Instructor</th>
+      </tr>
+      <tr>
+        <th style="text-align:left">Monday, June 7th<br>
           All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</th>
-        </tr>
+      </tr>
       </thead>
     <tbody>
         <tr>
