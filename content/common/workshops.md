@@ -147,71 +147,82 @@ table#hor-minimalist-a tfoot tr {
       <summary><b>Schedule</b></summary>
       <p>All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</p>
       <table id="hor-minimalist-a">
-      <thead> 
-      <tr>
-        <th class="break"><b>Monday, June 7th</b></th>
-      </tr>
-      <tr>
-        <th style="text-align:left">Time</th>
-        <th style="text-align:left">Event</th>
-        <th style="text-align:left">Instructor</th>
-      </tr>
-      </thead>
-    <tbody>
-        <tr>
-          <td>8:30am</td>
-          <td>Zoom session opens for discussion<br>
-               Zoom link coming soon</td>
-          <td> </td>
-        </tr>
-        <tr>
-          <td>9:00am</td>
-          <td>Workshop Introduction</td>
-          <td>Omar Harb</td>
-        </tr>
-        <tr>
-          <td>10:00am</td>
-          <td>Transcriptomics</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>11:00am</td>
-          <td>Proteomics</td>
-          <td></td>
-        <tr>
-          <td>12:00pm</td>
-          <td>Lunch Break</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>1:00pm</td>
-          <td>GO enrichment</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>2:00pm</td>
-          <td>Galaxy RNAseq Part1</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>4:00pm</td>
-          <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
-          <td></td>
-        </tr>   
-      </tbody>
-      </table>
-      <table id="hor-minimalist-a">
-      <thead>
-      <tr>
-        <th style="break"><b>Tuesday, June 8th</b></th>
-      </tr>
-      <tr>
-        <th style="text-align:left">Time</th>
-        <th style="text-align:left">Event</th>
-        <th style="text-align:left">Instructor</th>
-      </tr>
-      </thead>
-      <tbody>
+<thead> 
+<tr>
+  <th class="break"><b>Monday, June 7th</b></th>
+</tr>
+<tr>
+  <th style="text-align:left">Time</th>
+  <th style="text-align:left">Event</th>
+  <th style="text-align:left">Instructor</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>8:30am</td>
+<td>Zoom session opens for discussion</td>
+<td> </td>
+</tr>
+
+<tr>
+<td>9:00am</td>
+<td>Workshop Introduction</td>
+<td>Omar Harb</td>
+</tr>
+
+<tr>
+<td>10:00am</td>
+<td>Transcriptomics</td>
+<td></td>
+</tr>
+
+<tr>
+<td>11:00am</td>
+<td>Proteomics</td>
+<td></td>
+</tr>
+
+<tr>
+<td>12:00pm</td>
+<td>Lunch Break</td>
+<td></td>
+</tr>
+
+<tr>
+<td>1:00pm</td>
+<td>GO enrichment</td>
+<td></td>
+</tr>
+
+<tr>
+<td>2:00pm</td>
+<td>Galaxy RNAseq Part1</td>
+<td></td>
+</tr>
+
+<tr>
+<td>4:00pm</td>
+<td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
+<td></td>
+</tr>   
+</tbody>
+</table>
+<br>
+
+<table id="hor-minimalist-a">
+<thead>
+<tr>
+<th class="break"><b>Tuesday, June 8th</b></th>
+</tr>
+<tr>
+<th style="text-align:left">Time</th>
+<th style="text-align:left">Event</th>
+<th style="text-align:left">Instructor</th>
+</tr>
+</thead>
+
+<tbody>
         <tr>
           <td>8:30am</td>
           <td>Zoom session opens for discussion</td>
@@ -252,7 +263,7 @@ table#hor-minimalist-a tfoot tr {
       <table id="hor-minimalist-a">
       <thead>
       <tr>
-        <th style="text-align:left"><b>Wednesday, June 9th</b></th>
+        <th class="break"><b>Wednesday, June 9th</b></th>
       </tr>
       <tr>
         <th style="text-align:left">Time</th>
@@ -305,7 +316,7 @@ table#hor-minimalist-a tfoot tr {
       <table id="hor-minimalist-a">
       <thead>
       <tr>
-        <th style="text-align:left"><b>Thursday, June 10th</b></th>
+        <th class="break"><b>Thursday, June 10th</b></th>
       </tr>
       <tr>
         <th style="text-align:left">Time</th>
