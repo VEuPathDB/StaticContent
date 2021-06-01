@@ -81,42 +81,6 @@ table#hor-minimalist-a tfoot {
 table#hor-minimalist-a tfoot tr {
   border:0;
 }
-table#hor-minimalist-b {
-  text-align: left;
-}
-table#hor-minimalist-b th {
-  font-size: 110%;
-  font-weight: 400;
-  color: #039;
-  border-bottom: 2px solid #6678b1;
-  padding: 0.5em;
-  text-align: center;
-}
-table#hor-minimalist-b tr {
-  border-bottom: 1px solid #ddd;
-}
-table#hor-minimalist-b tr:hover td {
-  color: #039; 
-}
-table#hor-minimalist-b tr.other td {
-  background-color: #fafafa;         
-}
-table#hor-minimalist-b tbody {
-  display: table-row-group;
-  vertical-align: middle;
-  border-color: inherit;
-}
-table#hor-minimalist-b td {
-  color: #669; 
-  padding: 0.5em 0.5em 0.5em;
-  vertical-align: middle;
-}
-table#hor-minimalist-b tfoot {
-  font-size: 90%;
-}
-table#hor-minimalist-b tfoot tr {
-  border:0;
-}
 </style>
 
 <h1>VEuPathDB Workshops</h1>
@@ -182,7 +146,7 @@ table#hor-minimalist-b tfoot tr {
     <details closed>
       <summary><b>Schedule</b></summary>
       <p>All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</p>
-      <table id="hor-minimalist-b">
+      <table id="hor-minimalist-a">
       <thead> 
       <tr>
         <th style="text-align:left">Monday, June 7th</th>
