@@ -98,7 +98,7 @@ table#hor-minimalist-a tfoot tr {
   <h3>Previous Workshops</h3>
   
   <div class="contents">
-    <h4><a href="#hinxton2021">2021 Fungal Pathogen Genomics</a></h4>
+    <h4><a href="#hinxton2021">2021 Fungal Pathogen Genomics (Virtual)</a></h4>
     May 10-14, 2021 (Virtual).
   </div>
 
@@ -154,7 +154,7 @@ table#hor-minimalist-a tfoot tr {
 <div class="contents">    
 <div class="anchor"><a name="hinxton2021"></a></div>
   <div class="workshop">
-  <h3></h3>
+  <h3>2021 Fungal Pathogen Genomics (Virtual)</h3>
     This workshop was organized by the Wellcome Trust Advanced Courses and was held virtually. <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-virtual-20210510/#:~:text=Summary-,Summary,and%20human%2Fanimal%2Fplant%20health">
     2021 Fungal Pathogen Genomics (Virtual)</a>.
     May 10-14, 2020 (Virtual).<br>
