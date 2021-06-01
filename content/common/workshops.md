@@ -164,14 +164,14 @@ table#hor-minimalist-a tfoot tr {
         <li><a href="{{'/documents/2021hinxtonfungal/1_SGD_mainpage_anatomy.pdf' | absolute_url}}">SGD main page anatomy</a></li>
         <li><a href="{{'/documents/2021hinxtonfungal/2_SGD_Gene_Pages.pdf' | absolute_url}}">SGD Gene pages</a></li>
         <li><a href="{{'/documents/2021hinxtonfungal/3_CGD_mainpage_anatomy.pdf' | absolute_url}}">CGD main page anatomy</a></li>
-        <li><a href="{{'/documents/2021hinxtonfungal/4_CGD_Gene_Pages.pdf' | absolute_url}}">CGD Gene Pages</a></li>
+        <li><a href="{{'/documents/2021hinxtonfungal/4_CGD_Gene_Pages.pdf' | absolute_url}}">CGD Gene pages</a></li>
         <li><a href="{{'/documents/2021hinxtonfungal/4_SGD_CGD_Browsers_JBrowse.pdf' | absolute_url}}">SGD and CGD Genome browsers JBrowse</a></li>
         <li><a href="{{'/documents/2021hinxtonfungal/5_Anatomy_of_Ensembl_Fungi.pdf' | absolute_url}}">Anatomy of Ensembl Fungi</a></li>
-        <li><a href="{{'/documents/2021hinxtonfungal/6_Ensembl_Fungi_Genepages_genome_browser_exercises.pdf' | absolute_url}}">Ensembl Fungi_Genepages genome browser exercises</a></li>
-        <li><a href="{{'/documents/2021hinxtonfungal/7_FungiDB_Navigating_main_page.pdf' | absolute_url}}">FungiDB Navigating main page</a></li>
+        <li><a href="{{'/documents/2021hinxtonfungal/6_Ensembl_Fungi_Genepages_genome_browser_exercises.pdf' | absolute_url}}">Ensembl Fungi: Gene pages and genome browser</a></li>
+        <li><a href="{{'/documents/2021hinxtonfungal/7_FungiDB_Navigating_main_page.pdf' | absolute_url}}">FungiDB main page anatomy</a></li>
         <li><a href="{{'/documents/2021hinxtonfungal/8_FungiDB_site_search.pdf' | absolute_url}}">FungiDB site search</a></li>
         <li><a href="{{'/documents/2021hinxtonfungal/9_FungiDB_Navigating_gene_record_pages.pdf' | absolute_url}}">FungiDB Navigating gene record pages</a></li>
-        <li><a href="{{'/documents/2021hinxtonfungal/10_AnatomyOfMycoCosm_2021.pdf' | absolute_url}}">Anatomy of MycoCosm</a></li>
+        <li><a href="{{'/documents/2021hinxtonfungal/10_AnatomyOfMycoCosm_2021.pdf' | absolute_url}}">Anatomy of JGI MycoCosm</a></li>
      </ul>
     </details>
     <br> 
