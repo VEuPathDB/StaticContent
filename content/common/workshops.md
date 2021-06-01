@@ -184,13 +184,13 @@ table#hor-minimalist-b tfoot tr {
       <table id="hor-minimalist-b">
       <thead> 
       <tr>
+        <th style="text-align:left">Monday, June 7th<br>
+          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</th>
+      </tr>
+      <tr>
         <th style="text-align:left">Time</th>
         <th style="text-align:left">Event</th>
         <th style="text-align:left">Instructor</th>
-      </tr>
-      <tr>
-        <th style="text-align:left">Monday, June 7th<br>
-          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</th>
       </tr>
       </thead>
     <tbody>
@@ -236,10 +236,15 @@ table#hor-minimalist-b tfoot tr {
         </tr>   
       </tbody>
       <thead>
-        <tr>
-          <th class="bg-ltblue" colspan="4" align="center"> Tuesday, June 8th <br>
-          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>. </th>
-        </tr>
+      <tr>
+        <th style="text-align:left">Tuesday, June 8th<br>
+          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</th>
+      </tr>
+      <tr>
+        <th style="text-align:left">Time</th>
+        <th style="text-align:left">Event</th>
+        <th style="text-align:left">Instructor</th>
+      </tr>
       </thead>
       <tbody>
         <tr>
@@ -279,10 +284,15 @@ table#hor-minimalist-b tfoot tr {
         </tr>   
       </tbody>
       <thead>
-        <tr>
-          <th class="bg-info" colspan="4" align="center">Wednesday, June 9th<br>
-          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>. </th>
-        </tr>
+      <tr>
+        <th style="text-align:left">Wednesday, June 9th<br>
+          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</th>
+      </tr>
+      <tr>
+        <th style="text-align:left">Time</th>
+        <th style="text-align:left">Event</th>
+        <th style="text-align:left">Instructor</th>
+      </tr>
       </thead>
       <tbody>
         <tr>
@@ -326,10 +336,15 @@ table#hor-minimalist-b tfoot tr {
         </tr>   
       </tbody>
       <thead>
-        <tr>
-          <th class="bg-info" colspan="4" align="center">Thursday, June 10th<br>
-          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>. </th>
-        </tr>
+      <tr>
+        <th style="text-align:left">Thursday, June 10th<br>
+          All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</th>
+      </tr>
+      <tr>
+        <th style="text-align:left">Time</th>
+        <th style="text-align:left">Event</th>
+        <th style="text-align:left">Instructor</th>
+      </tr>
       </thead>
       <tbody>
         <tr>
