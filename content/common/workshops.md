@@ -149,7 +149,7 @@ table#hor-minimalist-a tfoot tr {
       <table id="hor-minimalist-a">
       <thead> 
       <tr>
-        <th style="text-align:left">Monday, June 7th</th>
+        <th class="break"><b>Monday, June 7th</b></th>
       </tr>
       <tr>
         <th style="text-align:left">Time</th>
@@ -199,9 +199,11 @@ table#hor-minimalist-a tfoot tr {
           <td></td>
         </tr>   
       </tbody>
+      </table>
+      <table id="hor-minimalist-a">
       <thead>
       <tr>
-        <th style="text-align:left">Tuesday, June 8th</th>
+        <th style="break"><b>Tuesday, June 8th</b></th>
       </tr>
       <tr>
         <th style="text-align:left">Time</th>
@@ -246,9 +248,11 @@ table#hor-minimalist-a tfoot tr {
           <td></td>
         </tr>   
       </tbody>
+      </table>
+      <table id="hor-minimalist-a">
       <thead>
       <tr>
-        <th style="text-align:left">Wednesday, June 9th</th>
+        <th style="text-align:left"><b>Wednesday, June 9th</b></th>
       </tr>
       <tr>
         <th style="text-align:left">Time</th>
@@ -297,9 +301,11 @@ table#hor-minimalist-a tfoot tr {
           <td></td>
         </tr>   
       </tbody>
+      </table>
+      <table id="hor-minimalist-a">
       <thead>
       <tr>
-        <th style="text-align:left">Thursday, June 10th</th>
+        <th style="text-align:left"><b>Thursday, June 10th</b></th>
       </tr>
       <tr>
         <th style="text-align:left">Time</th>
@@ -339,7 +345,7 @@ table#hor-minimalist-a tfoot tr {
           <td></td>
         </tr>   
       </tbody>
-    </table>
+      </table>
     </details>
   </div>
 
