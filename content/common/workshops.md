@@ -176,7 +176,7 @@ table#hor-minimalist-a tfoot tr {
     </details>
     <br> 
     <details closed>
-      <summary><b>Workshop module: Data mining in FungiDB, CGS, SGD, JGI MycoCosm, and Ensembl Fungi</b></summary>
+      <summary><b>Workshop module: Data mining in FungiDB, CGD, SGD, JGI MycoCosm, and Ensembl Fungi</b></summary>
       <ul>  
         <li>Database Queries
            <ul>
