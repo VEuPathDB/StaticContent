@@ -4,7 +4,7 @@ cards:
     date: 2021/06/03
     exclude: OrthoMCL
     links:
-      - name: "Apollo: Gene manual annotation"
+      - name: "Apollo: Manual gene annotation"
         path: Apollo_functional_annotation_03_06_2021.pdf
         description:
   - card: Gene Pages
