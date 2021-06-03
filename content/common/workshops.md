@@ -269,105 +269,106 @@ table#hor-minimalist-a tfoot tr {
 </table>
 
 <table id="hor-minimalist-a">
-      <thead>
-      <tr>
-        <th class="break"><b>Wednesday, June 9th</b></th>
-      </tr>
-      <tr>
-        <th style="text-align:left">Time</th>
-        <th style="text-align:left">Event</th>
-        <th style="text-align:left">Instructor</th>
-      </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>8:30am</td>
-          <td>Zoom session opens for discussion</td>
-          <td> </td>
-        </tr>
-        <tr>
-          <td>9:00am</td>
-          <td>Orthology</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>10:00am</td>
-          <td>Genetic Variation (SNPs and CNV)</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>11:00am</td>
-          <td>Galaxy Variants Part 2</td>
-          <td></td>
-        <tr>
-          <td>12:00pm</td>
-          <td>Lunch Break</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>1:00pm</td>
-          <td>Galaxy Variants Part 2 (cont.)</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>2:00pm</td>
-          <td>Final group presentation description and breakouts</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>4:00pm</td>
-          <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
-          <td></td>
-        </tr>   
+<thead>
+  <tr>
+    <th class="break"><b>Wednesday, June 9th</b></th>
+  </tr>
+  <tr>
+    <th style="text-align:left">Time</th>
+    <th style="text-align:left">Event</th>
+    <th style="text-align:left">Instructor</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>8:30am</td>
+    <td>Zoom session opens for discussion</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>9:00am</td>
+    <td>Orthology</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10:00am</td>
+    <td>Genetic Variation (SNPs and CNV)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11:00am</td>
+    <td>Galaxy Variants Part 2</td>
+    <td></td>
+  <tr>
+    <td>12:00pm</td>
+    <td>Lunch Break</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1:00pm</td>
+    <td>Galaxy Variants Part 2 (cont.)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2:00pm</td>
+    <td>Final group presentation description and breakouts</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4:00pm</td>
+    <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
+    <td></td>
+  </tr>   
 </tbody>
-      </table>
-      <table id="hor-minimalist-a">
-      <thead>
-      <tr>
-        <th class="break"><b>Thursday, June 10th</b></th>
-      </tr>
-      <tr>
-        <th style="text-align:left">Time</th>
-        <th style="text-align:left">Event</th>
-        <th style="text-align:left">Instructor</th>
-      </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>8:30am</td>
-          <td>Zoom session opens for discussion</td> 
-          <td> </td>
-        </tr>
-        <tr>
-          <td>9:00am</td>
-          <td>Metabolic pathways</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>10:00am</td>
-          <td>Final Project group work</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>12:00pm</td>
-          <td>Lunch Break</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>1:00pm</td>
-          <td>Final Project presentations</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>4:00pm</td>
-          <td>Official workshop ends.</td>
-          <td></td>
-        </tr>   
-      </tbody>
-      </table>
-    </details>
-  </div>
-  </div>
+</table>
+
+<table id="hor-minimalist-a">
+<thead>
+  <tr>
+    <th class="break"><b>Thursday, June 10th</b></th>
+  </tr>
+  <tr>
+    <th style="text-align:left">Time</th>
+    <th style="text-align:left">Event</th>
+    <th style="text-align:left">Instructor</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>8:30am</td>
+    <td>Zoom session opens for discussion</td> 
+    <td> </td>
+  </tr>
+  <tr>
+    <td>9:00am</td>
+    <td>Metabolic pathways</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10:00am</td>
+    <td>Final Project group work</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12:00pm</td>
+    <td>Lunch Break</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1:00pm</td>
+    <td>Final Project presentations</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4:00pm</td>
+    <td>Official workshop ends.</td>
+    <td></td>
+  </tr>   
+</tbody>
+</table>
+</details>
+</div>
+</div>
 
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
