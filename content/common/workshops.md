@@ -158,54 +158,46 @@ table#hor-minimalist-a tfoot tr {
     <th style="text-align:left">Instructor</th>
   </tr>
 </thead>
-
 <tbody>
   <tr>
-  <td>8:30am</td>
-  <td>Zoom session opens for discussion</td>
-  <td> </td>
+    <td>8:30am</td>
+    <td>Zoom session opens for discussion</td>
+    <td> </td>
   </tr>
-
   <tr>
-  <td>9:00am</td>
-  <td>Workshop Introduction</td>
-  <td>Omar Harb</td>
+    <td>9:00am</td>
+    <td>Workshop Introduction</td>
+    <td>Omar Harb</td>
   </tr>
-
   <tr>
-  <td>10:00am</td>
-  <td>Transcriptomics</td>
-  <td></td>
+    <td>10:00am</td>
+    <td>Transcriptomics</td>
+    <td></td>
   </tr>
-
   <tr>
-  <td>11:00am</td>
-  <td>Proteomics</td>
-  <td></td>
+    <td>11:00am</td>
+    <td>Proteomics</td>
+    <td></td>
   </tr>
-
   <tr>
-  <td>12:00pm</td>
-  <td>Lunch Break</td>
-  <td></td>
+    <td>12:00pm</td>
+    <td>Lunch Break</td>
+    <td></td>
   </tr>
-
   <tr>
-  <td>1:00pm</td>
-  <td>GO enrichment</td>
-  <td></td>
+    <td>1:00pm</td>
+    <td>GO enrichment</td>
+    <td></td>
   </tr>
-
   <tr>
-  <td>2:00pm</td>
-  <td>Galaxy RNAseq Part1</td>
-  <td></td>
+    <td>2:00pm</td>
+    <td>Galaxy RNAseq Part1</td>
+    <td></td>
   </tr>
-
   <tr>
-  <td>4:00pm</td>
-  <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
-  <td></td>
+    <td>4:00pm</td>
+    <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
+    <td></td>
   </tr>   
 </tbody>
 </table>
