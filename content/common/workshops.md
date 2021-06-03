@@ -202,7 +202,6 @@ table#hor-minimalist-a tfoot tr {
 </tbody>
 </table>
 <br>
-
 <table id="hor-minimalist-a">
 <thead>
   <tr>
@@ -214,48 +213,41 @@ table#hor-minimalist-a tfoot tr {
     <th style="text-align:left">Instructor</th>
   </tr>
 </thead>
-
 <tbody>
   <tr>
-  <td>8:30am</td>
-  <td>Zoom session opens for discussion</td>
-  <td> </td>
+    <td>8:30am</td>
+    <td>Zoom session opens for discussion</td>
+    <td> </td>
   </tr>
-
   <tr>
-  <td>9:00am</td>
-  <td>Phenotype data</td>
-  <td></td>
+    <td>9:00am</td>
+    <td>Phenotype data</td>
+    <td></td>
   </tr>
-
   <tr>
-  <td>10:00am</td>
-  <td>Advanced Genome Browser</td>
-  <td></td>
+    <td>10:00am</td>
+    <td>Advanced Genome Browser</td>
+    <td></td>
   </tr>
-
   <tr>
-  <td>12:00pm</td>
-  <td>Lunch Break</td>
-  <td></td>
+    <td>12:00pm</td>
+    <td>Lunch Break</td>
+    <td></td>
   </tr>
-
   <tr>
-  <td>1:00pm</td>
-  <td>Galaxy RNAseq Part2</td>
-  <td></td>
+    <td>1:00pm</td>
+    <td>Galaxy RNAseq Part2</td>
+    <td></td>
   </tr>
-
   <tr>
-  <td>3:00pm</td>
-  <td>Galaxy Variants Part 1</td>
-  <td></td>
+    <td>3:00pm</td>
+    <td>Galaxy Variants Part 1</td>
+    <td></td>
   </tr>
-
   <tr>
-  <td>4:00pm</td>
-  <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
-  <td></td>
+    <td>4:00pm</td>
+    <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
+    <td></td>
   </tr>
 </tbody>
 </table>
