@@ -213,55 +213,62 @@ table#hor-minimalist-a tfoot tr {
 
 <table id="hor-minimalist-a">
 <thead>
-<tr>
-<th class="break"><b>Tuesday, June 8th</b></th>
-</tr>
-<tr>
-<th style="text-align:left">Time</th>
-<th style="text-align:left">Event</th>
-<th style="text-align:left">Instructor</th>
-</tr>
+  <tr>
+    <th class="break"><b>Tuesday, June 8th</b></th>
+  </tr>
+  <tr>
+    <th style="text-align:left">Time</th>
+    <th style="text-align:left">Event</th>
+    <th style="text-align:left">Instructor</th>
+  </tr>
 </thead>
 
 <tbody>
-        <tr>
-          <td>8:30am</td>
-          <td>Zoom session opens for discussion</td>
-          <td> </td>
-        </tr>
-        <tr>
-          <td>9:00am</td>
-          <td>Phenotype data</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>10:00am</td>
-          <td>Advanced Genome Browser</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>12:00pm</td>
-          <td>Lunch Break</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>1:00pm</td>
-          <td>Galaxy RNAseq Part2</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>3:00pm</td>
-          <td>Galaxy Variants Part 1</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>4:00pm</td>
-          <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
-          <td></td>
-        </tr>   
-      </tbody>
-      </table>
-      <table id="hor-minimalist-a">
+  <tr>
+  <td>8:30am</td>
+  <td>Zoom session opens for discussion</td>
+  <td> </td>
+  </tr>
+
+  <tr>
+  <td>9:00am</td>
+  <td>Phenotype data</td>
+  <td></td>
+  </tr>
+
+  <tr>
+  <td>10:00am</td>
+  <td>Advanced Genome Browser</td>
+  <td></td>
+  </tr>
+
+  <tr>
+  <td>12:00pm</td>
+  <td>Lunch Break</td>
+  <td></td>
+  </tr>
+
+  <tr>
+  <td>1:00pm</td>
+  <td>Galaxy RNAseq Part2</td>
+  <td></td>
+  </tr>
+
+  <tr>
+  <td>3:00pm</td>
+  <td>Galaxy Variants Part 1</td>
+  <td></td>
+  </tr>
+
+  <tr>
+  <td>4:00pm</td>
+  <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
+  <td></td>
+  </tr>
+</tbody>
+</table>
+
+<table id="hor-minimalist-a">
       <thead>
       <tr>
         <th class="break"><b>Wednesday, June 9th</b></th>
