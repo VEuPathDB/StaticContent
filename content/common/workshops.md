@@ -267,7 +267,7 @@ table#hor-minimalist-a tfoot tr {
   </tr>
 </tbody>
 </table>
-
+<br>
 <table id="hor-minimalist-a">
 <thead>
   <tr>
@@ -321,7 +321,7 @@ table#hor-minimalist-a tfoot tr {
   </tr>   
 </tbody>
 </table>
-
+<br>
 <table id="hor-minimalist-a">
 <thead>
   <tr>
