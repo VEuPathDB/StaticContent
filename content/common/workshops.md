@@ -359,6 +359,7 @@ table#hor-minimalist-a tfoot tr {
       </table>
     </details>
   </div>
+  </div>
 
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
