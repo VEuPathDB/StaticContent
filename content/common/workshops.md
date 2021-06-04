@@ -133,7 +133,7 @@ table#hor-minimalist-a tfoot tr {
 
 <hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
 
-<h3>Upcoming Workshops</h3>
+<h3>Upcoming Workshops - Details</h3>
 
 <div class="contents">
 <div class="anchor"><a name="veupath2021"></a></div>
@@ -357,7 +357,7 @@ table#hor-minimalist-a tfoot tr {
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 
-<h3>Previous Workshops</h3>
+<h3>Previous Workshops - Details</h3>
 <hr>
 
 <div class="contents">    
