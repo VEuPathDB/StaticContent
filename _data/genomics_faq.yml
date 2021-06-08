@@ -163,3 +163,14 @@
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/genomics_faq_14.png"  />
   uid: fastaformat
   projects: ""
+- type: general
+  question: "How do I add a restriction site to JBrowse?"
+  answer: |
+           In JBrowse
+           1. Select “Add sequence search track” from the Track menu
+           2. Enter the enzyme sequence in the popup
+           3. The location of the sequence will now show up in the browser.  The cool thing is that you can add multiple tracks with sequences that you define 
+            
+            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/restrictionsite_faq.png"  />
+  uid: restrictionsite
+  projects: ""
