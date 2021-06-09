@@ -45,10 +45,10 @@ tr.break td {
   background-color: #DCDCDC;
 }
 
-table#hor-minimalist-a {
+table.hor-minimalist-a {
   text-align: left;
 }
-table#hor-minimalist-a th {
+table.hor-minimalist-a th {
   font-size: 110%;
   font-weight: 400;
   color: #039;
@@ -56,29 +56,29 @@ table#hor-minimalist-a th {
   padding: 0.5em;
   text-align: center;
 }
-table#hor-minimalist-a tr {
+table.hor-minimalist-a tr {
   border-bottom: 1px solid #ddd;
 }
-table#hor-minimalist-a tr:hover td {
+table.hor-minimalist-a tr:hover td {
   color: #039; 
 }
-table#hor-minimalist-a tr.other td {
+table.hor-minimalist-a tr.other td {
   background-color: #fafafa;         
 }
-table#hor-minimalist-a tbody {
+table.hor-minimalist-a tbody {
   display: table-row-group;
   vertical-align: middle;
   border-color: inherit;
 }
-table#hor-minimalist-a td {
+table.hor-minimalist-a td {
   color: #669; 
   padding: 0.5em 0.5em 0.5em;
   vertical-align: middle;
 }
-table#hor-minimalist-a tfoot {
+table.hor-minimalist-a tfoot {
   font-size: 90%;
 }
-table#hor-minimalist-a tfoot tr {
+table.hor-minimalist-a tfoot tr {
   border:0;
 }
 </style>
@@ -96,8 +96,9 @@ table#hor-minimalist-a tfoot tr {
   <hr>
   
   <h3>Previous Workshops</h3>
+  
   <div class="contents">
-    <h4><a href="#hinxton2021">2021 Fungal Pathogen Genomics</a></h4>
+    <h4><a href="#hinxton2021">2021 Fungal Pathogen Genomics (Virtual)</a></h4>
     May 10-14, 2021 (Virtual).
   </div>
 
@@ -132,32 +133,267 @@ table#hor-minimalist-a tfoot tr {
 
 <hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
 
-<h3>Upcoming Workshops</h3>
+<h3>Upcoming Workshops - Details</h3>
 
 <div class="contents">
-<div class="anchor"><a name="veupath2021"></a></div>
+
+  <div class="anchor"><a name="veupath2021"></a></div>
   <div class="workshop">
     <h3>Annual VEuPathDB Workshop 2021 (Virtual)</h3>
     <p>Half-days on June 7 - 10, 2021</p> 
     <p>Over 4 half-days, the VEuPathDB will provide a thorough and intensive introduction to database resources that are part of the VEuPathDB Bioinformatics Resource Center. The workshop is centered on determining what is — and isn't — working for you, the end-user. Our goal is to maintain a fruitful and ongoing conversation between the developers and the biologists to obtain more efficient, effective ways to help you reach your goals. We hope this experience is as beneficial for you as it is for us, and we look forward to learning together. </p>
     <!--<p> <a href="https://workshop.eupathdb.org/athens/2021/"> More info</a></p>-->
     <p><a href="{{'/documents/2021athens/Pre_workshop_module.pdf' | absolute_url}}"><b>Pre_workshop_module.pdf</b></a>: This module provides a basic understanding of VEuPathDB concepts and practice with the basic tools on our sites.  We estimate that these exercises can be completed in 2 - 2.5 hours.  <b>Please complete this training module before arriving for the workshop on June 7.</b></p>
-  </div>
+    <details closed>
+      <summary><b>Schedule</b></summary>
+      <p>All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</p>
+
+
+
+<table class="hor-minimalist-a">
+<thead> 
+  <tr>
+    <th class="break"><b>Monday, June 7th</b></th>
+  </tr>
+  <tr>
+    <th style="text-align:left">Time</th>
+    <th style="text-align:left">Event</th>
+    <th style="text-align:left">Instructor</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>8:30am</td>
+    <td>Zoom session opens for discussion</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>9:00am</td>
+    <td>Workshop Introduction</td>
+    <td>Omar Harb</td>
+  </tr>
+  <tr>
+    <td>10:00am</td>
+    <td>Transcriptomics</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11:00am</td>
+    <td>Proteomics</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12:00pm</td>
+    <td>Lunch Break</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1:00pm</td>
+    <td>GO enrichment</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2:00pm</td>
+    <td>Galaxy RNAseq Part1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4:00pm</td>
+    <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
+    <td></td>
+  </tr>   
+</tbody>
+</table>
+
+
+
+
+
+
+
+<br>
+<table class="hor-minimalist-a">
+<thead>
+  <tr>
+    <th class="break"><b>Tuesday, June 8th</b></th>
+  </tr>
+  <tr>
+    <th style="text-align:left">Time</th>
+    <th style="text-align:left">Event</th>
+    <th style="text-align:left">Instructor</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>8:30am</td>
+    <td>Zoom session opens for discussion</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>9:00am</td>
+    <td>Phenotype data</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10:00am</td>
+    <td>Advanced Genome Browser</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12:00pm</td>
+    <td>Lunch Break</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1:00pm</td>
+    <td>Galaxy RNAseq Part2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3:00pm</td>
+    <td>Galaxy Variants Part 1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4:00pm</td>
+    <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+<br>
+<table class="hor-minimalist-a">
+<thead>
+  <tr>
+    <th class="break"><b>Wednesday, June 9th</b></th>
+  </tr>
+  <tr>
+    <th style="text-align:left">Time</th>
+    <th style="text-align:left">Event</th>
+    <th style="text-align:left">Instructor</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>8:30am</td>
+    <td>Zoom session opens for discussion</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9:00am</td>
+    <td>Orthology</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10:00am</td>
+    <td>Genetic Variation (SNPs and CNV)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11:00am</td>
+    <td>Galaxy Variants Part 2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12:00pm</td>
+    <td>Lunch Break</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1:00pm</td>
+    <td>Galaxy Variants Part 2 (cont.)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2:00pm</td>
+    <td>Final group presentation description and breakouts</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4:00pm</td>
+    <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
+    <td></td>
+  </tr>   
+</tbody>
+</table>
+
+
+
+<br>
+<table class="hor-minimalist-a">
+<thead>
+  <tr>
+    <th class="break"><b>Thursday, June 10th</b></th>
+  </tr>
+  <tr>
+    <th style="text-align:left">Time</th>
+    <th style="text-align:left">Event</th>
+    <th style="text-align:left">Instructor</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>8:30am</td>
+    <td>Zoom session opens for discussion</td> 
+    <td> </td>
+  </tr>
+  <tr>
+    <td>9:00am</td>
+    <td>Metabolic pathways</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10:00am</td>
+    <td>Final Project group work</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12:00pm</td>
+    <td>Lunch Break</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1:00pm</td>
+    <td>Final Project presentations</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4:00pm</td>
+    <td>Official workshop ends.</td>
+    <td></td>
+  </tr>   
+</tbody>
+</table>
+
+
+</details>
+
+
 </div>
+</div>
+
 
 
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 
-<h3>Previous Workshops</h3>
+<h3>Previous Workshops - Details</h3>
 <hr>
 
 <div class="contents">    
-<div class="anchor"><a name="hinxton2021"></a></div>
+
+  <div class="anchor"><a name="hinxton2021"></a></div>
   <div class="workshop">
-  <h3>2021 Fungal Pathogen Genomics (Virtual)</h3>
+
+    <h3>2021 Fungal Pathogen Genomics (Virtual)</h3>
     This workshop was organized by the Wellcome Trust Advanced Courses and was held virtually. <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-virtual-20210510/#:~:text=Summary-,Summary,and%20human%2Fanimal%2Fplant%20health">
     2021 Fungal Pathogen Genomics (Virtual)</a>.
-    May 10-14, 2020<br>
+    May 10-14, 2020 (Virtual).<br>
+
     <details closed>
       <summary><b>Pre-workshop module: Gene pages and Genome browsers</b></summary>
       <ul>
@@ -259,18 +495,20 @@ table#hor-minimalist-a tfoot tr {
       </ul>
     </details>
     <br>
+
   </div>
+ 
 
-<hr>
 
-<div class="contents">    
-<div class="anchor"><a name="hinxton2020"></a></div>
+  <hr>  
+     
+  <div class="anchor"><a name="hinxton2020"></a></div>
   <div class="workshop">
-  <h3>Working with Protozoan Parasite Database Resources</h3>
+    <h3>Working with Protozoan Parasite Database Resources</h3>
     This workshop was organized by the Wellcome Trust Advanced Courses and was held virtually. <a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/">
     Working with Protozoan Parasite Database Resources</a>.
     October 5-9, 2020 (Virtual).<br>
-    <details open>
+    <details closed>
       <summary><b>Exercises</b></summary>
       <ul>
         <li><a href="{{'/documents/hinxtonparasite/01b_SearchStrategies_Exercise_PlasmoDB.pdf' | absolute_url}}">Search Strategy Basics</a></li>
@@ -301,7 +539,9 @@ table#hor-minimalist-a tfoot tr {
     </details>
     <br>
   </div>
-<hr>
+
+  <hr>
+
   <div class="anchor"><a name="mpm2020"></a></div>
   <div class="workshop">
     <h3>Pre-MPM VEuPathDB workshop<span style="font-weight:100">, Friday September 18th, 2020 - from 10AM-2PM US Eastern time</span></h3>
@@ -309,7 +549,7 @@ table#hor-minimalist-a tfoot tr {
     <p>Registration: closed.</p>
     <details open>
       <summary><b>Schedule and exercises</b></summary>
-      <table id="hor-minimalist-a">
+      <table class="hor-minimalist-a">
 
 <thead>
 <tr>
@@ -458,7 +698,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
 <li>Other members from the VEuPathDB team will join us to help you during the exercises</li>
 </ul>
 
-<table id="hor-minimalist-a">
+<table class="hor-minimalist-a">
   <thead style="font-weight:bold">
     <tr><th colspan="4">Time</th><th rowspan="2">Topic</th><th rowspan="2">Instructor</th></tr>
     <tr><th>PDT (W. Coast)</th><th>EDT (E. Coast)</th><th>CET (Europe)</th><th>Length (min)</th></tr>
@@ -501,21 +741,21 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
     Email your questions to <a target="_blank" href="/a/app/contact-us">
     help@vectorbase.org  </a></p>
 
-</div>
+  </div>
 
-<br>
-<hr>
+  <br>
+  <hr>
 
-<div class="anchor"><a name="apollo-2020-7-27"></a></div>
-<div class="workshop">
+  <div class="anchor"><a name="apollo-2020-7-27"></a></div>
+  <div class="workshop">
 
-<h3>Gene manual annotation with Apollo workshop at AGS
-  <span style="font-weight:100">, on Monday July 27th, 2020</span>
-</h3>
+    <h3>Gene manual annotation with Apollo workshop at AGS
+      <span style="font-weight:100">, on Monday July 27th, 2020</span>
+    </h3>
 
-<p>
-  This workshop is a 2-hour introduction to the tool Apollo, which is currently available in VectorBase. This course will guide you through the process of updating and fixing gene models based on underlying data, including topics such as the addition of new genes, edition of the intron/exon boundaries, use of RNAseq and homology alignment data to support changes. This workshop would benefit vector biologist or any scientist with interest in annotating their favorite genes in Apollo available in other databases, e.g., i5k (<a target="_blank" href="https://i5k.nal.usda.gov/jbrowse-and-apollo">https://i5k.nal.usda.gov/jbrowse-and-apollo</a>).  
-</p>
+    <p>
+      This workshop is a 2-hour introduction to the tool Apollo, which is currently available in VectorBase. This course will guide you through the process of updating and fixing gene models based on underlying data, including topics such as the addition of new genes, edition of the intron/exon boundaries, use of RNAseq and homology alignment data to support changes. This workshop would benefit vector biologist or any scientist with interest in annotating their favorite genes in Apollo available in other databases, e.g., i5k (<a target="_blank" href="https://i5k.nal.usda.gov/jbrowse-and-apollo">https://i5k.nal.usda.gov/jbrowse-and-apollo</a>).  
+    </p>
 
 <!--<p>
   <b>Who should apply:</b> 
@@ -570,7 +810,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
   <li>Other members from the VEuPathDB team will join us to help you during the exercises</li>
 </ul>
 
-<table id="hor-minimalist-a">
+<table class="hor-minimalist-a">
   <thead style="font-weight:bold">
     <tr><th colspan="4">Time</th><th rowspan="2">Topic</th><th rowspan="2">Instructor</th></tr>
     <tr><th>PDT (W. Coast)</th><th>EDT (E. Coast)</th><th>CET (Europe)</th><th>Length (min)</th></tr>
