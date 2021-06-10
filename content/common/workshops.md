@@ -252,8 +252,9 @@ table.hor-minimalist-a tfoot tr {
   </tr>
   <tr>
     <th style="text-align:left">Time</th>
-    <th style="text-align:left">Event</th>
+    <th style="text-align:left">Event and PDF handouts</th>
     <th style="text-align:left">Instructor</th>
+    <th style="text-align:left">Recording</th>
   </tr>
 </thead>
 <tbody>
@@ -261,43 +262,64 @@ table.hor-minimalist-a tfoot tr {
     <td>8:30am</td>
     <td>Zoom session opens for discussion</td>
     <td> </td>
+    <td> </td>
   </tr>
   <tr>
-    <td>9:00am</td>
-    <td>Phenotype data</td>
+    <td>9:00 - 9:10am</td>
+    <td>Phenotype lecture</td>
+    <td>Evelina Basenko</td>
+    <td><iframe width="180" height="115" src="https://www.youtube.com/embed/fEFpS6sJ6lc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
+  </tr>
+  <tr>
+    <td>9:10 - 10:00am</td>
+    <td>Break out rooms for hands on work - <br><a href="exercises/Day2/Phenotypic_data.pdf" class="ex-link"><b>Phenotype</b></a></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>10:00am</td>
-    <td>Advanced Genome Browser</td>
+    <td>10:00 - 10:20am</td>
+    <td>Gene models lecture</td>
+    <td>David Roos<br></td>
+    <td><iframe width="180" height="115" src="https://www.youtube.com/embed/toRnpKcNUH4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td>10:20 - 11:30am</td>
+    <td>Break out rooms for hands on work - <br><a href="exercises/Day2/Adv_JBrowse_RNAseqII.pdf" class="ex-link"><b>Adv. JBrowse gene models</b></a></td>
+    <td></td>
+    <td></td>
+        </tr>
+  <tr>
+    <td>11:30am - 12:00pm</td>
+    <td>Group discussion with some students highlighting what they found</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>12:00pm</td>
     <td>Lunch Break</td>
     <td></td>
+    <td> </td>
   </tr>
   <tr>
-    <td>1:00pm</td>
-    <td>Galaxy RNAseq Part2</td>
+    <td>1:00 - 1:20pm</td>
+    <td>Lecture RNAseq pipeline output, Fastq and DESeq2</td>
+    <td>Mark Hickman</td>
+    <td><iframe width="180" height="115" src="https://www.youtube.com/embed/kyjoEeXhMak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td>1:20 - 3:00pm</td>
+    <td>Break out rooms for hands on work - <br><a href="exercises/Day2/VEuPathDB_RNAseq_mapping_Galaxy_2.pdf" class="ex-link"><b>RNAseq Galaxy part 2</b></a></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>3:00pm</td>
-    <td>Galaxy Variants Part 1</td>
+    <td>3 - 3:30pm</td>
+    <td>Optional discussion and question time </td>
     <td></td>
-  </tr>
-  <tr>
-    <td>4:00pm</td>
-    <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
-    <td></td>
+    <td> </td>
   </tr>
 </tbody>
 </table>
-
-
-
-
 
 <br>
 <table class="hor-minimalist-a">
