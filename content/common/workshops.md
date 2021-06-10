@@ -231,7 +231,7 @@ table.hor-minimalist-a tfoot tr {
   </tr>
   <tr>
     <td>1:50 - 3:00pm</td>
-    <td>Break out rooms for hands on work - RNAseq Galaxy part 1<br> <a href="exercises/Day1/Galaxy-RNAseq-groups.pdf" class="ex-link"><b>Datasets</b></a>and <a href="exercises/Day1/VEuPathDB_RNAseq_Mapping_Galaxy_1-2.pdf" class="ex-link"><b>Instructions</b></a></td>
+    <td>Break out rooms for hands on work - RNAseq Galaxy part 1<br> <a href="exercises/Day1/Galaxy-RNAseq-groups.pdf" class="ex-link"><b>Datasets</b></a> and <a href="exercises/Day1/VEuPathDB_RNAseq_Mapping_Galaxy_1-2.pdf" class="ex-link"><b>Instructions</b></a></td>
     <td></td>
     <td> </td>
   </tr>   
