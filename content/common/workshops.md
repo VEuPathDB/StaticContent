@@ -168,9 +168,9 @@ table.hor-minimalist-a tfoot tr {
     <td> </td>
   </tr>
   <tr>
-    <td>9:00am</td>
+    <td>9:00 9:10am</td>
     <td>Workshop Introduction</td>
-    <td>Omar Harb</td>
+    <td>Jessica Kissinger<br><iframe width="180" height="115" src="https://www.youtube.com/embed/KW4KpPAVpEo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>10:00am</td>
