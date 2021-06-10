@@ -287,7 +287,7 @@ table.hor-minimalist-a tfoot tr {
     <td>Break out rooms for hands on work - <br><a href="exercises/Day2/Adv_JBrowse_RNAseqII.pdf" class="ex-link"><b>Adv. JBrowse gene models</b></a></td>
     <td></td>
     <td></td>
-        </tr>
+  </tr>
   <tr>
     <td>11:30am - 12:00pm</td>
     <td>Group discussion with some students highlighting what they found</td>
@@ -401,6 +401,7 @@ table.hor-minimalist-a tfoot tr {
     <th style="text-align:left">Time</th>
     <th style="text-align:left">Event</th>
     <th style="text-align:left">Instructor</th>
+    <th style="text-align:left">Recording</th>
   </tr>
 </thead>
 <tbody>
@@ -408,35 +409,52 @@ table.hor-minimalist-a tfoot tr {
     <td>8:30am</td>
     <td>Zoom session opens for discussion</td> 
     <td> </td>
+    <td> </td>
   </tr>
   <tr>
-    <td>9:00am</td>
-    <td>Metabolic pathways</td>
+    <td>9:00 - 9:10am</td>
+    <td><a href="exercises/Day4/Met-pathways-lecture.pdf" class="ex-link"><b>Metabolic pathways lecture</b></a></td>
+    <td>Jessie Kissinger</td>
+    <td><iframe width="180" height="115" src="https://www.youtube.com/embed/dWe_FvwRSOo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td>9:10 - 10:00am</td>
+    <td>Break out rooms for hands on work - <br><a href="exercises/Day4/Metabolic_Pathways.pdf" class="ex-link"><b>Metabolic pathways</b></a></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>10:00am</td>
-    <td>Final Project group work</td>
+    <td>10 - 10:05am</td>
+    <td>Short Break</td>
+    <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>10:05 - 12pm</td>
+    <td>Break out rooms for hands on work - Group project</td>
+    <td></td>
+    <td></td>
+   /tr>
   <tr>
     <td>12:00pm</td>
     <td>Lunch Break</td>
+    <td>Breakout rooms can stay open for continued group project work</td>
     <td></td>
   </tr>
   <tr>
-    <td>1:00pm</td>
+    <td>1 - 2:30pm</td>
     <td>Final Project presentations</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>4:00pm</td>
-    <td>Official workshop ends.</td>
+    <td>2:30 - 3pm</td>
+    <td>Workshop wrapup and final thoughts</td>
+    <td></td>
     <td></td>
   </tr>   
 </tbody>
 </table>
-
 
 </details>
 
