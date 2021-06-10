@@ -157,7 +157,7 @@ table.hor-minimalist-a tfoot tr {
   </tr>
   <tr>
     <th style="text-align:left">Time</th>
-    <th style="text-align:left">Event</th>
+    <th style="text-align:left">Event and PDF handouts</th>
     <th style="text-align:left">Instructor</th>
     <th style="text-align:left">Recording</th>
   </tr>
