@@ -170,55 +170,79 @@ table.hor-minimalist-a tfoot tr {
     <td> </td>
   </tr>
   <tr>
-    <td>9:00 9:10am</td>
+    <td>9:00 - 9:10am</td>
     <td>Workshop Introduction</td>
     <td>Jessica Kissinger</td>
     <td><br><iframe width="180" height="115" src="https://www.youtube.com/embed/KW4KpPAVpEo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
   </tr>
   <tr>
-    <td>10:00am</td>
-    <td>Transcriptomics</td>
+    <td>9:10 - 9:15am</td>
+    <td>Welcome and introductions</td>
+    <td>Mary Ann McDowell and David Roos</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>9:15 - 9:55am</td>
+    <td>Introductions</td>
+    <td>Everyone - Name, organisms of research, geographic location</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>10 - 10:05am</td>
+    <td>short break</td>
     <td></td>
     <td> </td>
   </tr>
   <tr>
-    <td>11:00am</td>
-    <td>Proteomics</td>
+    <td>10 - 10:10am</td>
+    <td>Transcriptomics and Proteomics lecture<br><a href="exercises/Day1/Trans-and-Prot-lecture.pdf" class="ex-link"><b>Trans-and-Prot-lecture-slides.pdf</b></a></td>
+    <td>Susanne Warrenfeltz<br><iframe width="180" height="115" src="https://www.youtube.com/embed/kE64HktDLlA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>10:10am - 12:00pm</td>
+    <td>Break out rooms for hands on work - transcriptomics and proteomics <br> <a href="exercises/Day1/Transcriptomics.pdf" class="ex-link"><b>Transcriptomics.pdf</b></a><br><a href="exercises/Day1/Proteomics_June2021.pdf" class="ex-link"><b>Proteomics.pdf</b></a></td>
     <td></td>
     <td> </td>
   </tr>
   <tr>
-    <td>12:00pm</td>
+    <td>12:00 - 12:45pm</td>
     <td>Lunch Break</td>
     <td></td>
     <td> </td>
   </tr>
   <tr>
-    <td>1:00pm</td>
-    <td>GO enrichment</td>
+    <td>12:45 - 1:00pm</td>
+    <td>Gene ontology and enrichment lecture <br> <a href="exercises/Day1/GO_Term_Presentation_june2021.pdf" class="ex-link"><b>GO-Term-presentation.pdf</b></a></td>
+    <td>Omar Harb<br><iframe width="180" height="115" src="https://www.youtube.com/embed/i8ulapvhy1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>1:00 - 1:30pm</td>
+    <td>Break out rooms for hands on work - GO enrichment <br> <a href="exercises/Day1/GO-Enrichment.pdf" class="ex-link"><b>GO-Enrichment.pdf</b></a></td>
     <td></td>
     <td> </td>
   </tr>
   <tr>
-    <td>2:00pm</td>
-    <td>Galaxy RNAseq Part1</td>
-    <td></td>
+    <td>1:30 - 1:50pm</td>
+    <td>Galaxy/RNAseq lecture<br> <a href="exercises/Day1/VEuPathDB_RNAseq_lecture_2021.pdf" class="ex-link"><b>RNAseq_lecture.pdf</b></a></td>
+    <td>Kathryn Crouch<br><iframe width="180" height="115" src="https://www.youtube.com/embed/k5dPoZpxzE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
     <td> </td>
   </tr>
   <tr>
-    <td>4:00pm</td>
-    <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
+    <td>1:50 - 3:00pm</td>
+    <td>Break out rooms for hands on work - RNAseq Galaxy part 1<br> <a href="exercises/Day1/Galaxy-RNAseq-groups.pdf" class="ex-link"><b>Galaxy-RNAseq-datasets.pdf</b></a><br><a href="exercises/Day1/VEuPathDB_RNAseq_Mapping_Galaxy_1-2.pdf" class="ex-link"><b>Galaxy-RNAseq-instructions.pdf</b></a></td>
     <td></td>
     <td> </td>
   </tr>   
+  <tr>
+    <td>3 - 3:30pm</td>
+    <td>Optional discussion and question time </td>
+    <td></td>
+    <td> </td>
+        </tr>
 </tbody>
 </table>
-
-
-
-
-
-
 
 <br>
 <table class="hor-minimalist-a">
