@@ -331,12 +331,14 @@ table.hor-minimalist-a tfoot tr {
     <th style="text-align:left">Time</th>
     <th style="text-align:left">Event</th>
     <th style="text-align:left">Instructor</th>
+    <th style="text-align:left">Recording</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>8:30am</td>
     <td>Zoom session opens for discussion</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
