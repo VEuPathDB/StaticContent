@@ -195,13 +195,13 @@ table.hor-minimalist-a tfoot tr {
   </tr>
   <tr>
     <td>10 - 10:10am</td>
-    <td>Transcriptomics and Proteomics lecture<br><a href="exercises/Day1/Trans-and-Prot-lecture.pdf" class="ex-link"><b>Trans-and-Prot-lecture-slides.pdf</b></a></td>
+    <td><a href="exercises/Day1/Trans-and-Prot-lecture.pdf" class="ex-link"><b>Transcriptomics and Proteomics lecture</b></a></td>
     <td>Susanne Warrenfeltz</td>
     <td><iframe width="180" height="115" src="https://www.youtube.com/embed/kE64HktDLlA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
   </tr>
   <tr>
     <td>10:10am - 12:00pm</td>
-    <td>Break out rooms for hands on work - transcriptomics and proteomics <br> <a href="exercises/Day1/Transcriptomics.pdf" class="ex-link"><b>Transcriptomics.pdf</b></a><br><a href="exercises/Day1/Proteomics_June2021.pdf" class="ex-link"><b>Proteomics.pdf</b></a></td>
+    <td>Break out rooms for hands on work - <a href="exercises/Day1/Transcriptomics.pdf" class="ex-link"><b>Transcriptomics</b></a> and <a href="exercises/Day1/Proteomics_June2021.pdf" class="ex-link"><b>Proteomics</b></a></td>
     <td></td>
     <td> </td>
   </tr>
