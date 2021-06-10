@@ -340,44 +340,54 @@ table.hor-minimalist-a tfoot tr {
     <td></td>
   </tr>
   <tr>
-    <td>9:00am</td>
-    <td>Orthology</td>
+    <td>9:00 - 9:20am</td>
+    <td>Orthology lecture</td>
+    <td>David Roos</td>
+    <td><iframe width="180" height="115" src="https://www.youtube.com/embed/TYSjDtHqYog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td>9:20 - 10:15am</td>
+    <td>Break out rooms for hands on work - <br><a href="exercises/Day3/Orthology_Phyletic_Patterns.pdf" class="ex-link"><b>Orthology</b></a></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>10:00am</td>
-    <td>Genetic Variation (SNPs and CNV)</td>
-    <td></td>
+    <td>10:15 - 10:30am</td>
+    <td><a href="exercises/Day3/VEuPathDB_variants-lecture2021.pdf" class="ex-link"><b>SNPs and CNVs</b></a></td>
+    <td>Kathryn Crouch</td>
+    <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Jus6uR6no9o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
   </tr>
   <tr>
-    <td>11:00am</td>
-    <td>Galaxy Variants Part 2</td>
+    <td>10:30am - 12:00pm</td>
+    <td>Break out rooms for hands on work - <br><a href="exercises/Day3/Population_Biology_SNPs_CNVs_June2021.pdf" class="ex-link"><b>SNPs and CNVs</b></a></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>12:00pm</td>
     <td>Lunch Break</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>1:00pm</td>
-    <td>Galaxy Variants Part 2 (cont.)</td>
+    <td>Colocation and Introduction to group projects</td>
+    <td>Omar Harb</td>
+    <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Py4yOm37_Lo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+    <td>1:30 - 3:00pm</td>
+    <td>Break out rooms for hands on work - Group project</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>2:00pm</td>
-    <td>Final group presentation description and breakouts</td>
+    <td>3 - 3:30pm</td>
+    <td>Optional discussion and question time </td>
+    <td></td>
     <td></td>
   </tr>
-  <tr>
-    <td>4:00pm</td>
-    <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
-    <td></td>
-  </tr>   
 </tbody>
 </table>
-
-
 
 <br>
 <table class="hor-minimalist-a">
