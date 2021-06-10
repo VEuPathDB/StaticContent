@@ -240,7 +240,7 @@ table.hor-minimalist-a tfoot tr {
     <td>Optional discussion and question time </td>
     <td></td>
     <td> </td>
-        </tr>
+  </tr>
 </tbody>
 </table>
 
@@ -434,7 +434,7 @@ table.hor-minimalist-a tfoot tr {
     <td>Break out rooms for hands on work - Group project</td>
     <td></td>
     <td></td>
-   /tr>
+  </tr>
   <tr>
     <td>12:00pm</td>
     <td>Lunch Break</td>
