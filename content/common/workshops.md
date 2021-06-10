@@ -28,7 +28,7 @@ details p, details table {
   margin-left: 2em;
 }
 details table {
-  margin-right: 12em;
+  margin-right: 6em;
 }
 
 table {
