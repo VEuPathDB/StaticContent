@@ -196,8 +196,8 @@ table.hor-minimalist-a tfoot tr {
   <tr>
     <td>10 - 10:10am</td>
     <td>Transcriptomics and Proteomics lecture<br><a href="exercises/Day1/Trans-and-Prot-lecture.pdf" class="ex-link"><b>Trans-and-Prot-lecture-slides.pdf</b></a></td>
-    <td>Susanne Warrenfeltz<br><iframe width="180" height="115" src="https://www.youtube.com/embed/kE64HktDLlA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td> </td>
+    <td>Susanne Warrenfeltz</td>
+    <td><iframe width="180" height="115" src="https://www.youtube.com/embed/kE64HktDLlA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
   </tr>
   <tr>
     <td>10:10am - 12:00pm</td>
@@ -213,21 +213,21 @@ table.hor-minimalist-a tfoot tr {
   </tr>
   <tr>
     <td>12:45 - 1:00pm</td>
-    <td>Gene ontology and enrichment lecture <br> <a href="exercises/Day1/GO_Term_Presentation_june2021.pdf" class="ex-link"><b>GO-Term-presentation.pdf</b></a></td>
-    <td>Omar Harb<br><iframe width="180" height="115" src="https://www.youtube.com/embed/i8ulapvhy1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td> </td>
+    <td>Gene ontology and enrichment lecture <br> <a href="exercises/Day1/GO_Term_Presentation_june2021.pdf" class="ex-link"><b>GO-Term-lecture.pdf</b></a></td>
+    <td>Omar Harb</td>
+    <td><iframe width="180" height="115" src="https://www.youtube.com/embed/i8ulapvhy1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
   </tr>
   <tr>
     <td>1:00 - 1:30pm</td>
-    <td>Break out rooms for hands on work - GO enrichment <br> <a href="exercises/Day1/GO-Enrichment.pdf" class="ex-link"><b>GO-Enrichment.pdf</b></a></td>
+    <td>Break out rooms for hands on work - GO enrichment <br> <a href="exercises/Day1/GO-Enrichment.pdf" class="ex-link"><b>GO-Enrichment-module.pdf</b></a></td>
     <td></td>
     <td> </td>
   </tr>
   <tr>
     <td>1:30 - 1:50pm</td>
     <td>Galaxy/RNAseq lecture<br> <a href="exercises/Day1/VEuPathDB_RNAseq_lecture_2021.pdf" class="ex-link"><b>RNAseq_lecture.pdf</b></a></td>
-    <td>Kathryn Crouch<br><iframe width="180" height="115" src="https://www.youtube.com/embed/k5dPoZpxzE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td> </td>
+    <td>Kathryn Crouch</td>
+    <td><iframe width="180" height="115" src="https://www.youtube.com/embed/k5dPoZpxzE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
   </tr>
   <tr>
     <td>1:50 - 3:00pm</td>
