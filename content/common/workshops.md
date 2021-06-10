@@ -159,6 +159,7 @@ table.hor-minimalist-a tfoot tr {
     <th style="text-align:left">Time</th>
     <th style="text-align:left">Event</th>
     <th style="text-align:left">Instructor</th>
+    <th style="text-align:left">Recording</th>
   </tr>
 </thead>
 <tbody>
@@ -166,41 +167,49 @@ table.hor-minimalist-a tfoot tr {
     <td>8:30am</td>
     <td>Zoom session opens for discussion</td>
     <td> </td>
+    <td> </td>
   </tr>
   <tr>
     <td>9:00 9:10am</td>
     <td>Workshop Introduction</td>
-    <td>Jessica Kissinger<br><iframe width="180" height="115" src="https://www.youtube.com/embed/KW4KpPAVpEo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td>Jessica Kissinger</td>
+    <td><br><iframe width="180" height="115" src="https://www.youtube.com/embed/KW4KpPAVpEo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>10:00am</td>
     <td>Transcriptomics</td>
     <td></td>
+    <td> </td>
   </tr>
   <tr>
     <td>11:00am</td>
     <td>Proteomics</td>
     <td></td>
+    <td> </td>
   </tr>
   <tr>
     <td>12:00pm</td>
     <td>Lunch Break</td>
     <td></td>
+    <td> </td>
   </tr>
   <tr>
     <td>1:00pm</td>
     <td>GO enrichment</td>
     <td></td>
+    <td> </td>
   </tr>
   <tr>
     <td>2:00pm</td>
     <td>Galaxy RNAseq Part1</td>
     <td></td>
+    <td> </td>
   </tr>
   <tr>
     <td>4:00pm</td>
     <td>Official workshop ends for the day.  Students and instructor ad hoc sessions may be arranged</td>
     <td></td>
+    <td> </td>
   </tr>   
 </tbody>
 </table>
