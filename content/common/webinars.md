@@ -86,35 +86,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="contents">
 
 <hr>
-<div class="anchor"><a name="BRC6"></a></div>
-<div class="webinar">
-<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC<br>
-<b>Date:</b> Tuesday June 1st 2021<br>
-<b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=re7dd05381f96e50405e90793bae8f838">https://jcvi.webex.com/jcvi/j.php?RGID=re7dd05381f96e50405e90793bae8f838</a><br>
-<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
-bioinformatic resources available at the Pathosystems Resource Integration Center.
-<br>
-</div>
-
-<hr>
-<div class="anchor"><a name="vect4"></a></div>
-<div class="webinar">
-<b>Topic:</b> Analyzing your own data in VectorBase<br>
-<b>Date:</b> Thursday June 10th, 2021<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/5862523844903840014">https://attendee.gotowebinar.com/register/5862523844903840014</a><br>
-<b>Additional Details:</b> This webinar describe how you can analyze your own data in VectorBase:
-<ul>
-<li>Go enrichment analysis</li>
-<li>RNAseq analysis in Galaxy</li>
-<li>RNAseq result export to VectorBase</li>
-<li>Exploring your RNAseq data in VectorBase</li>
-</ul>
-<br>
-</div>
-
-<hr>
 <div class="anchor"><a name="release53"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 53 Webinar<br>
@@ -164,6 +135,35 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <h3>Previous Webinars</h3>
 <div class="contents">
 
+<hr>
+<div class="anchor"><a name="vect4"></a></div>
+<div class="webinar">
+<b>Topic:</b> Analyzing your own data in VectorBase<br>
+<b>Date:</b> Thursday June 10th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link:</b> <a href="">coming soon!</a><br>
+<b>Additional Details:</b> This webinar describe how you can analyze your own data in VectorBase:
+<ul>
+<li>Go enrichment analysis</li>
+<li>RNAseq analysis in Galaxy</li>
+<li>RNAseq result export to VectorBase</li>
+<li>Exploring your RNAseq data in VectorBase</li>
+</ul>
+<br>
+</div>
+  
+<hr>
+<div class="anchor"><a name="BRC6"></a></div>
+<div class="webinar">
+<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC<br>
+<b>Date:</b> Tuesday June 1st 2021<br>
+<b>Time:</b> 11AM US Eastern Time<br>
+<b>Recording Link:</b> <a href="">coming soon!</a><br>
+<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
+bioinformatic resources available at the Pathosystems Resource Integration Center.
+<br>
+</div>
+  
 <hr>
 <div class="anchor"><a name="release52"></a></div>
 <div class="webinar">
