@@ -857,7 +857,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
   To encourage the active participation/Q&A during the hands-on activities, limited seats are available and the sessions will not be recorded. Priority seating will be given to AGS meeting attendees.  
 </p>
 -->
-<details open>
+<details closed>
 <summary><b>Agenda, schedule and instructors</b></summary>
 
 <ul>
