@@ -205,7 +205,8 @@ table.hor-minimalist-a tfoot tr {
           </tr>
           <tr>
             <td>10 - 10:10am</td>
-            <td><a href="documents/2021athens/Day1/Trans-and-Prot-lecture.pdf" class="ex-link"><b>Transcriptomics and Proteomics lecture</b></a></td>
+            <a href="{{'/documents/2021athens/Pre_workshop_module.pdf' | absolute_url}}"><b>Pre_workshop_module.pdf</b></a>
+            <td><a href="{{'/documents/2021athens/Day1/Trans-and-Prot-lecture.pdf' | absolute_url}}"><b>Transcriptomics and Proteomics lecture</b></a></td>
             <td>Susanne Warrenfeltz</td>
             <td><iframe width="180" height="115" src="https://www.youtube.com/embed/kE64HktDLlA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
           </tr>
