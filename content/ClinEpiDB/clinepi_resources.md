@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: External Resources
-permalink: /ClinEpiDB/Help
+permalink: /ClinEpiDB/Help/resources
 tags: [resources]
 ---
 <h1 id="external-resources">External Resources</h1>
