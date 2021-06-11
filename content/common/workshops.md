@@ -626,123 +626,104 @@ table.hor-minimalist-a tfoot tr {
     <h3>Pre-MPM VEuPathDB workshop<span style="font-weight:100">, Friday September 18th, 2020 - from 10AM-2PM US Eastern time</span></h3>
     <p>This 4-hour VEuPathDB workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. Exercises will cover both basic and advanced usage of VEuPathDB resources.</p>
     <p>Registration: closed.</p>
-    <details open>
+    <details closed>
       <summary><b>Schedule and exercises</b></summary>
       <table class="hor-minimalist-a">
-
-<thead>
-<tr>
-<th style="text-align:left">Time</th>
-<th style="text-align:left">Activity</th>
-<th style="text-align:left">Presenter</th>
-<th style="text-align:left">Recording</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>10-10:05AM</td>
-<td>Introduction to workshop</td>
-<td>David Roos</td>
-<td></td>
-</tr>
-
-<tr class="other">
-<td>10:05-10:15AM</td>
-<td>Quick intro to the home page layout</td>
-<td>Jessica Kissinger</td>
-<td><iframe width="180" height="115" src="https://www.youtube.com/embed/videoseries?list=PLWzQB3i5sYAIbOj9nosayPMgdBPH4Y5c3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-</tr>
-
-<tr>
-<td>
-10:15-10:45AM
-</td>
-<td><a href="{{'/documents/MPMSiteSearch.pdf' | absolute_url}}"><b>Site search</b></a></td>
-<td>Hands-on exercise in breakout rooms</td>
-<td></td>
-</tr>
-
-<tr class="other">
-<td>10:45-11:15AM</td>
-<td><a href="{{'/documents/MPMSearchStrategies_Exercise.pdf' | absolute_url}}"><b>Building a search strategy</b></a></td>
-<td>Hands-on exercise in breakout rooms</td>
-<td></td>
-</tr>
-
-<tr class="break">
-<td>11:15-11:30AM</td>
-<td>Break</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>11:30-11:45AM</td>
-<td>Intro to GO enrichment</td>
-<td>Omar Harb</td>
-<td><iframe width="180" height="115" src="https://www.youtube.com/embed/Ks_sAmH_6DQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-</tr>
-
-<tr class="other">
-<td>11:45-12:15PM</td>
-<td><a href="{{'/documents/MPMGOEnrichment.pdf' | absolute_url}}"><b>GO enrichment exercise</b></a></td>
-<td>Hands-on exercise in breakout rooms</td>
-<td></td>
-</tr>
-
-<tr>
-<td>12:15-1:00PM</td>
-<td><a href="{{'/documents/MPMGenePage.pdf' | absolute_url}}"><b>Exploring the gene page</b></a><br>
-<a href="{{'/documents/MPMJBrowseBasics.pdf' | absolute_url}}"><b>Exploring the genome browser</b></a></td>
-<td>Hands-on exercise in breakout rooms</td>
-<td></td>
-</tr>
-
-<tr class="other">
-<td>1:00-1:15PM</td>
-<td>Intro to orthology and how it is used in VEuPathDB</td>
-<td>Mark Hickman</td>
-<td><iframe width="180" height="115" src="https://www.youtube.com/embed/q_oWaSDWaHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-</tr>
-
-<tr>
-<td>1:15-1:45PM</td>
-<td><a href="{{'/documents/MPMAdvancedStrategies.pdf' | absolute_url}}"><b>Advanced search strategies</b></a></td>
-<td>Hands-on exercise in breakout rooms</td>
-<td></td>
-</tr>
-
-<tr class="other">
-<td>1:45-2:00PM</td>
-<td>Wrap up</td>
-<td></td>
-<td><iframe width="180" height="115" src="https://www.youtube.com/embed/IH7mCozhQOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-</tr>
-
-<tr>
-<td>2:00-2:30PM (Optional)</td>
-<td>Additional time to work on specific problems or complete exercises</td>
-<td></td>
-<td></td>
-</tr>
-
-</tbody>
-
-<tfoot>
-<tr>
-<td colspan="4"><i>This workshop will be run by a number of VEuPathDB staff members including: Achchuthan Shanmugasundram, David Starns, David Roos, Evelina Basenko, Jessica Kissinger, Gloria I. Giraldo-Calderón, Kathryn Crouch, Mark Hickman, Samual Rund, Sarah Kelly, Susanne Warrenfeltz, Sheena Tomko and Omar Harb</i></td>
-</tr>
-</tfoot>
-
-</table>
-  </details>
-
+        <thead>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Activity</th>
+            <th style="text-align:left">Presenter</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>10-10:05AM</td>
+            <td>Introduction to workshop</td>
+            <td>David Roos</td>
+            <td></td>
+          </tr>
+          <tr class="other">
+            <td>10:05-10:15AM</td>
+            <td>Quick intro to the home page layout</td>
+            <td>Jessica Kissinger</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/videoseries?list=PLWzQB3i5sYAIbOj9nosayPMgdBPH4Y5c3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td> 10:15-10:45AM </td>
+            <td><a href="{{'/documents/MPMSiteSearch.pdf' | absolute_url}}"><b>Site search</b></a></td>
+            <td>Hands-on exercise in breakout rooms</td>
+            <td></td>
+          </tr>
+          <tr class="other">
+            <td>10:45-11:15AM</td>
+            <td><a href="{{'/documents/MPMSearchStrategies_Exercise.pdf' | absolute_url}}"><b>Building a search strategy</b></a></td>
+            <td>Hands-on exercise in breakout rooms</td>
+            <td></td>
+          </tr>
+          <tr class="break">
+            <td>11:15-11:30AM</td>
+            <td>Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:30-11:45AM</td>
+            <td>Intro to GO enrichment</td>
+            <td>Omar Harb</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Ks_sAmH_6DQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr class="other">
+            <td>11:45-12:15PM</td>
+            <td><a href="{{'/documents/MPMGOEnrichment.pdf' | absolute_url}}"><b>GO enrichment exercise</b></a></td>
+            <td>Hands-on exercise in breakout rooms</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:15-1:00PM</td>
+            <td><a href="{{'/documents/MPMGenePage.pdf' | absolute_url}}"><b>Exploring the gene page</b></a><br>
+            <a href="{{'/documents/MPMJBrowseBasics.pdf' | absolute_url}}"><b>Exploring the genome browser</b></a></td>
+            <td>Hands-on exercise in breakout rooms</td>
+            <td></td>
+          </tr>
+          <tr class="other">
+            <td>1:00-1:15PM</td>
+            <td>Intro to orthology and how it is used in VEuPathDB</td>
+            <td>Mark Hickman</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/q_oWaSDWaHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>1:15-1:45PM</td>
+            <td><a href="{{'/documents/MPMAdvancedStrategies.pdf' | absolute_url}}"><b>Advanced search strategies</b></a></td>
+            <td>Hands-on exercise in breakout rooms</td>
+            <td></td>
+          </tr>
+          <tr class="other">
+            <td>1:45-2:00PM</td>
+            <td>Wrap up</td>
+            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/IH7mCozhQOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>2:00-2:30PM (Optional)</td>
+            <td>Additional time to work on specific problems or complete exercises</td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td colspan="4"><i>This workshop will be run by a number of VEuPathDB staff members including: Achchuthan Shanmugasundram, David Starns, David Roos, Evelina Basenko, Jessica Kissinger, Gloria I. Giraldo-Calderón, Kathryn Crouch, Mark Hickman, Samual Rund, Sarah Kelly, Susanne Warrenfeltz, Sheena Tomko and Omar Harb</i></td>
+          </tr>
+        </tfoot>
+      </table>
+    </details>
   </div> <!-- workshop -->
-<br>
+  <br>
 
 
-<hr>
+  <hr>
 
   <div class="anchor"><a name="vb-2020-7-24"></a></div>
   <div class="workshop">
@@ -827,11 +808,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
 
   <div class="anchor"><a name="apollo-2020-7-27"></a></div>
   <div class="workshop">
-
     <h3>Gene manual annotation with Apollo workshop at AGS
       <span style="font-weight:100">, on Monday July 27th, 2020</span>
     </h3>
-
     <p>
       This workshop is a 2-hour introduction to the tool Apollo, which is currently available in VectorBase. This course will guide you through the process of updating and fixing gene models based on underlying data, including topics such as the addition of new genes, edition of the intron/exon boundaries, use of RNAseq and homology alignment data to support changes. This workshop would benefit vector biologist or any scientist with interest in annotating their favorite genes in Apollo available in other databases, e.g., i5k (<a target="_blank" href="https://i5k.nal.usda.gov/jbrowse-and-apollo">https://i5k.nal.usda.gov/jbrowse-and-apollo</a>).  
     </p>
