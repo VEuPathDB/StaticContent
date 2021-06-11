@@ -6,9 +6,9 @@ tags: [resources]
 ---
 <h1 id="external-resources">External Resources</h1>
 
+<!--
 <div id="clinepi-resources">
-  <details>
-    <summary class="h1">External Global Health Data Resources</summary>
+-->
       <details class="h2">
         <summary class="h2">Education and Training</summary>
         <ul>
@@ -60,5 +60,6 @@ tags: [resources]
         {% unless forloop.last %}{% endunless %}{% endfor %}
         </ul>
       </details>
-  </details>
+<!--
 </div>
+-->
