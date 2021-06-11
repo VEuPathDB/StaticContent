@@ -8,9 +8,9 @@ tags: [resources]
 
 <div id="clinepi-resources">
   <details>
-    <summary class="h2">External Global Health Data Resources</summary>
-      <details class="h3">
-        <summary class="h3">Education and Training</summary>
+    <summary class="h1">External Global Health Data Resources</summary>
+      <details class="h2">
+        <summary class="h2">Education and Training</summary>
         <ul>
         {% for item in site.data.clinepi_tutorials %}
         {% if item.type == "resource" and  item.subtype == "education" %}
@@ -22,8 +22,8 @@ tags: [resources]
         </ul>
       </details>
 
-      <details class="h3">
-        <summary class="h3">Data Management</summary>
+      <details class="h2">
+        <summary class="h2">Data Management</summary>
         <ul>
         {% for item in site.data.clinepi_tutorials %}
         {% if item.type == "resource" and  item.subtype == "management" %}
@@ -35,8 +35,8 @@ tags: [resources]
         </ul>
       </details>
 
-      <details class="h3">
-        <summary class="h3">Data Visualization, Analysis, Modeling, and Simulations</summary>
+      <details class="h2">
+        <summary class="h2">Data Visualization, Analysis, Modeling, and Simulations</summary>
         <ul>
         {% for item in site.data.clinepi_tutorials %}
         {% if item.type == "resource" and  item.subtype == "visualization" %}
@@ -48,8 +48,8 @@ tags: [resources]
         </ul>
       </details>
 
-      <details class="h3">
-        <summary class="h3">Data Repositories</summary>
+      <details class="h2">
+        <summary class="h2">Data Repositories</summary>
         <ul>
         {% for item in site.data.clinepi_tutorials %}
         {% if item.type == "resource" and  item.subtype == "repository" %}
