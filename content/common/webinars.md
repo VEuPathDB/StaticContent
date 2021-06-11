@@ -26,8 +26,6 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
      
-   <p><b>Tuesday June 1st, 2021:</b> <a href="#BRC6">The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC</a></p>
-   <p><b>Thursday June 10th, 2021:</b> <a href="#vect4">Analyzing your own data in VectorBase</a></p>
    <p><b>Thursday July 8th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
    <p><b>Thursday September 9th, 2021:</b> <a href="#release54">Release 54 Webinar</a></p>
    <p><b>Thursday November 11th, 2021:</b> <a href="#release55">Release 55 Webinar</a></p>
@@ -38,6 +36,8 @@ tags: [general]
   <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+   <p><b>Thursday June 10th, 2021:</b> <a href="#vect4">Analyzing your own data in VectorBase</a></p>
+   <p><b>Tuesday June 1st, 2021:</b> <a href="#BRC6">The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC</a></p>
    <p><b>Thursday May 27th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p> 
    <p><b>Thursday May 20th, 2021:</b> <a href="#vect3">Exploring transcriptomic data in VectorBase</a></p>
    <p><b>Tuesday May 18th, 2021:</b> <a href="#BRC5">The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</a></p>
