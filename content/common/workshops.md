@@ -469,10 +469,9 @@ table.hor-minimalist-a tfoot tr {
 
 </details>
 
-
 </div>
 </div>
-
+<hr>
 
 <div class="contents">    
 
