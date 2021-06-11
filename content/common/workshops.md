@@ -134,9 +134,11 @@ table.hor-minimalist-a tfoot tr {
 
 <br>
 
-<hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
+<!-- ==== UPCOMING WORKSHOPS =============================== -->
 
-<!--<h3>Upcoming Workshops - Details</h3> -->
+<!--
+<hr> 
+<h3>Upcoming Workshops - Details</h3> -->
 
 
 
