@@ -281,7 +281,7 @@ table.hor-minimalist-a tfoot tr {
           </tr>
           <tr>
             <td>9:10 - 10:00am</td>
-            <td>Break out rooms for hands on work - <br><a href="exercises/Day2/Phenotypic_data.pdf" class="ex-link"><b>Phenotype</b></a></td>
+            <td>Break out rooms for hands on work - <br><a href="{{'/documents/2021athens/Day2/Phenotypic_data.pdf' | absolute_url}}" class="ex-link"><b>Phenotype</b></a></td>
             <td></td>
             <td></td>
           </tr>
@@ -293,7 +293,7 @@ table.hor-minimalist-a tfoot tr {
           </tr>
           <tr>
             <td>10:20 - 11:30am</td>
-            <td>Break out rooms for hands on work - <br><a href="exercises/Day2/Adv_JBrowse_RNAseqII.pdf" class="ex-link"><b>Adv. JBrowse gene models</b></a></td>
+            <td>Break out rooms for hands on work - <br><a href="{{'/documents/2021athens/Day2/Adv_JBrowse_RNAseqII.pdf' | absolute_url}}" class="ex-link"><b>Adv. JBrowse gene models</b></a></td>
             <td></td>
             <td></td>
           </tr>
@@ -317,7 +317,7 @@ table.hor-minimalist-a tfoot tr {
           </tr>
           <tr>
             <td>1:20 - 3:00pm</td>
-            <td>Break out rooms for hands on work - <br><a href="exercises/Day2/VEuPathDB_RNAseq_mapping_Galaxy_2.pdf" class="ex-link"><b>RNAseq Galaxy part 2</b></a></td>
+            <td>Break out rooms for hands on work - <br><a href="{{'/documents/2021athens/Day2/VEuPathDB_RNAseq_mapping_Galaxy_2.pdf' | absolute_url}}" class="ex-link"><b>RNAseq Galaxy part 2</b></a></td>
             <td></td>
             <td></td>
           </tr>
@@ -357,19 +357,19 @@ table.hor-minimalist-a tfoot tr {
           </tr>
           <tr>
             <td>9:20 - 10:15am</td>
-            <td>Break out rooms for hands on work - <br><a href="exercises/Day3/Orthology_Phyletic_Patterns.pdf" class="ex-link"><b>Orthology</b></a></td>
+            <td>Break out rooms for hands on work - <br><a href="{{'/documents/2021athens/Day3/Orthology_Phyletic_Patterns.pdf' | absolute_url}}" class="ex-link"><b>Orthology</b></a></td>
             <td></td>
             <td></td>
           </tr>
           <tr>
             <td>10:15 - 10:30am</td>
-            <td><a href="exercises/Day3/VEuPathDB_variants-lecture2021.pdf" class="ex-link"><b>SNPs and CNVs</b></a></td>
+            <td><a href="{{'/documents/2021athens/Day3/VEuPathDB_variants-lecture2021.pdf' | absolute_url}}" class="ex-link"><b>SNPs and CNVs</b></a></td>
             <td>Kathryn Crouch</td>
             <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Jus6uR6no9o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>10:30am - 12:00pm</td>
-            <td>Break out rooms for hands on work - <br><a href="exercises/Day3/Population_Biology_SNPs_CNVs_June2021.pdf" class="ex-link"><b>SNPs and CNVs</b></a></td>
+            <td>Break out rooms for hands on work - <br><a href="{{'/documents/2021athens/Day3/Population_Biology_SNPs_CNVs_June2021.pdf' | absolute_url}}" class="ex-link"><b>SNPs and CNVs</b></a></td>
             <td></td>
             <td></td>
           </tr>
@@ -420,13 +420,13 @@ table.hor-minimalist-a tfoot tr {
           </tr>
           <tr>
             <td>9:00 - 9:10am</td>
-            <td><a href="exercises/Day4/Met-pathways-lecture.pdf" class="ex-link"><b>Metabolic pathways lecture</b></a></td>
+            <td><a href="{{'/documents/2021athens/Day4/Met-pathways-lecture.pdf' | absolute_url}}" class="ex-link"><b>Metabolic pathways lecture</b></a></td>
             <td>Jessie Kissinger</td>
             <td><iframe width="180" height="115" src="https://www.youtube.com/embed/dWe_FvwRSOo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>9:10 - 10:00am</td>
-            <td>Break out rooms for hands on work - <br><a href="exercises/Day4/Metabolic_Pathways.pdf" class="ex-link"><b>Metabolic pathways</b></a></td>
+            <td>Break out rooms for hands on work - <br><a href="{{'/documents/2021athens/Day4/Metabolic_Pathways.pdf' | absolute_url}}" class="ex-link"><b>Metabolic pathways</b></a></td>
             <td></td>
             <td></td>
           </tr>
