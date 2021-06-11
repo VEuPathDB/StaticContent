@@ -158,322 +158,312 @@ table.hor-minimalist-a tfoot tr {
     <details closed>
       <summary><b>Schedule</b></summary>
       <p>All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</p>
+      <table class="hor-minimalist-a">
+        <thead> 
+          <tr>
+            <th class="break"><b>Monday, June 7th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event and PDF handouts</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens for discussion</td>
+            <td> </td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>9:00 - 9:10am</td>
+            <td>Workshop Introduction</td>
+            <td>Jessica Kissinger</td>
+            <td><br><iframe width="180" height="115" src="https://www.youtube.com/embed/KW4KpPAVpEo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>9:10 - 9:15am</td>
+            <td>Welcome and introductions</td>
+            <td>Mary Ann McDowell and David Roos</td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>9:15 - 9:55am</td>
+            <td>Introductions</td>
+            <td>Everyone - Name, organisms of research, geographic location</td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>10 - 10:05am</td>
+            <td>short break</td>
+            <td></td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>10 - 10:10am</td>
+            <td><a href="exercises/Day1/Trans-and-Prot-lecture.pdf" class="ex-link"><b>Transcriptomics and Proteomics lecture</b></a></td>
+            <td>Susanne Warrenfeltz</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/kE64HktDLlA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
+          </tr>
+          <tr>
+            <td>10:10am - 12:00pm</td>
+            <td>Break out rooms for hands on work - <br> <a href="exercises/Day1/Transcriptomics.pdf" class="ex-link"><b>Transcriptomics</b></a> and <a href="exercises/Day1/Proteomics_June2021.pdf" class="ex-link"><b>Proteomics</b></a></td>
+            <td></td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>12:00 - 12:45pm</td>
+            <td>Lunch Break</td>
+            <td></td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>12:45 - 1:00pm</td>
+            <td><a href="exercises/Day1/GO_Term_Presentation_june2021.pdf" class="ex-link"><b>Gene ontology and enrichment lecture</b></a></td>
+            <td>Omar Harb</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/i8ulapvhy1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
+          </tr>
+          <tr>
+            <td>1:00 - 1:30pm</td>
+            <td>Break out rooms for hands on work - <br><a href="exercises/Day1/GO-Enrichment.pdf" class="ex-link"><b>GO Enrichment</b></a></td>
+            <td></td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>1:30 - 1:50pm</td>
+            <td><a href="exercises/Day1/VEuPathDB_RNAseq_lecture_2021.pdf" class="ex-link"><b>Galaxy/RNAseq lecture</b></a></td>
+            <td>Kathryn Crouch</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/k5dPoZpxzE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
+          </tr>
+          <tr>
+            <td>1:50 - 3:00pm</td>
+            <td>Break out rooms for hands on work - RNAseq Galaxy part 1<br> <a href="exercises/Day1/Galaxy-RNAseq-groups.pdf" class="ex-link"><b>Datasets</b></a> and <a href="exercises/Day1/VEuPathDB_RNAseq_Mapping_Galaxy_1-2.pdf" class="ex-link"><b>Instructions</b></a></td>
+            <td></td>
+            <td> </td>
+          </tr>   
+          <tr>
+            <td>3 - 3:30pm</td>
+            <td>Optional discussion and question time </td>
+            <td></td>
+            <td> </td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Tuesday, June 8th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event and PDF handouts</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens for discussion</td>
+            <td> </td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>9:00 - 9:10am</td>
+            <td>Phenotype lecture</td>
+            <td>Evelina Basenko</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/fEFpS6sJ6lc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
+          </tr>
+          <tr>
+            <td>9:10 - 10:00am</td>
+            <td>Break out rooms for hands on work - <br><a href="exercises/Day2/Phenotypic_data.pdf" class="ex-link"><b>Phenotype</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:00 - 10:20am</td>
+            <td>Gene models lecture</td>
+            <td>David Roos<br></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/toRnpKcNUH4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>10:20 - 11:30am</td>
+            <td>Break out rooms for hands on work - <br><a href="exercises/Day2/Adv_JBrowse_RNAseqII.pdf" class="ex-link"><b>Adv. JBrowse gene models</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:30am - 12:00pm</td>
+            <td>Group discussion with some students highlighting what they found</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:00pm</td>
+            <td>Lunch Break</td>
+            <td></td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>1:00 - 1:20pm</td>
+            <td>Lecture RNAseq pipeline output, Fastq and DESeq2</td>
+            <td>Mark Hickman</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/kyjoEeXhMak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>1:20 - 3:00pm</td>
+            <td>Break out rooms for hands on work - <br><a href="exercises/Day2/VEuPathDB_RNAseq_mapping_Galaxy_2.pdf" class="ex-link"><b>RNAseq Galaxy part 2</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>3 - 3:30pm</td>
+            <td>Optional discussion and question time </td>
+            <td></td>
+            <td> </td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Wednesday, June 9th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens for discussion</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9:00 - 9:20am</td>
+            <td>Orthology lecture</td>
+            <td>David Roos</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/TYSjDtHqYog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>9:20 - 10:15am</td>
+            <td>Break out rooms for hands on work - <br><a href="exercises/Day3/Orthology_Phyletic_Patterns.pdf" class="ex-link"><b>Orthology</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:15 - 10:30am</td>
+            <td><a href="exercises/Day3/VEuPathDB_variants-lecture2021.pdf" class="ex-link"><b>SNPs and CNVs</b></a></td>
+            <td>Kathryn Crouch</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Jus6uR6no9o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>10:30am - 12:00pm</td>
+            <td>Break out rooms for hands on work - <br><a href="exercises/Day3/Population_Biology_SNPs_CNVs_June2021.pdf" class="ex-link"><b>SNPs and CNVs</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:00pm</td>
+            <td>Lunch Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00pm</td>
+            <td>Colocation and Introduction to group projects</td>
+            <td>Omar Harb</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Py4yOm37_Lo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+            <td>1:30 - 3:00pm</td>
+            <td>Break out rooms for hands on work - Group project</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>3 - 3:30pm</td>
+            <td>Optional discussion and question time </td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Thursday, June 10th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens for discussion</td> 
+            <td> </td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>9:00 - 9:10am</td>
+            <td><a href="exercises/Day4/Met-pathways-lecture.pdf" class="ex-link"><b>Metabolic pathways lecture</b></a></td>
+            <td>Jessie Kissinger</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/dWe_FvwRSOo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>9:10 - 10:00am</td>
+            <td>Break out rooms for hands on work - <br><a href="exercises/Day4/Metabolic_Pathways.pdf" class="ex-link"><b>Metabolic pathways</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10 - 10:05am</td>
+            <td>Short Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:05 - 12pm</td>
+            <td>Break out rooms for hands on work - Group project</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:00pm</td>
+            <td>Lunch Break</td>
+            <td>Breakout rooms can stay open for continued group project work</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1 - 2:30pm</td>
+            <td>Final Project presentations</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2:30 - 3pm</td>
+            <td>Workshop wrapup and final thoughts</td>
+            <td></td>
+            <td></td>
+          </tr>   
+        </tbody>
+      </table>
+    </details>
+  </div> <!--workshop-->
 
-
-
-  <table class="hor-minimalist-a">
-    <thead> 
-      <tr>
-        <th class="break"><b>Monday, June 7th</b></th>
-      </tr>
-      <tr>
-        <th style="text-align:left">Time</th>
-        <th style="text-align:left">Event and PDF handouts</th>
-        <th style="text-align:left">Instructor</th>
-        <th style="text-align:left">Recording</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>8:30am</td>
-        <td>Zoom session opens for discussion</td>
-        <td> </td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>9:00 - 9:10am</td>
-        <td>Workshop Introduction</td>
-        <td>Jessica Kissinger</td>
-        <td><br><iframe width="180" height="115" src="https://www.youtube.com/embed/KW4KpPAVpEo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-      </tr>
-      <tr>
-        <td>9:10 - 9:15am</td>
-        <td>Welcome and introductions</td>
-        <td>Mary Ann McDowell and David Roos</td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>9:15 - 9:55am</td>
-        <td>Introductions</td>
-        <td>Everyone - Name, organisms of research, geographic location</td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>10 - 10:05am</td>
-        <td>short break</td>
-        <td></td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>10 - 10:10am</td>
-        <td><a href="exercises/Day1/Trans-and-Prot-lecture.pdf" class="ex-link"><b>Transcriptomics and Proteomics lecture</b></a></td>
-        <td>Susanne Warrenfeltz</td>
-        <td><iframe width="180" height="115" src="https://www.youtube.com/embed/kE64HktDLlA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
-      </tr>
-      <tr>
-        <td>10:10am - 12:00pm</td>
-        <td>Break out rooms for hands on work - <br> <a href="exercises/Day1/Transcriptomics.pdf" class="ex-link"><b>Transcriptomics</b></a> and <a href="exercises/Day1/Proteomics_June2021.pdf" class="ex-link"><b>Proteomics</b></a></td>
-        <td></td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>12:00 - 12:45pm</td>
-        <td>Lunch Break</td>
-        <td></td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>12:45 - 1:00pm</td>
-        <td><a href="exercises/Day1/GO_Term_Presentation_june2021.pdf" class="ex-link"><b>Gene ontology and enrichment lecture</b></a></td>
-        <td>Omar Harb</td>
-        <td><iframe width="180" height="115" src="https://www.youtube.com/embed/i8ulapvhy1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
-      </tr>
-      <tr>
-        <td>1:00 - 1:30pm</td>
-        <td>Break out rooms for hands on work - <br><a href="exercises/Day1/GO-Enrichment.pdf" class="ex-link"><b>GO Enrichment</b></a></td>
-        <td></td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>1:30 - 1:50pm</td>
-        <td><a href="exercises/Day1/VEuPathDB_RNAseq_lecture_2021.pdf" class="ex-link"><b>Galaxy/RNAseq lecture</b></a></td>
-        <td>Kathryn Crouch</td>
-        <td><iframe width="180" height="115" src="https://www.youtube.com/embed/k5dPoZpxzE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
-      </tr>
-      <tr>
-        <td>1:50 - 3:00pm</td>
-        <td>Break out rooms for hands on work - RNAseq Galaxy part 1<br> <a href="exercises/Day1/Galaxy-RNAseq-groups.pdf" class="ex-link"><b>Datasets</b></a> and <a href="exercises/Day1/VEuPathDB_RNAseq_Mapping_Galaxy_1-2.pdf" class="ex-link"><b>Instructions</b></a></td>
-        <td></td>
-        <td> </td>
-      </tr>   
-      <tr>
-        <td>3 - 3:30pm</td>
-        <td>Optional discussion and question time </td>
-        <td></td>
-        <td> </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <br>
-  <table class="hor-minimalist-a">
-    <thead>
-      <tr>
-        <th class="break"><b>Tuesday, June 8th</b></th>
-      </tr>
-      <tr>
-        <th style="text-align:left">Time</th>
-        <th style="text-align:left">Event and PDF handouts</th>
-        <th style="text-align:left">Instructor</th>
-        <th style="text-align:left">Recording</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>8:30am</td>
-        <td>Zoom session opens for discussion</td>
-        <td> </td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>9:00 - 9:10am</td>
-        <td>Phenotype lecture</td>
-        <td>Evelina Basenko</td>
-        <td><iframe width="180" height="115" src="https://www.youtube.com/embed/fEFpS6sJ6lc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
-      </tr>
-      <tr>
-        <td>9:10 - 10:00am</td>
-        <td>Break out rooms for hands on work - <br><a href="exercises/Day2/Phenotypic_data.pdf" class="ex-link"><b>Phenotype</b></a></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>10:00 - 10:20am</td>
-        <td>Gene models lecture</td>
-        <td>David Roos<br></td>
-        <td><iframe width="180" height="115" src="https://www.youtube.com/embed/toRnpKcNUH4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-      </tr>
-      <tr>
-        <td>10:20 - 11:30am</td>
-        <td>Break out rooms for hands on work - <br><a href="exercises/Day2/Adv_JBrowse_RNAseqII.pdf" class="ex-link"><b>Adv. JBrowse gene models</b></a></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>11:30am - 12:00pm</td>
-        <td>Group discussion with some students highlighting what they found</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>12:00pm</td>
-        <td>Lunch Break</td>
-        <td></td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>1:00 - 1:20pm</td>
-        <td>Lecture RNAseq pipeline output, Fastq and DESeq2</td>
-        <td>Mark Hickman</td>
-        <td><iframe width="180" height="115" src="https://www.youtube.com/embed/kyjoEeXhMak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-      </tr>
-      <tr>
-        <td>1:20 - 3:00pm</td>
-        <td>Break out rooms for hands on work - <br><a href="exercises/Day2/VEuPathDB_RNAseq_mapping_Galaxy_2.pdf" class="ex-link"><b>RNAseq Galaxy part 2</b></a></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>3 - 3:30pm</td>
-        <td>Optional discussion and question time </td>
-        <td></td>
-        <td> </td>
-      </tr>
-    </tbody>
-  </table>
-
-    <br>
-  <table class="hor-minimalist-a">
-    <thead>
-      <tr>
-        <th class="break"><b>Wednesday, June 9th</b></th>
-      </tr>
-      <tr>
-        <th style="text-align:left">Time</th>
-        <th style="text-align:left">Event</th>
-        <th style="text-align:left">Instructor</th>
-        <th style="text-align:left">Recording</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>8:30am</td>
-        <td>Zoom session opens for discussion</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>9:00 - 9:20am</td>
-        <td>Orthology lecture</td>
-        <td>David Roos</td>
-        <td><iframe width="180" height="115" src="https://www.youtube.com/embed/TYSjDtHqYog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-      </tr>
-      <tr>
-        <td>9:20 - 10:15am</td>
-        <td>Break out rooms for hands on work - <br><a href="exercises/Day3/Orthology_Phyletic_Patterns.pdf" class="ex-link"><b>Orthology</b></a></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>10:15 - 10:30am</td>
-        <td><a href="exercises/Day3/VEuPathDB_variants-lecture2021.pdf" class="ex-link"><b>SNPs and CNVs</b></a></td>
-        <td>Kathryn Crouch</td>
-        <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Jus6uR6no9o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-      </tr>
-      <tr>
-        <td>10:30am - 12:00pm</td>
-        <td>Break out rooms for hands on work - <br><a href="exercises/Day3/Population_Biology_SNPs_CNVs_June2021.pdf" class="ex-link"><b>SNPs and CNVs</b></a></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>12:00pm</td>
-        <td>Lunch Break</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>1:00pm</td>
-        <td>Colocation and Introduction to group projects</td>
-        <td>Omar Harb</td>
-        <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Py4yOm37_Lo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-      </tr>
-        <td>1:30 - 3:00pm</td>
-        <td>Break out rooms for hands on work - Group project</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>3 - 3:30pm</td>
-        <td>Optional discussion and question time </td>
-        <td></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <br>
-  <table class="hor-minimalist-a">
-    <thead>
-      <tr>
-        <th class="break"><b>Thursday, June 10th</b></th>
-      </tr>
-      <tr>
-        <th style="text-align:left">Time</th>
-        <th style="text-align:left">Event</th>
-        <th style="text-align:left">Instructor</th>
-        <th style="text-align:left">Recording</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>8:30am</td>
-        <td>Zoom session opens for discussion</td> 
-        <td> </td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>9:00 - 9:10am</td>
-        <td><a href="exercises/Day4/Met-pathways-lecture.pdf" class="ex-link"><b>Metabolic pathways lecture</b></a></td>
-        <td>Jessie Kissinger</td>
-        <td><iframe width="180" height="115" src="https://www.youtube.com/embed/dWe_FvwRSOo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-      </tr>
-      <tr>
-        <td>9:10 - 10:00am</td>
-        <td>Break out rooms for hands on work - <br><a href="exercises/Day4/Metabolic_Pathways.pdf" class="ex-link"><b>Metabolic pathways</b></a></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>10 - 10:05am</td>
-        <td>Short Break</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>10:05 - 12pm</td>
-        <td>Break out rooms for hands on work - Group project</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>12:00pm</td>
-        <td>Lunch Break</td>
-        <td>Breakout rooms can stay open for continued group project work</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>1 - 2:30pm</td>
-        <td>Final Project presentations</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>2:30 - 3pm</td>
-        <td>Workshop wrapup and final thoughts</td>
-        <td></td>
-        <td></td>
-      </tr>   
-    </tbody>
-  </table>
-
-</details>
-
-</div>
-</div>
-<hr>
-
-<div class="contents">    
+  <hr>
 
   <div class="anchor"><a name="hinxton2021"></a></div>
   <div class="workshop">
