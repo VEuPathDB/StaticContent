@@ -1,7 +1,7 @@
 ---
 layout: plain
-title: ClinEpiDB Tutorials and Resources
-permalink: /ClinEpiDB/resources
+title: ClinEpiDB Tutorials
+permalink: /ClinEpiDB/tutorials
 tags: [tutorial]
 ---
 <div id="ce-static-content">
