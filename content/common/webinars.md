@@ -144,10 +144,9 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Recording Link:</b> <a href="https://youtu.be/07Z4DteNSPo">https://youtu.be/07Z4DteNSPo</a><br>
 <b>Handouts:</b> 
 <ul>
-<li>
-<li><a href="{{'/documents/10June2021_Galaxy0_webinar.pdf' | absolute_url}}">Galaxy 0</a><br><li>
-<li><a href="{{'/documents/10June2021_Galaxy1_webinar.pdf' | absolute_url}}">Galaxy 1</a><br><li>
-<li><a href="{{'/documents/10June2021_Galaxy2_webinar.pdf' | absolute_url}}">Galaxy 2</a><br><li>
+<li><a href="{{'/documents/10June2021_Galaxy0_webinar.pdf' | absolute_url}}">Galaxy 0</a><br></li>
+<li><a href="{{'/documents/10June2021_Galaxy1_webinar.pdf' | absolute_url}}">Galaxy 1</a><br></li>
+<li><a href="{{'/documents/10June2021_Galaxy2_webinar.pdf' | absolute_url}}">Galaxy 2</a><br></li>
 </ul>
 <b>Additional Details:</b> This webinar describe how you can analyze your own data in VectorBase:
 <ul>
