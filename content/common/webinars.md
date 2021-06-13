@@ -141,7 +141,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> Analyzing your own data in VectorBase<br>
 <b>Date:</b> Thursday June 10th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link:</b> <a href="">coming soon!</a><br>
+<b>Recording Link:</b> <a href="https://youtu.be/07Z4DteNSPo">https://youtu.be/07Z4DteNSPo</a><br>
 <b>Additional Details:</b> This webinar describe how you can analyze your own data in VectorBase:
 <ul>
 <li>Go enrichment analysis</li>
