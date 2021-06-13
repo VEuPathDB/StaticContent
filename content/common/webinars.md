@@ -142,12 +142,20 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Date:</b> Thursday June 10th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording Link:</b> <a href="https://youtu.be/07Z4DteNSPo">https://youtu.be/07Z4DteNSPo</a><br>
+<b>Handouts:</b> 
+<ul>
+<li>
+<li><a href="{{'/documents/10June2021_Galaxy0_webinar.pdf' | absolute_url}}">Galaxy 0</a><br><li>
+<li><a href="{{'/documents/10June2021_Galaxy1_webinar.pdf' | absolute_url}}">Galaxy 1</a><br><li>
+<li><a href="{{'/documents/10June2021_Galaxy2_webinar.pdf' | absolute_url}}">Galaxy 2</a><br><li>
+</ul>
 <b>Additional Details:</b> This webinar describe how you can analyze your own data in VectorBase:
 <ul>
-<li>Go enrichment analysis</li>
+<li>Introduction to differential expression</li>
 <li>RNAseq analysis in Galaxy</li>
 <li>RNAseq result export to VectorBase</li>
 <li>Exploring your RNAseq data in VectorBase</li>
+<li>Go enrichment analysis</li>
 </ul>
 <br>
 </div>
