@@ -79,12 +79,6 @@ table#hor-minimalist-a tfoot tr {
 <h1 style="padding:1em">ClinEpiDB Workshops</h1>
 <div class="static-content" style="padding:0 3em">
 
-<h3>Previous Workshops</h3>
-  <div class="contents">
-    <h4><a href="#astmh2020-premeeting">ASTMH Pre-meeting ClinEpiDB workshop</a></h4>
-    November 13th, 2020
-  </div>
-
 <hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
 <hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 
