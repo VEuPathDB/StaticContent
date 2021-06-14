@@ -80,9 +80,7 @@ table#hor-minimalist-a tfoot tr {
 
 <h3>Previous Workshops</h3>
 
-<div class="contents">
-
- <div class="anchor"><a name="#gatesworkshop2021"></a></div>
+<div class="anchor"><a name="#gatesworkshop2021"></a></div>
 <div class="workshop">
     <h3>ClinEpiDB presentation and workshop (Gates Foundation)</h3>
     <p>
@@ -369,7 +367,6 @@ table#hor-minimalist-a tfoot tr {
 
 </div>  <!-- workshop -->
 
-</div> <!-- contents -->
 
 <br>
 <div class="contents">
