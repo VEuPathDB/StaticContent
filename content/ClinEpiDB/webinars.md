@@ -4,78 +4,6 @@ layout: null
 permalink: /ClinEpiDB/webinars
 tags: [general]
 ---
-<style> 
-div.contents {
-    margin: 1em;
-} 
-div.workshop {
-    margin: 1em 1em;
-}
-details summary, details ul {
-  margin-top: 1em;
-}
-details summary {
-  font-size: 120%;
-  color: #069;
-}
-details p, details table {
-  margin-left: 2em;
-}
-details table {
-  margin-right: 12em;
-}
-table {
-  margin-top: 1em;
-  border-collapse: collapse;
-}
-/*
-table, th, td {
-  border: 1px solid black;
-  padding: 0.5em;
-}
-*/
-tr.break td {
-  background-color: #DCDCDC;
-}
-
-table#hor-minimalist-a {
-  text-align: left;
-}
-table#hor-minimalist-a th {
-  font-size: 110%;
-  font-weight: 400;
-  color: #000;
-  border-bottom: 2px solid #000;
-  padding: 0.5em;
-  text-align: left;
-}
-table#hor-minimalist-a tr {
-  border-bottom: 1px solid #ddd;
-}
-table#hor-minimalist-a tr:hover td {
-  color: #000; 
-}
-table#hor-minimalist-a tr.other td {
-  background-color: #fafafa;
-}
-table#hor-minimalist-a tbody {
-  display: table-row-group;
-  vertical-align: middle;
-  border-color: inherit;
-}
-table#hor-minimalist-a td {
-  color: #00; 
-  padding: 0.5em 0.5em 0.5em;
-  vertical-align: middle;
-}
-table#hor-minimalist-a tfoot {
-  font-size: 90%;
-}
-table#hor-minimalist-a tfoot tr {
-  border:0;
-}
-</style>
-
 <h1 style="padding:1em">ClinEpiDB Webinars</h1>
 <div class="static-content" style="padding:0 3em">
 
@@ -83,5 +11,19 @@ table#hor-minimalist-a tfoot tr {
 If you missed any of our previous webinars feel free to explore the free recordings:
 <br>
 <br>
-<b>April 20, 2021:</b><a target="_blank" href="https://youtu.be/1V21DrZ0VXM" target="_blank"> Infectious Diseases Research Collaboration, Uganda</a>
+<b>April 20, 2021:</b> Sam Gonahasa, MD <i>Infectious Diseases Research Collaboration, Uganda</i><a target="_blank" href="https://youtu.be/1V21DrZ0VXM" target="_blank">Effects of LLINs with and without PBO on malaria indicators in Uganda: a cluster-randomized trial embedded in a national LLIN-distribution campaign</a>
+
+<b>April 27, 2021:</b> Clair Null, PhD <i>Mathematica, USA</i>
+<a target="_blank" href="https://youtu.be/eWqvY4tlAX0" target="_blank">Overview of the WASH Benefits cluster randomized controlled trials of WASH and nutrition interventions in rural Bangladesh and Kenya</a>
+
+<b>May 4, 2021:</b> Joaniter Nankabirwa, MBChB, MSc CEB, PhD <i>Makerere University, Uganda</i>
+<a target="_blank" href="https://youtu.be/WR-8Ngue7PU" target="_blank">Malaria transmission, infection, and disease following 5 years of sustained indoor residual spraying in Tororo, Uganda</a>
+
+<b>May 11, 2021:</b> Anne Kessler, PhD & Upasana Singh, MSc <i>New York University, USA and University of Manchester, UK</i>
+<a target="_blank" href="https://youtu.be/gN8JCKuXWfs" target="_blank">Spatial and temporal village-level prevalence of Plasmodium infection and associated risk factors in two districts of Meghalaya, India</a>
+
+<b>May 18, 2021:</b> Lulu M. Muhe, MD, PhD <i>Addis Ababa University, Ethiopia</i>
+<a target="_blank" href="https://youtu.be/s90gmMZurLE" target="_blank">Major causes of death in preterm infants in selected hospitals in Ethiopia: A prospective observational study (the SIP study)</a>
+
+
 </div>
