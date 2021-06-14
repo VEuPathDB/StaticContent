@@ -77,11 +77,14 @@ table#hor-minimalist-a tfoot tr {
 </style>
 
 <h1 style="padding:1em">ClinEpiDB Workshops</h1>
+<!--
 <div class="static-content" style="padding:0 3em">
-
-<hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
-<hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
-
+-->
+<!--
+<hr> 
+--> <!-- ==== UPCOMING WORKSHOPS =============================== -->
+<!--
+<hr> -->  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 <h3>Previous Workshops</h3>
 
 <div class="contents">
