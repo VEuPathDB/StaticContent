@@ -83,7 +83,7 @@ table#hor-minimalist-a tfoot tr {
   <div class="contents">
   <br>If you missed any of our previous webinars feel free to explore the free recordings:
   <br>
-  <b>April 20, 2021:</b><iframe title ="Infectious Disease Research Collaboration, Uganda" src= "https://youtu.be/1V21DrZ0VXM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <b>April 20, 2021:</b><iframe width="560" height="315" src="https://www.youtube.com/embed/1V21DrZ0VXM" title="Infectious Disease Research Collaboration, Uganda" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
 </div>
