@@ -80,7 +80,8 @@ table#hor-minimalist-a tfoot tr {
 <div class="static-content" style="padding:0 3em">
 
 <h3>Previous Webinars</h3>
-<br>If you missed any of our previous webinars feel free to explore the free recordings:
+If you missed any of our previous webinars feel free to explore the free recordings:
+<div class="static-content" style="padding:0 3em">
 <br>
 <b>April 20, 2021:</b><a target="_blank" href="https://youtu.be/1V21DrZ0VXM" target="_blank"> Infectious Diseases Research Collaboration, Uganda</a>
 
