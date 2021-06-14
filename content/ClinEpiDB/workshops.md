@@ -76,7 +76,7 @@ table#hor-minimalist-a tfoot tr {
 }
 </style>
 
-<h1 style="padding:1em">ClinEpiDB Workshops</h1>
+<h1>ClinEpiDB Workshops</h1>
 
 <h3>Previous Workshops</h3>
 
@@ -217,8 +217,8 @@ table#hor-minimalist-a tfoot tr {
 
 <div class="contents">
 
-  <div class="anchor"><a name="astmh2020-premeeting"></a></div>
-  <div class="workshop">
+<div class="anchor"><a name="astmh2020-premeeting"></a></div>
+<div class="workshop">
     <h3>ASTMH Pre-meeting ClinEpiDB workshop</h3>
     <p>Join <b>ClinEpiDB.org</b> for a <b>FREE</b> Virtual Workshop to learn how to use our open-access online clinical epidemiology database and tools for the exploration of complex public health studies. Attendees <b>do not need to be registered for ASTMH</b> in order to attend this online workshop. There are no software requirements for the workshop, but attendees must have a functioning Internet browser (Chrome, Safari, etc.).
     </p>
