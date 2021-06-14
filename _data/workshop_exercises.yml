@@ -7,6 +7,9 @@ cards:
       - name: "Apollo: Functional annotation"
         path: Apollo_functional_annotation_03_06_2021.pdf
         description:
+        - name: "Apollo: Structural annotation"
+        path: Apollo_structural_annotation_14_06_2021.pdf
+        description:   
   - card: Gene Pages
     description: Explore the data and images on gene pages 
     date: 2020/10/27
