@@ -213,7 +213,6 @@ table#hor-minimalist-a tfoot tr {
 </table>
 </details>
 
-</div>
 </div>  <!-- workshop -->
 
 <div class="contents">
