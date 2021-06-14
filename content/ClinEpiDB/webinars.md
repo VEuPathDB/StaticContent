@@ -81,8 +81,6 @@ table#hor-minimalist-a tfoot tr {
 
 <h3>Previous Webinars</h3>
 If you missed any of our previous webinars feel free to explore the free recordings:
-
 <br>
 <b>April 20, 2021:</b><a target="_blank" href="https://youtu.be/1V21DrZ0VXM" target="_blank"> Infectious Diseases Research Collaboration, Uganda</a>
-
 </div>
