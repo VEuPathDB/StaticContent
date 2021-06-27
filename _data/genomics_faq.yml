@@ -30,7 +30,7 @@
 - type: general
   question: "How do I do an enrichment analysis on a list of genes by GO term or metabolic pathway?"
   answer: |
-           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes) or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
+           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
            1. click “Analyze results"
            This will give you the option to run a variety of analyses on your list of genes
            See the following worksheet to learn more: [GO enrichment](https://static-content.veupathdb.org/documents/GO-Enrichment.pdf)
@@ -41,7 +41,7 @@
 - type: general
   question: "How do I transform a list of genes into homologs in a different organism?"
   answer: |
-           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes) or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
+           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
            1. Click "Add a step"
            2. Choose "Transform"
            3. Click "Orthologs"
@@ -55,7 +55,7 @@
 - type: general
   question: "Download genomic or amino acid sequences (one gene)?"
   answer: |
-           Start with list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes) or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
+           Start with list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
            1. From the gene page of your gene of interest, select “Download Gene
            2. Select “FASTA”
            3. Select what kind of sequence you want
@@ -68,7 +68,7 @@
 - type: general
   question: "Download genomic or amino acid sequences (lots of genes)?"
   answer: |
-           Start with list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes) or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
+           Start with list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
            1. From the gene page of your gene of interest, select “Download Gene
            2. Select ”FASTA
            3. Select what kind of sequence you want
@@ -81,7 +81,7 @@
 - type: general
   question: "How do I download a table with a list of genes including any field(s) from our gene pages (e.g., gene names and symbols)?"
   answer: |
-           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#ListOfMyGenes) or [all the genes in a given organism](/a/app/static-content/faq.html#AllGenesInOrg)
+           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
            1. Click "Add Columns"
            2. Add any relevant columns of data you wish
            3. Click "Update Columns"
