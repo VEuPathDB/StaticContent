@@ -34,9 +34,8 @@ div.static-content img {
 <div id="general">
     {% for item in site.data.genomics_faq %}
     {% if item.type == "general" %}
-    <a name="{{ item.uid }}"></a>
       <details id="{{ item.uid }}">
-        <summary>{{ item.question }}</summary>
+        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
         {{ item.answer | markdownify }}
         <br>
       </details>
