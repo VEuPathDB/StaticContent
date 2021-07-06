@@ -30,6 +30,7 @@ title: VEuPathDB infrastructure
   This includes not only a comprehensive database schema for integrating and representing genomic and functional (or post) 
   genomic data but also tools for loading said data into that system.  We have made some extensions to the schema and tools for 
   VEuPathDB specific purposes primarily to generate de-normalized views of the data for query optimization purposes.</p>
+<p>Most of the heavy data processing and compute is done by our data processing team at the European Bioinformatics Institute (EBI) where we utilize the large compute facility available there.</p>
 <p>Our data are all stored in Oracle12c databases.  Our software infrastructure also supports PostgreSQL but we have some Oracle 
   specific SQL constructs in our model that would need to be changed in order to run successfully in PostgreSQL.  </p>
 <p>We load all data using an in house engineered workflow system called <a target="_blank" href="https://github.com/EuPathDB/ReFlow">
@@ -51,6 +52,8 @@ title: VEuPathDB infrastructure
   These are the repositories needed to generate data and load the databases:
 
   <ul>
+    <li><a target="_blank" href="https://github.com/Ensembl/ensembl-production-imported">EBI main processing pipeline</a>: Pipelines and scripts from the EBI Ensembl repository utilized by VEuPathDB data processing.</li>
+    <li><a target="_blank" href="https://github.com/Ensembl/ensembl-production-imported/blob/trunk/lib/perl/Bio/EnsEMBL/EGPipeline/PrivateConfDetails/Impl.pm.example">Example configurations</a>: Example configuration for the EBI data processing pipelines.</li>
     <li><a target="_blank" href="https://github.com/EuPathDB/ApiCommonData">ApiCommonData</a>: Defines the workflow graph for the Genomic sites and contains SQL to generate denormalized tables.
         (Also: <a target="_blank" href="https://github.com/VEuPathDB/OrthoMCLData">OrthoMCLData</a>,
                <a target="_blank" href="https://github.com/VEuPathDB/ClinEpiData">ClinEpiData</a>.)</li>
