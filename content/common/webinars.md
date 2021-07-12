@@ -29,8 +29,6 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
     
-   <p><b>Tuesday June 1st, 2021:</b> <a href="#BRC6">The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC</a></p>
-   <p><b>Thursday June 10th, 2021:</b> <a href="#vect4">Analyzing your own data in VectorBase</a></p>
    <p><b>Thursday July 8th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
    <p><b>Thursday September 9th, 2021:</b> <a href="#release54">Release 54 Webinar</a></p>
    <p><b>Thursday November 11th, 2021:</b> <a href="#release55">Release 55 Webinar</a></p>
@@ -41,6 +39,8 @@ tags: [general]
   <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+   <p><b>Thursday June 10th, 2021:</b> <a href="#vect4">Analyzing your own data in VectorBase</a></p>
+   <p><b>Tuesday June 1st, 2021:</b> <a href="#BRC6">The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC</a></p>
    <p><b>Thursday May 27th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p>
    <p><b>Thursday May 20th, 2021:</b> <a href="#vect3">Exploring transcriptomic data in VectorBase</a></p>
    <p><b>Tuesday May 18th, 2021:</b> <a href="#BRC5">The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</a></p>
@@ -87,35 +87,6 @@ tags: [general]
 <h3>Upcoming Webinars</h3>
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
-
-<hr>
-<div class="anchor"><a name="BRC6"></a></div>
-<div class="webinar">
-<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC<br>
-<b>Date:</b> Tuesday June 1st 2021<br>
-<b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=re7dd05381f96e50405e90793bae8f838">https://jcvi.webex.com/jcvi/j.php?RGID=re7dd05381f96e50405e90793bae8f838</a><br>
-<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
-bioinformatic resources available at the Pathosystems Resource Integration Center.
-<br>
-</div>
-
-<hr>
-<div class="anchor"><a name="vect4"></a></div>
-<div class="webinar">
-<b>Topic:</b> Analyzing your own data in VectorBase<br>
-<b>Date:</b> Thursday June 10th, 2021<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/5862523844903840014">https://attendee.gotowebinar.com/register/5862523844903840014</a><br>
-<b>Additional Details:</b> This webinar describe how you can analyze your own data in VectorBase:
-<ul>
-<li>Go enrichment analysis</li>
-<li>RNAseq analysis in Galaxy</li>
-<li>RNAseq result export to VectorBase</li>
-<li>Exploring your RNAseq data in VectorBase</li>
-</ul>
-<br>
-</div>
 
 <hr>
 <div class="anchor"><a name="release53"></a></div>
@@ -167,6 +138,42 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <h3>Previous Webinars</h3>
 <div class="contents">
 
+<hr>
+<div class="anchor"><a name="vect4"></a></div>
+<div class="webinar">
+<b>Topic:</b> Analyzing your own data in VectorBase<br>
+<b>Date:</b> Thursday June 10th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording Link:</b> <a href="https://youtu.be/07Z4DteNSPo">https://youtu.be/07Z4DteNSPo</a><br>
+<b>Handouts:</b> 
+<ul>
+<li><a href="{{'/documents/10June2021_Galaxy0_webinar.pdf' | absolute_url}}">Galaxy 0: Setting up a VectorBase Galaxy account</a><br></li>
+<li><a href="{{'/documents/10June2021_Galaxy1_webinar.pdf' | absolute_url}}">Galaxy 1: Uploading data and starting a workflow</a><br></li>
+<li><a href="{{'/documents/10June2021_Galaxy2_webinar.pdf' | absolute_url}}">Galaxy 2: View & interpret the results</a><br></li>
+</ul>
+<b>Additional Details:</b> This webinar describe how you can analyze your own data in VectorBase:
+<ul>
+<li>Introduction to differential expression</li>
+<li>RNAseq analysis in Galaxy</li>
+<li>RNAseq result export to VectorBase</li>
+<li>Exploring your RNAseq data in VectorBase</li>
+<li>Go enrichment analysis</li>
+</ul>
+<br>
+</div>
+  
+<hr>
+<div class="anchor"><a name="BRC6"></a></div>
+<div class="webinar">
+<b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC<br>
+<b>Date:</b> Tuesday June 1st 2021<br>
+<b>Time:</b> 11AM US Eastern Time<br>
+<b>Recording Link:</b> <a href="">coming soon!</a><br>
+<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
+bioinformatic resources available at the Pathosystems Resource Integration Center.
+<br>
+</div>
+  
 <hr>
 <div class="anchor"><a name="release52"></a></div>
 <div class="webinar">

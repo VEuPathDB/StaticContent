@@ -28,7 +28,7 @@ details p, details table {
   margin-left: 2em;
 }
 details table {
-  margin-right: 12em;
+  margin-right: 6em;
 }
 
 table {
@@ -45,10 +45,10 @@ tr.break td {
   background-color: #DCDCDC;
 }
 
-table#hor-minimalist-a {
+table.hor-minimalist-a {
   text-align: left;
 }
-table#hor-minimalist-a th {
+table.hor-minimalist-a th {
   font-size: 110%;
   font-weight: 400;
   color: #039;
@@ -56,29 +56,29 @@ table#hor-minimalist-a th {
   padding: 0.5em;
   text-align: center;
 }
-table#hor-minimalist-a tr {
+table.hor-minimalist-a tr {
   border-bottom: 1px solid #ddd;
 }
-table#hor-minimalist-a tr:hover td {
+table.hor-minimalist-a tr:hover td {
   color: #039; 
 }
-table#hor-minimalist-a tr.other td {
+table.hor-minimalist-a tr.other td {
   background-color: #fafafa;         
 }
-table#hor-minimalist-a tbody {
+table.hor-minimalist-a tbody {
   display: table-row-group;
   vertical-align: middle;
   border-color: inherit;
 }
-table#hor-minimalist-a td {
+table.hor-minimalist-a td {
   color: #669; 
   padding: 0.5em 0.5em 0.5em;
   vertical-align: middle;
 }
-table#hor-minimalist-a tfoot {
+table.hor-minimalist-a tfoot {
   font-size: 90%;
 }
-table#hor-minimalist-a tfoot tr {
+table.hor-minimalist-a tfoot tr {
   border:0;
 }
 </style>
@@ -87,17 +87,21 @@ table#hor-minimalist-a tfoot tr {
 <div class="static-content">
 
   <h3>Upcoming Workshops</h3>
+    <p>Details coming soon</p>
+
+  
+
+  <hr>
+  
+  <h3>Previous Workshops</h3>
 
   <div class="contents">     
     <h4><a href="#veupath2021">Annual VEuPathDB Workshop 2021 (Virtual)</a></h4>
       June 7-10, 2021 (Virtual)
   </div>
-
-  <hr>
   
-  <h3>Previous Workshops</h3>
   <div class="contents">
-    <h4><a href="#hinxton2021">2021 Fungal Pathogen Genomics</a></h4>
+    <h4><a href="#hinxton2021">2021 Fungal Pathogen Genomics (Virtual)</a></h4>
     May 10-14, 2021 (Virtual).
   </div>
 
@@ -130,35 +134,348 @@ table#hor-minimalist-a tfoot tr {
 
 <br>
 
-<hr> <!-- ==== UPCOMING WORKSHOPS =============================== -->
+<!-- ==== UPCOMING WORKSHOPS =============================== -->
 
-<h3>Upcoming Workshops</h3>
+<!--
+<hr> 
+<h3>Upcoming Workshops - Details</h3> -->
+
+
+
+
+<hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
+
+<h3>Previous Workshops - Details</h3>
+<hr>
 
 <div class="contents">
-<div class="anchor"><a name="veupath2021"></a></div>
+
+  <div class="anchor"><a name="veupath2021"></a></div>
   <div class="workshop">
     <h3>Annual VEuPathDB Workshop 2021 (Virtual)</h3>
     <p>Half-days on June 7 - 10, 2021</p> 
     <p>Over 4 half-days, the VEuPathDB will provide a thorough and intensive introduction to database resources that are part of the VEuPathDB Bioinformatics Resource Center. The workshop is centered on determining what is — and isn't — working for you, the end-user. Our goal is to maintain a fruitful and ongoing conversation between the developers and the biologists to obtain more efficient, effective ways to help you reach your goals. We hope this experience is as beneficial for you as it is for us, and we look forward to learning together. </p>
     <!--<p> <a href="https://workshop.eupathdb.org/athens/2021/"> More info</a></p>-->
     <p><a href="{{'/documents/2021athens/Pre_workshop_module.pdf' | absolute_url}}"><b>Pre_workshop_module.pdf</b></a>: This module provides a basic understanding of VEuPathDB concepts and practice with the basic tools on our sites.  We estimate that these exercises can be completed in 2 - 2.5 hours.  <b>Please complete this training module before arriving for the workshop on June 7.</b></p>
-  </div>
-</div>
+    <details closed>
+      <summary><b>Schedule</b></summary>
+      <p>All times in this schedule are given as Eastern Daylight time.  Please convert to your location <a href="https://www.thetimezoneconverter.com/" target="_blank">https://www.thetimezoneconverter.com/</a>.</p>
+      <table class="hor-minimalist-a">
+        <thead> 
+          <tr>
+            <th class="break"><b>Monday, June 7th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event and PDF handouts</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens for discussion</td>
+            <td> </td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>9:00 - 9:10am</td>
+            <td>Workshop Introduction</td>
+            <td>Jessica Kissinger</td>
+            <td><br><iframe width="180" height="115" src="https://www.youtube.com/embed/KW4KpPAVpEo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>9:10 - 9:15am</td>
+            <td>Welcome and introductions</td>
+            <td>Mary Ann McDowell and David Roos</td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>9:15 - 9:55am</td>
+            <td>Introductions</td>
+            <td>Everyone - Name, organisms of research, geographic location</td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>10 - 10:05am</td>
+            <td>short break</td>
+            <td></td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>10 - 10:10am</td>
+            <td><a href="{{'/documents/2021athens/Day1/Trans-and-Prot-lecture.pdf' | absolute_url}}"><b>Transcriptomics and Proteomics lecture</b></a></td>
+            <td>Susanne Warrenfeltz</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/kE64HktDLlA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
+          </tr>
+          <tr>
+            <td>10:10am - 12:00pm</td>
+            <td>Break out rooms for hands on work - <br> <a href="{{'/documents/2021athens/Day1/Transcriptomics.pdf' | absolute_url}}" class="ex-link"><b>Transcriptomics</b></a> and <a href="{{'/documents/2021athens/Day1/Proteomics_June2021.pdf' | absolute_url}}" class="ex-link"><b>Proteomics</b></a></td>
+            <td></td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>12:00 - 12:45pm</td>
+            <td>Lunch Break</td>
+            <td></td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>12:45 - 1:00pm</td>
+            <td><a href="{{'/documents/2021athens/Day1/GO_Term_Presentation_june2021.pdf' | absolute_url}}" class="ex-link"><b>Gene ontology and enrichment lecture</b></a></td>
+            <td>Omar Harb</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/i8ulapvhy1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
+          </tr>
+          <tr>
+            <td>1:00 - 1:30pm</td>
+            <td>Break out rooms for hands on work - <br><a href="{{'/documents/2021athens/Day1/GO-Enrichment.pdf' | absolute_url}}" class="ex-link"><b>GO Enrichment</b></a></td>
+            <td></td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>1:30 - 1:50pm</td>
+            <td><a href="{{'/documents/2021athens/Day1/VEuPathDB_RNAseq_lecture_2021.pdf' | absolute_url}}" class="ex-link"><b>Galaxy/RNAseq lecture</b></a></td>
+            <td>Kathryn Crouch</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/k5dPoZpxzE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
+          </tr>
+          <tr>
+            <td>1:50 - 3:00pm</td>
+            <td>Break out rooms for hands on work - RNAseq Galaxy part 1<br> <a href="{{'/documents/2021athens/Day1/Galaxy-RNAseq-groups.pdf' | absolute_url}}" class="ex-link"><b>Datasets</b></a> and <a href="{{'/exercises/Day1/VEuPathDB_RNAseq_Mapping_Galaxy_1-2.pdf' | absolute_url}}" class="ex-link"><b>Instructions</b></a></td>
+            <td></td>
+            <td> </td>
+          </tr>   
+          <tr>
+            <td>3 - 3:30pm</td>
+            <td>Optional discussion and question time </td>
+            <td></td>
+            <td> </td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Tuesday, June 8th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event and PDF handouts</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens for discussion</td>
+            <td> </td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>9:00 - 9:10am</td>
+            <td>Phenotype lecture</td>
+            <td>Evelina Basenko</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/fEFpS6sJ6lc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
+          </tr>
+          <tr>
+            <td>9:10 - 10:00am</td>
+            <td>Break out rooms for hands on work - <br><a href="{{'/documents/2021athens/Day2/Phenotypic_data.pdf' | absolute_url}}" class="ex-link"><b>Phenotype</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:00 - 10:20am</td>
+            <td>Gene models lecture</td>
+            <td>David Roos<br></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/toRnpKcNUH4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>10:20 - 11:30am</td>
+            <td>Break out rooms for hands on work - <br><a href="{{'/documents/2021athens/Day2/Adv_JBrowse_RNAseqII.pdf' | absolute_url}}" class="ex-link"><b>Adv. JBrowse gene models</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:30am - 12:00pm</td>
+            <td>Group discussion with some students highlighting what they found</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:00pm</td>
+            <td>Lunch Break</td>
+            <td></td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>1:00 - 1:20pm</td>
+            <td>Lecture RNAseq pipeline output, Fastq and DESeq2</td>
+            <td>Mark Hickman</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/kyjoEeXhMak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>1:20 - 3:00pm</td>
+            <td>Break out rooms for hands on work - <br><a href="{{'/documents/2021athens/Day2/VEuPathDB_RNAseq_mapping_Galaxy_2.pdf' | absolute_url}}" class="ex-link"><b>RNAseq Galaxy part 2</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>3 - 3:30pm</td>
+            <td>Optional discussion and question time </td>
+            <td></td>
+            <td> </td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Wednesday, June 9th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens for discussion</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9:00 - 9:20am</td>
+            <td>Orthology lecture</td>
+            <td>David Roos</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/TYSjDtHqYog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>9:20 - 10:15am</td>
+            <td>Break out rooms for hands on work - <br><a href="{{'/documents/2021athens/Day3/Orthology_Phyletic_Patterns.pdf' | absolute_url}}" class="ex-link"><b>Orthology</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:15 - 10:30am</td>
+            <td><a href="{{'/documents/2021athens/Day3/VEuPathDB_variants-lecture2021.pdf' | absolute_url}}" class="ex-link"><b>SNPs and CNVs</b></a></td>
+            <td>Kathryn Crouch</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Jus6uR6no9o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>10:30am - 12:00pm</td>
+            <td>Break out rooms for hands on work - <br><a href="{{'/documents/2021athens/Day3/Population_Biology_SNPs_CNVs_June2021.pdf' | absolute_url}}" class="ex-link"><b>SNPs and CNVs</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:00pm</td>
+            <td>Lunch Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00pm</td>
+            <td>Colocation and Introduction to group projects</td>
+            <td>Omar Harb</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Py4yOm37_Lo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+            <td>1:30 - 3:00pm</td>
+            <td>Break out rooms for hands on work - Group project</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>3 - 3:30pm</td>
+            <td>Optional discussion and question time </td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Thursday, June 10th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens for discussion</td> 
+            <td> </td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>9:00 - 9:10am</td>
+            <td><a href="{{'/documents/2021athens/Day4/Met-pathways-lecture.pdf' | absolute_url}}" class="ex-link"><b>Metabolic pathways lecture</b></a></td>
+            <td>Jessie Kissinger</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/dWe_FvwRSOo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>9:10 - 10:00am</td>
+            <td>Break out rooms for hands on work - <br><a href="{{'/documents/2021athens/Day4/Metabolic_Pathways.pdf' | absolute_url}}" class="ex-link"><b>Metabolic pathways</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10 - 10:05am</td>
+            <td>Short Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:05 - 12pm</td>
+            <td>Break out rooms for hands on work - Group project</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:00pm</td>
+            <td>Lunch Break</td>
+            <td>Breakout rooms can stay open for continued group project work</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1 - 2:30pm</td>
+            <td>Final Project presentations</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2:30 - 3pm</td>
+            <td>Workshop wrapup and final thoughts</td>
+            <td></td>
+            <td></td>
+          </tr>   
+        </tbody>
+      </table>
+    </details>
+  </div> <!--workshop-->
 
+  <hr>
 
-<hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
-
-<h3>Previous Workshops</h3>
-<hr>
-
-<div class="contents">    
-<div class="anchor"><a name="hinxton2021"></a></div>
+  <div class="anchor"><a name="hinxton2021"></a></div>
   <div class="workshop">
+
   <h3>2021 Fungal Pathogen Genomics (Virtual)</h3>
     This workshop was organized by the Wellcome Trust Advanced Courses and was held virtually. <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-virtual-20210510/#:~:text=Summary-,Summary,and%20human%2Fanimal%2Fplant%20health">
     2021 Fungal Pathogen Genomics (Virtual)</a>.
-    May 10-14, 2020<br>
-    <details closed>
+    May 10-14, 2020 (Virtual).<br>
+
+  <details closed>
       <summary><b>Pre-workshop module: Gene pages and Genome browsers</b></summary>
       <ul>
         <li><a href="{{'/documents/2021hinxtonfungal/1_SGD_mainpage_anatomy.pdf' | absolute_url}}">SGD main page anatomy</a></li>
@@ -259,18 +576,20 @@ table#hor-minimalist-a tfoot tr {
       </ul>
     </details>
     <br>
+
   </div>
+ 
 
-<hr>
 
-<div class="contents">    
-<div class="anchor"><a name="hinxton2020"></a></div>
+  <hr>  
+     
+  <div class="anchor"><a name="hinxton2020"></a></div>
   <div class="workshop">
-  <h3>Working with Protozoan Parasite Database Resources</h3>
+    <h3>Working with Protozoan Parasite Database Resources</h3>
     This workshop was organized by the Wellcome Trust Advanced Courses and was held virtually. <a href="https://coursesandconferences.wellcomegenomecampus.org/our-events/parasite-database-resources-2020/">
     Working with Protozoan Parasite Database Resources</a>.
     October 5-9, 2020 (Virtual).<br>
-    <details open>
+    <details closed>
       <summary><b>Exercises</b></summary>
       <ul>
         <li><a href="{{'/documents/hinxtonparasite/01b_SearchStrategies_Exercise_PlasmoDB.pdf' | absolute_url}}">Search Strategy Basics</a></li>
@@ -301,129 +620,112 @@ table#hor-minimalist-a tfoot tr {
     </details>
     <br>
   </div>
-<hr>
+
+  <hr>
+
   <div class="anchor"><a name="mpm2020"></a></div>
   <div class="workshop">
     <h3>Pre-MPM VEuPathDB workshop<span style="font-weight:100">, Friday September 18th, 2020 - from 10AM-2PM US Eastern time</span></h3>
     <p>This 4-hour VEuPathDB workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. Exercises will cover both basic and advanced usage of VEuPathDB resources.</p>
     <p>Registration: closed.</p>
-    <details open>
+    <details closed>
       <summary><b>Schedule and exercises</b></summary>
-      <table id="hor-minimalist-a">
-
-<thead>
-<tr>
-<th style="text-align:left">Time</th>
-<th style="text-align:left">Activity</th>
-<th style="text-align:left">Presenter</th>
-<th style="text-align:left">Recording</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>10-10:05AM</td>
-<td>Introduction to workshop</td>
-<td>David Roos</td>
-<td></td>
-</tr>
-
-<tr class="other">
-<td>10:05-10:15AM</td>
-<td>Quick intro to the home page layout</td>
-<td>Jessica Kissinger</td>
-<td><iframe width="180" height="115" src="https://www.youtube.com/embed/videoseries?list=PLWzQB3i5sYAIbOj9nosayPMgdBPH4Y5c3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-</tr>
-
-<tr>
-<td>
-10:15-10:45AM
-</td>
-<td><a href="{{'/documents/MPMSiteSearch.pdf' | absolute_url}}"><b>Site search</b></a></td>
-<td>Hands-on exercise in breakout rooms</td>
-<td></td>
-</tr>
-
-<tr class="other">
-<td>10:45-11:15AM</td>
-<td><a href="{{'/documents/MPMSearchStrategies_Exercise.pdf' | absolute_url}}"><b>Building a search strategy</b></a></td>
-<td>Hands-on exercise in breakout rooms</td>
-<td></td>
-</tr>
-
-<tr class="break">
-<td>11:15-11:30AM</td>
-<td>Break</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>11:30-11:45AM</td>
-<td>Intro to GO enrichment</td>
-<td>Omar Harb</td>
-<td><iframe width="180" height="115" src="https://www.youtube.com/embed/Ks_sAmH_6DQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-</tr>
-
-<tr class="other">
-<td>11:45-12:15PM</td>
-<td><a href="{{'/documents/MPMGOEnrichment.pdf' | absolute_url}}"><b>GO enrichment exercise</b></a></td>
-<td>Hands-on exercise in breakout rooms</td>
-<td></td>
-</tr>
-
-<tr>
-<td>12:15-1:00PM</td>
-<td><a href="{{'/documents/MPMGenePage.pdf' | absolute_url}}"><b>Exploring the gene page</b></a><br>
-<a href="{{'/documents/MPMJBrowseBasics.pdf' | absolute_url}}"><b>Exploring the genome browser</b></a></td>
-<td>Hands-on exercise in breakout rooms</td>
-<td></td>
-</tr>
-
-<tr class="other">
-<td>1:00-1:15PM</td>
-<td>Intro to orthology and how it is used in VEuPathDB</td>
-<td>Mark Hickman</td>
-<td><iframe width="180" height="115" src="https://www.youtube.com/embed/q_oWaSDWaHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-</tr>
-
-<tr>
-<td>1:15-1:45PM</td>
-<td><a href="{{'/documents/MPMAdvancedStrategies.pdf' | absolute_url}}"><b>Advanced search strategies</b></a></td>
-<td>Hands-on exercise in breakout rooms</td>
-<td></td>
-</tr>
-
-<tr class="other">
-<td>1:45-2:00PM</td>
-<td>Wrap up</td>
-<td></td>
-<td><iframe width="180" height="115" src="https://www.youtube.com/embed/IH7mCozhQOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-</tr>
-
-<tr>
-<td>2:00-2:30PM (Optional)</td>
-<td>Additional time to work on specific problems or complete exercises</td>
-<td></td>
-<td></td>
-</tr>
-
-</tbody>
-
-<tfoot>
-<tr>
-<td colspan="4"><i>This workshop will be run by a number of VEuPathDB staff members including: Achchuthan Shanmugasundram, David Starns, David Roos, Evelina Basenko, Jessica Kissinger, Gloria I. Giraldo-Calderón, Kathryn Crouch, Mark Hickman, Samual Rund, Sarah Kelly, Susanne Warrenfeltz, Sheena Tomko and Omar Harb</i></td>
-</tr>
-</tfoot>
-
-</table>
-  </details>
-
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Activity</th>
+            <th style="text-align:left">Presenter</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>10-10:05AM</td>
+            <td>Introduction to workshop</td>
+            <td>David Roos</td>
+            <td></td>
+          </tr>
+          <tr class="other">
+            <td>10:05-10:15AM</td>
+            <td>Quick intro to the home page layout</td>
+            <td>Jessica Kissinger</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/videoseries?list=PLWzQB3i5sYAIbOj9nosayPMgdBPH4Y5c3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td> 10:15-10:45AM </td>
+            <td><a href="{{'/documents/MPMSiteSearch.pdf' | absolute_url}}"><b>Site search</b></a></td>
+            <td>Hands-on exercise in breakout rooms</td>
+            <td></td>
+          </tr>
+          <tr class="other">
+            <td>10:45-11:15AM</td>
+            <td><a href="{{'/documents/MPMSearchStrategies_Exercise.pdf' | absolute_url}}"><b>Building a search strategy</b></a></td>
+            <td>Hands-on exercise in breakout rooms</td>
+            <td></td>
+          </tr>
+          <tr class="break">
+            <td>11:15-11:30AM</td>
+            <td>Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:30-11:45AM</td>
+            <td>Intro to GO enrichment</td>
+            <td>Omar Harb</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Ks_sAmH_6DQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr class="other">
+            <td>11:45-12:15PM</td>
+            <td><a href="{{'/documents/MPMGOEnrichment.pdf' | absolute_url}}"><b>GO enrichment exercise</b></a></td>
+            <td>Hands-on exercise in breakout rooms</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:15-1:00PM</td>
+            <td><a href="{{'/documents/MPMGenePage.pdf' | absolute_url}}"><b>Exploring the gene page</b></a><br>
+            <a href="{{'/documents/MPMJBrowseBasics.pdf' | absolute_url}}"><b>Exploring the genome browser</b></a></td>
+            <td>Hands-on exercise in breakout rooms</td>
+            <td></td>
+          </tr>
+          <tr class="other">
+            <td>1:00-1:15PM</td>
+            <td>Intro to orthology and how it is used in VEuPathDB</td>
+            <td>Mark Hickman</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/q_oWaSDWaHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>1:15-1:45PM</td>
+            <td><a href="{{'/documents/MPMAdvancedStrategies.pdf' | absolute_url}}"><b>Advanced search strategies</b></a></td>
+            <td>Hands-on exercise in breakout rooms</td>
+            <td></td>
+          </tr>
+          <tr class="other">
+            <td>1:45-2:00PM</td>
+            <td>Wrap up</td>
+            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/IH7mCozhQOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>2:00-2:30PM (Optional)</td>
+            <td>Additional time to work on specific problems or complete exercises</td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td colspan="4"><i>This workshop will be run by a number of VEuPathDB staff members including: Achchuthan Shanmugasundram, David Starns, David Roos, Evelina Basenko, Jessica Kissinger, Gloria I. Giraldo-Calderón, Kathryn Crouch, Mark Hickman, Samual Rund, Sarah Kelly, Susanne Warrenfeltz, Sheena Tomko and Omar Harb</i></td>
+          </tr>
+        </tfoot>
+      </table>
+    </details>
   </div> <!-- workshop -->
-<br>
+  <br>
 
 
-<hr>
+  <hr>
 
   <div class="anchor"><a name="vb-2020-7-24"></a></div>
   <div class="workshop">
@@ -458,7 +760,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
 <li>Other members from the VEuPathDB team will join us to help you during the exercises</li>
 </ul>
 
-<table id="hor-minimalist-a">
+<table class="hor-minimalist-a">
   <thead style="font-weight:bold">
     <tr><th colspan="4">Time</th><th rowspan="2">Topic</th><th rowspan="2">Instructor</th></tr>
     <tr><th>PDT (W. Coast)</th><th>EDT (E. Coast)</th><th>CET (Europe)</th><th>Length (min)</th></tr>
@@ -501,21 +803,19 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
     Email your questions to <a target="_blank" href="/a/app/contact-us">
     help@vectorbase.org  </a></p>
 
-</div>
+  </div>
 
-<br>
-<hr>
+  <br>
+  <hr>
 
-<div class="anchor"><a name="apollo-2020-7-27"></a></div>
-<div class="workshop">
-
-<h3>Gene manual annotation with Apollo workshop at AGS
-  <span style="font-weight:100">, on Monday July 27th, 2020</span>
-</h3>
-
-<p>
-  This workshop is a 2-hour introduction to the tool Apollo, which is currently available in VectorBase. This course will guide you through the process of updating and fixing gene models based on underlying data, including topics such as the addition of new genes, edition of the intron/exon boundaries, use of RNAseq and homology alignment data to support changes. This workshop would benefit vector biologist or any scientist with interest in annotating their favorite genes in Apollo available in other databases, e.g., i5k (<a target="_blank" href="https://i5k.nal.usda.gov/jbrowse-and-apollo">https://i5k.nal.usda.gov/jbrowse-and-apollo</a>).  
-</p>
+  <div class="anchor"><a name="apollo-2020-7-27"></a></div>
+  <div class="workshop">
+    <h3>Gene manual annotation with Apollo workshop at AGS
+      <span style="font-weight:100">, on Monday July 27th, 2020</span>
+    </h3>
+    <p>
+      This workshop is a 2-hour introduction to the tool Apollo, which is currently available in VectorBase. This course will guide you through the process of updating and fixing gene models based on underlying data, including topics such as the addition of new genes, edition of the intron/exon boundaries, use of RNAseq and homology alignment data to support changes. This workshop would benefit vector biologist or any scientist with interest in annotating their favorite genes in Apollo available in other databases, e.g., i5k (<a target="_blank" href="https://i5k.nal.usda.gov/jbrowse-and-apollo">https://i5k.nal.usda.gov/jbrowse-and-apollo</a>).  
+    </p>
 
 <!--<p>
   <b>Who should apply:</b> 
@@ -559,7 +859,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
   To encourage the active participation/Q&A during the hands-on activities, limited seats are available and the sessions will not be recorded. Priority seating will be given to AGS meeting attendees.  
 </p>
 -->
-<details open>
+<details closed>
 <summary><b>Agenda, schedule and instructors</b></summary>
 
 <ul>
@@ -570,7 +870,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
   <li>Other members from the VEuPathDB team will join us to help you during the exercises</li>
 </ul>
 
-<table id="hor-minimalist-a">
+<table class="hor-minimalist-a">
   <thead style="font-weight:bold">
     <tr><th colspan="4">Time</th><th rowspan="2">Topic</th><th rowspan="2">Instructor</th></tr>
     <tr><th>PDT (W. Coast)</th><th>EDT (E. Coast)</th><th>CET (Europe)</th><th>Length (min)</th></tr>
