@@ -53,4 +53,7 @@ tags: [resources]
   {% endif %}
   {% unless forloop.last %}{% endunless %}{% endfor %}
 </ul>
+<br>
+<br>
+<br>
 </div>
