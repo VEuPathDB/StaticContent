@@ -378,4 +378,4 @@ table#hor-minimalist-a tfoot tr {
 <br>
 <p>Email your questions to <a target="_blank" href="/a/app/contact-us">help@clinepidb.org.</a></p>
 </div>
-</div>
+
