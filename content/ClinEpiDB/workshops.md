@@ -364,7 +364,8 @@ table#hor-minimalist-a tfoot tr {
 
 </div>  <!-- workshop -->
 
-
+<div class="anchor"><a name="moreAboutClinEpi"></a></div>
+<div class="workshop">
 <br>
 <br>
 <p>
@@ -376,4 +377,5 @@ table#hor-minimalist-a tfoot tr {
 </p>
 <br>
 <p>Email your questions to <a target="_blank" href="/a/app/contact-us">help@clinepidb.org.</a></p>
-
+</div>
+</div>
