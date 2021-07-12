@@ -215,8 +215,6 @@ table#hor-minimalist-a tfoot tr {
 
 </div>  <!-- workshop -->
 
-<div class="contents">
-
 <div class="anchor"><a name="astmh2020-premeeting"></a></div>
 <div class="workshop">
     <h3>ASTMH Pre-meeting ClinEpiDB workshop</h3>
@@ -381,4 +379,3 @@ table#hor-minimalist-a tfoot tr {
 <p>Email your questions to <a target="_blank" href="/a/app/contact-us">help@clinepidb.org.</a></p>
 </div>
 
-</div>
