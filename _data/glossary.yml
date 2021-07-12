@@ -266,6 +266,12 @@
       soluble in water. Protein hydropathy plots can be useful in predicting <a href="#Transmembrane
       domain">transmembrane domains</a>, potential antigenic sites, and regions that
       are likely to be exposed on the protein's surface.
+- term: Interactome
+  description: The complete set of physical interactions between proteins within a
+      specific biological context such as an organelle, cell, or organism. Can also
+      refer to the complete set of genetic interactions between genes. Usually determined
+      using genome-wide techniques, although the complete set of interactions is difficult
+      to capture due to experimental noise and limits of detection.
 - term: Intergenic region
   description: Stretch of DNA located between <a href="#Gene">genes</a> that may act
       to regulate gene expression.

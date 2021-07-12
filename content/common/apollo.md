@@ -42,7 +42,7 @@ Organisms in AmoebaDB, CryptoDB, FungiDB, GiardiaDB, MicrosporidiaDB, Piroplasma
       
 <p>Apollo help and documentation:
 <ul> 
- <li>A <a href="https://apollo-sandbox.veupathdb.org/annotator/index">sandbox</a> is available for you to get familiar with all Apollo menus, tools, and tracks before you decide to use it for your real gene manual annotations. These changes will not affect any of the organism's official gene set, neither will be preserved.</li>
+ <li>A <a href="https://apollo-sandbox.veupathdb.org/annotator/index">sandbox (Login required)</a> is available for you to get familiar with all Apollo menus, tools, and tracks before you decide to use it for your real gene manual annotations. These changes will not affect any of the organism's official gene set, neither will be preserved.</li>
   <li>Comprehensive webinar to learn <a href="https://youtu.be/RMXZDBMh8Fo">how to use Apollo</a> (57:40 min)</li>
   <li><a href="/a/app/static-content/apolloQuickCommands.html">Quick commands</a></li> 
   <li><a href="{{'/documents/Apollo_functional_annotation_03_06_2021.pdf' | absolute_url}}">Functional annotation tutorial </a> </li>
@@ -50,7 +50,7 @@ Organisms in AmoebaDB, CryptoDB, FungiDB, GiardiaDB, MicrosporidiaDB, Piroplasma
   <li><a href="{{'/documents/FAQ_Apollo_18_06_2021.pdf' | absolute_url}}">Frequently Asked Questions </a> </li>
   <li><a href="https://apollo.veupathdb.org/1613634913933131701353630290/about">About Apollo (Login required)</a></li> 
   <li><a href="https://genomearchitect.readthedocs.io/en/latest/UsersGuide.html">User Guide</a></li> 
-  <li><a href="https://github.com/gmod/apollo/issues/new">Request feature/Report a bug</a></li> 
+  <li><a href="https://github.com/gmod/apollo/issues/new">Request feature/Report a bug (Login required)</a></li> 
   <li><a href="https://jbrowse.org/jb2/">Powered by JBrowse</a></li> 
   <li><a href="https://apollo.veupathdb.org/56133187121381847651851098590/jbrowse/web_services/api">Web Service API (Login required)</a></li> 
 
