@@ -174,3 +174,13 @@
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/restrictionsite_faq.png"  />
   uid: restrictionsite
   projects: ""
+- type: general
+  question: "Exporting from Galaxy/Globus to VEuPathDB returns a user email not valid error. How can I fix this?"
+  answer: |
+           This is most likely caused by you having a Galaxy account created outside VEuPathDB.
+           To check this, click on “User” from the home page. If the email address listed does not end in “@veupathdb.org”, then you are using a non-VEuPathDB account. This account could have been created through the Globus system.
+           If you do not have a “@veupathdb.org” address listed here, our systems will not be able to link your Galaxy account to your VEuPathDB account.
+
+            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_16.png"  />
+  uid: galaxy
+  projects: ""
