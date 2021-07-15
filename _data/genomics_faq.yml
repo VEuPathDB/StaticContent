@@ -182,5 +182,15 @@
            If you do not have a “@veupathdb.org” address listed here, our systems will not be able to link your Galaxy account to your VEuPathDB account.
 
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_16.png"  />
+           
+           To fix this, go here: https://app.globus.org/account/identities
+           You will likely have a primary identity consisting of your non-Veupath email address:
+
+            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_17.png"  />
+
+           If so, you need to unlink your VEuPathDB account from your other account by selecting ‘Manage Identities’ and pressing the Trash icon next to your VEuPathDB user name. This will not delete the VEuPathDB account, but will remove it from this particular Globus identity. Log out from this Globus identity.
+           Then, you must log out of Galaxy. Then log back into Galaxy using your VEuPathDB credentials -- this will likely create a new Galaxy account. Also, this will create a new Globus identity in which your VEuPathDB is the only account and also the primary identity. To verify that this worked, press the User menu in Galaxy and you should see your VEuPathDB user name: for example, mark123456789@veupathdb.org.
+           To transfer your work from your old non-VEuPathDB account to your new VEuPathDB account, share your history from the non-VEuPathDB account to the VEuPathDB account. Import the history into your VEuPathDB account.
+           Now you can export to our VEuPathDB websites. You should use this particular Galaxy account to do your future VEuPathDB work, so that you can export to VEuPathDB and so that we can contact you with important information about VEuPathDB Galaxy.
   uid: galaxy
   projects: ""
