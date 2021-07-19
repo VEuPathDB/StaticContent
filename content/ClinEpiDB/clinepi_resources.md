@@ -4,6 +4,8 @@ title: External Resources
 permalink: /ClinEpiDB/resources
 tags: [resources]
 ---
+<div id="ce-static-content">
+
 <h1 id="external-resources">External Resources</h1>
 
 <div id="clinepi-education-training">
@@ -56,4 +58,5 @@ tags: [resources]
 <br>
 <br>
 <br>
+</div>
 </div>
