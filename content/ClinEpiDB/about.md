@@ -36,7 +36,7 @@ tags: [general]
 
   <h2 id="who-is-behind-this-project">Who is behind this project?</h2>
   <div>
-    <h4>Current ClinEpiDB Team</h4><br>
+    <h4>Current ClinEpiDB Team Memebers</h4><br>
       <div>
         Cristina Aurrecoechea<sup>1</sup>, 
         Ana Barreto<sup>2</sup>, 
