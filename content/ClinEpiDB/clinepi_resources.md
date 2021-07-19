@@ -4,10 +4,12 @@ title: External Resources
 permalink: /ClinEpiDB/resources
 tags: [resources]
 ---
+<div id="ce-static-content">
+
 <h1 id="external-resources">External Resources</h1>
 
 <div id="clinepi-education-training">
-  <h1>Education and Training</h1>
+  <h2>Education and Training</h2>
 <ul>
   {% for item in site.data.clinepi_tutorials %}
   {% if item.type == "resource" and  item.subtype == "education" %}
@@ -20,7 +22,7 @@ tags: [resources]
 </div>
 
 <div id="clinepi-data-management">
-  <h1>Data Management</h1>
+  <h2>Data Management</h2>
 <ul>
   {% for item in site.data.clinepi_tutorials %}
   {% if item.type == "resource" and  item.subtype == "management" %}
@@ -32,19 +34,7 @@ tags: [resources]
 </div>
 
 <div id="clinepi-data-viz">
-  <h1>Data Visualization, Analysis, Modeling, and Simulations<</h1>
-<ul>
-  {% for item in site.data.clinepi_tutorials %}
-  {% if item.type == "resource" and  item.subtype == "visualization" %}
-    <li id="{{ item.uid }}"><a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
-    </li>
-  {% endif %}
-  {% unless forloop.last %}{% endunless %}{% endfor %}
-</ul>
-</div>
-
-<div id="clinepi-data-viz">
-  <h1>Data Visualization, Analysis, Modeling, and Simulations</h1>
+  <h2>Data Visualization, Analysis, Modeling, and Simulations</h2>
 <ul>
   {% for item in site.data.clinepi_tutorials %}
   {% if item.type == "resource" and  item.subtype == "visualization" %}
@@ -56,7 +46,7 @@ tags: [resources]
 </div>
 
 <div id="clinepi-data-repos">
-  <h1>Data Repositories</h1>
+  <h2>Data Repositories</h2>
 <ul>
   {% for item in site.data.clinepi_tutorials %}
   {% if item.type == "resource" and  item.subtype == "repository" %}
@@ -65,4 +55,8 @@ tags: [resources]
   {% endif %}
   {% unless forloop.last %}{% endunless %}{% endfor %}
 </ul>
+<br>
+<br>
+<br>
+</div>
 </div>

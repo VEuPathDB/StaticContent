@@ -132,7 +132,7 @@
            <p>Giraldo-Calderón, G. I., Emrich, S. J., MacCallum, R. M., Maslen, G., Dialynas, E., Topalis, P., Ho, N., Gesing, S., VectorBase Consortium, Madey, G., Collins, F. H., & Lawson, D. (2015). <b>VectorBase</b>: an updated bioinformatics resource for invertebrate vectors and other organisms related with human diseases. Nucleic acids research, 43(Database issue), D707–D713. <a href="https://doi.org/10.1093/nar/gku1117">https://doi.org/10.1093/nar/gku1117</a></p>
            <p>Oliveira, F. S., Brestelli, J., Cade, S., Zheng, J., Iodice, J., Fischer, S., Aurrecoechea, C., Kissinger, J. C., Brunk, B. P., Stoeckert, C. J., Jr, Fernandes, G. R., Roos, D. S., & Beiting, D. P. (2018). <b>MicrobiomeDB</b>: a systems biology platform for integrating, mining and analyzing microbiome experiments. Nucleic acids research, 46(D1), D684–D691. <a href="https://doi.org/10.1093/nar/gkx1027">https://doi.org/10.1093/nar/gkx1027</a></p>
            <p>Ruhamyankaka, E., Brunk, B. P., Dorsey, G., Harb, O. S., Helb, D. A., Judkins, J., Kissinger, J. C., Lindsay, B., Roos, D. S., San, E. J., Stoeckert, C. J., Zheng, J., & Tomko, S. S. (2020). <b>ClinEpiDB</b>: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. Gates open research, 3, 1661. <a href="https://doi.org/10.12688/gatesopenres.13087.2">https://doi.org/10.12688/gatesopenres.13087.2</a></p>
-           <p>Older publications for each VEuPathDB site can be found <a href="https://veupathdb.org/veupathdb/app/static-content/veupathPubs.html">here.</p>
+           <p>Older publications can be found under <a href="https://veupathdb.org/veupathdb/app/static-content/veupathPubs.html">VEuPathDB Publications and Citations.</a></p>
   uid: g12
   projects: ""
 - type: general
@@ -144,13 +144,13 @@
 
            Gloria-Soria, A., Lima, A., Lovin, D. D., Cunningham, J. M., Severson, D. W., & Powell, J. R. (2018). Origin of a High-Latitude Population of Aedes aegypti in Washington, DC. The American journal of tropical medicine and hygiene, 98(2), 445–452. <a href="https://doi.org/10.4269/ajtmh.17-0676">https://doi.org/10.4269/ajtmh.17-0676</a>
   uid: g13
-  projects: "DoNotShow"
+  projects: ""
 - type: general
   question: "How to cite a gene? Why we recomend gene stable ID in addition to gene metadata"
   answer: |
            Gene metadata are the gene name or symbol and the gene functional description. The gene stable IDs are, not only stable (as implied by their name), also easier to work with, as you can upload them in GLORIA WORK IN PROFGRESS ...
   uid: g14
-  projects: ""
+  projects: "DONOTSHOW"
 - type: general
   question: "How do I download a sequence in FASTA format from a region of interest in JBrowse?"
   answer: |
@@ -173,4 +173,25 @@
             
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/restrictionsite_faq.png"  />
   uid: restrictionsite
+  projects: ""
+- type: general
+  question: "Exporting from Galaxy/Globus to VEuPathDB returns a user email not valid error. How can I fix this?"
+  answer: |
+           This is most likely caused by you having a Galaxy account created outside VEuPathDB.
+           To check this, click on “User” from the home page. If the email address listed does not end in “@veupathdb.org”, then you are using a non-VEuPathDB account. This account could have been created through the Globus system.
+           If you do not have a “@veupathdb.org” address listed here, our systems will not be able to link your Galaxy account to your VEuPathDB account.
+
+            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_16.png"  />
+           
+
+           <p>To fix this, go here: https://app.globus.org/account/identities
+           You will likely have a primary identity consisting of your non-Veupath email address:</p>
+
+            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_17.png"  />
+
+           <p>If so, you need to unlink your VEuPathDB account from your other account by selecting ‘Manage Identities’ and pressing the Trash icon next to your VEuPathDB user name. This will not delete the VEuPathDB account, but will remove it from this particular Globus identity. Log out from this Globus identity.</p>
+           <p>Then, you must log out of Galaxy. Then log back into Galaxy using your VEuPathDB credentials -- this will likely create a new Galaxy account. Also, this will create a new Globus identity in which your VEuPathDB is the only account and also the primary identity. To verify that this worked, press the User menu in Galaxy and you should see your VEuPathDB user name: for example, mark123456789@veupathdb.org.</p>
+           <p>To transfer your work from your old non-VEuPathDB account to your new VEuPathDB account, share your history from the non-VEuPathDB account to the VEuPathDB account. Import the history into your VEuPathDB account.</p>
+           <p>Now you can export to our VEuPathDB websites. You should use this particular Galaxy account to do your future VEuPathDB work, so that you can export to VEuPathDB and so that we can contact you with important information about VEuPathDB Galaxy.</p>
+  uid: galaxy
   projects: ""
