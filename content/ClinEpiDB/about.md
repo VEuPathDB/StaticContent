@@ -90,7 +90,7 @@ tags: [general]
     <br>
     <br>
     <div>  
-    <sup>#</sup>Primary Investigator
+    <sup>#</sup>Principal Investigator
     <ol>
       <li>University of Georgia, Athens, GA 30602, USA</li>
       <li>University of Pennsylvania, Philadelphia, PA 19104, USA</li>
