@@ -31,8 +31,8 @@ tags: [general]
   <div>
      <!--    "{{ '/resources.html' | relative_url }}"    -->
      <!--   "/a/app/community/ClinEpiDB/resources.html"  -->
-    <p>The video below provides a short overview of the major features of ClinEpiDB. Visit our <a target="_blank" href="/a/app/static-content/ClinEpiDB/tutorials.html">Tutorials</a>, <a target="_blank" href="/a/app/static-content/ClinEpiDB/workshops.html">Workshops</a>, and <a target="_blank" href="/a/app/static-content/ClinEpiDB/webinars.html">Webinars</a> pages or read our <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661">paper</a> to learn more!
-  </div>
+    <p>The video below provides a short overview of the major features of ClinEpiDB. Visit our <a target="_blank" href="/a/app/static-content/ClinEpiDB/tutorials.html">Tutorials</a>, <a target="_blank" href="/a/app/static-content/ClinEpiDB/workshops.html">Workshops</a>, and <a target="_blank" href="/a/app/static-content/ClinEpiDB/webinars.html">Webinars</a> pages or read our <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661">paper</a> to learn more!</p>
+    </div>
 
   <h2 id="who-is-behind-this-project">Who is behind this project?</h2>
   <div>
