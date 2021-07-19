@@ -17,6 +17,16 @@ category: [PiroplasmaDB,VEuPathDB]
 </section>
 
 <section>
+  <h3>New data in {{project}} 53</h3> 
+  <div style="margin-left: 3em;">
+    <h4>Genome Annotation Update</h4>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_3edcadd790" target="_blank"><i>Theileria parva</i> strain Muguga</a> &ndash; Using the original genome assembly, all gene models have been re-evaluated using new evidence, including RNA-seq data and proteomes of closely related species, and the final gene annotation has now been updated. <a href="http://www.ncbi.nlm.nih.gov/pubmed/32245418" target="_blank">Tretina et al. 2020</a></li>
+      </ul>
+  </div>
+</section>
+
+<section>
   <h3>New features in {{project}} 53</h3>
   <div style="margin-left: 3em;">
    <ul>
@@ -33,10 +43,6 @@ category: [PiroplasmaDB,VEuPathDB]
     <li>The algorithm for predicting EC Numbers of genes has been improved. Previously, we predicted EC numbers by using the most prevalent EC number in an ortholog group (defined by OrthoMCL) and transferring that number to all other members in the group. In the new algorithm, we use orthology as well as protein sequence/domain comparison to infer EC number assignments. Additionally, we provide multiple forms of evidence that are used to inform each prediction, allowing users to determine their confidence in the prediction. Specifically, the algorithm evaluates three features (length, domain architecture and BLAST similarity to other proteins) of each protein in an OrthoMCL ortholog group. Those features are compared to the features of proteins already assigned an EC number, in order to infer which proteins should be assigned a specific EC number.  We also show the number of proteins and the number of genera that are assigned this EC number within the ortholog group, so that the user can assess the prevalence of a given EC number. This new algorithm performs extremely well in predicting previously assigned EC numbers, demonstrating that the algorithm is accurate.</li>
     </ul>
   </div>
-</section>
-
-<section>
-  <h3>No new data in {{project}} 53</h3>
 </section>
 
 <section>
