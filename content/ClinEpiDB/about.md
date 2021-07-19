@@ -41,56 +41,57 @@ tags: [general]
         Cristina Aurrecoechea<sup>1</sup>,  
         Ana Barreto<sup>3</sup>,
         Wojtek Bazant<sup>2</sup>,
-        Dan Beiting<sup>2</sup>,
+        Dan Beiting<sup>3</sup>,
         Bob Belnap<sup>1</sup>,
-        Ann Blevins<sup>2</sup>,
-        John Brestelli<sup>3</sup>,
-        Brian Brunk<sup>2</sup>,
-        Danielle Callan<sup>2</sup>,
-        George Christophides<sup>5</sup>,
+        Ann Blevins<sup>3</sup>,
+        John Brestelli<sup>4</sup>,
+        Brian Brunk<sup>3</sup>,
+        Danielle Callan<sup>3</sup>,
+        George Christophides<sup>6</sup>,
         Jeremy DeBarry<sup>1</sup>,
-        Ryan Doherty<sup>3</sup>,
+        Ryan Doherty<sup>4</sup>,
         Dave Falke<sup>1</sup>,
-        Steve Fischer<sup>3</sup>,
-        Omar S. Harb<sup>2</sup>,
-        Elizabeth Harper<sup>2</sup>
-        Danica Helb<sup>2</sup>,  
-        Connor Howington<sup>4</sup>,
+        Steve Fischer<sup>4</sup>,
+        Omar S. Harb<sup>3</sup>,
+        Elizabeth Harper<sup>3</sup>
+        Danica Helb<sup>3</sup>,  
+        Connor Howington<sup>5</sup>,
         Jay Humphrey<sup>1</sup>,
-        John Judkins<sup>2</sup>,
-        Sarah Kelly<sup>5</sup>,
+        John Judkins<sup>3</sup>,
+        Sarah Kelly<sup>6</sup>,
         Nupur Kittur<sup>1</sup>,
-        Timothy Kizza<sup>6</sup>,
-        Dae Kun Kwon<sup>4</sup>,
-        Jamie Long<sup>2</sup>,
-        Bob MacCallum<sup>5</sup>,
-        Isaiah Nabende<sup>6</sup>,
-        Jaffer Okiring<sup>6</sup>,
-        David S. Roos<sup>2</sup>, 
-        Steph Wever Schulman<sup>2</sup>,
-        Weilu Song<sup>2</sup>,
-        Christian J. Stoeckert Jr.<sup>3</sup>,
-        Sheena Shah Tomko<sup>2</sup>,  
-        Jie Zheng<sup>3</sup>
+        Timothy Kizza<sup>7</sup>,
+        Dae Kun Kwon<sup>5</sup>,
+        Jamie Long<sup>3</sup>,
+        Bob MacCallum<sup>6</sup>,
+        Isaiah Nabende<sup>7</sup>,
+        Jaffer Okiring<sup>7</sup>,
+        David S. Roos<sup>3</sup>, 
+        Steph Wever Schulman<sup>3</sup>,
+        Weilu Song<sup>3</sup>,
+        Christian J. Stoeckert Jr.<sup>4</sup>,
+        Sheena Shah Tomko<sup>3</sup>,  
+        Jie Zheng<sup>4</sup>
       </div>
       <br>
     <h4>Previous ClinEpiDB Team members, 2018-2020</h4><br>
       <div>
-      Austin Billings<sup>2</sup>,
-      Ja’Shon Cade<sup>2</sup>,
-      Cristian Cocos<sup>2</sup>,
-      San James<sup>6</sup>,
-      Victor Kamya<sup>6</sup>,
-      Carolyn Knoll<sup>2</sup>,
-      Brianna Lindsay<sup>2</sup>,
-      Emmanuel Ruhamyankaka<sup>6</sup>,
-      Lin Xu<sup>2</sup>
+      Austin Billings<sup>3</sup>,
+      Ja’Shon Cade<sup>3</sup>,
+      Cristian Cocos<sup>3</sup>,
+      San James<sup>7</sup>,
+      Victor Kamya<sup>7</sup>,
+      Carolyn Knoll<sup>3</sup>,
+      Brianna Lindsay<sup>3</sup>,
+      Emmanuel Ruhamyankaka<sup>7</sup>,
+      Lin Xu<sup>3</sup>
       </div>
     <br>
     <br>
     <div>  
     <ol>
       <li>University of Georgia, Athens, GA 30602, USA</li>
+      <li>University of Glasgow, Glasgow, Scotland G12 8QQ, UK</li>
       <li>University of Pennsylvania, Philadelphia, PA 19104, USA</li>
       <li>University of Pennsylvania School of Medicine, Philadelphia, PA 19104, USA</li>
       <li>University of Notre Dame, Notre Dame, IN 46556, USA</li>
