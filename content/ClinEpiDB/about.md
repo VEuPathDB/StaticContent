@@ -74,6 +74,7 @@ tags: [general]
         Sheena Shah Tomko<sup>2</sup>,  
         Jie Zheng<sup>3</sup>
       </div>
+      <br>
     <h4>Previous ClinEpiDB Team members, 2018-2020</h4><br>
       <div>
       Austin Billings<sup>2</sup>,
@@ -86,6 +87,8 @@ tags: [general]
       Emmanuel Ruhamyankaka<sup>6</sup>,
       Lin Xu<sup>2</sup>
       </div>
+    <br>
+    <br>
     <div>  
     <ol>
       <li>University of Georgia, Athens, GA 30602, USA</li>
