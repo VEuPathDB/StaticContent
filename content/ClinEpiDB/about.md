@@ -31,42 +31,76 @@ tags: [general]
   <div>
      <!--    "{{ '/resources.html' | relative_url }}"    -->
      <!--   "/a/app/community/ClinEpiDB/resources.html"  -->
-    <p>The video below provides a short overview of the major features of ClinEpiDB. Visit our <a target="_blank" href="/a/app/static-content/ClinEpiDB/resources.html">Tutorials and Resources</a> page, check out our <a target="_blank" href="https://www.youtube.com/playlist?list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh">Video Tutorials</a>, or read our <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661/v2">paper</a> to learn more!</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/535PcFrBH8M"></iframe>
-  </div>
+    <p>The video below provides a short overview of the major features of ClinEpiDB. Visit our <a target="_blank" href="/a/app/static-content/ClinEpiDB/tutorials.html">Tutorials</a>, <a target="_blank" href="/a/app/static-content/ClinEpiDB/workshops.html">Workshops</a>, and <a target="_blank" href="/a/app/static-content/ClinEpiDB/webinars.html">Webinars</a> pages or read our <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661">paper</a> to learn more!</p>
+    </div>
 
   <h2 id="who-is-behind-this-project">Who is behind this project?</h2>
   <div>
-    <h4>The VEuPathDB Team</h4><br>
+    <h4>Current ClinEpiDB Team Members</h4><br>
       <div>
-        Cristina Aurrecoechea<sup>1</sup>,
-        John Brestelli<sup>2</sup>,
-        Brian Brunk<sup>3</sup>,
-        Danielle Callan<sup>3</sup>,
-        Dave Falke<sup>1</sup>,
-        Steve Fischer<sup>2</sup>,
-        Omar Harb<sup>3</sup>,
-        Danica Helb<sup>3</sup>,
-        Jay Humphrey<sup>1</sup>,
-        John Judkins<sup>3</sup>,
-        Jessica Kissinger<sup>1</sup>,
-        Nupur Kittur<sup>1</sup>,
-        Brianna Lindsay<sup>3*</sup>,
-        David Roos<sup>3#</sup>,
-        Steph Wever Schulman<sup>3</sup>,
-        Christian J. Stoeckert<sup>2</sup>,
-        Sheena Shah Tomko<sup>3</sup>,
-        Jie Zheng<sup>2,4</sup>
+        Cristina Aurrecoechea<sup>1</sup>, 
+        Ana Barreto<sup>2</sup>, 
+        Wojtek Bazant<sup>3</sup>, 
+        Dan Beiting<sup>2</sup>, 
+        Bob Belnap<sup>1</sup>, 
+        Ann Blevins<sup>2</sup>, 
+        John Brestelli<sup>4</sup>, 
+        Brian Brunk<sup>2</sup>, 
+        Danielle Callan<sup>2</sup>, 
+        George Christophides<sup>5</sup>, 
+        Jeremy DeBarry<sup>1</sup>, 
+        Ryan Doherty<sup>4</sup>, 
+        Dave Falke<sup>1</sup>, 
+        Steve Fischer<sup>4</sup>, 
+        Omar S. Harb<sup>2</sup>, 
+        Elizabeth Harper<sup>2</sup>, 
+        Danica Helb<sup>2</sup>, 
+        Connor Howington<sup>6</sup>, 
+        Jay Humphrey<sup>1</sup>, 
+        John Judkins<sup>2</sup>, 
+        Sarah Kelly<sup>5</sup>, 
+        Nupur Kittur<sup>1</sup>, 
+        Timothy Kizza<sup>7</sup>, 
+        Dae Kun Kwon<sup>6</sup>, 
+        Jamie Long<sup>2</sup>, 
+        Bob MacCallum<sup>5</sup>, 
+        Isaiah Nabende<sup>7</sup>, 
+        Jaffer Okiring<sup>7</sup>, 
+        David S. Roos<sup>2#</sup>, 
+        Steph Wever Schulman<sup>2</sup>, 
+        Weilu Song<sup>2</sup>, 
+        Christian J. Stoeckert Jr.<sup>4</sup>, 
+        Sheena Shah Tomko<sup>2</sup>, 
+        Jie Zheng<sup>4</sup> 
       </div>
-    <p>
-    <sup>*</sup>Project coordinator, <sup>#</sup>Primary investigator
-    </p>
+      <br>
+    <h4>Previous ClinEpiDB Team Members, 2018-2021</h4><br>
+      <div>
+      Austin Billings<sup>2</sup>, 
+      Ja’Shon Cade<sup>2</sup>, 
+      Cristian Cocos<sup>2</sup>, 
+      San James<sup>7</sup>, 
+      Victor Kamya<sup>7</sup>, 
+      Jessica C Kissinger<sup>1</sup>, 
+      Carolyn Knoll<sup>2</sup>, 
+      Brianna Lindsay<sup>2</sup>, 
+      Emmanuel Ruhamyankaka<sup>7</sup>, 
+      Lin Xu<sup>2</sup> 
+      </div>
+    <br>
+    <br>
+    <div>  
+    <sup>#</sup>Principal Investigator
     <ol>
-      <li>Center for Tropical &amp; Emerging Global Diseases, University of Georgia, Athens, GA 30602 USA</li>
-      <li>Department of Genetics, University of Pennsylvania School of Medicine, Philadelphia, PA 19104 USA</li>
-      <li>Department of Biology, University of Pennsylvania, Philadelphia, PA 19104 USA</li>
-      <li>Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104 USA</li>
+      <li>University of Georgia, Athens, GA 30602, USA</li>
+      <li>University of Pennsylvania, Philadelphia, PA 19104, USA</li>
+      <li>University of Glasgow, Glasgow, Scotland G12 8QQ, UK</li>
+      <li>University of Pennsylvania School of Medicine, Philadelphia, PA 19104, USA</li>
+      <li>Imperial College London, South Kensington, London SW7 2BU, UK</li>
+      <li>University of Notre Dame, Notre Dame, IN 46556, USA</li>
+      <li>Makerere University and Infectious Diseases Research Collaboration (IDRC), Kampala, Uganda</li>
     </ol>
+    </div>
   </div>
 
 </div>
