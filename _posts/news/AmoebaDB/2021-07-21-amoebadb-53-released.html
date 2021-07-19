@@ -1,0 +1,46 @@
+---
+layout: post
+title: AmoebaDB 52 Released
+category: [AmoebaDB,VEuPathDB]
+---
+{% assign project = page.category[0] %}
+
+
+<h3>We are pleased to announce the release of {{project}} 52.</h3>
+
+<section>
+  <h3>Release 52 Webinar</h3>
+  <div style="margin-left: 3em;">
+    Join us on May 27, 2021 at 10am EDT for our Release 52 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 52.  
+    <a href="https://attendee.gotowebinar.com/register/8223585429100223502" target="_blank">Register here</a>  
+  </div>
+</section>
+
+<section>
+  <h3>New features in {{project}} 52</h3>
+  <div style="margin-left: 3em;">
+   <ul>
+    <li>The gene pages of <a href="https://en.wikipedia.org/wiki/Pseudogene" target="_blank">pseudogenes</a> are modified to improved clarity: <a href="{{'/assets/images/pseudogene-page.png' | absolute_url}}">(Pseudogene-changes.png)</a>
+      <ul>
+        <li>The Transcripts table in the Gene Models section now indicates that no protein products are produced. </li>
+        <li>The exons in JBrowse views of pseudogenes are colored gray.  Blue represents genes on the forward strand and red represents genes on the reverse strand. </li>
+        <li>The Orthology and Synteny section indicates that orthology is not determined for pseudogenes.</li>
+        <li>Protein sequences are no longer available from the Sequences section.</li>
+      </ul>
+    </li>
+    <li>A new <a href="/a/app/static-content/faq.html">FAQs page</a> is available from the <a href="/a/app/static-content/landing.html">Learn How to use VEuPathDB page</a>. Open each section to reveal step-by-step instructions for common tasks.  </li>
+    <li>Reference organisms are indicated in the Organism parameter on search pages.  VEuPathDB chooses a representative genome from each species and aligns all functional genomics data to the reference.  In doing so, all data can be viewed and compared in the genome browser against the reference.  In some cases, data are aligned to the source organism in addition to the reference. (<a href="{{'/assets/images/Reference.png' | absolute_url}}">Reference-organism.png</a>)</li>
+    <li>The algorithm for predicting EC Numbers of genes has been improved. Previously, we predicted EC numbers by using the most prevalent EC number in an ortholog group (defined by OrthoMCL) and transferring that number to all other members in the group. In the new algorithm, we use orthology as well as protein sequence/domain comparison to infer EC number assignments. Additionally, we provide multiple forms of evidence that are used to inform each prediction, allowing users to determine their confidence in the prediction. Specifically, the algorithm evaluates three features (length, domain architecture and BLAST similarity to other proteins) of each protein in an OrthoMCL ortholog group. Those features are compared to the features of proteins already assigned an EC number, in order to infer which proteins should be assigned a specific EC number.  We also show the number of proteins and the number of genera that are assigned this EC number within the ortholog group, so that the user can assess the prevalence of a given EC number. This new algorithm performs extremely well in predicting previously assigned EC numbers, demonstrating that the algorithm is accurate.</li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <h3>No new data in {{project}} 52</h3> 
+</section>
+
+<section>
+  <aside>
+   <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>
