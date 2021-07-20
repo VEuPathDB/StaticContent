@@ -17,6 +17,16 @@ category: [AmoebaDB,VEuPathDB]
 </section>
 
 <section>
+  <h3>New data in {{project}} 53</h3> 
+  <div style="margin-left: 3em;">
+    <h4>Transcriptomics</h4>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_c5116a5174" target="_blank">Transcriptome of <i>Entamoeba histolytica</i> in normal and stressed conditions</a> &ndash; RNA-Seq transcriptome of <i>Entamoeba histolytica</i> HM-1:IMSS trophozoites under normal culture conditions, serum starved for 24 hours and 2 hr serum replenish after starvation.<a href="http://www.ncbi.nlm.nih.gov/pubmed/30866809" target="_blank">Naiyer et al. 2019</a></li>
+      </ul>
+  </div>
+</section>
+
+<section>
   <h3>New features in {{project}} 53</h3>
   <div style="margin-left: 3em;">
    <ul>
@@ -32,16 +42,6 @@ category: [AmoebaDB,VEuPathDB]
     <li>Reference organisms are indicated in the Organism parameter on search pages.  VEuPathDB chooses a representative genome from each species and aligns all functional genomics data to the reference.  In doing so, all data can be viewed and compared in the genome browser against the reference.  In some cases, data are aligned to the source organism in addition to the reference. (<a href="{{'/assets/images/Reference.png' | absolute_url}}">Reference-organism.png</a>)</li>
     <li>The algorithm for predicting EC Numbers of genes has been improved. Previously, we predicted EC numbers by using the most prevalent EC number in an ortholog group (defined by OrthoMCL) and transferring that number to all other members in the group. In the new algorithm, we use orthology as well as protein sequence/domain comparison to infer EC number assignments. Additionally, we provide multiple forms of evidence that are used to inform each prediction, allowing users to determine their confidence in the prediction. Specifically, the algorithm evaluates three features (length, domain architecture and BLAST similarity to other proteins) of each protein in an OrthoMCL ortholog group. Those features are compared to the features of proteins already assigned an EC number, in order to infer which proteins should be assigned a specific EC number.  We also show the number of proteins and the number of genera that are assigned this EC number within the ortholog group, so that the user can assess the prevalence of a given EC number. This new algorithm performs extremely well in predicting previously assigned EC numbers, demonstrating that the algorithm is accurate.</li>
     </ul>
-  </div>
-</section>
-
-<section>
-  <h3>New data in {{project}} 53</h3> 
-  <div style="margin-left: 3em;">
-    <h4>Transcriptomics</h4>
-      <ul>
-        <li><a href="/a/app/record/dataset/DS_c5116a5174" target="_blank">Transcriptome of <i>Entamoeba histolytica</i> in normal and stressed conditions</a> &ndash; RNA-Seq transcriptome of <i>Entamoeba histolytica</i> HM-1:IMSS trophozoites under normal culture conditions, serum starved for 24 hours and 2 hr serum replenish after starvation.<a href="http://www.ncbi.nlm.nih.gov/pubmed/30866809" target="_blank">Naiyer et al. 2019</a></li>
-      </ul>
   </div>
 </section>
 
