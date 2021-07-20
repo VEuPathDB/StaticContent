@@ -14,7 +14,7 @@ tags: [general]
       </p>
     </div>
 
-  <h2 id="how-was-it-made">How was it made?</h2>
+  <h2 id="how-was-it-made">How is it made?</h2>
   <div>
     <div>
       <img alt="ClinEpiDB How we process the data from different studies" src="/a/images/ClinEpiDB/ClinEpi_About_page_data_processing.png" />
@@ -32,6 +32,7 @@ tags: [general]
      <!--    "{{ '/resources.html' | relative_url }}"    -->
      <!--   "/a/app/community/ClinEpiDB/resources.html"  -->
     <p>The video below provides a short overview of the major features of ClinEpiDB. Visit our <a target="_blank" href="/a/app/static-content/ClinEpiDB/tutorials.html">Tutorials</a>, <a target="_blank" href="/a/app/static-content/ClinEpiDB/workshops.html">Workshops</a>, and <a target="_blank" href="/a/app/static-content/ClinEpiDB/webinars.html">Webinars</a> pages or read our <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661">paper</a> to learn more!</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Z6N_7fSkVAY?list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh"></iframe>
     </div>
 
   <h2 id="who-is-behind-this-project">Who is behind this project?</h2>
@@ -56,28 +57,31 @@ tags: [general]
         Elizabeth Harper<sup>2</sup>, 
         Danica Helb<sup>2</sup>, 
         Connor Howington<sup>6</sup>, 
-        Jay Humphrey<sup>1</sup>, 
+        Jay Humphrey<sup>1</sup>,
+        Bindu Gajria<sup>2</sup>,
         John Judkins<sup>2</sup>, 
         Sarah Kelly<sup>5</sup>, 
         Nupur Kittur<sup>1</sup>, 
         Timothy Kizza<sup>7</sup>, 
         Dae Kun Kwon<sup>6</sup>, 
         Jamie Long<sup>2</sup>, 
-        Bob MacCallum<sup>5</sup>, 
+        Bob MacCallum<sup>5</sup>,
+        Greg Milewski<sup>2</sup>,
         Isaiah Nabende<sup>7</sup>, 
         Jaffer Okiring<sup>7</sup>, 
         David S. Roos<sup>2#</sup>, 
         Steph Wever Schulman<sup>2</sup>, 
         Weilu Song<sup>2</sup>, 
         Christian J. Stoeckert Jr.<sup>4</sup>, 
-        Sheena Shah Tomko<sup>2</sup>, 
+        Sheena Shah Tomko<sup>2</sup>,
+        Robert Wieck<sup>6</sup>,
         Jie Zheng<sup>4</sup> 
       </div>
       <br>
     <h4>Previous ClinEpiDB Team Members, 2018-2021</h4><br>
       <div>
       Austin Billings<sup>2</sup>, 
-      Ja’Shon Cade<sup>2</sup>, 
+      Ja'Shon Cade<sup>2</sup>, 
       Cristian Cocos<sup>2</sup>, 
       San James<sup>7</sup>, 
       Victor Kamya<sup>7</sup>, 

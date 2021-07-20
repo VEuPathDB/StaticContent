@@ -8,8 +8,6 @@ tags: [general]
 <div class="static-content" style="padding:0 3em">
 
 <h3>Previous Webinars</h3>
-View recordings of our previous webinars:
-<br>
 <br>
 <b>April 20, 2021:</b> Sam Gonahasa, MD <i>Infectious Diseases Research Collaboration, Uganda</i>
 <br>
