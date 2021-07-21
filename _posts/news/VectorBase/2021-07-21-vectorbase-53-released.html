@@ -27,8 +27,10 @@ category: [VectorBase,VEuPathDB]
   <h3>New features in {{project}} 53</h3>
   <div style="margin-left: 3em;">
    <ul>
-    <li>Genome data set records (<a href="/a/app/search/dataset/AllDatasets/result?filterTerm=genomes&filterAttributes=newcategory">{{project}} genome data sets</a>) are updated to increase clarity and reduce redundancy of information on the page.  For example, a new table "Explore other Categories of Data Associated with this Genome" contains links to all functional data sets for the organism. The new "Data Context" section provides counts for genes, assembled sequences and transcripts. Functional data set records have received similar updates.</li>
+    <li>We have a new format for the genome, transcriptome (RNAseq and microarray) and proteome (mass spectrometry) data set types. These data pages have been updated to increase clarity and reduce redundancy of information. The genome page is similar to the organisms page we used to have in legacy VectorBase. Follow this link (<a href="/a/app/search/dataset/AllDatasets/result?filterTerm=genomes&filterAttributes=newcategory">{{project}} genome data sets</a>) which has all VectorBase (~500) data sets, filtered to show only the genomes. For example in the genome page, a new table "Explore other Categories of Data Associated with this Genome" contains links to all functional data sets for the organism. The new "Data Context" section provides counts for genes, assembled sequences and transcripts. </li>
     <li>ID searches such as the "site search" or "Identify Genes by ID" have been updated to find versions of an ID (e.g. ID.1, ID.2). Specifically, searching for the ID will retrieve ID, ID.1 and ID.2, etc, while searching for ID.1 will retrieve only ID.1</li>
+    <li>The community annotation software, Apollo, was updated to version 2.6.5 (<a href="https://apollo.veupathdb.org/1831134177781582126148319042/about" target="_blank">About Apollo</a>).</li>
+    <li>The BLAT sequence search tool is integrated into Apollo. Use the 'Search' tab from the annotator panel to find your sequence of interest in our Apollo-available genomes. (<a href="{{'/assets/images/ApolloBLAT.png' | absolute_url}}">ApolloBLAT.png</a>)</li>
     </ul>
   </div>
 </section>
@@ -53,7 +55,6 @@ category: [VectorBase,VEuPathDB]
       <br>
 
     <h4>RNA Sequence</h4>
-      <p>In VectorBase we have a total of 327 RNA-seq datasets. For the previous release, 113 RNAseq datasets were available in the search strategy system. For the current release we now have a total of 124 RNAseq datsets; more datasets will be included in following releases. The following RNA seq data sets appear for the first time in VectorBase.</p>
       <ul>
         <li><a href="/a/app/record/dataset/DS_c4e7f358f7"><i>Culicoides sonorensis</i> PIR-s-3 vector competence for bluetongue virus (BTV)</a> &ndash;  <i>Culicoides sonorensis</i> PIR-s-3 infected with bluetongue virus (divided in both competent and refractory individuals), with controls feed only blood or only sugar.  <a href="http://www.ncbi.nlm.nih.gov/pubmed/30134833" target="_blank">Morales-Hojas et al. 2018</a> </li>
 
@@ -68,7 +69,7 @@ category: [VectorBase,VEuPathDB]
       <ul>
         <li><a href="/a/app/record/dataset/DS_d8579422ca"><i>Aedes aegypti</i> insecticide resistance in the dengue vector</a> &ndash;  Comparison of constitutive expression of detoxification genes between an insecticide resistant strain of <i>Aedes aegypti</i> (Vauclin strain) from Martinique Island (French Indies) and a susceptible strain (Bora-Bora strain). <a href="http://www.ncbi.nlm.nih.gov/pubmed/19857255" target="_blank">Marcombe et al. 2009</a></li>
 
-        <li><a href="/a/app/record/dataset/DS_e1e031c1fa"><i>Anopheles gambiae</i> transcription regulation of sex-biased genes during ontogeny</a> &ndash;  <a href="http://www.ncbi.nlm.nih.gov/pubmed/21738713" target="_blank">Magnusson et al. 2011</a></li>
+        <li><a href="/a/app/record/dataset/DS_34bdb01640"><i>Anopheles gambiae</i> Transcription regulation of sex-biased genes during ontogeny</a> &ndash;  <a href="https://pubmed.ncbi.nlm.nih.gov/21738713/" target="_blank">Magnusson et al. 2011</a></li>
 
         <li><a href="/a/app/record/dataset/DS_17fe5cef33"><i>Anopheles coluzzii</i> Transcriptional profiling of male head - non-swarming mosquito vs swarming mosquito (probes aligned to <i>A. coluzzii</i> Ngousso)</a> &ndash;  <a href="http://www.ncbi.nlm.nih.gov/pubmed/33479155" target="_blank">Wang et al. 2011</a></li>
 
@@ -82,6 +83,7 @@ category: [VectorBase,VEuPathDB]
 
         <li><a href="/a/app/record/dataset/DS_53f4c121b1">Inmatures (larvae and pupae) and various tissues from adults (male and female)</a> &ndash;  Proteins isolated from larvae, pupae and various adult mosquito tissues from female (midgut, salivary gland, ovary, malpighian tubules, head and remaining body parts) and male (testis and male accessory glands). <a href="http://www.ncbi.nlm.nih.gov/pubmed/21795387" target="_blank">Chaerkady et al. 2011</a></li>
       </ul>
+      <br>
    
     <h4>Population Biology</h4>
       <p>7 projects have been added and 22 porjects have been updated. . You can use any of the Project IDs from the list below, in the Search box of the MapVEu (formerly PopBio map) tool: <a href="https://{{project}}.org/popbio-map/web/" target="_blank">https://vectorbase.org/popbio-map/web/</a></p>
