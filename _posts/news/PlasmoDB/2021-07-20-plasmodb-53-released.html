@@ -7,60 +7,98 @@ category: [PlasmoDB,VEuPathDB]
 {% assign project = page.category[0] %}
 
 
-<h3>We are pleased to announce the release of {{project}} 53.</h3>  
+<h3>We are pleased to announce the release of {{project}} 53.</h3>
+
+<section>
+  <h3>Another way to stay in touch:</h3>
+  <div style="margin-left: 3em;">
+    The bioinformatic resource centers have established a <a href="https://www.reddit.com/r/BRC_users" target="_blank">Reddit community</a> for free and open discussions. We welcome everyone to join the discussion.
+  </div>
+</section>  
 
 <section>
   <h3>Release 53 Webinar</h3>
   <div style="margin-left: 3em;">
-    Join us on May 27, 2021 at 10am EDT for our Release 53 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 53.  
-    <a href="https://attendee.gotowebinar.com/register/8223585429100223502" target="_blank">Register here</a>  
+    Join us on August 5, 2021 at 10am EDT for our Release 53 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 53.  
+    <a href="https://attendee.gotowebinar.com/register/3041321047145102351" target="_blank">Register here</a>  
   </div>
 </section>
 
 
 <section>
-  <h3>New data in {{project}} 51</h3>
+  <h3>New data in {{project}} 53</h3>
   <div style="margin-left: 3em;">
-  <h4>EBI Pipeline</h4>
-    {{project}} 51 represents the first release that employs the EBI pipeline for analyzing genomes and RNA-Seq data. (<a href="/a/app/static-content/methods.html">{{project}} Analysis Methods</a>) All genomes were run through the EBI pipeline, updating all analyses such as InterproScan and repeat identification.  While much of the EBI pipeline is the same as our previous in-house pipeline, these differences are noted:
-    <ul>
-      <li>Expression values calculated from RNA-Seq data are now presented as TPM (Transcripts Per Kilobase Million) instead of FPKM (Fragments Per Kilobase Million) or RPKM (Reads Per Kilobase Million). <a href="https://rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/" target="_blank">Learn more</a></li>
-      <li>Signal peptide predictions are now made with <a href="http://www.cbs.dtu.dk/services/SignalP-4.1/" target="_blank">SignalP-4.1</a>, updated from <a href="http://www.cbs.dtu.dk/services/SignalP-3.0/" target="_blank">SignalP-3.0</a>.</li>
-      <li>All pseudogenes now include automatically predicted UTRs.</li>
-    </ul>
-    <br>
+ 
   <h4>Genome Sequence and Annotation</h4>
+  <p>The following chromosome level assemblies with genome annotation appear for the first time in {{project}} 53 and are described in <a href="http://www.ncbi.nlm.nih.gov/pubmed/33888092" target="_blank">Ramaprasad et al. 2021</a>.</p>
     <ul>
-      <li><a href="/a/app/record/dataset/DS_baf7735a82"><i>Hepatocystis sp. ex Piliocolobus tephrosceles</i> 2019</a> Genome for <i>Hepatocystis</i> sp. using DNA sequencing reads from the blood of a naturally infected red colobus monkey. Annotated manually with the benefit of RNA-seq data. <a href="http://www.ncbi.nlm.nih.gov/pubmed/32745123">Aunin et al. 2020.</a>  The <a href="/a/app/record/dataset/DS_5137426106">Blood Stage Transcriptome</a> is also released in PlasmoDB 51 </li>
+      <li><a href="/a/app/record/dataset/DS_0a1b2f6f63"><i>Plasmodium vinckei</i> Cameroon EL</a> </li>
+      <li><a href="/a/app/record/dataset/DS_b18630dd54"><i>Plasmodium vinckei</i> brucechwatti DA</a> </li>
+      <li><a href="/a/app/record/dataset/DS_759b3f6731"><i>Plasmodium vinckei</i> lentum DE</a> </li>
+      <li><a href="/a/app/record/dataset/DS_679e1e4f4c"><i>Plasmodium vinckei</i> petteri CR 2020</a> </li>
+      <li><a href="/a/app/record/dataset/DS_eab17936f0"><i>Plasmodium vinckei</i> vinckei CY</a> </li>
     </ul>
+    <p>Also newly available in {{project}} 53</p>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_586b8aaee2"><i>Plasmodium knowlesi</i> strain A1H1</a> &ndash; The <i>Plasmodium knowlesi</i> A1H1 line has been adapted to continuous culture in human erythrocytes. <a href="http://www.ncbi.nlm.nih.gov/pubmed/29258833" target="_blank">Benavente et al. 2018</a>.</li>
+      </ul>
     <br>
 
   <h4>Transcriptomics</h4>
     <ul>
-      <li><a href="/a/app/record/dataset/DS_fe2b5a278f">Intraerythrocytic development cycle transcriptome (2019)</a> &ndash; Blood-stage transcriptome determined by RNA-Seq analysis at 8 developmental stages including young ring stage (8 hpi), late ring stage/early trophozoite (16 hpi), mid-age trophozoite (24 hpi), late trophozoite (32 hpi), early schizont (40 hpi), schizont (44 hpi), late schizont (48 hpi) and purified merozoites (0 hpi). <a href="http://www.ncbi.nlm.nih.gov/pubmed/31363031" target="_blank">Wichers et al. 2019</a>.</li>
-      <li><a href="/a/app/record/dataset/DS_aae60e6bf7">Transcriptome in severe vs uncomplicated malaria</a> &ndash; RNA sequencing analysis of gene expression in 44  parasite isolates that caused severe or uncomplicated malaria in Papuan patients (23 severe, 21 uncomplicated cases). Data are aligned to <i>Plasmodium falciparum</i> 3D7. <a href="http://www.ncbi.nlm.nih.gov/pubmed/29529020" target="_blank">Tonkin-Hill et al. 2018</a>.</li>
-      <li><a href="/a/app/record/dataset/DS_5137426106">Blood Stage Transcriptome</a> &ndash; Transcriptome sequencing of <i>Hepatocystis sp. ex Piliocolobus tephrosceles</i> strain 2019 from a <i>Piliocolobus tephrosceles</i> blood sample was performed as part of the red colobus monkey genome sequencing project. <a href="http://www.ncbi.nlm.nih.gov/pubmed/32745123">Aunin et al. 2020.</a> </li>
-      <li><a href="/a/app/record/dataset/DS_7dae78ae0b">Transcriptome during early and mid-stage <i>P. berghei</i> liver infection</a> &ndash; Transcriptome sequencing (RNA-Seq) analysis throughout the Plasmodium berghei liver stage, covering as early as 2 hours post-infection (hpi) and extending to 48 hpi in HuH7 and HepG2 cells. <a href="http://www.ncbi.nlm.nih.gov/pubmed/32019802">Toro-Moreno et al.</a></li>
+      <li><i>Plasmodium berghei</i></li>
+        <ul>
+          <li><a href="/a/app/record/dataset/DS_9b450524d1">Transcriptomes of viable ApiAP2 mutants by directional RNA-seq</a> &ndash; Three independent replicates of each strain + WT control were prepared for schizonts (all strains), as well as gametocytes and ookinetes (ap2-o, ap2-o2, ap2-o3 and wt control). <a href="http://www.ncbi.nlm.nih.gov/pubmed/28081440" target="_blank">Modrzynska et al. 2017</a>.</li>
+        </ul>
+
+      <li><i>Plasmodium chabaudi</i></li>
+        <ul>
+          <li><a href="/a/app/record/dataset/DS_325dad5166">In vivo transcriptome in mouse</a> &ndash; Samples collected by micro-sampling and terminal artery bleed. <a href="http://www.ncbi.nlm.nih.gov/pubmed/30683099" target="_blank">Ramaprasad et al. 2019</a>. This data has accompanying data in HostDB (<a href="https://hostdb.org/hostdb/app/record/dataset/DS_15c2879388" target="_blank">In vivo mouse transcriptome during <i>P. chaubadi</i> infection</a>)</li>
+        </ul>
+
+      <li><i>Plasmodium falciparum</i></li>
+        <ul>
+          <li><a href="/a/app/record/dataset/DS_c28828ce84">Oocyst and salivary gland sporozoite transcriptome comparison in <i>P. falciparum</i></a> &ndash; RNA sequence analysis of <i>Plasmodium falciparum</i> salivary gland sporozoites and oocyst sporozoites.  <a href="http://www.ncbi.nlm.nih.gov/pubmed/31673027" target="_blank">Lindner et al. 2019</a>. This data has accompanying proteomics data in PlasmoDB (<a href="/a/app/record/dataset/DS_48bf0699e2">Oocyst sporozoite global proteome in <i>P. falciparum</i></a>)</li>
+          <li><a href="/a/app/record/dataset/DS_416070059c">Intraerythrocytic development cycle transcriptome by DAFT-Seq (3D7, HB3, IT, 2020)</a> &ndash; Transcriptome throughout the intraerythrocytic development cycle. RNA sequence analysis of 7 time points (0, 8, 16, 24, 32, 40, 48 hrs) post infection of tightly synchronized Plasmodium falciparum 3D7, HB3 and IT parasites. <a href="http://www.ncbi.nlm.nih.gov/pubmed/32513207" target="_blank">Chappell et al. 2020</a>.</li>
+          <li><a href="/a/app/record/dataset/DS_26bc402eec">Transcriptome of sequestration phenotypes</a> &ndash; RNA sequence analysis of ring-stage parasites from five strains of <i>Plasmodium falciparum</i> with different sequestration phenotypes. <a href="http://www.ncbi.nlm.nih.gov/pubmed/33475364" target="_blank">Kamaliddin et al. 2021</a>.</li>
+        </ul>
+
+      <li>Plasmodium vinckei</li>
+        <ul>
+          <li><a href="/a/app/record/dataset/DS_3d00996d17">Intraerythrocytic development cycle for <i>P. vinckei</i> CY</a> &ndash; RNA sequence analysis of time course during the intraerythrocytic cycle at 6, 12, 18, and 24 hours. <a href="http://www.ncbi.nlm.nih.gov/pubmed/30683099" target="_blank">Ramaprasad et al. 2019</a>. This data has accompanying data in HostDB (<a href="https://hostdb.org/hostdb/app/record/dataset/DS_ff5305647e" target="_blank">Mouse transcriptome during <i>P. vinckei</i> CY infection time course</a></li>
+        </ul>
+    </ul>
+    <br>
+  
+  <h4>Proteomics</h4>
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_48bf0699e2">Oocyst sporozoite global proteome in <i>P. falciparum</i></a> &ndash; Proteomic analysis of <i>Plasmodium falciparum</i> oocyst sporozoites. <a href="http://www.ncbi.nlm.nih.gov/pubmed/31673027" target="_blank">Lindner et al. 2019</a>. This data has accompanying RNA Seq data in PlasmoDB (<a href="/a/app/record/dataset/DS_c28828ce84" target="_blank">Oocyst and salivary gland sporozoite transcriptome comparison in <i>P. falciparum</i></a>)</li>
+
+      <li><a href="/a/app/record/dataset/DS_5771fd6126">Oocyst sporozoite global proteome in <i>P. yoelii</i></a> &ndash; Proteomic analysis of <i>Plasmodium yoelii</i> oocyst sporozoites. <a href="http://www.ncbi.nlm.nih.gov/pubmed/31673027" target="_blank">Lindner et al. 2019</a>. This data has accompanying RNA Seq data in PlasmoDB (<a href="/a/app/record/dataset/DS_79a9eb3a98" target="_blank">Oocyst and salivary gland sporozoite transcriptome comparison in <i>P. yoelii</i></a>)</li>
+
+      <li><a href="/a/app/record/dataset/DS_74b55e5a49">Sporozoite proteome in <i>P. berghei</i></a> &ndash; Proteome of <i>Plasmodium berghei</i> ANKA sporozoites using the highly sensitive timsTOF PRO mass spectrometer. This study used three different methods of sporozoite purification to obtain a comprehensive proteome. <a href="http://www.ncbi.nlm.nih.gov/pubmed/33452840" target="_blank">Hamada et al. 2019</a>. </li>
     </ul>
     <br>
 
-  <h4>ChIP-Sequence</h4>
+  <h4>Whole genome sequence of isolates for SNPs and CNV</h4>
     <ul>
-      <li><a href="/a/app/record/dataset/DS_fc3ee3e04e">Temporal pattern of H2A.Z, H3 and H3 modifications during asexual life cycle</a> &ndash; Epigenetic analysis of H2A.Z, H3, H3K18ac, H3K27ac, and H3K4me1 during the asexual life cycle - rings, schizonts and trophozoites in <i>Plasmodium falciparum</i> 3D7. <a href="https://pubmed.ncbi.nlm.nih.gov/33225957/">Tang et al. 2020</a> </li>
+      <li><a href="/a/app/record/dataset/DS_e97975c145"><i>Plasmodium chabaudi</i> resequenced strain</a> &ndash; Whole genome resequencing data of Plasmodium chabaudi esekanensis, line EF, isolated in Cameroon. Data were aligned to the reference genome and used to call single nucleotide polymorphisms. <a href="http://www.ncbi.nlm.nih.gov/pubmed/30683099" target="_blank">Ramaprasad et al. 2019</a>. </li>
+
+      <li><a href="/a/app/record/dataset/DS_56e75cc7ec"><i>Plasmodium vinckei</i> resequenced strains</a> &ndash; Whole genome resequencing data of ten isolates belonging to the five subspecies of <i>Plasmodium vinckei</i>. These include <i>P. vinckei</i> vinckei (CY), <i>P. vinckei</i> brucechwatti (DA and DB), <i>P. vinckei</i> petteri (CR and BS), <i>P. vinckei</i> lentum (DE and DS) and <i>P. vinckei</i> baforti (EH, EL and EE). <a href="http://www.ncbi.nlm.nih.gov/pubmed/30683099" target="_blank">Ramaprasad et al. 2019</a>. </li>
+
+      <li><a href="/a/app/record/dataset/DS_fe928edc5c">WGS of <i>Plasmodium vivax</i> on the China-Myanmar border</a> &ndash; Whole genome sequencing of 23 <i>P. vivax</i> clinical isolates collected on the China-Myanmar border <a href="http://www.ncbi.nlm.nih.gov/pubmed/32849480" target="_blank">Brashear et al. 2020</a>. </li>
+
+      <li><a href="/a/app/record/dataset/DS_d12e9b5e9a"><i>Plasmodium yoelii</i> resequenced strains</a> &ndash; Whole genome resequencing data of six isolates belonging to four subspecies of <i>P. yoelii</i>. These include <i>P. yoelii</i> yoelii (33X, Ar and CN), <i>P. yoelii</i> nigeriensis (D), <i>P. yoelii</i> killicki (DG) and <i>P. yoelii</i> cameronensis (EL). <a href="http://www.ncbi.nlm.nih.gov/pubmed/30683099" target="_blank">Ramaprasad et al. 2019</a>.. </li>
     </ul>
     <br>
 
   <h4>Updated Functional Annotation</h4>
         
-    <p><a href="https://docs.google.com/spreadsheets/d/1fhXxuuKRr25hTRxA4NLgksl6qDWbywyPMEcxblvuTM0/edit#gid=11127005" target="_blank">Summary of annotation updates</a>
-      which include products, GO terms, gene names, synonyms and PMID. Functional annotations in PlasmoDB 51 are current with the <a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2020-05/" target="_blank">GeneDB GFF versions from January 2021</a>. </p>
-
-    <p><i>P. falciparum</i> 3D7 now has annotated UTRs based on the following publication: <a href="https://pubmed.ncbi.nlm.nih.gov/32513207" target="_blank">https://pubmed.ncbi.nlm.nih.gov/32513207</a> </p>
-
-    <p><i>P. vivax</i> P01 now has annotated UTRs based on the following publication: <a href="https://pubmed.ncbi.nlm.nih.gov/33028892/" target="_blank">https://pubmed.ncbi.nlm.nih.gov/33028892</a></p>
+    <p><a href="https://docs.google.com/spreadsheets/d/1WBR_gRyfiufvOWn12GiFD6z_QuCUyvDRZNNXdeMpj6w/edit#gid=1112700546" target="_blank">Summary of annotation updates</a>
+      which include products, GO terms, gene names, synonyms and PMID. Functional annotations in PlasmoDB 53 are current with the <a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-05/" target="_blank">GeneDB GFF versions from May 2021</a>. </p>
     
     <style>
-       #FunctAnnot_Bld51 table, #FunctAnnot_Bld51 td, #FunctAnnot_Bld51 th, #FunctAnnot_Bld51 tr {
+       #FunctAnnot_Bld53 table, #FunctAnnot_Bld53 td, #FunctAnnot_Bld53 th, #FunctAnnot_Bld53 tr {
        text-align : center;
        padding-left: 5px;
        padding-right: 5px;
@@ -68,11 +106,11 @@ category: [PlasmoDB,VEuPathDB]
        padding-bottom: 5px;
        border: 1px solid black;
        }
-       #FunctAnnot_Bld51 {
+       #FunctAnnot_Bld53 {
        margin-left : 5 em;
        }
      </style> 
-       <table id="FunctAnnot_Bld51"> 
+       <table id="FunctAnnot_Bld53"> 
        <tr>
          <th>PlasmoDB Genome Version</th>
          <th>Download GeneDB GFF file</th>
@@ -80,411 +118,71 @@ category: [PlasmoDB,VEuPathDB]
        </tr>
        <tr>
          <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_f2d80510c7"><i>P. berghei</i> ANKA </a></td>
-         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Pberghei/">GeneDB version January 2021</a></td>
-         <td>122 genes</td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-05/Pberghei/">GeneDB version May 2021</a></td>
+         <td>62 genes</td>
        </tr>
        <tr>
          <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_5dab6e4a9f"><i>P. chabaudi</i> AS </a></td>
-         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Pchabaudi/">GeneDB version January 2021</a></td>
-         <td>106 genes</td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-05/Pchabaudi/">GeneDB version May 2021</a></td>
+         <td>56 genes</td>
        </tr>
        <tr>
          <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_1d17c1883c"><i>P. falciparum</i> 3D7 </a></td>
-         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Pfalciparum/">GeneDB version January 2021</a></td>
-         <td>187 genes</td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-05/Pfalciparum/">GeneDB version May 2021</a></td>
+         <td>360 genes</td>
        </tr>
        <tr>
          <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_22b4dadc51"><i>P. gallinaceum</i> 8A </a></td>
-         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Pgallinaceum/">GeneDB version January 2021</a></td>
-         <td>102 genes</td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-05/Pgallinaceum/">GeneDB version May 2021</a></td>
+         <td>59 genes</td>
        </tr>
        <tr>
          <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_8793a259f4"><i>P. knowlesi</i> H </a></td>
-         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Pknowlesi/">GeneDB version January 2021</a></td>
-         <td>103 genes</td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-05/Pknowlesi/">GeneDB version May 2021</a></td>
+         <td>57 genes</td>
        </tr>
        <tr>
          <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_3986a0b578"><i>P. malariae</i> UG01 </a></td>
-         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Pmalariae/">GeneDB version January 2021</a></td>
-         <td>102 genes</td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-05/Pmalariae/">GeneDB version May 2021</a></td>
+         <td>57 genes</td>
        </tr>
        <tr>
          <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_99a2d5bf10"><i>P. ovale curtisi</i> GH01 </a></td>
-         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Povale/">GeneDB version January 2021</a></td>
-         <td>103 genes</td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-05/Povale/">GeneDB version May 2021</a></td>
+         <td>58 genes</td>
        </tr>
        <tr>
          <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_91fa338f8f"><i>P. reichenowi</i> CDC </a></td>
-         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Preichenowi/">GeneDB version January 2021</a></td>
-         <td>101 genes</td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-05/Preichenowi/">GeneDB version May 2021</a></td>
+         <td>58 genes</td>
        </tr>
        <tr>
          <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_c3f289d21a"><i>P. relictum</i> SGS1 </a></td>
-         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Prelictum/">GeneDB version January 2021</a></td>
-         <td>99 genes</td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-05/Prelictum/">GeneDB version May 2021</a></td>
+         <td>58 genes</td>
        </tr>
        <tr>
          <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_ad07e73d42"><i>P. vivax</i> P01 </a></td>
-         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/PvivaxP01/">GeneDB version January 2021</a></td>
-         <td>106 genes</td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-05/PvivaxP01/">GeneDB version May 2021</a></td>
+         <td>60 genes</td>
        </tr>
        <tr>
          <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_b5a76b5939"><i>P. yoelii yoelii</i> 17X </a></td>
-         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-01/Pyoelii/">GeneDB version January 2021</a></td>
-         <td>107 genes</td>
+         <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-05/Pyoelii/">GeneDB version May 2021</a></td>
+         <td>56 genes</td>
        </tr>
        </table>
-<!--
-  <h4>Browser Tracks</h4>
-    <ul>
-      <li>UTR calls based on DAFT sequencing</li>
-      <li>Transcription start sites based on 5UTR seqencing</li>
-    </ul>
-    <br>
--->
     </div>
 </section>
 
-<section>
-  <h3>New data in FungiDB 52</h3>
-  <div style="margin-left: 3em;">
-
-    <h4>Genome Sequence and Annotation: these annotated genomes appear for the first time in FungiDB.</h4>
-    <ul>
-      <li><a href="/a/app/record/dataset/DS_d1aa1a2f2c"><i>Ascosphaera apis</i> ARSEF 7405</a> &ndash;
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/27071652">Shang et al. 2016</a>.  
-      </li>
-
-      <li><a href="/a/app/record/dataset/DS_74a7480ae4"><i>Blastomyces percursus</i> EI222</a> &ndash;
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/28176377">Dukik et al. 2017</a>.  
-      </li>
-
-      <li><a href="/a/app/record/dataset/DS_2d91dcb480"><i>Bremia lactucae</i> SF5</a> &ndash;
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/31201315">Fletcher et al. 2019</a>.  
-      </li>
-
-      <li><a href="/a/app/record/dataset/DS_850d056486"><i>Colletotrichum graminicola</i> M1.001</a> &ndash;
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/22885923">O'Connell et al. 2012</a>.  
-      </li>  
-
-      <li><a href="/a/app/record/dataset/DS_ffbe968d03"><i>Hanseniaspora guilliermondii</i> UTAD222</a> &ndash;
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/30462193">Seixas et al. 2019</a>.  
-      </li>
-
-      <li><a href="/a/app/record/dataset/DS_f0c7b5aa4a"><i>Ophiostoma piceae</i> UAMH 11346</a> &ndash;
-      <a href="http://www.ncbi.nlm.nih.gov/pubmed/23725015">Haridas et al. 2013</a>.  
-      </li>
-
-      <li><a href="/a/app/record/dataset/DS_085ea6d33a"><i>Pichia kudriavzevii</i> CBS573</a> &ndash;
-      <a href="http://www.ncbi.nlm.nih.gov/pubmed/30024981">Douglass et al. 2018</a>.  
-      </li>
-
-      <li><a href="/a/app/record/dataset/DS_d16c621125"><i>Podospora anserina</i> S mat+</a> &ndash;
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/12892638">Silar et al. 2003</a>.
-      </li>  
-
-      <li><a href="/a/app/record/dataset/DS_2dc538cfff"><i>Pseudogymnoascus destructans</i> 20631-21</a> &ndash;
-      <a href="http://www.ncbi.nlm.nih.gov/pubmed/29295979">Chibucos et al. 2013</a>.
-      </li>
-
-      <li><a href="/a/app/record/dataset/DS_1394ad1592"><i>Puccinia sorghi</i> RO10H11247</a> &ndash;
-      BIA - FCEN - UBA, Bia Argentina.  
-      </li>
-
-      <li><a href="/a/app/record/dataset/DS_f20c645c6e"><i>Trichosporon asahii</i> var. <i>asahii</i> CBS 2479</a> &ndash;
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/23193141">Yang et al. 2012</a>.  
-        </li>
-
-      <li><a href="/a/app/record/dataset/DS_2ac7768fb1"><i>Verruconis gallopava</i> CBS 43764</a> &ndash;
-        The Broad Institute of Harvard and MIT.  
-      </li>
-          
-      <li><a href="/a/app/record/dataset/DS_abf31f6b25"><i>Zymoseptoria tritici</i> ST99CH_3D1</a> &ndash;
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/29693722">Meile et al. 2018</a>.  
-      </li>
-
-    </ul>
-
-    <br>
-
-    <h4>Genome Sequence: available for the first time in FungiDB:</h4>
-    <ul>
-      <li><a href="/a/app/record/dataset/DS_ab15a8399e"><i>Aspergillus niger</i> LDM3</a> &ndash;
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/32009199">Sui et al. 2020</a>.  
-        </li>
-
-     <li><a href="/a/app/record/dataset/DS_085ea6d33a"><i>Pichia kudriavzevii</i> CBS5147 </a> &ndash;
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/30024981">Douglass et al. 2018</a>.  
-      </li>    
-    </ul>
-  <br>
-
-    <h4>Whole genome sequence of isolates for SNP analysis:</h4>
-    <ul>
-      <li><a href="/a/app/record/dataset/DS_fb0ad203b2">SNP calls on WGS of clinical isolates of <i>A. lentulus</i></a> &ndash;
-        <i>Aspergillus lentulus</i> IFM54703 is a causative agent of aspergillosis. Six clinical isolates were sequenced.
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/32477406">Dos Santos et al. 2020</a>.
-      </li>
-
-      <li>
-        <a href="/a/app/record/dataset/DS_5a67784cef">SNP calls on WGS of <i>Candida haemulonii</i> isolates</a> &ndash;
-          Isolates were received in the Mycotic Diseases Branch Reference Laboratory at the CDC for routine fungal identification or as part of ongoing fungal disease surveillance.
-          <a href="http://www.ncbi.nlm.nih.gov/pubmed/32587603">Gade et al. 2020</a>.
-      </li>
-
-      <li>
-        <a href="/a/app/record/dataset/DS_91b3e4633f">SNP calls on WGS of <i>Pyricularia</i> field-isolates</a> &ndash;
-        Whole-genome analysis of fungal strains from different hosts.
-        <a href="http://www.ncbi.nlm.nih.gov/pubmed/29487238">Gladieux et al. 2018</a>.
-      </li>
-    </ul>
-    <br>
-
-    <h4>Transcriptomics</h4>
-<ul>
-  <li>
-    <a href="/a/app/record/dataset/DS_a3ecdd86a4">Comparative transcriptome of <i>Candida parapsilosis</i> wild type and transcription factor mutants</a> &mdash;
-    Transcriptomes collected from WT in planktonic growth conditions and WT and seven transcription factor mutants grown in biofilm conditions.  
-    <a href="http://www.ncbi.nlm.nih.gov/pubmed/25233198" target="_blank">Holland et al. 2014</a>. 
-  </li>
-
-  <li>
-   <a href="/a/app/record/dataset/DS_4703a409e8">Transcriptomics of <i>Mucor circinelloides</i> NCRIP deficient spores phagocytosed by mouse macrophages</a> &mdash;
-   Transcriptomics of R3B2 and RDRP1 fungal spores and fungal spore-macrophage coculture.  
-   <a href="http://www.ncbi.nlm.nih.gov/pubmed/32658892" target="_blank">Pérez-Arques et al. 2020</a>.  
-  </li>
-</ul>   
-<br>
-
-        
-    <h4>Phenotype data</h4>
-         
-         <ul>
-         <li><a href="/a/app/record/dataset/DS_7cdba4f78a">Manually Curated <i>Aspergillus</i> Phenotypes</a> &ndash; 
-             The currently existing phenotypes for <i>Aspergillus</i> species were manually curated by <a href="http://www.aspgd.org" target="_blank">AspGD</a> 
-             from published literature describing phenotypes obtained from mutant studies. These phenotypic annotations were 
-             reformatted at FungiDB in-line with VEuPathDB’s approach for phenotype curation. We have curated and integrated 
-             phenotypes from <a href="https://pubmed.ncbi.nlm.nih.gov/31068436/" target="_blank">Thammahong et al. 2019</a> for 
-             <i>Aspergillus fumigatus</i> Af293.    
-         </li>
-         </ul>
-      <br>
-      <div style="margin-left: 3em;">
-                <style>
-                  #Phenotype_Bld52Asp table, #Phenotype_Bld52Asp td, #Phenotype_Bld52Asp th, #Phenotype_Bld52Asp tr {
-                  text-align : center;
-                  padding-left: 5px;
-                  padding-right: 5px;
-                  padding-top: 5px;
-                  padding-bottom: 5px;
-                  border: 1px solid black;
-                  }
-                  #Phenotype_Bld52Asp {
-                  margin-left : 5 em;
-                  }
-                </style> 
-                  <table id="Phenotype_Bld52Asp"> 
-                  <tr>
-                    <th>Species</th>
-                    <th>Phenotype mapping</th>
-                    <th>Genes with phenotypes</th>
-                  </tr>
-                  <tr>
-                    <td><i>Aspergillus fumigatus</i> Af293</td>
-                    <td>27</td>
-                    <td>1</td>
-                  </tr>
-                  </table>
-      </div>  
-  <br>
-           
-  <h4>Updated Functional Annotation</h4>
-  <ul> 
-    <li>
-         <a href="https://docs.google.com/spreadsheets/d/1g1wac6A-Jgv0OTCXlvkqVd2d2qT8malWZdio9NnD86g/edit?usp=sharing" target="_blank">Summary of annotation updates</a>
-           which include product descriptions and notes from curators. These functional annotations are current with GeneDB April 2021 GFF versions. 
-    </li>
-  </ul>
-    <br>
-           
-        <div style="margin-left: 3em;">   
-         <style>
-            #FunctAnnot_Bld52 table, #FunctAnnot_Bld52 td, #FunctAnnot_Bld52 th, #FunctAnnot_Bld52 tr {
-            text-align : center;
-            padding-left: 5px;
-            padding-right: 5px;
-            padding-top: 5px;
-            padding-bottom: 5px;
-            border: 1px solid black;
-            }
-            #FunctAnnot_Bld52 {
-            margin-left : 5 em;
-            }
-          </style> 
-            <table id="FunctAnnot_Bld52"> 
-            <tr>
-              <th>FungiDB Genome Version</th>
-              <th>Download GeneDB GFF file</th>
-              <th>Genes Updated</th>
-            </tr>
-            <tr>
-              <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on FungiDB."><a href="https://fungidb.org/fungidb/app/record/dataset/DS_4b35c88aa1"><i>Aspergillus nidulans</i> FGSC A4</a></td>
-              <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-04/AnidulansFGSCA4/AnidulansFGSCA4.gff.gz">GeneDB version April, 2021</a></td>
-              <td>240</td>
-            </tr>
-            </table>
-            <br>
-        </div>    
-</div>
-</section>
-
-<section>
-  <h3>New data in TriTrypDB 52</h3>
-  <div style="margin-left: 3em;">
-  <h4>EBI Pipeline</h4>
-    {{project}} 52 represents the first release that employs the EBI pipeline for analyzing genomes and RNA-Seq data. (<a href="/a/app/static-content/methods.html">{{project}} Analysis Methods</a>) All genomes were run through the EBI pipeline, updating all analyses such as InterproScan and repeat identification.  While much of the EBI pipeline is the same as our previous in-house pipeline, these differences are noted:
-    <ul>
-      <li>Expression values calculated from RNA-Seq data are now presented as TPM (Transcripts Per Kilobase Million) instead of FPKM (Fragments Per Kilobase Million) or RPKM (Reads Per Kilobase Million). <a href="https://rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/" target="_blank">Learn more</a></li>
-      <li>Signal peptide predictions are now made with <a href="http://www.cbs.dtu.dk/services/SignalP-4.1/" target="_blank">SignalP-4.1</a>, updated from <a href="http://www.cbs.dtu.dk/services/SignalP-3.0/" target="_blank">SignalP-3.0</a>.</li>
-      <li>All pseudogenes now include automatically predicted UTRs.</li>
-    </ul>
-    <br>
-
-  <h4>Annotated Genomes</h4>
-      <ul>
-        <li><a href="/a/app/record/dataset/DS_d67261aa58"><i>Angomonas deanei</i> strain Cavalho ATCC PRA-26</a> &ndash; Nuclear genome based on Oxford Nanopore sequence that resolves into 29 complete or close-to-complete chromosomes <a href="http://www.ncbi.nlm.nih.gov/pubmed/33561222" target="_blank">Davey et al. 2021</a> </li>
-
-        <li><a href="/a/app/record/dataset/DS_6820e060c4"><i>Trypanosoma cruzi</i> strain CL</a> &ndash; Purified DNA was used to prepare shotgun and 8 Kbp mate pair libraries for sequencing on the Roche 454 GS FLX+ platform. <a href="http://www.ncbi.nlm.nih.gov/pubmed/30355302" target="_blank">Bradwell et al. 2018</a> </li>
-
-        <li><a href="/a/app/record/dataset/DS_8f8cc536f5"><i>Trypanosoma cruzi</i> strain G</a> &ndash; Purified DNA was used to prepare shotgun and 3 Kbp mate pair libraries for sequencing on the Roche 454 GS FLX+ platform. <a href="http://www.ncbi.nlm.nih.gov/pubmed/30355302" target="_blank">Bradwell et al. 2018</a> </li>
-      </ul>
-      <br>
-
-  <h4>Genome sequence assemblies without annotation</h4>
-  The following genomes of <i>Trypanosoma cruzi</i> field isolates described in <a href="http://www.ncbi.nlm.nih.gov/pubmed/30424726" target="_blank">Reis-Cunha et al. 2018</a> appear for the first time in TriTrypDB. 
-      <ul>
-        <li><a href="/a/app/record/dataset/DS_2b427cad62"><i>Trypanosoma cruzi</i> S11</a>  </li>
-
-        <li><a href="/a/app/record/dataset/DS_2988b6c351"><i>Trypanosoma cruzi</i> S15</a>  </li>
-
-        <li><a href="/a/app/record/dataset/DS_ec4c051a85"><i>Trypanosoma cruzi</i> S23b</a>  </li>
-
-        <li><a href="/a/app/record/dataset/DS_535211097a"><i>Trypanosoma cruzi</i> S44a</a>  </li>
-
-        <li><a href="/a/app/record/dataset/DS_12589b3fa3"><i>Trypanosoma cruzi</i> S92a</a>  </li>
-
-        <li><a href="/a/app/record/dataset/DS_7b5ef868e6"><i>Trypanosoma cruzi</i> S154a</a>  </li>
-
-        <li><a href="/a/app/record/dataset/DS_42fa3df153"><i>Trypanosoma cruzi</i> S162a</a>  </li>
-
-        <li><a href="/a/app/record/dataset/DS_8d1444e10c"><i>Trypanosoma cruzi</i> Ycl2</a>  </li>
-
-        <li><a href="/a/app/record/dataset/DS_b7cef49ccd"><i>Trypanosoma cruzi</i> Ycl4</a>  </li>
-
-        <li><a href="/a/app/record/dataset/DS_4b06725810"><i>Trypanosoma cruzi</i> Ycl6</a>  </li>
-      </ul>
-      <br>
-
-  <h4>Updated Functional Annotation</h4>
-
-        <a href="https://docs.google.com/spreadsheets/d/1HFwfPuIEKZGyUYBWhcJfrw35om_CPQUKB0lNuZqXjt8/edit?usp=sharing" target="_blank">Summary of annotation updates</a> which include products, GO terms, gene names, synonyms, publications, and notes from curators. These functional annotations are current with GeneDB April 2021 GFF versions.
-        <br><br>
-        Functional annotations in TriTrypDB 52 have been updated for the following genomes:
-        <br><br>
-        <style>
-           #FunctAnnot_Bld52 table, #FunctAnnot_Bld52 td, #FunctAnnot_Bld52 th, #FunctAnnot_Bld52 tr {
-           text-align : center;
-           padding-left: 5px;
-           padding-right: 5px;
-           padding-top: 5px;
-           padding-bottom: 5px;
-           border: 1px solid black;
-           }
-           #FunctAnnot_Bld52 {
-           margin-left : 5 em;
-           }
-         </style> 
-           <table id="FunctAnnot_Bld52"> 
-           <tr>
-             <th>TriTrypDB Genome Version</th>
-             <th>Download GeneDB GFF file</th>
-             <th>Genes Updated</th>
-           </tr>
-           
-           <tr>
-            <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on TriTrypDB."><a href="/a/app/record/dataset/DS_839623217a"><i>Leishmania major </i>Friedlin</a></td>
-            <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-04/Lmajor/Lmajor.gff.gz" target="_blank">GeneDB version April, 2021</a></td> 
-            <td>9 genes</td>
-           </tr>
-           <tr>
-            <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on TriTrypDB."><a href="/a/app/record/dataset/DS_e318592c8e"><i>Leishmania mexicana </i>MHOM/GT/2001/U1103</a></td>
-            <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-04/Lmexicana/Lmexicana.gff.gz" target="_blank">GeneDB version April, 2021</a></td> 
-            <td>7 genes</td>
-           </tr>            
-           <tr>
-             <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on TriTrypDB."><a href="/a/app/record/dataset/DS_31282613b1"><i>Trypanosoma brucei </i>927</a></td>
-             <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-04/Tbruceibrucei927/Tbruceibrucei927.gff.gz" target="_blank">GeneDB version April, 2021</a></td> 
-             <td>275 genes</td>
-           </tr>
-           <tr>
-            <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on TriTrypDB."><a href="/a/app/record/dataset/DS_1a6c8bdaac"><i>Trypanosoma cruzi </i>CL Brener</a></td>
-            <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2021-04/Tcruzi/Tcruzi.gff.gz" target="_blank">GeneDB version April, 2021</a></td> 
-            <td>206 genes</td>
-          </tr>
-           </table>
-    <br><br>
-           
-		   
-	<h4>Curated User Comments</h4>
-       
-          Gene page comments that are entered by users are curated at GeneDB and regularly integrated as functional  annotations in TriTrypDB. 103 user comments have been integrated in this release.<br><br>
-          
-         <style>
-           #UComment_Bld52 table, #UComment_Bld52 td, #UComment_Bld52 th, #UComment_Bld52 tr {
-           text-align : center;
-           padding-left: 5px;
-           padding-right: 5px;
-           padding-top: 5px;
-           padding-bottom: 5px;
-           border: 1px solid black;
-           }
-           #UComment_Bld52 {
-           margin-left : 5 em;
-           }
-         </style> 
-           <table id="UComment_Bld52"> 
-           <tr>
-             <th>TriTrypDB Genome Version</th>
-             <th>Comments Integrated</th>
-           </tr>
-           <tr>
-            <td><a href="/a/app/record/dataset/DS_839623217a"><i>Leishmania major </i>Friedlin</a></td>
-            <td>7</td>
-           </tr>
-           <tr>
-             <td><a href="/a/app/record/dataset/DS_31282613b1"><i>Trypanosoma brucei</i> 927</a></td>
-             <td>96</td>
-           </tr>
-          </table>  
-  </div>
-</section>
 
 
 <section>
   <h3>New features in {{project}} 53</h3>
   <div style="margin-left: 3em;">
    <ul>
-    <li>The gene pages of <a href="https://en.wikipedia.org/wiki/Pseudogene" target="_blank">pseudogenes</a> are modified to improved clarity: <a href="{{'/assets/images/pseudogene-page.png' | absolute_url}}">(Pseudogene page changes)</a>
-      <ul>
-        <li>The Transcripts table in the Gene Models section now indicates that no protein products are produced. </li>
-        <li>The exons in JBrowse views of pseudogenes are colored gray.  Blue represents genes on the forward strand and red represents genes on the reverse strand. </li>
-        <li>The Orthology and Synteny section indicates that orthology is not determined for pseudogenes.</li>
-        <li>Protein sequences are no longer available from the Sequences section.</li>
-      </ul>
-    </li>
-    <li>A new <a href="/a/app/static-content/faq.html">FAQs page</a> is available from the <a href="/a/app/static-content/landing.html">Learn How to use VEuPathDB page</a>. Open each section to reveal step-by-step instructions for common tasks.  </li>
-    <li>Reference organisms are indicated in the Organism parameter on search pages.  VEuPathDB chooses a representative genome from each species and aligns all functional genomics data to the reference.  In doing so, all data can be viewed and compared in the genome browser against the reference.  In some cases, data are aligned to the source organism in addition to the reference. (<a href="{{'/assets/images/Reference.png' | absolute_url}}">Reference-organism.png</a>)</li>
-    <li>The algorithm for predicting EC Numbers of genes has been improved. Previously, we predicted EC numbers by using the most prevalent EC number in an ortholog group (defined by OrthoMCL) and transferring that number to all other members in the group. In the new algorithm, we use orthology as well as protein sequence/domain comparison to infer EC number assignments. Additionally, we provide multiple forms of evidence that are used to inform each prediction, allowing users to determine their confidence in the prediction. Specifically, the algorithm evaluates three features (length, domain architecture and BLAST similarity to other proteins) of each protein in an OrthoMCL ortholog group. Those features are compared to the features of proteins already assigned an EC number, in order to infer which proteins should be assigned a specific EC number.  We also show the number of proteins and the number of genera that are assigned this EC number within the ortholog group, so that the user can assess the prevalence of a given EC number. This new algorithm performs extremely well in predicting previously assigned EC numbers, demonstrating that the algorithm is accurate.</li>
+    <li>Genome data set records (<a href="/a/app/search/dataset/AllDatasets/result?filterTerm=genomes&filterAttributes=newcategory">{{project}} genome data sets</a>) are updated to increase clarity and reduce redundancy of information on the page.  For example, a new table "Explore other Categories of Data Associated with this Genome" contains links to all functional data sets for the organism. The new "Data Context" section provides counts for genes, assembled sequences and transcripts. Functional data set records have received similar updates.</li>
+    <li>ID searches such as the "site search" or "Identify Genes by ID" have been updated to find versions of an ID (e.g. ID.1, ID.2). Specifically, searching for the ID will retrieve ID, ID.1 and ID.2, etc, while searching for ID.1 will retrieve only ID.1</li>
     </ul>
   </div>
 </section>

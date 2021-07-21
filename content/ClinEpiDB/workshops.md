@@ -78,6 +78,8 @@ table#hor-minimalist-a tfoot tr {
 
 <h1>ClinEpiDB Workshops</h1>
 
+<div class="static-content">
+
 <h3>Previous Workshops</h3>
 
 <div class="anchor"><a name="#gatesworkshop2021"></a></div>
@@ -363,19 +365,3 @@ table#hor-minimalist-a tfoot tr {
 </details>
 
 </div>  <!-- workshop -->
-
-<div class="anchor"><a name="moreAboutClinEpi"></a></div>
-<div class="workshop">
-<br>
-<br>
-<p>
-<b>To learn more about ClinEpiDB.org:</b> 
-  <ul>
-    <li>Read our recent publication on <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661/v2" target="_blank">Gates Open Research.</a></li>
-    <li>Watch a ClinEpiDB.org <a target="_blank" href="https://www.youtube.com/watch?v=535PcFrBH8M&feature=youtu.be" target="_blank">introductory video.</a></li>
-  </ul>
-</p>
-<br>
-<p>Email your questions to <a target="_blank" href="/a/app/contact-us">help@clinepidb.org.</a></p>
-</div>
-
