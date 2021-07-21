@@ -146,12 +146,6 @@
   uid: g13
   projects: ""
 - type: general
-  question: "How to cite a gene? Why we recomend gene stable ID in addition to gene metadata"
-  answer: |
-           Gene metadata are the gene name or symbol and the gene functional description. The gene stable IDs are, not only stable (as implied by their name), also easier to work with, as you can upload them in GLORIA WORK IN PROFGRESS ...
-  uid: g14
-  projects: "DONOTSHOW"
-- type: general
   question: "How do I download a sequence in FASTA format from a region of interest in JBrowse?"
   answer: |
            1. Make sure the “annotated transcripts” and the “reference sequence” tracks are turned on
