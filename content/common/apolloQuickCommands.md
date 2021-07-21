@@ -22,11 +22,28 @@ tags: [general]
 <li>Use "Color by CDS" to highlight the calculated translation frame for annotations and evidence features.</li> 
 <li>Add details for each annotation using the "Information Editor" dialog.</li> 
 </ul>
+  
+<h3>Annotation shortcuts</h3>
+<ul> 
+<li>Use [ and ] to jump between splice sites in a given annotation on the User-created annotation area.</li> 
+<li>Use { and } to jump to the nearest gene on the User-created annotation area.</li> 
+<li>Select a feature in the User-created annotation area and press alt-click to quickly reach the "Information editor". </li> 
+</ul>
+
+<h3>BLAT</h3>
+The BLAT tool is located on the right-hand side of the screen, via a tab called ‘Search’. You can specify ‘Blat nucleotide’ or ‘Blat protein’, paste in your sequence and it will return a list of matches with similarity scores. If you click on a match it will take you to that region and highlight it in yellow.
+<div style="margin:2em;margin-left:20em;"><img  src="{{ "/assets/images/ApolloBLAT.png" | absolute_url }}" alt="" width="500px" />
 
 <h3>Navigation</h3>
 <ul> 
 <li>Move the view by clicking and dragging in the track area, or by clicking or in the navigation bar, or by pressing the left and right arrow keys.</li> 
 <li>Center the view at a point by clicking on either the track scale bar or overview bar, or by shift-clicking in the track area.</li> 
+</ul>
+  
+<h3>Searching</h3>
+<ul> 
+<li> Jump to a feature or reference sequence by typing its name in the location box and pressing Enter.</li> 
+<li>Jump to a specific region by typing the region into the location box as: ref:start..end.</li> 
 </ul>
 
 <h3>Zooming</h3>
@@ -36,18 +53,8 @@ tags: [general]
 </ul>
         
         
-<h3>Searching</h3>
-<ul> 
-<li> Jump to a feature or reference sequence by typing its name in the location box and pressing Enter.</li> 
-<li>Jump to a specific region by typing the region into the location box as: ref:start..end.</li> 
-</ul>
+
          
-<h3>Annotation shortcuts</h3>
-<ul> 
-<li>Use [ and ] to jump between splice sites in a given annotation on the User-created annotation area.</li> 
-<li>Use { and } to jump to the nearest gene on the User-created annotation area.</li> 
-<li>Select a feature in the User-created annotation area and press alt-click to quickly reach the "Information editor". </li> 
-</ul>
 
 </div>
  
