@@ -32,7 +32,7 @@ tags: [general]
 
 <h3>BLAT</h3>
 The BLAT tool is located on the right-hand side of the screen, via a tab called ‘Search’. You can specify ‘Blat nucleotide’ or ‘Blat protein’, paste in your sequence and it will return a list of matches with similarity scores. If you click on a match it will take you to that region and highlight it in yellow.
-<div style="margin:2em;margin-left:20em;"><img  src="{{ "/assets/images/ApolloBLAT.png" | absolute_url }}" alt="" width="500px" /></div>
+<div style="margin:2em;margin-left:20em;"><img  src="{{ "/assets/images/ApolloBLAT.png" | absolute_url }}" alt="" width="700px" /></div>
 
   
 <h3>Navigation</h3>
