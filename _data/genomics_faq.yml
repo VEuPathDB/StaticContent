@@ -171,7 +171,7 @@
            2. Enter the enzyme sequence in the popup
            3. The location of the sequence will now show up in the browser.  The cool thing is that you can add multiple tracks with sequences that you define 
             
-            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/restrictionsite_faq.png"  />
+            <img style="width:55em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/restrictionsite_faq.png"  />
   uid: restrictionsite
   projects: ""
 - type: general
@@ -187,7 +187,7 @@
            <p>To fix this, go here: https://app.globus.org/account/identities
            You will likely have a primary identity consisting of your non-VEuPathDB email address:</p>
 
-            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_17.png"  />
+            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_17.png"  />
 
            <p>If so, you need to unlink your VEuPathDB account from your other account by selecting ‘Manage Identities’ and pressing the Trash icon next to your VEuPathDB user name. This will not delete the VEuPathDB account, but will remove it from this particular Globus identity. Log out from this Globus identity.</p>
            <p>Then, you must log out of Galaxy. Then log back into Galaxy using your VEuPathDB credentials -- this will likely create a new Galaxy account. Also, this will create a new Globus identity in which your VEuPathDB is the only account and also the primary identity. To verify that this worked, press the User menu in Galaxy and you should see your VEuPathDB user name: for example, mark123456789@veupathdb.org.</p>
