@@ -115,8 +115,8 @@
            If you use any of the genomes from VEuPathDB genomic sites, when citing them in your work please provide their complete scientific name, strain, assembly, and gene set version, together with the most recent publication that corresponds, as shown in the FAQ "How to cite a VEuPathDB site?"         
 
            <p><b>Template</b>
-           <p>VectorBase, <a href="https://vectorbase.org/vectorbase/app/">vectorbase.org</a> (VectorBase most recent paper), &lt;Species_name&gt;&lt;isolate/strain&gt;  &lt;Assembly, Gene set&gt;.</p>
-           <p><b>Worked example</b>
+           <p>Website name, <a href="https://veupathdb.org/veupathdb/app">website link</a> (website most recent paper), &lt;Species_name&gt;&lt;isolate/strain&gt;  &lt;Assembly, Gene set&gt;.</p>
+           <p><b>Worked example for VectorBase</b>
            <p>For example if you want to reference your usage of the <i>Anopheles gambiae</i> AgamP4.13 set of predictions you would use:</p>
            <div style="width: 60%; background: #f5f5f5; border: 1px solid #ccc; padding: 4px 6px 4px 6px; -moz-border-radius: 10px;-webkit-border-radius: 10px;">
            <p>VectorBase, <a href="https://vectorbase.org/vectorbase/app">www.vectorbase.org</a> (Giraldo-Calderón et al 2015), <i>Anopheles gambiae</i> PEST, AgamP4.13.</p>
