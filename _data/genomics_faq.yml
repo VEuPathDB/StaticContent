@@ -62,7 +62,7 @@
            4. Select the region of sequence you want to download including sequences upstream and downstream of the coding region. Instructions at the bottom of the download page will guide you.
            5. Click "Get Sequence"
 
-            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_5.png"  />  
+            <img style="width:35em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_5.png"  />  
   uid: sequencesonegene
   projects: ""
 - type: general
