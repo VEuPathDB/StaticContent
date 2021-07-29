@@ -171,7 +171,7 @@
            2. Enter the enzyme sequence in the popup
            3. The location of the sequence will now show up in the browser.  The cool thing is that you can add multiple tracks with sequences that you define 
             
-            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/restrictionsite_faq.png"  />
+            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/restrictionsite_faq.png"  />
   uid: restrictionsite
   projects: ""
 - type: general
