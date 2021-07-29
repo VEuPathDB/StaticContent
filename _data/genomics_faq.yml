@@ -49,7 +49,7 @@
            5. Click "Run Step"
            You will now have a list of genes in the new species (A) and corresponding list of homologue(s) in the input species (B).
 
-           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_4.png"  />  
+           <img style="width:45em" style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_4.png"  />  
   uid: homologsdifferentorganism
   projects: ""
 - type: general
