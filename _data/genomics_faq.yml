@@ -35,7 +35,7 @@
            This will give you the option to run a variety of analyses on your list of genes
            See the following worksheet to learn more: [GO enrichment](https://static-content.veupathdb.org/documents/GO-Enrichment.pdf)
 
-            <img style="width:55em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_3.png"  />  
+            <img style="width:65em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_3.png"  />  
   uid: termmetabolicpathway
   projects: ""
 - type: general
