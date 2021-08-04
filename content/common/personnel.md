@@ -15,15 +15,16 @@ Cristina Aurrecoechea, User Interface and Portal Manager<br>
 Bob Belnap, Systems and Databases Manager<br>
 John Brestelli, Data Development Manager<br>
 Brian Brunk, VEuPathDB Senior Manager<br>
-Andy Jones, Wellcome Trust PI; Co-I NIAID BRC Contract <br>
 George Christophides, Co-I, NIAID BRC Contract<br>
 Kathryn Crouch, Co-I, Wellcome Trust<br>
 Jeremy DeBarry, VEuPathDB Project Manager<br>
 Steve Fischer, Software and Infrastructure Manager<br>
 Paul Flicek, Co-I, NIAID BRC Contract<br>
 Omar Harb, Director of Scientific Outreach & Education<br>
+Andy Jones, Wellcome Trust PI; Co-I NIAID BRC Contract <br>
 Jessica C Kissinger, Joint-PI, NIAID BRC Contract; WT Co-PI<br>
 Wei Li, Data Loading Manager<br>
+Gareth Maslen, EBI Data Processing Manager<br>
 Mary Ann McDowell, Joint-PI, NIAID BRC Contract<br>
 David S Roos, Joint-PI, NIAID BRC Contract; WT Co-PI<br>
 Chris J Stoeckert, Co-I, NIAID BRC Contract<br><br>
