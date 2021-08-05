@@ -194,3 +194,20 @@
            <p>Now you can export to our VEuPathDB websites. You should use this particular Galaxy account to do your future VEuPathDB work, so that you can export to VEuPathDB and so that we can contact you with important information about VEuPathDB Galaxy.</p>
   uid: galaxy
   projects: ""
+- type: general
+  question: "How do I select my organism preferences on VEuPathDB?"
+  answer: |
+           1. Click "My organism preferences" on the homepage. Once clicking on this you will be reminded this can be disabled at any time whilst using the website 
+           
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_20.png"  />
+
+           2. Use the search box to filter for your organism of choice. You can also you the buttons 'add these', 'clear these', 'select only these', 'select all', 'clear all', to aid your search.
+           3. Click "Apply"
+
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_21.png"  />
+
+           4. You will now see your selected organisms in the "My organism preference list" on the right of the page 
+            
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_22.png"  />
+  uid: organismpreferences
+  projects: ""
