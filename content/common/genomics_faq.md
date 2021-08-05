@@ -103,7 +103,7 @@ div.static-content img {
 
 
 <div id="download">
-    <h2>How to cite or reference</h2>
+    <h2>Data download</h2>
     {% for item in site.data.genomics_faq %}
     {% if item.type == "download" %}
       <details id="{{ item.uid }}">
@@ -117,7 +117,7 @@ div.static-content img {
 
 
 <div id="submit">
-    <h2>How to cite or reference</h2>
+    <h2>Data submission</h2>
     {% for item in site.data.genomics_faq %}
     {% if item.type == "submit" %}
       <details id="{{ item.uid }}">
