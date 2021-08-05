@@ -44,7 +44,7 @@
            1. Click "Add a step"
            2. Choose "Transform"
            3. Click "Orthologs"
-           4. Locate the species/strain that you want to transform your list of genes, into and tick it
+           4. Locate the species/strain that you want to transform your list of genes into and tick it
            5. Click "Run Step"
            You will now have a list of genes in the new species (A) and corresponding list of homologue(s) in the input species (B).
 
@@ -55,7 +55,7 @@
   question: "Download genomic or amino acid sequences (one gene)?"
   answer: |
            Start with list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
-           1. From the gene page of your gene of interest, select “Download Gene
+           1. From the gene page of your gene of interest, select “Download Gene"
            2. Select “FASTA”
            3. Select what kind of sequence you want
            4. Select the region of sequence you want to download including sequences upstream and downstream of the coding region. Instructions at the bottom of the download page will guide you.
@@ -68,8 +68,8 @@
   question: "Download genomic or amino acid sequences (lots of genes)?"
   answer: |
            Start with list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
-           1. From the gene page of your gene of interest, select “Download Gene
-           2. Select ”FASTA
+           1. From the gene page of your gene of interest, select “Download Gene"
+           2. Select ”FASTA"
            3. Select what kind of sequence you want
            4. Select the region of sequences you want to download including sequences upstream and downstream of the coding region. Instructions at the bottom of the download page will guide you.
            5. Click "Get Sequences"
@@ -201,7 +201,7 @@
            
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_20.png"  />
 
-           2. Use the search box to filter for your organism of choice. You can also you the buttons 'add these', 'clear these', 'select only these', 'select all', 'clear all', to aid your search.
+           2. Use the search box to filter for your organism of interest. You can also you the buttons 'add these', 'clear these', 'select only these', 'select all', 'clear all', to aid your search.
            3. Click "Apply"
 
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_21.png"  />
