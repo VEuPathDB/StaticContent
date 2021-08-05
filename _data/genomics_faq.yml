@@ -20,13 +20,13 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_2.png"  />
   uid: allgenesorganism
   projects: ""
-- type: general
+- type: submit
   question: "How do I submit data?"
   answer: |
            Please visit: [data submission](/a/app/static-content/dataSubmission.html)
   uid: Howsubmitdata
   projects: ""
-- type: general
+- type: mining
   question: "How do I do an enrichment analysis on a list of genes by GO term or metabolic pathway?"
   answer: |
            Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
@@ -37,7 +37,7 @@
             <img style="width:65em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_3.png"  />  
   uid: termmetabolicpathway
   projects: ""
-- type: general
+- type: mining
   question: "How do I transform a list of genes into homologs in a different organism?"
   answer: |
            Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
@@ -51,7 +51,7 @@
            <img style="width:65em" style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_4.png"  />  
   uid: homologsdifferentorganism
   projects: ""
-- type: general
+- type: download
   question: "Download genomic or amino acid sequences (one gene)?"
   answer: |
            Start with list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
@@ -64,7 +64,7 @@
             <img style="width:55em" style="width:45em" style="width:35em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_5.png"  />  
   uid: sequencesonegene
   projects: ""
-- type: general
+- type: download
   question: "Download genomic or amino acid sequences (lots of genes)?"
   answer: |
            Start with list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
@@ -77,7 +77,7 @@
             <img style="width:65em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_6.png"  />  
   uid: sequenceslotsgenes
   projects: ""
-- type: general
+- type: download
   question: "How do I download a table with a list of genes including any field(s) from our gene pages (e.g., gene names and symbols)?"
   answer: |
            Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
@@ -108,7 +108,7 @@
             <img style="width:45em" style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_9.png"  />  
   uid: withsomeoneelse
   projects: ""
-- type: general
+- type: citing
   question: "How to cite a genome assembly and/or gene set?"
   answer: |
            If you use any of the genomes from VEuPathDB genomic sites, when citing them in your work please provide their complete scientific name, strain, assembly, and gene set version, together with the most recent publication that corresponds, as shown in the FAQ "How to cite a VEuPathDB site?"         
@@ -121,7 +121,7 @@
            <p>VectorBase, <a href="https://vectorbase.org/vectorbase/app">www.vectorbase.org</a> (Giraldo-Calderón et al 2015), <i>Anopheles gambiae</i> PEST, AgamP4.13.</p>
   uid: cite-genome-assembly
   projects: ""
-- type: general
+- type: citing
   question: "How to cite a VEuPathDB site?"
   answer: |
            <p align="justify">If you use VEuPathDB data, tools or resources, we invite you to please cite our most recent publication, for your database of interest:
@@ -134,7 +134,7 @@
            <p>Older publications can be found under <a href="https://veupathdb.org/veupathdb/app/static-content/veupathPubs.html">VEuPathDB Publications and Citations.</a></p>
   uid: g12
   projects: ""
-- type: general
+- type: citing
   question: "How to reference a MapVEu (formely PopBio) project ID, VBP*?"
   answer: |
            Here is an example from one of our users:
@@ -144,13 +144,13 @@
            Gloria-Soria, A., Lima, A., Lovin, D. D., Cunningham, J. M., Severson, D. W., & Powell, J. R. (2018). Origin of a High-Latitude Population of <i>Aedes aegypti</i> in Washington, DC. The American journal of tropical medicine and hygiene, 98(2), 445–452. <a href="https://doi.org/10.4269/ajtmh.17-0676">https://doi.org/10.4269/ajtmh.17-0676</a>
   uid: g13
   projects: ""
-- type: general
+- type: citing
   question: "How to cite a gene? Why we recomend gene stable ID in addition to gene metadata"
   answer: |
            Gene metadata are the gene name or symbol and the gene functional description. The gene stable IDs are, not only stable (as implied by their name), also easier to work with, as you can upload them in GLORIA WORK IN PROFGRESS ...
   uid: g14
   projects: "DONOTSHOW"
-- type: general
+- type: download
   question: "How do I download a sequence in FASTA format from a region of interest in JBrowse?"
   answer: |
            1. Make sure the “annotated transcripts” and the “reference sequence” tracks are turned on

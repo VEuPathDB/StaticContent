@@ -31,7 +31,9 @@ div.static-content img {
 <br>
 <div class="static-content"> 
 
+
 <div id="general">
+    <h2>General site usage</h2> 
     {% for item in site.data.genomics_faq %}
     {% if item.type == "general" %}
       <details id="{{ item.uid }}">
@@ -42,6 +44,92 @@ div.static-content img {
     {% endif %}
     {% unless forloop.last %}{% endunless %}{% endfor %}
 </div>
+
+
+<div id="citing">
+    <h2>How to cite or reference</h2>
+    {% for item in site.data.genomics_faq %}
+    {% if item.type == "citing" %}
+      <details id="{{ item.uid }}">
+        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
+        {{ item.answer | markdownify }}
+        <br>
+      </details>
+    {% endif %}
+    {% unless forloop.last %}{% endunless %}{% endfor %}
+</div>
+
+
+<div id="mining">
+    <h2>In silico experiments, data mining and hypothesis testing</h2>
+    {% for item in site.data.genomics_faq %}
+    {% if item.type == "mining" %}
+      <details id="{{ item.uid }}">
+        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
+        {{ item.answer | markdownify }}
+        <br>
+      </details>
+    {% endif %}
+    {% unless forloop.last %}{% endunless %}{% endfor %}
+</div>
+
+
+<div id="apollo">
+    <h2>Gene manual annotation with Apollo</h2>
+    {% for item in site.data.genomics_faq %}
+    {% if item.type == "apollo" %}
+      <details id="{{ item.uid }}">
+        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
+        {{ item.answer | markdownify }}
+        <br>
+      </details>
+    {% endif %}
+    {% unless forloop.last %}{% endunless %}{% endfor %}
+</div>
+
+
+<div id="others">
+    <h2>Other website tools</h2>
+    {% for item in site.data.genomics_faq %}
+    {% if item.type == "others" %}
+      <details id="{{ item.uid }}">
+        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
+        {{ item.answer | markdownify }}
+        <br>
+      </details>
+    {% endif %}
+    {% unless forloop.last %}{% endunless %}{% endfor %}
+</div>
+
+
+<div id="download">
+    <h2>How to cite or reference</h2>
+    {% for item in site.data.genomics_faq %}
+    {% if item.type == "download" %}
+      <details id="{{ item.uid }}">
+        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
+        {{ item.answer | markdownify }}
+        <br>
+      </details>
+    {% endif %}
+    {% unless forloop.last %}{% endunless %}{% endfor %}
+</div>
+
+
+<div id="submit">
+    <h2>How to cite or reference</h2>
+    {% for item in site.data.genomics_faq %}
+    {% if item.type == "submit" %}
+      <details id="{{ item.uid }}">
+        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
+        {{ item.answer | markdownify }}
+        <br>
+      </details>
+    {% endif %}
+    {% unless forloop.last %}{% endunless %}{% endfor %}
+</div>
+
+
 
 </div>
 
