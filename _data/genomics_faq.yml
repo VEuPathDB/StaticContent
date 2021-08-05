@@ -1,7 +1,4 @@
 --- # genomics faq page
-
-<h1><b>Subtile 1</h1></b>
-
 - type: general
   question: "How do I populate a strategy with my existing list of genes of interest?"
   answer: |
@@ -23,9 +20,6 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_2.png"  />
   uid: allgenesorganism
   projects: ""
-  
- <h1><b>Subtile 2</h1></b>
- 
 - type: general
   question: "How do I submit data?"
   answer: |
