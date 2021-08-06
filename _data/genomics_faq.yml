@@ -97,7 +97,7 @@
             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_8.png"  />  
   uid: commentgenepages
   projects: ""
-- type: general
+- type: mining
   question: "How do I share my strategy /list of genes with someone else?"
   answer: |
            Ensure you are logged in first
