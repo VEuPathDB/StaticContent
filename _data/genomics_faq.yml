@@ -1,5 +1,5 @@
 --- # genomics faq page
-- type: general
+- type: mining
   question: "How do I populate a strategy with my existing list of genes of interest?"
   answer: |
            1. From the home page click on "Genes" > "Annotation, curation, and identifiers” > "Gene ID(s)" 
@@ -9,7 +9,7 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_genomics_1.png"  />
   uid: listgenesinterest
   projects: ""
-- type: general
+- type: mining
   question: "How do I populate a strategy with all the genes in an organism?"
   answer: |
            First start a new strategy from the home page
@@ -89,7 +89,7 @@
             <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_7.png"  />  
   uid: namesandsymbol
   projects: ""
-- type: general
+- type: submit
   question: "How do I add a comment to a gene pages?"
   answer: |
            Our user comment system links your expert knowledge to both gene and other records. Your comments are immediately integrated into the database and become searchable. Your comments will also guide our curators’ efforts.
@@ -162,7 +162,7 @@
             <img style="width:55em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/genomics_faq_14.png"  />
   uid: fastaformat
   projects: ""
-- type: general
+- type: others
   question: "How do I add a restriction site to JBrowse?"
   answer: |
            In JBrowse
@@ -173,7 +173,7 @@
             <img style="width:55em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/restrictionsite_faq.png"  />
   uid: restrictionsite
   projects: ""
-- type: general
+- type: others
   question: "Exporting from Galaxy/Globus to VEuPathDB returns a user email not valid error. How can I fix this?"
   answer: |
            This is most likely caused by you having a Galaxy account created outside VEuPathDB.
