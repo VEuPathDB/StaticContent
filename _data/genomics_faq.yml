@@ -145,7 +145,7 @@
   uid: g13
   projects: ""
 - type: citing
-  question: "How to cite a gene? Why we recomend gene stable ID in addition to gene metadata"
+  question: "How to cite a gene? (We recomend gene stable ID, metadata and location)"
   answer: |
            Gene metadata are the gene name or symbol and the gene functional description. The gene stable IDs are, not only stable (as implied by their name), also easier to work with, as you can upload them in GLORIA WORK IN PROFGRESS ...
   uid: g14
