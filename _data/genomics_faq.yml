@@ -206,3 +206,18 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_22.png"  />
   uid: organismpreferences
   projects: ""
+  
+  - type: apollo
+  question: "What can I do if a gene model is incorrect or missing?"
+  answer: |
+           1. Go to the gene record page of your gene of interest. In case of a missing gene, choose the gene  record page of a neighbouring gene. 
+           2. There are two options. Option 1 is to add a user comment. Select “Add the first user comment”.  To add a user comment you need to be logged in.  
+           3. In the user comment window provide details about the incorrect/missing gene. The comment  will be displayed on the gene record page after you’ve submitted it.  
+           4. The second option is to correct the gene model in Apollo. To do so, click on the “View and  update community annotations in Apollo” link on the gene record page.  
+           5. You need to be logged in to VEuPathDB to use Apollo. If you want to correct a gene model in  Apollo follow the steps in the tutorials and FAQs on the Apollo page:  
+https://veupathdb.org/veupathdb/app/static-content/apollo_help.html. Some organisms are currently unavailable in Apollo. You can request these organisms to be  available for curation by emailing help@veupathdb.org.
+
+            
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_genomics_1.png"  />
+  uid: listgenesinterest
+  projects: ""
