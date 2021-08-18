@@ -90,7 +90,7 @@
   uid: namesandsymbol
   projects: ""
 - type: submit
-  question: "How do I add a comment to a gene pages?"
+  question: "How do I add a comment to a gene page?"
   answer: |
            Our user comment system links your expert knowledge to both gene and other records. Your comments are immediately integrated into the database and become searchable. Your comments will also guide our curators’ efforts.
 
