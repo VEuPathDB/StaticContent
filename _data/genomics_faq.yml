@@ -135,7 +135,7 @@
   uid: g12
   projects: ""
 - type: citing
-  question: "How to reference a MapVEu (formely PopBio) project ID, VBP*?"
+  question: "How to reference a MapVEu (formerly PopBio) project ID, VBP*?"
   answer: |
            Here is an example from one of our users:
 
