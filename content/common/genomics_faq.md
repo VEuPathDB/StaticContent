@@ -75,7 +75,7 @@ div.static-content img {
 
 
 <div id="apollo">
-    <h2>Gene manual annotation with Apollo</h2>
+    <h2>Manual gene annotation using Apollo</h2>
     {% for item in site.data.genomics_faq %}
     {% if item.type == "apollo" %}
       <details id="{{ item.uid }}">
