@@ -10,8 +10,18 @@ tags: [general]
 
   <h2 id="what-is-it">What is it?</h2>
     <div>
-      <p>Population-based epidemiological studies provide new opportunities for innovation and collaboration among researchers addressing pressing global-health concerns, however open access to study data pose many challenges. ClinEpiDB, launched in February 2018, is an open-access online resource enabling investigators to maximize the utility and reach of their data and to make optimal use of data released by others.
+      <p>ClinEpiDB, launched in February 2018, is an open-access exploratory data analysis platform. We integrate data from high quality epidemiological studies, and offer tools and visualizations to explore the data within the browser in a point and click interface. We enable investigators to maximize the utility and reach of their data and to make optimal use of data released by others.</p>
+      <p>ClinEpiDB is led by a team of scientists and developers based at the University of Pennsylvania, the University of Georgia, Imperial College London, and several other academic institutions. Currently, we are funded by the Bill and Melinda Gates Foundation for resource development and data integration, and by NIAID for integration of data from the International Centers of Excellence in Malaria Research (ICEMR). </p>
+      <p>Learn more by reading our paper in <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661">Gates Open Research- ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies</a>.
       </p>
+    </div>
+
+  <h2 id="how-do-i-use-site">How do I use ClinEpiDB?</h2>
+  <div>
+     <!--    "{{ '/resources.html' | relative_url }}"    -->
+     <!--   "/a/app/community/ClinEpiDB/resources.html"  -->
+    <p>The video below provides a short overview of the major features of ClinEpiDB. Visit our <a target="_blank" href="/a/app/static-content/ClinEpiDB/tutorials.html">Tutorials</a>, <a target="_blank" href="/a/app/static-content/ClinEpiDB/workshops.html">Workshops</a>, and <a target="_blank" href="/a/app/static-content/ClinEpiDB/webinars.html">Webinars</a> pages or read our <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661">paper</a> to learn more!</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Z6N_7fSkVAY?list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh"></iframe>
     </div>
 
   <h2 id="how-was-it-made">How is it made?</h2>
@@ -21,19 +31,12 @@ tags: [general]
     </div>
     <p>ClinEpiDB was developed using the existing infrastructure of <a target="_blank" href="https://veupathdb.org">VEuPathDB</a>, a collection of databases covering 170+ eukaryotic pathogens, along with relevant free-living and non-pathogenic species and select pathogen hosts, which provides a sophisticated search strategy system enabling complex interrogations of underlying data. Currently, data integration for ClinEpiDB has occurred or is in process for a number of studies including NIH-supported International Centers for Excellence in Malaria Research (ICEMR), the Gates Foundation-supported Malnutrition and Enteric Diseases Network (MAL-ED), and the Global Enteric Multicenter Study (GEMS) projects. Greyed-out cards on the homepage indicate studies that have been loaded into a QA site, but are not yet publicly available. In the process of data integration, a unified semantic web framework has been used to describe data generated from these studies. Over 1500 different data variables about participants, their disease episodes, households, and other potential exposure factors were collected in these clinical epidemiology studies and mapped for web display.
     </p>
-    <p>The data are loaded into a GUS4 schema. When combined with the unified semantic web framework and the extensive web toolkit and infrastructure developed by VEuPathDB, the user is presented with a point-and-click web interface that provides insight into data distributions and exploratory associations with any observational covariates. Query results can be statistically analyzed and graphically visualized via interactive web applications built in <a target="_blank" href="https://shiny.rstudio.com">Shiny</a> that is launched directly in the ClinEpiDB browser.
+    <p>The data are loaded into a GUS4 schema. When combined with the unified semantic web framework and the extensive web toolkit and infrastructure developed by VEuPathDB, the user is presented with a point-and-click web interface that provides insight into data distributions and exploratory associations with any observational covariates. Query results can be statistically analyzed and graphically visualized via interactive web applications that are launched directly in the ClinEpiDB browser.
     </p>
     <p>As we continue to load datasets, we are also working on expanding our functionality. By developing the ability to query across VEuPathDB databases, we plan to allow users to identify samples of interest in ClinEpiDB and match them to molecular data loaded in other VEuPathDB database resources such as <a target="_blank" href="http://microbiomedb.org">MicrobiomeDB</a> and <a target="_blank" href="http://plasmodb.org">PlasmoDB</a>, and vice versa.
     </p>
   </div>
 
-  <h2 id="how-do-i-use-site">How do I use ClinEpiDB?</h2>
-  <div>
-     <!--    "{{ '/resources.html' | relative_url }}"    -->
-     <!--   "/a/app/community/ClinEpiDB/resources.html"  -->
-    <p>The video below provides a short overview of the major features of ClinEpiDB. Visit our <a target="_blank" href="/a/app/static-content/ClinEpiDB/tutorials.html">Tutorials</a>, <a target="_blank" href="/a/app/static-content/ClinEpiDB/workshops.html">Workshops</a>, and <a target="_blank" href="/a/app/static-content/ClinEpiDB/webinars.html">Webinars</a> pages or read our <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661">paper</a> to learn more!</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Z6N_7fSkVAY?list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh"></iframe>
-    </div>
 
   <h2 id="who-is-behind-this-project">Who is behind this project?</h2>
   <div>
