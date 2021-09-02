@@ -26,7 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
      
-   <p><b>Thursday September 9th, 2021:</b> <a href="#release54">Release 54 Webinar</a></p>
+   <p><b>Thursday September 16th, 2021:</b> <a href="#release54">Release 54 Webinar</a></p>
    <p><b>Thursday November 11th, 2021:</b> <a href="#release55">Release 55 Webinar</a></p>
    <p><b>Thursday February 10th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
   </div>
@@ -90,9 +90,9 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="anchor"><a name="release54"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 54 Webinar<br>
-<b>Date:</b> Thursday Sept 9th, 2021<br>
+<b>Date:</b> Thursday Sept 16th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> Available 7-10 days prior to webinar<br>
+<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/699699930361785872" target="_blank">https://attendee.gotowebinar.com/register/699699930361785872</a><br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 54 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
