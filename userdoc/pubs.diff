@@ -1,0 +1,87 @@
+10,11c10,15
+<   View <b><a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0,39&q=OrthoMCL+OR+PlasmoDB+OR+ToxoDB+OR+CryptoDB+OR+TrichDB+OR+GiardiaDB+OR+TriTrypDB+OR+AmoebaDB+OR+MicrosporidiaDB+OR+%22FungiDB%22+OR+PiroplasmaDB+OR+%22vectorbase%22+OR+veupathdb+OR+ApiDB+OR+EuPathDB+-encrypt+-cryptography+-hymenoptera">publications that cite us</a></b> in Google Scholar.
+< <br><br>
+---
+> <table width="100%">
+>    <tr> <td>
+>       View <b><a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0,39&q=OrthoMCL+OR+PlasmoDB+OR+ToxoDB+OR+CryptoDB+OR+TrichDB+OR+GiardiaDB+OR+TriTrypDB+OR+AmoebaDB+OR+MicrosporidiaDB+OR+%22FungiDB%22+OR+PiroplasmaDB+OR+%22vectorbase%22+OR+veupathdb+OR+ApiDB+OR+EuPathDB+-encrypt+-cryptography+-hymenoptera">
+>          publications that cite us</a></b> in Google Scholar  </td>
+> </tr>
+> <tr> <td>
+13,14c17,19
+<      PubMed filter</a> provides a current list of the most recent publications about VEuPathDB resources</b>
+< 
+---
+>      PubMed filter</a> provides a current list of the most recent publications about VEuPathDB resources</b></td>
+> </tr>
+> </table>
+15a21,23
+> <table border=0 width=100% cellpadding=3 cellspacing=0 bgcolor=white class=thinTopBottomBorders> 
+> <tr><td bgcolor=white valign=top>
+>  
+17c25
+<     <tr><td>
+---
+>     <tr class="rowLight"><td>
+31c39
+<   <table border="0" cellpadding="2" cellspacing="0" width="100%"><tr><td colspan="2"><hr></td></tr>
+---
+>     <table border="0" cellpadding="2" cellspacing="0" width="100%"><tr><td colspan="2"><hr></td></tr>
+42c50,51
+<          <a href="https://doi.org/10.1007/978-1-4939-9748-0_22">https://doi.org/10.1007/978-1-4939-9748-0_22</a>      
+---
+>          <a href="https://doi.org/10.1007/978-1-4939-9748-0_22">https://doi.org/10.1007/978-1-4939-9748-0_22</a>
+>         
+87a97,98
+>   
+>   
+94a106
+> 
+106a119
+>   
+115a129
+>   
+246a261
+> 
+255a271
+> 
+264a281,282
+>    
+> 
+381a400,402
+>    
+> 
+>    
+390a412,413
+>    
+>   
+400a424
+> 
+422a447,449
+>    
+> 
+> 
+430c457,458
+<     <i>In silico</i> Genomics and Proteomics: Functional Annotation of Genomes and Proteins. Nicola Mulder and Rolf Apweiler (eds.). Nova Science Publishers. 2006<br>  
+---
+>     <i>In silico</i> Genomics and Proteomics: Functional Annotation of Genomes and Proteins. Nicola Mulder and Rolf Apweiler (eds.). Nova Science Publishers. 2006<br>
+>     
+432a461
+> 
+441a471
+> 
+451a482
+> 
+460c491,492
+<     
+---
+>   
+>   
+468a501,504
+> 
+>       
+> 
+> 
+496a533,534
+>  
+> 
