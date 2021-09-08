@@ -144,12 +144,6 @@
            Gloria-Soria, A., Lima, A., Lovin, D. D., Cunningham, J. M., Severson, D. W., & Powell, J. R. (2018). Origin of a High-Latitude Population of <i>Aedes aegypti</i> in Washington, DC. The American journal of tropical medicine and hygiene, 98(2), 445–452. <a target="_blank" href="https://doi.org/10.4269/ajtmh.17-0676">https://doi.org/10.4269/ajtmh.17-0676</a>
   uid: g13
   projects: ""
-- type: citing
-  question: "How to cite a gene? (We recommend gene stable ID, metadata and location)"
-  answer: |
-           Gene metadata are the gene name or symbol and the gene functional description. The gene stable IDs are, not only stable (as implied by their name), also easier to work with, as you can upload them in GLORIA WORK IN PROFGRESS ...
-  uid: g14
-  projects: "DONOTSHOW"
 - type: download
   question: "How do I download a sequence in FASTA format from a region of interest in JBrowse?"
   answer: |
@@ -193,18 +187,6 @@
            <p>To transfer your work from your old non-VEuPathDB account to your new VEuPathDB account, share your history from the non-VEuPathDB account to the VEuPathDB account. Import the history into your VEuPathDB account.</p>
            <p>Now you can export to our VEuPathDB websites. You should use this particular Galaxy account to do your future VEuPathDB work, so that you can export to VEuPathDB and so that we can contact you with important information about VEuPathDB Galaxy.</p>
   uid: galaxy
-  projects: ""
-- type: general
-  question: "How do I select my organism preferences on UniDB?"
-  answer: |
-           1. Click "My organism preferences" on the homepage. Once clicking on this you will be reminded your preferences can be disabled at any time whilst using the website
-           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_20.png"  />
-           2. Filter for your organism of interest using the search box. You can also you the buttons 'add these', 'clear these', 'select only these', 'select all', 'clear all', to aid your search
-           3. Click "Apply"
-           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_21.png"  />
-           4. You will now see your selected organisms in the "My organism preference list" on the right of the page 
-           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_22.png"  />
-  uid: organismpreferences
   projects: ""
 - type: apollo
   question: "What can I do if a gene model is incorrect or missing?"
