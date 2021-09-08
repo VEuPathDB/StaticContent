@@ -1,0 +1,30 @@
+106c106
+<     </li><li><a target="_blank" href="https://github.com/VEuPathDB/EbrcWebsiteCommon">EbrcWebsiteCommon</a>: frontend pages (html, jsp, js, css) that add or modify WDKClient, common to all sites.
+---
+>     <li><a target="_blank" href="https://github.com/VEuPathDB/EbrcWebsiteCommon">EbrcWebsiteCommon</a>: frontend pages (html, jsp, js, css) that add or modify WDKClient, common to all sites.
+110,112c110,112
+<     </li><li><a target="_blank" href="https://github.com/VEuPathDB/OrthoMCLClient">OrthoMCLClient</a>: Website client code, extending WDKClient.. 
+<     </li><li><a target="_blank" href="https://github.com/VEuPathDB/OrthoMCLService">OrthoMCLService</a>: Website REST services, extending WDK.
+<     </li><li><a target="_blank" href="https://github.com/VEuPathDB/EbrcWebSvcCommon">EbrcWebSvcCommon</a>: plugins common to all sites (eg: Blast, Text search).
+---
+>     <li><a target="_blank" href="https://github.com/VEuPathDB/OrthoMCLClient">OrthoMCLClient</a>: Website client code, extending WDKClient.. 
+>     <li><a target="_blank" href="https://github.com/VEuPathDB/OrthoMCLService">OrthoMCLService</a>: Website REST services, extending WDK.
+>     <li><a target="_blank" href="https://github.com/VEuPathDB/EbrcWebSvcCommon">EbrcWebSvcCommon</a>: plugins common to all sites (eg: Blast, Text search).
+170,177c170,177
+< </li><li>Developing educational material in the form of <a href="/a/app/static-content/landing.html">exercises and online tutorials</a>.
+< </li><li>Responding to support emails for users who contact us directly by clicking the "Contact Us" links in the header or footer of any VEuPathDB webpage (average response time is 48 hours).
+< </li><li>Holding open community meetings/forums with our diverse user base.  These meetings are held in person at scientific conferences or using an online conferencing platform.
+< </li><li>Attending national and international meetings with active participation in the form of posters, presentations or help desks.
+< </li><li>Authoring <a target="_blank" href="/a/app/static-content/veupathPubs.html">peer reviewed manuscripts</a>.
+< </li><li>Maintaining active social media presence in the form of a <a target="_blank" href="https://www.facebook.com/pages/EuPathDB/133123003429972">FaceBook page</a> and <a href="https://twitter.com/veupathdb">Twitter feed</a>.
+< </li><li>Providing a clear <a href="{{'/documents/VEuPathDB_Data_Sub_Release_policy_rev_02April2020.pdf' | absolute_url}}">data handling and release policy</a> to investigators to encourage submission of data prepublication.
+< </li></ul>
+---
+> <li>Developing educational material in the form of <a href="/a/app/static-content/landing.html">exercises and online tutorials</a>.
+> <li>Responding to support emails for users who contact us directly by clicking the "Contact Us" links in the header or footer of any VEuPathDB webpage (average response time is 48 hours).
+> <li>Holding open community meetings/forums with our diverse user base.  These meetings are held in person at scientific conferences or using an online conferencing platform.
+> <li>Attending national and international meetings with active participation in the form of posters, presentations or help desks.
+> <li>Authoring <a target="_blank" href="/a/app/static-content/veupathPubs.html">peer reviewed manuscripts</a>.
+> <li>Maintaining active social media presence in the form of a <a target="_blank" href="https://www.facebook.com/pages/EuPathDB/133123003429972">FaceBook page</a> and <a href="https://twitter.com/veupathdb">Twitter feed</a>.
+> <li>Providing a clear <a href="{{'/documents/VEuPathDB_Data_Sub_Release_policy_rev_02April2020.pdf' | absolute_url}}">data handling and release policy</a> to investigators to encourage submission of data prepublication.
+> </ul>
