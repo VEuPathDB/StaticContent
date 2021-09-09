@@ -32,19 +32,6 @@ div.static-content img {
 <div class="static-content"> 
 
 
-<div id="general">
-    <h2>General site usage</h2> 
-    {% for item in site.data.genomics_faq %}
-    {% if item.type == "general" %}
-      <details id="{{ item.uid }}">
-        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
-        {{ item.answer | markdownify }}
-        <br>
-      </details>
-    {% endif %}
-    {% unless forloop.last %}{% endunless %}{% endfor %}
-</div>
-
 
 <div id="citing">
     <h2>How to cite or reference</h2>
