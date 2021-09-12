@@ -37,7 +37,9 @@ div.centered-button a {
     <div>
       <p>
       Use Apollo to integrate new or update current structural and functional data, for gene models in the organisms available in <a href="https://veupathdb.org/veupathdb/app/search/organism/GenomeDataTypes/result">VEuPathDB</a>. 
-Organisms in AmoebaDB, CryptoDB, FungiDB, GiardiaDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB & VectorBase are available for community curation.</p>
+Organisms in 
+AmoebaDB, FungiDB, PiroplasmaDB, PlasmoDB, ToxoDB, TriTrypDB & VectorBase 
+are available for community curation.</p>
 <p>
 We are currently in the process of a long term project to update our genome annotation which will mean some organisms are currently unavailable in Apollo. However, you can request these organisms to be available for curation by emailing our team at help@veupathdb.org for more information.</p>
       
