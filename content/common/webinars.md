@@ -719,7 +719,4 @@ This webinar will introduce you to VEuPathDB resources and highlight some of the
 <li>Galaxy tools</li>
 </ul>
 </div>
-</div>
 
-
-</div>
