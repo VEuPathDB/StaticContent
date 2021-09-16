@@ -131,7 +131,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> Release 53 Webinar<br>
 <b>Date:</b> Thursday August 5th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link:<a href="https://youtu.be/oriU3ZpG40s">https://youtu.be/oriU3ZpG40s</a><br>
+<b>Recording Link:</b><a href="https://youtu.be/oriU3ZpG40s">https://youtu.be/oriU3ZpG40s</a><br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 53 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
@@ -719,7 +719,4 @@ This webinar will introduce you to VEuPathDB resources and highlight some of the
 <li>Galaxy tools</li>
 </ul>
 </div>
-</div>
 
-
-</div>
