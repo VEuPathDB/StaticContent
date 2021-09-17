@@ -5,6 +5,12 @@ permalink: /testDataInprogress
 datatable: true
 tags: [testDataInprogress]
 ---
+<script>
+$(document).ready(function () {
+  $("#my-table > table").DataTable();
+});
+  </script>
+
 <h1>Datasets we are working on loading</h1>
 
 <div class="static-content">
@@ -18,7 +24,7 @@ tags: [testDataInprogress]
 
 
 <div class="datatable-begin"></div> 
-<table class="display">
+<table id="my-table" class="display">
   {% for row in site.data.in_progress_datasets %}
     {% if forloop.first %}
     <tr >
