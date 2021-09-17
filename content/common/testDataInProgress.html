@@ -2,6 +2,7 @@
 layout: plain
 title: Datasets were are working on loading
 permalink: /testDataInprogress
+datatable: true
 tags: [testDataInprogress]
 ---
 <h1>Datasets we are working on loading</h1>
@@ -16,16 +17,13 @@ tags: [testDataInprogress]
 <br><br>
 
 
----
-title: Table test
----
-
-<table class="wdk-DataTable">
+<div class="datatable-begin"></div> 
+<table class="display">
   {% for row in site.data.in_progress_datasets %}
     {% if forloop.first %}
-    <tr  class="wdk-DataTableRow">
+    <tr >
       {% for pair in row %}
-        <th  class="wdk-DataTableCell">{{ pair[0] }}</th>
+        <th>{{ pair[0] }}</th>
       {% endfor %}
     </tr>
     {% endif %}
@@ -35,5 +33,7 @@ title: Table test
     {% endtablerow %}
   {% endfor %}
 </table>
+<div class="datatable-end"></div> 
+
 
 </div>
