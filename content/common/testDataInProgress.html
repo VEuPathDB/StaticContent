@@ -2,7 +2,6 @@
 layout: plain
 title: Datasets were are working on loading
 permalink: /testDataInprogress
-datatable: true
 tags: [testDataInprogress]
 ---
 
@@ -18,18 +17,16 @@ tags: [testDataInprogress]
 <br><br>
 
 
-<div class="datatable-begin"></div>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.1/css/jquery.dataTables.css">
+  
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.1/js/jquery.dataTables.js"></script>
 
-Food    | Description                           | Category | Sample type
-------- | ------------------------------------- | -------- | -----------
-Apples  | A small, somewhat round ...           | Fruit    | Fuji
-Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
-Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
-Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
-
-<div class="datatable-end"></div>
-
-
+<script>
+$(document).ready( function () {
+    $('table.class').DataTable();
+} );
+</script>
+  
 <table class="display">
   {% for row in site.data.in_progress_datasets %}
     {% if forloop.first %}
