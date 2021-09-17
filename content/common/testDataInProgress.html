@@ -2,7 +2,6 @@
 layout: plain
 title: Datasets were are working on loading
 permalink: /testDataInprogress
-datatable: true
 tags: [testDataInprogress]
 ---
 
@@ -18,9 +17,11 @@ tags: [testDataInprogress]
 <br><br>
 
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.1/css/jquery.dataTables.css">
+<script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.5.1.js"></script>
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.1/js/jquery.dataTables.js"></script>
-  
-<table class="display">
+
+
+<table id="datasets" class="display">
   {% for row in site.data.in_progress_datasets %}
     {% if forloop.first %}
 <thead>
@@ -46,7 +47,7 @@ tags: [testDataInprogress]
 <script>
 $(document).ready(function(){
 
-    $('table.display').DataTable( {
+    $('#datasets').DataTable( {
         paging: true,
         stateSave: true,
         searching: true
