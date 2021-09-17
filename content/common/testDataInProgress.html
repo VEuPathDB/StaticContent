@@ -16,16 +16,13 @@ tags: [testDataInprogress]
   </ul>
 <br><br>
 
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.1/css/jquery.dataTables.css">
-<script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.5.1.js"></script>
-<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.1/js/jquery.dataTables.js"></script>
+<script src="/assets/js/jquery.dataTables.js"></script>
 
-
-<table id="datasets" class="display">
+<table>
   {% for row in site.data.in_progress_datasets %}
     {% if forloop.first %}
 <thead>
-  <tr >
+  <tr>
       {% for pair in row %}
         <th>{{ pair[0] }}</th>
       {% endfor %}
@@ -39,19 +36,6 @@ tags: [testDataInprogress]
   {% endfor %}
 </table>
 
-
-
 </div>
 
 
-<script>
-$(document).ready(function(){
-
-    $('#datasets').DataTable( {
-        paging: true,
-        stateSave: true,
-        searching: true
-    }
-        );
-});
-</script>
