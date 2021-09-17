@@ -2,6 +2,7 @@
 layout: plain
 title: Datasets were are working on loading
 permalink: /testDataInprogress
+datatable: true
 tags: [testDataInprogress]
 ---
 
@@ -19,7 +20,7 @@ tags: [testDataInprogress]
 <br><br>
 
 
-<div class="datatable-begin"></div> 
+
 <table id="my-table" class="display">
   {% for row in site.data.in_progress_datasets %}
     {% if forloop.first %}
@@ -35,7 +36,7 @@ tags: [testDataInprogress]
     {% endtablerow %}
   {% endfor %}
 </table>
-<div class="datatable-end"></div> 
+
 
 
 </div>
