@@ -20,12 +20,12 @@ tags: [testDataInprogress]
 title: Table test
 ---
 
-<table>
+<table class="wdk-DataTable">
   {% for row in site.data.in_progress_datasets %}
     {% if forloop.first %}
-    <tr>
+    <tr  class="wdk-DataTableRow">
       {% for pair in row %}
-        <th>{{ pair[0] }}</th>
+        <th  class="wdk-DataTableCell">{{ pair[0] }}</th>
       {% endfor %}
     </tr>
     {% endif %}
