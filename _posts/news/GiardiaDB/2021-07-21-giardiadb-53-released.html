@@ -6,13 +6,20 @@ category: [GiardiaDB,VEuPathDB]
 {% assign project = page.category[0] %}
 
 
-<h3>We are pleased to announce the release of {{project}} 53.</h3>  
+<h3>We are pleased to announce the release of {{project}} 53.</h3>
+
+<section>
+  <h3>Another way to stay in touch:</h3>
+  <div style="margin-left: 3em;">
+    The bioinformatic resource centers have established a <a href="https://www.reddit.com/r/BRC_users" target="_blank">Reddit community</a> for free and open discussions. We welcome everyone to join the discussion.
+  </div>
+</section>  
 
 <section>
   <h3>Release 53 Webinar</h3>
   <div style="margin-left: 3em;">
-    Join us on May 27, 2021 at 10am EDT for our Release 53 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 53.  
-    <a href="https://attendee.gotowebinar.com/register/8223585429100223502" target="_blank">Register here</a>  
+    Join us on August 5, 2021 at 10am EDT for our Release 53 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 53.  
+    <a href="https://attendee.gotowebinar.com/register/3041321047145102351" target="_blank">Register here</a>  
   </div>
 </section>
 
@@ -20,18 +27,10 @@ category: [GiardiaDB,VEuPathDB]
   <h3>New features in {{project}} 53</h3>
   <div style="margin-left: 3em;">
    <ul>
-    <li>The gene pages of <a href="https://en.wikipedia.org/wiki/Pseudogene" target="_blank">pseudogenes</a> are modified to improved clarity: <a href="{{'/assets/images/pseudogene-page.png' | absolute_url}}">(Pseudogene page changes)</a>
-      <ul>
-        <li>The Transcripts table in the Gene Models section now indicates that no protein products are produced. </li>
-        <li>The exons in JBrowse views of pseudogenes are colored gray.  Blue represents genes on the forward strand and red represents genes on the reverse strand. </li>
-        <li>The Orthology and Synteny section indicates that orthology is not determined for pseudogenes.</li>
-        <li>Protein sequences are no longer available from the Sequences section.</li>
-      </ul>
-    </li>
-    <li>A new <a href="/a/app/static-content/faq.html">FAQs page</a> is available from the <a href="/a/app/static-content/landing.html">Learn How to use VEuPathDB page</a>. Open each section to reveal step-by-step instructions for common tasks.  </li>
-    <li>Reference organisms are indicated in the Organism parameter on search pages.  VEuPathDB chooses a representative genome from each species and aligns all functional genomics data to the reference.  In doing so, all data can be viewed and compared in the genome browser against the reference.  In some cases, data are aligned to the source organism in addition to the reference. (<a href="{{'/assets/images/Reference.png' | absolute_url}}">Reference-organism.png</a>)</li>
-    <li>The algorithm for predicting EC Numbers of genes has been improved. Previously, we predicted EC numbers by using the most prevalent EC number in an ortholog group (defined by OrthoMCL) and transferring that number to all other members in the group. In the new algorithm, we use orthology as well as protein sequence/domain comparison to infer EC number assignments. Additionally, we provide multiple forms of evidence that are used to inform each prediction, allowing users to determine their confidence in the prediction. Specifically, the algorithm evaluates three features (length, domain architecture and BLAST similarity to other proteins) of each protein in an OrthoMCL ortholog group. Those features are compared to the features of proteins already assigned an EC number, in order to infer which proteins should be assigned a specific EC number.  We also show the number of proteins and the number of genera that are assigned this EC number within the ortholog group, so that the user can assess the prevalence of a given EC number. This new algorithm performs extremely well in predicting previously assigned EC numbers, demonstrating that the algorithm is accurate.</li>
-    <li>Community annotations made in {{project}} via Apollo are now represented on gene pages in the Gene Models graphic. In addition, links from the gene page to Apollo are offered to facilitate community annotations. <a href="{{'/assets/images/51-apollo-news.png' | absolute_url}}">Example image.</a>  Please see our <a href="https://youtu.be/RMXZDBMh8Fo" target="_blank">Apollo webinar</a> for instruction. </li>
+    <li>Genome data set records (<a href="/a/app/search/dataset/AllDatasets/result?filterTerm=genomes&filterAttributes=newcategory">{{project}} genome data sets</a>) are updated to increase clarity and reduce redundancy of information on the page.  For example, a new table "Explore other Categories of Data Associated with this Genome" contains links to all functional data sets for the organism. The new "Data Context" section provides counts for genes, assembled sequences and transcripts. Functional data set records have received similar updates.</li>
+    <li>The site search, available in the header, is updated to find versions of an ID (e.g. ID.1, ID.2). Specifically, searching for the ID will retrieve ID, ID.1 and ID.2, etc, while searching for ID.1 will retrieve only ID.1</li>
+    <li>The community annotation software, Apollo, was updated to version 2.6.5 (<a href="https://apollo.veupathdb.org/1831134177781582126148319042/about" target="_blank">About Apollo</a>).</li>
+    <li>The BLAT sequence search tool is integrated into Apollo. Use the 'Search' tab from the annotator panel to find your sequence of interest in our Apollo-available genomes. (<a href="{{'/assets/images/ApolloBLAT.png' | absolute_url}}">ApolloBLAT.png</a>)</li>
     </ul>
   </div>
 </section>

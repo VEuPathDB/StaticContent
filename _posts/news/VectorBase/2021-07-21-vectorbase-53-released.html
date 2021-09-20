@@ -6,42 +6,31 @@ category: [VectorBase,VEuPathDB]
 {% assign project = page.category[0] %}
 
 
-<h3>We are pleased to announce the release of {{project}} 53.</h3>  
+<h3>We are pleased to announce the release of {{project}} 53.</h3>
 
-<h3>legacy.vectorbase.org is retiring.</h3>
-<p>The URL <a href="https://{{project}}.org">https://{{project}}.org</a> directs you to the newest version of our interface.  The site contains previous VectorBase.org data plus some new tools and functions in an updated and streamlined interface that empasizes easy access to help information.   The previous version of VectorBase, <a href="https://legacy.{{project}}.org">https://legacy.{{project}}.org</a> will be retired at the end of May 2020. </p>
+<section>
+  <h3>Another way to stay in touch:</h3>
+  <div style="margin-left: 3em;">
+    The bioinformatic resource centers have established a <a href="https://www.reddit.com/r/BRC_users" target="_blank">Reddit community</a> for free and open discussions. We welcome everyone to join the discussion.
+  </div>
+</section>  
 
 <section>
   <h3>Release 53 Webinar</h3>
   <div style="margin-left: 3em;">
-    Join us on May 27, 2021 at 10am EDT for our Release 53 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 53.  
-    <a href="https://attendee.gotowebinar.com/register/8223585429100223502" target="_blank">Register here</a>  
+    Join us on August 5, 2021 at 10am EDT for our Release 53 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 53.  
+    <a href="https://attendee.gotowebinar.com/register/3041321047145102351" target="_blank">Register here</a>  
   </div>
-</section>
-
-
-<section>
-  <h3>Content migration from legacy to beta VectorBase</h3>
-  <div style="margin-left: 3em;">
-    We continue to migrate all the content from the legacy site before it is shut down, next on our list are cell line genomes (available in legacy BLAST), transcriptomes (available in the Expression Browser, Genome Browser track hubs, Downloads), proteome datasets and the Image Gallery. Please let us know which tool, resource, or dataset we might be missing or needs to be prioritized for migration.
- </div>
 </section>
 
 <section>
   <h3>New features in {{project}} 53</h3>
   <div style="margin-left: 3em;">
    <ul>
-    <li>The gene pages of <a href="https://en.wikipedia.org/wiki/Pseudogene" target="_blank">pseudogenes</a> are modified to improved clarity: <a href="{{'/assets/images/pseudogene-page.png' | absolute_url}}">(Pseudogene page changes)</a>
-      <ul>
-        <li>The Transcripts table in the Gene Models section now indicates that no protein products are produced. </li>
-        <li>The exons in JBrowse views of pseudogenes are colored gray.  Blue represents genes on the forward strand and red represents genes on the reverse strand. </li>
-        <li>The Orthology and Synteny section indicates that orthology is not determined for pseudogenes.</li>
-        <li>Protein sequences are no longer available from the Sequences section.</li>
-      </ul>
-    </li>
-    <li>A new <a href="/a/app/static-content/faq.html">FAQs page</a> is available from the <a href="/a/app/static-content/landing.html">Learn How to use VEuPathDB page</a>. Open each section to reveal step-by-step instructions for common tasks.  </li>
-    <li>Reference organisms are indicated in the Organism parameter on search pages.  VEuPathDB chooses a representative genome from each species and aligns all functional genomics data to the reference.  In doing so, all data can be viewed and compared in the genome browser against the reference.  In some cases, data are aligned to the source organism in addition to the reference. (<a href="{{'/assets/images/Reference.png' | absolute_url}}">Reference-organism.png</a>)</li>
-    <li>The algorithm for predicting EC Numbers of genes has been improved. Previously, we predicted EC numbers by using the most prevalent EC number in an ortholog group (defined by OrthoMCL) and transferring that number to all other members in the group. In the new algorithm, we use orthology as well as protein sequence/domain comparison to infer EC number assignments. Additionally, we provide multiple forms of evidence that are used to inform each prediction, allowing users to determine their confidence in the prediction. Specifically, the algorithm evaluates three features (length, domain architecture and BLAST similarity to other proteins) of each protein in an OrthoMCL ortholog group. Those features are compared to the features of proteins already assigned an EC number, in order to infer which proteins should be assigned a specific EC number.  We also show the number of proteins and the number of genera that are assigned this EC number within the ortholog group, so that the user can assess the prevalence of a given EC number. This new algorithm performs extremely well in predicting previously assigned EC numbers, demonstrating that the algorithm is accurate.</li>
+    <li>We have a new format for the genome, transcriptome (RNAseq and microarray) and proteome (mass spectrometry) data set types. These data pages have been updated to increase clarity and reduce redundancy of information. The genome page is similar to the organisms page we used to have in legacy VectorBase. Follow this link (<a href="/a/app/search/dataset/AllDatasets/result?filterTerm=genomes&filterAttributes=newcategory">{{project}} genome data sets</a>) which has all VectorBase (~500) data sets, filtered to show only the genomes. For example in the genome page, a new table "Explore other Categories of Data Associated with this Genome" contains links to all functional data sets for the organism. The new "Data Context" section provides counts for genes, assembled sequences and transcripts. </li>
+    <li>The site search, available in the header, is updated to find versions of an ID (e.g. ID.1, ID.2). Specifically, searching for the ID will retrieve ID, ID.1 and ID.2, etc, while searching for ID.1 will retrieve only ID.1</li>
+    <li>The community annotation software, Apollo, was updated to version 2.6.5 (<a href="https://apollo.veupathdb.org/1831134177781582126148319042/about" target="_blank">About Apollo</a>).</li>
+    <li>The BLAT sequence search tool is integrated into Apollo. Use the 'Search' tab from the annotator panel to find your sequence of interest in our Apollo-available genomes. (<a href="{{'/assets/images/ApolloBLAT.png' | absolute_url}}">ApolloBLAT.png</a>)</li>
     </ul>
   </div>
 </section>
@@ -49,80 +38,94 @@ category: [VectorBase,VEuPathDB]
 <section>
   <h3>New data in {{project}} 53</h3>
   <div style="margin-left: 3em;">
-    <h4>Annotated Genome</h4>
+    <h4>Annotated Genomes</h4>
       <ul>
-        <li><a href="/a/app/record/dataset/DS_ad96a59d42"><i>Drosophila melanogaster</i> iso-1</a> &ndash;   appears for the first time in VectorBase.  With the addition of this genome, orthology features between vector species and <i>D. melanogaster</i> are enabled. <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA13812/" target="_blank">NCBI Bioproject</a> </li>
+        <li><a href="/a/app/record/dataset/DS_35d1598565"><i>Anopheles albimanus</i> STECLA 2020 </a> &ndash; This new genome is assembled at the chromosome level, from telomere-to-telomere, and has a gene set prediction.<a href="http://www.ncbi.nlm.nih.gov/pubmed/32883756" target="_blank"> Compton et al. 2020</a> </li>
+        
+        <li><a href="/a/app/record/dataset/DS_869a805bc4"><i>Anopheles stephensi</i> Indian 2020 </a> &ndash;   Strain UCISS2018 - This new genome is assembled at the chromosome level and has a gene set prediction.  The strain name ‘Indian 2020’ will be replaced with the strain name ‘UCISS2018’ with the next VectorBase release. <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA629843" target="_blank">NCBI Bioproject PRJNA629843</a> </li>
+
+        <li><a href="/a/app/record/dataset/DS_c3e414cbf3"><i>Glossina fuscipes</i> IAEA 2018 </a> &ndash; <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA596165" target="_blank">NCBI Bioproject PRJNA596165</a> </li>
       </ul>
       <br>
 
-    <h4>Transcriptomics</h4>
-      <p>In VectorBase we have a total of 327 RNA-seq datasets. For the previous release, 113 RNAseq datasets were available in the search strategy system. For the current release we now have a total of 124 RNAseq datsets; more datasets will be included in following releases. The following RNA seq data sets appear for the first time in VectorBase.</p>
+    <h4>Genome assembly without annotation</h4>
       <ul>
-        <li><a href="/a/app/record/dataset/DS_cc6ef928ad">Aedes aegypti transcriptome response to blood (heated or normal), sugar, and complement proteins (hC3 or hC5a)</a> &ndash;  Three different experimental conditions (meal types) for the in vivo mosquitoes. Three experimental conditions for the in vitro cell line (types of human complement proteins).  <a href="http://www.ncbi.nlm.nih.gov/pubmed/32916828" target="_blank">Geraldo-Calder&#243;n et al. 2020</a> </li>
-
-        
-        <li><a href="/a/app/record/dataset/DS_04d3b07723">Female antennal transcriptome of <i>Anopheles quadriannulatus</i></a> &ndash;  Transcriptome of female antenna determined by RNA sequencing and aligned to <i>Anopheles quadriannulatus</i> SANGWE. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24182346" target="_blank">Rinker et al. 2013</a></li>
-
-        <li><a href="/a/app/record/dataset/DS_1aad29f788">Male antenna: fed vs unfed</a> &ndash;  RNA-Seq expression profiles in colony reared <i>G. m. morsitans</i> male antennae aligned to <i>Glossina morsitans</i> Yale. <a href="http://www.ncbi.nlm.nih.gov/pubmed/32589659" target="_blank">Kabaka et al. 2020</a></li>
-
-        <li><a href="/a/app/record/dataset/DS_9d169f17">Male heads (without antenna): not infected vs infected with <i>T.b. brucei</i></a> &ndash;  RNA-Seq expression profiles in colony reared <i>G. m. morsitans</i> male head (without antenna) aligned to <i>Glossina morsitans</i> Yale. <a href="http://www.ncbi.nlm.nih.gov/pubmed/32589659" target="_blank">Kabaka et al. 2020</a></li>
-
-        <li><a href="/a/app/record/dataset/DS_e1e031c1fa">Transcriptional profiling of <i>Aedes aegypti</i> spermathecal-related genes</a> &ndash;  RNAseq from <i>Aedes aegypti</i> female spermathecae with two physiological conditions: virgin and inseminated/mated. <a href="http://www.ncbi.nlm.nih.gov/pubmed/32041546" target="_blank">Pascini et al. 2020</a></li>
-        
-        <li>Ixodes ricinus transcriptome of the naive (unfed) female midgut. &ndash;  RNA Sequence data were aligned to <i>Ixodes scapularis</i> ISE6 and <i>Ixodes scapularis</i> Wikel genomes. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26510422" target="_blank">Cramaro et al. 2015</a>
-          <ul>
-            <li><a href="/a/app/record/dataset/DS_aca1ba1bbe"><i>Ixodes ricinus</i> transcriptome of the naive (unfed) female midgut (aligned to I. scapularis ISE6)</a> </li>
-            <li><a href="/a/app/record/dataset/DS_361552da22"><i>Ixodes ricinus</i> transcriptome of the naive (unfed) female midgut (aligned to I. scapularis Wikel)</a></li>
-          </ul>
-        </li>
-
-        <li>Anopheles gambiae small non-coding RNAs by tissue &ndash;  The purpose of this study was to broaden our view of small ncRNAs in the female mosquito. The authors classified multiple small ncRNA groups across mosquito tissues.<a href="http://www.ncbi.nlm.nih.gov/pubmed/32630036" target="_blank">Bryant et al. 2020.</a> These data are aligned to three genomes:
-          <ul>
-            <li><a href="/a/app/record/dataset/DS_a92b4db713">Anopheles gambiae small non-coding RNAs by tissue (aligned to A. coluzzii Mali-NIH)</a></li>
-            <li><a href="/a/app/record/dataset/DS_827aa45cff">Anopheles gambiae small non-coding RNAs by tissue (aligned to A. coluzzii Ngousso)</a></li>
-            <li><a href="/a/app/record/dataset/DS_6ecf1af578">Anopheles gambiae small non-coding RNAs by tissue (aligned to A. gambiae PEST)</a></li>
-          </ul>
-        </li>
-  
-        <li>Female antennal transcriptome of <i>A. gambiae sensu stricto</i> &ndash; Transcriptome of female antenna from <i>Anopheles gambiae sensu stricto</i> determined by RNA sequencing. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24182346" target="_blank">Rinker et al. 2013</a>.  Data are aligned to three genomes:
-          <ul>
-            <li><a href="/a/app/record/dataset/DS_23564d872d">Female antennal transcriptome of A. gambiae sensu stricto aligned to A. coluzzii Mali-NIH</a></li>
-            <li><a href="/a/app/record/dataset/DS_d517acabc0">Female antennal transcriptome of A. gambiae sensu stricto aligned to A. coluzzii Ngousso</a></li>
-            <li><a href="/a/app/record/dataset/DS_1ace71ffa0">Female antennal transcriptome of A. gambiae sensu stricto aligned to A. gambiae PEST</a></li>
-          </ul>
-        </li>
+        <li><a href="/a/app/record/dataset/DS_92e55b3591"><i>Aedes albopictus</i> C6/36 </a> &ndash; <a href="http://www.ncbi.nlm.nih.gov/pubmed/29329394" target="_blank">Miller et al. 2018</a> </li>
       </ul>
       <br>
-    
+
+    <h4>RNA Sequence</h4>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_c4e7f358f7"><i>Culicoides sonorensis</i> PIR-s-3 vector competence for bluetongue virus (BTV)</a> &ndash;  <i>Culicoides sonorensis</i> PIR-s-3 infected with bluetongue virus (divided in both competent and refractory individuals), with controls feed only blood or only sugar.  <a href="http://www.ncbi.nlm.nih.gov/pubmed/30134833" target="_blank">Morales-Hojas et al. 2018</a> </li>
+
+        
+        <li><a href="/a/app/record/dataset/DS_5ba0230fcd">Germ-free vs colonized third instar mosquito larvae</a> &ndash;  Colonization status (colonized with <i>E. coli</i> vs germ-free) and time point (12h and 20h after decolonization and/or moulting) expression in both dissected guts and whole 3rd instar larvae. <a href="http://www.ncbi.nlm.nih.gov/pubmed/33574256" target="_blank">Ramoli et al. 2021</a></li>
+
+        <li><a href="/a/app/record/dataset/DS_d15f0bb783">Regulation of the antennal transcriptome during the first gonotrophic cycle</a> &ndash;  Paired-end Illumina sequencing of antennal mRNA from each of the six-time points (5 to 10 days) post-emergence non-blood fed (nbf) and age-matched blood-fed (bf) cohorts, with three biological replicates (ca. 150 pairs of antennae each), generated libraries spanning the adult female’s first gonotrophic cycle. <a href="http://www.ncbi.nlm.nih.gov/pubmed/33478394" target="_blank">Hill et al. 2021</a></li>
+      </ul>
+      <br>
+
+    <h4>Microarray</h4>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_d8579422ca"><i>Aedes aegypti</i> insecticide resistance in the dengue vector</a> &ndash;  Comparison of constitutive expression of detoxification genes between an insecticide resistant strain of <i>Aedes aegypti</i> (Vauclin strain) from Martinique Island (French Indies) and a susceptible strain (Bora-Bora strain). <a href="http://www.ncbi.nlm.nih.gov/pubmed/19857255" target="_blank">Marcombe et al. 2009</a></li>
+
+        <li><a href="/a/app/record/dataset/DS_34bdb01640"><i>Anopheles gambiae</i> Transcription regulation of sex-biased genes during ontogeny</a> &ndash;  <a href="https://pubmed.ncbi.nlm.nih.gov/21738713/" target="_blank">Magnusson et al. 2011</a></li>
+
+        <li><a href="/a/app/record/dataset/DS_17fe5cef33"><i>Anopheles coluzzii</i> Transcriptional profiling of male head - non-swarming mosquito vs swarming mosquito (probes aligned to <i>A. coluzzii</i> Ngousso)</a> &ndash;  <a href="http://www.ncbi.nlm.nih.gov/pubmed/33479155" target="_blank">Wang et al. 2011</a></li>
+
+        <li><a href="/a/app/record/dataset/DS_2e639b71f6"><i>Anopheles coluzzii</i> Transcriptional profiling of male head - non-swarming mosquito vs swarming mosquito (probes aligned to <i>A. gambiae</i> PEST)</a> &ndash;  <a href="http://www.ncbi.nlm.nih.gov/pubmed/33479155" target="_blank">Wang et al. 2011</a></li>
+      </ul>
+      <br>
+
+    <h4>Proteomics</h4>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_1fb5d00aee">Antennae and total head appendages (THAs; maxillary palps, antennae, and proboscises)</a> &ndash;  Mated but not blood-fed adult female 4–7 d old mosquitoes (i.e. host-seeking) were harvested on dry ice every 4 hr for 24 hr. Total head appendages (THAs; maxillary palps, antennae and proboscises) were pooled for proteomics. <a href="http://www.ncbi.nlm.nih.gov/pubmed/23986098" target="_blank">Rund et al. 2013</a></li>
+
+        <li><a href="/a/app/record/dataset/DS_53f4c121b1">Inmatures (larvae and pupae) and various tissues from adults (male and female)</a> &ndash;  Proteins isolated from larvae, pupae and various adult mosquito tissues from female (midgut, salivary gland, ovary, malpighian tubules, head and remaining body parts) and male (testis and male accessory glands). <a href="http://www.ncbi.nlm.nih.gov/pubmed/21795387" target="_blank">Chaerkady et al. 2011</a></li>
+      </ul>
+      <br>
    
- <h4>Population Biology</h4>
-  <p>16 projects have been added. You can use any of the Project IDs from the list below, in the Search box of the MapVEu (formerly PopBio map) tool: <a href="https://{{project}}.org/popbio-map/web/" target="_blank">https://vectorbase.org/popbio-map/web/</a></p>
-  <ul>
-      <li>Which indoor residual spraying insecticide best complements standard pyrethroid long-lasting insecticidal nets for improved control of pyrethroid resistant malaria vectors? (VBP0000739: <a href="/popbio-map/web/?projectID=VBP0000739">map</a>, 10 collections, 14 samples, 13 phenotypes, 0 genotypes)</li>
-      <li>Mosquito surveillance in Orange County, Florida, USA. 2019 (VBP0000729: <a href="/popbio-map/web/?projectID=VBP0000729">map</a>, 2786 collections, 16002 samples, 0 phenotypes, 0 genotypes)</li>
-      <li>Mosquito surveillance in Orange County, Florida, USA. 2020 (VBP0000730: <a href="/popbio-map/web/?projectID=VBP0000730">map</a>, 2570 collections, 16377 samples, 0 phenotypes, 0 genotypes)</li>
-      <li>Mosquito surveillance, Norfolk County Mosquito Control, in Massachusetts, USA, 2020 (VBP0000731: <a href="/popbio-map/web/?projectID=VBP0000731">map</a>, 1056 collections, 4707 samples, 0 phenotypes, 0 genotypes)</li>
-      <li>Mosquito surveillance in Manatee County, Florida, USA. 2003 (VBP0000732: <a href="/popbio-map/web/?projectID=VBP0000732">map</a>, 1973 collections, 9911 samples, 0 phenotypes, 0 genotypes)</li>
-      <li>Mosquito surveillance in Manatee County, Florida, USA. 2004 (VBP0000733: <a href="/popbio-map/web/?projectID=VBP0000733">map</a>, 1501 collections, 6646 samples, 0 phenotypes, 0 genotypes)</li>
-      <li>Mosquito surveillance in Manatee County, Florida, USA. 2005 (VBP0000734: <a href="/popbio-map/web/?projectID=VBP0000734">map</a>, 1880 collections, 9917 samples, 0 phenotypes, 0 genotypes)</li>
-      <li>Mosquito surveillance in Manatee County, Florida, USA. 2006 (VBP0000735: <a href="/popbio-map/web/?projectID=VBP0000735">map</a>, 1775 collections, 8242 samples, 0 phenotypes, 0 genotypes)</li>
-      <li>Mosquito surveillance, Ada County Weed, Pest, and Mosquito, in Idaho, USA, 2020 (VBP0000736: <a href="/popbio-map/web/?projectID=VBP0000736">map</a>, 1938 collections, 6750 samples, 0 phenotypes, 0 genotypes)</li>
-      <li>A study of malaria vector surveillance as part of the Malaria Elimination Demonstration Project in Mandla, Madhya Pradesh (VBP0000737: <a href="/popbio-map/web/?projectID=VBP0000737">map</a>, 3 collections, 35 samples, 14 phenotypes, 0 genotypes)</li>
-      <li>Malaria in migrant agricultural workers in western Ethiopia: entomological assessment of malaria transmission risk (VBP0000738: <a href="/popbio-map/web/?projectID=VBP0000738">map</a>, 1 collections, 6 samples, 6 phenotypes, 0 genotypes)</li>
-      <li>Mosquito abundance, Rhode Island Department of Environmental Management, in Rhode Island, USA, 2020 (VBP0000740: <a href="/popbio-map/web/?projectID=VBP0000740">map</a>, 307 collections, 1530 samples, 0 phenotypes, 0 genotypes)</li>
-      <li>2015 Mosquito surveillance from Volusia County Florida (VBP0000741: <a href="/popbio-map/web/?projectID=VBP0000741">map</a>, 2358 collections, 6159 samples, 0 phenotypes, 0 genotypes)</li>
-      <li>2016 Mosquito surveillance from Volusia County Florida (VBP0000742: <a href="/popbio-map/web/?projectID=VBP0000742">map</a>, 2662 collections, 6179 samples, 0 phenotypes, 0 genotypes)</li>
-      <li>2017 Mosquito surveillance from Volusia County Florida (VBP0000743: <a href="/popbio-map/web/?projectID=VBP0000743">map</a>, 2962 collections, 7213 samples, 0 phenotypes, 0 genotypes)</li>
-      <li>2018 Mosquito surveillance from Volusia County Florida (VBP0000744: <a href="/popbio-map/web/?projectID=VBP0000744">map</a>, 3008 collections, 7508 samples, 0 phenotypes, 0 genotypes)</li>
-  </ul>
-  <br>
+    <h4>Population Biology</h4>
+      <p>7 projects have been added and 22 porjects have been updated. . You can use any of the Project IDs from the list below, in the Search box of the MapVEu (formerly PopBio map) tool: <a href="https://{{project}}.org/popbio-map/web/" target="_blank">https://vectorbase.org/popbio-map/web/</a></p>
 
-  <p>2 projects have been updated (usually to fix minor data inconsistencies):</p>
-  <ul>
-    <li>A combination of metabolic resistance and high frequency of the 1014F kdr mutation is driving pyrethroid resistance in Anopheles coluzzii population from Guinea savanna of Cameroon (VBP0000717: <a href="/popbio-map/web/?projectID=VBP0000717">map</a>, 1 collections, 366 samples, 848 phenotypes, 308 genotypes)</li>
-    <li>Pyrethroid and Carbamate Resistance in Anopheles funestus Giles along Lake Kariba in Southern Zambia (VBP0000722: <a href="/popbio-map/web/?projectID=VBP0000722">map</a>, 6 collections, 28 samples, 28 phenotypes, 0 genotypes)</li>
-  </ul>
-</div>  
+      <p>7 projects have been added</p>
+      <ul>
+        <li>Increased prevalence of insecticide resistance in <i>Anopheles coluzzii</i> populations in the city of Yaoundé, Cameroon and influence on pyrethroid-only treated bed net efficacy (VBP0000763: <a href="/popbio-map/web/?projectID=VBP0000763">view on map</a>, 1 collections, 8 samples, 7 phenotypes, 2 genotypes)</li>
+        <li>Western Kenyan <i>Anopheles gambiae</i> showing intense permethrin resistance harbour distinct microbiota (VBP0000764: <a href="/popbio-map/web/?projectID=VBP0000764">view on map</a>, 1 collections, 2 samples, 1 phenotypes, 3 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2003 (VBP0000765: <a href="/popbio-map/web/?projectID=VBP0000765">view on map</a>, 359 collections, 3195 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Detection of kdr and ace-1 mutations in wild populations of <i>Anopheles arabiensis</i> and <i>An. melas</i> in a residual malaria transmission area of Senegal (VBP0000766: <a href="/popbio-map/web/?projectID=VBP0000766">view on map</a>, 3 collections, 15 samples, 0 phenotypes, 18 genotypes)</li>
+        <li>Mosquito surveillance in Lucas County, Ohio, USA. 2020 (VBP0000767: <a href="/popbio-map/web/?projectID=VBP0000767">view on map</a>, 2888 collections, 11473 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Mosquito surveillance in Marion County, Indiana, USA. 2020. (VBP0000768: <a href="/popbio-map/web/?projectID=VBP0000768">view on map</a>, 1462 collections, 5973 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Malaria vectors diversity, insecticide resistance and transmission during the rainy season in peri-urban villages of south-western Burkina Faso (VBP0000769: <a href="/popbio-map/web/?projectID=VBP0000769">view on map</a>, 6 collections, 22 samples, 12 phenotypes, 24 genotypes)</li>
+      </ul>
+
+
+      <p>22 projects have been updated (usually to fix minor data inconsistencies):</p>
+      <ul>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2005 (VBP0000751: <a href="/popbio-map/web/?projectID=VBP0000751">view on map</a>, 356 collections, 3546 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2006 (VBP0000752: <a href="/popbio-map/web/?projectID=VBP0000752">view on map</a>, 500 collections, 5201 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 1999 (VBP0000745: <a href="/popbio-map/web/?projectID=VBP0000745">view on map</a>, 266 collections, 2185 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2000 (VBP0000746: <a href="/popbio-map/web/?projectID=VBP0000746">view on map</a>, 366 collections, 3176 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2001 (VBP0000747: <a href="/popbio-map/web/?projectID=VBP0000747">view on map</a>, 138 collections, 968 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2002 (VBP0000748: <a href="/popbio-map/web/?projectID=VBP0000748">view on map</a>, 368 collections, 2614 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2004 (VBP0000750: <a href="/popbio-map/web/?projectID=VBP0000750">view on map</a>, 498 collections, 3876 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2007 (VBP0000753: <a href="/popbio-map/web/?projectID=VBP0000753">view on map</a>, 434 collections, 3386 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2008 (VBP0000754: <a href="/popbio-map/web/?projectID=VBP0000754">view on map</a>, 436 collections, 3918 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2009 (VBP0000755: <a href="/popbio-map/web/?projectID=VBP0000755">view on map</a>, 469 collections, 4419 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2010 (VBP0000756: <a href="/popbio-map/web/?projectID=VBP0000756">view on map</a>, 467 collections, 3788 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2011 (VBP0000757: <a href="/popbio-map/web/?projectID=VBP0000757">view on map</a>, 504 collections, 4424 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2012 (VBP0000758: <a href="/popbio-map/web/?projectID=VBP0000758">view on map</a>, 466 collections, 4031 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2014 (VBP0000760: <a href="/popbio-map/web/?projectID=VBP0000760">view on map</a>, 527 collections, 4509 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2015 (VBP0000761: <a href="/popbio-map/web/?projectID=VBP0000761">view on map</a>, 455 collections, 4419 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Maryland Dept. of Agriculture mosquito surveillance, Maryland, USA, 2013 (VBP0000759: <a href="/popbio-map/web/?projectID=VBP0000759">view on map</a>, 475 collections, 3991 samples, 0 phenotypes, 0 genotypes)</li>
+        <li>Comparative organophosphorus insecticide susceptibility in Caribbean populations of <i>Aedes aegypti</i> and <i>Toxorhynchites moctezuma</i> (VBP0000088: <a href="/popbio-map/web/?projectID=VBP0000088">view on map</a>, 6 collections, 6 samples, 60 phenotypes, 0 genotypes)</li>
+        <li>Insecticide resistance status of Aedes aegypti in 10 localities in Colombia (VBP0000127: <a href="/popbio-map/web/?projectID=VBP0000127">view on map</a>, 10 collections, 20 samples, 109 phenotypes, 0 genotypes)</li>
+        <li>Pyrethroid and organophosphates resistance in <i>Anopheles (N.) nuneztovari</i> Gabaldón populations from malaria endemic areas in Colombia (VBP0000117: <a href="/popbio-map/web/?projectID=VBP0000117">view on map</a>, 5 collections, 5 samples, 49 phenotypes, 0 genotypes)</li>
+        <li>Insecticide susceptibility of <i>Anopheles stephensi</i> to DDT and current insecticides in an elimination area in Iran. (VBP0000157: <a href="/popbio-map/web/?projectID=VBP0000157">view on map</a>, 1 collections, 11 samples, 11 phenotypes, 0 genotypes)</li>
+        <li>Malaria vectors in the Democratic Republic of the Congo: the mechanisms that confer insecticide resistance in <i>Anopheles gambiae</i> and <i>Anopheles funestus</i> (VBP0000203: <a href="/popbio-map/web/?projectID=VBP0000203">view on map</a>, 2 collections, 31 samples, 28 phenotypes, 7 genotypes)</li>
+        <li>Mosquito surveillance in Manatee County, Florida, USA. 2007 (VBP0000673: <a href="/popbio-map/web/?projectID=VBP0000673">view on map</a>, 2200 collections, 10799 samples, 0 phenotypes, 0 genotypes)</li>
+      </ul>
+  </div>  
 </section>
 
 <section>

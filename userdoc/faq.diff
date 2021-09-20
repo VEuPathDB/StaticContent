@@ -1,0 +1,187 @@
+2c2,3
+< - type: mining
+---
+> 
+> - type: general
+9c10
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_genomics_1.png"  />
+---
+>            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_genomics_1.png"  />
+12c13
+< - type: mining
+---
+> - type: general
+20c21
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_2.png"  />
+---
+>            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_2.png"  />
+23c24
+< - type: submit
+---
+> - type: general
+29c30
+< - type: mining
+---
+> - type: general
+37c38
+<             <img style="width:65em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_3.png"  />  
+---
+>             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_3.png"  />  
+40c41
+< - type: mining
+---
+> - type: general
+47c48
+<            4. Locate the species/strain that you want to transform your list of genes into and tick it
+---
+>            4. Locate the species/strain that you want to transform your list of genes, into and tick it
+51c52
+<            <img style="width:65em" style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_4.png"  />  
+---
+>            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_4.png"  />  
+54c55
+< - type: download
+---
+> - type: general
+58c59
+<            1. From the gene page of your gene of interest, select “Download Gene"
+---
+>            1. From the gene page of your gene of interest, select “Download Gene
+64c65
+<             <img style="width:55em" style="width:45em" style="width:35em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_5.png"  />  
+---
+>             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_5.png"  />  
+67c68
+< - type: download
+---
+> - type: general
+71,72c72,73
+<            1. From the gene page of your gene of interest, select “Download Gene"
+<            2. Select ”FASTA"
+---
+>            1. From the gene page of your gene of interest, select “Download Gene
+>            2. Select ”FASTA
+77c78
+<             <img style="width:65em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_6.png"  />  
+---
+>             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_6.png"  />  
+80c81
+< - type: download
+---
+> - type: general
+89c90
+<             <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_7.png"  />  
+---
+>             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_7.png"  />  
+92,93c93,94
+< - type: submit
+<   question: "How do I add a comment to a gene page?"
+---
+> - type: general
+>   question: "How do I add a comment to a gene pages?"
+100c101
+< - type: mining
+---
+> - type: general
+108c109
+<             <img style="width:45em" style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_9.png"  />  
+---
+>             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_9.png"  />  
+111c112
+< - type: citing
+---
+> - type: general
+117,119c118,120
+<            <p>Website name, website home page link, (website most recent paper), &lt; Species_name&gt; &lt; isolate/strain&gt;  &lt; Assembly and Gene set versions&gt; .</p>
+<            <p><b>Worked example for VectorBase</b>
+<            <p>For example if you want to reference your usage of the <i>Anopheles gambiae</i> AgamP4.13 genome you would use:</p>
+---
+>            <p>VectorBase, <a href="https://vectorbase.org/vectorbase/app/">vectorbase.org</a> (VectorBase most recent paper), &lt;Species_name&gt;&lt;isolate/strain&gt;  &lt;Assembly, Gene set&gt;.</p>
+>            <p><b>Worked example</b>
+>            <p>For example if you want to reference your usage of the <i>Anopheles gambiae</i> AgamP4.13 set of predictions you would use:</p>
+124c125
+< - type: citing
+---
+> - type: general
+128,133c129,134
+<            <p>Aurrecoechea, C., Barreto, A., Basenko, E. Y., Brestelli, J., Brunk, B. P., Cade, S., Crouch, K., Doherty, R., Falke, D., Fischer, S., Gajria, B., Harb, O. S., Heiges, M., Hertz-Fowler, C., Hu, S., Iodice, J., Kissinger, J. C., Lawrence, C., Li, W., Pinney, D. F., … Zheng, J. (2017). <b>EuPathDB</b>: the eukaryotic pathogen genomics database resource. Nucleic acids research, 45(D1), D581–D591. <a target=“_blank” href="https://doi.org/10.1093/nar/gkw1105">https://doi.org/10.1093/nar/gkw1105</a></p>
+<            <p>Basenko, E. Y., Pulman, J. A., Shanmugasundram, A., Harb, O. S., Crouch, K., Starns, D., Warrenfeltz, S., Aurrecoechea, C., Stoeckert, C. J., Jr, Kissinger, J. C., Roos, D. S., & Hertz-Fowler, C. (2018). <b>FungiDB</b>: An Integrated Bioinformatic Resource for Fungi and Oomycetes. Journal of fungi (Basel, Switzerland), 4(1), 39. <a target=“_blank” href="https://doi.org/10.3390/jof4010039">https://doi.org/10.3390/jof4010039</a></p>
+<            <p>Fischer, S., Brunk, B. P., Chen, F., Gao, X., Harb, O. S., Iodice, J. B., Shanmugam, D., Roos, D. S., & Stoeckert, C. J., Jr (2011). Using OrthoMCL to assign proteins to <b>OrthoMCL-DB</b> groups or to cluster proteomes into new ortholog groups. Current protocols in bioinformatics, Chapter 6, Unit–6.12.19. <a target=“_blank” href="https://doi.org/10.1002/0471250953.bi0612s35">https://doi.org/10.1002/0471250953.bi0612s35</a></p>
+<            <p>Giraldo-Calderón, G. I., Emrich, S. J., MacCallum, R. M., Maslen, G., Dialynas, E., Topalis, P., Ho, N., Gesing, S., VectorBase Consortium, Madey, G., Collins, F. H., & Lawson, D. (2015). <b>VectorBase</b>: an updated bioinformatics resource for invertebrate vectors and other organisms related with human diseases. Nucleic acids research, 43(Database issue), D707–D713. <a target=“_blank” href="https://doi.org/10.1093/nar/gku1117">https://doi.org/10.1093/nar/gku1117</a></p>
+<            <p>Oliveira, F. S., Brestelli, J., Cade, S., Zheng, J., Iodice, J., Fischer, S., Aurrecoechea, C., Kissinger, J. C., Brunk, B. P., Stoeckert, C. J., Jr, Fernandes, G. R., Roos, D. S., & Beiting, D. P. (2018). <b>MicrobiomeDB</b>: a systems biology platform for integrating, mining and analyzing microbiome experiments. Nucleic acids research, 46(D1), D684–D691. <a target=“_blank” href="https://doi.org/10.1093/nar/gkx1027">https://doi.org/10.1093/nar/gkx1027</a></p>
+<            <p>Ruhamyankaka, E., Brunk, B. P., Dorsey, G., Harb, O. S., Helb, D. A., Judkins, J., Kissinger, J. C., Lindsay, B., Roos, D. S., San, E. J., Stoeckert, C. J., Zheng, J., & Tomko, S. S. (2020). <b>ClinEpiDB</b>: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. Gates open research, 3, 1661. <a target=“_blank” href="https://doi.org/10.12688/gatesopenres.13087.2">https://doi.org/10.12688/gatesopenres.13087.2</a></p>
+---
+>            <p>Aurrecoechea, C., Barreto, A., Basenko, E. Y., Brestelli, J., Brunk, B. P., Cade, S., Crouch, K., Doherty, R., Falke, D., Fischer, S., Gajria, B., Harb, O. S., Heiges, M., Hertz-Fowler, C., Hu, S., Iodice, J., Kissinger, J. C., Lawrence, C., Li, W., Pinney, D. F., … Zheng, J. (2017). <b>EuPathDB</b>: the eukaryotic pathogen genomics database resource. Nucleic acids research, 45(D1), D581–D591. <a href="https://doi.org/10.1093/nar/gkw1105">https://doi.org/10.1093/nar/gkw1105</a></p>
+>            <p>Basenko, E. Y., Pulman, J. A., Shanmugasundram, A., Harb, O. S., Crouch, K., Starns, D., Warrenfeltz, S., Aurrecoechea, C., Stoeckert, C. J., Jr, Kissinger, J. C., Roos, D. S., & Hertz-Fowler, C. (2018). <b>FungiDB</b>: An Integrated Bioinformatic Resource for Fungi and Oomycetes. Journal of fungi (Basel, Switzerland), 4(1), 39. <a href="https://doi.org/10.3390/jof4010039">https://doi.org/10.3390/jof4010039</a></p>
+>            <p>Fischer, S., Brunk, B. P., Chen, F., Gao, X., Harb, O. S., Iodice, J. B., Shanmugam, D., Roos, D. S., & Stoeckert, C. J., Jr (2011). Using OrthoMCL to assign proteins to <b>OrthoMCL-DB</b> groups or to cluster proteomes into new ortholog groups. Current protocols in bioinformatics, Chapter 6, Unit–6.12.19. <a href="https://doi.org/10.1002/0471250953.bi0612s35">https://doi.org/10.1002/0471250953.bi0612s35</a></p>
+>            <p>Giraldo-Calderón, G. I., Emrich, S. J., MacCallum, R. M., Maslen, G., Dialynas, E., Topalis, P., Ho, N., Gesing, S., VectorBase Consortium, Madey, G., Collins, F. H., & Lawson, D. (2015). <b>VectorBase</b>: an updated bioinformatics resource for invertebrate vectors and other organisms related with human diseases. Nucleic acids research, 43(Database issue), D707–D713. <a href="https://doi.org/10.1093/nar/gku1117">https://doi.org/10.1093/nar/gku1117</a></p>
+>            <p>Oliveira, F. S., Brestelli, J., Cade, S., Zheng, J., Iodice, J., Fischer, S., Aurrecoechea, C., Kissinger, J. C., Brunk, B. P., Stoeckert, C. J., Jr, Fernandes, G. R., Roos, D. S., & Beiting, D. P. (2018). <b>MicrobiomeDB</b>: a systems biology platform for integrating, mining and analyzing microbiome experiments. Nucleic acids research, 46(D1), D684–D691. <a href="https://doi.org/10.1093/nar/gkx1027">https://doi.org/10.1093/nar/gkx1027</a></p>
+>            <p>Ruhamyankaka, E., Brunk, B. P., Dorsey, G., Harb, O. S., Helb, D. A., Judkins, J., Kissinger, J. C., Lindsay, B., Roos, D. S., San, E. J., Stoeckert, C. J., Zheng, J., & Tomko, S. S. (2020). <b>ClinEpiDB</b>: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. Gates open research, 3, 1661. <a href="https://doi.org/10.12688/gatesopenres.13087.2">https://doi.org/10.12688/gatesopenres.13087.2</a></p>
+137,138c138,139
+< - type: citing
+<   question: "How to reference a MapVEu (formerly PopBio) project ID, VBP*?"
+---
+> - type: general
+>   question: "How to reference a MapVEu (formely PopBio) project ID, VBP*?"
+142c143
+<             <img style="width:50em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/picture_genomics_13.png"  />
+---
+>             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/picture_genomics_13.png"  />
+144c145
+<            Gloria-Soria, A., Lima, A., Lovin, D. D., Cunningham, J. M., Severson, D. W., & Powell, J. R. (2018). Origin of a High-Latitude Population of <i>Aedes aegypti</i> in Washington, DC. The American journal of tropical medicine and hygiene, 98(2), 445–452. <a target="_blank" href="https://doi.org/10.4269/ajtmh.17-0676">https://doi.org/10.4269/ajtmh.17-0676</a>
+---
+>            Gloria-Soria, A., Lima, A., Lovin, D. D., Cunningham, J. M., Severson, D. W., & Powell, J. R. (2018). Origin of a High-Latitude Population of <i>Aedes aegypti</i> in Washington, DC. The American journal of tropical medicine and hygiene, 98(2), 445–452. <a href="https://doi.org/10.4269/ajtmh.17-0676">https://doi.org/10.4269/ajtmh.17-0676</a>
+147,153c148
+< - type: citing
+<   question: "How to cite a gene? (We recommend gene stable ID, metadata and location)"
+<   answer: |
+<            Gene metadata are the gene name or symbol and the gene functional description. The gene stable IDs are, not only stable (as implied by their name), also easier to work with, as you can upload them in GLORIA WORK IN PROFGRESS ...
+<   uid: g14
+<   projects: "DONOTSHOW"
+< - type: download
+---
+> - type: general
+162c157
+<             <img style="width:55em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/genomics_faq_14.png"  />
+---
+>             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/genomics_faq_14.png"  />
+165c160
+< - type: others
+---
+> - type: general
+173c168
+<             <img style="width:55em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/restrictionsite_faq.png"  />
+---
+>             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/restrictionsite_faq.png"  />
+176c171
+< - type: others
+---
+> - type: general
+189c184
+<             <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_17.png"  />
+---
+>             <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_17.png"  />
+197,219d191
+< - type: general
+<   question: "How do I select my organism preferences on UniDB?"
+<   answer: |
+<            1. Click "My organism preferences" on the homepage. Once clicking on this you will be reminded your preferences can be disabled at any time whilst using the website
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_20.png"  />
+<            2. Filter for your organism of interest using the search box. You can also you the buttons 'add these', 'clear these', 'select only these', 'select all', 'clear all', to aid your search
+<            3. Click "Apply"
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_21.png"  />
+<            4. You will now see your selected organisms in the "My organism preference list" on the right of the page 
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_22.png"  />
+<   uid: organismpreferences
+<   projects: ""
+< - type: apollo
+<   question: "What can I do if a gene model is incorrect or missing?"
+<   answer: |
+<            1. Go to the gene record page of your gene of interest. In case of a missing gene, choose the gene  record page of a neighbouring gene. 
+<            2. There are two options. Option 1 is to add a user comment. Select “Add the first user comment”.  To add a user comment you need to be logged in.  
+<            3. In the user comment window provide details about the incorrect/missing gene. The comment  will be displayed on the gene record page after you’ve submitted it.  
+<            4. The second option is to correct the gene model in Apollo. To do so, click on the “View and  update community annotations in Apollo” link on the gene record page.  
+<            5. You need to be logged in to VEuPathDB to use Apollo. If you want to correct a gene model in  Apollo follow the steps in the tutorials and FAQs on the [Apollo page](/a/app/static-content/apollo_help.html). Some organisms are currently unavailable in Apollo. You can request these organisms to be available for curation, [click here to contact us](/a/app/contact-us).
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo1.png"  />
+<   uid: apollo1
+<   projects: ""

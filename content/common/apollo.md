@@ -37,15 +37,17 @@ div.centered-button a {
     <div>
       <p>
       Use Apollo to integrate new or update current structural and functional data, for gene models in the organisms available in <a href="https://veupathdb.org/veupathdb/app/search/organism/GenomeDataTypes/result">VEuPathDB</a>. 
-Organisms in AmoebaDB, CryptoDB, FungiDB, GiardiaDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB & VectorBase are available for community curation.</p>
+Organisms in 
+AmoebaDB, FungiDB, PiroplasmaDB, PlasmoDB, ToxoDB, TriTrypDB & VectorBase 
+are available for community curation.</p>
 <p>
-We are currently in the process of a long term project updating our genome annotations which will mean some organisms are currently unavailable in Apollo. However, you can request these organisms to be available for curation by emailing our team at help@veupathdb.org for more information.</p>
+We are currently in the process of a long term project to update our genome annotation which will mean some organisms are currently unavailable in Apollo. However, you can request these organisms to be available for curation by emailing our team at help@veupathdb.org for more information.</p>
       
 <p>Apollo help and documentation:
 <ul> 
- <li>A <a href="https://apollo-sandbox.veupathdb.org/annotator/index">sandbox (Login required)</a> is available for you to get familiar with all Apollo menus, tools, and tracks before you decide to use it for your real gene manual annotations. These changes will not affect any of the organism's official gene set, neither will be preserved.</li>
-  <li>Comprehensive webinar to learn <a href="https://youtu.be/RMXZDBMh8Fo">how to use Apollo</a> (57:40 min)</li>
-  <li><a href="/a/app/static-content/apolloQuickCommands.html">Quick commands</a></li> 
+ <li>A "play" Apollo site, e.g., a <a href="https://apollo-sandbox.veupathdb.org/annotator/index">sandbox (Login required)</a> is available for you to experiment and get familiar with all Apollo menus, tools, and tracks before you decide to use it for your real gene manual annotations. These changes will not affect any of the organism's official gene set, neither will be preserved.</li>
+  <li>A comprehensive webinar recording to learn <a href="https://youtu.be/RMXZDBMh8Fo">how to use Apollo</a> (57:40 min)</li>
+  <li>A description of <a href="/a/app/static-content/apolloQuickCommands.html">quick commands</a> (Apollo now has the BLAT tool!)</li> 
   <li><a href="{{'/documents/Apollo_functional_annotation_03_06_2021.pdf' | absolute_url}}">Functional annotation tutorial </a> </li>
   <li><a href="{{'/documents/Apollo_structural_annotation_14_06_2021.pdf' | absolute_url}}">Structural annotation tutorial </a> </li>
   <li><a href="{{'/documents/FAQ_Apollo_18_06_2021.pdf' | absolute_url}}">Frequently Asked Questions </a> </li>
