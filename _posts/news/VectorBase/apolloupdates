@@ -14,3 +14,5 @@ category: [VectorBase,VEuPathDB]
   
 <p>The first VEuPathDB community annotation integration with Glossina morsitans was scheduled for Release 54 (September 2021), we incorporated over 600 changes and over two thirds were attributed to Billiah Bwana from the Kenya Agricultural and Livestock Research Organisation (KALRO). Billiah has not only improved many gene models but also added extra functional annotation that will be included in the next release. A breakdown of the changes and the data incorporated are attached here.
 There are over 400 models that need to be pass further quality control steps before being integrated into VEuPathDB. So please watch this space for details in the future.</p>
+
+<img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_2.png"  />
