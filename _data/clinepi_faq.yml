@@ -82,7 +82,7 @@
 - type: general
   question: "How do I determine an appropriate data access level for my study?"
   answer: |
-           There are currently 5 possible data access levels (public, controlled, protected, private, and prerelease). See the [Data Access and Use Policy](/a/app/static-content/ClinEpiDB/access_and_use.html){:target='_blank'} to learn more about the restrictions of each level.
+           There are currently 5 possible data access levels (public, controlled, protected, private, and prerelease). See the [Data Access and Use Policy](/a/app/static-content/ClinEpiDB/access_and_use.html){:target='_blank'} to learn more about the restrictions of each level. <br>
            <img style="width:45em" src="https://qa.static-content.veupathdb.org/assets/images/ClinEpiDataAccessFlowChart.png"/>
   uid: g9
   projects: "ClinEpiDB,AllClinEpiDB"
