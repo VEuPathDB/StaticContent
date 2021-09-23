@@ -80,9 +80,10 @@
   uid: g8
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "What are the study accessibility levels?"
+  question: "How do I determine an appropriate data access level for my study?"
   answer: |
            There are currently 5 possible data access levels (public, controlled, protected, private, and prerelease). See the [Data Access and Use Policy](/a/app/static-content/ClinEpiDB/access_and_use.html){:target='_blank'} to learn more about the restrictions of each level.
+           <img src="/documents/ClinEpiDataAccessFlowChart.png" alt="ClinEpiDB Data Access Flow Chart" width="500" height="600">
   uid: g9
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
