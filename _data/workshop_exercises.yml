@@ -88,6 +88,14 @@ cards:
       - name: Metabolic Pathways
         path: Metabolic-Pathways.pdf
         description:
+  - card: My Organism Preferences
+    description: Exploring My Organism Preferences
+    date: 2021/09/28
+    include: UniDB
+    links:
+      - name: My Organsim Preferences
+        path: 28Sep2021_My-organism-preferences.pdf
+        description:        
   - card: Orthology Phyletic Patterns
     description: Leverage the transform by orthology tool, orthology tables on gene pages, OrthoMCL, and the phyletic pattern search 
     date: 2020/10/28
@@ -155,7 +163,7 @@ cards:
     links:
       - name: ''
         path: ''
-        description:
+        description:     
  # - card: RNA Sequencing Data Analysis
  #   description: Analyze your RNA experiments using a workflow in VEuPathDB Galaxy and import the results back here.
  #   links:
