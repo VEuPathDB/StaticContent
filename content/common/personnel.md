@@ -22,7 +22,7 @@ Steve Fischer, Software and Infrastructure Manager<br>
 Paul Flicek, Co-I, NIAID BRC Contract<br>
 Omar Harb, Director of Scientific Outreach & Education<br>
 Andy Jones, Wellcome Trust PI; Co-I NIAID BRC Contract <br>
-Jessica C Kissinger, Joint-PI, NIAID BRC Contract; WT Co-PI<br>
+Jessica C Kissinger, Co-I, NIAID BRC Contract; WT Co-PI<br>
 Wei Li, Data Loading Manager<br>
 Gareth Maslen, EBI Data Processing Manager<br>
 Mary Ann McDowell, Joint-PI, NIAID BRC Contract<br>
