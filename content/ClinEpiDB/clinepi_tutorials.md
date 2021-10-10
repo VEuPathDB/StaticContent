@@ -39,7 +39,7 @@ tags: [tutorial]
 </div>
 
 <div id="clinepi-exercises">
-  <details>
+  <details open>
     <summary class="h2">Exercises</summary>
     <ul>
       {% for item in site.data.clinepi_tutorials %}

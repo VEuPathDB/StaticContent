@@ -9,7 +9,8 @@ tags: [resources]
 <h1 id="external-resources">External Resources</h1>
 
 <div id="clinepi-education-training">
-  <h2>Education and Training</h2>
+  <details open>
+    <summary class="h2">Education and Training</summary>
 <ul>
   {% for item in site.data.clinepi_tutorials %}
   {% if item.type == "resource" and  item.subtype == "education" %}
@@ -19,10 +20,12 @@ tags: [resources]
   {% endif %}
   {% unless forloop.last %}{% endunless %}{% endfor %}
 </ul>
+ </details>
 </div>
 
 <div id="clinepi-data-management">
-  <h2>Data Management</h2>
+  <details open>
+    <summary class="h2">Data Management</summary>
 <ul>
   {% for item in site.data.clinepi_tutorials %}
   {% if item.type == "resource" and  item.subtype == "management" %}
@@ -31,10 +34,12 @@ tags: [resources]
   {% endif %}
   {% unless forloop.last %}{% endunless %}{% endfor %}
 </ul>
+  </details>
 </div>
 
 <div id="clinepi-data-viz">
-  <h2>Data Visualization, Analysis, Modeling, and Simulations</h2>
+  <details open>
+    <summary class="h2">Data Visualization, Analysis, Modeling, and Simulations</summary>
 <ul>
   {% for item in site.data.clinepi_tutorials %}
   {% if item.type == "resource" and  item.subtype == "visualization" %}
@@ -43,10 +48,12 @@ tags: [resources]
   {% endif %}
   {% unless forloop.last %}{% endunless %}{% endfor %}
 </ul>
+  </details>
 </div>
 
 <div id="clinepi-data-repos">
-  <h2>Data Repositories</h2>
+  <details open>
+    <summary class="h2">Data Repositories</summary>
 <ul>
   {% for item in site.data.clinepi_tutorials %}
   {% if item.type == "resource" and  item.subtype == "repository" %}
@@ -55,8 +62,8 @@ tags: [resources]
   {% endif %}
   {% unless forloop.last %}{% endunless %}{% endfor %}
 </ul>
-<br>
-<br>
-<br>
+  </details>
 </div>
+
+<br><br><br>
 </div>
