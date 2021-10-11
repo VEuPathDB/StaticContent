@@ -7,16 +7,15 @@ tags: [general]
 <div id="ce-static-content">
 
   <h1>Features coming soon</h1>
-   <p>
+   <p style="font-size:130%">
     We are constantly working to make ClinEpiDB an intuitive and useful data exploration platform. The features listed below are scheduled for future releases of ClinEpiDB. <i>Note: ClinEpiDB is a dynamic project and this feature list is subject to change.</i>
     Have an idea and don’t see it listed here? Please <a href="https://clinepidb.org/ce/app/contact-us">Contact Us.</a>
     To stay up to date on ClinEpiDB releases, sign up for our newsletter by updating your account preferences.
   </p>
   
-<div><!-- Feature List-->
+  <!-- Feature List-->
   <h2 id="DerivedVariables">Derived variables</h2>
     <div>
-      <p>
       <ul>
       <li>Recode a categorical variable</li>
       <li>Convert a continuous variable into a categorical variable</li>
@@ -24,23 +23,19 @@ tags: [general]
       <li>Aggregate data from Participant to Household level</li>
       <li>Convert between units</li>
       </ul>
-      </p>
     </div>
 
   <h2 id="AdvancedSubsetting">Advanced subsetting infrastructure</h2>
     <div>
-      <p>
       <ul>
       <li>Perform boolean operations (find the intersection, union, or difference) for two data subsets</li>
       <li>Identify repeated measures that occurred within a specific time frame relative to another measure (e.g. all visits where a child had Shigella at least 7 days before having diarrhea)</li>
       <li>Identify matched cases or controls for a case-control study </li>
       </ul>
-      </p>
     </div>
 
   <h2 id="Visualizations">Visualizations</h2>
     <div>
-      <p>
       <ul>
       <li>Faceting - split one plot into multiple based on a categorical variable, with one plot for each type of value</li>
       <li>Marginal boxplots on histograms - enhance the view of the distribution</li>
@@ -53,7 +48,6 @@ tags: [general]
       <li>Violin plot tool - combine features of a box plot and density plot</li>
       <li>Missingness tool - see patterns of missing data with a suite of plots including upset plot and heatmap</li>
       </ul>
-      </p>
     </div>
 
   <h2 id="PublicAnalyses">Public analyses</h2>
@@ -71,7 +65,7 @@ tags: [general]
     </div>
 
   <h2 id="SiteSearch">Site Search</h2>
-  <div><!-- SiteSearch-->
+    <div><!-- SiteSearch-->
     <p>
     Search ClinEpiDB and find studies containing variables of interest to you
     </p>
@@ -83,6 +77,7 @@ tags: [general]
     Search for participants that have both epidemiological data in ClinEpiDB and microbiome data in our sister site MicrobiomeDB
     </p>
   </div><!-- END Cross Silo Search-->
-</div><!-- END Feature List-->
+
+  <!-- END Feature List-->
 
 </div>
