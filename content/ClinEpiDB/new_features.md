@@ -7,20 +7,25 @@ tags: [general]
 <div id="ce-static-content">
   <h1>Features coming soon</h1>
 <p>
+
+We are constantly working to make ClinEpiDB an intuitive and useful data exploration platform. The features and studies listed below are scheduled for future releases of ClinEpiDB. <i>Note: ClinEpiDB is a dynamic project and this feature list is subject to change.</i>
+<br>
+Have an idea and don’t see it listed here? Please <a href="https://clinepidb.org/ce/app/contact-us">Contact Us.</a> .
+<br>
 The features and studies listed below are scheduled for future releases of ClinEpiDB. Have an idea and don’t see it listed here? Please <a href="https://clinepidb.org/ce/app/contact-us">Contact Us.</a> We are constantly working to make ClinEpiDB an intuitive and useful data exploration platform.
 <br>
 To stay up to date on ClinEpiDB releases, sign up for our newsletter by updating your account preferences.
 </p>
-
+<br>
 <div>
-  <h2 id="DerivedVariables">Derved variables</h2>
+  <h2 id="DerivedVariables">Derived variables</h2>
     <div>
       <p>
       <ul>
       <li>Recode a categorical variable</li>
       <li>Convert a continuous variable into a categorical variable</li>
       <li>Perform arithmetic operations on continuous variables</li>
-      <li>Perform aggregate functions to reduce continuous variable up a level</li>
+      <li>Aggregate data from Participant to Household level</li>
       <li>Convert between units</li>
       </ul>
       </p>
@@ -42,10 +47,10 @@ To stay up to date on ClinEpiDB releases, sign up for our newsletter by updating
       <p>
       <ul>
       <li>Faceting - split one plot into multiple based on a categorical variable, with one plot for each type of value</li>
-      <li>Marginal boxplots on histograms - for an enhanced view of the distribution</li>
+      <li>Marginal boxplots on histograms - enhance the view of the distribution</li>
       <li>Time series tool - plot data over time</li>
       <li>Map tool - view data geographically</li>
-      <li>Correlation matrix tool - to highlight the most correlated variables </li>
+      <li>Correlation matrix tool - highlight the most correlated variables</li>
       <li>General heatmap tool - view data in a semi-quantitative way</li>
       <li>Longitudinal heatmap tool - visualize longitudinal patterns</li>
       <li>Density plot tool -plot distribution of a numeric variable</li>
@@ -58,46 +63,28 @@ To stay up to date on ClinEpiDB releases, sign up for our newsletter by updating
   <h2 id="PublicAnalyses">Public analyses</h2>
     <div>
     <p>
-    Save your analyses and make them publicly accessible.
+    Save your analyses and make them publicly accessible
     </p>
     </div>
   
   <h2 id="DIY">DIY workspace</h2>
   <div>
     <p>
-    Upload your own data and explore it using the visualization tools.
+    Upload your own data and explore it using the visualization tools
     </p>
   </div>
 
   <h2 id="SiteSearch">Site Search</h2>
   <div>
   <p>
-  Search ClinEpiDB and find studies containing variables of interest to you.
+  Search ClinEpiDB and find studies containing variables of interest to you
   </p>
   </div>
 
   <h2 id="Cross-siloSearch">Cross-silo search</h2>
   <div>
     <p>
-    Search for participants that have both epidemiological data in ClinEpiDB and microbiome data in our sister site MicrobiomeDB.
+    Search for participants that have both epidemiological data in ClinEpiDB and microbiome data in our sister site MicrobiomeDB
     </p>
     </div>
-
-  <i>Note: ClinEpiDB is a dynamic project and this feature list is subject to change. </i>
-</div>
-<br>
-<div>
-  <h2 id="NewStudies">Studies coming soon</h2>
-    <div>
-      <p>
-      <ul>
-      <li>India ICEMR DAMaN Quasi-experimental Stepped-wedge</li>
-      <li>LAKANA Cluster Randomized Trial</li>
-      <li>Namibia rfMDA RAVC Cluster Randomized Trial</li>
-      <li>PERCH Case Control</li>
-      </ul>
-      </p>
-    </div>
-  </div>
-
 </div>
