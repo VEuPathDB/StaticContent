@@ -6,9 +6,8 @@ tags: [general]
 ---
 <div id="ce-static-content">
 
-<div>
 <h1>Features coming soon</h1>
-    <div>
+<div>
     <p>
     We are constantly working to make ClinEpiDB an intuitive and useful data exploration platform.
     <br>
@@ -24,7 +23,7 @@ tags: [general]
     <p>
     To stay up to date on ClinEpiDB releases, sign up for our newsletter by updating your account preferences.
     </p>
-    </div>
+</div>
 </div>
 <div>
   <h2 id="DerivedVariables">Derived variables</h2>
