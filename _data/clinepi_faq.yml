@@ -2,8 +2,8 @@
 - type: general
   question: "Introductory tour"
   answer: |
-           The video below provides a short overview of the major features of ClinEpiDB. You can 
-           also find tutorials, workshop exercises, and additional resources on our 
+           The video below provides a short overview of the major features of ClinEpiDB. You can
+           also find tutorials, workshop exercises, and additional resources on our
            [Resources](/a/app/static-content/ClinEpiDB/resources.html){:target='_blank'} page.
            <iframe style="margin-left:3em;margin-top:1em;" width="560" height="315" src="https://www.youtube.com/embed/535PcFrBH8M"></iframe>
   uid: g1
@@ -15,37 +15,37 @@
 
            > Ruhamyankaka E, Brunk BP, Dorsey G *et al.* ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. [version 1; peer review: 2 approved]. *Gates Open Res* 2019, 3:1661 (<https://doi.org/10.12688/gatesopenres.13087.2>{:target='_blank'})
 
-           When citing a dataset that you accessed via ClinEpiDB, please include the dataset authors, 
-           study name, date of release and release number on ClinEpiDB, study page URL, and the fact that 
+           When citing a dataset that you accessed via ClinEpiDB, please include the dataset authors,
+           study name, date of release and release number on ClinEpiDB, study page URL, and the fact that
            the data came from ClinEpiDB. For example, the citation for the PRISM Cohort study would be:
 
            > Dorsey G, Kamya M, Greenhouse B, *et al.* Study: PRISM Cohort. *ClinEpiDB*. 2018, 5 (<https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e>{:target='_blank'})
 
-           You can find the information on the study page by clicking the study name on the homepage 
-           or on the dropdown 'Search a study' menu. The study name, release number, and release date 
-           are at the top of the page, while authors are listed in the 'Principal Investigator and 
-           Collaborators' table at the bottom of the page. You can also find links to original study 
+           You can find the information on the study page by clicking the study name on the homepage
+           or on the dropdown 'Search a study' menu. The study name, release number, and release date
+           are at the top of the page, while authors are listed in the 'Principal Investigator and
+           Collaborators' table at the bottom of the page. You can also find links to original study
            publications, which you may want to cite.
   uid: g2
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
   question: "Can I use ClinEpiDB to analyze my own data?"
   answer: |
-           ClinEpiDB does not allow you to upload and analyze your own data. However, you can 
-           [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about having your own 
+           ClinEpiDB does not allow you to upload and analyze your own data. However, you can
+           [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about having your own
            data loaded into the site.
   uid: g3
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
   question: "How do I submit data?"
   answer: |
-           To start, you should [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about 
-           having your data loaded into ClinEpiDB. Tell us about the study objectives and design, 
-           the size of the dataset, types of variables, and your funding source. Then, check out our 
-           [Data Submission Guidelines](/documents/ClinEpiDBDatasetGuidelinesforDataProviders.pdf){:target='_blank'} 
-           to learn more about how to prepare your data for us and what additional files we need. 
-           If we are able to integrate your data, we'll give you access to a secure Box folder where 
-           you can upload your data and accompanying files. 
+           To start, you should [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about
+           having your data loaded into ClinEpiDB. Tell us about the study objectives and design,
+           the size of the dataset, types of variables, and your funding source. Then, check out our
+           [Data Submission Guidelines](/documents/ClinEpiDBDatasetGuidelinesforDataProviders.pdf){:target='_blank'}
+           to learn more about how to prepare your data for us and what additional files we need.
+           If we are able to integrate your data, we'll give you access to a secure Box folder where
+           you can upload your data and accompanying files.
   uid: g4
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
@@ -67,7 +67,7 @@
 - type: general
   question: "Can I access the code used for ClinEpiDB?"
   answer: |
-           Yes! Our code is maintained using [Git](https://github.com/VEuPathDB?utf8=%E2%9C%93&q=ClinEpi&type=&language=){:target='_blank'}, 
+           Yes! Our code is maintained using [Git](https://github.com/VEuPathDB?utf8=%E2%9C%93&q=ClinEpi&type=&language=){:target='_blank'},
            and we welcome input from the community. For instance, check out our [Shiny app scripts](https://github.com/VEuPathDB/ClinEpiWebsite/tree/master/View/lib/R/shiny/apps){:target='_blank'}.
   uid: g7
   projects: "ClinEpiDB,AllClinEpiDB"
@@ -82,7 +82,7 @@
 - type: general
   question: "How do I determine an appropriate data access level for my study?"
   answer: |
-           There are currently 5 possible data access levels (public, controlled, protected, private, and prerelease). See the [Data Access and Use Policy](/a/app/static-content/ClinEpiDB/access_and_use.html){:target='_blank'} to learn more about the restrictions of each level. <br>
+          Data providers decide on the data access level for their study. There are currently 5 possible data access levels (public, controlled, protected, private, and prerelease). See the [Data Access and Use Policy](/a/app/static-content/ClinEpiDB/access_and_use.html){:target='_blank'} to learn more about the restrictions of each level. <br>
            <img style="width:45em" src="https://qa.static-content.veupathdb.org/assets/images/ClinEpiDataAccessFlowChart.png"/>
   uid: g9
   projects: "ClinEpiDB,AllClinEpiDB"
@@ -106,8 +106,8 @@
            3. A green text box should appear, indicating successful registration
            4. Check your email to retrieve your temporary password
 
-           Note: You only need one account for all VEuPathDB websites. This means that if you have 
-           an account for other VEuPathDB resources such as PlasmoDB or MicrobiomeDB, you can log 
+           Note: You only need one account for all VEuPathDB websites. This means that if you have
+           an account for other VEuPathDB resources such as PlasmoDB or MicrobiomeDB, you can log
            into ClinEpiDB with those credentials and vice versa.
   uid: u1
   projects: "ClinEpiDB,AllClinEpiDB"
@@ -124,8 +124,8 @@
 - type: using_site
   question: "Find a variable within a study"
   answer: |
-           1. Start a search for your study of interest 
-           2. Type into the search box at the top of the page. A drop down will apear listing 
+           1. Start a search for your study of interest
+           2. Type into the search box at the top of the page. A drop down will apear listing
            all variables that include your keyword in the label, description, or values
            3. Click a variable to jump directly to its data
            <iframe style="margin-left:3em;margin-top:3em;" width="560" height="315" src="https://www.youtube.com/embed/nU0cWYyf62E"></iframe>
