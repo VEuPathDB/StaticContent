@@ -5,6 +5,7 @@ permalink: /ClinEpiDB/newfeatures
 tags: [general]
 ---
 <div id="ce-static-content">
+
 <div>
 <h1>Features coming soon</h1>
     <div>
@@ -17,13 +18,14 @@ tags: [general]
     <p>
     <i>Note: ClinEpiDB is a dynamic project and this feature list is subject to change.</i>
     </p>
+    <p>
     Have an idea and don’t see it listed here? Please <a href="https://clinepidb.org/ce/app/contact-us">Contact Us.</a> .
     </p>
     <p>
     To stay up to date on ClinEpiDB releases, sign up for our newsletter by updating your account preferences.
     </p>
     </div>
-
+</div>
 <div>
   <h2 id="DerivedVariables">Derived variables</h2>
     <div>
