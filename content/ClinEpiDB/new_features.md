@@ -82,7 +82,7 @@ To stay up to date on ClinEpiDB releases, sign up for our newsletter by updating
     Search for participants that have both epidemiological data in ClinEpiDB and microbiome data in our sister site MicrobiomeDB.
     </p>
     </div>
-  <br>
+
   <i>Note: ClinEpiDB is a dynamic project and this feature list is subject to change. </i>
 </div>
 <br>
