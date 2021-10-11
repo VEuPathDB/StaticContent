@@ -4,7 +4,7 @@ layout: null
 permalink: /ClinEpiDB/newfeatures
 tags: [general]
 ---
-<div id="ce-static-content">
+<div id="ce-static-content"></div>
 
 <h1>Features coming soon</h1>
   <div>
@@ -25,7 +25,7 @@ tags: [general]
     </p>
   </div>
   
-<div>
+<div><!-- Feature List-->
   <h2 id="DerivedVariables">Derived variables</h2>
     <div>
       <p>
@@ -39,7 +39,7 @@ tags: [general]
       </p>
     </div>
 
-   <h2 id="AdvancedSubsetting">Advanced subsetting infrastructure</h2>
+  <h2 id="AdvancedSubsetting">Advanced subsetting infrastructure</h2>
     <div>
       <p>
       <ul>
@@ -50,7 +50,7 @@ tags: [general]
       </p>
     </div>
 
- <h2 id="Visualizations">Visualizations</h2>
+  <h2 id="Visualizations">Visualizations</h2>
     <div>
       <p>
       <ul>
@@ -70,30 +70,29 @@ tags: [general]
 
   <h2 id="PublicAnalyses">Public analyses</h2>
     <div>
-    <p>
-    Save your analyses and make them publicly accessible
-    </p>
+      <p>
+      Save your analyses and make them publicly accessible
+      </p>
     </div>
   
   <h2 id="DIY">DIY workspace</h2>
-  <div>
-    <p>
-    Upload your own data and explore it using the visualization tools
-    </p>
-  </div>
+    <div>
+      <p>
+      Upload your own data and explore it using the visualization tools
+      </p>
+    </div>
 
   <h2 id="SiteSearch">Site Search</h2>
-  <div>
-  <p>
-  Search ClinEpiDB and find studies containing variables of interest to you
-  </p>
-  </div>
+  <div><!-- SiteSearch-->
+    <p>
+    Search ClinEpiDB and find studies containing variables of interest to you
+    </p>
+  </div><!-- END SiteSearch-->
 
   <h2 id="Cross-siloSearch">Cross-silo search</h2>
-  <div>
+  <div><!-- Cross Silo Search-->
     <p>
     Search for participants that have both epidemiological data in ClinEpiDB and microbiome data in our sister site MicrobiomeDB
     </p>
-    </div>
-</div>
-</div>
+  </div><!-- END Cross Silo Search-->
+</div><!-- END Feature List-->
