@@ -29,7 +29,7 @@
 - type: mining
   question: "How do I do an enrichment analysis on a list of genes by GO term or metabolic pathway?"
   answer: |
-           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
+           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest)
            1. click “Analyze results"
            This will give you the option to run a variety of analyses on your list of genes
            See the following worksheet to learn more: [GO enrichment](https://static-content.veupathdb.org/documents/GO-Enrichment.pdf)
