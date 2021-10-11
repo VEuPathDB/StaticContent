@@ -4,7 +4,7 @@ layout: null
 permalink: /ClinEpiDB/newfeatures
 tags: [general]
 ---
-<div id="ce-static-content"></div>
+<div id="ce-static-content">
 
   <h1>Features coming soon</h1>
    <p>
@@ -84,3 +84,5 @@ tags: [general]
     </p>
   </div><!-- END Cross Silo Search-->
 </div><!-- END Feature List-->
+
+</div>
