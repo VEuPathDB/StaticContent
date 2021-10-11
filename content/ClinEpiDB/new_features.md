@@ -5,9 +5,11 @@ permalink: /ClinEpiDB/newfeatures
 tags: [general]
 ---
 <div id="ce-static-content">
+<div>
   <h1>Features coming soon</h1>
 <p>
-We are constantly working to make ClinEpiDB an intuitive and useful data exploration platform. The features and studies listed below are
+We are constantly working to make ClinEpiDB an intuitive and useful data exploration platform. 
+The features and studies listed below are
 scheduled for future releases of ClinEpiDB. 
 <br>
 <i>Note: ClinEpiDB is a dynamic project and this feature list is subject to change.</i>
@@ -19,7 +21,7 @@ Have an idea and don’t see it listed here? Please <a href="https://clinepidb.o
 <p>
 To stay up to date on ClinEpiDB releases, sign up for our newsletter by updating your account preferences.
 </p>
-<br>
+</div>
 <div>
   <h2 id="DerivedVariables">Derived variables</h2>
     <div>
