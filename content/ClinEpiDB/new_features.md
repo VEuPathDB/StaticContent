@@ -7,7 +7,7 @@ tags: [general]
 <div id="ce-static-content">
 
 <h1>Features coming soon</h1>
-<div>
+  <div>
     <p>
     We are constantly working to make ClinEpiDB an intuitive and useful data exploration platform.
     <br>
@@ -23,8 +23,8 @@ tags: [general]
     <p>
     To stay up to date on ClinEpiDB releases, sign up for our newsletter by updating your account preferences.
     </p>
-</div>
-</div>
+  </div>
+  
 <div>
   <h2 id="DerivedVariables">Derived variables</h2>
     <div>
@@ -95,4 +95,5 @@ tags: [general]
     Search for participants that have both epidemiological data in ClinEpiDB and microbiome data in our sister site MicrobiomeDB
     </p>
     </div>
+</div>
 </div>
