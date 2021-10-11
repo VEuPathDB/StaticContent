@@ -6,24 +6,24 @@ tags: [general]
 ---
 <div id="ce-static-content"></div>
 
-<h1>Features coming soon</h1>
-  <div>
-    <p>
-    We are constantly working to make ClinEpiDB an intuitive and useful data exploration platform.
-    <br>
-    The features and studies listed below are
-    scheduled for future releases of ClinEpiDB.
-    </p>
-    <p>
-    <i>Note: ClinEpiDB is a dynamic project and this feature list is subject to change.</i>
-    </p>
-    <p>
-    Have an idea and don’t see it listed here? Please <a href="https://clinepidb.org/ce/app/contact-us">Contact Us.</a> .
-    </p>
-    <p>
-    To stay up to date on ClinEpiDB releases, sign up for our newsletter by updating your account preferences.
-    </p>
-  </div>
+  <h1>Features coming soon</h1>
+    <div>
+      <p>
+      We are constantly working to make ClinEpiDB an intuitive and useful data exploration platform.
+      <br>
+      The features and studies listed below are
+      scheduled for future releases of ClinEpiDB.
+      </p>
+      <p>
+      <i>Note: ClinEpiDB is a dynamic project and this feature list is subject to change.</i>
+      </p>
+      <p>
+      Have an idea and don’t see it listed here? Please <a href="https://clinepidb.org/ce/app/contact-us">Contact Us.</a> .
+      </p>
+      <p>
+      To stay up to date on ClinEpiDB releases, sign up for our newsletter by updating your account preferences.
+      </p>
+    </div>
   
 <div><!-- Feature List-->
   <h2 id="DerivedVariables">Derived variables</h2>
