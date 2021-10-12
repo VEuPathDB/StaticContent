@@ -10,7 +10,9 @@ tags: [general]
    <p style="font-size:130%">
     We are constantly working to make ClinEpiDB an intuitive and useful data exploration platform. The features listed below are scheduled for future releases of ClinEpiDB. <i>Note: ClinEpiDB is a dynamic project and this feature list is subject to change.</i>
     <br>
+    <br>
     Have an idea and don’t see it listed here? Please <a href="https://clinepidb.org/ce/app/contact-us">Contact Us.</a>
+    <br>
     <br>
     To stay up to date on ClinEpiDB releases, sign up for our newsletter by updating your account preferences.
   </p>
