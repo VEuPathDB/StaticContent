@@ -89,7 +89,7 @@ table#hor-minimalist-a tfoot tr {
     </p>
     <p>
       <b>Date:</b> Tuesday, November 16th, 2021 <br>
-      <b>Time:</b> 10 AM - 2 PM US ET <br>
+      <b>Time:</b> 9 AM - 12 PM US ET <br>
       <b>Registration:</b> <a target="_blank" href="https://forms.gle/x7c11Xqrm8pgRWrC6">Click here</a>
     </p>
     <p>
