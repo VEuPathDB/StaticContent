@@ -217,3 +217,14 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo1.png"  />
   uid: apollo1
   projects: ""
+- type: download
+  question: "How do I download a pre-configured table (e.g. Link outs or alternate IDs) of multiple genes?"
+  answer: |
+          Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
+           1. Click "Download" 
+           2. Select “Tab- or comma-delimited (openable in Excel) - choose a pre-configured table”  
+           3. Choose which table you wish to download 
+           4. Select download type and click "Get"
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/preconfigured_table_download_faq.png"  />
+  uid: downloadpreconfiguredtable
+  projects: ""
