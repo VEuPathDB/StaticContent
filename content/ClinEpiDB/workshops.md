@@ -80,14 +80,35 @@ table#hor-minimalist-a tfoot tr {
 
 <div class="static-content">
 
+<h3>Upcoming Workshops</h3>
+
+<div class="anchor"><a name="astmh2021"></a></div>
+<div class="workshop">
+    <h3>ClinEpiDB and MicrobiomeDB Data Exploration Workshop</h3>
+    <p>We are excited to announce the beta release of a new and improved version of ClinEpiDB! Join us for a <b>FREE</b> virtual workshop for hands-on training with our new platform. The only requirement is a functioning Internet browser (Chrome, Safari, etc.).
+    </p>
+    <p>
+      <b>Date:</b> Tuesday, November 16th, 2021 <br>
+      <b>Time:</b> 9 AM - 12 PM US ET <br>
+      <b>Registration:</b> <a target="_blank" href="https://forms.gle/x7c11Xqrm8pgRWrC6">Click here</a>
+    </p>
+    <p>
+      <b>Topics:</b> This 3-hour workshop will combine mini lectures with hands-on learning in Zoom breakout sessions. This is a fantastic opportunity for junior researchers, students, and data managers to:
+      <ul>
+        <li>Build skills in exploratory data analysis of epidemiological data, creating data subsets and making graphs</li>
+        <li>Learn the basics of analyzing related microbiome data</li>
+      </ul>
+    </p>
+</div> 
+
 <h3>Previous Workshops</h3>
 
 <div class="anchor"><a name="#gatesworkshop2021"></a></div>
 <div class="workshop">
-    <h3>ClinEpiDB presentation and workshop (Gates Foundation)</h3>
+    <h3>ClinEpiDB Presentation and Workshop (Gates Foundation)</h3>
     <p>
       <b>Date:</b> February 3rd, 2021 <br>
-      <b>Time:</b> 10 AM - 12 PM US Eastern time / 7-9 AM Pacific time
+      <b>Time:</b> 10 AM - 12 PM US ET / 7 AM - 9 AM US PT
  <br>
     </p>
 
@@ -219,12 +240,12 @@ table#hor-minimalist-a tfoot tr {
 
 <div class="anchor"><a name="astmh2020-premeeting"></a></div>
 <div class="workshop">
-    <h3>ASTMH Pre-meeting ClinEpiDB workshop</h3>
+    <h3>ASTMH Pre-meeting ClinEpiDB Workshop</h3>
     <p>Join <b>ClinEpiDB.org</b> for a <b>FREE</b> Virtual Workshop to learn how to use our open-access online clinical epidemiology database and tools for the exploration of complex public health studies. Attendees <b>do not need to be registered for ASTMH</b> in order to attend this online workshop. There are no software requirements for the workshop, but attendees must have a functioning Internet browser (Chrome, Safari, etc.).
     </p>
     <p>
-      <b>Date:</b> Friday November 13th, 2020 <br>
-      <b>Time:</b> 10AM - 2PM US EST <br>
+      <b>Date:</b> November 13th, 2020 <br>
+      <b>Time:</b> 10 AM - 2 PM US ET <br>
       <b>Registration:</b> CLOSED
     </p>
     <p>
@@ -237,7 +258,7 @@ table#hor-minimalist-a tfoot tr {
 
 
 <details>
-    <summary><b>Schedule and exercises</b></summary>
+    <summary><b>Schedule</b></summary>
     <table id="hor-minimalist-a">
 <thead>
 <tr>

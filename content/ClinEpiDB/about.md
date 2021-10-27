@@ -20,8 +20,8 @@ tags: [general]
   <div>
      <!--    "{{ '/resources.html' | relative_url }}"    -->
      <!--   "/a/app/community/ClinEpiDB/resources.html"  -->
-    <p>The video below provides a short overview of the major features of ClinEpiDB. Visit our <a target="_blank" href="/a/app/static-content/ClinEpiDB/tutorials.html">Tutorials</a>, <a target="_blank" href="/a/app/static-content/ClinEpiDB/workshops.html">Workshops</a>, and <a target="_blank" href="/a/app/static-content/ClinEpiDB/webinars.html">Webinars</a> pages or read our <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661">paper</a> to learn more!</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Z6N_7fSkVAY?list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh"></iframe>
+    <p>This video provides a quick start guide to our beta platform.</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/z6iMvkLo_q8"></iframe>
     </div>
 
   <h2 id="how-was-it-made">How is it made?</h2>
