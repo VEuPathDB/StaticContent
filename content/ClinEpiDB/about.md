@@ -6,7 +6,7 @@ tags: [general]
 ---
 
 <div id="ce-static-content">
-  <h1>About ClinEpiDBB</h1>
+  <h1>About ClinEpiDB</h1>
 
   <h2 id="what-is-it">What is it?</h2>
     <div>
