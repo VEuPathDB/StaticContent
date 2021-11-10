@@ -80,7 +80,7 @@ table#hor-minimalist-a tfoot tr {
 
 <div class="static-content">
 
-<h3>Upcoming Workshopss</h3>
+<h3>Upcoming Workshops</h3>
 
 <div class="anchor"><a name="astmh2021"></a></div>
 <div class="workshop">
