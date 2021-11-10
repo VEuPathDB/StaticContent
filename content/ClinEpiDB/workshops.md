@@ -99,6 +99,133 @@ table#hor-minimalist-a tfoot tr {
         <li>Learn the basics of analyzing related microbiome data</li>
       </ul>
     </p>
+
+  <details>
+  <summary><b>Schedule</b></summary>
+  <table id="hor-minimalist-a">
+  
+<thead>
+<tr>
+<th style="text-align:left">Time</th>
+<th style="text-align:left">Activity</th>
+<th style="text-align:left">Presenter</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td> 9:00 AM EST
+<br> <i>10 min</i>
+</td>
+<td><b>Introduction</b>
+<ul>
+  <li> Introduction to ClinEpiDB and MicrobiomeDB </li>
+  <li> Overview of workshop </li>
+</ul>
+</td>
+<td>Nupur Kittur</td>
+</tr>
+
+<tr>
+<td> 9:10 AM EST
+<br> <i>15 min</i>
+</td>
+<td><b>Demonstration: Navigating the ClinEpiDB beta platform</b>
+<br>GEMS1 (enteric disease case control study)
+<ul>
+  <li> Study summaries table </li>
+  <li> Study cards</li>
+  <li>Exploratory data analysis workspace </li>
+</ul>
+</td>
+<td>Nupur Kittur</td>
+</tr>
+
+<tr>
+<td> 9:25 AM EST
+<br> <i>20 min</i>
+</td>
+<td><b>Hands-on Breakout Session 1</b>
+<ul>
+  <li> Structured exercise on navigating the ClinEpiDB beta platform </li>
+</ul>
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td> 9:45 AM EST
+<br> <i>5 min</i>
+</td>
+<td><b>Break</b>
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td> 9:50 AM EST
+<br> <i>45 min</i>
+</td>
+<td><b>Presentation and Demo: MicrobiomeDB</b>
+</td>
+<td>Dan Beiting</td>
+</tr>
+
+<tr>
+<td> 10:35 AM EST
+<br> <i>10 min</i>
+</td>
+<td><b>Break</b>
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td> 10:45 AM EST
+<br> <i>15 min</i>
+</td>
+<td><b>Demonstration: Exploratory data analysis on the ClinEpiDB beta platform</b>
+<br>GEMS1 (enteric disease case control study)
+<ul>
+  <li> Formulating a hypothesis or question of interest </li>
+  <li> Filtering to subset data </li>
+  <li> Making plots </li>
+</ul>
+</td>
+<td>Nupur Kittur</td>
+</tr>
+
+<tr>
+<td> 11:00 AM EST
+<br> <i>30 min</i>
+</td>
+<td><b>Hands-on Breakout Session 2: Exercise on exploratory data analysis</b>
+<br>Choice of:
+<ul>
+  <li> Structured exercise  </li>
+  <li> Self-guided exercise </li>
+</ul>
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td> 11:30 AM EST
+<br> <i>30 min</i>
+</td>
+<td><b>Wrap-up</b>
+<ul>
+  <li> Downloading data  </li>
+  <li> Frequently asked questions</li>
+  <li> Q&A </li>
+</ul>
+</td>
+<td>Sheena Tomko</td>
+</tr>
+
+</tbody>
+</table>
+</details>
 </div> 
 
 <h3>Previous Workshops</h3>
