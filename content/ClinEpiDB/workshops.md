@@ -146,9 +146,8 @@ table#hor-minimalist-a tfoot tr {
 <br> <i>20 min</i>
 </td>
 <td><b>Hands-on Breakout Session 1</b>
-<ul>
-  <li> Structured exercise on navigating the ClinEpiDB beta platform </li>
-</ul>
+<br>
+<a target="_blank" href="{{'/documents/clinEpi/Exercise_Navigating_structured.pdf' | absolute_url}}" target="_blank">Structured exercise on navigating the ClinEpiDB beta platform </a>
 </td>
 <td></td>
 </tr>
@@ -167,6 +166,12 @@ table#hor-minimalist-a tfoot tr {
 <br> <i>45 min</i>
 </td>
 <td><b>Presentation and Demo: MicrobiomeDB</b>
+<ul>
+  <li>Introduction to microbiomeDB</li>
+  <li>Exploring microbiome data from GEMS1 in MicrobiomeDB</li>
+  <li>Meta-analysis with GEMS1 and other enteric disease studies</li>
+  <li>Taxon-based queries in GEMS1</li>
+</ul>
 </td>
 <td>Dan Beiting</td>
 </tr>
@@ -202,8 +207,8 @@ table#hor-minimalist-a tfoot tr {
 <td><b>Hands-on Breakout Session 2: Exercise on exploratory data analysis</b>
 <br>Choice of:
 <ul>
-  <li> Structured exercise  </li>
-  <li> Self-guided exercise </li>
+  <li> <a target="_blank" href="{{'/documents/clinEpi/Exercise_Analysis_structured.pdf' | absolute_url}}" target="_blank">Structured exercise</a>  </li>
+  <li><a target="_blank" href="{{'/documents/clinEpi/Exercise_Analysis_self-guided.pdf' | absolute_url}}" target="_blank">Self-guided exercise</a>  </li>
 </ul>
 </td>
 <td></td>
