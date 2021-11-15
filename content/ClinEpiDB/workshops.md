@@ -146,9 +146,8 @@ table#hor-minimalist-a tfoot tr {
 <br> <i>20 min</i>
 </td>
 <td><b>Hands-on Breakout Session 1</b>
-<ul>
-  <li><a target="_blank" href="{{'/documents/clinEpi/Exercise_Navigating_structured.pdf' | absolute_url}}" target="_blank">Structured exercise on navigating the ClinEpiDB beta platform </a>  </li>
-</ul>
+<br>
+<a target="_blank" href="{{'/documents/clinEpi/Exercise_Navigating_structured.pdf' | absolute_url}}" target="_blank">Structured exercise on navigating the ClinEpiDB beta platform </a>
 </td>
 <td></td>
 </tr>
