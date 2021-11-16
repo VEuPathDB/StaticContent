@@ -138,16 +138,22 @@ table.hor-minimalist-a tfoot tr {
 
 <br>
 
-<!-- ==== UPCOMING WORKSHOPS =============================== -->
-
-<!--
-<hr> 
-<h3>Upcoming Workshops - Details</h3> -->
+ <hr>==== UPCOMING WORKSHOPS =============================== 
 
 
+ 
+<h3>Upcoming Workshops - Details</h3>
+<hr>
 
+<div class="contents">
 
-<hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
+  <div class="anchor"><a name="DECveupath2021"></a></div>
+  <div class="workshop">
+    <h3>VEuPathDB Workshop 2021 (Virtual)</h3>
+    <p>December 13 - 16, 2021</p>
+    <p>9AM - 2PM US Eastern time</p>
+
+<hr>  =========== PREVIOUS WORKSHOPS  ======================== 
 
 <h3>Previous Workshops - Details</h3>
 <hr>
