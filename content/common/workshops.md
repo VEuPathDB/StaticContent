@@ -152,7 +152,7 @@ table.hor-minimalist-a tfoot tr {
     <h3>VEuPathDB Workshop 2021 (Virtual)</h3>
     <p>December 13 - 16, 2021</p>
     <p>9AM - 2PM US Eastern time</p>
-    <p><b>Registration form</b></b>
+    <p><b>Registration form</b></p>
 
   <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 <hr>
