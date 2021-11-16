@@ -151,10 +151,11 @@ table.hor-minimalist-a tfoot tr {
     <h3>VEuPathDB Workshop 2021 (Virtual)</h3>
     <p>December 13 - 16, 2021</p>
     <p>9AM - 1PM US Eastern time</p>
+    <p>Registration deadline: December 6, 2021</p>
     <p><b><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_0Il5yFqOJ056ENU" target="_blank">Registration form</a></b></p>
     <details open>
     <summary><b>Preliminary Schedule</b></summary>
-<p><table >
+<p><table class="hor-minimalist-a">
 	<tbody>
 		<tr>
 			<td>Date</td>
