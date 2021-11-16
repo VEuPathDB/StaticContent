@@ -140,7 +140,7 @@ table.hor-minimalist-a tfoot tr {
 
  <!-- ==== UPCOMING WORKSHOPS =============================== -->
 
-
+<div>
  <hr>
 <h3>Upcoming Workshops - Details</h3>
 <hr>
@@ -153,7 +153,7 @@ table.hor-minimalist-a tfoot tr {
     <p>December 13 - 16, 2021</p>
     <p>9AM - 2PM US Eastern time</p>
     <p><b>Registration form</b></p>
-
+</div></div>
   <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 <hr>
 <h3>Previous Workshops - Details</h3>
