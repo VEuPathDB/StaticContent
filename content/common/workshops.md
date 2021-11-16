@@ -87,8 +87,12 @@ table.hor-minimalist-a tfoot tr {
 <div class="static-content">
 
   <h3>Upcoming Workshops</h3>
-    <p>Details coming soon</p>
+    <!-- <p>Details coming soon</p> -->
 
+  <div class="contents">     
+    <h4><a href="#DECveupath2021">VEuPathDB Workshop 2021 (Virtual)</a></h4>
+      December 13-16, 2021 (Virtual)
+  </div>
   
 
   <hr>
