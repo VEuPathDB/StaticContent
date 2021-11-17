@@ -87,9 +87,12 @@ table.hor-minimalist-a tfoot tr {
 <div class="static-content">
 
   <h3>Upcoming Workshops</h3>
-    <p>Details coming soon</p>
+    <!-- <p>Details coming soon</p> -->
 
-  
+  <div class="contents">     
+    <h4><a href="#DECveupath2021">VEuPathDB Workshop 2021 (Virtual)</a></h4>
+      December 13-16, 2021 (Virtual)
+  </div>
 
   <hr>
   
@@ -134,17 +137,57 @@ table.hor-minimalist-a tfoot tr {
 
 <br>
 
-<!-- ==== UPCOMING WORKSHOPS =============================== -->
+ <!-- ==== UPCOMING WORKSHOPS =============================== -->
 
-<!--
-<hr> 
-<h3>Upcoming Workshops - Details</h3> -->
+<div>
+ <hr>
+<h3>Upcoming Workshops - Details</h3>
+<hr>
 
+<div class="contents">
 
-
-
-<hr>  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
-
+  <div class="anchor"><a name="DECveupath2021"></a></div>
+  <div class="workshop">
+    <h3>VEuPathDB Workshop 2021 (Virtual)</h3>
+    <p>December 13 - 16, 2021</p>
+    <p>9AM - 1PM US Eastern time</p>
+    <p>Registration deadline: December 6, 2021</p>
+    <p><b><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_0Il5yFqOJ056ENU" target="_blank">Registration form</a></b></p>
+    <details open>
+    <summary><b>Preliminary Schedule</b></summary>
+<p><table class="hor-minimalist-a">
+	<tbody>
+		<tr>
+			<td>Date</td>
+			<td>Time</td>
+			<td>Topic</td>
+		</tr>
+		<tr>
+			<td>Monday Dec. 13 </td>
+			<td>9AM-1PM</td>
+			<td>VEuPathDB basics: site search, gene pages and strategies</td>
+		</tr>
+		<tr>
+			<td>Tuesday Dec. 14</td>
+			<td>9AM-1PM</td>
+			<td>Advanced VEuPathDB concepts</td>
+		</tr>
+		<tr>
+			<td>Wednesday Dec. 15</td>
+			<td>9AM-1PM</td>
+			<td>Analyzing your own data</td>
+		</tr>
+		<tr>
+			<td>Thursday Dec. 16</td>
+			<td>9AM-1PM</td>
+			<td>Analyzing your own data (cont)</td>
+		</tr>
+	</tbody>
+</table></p>
+    </details>
+</div></div>
+  <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
+<hr>
 <h3>Previous Workshops - Details</h3>
 <hr>
 
@@ -908,7 +951,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
 </div>  <!--- workshop -->
 
 
-</div> <!-- contents -->
+ <!-- contents -->
 
 
 <br>
@@ -917,6 +960,4 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
   <p><b>VectorBase:</b> <a target="_blank" href="https://legacy.vectorbase.org/tutorials" target="_blank">Previous tutorials</a>
     and <a target="_blank"  href="https://legacy.vectorbase.org/workshops" target="_blank">Previous workshops and webinars</a>.</p>
   <p><b>VEuPathDB:</b> <a target="_blank" href="https://workshop.eupathdb.org" target="_blank">Previous workshops</a>.</p>
-</div>
-
 </div>
