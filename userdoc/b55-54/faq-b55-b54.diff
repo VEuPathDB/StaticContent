@@ -1,0 +1,37 @@
+32c32
+<            Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest)
+---
+>            Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
+147,152d146
+< - type: citing
+<   question: "How to cite a gene? (We recommend gene stable ID, metadata and location)"
+<   answer: |
+<            Gene metadata are the gene name or symbol and the gene functional description. The gene stable IDs are, not only stable (as implied by their name), also easier to work with, as you can upload them in GLORIA WORK IN PROFGRESS ...
+<   uid: g14
+<   projects: "DONOTSHOW"
+197,208d190
+< - type: general
+<   question: "How do I select my organism preferences on UniDB?"
+<   answer: |
+<            1. Click "My organism preferences" on the homepage. Once clicking on this you will be reminded your preferences can be disabled at any time whilst using the website
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_20.png"  />
+<            2. Filter for your organism of interest using the search box. You can also you the buttons 'add these', 'clear these', 'select only these', 'select all', 'clear all', to aid your search
+<            3. Click "Apply"
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_21.png"  />
+<            4. You will now see your selected organisms in the "My organism preference list" on the right of the page 
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_22.png"  />
+<   uid: organismpreferences
+<   projects: ""
+220,230d201
+< - type: download
+<   question: "How do I download a pre-configured table (e.g. Link outs or alternate IDs) of multiple genes?"
+<   answer: |
+<           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
+<            1. Click "Download" 
+<            2. Select “Tab- or comma-delimited (openable in Excel) - choose a pre-configured table”  
+<            3. Choose which table you wish to download 
+<            4. Select download type and click "Get"
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/preconfigured_table_download_faq.png"  />
+<   uid: downloadpreconfiguredtable
+<   projects: ""
+\ No newline at end of file
