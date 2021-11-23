@@ -80,7 +80,8 @@ table#hor-minimalist-a tfoot tr {
 
 <div class="static-content">
 
-<h3>Upcoming Workshops</h3>
+
+<h3>Previous Workshops</h3>
 
 <div class="anchor"><a name="astmh2021"></a></div>
 <div class="workshop">
@@ -90,7 +91,7 @@ table#hor-minimalist-a tfoot tr {
     <p>
       <b>Date:</b> Tuesday, November 16th, 2021 <br>
       <b>Time:</b> 9 AM - 12 PM US ET <br>
-      <b>Registration:</b> <a target="_blank" href="https://forms.gle/x7c11Xqrm8pgRWrC6">Click here</a>
+      <b>Registration is closed</b> 
     </p>
     <p>
       <b>Topics:</b> This 3-hour workshop will combine mini lectures with hands-on learning in Zoom breakout sessions. This is a fantastic opportunity for junior researchers, students, and data managers to:
@@ -109,6 +110,7 @@ table#hor-minimalist-a tfoot tr {
 <th style="text-align:left">Time</th>
 <th style="text-align:left">Activity</th>
 <th style="text-align:left">Presenter</th>
+<th style="text-align:left">Recording</th>
 </tr>
 </thead>
 
@@ -119,11 +121,12 @@ table#hor-minimalist-a tfoot tr {
 </td>
 <td><b>Introduction</b>
 <ul>
-  <li> Introduction to ClinEpiDB and MicrobiomeDB </li>
+  <li><a target="_blank" href="{{'/documents/clinEpi/Introduction_ClinEpiDB_MicrobiomeDB_workshop.pdf' | absolute_url}}" target="_blank">Introduction to ClinEpiDB and MicrobiomeDB </a></li>
   <li> Overview of workshop </li>
 </ul>
 </td>
 <td>Nupur Kittur</td>
+<td></td>
 </tr>
 
 <tr>
@@ -139,6 +142,7 @@ table#hor-minimalist-a tfoot tr {
 </ul>
 </td>
 <td>Nupur Kittur</td>
+<td><iframe width="180" height="115" src="https://youtu.be/WzYaf4sYrO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 
 <tr>
@@ -148,6 +152,8 @@ table#hor-minimalist-a tfoot tr {
 <td><b>Hands-on Breakout Session 1</b>
 <br>
 <a target="_blank" href="{{'/documents/clinEpi/Exercise_Navigating_structured.pdf' | absolute_url}}" target="_blank">Structured exercise on navigating the ClinEpiDB beta platform </a>
+<br>
+<a target="_blank" href="{{'/documents/clinEpi/Exercise_Navigating_structured_KEY.pdf' | absolute_url}}" target="_blank">Answer Key</a>
 </td>
 <td></td>
 </tr>
@@ -174,6 +180,7 @@ table#hor-minimalist-a tfoot tr {
 </ul>
 </td>
 <td>Dan Beiting</td>
+<td><iframe width="180" height="115" src="https://youtu.be/7UFIPuyb0PU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 
 <tr>
@@ -198,6 +205,7 @@ table#hor-minimalist-a tfoot tr {
 </ul>
 </td>
 <td>Nupur Kittur</td>
+<td><iframe width="180" height="115" src="https://youtu.be/jrMN2N0_xIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 
 <tr>
@@ -207,7 +215,8 @@ table#hor-minimalist-a tfoot tr {
 <td><b>Hands-on Breakout Session 2: Exercise on exploratory data analysis</b>
 <br>Choice of:
 <ul>
-  <li> <a target="_blank" href="{{'/documents/clinEpi/Exercise_Analysis_structured.pdf' | absolute_url}}" target="_blank">Structured exercise</a>  </li>
+  <li> <a target="_blank" href="{{'/documents/clinEpi/Exercise_Analysis_structured_updated.pdf
+' | absolute_url}}" target="_blank">Structured exercise</a>  </li>
   <li><a target="_blank" href="{{'/documents/clinEpi/Exercise_Analysis_self-guided.pdf' | absolute_url}}" target="_blank">Self-guided exercise</a>  </li>
 </ul>
 </td>
@@ -226,14 +235,13 @@ table#hor-minimalist-a tfoot tr {
 </ul>
 </td>
 <td>Sheena Tomko</td>
+<td><iframe width="180" height="115" src="https://youtu.be/7qfjh0-e8x0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 
 </tbody>
 </table>
 </details>
 </div> 
-
-<h3>Previous Workshops</h3>
 
 <div class="anchor"><a name="#gatesworkshop2021"></a></div>
 <div class="workshop">
