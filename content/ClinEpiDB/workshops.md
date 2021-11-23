@@ -142,7 +142,7 @@ table#hor-minimalist-a tfoot tr {
 </ul>
 </td>
 <td>Nupur Kittur</td>
-<td><iframe width="180" height="115" src="https://youtu.be/WzYaf4sYrO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="180" height="115" src="https://youtu.be/embed/WzYaf4sYrO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 
 <tr>
@@ -180,7 +180,7 @@ table#hor-minimalist-a tfoot tr {
 </ul>
 </td>
 <td>Dan Beiting</td>
-<td><iframe width="180" height="115" src="https://youtu.be/7UFIPuyb0PU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="180" height="115" src="https://youtu.be/embed/7UFIPuyb0PU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 
 <tr>
@@ -205,7 +205,7 @@ table#hor-minimalist-a tfoot tr {
 </ul>
 </td>
 <td>Nupur Kittur</td>
-<td><iframe width="180" height="115" src="https://youtu.be/jrMN2N0_xIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="180" height="115" src="https://youtu.be/embed/jrMN2N0_xIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 
 <tr>
@@ -235,7 +235,7 @@ table#hor-minimalist-a tfoot tr {
 </ul>
 </td>
 <td>Sheena Tomko</td>
-<td><iframe width="180" height="115" src="https://youtu.be/7qfjh0-e8x0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="180" height="115" src="https://youtu.be/embed/7qfjh0-e8x0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 </tr>
 
 </tbody>
