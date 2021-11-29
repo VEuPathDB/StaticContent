@@ -195,7 +195,7 @@
   uid: galaxy
   projects: ""
 - type: general
-  question: "How do I select my organism preferences on UniDB?"
+  question: "How do I select my organism preferences?"
   answer: |
            1. Click "My organism preferences" on the homepage. Once clicking on this you will be reminded your preferences can be disabled at any time whilst using the website
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/faq_20.png"  />
