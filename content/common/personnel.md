@@ -27,7 +27,7 @@ Wei Li, Data Loading Manager<br>
 Gareth Maslen, EBI Data Processing Manager<br>
 Mary Ann McDowell, Joint-PI, NIAID BRC Contract<br>
 David S Roos, Joint-PI, NIAID BRC Contract; WT Co-PI<br>
-Chris J Stoeckert, Co-I, NIAID BRC Contract<br>
+Chris J Stoeckert, Co-I, NIAID BRC Contract<br><br>
     
 To contact any one of us please use the <a href="/a/app/contact-us">contact us form</a>.<br><br>
 
