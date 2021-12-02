@@ -116,6 +116,7 @@
            * Check out our **[Shiny app scripts](https://github.com/VEuPathDB/MicrobiomeWebsite/tree/master/View/lib/R/shiny/apps)** 
            * Code for our **[DADA2-based automated data loading workflow](https://github.com/VEuPathDB/DJob/tree/master/DistribJobTasks/bin/dada2)**, which processes fastq files for all the studies on MicrobiomeDB and produces taxonomy tables that are represented on the site.
            * Code for our **[MetaPhlAn3 and HUMAnN3 workflow](https://github.com/VEuPathDB/humann-nextflow)** for loading shotgun metagenomic data
+           * Code for our **[eukaryotic detection](https://github.com/wbazant/marker_alignments)** and a [nextflow implementaton of this workflow](https://github.com/wbazant/marker-alignments-nextflow) are used for identifying eukaryotic microbes in shotgun metagenomic data using the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database
   uid: g9
   projects: "MicrobiomeDB"
 
@@ -143,7 +144,6 @@
 
 
 
-
 - type: general
   question: "Can I download raw data from MicrobiomeDB?"
   answer: | 
@@ -152,6 +152,17 @@
            * Although we use raw sequence data (fastq files) when we load data into our website, we do not host these files for download. 
            * What about raw sequence data?  Well, for published studies the raw data is available on the [SRA](https://www.ncbi.nlm.nih.gov/sra/) or [ENA](https://www.ebi.ac.uk/ena).  If you're interested in accessing raw data for unpublished studies, we can faciliate contact with the data providers.
   uid: g12
+  projects: "MicrobiomeDB"
+
+
+
+- type: general
+  question: "How do you identify eukaryotes in metagenomic data on your site?"
+  answer: 
+           Detection of eukaryotes in shotgun studies on our site is based on the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database.  
+           Methods and software describing how we map reads to this reference database and call taxa can be found [here](https://github.com/wbazant/marker_alignments), and our nextflow workflow used to implement this approach on all samples on our database can be found [here](https://github.com/wbazant/marker-alignments-nextflow).
+           We will soon be posting a preprint that describes this software and the rationale for implementing eukaryotic detection on MicrobiomeDB.
+  uid: g13
   projects: "MicrobiomeDB"
 
 
