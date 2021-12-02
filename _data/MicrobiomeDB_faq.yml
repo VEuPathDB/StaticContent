@@ -113,6 +113,7 @@
   question: "Can I access the code used for MicrobiomeDB?"
   answer: 
            Yes! Our code can be found on **[Github](https://github.com/VEuPathDB?q=microbiome&type=&language=)**, and we welcome input from the community. 
+           
            * Check out our **[Shiny app scripts](https://github.com/VEuPathDB/MicrobiomeWebsite/tree/master/View/lib/R/shiny/apps)** 
            * Code for our **[DADA2-based automated data loading workflow](https://github.com/VEuPathDB/DJob/tree/master/DistribJobTasks/bin/dada2)**, which processes fastq files for all the studies on MicrobiomeDB and produces taxonomy tables that are represented on the site.
            * Code for our **[MetaPhlAn3 and HUMAnN3 workflow](https://github.com/VEuPathDB/humann-nextflow)** for loading shotgun metagenomic data
