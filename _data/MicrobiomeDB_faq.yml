@@ -146,7 +146,7 @@
 
 - type: general
   question: "Can I download raw data from MicrobiomeDB?"
-  answer: | 
+  answer:  
            * For 16S studies, taxonomic data (counts and abundance) and sample metadata are available for download from MicrobiomeDB as separate text files or wrapped up into a single .biom file (see 'Download Data' link at the bottom of each study card).
            * For shotgun metagenomic studies, we offer the same file types mentioned above for 16S as well as both text and .biom options for pathway-level data and gene-level (Enzyme Commission number) data
            * Although we use raw sequence data (fastq files) when we load data into our website, we do not host these files for download. 
