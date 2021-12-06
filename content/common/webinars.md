@@ -91,7 +91,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> Release 55 Webinar<br>
 <b>Date:</b> Thursday Dec 9th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> Available 7-10 days prior to webinar<br>
+<b>Registration:</b> <a href="https://veupathdb.org/veupathdb/app/static-content/webinars.html" target="_blank">https://veupathdb.org/veupathdb/app/static-content/webinars.html</a><br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 55 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
