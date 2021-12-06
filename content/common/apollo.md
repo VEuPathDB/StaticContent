@@ -50,7 +50,7 @@ We are currently in the process of a long term project to update our genome anno
   <li>A description of <a href="/a/app/static-content/apolloQuickCommands.html">quick commands</a> (Apollo now has the BLAT tool!)</li> 
   <li><a href="{{'/documents/Apollo_functional_annotation_26_10_2021.pdf' | absolute_url}}">Functional annotation tutorial </a> </li>
   <li><a href="{{'/documents/Apollo_structural_annotation_14_06_2021.pdf' | absolute_url}}">Structural annotation tutorial </a> </li>
-  <li><a href="{{'/documents/FAQ_Apollo_19_10_2021.pdf' | absolute_url}}">Frequently Asked Questions </a> </li>
+  <li><a href="{{'/documents/FAQ_Apollo_06_12_2021.pdf' | absolute_url}}">Frequently Asked Questions </a> </li>
   <li><a href="https://apollo.veupathdb.org/1613634913933131701353630290/about">About Apollo (Login required)</a></li> 
   <li><a href="https://genomearchitect.readthedocs.io/en/latest/UsersGuide.html">User Guide</a></li> 
   <li><a href="https://github.com/gmod/apollo/issues/new">Request feature/Report a bug (Login required)</a></li> 
