@@ -228,3 +228,16 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/preconfigured_table_download_faq.png"  />
   uid: downloadpreconfiguredtable
   projects: ""
+- type: download
+  question: "How can I programmatically download genome files?"
+  answer: |
+          There are several options to programmatically (command line) access and download genome files from our servers.
+           <p>Examples below are for FungiDB genome, <a href="https://fungidb.org/common/downloads/Current_Release/Spombe972h/">Spombe972h.</a> </p>
+           <p>You can use wget and the url as the path.  For example:</p>
+           <p>wget</p>
+           <p>https://fungidb.org/common/downloads/Current_Release/Spombe972h/fasta/data/FungiDB-55_Spombe972h_Genome.fasta</p>  
+           <p>To find the correct file URL visit Data > Download data file</p>
+           <p>Note you can use “Current_Release” or find older versions in the respective folder. </p>
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/programaticallydownloadgenomefile.png"  />
+  uid: programmaticallydownloadgenomefiles
+  projects: ""
