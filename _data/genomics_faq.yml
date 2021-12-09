@@ -239,5 +239,13 @@
            <p>To find the correct file URL visit Data > Download data file</p>
            <p>Note you can use “Current_Release” or find older versions in the respective folder. </p>
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/programaticallydownloadgenomefile.png"  />
+           <p>Alternatively, lftp works so you can (after finding the correct directory as in above) use: </p>
+           <p>lftp</p>
+           <p>https://fungidb.org/common/downloads/Current_Release/Spombe972h/</p>
+           <p>and then use a command such as:</p>
+           <p>mget fasta/data/*</p>
+           <p>Or</p>
+           <p>mget gff/data/*</p>
+           <p>to get all files in that folder.</p>
   uid: programmaticallydownloadgenomefiles
   projects: ""
