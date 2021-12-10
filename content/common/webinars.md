@@ -25,8 +25,6 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div class="contents">
-     
-   <p><b>Thursday December 9th, 2021:</b> <a href="#release55">Release 55 Webinar</a></p>
    <p><b>Thursday February 10th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
   </div>
   
@@ -34,6 +32,8 @@ tags: [general]
   <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
+     
+   <p><b>Thursday December 9th, 2021:</b> <a href="#release55">Release 55 Webinar</a></p>
    <p><b>Thursday September 16th, 2021:</b> <a href="#release54">Release 54 Webinar</a></p>
    <p><b>Thursday August 5th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
    <p><b>Thursday June 10th, 2021:</b> <a href="#vect4">Analyzing your own data in VectorBase</a></p>
@@ -85,16 +85,6 @@ tags: [general]
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
 
-<hr>
-<div class="anchor"><a name="release55"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 55 Webinar<br>
-<b>Date:</b> Thursday Dec 9th, 2021<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/3655307034315220750" target="_blank">https://attendee.gotowebinar.com/register/3655307034315220750</a><br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 55 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
-</div>
 
 <hr>
 <div class="anchor"><a name="release56"></a></div>
@@ -112,6 +102,17 @@ Release webinar dates are subject to change due to production issues that may ar
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 <h3>Previous Webinars</h3>
 <div class="contents">
+
+<hr>
+<div class="anchor"><a name="release55"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 55 Webinar<br>
+<b>Date:</b> Thursday Dec 9th, 2021<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording:</b> <a href="https://youtu.be/6n45Ie8Mbs0" target="_blank">https://youtu.be/6n45Ie8Mbs0</a><br>
+<b>Additional Details:</b> This is a recording of our Dec 9, 2021 webinar describing the new data and features in VEuPathDB Release 55.
+<br>
+</div>
 
 <hr>
 <div class="anchor"><a name="release54"></a></div>
