@@ -154,7 +154,7 @@ table.hor-minimalist-a tfoot tr {
     <p>Registration deadline: December 6, 2021</p>
     <p><b><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_0Il5yFqOJ056ENU" target="_blank">Registration form</a></b></p>
     <details open>
-    <summary><b>Preliminary Schedule</b></summary>
+    <summary><b>Workshop Schedule</b></summary>
 <p><table class="hor-minimalist-a">
 	<table xmlns="http://www.w3.org/1999/xhtml" dir="ltr" style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: none;"
           cellspacing="0"
