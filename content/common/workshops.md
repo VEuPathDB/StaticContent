@@ -907,11 +907,10 @@ table.hor-minimalist-a tfoot tr {
                 closes</td>
               <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
               </td>
+              <td></td>
             </tr>
           </tbody>
-        </table></p>
-    </details>
-</div></div>
+        </table>
   <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 <hr>
 <h3>Previous Workshops - Details</h3>
