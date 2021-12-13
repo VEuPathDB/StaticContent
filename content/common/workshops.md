@@ -243,9 +243,9 @@ table.hor-minimalist-a tfoot tr {
                 style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">10:00
                 AM</td>
               <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercise: Site search, organism preferences &amp; gene pages&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><a href="{{'/documents/Dec2021/SiteSearchDec2021.pdf' | absolute_url}}><b>Site Search</b></a> <br>
-<a href="{{'/documents/Dec2021/OrganismPreferencesDec2021.pdf' | absolute_url}}><b>Organism Preferences</b></a> <br>
-<a href="{{'/documents/Dec2021/GenePageDec2021.pdf' | absolute_url}}><b>Gene Page</b></a></td>
+                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><a href="{{'/documents/Dec2021/SiteSearchDec2021.pdf' | absolute_url}}"><b>Site Search</b></a> <br>
+<a href="{{'/documents/Dec2021/OrganismPreferencesDec2021.pdf' | absolute_url}}"><b>Organism Preferences</b></a> <br>
+<a href="{{'/documents/Dec2021/GenePageDec2021.pdf' | absolute_url}}"><b>Gene Page</b></a></td>
               <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Breakout Rooms&quot;}"
                 style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Breakout
                 Rooms</td>
@@ -299,7 +299,7 @@ table.hor-minimalist-a tfoot tr {
                 style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">12:00
                 PM</td>
               <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercise: Search strategies&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><a href="{{'/documents/Dec2021/StrategiesDec2021.pdf' | absolute_url}}<b>Search Strategies</b></a></td>
+                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><a href="{{'/documents/Dec2021/StrategiesDec2021.pdf' | absolute_url}}"><b>Search Strategies</b></a></td>
 site search
               <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Breakout Rooms&quot;}"
                 style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Breakout
