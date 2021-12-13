@@ -213,7 +213,7 @@ table.hor-minimalist-a tfoot tr {
                 style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
                 Room</td>
               <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Lecture</td>
+                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br><iframe width="180" height="115" src="https://youtu.be/_YF5cRpR6ak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
             </tr>
             <tr style="height: 21px;">
               <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
@@ -231,7 +231,7 @@ table.hor-minimalist-a tfoot tr {
                 style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
                 Room</td>
               <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Lecture</td>
+                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);"><br><iframe width="180" height="115" src="https://youtu.be/lKjMaGWIupM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
             </tr>
             <tr style="height: 21px;">
               <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
@@ -288,7 +288,7 @@ table.hor-minimalist-a tfoot tr {
                 style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
                 Room</td>
               <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Lecture</td>
+                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);"><br><iframe width="180" height="115" src="https://youtu.be/xlh2urUvayg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
             </tr>
             <tr style="height: 21px;">
               <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
@@ -322,7 +322,7 @@ site search
                 style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
                 Room</td>
               <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Lecture</td>
+                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);"><br><iframe width="180" height="115" src="https://youtu.be/yeieEKTA1Ts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
             </tr>
             <tr style="height: 21px;">
               <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
