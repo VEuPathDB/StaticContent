@@ -206,12 +206,9 @@ table.hor-minimalist-a tfoot tr {
           </tr>
           <tr>
             <td>10:00 AM</td>
-            <td> <a href="%7B%7B%27/documents/Dec2021/SiteSearchDec2021.pdf%27%20%7C%20absolute_url%7D%7D"><b>Site
-                  Search</b></a> <br>
-              <a href="%7B%7B%27/documents/Dec2021/OrganismPreferencesDec2021.pdf%27%20%7C%20absolute_url%7D%7D"><b>Organism
-                  Preferences</b></a> <br>
-              <a href="%7B%7B%27/documents/Dec2021/GenePageDec2021.pdf%27%20%7C%20absolute_url%7D%7D"><b>Gene
-                  Page</b></a> </td>
+            <td><a href="{{'/documents/Dec2021/SiteSearchDec2021.pdf' | absolute_url}}"><b>Site Search</b></a> <br><br>
+              <a href="{{'/documents/Dec2021/OrganismPreferencesDec2021.pdf' | absolute_url}}"><b>Organism Preferences</b></a> <br><br>
+              <a href="{{'/documents/Dec2021/GenePageDec2021.pdf' | absolute_url}}"><b>Gene Page</b></a></td>
             <td>Breakout rooms</td>
             <td> <br>
             </td>
@@ -235,8 +232,7 @@ table.hor-minimalist-a tfoot tr {
           </tr>
           <tr>
             <td>12:00 PM</td>
-            <td><a href="%7B%7B%27/documents/Dec2021/StrategiesDec2021.pdf%27%20%7C%20absolute_url%7D%7D"><b>Search
-                  Strategies</b></a></td>
+            <td><a href="{{'/documents/Dec2021/StrategiesDec2021.pdf' | absolute_url}}"><b>Search Strategies</b></a></td>
             <td><br>
             </td>
             <td> <br>
