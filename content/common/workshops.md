@@ -307,7 +307,7 @@ table.hor-minimalist-a tfoot tr {
           </tr>
           <tr>
             <td>9:30 AM</td>
-            <td>Exercise: genome browser basics</td>
+            <td><a href="{{'/documents/Dec2021/JBrowseBasicsDec2021.pdf' | absolute_url}}"><b>Genome browser basics</b></a></td>
             <td>Break out<br>
             </td>
             <td><br>
@@ -330,7 +330,7 @@ table.hor-minimalist-a tfoot tr {
           </tr>
           <tr>
             <td>11:30 AM</td>
-            <td>Exercise: exploring gene models</td>
+            <td><a href="{{'/documents/Dec2021/Adv_JBrowse_RNAseqII.pdf' | absolute_url}}"><b>Exploring Gene models in the genome browser</b></a></td>
             <td>Break out<br>
             </td>
             <td><br>
