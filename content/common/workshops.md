@@ -302,7 +302,7 @@ table.hor-minimalist-a tfoot tr {
             <td>9:00 AM</td>
             <td>Introduction to the genome browser</td>
             <td>Gloria I. Giraldo-Calderón</td>
-            <td>Lecture <br>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/QlAqjN0X16A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </td>
           </tr>
           <tr>
@@ -317,7 +317,7 @@ table.hor-minimalist-a tfoot tr {
             <td>10:30 AM</td>
             <td>Exploring gene models in the genome browser</td>
             <td>David Roos</td>
-            <td>Lecture<br>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/ZOVmmWKxB7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </td>
           </tr>
           <tr>
@@ -341,7 +341,7 @@ table.hor-minimalist-a tfoot tr {
             <td>Gene models discussion and day wrap up</td>
             <td>David Roos<br>
             </td>
-            <td> Lecture<br>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/2_p61Rjm668" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </td>
           </tr>
           <tr>
