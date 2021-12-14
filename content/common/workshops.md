@@ -402,7 +402,8 @@ table.hor-minimalist-a tfoot tr {
           </tr>
           <tr>
             <td>10:30 AM</td>
-            <td>Exercise: Transcriptomics and proteomics</td>
+            <td><a href="{{'/documents/Dec2021/Transcriptomics_Dec2021.pdf' | absolute_url}}"><b>Transcriptomic exercise</b></a><br>
+<a href="{{'/documents/Dec2021/Proteomics_Dec2021.pdf' | absolute_url}}"><b>Proteomics exercise</b></a></td>
             <td><span style="color: #0000ee;"></span>Break out</td>
             <td><br>
             </td>
