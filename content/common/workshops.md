@@ -54,7 +54,7 @@ table.hor-minimalist-a th {
   color: #039;
   border-bottom: 2px solid #6678b1;
   padding: 0.5em;
-  text-align: center;
+  text-align: left;
 }
 table.hor-minimalist-a tr {
   border-bottom: 1px solid #ddd;
@@ -80,6 +80,18 @@ table.hor-minimalist-a tfoot {
 }
 table.hor-minimalist-a tfoot tr {
   border:0;
+}
+th.time {
+  width: 10%;
+}
+th.event {
+  width: 50%;
+}
+th.author {
+  width: 20%;
+}
+th.recording {
+  width: 20%;
 }
 </style>
 
@@ -164,10 +176,10 @@ table.hor-minimalist-a tfoot tr {
             <th class="break"><b>Monday, December&nbsp; 13th</b></th>
           </tr>
           <tr>
-            <th style="text-align:left;width:10%">Time</th>
-            <th style="text-align:left;width:50%">Event and PDF handouts</th>
-            <th style="text-align:left;width:20%">Instructor</th>
-            <th style="text-align:left;width:20%">Recording</th>
+            <th class="time">Time</th>
+            <th class="event">Event and PDF handouts</th>
+            <th class="author">Instructor</th>
+            <th class="recording">Recording</th>
           </tr>
         </thead>
         <tbody>
@@ -283,10 +295,10 @@ table.hor-minimalist-a tfoot tr {
             <th class="break"><b>Tuesday, December 14th</b></th>
           </tr>
           <tr>
-            <th style="text-align:left;width:10%">Time</th>
-            <th style="text-align:left;width:50%">Event and PDF handouts</th>
-            <th style="text-align:left;width:20%">Instructor</th>
-            <th style="text-align:left;width:20%">Recording</th>
+            <th class="time">Time</th>
+            <th class="event">Event and PDF handouts</th>
+            <th class="author">Instructor</th>
+            <th class="recording">Recording</th>
           </tr>
         </thead>
         <tbody>
@@ -371,10 +383,10 @@ table.hor-minimalist-a tfoot tr {
             <th class="break"><b>Wednesday, December 15th</b></th>
           </tr>
           <tr>
-            <th style="text-align:left;width:10%">Time</th>
-            <th style="text-align:left;width:50%">Event and PDF handouts</th>
-            <th style="text-align:left;width:20%">Instructor</th>
-            <th style="text-align:left;width:20%">Recording</th>
+            <th class="time">Time</th>
+            <th class="event">Event and PDF handouts</th>
+            <th class="author">Instructor</th>
+            <th class="recording">Recording</th>
           </tr>
         </thead>
         <tbody>
@@ -463,10 +475,10 @@ table.hor-minimalist-a tfoot tr {
             <th class="break"><b>Thursday, December 16th</b></th>
           </tr>
           <tr>
-            <th style="text-align:left;width:10%">Time</th>
-            <th style="text-align:left;width:50%">Event and PDF handouts</th>
-            <th style="text-align:left;width:20%">Instructor</th>
-            <th style="text-align:left;width:20%">Recording</th>
+            <th class="time">Time</th>
+            <th class="event">Event and PDF handouts</th>
+            <th class="author">Instructor</th>
+            <th class="recording">Recording</th>
           </tr>
         </thead>
         <tbody>
