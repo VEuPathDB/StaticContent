@@ -229,12 +229,7 @@ table.hor-minimalist-a tfoot tr {
             <td><span style="color: #0000ee;"></span>Introduction to Search
               Strategies</td>
             <td>Susanne Warrenfeltz</td>
-            <td><iframe src="https://youtu.be/xlh2urUvayg" title="YouTube video player"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen=""
-                height="115"
-                frameborder="0"
-                width="180"></iframe>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/xlh2urUvayg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               <br>
             </td>
           </tr>
