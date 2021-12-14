@@ -153,765 +153,415 @@ table.hor-minimalist-a tfoot tr {
     <p>9AM - 1PM US Eastern time</p>
     <p>Registration deadline: December 6, 2021</p>
     <p><b><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_0Il5yFqOJ056ENU" target="_blank">Registration form</a></b></p>
-    <details open>
-    <summary><b>Workshop Schedule</b></summary>
-<p><table class="hor-minimalist-a">
-	<table xmlns="http://www.w3.org/1999/xhtml" dir="ltr" style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: none;"
-          cellspacing="0"
-          cellpadding="0"
-          border="1">
-          <colgroup><col width="75"><col width="78"><col width="86"><col width="358"><col
-              width="151"><col
-              width="100"></colgroup>
-          <tbody>
-            <tr style="height: 21px;">
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Date&quot;}"
-                style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(204, 204, 204) rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239); font-weight: bold; font-style: italic;">Date</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Day&quot;}"
-                style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(204, 204, 204) rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239); font-weight: bold; font-style: italic;">Day</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Time&quot;}"
-                style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(204, 204, 204) rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: top; font-weight: bold; font-style: italic;">Time</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Topic&quot;}"
-                style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(204, 204, 204) rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: top; font-weight: bold; font-style: italic;">Topic</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Zoom Format&quot;}"
-                style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(204, 204, 204) rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: top; font-weight: bold; font-style: italic;">Zoom
-                Format</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Type&quot;}"
-                style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(204, 204, 204) rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: top; font-weight: bold; font-style: italic;">Type</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44543}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;mmm. d&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183); font-weight: bold; font-style: italic;">Dec.
-                13</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Monday&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">Monday</td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.3541666666666667}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">8:30
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Zoom opens&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">Zoom
-                opens</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NA&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">NA</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.375}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(255, 255, 255);">9:00
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;General welcome, workshop overview&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">General
-                welcome, workshop overview</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br><iframe width="180" height="115" src="https://youtu.be/_YF5cRpR6ak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.3819444444444444}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">9:10
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Introduction to VEuPathDB - lecture with live demos&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Introduction
-                to VEuPathDB - lecture with live demos</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);"><br><iframe width="180" height="115" src="https://youtu.be/lKjMaGWIupM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4166666666666667}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">10:00
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercise: Site search, organism preferences &amp; gene pages&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><a href="{{'/documents/Dec2021/SiteSearchDec2021.pdf' | absolute_url}}"><b>Site Search</b></a> <br>
-<a href="{{'/documents/Dec2021/OrganismPreferencesDec2021.pdf' | absolute_url}}"><b>Organism Preferences</b></a> <br>
-<a href="{{'/documents/Dec2021/GenePageDec2021.pdf' | absolute_url}}"><b>Gene Page</b></a></td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Breakout Rooms&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Breakout
-                Rooms</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercises&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(251, 188, 4);">Exercises</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4583333333333333}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">11:00
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Break&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Break</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;keep breakout rooms open&quot;}"
-                style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); overflow: visible; padding: 2px 3px; vertical-align: top;">
-                <div style="white-space: nowrap; overflow: hidden; position: relative; width: 247px; left: 3px;">
-                  <div style="float: left;">keep breakout rooms open</div>
-                </div>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4791666666666667}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">11:30
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Search Strategies&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Search
-                Strategies</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);"><br><iframe width="180" height="115" src="https://youtu.be/xlh2urUvayg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">12:00
-                PM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercise: Search strategies&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><a href="{{'/documents/Dec2021/StrategiesDec2021.pdf' | absolute_url}}"><b>Search Strategies</b></a></td>
-site search
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Breakout Rooms&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Breakout
-                Rooms</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercises&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(251, 188, 4);">Exercises</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.53125}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">12:45
-                PM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wrap up&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Wrap
-                up</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);"><br><iframe width="180" height="115" src="https://youtu.be/yeieEKTA1Ts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5416666666666666}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">1:00
-                PM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Optional extra help time&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Optional
-                extra help time</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TBD&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">TBD</td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5625}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">1:30
-                PM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Zoom closes&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Zoom
-                closes</td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-            </tr>
-            <tr style="height: 21px;">
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44544}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;mmm. d&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183); font-weight: bold; font-style: italic;">Dec.
-                14</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tuesday&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">Tuesday</td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.3541666666666667}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">8:30
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Zoom opens&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">Zoom
-                opens</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(183, 183, 183);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NA&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">NA</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.375}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">9:00
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Introduction to the genome browser&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Introduction
-                to the genome browser</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Lecture</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.3958333333333333}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">9:30
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercise: genome browser basics&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Exercise:
-                genome browser basics</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Breakout Rooms&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Breakout
-                Rooms</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercises&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(251, 188, 4);">Exercises</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4375}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">10:30
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exploring gene models in the genome browser&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Exploring
-                gene models in the genome browser</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Lecture</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4583333333333333}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">11:00
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Break&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Break</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;keep breakout rooms open&quot;}"
-                style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); overflow: visible; padding: 2px 3px; vertical-align: top;">
-                <div style="white-space: nowrap; overflow: hidden; position: relative; width: 247px; left: 3px;">
-                  <div style="float: left;">keep breakout rooms open</div>
-                </div>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4791666666666667}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">11:30
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercise: exploring gene models&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">Exercise:
-                exploring gene models</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Breakout Rooms&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Breakout
-                Rooms</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercises&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(251, 188, 4);">Exercises</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5208333333333334}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">12:30
-                PM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Gene models discussion and day wrapup &quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Gene
-                models discussion and day wrapup<span class="Apple-converted-space">&nbsp;</span></td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5416666666666666}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">1:00
-                PM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Optional extra help time&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Optional
-                extra help time</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TBD&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">TBD</td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5625}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">1:30
-                PM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Zoom closes&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Zoom
-                closes</td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-            </tr>
-            <tr style="height: 21px;">
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44545}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;mmm. d&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183); font-weight: bold; font-style: italic;">Dec.
-                15</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wednesday&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">Wednesday</td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.3541666666666667}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">8:30
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Zoom opens&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">Zoom
-                opens</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(183, 183, 183);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NA&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">NA</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.375}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">9:00
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Introduction to Galaxy in VEuPathDB&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">Introduction
-                to Galaxy in VEuPathDB</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Lecture</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4166666666666667}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">10:00
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Transcriptomic and Proteomics data&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Transcriptomic
-                and Proteomics data</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Lecture</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4375}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">10:30
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercise: Transcriptomics and proteomics&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Exercise:
-                Transcriptomics and proteomics</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Breakout Rooms&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Breakout
-                Rooms</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercises&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(251, 188, 4);">Exercises</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4583333333333333}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">11:00
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Break&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Break</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;keep breakout rooms open&quot;}"
-                style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); overflow: visible; padding: 2px 3px; vertical-align: top;">
-                <div style="white-space: nowrap; overflow: hidden; position: relative; width: 247px; left: 3px;">
-                  <div style="float: left;">keep breakout rooms open</div>
-                </div>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4791666666666667}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">11:30
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercise: Transcriptomics and proteomics (Cont.)&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Exercise:
-                Transcriptomics and proteomics (Cont.)</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Breakout Rooms&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Breakout
-                Rooms</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercises&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(251, 188, 4);">Exercises</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">12:00
-                PM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Introduction to Orthology&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Introduction
-                to Orthology</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Lecture</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.53125}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">12:45
-                PM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wrap up&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Wrap
-                up</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Lecture</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5416666666666666}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">1:00
-                PM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Optional extra help time&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Optional
-                extra help time</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TBD&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">TBD</td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5625}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">1:30
-                PM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Zoom closes&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Zoom
-                closes</td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-            </tr>
-            <tr style="height: 21px;">
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44546}" data-sheets-numberformat="{&quot;1&quot;:5,&quot;2&quot;:&quot;mmm. d&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183); font-weight: bold; font-style: italic;">Dec.
-                16</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Thursday&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">Thursday</td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.3541666666666667}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">8:30
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Zoom opens&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">Zoom
-                opens</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(183, 183, 183);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NA&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(183, 183, 183);">NA</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.375}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">9:00
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Galaxy in VEuPathDB - understanding output files and what to do with them.&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Galaxy
-                in VEuPathDB - understanding output files and what to do with
-                them.</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Lecture</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.3958333333333333}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">9:30
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ontologies and Enrichment analysis&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Ontologies
-                and Enrichment analysis</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Lecture</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.40625}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">9:45
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercise: Enrichment and galaxy export&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Exercise:
-                Enrichment and galaxy export</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Breakout Rooms&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Breakout
-                Rooms</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercises&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(251, 188, 4);">Exercises</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4583333333333333}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">11:00
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Break&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Break</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;keep breakout rooms open&quot;}"
-                style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); overflow: visible; padding: 2px 3px; vertical-align: top;">
-                <div style="white-space: nowrap; overflow: hidden; position: relative; width: 247px; left: 3px;">
-                  <div style="float: left;">keep breakout rooms open</div>
-                </div>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4791666666666667}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">11:30
-                AM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Phenotypic data&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Phenotypic
-                data</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Lecture</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">12:00
-                PM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercise: Phenotypic data searches&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Exercise:
-                Phenotypic data searches</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Breakout Rooms&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Breakout
-                Rooms</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Exercises&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(251, 188, 4);">Exercises</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.53125}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">12:45
-                PM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Final Wrap up&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Final
-                Wrap up</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Main Room&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">Main
-                Room</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lecture&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Lecture</td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5416666666666666}"
-                data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">1:00
-                PM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Optional extra help time&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Optional
-                extra help time</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TBD&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">TBD</td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-            </tr>
-            <tr style="height: 21px;">
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(239, 239, 239);"><br>
-              </td>
-              <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5625}" data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;h:mm am/pm&quot;,&quot;3&quot;:1}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">1:30
-                PM</td>
-              <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Zoom closes&quot;}"
-                style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Zoom
-                closes</td>
-              <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><br>
-              </td>
-              <td></td>
-            </tr>
-          </tbody>
-        </table>
+    <details closed="" open="">
+      <summary><b>Schedule</b></summary>
+      <p>All times in this schedule are given as Eastern Daylight time. Please
+        convert to your location <a href="https://www.thetimezoneconverter.com/"
+          target="_blank">https://www.thetimezoneconverter.com/</a>.</p>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Monday, December&nbsp; 13th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event and PDF handouts</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens</td>
+            <td> <br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>9:00 AM</td>
+            <td>General welcome, workshop overview</td>
+            <td>Omar Harb, Mary Ann McDowell and David Roos</td>
+            <td><br>
+              <iframe src="https://www.youtube.com/embed/_YF5cRpR6ak" title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen=""
+                height="115"
+                frameborder="0"
+                width="180"></iframe></td>
+          </tr>
+          <tr>
+            <td>9:10 AM</td>
+            <td>Introduction to VEuPathDB - lecture with live demos</td>
+            <td>Omar Harb</td>
+            <td> <br>
+              <iframe src="https://www.youtube.com/embed/lKjMaGWIupM" title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen=""
+                height="115"
+                frameborder="0"
+                width="180"></iframe>
+            </td>
+          </tr>
+          <tr>
+            <td>10:00 AM</td>
+            <td> <a href="%7B%7B%27/documents/Dec2021/SiteSearchDec2021.pdf%27%20%7C%20absolute_url%7D%7D"><b>Site
+                  Search</b></a> <br>
+              <a href="%7B%7B%27/documents/Dec2021/OrganismPreferencesDec2021.pdf%27%20%7C%20absolute_url%7D%7D"><b>Organism
+                  Preferences</b></a> <br>
+              <a href="%7B%7B%27/documents/Dec2021/GenePageDec2021.pdf%27%20%7C%20absolute_url%7D%7D"><b>Gene
+                  Page</b></a> </td>
+            <td>Breakout rooms</td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:00 AM</td>
+            <td>Break</td>
+            <td><br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:30 AM</td>
+            <td><span style="color: #0000ee;"></span>Introduction to Search
+              Strategies</td>
+            <td>Susanne Warrenfeltz</td>
+            <td><iframe src="https://www.youtube.com/embed/kE64HktDLlA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen=""
+                height="115"
+                frameborder="0"
+                width="180"></iframe>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>12:00 PM</td>
+            <td><a href="%7B%7B%27/documents/Dec2021/StrategiesDec2021.pdf%27%20%7C%20absolute_url%7D%7D"><b>Search
+                  Strategies</b></a></td>
+            <td><br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>12:45 PM</td>
+            <td>Wrap up</td>
+            <td><br>
+            </td>
+            <td> <br>
+              <iframe src="https://www.youtube.com/embed/yeieEKTA1Ts" title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen=""
+                height="115"
+                frameborder="0"
+                width="180"></iframe>
+            </td>
+          </tr>
+          <tr>
+            <td>1:00 PM</td>
+            <td>Free option discussion and questions</td>
+            <td><br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:30 PM</td>
+            <td>Zoom closes</td>
+            <td><br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+          </tr>
+          <tr>
+          </tr>
+          <tr>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Tuesday, December 14th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event and PDF handouts</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens</td>
+            <td> <br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>9:00 AM</td>
+            <td>Introduction to the genome browser</td>
+            <td>Gloria I. Giraldo-Calderón</td>
+            <td>Lecture <br>
+            </td>
+          </tr>
+          <tr>
+            <td>9:30 AM</td>
+            <td>Exercise: genome browser basics</td>
+            <td>Break out<br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>10:30 AM</td>
+            <td>Exploring gene models in the genome browser</td>
+            <td>David Roos</td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:00 AM</td>
+            <td>Break</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:30 AM</td>
+            <td>Exercise: exploring gene models</td>
+            <td>Break out<br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>12:30 PM</td>
+            <td>Gene models discussion and day wrap up</td>
+            <td>David Roos<br>
+            </td>
+            <td> Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:00 PM</td>
+            <td>Free option discussion and questions</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:30 PM</td>
+            <td>Zoom closes</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Wednesday, December 15th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>9:00 AM</td>
+            <td>Introduction to Galaxy in VEuPathDB</td>
+            <td>Omar Harb</td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>10:00 AM</td>
+            <td>Transcriptomic and Proteomics data</td>
+            <td>Susanne Warrenfeltz </td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>10:30 AM</td>
+            <td>Exercise: Transcriptomics and proteomics</td>
+            <td><span style="color: #0000ee;"></span>Break out</td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:00 AM</td>
+            <td>Break</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:30 AM</td>
+            <td>Exercise: Transcriptomics and proteomics (Cont.)</td>
+            <td>Break out </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>12:00 PM</td>
+            <td>Introduction to Orthology</td>
+            <td>Mark Hickman</td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>12:45 PM</td>
+            <td>Wrap up</td>
+            <td>Evelina Basenko<br>
+            </td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:00 PM</td>
+            <td>Free option discussion and questions</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:30 PM</td>
+            <td>Zoom closes</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Thursday, December 16th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens</td>
+            <td> <br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>9:00 AM</td>
+            <td>Galaxy in VEuPathDB - understanding output files and what to do
+              with them.</td>
+            <td><br>
+              Mark Hickman and Omar Harb<br>
+            </td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>9:30 AM</td>
+            <td>Ontologies and Enrichment analysis<a href="%7B%7B%27/documents/2021athens/Day4/Metabolic_Pathways.pdf%27%20%7C%20absolute_url%7D%7D"
+                class="ex-link"><b></b></a></td>
+            <td>Mark Hickman<br>
+            </td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>9:45 AM</td>
+            <td>Exercise: Enrichment and galaxy export</td>
+            <td>Break out<br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:00 AM</td>
+            <td>Break</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:30 AM</td>
+            <td>Phenotypic data</td>
+            <td>Evelina Basenko</td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>12:00 PM</td>
+            <td>Exercise: Phenotypic data searches</td>
+            <td>Break out<br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>12:45 PM</td>
+            <td>Final wrap up</td>
+            <td>All<br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:00 PM</td>
+            <td>Free option discussion and questions</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:30 PM</td>
+            <td>Zoom closes</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </details>
   <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 <hr>
 <h3>Previous Workshops - Details</h3>
