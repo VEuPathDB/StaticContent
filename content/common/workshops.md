@@ -153,6 +153,7 @@ table.hor-minimalist-a tfoot tr {
     <p>9AM - 1PM US Eastern time</p>
     <p>Registration deadline: December 6, 2021</p>
     <p><b><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_0Il5yFqOJ056ENU" target="_blank">Registration form</a></b></p>
+<<<<<<< HEAD
     <details open>
     <summary><b>Workshop Schedule</b></summary>
 <p><table class="hor-minimalist-a">
@@ -912,6 +913,417 @@ site search
             </tr>
           </tbody>
         </table>
+=======
+    <details closed="" open="">
+      <summary><b>Schedule</b></summary>
+      <p>All times in this schedule are given as Eastern Daylight time. Please
+        convert to your location <a href="https://www.thetimezoneconverter.com/"
+          target="_blank">https://www.thetimezoneconverter.com/</a>.</p>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Monday, December&nbsp; 13th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event and PDF handouts</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens</td>
+            <td> <br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>9:00 AM</td>
+            <td>General welcome, workshop overview</td>
+            <td>Omar Harb, Mary Ann McDowell and David Roos</td>
+            <td><br>
+              <iframe src="https://www.youtube.com/embed/_YF5cRpR6ak" title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen=""
+                height="115"
+                frameborder="0"
+                width="180"></iframe></td>
+          </tr>
+          <tr>
+            <td>9:10 AM</td>
+            <td>Introduction to VEuPathDB - lecture with live demos</td>
+            <td>Omar Harb</td>
+            <td> <br>
+              <iframe src="https://www.youtube.com/embed/lKjMaGWIupM" title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen=""
+                height="115"
+                frameborder="0"
+                width="180"></iframe>
+            </td>
+          </tr>
+          <tr>
+            <td>10:00 AM</td>
+            <td> <a href="%7B%7B%27/documents/Dec2021/SiteSearchDec2021.pdf%27%20%7C%20absolute_url%7D%7D"><b>Site
+                  Search</b></a> <br>
+              <a href="%7B%7B%27/documents/Dec2021/OrganismPreferencesDec2021.pdf%27%20%7C%20absolute_url%7D%7D"><b>Organism
+                  Preferences</b></a> <br>
+              <a href="%7B%7B%27/documents/Dec2021/GenePageDec2021.pdf%27%20%7C%20absolute_url%7D%7D"><b>Gene
+                  Page</b></a> </td>
+            <td>Breakout rooms</td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:00 AM</td>
+            <td>Break</td>
+            <td><br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:30 AM</td>
+            <td><span style="color: #0000ee;"></span>Introduction to Search
+              Strategies</td>
+            <td>Susanne Warrenfeltz</td>
+            <td><iframe src="https://www.youtube.com/embed/kE64HktDLlA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen=""
+                height="115"
+                frameborder="0"
+                width="180"></iframe>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>12:00 PM</td>
+            <td><a href="%7B%7B%27/documents/Dec2021/StrategiesDec2021.pdf%27%20%7C%20absolute_url%7D%7D"><b>Search
+                  Strategies</b></a></td>
+            <td><br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>12:45 PM</td>
+            <td>Wrap up</td>
+            <td><br>
+            </td>
+            <td> <br>
+              <iframe src="https://www.youtube.com/embed/yeieEKTA1Ts" title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen=""
+                height="115"
+                frameborder="0"
+                width="180"></iframe>
+            </td>
+          </tr>
+          <tr>
+            <td>1:00 PM</td>
+            <td>Free option discussion and questions</td>
+            <td><br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:30 PM</td>
+            <td>Zoom closes</td>
+            <td><br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+          </tr>
+          <tr>
+          </tr>
+          <tr>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Tuesday, December 14th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event and PDF handouts</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens</td>
+            <td> <br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>9:00 AM</td>
+            <td>Introduction to the genome browser</td>
+            <td>Gloria I. Giraldo-Calderón</td>
+            <td>Lecture <br>
+            </td>
+          </tr>
+          <tr>
+            <td>9:30 AM</td>
+            <td>Exercise: genome browser basics</td>
+            <td>Break out<br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>10:30 AM</td>
+            <td>Exploring gene models in the genome browser</td>
+            <td>David Roos</td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:00 AM</td>
+            <td>Break</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:30 AM</td>
+            <td>Exercise: exploring gene models</td>
+            <td>Break out<br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>12:30 PM</td>
+            <td>Gene models discussion and day wrap up</td>
+            <td>David Roos<br>
+            </td>
+            <td> Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:00 PM</td>
+            <td>Free option discussion and questions</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:30 PM</td>
+            <td>Zoom closes</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Wednesday, December 15th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>9:00 AM</td>
+            <td>Introduction to Galaxy in VEuPathDB</td>
+            <td>Omar Harb</td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>10:00 AM</td>
+            <td>Transcriptomic and Proteomics data</td>
+            <td>Susanne Warrenfeltz </td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>10:30 AM</td>
+            <td>Exercise: Transcriptomics and proteomics</td>
+            <td><span style="color: #0000ee;"></span>Break out</td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:00 AM</td>
+            <td>Break</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:30 AM</td>
+            <td>Exercise: Transcriptomics and proteomics (Cont.)</td>
+            <td>Break out </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>12:00 PM</td>
+            <td>Introduction to Orthology</td>
+            <td>Mark Hickman</td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>12:45 PM</td>
+            <td>Wrap up</td>
+            <td>Evelina Basenko<br>
+            </td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:00 PM</td>
+            <td>Free option discussion and questions</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:30 PM</td>
+            <td>Zoom closes</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Thursday, December 16th</b></th>
+          </tr>
+          <tr>
+            <th style="text-align:left">Time</th>
+            <th style="text-align:left">Event</th>
+            <th style="text-align:left">Instructor</th>
+            <th style="text-align:left">Recording</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30am</td>
+            <td>Zoom session opens</td>
+            <td> <br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>9:00 AM</td>
+            <td>Galaxy in VEuPathDB - understanding output files and what to do
+              with them.</td>
+            <td><br>
+              Mark Hickman and Omar Harb<br>
+            </td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>9:30 AM</td>
+            <td>Ontologies and Enrichment analysis<a href="%7B%7B%27/documents/2021athens/Day4/Metabolic_Pathways.pdf%27%20%7C%20absolute_url%7D%7D"
+                class="ex-link"><b></b></a></td>
+            <td>Mark Hickman<br>
+            </td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>9:45 AM</td>
+            <td>Exercise: Enrichment and galaxy export</td>
+            <td>Break out<br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:00 AM</td>
+            <td>Break</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>11:30 AM</td>
+            <td>Phenotypic data</td>
+            <td>Evelina Basenko</td>
+            <td>Lecture<br>
+            </td>
+          </tr>
+          <tr>
+            <td>12:00 PM</td>
+            <td>Exercise: Phenotypic data searches</td>
+            <td>Break out<br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>12:45 PM</td>
+            <td>Final wrap up</td>
+            <td>All<br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:00 PM</td>
+            <td>Free option discussion and questions</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:30 PM</td>
+            <td>Zoom closes</td>
+            <td><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </details>
+>>>>>>> 002ba50b... updated workshop table
   <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 <hr>
 <h3>Previous Workshops - Details</h3>
