@@ -154,6 +154,7 @@ table.hor-minimalist-a tfoot tr {
     <p>Registration deadline: December 6, 2021</p>
     <p><b><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_0Il5yFqOJ056ENU" target="_blank">Registration form</a></b></p>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <details open>
     <summary><b>Workshop Schedule</b></summary>
 <p><table class="hor-minimalist-a">
@@ -914,6 +915,8 @@ site search
           </tbody>
         </table>
 =======
+=======
+>>>>>>> 002ba50b... updated workshop table
     <details closed="" open="">
       <summary><b>Schedule</b></summary>
       <p>All times in this schedule are given as Eastern Daylight time. Please
@@ -1323,6 +1326,9 @@ site search
         </tbody>
       </table>
     </details>
+<<<<<<< HEAD
+>>>>>>> 002ba50b... updated workshop table
+=======
 >>>>>>> 002ba50b... updated workshop table
   <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 <hr>
