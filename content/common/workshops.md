@@ -511,7 +511,7 @@ th.recording {
           </tr>
           <tr>
             <td>9:45 AM</td>
-            <td>Exercise: Enrichment and galaxy export</td>
+            <td><a href="{{'/documents/Dec2021/GO_Enrichment_Dec2021.pdf' | absolute_url}}"><b>GO Enrichment</b></a></td>
             <td>Break out<br>
             </td>
             <td><br>
@@ -534,7 +534,7 @@ th.recording {
           </tr>
           <tr>
             <td>12:00 PM</td>
-            <td>Exercise: Phenotypic data searches</td>
+            <td><a href="{{'/documents/Dec2021/Phenotypic_data_Dec2021.pdf' | absolute_url}}"><b>Phenotypic Data</b></a></td>
             <td>Break out<br>
             </td>
             <td><br>
