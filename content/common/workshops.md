@@ -495,7 +495,7 @@ th.recording {
             <td>Galaxy in VEuPathDB - understanding output files and what to do
               with them.</td>
             <td><br>
-              Mark Hickman and Omar Harb<br>
+              Mark Hickman, Kathryn Crouch and Omar Harb<br>
             </td>
             <td>Lecture<br>
             </td>
