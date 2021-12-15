@@ -402,14 +402,14 @@ th.recording {
             <td>9:00 AM</td>
             <td>Introduction to Galaxy in VEuPathDB</td>
             <td>Omar Harb</td>
-            <td>Lecture<br>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/L5Q6Qlpihk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </td>
           </tr>
           <tr>
             <td>10:00 AM</td>
             <td>Transcriptomic and Proteomics data</td>
             <td>Susanne Warrenfeltz </td>
-            <td>Lecture<br>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/fq-DLEAifDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </td>
           </tr>
           <tr>
@@ -439,15 +439,15 @@ th.recording {
             <td>12:00 PM</td>
             <td>Introduction to Orthology</td>
             <td>Mark Hickman</td>
-            <td>Lecture<br>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/3QY8AxUY9iI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </td>
           </tr>
           <tr>
             <td>12:45 PM</td>
-            <td>Wrap up</td>
+            <td>Wrap up and Discussion</td>
             <td>Evelina Basenko<br>
             </td>
-            <td>Lecture<br>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/_nunD90f7Hs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </td>
           </tr>
           <tr>
