@@ -501,7 +501,7 @@ th.recording {
             </td>
           </tr>
           <tr>
-            <td>9:30 AM</td>
+            <td>10:00 AM</td>
             <td>Ontologies and Enrichment analysis<a href="%7B%7B%27/documents/2021athens/Day4/Metabolic_Pathways.pdf%27%20%7C%20absolute_url%7D%7D"
                 class="ex-link"><b></b></a></td>
             <td>Mark Hickman<br>
@@ -510,7 +510,7 @@ th.recording {
             </td>
           </tr>
           <tr>
-            <td>9:45 AM</td>
+            <td>10:30 AM</td>
             <td><a href="{{'/documents/Dec2021/GO_Enrichment_Dec2021.pdf' | absolute_url}}"><b>GO Enrichment</b></a></td>
             <td>Break out<br>
             </td>
