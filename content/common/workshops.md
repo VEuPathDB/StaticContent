@@ -511,7 +511,9 @@ th.recording {
           </tr>
           <tr>
             <td>10:30 AM</td>
-            <td><a href="{{'/documents/Dec2021/GO_Enrichment_Dec2021.pdf' | absolute_url}}"><b>GO Enrichment</b></a></td>
+            <td><a href="{{'/documents/Dec2021/GO_Enrichment_Dec2021.pdf' | absolute_url}}"><b>GO Enrichment</b></a><br>
+            <a href="{{'/documents/Dec2021/up_regulated_genelist.pdf' | absolute_url}}"><b>Up-regulated gene list</b></a><br>
+<a href="{{'/documents/Dec2021/down_regulated_genelist.pdf' | absolute_url}}"><b>Down-regulated gene list</b></a></td>
             <td>Break out<br>
             </td>
             <td><br>
