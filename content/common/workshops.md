@@ -497,7 +497,7 @@ th.recording {
             <td><br>
               Mark Hickman, Kathryn Crouch and Omar Harb<br>
             </td>
-            <td>Lecture<br>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/TT5QDnaPblE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </td>
           </tr>
           <tr>
@@ -506,7 +506,7 @@ th.recording {
                 class="ex-link"><b></b></a></td>
             <td>Mark Hickman<br>
             </td>
-            <td>Lecture<br>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/aLe_T5vCeQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </td>
           </tr>
           <tr>
@@ -531,7 +531,7 @@ th.recording {
             <td>11:30 AM</td>
             <td>Phenotypic data</td>
             <td>Evelina Basenko</td>
-            <td>Lecture<br>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Z6IQunqFyjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </td>
           </tr>
           <tr>
