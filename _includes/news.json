@@ -7,7 +7,7 @@
      "attributes": {
                      "date":{{ post.date | truncate: 10, "" | jsonify }},
                      "item":{{ post.content | jsonify  }},
-                     "tag":{{ post.title | remove:' ' | remove:'.' | remove:')' | remove:'(' | jsonify }},
+                     "tag":{{ post.title | remove:' ' | remove:'.' | remove:')' | remove:'(' | strip_html | jsonify }},
                      "category":{{ post.tag | jsonify  }},
                      "headline":{{ post.title | jsonify }}},
              "id": {{ post.date | remove: " " | jsonify }}
