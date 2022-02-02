@@ -40,7 +40,7 @@
 - type: mining
   question: "How do I transform a list of genes into homologs in a different organism?"
   answer: |
-           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
+           Start with a list of genes using an existing strategy, such as [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
            1. Click "Add a step"
            2. Choose "Transform"
            3. Click "Orthologs"
