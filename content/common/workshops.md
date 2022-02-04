@@ -165,7 +165,7 @@ th.recording {
 
   <div class="anchor"><a name="#AGSvectorbase2022"></a></div>
   <div class="workshop">
-    <h3>Arthropod Genomicis Symposium 2022 pre-meeting workshop: VectorBase hands-on Workshop</h3>
+    <h3>Arthropod Genomicis Symposium 2022 pre-meeting VectorBase hands-on Workshop</h3>
     <p>June 6-9, 2022 (In Person, Notre Dame, IN)</p>
     <p>9AM - 5PM US Eastern time</p>
     <p>Registration deadline: early-before May 10, 2022 (late-after May 10, 2022)</p>
