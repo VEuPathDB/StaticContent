@@ -189,7 +189,7 @@ th.recording {
           <tr>
             <td>9:00 AM</td>
             <td>General welcome, workshop overview</td>
-            <td>Gloria I. Giraldo-Calderón, Samuel Rund, Omar Harb, Mary Ann McDowell</td>
+            <td>Gloria I. Giraldo-Calderón, Omar Harb, Mary Ann McDowell, Samuel Rund</td>
             <td><br>
               <iframe src="https://www.youtube.com/embed/_YF5cRpR6ak" title="YouTube video player"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
