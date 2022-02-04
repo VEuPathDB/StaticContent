@@ -102,7 +102,7 @@ th.recording {
     <!-- <p>Details coming soon</p> -->
 
   <div class="contents">     
-    <h4><a href="#AGSvectorbase2022">Arthropod Genomicis Symposium 2022 pre-meeting workshop: VectorBase hands-on Workshop</a></h4>
+    <h4><a href="#AGSvectorbase2022">Arthropod Genomicis Symposium 2022 pre-meeting VectorBase hands-on Workshop</a></h4>
       June 6-9, 2022 (In Person, Notre Dame, IN)
   </div>
 
@@ -111,17 +111,17 @@ th.recording {
   <h3>Previous Workshops</h3>
 
  <div class="contents">     
-    <h4><a href="#DECveupath2021">VEuPathDB Workshop 2021 (Virtual)</a></h4>
+    <h4><a href="#DECveupath2021">VEuPathDB Workshop 2021</a></h4>
       December 13-16, 2021 (Virtual)
   </div>
   
   <div class="contents">     
-    <h4><a href="#veupath2021">Annual VEuPathDB Workshop 2021 (Virtual)</a></h4>
+    <h4><a href="#veupath2021">Annual VEuPathDB Workshop 2021</a></h4>
       June 7-10, 2021 (Virtual)
   </div>
   
   <div class="contents">
-    <h4><a href="#hinxton2021">2021 Fungal Pathogen Genomics (Virtual)</a></h4>
+    <h4><a href="#hinxton2021">2021 Fungal Pathogen Genomics</a></h4>
     May 10-14, 2021 (Virtual).
   </div>
 
@@ -136,10 +136,10 @@ th.recording {
   </div>
 
   <div class="contents">
-    <h4>2020 VectorBase, Arthropod Genomics Symposium, AGS, (Virtual).</h4>
+    <h4>Arthropod Genomicis Symposium 2020 pre-meeting VectorBase hands-on Workshop</h4>
     <ul>
-      <li><a href="#vb-2020-7-24">VectorBase workshop at AGS</a>, on Friday July 24th, 2020 (3-hour event)</li>
-      <li><a href="#apollo-2020-7-27">Gene manual annotation with Apollo workshop at AGS</a>, on Monday July 27th, 2020 (2-hour event)</li>
+      <li><a href="#vb-2020-7-24">VectorBase workshop at AGS</a>, on Friday July 24th, 2020 (3-hour virtual event)</li>
+      <li><a href="#apollo-2020-7-27">Gene manual annotation with Apollo workshop at AGS</a>, on Monday July 27th, 2020 (2-hour virtual event)</li>
     </ul>
   </div>
 
