@@ -122,17 +122,17 @@ th.recording {
   
   <div class="contents">
     <h4><a href="#hinxton2021">2021 Fungal Pathogen Genomics</a></h4>
-    May 10-14, 2021 (Virtual).
+    May 10-14, 2021 (Virtual)
   </div>
 
   <div class="contents">
     <h4><a href="#hinxton2020">Working with Protozoan Parasite Database Resources</a></h4>
-    October 5-9, 2020 (Virtual).
+    October 5-9, 2020 (Virtual)
   </div>
 
   <div class="contents">
     <h4><a href="#mpm2020">Molecular Parasitology Pre-meeting VEuPathDB workshop</a></h4>
-    Friday September 18th, 2020 from 10AM - 2PM US Eastern time (Virtual).
+    September 18, 2020 (10AM - 2PM US Eastern time, Virtual)
   </div>
 
   <div class="contents">
