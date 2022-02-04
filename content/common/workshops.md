@@ -185,18 +185,11 @@ th.recording {
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <td>8:30am</td>
-            <td>Zoom session opens</td>
-            <td> <br>
-            </td>
-            <td> <br>
-            </td>
-          </tr>
+         
           <tr>
             <td>9:00 AM</td>
             <td>General welcome, workshop overview</td>
-            <td>Omar Harb, Mary Ann McDowell and David Roos</td>
+            <td>Gloria I. Giraldo-Calderón, Samuel Rund, Omar Harb, Mary Ann McDowell</td>
             <td><br>
               <iframe src="https://www.youtube.com/embed/_YF5cRpR6ak" title="YouTube video player"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -207,7 +200,7 @@ th.recording {
           </tr>
           <tr>
             <td>9:10 AM</td>
-            <td>Introduction to VEuPathDB - lecture with live demos</td>
+            <td>Introduction to VectorBase - lecture with live demos</td>
             <td>Omar Harb</td>
             <td> <br>
               <iframe src="https://www.youtube.com/embed/lKjMaGWIupM" title="YouTube video player"
