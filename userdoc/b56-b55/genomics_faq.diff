@@ -1,0 +1,27 @@
+43c43
+<            Start with a list of genes using an existing strategy, such as [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
+---
+>            Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
+231,251d230
+< - type: download
+<   question: "How can I programmatically download genome files?"
+<   answer: |
+<           There are several options to programmatically (command line) access and download genome files from our servers.
+<            <p>Examples below are for FungiDB genome, <a href="https://fungidb.org/common/downloads/Current_Release/Spombe972h/">Spombe972h.</a> </p>
+<            <p>You can use wget and the url as the path.  For example:</p>
+<            <p>wget</p>
+<            <p>https://fungidb.org/common/downloads/Current_Release/Spombe972h/fasta/data/FungiDB-55_Spombe972h_Genome.fasta</p>  
+<            <p>To find the correct file URL visit Data > Download data file</p>
+<            <p>Note you can use “Current_Release” or find older versions in the respective folder. </p>
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/programaticallydownloadgenomefile.png"  />
+<            <p>Alternatively, lftp works so you can (after finding the correct directory as in above) use: </p>
+<            <p>lftp</p>
+<            <p>https://fungidb.org/common/downloads/Current_Release/Spombe972h/</p>
+<            <p>and then use a command such as:</p>
+<            <p>mget fasta/data/*</p>
+<            <p>Or</p>
+<            <p>mget gff/data/*</p>
+<            <p>to get all files in that folder.</p>
+<   uid: programmaticallydownloadgenomefiles
+<   projects: ""
+\ No newline at end of file

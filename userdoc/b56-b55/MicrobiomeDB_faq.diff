@@ -1,0 +1,18 @@
+116d115
+<            
+120d118
+<            * Code for our **[eukaryotic detection](https://github.com/wbazant/marker_alignments)** and a [nextflow implementaton of this workflow](https://github.com/wbazant/marker-alignments-nextflow) are used for identifying eukaryotic microbes in shotgun metagenomic data using the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database
+147a146
+> 
+160,170d158
+< - type: general
+<   question: "How do you identify eukaryotes in metagenomic data on your site?"
+<   answer: 
+<            Detection of eukaryotes in shotgun studies on our site is based on the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database.  
+<            Methods and software describing how we map reads to this reference database and call taxa can be found [here](https://github.com/wbazant/marker_alignments), and our nextflow workflow used to implement this approach on all samples on our database can be found [here](https://github.com/wbazant/marker-alignments-nextflow).
+<            We will soon be posting a preprint that describes this software and the rationale for implementing eukaryotic detection on MicrobiomeDB.
+<   uid: g13
+<   projects: "MicrobiomeDB"
+< 
+< 
+< 
