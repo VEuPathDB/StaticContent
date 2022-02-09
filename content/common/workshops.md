@@ -102,8 +102,9 @@ th.recording {
     <!-- <p>Details coming soon</p> -->
 
   <div class="contents">     
-    <h4><a href="#AGSvectorbase2022">Arthropod Genomicis Symposium 2022 pre-meeting VectorBase hands-on Workshop</a></h4>
-      June 6-9, 2022 (In Person, Notre Dame, IN)
+    <h4><a href="#AGSvectorbase2022">Arthropod Genomicis Symposium 2022: pre-meeting VectorBase hands-on Workshop</a></h4>
+    6:00pm on Sunday, 5th June to 12:00pm (noon) on Thursday, 9th 2022 
+    (In Person, University of Notre Dame, Notre Dame, IN)
   </div>
 
   <hr>
@@ -162,34 +163,116 @@ th.recording {
 
 <div class="contents">
 
-  <div class="anchor"><a name="#AGSvectorbase2022"></a></div>
+  <div class="anchor"><a name="AGSvectorbase2022"></a></div>
   <div class="workshop">
-    <h3>Arthropod Genomicis Symposium 2022 pre-meeting VectorBase hands-on Workshop</h3>
-    <p>June 6-9, 2022 (In Person, Notre Dame, IN)</p>
-    <p>9AM - 5PM US Eastern time</p>
-    <p>Registration deadline: early-before May 10, 2022 (late-after May 10, 2022)</p>
-    <p><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSey4EXyCUpQtBJH9yo5a-WUhysSPWirRf7Eeu1iZUR7qELrHA/viewform" target="_blank">Registration form</a></b></p>
+    <h3>Arthropod Genomicis Symposium 2022: pre-meeting VectorBase hands-on Workshop</h3>
+    <p>6:00pm on Sunday, 5th June to 12:00pm (noon) on Thursday, 9th 2022</p>
+    <p>Room location to be confirmed (in Person, University of Notre Dame, Notre Dame, IN)</p>
+
+    <p><h2>About the workshop</h2></p>
+    <p>Over 5 days, we will provide a thorough and intensive introduction to VectorBase +50 genomes, other data, tools, and resources, which are part of the VEuPathDB Bioinformatics Resource Center. All the demonstrations and exercises will be done with VectorBase, which is exactly the same page layout and tools as any of the other VEuPathDB resources, which include pathogens transmitted by vectors such as Plasmodium, Leishmania, Trypanosoma, Babesia, and Theileria.</p>        
+    <p>The workshop is centered on determining what is — and isn't — working for you, the end-user. Our goal is to maintain a fruitful and ongoing conversation between our team and you, the scientists working in medical entomology, to obtain more efficient, effective ways to help you reach your goals. We hope this experience is as beneficial for you as it is for us, and we look forward to learning together.</p>
+    <p>This workshop is scheduled as a symposium pre-event, and even if you are not attending AGS, you are more than welcome to attend the workshop.</p> 
+
+    <p><h2>COVID-19</h2></p>
+    <p>As this is an in-person event (sessions will not be virtual or recorded), we will comply with all the host campus COVID-19 policies and guidelines as presented here: covid.nd.edu.</p>
+
+    <p><h2>About us</h2></p>
+    <p>If you are a new user and will like to know more details about our resources to decide if you want to apply for the workshop, we invite you to read our more recent VEuPathDB (Aurrecoechea et al 2022) and VectorBase (Giraldo-Calderón et al 2022) papers, and explore our free tutorials and previously recorded webinars and workshops (https://vectorbase.org/vectorbase/app/static-content/landing.html). </p>
+
+    <p><h2>Computer and internet access</h2></p>
+    <p>A room with computers will not be provided, please bring your own laptop. It should have the latest Firefox, Google Chrome, Safari or Microsoft edge versions installed. </p>
+
+    <p><h2>Registration</h2></p>
+    <ul>
+        <li>Number of course participants: maximum 30 </li>
+        <li>Registration will open on: 28 February 2022</li>
+        <li>Registration may be made via <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSey4EXyCUpQtBJH9yo5a-WUhysSPWirRf7Eeu1iZUR7qELrHA/viewform" target="_blank">this web form</a></b> (this information is confidential and it helps us know our prospective audience to customize examples and exercises)</li>
+        <li>Registration deadline: while three is no deadline for registration, it will be taken on a first-come, first-served basis until we fill the workshop with 30 seats</li>
+        <li>Who should register: the ideal candidate should have a need to learn how to use VectorBase and presumably has a research question involving this database to help you solve it. Scientists at any career stage are welcome to apply.</li>
+      </ul> 
+      
+      <p><h2>Cost and fees</h2></p>
+      <p>The registration fee is $ 60 USD, payments should be made using this AGS-University of Notre Dame link. The registration fee includes learning materials and some meals (see agenda for details).</p>
+      <p>You are expected to provide your own transportation, lodging, and additional meals. At your request, we can email to you a registration acceptance letter to facilitate your application for external travel funds or scholarships. </p>
+
+      <p><h2>Lodging</h2></p>
+      <p>If you prefer to stay on campus for the workshop, University of Notre Dame Morris Inn (https://morrisinn.nd.edu/) and the XYZ dorm (which dorm has been reserved?) single room accommodations are available for you at the special rate of XYZ with the promo code xyz. There are only a few rooms available for the workshop participants and we do expect these to fill up quickly.</p>
+
+      <p><h2>Weather</h2></p>
+      <p>Buildings in the summer might be very cold, you might want to plan to bring a sweater. The month with the most rain in Indiana is June, it is a good idea to have an umbrella.</p>
+
+      <p><h2>Questions</h2></p>
+      <p>Please direct inquiries or questions to help@vectorbase.org</p>
+
+      <p><h2>Instructors</h2></p>
+
+      <br>
+      <p>Gloria I. Giraldo-Calderón, PhD</p>
+      <p>Samuel Rund, PhD</p>
+      <p>University of Notre Dame</p>
+      <p>Notre Dame, IN, USA</p>
+      <br>
+      
+      <br>
+      <p>Omar Harb, PhD</p>
+      <p>University of Pennsylvania</p>
+      <p>Philadelphia, PA, USA</p>
+      <br>
+
+      <br>
+      <p>Members of the VEuPathDB outreach team</p>
+      <br>
+
+      <p><h2>Guest instructors</h2></p>
+
+      <br>
+      <p>Mary Ann McDowell, PhD</p>
+      <p>Joint-PI, VectorBase/VEuPathDB NIAID-NIH Contract</p>
+      <p>University of Notre Dame</p>
+      <p>Notre Dame, IN, USA </p>
+      <br>
+
+<br>
+      <p>Christopher Childers, PhD</p>
+      <p>Monica Poelchau, PhD</p>
+      <p>USDA-ARS, National Agricultural Library</p>
+      <p>Beltsville, MD, USA</p>
+      <br>
+
+      <br>
+      <p>Robert Waterhouse, PhD </p>
+      <p>University of Lausanne</p>
+      <p>The Swiss Institute of Bioinformatics</p>
+      <p>Switzerland</p>
+      <br>
+
+
     <details closed="" open="">
       <summary><b>Schedule</b></summary>
       
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Monday, December&nbsp; 13th</b></th>
+            <th class="break"><b>Sunday, 5th June 2022</b></th>
           </tr>
           <tr>
             <th class="time">Time</th>
-            <th class="event">Event and PDF handouts</th>
+            <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
-            <th class="recording">Recording</th>
+            <th class="recording">DELETE</th>
           </tr>
         </thead>
         <tbody>
          
           <tr>
-            <td>9:00 AM</td>
-            <td>General welcome, workshop overview</td>
-            <td>Gloria I. Giraldo-Calderón, Omar Harb, Mary Ann McDowell, Samuel Rund</td>
+            <td>6:00 - 9:00 pm</td>
+            <td>Registration and welcome dinner
+                General introduction to omics 
+                Attendees introductions
+                Group photo
+                </td>
+            <td>GIGC, OH, SR, MAM</td>
             <td><br>
               <iframe src="https://www.youtube.com/embed/_YF5cRpR6ak" title="YouTube video player"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -199,9 +282,9 @@ th.recording {
                 width="180"></iframe></td>
           </tr>
           <tr>
-            <td>9:10 AM</td>
-            <td>Introduction to VectorBase - lecture with live demos</td>
-            <td>Omar Harb</td>
+            <td>8:00 am</td>
+            <td>Breakfast (provided)</td>
+            <td></td>
             <td> <br>
               <iframe src="https://www.youtube.com/embed/lKjMaGWIupM" title="YouTube video player"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -212,42 +295,39 @@ th.recording {
             </td>
           </tr>
           <tr>
-            <td>10:00 AM</td>
-            <td><a href="{{'/documents/Dec2021/SiteSearchDec2021.pdf' | absolute_url}}"><b>Site Search</b></a> <br><br>
-              <a href="{{'/documents/Dec2021/OrganismPreferencesDec2021.pdf' | absolute_url}}"><b>Organism Preferences</b></a> <br><br>
-              <a href="{{'/documents/Dec2021/GenePageDec2021.pdf' | absolute_url}}"><b>Gene Page</b></a></td>
-            <td>Breakout rooms</td>
+            <td>9:00 am</td>
+            <td>VectorBase general introduction: remit, data tools and resource</td>
+            <td>GIGC</td>
             <td> <br>
             </td>
           </tr>
           <tr>
-            <td>11:00 AM</td>
-            <td>Break</td>
-            <td><br>
+            <td>9:30 am</td>
+            <td>Search: Finding genes (with Site Search and BLAST), building search strategies and visiting gene pages</td>
+            <td>GIGC<br>
             </td>
             <td> <br>
             </td>
           </tr>
           <tr>
-            <td>11:30 AM</td>
-            <td><span style="color: #0000ee;"></span>Introduction to Search
-              Strategies</td>
-            <td>Susanne Warrenfeltz</td>
+            <td>10:00 am</td>
+            <td>Coffee/Tea Break (provided)</td>
+            <td></td>
             <td><iframe width="180" height="115" src="https://www.youtube.com/embed/xlh2urUvayg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               <br>
             </td>
           </tr>
           <tr>
-            <td>12:00 PM</td>
-            <td><a href="{{'/documents/Dec2021/StrategiesDec2021.pdf' | absolute_url}}"><b>Search Strategies</b></a></td>
-            <td><br>
+            <td>10:20 am</td>
+            <td>Search -- Continued</td>
+            <td>GIG<br>
             </td>
             <td> <br>
             </td>
           </tr>
           <tr>
-            <td>12:45 PM</td>
-            <td>Wrap up</td>
+            <td>11:00 am</td>
+            <td>Genome Browser I: Alignments and Comparative Genomics</td>
             <td><br>
             </td>
             <td> <br>
@@ -260,16 +340,48 @@ th.recording {
             </td>
           </tr>
           <tr>
-            <td>1:00 PM</td>
-            <td>Free option discussion and questions</td>
+            <td>12:00 pm </td>
+            <td>Lunch (provided)</td>
             <td><br>
             </td>
             <td> <br>
             </td>
           </tr>
           <tr>
-            <td>1:30 PM</td>
-            <td>Zoom closes</td>
+            <td>1:00 pm</td>
+            <td>RNA sequence data analysis via Galaxy, Part I Uploading data (Group Exercise)</td>
+            <td><br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:45 pm </td>
+            <td>Genome Browser II: Interpreting RNAseq data</td>
+            <td><br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>2:30 pm </td>
+            <td>Coffee/Tea Break (provided)</td>
+            <td><br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>2:50 pm</td>
+            <td>Homology gene relationships via OrthoMCL DB</td>
+            <td>GIGC<br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>4:00 pm - 5:00 pm</td>
+            <td>RNA sequence data analysis via Galaxy, Part I starting the workflow (Group Exercise)</td>
             <td><br>
             </td>
             <td> <br>
@@ -287,19 +399,19 @@ th.recording {
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Tuesday, December 14th</b></th>
+            <th class="break"><b>Tuesday, 7th June 2022</b></th>
           </tr>
           <tr>
             <th class="time">Time</th>
-            <th class="event">Event and PDF handouts</th>
+            <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
-            <th class="recording">Recording</th>
+            <th class="recording">DELETE</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>8:30am</td>
-            <td>Zoom session opens</td>
+            <td>8:00 am</td>
+            <td>Breakfast (provided)</td>
             <td> <br>
             </td>
             <td> <br>
@@ -307,23 +419,23 @@ th.recording {
           </tr>
           <tr>
             <td>9:00 AM</td>
-            <td>Introduction to the genome browser</td>
-            <td>Gloria I. Giraldo-Calderón</td>
+            <td>Sequence Exercises: Motifs, domains and colocation</td>
+            <td>GIGC</td>
             <td><iframe width="180" height="115" src="https://www.youtube.com/embed/QlAqjN0X16A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </td>
           </tr>
           <tr>
             <td>9:30 AM</td>
-            <td><a href="{{'/documents/Dec2021/JBrowseBasicsDec2021.pdf' | absolute_url}}"><b>Genome browser basics</b></a></td>
-            <td>Break out<br>
+            <td>Data retrieval and download</td>
+            <td>GICG<br>
             </td>
             <td><br>
             </td>
           </tr>
           <tr>
-            <td>10:30 AM</td>
-            <td>Exploring gene models in the genome browser</td>
-            <td>David Roos</td>
+            <td>10:00 am</td>
+            <td>Coffee/Tea Break (provided)</td>
+            <td></td>
             <td><iframe width="180" height="115" src="https://www.youtube.com/embed/ZOVmmWKxB7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </td>
           </tr>
@@ -562,6 +674,10 @@ th.recording {
         </tbody>
       </table>
     </details>
+
+    <p><h2>Sponsored and organized by</h2></p>
+    INSER LOGOS HERE
+
   <!-- =========== PREVIOUS WORKSHOPS  ======================== -->
 <hr>
 <h3>Previous Workshops - Details</h3>
