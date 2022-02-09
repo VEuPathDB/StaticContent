@@ -266,9 +266,13 @@ th.recording {
         <tbody>
          
           <tr>
-            <td>9:00 AM</td>
-            <td>General welcome, workshop overview</td>
-            <td>Gloria I. Giraldo-Calderón, Omar Harb, Mary Ann McDowell, Samuel Rund</td>
+            <td>6:00 - 9:00 pm</td>
+            <td>Registration and welcome dinner
+                General introduction to omics 
+                Attendees introductions
+                Group photo
+                </td>
+            <td>GIGC, OH, SR, MAM</td>
             <td><br>
               <iframe src="https://www.youtube.com/embed/_YF5cRpR6ak" title="YouTube video player"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -278,9 +282,9 @@ th.recording {
                 width="180"></iframe></td>
           </tr>
           <tr>
-            <td>9:10 AM</td>
-            <td>Introduction to VectorBase - lecture with live demos</td>
-            <td>Omar Harb</td>
+            <td>8:00 am</td>
+            <td>Breakfast (provided)</td>
+            <td></td>
             <td> <br>
               <iframe src="https://www.youtube.com/embed/lKjMaGWIupM" title="YouTube video player"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -291,42 +295,39 @@ th.recording {
             </td>
           </tr>
           <tr>
-            <td>10:00 AM</td>
-            <td><a href="{{'/documents/Dec2021/SiteSearchDec2021.pdf' | absolute_url}}"><b>Site Search</b></a> <br><br>
-              <a href="{{'/documents/Dec2021/OrganismPreferencesDec2021.pdf' | absolute_url}}"><b>Organism Preferences</b></a> <br><br>
-              <a href="{{'/documents/Dec2021/GenePageDec2021.pdf' | absolute_url}}"><b>Gene Page</b></a></td>
-            <td>Breakout rooms</td>
+            <td>9:00 am</td>
+            <td>VectorBase general introduction: remit, data tools and resource</td>
+            <td>GIGC</td>
             <td> <br>
             </td>
           </tr>
           <tr>
-            <td>11:00 AM</td>
-            <td>Break</td>
-            <td><br>
+            <td>9:30 am</td>
+            <td>Search: Finding genes (with Site Search and BLAST), building search strategies and visiting gene pages</td>
+            <td>GIGC<br>
             </td>
             <td> <br>
             </td>
           </tr>
           <tr>
-            <td>11:30 AM</td>
-            <td><span style="color: #0000ee;"></span>Introduction to Search
-              Strategies</td>
-            <td>Susanne Warrenfeltz</td>
+            <td>10:00 am</td>
+            <td>Coffee/Tea Break (provided)</td>
+            <td></td>
             <td><iframe width="180" height="115" src="https://www.youtube.com/embed/xlh2urUvayg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               <br>
             </td>
           </tr>
           <tr>
-            <td>12:00 PM</td>
-            <td><a href="{{'/documents/Dec2021/StrategiesDec2021.pdf' | absolute_url}}"><b>Search Strategies</b></a></td>
-            <td><br>
+            <td>10:20 am</td>
+            <td>Search -- Continued</td>
+            <td>GIG<br>
             </td>
             <td> <br>
             </td>
           </tr>
           <tr>
-            <td>12:45 PM</td>
-            <td>Wrap up</td>
+            <td>11:00 am</td>
+            <td>Genome Browser I: Alignments and Comparative Genomics</td>
             <td><br>
             </td>
             <td> <br>
@@ -339,16 +340,48 @@ th.recording {
             </td>
           </tr>
           <tr>
-            <td>1:00 PM</td>
-            <td>Free option discussion and questions</td>
+            <td>12:00 pm </td>
+            <td>Lunch (provided)</td>
             <td><br>
             </td>
             <td> <br>
             </td>
           </tr>
           <tr>
-            <td>1:30 PM</td>
-            <td>Zoom closes</td>
+            <td>1:00 pm</td>
+            <td>RNA sequence data analysis via Galaxy, Part I Uploading data (Group Exercise)</td>
+            <td><br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>1:45 pm </td>
+            <td>Genome Browser II: Interpreting RNAseq data</td>
+            <td><br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>2:30 pm </td>
+            <td>Coffee/Tea Break (provided)</td>
+            <td><br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>2:50 pm</td>
+            <td>Homology gene relationships via OrthoMCL DB</td>
+            <td>GIGC<br>
+            </td>
+            <td> <br>
+            </td>
+          </tr>
+          <tr>
+            <td>4:00 pm - 5:00 pm</td>
+            <td>RNA sequence data analysis via Galaxy, Part I starting the workflow (Group Exercise)</td>
             <td><br>
             </td>
             <td> <br>
@@ -366,19 +399,19 @@ th.recording {
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Tuesday, December 14th</b></th>
+            <th class="break"><b>Tuesday, 7th June 2022</b></th>
           </tr>
           <tr>
             <th class="time">Time</th>
-            <th class="event">Event and PDF handouts</th>
+            <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
-            <th class="recording">Recording</th>
+            <th class="recording">DELETE</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>8:30am</td>
-            <td>Zoom session opens</td>
+            <td>8:00 am</td>
+            <td>Breakfast (provided)</td>
             <td> <br>
             </td>
             <td> <br>
@@ -386,23 +419,23 @@ th.recording {
           </tr>
           <tr>
             <td>9:00 AM</td>
-            <td>Introduction to the genome browser</td>
-            <td>Gloria I. Giraldo-Calderón</td>
+            <td>Sequence Exercises: Motifs, domains and colocation</td>
+            <td>GIGC</td>
             <td><iframe width="180" height="115" src="https://www.youtube.com/embed/QlAqjN0X16A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </td>
           </tr>
           <tr>
             <td>9:30 AM</td>
-            <td><a href="{{'/documents/Dec2021/JBrowseBasicsDec2021.pdf' | absolute_url}}"><b>Genome browser basics</b></a></td>
-            <td>Break out<br>
+            <td>Data retrieval and download</td>
+            <td>GICG<br>
             </td>
             <td><br>
             </td>
           </tr>
           <tr>
-            <td>10:30 AM</td>
-            <td>Exploring gene models in the genome browser</td>
-            <td>David Roos</td>
+            <td>10:00 am</td>
+            <td>Coffee/Tea Break (provided)</td>
+            <td></td>
             <td><iframe width="180" height="115" src="https://www.youtube.com/embed/ZOVmmWKxB7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </td>
           </tr>
