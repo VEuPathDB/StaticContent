@@ -1,0 +1,151 @@
+---
+layout: post
+title: VectorBase 55 Released
+category: [VectorBase,VEuPathDB]
+---
+{% assign project = page.category[0] %}
+
+
+<h3>We are pleased to announce the release of {{project}} 55.</h3>
+
+<section>
+  <h3>Free online workshop </h3>
+  <div style="margin-left: 3em;">
+  Free 4-day virtual VEuPathDB workshop: December 13-16, 2021, 9AM-1PM US Eastern time. Preliminary schedule is available on <a href="/a/app/static-content/workshops.html#DECveupath2021">our workshops page</a>. If you are interested and able to attend, please <b><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_0Il5yFqOJ056ENU">register</a></b> by December 6th, 2021.
+</div>
+</section>
+
+<section>
+  <h3>Another way to stay in touch:</h3>
+  <div style="margin-left: 3em;">
+    The bioinformatic resource centers have established a <a href="https://www.reddit.com/r/BRC_users" target="_blank">Reddit community</a> for free and open discussions. We welcome everyone to join the discussion.
+  </div>
+</section>
+
+<section>
+  <h3>Release 55 Webinar</h3>
+  <div style="margin-left: 3em;">
+    Join us on Thursday December 9, 2021 at 10am EDT for our Release 55 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 55.  
+    <a href="https://attendee.gotowebinar.com/register/3655307034315220750" target="_blank">Register here</a>  
+  </div>
+</section>
+
+<section>
+  <h3>New features in {{project}} 55</h3>
+  <div style="margin-left: 3em;">
+   <ul>
+    <li>My Organism Preferences is a new option for filtering menus to a subset of organisms in {{project}}. Use the <a href="/a/app/preferred-organisms">My Organism Preferences page</a> to choose the organisms you are interested in.  {{project}} will function as if the database contained only your chosen organisms.  The feature is easily disabled/enabled at any time from a button located under the header on every page. <a href="/vectorbase/app/static-content/faq.html#organismpreferences"> 
+     (FAQs > General site usage > How do I select my organism preferences?)</a> </li>
+
+    <li>The Reference sequence track in JBrowse has a new color scheme. <a href="{{'/assets/images/JBrowse-new-colors.gif' | absolute_url}}">View a tutorial GIF.</a>
+      <ul>
+        <li>Purines appear in shades of blue while pyrimidines appear in shades of yellow.</li>
+        <li>Stop codons are red while methionines are green.</li>
+        <li>The six frame translations appear in gray.</li>
+        <li>Nucleotides and amino acids are distinguished by color at low zoom.  Under high zoom they are also labeled with single letter codes.</li>
+      </ul>
+    </li>
+
+    <li>Galaxy Version updated on 8 Oct, 2021: This updated version of the Galaxy software improves job and workflow performance. In addition to the previous set of tools and workflows, we now offer additional tools, such as those for scRNA-seq (Scanpy, Seurat), species ID (CryptoGenotyper), table manipulation (Datamash), and proteomics (MSstats, Search GUI, Peptide Shaker, MaxQuant). Certain tools have been upgraded and now function without errors: bamCoverage, bgzip, tabix and Upload File. </li>
+
+    <li>Enhanced searching on gene record pages &ndash; The content navigation tool now accesses detailed descriptions of {{project}} gene page content, making it easier to find the content that you need.</li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <h3>New data in {{project}} 55</h3>
+  <div style="margin-left: 3em;">
+
+    <h4>Genome Sequence and Annotation</h4>
+    <ul>
+        <li><a href="/a/app/record/dataset/DS_dd9510023e"><i>Anopheles merus </i> MAF 2021 </a> &ndash; <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA660041" target="_blank">PRJNA660041</a>. </li>
+
+        <li><a href="/a/app/record/dataset/DS_f18070316b"><i>Aedes albopictus</i> Foshan FPA</a> &ndash; This organism is updated with stable IDs of format AALFPA_* (AALFPA_058096).  Old IDs are mapped to new, so searching with old IDs will return the pages labeled with the new ID.  Transcripts use the gene stable id + ".R" + a number (AALFPA_058096.R24198). Proteins use the same id as their transcript, substituting ".P" for the ".R" (AALFPA_058096.P24198).
+        </li>
+    </ul>
+    <br>
+
+    <h4>Community annotations integrated</h4>
+    Gene annotations (gene model updates, functional assignments, etc.) that were updated by VectorBase users via Apollo have been integrated into the official VectorBase annotation for the following organisms. (<a href="/vectorbase/app/static-content/VectorBase/news.html#VectorBasecommunityfunctionalandstructuralgenemanualannotations">More details</a>)
+    <ul>
+      <li><i>Anopheles albimanus</i> STECLA <a href="/vectorbase/app/record/dataset/DS_865dea4bd2#Contacts">AalbS2.7 ---> AalbS2.8</a></li>
+
+      <li><i>Anopheles coluzzii</i> Ngousso <a href='/vectorbase/app/record/dataset/DS_f398fa98de#GenomeHistory'>AcolN1.1 ---> AcolN1.2</a></li>
+
+      <li><i>Anopheles quadriannulatus</i> SANGWE <a href='/vectorbase/app/record/dataset/TMPTX_aquaSANGWE#Contacts'>AquaS1.12 ---> AquaS1.13</a></li> 
+
+      <li><i>Rhodnius prolixus</i> CDC <a href='/vectorbase/app/record/dataset/TMPTX_rproCDC#Contacts'>RproC3.4 ---> RproC3.5</a></li>
+    </ul>
+    <br>
+
+    <h4>RNA Sequence</h4>
+    <i>Anopheles coluzzii </i>Ngousso
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_f580d421b8">Male mosquito contribution towards malaria transmission: mating influences the Anopheles female midgut transcriptome</a> &ndash; Female mosquitoes were blood or sugar feed. In both groups, some were kept with males for mating (virgins were in separate cages). Injections were done with ecdysone plus ethanol as the carrier, or ethanol alone, no injection controls were also used. <a href="http://www.ncbi.nlm.nih.gov/pubmed/31697788" target="_blank">Dahalan et al. 2019</a>.</li>
+    </ul>
+
+    <i>Anopheles culicifacies </i>A-37
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_e7a7a0d646">Transcriptome of olfactory tissues (antennae, maxillary palp, proboscis and labium), dissected at three time points with different types of meals</a> &ndash; Female mosquito An. culicifacies A. Olfactory tissues combined to make a single pool for each time point: 1-2 day old naive sugar feed, 5-6 day old 30 min blood feed, 5-6 day old 30 hrs blood feed. <a href="http://www.ncbi.nlm.nih.gov/pubmed/29875685" target="_blank">Das De et al. 2018</a>.</li>
+
+      <li><a href="/a/app/record/dataset/DS_e3d414191c">Transcriptome of the brain, dissected at three time points with different types of meals</a> &ndash; Total RNA was extracted from the collected brain tissues (approximately 30 mosquitoes were pooled to form one single sample): naïve, 30min, and 30h post blood meal (PBM). <a href="https://www.biorxiv.org/content/10.1101/774430v2" target="_blank">Das De et al. 2020</a>.</li>
+    </ul>
+
+    <i>Glossina brevipalpis</i> IAEA
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_b6ef2ee985">Mid-gut and bacteriome transcriptomes from low vector competence tsetse flies</a> &ndash; Mid-gut and bacteriome RNA-Seq transcriptomes of teneral (1 day old, unfed) virgin tsetse flies from Glossina brevipalpis (low vector competence). <a href="http://www.ncbi.nlm.nih.gov/pubmed/34058984" target="_blank">Medina Munoz et al. 2021</a></li>
+    </ul>
+
+    <i>Glossina morsitans</i> YALE
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_c41572c719">Mid-gut and bacteriome transcriptomes from high vector competence tsetse flies</a> &ndash; Mid-gut and bacteriome RNA-Seq transcriptomes of teneral (1 day old, unfed) virgin tsetse flies from Glossina morsitans (high vector competence). <a href="http://www.ncbi.nlm.nih.gov/pubmed/34058984" target="_blank">Medina Munoz et al. 2021</a></li>
+    </ul>
+    <br>
+
+    <h4>Proteomics</h4>
+    <i>Anopheles gambiae</i> PEST
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_9a93ee2686">Brain Proteomics</a> &ndash; A large-scale mapping of the brain proteome of An. gambiae was carried out using high-resolution tandem mass spectrometry. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24937107" target="_blank">Dwivedi et al. 2014</a></li>
+      
+      <li><a href="/a/app/record/dataset/DS_af57b0e081">Proteome of head samples </a> &ndash; 1) whole head including all appendages (maxillary palps, proboscises and antennae), 2) only antenna, 3) only eyes<a href="https://link.springer.com/chapter/10.1007%2F978-3-319-24244-6_2" target="_blank">Champion et al. 2015</a></li>
+
+      <li><a href="/a/app/record/dataset/DS_ed4f77a659">Pupal cuticles and larval head capsules</a> &ndash; Proteomics analysis of the cast head capsules left behind when fourth instar larvae molted to pupae and on cast whole body cuticles left behind when pupae molted to adults.<a href="http://www.ncbi.nlm.nih.gov/pubmed/17244542" target="_blank">He et al. 2007</a></li>
+    </ul>
+
+    <i>Ixodes scapularis</i> Wikel
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_bfb7dc0a72">Changes in the Proteome of Langat-Infected <i>Ixodes scapularis</i> ISE6 Cells</a> &ndash; High resolution LC-MS/MS was used to analyze the proteome of Langat-infected ISE6 cells <a href="https://pubmed.ncbi.nlm.nih.gov/26859745/" target="_blank">Grabowski et al. 2016</a></li>
+    </ul>
+    <br>
+
+
+    
+    <h4>Population Biology</h4>
+    <p>7 projects have been added:</p>
+    <ul>
+      <li>Insecticide resistance status of Anopheles arabiensis in irrigated and non-irrigated areas in western Kenya (VBP0000778: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000778_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000778">view on map</a>, 2 collections, 18 samples, 10 phenotypes, 20 genotypes)</li>
+      <li>Mechanisms of pyrethroid resistance in Aedes (Stegomyia) aegypti from Colombia (VBP0000779: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000779_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000779">view on map</a>, 6 collections, 35 samples, 35 phenotypes, 0 genotypes)</li>
+      <li>Species level mosquito surveillance in Uganda by PRISM ICEMR group, 2011 - 2017 (VBP0000781: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000781_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000781">view on map</a>, 4608 collections, 5949 samples, 0 phenotypes, 0 genotypes)</li>
+      <li>Species level mosquito surveillance in Uganda by PRISM ICEMR group, 2017 - 2019 (VBP0000780: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000780_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000780">view on map</a>, 136 collections, 272 samples, 0 phenotypes, 0 genotypes)</li>
+      <li>HLCs from four sites in Ghana (VBP0000782: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000782_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000782">view on map</a>, 95 collections, 273 samples, 0 phenotypes, 0 genotypes)</li>
+      <li>A whole transcriptomic approach provides novel insights into the molecular basis of organophosphate and pyrethroid resistance in Anopheles arabiensis from Ethiopia (VBP0000783: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000783_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000783">view on map</a>, 1 collections, 72 samples, 70 phenotypes, 5 genotypes)</li>
+      <li>Pyrethroid and Etofenprox Resistance in Anopheles gambiae and Anopheles coluzzii from Vegetable Farms in Yaoundé, Cameroon: Dynamics, Intensity and Molecular Basis (VBP0000784: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000784_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000784">view on map</a>, 12 collections, 47 samples, 36 phenotypes, 26 genotypes)</li>
+    </ul>
+    <br>
+
+
+    <p>2 projects have been updated (usually to fix minor data inconsistencies):</p>
+    <ul>
+      <li>Determination of the discriminating concentration of chlorfenapyr (pyrrole) and Anopheles gambiae sensu lato susceptibility testing in preparation for distribution of Interceptor® G2 insecticide-treated nets. (VBP0000776: <a href="/a/app/record/dataset/DS_1502557a5e">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000776">view on map</a>, 266 collections, 537 samples, 537 phenotypes, 0 genotypes)</li>
+      <li>Habitat Hydrology and Geomorphology Control the Distribution of Malaria Vector Larvae in Rural Africa (VBP0000613: <a href="/a/app/record/dataset/DS_475c0b56c4">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000613">view on map</a>, 567 collections, 3396 samples, 0 phenotypes, 0 genotypes)</li>
+    </ul>
+  </div>  
+</section>
+
+<section>
+  <aside>
+    <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>
+
