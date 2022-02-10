@@ -60,10 +60,10 @@ table.hor-minimalist-a tr {
   border-bottom: 1px solid #ddd;
 }
 table.hor-minimalist-a tr:hover td {
-  color: #039; 
+  color: #039;
 }
 table.hor-minimalist-a tr.other td {
-  background-color: #fafafa;         
+  background-color: #fafafa;
 }
 table.hor-minimalist-a tbody {
   display: table-row-group;
@@ -71,7 +71,7 @@ table.hor-minimalist-a tbody {
   border-color: inherit;
 }
 table.hor-minimalist-a td {
-  color: #669; 
+  color: #669;
   padding: 0.5em 0.5em 0.5em;
   vertical-align: middle;
 }
@@ -98,8 +98,21 @@ th.recording {
 <h1>Ticks and Tick-Borne Pathogens Open Community Webinar Series</h1>
 
 <div class="static-content">
-
-
-
+<p></p>
+<br>
+<p>All times in this schedule are given as Eastern Daylight time. Please
+        convert to your location <a href="https://www.thetimezoneconverter.com/"
+          target="_blank">https://www.thetimezoneconverter.com/</a>.</p>
+<table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="date">Date</th>
+            <th class="time">Time (US Eastern)</th>
+            <th class="topic">Webinar Topic</th>
+            <th class="presenter">Presenter</th>
+            <th class="reglink">Registration Link</th>
+          </tr>
+        </thead>
+        <tbody>
 
 </div>
