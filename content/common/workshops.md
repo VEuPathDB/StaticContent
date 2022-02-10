@@ -137,7 +137,7 @@ th.recording {
   </div>
 
   <div class="contents">
-    <h4>Arthropod Genomicis Symposium 2020 pre-meeting VectorBase hands-on Workshop</h4>
+    <h4>Arthropod Genomicis Symposium 2020: pre-meeting VectorBase hands-on Workshop</h4>
     <ul>
       <li><a href="#vb-2020-7-24">VectorBase workshop at AGS</a>, on Friday July 24th, 2020 (3-hour virtual event)</li>
       <li><a href="#apollo-2020-7-27">Gene manual annotation with Apollo workshop at AGS</a>, on Monday July 27th, 2020 (2-hour virtual event)</li>
