@@ -98,6 +98,7 @@ th.recording {
 <h1>Ticks and Tick-Borne Pathogens Open Community Webinar Series</h1>
 
 <div class="static-content">
+
 <p></p>
 <br>
 <p>All times in this schedule are given as Eastern Daylight time. Please
@@ -119,7 +120,56 @@ th.recording {
             <td>11AM</td>
             <td>Ticks! Vectors for human pathogens</td>
             <td>VEuPathDB</td>
-            <td>Registration link</td> 
+            <td>Registration link</td>
+          </tr>
+           <tr>
+            <td>March 22, 2022</td>
+            <td>11AM</td>
+            <td>Bunyavirales in Ticks</td>
+            <td>BV-BRC</td>
+            <td>Registration link</td>
+          </tr>
+          <tr>
+            <td>April 5, 2022</td>
+            <td>11AM</td>
+            <td>Tick Endosymbionts</td>
+            <td>BV-BRC</td>
+            <td>Registration link</td>
+          </tr>
+          <tr>
+            <td>April 19, 2022</td>
+            <td>11AM</td>
+            <td>Metagenomic analysis of tick samples</td>
+            <td>BV-BRC</td>
+            <td>Registration link</td>
+          </tr>
+          <tr>
+            <td>May 3, 2022</td>
+            <td>11AM</td>
+            <td>Resources for Eukaryotic Pathogens Transmitted by Ticks</td>
+            <td>VEuPathDB</td>
+            <td>Registration link</td>
+          </tr>
+          <tr>
+            <td>May 17, 2022</td>
+            <td>11AM</td>
+            <td>Comparative Genomics of Tick-Transmitted Bacteria</td>
+            <td>BV-BRC</td>
+            <td>Registration link</td>
+          </tr>
+          <tr>
+            <td>May 31, 2022</td>
+            <td>11AM</td>
+            <td>Flaviviridae in Ticks</td>
+            <td>BV-BRC</td>
+            <td>Registration link</td>
+          </tr>
+          <tr>
+            <td>June 14, 2022</td>
+            <td>11AM</td>
+            <td>Tick bacteria (TBA)</td>
+            <td>BV-BRC</td>
+            <td>Registration link</td>
           </tr>
           </tbody>
 </div>
