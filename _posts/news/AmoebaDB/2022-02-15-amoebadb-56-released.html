@@ -36,22 +36,13 @@ category: [AmoebaDB,VEuPathDB]
 <section>
   <h3>New features in {{project}} 56</h3>
   <div style="margin-left: 3em;">
+  <h4>BLAST Tool Improvements</h4>
    <ul>
-    <li>My Organism Preferences is a new option for filtering menus to a subset of organisms in {{project}}. Use the <a href="/a/app/preferred-organisms">My Organism Preferences page</a> to choose the organisms you are interested in.  {{project}} will function as if the database contained only your chosen organisms.  The feature is easily disabled/enabled at any time from a button located under the header on every page. <a href="/a/app/static-content/faq.html#organismpreferences"> More Details</a> </li>
-
-    <li>The Reference sequence track in JBrowse has a new color scheme. <a href="{{'/assets/images/JBrowse-new-colors.gif' | absolute_url}}">View a tutorial GIF.</a>
-      <ul>
-        <li>Purines appear in shades of blue while pyrimidines appear in shades of yellow.</li>
-        <li>Stop codons are red while methionines are green.</li>
-        <li>The six frame translations appear in gray.</li>
-        <li>Nucleotides and amino acids are distinguished by color at low zoom.  Under high zoom they are also labeled with single letter codes.</li>
-      </ul>
-    </li>
-
-    <li>Galaxy Version updated on 8 Oct, 2021: This updated version of the Galaxy software improves job and workflow performance. In addition to the previous set of tools and workflows, we now offer additional tools, such as those for scRNA-seq (Scanpy, Seurat), species ID (CryptoGenotyper), table manipulation (Datamash), and proteomics (MSstats, Search GUI, Peptide Shaker, MaxQuant). Certain tools have been upgraded and now function without errors: bamCoverage, bgzip, tabix and Upload File. </li>
-
-    <li>Enhanced searching on gene record pages &ndash; The content navigation tool now accesses detailed descriptions of {{project}} gene page content, making it easier to find the content that you need.</li>
-    </ul>
+    <li>Our <a href="/a/app/workspace/blast/new">BLAST (multi-query capable)</a> tool is the new standard. Known previously as BLAST<i>beta</i>, BLAST (multi-query capable) can perform queries with one or more FASTA-formatted sequences and offers many download types. Our tool uses NCBI BLAST to find genes, genomic sequences, ESTs, or PopSet Sequences that have BLAST similarity to your input sequence. The single BLAST tool has been removed.</li>
+    <li>There is a new download option for the results of multi-sequence queries (combined result).  The new 'This table (csv)' download option retrieves the {{project}} result table for the results of multi-sequence queries (combined result). </li>
+    <li>Maybe we can update this video <a href="https://youtu.be/mEjt8FhC-W8" target="_blank">https://youtu.be/mEjt8FhC-W8</a></li>
+    <li></li>
+  </ul>
   </div>
 </section>
 
