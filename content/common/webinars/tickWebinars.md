@@ -114,5 +114,12 @@ th.recording {
           </tr>
         </thead>
         <tbody>
-
+          <tr>
+            <td>March 8, 2022</td>
+            <td>11AM</td>
+            <td>Ticks! Vectors for human pathogens</td>
+            <td>VEuPathDB</td>
+            <td>Registration link</td> 
+          </tr>
+          </tbody>
 </div>
