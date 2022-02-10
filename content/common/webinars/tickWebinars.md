@@ -98,9 +98,6 @@ th.recording {
 <h1>Ticks and Tick-Borne Pathogens Open Community Webinar Series</h1>
 
 <div class="static-content">
-
-<p></p>
-<br>
 <p>All times in this schedule are given as Eastern Daylight time. Please
         convert to your location <a href="https://www.thetimezoneconverter.com/"
           target="_blank">https://www.thetimezoneconverter.com/</a>.</p>
