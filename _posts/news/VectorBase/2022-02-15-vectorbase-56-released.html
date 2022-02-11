@@ -1,0 +1,99 @@
+---
+layout: post
+title: VectorBase 56 Released
+category: [VectorBase,VEuPathDB]
+---
+{% assign project = page.category[0] %}
+
+
+<h3>We are pleased to announce the release of {{project}} 56.</h3>
+
+<section>
+  <h3>Release 56 Webinar</h3>
+  <div style="margin-left: 3em;">
+    Join us on Thursday February 24th, 2022 at 10am EDT for our Release 56 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 56.  
+    <a href="https://attendee.gotowebinar.com/register/580233597692794126" target="_blank">Register here</a>  
+  </div>
+</section>
+
+<section>
+  <h3>New features in {{project}} 56</h3>
+  <div style="margin-left: 3em;">
+   <ul>
+    <li>My Organism Preferences is a new option for filtering menus to a subset of organisms in {{project}}. Use the <a href="/a/app/preferred-organisms">My Organism Preferences page</a> to choose the organisms you are interested in.  {{project}} will function as if the database contained only your chosen organisms.  The feature is easily disabled/enabled at any time from a button located under the header on every page. <a href="/vectorbase/app/static-content/faq.html#organismpreferences"> 
+     (FAQs > General site usage > How do I select my organism preferences?)</a> </li>
+
+    <li>The Reference sequence track in JBrowse has a new color scheme. <a href="{{'/assets/images/JBrowse-new-colors.gif' | absolute_url}}">View a tutorial GIF.</a>
+      <ul>
+        <li>Purines appear in shades of blue while pyrimidines appear in shades of yellow.</li>
+        <li>Stop codons are red while methionines are green.</li>
+        <li>The six frame translations appear in gray.</li>
+        <li>Nucleotides and amino acids are distinguished by color at low zoom.  Under high zoom they are also labeled with single letter codes.</li>
+      </ul>
+    </li>
+
+    <li>Galaxy Version updated on 8 Oct, 2021: This updated version of the Galaxy software improves job and workflow performance. In addition to the previous set of tools and workflows, we now offer additional tools, such as those for scRNA-seq (Scanpy, Seurat), species ID (CryptoGenotyper), table manipulation (Datamash), and proteomics (MSstats, Search GUI, Peptide Shaker, MaxQuant). Certain tools have been upgraded and now function without errors: bamCoverage, bgzip, tabix and Upload File. </li>
+
+    <li>Enhanced searching on gene record pages &ndash; The content navigation tool now accesses detailed descriptions of {{project}} gene page content, making it easier to find the content that you need.</li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <h3>New data in {{project}} 56</h3>
+  <div style="margin-left: 3em;">
+
+    <h4>Genome Sequence and Annotation</h4>
+    <ul>
+        <li><a href="/a/app/record/dataset/DS_92e55b3591"><i>Aedes albopictus</i> C6/36 cell line</a> &ndash; <a href="http://www.ncbi.nlm.nih.gov/pubmed/29329394" target="_blank">Miller et al. 2018</a></li>
+
+        <li><a href="/a/app/record/dataset/DS_ade3ddae6f"><i>Anopheles arabiensis</i> DONGOLA 2021</a> &ndash; <a href="http://www.ncbi.nlm.nih.gov/pubmed/33718948" target="_blank">Zamyatin et al. 2021</a>
+        </li>
+
+        <li><a href="/a/app/record/dataset/DS_6bfebbdd8a"><i>Anopheles coluzzii</i> MOPTI</a> &ndash; <a href="http://www.ncbi.nlm.nih.gov/pubmed/33718948" target="_blank">Zamyatin et al. 2021</a>
+        </li>
+
+        <li><a href="/a/app/record/dataset/DS_2f1ec58add"><i>Culex quinquefasciatusi</i> JHB</a> &ndash; <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA644878/" target="_blank">PRJNA644878</a>
+        </li>
+    </ul>
+    <br>
+
+    <h4>RNA Sequence</h4>
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_047c56768c">Mosquito midguts (MGs) and salivary glands (SGs) infected with <i>P. falciparum</i></a> &ndash; Transcriptome of <i>A. gambiae</i> s.s. Kisumu midguts (MGs) and salivary glands (SGs) infected with <i>P. falciparum</i> 3D7. Data are aligned to <i>Anopheles gambiae</i> PEST. <a href="http://www.ncbi.nlm.nih.gov/pubmed/33987532" target="_blank">Ruiz et al. 2021</a></li>
+    </ul>
+    <br>
+    
+    <h4>Population Biology</h4>
+    <p>8 projects have been added:</p>
+    <ul>
+      <li>Monthly HLC trapping from Benin (VBP0000785: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000785_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000785">view on map</a>, 156 collections, 625 samples, 0 phenotypes, 0 genotypes)</li>
+      <li>Ethopia mosquito surveillance 2020 - 2021 (VBP0000786: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000786_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000786">view on map</a>, 177 collections, 1289 samples, 0 phenotypes, 0 genotypes)</li>
+      <li>Investigating Molecular Mechanisms of Insecticide Resistance in the Eastern Democratic Republic of the Congo (VBP0000787: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000787_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000787">view on map</a>, 3 collections, 19 samples, 10 phenotypes, 31 genotypes)</li>
+      <li>Analysis of the insecticide resistance mechanism in Anopheles culicifacies sensu lato from a malaria-endemic state in India (VBP0000788: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000788_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000788">view on map</a>, 1 collections, 5 samples, 4 phenotypes, 2 genotypes)</li>
+      <li>Resistance Status of Anopheles maculipennis and Anopheles superpictus to the Conventional Insecticides in Northeastern Caspian Littoral, Iran (VBP0000789: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000789_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000789">view on map</a>, 1 collections, 10 samples, 10 phenotypes, 0 genotypes)</li>
+      <li>Insecticide resistance status of important malaria vectors in a tribal district of Rajasthan (VBP0000790: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000790_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000790">view on map</a>, 5 collections, 28 samples, 28 phenotypes, 0 genotypes)</li>
+      <li>Contemporary Resistance Status of Anopheles Stephensi against Insecticides in District Dungarpur, Rajasthan, India (VBP0000791: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000791_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000791">view on map</a>, 8 collections, 32 samples, 32 phenotypes, 0 genotypes)</li>
+      <li>Evaluation of the interaction between insecticide resistance‑associated genes and malaria transmission in Anopheles gambiae sensu lato in central Côte d’Ivoire (VBP0000792: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000792_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000792">view on map</a>, 1 collections, 8 samples, 0 phenotypes, 32 genotypes)</li>
+    </ul>
+    <br>
+
+
+    <p>6 projects have been updated (usually to fix minor data inconsistencies):</p>
+    <ul>
+      <li>Overhead tank is the potential breeding habitat of Anopheles stephensi in an urban transmission setting of Chennai, India (VBP0000182: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000182_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000182">view on map</a>, 827 collections, 6306 samples, 0 phenotypes, 0 genotypes)</li>
+      <li>Species level mosquito surveillance in Uganda by PRISM ICEMR group, 2017 - 2019 (VBP0000780: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000780_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000780">view on map</a>, 136 collections, 272 samples, 0 phenotypes, 0 genotypes)</li>
+      <li>Species level mosquito surveillance in Uganda by PRISM ICEMR group, 2011 - 2017 (VBP0000781: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000781_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000781">view on map</a>, 4608 collections, 5949 samples, 0 phenotypes, 0 genotypes)</li>
+      <li>Insecticide susceptibility status of Anopheles gambiae (s.l.) in South-West Cameroon four years after long-lasting insecticidal net mass distribution (VBP0000301: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000301_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000301">view on map</a>, 3 collections, 9 samples, 8 phenotypes, 12 genotypes)</li>
+      <li>Genetic structure of the mosquito Aedes aegypti in local forest and domestic habitats in Gabon and Kenya (VBP0000625: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000625_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000625">view on map</a>, 54 collections, 198 samples, 0 phenotypes, 4723 genotypes)</li>
+      <li>Population genetic analysis of Aedes aegypti from Sudan revealed two subspecies, population structure and substructure and different ancestral origin (VBP0000762: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000762_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000762">view on map</a>, 9 collections, 201 samples, 0 phenotypes, 4812 genotypes)</li>
+    </ul>
+  </div>  
+</section>
+
+<section>
+  <aside>
+    <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>
+

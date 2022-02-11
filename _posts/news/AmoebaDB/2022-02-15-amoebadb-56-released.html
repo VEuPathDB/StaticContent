@@ -1,0 +1,53 @@
+---
+layout: post
+title: AmoebaDB 56 Released
+category: [AmoebaDB,VEuPathDB]
+---
+{% assign project = page.category[0] %}
+
+
+<h3>We are pleased to announce the release of {{project}} 56.</h3>
+
+<section>
+  <h3>Release 56 Webinar</h3>
+  <div style="margin-left: 3em;">
+    Join us on Thursday February 24th, 2022 at 10am EDT for our Release 56 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 56.  
+    <a href="https://attendee.gotowebinar.com/register/580233597692794126" target="_blank">Register here</a>  
+  </div>
+</section>
+
+<section>
+  <h3>New data in {{project}} 56</h3> 
+  <div style="margin-left: 3em;">
+    <h4>Genome Sequence </h4>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_228a2c33cf"><i>Entamoeba histolytica</i> DS4-868</a> &ndash; This strain was isolated from a human diarrhea/dysentery patient and grown in axenic culture. The genome was sequenced using 454 (FLX fragment library) and Illumina methods to a genome coverage of 24X coverage. <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA51259" target="_blank"> PRJNA51259</a></li>
+
+        <li><a href="/a/app/record/dataset/DS_bd3d5e5359"><i>Entamoeba histolytica</i> KU48</a> &ndash; This strain was isolated from the aspirate of a human liver absess and grown in axenic culture. The genome was sequenced using 454 (FLX fragment library) and Illumina methods to a genome coverage of 44.2X coverage <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA51235" target="_blank"> PRJNA51235</a></li>
+      </ul>
+    
+    <h4>RNA Sequence </h4>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_21171a150f">Auranofin-adapted trophozoite (AFAT) transcriptome</a> &ndash; RNA-seq transcriptome of <i>Entamoeba histolytica</i> HM-1:IMSS wild type trophozoites and trophozoites adapted to auranofin, an agent cytotoxic to <i>E. histolytica</i>. <a href="http://www.ncbi.nlm.nih.gov/pubmed/34439488" target="_blank"> Shaulov et al. 2021</a></li>
+      </ul>
+  </div>
+</section>
+
+<section>
+  <h3>New features in {{project}} 56</h3>
+  <div style="margin-left: 3em;">
+  <h4>BLAST Tool Improvements</h4>
+   <ul>
+    <li>Our <a href="/a/app/workspace/blast/new">BLAST (multi-query capable)</a> tool is the new standard. Known previously as BLAST<i>beta</i>, BLAST (multi-query capable) can perform queries with one or more FASTA-formatted sequences and offers many download types. Our tool uses NCBI BLAST to find genes, genomic sequences, ESTs, or PopSet Sequences that have BLAST similarity to your input sequence. The single BLAST tool has been removed.</li>
+    <li>There is a new download option for the results of multi-sequence queries (combined result).  The new 'This table (csv)' download option retrieves the {{project}} result table for the results of multi-sequence queries (combined result). </li>
+    <li>Maybe we can update this video <a href="https://youtu.be/mEjt8FhC-W8" target="_blank">https://youtu.be/mEjt8FhC-W8</a></li>
+    <li></li>
+  </ul>
+  </div>
+</section>
+
+<section>
+  <aside>
+   <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>
