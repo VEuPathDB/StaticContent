@@ -94,7 +94,7 @@ th.recording {
   width: 20%;
 }
 </style>
-<img style="width: 40em; margin-top: .5em; margin-left: 4em;float; right;" src="{{ "/assets/images/bv_veupath_logo.png" | absolute_url }}" alt="bv_veupath_logo"/>
+<img style="width: 40em; margin-top: .5em; margin-left: 4em;float: right;" src="{{ "/assets/images/bv_veupath_logo.png" | absolute_url }}" alt="bv_veupath_logo"/>
 <h1>Ticks and Tick-Borne Pathogens Open Community Webinar Series</h1>
 
 <div class="static-content">
