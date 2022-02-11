@@ -120,7 +120,7 @@ th.recording {
           <tr>
             <td>March 8, 2022</td>
             <td>11AM</td>
-            <td>Ticks! Vectors for human pathogens</td>
+            <td>Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</td>
             <td>VEuPathDB</td>
             <td><a href="https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV">Registration link</a></td>
           </tr>
