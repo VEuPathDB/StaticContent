@@ -94,8 +94,8 @@ th.recording {
   width: 20%;
 }
 </style>
-<center><img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/bv_veupath_logo.png" | absolute_url }}" alt="bv_veupath_logo"/>
-<h1>Ticks and Tick-Borne Pathogens Open Community Webinar Series</h1></center>
+<img style="width: 40em; margin-top: .5em; margin-left: 4em; float: right;" src="{{ "/assets/images/bv_veupath_logo.png" | absolute_url }}" alt="bv_veupath_logo"/>
+<h1>Ticks and Tick-Borne Pathogens Open Community Webinar Series</h1>
 
 <div class="static-content">
 <p>All times in this schedule are given as Eastern Daylight time. Please
