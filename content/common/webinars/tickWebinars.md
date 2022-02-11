@@ -169,4 +169,5 @@ th.recording {
             <td>Registration link</td>
           </tr>
           </tbody>
+          </table>
 </div>
