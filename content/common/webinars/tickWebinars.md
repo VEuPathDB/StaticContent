@@ -122,7 +122,7 @@ th.recording {
             <td>11AM</td>
             <td>Ticks! Vectors for human pathogens</td>
             <td>VEuPathDB</td>
-            <td>Registration link</td>
+            <td><a href="https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV">Registration link</a></td>
           </tr>
            <tr>
             <td>March 22, 2022</td>
