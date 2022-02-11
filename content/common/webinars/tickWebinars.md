@@ -94,7 +94,7 @@ th.recording {
   width: 20%;
 }
 </style>
-<img style="width: 30em; margin-top: .5em; margin-left: 4em; float; right;" src="{{ "/assets/images/bv_veupath_logo.png" | absolute_url }}" alt="bv_veupath_logo"/>
+<img style="width: 30em; margin-top: .5em; margin-left: 4em; float: right;" src="{{ "/assets/images/bv_veupath_logo.png" | absolute_url }}" alt="bv_veupath_logo"/>
 <h1>Ticks and Tick-Borne Pathogens Open Community Webinar Series</h1>
 <div class="static-content">
 <p><b>Summary</b>: This webinar series is geared towards researchers working on ticks and the bacterial, viral or eukaryoptic pathogens they transmit to humans. The webinars will focus on highlighting data and bioinformatic tools provided by the NIAID bioinformatic resource centers, VEuPathDB and BV-BRC. In addition, we welcome open discussion during the webinars so we can learn about your research needs the the BRCs might be able to provide.<br><br>
