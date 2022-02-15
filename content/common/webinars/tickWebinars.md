@@ -129,49 +129,49 @@ th.recording {
             <td>11AM</td>
             <td>Bunyavirales in Ticks</td>
             <td>BV-BRC</td>
-            <td><a href="https://upenn.zoom.us/meeting/register/tJUtce-vpjwvHdyqAB_jt5ap89qX_sLpm3jl">Registration link</a></td>
+            <td><b><a href="https://upenn.zoom.us/meeting/register/tJUtce-vpjwvHdyqAB_jt5ap89qX_sLpm3jl">Registration link</a></b></td>
           </tr>
           <tr>
             <td>April 5, 2022</td>
             <td>11AM</td>
             <td>Tick Endosymbionts</td>
             <td>BV-BRC</td>
-            <td><a href="https://upenn.zoom.us/meeting/register/tJMscequqzMqHdL2Up9Syi2UDQlMo3_5HCdc">Registration link</a></td>
+            <td><b><a href="https://upenn.zoom.us/meeting/register/tJMscequqzMqHdL2Up9Syi2UDQlMo3_5HCdc">Registration link</a></b></td>
           </tr>
           <tr>
             <td>April 19, 2022</td>
             <td>11AM</td>
             <td>Metagenomic analysis of tick samples</td>
             <td>BV-BRC</td>
-            <td><a href="https://upenn.zoom.us/meeting/register/tJcpdu6urDMtE9BZX9rw1nFFV465GzZVtHvU">Registration link</a></td>
+            <td><b><a href="https://upenn.zoom.us/meeting/register/tJcpdu6urDMtE9BZX9rw1nFFV465GzZVtHvU">Registration link</a></b></td>
           </tr>
           <tr>
             <td>May 3, 2022</td>
             <td>11AM</td>
             <td>Resources for Eukaryotic Pathogens Transmitted by Ticks</td>
             <td>VEuPathDB</td>
-            <td><a href=" https://upenn.zoom.us/meeting/register/tJApf-CgrD8pGdDS9wPksPrO9iC0EO9lWjt3">Registration link</a></td>
+            <td><b><a href=" https://upenn.zoom.us/meeting/register/tJApf-CgrD8pGdDS9wPksPrO9iC0EO9lWjt3">Registration link</a></b></td>
           </tr>
           <tr>
             <td>May 17, 2022</td>
             <td>11AM</td>
             <td>Comparative Genomics of Tick-Transmitted Bacteria</td>
             <td>BV-BRC</td>
-            <td><a href="https://upenn.zoom.us/meeting/register/tJIuc-ysrD0oHdxbSl0htivMDz_CEnUC89Q1">Registration link</a></td>
+            <td><b><a href="https://upenn.zoom.us/meeting/register/tJIuc-ysrD0oHdxbSl0htivMDz_CEnUC89Q1">Registration link</a></b></td>
           </tr>
           <tr>
             <td>May 31, 2022</td>
             <td>11AM</td>
             <td>Flaviviridae in Ticks</td>
             <td>BV-BRC</td>
-            <td><a href=" https://upenn.zoom.us/meeting/register/tJEqdu6gqDwiHNFKc-RPSoncdCFgk0VSNSWf">Registration link</a></td>
+            <td><b><a href=" https://upenn.zoom.us/meeting/register/tJEqdu6gqDwiHNFKc-RPSoncdCFgk0VSNSWf">Registration link</a></b></td>
           </tr>
           <tr>
             <td>June 14, 2022</td>
             <td>11AM</td>
             <td>Tick bacteria (TBA)</td>
             <td>BV-BRC</td>
-            <td><a href="https://upenn.zoom.us/meeting/register/tJ0td-Gsqj0uHNeBNnLDJyomDsF1SKZjwHCv">Registration link</a></td>
+            <td><b><a href="https://upenn.zoom.us/meeting/register/tJ0td-Gsqj0uHNeBNnLDJyomDsF1SKZjwHCv">Registration link</a></b></td>
           </tr>
           </tbody>
           </table>
