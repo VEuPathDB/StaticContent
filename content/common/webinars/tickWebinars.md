@@ -122,7 +122,7 @@ th.recording {
             <td>11AM</td>
             <td>Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</td>
             <td>VEuPathDB</td>
-            <td><a href="https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV">Registration link</a></td>
+            <td><b><a href="https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV">Registration link</a></b></td>
           </tr>
            <tr>
             <td>March 22, 2022</td>
