@@ -1072,7 +1072,10 @@ th.recording {
         </tbody>
       </table>
     </details>
+    <hr>
+    </div> <!--workshop-->
 
+ 
   <div class="anchor"><a name="veupath2021"></a></div>
   <div class="workshop">
     <h3>Annual VEuPathDB Workshop 2021 (Virtual)</h3>
