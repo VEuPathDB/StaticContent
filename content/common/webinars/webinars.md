@@ -26,6 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
    <p><b>Thursday February 24th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
+    <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
