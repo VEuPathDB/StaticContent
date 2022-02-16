@@ -668,7 +668,7 @@ th.recording {
     <p>9AM - 1PM US Eastern time</p>
     <p>Registration deadline: December 6, 2021</p>
     <p><b><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_0Il5yFqOJ056ENU" target="_blank">Registration form</a></b></p>
-    <details closed="" open="">
+    <details closed>
       <summary><b>Schedule</b></summary>
       <p>All times in this schedule are given as Eastern Daylight time. Please
         convert to your location <a href="https://www.thetimezoneconverter.com/"
