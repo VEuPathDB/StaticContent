@@ -26,8 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
    <p><b>Thursday February 24th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
- <p><b>Tuesday March 8th, 2022:</b> <a href="#ticks">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
-<p><b>Tuesday May 3rd, 2022:</b> <a href="#piroplasma">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Resources for Eukaryotic Pathogens Transmitted by Ticks</a></p>
+ <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="#ticks">Bi-weekly tick and tick pathogen webinar series</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
@@ -102,24 +101,16 @@ Release webinar dates are subject to change due to production issues that may ar
   <hr>
   <div class="anchor"><a name="ticks"></a></div>
 <div class="webinar">
-<b>Topic:</b> BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase<br>
-<b>Date:</b> Tuesday March 8th, 2022<br>
+<b>Topic:</b> BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series<br>
+<b>Date:</b> Tuesday March 8th to June 14th, 2022<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV">BLABLABLA</a><br>
-<b>Additional Details:</b> <a href="/a/app/static-content/tickwebinars.html">BLABLABLA</a>
+<b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV">https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV</a><br>
+<b>Additional Details:</b> <a href="/a/app/static-content/tickwebinars.html">Follow this link</a>
 <br>
 </div>
   
   <hr>
-  <div class="anchor"><a name="piroplasma"></a></div>
-<div class="webinar">
-<b>Topic:</b> BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Resources for Eukaryotic Pathogens Transmitted by Ticks<br>
-<b>Date:</b> Tuesday May 3rd, 2022<br>
-<b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV">BLABLABLA</a><br>
-<b>Additional Details:</b> <a href="/a/app/static-content/tickwebinars.html">BLABLABLA</a>
-<br>
-</div>
+
 
 </div> <!-- ends div contents  -->
 
