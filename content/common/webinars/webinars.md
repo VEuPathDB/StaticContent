@@ -26,8 +26,8 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
    <p><b>Thursday February 24th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
- <p><b>Tuesday March 8th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
-<p><b>Tuesday May 3rd, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Resources for Eukaryotic Pathogens Transmitted by Ticks</a></p>
+ <p><b>Tuesday March 8th, 2022:</b> <a href="#ticks">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
+<p><b>Tuesday May 3rd, 2022:</b> <a href="#babthei">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Resources for Eukaryotic Pathogens Transmitted by Ticks</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
