@@ -26,7 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
    <p><b>Thursday February 24th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
- <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="#ticks">Bi-weekly tick and tick pathogen webinar series</a></p>
+ <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
@@ -95,17 +95,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration:</b> Available 7-10 days prior to webinar<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 56 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
-</div>
-  
-  <hr>
-  <div class="anchor"><a name="ticks"></a></div>
-<div class="webinar">
-<b>Topic:</b> BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series<br>
-<b>Date:</b> Tuesday March 8th to June 14th, 2022<br>
-<b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration and Additional Details:</b> <a href="/a/app/static-content/tickwebinars.html">Follow this link</a><br>
-<b></b> 
 <br>
 </div>
 
