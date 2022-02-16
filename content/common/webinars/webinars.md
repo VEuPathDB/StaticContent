@@ -26,6 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
    <p><b>Thursday February 24th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
+   <p><b>Tuesday March 8th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
