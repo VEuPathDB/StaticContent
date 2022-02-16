@@ -108,8 +108,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>:</b> 
 <br>
 </div>
-  
-  <hr>
 
 
 </div> <!-- ends div contents  -->
