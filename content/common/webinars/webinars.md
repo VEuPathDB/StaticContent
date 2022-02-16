@@ -27,13 +27,7 @@ tags: [general]
   <div class="contents">
    <p><b>Thursday February 24th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
  <p><b>Tuesday March 8th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
-    <p><b>Tuesday March 22nd, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Bunyavirales in Ticks</a></p>
-    <p><b>Tuesday April 5th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Tick Endosymbionts</a></p>
-    <p><b>Tuesday April 19th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Metagenomic analysis of tick samples</a></p>
-    <p><b>Tuesday May 3rd, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Resources for Eukaryotic Pathogens Transmitted by Ticks</a></p>
-    <p><b>Tuesday May 17th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Comparative Genomics of Tick-Transmitted Bacteria</a></p>
-    <p><b>Tuesday May 31st, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Flaviviridae in Ticks</a></p>
-    <p><b>Tuesday June 14th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Tick bacteria (TBA)</a></p>
+<p><b>Tuesday May 3rd, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Resources for Eukaryotic Pathogens Transmitted by Ticks</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
@@ -102,6 +96,17 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration:</b> Available 7-10 days prior to webinar<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 56 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
+  </div>
+  
+  <div class="anchor"><a name="ticks"></a></div>
+<div class="webinar">
+<b>Topic:</b> Ticks and Tick-Borne Pathogens Open Community Webinar Series<br>
+<b>Date:</b> Tuesday March 8th, 2022<br>
+<b>Time:</b> 11AM US Eastern Time<br>
+<b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV</a><br>
+<b>Additional Details:</b> <a href="/a/app/static-content/tickwebinars.html</a>
 <br>
 </div>
   </div>
