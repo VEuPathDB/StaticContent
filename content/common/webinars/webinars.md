@@ -104,8 +104,8 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series<br>
 <b>Date:</b> Tuesday March 8th to June 14th, 2022<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV">https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV</a><br>
-<b>Additional Details:</b> <a href="/a/app/static-content/tickwebinars.html">Follow this link</a>
+<b>Registration and Additional Details:</b> <a href="/a/app/static-content/tickwebinars.html">Follow this link</a><br>
+<b>:</b> 
 <br>
 </div>
   
