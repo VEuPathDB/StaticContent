@@ -26,14 +26,14 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
    <p><b>Thursday February 24th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
-   <p><b>Tuesday March 8th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
-    <p><b>Tuesday March 8th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">Ticks: Bunyavirales in Ticks</a></p>
-    <p><b>Tuesday March 22nd, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
-    <p><b>Tuesday April 5th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">Tick Endosymbionts</a></p>
-    <p><b>Tuesday April 19th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">Metagenomic analysis of tick samples</a></p>
-    <p><b>Tuesday May 3rd, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
-    <p><b>Tuesday March 8th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
-    <p><b>Tuesday March 8th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
+   <p><b>Tuesday March 8th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
+    <p><b>Tuesday March 8th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Ticks: Bunyavirales in Ticks</a></p>
+    <p><b>Tuesday March 22nd, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
+    <p><b>Tuesday April 5th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Tick Endosymbionts</a></p>
+    <p><b>Tuesday April 19th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Metagenomic analysis of tick samples</a></p>
+    <p><b>Tuesday May 3rd, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
+    <p><b>Tuesday March 8th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
+    <p><b>Tuesday March 8th, 2022:</b> <a href="https:/a/app/static-content/tickwebinars.html">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
