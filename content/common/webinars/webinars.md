@@ -105,7 +105,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Date:</b> Tuesday March 8th to June 14th, 2022<br>
 <b>Time:</b> 11AM US Eastern Time<br>
 <b>Registration and Additional Details:</b> <a href="/a/app/static-content/tickwebinars.html">Follow this link</a><br>
-<b>:</b> 
+<b></b> 
 <br>
 </div>
 
