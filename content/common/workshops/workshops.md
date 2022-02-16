@@ -103,7 +103,7 @@ th.recording {
   <h3>Upcoming Workshops</h3>
   <div class="contents">     
     <h4><a href="/a/app/static-content/ags2022.html">Arthropod Genomicis Symposium 2022: pre-meeting VectorBase hands-on Workshop</a></h4>
-    6:00pm on Sunday, 5th June to 12:00pm (noon) on Thursday, 9th June 2022 
+    <p>6:00pm on Sunday, 5th June to 12:00pm (noon) on Thursday, 9th June 2022</p>
     <p>(In Person, University of Notre Dame, Notre Dame, IN)</p>
   </div>
 
