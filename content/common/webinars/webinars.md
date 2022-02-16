@@ -27,7 +27,7 @@ tags: [general]
   <div class="contents">
    <p><b>Thursday February 24th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
  <p><b>Tuesday March 8th, 2022:</b> <a href="#ticks">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</a></p>
-<p><b>Tuesday May 3rd, 2022:</b> <a href="#babthei">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Resources for Eukaryotic Pathogens Transmitted by Ticks</a></p>
+<p><b>Tuesday May 3rd, 2022:</b> <a href="#piroplasma">BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Resources for Eukaryotic Pathogens Transmitted by Ticks</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
@@ -113,7 +113,7 @@ Release webinar dates are subject to change due to production issues that may ar
   </div>
   
   <hr>
-  <div class="anchor"><a name="babthei"></a></div>
+  <div class="anchor"><a name="piroplasma"></a></div>
 <div class="webinar">
 <b>Topic:</b> BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Resources for Eukaryotic Pathogens Transmitted by Ticks<br>
 <b>Date:</b> Tuesday May 3rd, 2022<br>
