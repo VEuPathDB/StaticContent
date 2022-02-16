@@ -98,7 +98,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Additional Details:</b> This webinar will focus on what is new in Release 56 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
-  </div>
   
   <hr>
   <div class="anchor"><a name="ticks"></a></div>
@@ -106,11 +105,10 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase<br>
 <b>Date:</b> Tuesday March 8th, 2022<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV</a><br>
-<b>Additional Details:</b> <a href="/a/app/static-content/tickwebinars.html</a>
+<b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV">BLABLABLA</a><br>
+<b>Additional Details:</b> <a href="/a/app/static-content/tickwebinars.html">BLABLABLA</a>
 <br>
 </div>
-  </div>
   
   <hr>
   <div class="anchor"><a name="piroplasma"></a></div>
@@ -118,11 +116,13 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> BRC Ticks and Tick-Borne Pathogens Open Community Webinar Series - Resources for Eukaryotic Pathogens Transmitted by Ticks<br>
 <b>Date:</b> Tuesday May 3rd, 2022<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV</a><br>
-<b>Additional Details:</b> <a href="/a/app/static-content/tickwebinars.html</a>
+<b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV">BLABLABLA</a><br>
+<b>Additional Details:</b> <a href="/a/app/static-content/tickwebinars.html">BLABLABLA</a>
 <br>
 </div>
-  </div>
+
+</div> <!-- ends div contents  -->
+
 
 
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
