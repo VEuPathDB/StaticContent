@@ -169,7 +169,7 @@ th.recording {
           <tr>
             <td>June 14, 2022</td>
             <td>11AM</td>
-            <td>Tick bacteria (TBA)</td>
+            <td>RNA-Seq and SNP analysis of bacteria transmitted by ticks</td>
             <td>BV-BRC</td>
             <td><b><a href="https://upenn.zoom.us/meeting/register/tJ0td-Gsqj0uHNeBNnLDJyomDsF1SKZjwHCv">Registration link</a></b></td>
           </tr>
