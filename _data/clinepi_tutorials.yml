@@ -36,12 +36,12 @@
   date: "Feb 18, 2022"
 - type: tutorial
   title: "Create graphs and other data visualizations"
-  description: "Use the Visualize tab to create data visualizations of your favorite variables"
+  description: "Use the Visualize tab to create data visualizations"
   uid: t7
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: clinEpi_exercises/Tutorial6_NavigatingVisualize.pdf
   date: "Feb 18, 2022"
-  - type: tutorial
+- type: tutorial
   title: "Add notes to an analysis"
   description: "Keep track of your work and thoughts in the Notes tab"
   uid: t8
