@@ -95,7 +95,7 @@ th.recording {
 }
 </style>
 
-<p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> Workshops - Explore</p>
+<p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> Workshops</p>
 
 <h1>VEuPathDB Workshops</h1>
 <div class="static-content">
