@@ -1339,8 +1339,4 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
 
 <br>
 
-<div class="contents">
-  <p><b>VectorBase:</b> <a target="_blank" href="https://legacy.vectorbase.org/tutorials" target="_blank">Previous tutorials</a>
-    and <a target="_blank"  href="https://legacy.vectorbase.org/workshops" target="_blank">Previous workshops and webinars</a>.</p>
-  <p><b>VEuPathDB:</b> <a target="_blank" href="https://workshop.eupathdb.org" target="_blank">Previous workshops</a>.</p>
-</div>
+
