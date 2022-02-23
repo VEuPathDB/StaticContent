@@ -25,7 +25,7 @@ div.static-content img {
 
 </style>
 
-<p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> FAQs - Explore</p>
+<p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> FAQs</p>
 
 <h1 id="FAQ">Frequently Asked Questions</h1>
 <br>
