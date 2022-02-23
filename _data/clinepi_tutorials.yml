@@ -70,7 +70,7 @@
   fileName: clinEpi_exercises/Exercise_Navigating_PRISM2.pdf
   date: "Feb 18, 2022"
 - type: exercise
-  title: "GEMS1 Case Control: Are rotavirus, Cryptosporidium, and Giardia infection associated withmoderate-to-severe diarrhea?"
+  title: "GEMS1 Case Control: Are rotavirus, Cryptosporidium, and Giardia infection associated with moderate-to-severe diarrhea?"
   description: "Exercise that includes creating a subset and multiple visualizations"
   uid: e2
   projects: "ClinEpiDB,AllClinEpiDB"
