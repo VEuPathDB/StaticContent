@@ -104,7 +104,8 @@ th.recording {
   <div class="contents">     
     <h4><a href="/a/app/static-content/ags2022.html">Arthropod Genomicis Symposium 2022: pre-meeting VectorBase hands-on Workshop</a></h4>
     <p>6:00pm on Sunday, 5th June to 12:00pm (noon) on Thursday, 9th June 2022</p>
-    <p>(In Person, University of Notre Dame, Notre Dame, IN)</p>
+    <p>Jordan Hall of Science, University of Notre Dame, Notre Dame, IN</p>
+    <p>In-person (sessions will not be virtual or recorded)</p>
   </div>
 
   <hr>
@@ -1339,8 +1340,3 @@ https://docs.google.com/forms/d/e/1FAIpQLSeEpeQkQwnV59EG_KSH93PeI7Zb6f_5L-4po6FZ
 
 <br>
 
-<div class="contents">
-  <p><b>VectorBase:</b> <a target="_blank" href="https://legacy.vectorbase.org/tutorials" target="_blank">Previous tutorials</a>
-    and <a target="_blank"  href="https://legacy.vectorbase.org/workshops" target="_blank">Previous workshops and webinars</a>.</p>
-  <p><b>VEuPathDB:</b> <a target="_blank" href="https://workshop.eupathdb.org" target="_blank">Previous workshops</a>.</p>
-</div>
