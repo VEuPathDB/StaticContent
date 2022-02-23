@@ -93,7 +93,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> Release 56 Webinar<br>
 <b>Date:</b> Thursday Feb 24th, 2022<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> Available 7-10 days prior to webinar<br>
+<b>Registration:</b> <a href="https://register.gotowebinar.com/register/580233597692794126" target="_blank">https://register.gotowebinar.com/register/580233597692794126</a><br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 56 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
