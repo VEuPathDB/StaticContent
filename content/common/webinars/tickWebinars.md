@@ -97,7 +97,7 @@ th.recording {
 
 
 <p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> 
-    <a href="/a/app/static-content/webinars.html">Webinars</p>
+    <a href="/a/app/static-content/webinars.html">Webinars</a></p>
 
 
 
@@ -109,9 +109,10 @@ th.recording {
 
 <b>Structure</b>: Demo of latest tools, data functionality. Open forum discussion. Opportunity to provide dataset suggestions, tool suggestions, data analysis issues.<br><br>
 
-<b>Audience</b>: The webinar series is free and open to all scientists from any career stage who may benefit from the BRCs.<br><br>
+<b>Audience</b>: The webinar series is free and open to all scientists from any career stage who may benefit from the BRCs.
   
 <b>Recordings</b>: We strongly value your participation and are looking forward to all your questions and feedback during our live sessions, but if you are unable to attend or will like to watch a session again, they will all be recorded. Recordings, for this and other events, are available on our <a href="/a/app/static-content/webinars.html">webinars page</a>.  
+<br><br>
 
  </p>
 
