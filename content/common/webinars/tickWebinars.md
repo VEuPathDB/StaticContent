@@ -115,7 +115,7 @@ th.recording {
   
 <b>Participation</b>: If you would like, please submit feedback or questions to be discussed during the webinars and, datasets suggestions to include in our databases, completing this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdsSCTfab0oJw3i4dkz6i9a3M7jx6IWnlaSZxd4srKBdyDKKg/viewform">webform</a>. Alternatively, you can also participate live during the webinar.<br><br>
   
-<b>Recordings</b>: We strongly value your participation and are looking forward to all your questions and feedback during our live sessions, but if you are unable to attend or will like to watch a session again, they will all be recorded. Recordings, for this and other events, are available on our <a href="/a/app/static-content/webinars.html">webinars page</a>.<br><br>
+<b>Recordings</b>: We strongly value your participation and are looking forward to all your questions and feedback during our live sessions, but if you are unable to attend or will like to watch a session again, they will all be recorded. Recordings, for this and other events, are available on <a href="/a/app/static-content/webinars.html">this page</a>.<br><br>
 
  </p>
 
