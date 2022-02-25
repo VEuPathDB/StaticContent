@@ -97,17 +97,26 @@ th.recording {
 
 
 <p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> 
-    <a href="/a/app/static-content/webinars.html">Webinars</p>
+    <a href="/a/app/static-content/webinars.html">Webinars</a></p>
 
 
 
 <img style="width: 30em; margin-top: .5em; margin-left: 4em; float: right;" src="{{ "/assets/images/bv_veupath_logo.png" | absolute_url }}" alt="bv_veupath_logo"/>
 <h1>Ticks and Tick-Borne Pathogens Open Community Webinar Series</h1>
 <div class="static-content">
-<p><b>Summary</b>: This webinar series is geared towards researchers working on ticks and the bacterial, viral or eukaryotic pathogens they transmit. The webinars will focus on highlighting data and bioinformatic tools provided by the NIAID bioinformatic resource centers, VEuPathDB and BV-BRC. In addition, we welcome open discussion during the webinars so we can learn about your research needs the the BRCs might be able to provide.<br><br>
+
+<p>
+
+<b>Summary</b>: This webinar series is geared towards researchers working on ticks and the bacterial, viral or eukaryotic pathogens they transmit. The webinars will focus on highlighting data and bioinformatic tools provided by the NIAID bioinformatic resource centers, VEuPathDB and BV-BRC. In addition, we welcome open discussion during the webinars so we can learn about your research needs the the BRCs might be able to provide.<br><br>
 
 <b>Structure</b>: Demo of latest tools, data functionality. Open forum discussion. Opportunity to provide dataset suggestions, tool suggestions, data analysis issues.<br><br>
+
 <b>Audience</b>: The webinar series is free and open to all scientists from any career stage who may benefit from the BRCs.<br><br>
+  
+<b>Participation</b>: If you would like, please submit feedback or questions to be discussed during the webinars and, datasets suggestions to include in our databases, completing this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdsSCTfab0oJw3i4dkz6i9a3M7jx6IWnlaSZxd4srKBdyDKKg/viewform">webform</a>. Alternatively, you can also participate live during the webinar.<br><br>
+  
+<b>Recordings</b>: We strongly value your participation and are looking forward to all your questions and feedback during our live sessions, but if you are unable to attend or will like to watch a session again, they will all be recorded. Recordings, for this and other events, are available on <a href="/a/app/static-content/webinars.html">this page</a>.<br><br>
+
  </p>
 
 <p>All times in this schedule are given as Eastern Daylight time. Please
