@@ -60,18 +60,18 @@ tags: [general]
     </div>
 
   <h2 id="SiteSearch">Site Search</h2>
-    <div><!-- SiteSearch-->
+    <div>
     <p>
     Search ClinEpiDB and find studies containing variables of interest to you
     </p>
-  </div><!-- END SiteSearch-->
+  </div>
 
   <h2 id="Cross-siloSearch">Cross-silo search</h2>
-  <div><!-- Cross Silo Search-->
+  <div>
     <p>
     Search for participants that have both epidemiological data in ClinEpiDB and microbiome data in our sister site MicrobiomeDB
     </p>
-  </div><!-- END Cross Silo Search-->
+  </div>
 
   <!-- END Feature List-->
 
