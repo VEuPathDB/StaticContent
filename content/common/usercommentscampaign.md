@@ -124,7 +124,7 @@ div.centered-title {
   <div class="workshop">
 
     <p><h2>About the campaign</h2></p>
-    <p>Starting now and through the 31st Fungal Genetics Conference, add just one User Comment on a gene record page, and pick up your free "Got Fungus?" mug at the FungiDB booth.</p>
+    <p>Starting now and through the <a href="https://genetics-gsa.org/fungal-2022/">31st Fungal Genetics Conference</a>, add just one User Comment on a gene record page, and pick up your free "Got Fungus?" mug at the FungiDB booth.</p>
     <p>Ask a colleague to pick up your mug if you are not attending.</p>
     <p>Top ten comment submitters will also receive a "Got Fungus?" T-shirt.</p>
     <p>See below how to submit user comments in bulk.</p>
