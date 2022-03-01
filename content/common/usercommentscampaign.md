@@ -113,7 +113,7 @@ div.centered-title {
 
   <div class="centered-title">     
     <h4>FungiDB User Comments Campaign: 31st Fungal Genetics Conference in Asilomar, USA</h4>
-    <p>March 1 - March 15, 2022</p>
+    <p>Dates of the campaign: March 1 - March 15, 2022</p>
   </div>
 
   
@@ -124,19 +124,18 @@ div.centered-title {
   <div class="workshop">
 
     <p><h2>About the campaign</h2></p>
-    <p>Starting now and through the <a href="https://genetics-gsa.org/fungal-2022/">31st Fungal Genetics Conference</a>, add just one User Comment on a gene record page, and pick up your free "Got Fungus?" mug at the FungiDB booth.</p>
-    <p>Ask a colleague to pick up your mug if you are not attending.</p>
-    <p>Top ten comment submitters will also receive a "Got Fungus?" T-shirt.</p>
-    <p>See below how to submit user comments in bulk.</p>
+    <p>Starting now and through the <a href="https://genetics-gsa.org/fungal-2022/">31st Fungal Genetics Conference</a>, add just one User Comment on a gene record page, and pick up your free "Got Fungus?" mug at the FungiDB help desk.</p>
+    <p>Not attending in person? No probelm! Ask a colleague to pick up your mug.</p>
+    <p>Top ten comment submitters will also receive a "Got Fungus?" T-shirt (we will ship the t-shirt to you if you are attending virtually only).</p>
   
-    <p>Did you know that user comments:</p>
+    <p><b>Did you know that user comments:</b></p>
     <ul>
       <li> Help improve genome annotations: provide evidence for alternative gene models, knockout phenotypes, sub-cellular localisation, PubMed IDs etc.</li> 
       <li> Become immediately visible on the gene record pages & are searchable.</li> 
       <li> Benefit the research community at large, showcase your favourite genes, and are the quickest way to provide up-to-date information about genes on the live site.</li> 
     </ul>
   
-  <p>How to submit user comments in bulk:</p>
+  <p><b>How to submit user comments in bulk:</b></p>
     <ul>
       <li> Sign in or Register at FungiBD.org</li>
       <li> Navigate to the gene record page</li> 
@@ -145,10 +144,10 @@ div.centered-title {
       <li> To submit user comments in bulk, download our bulk user comment submission form here: https://tinyurl.com/commentsfungi, fill it out, and send it back to us (help@fungidb.org)</li>
     </ul>
 
-  <p>Helpful User Comments Guide:</p>
+  <p><b>Helpful User Comments Guide:</b></p>
   <p>As a rule of thumb, any information you wanted to know about a gene before you started working on it would be helpful ... but please do not duplicate automatically generated information, e.g. protein length, or the top BLAST hit.</p>
 
-<p>Useful user comment examples:</p>
+<p><b>Useful user comment examples:</b></p>
 <ul>
     <li> Gene names, including synonyms, e.g. "Purine Phosphoribosyl Transferase, is also known as HPRT, HGPRT, Hypoxanthine Phosphoribosyltransferase, Ppt1, Ppt-1, etc.".  Such information is critical if someone searching for HPRT. Include reference for each name if possible.</li>
     <li> PubMed IDs providing key reference materials for a gene (feel free to link any relevant papers, not just your own).</li>
