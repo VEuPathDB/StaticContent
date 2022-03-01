@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Workshops
-permalink: /ags2022
+permalink: /usercommentscampaign
 tags: [workshop-exercise]
 ---
 <style>
@@ -112,7 +112,7 @@ div.centered-title {
 
 
   <div class="centered-title">     
-    <h4>FUngiDB User Comments Campaign: Fungal Genetics Meeting 2022 in Asilomar, USA</h4>
+    <h4>FungiDB User Comments Campaign: Fungal Genetics Meeting 2022 in Asilomar, USA</h4>
     <p>6:00pm on Sunday, 5th June to 12:00pm (noon) on Thursday, 9th June 2022</p>
   </div>
 
@@ -123,7 +123,7 @@ div.centered-title {
   <div class="anchor"><a name="AGSvectorbase2022"></a></div>
   <div class="workshop">
 
-    <p><h2>About the workshop</h2></p>
+    <p><h2>About the campaign</h2></p>
     <p>Starting now and through the FGC22 meeting, add just one User Comment on a gene record page, and pick up your free "Got Fungus?" mug at the FungiDB booth.</p>
     <p>Ask a colleague to pick up your mug if you are not attending.</p>
     <p>Top ten comment submitters will also receive a "Got Fungus?" T-shirt.</p>
