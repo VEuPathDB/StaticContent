@@ -143,7 +143,7 @@ div.centered-title {
       <li> Click on the Add a user comment link</li> 
       <li> Fill out the comment form (add text, pictures, files or PubMed IDs, etc.)</li> 
     </ul>
-<img style="width: 20em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/usercommmentform.png" | absolute_url }}" alt="User Comment Form"/>
+<img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/usercommmentform.png" | absolute_url }}" alt="User Comment Form"/>
      
 
   <p><b>How to submit user comments in bulk:</b></p>
