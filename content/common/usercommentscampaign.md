@@ -112,7 +112,7 @@ div.centered-title {
 
   <div class="centered-title">     
     <h4><a href="https://fungidb.org">FungiBD</a> User Comments Campaign in conjunction with 31st Fungal Genetics Conference in Asilomar, USA</h4>
-    <p>Now and through March 15, 2022</p>
+    <p><b>Now and through March 15, 2022</b></p>
   </div>
 
   
