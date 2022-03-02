@@ -152,7 +152,7 @@ div.centered-title {
   <p><b>Helpful User Comments Guide:</b></p>
   <p>As a rule of thumb, any information you wanted to know about a gene before you started working on it would be helpful ... but please do not duplicate automatically generated information, e.g. protein length, or the top BLAST hit.</p>
 
-<p><b>Useful user comment examples:</b></p>
+<ul>Useful user comment examples:</ul>
 <ul>
     <li> Gene names, including synonyms, e.g. "Purine Phosphoribosyl Transferase, is also known as HPRT, HGPRT, Hypoxanthine Phosphoribosyltransferase, Ppt1, Ppt-1, etc.".  Such information is critical if someone searching for HPRT. Include reference for each name if possible.</li>
     <li> PubMed IDs providing key reference materials for a gene (feel free to link any relevant papers, not just your own).</li>
