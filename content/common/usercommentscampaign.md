@@ -111,7 +111,7 @@ div.centered-title {
 
 
   <div class="centered-title">     
-    <h3><a href="https://fungidb.org">FungiBD</a> User Comments Campaign in conjunctions with 31st Fungal Genetics Conference in Asilomar, USA</h3>
+    <h4><a href="https://fungidb.org">FungiBD</a> User Comments Campaign in conjunctions with 31st Fungal Genetics Conference in Asilomar, USA</h4>
     <p>Now and through March 15, 2022</p>
   </div>
 
@@ -122,7 +122,7 @@ div.centered-title {
   <div class="anchor"><a name="usercommentscampaign"></a></div>
   <div class="workshop">
 
-    <p><h2>About the campaign</h2></p>
+    <p><h3>About the campaign</h3></p>
     <p>Starting now and through the <a href="https://genetics-gsa.org/fungal-2022/">31st Fungal Genetics Conference</a>, add just one User Comment on a gene record page, and pick up your free "Got Fungus?" mug at the FungiDB help desk.</p>
     <p>Not attending in person? Not a problem! Ask a colleague to pick up your mug.</p>
     <p>Top ten comment submitters will also receive a "Got Fungus?" T-shirt (we will ship the t-shirt to you if you are attending virtually only).</p>
