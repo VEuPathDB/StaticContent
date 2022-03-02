@@ -137,14 +137,13 @@ div.centered-title {
     </ul>
   
     <p><b>How to submit a single comment:</b></p>
-    <img style="width: 30em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/fungidb_usercommmentform.png" | absolute_url }}" alt="User Comment Form"/>
-    <ul>
+        <ul>
       <li> Sign in or Register at <a href="https://fungidb.org">FungiBD.org</a></li>
       <li> Navigate to the gene record page</li> 
       <li> Click on the Add a user comment link</li> 
       <li> Fill out the comment form (add text, pictures, files or PubMed IDs, etc.)</li> 
     </ul>
-
+<img style="width: 20em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/fungidb_usercommmentform.png" | absolute_url }}" alt="User Comment Form"/>
      
 
   <p><b>How to submit user comments in bulk:</b></p>
