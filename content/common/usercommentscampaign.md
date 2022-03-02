@@ -128,7 +128,7 @@ div.centered-title {
     <p>Not attending in person? Not a problem! Ask a colleague to pick up your mug.</p>
     <p>Top ten comment submitters will also receive a "Got Fungus?" T-shirt (we will ship the t-shirt to you if you are attending virtually only).</p>
 
-    <img style="width: 60em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/FungiDB_Tshirt_mug.png" | absolute_url }}" alt="Logos"/>
+    <img style="width: 60em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/FungiDB_Tshirt_mug.png" | absolute_url }}" alt="T-shirts and mugs"/>
   
     <p><b>Did you know that user comments:</b></p>
     <ul>
@@ -145,7 +145,7 @@ div.centered-title {
       <li> Fill out the comment form (add text, pictures, files or PubMed IDs, etc.)</li> 
     </ul>
 
-     <img style="width: 80em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/fungidb_fungidb_usercommmentform.png" | absolute_url }}" alt="Logos"/>
+     <img style="width: 80em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/fungidb_usercommmentform.png" | absolute_url }}" alt="User Comment Form"/>
 
   <p><b>How to submit user comments in bulk:</b></p>
     <ul>
