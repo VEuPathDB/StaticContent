@@ -107,12 +107,11 @@ div.centered-title {
    <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> 
    </p>
 
-<h1>FungiDB User Comments Campaign</h1>
 <div class="static-content">
 
 
   <div class="centered-title">     
-    <h4><a href="https://fungidb.org">FungiBD</a> User Comments Campaign: 31st Fungal Genetics Conference in Asilomar, USA</h4>
+    <h4><a href="https://fungidb.org">FungiBD</a> User Comments Campaign in conjunctions with 31st Fungal Genetics Conference in Asilomar, USA</h4>
     <p>Now and through March 15, 2022</p>
   </div>
 
