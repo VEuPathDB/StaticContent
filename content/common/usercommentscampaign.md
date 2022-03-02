@@ -161,7 +161,7 @@ div.centered-title {
 <ul>
     <li> Gene names, including synonyms, e.g. "Purine Phosphoribosyl Transferase, is also known as HPRT, HGPRT, Hypoxanthine Phosphoribosyltransferase, Ppt1, Ppt-1, etc.".  Such information is critical if someone searching for HPRT. Include reference for each name if possible.</li>
     <li> PubMed IDs providing key reference materials for a gene (feel free to link any relevant papers, not just your own).</li>
-    <li> Functional characterization, e.g. "This hypothetical protein has been shown to be a copper transporter based on ...  Contact <xxxxx> for further details".</li>  
+    <li> Functional characterization, e.g. "This hypothetical protein has been shown to be a copper transporter based on ...  Contact [name] for further details".</li>  
     <li> Note that such information is most useful if associated evidence/contact is provided (can paste/upload text as an attachment).</li>
     <li> Corrections (or even confirmation) of gene model predictions, annotations, etc. (with a brief description of the underlying evidence).</li>
     <li> Image data … you can attach images to genes, providing subcellular localization, experimental evidence, etc.Subcellular localization, e.g. "GFP tagging demonstrates that this protein localizes to the mitochondrion, as shown in the attached images".</li>
