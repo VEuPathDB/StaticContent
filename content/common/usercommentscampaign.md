@@ -113,7 +113,7 @@ div.centered-title {
 
   <div class="centered-title">     
     <h4>FungiDB User Comments Campaign: 31st Fungal Genetics Conference in Asilomar, USA</h4>
-    <p>Dates of the campaign: March 1 - March 15, 2022</p>
+    <p>End date of the campaign: March 15, 2022</p>
   </div>
 
   
@@ -125,23 +125,28 @@ div.centered-title {
 
     <p><h2>About the campaign</h2></p>
     <p>Starting now and through the <a href="https://genetics-gsa.org/fungal-2022/">31st Fungal Genetics Conference</a>, add just one User Comment on a gene record page, and pick up your free "Got Fungus?" mug at the FungiDB help desk.</p>
-    <p>Not attending in person? No probelm! Ask a colleague to pick up your mug.</p>
+    <p>Not attending in person? Not a problem! Ask a colleague to pick up your mug.</p>
     <p>Top ten comment submitters will also receive a "Got Fungus?" T-shirt (we will ship the t-shirt to you if you are attending virtually only).</p>
   
     <p><b>Did you know that user comments:</b></p>
     <ul>
-      <li> Help improve genome annotations: provide evidence for alternative gene models, knockout phenotypes, sub-cellular localisation, PubMed IDs etc.</li> 
+      <li> Help improve genome annotations: provide evidence for alternative gene models, knockout phenotypes, sub-cellular localisation, PubMed IDs, etc.</li> 
       <li> Become immediately visible on the gene record pages & are searchable.</li> 
-      <li> Benefit the research community at large, showcase your favourite genes, and are the quickest way to provide up-to-date information about genes on the live site.</li> 
+      <li> Benefit the research community at large, showcase your favourite genes or publications, and are the quickest way to provide up-to-date information about genes on the live site.</li> 
     </ul>
   
-  <p><b>How to submit user comments in bulk:</b></p>
+    <p><b>How to submit a single comment:</b></p>
     <ul>
       <li> Sign in or Register at FungiBD.org</li>
       <li> Navigate to the gene record page</li> 
       <li> Click on the Add a user comment link</li> 
       <li> Fill out the comment form (add text, pictures, files or PubMed IDs, etc.)</li> 
-      <li> To submit user comments in bulk, download our bulk user comment submission form here: https://tinyurl.com/commentsfungi, fill it out, and send it back to us (help@fungidb.org)</li>
+    </ul>
+
+  <p><b>How to submit user comments in bulk:</b></p>
+    <ul>
+      <li> To submit user comments in bulk, download our bulk user comment submission form here: https://tinyurl.com/commentsfungi
+      <li> Simply fill it out and send it back to us (help@fungidb.org)</li>
     </ul>
 
   <p><b>Helpful User Comments Guide:</b></p>
