@@ -158,15 +158,15 @@ div.centered-title {
 
 <ul><b>Useful user comment examples:</b></ul>
 <ul>
-    <li> Gene names, including synonyms, e.g. "Purine Phosphoribosyl Transferase, is also known as HPRT, HGPRT, Hypoxanthine Phosphoribosyltransferase, Ppt1, Ppt-1, etc.".  Such information is critical if someone searching for HPRT. Include reference for each name if possible.</li>
-    <li> PubMed IDs providing key reference materials for a gene (feel free to link any relevant papers, not just your own).</li>
-    <li> Functional characterization, e.g. "This hypothetical protein has been shown to be a copper transporter based on ...  Contact [name] for further details".</li>  
-    <li> Note that such information is most useful if associated evidence/contact is provided (can paste/upload text as an attachment).</li>
-    <li> Corrections (or even confirmation) of gene model predictions, annotations, etc. (with a brief description of the underlying evidence).</li>
-    <li> Image data … you can attach images to genes, providing subcellular localization, experimental evidence, etc.Subcellular localization, e.g. "GFP tagging demonstrates that this protein localizes to the mitochondrion, as shown in the attached images".</li>
-    <li> Phenotype data, e.g. you can provide phenotypic description for knockout and overexpression mutants.</li>
-    <li> Structural information on annotated gene models, e.g. "The predominant transcript initiation site for this gene has been mapped to ~561 nt upstream of the annotated ATG by 5'RACE and RNAse protection.  This conclusion is consistent with available RNAseq data, but differs from the reference annotation"  Note that in addition to corrections to the reference annotation, experimental evidence supporting the reference annotation or offering insights into alternative transcripts is also very helpful.</li>
-    <li>Other functional or experimental information (note that even negative data can be quite informative).</li>
+    <li> Gene names, including synonyms, e.g. "Purine Phosphoribosyl Transferase, is also known as HPRT, HGPRT, Hypoxanthine Phosphoribosyltransferase, Ppt1, Ppt-1, etc.".  Such information is critical if someone searching for HPRT. Include reference for each name if possible</li>
+    <li> PubMed IDs providing key reference materials for a gene (feel free to link any relevant papers, not just your own)</li>
+    <li> Functional characterization, e.g. "This hypothetical protein has been shown to be a copper transporter based on ...  Contact [name] for further details"</li>  
+    <li> Note that such information is most useful if associated evidence/contact is provided (can paste/upload text as an attachment)</li>
+    <li> Corrections (or even confirmation) of gene model predictions, annotations, etc. (with a brief description of the underlying evidence)</li>
+    <li> Image data … you can attach images to genes, providing subcellular localization, experimental evidence, etc.Subcellular localization, e.g. "GFP tagging demonstrates that this protein localizes to the mitochondrion, as shown in the attached images"</li>
+    <li> Phenotype data, e.g. you can provide phenotypic description for knockout and overexpression mutants</li>
+    <li> Structural information on annotated gene models, e.g. "The predominant transcript initiation site for this gene has been mapped to ~561 nt upstream of the annotated ATG by 5'RACE and RNAse protection.  This conclusion is consistent with available RNAseq data, but differs from the reference annotation"  Note that in addition to corrections to the reference annotation, experimental evidence supporting the reference annotation or offering insights into alternative transcripts is also very helpful</li>
+    <li>Other functional or experimental information (note that even negative data can be quite informative)</li>
 </ul>
 
 <p>Have questions? <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a></p>
