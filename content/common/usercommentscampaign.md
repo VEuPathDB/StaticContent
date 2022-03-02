@@ -149,7 +149,7 @@ div.centered-title {
 
   <p><b>How to submit user comments in bulk:</b></p>
     <ul>
-      <li> To submit user comments in bulk, download our bulk user comment submission form here: <a href="https://tinyurl.com/commentsfungi">https://tinyurl.com/commentsfungi</a>
+      <li> To submit user comments in bulk, download our bulk user comment submission form here: <a href="https://tinyurl.com/commentsfungi">https://tinyurl.com/commentsfungi</a></li>
       <li> Simply fill it out and send it back to us (help@fungidb.org)</li>
     </ul>
 
@@ -157,7 +157,7 @@ div.centered-title {
   <p><b>Helpful User Comments Guide:</b></p>
   <p>As a rule of thumb, any information you wanted to know about a gene before you started working on it would be helpful ... but please do not duplicate automatically generated information, e.g. protein length, or the top BLAST hit.</p>
 
-<ul>Useful user comment examples:</ul>
+<ul><b>Useful user comment examples:</b></ul>
 <ul>
     <li> Gene names, including synonyms, e.g. "Purine Phosphoribosyl Transferase, is also known as HPRT, HGPRT, Hypoxanthine Phosphoribosyltransferase, Ppt1, Ppt-1, etc.".  Such information is critical if someone searching for HPRT. Include reference for each name if possible.</li>
     <li> PubMed IDs providing key reference materials for a gene (feel free to link any relevant papers, not just your own).</li>
