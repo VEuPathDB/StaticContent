@@ -150,7 +150,7 @@ div.centered-title {
   <p><b>How to submit user comments in bulk:</b></p>
     <ul>
       <li> To submit user comments in bulk, download our bulk user comment submission form here: <a href="https://tinyurl.com/commentsfungi">https://tinyurl.com/commentsfungi</a></li>
-      <li> Simply fill it out and send it back to us (help@fungidb.org)</li>
+      <li> Simply fill it out and <a href="https://fungidb.org/fungidb/app/contact-us">send it back to us</a></li>
     </ul>
 
  
@@ -172,6 +172,6 @@ div.centered-title {
 
   
 
-  Have questions? Email us at help@fungidb.org
+  Have questions? <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a>
 
 
