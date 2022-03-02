@@ -171,8 +171,6 @@ div.centered-title {
     <li>Other functional or experimental information (note that even negative data can be quite informative).</li>
 </ul>
 
-  
-
-  Have questions? <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a>
+<p>Have questions? <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a></p>
 
 
