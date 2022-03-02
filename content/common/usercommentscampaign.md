@@ -149,7 +149,7 @@ div.centered-title {
 
   <p><b>How to submit user comments in bulk:</b></p>
     <ul>
-      <li> To submit user comments in bulk, download our bulk user comment submission form here: https://tinyurl.com/commentsfungi
+      <li> To submit user comments in bulk, download our bulk user comment submission form here: <a href="https://tinyurl.com/commentsfungi">https://tinyurl.com/commentsfungi</a>
       <li> Simply fill it out and send it back to us (help@fungidb.org)</li>
     </ul>
 
