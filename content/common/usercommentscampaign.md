@@ -132,8 +132,8 @@ div.centered-title {
     <p><b>Did you know that user comments:</b></p>
     <ul>
       <li> Help improve genome annotations: provide evidence for alternative gene models, knockout phenotypes, sub-cellular localisation, PubMed IDs, etc.</li> 
-      <li> Become immediately visible on the gene record pages & are searchable.</li> 
-      <li> Benefit the research community at large, showcase your favourite genes or publications, and are the quickest way to provide up-to-date information about genes on the live site.</li> 
+      <li> Become immediately visible on the gene record pages & are searchable</li> 
+      <li> Benefit the research community at large, showcase your favourite genes or publications, and are the quickest way to provide up-to-date information about genes on the live site</li> 
     </ul>
   
     <p><b>How to submit a single comment:</b></p>
