@@ -120,13 +120,15 @@ div.centered-title {
 
 <div class="contents">
 
-  <div class="anchor"><a name="AGSvectorbase2022"></a></div>
+  <div class="anchor"><a name="usercommentscampaign"></a></div>
   <div class="workshop">
 
     <p><h2>About the campaign</h2></p>
     <p>Starting now and through the <a href="https://genetics-gsa.org/fungal-2022/">31st Fungal Genetics Conference</a>, add just one User Comment on a gene record page, and pick up your free "Got Fungus?" mug at the FungiDB help desk.</p>
     <p>Not attending in person? Not a problem! Ask a colleague to pick up your mug.</p>
     <p>Top ten comment submitters will also receive a "Got Fungus?" T-shirt (we will ship the t-shirt to you if you are attending virtually only).</p>
+
+    <img style="width: 80em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/FungiDB_Tshirt_mug.png" | absolute_url }}" alt="Logos"/>
   
     <p><b>Did you know that user comments:</b></p>
     <ul>
@@ -143,12 +145,15 @@ div.centered-title {
       <li> Fill out the comment form (add text, pictures, files or PubMed IDs, etc.)</li> 
     </ul>
 
+     <img style="width: 80em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/fungidb_fungidb_usercommmentform.png" | absolute_url }}" alt="Logos"/>
+
   <p><b>How to submit user comments in bulk:</b></p>
     <ul>
       <li> To submit user comments in bulk, download our bulk user comment submission form here: https://tinyurl.com/commentsfungi
       <li> Simply fill it out and send it back to us (help@fungidb.org)</li>
     </ul>
 
+ 
   <p><b>Helpful User Comments Guide:</b></p>
   <p>As a rule of thumb, any information you wanted to know about a gene before you started working on it would be helpful ... but please do not duplicate automatically generated information, e.g. protein length, or the top BLAST hit.</p>
 
@@ -156,23 +161,17 @@ div.centered-title {
 <ul>
     <li> Gene names, including synonyms, e.g. "Purine Phosphoribosyl Transferase, is also known as HPRT, HGPRT, Hypoxanthine Phosphoribosyltransferase, Ppt1, Ppt-1, etc.".  Such information is critical if someone searching for HPRT. Include reference for each name if possible.</li>
     <li> PubMed IDs providing key reference materials for a gene (feel free to link any relevant papers, not just your own).</li>
-Functional characterization, e.g. "This hypothetical protein has been shown to be a copper transporter based on ...  Contact <xxxxx> for further details" .   
+    <li> Functional characterization, e.g. "This hypothetical protein has been shown to be a copper transporter based on ...  Contact <xxxxx> for further details".</li>  
     <li> Note that such information is most useful if associated evidence/contact is provided (can paste/upload text as an attachment).</li>
     <li> Corrections (or even confirmation) of gene model predictions, annotations, etc. (with a brief description of the underlying evidence).</li>
-    <li> Image data … you can attach images to genes, providing subcellular localization, experimental evidence, etc.Subcellular localization, e.g. "GFP tagging demonstrates that this protein localizes to the mitochondrion, as shown in the attached images".  </li>
+    <li> Image data … you can attach images to genes, providing subcellular localization, experimental evidence, etc.Subcellular localization, e.g. "GFP tagging demonstrates that this protein localizes to the mitochondrion, as shown in the attached images".</li>
     <li> Phenotype data, e.g. you can provide phenotypic description for knockout and overexpression mutants.</li>
     <li> Structural information on annotated gene models, e.g. "The predominant transcript initiation site for this gene has been mapped to ~561 nt upstream of the annotated ATG by 5'RACE and RNAse protection.  This conclusion is consistent with available RNAseq data, but differs from the reference annotation"  Note that in addition to corrections to the reference annotation, experimental evidence supporting the reference annotation or offering insights into alternative transcripts is also very helpful.</li>
     <li>Other functional or experimental information (note that even negative data can be quite informative).</li>
-    </ul>
+</ul>
 
-    </details>        
+  
 
-    <p><h2>Sponsored and organized by</h2></p>
-    <img style="width: 80em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/workshops/wks_ags2022.png" | absolute_url }}" alt="Logos"/>
-
-  </div>  <!-- class workshop -->
-
-</div>  <!-- class contents -->
-</div>  <!-- class static-content -->
+  Have questions? Email us at help@fungidb.org
 
 
