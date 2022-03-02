@@ -126,7 +126,7 @@ div.centered-title {
     <p>Starting now and through the <a href="https://genetics-gsa.org/fungal-2022/">31st Fungal Genetics Conference</a>, add just one User Comment on a gene record page, and pick up your free "Got Fungus?" mug at the FungiDB help desk.</p>
     <p>Not attending in person? Not a problem! Ask a colleague to pick up your mug.</p>
   
-    <img style="width: 40em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/got_fungus_mug.png" | absolute_url }}" alt="T-shirts and mugs"/>
+    <img style="width: 30em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/got_fungus_mug.png" | absolute_url }}" alt="T-shirts and mugs"/>
   
     <p><b>Did you know that user comments:</b></p>
     <ul>
