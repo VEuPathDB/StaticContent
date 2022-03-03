@@ -109,7 +109,7 @@ th.recording {
 
 <b>Summary</b>: This webinar series is geared towards researchers working on ticks and the bacterial, viral or eukaryotic pathogens they transmit. The webinars will focus on highlighting data and bioinformatic tools provided by the NIAID bioinformatic resource centers, VEuPathDB and BV-BRC. In addition, we welcome open discussion during the webinars so we can learn about your research needs the the BRCs might be able to provide.<br><br>
 
-<b>Structure</b>: Demo of latest tools, data functionality. Open forum discussion. Opportunity to provide dataset suggestions, tool suggestions, data analysis issues.<br><br>
+<b>Structure</b>: Demo of latest tools, data functionality. Open forum discussion. Opportunity to provide dataset suggestions, tool suggestions, data analysis issues. Each session is scheduled for 1h.<br><br>
 
 <b>Audience</b>: The webinar series is free and open to all scientists from any career stage who may benefit from the BRCs.<br><br>
   
