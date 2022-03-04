@@ -223,7 +223,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Topic:</b> Web-based analysis of 16S rRNA microbiome data using Nephele and MicrobiomeDB<br>
 <b>Date:</b> Thursday May 6th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link:</b> <a href="">coming soon!</a><br>
+<b>Recording Link:</b> <a href="https://vimeo.com/showcase/5598563/video/546055765">https://vimeo.com/showcase/5598563/video/546055765</a><br>
 <b>Additional Details:</b> This webinar will focus on using web resources to analyze 16s rRNA microbiome, specifically:
 <ul>
 <li>Analyzing data in <a href="https://nephele.niaid.nih.gov/index">Nephele</a> - the National Institute of Allergy & Infectious Diseases microbiome analysis platform.</li>
