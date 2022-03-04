@@ -25,8 +25,7 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div class="contents">
-   <p><b>Thursday February 24th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
-    <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p>
+   <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
@@ -34,6 +33,7 @@ tags: [general]
   
     If you missed any of our previous webinars feel free to explore the free recordings:
      
+   <p><b>Thursday February 24th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
    <p><b>Thursday December 9th, 2021:</b> <a href="#release55">Release 55 Webinar</a></p>
    <p><b>Thursday September 16th, 2021:</b> <a href="#release54">Release 54 Webinar</a></p>
    <p><b>Thursday August 5th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
@@ -87,16 +87,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="contents">
 
 
-<hr>
-<div class="anchor"><a name="release56"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 56 Webinar<br>
-<b>Date:</b> Thursday Feb 24th, 2022<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <b>Registration:</b> <a href="https://register.gotowebinar.com/register/580233597692794126" target="_blank">https://register.gotowebinar.com/register/580233597692794126</a><br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 56 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
-</div>
   </div>
 
 
@@ -104,6 +94,17 @@ Release webinar dates are subject to change due to production issues that may ar
 <h3>Previous Webinars</h3>
 <div class="contents">
 
+<hr>
+<div class="anchor"><a name="release56"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 56 Webinar<br>
+<b>Date:</b> Thursday Feb 24th, 2022<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording:</b> <a href="https://youtu.be/PANxoBp3Wf0" target="_blank">https://youtu.be/PANxoBp3Wf0</a><br>
+<b>Additional Details:</b> This webinar will focus on what is new in Release 56 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
+  
 <hr>
 <div class="anchor"><a name="release55"></a></div>
 <div class="webinar">
