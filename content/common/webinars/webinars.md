@@ -167,7 +167,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC<br>
 <b>Date:</b> Tuesday June 1st 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Recording Link:</b> <a href="">coming soon!</a><br>
+<b>Recording Link:</b> <a href="https://youtu.be/GKNR3dViCcw">https://youtu.be/GKNR3dViCcw</a><br>
 <b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
 bioinformatic resources available at the Pathosystems Resource Integration Center.
 <br>
@@ -208,7 +208,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR<br>
 <b>Date:</b> Tuesday May 18th 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Recording Link:</b> <a href="">coming soon!</a><br>
+<b>Recording Link:</b> <a href="https://youtu.be/G6MaVi5G2qY">https://youtu.be/G6MaVi5G2qY</a><br>
 <b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
 bioinformatic resources available at the Virus Pathogen Resource.
 <br>
@@ -220,7 +220,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Topic:</b> Web-based analysis of 16S rRNA microbiome data using Nephele and MicrobiomeDB<br>
 <b>Date:</b> Thursday May 6th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link:</b> <a href="">coming soon!</a><br>
+<b>Recording Link:</b> <a href="https://vimeo.com/showcase/5598563/video/546055765">https://vimeo.com/showcase/5598563/video/546055765</a><br>
 <b>Additional Details:</b> This webinar will focus on using web resources to analyze 16s rRNA microbiome, specifically:
 <ul>
 <li>Analyzing data in <a href="https://nephele.niaid.nih.gov/index">Nephele</a> - the National Institute of Allergy & Infectious Diseases microbiome analysis platform.</li>
@@ -248,7 +248,7 @@ bioinformatic resources available at FungiDB.
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: RSV, Pneumoviridae & ViPR<br>
 <b>Date:</b> Tuesday April 20th, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r3305a49424c66191b85bc2d62611dc74">https://jcvi.webex.com/jcvi/j.php?RGID=r3305a49424c66191b85bc2d62611dc74</a> <br>
+<b>Recording Link:</b> <a href="https://youtu.be/Wv0xUZKLDHg">https://youtu.be/Wv0xUZKLDHg</a><br>
 <b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
 bioinformatic resources available at the Virus Pathogen Resource.
 <br>
@@ -290,6 +290,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC<br>
 <b>Date:</b> Tuesday March 30th, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
+<b>Recording:</b> <a href="https://youtu.be/SaKKUIIwDG0">https://youtu.be/SaKKUIIwDG0</a><br>
 <b>Additional Details:</b> This webinar focused on respiratory pathogens and introduced users to bioinformatic resources available at the Pathosystems Resource Integration Center.
 <br>
 </div>
@@ -320,7 +321,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR<br>
 <b>Date:</b> Tuesday March 16th, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Recording Link:</b> <br>
+<b>Recording Link:</b> <a href="https://youtu.be/zB_wKXqn54U">https://youtu.be/zB_wKXqn54U</a><br><br>
 <b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
 <br>
 </div>
@@ -342,7 +343,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Influenza & IRD<br>
 <b>Date:</b> Tuesday February 16th, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Recording:</b> <br>
+<b>Recording:</b><a href="https://youtu.be/VP7d1XYIWdM">https://youtu.be/VP7d1XYIWdM</a><br> <br>
 <b>Additional Details:</b> This webinar focused on respiratory pathogens and introduced users to bioinformatic resources available at the Influenza Research Database.
 <br>
 </div>
