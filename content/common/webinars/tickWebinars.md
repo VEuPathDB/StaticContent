@@ -129,7 +129,7 @@ th.recording {
             <th class="time">Time (US Eastern)</th>
             <th class="topic">Webinar Topic</th>
             <th class="presenter">Presenter</th>
-            <th class="reglink">Registration Link</th>
+            <th class="reglink">Registration Link/Recording</th>
           </tr>
         </thead>
         <tbody>
@@ -138,7 +138,7 @@ th.recording {
             <td>11AM</td>
             <td>Ticks: How to analyze genome, transcriptome, and proteome data sets in VectorBase</td>
             <td>VEuPathDB</td>
-            <td><b><a href="https://upenn.zoom.us/meeting/register/tJEpde2qqzksEtw3MOZgWzng7CRmItQBoAyV">Registration link</a></b></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/93Ci3UJ-yAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
            <tr>
             <td>March 22, 2022</td>
