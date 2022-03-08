@@ -25,8 +25,7 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div class="contents">
-   <p><b>Thursday February 24th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
-    <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p>
+   <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
@@ -34,6 +33,7 @@ tags: [general]
   
     If you missed any of our previous webinars feel free to explore the free recordings:
      
+   <p><b>Thursday February 24th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
    <p><b>Thursday December 9th, 2021:</b> <a href="#release55">Release 55 Webinar</a></p>
    <p><b>Thursday September 16th, 2021:</b> <a href="#release54">Release 54 Webinar</a></p>
    <p><b>Thursday August 5th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
@@ -87,16 +87,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="contents">
 
 
-<hr>
-<div class="anchor"><a name="release56"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 56 Webinar<br>
-<b>Date:</b> Thursday Feb 24th, 2022<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <b>Registration:</b> <a href="https://register.gotowebinar.com/register/580233597692794126" target="_blank">https://register.gotowebinar.com/register/580233597692794126</a><br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 56 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
-</div>
   </div>
 
 
@@ -104,6 +94,17 @@ Release webinar dates are subject to change due to production issues that may ar
 <h3>Previous Webinars</h3>
 <div class="contents">
 
+<hr>
+<div class="anchor"><a name="release56"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 56 Webinar<br>
+<b>Date:</b> Thursday Feb 24th, 2022<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording:</b> <a href="https://youtu.be/PANxoBp3Wf0" target="_blank">https://youtu.be/PANxoBp3Wf0</a><br>
+<b>Additional Details:</b> This webinar will focus on what is new in Release 56 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
+  
 <hr>
 <div class="anchor"><a name="release55"></a></div>
 <div class="webinar">
@@ -167,7 +168,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC<br>
 <b>Date:</b> Tuesday June 1st 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Recording Link:</b> <a href="">coming soon!</a><br>
+<b>Recording Link:</b> <a href="https://youtu.be/GKNR3dViCcw">https://youtu.be/GKNR3dViCcw</a><br>
 <b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
 bioinformatic resources available at the Pathosystems Resource Integration Center.
 <br>
@@ -208,7 +209,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR<br>
 <b>Date:</b> Tuesday May 18th 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Recording Link:</b> <a href="">coming soon!</a><br>
+<b>Recording Link:</b> <a href="https://youtu.be/G6MaVi5G2qY">https://youtu.be/G6MaVi5G2qY</a><br>
 <b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
 bioinformatic resources available at the Virus Pathogen Resource.
 <br>
@@ -220,7 +221,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Topic:</b> Web-based analysis of 16S rRNA microbiome data using Nephele and MicrobiomeDB<br>
 <b>Date:</b> Thursday May 6th, 2021<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link:</b> <a href="">coming soon!</a><br>
+<b>Recording Link:</b> <a href="https://vimeo.com/showcase/5598563/video/546055765">https://vimeo.com/showcase/5598563/video/546055765</a><br>
 <b>Additional Details:</b> This webinar will focus on using web resources to analyze 16s rRNA microbiome, specifically:
 <ul>
 <li>Analyzing data in <a href="https://nephele.niaid.nih.gov/index">Nephele</a> - the National Institute of Allergy & Infectious Diseases microbiome analysis platform.</li>
@@ -248,7 +249,7 @@ bioinformatic resources available at FungiDB.
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: RSV, Pneumoviridae & ViPR<br>
 <b>Date:</b> Tuesday April 20th, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://jcvi.webex.com/jcvi/j.php?RGID=r3305a49424c66191b85bc2d62611dc74">https://jcvi.webex.com/jcvi/j.php?RGID=r3305a49424c66191b85bc2d62611dc74</a> <br>
+<b>Recording Link:</b> <a href="https://youtu.be/Wv0xUZKLDHg">https://youtu.be/Wv0xUZKLDHg</a><br>
 <b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
 bioinformatic resources available at the Virus Pathogen Resource.
 <br>
@@ -290,6 +291,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC<br>
 <b>Date:</b> Tuesday March 30th, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
+<b>Recording:</b> <a href="https://youtu.be/SaKKUIIwDG0">https://youtu.be/SaKKUIIwDG0</a><br>
 <b>Additional Details:</b> This webinar focused on respiratory pathogens and introduced users to bioinformatic resources available at the Pathosystems Resource Integration Center.
 <br>
 </div>
@@ -320,7 +322,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR<br>
 <b>Date:</b> Tuesday March 16th, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Recording Link:</b> <br>
+<b>Recording Link:</b> <a href="https://youtu.be/zB_wKXqn54U">https://youtu.be/zB_wKXqn54U</a><br><br>
 <b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
 <br>
 </div>
@@ -342,7 +344,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Influenza & IRD<br>
 <b>Date:</b> Tuesday February 16th, 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
-<b>Recording:</b> <br>
+<b>Recording:</b><a href="https://youtu.be/VP7d1XYIWdM">https://youtu.be/VP7d1XYIWdM</a><br> <br>
 <b>Additional Details:</b> This webinar focused on respiratory pathogens and introduced users to bioinformatic resources available at the Influenza Research Database.
 <br>
 </div>

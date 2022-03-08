@@ -1,116 +1,88 @@
 --- # clinepi tutorials page
 - type: tutorial
-  title: "Accessing ClinEpiDB data and exploring via the filters"
-  description: "This tutorial explains what types of data searches you can do and how to use the search filters and visualization tools built into the website."
+  title: "Find studies on ClinEpiDB"
+  description: "How to access datasets on the ClinEpiDB platform"
   uid: t1
   projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: ClinEpiDBTutorial1.pdf
-  date: "Mar 18, 2018"
+  fileName: clinEpi_exercises/Tutorial1_NavigatingAccessDatasets.pdf
+  date: "Feb 18, 2022"
 - type: tutorial
-  title: "Understanding the results table"
-  description: "Learn about the tools available to view your search results and how to download the data."
+  title: "Learn the basics of a study analysis"
+  description: "Learn to navigate an analysis that you create"
   uid: t2
   projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: ClinEpiDBTutorial2ResultstableanddownloadsFINAL.pdf
-  date: "Apr 11, 2018"
+  fileName: clinEpi_exercises/Tutorial2_NavigatingAnalysisLayout.pdf
+  date: "Feb 18, 2022"
 - type: tutorial
-  title: "Getting help and submitting feedback"
-  description: "Getting help and submitting feedback"
-  uid: t3
-  projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: General_2_get_help_or_submit_comment.pdf
-  date: "Apr 26, 2019"
-- type: tutorial
-  title: "Downloading data"
-  description: "Learn the 2 ways to download data and extra resources available"
+  title: "Understand the size and shape of study data"
+  description: "Learn how to read the dataset diagram"
   uid: t4
   projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: download_file_README_tutorial.pdf
-  date: "Oct 14, 2020"
+  fileName: clinEpi_exercises/Tutorial3_NavigatingDatasetDiagram.pdf
+  date: "Feb 18, 2022"
+- type: tutorial
+  title: "Find information on study methodology"
+  description: "Use the View Study Details tab to learn how a study was conducted"
+  uid: t5
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Tutorial4_NavigatingStudyDetails.pdf
+  date: "Feb 18, 2022"
+- type: tutorial
+  title: "Explore and subset data"
+  description: "Use the Browse and Subset tab to look for variables and filter"
+  uid: t6
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Tutorial5_NavigatingBrowseSubset.pdf
+  date: "Feb 18, 2022"
+- type: tutorial
+  title: "Create graphs and other data visualizations"
+  description: "Use the Visualize tab to create data visualizations"
+  uid: t7
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Tutorial6_NavigatingVisualize.pdf
+  date: "Feb 18, 2022"
+- type: tutorial
+  title: "Add notes to an analysis"
+  description: "Keep track of your work and thoughts in the Notes tab"
+  uid: t8
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Tutorial7_NavigatingNotes.pdf
+  date: "Feb 18, 2022"
+- type: tutorial
+  title: "Get help and submit feedback"
+  description: "Request demos, help with a specific task, etc."
+  uid: t3
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Tutorial_GettingHelp.pdf
+  date: "Feb 18, 2022"
 - type: video
-  title: "ClinEpiDB introductory tour"
+  title: "ClinEpiDB quick start guide"
   description: "Covers different tools the site offers to explore and visualize data"
   uid: v1
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: https://youtu.be/z6iMvkLo_q8
-  date: "Oct 20, 2021"
-- type: video
-  title: "Get the most out of the homepage"
-  description: "Covers the different features accessible from the ClinEpiDB homepage"
-  uid: v2
-  projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: https://www.youtube.com/watch?v=emupZ983zPg&list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh&index=2
-  date: "Feb 12, 2018"
-- type: video
-  title: "Find a variable within a study"
-  description: "How to search for specific variables within a study"
-  uid: v3
-  projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: https://www.youtube.com/watch?v=nU0cWYyf62E&list=PLWzQB3i5sYAIp4urzLGB8jxvVZr6jvkZh&index=8
-  date: "Nov 5, 2019"
+  date: "Feb 18, 2022"
 - type: exercise
-  title: "GEMS exercise: Age distributions of females vs. males with diarrheal illness longer than 3 days"
-  description: "GEMS exercise: Age distributions of females vs. males with diarrheal illness longer than 3 days"
+  title: "Navigating the ClinEpiDB platform"
+  description: "Use the PRISM2 ICEMR Cohort study to explore features of ClinEpiDB"
   uid: e1
   projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: GEMS_DiarrheaDuration.pdf
-  date: "Apr 26, 2019"
+  fileName: clinEpi_exercises/Exercise_Navigating_PRISM2.pdf
+  date: "Feb 18, 2022"
 - type: exercise
-  title: "GEMS exercise: Prevalence of wasting and stunting and relationship to various pathogens"
-  description: "GEMS exercise: Prevalence of wasting and stunting and relationship to various pathogens"
+  title: "GEMS1 Case Control: Are rotavirus, Cryptosporidium, and Giardia infection associated with moderate-to-severe diarrhea?"
+  description: "Exercise that includes creating a subset and multiple visualizations"
   uid: e2
   projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: GEMS_Anthropometry.pdf
-  date: "Apr 26, 2019"
+  fileName: clinEpi_exercises/Exercise_GEMS1_EDA.pdf
+  date: "Feb 18, 2022"
 - type: exercise
-  title: "GEMS exercise: Relationship between Giardia or Cryptosporidium and moderate-to-severe diarrhea"
-  description: "GEMS exercise: Relationship between Giardia or Cryptosporidium and moderate-to-severe diarrhea"
+  title: "WASH-B Kenya exercise: Do children in intervention arms have lower incidence of diarrhea compared to children in control arms?"
+  description: "Exercise that includes createing a subset and vizualizations"
   uid: e3
   projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: GEMS_GiardiaMatched.pdf
-  date: "Apr 26, 2019"
-- type: exercise
-  title: "India ICEMR cohort exercise: Poverty and the use of bednets"
-  description: "India ICEMR  cohort exercise: Poverty and the use of bednets"
-  uid: e4
-  projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: India_longitudinal_bednet.pdf
-  date: "Apr 26, 2019"
-- type: exercise
-  title: "MAL-ED exercise: Using the Study Page to understand study methodologies"
-  description: "MAL-ED: the key to understanding the study methodologies"
-  uid: e5
-  projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: MALED_1_data_set_page.pdf
-  date: "Apr 26, 2019"
-- type: exercise
-  title: "MAL-ED exercise: Accessing and exploring data via the filters"
-  description: "MAL-ED exercise: Accessing and exploring data via the filters"
-  uid: e6
-  projects: "ClinEpiDB,,AllClinEpiDB"
-  fileName: MALED_2_explore_data.pdf
-  date: "Apr 26, 2019"
-- type: exercise
-  title: "MAL-ED exercise: Building a search with Related Observations and revising the search strategy"
-  description: "MAL-ED exercise: Building a search with Related Observations and revising the search strategy"
-  uid: e7
-  projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: MALED_3_related_observations.pdf
-  date: "Apr 26, 2019"
-- type: exercise
-  title: "PRISM exercise: House design and malaria incidence in children"
-  description: "PRISM exercise: House design and malaria incidence in children"
-  uid: e8
-  projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: PRISM_dwelling.pdf
-  date: "Apr 26, 2019"
-- type: exercise
-  title: "PRISM exercise: Average age of first asymptomatic parasitemia"
-  description: "PRISM exercise: Average age of first asymptomatic parasitemia"
-  uid: e9
-  projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: PRISM_asymptomaticAge.pdf
-  date: "Apr 26, 2019"
+  fileName: clinEpi_exercises/Exercise_WASHBK_EDA.pdf
+  date: "Feb 18, 2022"
 - type: resource
   subtype: education
   title: "Data science specialization on Coursera"

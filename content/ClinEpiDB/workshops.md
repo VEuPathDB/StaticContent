@@ -121,7 +121,7 @@ table#hor-minimalist-a tfoot tr {
 </td>
 <td><b>Introduction</b>
 <ul>
-  <li><a target="_blank" href="{{'/documents/clinEpi/Introduction_ClinEpiDB_MicrobiomeDB_workshop.pdf' | absolute_url}}" target="_blank">Introduction to ClinEpiDB and MicrobiomeDB </a></li>
+  <li><a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/20211116_preASTMH/Introduction_ClinEpiDB_MicrobiomeDB_workshop.pdf' | absolute_url}}" target="_blank">Introduction to ClinEpiDB and MicrobiomeDB </a></li>
   <li> Overview of workshop </li>
 </ul>
 </td>
@@ -151,9 +151,9 @@ table#hor-minimalist-a tfoot tr {
 </td>
 <td><b>Hands-on Breakout Session 1</b>
 <br>
-<a target="_blank" href="{{'/documents/clinEpi/Exercise_Navigating_structured.pdf' | absolute_url}}" target="_blank">Structured exercise on navigating the ClinEpiDB beta platform </a>
+<a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/20211116_preASTMH/Exercise_Navigating_structured.pdf' | absolute_url}}" target="_blank">Structured exercise on navigating the ClinEpiDB beta platform </a>
 <br>
-<a target="_blank" href="{{'/documents/clinEpi/Exercise_Navigating_structured_KEY.pdf' | absolute_url}}" target="_blank">Answer Key</a>
+<a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/20211116_preASTMH/Exercise_Navigating_structured_KEY.pdf' | absolute_url}}" target="_blank">Answer Key</a>
 </td>
 <td></td>
 </tr>
@@ -215,9 +215,9 @@ table#hor-minimalist-a tfoot tr {
 <td><b>Hands-on Breakout Session 2: Exercise on exploratory data analysis</b>
 <br>Choice of:
 <ul>
-  <li> <a target="_blank" href="{{'/documents/clinEpi/Exercise_Analysis_structured_updated.pdf
+  <li> <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/20211116_preASTMH/Exercise_Analysis_structured_updated.pdf
 ' | absolute_url}}" target="_blank">Structured exercise</a>  </li>
-  <li><a target="_blank" href="{{'/documents/clinEpi/Exercise_Analysis_self-guided.pdf' | absolute_url}}" target="_blank">Self-guided exercise</a>  </li>
+  <li><a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/20211116_preASTMH/Exercise_Analysis_self-guided.pdf' | absolute_url}}" target="_blank">Self-guided exercise</a>  </li>
 </ul>
 </td>
 <td></td>
@@ -309,7 +309,7 @@ table#hor-minimalist-a tfoot tr {
 <td><b> Walk Through:</b> MAL-ED (enteric disease datasets)
 <ul>
   <li>Formulating & reconfiguring simple searches:
-  <a target="_blank" href="{{'/documents/clinEpi/Exercise 1_ MAL-ED simple search.pdf' | absolute_url}}" target="_blank"> Comparison of breastfeeding status and <i>Giardia</i> infection</a> </li>
+  <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/20210203_Gates_POs/Exercise 1_ MAL-ED simple search.pdf' | absolute_url}}" target="_blank"> Comparison of breastfeeding status and <i>Giardia</i> infection</a> </li>
   <li>Discussion</li>
 </ul>
 </td>
@@ -414,7 +414,7 @@ table#hor-minimalist-a tfoot tr {
 <td></td>
 <td><b>Session 0</b>
 <br>
-<a target="_blank" href="{{'/documents/clinEpi/Pre-Workshop homework.pdf' | absolute_url}}" target="_blank">Getting started, creating a VEuPathDB account, and asking for help</a>  
+<a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/20201113_preASTMH/Pre-Workshop homework.pdf' | absolute_url}}" target="_blank">Getting started, creating a VEuPathDB account, and asking for help</a>  
 </td>
 <td></td>
 <td></td>
@@ -465,10 +465,10 @@ table#hor-minimalist-a tfoot tr {
 <tr>
 <td>11:20-12:05 PM</td>
 <td><b>Breakout 2</b>
-<br><a target="_blank" href="{{'/documents/clinEpi/Breakout2_Review_search_types.pdf' | absolute_url}}" target="_blank">Review Search types, units of analysis, study designs </a>  
-<br><a target="_blank" href="{{'/documents/clinEpi/Exercise2.1_LLINEUP_simple_search.pdf' | absolute_url}}" target="_blank">Exercise: LLINEUP simple search</a> 
+<br><a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/20201113_preASTMH/Breakout2_Review_search_types.pdf' | absolute_url}}" target="_blank">Review Search types, units of analysis, study designs </a>  
+<br><a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/20201113_preASTMH/Exercise2.1_LLINEUP_simple_search.pdf' | absolute_url}}" target="_blank">Exercise: LLINEUP simple search</a> 
 <br><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf6DvYihI0rNwFUcxtaP2V5LOFmVIzS7N_NmZlgQpPNGlxFnA/viewform" target="_blank">Exercise: The Search Wizard- variable exploration</a>
-<br><a target="_blank" href="{{'/documents/clinEpi/Exercise 2.3 GEMS and MAL-ED simple search.pdf' | absolute_url}}" target="_blank">Exercise: MAL-ED and GEMS1 simple search </a></td>
+<br><a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/20201113_preASTMH/Exercise 2.3 GEMS and MAL-ED simple search.pdf' | absolute_url}}" target="_blank">Exercise: MAL-ED and GEMS1 simple search </a></td>
 <td></td>
 <td></td>
 </tr>
@@ -476,7 +476,7 @@ table#hor-minimalist-a tfoot tr {
 <tr>
 <td>12:05-12:40 PM</td>
 <td><b>Session 3</b>
-<br><a target="_blank" href="{{'/documents/clinEpi/Session2_Guided_complex_search.pdf' | absolute_url}}" target="_blank">Complex search with MAL-ED</a>  
+<br><a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/20201113_preASTMH/Session2_Guided_complex_search.pdf' | absolute_url}}" target="_blank">Complex search with MAL-ED</a>  
 <br>Visualization and analysis applications using SCORE data</td>
 <td>Danica Helb
 <br>Nupur Kittur</td>
@@ -496,9 +496,9 @@ table#hor-minimalist-a tfoot tr {
 <tr>
 <td>12:55-1:40 PM</td>
 <td><b>Breakout 3</b>
-<br><a target="_blank" href="{{'/documents/clinEpi/Exercise 3.1 - Visualization Apps- SCORE Burundi.pdf' | absolute_url}}" target="_blank">Exercise: Visualization and analysis apps</a> 
-<br><a target="_blank" href="{{'/documents/clinEpi/Exercise3.2_PROVIDE_complex_search.pdf' | absolute_url}}" target="_blank">Exercise: Complex searches using PROVIDE</a> 
-<br><a target="_blank" href="{{'/documents/clinEpi/Exercise 3.3 PRISM visualization apps.pdf' | absolute_url}}" target="_blank">Exercise: PRISM analysis apps</a></td>
+<br><a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/20201113_preASTMH/Exercise 3.1 - Visualization Apps- SCORE Burundi.pdf' | absolute_url}}" target="_blank">Exercise: Visualization and analysis apps</a> 
+<br><a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/20201113_preASTMH/Exercise3.2_PROVIDE_complex_search.pdf' | absolute_url}}" target="_blank">Exercise: Complex searches using PROVIDE</a> 
+<br><a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/20201113_preASTMH/Exercise 3.3 PRISM visualization apps.pdf' | absolute_url}}" target="_blank">Exercise: PRISM analysis apps</a></td>
 <td></td>
 <td></td>
 </tr>
