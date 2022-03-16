@@ -112,7 +112,7 @@
   question: "How to cite a genome assembly and/or gene set?"
   answer: |
            If you use any of the genomes from VEuPathDB genomic sites, when citing them in your work please provide their complete scientific name, strain, assembly, and gene set version, together with the most recent publication that corresponds, as shown in the FAQ "How to cite a VEuPathDB site?"
-           Follow <a href="https://veupathdb.org/veupathdb/app/search/organism/GenomeDataTypes/result">this link</a> for the latest genome versions, look at the colums called "organim" and "structural annotation version", for strain and gene set versions correspondingly.
+           Follow <a href="https://veupathdb.org/veupathdb/app/search/organism/GenomeDataTypes/result">this link</a> for the latest genome versions, look at the colums called "organism" and "structural annotation version", for strain and gene set versions correspondingly.
 
            <p><b>Template</b>
            <p>Species name, isolate/strain, assembly and gene set versions, website name, website home page link (website most recent paper).</p>
