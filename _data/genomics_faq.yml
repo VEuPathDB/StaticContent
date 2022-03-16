@@ -111,10 +111,11 @@
 - type: citing
   question: "How to cite a genome assembly and/or gene set?"
   answer: |
-           If you use any of the genomes from VEuPathDB genomic sites, when citing them in your work please provide their complete scientific name, strain, assembly, and gene set version, together with the most recent publication that corresponds, as shown in the FAQ "How to cite a VEuPathDB site?"         
+           If you use any of the genomes from VEuPathDB genomic sites, when citing them in your work please provide their complete scientific name, strain, assembly, and gene set version, together with the most recent publication that corresponds, as shown in the FAQ "How to cite a VEuPathDB site?"
+           Follow <a href="https://veupathdb.org/veupathdb/app/search/organism/GenomeDataTypes/result">this link</a> for the latest genome versions, look at the colums called "organim" and "structural annotation version", for strain and gene set versions correspondingly.
 
            <p><b>Template</b>
-           <p>Website name, website home page link, (website most recent paper), species_name, isolate/strain, assembly and gene set versions. Follow <a href="https://veupathdb.org/veupathdb/app/search/organism/GenomeDataTypes/result">this link</a> for the latest genome versions, look at the colums called "organims" and "structural annotation version", for strain and gene set versions correspondingly.</p>
+           <p>Website name, website home page link, (website most recent paper), species_name, isolate/strain, assembly and gene set versions.</p>
            <p><b>Worked example for VectorBase</b>
            <p>For example if you want to reference your usage of the <i>Anopheles gambiae</i> AgamP4.13 genome you would use:</p>
            <div style="width: 60%; background: #f5f5f5; border: 1px solid #ccc; padding: 4px 6px 4px 6px; -moz-border-radius: 10px;-webkit-border-radius: 10px;">
