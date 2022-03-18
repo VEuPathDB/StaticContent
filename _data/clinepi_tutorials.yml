@@ -83,6 +83,13 @@
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: clinEpi_exercises/Exercise_WASHBK_EDA.pdf
   date: "Feb 18, 2022"
+- type: exercise
+  title: "PRISM2 ICEMR Cohort exercise"
+  description: "Use the PRISM2 ICEMR Cohort study to explore features of ClinEpiDB"
+  uid: e4
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/20220321_Exercise_Navigating_PRISM2.pdf
+  date: "Feb 18, 2022"
 - type: resource
   subtype: education
   title: "Data science specialization on Coursera"
