@@ -29,7 +29,7 @@ tags: [general]
    <p><b>Thursday April 28th, 2022:</b> <a href="#release57">Release 57 Webinar</a></p>
    <p><b>Thursday July 7th, 2021:</b> <a href="#release58">Release 58 Webinar</a></p>
    <p><b>Thursday September 29th, 2021:</b> <a href="#release59">Release 59 Webinar</a></p>
-    <p><b>Thursday November 10th, 2021:</b> <a href="#release59">Release 59 Webinar</a></p>
+    <p><b>Thursday November 10th, 2021:</b> <a href="#release59">Release 60 Webinar</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
