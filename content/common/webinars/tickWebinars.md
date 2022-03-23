@@ -153,7 +153,11 @@ th.recording {
             </td>
 >>>>>>> 875b0427... fixed absolute url
             <td>BV-BRC</td>
+<<<<<<< HEAD
             <td><b><a href="https://upenn.zoom.us/meeting/register/tJUtce-vpjwvHdyqAB_jt5ap89qX_sLpm3jl">Registration link</a></b></td>
+=======
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/I6fLaYNwIzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+>>>>>>> f5bbf418... corrected embed link
           </tr>
           <tr>
             <td>April 5, 2022</td>
