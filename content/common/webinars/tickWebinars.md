@@ -144,9 +144,9 @@ th.recording {
             <td>March 22, 2022</td>
             <td>11AM</td>
             <td>Bunyavirales in Ticks<br>
-            <a href="/a/app/static-content/documents/webinars/Bunyavirales_BV_BRC.pdf">Webinar slides</a>
+            <a href="{{'/documents/webinars/Bunyavirales_BV_BRC.pdf' | absolute_url}}">Webinar slides</a>
             <br>
-            <a href="/a/app/static-content/documents/webinars/Bunyavirales_BV_BRC_tutorial.pdf">Tutorial</a>
+            <a href="{{'/documents/webinars/Bunyavirales_BV_BRC_tutorial.pdf' | absolute_url}}">Tutorial</a>
             </td>
             <td>BV-BRC</td>
             <td><iframe width="180" height="115" src="https://www.youtube.com/embed/I6fLaYNwIzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
