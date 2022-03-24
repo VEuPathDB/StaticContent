@@ -227,7 +227,7 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo2.png"  />
   uid: apollo2
   projects: ""
-  - type: apollo
+- type: apollo
   question: "How can I request a genome to be added in Apollo?"
   answer: |
            1. Before requesting a genome check the list of genomes currently available in Apollo. Open Apollo with the [following link](https://apollo.veupathdb.org). Please note to open it, you need to log into VEuPathDB. 
