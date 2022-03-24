@@ -218,6 +218,15 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo1.png"  />
   uid: apollo1
   projects: ""
+  - type: apollo
+  question: "Do I need to register to use the VEuPathDB Apollo instance?"
+  answer: |
+           1. To use Apollo you need a VEuPathDB account. If you don’t have an account yet you can register on any of the VEuPathDB sites. 
+           2. You can also register on the Apollo website: https://apollo.veupathdb.org. Once you’ve registered log in with your Username and Password.
+           3. Once you’ve logged in, choose your genome of interest from the genome drop-down menu and start annotating!
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo2.png"
+  uid: apollo1
+  projects: ""
 - type: download
   question: "How do I download a pre-configured table (e.g. Link outs or alternate IDs) of multiple genes?"
   answer: |
