@@ -225,7 +225,16 @@
            2. You can also register on the Apollo website: https://apollo.veupathdb.org. Once you’ve registered log in with your Username and Password.
            3. Once you’ve logged in, choose your genome of interest from the genome drop-down menu and start annotating!
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo2.png"  />
-  uid: apollo1
+  uid: apollo2
+  projects: ""
+  - type: apollo
+  question: "How can I request a genome to be added in Apollo?"
+  answer: |
+           1. Before requesting a genome check the list of genomes currently available in Apollo. Open Apollo with the following link: https://apollo.veupathdb.org. Please note to open it, you need to log into VEuPathDB. 
+           2. Click on the genome drop-down menu and scroll down to see if your genome of interest is present in the VEuPathDB Apollo instance. 
+           3. If you cannot find it, please get in touch with us: https://veupathdb.org/veupathdb/app/contact-us. We will recheck if it is possible to add your genome of interest and get back to you as soon as possible. 
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo3.png"  />
+  uid: apollo3
   projects: ""
 - type: download
   question: "How do I download a pre-configured table (e.g. Link outs or alternate IDs) of multiple genes?"
