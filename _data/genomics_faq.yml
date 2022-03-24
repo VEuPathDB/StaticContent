@@ -222,7 +222,7 @@
   question: "Do I need to register to use the VEuPathDB Apollo instance?"
   answer: |
            1. To use Apollo you need a VEuPathDB account. If you don’t have an account yet you can register on any of the VEuPathDB sites. 
-           2. You can also register on the Apollo website: https://apollo.veupathdb.org. Once you’ve registered log in with your Username and Password.
+           2. You can also register on the [Apollo website](https://apollo.veupathdb.org). Once you’ve registered log in with your Username and Password.
            3. Once you’ve logged in, choose your genome of interest from the genome drop-down menu and start annotating!
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo2.png"  />
   uid: apollo2
@@ -230,9 +230,9 @@
   - type: apollo
   question: "How can I request a genome to be added in Apollo?"
   answer: |
-           1. Before requesting a genome check the list of genomes currently available in Apollo. Open Apollo with the following link: https://apollo.veupathdb.org. Please note to open it, you need to log into VEuPathDB. 
+           1. Before requesting a genome check the list of genomes currently available in Apollo. Open Apollo with the [following link](https://apollo.veupathdb.org). Please note to open it, you need to log into VEuPathDB. 
            2. Click on the genome drop-down menu and scroll down to see if your genome of interest is present in the VEuPathDB Apollo instance. 
-           3. If you cannot find it, please get in touch with us: https://veupathdb.org/veupathdb/app/contact-us. We will recheck if it is possible to add your genome of interest and get back to you as soon as possible. 
+           3. If you cannot find it, please get in touch with us: [contact us](https://veupathdb.org/veupathdb/app/contact-us). We will recheck if it is possible to add your genome of interest and get back to you as soon as possible. 
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo3.png"  />
   uid: apollo3
   projects: ""
