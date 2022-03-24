@@ -143,21 +143,9 @@ th.recording {
            <tr>
             <td>March 22, 2022</td>
             <td>11AM</td>
-<<<<<<< HEAD
             <td>Bunyavirales in Ticks</td>
-=======
-            <td>Bunyavirales in Ticks<br>
-            <a href="{{'/documents/webinars/Bunyavirales_BV_BRC.pdf' | absolute_url}}">Webinar slides</a>
-            <br>
-            <a href="{{'/documents/webinars/Bunyavirales_BV_BRC_tutorial.pdf' | absolute_url}}">Tutorial</a>
-            </td>
->>>>>>> 875b0427... fixed absolute url
             <td>BV-BRC</td>
-<<<<<<< HEAD
             <td><b><a href="https://upenn.zoom.us/meeting/register/tJUtce-vpjwvHdyqAB_jt5ap89qX_sLpm3jl">Registration link</a></b></td>
-=======
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/I6fLaYNwIzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
->>>>>>> f5bbf418... corrected embed link
           </tr>
           <tr>
             <td>April 5, 2022</td>
