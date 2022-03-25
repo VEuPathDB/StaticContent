@@ -286,6 +286,16 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo7.png"  />
   uid: apollo7
   projects: ""
+- type: apollo
+  question: "How do I add a new gene model in Apollo based on a blast match?"
+  answer: |
+           1. Log into VEuPathDB
+           2. Select on the right-hand side the tab Search, choose Blat nucleotide or Blat protein from the drop-down menu and paste in the sequence. Select the tick box All genome sequences if you want to search all chromosomes/contigs of your genome of interest. Click on Search. 
+           3. You can now select the search results. They are shown in yellow. 
+           4. If you want to create a gene model based on the search result, click on Action and select Create annotation. 
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo8.png"  />
+  uid: apollo8
+  projects: ""
 - type: download
   question: "How do I download a pre-configured table (e.g. Link outs or alternate IDs) of multiple genes?"
   answer: |
