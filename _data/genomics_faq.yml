@@ -296,6 +296,16 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo8.png"  />
   uid: apollo8
   projects: ""
+- type: apollo
+  question: "What happens to my annotations in Apollo?"
+  answer: |
+           1. Once you are happy with your annotation select the status Finished in the Annotation panel.
+           2. Within 24 hours the product descriptions that have been added to the tab gene product in Apollo will be shown on the gene record page in the Annotation, curation and identifiers section.
+           3. The gene model will appear on the live site on the gene record page in the community annotations track in JBrowse.
+           4. The annotations will remain in Apollo indefinitely or until they are incorporated into the main gene record.  
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo9.png"  />
+  uid: apollo9
+  projects: ""
 - type: download
   question: "How do I download a pre-configured table (e.g. Link outs or alternate IDs) of multiple genes?"
   answer: |
