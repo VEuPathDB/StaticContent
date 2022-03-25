@@ -265,6 +265,16 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo5.png"  />
   uid: apollo5
   projects: ""
+- type: apollo
+  question: "How do I know if my new gene structure is correct in Apollo?"
+  answer: |
+           1. Check if your gene has a Start and Stop site. You can do this by zooming in. Alternatively, right click on the gene to open the menu and select Get sequence. With this option you can recheck if there is a correct Start. You only need to check for correct start and stop sites if your gene does not have annotated UTRs. 
+           2. Check splice sites. In most eukaryotes the majority of splice sites at the exon/intron boundaries appear as 5’-…exon]GT/AG[exon…-3’. An exclamation mark in Apollo shows non-canonical splice sites. 
+           3. Check if you can annotate UTRs, for example using RNA-Seq data. A useful track that could help with this is the “Combined RNA-Seq plot”. This track combines all RNA-Seq plots available for your genome of interest. You can find this track by searching for “combine”.   
+           4. Check sequence similarity by running blast. Right click on the gene in the User-created Annotations area, open the drop down menu and select Get sequence. Copy the sequence to the clipboard and run [blast](https://blast.ncbi.nlm.nih.gov/Blast.cgi).
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo6.png"  />
+  uid: apollo6
+  projects: ""
 - type: download
   question: "How do I download a pre-configured table (e.g. Link outs or alternate IDs) of multiple genes?"
   answer: |
