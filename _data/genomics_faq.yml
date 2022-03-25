@@ -287,7 +287,7 @@
   uid: apollo7
   projects: ""
 - type: apollo
-  question: "How do I add a new gene model in Apollo based on a blast match?"
+  question: "How do I add a new gene model in Apollo based on a BLAST match?"
   answer: |
            1. Log into VEuPathDB
            2. Select on the right-hand side the tab “Search”, choose “Blat nucleotide” or “Blat protein” from the drop-down menu and paste in the sequence. Select the tick box ”All genome sequences” if you want to search all chromosomes/contigs of your genome of interest. Click on ”Search”. 
