@@ -275,6 +275,17 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo6.png"  />
   uid: apollo6
   projects: ""
+- type: apollo
+  question: "Which evidence code should be used when adding GO terms or gene products in Apollo?"
+  answer: |
+           1. IDA is used if the GO term/product has been experimentally verified
+           2. ISS: GO term/product is inferred from similarity. For GO annotations add GO_REF:0000024 as reference. GO references describe the methods and procedures used in creating such annotations.
+           3. ISM: GO term/product is inferred from InterPro/Pfam domain. Add GO_REF:000011 in the reference field for GO annotations.
+           4. IMP: GO term/product is inferred from mutant phenotype
+           Additional information on evidence codes can be found here: [Guide to GO evidence codes](http://geneontology.org/docs/guide-go-evidence-codes)
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo7.png"  />
+  uid: apollo7
+  projects: ""
 - type: download
   question: "How do I download a pre-configured table (e.g. Link outs or alternate IDs) of multiple genes?"
   answer: |
