@@ -236,7 +236,7 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo3.png"  />
   uid: apollo3
   projects: ""
-  - type: apollo
+- type: apollo
   question: "How do I update functional annotation in Apollo?"
   answer: |
            1. Log into VEuPathDB 
