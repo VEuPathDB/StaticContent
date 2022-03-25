@@ -250,6 +250,21 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo4.png"  />
   uid: apollo4
   projects: ""
+- type: apollo
+  question: "How do I update structural annotation in Apollo?"
+  answer: |
+           1. Log into VEuPathDB 
+           2. From the gene record page select View and update community annotations in Apollo 
+           3. With a right-click on the gene in the Annotated Transcript track open the drop-down menu and select Create new annotation > gene  
+           4. Right-click on the gene in the User-created Annotations area and select Open Annotation
+           5. The annotation panel is on the right-hand side. Select the tab Tracks. 
+           6. Select evidence tracks from Draggable Annotation
+           7. Drag and drop the evidence into the User-created Annotations area
+           8. With a right-click on the gene in the User-created Annotations area open the drop-down menu. There are options to merge exons, split and duplicate genes. Choose the modification as appropriate.
+           9. Once you’ve finished modifying the gene structure, choose the Annotations tab and select the status finished. 
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo5.png"  />
+  uid: apollo5
+  projects: ""
 - type: download
   question: "How do I download a pre-configured table (e.g. Link outs or alternate IDs) of multiple genes?"
   answer: |
