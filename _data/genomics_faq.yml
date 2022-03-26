@@ -254,12 +254,12 @@
   question: "How do I update structural annotation in Apollo?"
   answer: |
            1. Log into VEuPathDB 
-           2. From the gene record page select “View and update community annotations in Apollo” 
-           3. With a right-click on the gene in the Annotated Transcript track open the drop-down menu and select “Create new annotation > gene”  
-           4. Right-click on the gene in the User-created Annotations area and select “Open Annotation”
+           2. From the gene record page select “View and update community annotations in Apollo”.
+           3. With a right-click on the gene in the Annotated Transcript track open the drop-down menu and select “Create new annotation > gene”. 
+           4. Right-click on the gene in the User-created Annotations area and select “Open Annotation”.
            5. The annotation panel is on the right-hand side. Select the tab Tracks. 
-           6. Select evidence tracks from Draggable Annotation
-           7. Drag and drop the evidence into the User-created Annotations area
+           6. Select evidence tracks from Draggable Annotation.
+           7. Drag and drop the evidence into the User-created Annotations area.
            8. With a right-click on the gene in the User-created Annotations area open the drop-down menu. There are options to merge exons, split and duplicate genes. Choose the modification as appropriate.
            9. Once you’ve finished modifying the gene structure, choose the Annotations tab and select the status “Finished”. 
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo5.png"  />
@@ -278,10 +278,10 @@
 - type: apollo
   question: "Which evidence code should be used when adding GO terms or gene products in Apollo?"
   answer: |
-           1. IDA is used if the GO term/product has been experimentally verified
+           1. IDA is used if the GO term/product has been experimentally verified.
            2. ISS: GO term/product is inferred from similarity. For GO annotations add GO_REF:0000024 as reference. GO references describe the methods and procedures used in creating such annotations.
            3. ISM: GO term/product is inferred from InterPro/Pfam domain. Add GO_REF:000011 in the reference field for GO annotations.
-           4. IMP: GO term/product is inferred from mutant phenotype
+           4. IMP: GO term/product is inferred from mutant phenotype.
            Additional information on evidence codes can be found here: [Guide to GO evidence codes](http://geneontology.org/docs/guide-go-evidence-codes)
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo7.png"  />
   uid: apollo7
