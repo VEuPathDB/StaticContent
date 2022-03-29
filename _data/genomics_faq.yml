@@ -121,8 +121,7 @@
            <div style="width: 60%; background: #f5f5f5; border: 1px solid #ccc; padding: 4px 6px 4px 6px; -moz-border-radius: 10px;-webkit-border-radius: 10px;">
            <p><i>Anopheles gambiae</i> PEST AgamP4.13 and <i>Aedes aegypti</i> LVP_AGWG AaegL5.3, VectorBase 
            <a href="https://vectorbase.org/vectorbase/app">www.vectorbase.org</a>
-           (<a href="https://pubmed.ncbi.nlm.nih.gov/34864248/">Giraldo-Calderón et al 2022</a>)
-           .</p>
+           (<a href="https://pubmed.ncbi.nlm.nih.gov/34864248/">Giraldo-Calderón et al 2022</a>).</p>
   uid: cite-genome-assembly
   projects: ""
 - type: citing
