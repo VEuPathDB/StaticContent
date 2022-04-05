@@ -156,7 +156,7 @@ th.recording {
             <td>11AM</td>
             <td>Tick Endosymbionts</td>
             <td>BV-BRC</td>
-            <td><b><a href="https://upenn.zoom.us/meeting/register/tJMscequqzMqHdL2Up9Syi2UDQlMo3_5HCdc">Registration link</a></b></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/P8UlM1_t3-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>April 19, 2022</td>
