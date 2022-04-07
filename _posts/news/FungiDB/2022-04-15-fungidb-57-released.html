@@ -218,49 +218,78 @@ category: [FungiDB,VEuPathDB]
             
         <ul>
           <li>
-            <a href="/a/app/record/dataset/DS_0732741900"><i>Candida albicans</i> functional genomic screening</a> &mdash;
-            Compiled and normalized <i>Candida albicans</i> functional genomic screening data from ~400 screens.
-            <a href="http://www.ncbi.nlm.nih.gov/pubmed/34864983" target="_blank">Gervais et al. 2021</a>.   
+            <a href="/a/app/record/dataset/DS_e51cb08950">Phenotypes from PHI-base database</a> &mdash;
+           <a href="http://www.phi-base.org/" target="_blank">PHI-base</a> is a web-accessible database that catalogues experimentally verified pathogenicity, virulence and effector genes from 
+           fungal, Oomycete and bacterial pathogens, which infect animal, plant, fungal and insect hosts. The pathogen – host interactions (PHI) phenotypes and pathogen-specific 
+           phenotypes from PHI-base were integrated for 61 different genomes available in FungiDB in this release. This dataset is current with PHI-base version 4.12. We have 
+           integrated 5,381 phenotypic annotations mapping to 3,140 genes in total. The original data file from PHI-base can be found in their GitHub site 
+           <a href="https://github.com/PHI-base/data/blob/master/releases/phi-base_v4-12_2021-09-02.csv" target="_blank">linked here</a>.   
             </li>
+            </ul>
 
-        <li><a href="/a/app/record/dataset/DS_f2312514ac">Manually curated Phenotypes (VEuPathDB)</a> &ndash; 
-            We have curated and integrated phenotypes from <a href="https://pubmed.ncbi.nlm.nih.gov/32546620/" target="_blank">Valero et al. 2020</a> for <i>Aspergillus fumigatus</i> Af293 and 
-            <a href="https://pubmed.ncbi.nlm.nih.gov/22589729/" target="_blank">Saitoh et al. 2012</a> for <i>Pyricularia oryzae</i> 70-15 in this release.    
+          <br>
+          
+           <h4>Updated Functional Annotation</h4>
+       		<ul>
+             <li>
+             <a href="https://docs.google.com/spreadsheets/d/1im0lQyZ6E1Qec48dOQjZDI0eGXKv_fY8TeE7_RptB4U/edit?usp=sharing" target="_blank">Summary of annotation updates</a>
+               which include gene names, products, GO terms, publications and notes from curators. These functional annotations are current with GeneDB March 2022 GFF version. These annotation updates 
+               also include some of the functional annotations made by our users via the <a href="https://apollo.veupathdb.org/annotator/index" target="_blank">VEuPathDB Apollo</a> instance.
+            </li>
+            </ul> 
+            <br>
+               
+            <div style="margin-left: 3em;">   
+             <style>
+                #FunctAnnot_Bld57 table, #FunctAnnot_Bld57 td, #FunctAnnot_Bld57 th, #FunctAnnot_Bld57 tr {
+                text-align : center;
+                padding-left: 5px;
+                padding-right: 5px;
+                padding-top: 5px;
+                padding-bottom: 5px;
+                border: 1px solid black;
+                }
+                #FunctAnnot_Bld57 {
+                margin-left : 5 em;
+                }
+              </style> 
+                <table id="FunctAnnot_Bld57"> 
+                <tr>
+                  <th>FungiDB Genome Version</th>
+                  <th>Download GeneDB GFF file</th>
+                  <th>Genes Updated</th>
+                </tr>
+                <tr>
+                  <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on FungiDB."><a href="https://fungidb.org/fungidb/app/record/dataset/DS_071f05cd56"><i>Aspergillus fumigatus</i> Af293</a></td>
+                  <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-03/AfumigatusAf293/AfumigatusAf293.gff.gz">GeneDB version March, 2022</a></td>
+                  <td>113</td>
+                </tr>
+                <tr>
+                  <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on FungiDB."><a href="https://fungidb.org/fungidb/app/record/dataset/DS_4b35c88aa1"><i>Aspergillus nidulans</i> FGSC A4</a></td>
+                  <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-03/AnidulansFGSCA4/AnidulansFGSCA4.gff.gz">GeneDB version March, 2022</a></td>
+                  <td>2</td>
+                </tr>
+                <tr>
+                  <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on FungiDB."><a href="https://fungidb.org/fungidb/app/record/dataset/DS_d22dd5953a"><i>Pyricularia oryzae</i> 70-15</a></td>
+                  <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-03/Moryzae7015/Moryzae7015.gff.gz">GeneDB version March, 2022</a></td>
+                  <td>91</td>
+                </tr>
+                </table>
+                </div>
+                
+                <br>
+           
+           <h4>External database links</h4>
+
+           <ul>
+             <li>Links to <a href="http://www.phi-base.org/">PHI-base</a> database in the gene pages have been updated in this release, providing links for 3,140 genes from 61 genomes in FungiDB. 
              </li>
-             </ul>
-          <br>
-          <div style="margin-left: 3em;">
-                    <style>
-                      #Phenotype_Bld56Asp table, #Phenotype_Bld56Asp td, #Phenotype_Bld56Asp th, #Phenotype_Bld56Asp tr {
-                      text-align : left;
-                      padding-left: 5px;
-                      padding-right: 5px;
-                      padding-top: 5px;
-                      padding-bottom: 5px;
-                      border: 1px solid black;
-                      }
-                      #Phenotype_Bld56Asp {
-                      margin-left : 5 em;
-                      }
-                    </style> 
-                      <table id="Phenotype_Bld56Asp"> 
-                      <tr>
-                        <th>Species</th>
-                        <th>Phenotype mapping</th>
-                        <th>Genes with phenotypes</th>
-                      </tr>
-                      <tr>
-                        <td><i>Aspergillus fumigatus</i> Af293</td>
-                        <td>83</td>
-                        <td>12</td>
-                      </tr>
-                      <tr>
-                        <td><i>Pyricularia oryzae</i> 70-15</td>
-                        <td>86</td>
-                        <td>77</td>
-                      </tr>
-                      </table>
-          <br>
+           </ul>
+           
+           <br>
+       
+       
+      </section>
      </div>
         
     <section>
