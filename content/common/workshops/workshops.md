@@ -668,7 +668,7 @@ th.recording {
           </tr>
           <tr>
             <td>1:50 - 3:00pm</td>
-            <td>Break out rooms for hands on work - RNAseq Galaxy part 1<br> <a href="{{'/documents/2021athens/Day1/Galaxy-RNAseq-groups.pdf' | absolute_url}}" class="ex-link"><b>Datasets</b></a> and <a href="{{'/exercises/Day1/VEuPathDB_RNAseq_Mapping_Galaxy_1-2.pdf' | absolute_url}}" class="ex-link"><b>Instructions</b></a></td>
+            <td>Break out rooms for hands on work - RNAseq Galaxy part 1<br> <a href="{{'/documents/2021athens/Day1/Galaxy-RNAseq-groups.pdf' | absolute_url}}" class="ex-link"><b>Datasets</b></a> and <a href="{{'/documents/2021athens/Day1/VEuPathDB_RNAseq_Mapping_Galaxy_1-2.pdf' | absolute_url}}" class="ex-link"><b>Instructions</b></a></td>
             <td></td>
             <td> </td>
           </tr>   
