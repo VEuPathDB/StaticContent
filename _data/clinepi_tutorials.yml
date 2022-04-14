@@ -47,7 +47,7 @@
   uid: t8
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: clinEpi_exercises/Viz_tool_cheat_sheet.pdf
-  date: April 14, 2022"
+  date: "April 14, 2022"
 - type: tutorial
   title: "Add notes to an analysis"
   description: "Keep track of your work and thoughts in the Notes tab"
