@@ -42,11 +42,25 @@
   fileName: clinEpi_exercises/Tutorial6_NavigatingVisualize.pdf
   date: "Feb 18, 2022"
 - type: tutorial
-  title: "Add notes to an analysis"
-  description: "Keep track of your work and thoughts in the Notes tab"
+  title: "Choose the right data visualization"
+  description: "Cheat sheet for choosing the right visualization tool"
   uid: t8
   projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Viz tool cheat sheet.pdf
+  date: April 14, 2022"
+- type: tutorial
+  title: "Add notes to an analysis"
+  description: "Keep track of your work and thoughts in the Notes tab"
+  uid: t9
+  projects: "ClinEpiDB,AllClinEpiDB"
   fileName: clinEpi_exercises/Tutorial7_NavigatingNotes.pdf
+  date: "Feb 18, 2022"
+- type: tutorial
+  title: "Download data"
+  description: "Choose to download either a subset or the entire dataset"
+  uid: t10
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Tutorial8_NavigatingDownloads.pdf
   date: "Feb 18, 2022"
 - type: tutorial
   title: "Get help and submit feedback"
