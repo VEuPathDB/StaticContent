@@ -1,0 +1,93 @@
+219c219
+<            5. You need to be logged in to VEuPathDB to use Apollo. If you want to correct a gene model in  Apollo follow the steps in the tutorials on the [Apollo page](/a/app/static-content/apollo_help.html). Some organisms are currently unavailable in Apollo. You can request these organisms to be available for curation, [click here to contact us](/a/app/contact-us).
+---
+>            5. You need to be logged in to VEuPathDB to use Apollo. If you want to correct a gene model in  Apollo follow the steps in the tutorials and FAQs on the [Apollo page](/a/app/static-content/apollo_help.html). Some organisms are currently unavailable in Apollo. You can request these organisms to be available for curation, [click here to contact us](/a/app/contact-us).
+223,310d222
+< - type: apollo
+<   question: "Do I need to register to use the VEuPathDB Apollo instance?"
+<   answer: |
+<            1. To use Apollo you need a VEuPathDB account. If you don’t have an account yet you can register on any of the VEuPathDB sites. 
+<            2. You can also register on the [Apollo website](https://apollo.veupathdb.org). Once you’ve registered log in with your Username and Password.
+<            3. Once you’ve logged in, choose your genome of interest from the genome drop-down menu and start annotating!
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo2.png"  />
+<   uid: apollo2
+<   projects: ""
+< - type: apollo
+<   question: "How can I request a genome to be added in Apollo?"
+<   answer: |
+<            1. Before requesting a genome check the list of genomes currently available in Apollo. Open Apollo with the [following link](https://apollo.veupathdb.org). Please note to open it, you need to log into VEuPathDB. 
+<            2. Click on the genome drop-down menu and scroll down to see if your genome of interest is present in the VEuPathDB Apollo instance. 
+<            3. If you cannot find it, please get in touch with us: [contact us](https://veupathdb.org/veupathdb/app/contact-us). We will recheck if it is possible to add your genome of interest and get back to you as soon as possible. 
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo3.png"  />
+<   uid: apollo3
+<   projects: ""
+< - type: apollo
+<   question: "How do I update functional annotation in Apollo?"
+<   answer: |
+<            1. Log into VEuPathDB 
+<            2. From the gene record page select “View and update community annotations in Apollo”. 
+<            3. With a right-click on the gene in the Annotated Transcript track open the drop-down menu and select “Create new annotation > gene”.  
+<            4. Right-click on the gene in the User-created Annotations and select “Open Annotation”.
+<            5. The annotation panel is on the right-hand side. You can now add functional annotation, i.e. Symbol.
+<            6. Select the tab Gene Product to add a product description with metadata. There are additional tabs to add Gene Ontology terms (the tab GO) and the tab DbXref to add publications. 
+<            7. Once you’ve added the functional annotation select from the Status drop-down menu “Finished”.
+<            8. The new product is visible the following day on the gene record page in the section “Apollo product description”.
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo4.png"  />
+<   uid: apollo4
+<   projects: ""
+< - type: apollo
+<   question: "How do I update structural annotation in Apollo?"
+<   answer: |
+<            1. Log into VEuPathDB 
+<            2. From the gene record page select “View and update community annotations in Apollo”.
+<            3. With a right-click on the gene in the Annotated Transcript track open the drop-down menu and select “Create new annotation > gene”. 
+<            4. Right-click on the gene in the User-created Annotations area and select “Open Annotation”.
+<            5. The annotation panel is on the right-hand side. Select the tab Tracks. 
+<            6. Select evidence tracks from Draggable Annotation.
+<            7. Drag and drop the evidence into the User-created Annotations area.
+<            8. With a right-click on the gene in the User-created Annotations area open the drop-down menu. There are options to merge exons, split and duplicate genes. Choose the modification as appropriate.
+<            9. Once you’ve finished modifying the gene structure, choose the Annotations tab and select the status “Finished”. 
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo5.png"  />
+<   uid: apollo5
+<   projects: ""
+< - type: apollo
+<   question: "How do I know if my new gene structure is correct in Apollo?"
+<   answer: |
+<            1. Check if your gene has a Start and Stop site. You can do this by zooming in. Alternatively, right-click on the gene to open the menu and select Get sequence. With this option you can recheck if there is a correct Start. You only need to check for correct start and stop sites if your gene does not have annotated UTRs. 
+<            2. Check splice sites. In most eukaryotes the majority of splice sites at the exon/intron boundaries appear as 5’-…exon]GT/AG[exon…-3’. An exclamation mark in Apollo shows non-canonical splice sites. 
+<            3. Check if you can annotate UTRs, for example using RNA-Seq data. A useful track that could help with this is the “Combined RNA-Seq plot”. This track combines all RNA-Seq plots available for your genome of interest. You can find this track by searching for “combine”.   
+<            4. Check sequence similarity by running blast. Right click on the gene in the User-created Annotations area, open the drop down menu and select “Get sequence”. Copy the sequence to the clipboard and run [blast](https://blast.ncbi.nlm.nih.gov/Blast.cgi).
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo6.png"  />
+<   uid: apollo6
+<   projects: ""
+< - type: apollo
+<   question: "Which evidence code should be used when adding GO terms or gene products in Apollo?"
+<   answer: |
+<            1. IDA is used if the GO term/product has been experimentally verified.
+<            2. ISS: GO term/product is inferred from similarity. For GO annotations add GO_REF:0000024 as reference. GO references describe the methods and procedures used in creating such annotations.
+<            3. ISM: GO term/product is inferred from InterPro/Pfam domain. Add GO_REF:000011 in the reference field for GO annotations.
+<            4. IMP: GO term/product is inferred from mutant phenotype.
+<            Additional information on evidence codes can be found here: [Guide to GO evidence codes](http://geneontology.org/docs/guide-go-evidence-codes)
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo7.png"  />
+<   uid: apollo7
+<   projects: ""
+< - type: apollo
+<   question: "How do I add a new gene model in Apollo based on a BLAST match?"
+<   answer: |
+<            1. Log into VEuPathDB
+<            2. Select on the right-hand side the tab “Search”, choose “Blat nucleotide” or “Blat protein” from the drop-down menu and paste in the sequence. Select the tick box ”All genome sequences” if you want to search all chromosomes/contigs of your genome of interest. Click on ”Search”. 
+<            3. Double-click on the search results to go to the corresponding genome region. The area is shown in yellow. 
+<            4. If you want to create a gene model based on the search result, click on ”Action” and select ”Create annotation”. 
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo8.png"  />
+<   uid: apollo8
+<   projects: ""
+< - type: apollo
+<   question: "What happens to my annotations in Apollo?"
+<   answer: |
+<            1. Once you are happy with your annotation select the status “Finished” in the Annotation panel.
+<            2. Within 24 hours product descriptions that have been added to the tab gene product in Apollo will be shown on the gene record page in the Annotation, curation and identifiers section.
+<            3. The gene model will appear on the live site on the gene record page in the community annotations track in JBrowse.
+<            4. The annotations will remain in Apollo indefinitely or until they are incorporated into the main gene record.  
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo9.png"  />
+<   uid: apollo9
+<   projects: ""
