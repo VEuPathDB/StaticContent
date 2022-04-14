@@ -41,8 +41,6 @@ tags: [general]
     <div>
       <ul>
       <li>Marginal boxplots on histograms - enhance the view of the distribution</li>
-      <li>Time series tool - plot data over time</li>
-      <li>Map tool - view data geographically</li>
       <li>Correlation matrix tool - highlight the most correlated variables</li>
       <li>General heatmap tool - view data in a semi-quantitative way</li>
       <li>Longitudinal heatmap tool - visualize longitudinal patterns</li>

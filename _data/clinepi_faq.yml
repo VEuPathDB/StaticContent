@@ -3,7 +3,7 @@
   question: "Introductory tour"
   answer: |
            The video below provides a short overview of the major features of ClinEpiDB. You can also visit our [Tutorials](/a/app/static-content/ClinEpiDB/tutorials.html){:target='_blank'}, [Workshops](/a/app/static-content/ClinEpiDB/workshops.html){:target='_blank'}, and [Resources](/a/app/static-content/ClinEpiDB/resources.html){:target='_blank'} pages for additional resources.
-           <iframe style="margin-left:3em;margin-top:1em;" width="560" height="315" src="https://www.youtube.com/embed/z6iMvkLo_q8"></iframe>
+           <iframe style="margin-left:3em;margin-top:1em;" width="560" height="315" src="https://www.youtube.com/embed/jfiBfhxItMc"></iframe>
   uid: g1
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
