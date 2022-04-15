@@ -43,7 +43,7 @@
   date: "Feb 18, 2022"
 - type: tutorial
   title: "Choose the right data visualization"
-  description: "Cheat sheet for choosing the right visualization tool"
+  description: "Cheat sheet for choosing the best visualization tool for your data"
   uid: t8
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: clinEpi_exercises/Viz_tool_cheat_sheet.pdf
