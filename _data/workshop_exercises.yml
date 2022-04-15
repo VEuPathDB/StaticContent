@@ -4,12 +4,15 @@ cards:
     date: 2021/06/03
     exclude: OrthoMCL
     links:
-      - name: "Apollo: Functional annotation"
+      - name: "Functional annotation"
         path: Apollo_functional_annotation_26_10_2021.pdf
         description:
-      - name: "Apollo: Structural annotation"
+      - name: "Structural annotation"
         path: Apollo_structural_annotation_14_06_2021.pdf
-        description:   
+        description: 
+      - name: "Unannotated Intron Junctions"
+        path: Intron_junctions_search_15_04_2022.pdf
+        description: 
   - card: Gene Pages
     description: Explore the data and images on gene pages 
     date: 2020/10/27
