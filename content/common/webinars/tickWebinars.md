@@ -163,7 +163,7 @@ th.recording {
             <td>11AM</td>
             <td>Metagenomic analysis of tick samples</td>
             <td>BV-BRC</td>
-            <td><b><a href="https://upenn.zoom.us/meeting/register/tJcpdu6urDMtE9BZX9rw1nFFV465GzZVtHvU">Registration link</a></b></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/pCVwCJBC2Qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>May 3, 2022</td>
