@@ -25,7 +25,6 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div class="contents">
- <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p>
  <p><b>Thursday April 28th, 2022:</b> <a href="#release57">Release 57 Webinar</a></p>
  <p><b>Thursday July 7th, 2022:</b> <a href="#release58">Release 58 Webinar</a></p>
  <p><b>Thursday September 29th, 2022:</b> <a href="#release59">Release 59 Webinar</a></p>
@@ -37,7 +36,8 @@ tags: [general]
   <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
-     
+   
+ <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p>  
    <p><b>Thursday February 24th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
    <p><b>Thursday December 9th, 2021:</b> <a href="#release55">Release 55 Webinar</a></p>
    <p><b>Thursday September 16th, 2021:</b> <a href="#release54">Release 54 Webinar</a></p>
