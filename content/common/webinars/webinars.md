@@ -139,7 +139,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b>  Release 57 Webinar<br>
 <b>Date:</b> Thursday April 28th, 2022<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording:</b> <a href="https://youtu.be/56eduSdIP6s" target="_blank">https://youtu.be/56eduSdIP6s</a>--><br>
+<b>Recording:</b> <a href="https://youtu.be/56eduSdIP6s" target="_blank">https://youtu.be/56eduSdIP6s</a><br>
 <b>Additional Details:</b> This webinar focused on what is new in Release 57 of the VEuPathDB projects.  We discussed new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
