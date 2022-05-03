@@ -170,7 +170,7 @@ th.recording {
             <td>11AM</td>
             <td>Resources for Eukaryotic Pathogens Transmitted by Ticks</td>
             <td>VEuPathDB</td>
-            <td><b><a href=" https://upenn.zoom.us/meeting/register/tJApf-CgrD8pGdDS9wPksPrO9iC0EO9lWjt3">Registration link</a></b></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/4gKJ62wOUi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>May 17, 2022</td>
