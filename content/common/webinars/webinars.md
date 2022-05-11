@@ -101,7 +101,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Registraion:</b> <a href="https://liverpool-ac-uk.zoom.us/meeting/register/tJUucOqorDsoH9R9PXjEZKja-UwLppf0lP5y" target="_blank">https://liverpool-ac-uk.zoom.us/meeting/register/tJUucOqorDsoH9R9PXjEZKja-UwLppf0lP5y</a><br>
 <b>Additional Details:</b> <br>
 <ul>
-<li>Apollo navigation, navigation and main tools</li>
+<li>Apollo navigation and main tools</li>
 <li>Structural and functional annotations</li>
 <li>Evidence as tracks and Galaxy</li>
 </ul>
