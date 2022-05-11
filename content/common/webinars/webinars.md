@@ -93,7 +93,7 @@ Release webinar dates are subject to change due to production issues that may ar
 
 
 <hr>
-<div class="anchor"><a name="#apollo2022"></a></div>
+<div class="anchor"><a name="apollo2022"></a></div>
 <div class="webinar">
 <b>Topic:</b> VEuPathDB Apollo annotation and curation<br>
 <b>Date:</b> Wednesday May 25th, 2022<br>
