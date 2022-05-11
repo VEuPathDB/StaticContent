@@ -99,7 +99,12 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Date:</b> Wednesday May 25th, 2022<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registraion:</b> <a href="https://liverpool-ac-uk.zoom.us/meeting/register/tJUucOqorDsoH9R9PXjEZKja-UwLppf0lP5y" target="_blank">https://liverpool-ac-uk.zoom.us/meeting/register/tJUucOqorDsoH9R9PXjEZKja-UwLppf0lP5y</a><br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 58 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<b>Additional Details:</b> <br>
+<ul>
+<li>Apollo navigation, navigation and main tools</li>
+<li>Structural and functional annotations</li>
+<li>Evidence as tracks and Galaxy</li>
+</ul>
 <br>
 </div>
   
