@@ -161,7 +161,7 @@ Release webinar dates are subject to change due to production issues that may ar
 This webinar will guide you through the process of updating and fixing gene models based on underlying data. Topics covered will include:
 <br>
 <ul>
-<li>Apollo tools and navigation</li>
+<li>Apollo navigation and main tools</li>
 <li>Structural and functional annotation</li>
 <li>Track evidence and Galaxy</li>
 </ul>
