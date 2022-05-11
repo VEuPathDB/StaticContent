@@ -24,8 +24,9 @@ tags: [general]
 <div class="static-content">
 
   <h3>Upcoming Webinars</h3>
-  <div class="contents">
-  <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p>  
+  <div class="contents">   
+ <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p>  
+ <p><b>Wednesday May 25th, 2022:</b> <a href="#apollo2022">VEuPathDB Apollo annotation and curation</a></p>  
  <p><b>Thursday July 7th, 2022:</b> <a href="#release58">Release 58 Webinar</a></p>
  <p><b>Thursday September 29th, 2022:</b> <a href="#release59">Release 59 Webinar</a></p>
  <p><b>Thursday November 10th, 2022:</b> <a href="#release59">Release 60 Webinar</a></p>
@@ -90,6 +91,17 @@ tags: [general]
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
 
+
+<hr>
+<div class="anchor"><a name="#apollo2022"></a></div>
+<div class="webinar">
+<b>Topic:</b> VEuPathDB Apollo annotation and curation<br>
+<b>Date:</b> Wednesday May 25th, 2022<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registraion:</b> <a href="https://liverpool-ac-uk.zoom.us/meeting/register/tJUucOqorDsoH9R9PXjEZKja-UwLppf0lP5y" target="_blank">https://liverpool-ac-uk.zoom.us/meeting/register/tJUucOqorDsoH9R9PXjEZKja-UwLppf0lP5y</a><br>
+<b>Additional Details:</b> This webinar will focus on what is new in Release 58 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
   
 <hr>
 <div class="anchor"><a name="release58"></a></div>
@@ -140,7 +152,14 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Date:</b> Thursday April 28th, 2022<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording:</b> <a href="https://youtu.be/56eduSdIP6s" target="_blank">https://youtu.be/56eduSdIP6s</a><br>
-<b>Additional Details:</b> This webinar focused on what is new in Release 57 of the VEuPathDB projects.  We discussed new data sets, demonstrate searches and features, and answer questions.
+<b>Additional Details:</b> 
+This webinar will guide you through the process of updating and fixing gene models based on underlying data. Topics covered will include:
+<br>
+<ul>
+<li>Apollo tools and navigation</li>
+<li>Structural and functional annotation</li>
+<li>Track evidence and Galaxy</li>
+</ul>
 <br>
 </div>
 
