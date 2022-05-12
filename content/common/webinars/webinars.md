@@ -158,13 +158,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording:</b> <a href="https://youtu.be/56eduSdIP6s" target="_blank">https://youtu.be/56eduSdIP6s</a><br>
 <b>Additional Details:</b> 
-This webinar will guide you through the process of updating and fixing gene models based on underlying data. Topics covered will include:
-<br>
-<ul>
-<li>Apollo navigation and main tools</li>
-<li>Structural and functional annotation</li>
-<li>Track evidence and Galaxy</li>
-</ul>
+This webinar focused on what is new in Release 57 of the VEuPathDB projects. We discussed new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
 
