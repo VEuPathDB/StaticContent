@@ -215,7 +215,7 @@
            1. Reference genomes are available in Apollo. Reference genome indicates the genome used by VEuPathDB as the reference sequence to which other data sets are mapped. 
            2. Genomes from HostDB are not available for community curation in Apollo.
            3. Other exceptions include genomes that are curated at Model Organism Databases, for instance Saccharomyces cerevisiae S288C. 
-           4. Is your genome of interest not available for community annotation? Please contact us.
+           4. Is your genome of interest not available for community annotation? Please [contact us](https://veupathdb.org/veupathdb/app/contact-us).
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo10.png"  />
   uid: apollo10
   projects: ""
