@@ -103,7 +103,7 @@ th.recording {
   <h3>Upcoming Workshops</h3>
   <div class="contents">     
     <h4><a href="https://www.toxocongress2022.org/pre-meeting-workshops/leveraging-informatics-tools" target="_blank">Leveraging Informatics Tools 'Omics & ToxoDB</a></h4>
-    <p>This one-day in-person workshop will be held before the 16th International Congress on Toxoplasmosis and Toxoplasma gondii Research</p>
+    <p>This one-day in-person workshop will be held before the 16th International Congress on Toxoplasmosis and <i>Toxoplasma gondii</i> Research</p>
     <p>Sunday May 22, 2022. 9am-4pm</p>
     <p>The Mission Inn, Riverside, CA</p>
   </div>
