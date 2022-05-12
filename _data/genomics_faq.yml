@@ -210,6 +210,16 @@
   uid: organismpreferences
   projects: ""
 - type: apollo
+  question: "What genomes are available for community annotation in Apollo?"
+  answer: |
+           1. Reference genomes are available in Apollo. Reference genome indicates the genome used by VEuPathDB as the reference sequence to which other data sets are mapped. 
+           2. Genomes from HostDB are not available for community curation in Apollo.
+           3. Other exceptions include genomes that are curated at Model Organism Databases, for instance Saccharomyces cerevisiae S288C. 
+           4. Is your genome of interest not available for community annotation? Please contact us.
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo10.png"  />
+  uid: apollo10
+  projects: ""
+- type: apollo
   question: "What can I do if a gene model is incorrect or missing?"
   answer: |
            1. Go to the gene record page of your gene of interest. In case of a missing gene, choose the gene  record page of a neighbouring gene. 
