@@ -177,7 +177,7 @@ th.recording {
             <td>11AM</td>
             <td>Comparative Genomics of Tick-Transmitted Bacteria</td>
             <td>BV-BRC</td>
-            <td><b><a href="https://upenn.zoom.us/meeting/register/tJIuc-ysrD0oHdxbSl0htivMDz_CEnUC89Q1">Registration link</a></b></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/4QEZlAs7WQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>May 31, 2022</td>
