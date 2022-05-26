@@ -90,22 +90,6 @@ tags: [general]
 <h3>Upcoming Webinars</h3>
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
-
-  <hr>
-<div class="anchor"><a name="apollo2022"></a></div>
-<div class="webinar">
-<b>Topic:</b> VEuPathDB Apollo annotation and curation<br>
-<b>Date:</b> Wednesday May 25th, 2022<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registraion:</b> <a href="https://liverpool-ac-uk.zoom.us/meeting/register/tJUucOqorDsoH9R9PXjEZKja-UwLppf0lP5y" target="_blank">https://liverpool-ac-uk.zoom.us/meeting/register/tJUucOqorDsoH9R9PXjEZKja-UwLppf0lP5y</a><br>
-<b>Additional Details:</b> <br>
-<ul>
-<li>Apollo navigation and main tools</li>
-<li>Structural and functional annotations</li>
-<li>Evidence as tracks and Galaxy</li>
-</ul>
-<br>
-</div>
   
 <hr>
 <div class="anchor"><a name="release58"></a></div>
