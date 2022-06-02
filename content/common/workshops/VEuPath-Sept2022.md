@@ -96,7 +96,7 @@ th.recording {
 div.centered-title {
     border: 1px solid black;
     border-radius: 0.8em;
-    text-align: center;
+    text-align: right;
     margin-left: 15em;
     margin-right: 15em;
     background: #F8F8F8;
@@ -154,7 +154,8 @@ div.centered-title {
   <p><h2>Registration</h2></p>
     <ul>
         <li>Number of course participants: maximum 300</li>
-        <li>Register by following this link on the <a href="https://cvent.me/qvLA93">AGS website</a>. After you complete your registration, you will receive an email from ggiraldo@nd.edu (Gloria I. Giraldo-Calderón) to fill out an online form, this process completes your registration. The form information is confidential and it helps us know our prospective audience to customize examples and exercises.</li>
+        <li>Register by completing this form: <a href="https://cvent.me/qvLA93">AGS website</a>. </li>
+        <li>After you complete your registration, you will receive an email from ggiraldo@nd.edu (Gloria I. Giraldo-Calderón) to fill out an online form, this process completes your registration. The form information is confidential and it helps us know our prospective audience to customize examples and exercises.</li>
         <li>Registration deadline: it is the 29th of May 2022. It will be taken on a first-come, first-served basis</li>
         <li>Who should register: the ideal candidate should have a need to learn how to use VectorBase and be interested in using the database to answer their own research questions. Scientists at any career stage are welcome to apply</li>
     </ul> 
