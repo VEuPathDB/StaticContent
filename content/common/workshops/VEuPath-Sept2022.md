@@ -107,14 +107,14 @@ div.centered-title {
    <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> 
    <a href="/a/app/static-content/workshops.html">Workshops</a></p>
 
-<h1>VEuPathDB Workshop September 6-9, 2022</h1>
+<h1>VEuPathDB Virtual Workshop September 6-9, 2022</h1>
 <div class="static-content">
 
 
   <div class="centered-title">     
-    <h4>Arthropod Genomics Symposium 2022: pre-meeting VectorBase hands-on Workshop</h4>
-    <p>6:00 pm on Sunday, 5th June to 12:00 pm (noon) on Thursday, 9th June 2022</p>
-    <p>DeBartolo Hall, University of Notre Dame, Notre Dame, IN</p>
+    <p>Virtual hands-on workshop with short lectures and small goup instruction.</p>
+    <p>9am - 1pm (EDT) daily Tuesday, September 6th through Friday Sept 9th. </p>
+    <p>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</p>
     <p>In-person (sessions will not be virtual or recorded)</p>
   </div>
 
