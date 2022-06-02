@@ -156,7 +156,7 @@ div.instructor-table {
 <br><br>
 
 
-  <p><h2>Registration: deadline Monday Aug 29, 2022</h2></p>
+  <h2>Registration: deadline Monday Aug 29, 2022</h2>
     <ul>
         <li><b>Register by completing this form: <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO">https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO</a>.</b> </li>
         <li>The form information is confidential and it helps us know our prospective audience to customize examples and exercises.</li>
@@ -166,12 +166,12 @@ div.instructor-table {
   <br><br>
   
 
-  <p><h2>Computer and internet access</h2></p>
-  <p>We recommend that you have a laptop or desktop computer equipped with Zoom software and a wifi or wired internet connection. Although cell phones can run Zoom, they are inadequate for completing the hands-on exercises.  Using your cell phone for lectures and discussions and a laptop for the hands-on exercises is a reasonable setup. </p>
+  <h2>Computer and internet access</h2>
+  We recommend that you have a laptop or desktop computer equipped with Zoom software and a wifi or wired internet connection. Although cell phones can run Zoom, they are inadequate for completing the hands-on exercises.  Using your cell phone for lectures and discussions and a laptop for the hands-on exercises is a reasonable setup. 
   <br><br>
       
-  <p><h2>Cost and fees</h2></p>
-  <p>The workshop is free and everyone is welcome.  Please feel free to forward information about the workshop and registration to your colleagues. </p>
+  <h2>Cost and fees</h2>
+  The workshop is free and everyone is welcome.  Please feel free to forward information about the workshop and registration to your colleagues.
   <br><br>
 
   <h2>Instructors</h2>
@@ -220,14 +220,15 @@ div.instructor-table {
       </tr>
     </table>
     </div>
-
+  <br><br>
     
-  <p><h2>Questions</h2></p>
-  <p>Please direct inquiries or questions to <a href="https://vectorbase.org/vectorbase/app/contact-us">help@vectorbase.org</a></p>
+  <h2>Questions</h2>
+  Please direct inquiries or questions to <a href="https://vectorbase.org/vectorbase/app/contact-us">help@vectorbase.org</a>
+  <br><br>
 
-  <p><h2>More about VEuPathDB</h2></p>
-  <p>If you are a new user and will like to know more details about our resources to decide if you want to apply for the workshop, we invite you to read our more recent VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/">Amos et al 2022</a>) and VectorBase (<a href="https://pubmed.ncbi.nlm.nih.gov/34864248/">Giraldo-Calderón et al 2022</a>) papers, and explore our <b><u>free</u></b> tutorials and previously recorded <a href="https://vectorbase.org/vectorbase/app/static-content/landing.html">webinars and workshops</a>. Regardless of if you attend or not the workshop, please feel free to email us (<a href="https://vectorbase.org/vectorbase/app/contact-us">help@vectorbase.org</a>), our goal is to maintain a fruitful and ongoing conversation between our team and you, the scientists working in medical entomology, to obtain more efficient, effective ways to help you reach your goals.</p>
-      
+  <h2>More about VEuPathDB</h2>
+  If you are a new user and will like to know more details about our resources to decide if you want to apply for the workshop, we invite you to read our more recent VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/">Amos et al 2022</a>) and VectorBase (<a href="https://pubmed.ncbi.nlm.nih.gov/34864248/">Giraldo-Calderón et al 2022</a>) papers, and explore our <b><u>free</u></b> tutorials and previously recorded <a href="https://vectorbase.org/vectorbase/app/static-content/landing.html">webinars and workshops</a>. Regardless of if you attend or not the workshop, please feel free to email us (<a href="https://vectorbase.org/vectorbase/app/contact-us">help@vectorbase.org</a>), our goal is to maintain a fruitful and ongoing conversation between our team and you, the scientists working in medical entomology, to obtain more efficient, effective ways to help you reach your goals.
+  <br><br>
 
   <details open>
     <summary><b>Schedule</b></summary>      
@@ -240,18 +241,21 @@ div.instructor-table {
             <th class="time">Time</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
+            <th>
           </tr>
         </thead>
         <tbody>         
           <tr>
-            <td>6:00 - 9:00 pm</td>
-            <td><br>Registration
-                <br>Welcome dinner (provided)
-                <br>General introduction to omics 
-                <br>Attendees introductions
-                <br>Group photo
+            <td>8:30am</td>
+            <td>Zoom opens for 'meet and greet' and conncetion testing
                 </td>
-            <td>GIGC, OH, MAM, DSR, SR</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9am - 11am</td>
+            <td>Zoom opens for 'meet and greet' and conncetion testing
+                </td>
+            <td></td>
           </tr>
         </tbody>
       </table>
