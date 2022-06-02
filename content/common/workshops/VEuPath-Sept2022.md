@@ -121,10 +121,10 @@ div.instructor-table {
 
   <div class="centered-title">
     <ul>
-      <li>Virtual hands-on workshop with short lectures and small goup instruction.</li>
-      <li>9am - 1pm (EDT) daily Tuesday, September 6th through Friday Sept 9th. </li>
+      <li>9am - 1pm (EDT) daily </li>
+      <li>Virtual, hands-on workshop with short lectures and small goup instruction.</li>
       <li>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</li>
-      <li>In-person (sessions will not be virtual or recorded)</li>
+      <li>Recorded lectures and exercises available online after the workshop</li>
     </ul>
   </div>
 
@@ -156,24 +156,23 @@ div.instructor-table {
 <br><br>
 
 
-  <p><h2>Registration</h2></p>
+  <p><h2>Registration: deadline Monday Aug 29, 2022</h2></p>
     <ul>
         <li><b>Register by completing this form: <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO">https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO</a>.</b> </li>
-        <li>After you complete the form, you will receive The form information is confidential and it helps us know our prospective audience to customize examples and exercises.</li>
-        <li>Registration deadline: it is the 29th of May 2022. It will be taken on a first-come, first-served basis</li>
-        <li>Who should register: the ideal candidate should have a need to learn how to use VectorBase and be interested in using the database to answer their own research questions. Scientists at any career stage are welcome to apply</li>
+        <li>The form information is confidential and it helps us know our prospective audience to customize examples and exercises.</li>
+        <li>After registration closes, you will receive an email requesting that you confirm your availability for the workshop dates and times.  Once confirmed, you will receive workshop details. </li> 
+        <li>Registration deadline is Monday August 29.</li>
     </ul> 
-
+  <br><br>
   
 
   <p><h2>Computer and internet access</h2></p>
-  <p>A room with computers will be provided. If you prefer, you can also bring your own laptop, which should have the latest Firefox, Google Chrome, Safari, or Microsoft edge version installed.  </p>
+  <p>We recommend that you have a laptop or desktop computer equipped with Zoom software and a wifi or wired internet connection. Although cell phones can run Zoom, they are inadequate for completing the hands-on exercises.  Using your cell phone for lectures and discussions and a laptop for the hands-on exercises is a reasonable setup. </p>
+  <br><br>
       
   <p><h2>Cost and fees</h2></p>
-  <p>The workshop is free.  Please feel free to forward information about the workshop and registration to your colleagues. </p>
-  
-  <p><h2>Questions</h2></p>
-  <p>Please direct inquiries or questions to <a href="https://vectorbase.org/vectorbase/app/contact-us">help@vectorbase.org</a></p>
+  <p>The workshop is free and everyone is welcome.  Please feel free to forward information about the workshop and registration to your colleagues. </p>
+  <br><br>
 
   <h2>Instructors</h2>
   
@@ -222,17 +221,20 @@ div.instructor-table {
     </table>
     </div>
 
+    
+  <p><h2>Questions</h2></p>
+  <p>Please direct inquiries or questions to <a href="https://vectorbase.org/vectorbase/app/contact-us">help@vectorbase.org</a></p>
+
   <p><h2>More about VEuPathDB</h2></p>
   <p>If you are a new user and will like to know more details about our resources to decide if you want to apply for the workshop, we invite you to read our more recent VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/">Amos et al 2022</a>) and VectorBase (<a href="https://pubmed.ncbi.nlm.nih.gov/34864248/">Giraldo-Calderón et al 2022</a>) papers, and explore our <b><u>free</u></b> tutorials and previously recorded <a href="https://vectorbase.org/vectorbase/app/static-content/landing.html">webinars and workshops</a>. Regardless of if you attend or not the workshop, please feel free to email us (<a href="https://vectorbase.org/vectorbase/app/contact-us">help@vectorbase.org</a>), our goal is to maintain a fruitful and ongoing conversation between our team and you, the scientists working in medical entomology, to obtain more efficient, effective ways to help you reach your goals.</p>
       
 
-    <details open>
-      <summary><b>Schedule</b></summary>
-      
-      <table class="hor-minimalist-a">
+  <details open>
+    <summary><b>Schedule</b></summary>      
+    <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Sunday, 5th June 2022</b></th>
+            <th class="break"><b>Tuesday, 6th September 2022</b></th>
           </tr>
           <tr>
             <th class="time">Time</th>
@@ -240,8 +242,7 @@ div.instructor-table {
             <th class="author">Instructor</th>
           </tr>
         </thead>
-        <tbody>
-         
+        <tbody>         
           <tr>
             <td>6:00 - 9:00 pm</td>
             <td><br>Registration
@@ -255,9 +256,7 @@ div.instructor-table {
         </tbody>
       </table>
       <br>
-      <br>
-      
-       
+      <br>       
       <table class="hor-minimalist-a">
         <thead>
           <tr>
