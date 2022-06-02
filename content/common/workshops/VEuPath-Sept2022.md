@@ -128,7 +128,7 @@ div.centered-title {
   <div class="workshop">
   
   <p><h2>About the workshop</h2></p>
-  <p>Over the 4 half-days of this workshop, instructors will describe and demonstrate the VEuPathDB tools and features that are powerful resources for your hypothesis driven research.  Short lectures will preceed hands-on exercises via informal Zoom sessions where discussion and conversation are encouraged. The objective is for attendees to leave with an understanding of the breadth of data available, how to effectively use VEuPathDB resources to mine the available data, and to use preconfigured workflows to analyze unintegrated data. But if you come with questions about your own research, we are happy to accomodate individual instruction, usually outside workshop hours.  Since all VEuPathDB resources are built on the same web architecture, all learned knowledge can be applied on any component site including AmoebaDB, CryptoDB, FungiDB, GiardiaDB, HostDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB, and VectorBase.  </p>
+  <p>Over the 4 half-days of this workshop, instructors will describe and demonstrate the VEuPathDB tools and features that are powerful resources for your hypothesis driven research.  Short lectures will preceed hands-on exercises via informal Zoom sessions where discussion and conversation are encouraged. The objective is for attendees to leave with an understanding of the breadth of data available, how to effectively use VEuPathDB resources to mine the available data, and to use preconfigured workflows to analyze unintegrated data. But if you come with questions about your own research, we are happy to accomodate individual instruction, usually outside workshop hours.  Since VEuPathDB resources mirror each other, workshop exercises can be applied on any component site including AmoebaDB, CryptoDB, FungiDB, GiardiaDB, HostDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB, and VectorBase.  </p>
 
   <p>Expected learning objectives:</p>
     <ul>
@@ -177,6 +177,8 @@ div.centered-title {
     <br>Susanne Warrenfeltz, PhD   University of Georgia
     <br>Evelina Basenko, PhD   University of Liverpool
     <br>Jessica Kissinger, PhD  University of Georgia
+    <br>Rachel Ankirskiy, University of Georgia
+    <br>Sarah Kelly, PhD   Imperial College London
     </p>
 
   <p><h2>More about VEuPathDB</h2></p>
@@ -481,10 +483,6 @@ div.centered-title {
       <br>
 
     </details>        
-
-    <p><h2>Sponsored and organized by</h2></p>
-    <img style="width: 80em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/workshops/wks_ags2022.png" | absolute_url }}" alt="Logos"/>
-
   </div>  <!-- class workshop -->
 
 </div>  <!-- class contents -->
