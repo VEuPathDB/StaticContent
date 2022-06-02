@@ -95,10 +95,10 @@ th.recording {
 }
 div.centered-title {
     border: 1px solid black;
-    border-radius: 0.8em;
+    border-radius: 1em;
     text-align: left;
-    margin-left: 15em;
-    margin-right: 15em;
+    margin-left: 10em;
+    margin-right: 10em;
     background: #F8F8F8;
 }
 div.instructor-table {
@@ -239,14 +239,14 @@ div.instructor-table {
             <th class="time">Time</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
-            <th>
+            <th>Recording</th>
           </tr>
         </thead>
         <tbody>         
           <tr>
             <td>8:30am</td>
-            <td>Zoom opens for 'meet and greet' and conncetion testing
-                </td>
+            <td>Zoom opens for 'meet and greet' and conncetion testing</td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
