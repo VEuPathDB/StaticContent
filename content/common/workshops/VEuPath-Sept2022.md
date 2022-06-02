@@ -101,6 +101,14 @@ div.centered-title {
     margin-right: 15em;
     background: #F8F8F8;
 }
+div.instructor-table {
+       text-align : center;
+       padding-left: 5px;
+       padding-right: 5px;
+       padding-top: 5px;
+       padding-bottom: 5px;
+       border: 1px solid black;
+}
 </style>
 
 <p><a href="/">Home</a> >> Help >> 
@@ -169,17 +177,50 @@ div.centered-title {
   <p>Please direct inquiries or questions to <a href="https://vectorbase.org/vectorbase/app/contact-us">help@vectorbase.org</a></p>
 
   <h2>Instructors</h2>
-  <p>Gloria I. Giraldo-Calderón, PhD  University of Notre Dame
-    <br>Samuel Rund, PhD  University of Notre Dame
-    <br>Omar S. Harb, PhD   University of Pennsylvania
-    <br>David S. Roos, PhD   Joint-PI, University of Pennsylvania
-    <br>Mary Ann McDowell, PhD  Joint-PI, University of Notre Dame
-    <br>Susanne Warrenfeltz, PhD   University of Georgia
-    <br>Evelina Basenko, PhD   University of Liverpool
-    <br>Jessica Kissinger, PhD  University of Georgia
-    <br>Rachel Ankirskiy, University of Georgia
-    <br>Sarah Kelly, PhD   Imperial College London
-    </p>
+  
+  <div class="instructor-table">
+    <table>
+      <tr>
+        <th>Instructor</th>
+        <th>Institution</th>
+      </tr>
+      <tr>
+        <td>Rachel Ankirskiy</td>
+        <td>University of Georgia</td>
+      </tr>
+      <tr>
+        <td>Evelina Basenko, PhD</td>
+        <td>University of Liverpool</td>
+      </tr>
+      <tr>
+        <td>Gloria I. Giraldo-Calderón, PhD</td>
+        <td>University of Notre Dame</td>
+      </tr>
+      <tr>
+        <td>Omar S. Harb, PhD</td>
+        <td>University of Pennsylvania</td>
+      </tr>
+      <tr>
+        <td>Sarah Kelly, PhD</td>
+        <td>Imperial College London</td>
+      </tr>
+      <tr>
+        <td>Jessica Kissinger, PhD</td>
+        <td>University of Georgia</td>
+      </tr>
+      <tr>
+        <td>David S. Roos, PhD   Joint-PI</td>
+        <td>University of Pennsylvania</td>
+      </tr>
+      <tr>
+        <td>Samuel Rund, PhD</td>
+        <td>University of Notre Dame</td>
+      </tr>
+      <tr>
+        <td>Susanne Warrenfeltz, PhD</td>
+        <td>University of Georgia</td>
+      </tr>
+    </table>
 
   <p><h2>More about VEuPathDB</h2></p>
   <p>If you are a new user and will like to know more details about our resources to decide if you want to apply for the workshop, we invite you to read our more recent VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/">Amos et al 2022</a>) and VectorBase (<a href="https://pubmed.ncbi.nlm.nih.gov/34864248/">Giraldo-Calderón et al 2022</a>) papers, and explore our <b><u>free</u></b> tutorials and previously recorded <a href="https://vectorbase.org/vectorbase/app/static-content/landing.html">webinars and workshops</a>. Regardless of if you attend or not the workshop, please feel free to email us (<a href="https://vectorbase.org/vectorbase/app/contact-us">help@vectorbase.org</a>), our goal is to maintain a fruitful and ongoing conversation between our team and you, the scientists working in medical entomology, to obtain more efficient, effective ways to help you reach your goals.</p>
