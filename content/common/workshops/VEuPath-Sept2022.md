@@ -230,7 +230,7 @@ div.instructor-table {
   <br><br>
 
   <details open>
-    <summary><b>Schedule</b></summary>      
+    <summary><b>Preliminary Schedule</b> (check back Sept 1 for more details)</summary>      
     <table class="hor-minimalist-a">
         <thead>
           <tr>
@@ -251,9 +251,15 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>9am - 11am</td>
-            <td>Zoom opens for 'meet and greet' and conncetion testing
-                </td>
+            <td>9am - 9:30am</td>
+            <td>Welcome and introduction to VEuPathDB</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9:30am - 1pm</td>
+            <td>Lectures and exercises with 30 min break</td>
+            <td></td>
             <td></td>
           </tr>
         </tbody>
@@ -263,268 +269,90 @@ div.instructor-table {
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Monday, 6th June 2022</b></th>
+            <th class="break"><b>Wednesday, 7th September 2022</b></th>
           </tr>
           <tr>
             <th class="time">Time</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
+            <th>Recording</th>
           </tr>
         </thead>
-        <tbody>
+        <tbody>         
           <tr>
-            <td>8:00 am</td>
-            <td>Breakfast (provided)</td>
-            <td><br></td>
-          </tr>
-          <tr>
-            <td>9:00 am</td>
-            <td>VectorBase general introduction: remit, data tools and resources</td>
-            <td>GIGC</td>
-          </tr>
-          <tr>
-            <td>9:30 am</td>
-            <td>Search: Finding genes (with Site Search and BLAST), building search strategies and visiting gene pages</td>
-            <td>GIGC<br></td>
-          </tr>
-          <tr>
-            <td>10:00 am</td>
-            <td>Coffee/Tea Break (provided)</td>
+            <td>8:30am</td>
+            <td>Zoom opens for questions and discussion</td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>10:20 am</td>
-            <td>Search -- Continued</td>
-            <td>GIG<br></td>
-          </tr>
-          <tr>
-            <td>11:00 am</td>
-            <td>Genome Browser I: Alignments and Comparative Genomics</td>
-            <td>DSR<br></td>
-          </tr>
-          <tr>
-            <td>12:00 m </td>
-            <td>Lunch (provided)</td>
-            <td><br></td>
-          </tr>
-          <tr>
-            <td>1:00 pm</td>
-            <td>RNA sequence data analysis via Galaxy, Part I Uploading data (Group Exercise)</td>
-            <td>OSH<br></td>
-          </tr>
-         <tr>
-            <td>1:45 pm</td>
-            <td>Genome Browser II: Interpreting RNAseq data (Group Exercise)</td>
-            <td>DSR<br></td>
-          </tr>
-          <tr>
-            <td>2:30 pm </td>
-            <td>Coffee/Tea Break (provided)</td>
-            <td><br></td>
-          </tr>
-          <tr>
-            <td>2:50 pm</td>
-            <td>Homology gene relationships via OrthoMCL DB</td>
-            <td>GIGC<br></td>
-          </tr>
-          <tr>
-            <td>4:00 pm - 5:00 pm</td>
-            <td>RNA sequence data analysis via Galaxy, Part II starting the workflow (Group Exercise)</td>
-            <td>OSH<br></td>
+            <td>9am - 1pm</td>
+            <td>Lectures and exercises with 30 min break</td>
+            <td></td>
+            <td></td>
           </tr>
         </tbody>
       </table>
       <br>
-      <br>
-      
-     
+      <br>    
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Tuesday, 7th June 2022</b></th>
+            <th class="break"><b>Thursday, 8th September 2022</b></th>
           </tr>
           <tr>
             <th class="time">Time</th>
             <th class="event">Topic (and handout)</th>
-            <th class="author">Instructor</th>    
+            <th class="author">Instructor</th>
+            <th>Recording</th>
           </tr>
         </thead>
-        <tbody>
+        <tbody>         
           <tr>
-            <td>8:00 am</td>
-            <td>Breakfast (provided)</td>
-            <td> <br></td>
-          </tr>
-          <tr>
-            <td>9:00 am</td>
-            <td>Sequence Exercises: Motifs, domains and colocation</td>
-            <td>GIGC</td>
-          </tr>
-          <tr>
-            <td>9:30 am</td>
-            <td>Data retrieval and download</td>
-            <td>GICG<br></td>
-          </tr>
-          <tr>
-            <td>10:00 am</td>
-            <td>Coffee/Tea Break (provided)</td>
+            <td>8:30am</td>
+            <td>Zoom opens for questions and discussion</td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>10:50 am</td>
-            <td>RNA sequence data analysis via Galaxy, Part III: DESeq2 and Exporting your data to VectorBase
-            <br>FASTQ Groomer 
-                <br>Trimmomatic
-                <br>FASTQC
-                <br>HISAT2 
-                <br>bamCoverage
-                <br>htseq-count
-                <br>HTSeqCountToTPM
-            </td>
-            <td>OSH<br></td>
-          </tr>
-          <tr>
-            <td>12:00 pm</td>
-            <td>Lunch (provided)</td>
-            <td><br></td>
-          </tr>
-          <tr>
-            <td>1:00 pm</td>
-            <td>RNA sequence data analysis via Galaxy, Part IV: viewing and analyzing your results, Bam to BigWig (Group Exercise)</td>
-            <td>OSH<br></td>
-          </tr>
-          <tr>
-            <td>2:30 pm</td>
-            <td>Coffee/Tea Break (provided)</td>
-            <td><br></td>
-          </tr>
-          <tr>
-            <td>2:50 pm</td>
-            <td>Functional Genomics 1: Transcriptomics, Proteomics, GO Enrichment, Metabolic Pathways</td>
-            <td>GIGC<br></td>
-          </tr>
-          <tr>
-            <td>4:00 - 5:00 pm</td>
-            <td>Workshop group project, Part 1: Define your own questions and develop a method to answer them with VectorBase (Group exercise)</td>
-            <td><br></td>
+            <td>9am - 1pm</td>
+            <td>Lectures and exercises with 30 min break</td>
+            <td></td>
+            <td></td>
           </tr>
         </tbody>
       </table>
      <br>
      <br>
-      
-      <table class="hor-minimalist-a">
+     <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Wednesday, 8th June 2022</b></th>
+            <th class="break"><b>Friday 9th September, 2022</b></th>
           </tr>
           <tr>
             <th class="time">Time</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
+            <th>Recording</th>
           </tr>
         </thead>
-        <tbody>
+        <tbody>         
           <tr>
-            <td>8:00 am</td>
-            <td>Breakfast (provided)</td>
-            <td><br></td>
-          </tr>
-          <tr>
-            <td>9:00 am</td>
-            <td>Population data with MapVEu: population abundance, pathogen infection status, insecticide resistance genotypes and phenotypes, blood meal host, microsatellites and SNP data … etc.   </td>
-            <td>SR</td>
-          </tr>
-          <tr>
-            <td>10:00 am</td>
-            <td>Coffee/Tea Break (provided)</td>
+            <td>8:30am</td>
+            <td>Zoom opens for questions and discussion</td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>10:20 am</td>
-            <td>Population data with the genome browser: SNPs</td>
-            <td>SR<br></td>
-          </tr>
-          <tr>
-            <td>11:00 am</td>
-            <td>RNA sequence data analysis Part V: finish data analyses </td>
-            <td>OSH<br></td>
-          </tr>
-          <tr>
-            <td>12:00 m</td>
-            <td>Lunch (provided)</td>
-            <td><br></td>
-          </tr>
-          <tr>
-            <td>1:00 pm</td>
-            <td>Functional Genomics 2: Host response data</td>
-            <td>GIGC</td>
-          </tr>
-          <tr>
-            <td>2:00 pm</td>
-            <td>Workshop group project, Part 2: Data analyses (Group exercise)
-              <br>Start outline of presentation, you can do a live demo and/or a few slides 
-            </td>
-            <td><br></td>
-          </tr>
-          <tr>
-            <td>3:00 pm</td>
-            <td>Coffee/Tea Break (provided)</td>
-            <td><br></td>
-          </tr>
-          <tr>
-            <td>3:20 - 5:00 pm</td>
-            <td>Workshop group project, Part 3: Finalize project (Group exercise)</td>
-            <td><br></td>
+            <td>9am - 1pm</td>
+            <td>Lectures and exercises with 30 min break</td>
+            <td></td>
+            <td></td>
           </tr>
         </tbody>
       </table>
       <br>
       <br>
-      
-      
-      <table class="hor-minimalist-a">
-        <thead>
-          <tr>
-            <th class="break"><b>Thursday, 9th June 2022</b></th>
-          </tr>
-          <tr>
-            <th class="time">Time</th>
-            <th class="event">Topic (and handout)</th>
-            <th class="author">Instructor</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>8:00 am</td>
-            <td>Breakfast (provided)</td>
-            <td> <br></td>
-          </tr>
-          <tr>
-            <td>9:00 am</td>
-            <td>Manual gene annotation with Apollo </td>
-            <td>GIGC, RW</td>
-          </tr>
-          <tr>
-            <td>10:30 am</td>
-            <td>Coffee/Tea Break (provided)</td>
-            <td><br></td>
-          </tr>
-          <tr>
-            <td>10:50 am</td>
-            <td>Workshop group project, Part 4: Present your findings</td>
-            <td><br></td>
-          </tr>
-          <tr>
-            <td>12:00 - 12:15 pm</td>
-            <td>Workshop Feedback and wrap-up. Digital certificates will be provided.  </td>
-            <td><br></td>
-          </tr>
-        </tbody>
-      </table>
-      <br>
-      <br>
-
     </details>        
   </div>  <!-- class workshop -->
 
