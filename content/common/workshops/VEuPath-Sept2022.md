@@ -148,9 +148,6 @@ div.centered-title {
 
 
 
-  <p><h2>Computer and internet access</h2></p>
-  <p>A room with computers will be provided. If you prefer, you can also bring your own laptop, which should have the latest Firefox, Google Chrome, Safari, or Microsoft edge version installed.  </p>
-
   <p><h2>Registration</h2></p>
     <ul>
         <li>Number of course participants: maximum 300</li>
@@ -159,55 +156,28 @@ div.centered-title {
         <li>Registration deadline: it is the 29th of May 2022. It will be taken on a first-come, first-served basis</li>
         <li>Who should register: the ideal candidate should have a need to learn how to use VectorBase and be interested in using the database to answer their own research questions. Scientists at any career stage are welcome to apply</li>
     </ul> 
-      
-      <p><h2>Cost and fees</h2></p>
-      <p>The registration fee is $ 65 USD, payments should be made using this AGS-University of Notre Dame link. The registration fee includes learning materials and some meals (see agenda for details). You are expected to provide your own transportation, lodging, and additional meals. At your request, we can email you a registration acceptance letter to facilitate your application for external travel funds or scholarships. AGS is offering a travel award, <a href="https://web.cvent.com/event/c19bd7ed-9ebc-47f4-9876-a524061871ed/websitePage:60a0e006-4530-4e09-836e-25832e14a7ce">follow this link for details,</a> we strongly encourage to you apply for it.</p>
-
-      <p><h2>Lodging</h2></p>
-      <p>We have rooms reserved at the University of Notre dame dorms and hotel, please see the <a href="https://cvent.me/qvLA93">AGS website</a> for more information.</p>
-
-      <p><h2>Weather</h2></p>
-      <p>Buildings in the summer might be very cold, you might want to plan to bring a sweater. The month with the most rain in Indiana is June, it is a good idea to have an umbrella.</p>
-
-      <p><h2>Questions</h2></p>
-      <p>Please direct inquiries or questions to <a href="https://vectorbase.org/vectorbase/app/contact-us">help@vectorbase.org</a></p>
-
-      <h2>Instructors</h2>
 
   
-      <p>Gloria I. Giraldo-Calderón, PhD
-      <br>Samuel Rund, PhD
-      <br>University of Notre Dame
-      <br>Notre Dame, IN, USA</p>
-      
-      <p>Omar S. Harb, PhD
-      <br>University of Pennsylvania
-      <br>Philadelphia, PA, USA</p>
-      
-      <p>Members of the VEuPathDB outreach team</p>
-      <br>
-      <br>
-      
-      
-      <p>David S. Roos, PhD
- <br>Joint-PI, VEuPathDB NIAID-NIH Contract; WT Co-PI
- <br>University of Pennsylvania
- <br>Philadelphia, PA, USA</p>
 
-      <p>Mary Ann McDowell, PhD
-      <br>Joint-PI, VectorBase NIAID-NIH Contract
-      <br>University of Notre Dame
-      <br>Notre Dame, IN, USA </p>
-      <br>
-      <br>
+  <p><h2>Computer and internet access</h2></p>
+  <p>A room with computers will be provided. If you prefer, you can also bring your own laptop, which should have the latest Firefox, Google Chrome, Safari, or Microsoft edge version installed.  </p>
       
-      
-      <p>Robert Waterhouse, PhD 
-      <br>University of Lausanne
-      <br>The Swiss Institute of Bioinformatics
-      <br>Switzerland</p>
-      <br>
-      <br>
+  <p><h2>Cost and fees</h2></p>
+  <p>The workshop is free.  Please feel free to forward information about the workshop and registration to your colleagues. </p>
+  
+  <p><h2>Questions</h2></p>
+  <p>Please direct inquiries or questions to <a href="https://vectorbase.org/vectorbase/app/contact-us">help@vectorbase.org</a></p>
+
+  <h2>Instructors</h2>
+  <p>Gloria I. Giraldo-Calderón, PhD  University of Notre Dame
+    <br>Samuel Rund, PhD  University of Notre Dame
+    <br>Omar S. Harb, PhD   University of Pennsylvania
+    <br>David S. Roos, PhD   Joint-PI, University of Pennsylvania
+    <br>Mary Ann McDowell, PhD  Joint-PI, University of Notre Dame
+    <br>Susanne Warrenfeltz, PhD   University of Georgia
+    <br>Evelina Basenko, PhD   University of Liverpool
+    <br>Jessica Kissinger, PhD  University of Georgia
+    </p>
 
   <p><h2>More about VEuPathDB</h2></p>
   <p>If you are a new user and will like to know more details about our resources to decide if you want to apply for the workshop, we invite you to read our more recent VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/">Amos et al 2022</a>) and VectorBase (<a href="https://pubmed.ncbi.nlm.nih.gov/34864248/">Giraldo-Calderón et al 2022</a>) papers, and explore our <b><u>free</u></b> tutorials and previously recorded <a href="https://vectorbase.org/vectorbase/app/static-content/landing.html">webinars and workshops</a>. Regardless of if you attend or not the workshop, please feel free to email us (<a href="https://vectorbase.org/vectorbase/app/contact-us">help@vectorbase.org</a>), our goal is to maintain a fruitful and ongoing conversation between our team and you, the scientists working in medical entomology, to obtain more efficient, effective ways to help you reach your goals.</p>
