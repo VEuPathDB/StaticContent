@@ -126,14 +126,14 @@ div.centered-title {
   <div class="workshop">
   
   <p><h2>About the workshop</h2></p>
-  <p>Over 4 half-days instructors will describe and demonstrate the VEuPathDB tools and features that are powerful resources for your hypothesis driven research.  Short lectures will preceed hands-on exercises via informal Zoom sessions where discussion and conversation are encouraged. The objective is for attendees to leave with an understanding of how to effectively use VEuPathDB resources to mine the available data and to analyze your own data. But if you come with questions about your own research, we are happy to accomodate individual instruction outside workshop hours.  Since all VEuPathDB resources are built on the same web architecture, all learned knowledge can be applied all components including AmoebaDB, CryptoDB, FungiDB, GiardiaDB, HostDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB, and VectorBase.  </p>
+  <p>Over the 4 half-days of this workshop, instructors will describe and demonstrate the VEuPathDB tools and features that are powerful resources for your hypothesis driven research.  Short lectures will preceed hands-on exercises via informal Zoom sessions where discussion and conversation are encouraged. The objective is for attendees to leave with an understanding of the breadth of data available, how to effectively use VEuPathDB resources to mine the available data, and to use preconfigured workflows to analyze unintegrated data. But if you come with questions about your own research, we are happy to accomodate individual instruction, usually outside workshop hours.  Since all VEuPathDB resources are built on the same web architecture, all learned knowledge can be applied on any component site including AmoebaDB, CryptoDB, FungiDB, GiardiaDB, HostDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB, and VectorBase.  </p>
 
   <p>Expected learning objectives:</p>
     <ul>
-      <li>Site Search: use keywords to find VEuPathDB records filter and explore results, export to strategies</li>
-      <li>Organism preferences: enable and disable to explore data sets </li>
-      <li>Gene pages: become familiar with the information on it, navigate to and from it, use the table of contents to navigate </li>
-      <li>Searches and strategies: how to construct and combine the more than 100 available searches to produce multi-step strategies</li>
+      <li>Site Search: use keywords to find VEuPathDB records, filter and explore results, export to strategies</li>
+      <li>Organism preferences: enable and disable to explore all organisms or a subset tailored to your research objectives </li>
+      <li>Gene pages: become familiar with the data and tools available, navigation within the gene page, and link to dynamic visualizations in the genome browser.  </li>
+      <li>Searches and strategies: search data sets with over 100 pre-configured searches and combine search results to produce multi-step strategies</li>
         <ul>
           <li>RNAseq and microarrays data searches: use differential expression, fold change, and percentile searches to explore gene expression</li>
           <li>Proteomics data searches: use mass spec data to identify genes based on expression evidence</li>
@@ -143,8 +143,6 @@ div.centered-title {
       <li>Apollo: learn how to manually annotate a gene, which involves both structural changes (intron/exon boundaries) and metadata (gene name and symbol)</li>
       <li>Galaxy: perform your own bioinformatic analysis using our servers, <i>e.g.</i> RNAseq transcript differential expression or SNP calling  </li> 
     </ul>
-  
-    <p>This workshop is scheduled as a symposium pre-event, and even if you are not attending AGS, you are more than welcome to attend the workshop. </p> 
     <p><h2>COVID-19 safety</h2></p>
     <p>We encourage all workshop attendees to wear face coverings while indoors, regardless of vaccination status. Please see the <a href="https://cvent.me/qvLA93">AGS website</a> for more information.</p>
 
