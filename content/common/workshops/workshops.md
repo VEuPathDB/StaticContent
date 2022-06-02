@@ -102,17 +102,18 @@ th.recording {
 
   <h3>Upcoming Workshops</h3>
   <div class="contents">     
-    <h4><a href="https://www.toxocongress2022.org/pre-meeting-workshops/leveraging-informatics-tools" target="_blank">Leveraging Informatics Tools 'Omics & ToxoDB</a></h4>
-    <p>This one-day in-person workshop will be held before the 16th International Congress on Toxoplasmosis and <i>Toxoplasma gondii</i> Research</p>
-    <p>Sunday May 22, 2022. 9am-4pm</p>
-    <p>The Mission Inn, Riverside, CA</p>
-  </div>
-  <div class="contents">     
     <h4><a href="/a/app/static-content/ags2022.html">Arthropod Genomics Symposium 2022: pre-meeting VectorBase hands-on Workshop</a></h4>
     <p>6:00pm on Sunday, 5th June to 12:00pm (noon) on Thursday, 9th June 2022</p>
     <p>DeBartolo Hall, University of Notre Dame, Notre Dame, IN</p>
     <p>In-person (sessions will not be virtual or recorded)</p>
   </div>
+
+  <div class="contents">
+    <h4><a herf="/a/app/static-content/workshopSept2022.html">VEuPathDB Virtual Workshop September 2022</a></h4>
+    <p>Tuesday Sept 6th - Friday Sept 9th</p>
+    <p>9am - 1pm EDT, <a href="https://dateful.com/time-zone-converter" target="_blank">time-zone-converter</a></p>
+    <p>Registration: <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO" target="_blank">https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO</a></p>
+    <p>More Information: <a href="app/static-content/workshopSept2022.html">Workshop information and schedule</a>
 
   <hr>
   
