@@ -221,7 +221,7 @@ div.instructor-table {
   <br><br>
     
   <h2>Questions</h2>
-  Please direct inquiries or questions to <a href="https://vectorbase.org/vectorbase/app/contact-us">help@vectorbase.org</a>
+  Please direct inquiries or questions to <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>
   <br><br>
 
   <h2>More about VEuPathDB</h2>
