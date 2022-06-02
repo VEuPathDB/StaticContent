@@ -118,6 +118,14 @@ th.recording {
   
   <h3>Previous Workshops</h3>
 
+  <div class="contents">     
+    <h4><a href="https://www.toxocongress2022.org/pre-meeting-workshops/leveraging-informatics-tools" target="_blank">Leveraging Informatics Tools 'Omics & ToxoDB</a></h4>
+    <p>This one-day in-person workshop preceeded the 16th International Congress on Toxoplasmosis and <i>Toxoplasma gondii</i> Research</p>
+    <p>Sunday May 22, 2022. 9am-4pm</p>
+    <p>The Mission Inn, Riverside, CA</p>
+    <p>This was an in-person workshop with no recordings available.</p>
+  </div>
+
  <div class="contents">     
     <h4><a href="#DECveupath2021">VEuPathDB Workshop 2021</a></h4>
       December 13-16, 2021 (Virtual)
