@@ -226,7 +226,7 @@ div.instructor-table {
   <br><br>
 
   <h2>More about VEuPathDB</h2>
-  If you are a new user and will like to know more details about our resources to decide if you want to apply for the workshop, we invite you to read our more recent VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/">Amos et al 2022</a>) and VectorBase (<a href="https://pubmed.ncbi.nlm.nih.gov/34864248/">Giraldo-Calderón et al 2022</a>) papers, and explore our <b><u>free</u></b> tutorials and previously recorded <a href="https://vectorbase.org/vectorbase/app/static-content/landing.html">webinars and workshops</a>. Regardless of if you attend or not the workshop, please feel free to email us (<a href="https://vectorbase.org/vectorbase/app/contact-us">help@vectorbase.org</a>), our goal is to maintain a fruitful and ongoing conversation between our team and you, the scientists working in medical entomology, to obtain more efficient, effective ways to help you reach your goals.
+  We invite you to read our most recent publication about VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/">Amos et al 2022</a>).  Please also explore our  <a href="https://www.youtube.com/user/EuPathDB" target="_blank">You Tube Channel</a> and previously recorded <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html">webinars and workshops</a>. Our goal is to maintain a fruitful and ongoing conversation between our team and yours to learn more efficient, effective ways to help you reach your goals. Regardless if you attend the workshop or not the workshop, please feel free to email us with questions, new feature suggestions, or new data at <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>.  
   <br><br>
 
   <details open>
@@ -234,7 +234,7 @@ div.instructor-table {
     <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Tuesday, 6th September 2022</b></th>
+            <th class="break"><b>Tuesday, 6th Sept 2022</b></th>
           </tr>
           <tr>
             <th class="time">Time</th>
@@ -269,7 +269,7 @@ div.instructor-table {
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Wednesday, 7th September 2022</b></th>
+            <th class="break"><b>Wednesday, 7th Sept 2022</b></th>
           </tr>
           <tr>
             <th class="time">Time</th>
@@ -298,7 +298,7 @@ div.instructor-table {
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Thursday, 8th September 2022</b></th>
+            <th class="break"><b>Thursday, 8th Sept 2022</b></th>
           </tr>
           <tr>
             <th class="time">Time</th>
@@ -327,7 +327,7 @@ div.instructor-table {
      <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Friday 9th September, 2022</b></th>
+            <th class="break"><b>Friday, 9th Sept 2022</b></th>
           </tr>
           <tr>
             <th class="time">Time</th>
