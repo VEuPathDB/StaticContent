@@ -96,13 +96,13 @@ th.recording {
 div.centered-title {
     border: 1px solid black;
     border-radius: 0.8em;
-    text-align: left;
+    text-align: center;
     margin-left: 15em;
     margin-right: 15em;
     background: #F8F8F8;
 }
 div.instructor-table {
-       text-align : center;
+       text-align : left;
        padding-left: 5px;
        padding-right: 5px;
        padding-top: 5px;
