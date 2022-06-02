@@ -156,7 +156,7 @@ div.instructor-table {
 
   <h2>Registration: deadline Monday Aug 29, 2022</h2>
     <ul>
-        <li><b>Register by completing this form: <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO">https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO</a>.</b> </li>
+        <li><b>Register by completing this form: <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO" taget="_blank">https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO</a>.</b> </li>
         <li>The form information is confidential and it helps us know our prospective audience to customize examples and exercises.</li>
         <li>After registration closes, you will receive an email requesting that you confirm your availability for the workshop dates and times.  Once confirmed, you will receive workshop details. </li> 
         <li>Registration deadline is Monday August 29.</li>
