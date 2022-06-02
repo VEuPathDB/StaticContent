@@ -121,7 +121,7 @@ th.recording {
 
   <div class="contents">     
     <h4><a href="https://www.toxocongress2022.org/pre-meeting-workshops/leveraging-informatics-tools" target="_blank">Leveraging Informatics Tools 'Omics & ToxoDB</a></h4>
-    <p>Sunday May 22, 2022 (in-person only)</p>
+      Sunday May 22, 2022 (in-person only)
   </div>
 
  <div class="contents">     
