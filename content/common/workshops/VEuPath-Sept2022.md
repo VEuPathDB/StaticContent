@@ -153,14 +153,13 @@ div.instructor-table {
       <li>Apollo: learn how to manually annotate a gene, which involves both structural changes (intron/exon boundaries) and metadata (gene name and symbol)</li>
       <li>Galaxy: watch demonstrations of bioinformatic analyses using our servers, <i>e.g.</i> RNAseq transcript differential expression or SNP calling  </li> 
     </ul>
-
+<br><br>
 
 
   <p><h2>Registration</h2></p>
     <ul>
-        <li>Number of course participants: maximum 300</li>
-        <li>Register by completing this form: <a href="https://cvent.me/qvLA93">AGS website</a>. </li>
-        <li>After you complete your registration, you will receive an email from ggiraldo@nd.edu (Gloria I. Giraldo-Calderón) to fill out an online form, this process completes your registration. The form information is confidential and it helps us know our prospective audience to customize examples and exercises.</li>
+        <li><b>Register by completing this form: <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO">https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO</a>.</b> </li>
+        <li>After you complete the form, you will receive The form information is confidential and it helps us know our prospective audience to customize examples and exercises.</li>
         <li>Registration deadline: it is the 29th of May 2022. It will be taken on a first-come, first-served basis</li>
         <li>Who should register: the ideal candidate should have a need to learn how to use VectorBase and be interested in using the database to answer their own research questions. Scientists at any career stage are welcome to apply</li>
     </ul> 
@@ -221,6 +220,7 @@ div.instructor-table {
         <td>University of Georgia</td>
       </tr>
     </table>
+    </div>
 
   <p><h2>More about VEuPathDB</h2></p>
   <p>If you are a new user and will like to know more details about our resources to decide if you want to apply for the workshop, we invite you to read our more recent VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/">Amos et al 2022</a>) and VectorBase (<a href="https://pubmed.ncbi.nlm.nih.gov/34864248/">Giraldo-Calderón et al 2022</a>) papers, and explore our <b><u>free</u></b> tutorials and previously recorded <a href="https://vectorbase.org/vectorbase/app/static-content/landing.html">webinars and workshops</a>. Regardless of if you attend or not the workshop, please feel free to email us (<a href="https://vectorbase.org/vectorbase/app/contact-us">help@vectorbase.org</a>), our goal is to maintain a fruitful and ongoing conversation between our team and you, the scientists working in medical entomology, to obtain more efficient, effective ways to help you reach your goals.</p>
