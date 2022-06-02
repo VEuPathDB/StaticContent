@@ -96,7 +96,7 @@ th.recording {
 div.centered-title {
     border: 1px solid black;
     border-radius: 0.8em;
-    text-align: center;
+    text-align: left;
     margin-left: 15em;
     margin-right: 15em;
     background: #F8F8F8;
@@ -120,12 +120,10 @@ div.instructor-table {
 
 
   <div class="centered-title">
-    <ul>
-      <li>9am - 1pm (EDT) daily </li>
-      <li>Virtual, hands-on workshop with short lectures and small goup instruction.</li>
-      <li>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</li>
-      <li>Recorded lectures and exercises available online after the workshop</li>
-    </ul>
+    <p><h4>9am - 1pm (EDT) daily </h4></p>
+    <p><h4>Virtual, hands-on workshop with short lectures and small goup instruction.</h4></p>
+    <p><h4>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</h4></p>
+    <p><h4>Recorded lectures and exercises available online after the workshop</h4></p>
   </div>
 
   
