@@ -124,19 +124,21 @@ div.centered-title {
 
   <div class="anchor"><a name="AGSvectorbase2022"></a></div>
   <div class="workshop">
-
-    <p><h2>About the workshop</h2></p>
-    <p>This is a 5-day intensive workshop that will provide you with hands-on training on how to effectively use VectorBase to mine the available data and to analyze your own data. Since VectorBase is part of the VEuPathDB Bioinformatics Resource Center (BRC), all learned knowledge can be applied to its other components such as those supporting vector-transmitted pathogens <i>Plasmodium</i> (PlasmoDB), <i>Leishmania</i>, <i>Trypanosoma</i> (TriTrypDB), <i>Babesia</i>, and <i>Theileria</i> (PiroplasmaDB).     </p>
   
-    <p>Expected learning objectives:</p>
+  <p><h2>About the workshop</h2></p>
+  <p>Over 4 half-days instructors will describe and demonstrate the VEuPathDB tools and features that are powerful resources for your hypothesis driven research.  Short lectures will preceed hands-on exercises via informal Zoom sessions where discussion and conversation are encouraged. The objective is for attendees to leave with an understanding of how to effectively use VEuPathDB resources to mine the available data and to analyze your own data. But if you come with questions about your own research, we are happy to accomodate individual instruction outside workshop hours.  Since all VEuPathDB resources are built on the same web architecture, all learned knowledge can be applied all components including AmoebaDB, CryptoDB, FungiDB, GiardiaDB, HostDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB, and VectorBase.  </p>
+
+  <p>Expected learning objectives:</p>
     <ul>
-      <li>Site Search: use keywords (<i>e.g.</i>, gene metadata and gene IDs), filter and explore results, export to strategies</li>
+      <li>Site Search: use keywords to find VEuPathDB records filter and explore results, export to strategies</li>
       <li>Organism preferences: enable and disable to explore data sets </li>
       <li>Gene pages: become familiar with the information on it, navigate to and from it, use the table of contents to navigate </li>
-      <li>Search strategies: how to construct and combine the more than 100 available searches to produce multi-step strategies, results can be in the format of gene IDs </li>
-      <li>RNAseq and microarrays data searches: use differential expression, fold change, and percentile searches to explore gene expression</li>
-      <li>Proteomics data searches: use mass spec data to identify genes based on expression evidence</li>
-      <li>Genome browser: use menu and navigation options, add and configure data tracks, interpret data (<i>e.g.</i> RNAseq)</li>
+      <li>Searches and strategies: how to construct and combine the more than 100 available searches to produce multi-step strategies</li>
+        <ul>
+          <li>RNAseq and microarrays data searches: use differential expression, fold change, and percentile searches to explore gene expression</li>
+          <li>Proteomics data searches: use mass spec data to identify genes based on expression evidence</li>
+        </ul>
+      <li>Genome browser: use menu and navigation options, add and configure data tracks, interpret data (RNA Seq) and check gene models.  </li>
       <li>Gene Ontology (GO) enrichment: run and analyze a GO enrichment analysis </li>
       <li>Apollo: learn how to manually annotate a gene, which involves both structural changes (intron/exon boundaries) and metadata (gene name and symbol)</li>
       <li>Galaxy: perform your own bioinformatic analysis using our servers, <i>e.g.</i> RNAseq transcript differential expression or SNP calling  </li> 
