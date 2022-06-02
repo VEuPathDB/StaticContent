@@ -109,11 +109,11 @@ th.recording {
   </div>
 
   <div class="contents">
-    <h4><a herf="/a/app/static-content/workshopSept2022.html">VEuPathDB Virtual Workshop September 2022</a></h4>
+    <h4><a href="/a/app/static-content/workshopSept2022.html">VEuPathDB Virtual Workshop September 2022</a></h4>
     <p>Tuesday Sept 6th - Friday Sept 9th</p>
     <p>9am - 1pm EDT, <a href="https://dateful.com/time-zone-converter" target="_blank">time-zone-converter</a></p>
     <p>Registration: <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO" target="_blank">https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO</a></p>
-    <p>More Information: <a href="app/static-content/workshopSept2022.html">Workshop information and schedule</a>
+    <p>More Information: <a href="/a/app/static-content/workshopSept2022.html">Workshop information and schedule</a>
 
   <hr>
   
