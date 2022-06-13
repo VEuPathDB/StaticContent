@@ -1,0 +1,84 @@
+116c116
+<     <p>6:00-9:00 pm on Sunday, 5th June 2022 - <b>Department of Biological Sciences (100 Galvin Life Sciences)</b>, room 115B</p>
+---
+>      <p>6:00-9:00 pm on Sunday, 5th June 2022 - <b>Department of Biological Sciences (100 Galvin Life Sciences)</b>, room 115B</p>
+154c154
+<     <p>A room with computers will be provided. If you prefer, you can also bring your own laptop, which should have the latest Firefox, Google Chrome, Safari, or Microsoft edge version installed. 
+---
+>     <p>A room with computers will be provided. If you prefer, you can also bring your own laptop, which should have the latest Firefox, Google Chrome, Safari, or Microsoft edge version installed.  
+304,305c304,305
+<             <td><a href="{{'/documents/AGS2022/VEuPathDB_RNAseq_Mapping_Galaxy_AGS2022.pdf' | absolute_url}}"><b>RNA sequence data analysis via Galaxy, Part I: Uploading data (Group Exercise)</b></a><br><br>
+<             <a href="{{'/documents/AGS2022/Galaxy RNAseq groups_AGS.pdf' | absolute_url}}"><b>Galaxy group assignments</b></a></td>
+---
+>             <td>RNA sequence data analysis via Galaxy, Part I: Uploading data (Group Exercise)<br>
+>             Galaxy group assignments</td>
+310,311c310
+<             <td><a href="{{'/documents/AGS2022/Adv_JBrowse_RNAseqII_AGS_2022.pdf' | absolute_url}}"><b>Genome Browser II: Interpreting RNAseq data (Group Exercise)</b></a><br><br>
+<             <a href="{{'/documents/AGS2022/VectorBaseJbrowseFigS_AGAP004707.pdf' | absolute_url}}"><b>Image of JBrowse view with multiple tracks</b></a></td>
+---
+>             <td>Genome Browser II: Interpreting RNAseq data (Group Exercise)</td>
+320a320,327
+>             <td>
+>             <a href="{{'/documents/AGS2022/HomologyJune2022.pdf' | absolute_url}}"><b>Homology</b></a> 
+>             gene relationships via OrthoMCL DB
+>             </td>
+>             <td>GIGC<br></td>
+>           </tr>
+>           <tr>
+>             <td>4:00 pm - 5:00 pm</td>
+349,352c356
+<             <td>
+<             <a href="{{'/documents/AGS2022/HomologyJune2022.pdf' | absolute_url}}"><b>Homology</b></a> 
+<             gene relationships via OrthoMCL DB
+<             </td>
+---
+>             <td>Sequence Exercises: Motifs, domains and colocation</td>
+355c359,363
+<          
+---
+>           <tr>
+>             <td>9:30 am</td>
+>             <td>Data retrieval and download</td>
+>             <td>GICG<br></td>
+>           </tr>
+363c371
+<             <td> <a href="{{'/documents/AGS2022/RNAseq_mapping_Galaxy_AGS_2022.pdf' | absolute_url}}"><b>RNA sequence data analysis via Galaxy, Part II: DESeq2 and Exporting your data to VectorBase</b>
+---
+>             <td>RNA sequence data analysis via Galaxy, Part III: DESeq2 and Exporting your data to VectorBase
+381c389
+<             <td>RNA sequence data analysis via Galaxy, Part II (continued): viewing and analyzing your results, Bam to BigWig (Group Exercise)</td>
+---
+>             <td>RNA sequence data analysis via Galaxy, Part IV: viewing and analyzing your results, Bam to BigWig (Group Exercise)</td>
+391,394c399
+<             <td>Functional Genomics 1: 
+<             <a href="{{'/documents/AGS2022/TranscriptomicsJune2022.pdf' | absolute_url}}"><b>Transcriptomics</b></a> and 
+<             <a href="{{'/documents/AGS2022/ProteomicsJune2022.pdf' | absolute_url}}"><b>Proteomics</b></a>. 
+<             </td>
+---
+>             <td>Functional Genomics 1: Transcriptomics and Proteomics</td>
+436,438c441,446
+< 
+<             <td>RNA sequence data analysis via Galaxy, Part II: Continued<br><br>
+<             <a href="https://bioc.ism.ac.jp/packages/2.14/bioc/vignettes/DESeq2/inst/doc/beginner.pdf"><b>DEseq2 output</b></a></td>
+---
+>             <td>Population data with the genome browser: SNPs</td>
+>             <td>SR<br></td>
+>           </tr>
+>           <tr>
+>             <td>11:00 am</td>
+>             <td>RNA sequence data analysis Part V: finish data analyses </td>
+448,451c456
+<             <td>Functional Genomics 2: 
+<             <a href="{{'/documents/AGS2022/EnrichmentJune2022.pdf' | absolute_url}}"><b>GO Enrichment</b></a>, 
+<             <a href="{{'/documents/AGS2022/PathwaysJune2022.pdf' | absolute_url}}"><b>Metabolic Pathways</b></a> and
+<             <a href="{{'/documents/AGS2022/HostJune2022.pdf' | absolute_url}}"><b>Host response data</b></a></td>
+---
+>             <td>Functional Genomics 2: GO Enrichment, Metabolic Pathways and Host response data</td>
+496,500c501
+<             <td>Manual gene annotation with 
+<             <a href="{{'/documents/AGS2022/ApolloJune2022.pdf' | absolute_url}}"><b>Apollo (tutorial)</b></a> and
+<             <a href="https://docs.google.com/spreadsheets/d/113Hx-nNT6CGUpH71_kq_K3yrxzcy8bqu/edit?usp=sharing&ouid=109864737831887584200&rtpof=true&sd=true"><b>exercises (sign up sheet)</b></a>. 
+<             <a href="{{'/documents/AGS2022/ApolloAnswerKeyJune2022.pdf' | absolute_url}}"><b>Answer Key</b></a>. 
+<             </td>
+---
+>             <td>Manual gene annotation with Apollo </td>

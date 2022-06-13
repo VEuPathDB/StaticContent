@@ -1,0 +1,39 @@
+213,223d212
+<   question: "What genomes are available for community annotation in Apollo?"
+<   answer: |
+<            1. Reference genomes are available in Apollo. Reference genome indicates the genome used by VEuPathDB as the reference sequence to which other data sets are mapped. 
+<            2. Genomes from HostDB are not available for community curation in Apollo.
+<            3. Other exceptions include genomes that are curated at Model Organism Databases, for instance <i>Saccharomyces cerevisiae</i> S288C. 
+<            4. Is your genome of interest not available for community annotation? Please [contact us](https://veupathdb.org/veupathdb/app/contact-us).
+<            
+<            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo10.png"  />
+<   uid: apollo10
+<   projects: ""
+< - type: apollo
+231d219
+<            
+241d228
+<            
+250,251c237
+<            3. If you cannot find it, please get in touch with us: [contact us](https://veupathdb.org/veupathdb/app/contact-us). We will recheck if it is possible to add your genome of interest and get back to you as soon as possible.
+<            
+---
+>            3. If you cannot find it, please get in touch with us: [contact us](https://veupathdb.org/veupathdb/app/contact-us). We will recheck if it is possible to add your genome of interest and get back to you as soon as possible. 
+266d251
+<            
+282d266
+<            
+293d276
+<            
+305d287
+<            
+315,316c297
+<            4. If you want to create a gene model based on the search result, click on ”Action” and select ”Create annotation”.
+<            
+---
+>            4. If you want to create a gene model based on the search result, click on ”Action” and select ”Create annotation”. 
+326,327c307
+<            4. The annotations will remain in Apollo indefinitely or until they are incorporated into the main gene record.
+<            
+---
+>            4. The annotations will remain in Apollo indefinitely or until they are incorporated into the main gene record.  

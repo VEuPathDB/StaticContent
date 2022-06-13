@@ -1,0 +1,17 @@
+27,28c27,28
+<   <div class="contents">   
+<  <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p>   
+---
+>   <div class="contents">
+>  <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p> 
+134c134
+<   
+---
+> 
+151d150
+< 
+159,160c158
+< <b>Additional Details:</b> 
+< This webinar focused on what is new in Release 57 of the VEuPathDB projects. We discussed new data sets, demonstrate searches and features, and answer questions.
+---
+> <b>Additional Details:</b> This webinar focused on what is new in Release 57 of the VEuPathDB projects.  We discussed new data sets, demonstrate searches and features, and answer questions.
