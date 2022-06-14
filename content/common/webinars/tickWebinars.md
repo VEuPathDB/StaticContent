@@ -149,21 +149,21 @@ th.recording {
             <a href="{{'/documents/webinars/Bunyavirales_BV_BRC_tutorial.pdf' | absolute_url}}">Tutorial</a>
             </td>
             <td>BV-BRC</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/I6fLaYNwIzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/9IVaY5d6qdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>April 5, 2022</td>
             <td>11AM</td>
             <td>Tick Endosymbionts</td>
             <td>BV-BRC</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/P8UlM1_t3-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/lsDXu00IB_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>April 19, 2022</td>
             <td>11AM</td>
             <td>Metagenomic analysis of tick samples</td>
             <td>BV-BRC</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/pCVwCJBC2Qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/EpvW42kN-1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>May 3, 2022</td>
@@ -177,21 +177,21 @@ th.recording {
             <td>11AM</td>
             <td>Comparative Genomics of Tick-Transmitted Bacteria</td>
             <td>BV-BRC</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/4QEZlAs7WQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/4BohhruNoTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>May 31, 2022</td>
             <td>11AM</td>
             <td>Flaviviridae in Ticks</td>
             <td>BV-BRC</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/ei4EKa0wBJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/v_xw06GPso8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>June 14, 2022</td>
             <td>11AM</td>
             <td>RNA-Seq and SNP analysis of bacteria transmitted by ticks</td>
             <td>BV-BRC</td>
-            <td><b><a href="https://upenn.zoom.us/meeting/register/tJ0td-Gsqj0uHNeBNnLDJyomDsF1SKZjwHCv">Registration link</a></b></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/VQ_WlROqhf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           </tbody>
           </table>
