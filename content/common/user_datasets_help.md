@@ -29,7 +29,7 @@ title: User Data Sets Help
       </ul>
 
     </div>
-    <div class="box xs-12">
+    <div class="box xs-12 md-6">
 
       <h2>My Data Sets workspace</h2>
       <img src="/plasmo/bundles/modern/aa2aaaa661675ed02ab1edb4570144d2.jpg">
@@ -43,7 +43,7 @@ title: User Data Sets Help
       </ul>
 
     </div>
-    <div class="box xs-12">
+    <div class="box xs-12 md-6">
 
       <h2>VEuPathDB Galaxy</h2>
       <img src="/plasmo/bundles/modern/32385bcebfb710b38539e54a16fafba6.jpg">
