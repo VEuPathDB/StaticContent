@@ -28,6 +28,9 @@ title: User Data Sets Help
         </li>
       </ul>
 
+    </div>
+    <div class="box xs-12">
+
       <h2>My Data Sets workspace</h2>
       <img src="/plasmo/bundles/modern/aa2aaaa661675ed02ab1edb4570144d2.jpg">
       <ul>
@@ -38,6 +41,9 @@ title: User Data Sets Help
         <li>You may upload a gene list as a user dataset.
         </li>
       </ul>
+
+    </div>
+    <div class="box xs-12">
 
       <h2>VEuPathDB Galaxy</h2>
       <img src="/plasmo/bundles/modern/32385bcebfb710b38539e54a16fafba6.jpg">
@@ -52,9 +58,15 @@ title: User Data Sets Help
         </li>
       </ul>
 
+    </div>
+    <div class="box xs-12">
+
       <h2>BigWig files as user datasets</h2>
       <iframe src="https://www.youtube-nocookie.com/embed/igQZHjRBqV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="560" height="315">
       </iframe>
+
+    </div>
+    <div class="box xs-12">
 
       <h2>Uploading gene lists</h2>
       <ul>
@@ -65,7 +77,7 @@ title: User Data Sets Help
         <li>
         </li>
       </ul>
-
+    
     </div>
 
   </div>
