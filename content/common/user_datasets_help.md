@@ -14,7 +14,7 @@ title: User Data Sets Help
 
     <div class="box xs-12">
 
-      <h2>Overview</h2>
+      <h3>Overview</h3>
       <ul>
         <li>A user dataset is a set of files. We offer various ways for you to create your own datasets within our websites, and these can be of different types.
         </li>
@@ -31,7 +31,7 @@ title: User Data Sets Help
     </div>
     <div class="box xs-12 md-6">
 
-      <h2>My Data Sets workspace</h2>
+      <h3>My Data Sets workspace</h3>
       <img src="/plasmo/bundles/modern/aa2aaaa661675ed02ab1edb4570144d2.jpg">
       <ul>
         <li>You can now view, manage, share, and utilize your data set in <b>PlasmoDB</b>.
@@ -45,7 +45,7 @@ title: User Data Sets Help
     </div>
     <div class="box xs-12 md-6">
 
-      <h2>VEuPathDB Galaxy</h2>
+      <h3>Bringing user datasets from VEuPathDB Galaxy</h3>
       <img src="/plasmo/bundles/modern/32385bcebfb710b38539e54a16fafba6.jpg">
       <ul>
         <li>Use the <b>VEuPathDB Export Tools</b> on the left-side navigation, at <a class="wdk-ReactRouterLink" href="/plasmo/app/galaxy-orientation">VEuPathDB Galaxy</a>.
@@ -61,14 +61,14 @@ title: User Data Sets Help
     </div>
     <div class="box xs-12">
 
-      <h2>BigWig files as user datasets</h2>
+      <h4>Example: BigWig files as user datasets</h4>
       <iframe src="https://www.youtube-nocookie.com/embed/igQZHjRBqV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="560" height="315">
       </iframe>
 
     </div>
     <div class="box xs-12">
 
-      <h2>Uploading gene lists</h2>
+      <h3>Generating user datasets by uploading a file or exporting a strategy result : gene lists</h3>
       <ul>
         <li>
         </li>
