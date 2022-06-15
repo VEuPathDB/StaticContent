@@ -191,7 +191,7 @@ th.recording {
             <td>11AM</td>
             <td>RNA-Seq and SNP analysis of bacteria transmitted by ticks</td>
             <td>BV-BRC</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/VQ_WlROqhf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/4HnDM_KJg4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           </tbody>
           </table>
