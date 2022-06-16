@@ -76,6 +76,13 @@
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: https://www.youtube.com/watch?v=jfiBfhxItMc
   date: "Feb 18, 2022"
+- type: video
+  title: "How to access and explore data from ClinEpiDB.org: A guide for students"
+  description: "30 minute introduction to exploring, accessing, and downloading data"
+  uid: v2
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.youtube.com/watch?v=zH69Caozt74
+  date: "June 16, 2022"
 - type: exercise
   title: "Navigating the ClinEpiDB platform"
   description: "Use the PRISM2 ICEMR Cohort study to explore features of ClinEpiDB"
@@ -320,6 +327,14 @@
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: https://dash.nichd.nih.gov/
   date: "Jun 4, 2020"
+- type: resource
+  subtype: repository
+  title: "IPUMS Global Health"
+  description: "Harmonized international survey data on maternal, child, and reproductive health."
+  uid: r27
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://globalhealth.ipums.org/
+  date: "Jun 16, 2022"
 - type: resource
   subtype: education
   title: "The Epidemiologist R Handbook"
