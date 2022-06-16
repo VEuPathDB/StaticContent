@@ -4,7 +4,7 @@ title: User Data Sets Help
 ---
 <style>
 
-div.UserDataset-Help img {
+div.UserDatasetHelp img {
     width: 50%;
     margin-bottom: 20px;
 }
@@ -14,7 +14,7 @@ div.UserDataset-Help img {
 
 <div class="static-content">
 
-  <div class="row UserDataset-Help">
+  <div class="row UserDatasetHelp">
 
 
       <h3>Overview</h3>
