@@ -328,6 +328,14 @@
   fileName: https://dash.nichd.nih.gov/
   date: "Jun 4, 2020"
 - type: resource
+  subtype: repository
+  title: "IPUMS Global Health"
+  description: "Harmonized international survey data on maternal, child, and reproductive health"
+  uid: r27
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://globalhealth.ipums.org/
+  date: "Jun 16, 2022"
+- type: resource
   subtype: education
   title: "The Epidemiologist R Handbook"
   description: "R for applied epidemiology and public health"
