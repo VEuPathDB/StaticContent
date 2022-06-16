@@ -330,7 +330,7 @@
 - type: resource
   subtype: repository
   title: "IPUMS Global Health"
-  description: "Harmonized international survey data on maternal, child, and reproductive health"
+  description: "Harmonized international survey data on maternal, child, and reproductive health."
   uid: r27
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: https://globalhealth.ipums.org/
