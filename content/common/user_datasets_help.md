@@ -14,7 +14,7 @@ div.UserDatasetHelp img {
 
 <div class="static-content">
 
-  <div class="row UserDatasetHelp">
+  <div class="UserDatasetHelp">
 
 
       <h3>Overview</h3>
