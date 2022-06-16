@@ -4,6 +4,10 @@ title: User Data Sets Help
 ---
 <style>
 
+div.UserDataset-Help img {
+    width: 50%;
+    margin-bottom: 20px;
+}
 
 </style>
 
@@ -12,7 +16,6 @@ title: User Data Sets Help
 
   <div class="row UserDataset-Help">
 
-    <div class="box xs-12">
 
       <h3>Overview</h3>
       <ul>
@@ -28,8 +31,6 @@ title: User Data Sets Help
         </li>
       </ul>
 
-    </div>
-    <div class="box xs-12 md-6">
 
       <h3>My Data Sets workspace</h3>
       <img src="/plasmo/bundles/modern/aa2aaaa661675ed02ab1edb4570144d2.jpg">
@@ -42,8 +43,6 @@ title: User Data Sets Help
         </li>
       </ul>
 
-    </div>
-    <div class="box xs-12 md-6">
 
       <h3>Bringing user datasets from VEuPathDB Galaxy</h3>
       <img src="/plasmo/bundles/modern/32385bcebfb710b38539e54a16fafba6.jpg">
@@ -58,15 +57,11 @@ title: User Data Sets Help
         </li>
       </ul>
 
-    </div>
-    <div class="box xs-12">
 
       <h4>Example: BigWig files as user datasets</h4>
       <iframe src="https://www.youtube-nocookie.com/embed/igQZHjRBqV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="560" height="315">
       </iframe>
 
-    </div>
-    <div class="box xs-12">
 
       <h3>Generating user datasets by uploading a file or exporting a strategy result : gene lists</h3>
       <ul>
@@ -78,7 +73,6 @@ title: User Data Sets Help
         </li>
       </ul>
     
-    </div>
 
   </div>
 
