@@ -76,6 +76,13 @@
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: https://www.youtube.com/watch?v=jfiBfhxItMc
   date: "Feb 18, 2022"
+- type: video
+  title: "How to access and explore data from ClinEpiDB.org: A guide for students"
+  description: "30 minute introduction to exploring, accessing, and downloading data"
+  uid: v2
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.youtube.com/watch?v=zH69Caozt74
+  date: "June 16, 2022"
 - type: exercise
   title: "Navigating the ClinEpiDB platform"
   description: "Use the PRISM2 ICEMR Cohort study to explore features of ClinEpiDB"
