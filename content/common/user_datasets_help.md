@@ -32,9 +32,11 @@ div.UserDatasetHelp img {
   <h3>My Data Sets workspace</h3>
     <img src="{{'/assets/images/MyDataSets/MyDataSets.png' | absolute_url}}" />
     <ul>
-      <li>You can now view, manage, share, and utilize your data set in <b>{{project}}</b>. </li>
+      <li>View, manage, share, and utilize your data set in <b>{{project}}</b> My Data Sets workspace. </li>
       <li>My Data Sets you’ve created contribute to a per-user upload limit of <b>10.00</b> GB. </li>
-      <li>You may upload a gene list as a user dataset. </li>
+      <li>Access the My Data Sets page from the My Workspace menu in the {{project}} banner.</li>
+      <li>The My Data Sets page tabulates your files and provides associated information</li>
+      <li>Each Data Set has its own record page (linked in the Name column) with more details and options to download</li>
     </ul>
   <br><hr>
 
