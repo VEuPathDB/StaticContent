@@ -68,9 +68,9 @@ div.UserDatasetHelp img {
   <h3>Send gene lists from search results to My Data Sets</h3>
     <img src="{{'/assets/images/MyDataSets/SaveListMyDataSets.gif' | absolute_url}}" />
     <ul>
-      <li>first do this </li>
-      <li>then do this </li>
-      <li>and lastly this </li>
+      <li>From the gene strategy result page, open the Send To menu. </li>
+      <li>Choose My Data Sets.  This initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.</li>
+      <li>Open the new data set record for more details about the files and options to download the gene list.  </li>
     </ul>
    <br><hr>
     
