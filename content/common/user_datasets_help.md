@@ -53,7 +53,7 @@ div.UserDatasetHelp img {
   <h3>Example: BigWig files from Galaxy to My Data Sets</h3>
     <iframe src="https://www.youtube-nocookie.com/embed/igQZHjRBqV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="560" height="315">
     </iframe>
-
+   <br><hr>
 
 
   <h3>Example: Generating user datasets by uploading a file or exporting a strategy result: gene lists</h3>
@@ -65,6 +65,7 @@ div.UserDatasetHelp img {
       <li>
       </li>
     </ul>
+   <br><hr>
     
 
   </div>
