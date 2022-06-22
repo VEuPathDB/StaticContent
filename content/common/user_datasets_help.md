@@ -35,12 +35,12 @@ div.UserDatasetHelp img {
       <li>View, manage, share, and utilize your data set in <b>{{project}}</b> My Data Sets workspace. </li>
       <li>My Data Sets you’ve created contribute to a per-user upload limit of <b>10.00</b> GB. </li>
       <li>Access the My Data Sets page from the My Workspace menu in the {{project}} banner.</li>
-      <li>The My Data Sets page tabulates your files and provides associated information</li>
-      <li>Each Data Set has its own record page (linked in the Name column) with more details and options to download</li>
+      <li>The My Data Sets page tabulates your files and provides associated information.</li>
+      <li>Each Data Set has its own record page (linked in the Name column) with more details and options to download.</li>
     </ul>
   <br><hr>
 
-  <h3>Exporting files from VEuPathDB Galaxy</h3>
+  <h3>Export files from VEuPathDB Galaxy to My Data Sets</h3>
     <img src="{{'/assets/images/MyDataSets/GalaxyExport.png' | absolute_url}}" />
     <ul>
       <li>Use the <b>VEuPathDB Export Tools</b> on the left-side navigation, at <a class="wdk-ReactRouterLink" href="/plasmo/app/galaxy-orientation">VEuPathDB Galaxy</a>.  Options for exporting Gene Lists, Bigwig Files and RNA-Seq values are available. </li>
@@ -55,10 +55,17 @@ div.UserDatasetHelp img {
   <h3>Example: Send BigWig files from Galaxy to My Data Sets</h3>
     <iframe src="https://www.youtube-nocookie.com/embed/igQZHjRBqV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="560" height="315">
     </iframe>
+    <ul>
+      <li>Open the VEuPathDB Export Tools menu in Galaxy Tools panel and choose Bigwig Files to VEuPathDB.<li>
+      <li>The tools will open in the center panel. Complete the form. </li>
+      <li>When you are ready, <code>Execute</code> the export.  The process of exporting to VEuPathDB may take some time. Progress can be monitored from the right-side history panel in Galaxy.</li>
+      <li>When the export is complete, go to {{project}} My Data Sets page to access your files.</li>
+      <li>Open the data set record and use the options there to view the bigwig file in JBrowse.</li>
+    </ul>
    <br><br><hr>
 
 
-  <h3>Example: Send gene lists from search results to My Data Sets</h3>
+  <h3>Send gene lists from search results to My Data Sets</h3>
     <img src="{{'/assets/images/MyDataSets/SaveListMyDataSets.gif' | absolute_url}}" />
     <ul>
       <li>first do this </li>
