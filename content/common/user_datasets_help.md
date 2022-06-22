@@ -59,14 +59,11 @@ div.UserDatasetHelp img {
 
 
   <h3>Example: Send gene lists from search results to My Data Sets</h3>
-    <img src="{{'/assets/images/MyDataSets/GalaxyExport.png' | absolute_url}}" />
+    <img src="{{'/assets/images/MyDataSets/SaveListMyDataSets.gif' | absolute_url}}" />
     <ul>
-      <li>
-      </li>
-      <li>
-      </li>
-      <li>
-      </li>
+      <li>first do this </li>
+      <li>then do this </li>
+      <li>and lastly this </li>
     </ul>
    <br><hr>
     
