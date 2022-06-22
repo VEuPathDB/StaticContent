@@ -41,7 +41,7 @@ div.UserDatasetHelp img {
   <br><hr>
 
   <h3>Exporting files from VEuPathDB Galaxy</h3>
-    <img src="/plasmo/bundles/modern/32385bcebfb710b38539e54a16fafba6.jpg">
+    <img src="{{'/assets/images/MyDataSets/GalaxyExport.png' | absolute_url}}" />
     <ul>
       <li>Use the <b>VEuPathDB Export Tools</b> on the left-side navigation, at <a class="wdk-ReactRouterLink" href="/plasmo/app/galaxy-orientation">VEuPathDB Galaxy</a>.  Options for exporting Gene Lists, Bigwig Files and RNA-Seq values are available. </li>
       <li>Prepare your export data set by selecting the files in your Galaxy history.</li>
