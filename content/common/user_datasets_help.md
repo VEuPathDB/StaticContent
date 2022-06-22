@@ -52,13 +52,14 @@ div.UserDatasetHelp img {
   <br><hr>
 
 
-  <h3>Example: BigWig files from Galaxy to My Data Sets</h3>
+  <h3>Example: Send BigWig files from Galaxy to My Data Sets</h3>
     <iframe src="https://www.youtube-nocookie.com/embed/igQZHjRBqV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="560" height="315">
     </iframe>
-   <br><hr>
+   <br><br><hr>
 
 
-  <h3>Example: Generating user datasets by uploading a file or exporting a strategy result: gene lists</h3>
+  <h3>Example: Send gene lists from search results to My Data Sets</h3>
+    <img src="{{'/assets/images/MyDataSets/GalaxyExport.png' | absolute_url}}" />
     <ul>
       <li>
       </li>
