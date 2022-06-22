@@ -55,8 +55,9 @@ div.UserDatasetHelp img {
   <h3>Example: Send BigWig files from Galaxy to My Data Sets</h3>
     <iframe src="https://www.youtube-nocookie.com/embed/igQZHjRBqV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="560" height="315">
     </iframe>
+    <br>
     <ul>
-      <li>Open the VEuPathDB Export Tools menu in Galaxy Tools panel and choose Bigwig Files to VEuPathDB.<li>
+      <li>Open the VEuPathDB Export Tools menu in Galaxy Tools panel and choose Bigwig Files to VEuPathDB.</li>
       <li>The tools will open in the center panel. Complete the form. </li>
       <li>When you are ready, <code>Execute</code> the export.  The process of exporting to VEuPathDB may take some time. Progress can be monitored from the right-side history panel in Galaxy.</li>
       <li>When the export is complete, go to {{project}} My Data Sets page to access your files.</li>
