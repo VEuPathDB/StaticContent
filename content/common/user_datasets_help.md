@@ -30,7 +30,7 @@ div.UserDatasetHelp img {
   <br><hr>
 
   <h3>My Data Sets workspace</h3>
-    <img src="/plasmo/bundles/modern/aa2aaaa661675ed02ab1edb4570144d2.jpg">
+    <img style="width:20em" src="{{'/assets/images/MyDataSets/MyDataSetsHome.png' | absolute_url}}" />
     <ul>
       <li>You can now view, manage, share, and utilize your data set in <b>{{project}}</b>. </li>
       <li>My Data Sets you’ve created contribute to a per-user upload limit of <b>10.00</b> GB. </li>
