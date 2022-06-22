@@ -27,9 +27,9 @@ div.UserDatasetHelp img {
       </ul>
       <li>My Data Sets persist between sessions so you're files are always accessible.</li>
     </ul>
+  <hr><br>
 
-
-  <h4>My Data Sets workspace</h4>
+  <h3>My Data Sets workspace</h3>
     <img src="/plasmo/bundles/modern/aa2aaaa661675ed02ab1edb4570144d2.jpg">
     <ul>
       <li>You can now view, manage, share, and utilize your data set in <b>{{project}}</b>. </li>
