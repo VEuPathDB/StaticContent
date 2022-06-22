@@ -20,7 +20,7 @@ div.UserDatasetHelp img {
   <h3>Overview</h3>
     <ul>
       <li>My Data Sets are your files or sets of files that are private unless you choose to share them with colleagues.</li>
-      <li>My Data Sets originate from three sources:  exports from <a href="http://veupathdb.globusgenomics.org">VEuPathDB Galaxy</a>, uploads from your computer or a URL, and from a search strategy result. </li>
+      <li>My Data Sets originate as:  exports from <a href="http://veupathdb.globusgenomics.org">VEuPathDB Galaxy</a>, uploads from your computer or a URL, and imports from a search strategy result. </li>
       <ul>
         <li>RNASeq expression values, BigWig files can be imported from <a href="http://veupathdb.globusgenomics.org">VEuPathDB Galaxy</a></li>
         <li>Gene lists can be imported from VEuPathDB Galaxy, uploading a local file, uploading from a remote URL, and importing a search strategy result.</li>
