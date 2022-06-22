@@ -36,9 +36,9 @@ div.UserDatasetHelp img {
       <li>My Data Sets you’ve created contribute to a per-user upload limit of <b>10.00</b> GB. </li>
       <li>You may upload a gene list as a user dataset. </li>
     </ul>
+  <br><hr>
 
-
-  <h4>Bringing user datasets from VEuPathDB Galaxy</h4>
+  <h3>Exporting files from VEuPathDB Galaxy</h3>
     <img src="/plasmo/bundles/modern/32385bcebfb710b38539e54a16fafba6.jpg">
     <ul>
       <li>Use the <b>VEuPathDB Export Tools</b> on the left-side navigation, at <a class="wdk-ReactRouterLink" href="/plasmo/app/galaxy-orientation">VEuPathDB Galaxy</a>.  Options for exporting Gene Lists, Bigwig Files and RNA-Seq values are available. </li>
@@ -47,14 +47,16 @@ div.UserDatasetHelp img {
       <li>When you’re ready, <code>Execute</code> the export. The process of exporting to VEuPathDB may take some time. Progress can be monitored from the right-side history panel in Galaxy.</li>
       <li>When the export is complete, the Galaxy history tile will turn green and the data set will appear in the {{project}} My Data Sets page. </li>
     </ul>
+  <br><hr>
 
 
-  <h4>Example: BigWig files as user datasets</h4>
+  <h3>Example: BigWig files from Galaxy to My Data Sets</h3>
     <iframe src="https://www.youtube-nocookie.com/embed/igQZHjRBqV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="560" height="315">
     </iframe>
 
 
-  <h3>Generating user datasets by uploading a file or exporting a strategy result: gene lists</h3>
+
+  <h3>Example: Generating user datasets by uploading a file or exporting a strategy result: gene lists</h3>
     <ul>
       <li>
       </li>
