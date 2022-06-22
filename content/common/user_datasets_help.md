@@ -68,8 +68,20 @@ div.UserDatasetHelp img {
 
   <h3>Send gene lists from search results to My Data Sets</h3>
     <img src="{{'/assets/images/MyDataSets/SaveListMyDataSets.gif' | absolute_url}}" />
+    <br>
     <ul>
       <li>From the gene strategy result page, open the Send To menu. </li>
+      <li>Choose My Data Sets.  This initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.</li>
+      <li>Open the new data set record for more details about the files and options to download the gene list.  </li>
+    </ul>
+   <br><hr>
+
+  <h3>Upload gene lists to My Data Sets</h3>
+    <img src="{{'/assets/images/MyDataSets/UploadListMyDataSets.gif' | absolute_url}}" />
+    <br>
+    This feature is offered in preparation to provide gene set functionality such as gene set enrichment analysis. 
+    <ul>
+      <li>Open the New Upload tab in your My Data Sets workspace. </li>
       <li>Choose My Data Sets.  This initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.</li>
       <li>Open the new data set record for more details about the files and options to download the gene list.  </li>
     </ul>
