@@ -25,7 +25,7 @@ div.UserDatasetHelp img {
         <li>RNASeq expression values, BigWig files, and gene lists can be imported from <a href="http://veupathdb.globusgenomics.org">VEuPathDB Galaxy</a></li>
         <li>Gene lists can also be uploaded from a local file, uploaded from a remote URL, and imported from search strategy result.</li>
       </ul>
-      <li>My Data Sets persist between sessions so you're files are always accessible.</li>
+      <li>My Data Sets persist between sessions so your files are always accessible.</li>
     </ul>
   <br><hr>
 
