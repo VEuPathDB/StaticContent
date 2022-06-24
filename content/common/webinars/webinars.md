@@ -26,7 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">   
  <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p>   
- <p><b>Thursday July 7th, 2022:</b> <a href="#release58">Release 58 Webinar</a></p>
+ <p><b>Thursday June 30th, 2022:</b> <a href="#release58">Release 58 Webinar</a></p>
  <p><b>Thursday September 29th, 2022:</b> <a href="#release59">Release 59 Webinar</a></p>
  <p><b>Thursday November 10th, 2022:</b> <a href="#release59">Release 60 Webinar</a></p>
 
@@ -95,9 +95,9 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="anchor"><a name="release58"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 58 Webinar<br>
-<b>Date:</b> Thursday July 7th, 2022<br>
+<b>Date:</b> Thursday June 30th, 2022<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registraion:</b> Registration links will be available 7-10 days prior to a release webinar.<br>
+<b>Registraion:</b> <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO" target="_blank">https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO</a><br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 58 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
