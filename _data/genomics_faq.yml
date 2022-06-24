@@ -150,7 +150,7 @@
 - type: citing
   question: "How to cite a gene? (We recommend gene stable ID, metadata and location)"
   answer: |
-           Gene metadata are the gene name or symbol and the gene functional description, e.g., kinase. The gene stable IDs, e.g., AGAP004707 or PF3D7_0100100, are not only stable (as implied by their name), but are provided as a unique identifier for each gene in each genome. The use of gene IDs allows for a better strategy when looking for genes using VEuPathDB Site Search or any other tool.     
+           Gene metadata are the gene name or symbol, e.g., GPROP1, and the gene functional description, e.g., long wavelength sensitive opsin. The gene stable IDs, e.g., AGAP013149, are not only stable (as implied by their name), but are provided as a unique identifier for each gene in each genome. The use of gene IDs allows for a better strategy when looking for genes using VEuPathDB Site Search or any other tool. A gene location can be in the format of supercontig/scaffold or chromosome and baise pair range, e.g., 2R:735,912-737,457. We recommend you use gene stable ID, metadata and location, or at least gene ID and metadata.       
   uid: g14
   projects: "donotshow"
 - type: download
