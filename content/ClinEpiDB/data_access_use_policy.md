@@ -38,13 +38,13 @@ Prior to accessing any data provided through ClinEpiDB, the User acknowledges th
 
 ##  Data access restrictions
     
-Each dataset that is submitted to ClinEpiDB is unique and may require implementation of a different level of data access restriction even once the dataset is publicly released. Each dataset will fall into one of the five categories described in the table below: public, controlled, protected, private, and prerelease. These categories differ in what levels of access are required to see aggregated vs disaggregated data. Aggregated data includes what can be seen in the search wizard and analysis applications, while disaggregated data includes what can be seen on the results page, individual record pages, and the downloaded files.
+Each dataset that is submitted to ClinEpiDB is unique and may require implementation of a different level of data access restriction even once the dataset is publicly released. Each dataset will fall into one of the five categories described in the table below: public, controlled, protected, private, and prerelease. These categories differ in what levels of access are required to see aggregated vs disaggregated data. Aggregated data includes what can be seen in the "Browse and subset" and "Visualize" tabs, while disaggregated data includes what can be seen in filed downloaded from the "Download" tab.
 
 |  __Access level__ | __Description__ |
 | :----- | :----- |
 | Public | No access restrictions. Users can view and download the data as "Guests" without logging in. |
-| Controlled | Guest users can view aggregated data via the search wizard and analysis applications, but must register and request access to view more than 20 rows of data on the results page, view individual record pages, or download data. The request may be submitted via a form that pops up when a user logs in with a registered account and clicks "Download data". Data can be downloaded by the registered user immediately following request submission. |
-| Protected | Guest users can view aggregated data via the search wizard and analysis applications, but must register, request, and obtain approval from the data providers to view more than 20 rows of data on the results page, view individual record pages, or download data. The request may be submitted via a form that pops up when a registered user is logged in and clicks "Download data" or attempts to access the other information. |
+| Controlled | Guest users can view aggregated data via the "Browse and subset" and "Visualize" tabs, but must register and request access to download data. The request may be submitted via a form that pops up when a user logs in with a registered account and clicks on any file in the "Download" tab. Data can be downloaded by the registered user immediately following request submission. |
+| Protected | Guest users can view aggregated data via the "Browse and subset" and "Visualize" tabs, but must register, request, and obtain approval from the data providers to download data. The request may be submitted via a form that pops up when a registered user is logged in and clicks on any file in the "Download" tab. |
 | Private | A registered user must request and obtain approval to access any aspect of the data. The request may be submitted via a form that pops up when a registered user is logged in and clicks on the study. |
 | Prerelease | The study is under active development for future release, and only the study team can access the data. Guest and registered users can view the study page only. |
 
@@ -64,6 +64,6 @@ __Publication__ - When publishing on data you accessed via ClinEpiDB, please ack
     
 __Ethical approval__ - The ClinEpiDB platform has received approval from the University of Pennsylvania under IRB#7, Protocol #828806. All studies that are included in ClinEpiDB have undergone ethical approval at applicable institutions prior to protocol execution and ClinEpiDB is generally not involved in this process.
   
-_Issued February 2017, most recent revision September 24, 2020_
+_Issued February 2017, most recent revision June 27, 2022_
 
 </div>
