@@ -97,7 +97,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> Release 58 Webinar<br>
 <b>Date:</b> Thursday June 30th, 2022<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registraion:</b> <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO" target="_blank">https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO</a><br>
+<b>Registraion:</b> <a href="https://attendee.gotowebinar.com/register/268959659745734923" target="_blank">https://attendee.gotowebinar.com/register/268959659745734923</a><br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 58 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
