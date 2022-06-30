@@ -101,12 +101,6 @@ th.recording {
 <div class="static-content">
 
   <h3>Upcoming Workshops</h3>
-  <div class="contents">     
-    <h4><a href="/a/app/static-content/ags2022.html">Arthropod Genomics Symposium 2022: pre-meeting VectorBase hands-on Workshop</a></h4>
-    <p>6:00pm on Sunday, 5th June to 12:00pm (noon) on Thursday, 9th June 2022</p>
-    <p>DeBartolo Hall, University of Notre Dame, Notre Dame, IN</p>
-    <p>In-person (sessions will not be virtual or recorded)</p>
-  </div>
 
   <div class="contents">
     <h4><a href="/a/app/static-content/workshopSept2022.html">VEuPathDB Virtual Workshop September 2022</a></h4>
@@ -118,6 +112,14 @@ th.recording {
   <hr>
   
   <h3>Previous Workshops</h3>
+
+  
+  <div class="contents">     
+    <h4><a href="/a/app/static-content/ags2022.html">Arthropod Genomics Symposium 2022: pre-meeting VectorBase hands-on Workshop</a></h4>
+    <p>6:00pm on Sunday, 5th June to 12:00pm (noon) on Thursday, 9th June 2022</p>
+    <p>DeBartolo Hall, University of Notre Dame, Notre Dame, IN</p>
+    <p>In-person (sessions were not recorded)</p>
+  </div>
 
   <div class="contents">     
     <h4><a href="https://www.toxocongress2022.org/pre-meeting-workshops/leveraging-informatics-tools" target="_blank">Leveraging Informatics Tools 'Omics & ToxoDB</a></h4>
