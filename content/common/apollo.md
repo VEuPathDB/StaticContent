@@ -44,16 +44,16 @@ We are currently in the process of a long term project to update our genome anno
 <p>Apollo help and documentation:
 <ul> 
  <li>A "play" Apollo site, e.g., a <a href="https://apollo-sandbox.veupathdb.org/annotator/index">sandbox (Login required)</a> is available for you to experiment and get familiar with all Apollo menus, tools, and tracks before you decide to use it for your real gene manual annotations. These changes will not affect any of the organism's official gene set, neither will be preserved.</li>
-  <li>A comprehensive webinar recording to learn <a href="https://youtu.be/RMXZDBMh8Fo">how to use Apollo</a> (57:40 min)</li>
-  <li>Check out our YouTube Apollo <a href="https://youtube.com/playlist?list=PLWzQB3i5sYALdtuACxZRowVoqhLimhwx_">tutorial channel</a>!</li>
+  <li>A comprehensive webinar recording to learn <a target="_blank" href="https://youtu.be/RMXZDBMh8Fo">how to use Apollo</a> (57:40 min)</li>
+  <li>Check out our YouTube Apollo <a target="_blank" href="https://youtube.com/playlist?list=PLWzQB3i5sYALdtuACxZRowVoqhLimhwx_">tutorial channel</a>!</li>
   <li>A description of <a href="/a/app/static-content/apolloQuickCommands.html">quick commands</a> (Apollo now has the BLAT tool!)</li> 
   <li><a href="{{'/documents/Apollo_functional_annotation_26_10_2021.pdf' | absolute_url}}">Functional annotation tutorial </a> </li>
   <li><a href="{{'/documents/Apollo_structural_annotation_31_05_2022.pdf' | absolute_url}}">Structural annotation tutorial </a> </li>
   <li><a href="/a/app/static-content/faq.html#apollo">Frequently Asked Questions</a></li>
   <li><a href="https://apollo.veupathdb.org/1613634913933131701353630290/about">About Apollo (Login required)</a></li> 
-  <li><a href="https://genomearchitect.readthedocs.io/en/latest/UsersGuide.html">User Guide</a></li> 
-  <li><a href="https://github.com/gmod/apollo/issues/new">Request feature/Report a bug (Login required)</a></li> 
-  <li><a href="https://jbrowse.org/jb2/">Powered by JBrowse</a></li> 
+  <li><a target="_blank" href="https://genomearchitect.readthedocs.io/en/latest/UsersGuide.html">User Guide</a></li> 
+  <li><a target="_blank" href="https://github.com/gmod/apollo/issues/new">Request feature/Report a bug (Login required)</a></li> 
+  <li><a target="_blank" href="https://jbrowse.org/jb2/">Powered by JBrowse</a></li> 
   <li><a href="https://apollo.veupathdb.org/56133187121381847651851098590/jbrowse/web_services/api">Web Service API (Login required)</a></li> 
 
 </ul>
