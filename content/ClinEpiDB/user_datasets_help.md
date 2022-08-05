@@ -52,11 +52,10 @@ div.UserDatasetHelp img {
         <li>Should be as you want them to appear on the website (e.g. "Yes" and "No" rather than "1" and "0")
           <ul>
           <li>Categorical data uploaded as coded, numeric data (e.g. 0, 1, -9) will be displayed as a histogram rather than in a data frequency table</li>
-          <li></li>Values will be recognized as dates and handled appropriately if formatted as YYYY-MM-DD. All other formats will be recognized as strings and displayed as categorical data
+          <li>Values will be recognized as dates and handled appropriately if formatted as YYYY-MM-DD. All other formats will be recognized as strings and displayed as categorical data</li>
           </ul></li>
         <li>Must be less than 1000 characters</li>
         <li>Special characters will appear nonsensical on the website (e.g. <b>é</b> appears as <b>\x8E</b>)</li>
-        <li></li>
         </ul>
       </li>
     </ul>
