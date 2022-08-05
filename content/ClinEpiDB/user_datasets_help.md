@@ -32,6 +32,7 @@ div.UserDatasetHelp img {
       <li>You may only upload single-file datasets. In the future, more complex data will be supported</li>
       <li>The file must be a .csv, .tsv, or tab-delimited .txt file</li>
       <li>The file name cannot include special characters</li>
+      <li>The file cannot have >999 columns</li>
       <li>Column headers:
         <ul>
         <li>Should be composed of alphanumeric characters, periods, and underscores (<b>a-z</b>, <b>A-Z</b>, <b>0-9</b>, <b>.</b>, and <b>_</b>)
@@ -51,8 +52,11 @@ div.UserDatasetHelp img {
         <li>Should be as you want them to appear on the website (e.g. "Yes" and "No" rather than "1" and "0")
           <ul>
           <li>Categorical data uploaded as coded, numeric data (e.g. 0, 1, -9) will be displayed as a histogram rather than in a data frequency table</li>
+          <li></li>Values will be recognized as dates and handled appropriately if formatted as YYYY-MM-DD. All other formats will be recognized as strings and displayed as categorical data
           </ul></li>
+        <li>Must be less than 1000 characters</li>
         <li>Special characters will appear nonsensical on the website (e.g. <b>é</b> appears as <b>\x8E</b>)</li>
+        <li></li>
         </ul>
       </li>
     </ul>
