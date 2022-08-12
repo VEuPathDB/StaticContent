@@ -1,11 +1,11 @@
 --- # clinepi tutorials page
 - type: tutorial
-  title: "Find studies on ClinEpiDB"
-  description: "How to access datasets on the ClinEpiDB platform"
+  title: "Search for studies and variables on ClinEpiDB"
+  description: "How to perform a site-wide search for datasets and variables of interest on the ClinEpiDB platform"
   uid: t1
   projects: "ClinEpiDB,AllClinEpiDB"
-  fileName: clinEpi_exercises/Tutorial1_NavigatingAccessDatasets.pdf
-  date: "Feb 18, 2022"
+  fileName: clinEpi_exercises/Tutorial_Search_Datasets_Variables.pdf
+  date: "Aug 12, 2022"
 - type: tutorial
   title: "Learn the basics of a study analysis"
   description: "Learn to navigate an analysis that you create"
