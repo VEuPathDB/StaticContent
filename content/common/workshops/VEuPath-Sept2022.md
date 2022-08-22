@@ -200,6 +200,10 @@ div.instructor-table {
       <tr>
         <td>Omar S. Harb, PhD</td>
         <td>University of Pennsylvania</td>
+      </tr>      
+      <tr>
+        <td>Mary Ann McDowell, PhD</td>
+        <td>University of Notre Dame</td>
       </tr>
       <tr>
         <td>Sarah Kelly, PhD</td>
