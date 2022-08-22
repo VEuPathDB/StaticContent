@@ -188,6 +188,10 @@ div.instructor-table {
       <tr>
         <td>Evelina Basenko, PhD</td>
         <td>University of Liverpool</td>
+      </tr>      
+      <tr>
+        <td>Ulrike Boehme, PhD</td>
+        <td>University of Liverpool</td>
       </tr>
       <tr>
         <td>Gloria I. Giraldo-Calderón, PhD</td>
