@@ -44,25 +44,11 @@ tags: [general]
       <li>Correlation matrix tool - highlight the most correlated variables</li>
       <li>General heatmap tool - view data in a semi-quantitative way</li>
       <li>Longitudinal heatmap tool - visualize longitudinal patterns</li>
-      <li>Density plot tool -plot distribution of a numeric variable</li>
+      <li>Density plot tool - plot distribution of a numeric variable</li>
       <li>Violin plot tool - combine features of a box plot and density plot</li>
       <li>Missingness tool - see patterns of missing data with a suite of plots including upset plot and heatmap</li>
       </ul>
     </div>
-
-  <h2 id="DIY">DIY workspace</h2>
-    <div>
-      <p>
-      Upload your own data and explore it using the visualization tools
-      </p>
-    </div>
-
-  <h2 id="SiteSearch">Site Search</h2>
-    <div>
-    <p>
-    Search ClinEpiDB and find studies containing variables of interest to you
-    </p>
-  </div>
 
   <h2 id="Cross-siloSearch">Cross-silo search</h2>
   <div>
