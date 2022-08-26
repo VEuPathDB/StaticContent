@@ -34,8 +34,7 @@
            These terms are mapped to the MIxS ontology and unmapped terms are manually curated and used to expand a custom, MIxS-compliant, ontology tree. 
            These rich, structured sample details are used to generate an ISA.tab file that is then loaded into microbiomeDB. 
            When combined with the extensive web toolkit and infrastructure developed by VEuPathDB, 
-           the user is provided with an web interface to interrogate complex, even massive-scale, microbiome studies using metadata queries. 
-           The resulting queries are then visualized using a suite of Shiny apps available directly in the browser.
+           the user is provided with a web interface to interrogate complex, even massive-scale, microbiome studies using a suite of visualizations available directly in the browser.
   uid: g3
   projects: "MicrobiomeDB"
 
@@ -126,7 +125,7 @@
 - type: general
   question: "Where did you get the images on the MicrobiomeDB homepage?"
   answer: 
-           Our **[banner image](https://phil.cdc.gov/Details.aspx?pid=18128)** shows methicillin-resistant, *Staphylococcus aureus* (MRSA) bacteria in the process of being ingested by a neutrophil, and our **[icon](https://phil.cdc.gov/Details.aspx?pid=18170)** shows *Klebsiella pneumoniae* interacting with a human neutrophil. Both images are courtesy of the National Institute for Allergy and Infectious Disease and are free of any copyright restrictions
+           Our **[banner image](https://phil.cdc.gov/Details.aspx?pid=18128)** shows methicillin-resistant, *Staphylococcus aureus* (MRSA) bacteria in the process of being ingested by a neutrophil, and our **[icon](https://phil.cdc.gov/Details.aspx?pid=18170)** shows *Klebsiella pneumoniae* interacting with a human neutrophil. Both images are courtesy of the National Institute for Allergy and Infectious Disease and are free of any copyright restrictions.
   uid: g10
   projects: "MicrobiomeDB"
 
