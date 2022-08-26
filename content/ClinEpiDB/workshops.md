@@ -90,7 +90,7 @@ table#hor-minimalist-a tfoot tr {
     <p>
       <b>Date:</b> Sunday, October 30th, 2022 <br>
       <b>Time:</b> 8 AM - 1 PM US PT <br>
-      <b>Location:</b> Seattle Convention Center<br>
+      <b>Location:</b> Sheraton Grand Hotel, Seattle, USA<br>
       <b>Registration:</b> Not yet open 
     </p>
     <p>
