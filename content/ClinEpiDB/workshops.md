@@ -91,7 +91,7 @@ table#hor-minimalist-a tfoot tr {
       <b>Date:</b> Sunday, October 30th, 2022 <br>
       <b>Time:</b> 8 AM - 1 PM US PT <br>
       <b>Location:</b> Sheraton Grand Hotel, Seattle, USA<br>
-      <b>Registration:</b> <https://www.astmh.org/awards-fellowships-medals/awards-and-honors/nomination-submissions>
+      <b>Registration:</b> <a target="_blank" href="https://www.astmh.org/awards-fellowships-medals/awards-and-honors/nomination-submissions">https://www.astmh.org/awards-fellowships-medals/awards-and-honors/nomination-submissions</a>
     </p>
     <p>
       <b>Topics:</b> Attendees will learn about the benefits and challenges of FAIR data access, understand how ontological mapping supports meta-analysis, and get hands-on training on ClinEpiDB's tools to efficiently identify, explore, visualize, and download data of interest.
