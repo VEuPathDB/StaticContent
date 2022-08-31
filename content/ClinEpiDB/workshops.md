@@ -91,12 +91,12 @@ table#hor-minimalist-a tfoot tr {
       <b>Date:</b> Sunday, October 30th, 2022 <br>
       <b>Time:</b> 8 AM - 1 PM US PT <br>
       <b>Location:</b> Sheraton Grand Hotel, Seattle, USA<br>
-      <b>Registration:</b> Not yet open 
+      <b>Registration:</b> <a target="_blank" href="https://www.astmh.org/awards-fellowships-medals/awards-and-honors/nomination-submissions">https://www.astmh.org/awards-fellowships-medals/awards-and-honors/nomination-submissions</a>
     </p>
     <p>
       <b>Topics:</b> Attendees will learn about the benefits and challenges of FAIR data access, understand how ontological mapping supports meta-analysis, and get hands-on training on ClinEpiDB's tools to efficiently identify, explore, visualize, and download data of interest.
     </p>
-    <p>Note: Attendance for this workshop will be capped at 60. If you are interested in attending this workshop, please complete the <a target="_blank" href="https://www.astmh.org/awards-fellowships-medals/awards-and-honors/nomination-submissions">workshop application</a>. All attendees must 1) be <a target="_blank" href="https://www.astmh.org/annual-meeting/registration">registered for the Annual Meeting</a>, 2) have U.S. citizenship, permanent residency, or a valid visa to attend this workshop in person, and 3) have a laptop with a web browser (Chrome, Firefox, etc). 
+    <p>Note: Attendance for this workshop will be capped at 60. All attendees must 1) be <a target="_blank" href="https://www.astmh.org/annual-meeting/registration">registered for the Annual Meeting</a>, 2) have U.S. citizenship, permanent residency, or a valid visa to attend this workshop in person, and 3) have a laptop with a web browser (Chrome, Firefox, etc). 
     </p>
     <p>The workshop is free for all participants. However, a $25 holding fee will be required from successful applicants and refunded upon completion of the workshop. Any awardee who registers and does not attend the workshop will forfeit the $25 registration fee. To offset the cost of traveling to attend the workshop, applicants are able to apply for a limited number of scholarships (200 USD each). Applications will be evaluated on a case-by-case basis. Preference will be given to individuals in one or more of the following categories:
       <ul>
