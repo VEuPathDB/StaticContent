@@ -304,7 +304,7 @@ div.instructor-table {
           <tr>
             <td>11:45am</td>
             <td>Hands-on exercise<br>
-            <a target="_blank" href="{{'/documents/Sept2022/4-Search-Strategies-Sept2022' | absolute_url}}"><b>Search Strategies</b></td>
+            <a target="_blank" href="{{'/documents/Sept2022/4-Search-Strategies-Sept2022' | absolute_url}}"><b>Search Strategies</b></a></td>
             <td>Break our rooms</td>
             <td></td>
           </tr>          
