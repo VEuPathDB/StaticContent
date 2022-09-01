@@ -198,13 +198,13 @@ div.instructor-table {
         <td>University of Notre Dame</td>
       </tr>
       <tr>
+        <td>Kathryn Crouch, PhD</td>
+        <td>University of Glasgow/td>
+      </tr>
+      <tr>
         <td>Omar S. Harb, PhD</td>
         <td>University of Pennsylvania</td>
-      </tr>      
-      <tr>
-        <td>Mary Ann McDowell, PhD</td>
-        <td>University of Notre Dame</td>
-      </tr>
+      </tr>  
       <tr>
         <td>Sarah Kelly, PhD</td>
         <td>Imperial College London</td>
@@ -212,14 +212,18 @@ div.instructor-table {
       <tr>
         <td>Jessica Kissinger, PhD</td>
         <td>University of Georgia</td>
-      </tr>
+      </tr>    
       <tr>
-        <td>David S. Roos, PhD   Joint-PI</td>
-        <td>University of Pennsylvania</td>
+        <td>Mary Ann McDowell, PhD</td>
+        <td>University of Notre Dame</td>
       </tr>
       <tr>
         <td>Samuel Rund, PhD</td>
         <td>University of Notre Dame</td>
+      </tr>
+      <tr>
+        <td>Dave Starns, PhD</td>
+        <td>University of Liverpool</td>
       </tr>
       <tr>
         <td>Susanne Warrenfeltz, PhD</td>
