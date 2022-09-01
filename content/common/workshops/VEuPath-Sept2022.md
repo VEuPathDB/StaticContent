@@ -176,58 +176,62 @@ div.instructor-table {
   
   <div class="instructor-table">
     <table>
-      <tr>
-        <th>Instructor</th>
-        <th>Institution</th>
-      </tr>
-      <tr>
-        <td>Rachel Ankirskiy</td>
-        <td>University of Georgia</td>
-      </tr>
-      <tr>
-        <td>Evelina Basenko, PhD</td>
-        <td>University of Liverpool</td>
-      </tr>      
-      <tr>
-        <td>Ulrike Boehme, PhD</td>
-        <td>University of Liverpool</td>
-      </tr>
-      <tr>
-        <td>Gloria I. Giraldo-Calderón, PhD</td>
-        <td>University of Notre Dame</td>
-      </tr>
-      <tr>
-        <td>Kathryn Crouch, PhD</td>
-        <td>University of Glasgow</td>
-      </tr>
-      <tr>
-        <td>Omar S. Harb, PhD</td>
-        <td>University of Pennsylvania</td>
-      </tr>  
-      <tr>
-        <td>Sarah Kelly, PhD</td>
-        <td>Imperial College London</td>
-      </tr>
-      <tr>
-        <td>Jessica Kissinger, PhD</td>
-        <td>University of Georgia</td>
-      </tr>    
-      <tr>
-        <td>Mary Ann McDowell, PhD</td>
-        <td>University of Notre Dame</td>
-      </tr>
-      <tr>
-        <td>Samuel Rund, PhD</td>
-        <td>University of Notre Dame</td>
-      </tr>
-      <tr>
-        <td>Dave Starns, PhD</td>
-        <td>University of Liverpool</td>
-      </tr>
-      <tr>
-        <td>Susanne Warrenfeltz, PhD</td>
-        <td>University of Georgia</td>
-      </tr>
+      <thead>
+        <tr>
+          <th>Instructor</th>
+          <th>Institution</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Rachel Ankirskiy</td>
+          <td>University of Georgia</td>
+        </tr>
+        <tr>
+          <td>Evelina Basenko, PhD</td>
+          <td>University of Liverpool</td>
+        </tr>      
+        <tr>
+          <td>Ulrike Boehme, PhD</td>
+          <td>University of Liverpool</td>
+        </tr>
+        <tr>
+          <td>Gloria I. Giraldo-Calderón, PhD</td>
+          <td>University of Notre Dame</td>
+        </tr>
+        <tr>
+          <td>Kathryn Crouch, PhD</td>
+          <td>University of Glasgow</td>
+        </tr>
+        <tr>
+          <td>Omar S. Harb, PhD</td>
+          <td>University of Pennsylvania</td>
+        </tr>  
+        <tr>
+          <td>Sarah Kelly, PhD</td>
+          <td>Imperial College London</td>
+        </tr>
+        <tr>
+          <td>Jessica Kissinger, PhD</td>
+          <td>University of Georgia</td>
+        </tr>    
+        <tr>
+          <td>Mary Ann McDowell, PhD</td>
+          <td>University of Notre Dame</td>
+        </tr>
+        <tr>
+          <td>Samuel Rund, PhD</td>
+          <td>University of Notre Dame</td>
+        </tr>
+        <tr>
+          <td>Dave Starns, PhD</td>
+          <td>University of Liverpool</td>
+        </tr>
+        <tr>
+          <td>Susanne Warrenfeltz, PhD</td>
+          <td>University of Georgia</td>
+        </tr>
+      </tbody>
     </table>
     </div>
   <br><br>
