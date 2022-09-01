@@ -281,8 +281,10 @@ div.instructor-table {
           </tr>
           <tr>
             <td>10:00am</td>
-            <td>Hands-on exercises
+            <td>Hands-on exercises<br>
               <a href="{{'/documents/Sept2022/1-Site-Search-Sept2022.pdf' | absolute_url}}"><b>Site Search</b></a><br>
+              <a href="{{'/documents/Sept2022/2-Organism-Preferences-Sept2022.pdf' | absolute_url}}"><b>Organism Preferences</b></a><br>
+              <a href="{{'/documents/Sept2022/3-Gene-Page-Sept2022.pdf' | absolute_url}}"><b>Organism Preferences</b></a>
               </td>
             <td>Break out rooms</td>
             <td></td>
