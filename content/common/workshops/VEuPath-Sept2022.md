@@ -124,7 +124,7 @@ div.instructor-table {
     <p><h4>Virtual, hands-on workshop with short lectures and small goup instruction</h4></p>
     <p><h4>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</h4></p>
     <p><h4>Recorded lectures and exercises available online after the workshop</h4></p>
-    <p><h4><b><a href="ScheduleSept2022">Schedule</a></b></h4></p>
+    <p><h4><b><a href="#ScheduleSept2022">Schedule</a></b></h4></p>
   </div>
   
 
