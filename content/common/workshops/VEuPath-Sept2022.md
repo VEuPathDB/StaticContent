@@ -302,14 +302,26 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>11:50am</td>
+            <td>11:45am</td>
             <td>Hands-on exercise</td>
-            <td>Search Strategies</td>
+            <td><a href="{{'/documents/Sept2022/4-Search-Strategies-Sept2022' | absolute_url}}"><b>Search Strategies</b></td>
             <td></td>
           </tr>          
           <tr>
             <td>12:45pm</td>
             <td>Discussion and wrap up</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1pm</td>
+            <td>Free option for discussion and questions</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:30pm</td>
+            <td>Zoom closes</td>
             <td></td>
             <td></td>
           </tr>
