@@ -284,7 +284,7 @@ div.instructor-table {
             <td>Hands-on exercises<br>
               <a href="{{'/documents/Sept2022/1-Site-Search-Sept2022.pdf' | absolute_url}}"><b>Site Search</b></a><br>
               <a href="{{'/documents/Sept2022/2-Organism-Preferences-Sept2022.pdf' | absolute_url}}"><b>Organism Preferences</b></a><br>
-              <a href="{{'/documents/Sept2022/3-Gene-Page-Sept2022.pdf' | absolute_url}}"><b>Organism Preferences</b></a>
+              <a href="{{'/documents/Sept2022/3-Gene-Page-Sept2022.pdf' | absolute_url}}"><b>Gene Pages</b></a>
               </td>
             <td>Break out rooms</td>
             <td></td>
