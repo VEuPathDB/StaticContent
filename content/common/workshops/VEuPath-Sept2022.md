@@ -198,7 +198,7 @@ div.instructor-table {
       </tr>
       <tr>
         <td>Kathryn Crouch, PhD</td>
-        <td>University of Glasgow/td>
+        <td>University of Glasgow</td>
       </tr>
       <tr>
         <td>Omar S. Harb, PhD</td>
