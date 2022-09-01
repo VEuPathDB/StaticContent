@@ -120,11 +120,11 @@ div.instructor-table {
 
 
   <div class="centered-title">
+    <p><h4><b><a href="#Schedule">SCHEDULE and HANDS-ON EXERCISES</a></b></h4></p>
     <p><h4>9am - 1pm (EDT) daily </h4></p>
     <p><h4>Virtual, hands-on workshop with short lectures and small goup instruction</h4></p>
     <p><h4>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</h4></p>
     <p><h4>Recorded lectures and exercises available online after the workshop</h4></p>
-    <p><h4><b><a href="#Schedule">Schedule</a></b></h4></p>
   </div>
   
 
