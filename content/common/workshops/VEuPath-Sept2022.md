@@ -124,7 +124,7 @@ div.instructor-table {
     <p><h4>Virtual, hands-on workshop with short lectures and small goup instruction</h4></p>
     <p><h4>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</h4></p>
     <p><h4>Recorded lectures and exercises available online after the workshop</h4></p>
-    <p><h4><b><a href="#ScheduleSept2022">Schedule</a></b></h4></p>
+    <p><h4><b><a href="#Schedule">Schedule</a></b></h4></p>
   </div>
   
 
@@ -245,7 +245,7 @@ div.instructor-table {
   <br><br>
 
 
-  <div class="anchor"><a name="ScheduleSept2022"></a></div>
+  <div class="anchor"><a name="Schedule"></a></div>
   <details open>
     <summary><b>Preliminary Schedule</b> (check back Sept 1 for more details)</summary>      
     <table class="hor-minimalist-a">
