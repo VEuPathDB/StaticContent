@@ -124,9 +124,8 @@ div.instructor-table {
     <p><h4>Virtual, hands-on workshop with short lectures and small goup instruction</h4></p>
     <p><h4>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</h4></p>
     <p><h4>Recorded lectures and exercises available online after the workshop</h4></p>
-    <p><h4><b>Register here: <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO" target="_blank">https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO</a></b></h4></p>
+    <p><h4><b><a href="ScheduleSept2022">Schedule</a></b></h4></p>
   </div>
-
   
 
 <div class="contents">
@@ -241,6 +240,8 @@ div.instructor-table {
   We invite you to read our most recent publication about VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/" target="_blank">Amos et al 2022</a>).  Please also explore our  <a href="https://www.youtube.com/user/EuPathDB" target="_blank">You Tube Channel</a> and previously recorded <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">webinars and workshops</a>. Our goal is to maintain a fruitful and ongoing conversation between our team and yours to learn more efficient, effective ways to help you reach your goals. Regardless, if you attend the workshop or not, please feel free to email us with questions, new feature suggestions, or new data at <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>.  
   <br><br>
 
+
+  <div class="anchor"><a name="ScheduleSept2022"></a></div>
   <details open>
     <summary><b>Preliminary Schedule</b> (check back Sept 1 for more details)</summary>      
     <table class="hor-minimalist-a">
