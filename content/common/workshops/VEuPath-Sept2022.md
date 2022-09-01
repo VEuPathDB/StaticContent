@@ -263,7 +263,7 @@ div.instructor-table {
         <tbody>         
           <tr>
             <td>8:30am</td>
-            <td>Zoom opens for 'meet and greet' and conncetion testing</td>
+            <td>Zoom opens for 'meet and greet' and connection testing</td>
             <td></td>
             <td></td>
           </tr>
@@ -282,7 +282,7 @@ div.instructor-table {
           <tr>
             <td>10:00am</td>
             <td>Hands-on exercises
-              <a href="{{'/images/workshops/Sept2022/1-Site-Search-Sept2022.pdf' | absolute_url}}"><b>Site Search</b></a><br>
+              <a href="{{'/documents/Sept2022/1-Site-Search-Sept2022.pdf' | absolute_url}}"><b>Site Search</b></a><br>
               </td>
             <td>Break out rooms</td>
             <td></td>
