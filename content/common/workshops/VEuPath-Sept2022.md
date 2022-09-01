@@ -282,9 +282,9 @@ div.instructor-table {
           <tr>
             <td>10:00am</td>
             <td>Hands-on exercises<br>
-              <a href="{{'/documents/Sept2022/1-Site-Search-Sept2022.pdf' | absolute_url}}"><b>Site Search</b></a><br>
-              <a href="{{'/documents/Sept2022/2-Organism-Preferences-Sept2022.pdf' | absolute_url}}"><b>Organism Preferences</b></a><br>
-              <a href="{{'/documents/Sept2022/3-Gene-Page-Sept2022.pdf' | absolute_url}}"><b>Gene Pages</b></a>
+              <a  target="_blank" href="{{'/documents/Sept2022/1-Site-Search-Sept2022.pdf' | absolute_url}}"><b>Site Search</b></a><br>
+              <a target="_blank" href="{{'/documents/Sept2022/2-Organism-Preferences-Sept2022.pdf' | absolute_url}}"><b>Organism Preferences</b></a><br>
+              <a target="_blank" href="{{'/documents/Sept2022/3-Gene-Page-Sept2022.pdf' | absolute_url}}"><b>Gene Pages</b></a>
               </td>
             <td>Break out rooms</td>
             <td></td>
@@ -304,7 +304,7 @@ div.instructor-table {
           <tr>
             <td>11:45am</td>
             <td>Hands-on exercise</td>
-            <td><a href="{{'/documents/Sept2022/4-Search-Strategies-Sept2022' | absolute_url}}"><b>Search Strategies</b></td>
+            <td><a target="_blank" href="{{'/documents/Sept2022/4-Search-Strategies-Sept2022' | absolute_url}}"><b>Search Strategies</b></td>
             <td></td>
           </tr>          
           <tr>
