@@ -247,7 +247,7 @@ div.instructor-table {
 
   <div class="anchor"><a name="Schedule"></a></div>
   <details open>
-    <summary><b>Preliminary Schedule</b> (check back Sept 1 for more details)</summary>      
+    <summary><b>Schedule</b></summary>      
     <table class="hor-minimalist-a">
         <thead>
           <tr>
@@ -268,14 +268,46 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>9am - 9:30am</td>
-            <td>Welcome and introduction to VEuPathDB</td>
+            <td>9am - 9:10am</td>
+            <td>Welcome, workshop overview, instructor introductions</td>
+            <td>Mary Ann McDowell, Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9:10am</td>
+            <td>Introduction to VEuPathDB - lecture with live demos</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:00am</td>
+            <td>Hands-on exercises
+              <a href="{{'/images/workshops/Sept2022/1-Site-Search-Sept2022.pdf' | absolute_url}}"><b>Site Search</b></a><br>
+              </td>
+            <td>Break out rooms</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11 - 11:30am</td>
+            <td>Break</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9:30am - 1pm</td>
-            <td>Lectures and exercises with 30 min break</td>
+            <td>11:30am</td>
+            <td>Introduction to Search Strategies</td>
+            <td>Susanne Warrenfeltz</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:50am</td>
+            <td>Hands-on exercise</td>
+            <td>Search Strategies</td>
+            <td></td>
+          </tr>          
+          <tr>
+            <td>12:45pm</td>
+            <td>Discussion and wrap up</td>
             <td></td>
             <td></td>
           </tr>
