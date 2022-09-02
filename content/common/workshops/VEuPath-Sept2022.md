@@ -474,13 +474,13 @@ div.instructor-table {
           <tr>
             <td></td>
             <td>Optional Orthology homework<br>coming soon</td>
-            <td>Omar Harb</td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
             <td>12:45pm</td>
             <td>Wrap up</td>
-            <td>Omar Harb</td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
@@ -551,8 +551,9 @@ div.instructor-table {
           </tr>
           <tr>
             <td>11:30am</td>
-            <td>Hands-on exercise<br>Phenotypic Data coming soon</td>
-            <td>Omar Harb</td>
+            <td>Hands-on exercise<br>
+            <a target="_blank" href="{{'/documents/Sept2022/10_Phenotypic_data_Sept2022.pdf' | absolute_url}}"><b>Phenotypic Data</b></a></td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
