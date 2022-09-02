@@ -305,7 +305,7 @@ div.instructor-table {
             <td>11:45am</td>
             <td>Hands-on exercise<br>
             <a target="_blank" href="{{'/documents/Sept2022/4-Search-Strategies-Sept2022.pdf' | absolute_url}}"><b>Search Strategies</b></a></td>
-            <td>Break our rooms</td>
+            <td>Break out rooms</td>
             <td></td>
           </tr>          
           <tr>
@@ -350,9 +350,15 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>9am - 1pm</td>
-            <td>Lectures and exercises with 30 min break</td>
+            <td>9am</td>
+            <td>Introduction to the genome browser</td>
+            <td>Gloria I. Giraldo-Calderón</td>
             <td></td>
+          </tr>
+          <tr>
+            <td>9:15am</td>
+            <td>Genome browser basics</td>
+            <td>Break out rooms</td>
             <td></td>
           </tr>
         </tbody>
