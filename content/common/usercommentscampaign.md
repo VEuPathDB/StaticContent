@@ -111,8 +111,7 @@ div.centered-title {
 
 
   <div class="centered-title">     
-    <h4><a href="https://fungidb.org">FungiBD</a> User Comments Campaign in conjunction with 31st Fungal Genetics Conference in Asilomar, USA</h4>
-    <p><b>Now and through March 15, 2022</b></p>
+    <h4><a href="https://fungidb.org">FungiBD</a> Fusarium User Comment and Annotation drive - 18 September 2022</h4>
   </div>
 
   
@@ -123,8 +122,8 @@ div.centered-title {
   <div class="workshop">
 
     <p><h3>About the campaign</h3></p>
-    <p>Starting now and through the <a href="https://genetics-gsa.org/fungal-2022/">31st Fungal Genetics Conference</a>, add just one User Comment on a gene record page, and pick up your free "Got Fungus?" mug at the FungiDB help desk.</p>
-    <p>Not attending in person? Not a problem! Ask a colleague to pick up your mug.</p>
+    <p>On 18 Sept 2022 add a User Comment on a gene record page or update a gene annotation in Apollo, and enter for a chance to win a free "Got Fungus?" mug.</p>
+  
   
     <img style="width: 20em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/got_fungus_mug.png" | absolute_url }}" alt="T-shirts and mugs"/>
   
