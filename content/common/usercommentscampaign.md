@@ -122,7 +122,7 @@ div.centered-title {
   <div class="workshop">
 
     <p><h3>About the campaign</h3></p>
-    <p>On 18 Sept 2022 add a User Comment on a gene record page or update structural or functional annotation in <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo</a>, and enter for a chance to win a free "Got Fungus?" mug.</p>
+    <p><b>Rules:</b> On 18 Sept 2022 add a User Comment on a gene record page or update structural or functional annotation in <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo</a>. Top ten submitters will receive a "Got Fungus" mug.</p>
   
   
     <img style="width: 20em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/got_fungus_mug.png" | absolute_url }}" alt="T-shirts and mugs"/>
