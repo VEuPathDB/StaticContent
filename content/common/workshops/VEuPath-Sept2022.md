@@ -268,7 +268,7 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>9am - 9:10am</td>
+            <td>9am</td>
             <td>Welcome, workshop overview, instructor introductions</td>
             <td>Mary Ann McDowell, Omar Harb</td>
             <td></td>
@@ -290,7 +290,7 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>11 - 11:30am</td>
+            <td>11am</td>
             <td>Break</td>
             <td></td>
             <td></td>
