@@ -123,8 +123,9 @@ div.centered-title {
   <div class="workshop">
 
     <p><h3>About the campaign</h3></p>
-    <p>Starting now and through the <a href="https://genetics-gsa.org/fungal-2022/">31st Fungal Genetics Conference</a>, add just one User Comment on a gene record page, and pick up your free "Got Fungus?" mug at the FungiDB help desk.</p>
-    <p>Not attending in person? Not a problem! Ask a colleague to pick up your mug.</p>
+    <p><b>Rules:</b> On 18 Sept 2022 add a User Comment on a gene record page or update structural or functional annotation in Apollo. Top ten submitters will receive a "Got Fungus" mug.</p>
+    <p> Not familiar with Apollo or user comments system? No problem - See our <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> for more information about how to modify gene models.
+  
   
     <img style="width: 20em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/got_fungus_mug.png" | absolute_url }}" alt="T-shirts and mugs"/>
   
