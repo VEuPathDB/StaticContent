@@ -433,8 +433,53 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>9am - 1pm</td>
-            <td>Lectures and exercises with 30 min break</td>
+            <td>9am</td>
+            <td>Introduction to Galaxy in VEuPathDB</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9:30am</td>
+            <td>Transcriptomics and Proteomics data</td>
+            <td>Susanne Warrenfeltz</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:00am</td>
+            <td>Hands-on exercise<br>
+            <a target="_blank" href="{{'/documents/Sept2022/7-Transcriptomics-Sept2022.pdf' | absolute_url}}"><b>Transcriptomics</b></a>
+            <br>
+            <a target="_blank" href="{{'/documents/Sept2022/8-Proteomics_Sept2022.pdf' | absolute_url}}"><b>Proteomics</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11am</td>
+            <td>Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:30am</td>
+            <td>Single Cell RNA-Seq Lecture</td>
+            <td>Kathryn Crouch</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12pm</td>
+            <td>Introduction to Orthology</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00pm</td>
+            <td>Free option discussion and questions</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:30pm</td>
+            <td>Zoom Closes</td>
             <td></td>
             <td></td>
           </tr>
