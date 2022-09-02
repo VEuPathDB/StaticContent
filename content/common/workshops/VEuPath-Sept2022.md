@@ -305,7 +305,7 @@ div.instructor-table {
             <td>11:45am</td>
             <td>Hands-on exercise<br>
             <a target="_blank" href="{{'/documents/Sept2022/4-Search-Strategies-Sept2022.pdf' | absolute_url}}"><b>Search Strategies</b></a></td>
-            <td>Break our rooms</td>
+            <td>Break out rooms</td>
             <td></td>
           </tr>          
           <tr>
@@ -350,8 +350,62 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>9am - 1pm</td>
-            <td>Lectures and exercises with 30 min break</td>
+            <td>9am</td>
+            <td>Introduction to the genome browser</td>
+            <td>Gloria I. Giraldo-Calderón</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9:15am</td>
+            <td>Hands-on exercise<br> <a target="_blank" href="{{'/documents/Sept2022/5-JBrowse-Basics_Sept-2022.pdf' | absolute_url}}"><b>Genome browser basics</b></a></td>
+            <td>Break out rooms</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:15am</td>
+            <td>Exploring gene models in the genome browser</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:45am</td>
+            <td>Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:15am</td>
+            <td>Hands-on exercise<br> <a target="_blank" href="{{'/documents/Sept2022/6-Gene-Models-Adv-Jbrowse-Sept2022.pdf' | absolute_url}}"><b>Exploring gene models in the genome browser</b></a></td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:15pm</td>
+            <td>Gene models discussion</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:45pm</td>
+            <td>Correcting gene models in Apollo</td>
+            <td>Ulrike Böhme</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>Optional Apollo homework <br><a target="_blank" href="{{'/documents/Sept2022/6a-Apollo_optional_exercise.pdf' | absolute_url}}"><b>Apollo optional homework</b></a><br><a target="_blank" href="{{'/documents/Sept2022/6b-Apollo_optional_exercise_workshop_answer_key.pdf' | absolute_url}}"><b>Answer key</b></a> </td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00pm</td>
+            <td>Free option discussion and questions</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:30pm</td>
+            <td>Zoom Closes</td>
             <td></td>
             <td></td>
           </tr>
