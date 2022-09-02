@@ -478,6 +478,12 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
+            <td>12:45pm</td>
+            <td>Wrap up</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
             <td>1:00pm</td>
             <td>Free option discussion and questions</td>
             <td></td>
@@ -514,7 +520,61 @@ div.instructor-table {
           </tr>
           <tr>
             <td>9am</td>
-            <td>Lectures and exercises with 30 min break</td>
+            <td>Galaxy in VEuPathDB - understanding output files and what to do with them.</td>
+            <td>Kathryn Crouch, Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10am</td>
+            <td>Ontologies and Enrichment analysis</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:15am</td>
+            <td>Hands-on exercise<br>GO enrichment coming soon</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:45am</td>
+            <td>Phenotypic data</td>
+            <td>Susanne Warrenfeltz</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:00am</td>
+            <td>Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:30am</td>
+            <td>Hands-on exercise<br>Phenotypic Data coming soon</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:00am</td>
+            <td>MapVEu, mosquito surveillance data </td>
+            <td>Sam Rund</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:30am</td>
+            <td>Final wrap up</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00pm</td>
+            <td>Free option discussion and questions</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:30pm</td>
+            <td>Zoom Closes</td>
             <td></td>
             <td></td>
           </tr>
