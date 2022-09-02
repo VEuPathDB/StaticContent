@@ -472,6 +472,12 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
+            <td></td>
+            <td>Optional Orthology homework<br>coming soon</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
             <td>1:00pm</td>
             <td>Free option discussion and questions</td>
             <td></td>
@@ -507,7 +513,7 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>9am - 1pm</td>
+            <td>9am</td>
             <td>Lectures and exercises with 30 min break</td>
             <td></td>
             <td></td>
