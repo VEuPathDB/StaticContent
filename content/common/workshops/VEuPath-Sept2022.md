@@ -120,13 +120,12 @@ div.instructor-table {
 
 
   <div class="centered-title">
+    <p><h4><b><a href="#Schedule">SCHEDULE and HANDS-ON EXERCISES</a></b></h4></p>
     <p><h4>9am - 1pm (EDT) daily </h4></p>
     <p><h4>Virtual, hands-on workshop with short lectures and small goup instruction</h4></p>
     <p><h4>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</h4></p>
     <p><h4>Recorded lectures and exercises available online after the workshop</h4></p>
-    <p><h4><b>Register here: <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO" target="_blank">https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO</a></b></h4></p>
   </div>
-
   
 
 <div class="contents">
@@ -177,46 +176,62 @@ div.instructor-table {
   
   <div class="instructor-table">
     <table>
-      <tr>
-        <th>Instructor</th>
-        <th>Institution</th>
-      </tr>
-      <tr>
-        <td>Rachel Ankirskiy</td>
-        <td>University of Georgia</td>
-      </tr>
-      <tr>
-        <td>Evelina Basenko, PhD</td>
-        <td>University of Liverpool</td>
-      </tr>
-      <tr>
-        <td>Gloria I. Giraldo-Calderón, PhD</td>
-        <td>University of Notre Dame</td>
-      </tr>
-      <tr>
-        <td>Omar S. Harb, PhD</td>
-        <td>University of Pennsylvania</td>
-      </tr>
-      <tr>
-        <td>Sarah Kelly, PhD</td>
-        <td>Imperial College London</td>
-      </tr>
-      <tr>
-        <td>Jessica Kissinger, PhD</td>
-        <td>University of Georgia</td>
-      </tr>
-      <tr>
-        <td>David S. Roos, PhD   Joint-PI</td>
-        <td>University of Pennsylvania</td>
-      </tr>
-      <tr>
-        <td>Samuel Rund, PhD</td>
-        <td>University of Notre Dame</td>
-      </tr>
-      <tr>
-        <td>Susanne Warrenfeltz, PhD</td>
-        <td>University of Georgia</td>
-      </tr>
+      <thead>
+        <tr>
+          <th>Instructor</th>
+          <th>Institution</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Rachel Ankirskiy</td>
+          <td>University of Georgia</td>
+        </tr>
+        <tr>
+          <td>Evelina Basenko, PhD</td>
+          <td>University of Liverpool</td>
+        </tr>      
+        <tr>
+          <td>Ulrike Boehme, PhD</td>
+          <td>University of Liverpool</td>
+        </tr>
+        <tr>
+          <td>Gloria I. Giraldo-Calderón, PhD</td>
+          <td>University of Notre Dame</td>
+        </tr>
+        <tr>
+          <td>Kathryn Crouch, PhD</td>
+          <td>University of Glasgow</td>
+        </tr>
+        <tr>
+          <td>Omar S. Harb, PhD</td>
+          <td>University of Pennsylvania</td>
+        </tr>  
+        <tr>
+          <td>Sarah Kelly, PhD</td>
+          <td>Imperial College London</td>
+        </tr>
+        <tr>
+          <td>Jessica Kissinger, PhD</td>
+          <td>University of Georgia</td>
+        </tr>    
+        <tr>
+          <td>Mary Ann McDowell, PhD</td>
+          <td>University of Notre Dame</td>
+        </tr>
+        <tr>
+          <td>Samuel Rund, PhD</td>
+          <td>University of Notre Dame</td>
+        </tr>
+        <tr>
+          <td>Dave Starns, PhD</td>
+          <td>University of Liverpool</td>
+        </tr>
+        <tr>
+          <td>Susanne Warrenfeltz, PhD</td>
+          <td>University of Georgia</td>
+        </tr>
+      </tbody>
     </table>
     </div>
   <br><br>
@@ -229,8 +244,10 @@ div.instructor-table {
   We invite you to read our most recent publication about VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/" target="_blank">Amos et al 2022</a>).  Please also explore our  <a href="https://www.youtube.com/user/EuPathDB" target="_blank">You Tube Channel</a> and previously recorded <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">webinars and workshops</a>. Our goal is to maintain a fruitful and ongoing conversation between our team and yours to learn more efficient, effective ways to help you reach your goals. Regardless, if you attend the workshop or not, please feel free to email us with questions, new feature suggestions, or new data at <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>.  
   <br><br>
 
+
+  <div class="anchor"><a name="Schedule"></a></div>
   <details open>
-    <summary><b>Preliminary Schedule</b> (check back Sept 1 for more details)</summary>      
+    <summary><b>Schedule</b></summary>      
     <table class="hor-minimalist-a">
         <thead>
           <tr>
@@ -246,19 +263,66 @@ div.instructor-table {
         <tbody>         
           <tr>
             <td>8:30am</td>
-            <td>Zoom opens for 'meet and greet' and conncetion testing</td>
+            <td>Zoom opens for 'meet and greet' and connection testing</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9am - 9:30am</td>
-            <td>Welcome and introduction to VEuPathDB</td>
+            <td>9am - 9:10am</td>
+            <td>Welcome, workshop overview, instructor introductions</td>
+            <td>Mary Ann McDowell, Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9:10am</td>
+            <td>Introduction to VEuPathDB - lecture with live demos</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:00am</td>
+            <td>Hands-on exercises<br>
+              <a  target="_blank" href="{{'/documents/Sept2022/1-Site-Search-Sept2022.pdf' | absolute_url}}"><b>Site Search</b></a><br>
+              <a target="_blank" href="{{'/documents/Sept2022/2-Organism-Preferences-Sept2022.pdf' | absolute_url}}"><b>Organism Preferences</b></a><br>
+              <a target="_blank" href="{{'/documents/Sept2022/3-Gene-Page-Sept2022.pdf' | absolute_url}}"><b>Gene Pages</b></a>
+              </td>
+            <td>Break out rooms</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11 - 11:30am</td>
+            <td>Break</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9:30am - 1pm</td>
-            <td>Lectures and exercises with 30 min break</td>
+            <td>11:30am</td>
+            <td>Introduction to Search Strategies</td>
+            <td>Susanne Warrenfeltz</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:45am</td>
+            <td>Hands-on exercise<br>
+            <a target="_blank" href="{{'/documents/Sept2022/4-Search-Strategies-Sept2022.pdf' | absolute_url}}"><b>Search Strategies</b></a></td>
+            <td>Break our rooms</td>
+            <td></td>
+          </tr>          
+          <tr>
+            <td>12:45pm</td>
+            <td>Discussion and wrap up</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1pm</td>
+            <td>Free option for discussion and questions</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:30pm</td>
+            <td>Zoom closes</td>
             <td></td>
             <td></td>
           </tr>

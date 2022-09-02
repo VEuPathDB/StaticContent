@@ -80,8 +80,159 @@ table#hor-minimalist-a tfoot tr {
 
 <div class="static-content">
 
+<h2>Upcoming Workshops</h2>
 
-<h3>Previous Workshops</h3>
+<div class="anchor"><a name="astmh2022"></a></div>
+<div class="workshop">
+    <h3>Introduction to Data Sharing and Data Exploration on the ClinEpiDB Platform</h3>
+    <p>We are excited to host our first in-person workshop in >2.5 years at the 2022 ASTMH Annual Meeting! This workshop will benefit global health researchers seeking to share data or to understand more about data sharing options, researchers seeking high quality data for secondary analysis, modeling, meta-analyses, etc., students seeking high quality data for training purposes (e.g. thesis or class projects), and trainees wanting to learn more about exploratory data analysis and data visualization.
+    </p>
+    <p>
+      <b>Date:</b> Sunday, October 30th, 2022 <br>
+      <b>Time:</b> 8 AM - 1 PM US PT <br>
+      <b>Location:</b> Sheraton Grand Hotel, Seattle, USA<br>
+      <b>Registration:</b> <a target="_blank" href="https://www.astmh.org/awards-fellowships-medals/awards-and-honors/nomination-submissions">https://www.astmh.org/awards-fellowships-medals/awards-and-honors/nomination-submissions</a>
+    </p>
+    <p>
+      <b>Topics:</b> Attendees will learn about the benefits and challenges of FAIR data access, understand how ontological mapping supports meta-analysis, and get hands-on training on ClinEpiDB's tools to efficiently identify, explore, visualize, and download data of interest.
+    </p>
+    <p>Note: Attendance for this workshop will be capped at 60. All attendees must 1) be <a target="_blank" href="https://www.astmh.org/annual-meeting/registration">registered for the Annual Meeting</a>, 2) have U.S. citizenship, permanent residency, or a valid visa to attend this workshop in person, and 3) have a laptop with a web browser (Chrome, Firefox, etc). 
+    </p>
+    <p>The workshop is free for all participants. However, a $25 holding fee will be required from successful applicants and refunded upon completion of the workshop. Any awardee who registers and does not attend the workshop will forfeit the $25 registration fee. To offset the cost of traveling to attend the workshop, applicants are able to apply for a limited number of scholarships (200 USD each). Applications will be evaluated on a case-by-case basis. Preference will be given to individuals in one or more of the following categories:
+      <ul>
+        <li>Individuals from LMICs</li>
+        <li>Students/trainees</li>
+        <li>Individuals with financial pressure which would preclude them from otherwise attending</li>
+      </ul>
+    </p>
+    <p>Successful applicants will be notified in early October, and a waiting list may be made available.
+    </p>
+
+  <details>
+  <summary><b>Schedule</b></summary>
+  <table id="hor-minimalist-a">
+  
+<thead>
+<tr>
+<th style="text-align:left">Time</th>
+<th style="text-align:left">Activity</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td> 7:30 AM PT
+<br> <i>30 min</i>
+</td>
+<td><b>Breakfast</b> (provided)</td>
+</tr>
+
+<tr>
+<td> 8:00 AM PT
+<br> <i>20 min</i>
+</td>
+<td><b>Welcome and Introduction</b>
+<ul>
+  <li>Instructor introductions</li>
+  <li>ClinEpiDB and FAIR data introduction</li>
+  <li>Workshop objectives and agenda</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td> 8:20 AM PT
+<br> <i>20 min</i>
+</td>
+<td><b>Brainstorming Exercise</b> - Opportunities & challenges of sharing and reuse of epidemiological datasets (FAIR data)
+</td>
+</tr>
+
+<tr>
+<td> 8:40 AM PT
+<br> <i>60 min</i>
+</td>
+<td><b>Navigating ClinEpiDB</b> - searching for variables and datasets; overview of analysis workspace and features; use of ontologies in harmonizing data
+<ul>
+  <li>Lecture (20 min)</li>
+  <li>Hands-on exercise - Enteric disease (30 min)</li>
+  <li>Discussion (10 min)</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td> 9:40 AM PT
+<br> <i>20 min</i>
+</td>
+<td><b>Uploading Data</b> - uploading simple datasets to ClinEpiDB
+<ul>
+  <li>Lecture (10 min)</li>
+  <li>Hands-on exercise - Upload toy dataset (10 min)</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td> 10:00 AM PT
+<br> <i>20 min</i>
+</td>
+<td><b>Break</b> (tea and coffee provided)
+</td>
+</tr>
+
+<tr>
+<td> 10:20 AM PT
+<br> <i>80 min</i>
+</td>
+<td><b>Exploratory Data Analysis</b> - formulating a hypothesis; exploring, subsetting, and plotting data; adding notes; sharing an analysis
+<ul>
+  <li>Lecture (20 min)</li>
+  <li>Hands-on exercise - Malaria (30 min)</li>
+  <li>Lecture (5 min)</li>
+  <li>Hands-on exercise - Schistosomiasis or self-guided (15 min)</li>
+  <li>Discussion (10 min)</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td> 11:40 AM PT
+<br> <i>20 min</i>
+</td>
+<td><b>Downloading Data</b> - submitting data access requests; downloading complete datasets or generating a subset of data to download
+<ul>
+  <li>Lecture (10 min)</li>
+  <li>Hands-on exercise (10 min)</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td> 12:00 PM PT
+<br> <i>20 min</i>
+</td>
+<td><b>Uploading Data</b> (part 2) - using ClinEpiDB tools to examine your data
+<ul>
+  <li>Hands-on exercise (20 min)</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td> 12:20 PM PT
+<br> <i>40 min</i>
+</td>
+<td><b>Wrap-up</b> - Share takeaways from the workshop; Q&A
+</td>
+</tr>
+
+</tbody>
+</table>
+</details>
+</div> 
+
+<h2>Previous Workshops</h2>
 
 <div class="anchor"><a name="astmh2021"></a></div>
 <div class="workshop">

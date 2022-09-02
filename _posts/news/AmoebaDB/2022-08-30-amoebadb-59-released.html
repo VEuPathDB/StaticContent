@@ -9,14 +9,9 @@ category: [AmoebaDB,VEuPathDB]
 <h3>We are pleased to announce the release of {{project}} 59.</h3>
 
 <section>
-  <h3>Annual VEuPathDB Workshop (Virtual)</h3>
-    The 15th Annual VEuPathDB workshop will be a virtual event taking place daily on <b>September 6 - 9th, 2022</b> from <b>9am - 1pm Eastern</b>. Join us for these 4 half-day sesssions to learn how to effectively use VEuPathDB tools and features that support your hypothesis driven research. Short lectures will precede hands-on exercises via informal Zoom sessions where discussion and conversation are encouraged. <a href="/a/app/static-content/workshopSept2022.html">Details here</a> or <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO" target="_blank">Register here</a>.
-</section>
-
-<section>
   <h3>Release 59 Webinar</h3>
   <div style="margin-left: 3em;">
-    Join us on Thursday September 1st, 2022 at 10am EDT for our Release 59 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 59.  
+    Join us on Thursday September 15th, 2022 at 10am EDT for our Release 59 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 59.  
     <a href="https://attendee.gotowebinar.com/register/3393660656180049424" target="_blank">Register here</a>  
   </div>
   <br>
@@ -95,19 +90,21 @@ category: [AmoebaDB,VEuPathDB]
 <section>
   <h3>New features in {{project}} 59</h3>
   <div style="margin-left: 3em;">
-  <h4>'Send To' actions for the results of a gene search</h4>
+  
+  <h4>{{project}} site search accesses Apollo data</h4>
     <ul>
-      <li>Send to My Data Sets:  Save your search result as an ID list in My Data Sets. Open the 'Send To' dropdown menu and choose 'My Data Sets' to create your private data set with the IDs from the search result.  Your new data set record will appear on your My Data Sets page as a downloadable text file. You must be a registered {{project}} user and logged in to use this feature. <a target="_blank" href="{{'/assets/images/MyDataSets/SaveListMyDataSets.gif' | absolute_url}}">View tutorial GIF.</a></li><br>
-      
-      <li>Send to VEuPathDB: Transfer a gene list from {{project}} to VEuPathDB and analyze in context with all VEuPathDB organisms.  From the {{project}} gene result, open the 'Send To' dropdown menu and choose 'VEuPathDB.org Strategy'.  The VEuPathDB My Strategies page will open in a new window displaying a one-step strategy that returns the gene list just transferred from {{project}}. Once transferred, use the 'Add a step' tool to extend the strategy and take advantage of orthology across all VEuPathDB organisms. <a target="_blank" href="{{'/assets/images/MyDataSets/SendToVeupathdb.gif' | absolute_url}}">View tutorial GIF.</a>  </li>
+      <li>Gene annotation updates entered in <a target="_blank" href="/a/app/static-content/apollo_help.html">{{project}} Apollo</a> are now indexed and available to the site search.  Genes with Apollo annotations that contain your search term will be available in site search results under >Genes >Filter gene fields.</li>
     </ul>
-  <h4>Upload a gene list to My Data Sets</h4>
+  <h4>Gene page navigation improvements</h4>
     <ul>
-      <li>In preparation to provide gene set functionality such as gene set enrichment analysis we are introducing this new feature. The 'New upload' tab of <a href="/a/app/workspace/datasets">My Data Sets</a> allows for the upload of a gene list into {{project}} directly from a file or URL. Your new list will appear in the All tab and will remain available between sessions. If the results of your last experiment or the last article you read included a gene list, you can upload it here for further analysis. <a target="_blank" href="{{'/assets/images/MyDataSets/UploadListMyDataSets.gif' | absolute_url}}">View tutorial GIF.</a></li>
+      <li>The RNA-Seq Transcription Summary graph now links directly to the Transcript Expression table. Click a data set title in the RNA-Seq Transcription Summary graph to navigate directly to the details for the same data set in the Transcript Expression table.</li>
+      <li>The gene page content navigation tool now contains links to every table or attribute on the gene page. Open each numbered data section to reveal links to all data within the section.  Or use the 'expand all' link at the top of the content tool to view all links.</li>
     </ul>
-  <h4>Sequence Retrieval Tool improvements</h4>
+  <h4>AlphaFold data available</h4>
     <ul>
-      <li>The <a href="/a/app/fasta-tool/genesequence">Sequence Retrieval Tool</a> now remembers your parameter settings during your session. You can leave and return to the tool without having to set every parameter again. </li>
+      <li>Protein structure predictions from <a href="https://alphafold.ebi.ac.uk/" target="_blank">AlphaFold</a> are now available in {{project}}.  The AlphaFold database (<a href="https://alphafold.ebi.ac.uk/faq" target="_blank">Version 3</a>) was downloaded and structures were associated to {{project}} genes via the UniProt ID. <a href="https://pubmed.ncbi.nlm.nih.gov/34265844/" target="_blank">Jumper et al. 2021</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/34791371/" target="_blank">Varadi et al. 2022</a></li>
+      <li>The <a href="/a/app/search/transcript/GenesWithAlphafold">AlphaFold search</a> returns all genes with AlphaFold predictions in {{project}}.</li>
+      <li>Gene pages include a table of AlphaFold data and the AlphaFold 3D viewer for dynamic visualization of the predicted structure. </li>
     </ul>
   </div>
 </section>
