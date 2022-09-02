@@ -126,8 +126,8 @@ div.centered-title {
    
     <img style="width: 20em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/got_fungus_mug.png" | absolute_url }}" alt="T-shirts and mugs"/>
     <br>
-    <p> Not familiar with Apollo or user comments system? No problem - See our <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> for more information about how to modify gene models.
-    
+    <p> Not familiar with Apollo or the user comments system? No problem - See our <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> for more information about how to modify gene models or read more about how to create user comment below.
+
     <p><b>Did you know that user comments:</b></p>
     <ul>
       <li> Help improve genome annotations: provide evidence for alternative gene models, knockout phenotypes, sub-cellular localisation, PubMed IDs, etc.</li> 
