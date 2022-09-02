@@ -474,7 +474,7 @@ div.instructor-table {
           <tr>
             <td></td>
             <td>Optional Orthology homework<br>coming soon</td>
-            <td>Omar Harb</td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
