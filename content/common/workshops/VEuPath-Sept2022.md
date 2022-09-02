@@ -268,7 +268,7 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>9am - 9:10am</td>
+            <td>9am</td>
             <td>Welcome, workshop overview, instructor introductions</td>
             <td>Mary Ann McDowell, Omar Harb</td>
             <td></td>
@@ -290,7 +290,7 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>11 - 11:30am</td>
+            <td>11am</td>
             <td>Break</td>
             <td></td>
             <td></td>
@@ -433,8 +433,65 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>9am - 1pm</td>
-            <td>Lectures and exercises with 30 min break</td>
+            <td>9am</td>
+            <td>Introduction to Galaxy in VEuPathDB</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9:30am</td>
+            <td>Transcriptomics and Proteomics data</td>
+            <td>Susanne Warrenfeltz</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:00am</td>
+            <td>Hands-on exercise<br>
+            <a target="_blank" href="{{'/documents/Sept2022/7-Transcriptomics-Sept2022.pdf' | absolute_url}}"><b>Transcriptomics</b></a>
+            <br>
+            <a target="_blank" href="{{'/documents/Sept2022/8-Proteomics_Sept2022.pdf' | absolute_url}}"><b>Proteomics</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11am</td>
+            <td>Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:30am</td>
+            <td>Single Cell RNA-Seq Lecture</td>
+            <td>Kathryn Crouch</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12pm</td>
+            <td>Introduction to Orthology</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>Optional Orthology homework<br>coming soon</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:45pm</td>
+            <td>Wrap up</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00pm</td>
+            <td>Free option discussion and questions</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:30pm</td>
+            <td>Zoom Closes</td>
             <td></td>
             <td></td>
           </tr>
@@ -462,8 +519,63 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>9am - 1pm</td>
-            <td>Lectures and exercises with 30 min break</td>
+            <td>9am</td>
+            <td>Galaxy in VEuPathDB - understanding output files and what to do with them.</td>
+            <td>Kathryn Crouch, Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10am</td>
+            <td>Ontologies and Enrichment analysis</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:15am</td>
+            <td>Hands-on exercise<br>
+            <a target="_blank" href="{{'/documents/Sept2022/9-GO-Enrichment-Sept2022.pdf' | absolute_url}}"><b>GO enrichment</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:45am</td>
+            <td>Phenotypic data</td>
+            <td>Susanne Warrenfeltz</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:00am</td>
+            <td>Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:30am</td>
+            <td>Hands-on exercise<br>Phenotypic Data coming soon</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:00am</td>
+            <td>MapVEu, mosquito surveillance data </td>
+            <td>Sam Rund</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:30am</td>
+            <td>Final wrap up</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00pm</td>
+            <td>Free option discussion and questions</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:30pm</td>
+            <td>Zoom Closes</td>
             <td></td>
             <td></td>
           </tr>
