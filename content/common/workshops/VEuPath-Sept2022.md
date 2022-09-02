@@ -532,8 +532,9 @@ div.instructor-table {
           </tr>
           <tr>
             <td>10:15am</td>
-            <td>Hands-on exercise<br>GO enrichment coming soon</td>
-            <td>Omar Harb</td>
+            <td>Hands-on exercise<br>
+            <a target="_blank" href="{{'/documents/Sept2022/9-GO-Enrichment-Sept2022.pdf' | absolute_url}}"><b>GO enrichment</b></a></td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
