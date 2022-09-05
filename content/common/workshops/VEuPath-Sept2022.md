@@ -473,7 +473,8 @@ div.instructor-table {
           </tr>
           <tr>
             <td></td>
-            <td>Optional Orthology homework<br>coming soon</td>
+            <td>Optional Orthology homework<br>
+            <a target="_blank" href="{{'/documents/Sept2022/8a-Orthology-Phyletic-Patterns-Sept2022.pdf' | absolute_url}}"><b>Orthology homeowrk optional</b></a></td>
             <td></td>
             <td></td>
           </tr>
