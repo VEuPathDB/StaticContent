@@ -24,6 +24,13 @@ Jekyll::Hooks.register :site, :post_render do |site|
   IO.popen(cmd, "r+") do |pipe|
 
     # Process Pages
+    #
+    # Iterates through all the non-json site pages and passes specific data
+    # about each of those pages through to a utility script that will generate
+    # a JSON file describing the contents of those pages for SOLR.
+    #
+    # Each page consists of header data, the page contents (output), and the
+    # path to the page.
     site.pages.each do |page|
       if page.ext != '.json'
         tmp = JSON.generate({:header => page.data, :output => page.output, :path => page.path})
@@ -32,6 +39,14 @@ Jekyll::Hooks.register :site, :post_render do |site|
     end
 
     # Process Collections
+    #
+    # Iterates through the documents in each of the defined collections and
+    # passes specific data about each of those documents through to a utility
+    # script that will generate a JSON file describing the contents of those
+    # collection documents for SOLR.
+    #
+    # Each collection document consts of header data and the document contents
+    # (output).
     site.collections.each do |name, coll|
       coll.docs.each do |doc|
         tmp = JSON.generate({:header => doc.data, :output => doc.output})
