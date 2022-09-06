@@ -257,7 +257,7 @@ div.instructor-table {
             <th class="break"><b>Tuesday, 6th Sept 2022</b></th>
           </tr>
           <tr>
-            <th class="time">Time</th>
+            <th class="time">Time (Eastern)</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
             <th>Recording</th>
@@ -340,7 +340,7 @@ div.instructor-table {
             <th class="break"><b>Wednesday, 7th Sept 2022</b></th>
           </tr>
           <tr>
-            <th class="time">Time</th>
+            <th class="time">Time (Eastern)</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
             <th>Recording</th>
@@ -423,7 +423,7 @@ div.instructor-table {
             <th class="break"><b>Thursday, 8th Sept 2022</b></th>
           </tr>
           <tr>
-            <th class="time">Time</th>
+            <th class="time">Time (Eastern)</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
             <th>Recording</th>
@@ -510,7 +510,7 @@ div.instructor-table {
             <th class="break"><b>Friday, 9th Sept 2022</b></th>
           </tr>
           <tr>
-            <th class="time">Time</th>
+            <th class="time">Time (Eastern)</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
             <th>Recording</th>
