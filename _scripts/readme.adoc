@@ -1,0 +1,15 @@
+= Static Content Scripts
+
+== `post-process-*` Binaries
+
+These binaries are executed and piped generated Jekyll input in order to
+generate a SOLR friendly JSON digest of the content of this repository.
+
+The source for them is located at https://github.com/VEuPathDB/jekyll-site-search.
+
+=== Updating the Binaries
+
+The binaries in this repo are updated by manually rebuilding the
+link:https://github.com/VEuPathDB/jekyll-site-search[jekyll-site-search] project
+and copy/pasting the output binaries into this directory, then commiting them
+to git.
