@@ -260,7 +260,7 @@ div.instructor-table {
             <th class="time">Time (Eastern)</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
-            <th>Recording</th>
+            <th class="recording">Recording</th>
           </tr>
         </thead>
         <tbody>         
@@ -280,7 +280,7 @@ div.instructor-table {
             <td>9:10am</td>
             <td>Introduction to VEuPathDB - lecture with live demos</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/hGMFNMsB8uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>10:00am</td>
