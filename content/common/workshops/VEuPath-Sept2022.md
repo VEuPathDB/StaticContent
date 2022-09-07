@@ -397,7 +397,11 @@ div.instructor-table {
           </tr>
           <tr>
             <td></td>
-            <td>Optional Apollo homework <br><a target="_blank" href="{{'/documents/Sept2022/6a-Apollo_optional_exercise.pdf' | absolute_url}}"><b>Apollo optional homework</b></a><br><a target="_blank" href="{{'/documents/Sept2022/6b-Apollo_optional_exercise_workshop_answer_key-Dave.pdf' | absolute_url}}"><b>Answer key</b></a> </td>
+            <td>Optional Apollo homework <br>
+            <a target="_blank" href="{{'/documents/Sept2022/6a-Apollo_optional_exercise.pdf' | absolute_url}}"><b>Apollo optional homework</b></a><br>
+            <a target="_blank" href="{{'/documents/Sept2022/6b-Apollo_optional_exercise_workshop_answer_key-Dave.pdf' | absolute_url}}"><b>Answer key</b></a><br>
+            <a target="_blank" href="https://www.dropbox.com/scl/fo/e5kug9m8l86yihk3204vi/h?dl=0&rlkey=ccdsh5c41bd76yoyxtmclnb5a"><b>Video Answers in dropbox</b></a>
+             </td>
             <td></td>
             <td></td>
           </tr>
