@@ -441,26 +441,26 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>9am</td>
-            <td>Introduction to Galaxy in VEuPathDB</td>
-            <td>Omar Harb</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>9:30am</td>
+            <td>9:00am</td>
             <td>Transcriptomics and Proteomics data</td>
             <td>Susanne Warrenfeltz</td>
             <td></td>
           </tr>
           <tr>
-            <td>10:00am</td>
+            <td>9:30am</td>
             <td>Hands-on exercise<br>
             <a target="_blank" href="{{'/documents/Sept2022/7-Transcriptomics-Sept2022.pdf' | absolute_url}}"><b>Transcriptomics</b></a>
             <br>
             <a target="_blank" href="{{'/documents/Sept2022/8-Proteomics_Sept2022.pdf' | absolute_url}}"><b>Proteomics</b></a></td>
-            <td></td>
+            <td>Break out rooms</td>
             <td></td>
           </tr>
+          <tr>
+            <td>10:30am</td>
+            <td>Introduction to Galaxy in VEuPathDB</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>          
           <tr>
             <td>11am</td>
             <td>Break</td>
@@ -482,7 +482,7 @@ div.instructor-table {
           <tr>
             <td></td>
             <td>Optional Orthology homework<br>
-            <a target="_blank" href="{{'/documents/Sept2022/8a-Orthology-Phyletic-Patterns-Sept2022.pdf' | absolute_url}}"><b>Orthology homeowrk optional</b></a></td>
+            <a target="_blank" href="{{'/documents/Sept2022/8a-Orthology-Phyletic-Patterns-Sept2022.pdf' | absolute_url}}"><b>Orthology homework optional</b></a></td>
             <td></td>
             <td></td>
           </tr>
