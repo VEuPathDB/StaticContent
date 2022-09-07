@@ -302,7 +302,7 @@ div.instructor-table {
             <td>11:30am</td>
             <td>Introduction to Search Strategies</td>
             <td>Susanne Warrenfeltz</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/WLyVEKi7rUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>11:45am</td>
@@ -343,7 +343,7 @@ div.instructor-table {
             <th class="time">Time (Eastern)</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
-            <th>Recording</th>
+            <th class="recording">Recording</th>
           </tr>
         </thead>
         <tbody>         
@@ -357,7 +357,7 @@ div.instructor-table {
             <td>9am</td>
             <td>Introduction to the genome browser</td>
             <td>Gloria I. Giraldo-Calderón</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/9Mdw6GdP5II" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>9:15am</td>
@@ -369,7 +369,7 @@ div.instructor-table {
             <td>10:15am</td>
             <td>Exploring gene models in the genome browser</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/7ZIxJcuINtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>10:45am</td>
@@ -387,13 +387,13 @@ div.instructor-table {
             <td>12:15pm</td>
             <td>Gene models discussion</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/zepiEH4Gff0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Gene models discussion from 40 sec to 24 minutes.</td>
           </tr>
           <tr>
             <td>12:45pm</td>
             <td>Correcting gene models in Apollo</td>
             <td>Ulrike Böhme</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/zepiEH4Gff0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Apollo introduction starting at about 24 minutes.</td>
           </tr>
           <tr>
             <td></td>
