@@ -566,13 +566,13 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>12:00am</td>
+            <td>12:00pm</td>
             <td>MapVEu, mosquito surveillance data </td>
             <td>Sam Rund</td>
             <td></td>
           </tr>
           <tr>
-            <td>12:30am</td>
+            <td>12:30pm</td>
             <td>Final wrap up</td>
             <td></td>
             <td></td>
