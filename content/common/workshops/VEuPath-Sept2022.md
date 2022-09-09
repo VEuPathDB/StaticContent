@@ -534,6 +534,15 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
+            <td></td>
+            <td>Optional Galaxy exercise<br>
+            <a target="_blank" href="{{'/documents/Sept2022/Galaxy RNAseq groups_AGS.pdf' | absolute_url}}"><b>Suggested data</b></a><br>
+            <a target="_blank" href="{{'/documents/Sept2022/VEuPathDB_RNAseq_Mapping_Galaxy_AGS2022.pdf' | absolute_url}}"><b>Instructions</b></a>
+            </td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
             <td>10am</td>
             <td>Ontologies and Enrichment analysis</td>
             <td>Omar Harb</td>
