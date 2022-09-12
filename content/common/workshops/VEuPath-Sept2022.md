@@ -444,7 +444,7 @@ div.instructor-table {
             <td>9:00am</td>
             <td>Transcriptomics and Proteomics data</td>
             <td>Susanne Warrenfeltz</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/XxI8PBP9vnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>9:30am</td>
@@ -459,7 +459,7 @@ div.instructor-table {
             <td>10:30am</td>
             <td>Introduction to Galaxy in VEuPathDB</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/-tF82nF4964" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>          
           <tr>
             <td>11am</td>
@@ -471,13 +471,13 @@ div.instructor-table {
             <td>11:30am</td>
             <td>Single Cell RNA-Seq Lecture</td>
             <td>Kathryn Crouch</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Bemh1fUeOTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br> Single cell RNA-Seq lecture ends at approximately 49 minutes</td>
           </tr>
           <tr>
             <td>12pm</td>
             <td>Introduction to Orthology</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Bemh1fUeOTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br> Instroduction to orthology <b>begins</b> at approximately 49 minutes</td>
           </tr>
           <tr>
             <td></td>
@@ -531,7 +531,7 @@ div.instructor-table {
             <td>9am</td>
             <td>Galaxy in VEuPathDB - understanding output files and what to do with them.</td>
             <td>Kathryn Crouch, Omar Harb</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/EhoPjnUN9t0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Galaxy output files are described until approximately 1 hr 35 min on this video.</td> 
           </tr>
           <tr>
             <td></td>
@@ -546,7 +546,7 @@ div.instructor-table {
             <td>10am</td>
             <td>Ontologies and Enrichment analysis</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/EhoPjnUN9t0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Orthology lecture begins at approximately 1 hr 35 min.</td>
           </tr>
           <tr>
             <td>10:15am</td>
@@ -558,8 +558,8 @@ div.instructor-table {
           <tr>
             <td>10:45am</td>
             <td>Phenotypic data</td>
-            <td>Susanne Warrenfeltz</td>
-            <td></td>
+            <td>Omar Harb</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/nN0vKjaA0Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>11:00am</td>
@@ -578,7 +578,7 @@ div.instructor-table {
             <td>12:00am</td>
             <td>MapVEu, mosquito surveillance data </td>
             <td>Sam Rund</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/rvJZSNOwLYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>12:30am</td>
