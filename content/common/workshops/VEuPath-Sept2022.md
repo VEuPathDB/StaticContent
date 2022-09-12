@@ -477,7 +477,7 @@ div.instructor-table {
             <td>12pm</td>
             <td>Introduction to Orthology</td>
             <td>Omar Harb</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Bemh1fUeOTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br> Instroduction to orthology <b>begins</b> at approximately 49 minutes</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Bemh1fUeOTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br> Introduction to orthology <b>begins</b> at approximately 49 minutes</td>
           </tr>
           <tr>
             <td></td>
