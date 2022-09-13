@@ -328,6 +328,17 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo9.png"  />
   uid: apollo9
   projects: ""
+- type: apollo
+  question: "How can I download Apollo community annotation?"
+  answer: |
+           1. To extract the sequence from one gene, select the gene model in the User-created Annotations area in Apollo. With a right-click open the menu and select "Get Sequence".
+           2. To extract Apollo annotations of a chromosome or scaffold select the tag "Ref Sequence". Choose the chromosome/scaffold and the format from the Export menu. 
+           3. It is possible to download different formats. 
+           4. Please note: The download option extracts all Apollo annotations, this includes annotations that don't have the status "finished". 
+           
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo11.png"  />
+  uid: apollo11
+  projects: ""
 - type: download
   question: "How do I download a pre-configured table (e.g. Link outs or alternate IDs) of multiple genes?"
   answer: |
