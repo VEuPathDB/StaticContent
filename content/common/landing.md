@@ -51,7 +51,7 @@ title: VEuPathDB landing
   </div>
   <div>
     <h3>Workshops</h3>
-    <p>In-person training to improve your skills.</p>
+    <p>Training to improve your skills.</p>
     <button><a href="/a/app/static-content/workshops.html">Explore</a></button>
   </div>
   <div>
