@@ -118,7 +118,7 @@ th.recording {
     <p>Tuesday Sept 6th - Friday Sept 9th</p>
     <p>9am - 1pm EDT, <a href="https://dateful.com/time-zone-converter" target="_blank">time-zone-converter</a></p>
     <p>More Information: <a href="/a/app/static-content/workshopSept2022.html">Workshop information and schedule</a>
-  </div>
+
   
   <div class="contents">     
     <h4><a href="/a/app/static-content/ags2022.html">Arthropod Genomics Symposium 2022: pre-meeting VectorBase hands-on Workshop</a></h4>
