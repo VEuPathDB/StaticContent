@@ -123,9 +123,8 @@ div.instructor-table {
     <p><b><a href="#Schedule">SCHEDULE and HANDS-ON EXERCISES</a></b></p>
     <b>9:30 AM - 11 AM (EDT) daily</b> - <a href="https://dateful.com/time-zone-converter" target="_blank">Time zone converter</a>
     <ul>
-    <li>Virtual, hands-on workshop with short lectures and small group instruction</li>
-    <li>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</li>
-    <li>Recorded lectures and exercises available online after the workshop</li>
+    <li>Virtual, hands-on workshop with short lectures and hands-on exercises</li>
+    <li>Recorded lectures and demonstrionas available online here after the workshop</li>
     </ul>
   </div>
   
@@ -136,7 +135,7 @@ div.instructor-table {
   <div class="workshop">
   
   <p><h2>About the workshop</h2></p>
-  <p>FungiDB (<a href="https://dateful.com/time-zone-converter" target="_blank">https://FungiDB.org) is a free online resource for over 200 annotated genomes encompassing fungal and oomycete species. FungiDB is a component of the Eukaryotic Pathogen, Vector & Host Informatics Resources (VEuPathDB.org) that integrate genomic, transcriptomic, proteomic, epigenetic, population diversity, and other types of data for eukaryotic microbes (pathogenic & non-pathogenic, free-living & parasitic), and hosts and vectors of human disease. A user-friendly web interface with embedded bioinformatics tools supports in silico experiments leveraging public data and private datasets uploaded from the VEuPathDB Galaxy. With FungiDB, you can also browse genomes, mine Omics-scale datasets, annotation, and the results of automated analyses (protein domains, orthology predictions, etc.), improve gene models in Apollo and capture expert knowledge via the User Comments system.
+  <p>FungiDB (<a href="https://FungiDB.org" target="_blank">https://FungiDB.org)</a> is a free online resource for over 200 annotated genomes encompassing fungal and oomycete species. FungiDB is a component of the Eukaryotic Pathogen, Vector & Host Informatics Resources (VEuPathDB.org) that integrate genomic, transcriptomic, proteomic, epigenetic, population diversity, and other types of data for eukaryotic microbes (pathogenic & non-pathogenic, free-living & parasitic), and hosts and vectors of human disease. A user-friendly web interface with embedded bioinformatics tools supports in silico experiments leveraging public data and private datasets uploaded from the VEuPathDB Galaxy. With FungiDB, you can also browse genomes, mine Omics-scale datasets, annotation, and the results of automated analyses (protein domains, orthology predictions, etc.), improve gene models in Apollo and capture expert knowledge via the User Comments system.
 <br><br>
 This FungiDB workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. During the workshop participants will focus on learning about the services provided by the VEuPathDB Bioinformatics Resource Center. In particular, hands-on training in web-based data-mining approaches for fungal genomes and associated omics data will be provided. Exercises will cover both basic and advanced usage of FungiDB resources for phytopathogens, including identification of orthologs and orthology-based inference, using the genome browser JBrowse, development of multi-step in silico ‘search strategies’ and mining integrated datasets (proteomics, transcriptomics, phenotypes, variation, etc.). The workshop will also include introductions to data analysis in VEuPathDB Galaxy and Apollo (a web-based interface for improving structural and functional genome annotations).</p>
 
