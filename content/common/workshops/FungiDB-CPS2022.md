@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Workshops
-permalink: /workshopSept2022
+permalink: /workshopOCT2022
 tags: [workshop-exercise]
 ---
 <style>
@@ -112,18 +112,18 @@ div.instructor-table {
 </style>
 
 <p><a href="/">Home</a> >> Help >> 
-   <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> 
+   <a href="/a/app/static-content/landing.html">Learn how to use FungiDB</a> >> 
    <a href="/a/app/static-content/workshops.html">Workshops</a></p>
 
-<h1>VEuPathDB Virtual Workshop September 6-9, 2022</h1>
+<h1>FungiDB Virtual Workshop October 11 and 12, 2022</h1>
 <div class="static-content">
 
 
   <div class="centered-title">
     <p><h4><b><a href="#Schedule">SCHEDULE and HANDS-ON EXERCISES</a></b></h4></p>
-    <p><h4>9am - 1pm (EDT) daily </h4></p>
+    <p><h4>9:30 AM - 11 AM (EDT) daily </h4></p>
     <p><h4><a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
-    <p><h4>Virtual, hands-on workshop with short lectures and small goup instruction</h4></p>
+    <p><h4>Virtual, hands-on workshop with short lectures and small group instruction</h4></p>
     <p><h4>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</h4></p>
     <p><h4>Recorded lectures and exercises available online after the workshop</h4></p>
   </div>
@@ -131,15 +131,17 @@ div.instructor-table {
 
 <div class="contents">
 
-  <div class="anchor"><a name="workshopSept2022"></a></div>
+  <div class="anchor"><a name="workshopOCT2022"></a></div>
   <div class="workshop">
   
   <p><h2>About the workshop</h2></p>
-  <p>During the workshop, instructors will describe and demonstrate the VEuPathDB tools and features that are powerful resources for your hypothesis driven research.  Short lectures will precede hands-on exercises via informal Zoom sessions where discussion and conversation are encouraged. The objective is for attendees to leave with an understanding of the breadth of data available, how to effectively use VEuPathDB resources to mine the available data, and to use preconfigured workflows to analyze unintegrated data. If you come with questions about your own research, we are happy to accomodate individual instruction, usually outside workshop hours.  Since VEuPathDB resources mirror each other, workshop exercises can be applied on any component site including AmoebaDB, CryptoDB, FungiDB, GiardiaDB, HostDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB, and VectorBase.  </p>
+  <p>FungiDB (https://FungiDB.org) is a free online resource for over 200 annotated genomes encompassing fungal and oomycete species. FungiDB is a component of the Eukaryotic Pathogen, Vector & Host Informatics Resources (VEuPathDB.org) that integrate genomic, transcriptomic, proteomic, epigenetic, population diversity, and other types of data for eukaryotic microbes (pathogenic & non-pathogenic, free-living & parasitic), and hosts and vectors of human disease. A user-friendly web interface with embedded bioinformatics tools supports in silico experiments leveraging public data and private datasets uploaded from the VEuPathDB Galaxy. With FungiDB, you can also browse genomes, mine Omics-scale datasets, annotation, and the results of automated analyses (protein domains, orthology predictions, etc.), improve gene models in Apollo and capture expert knowledge via the User Comments system.
+<br><br>
+This FungiDB workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. During the workshop participants will focus on learning about the services provided by the VEuPathDB Bioinformatics Resource Center. In particular, hands-on training in web-based data-mining approaches for fungal genomes and associated omics data will be provided. Exercises will cover both basic and advanced usage of FungiDB resources for phytopathogens, including identification of orthologs and orthology-based inference, using the genome browser JBrowse, development of multi-step in silico ‘search strategies’ and mining integrated datasets (proteomics, transcriptomics, phenotypes, variation, etc.). The workshop will also include introductions to data analysis in VEuPathDB Galaxy and Apollo (a web-based interface for improving structural and functional genome annotations).</p>
 
   <p>Expected learning objectives:</p>
     <ul>
-      <li>Site Search: use keywords to find VEuPathDB records, filter and explore results, export to strategies</li>
+      <li>Site Search: use keywords to find FungiDB records, filter and explore results, export to strategies</li>
       <li>Organism preferences: enable and disable to explore all organisms or a subset tailored to your research objectives </li>
       <li>Gene pages: become familiar with the data and tools available, navigation within the gene page, and link to dynamic visualizations in the genome browser.  </li>
       <li>Searches and strategies: search data sets with over 100 pre-configured searches and combine search results to produce multi-step strategies</li>
@@ -155,22 +157,12 @@ div.instructor-table {
 <br><br>
 
 
-  <h2>Registration: deadline Monday Aug 29, 2022</h2>
-    <ul>
-        <li><b>Register by completing this form: <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO" target="_blank">https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO</a></b> </li>
-        <li>The form information is confidential and it helps us know our prospective audience to customize examples and exercises.</li>
-        <li>After registration closes, you will receive an email requesting that you confirm your availability for the workshop dates and times.  Once confirmed, you will receive workshop details. </li> 
-        <li>Registration deadline is Monday August 29.</li>
-    </ul> 
-  <br><br>
-  
-
   <h2>Computer and internet access</h2>
   We recommend that you have a laptop or desktop computer equipped with Zoom software and a wifi or wired internet connection. Although cell phones can run Zoom, they are inadequate for completing the hands-on exercises.  Using your cell phone for lectures and discussions and a laptop for the hands-on exercises is a reasonable setup. 
   <br><br>
       
   <h2>Cost and fees</h2>
-  The workshop is free and everyone is welcome.  Please feel free to forward information about the workshop and registration to your colleagues.
+  The workshop is offered through the Canadian Phtyopathological Society.
   <br><br>
 
   <h2>Instructors</h2>
@@ -185,8 +177,8 @@ div.instructor-table {
       </thead>
       <tbody>
         <tr>
-          <td>Rachel Ankirskiy</td>
-          <td>University of Georgia</td>
+          <td>Omar Harb</td>
+          <td>University of Pennsylvania</td>
         </tr>
         <tr>
           <td>Evelina Basenko, PhD</td>
@@ -196,53 +188,13 @@ div.instructor-table {
           <td>Ulrike Boehme, PhD</td>
           <td>University of Liverpool</td>
         </tr>
-        <tr>
-          <td>Gloria I. Giraldo-Calderón, PhD</td>
-          <td>University of Notre Dame</td>
-        </tr>
-        <tr>
-          <td>Kathryn Crouch, PhD</td>
-          <td>University of Glasgow</td>
-        </tr>
-        <tr>
-          <td>Omar S. Harb, PhD</td>
-          <td>University of Pennsylvania</td>
-        </tr>  
-        <tr>
-          <td>Sarah Kelly, PhD</td>
-          <td>Imperial College London</td>
-        </tr>
-        <tr>
-          <td>Jessica Kissinger, PhD</td>
-          <td>University of Georgia</td>
-        </tr>    
-        <tr>
-          <td>Mary Ann McDowell, PhD</td>
-          <td>University of Notre Dame</td>
-        </tr>
-        <tr>
-          <td>Samuel Rund, PhD</td>
-          <td>University of Notre Dame</td>
-        </tr>
-        <tr>
-          <td>Dave Starns, PhD</td>
-          <td>University of Liverpool</td>
-        </tr>
-        <tr>
-          <td>Susanne Warrenfeltz, PhD</td>
-          <td>University of Georgia</td>
-        </tr>
       </tbody>
     </table>
     </div>
   <br><br>
     
-  <h2>Questions</h2>
-  Please direct inquiries or questions to <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>
-  <br><br>
-
   <h2>More about VEuPathDB</h2>
-  We invite you to read our most recent publication about VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/" target="_blank">Amos et al 2022</a>).  Please also explore our  <a href="https://www.youtube.com/user/EuPathDB" target="_blank">You Tube Channel</a> and previously recorded <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">webinars and workshops</a>. Our goal is to maintain a fruitful and ongoing conversation between our team and yours to learn more efficient, effective ways to help you reach your goals. Regardless, if you attend the workshop or not, please feel free to email us with questions, new feature suggestions, or new data at <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>.  
+  We invite you to read our most recent publication about VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/" target="_blank">Amos et al. 2022</a>).  Please also explore our  <a href="https://www.youtube.com/user/EuPathDB" target="_blank">You Tube Channel</a> and previously recorded <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">webinars and workshops</a>. Our goal is to maintain a fruitful and ongoing conversation between our team and yours to learn more efficient, effective ways to help you reach your goals. Regardless, if you attend the workshop or not, please feel free to email us with questions, new feature suggestions, or new data at <a href="https://fungidb.org/fungidb/app/contact-us">help@fungidb.org</a>.  
   <br><br>
 
 
@@ -254,7 +206,7 @@ div.instructor-table {
     <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Tuesday, 6th Sept 2022</b></th>
+            <th class="break"><b>Tuesday, 11th October 2022</b></th>
           </tr>
           <tr>
             <th class="time">Time (Eastern)</th>
@@ -265,21 +217,21 @@ div.instructor-table {
         </thead>
         <tbody>         
           <tr>
-            <td>8:30am</td>
+            <td>9:15 AM</td>
             <td>Zoom opens for 'meet and greet' and connection testing</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9am</td>
+            <td>9:30 AM</td>
             <td>Welcome, workshop overview, instructor introductions</td>
-            <td>Mary Ann McDowell, Omar Harb</td>
+            <td>Evelina Basenko, Omar Harb</td>
             <td></td>
           </tr>
           <tr>
-            <td>9:10am</td>
-            <td>Introduction to VEuPathDB - lecture with live demos</td>
-            <td>Omar Harb</td>
+            <td>9:40am</td>
+            <td>Introduction to FungiDB - lecture with live demos</td>
+            <td>Evelina BAsenko</td>
             <td><iframe width="180" height="115" src="https://www.youtube.com/embed/hGMFNMsB8uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
