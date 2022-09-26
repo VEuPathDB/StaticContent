@@ -135,20 +135,16 @@ div.instructor-table {
   <div class="workshop">
   
   <p><h2>About the workshop</h2></p>
-  <p>FungiDB (<a href="https://FungiDB.org" target="_blank">https://FungiDB.org)</a> is a free online resource for over 200 annotated genomes encompassing fungal and oomycete species. FungiDB is a component of the Eukaryotic Pathogen, Vector & Host Informatics Resources (VEuPathDB.org) that integrate genomic, transcriptomic, proteomic, epigenetic, population diversity, and other types of data for eukaryotic microbes (pathogenic & non-pathogenic, free-living & parasitic), and hosts and vectors of human disease. A user-friendly web interface with embedded bioinformatics tools supports in silico experiments leveraging public data and private datasets uploaded from the VEuPathDB Galaxy. With FungiDB, you can also browse genomes, mine Omics-scale datasets, annotation, and the results of automated analyses (protein domains, orthology predictions, etc.), improve gene models in Apollo and capture expert knowledge via the User Comments system.
+  <p>FungiDB (<a href="https://FungiDB.org" target="_blank">https://FungiDB.org)</a> is a free online resource for over 200 annotated genomes encompassing fungal and oomycete species. FungiDB is a component of the Eukaryotic Pathogen, Vector & Host Informatics Resources (<a href="https://www.veupathdb.org" target="_blank">VEuPathDB) that integrate genomic, transcriptomic, proteomic, epigenetic, population diversity, and other types of data for eukaryotic microbes (pathogenic & non-pathogenic, free-living & parasitic), and hosts and vectors of human disease. A user-friendly web interface with embedded bioinformatics tools supports in silico experiments leveraging public data and private datasets uploaded from the VEuPathDB Galaxy. With FungiDB, you can also browse genomes, mine Omics-scale datasets, annotation, and the results of automated analyses (protein domains, orthology predictions, etc.), improve gene models in Apollo and capture expert knowledge via the User Comments system.
 <br><br>
-This FungiDB workshop will combine mini lectures with hands-on learning using breakout sessions in Zoom. During the workshop participants will focus on learning about the services provided by the VEuPathDB Bioinformatics Resource Center. In particular, hands-on training in web-based data-mining approaches for fungal genomes and associated omics data will be provided. Exercises will cover both basic and advanced usage of FungiDB resources for phytopathogens, including identification of orthologs and orthology-based inference, using the genome browser JBrowse, development of multi-step in silico ‘search strategies’ and mining integrated datasets (proteomics, transcriptomics, phenotypes, variation, etc.). The workshop will also include introductions to data analysis in VEuPathDB Galaxy and Apollo (a web-based interface for improving structural and functional genome annotations).</p>
+This FungiDB workshop will combine mini lectures with hands-on learning using the Zoom platform. During the workshop participants will focus on learning about the services provided by the VEuPathDB Bioinformatics Resource Center. In particular, hands-on training in web-based data-mining approaches for fungal genomes and associated omics data will be provided. Exercises will cover both basic and advanced usage of FungiDB resources for phytopathogens, including identification of orthologs and orthology-based inference, using the genome browser JBrowse, development of multi-step in silico ‘search strategies’ and mining integrated datasets (proteomics, transcriptomics, phenotypes, variation, etc.). The workshop will also include introductions to data analysis in VEuPathDB Galaxy and Apollo (a web-based interface for improving structural and functional genome annotations) and additional learning materials.</p>
 
   <p>Expected learning objectives:</p>
     <ul>
-      <li>Site Search: use keywords to find FungiDB records, filter and explore results, export to strategies</li>
-      <li>Organism preferences: enable and disable to explore all organisms or a subset tailored to your research objectives </li>
-      <li>Gene pages: become familiar with the data and tools available, navigation within the gene page, and link to dynamic visualizations in the genome browser.  </li>
+      <li>Site Search: use keywords to find FungiDB records, filter and explore results</li>
+      <li>Organism preferences: enable and disable to explore all organisms or a subset tailored to your research objectives</li>
       <li>Searches and strategies: search data sets with over 100 pre-configured searches and combine search results to produce multi-step strategies</li>
-        <ul>
-          <li>RNAseq and microarrays data searches: use differential expression, fold change, and percentile searches to explore gene expression</li>
-          <li>Proteomics data searches: use mass spec data to identify genes based on expression evidence</li>
-        </ul>
+      <li>Gene pages: become familiar with the data and tools available, navigation within the gene page, and link to dynamic visualizations in the genome browser. </li>
       <li>Genome browser: use menu and navigation options, add and configure data tracks, interpret data (RNA Seq) and check gene models.  </li>
       <li>Gene Ontology (GO) enrichment: run and analyze a GO enrichment analysis </li>
       <li>Apollo: learn how to manually annotate a gene, which involves both structural changes (intron/exon boundaries) and metadata (gene name and symbol)</li>
@@ -232,7 +228,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using br
             <td>9:40am</td>
             <td>Introduction to FungiDB - lecture with live demos</td>
             <td>Evelina BAsenko</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/hGMFNMsB8uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
+            <td><iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>10:00am</td>
