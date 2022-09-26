@@ -120,11 +120,11 @@ div.instructor-table {
 
 
   <div class="centered-title">
-    <p><h4><b><a href="#Schedule">SCHEDULE and HANDS-ON EXERCISES</a></b></h4></p>
-    <h4>9:30 AM - 11 AM (EDT) daily</h4> - <a href="https://dateful.com/time-zone-converter" target="_blank">Time zone converter</a>
-    <h5>Virtual, hands-on workshop with short lectures and small group instruction</h5>
-    <h5>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</h5>
-    <h5>Recorded lectures and exercises available online after the workshop</h5>
+    <p><b><a href="#Schedule">SCHEDULE and HANDS-ON EXERCISES</a></b></p>
+    <b>9:30 AM - 11 AM (EDT) daily</b> - <a href="https://dateful.com/time-zone-converter" target="_blank">Time zone converter</a>
+    Virtual, hands-on workshop with short lectures and small group instruction
+    Zoom meeting with group lectures and breakout rooms for small group hands-on exercises
+    Recorded lectures and exercises available online after the workshop
   </div>
   
 
