@@ -226,7 +226,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
             <td>9:40 AM</td>
             <td>Introduction to VEuPathDB and FungiDB - lecture with live demos</td>
             <td>Omar Harb, Evelina Basenko</td>
-            <td>Recording will be avaiable after the workshop<iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
+            <td><iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Recording will be avaiable after the workshop</td>
           </tr>
           <tr>
             <td>10:00 AM</td>
