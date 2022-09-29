@@ -274,7 +274,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
           <tr>
             <td>9:50 AM</td>
             <td>FungiDB demonstration – Gene record pages and JBrowse.<br> <a target="_blank" href="{{'/documents/CPS2022/Day2_JBrowseBasics_CPS.pdf' | absolute_url}}"><b>Genome browser basics (supplementary tutorial)</b></a></td>
-            <td>Break out rooms</td>
+            <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
@@ -288,12 +288,6 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
             <td>FungiDB demonstration – VEuPathDB Galaxy</td>
             <td>Omar Harb</td>
             <td><iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
-          </tr>
-          <tr>
-            <td>11:15am</td>
-            <td>Hands-on exercise<br> <a target="_blank" href="{{'/documents/Sept2022/6-Gene-Models-Adv-Jbrowse-Sept2022.pdf' | absolute_url}}"><b>Exploring gene models in the genome browser</b></a></td>
-            <td>Omar Harb</td>
-            <td></td>
           </tr>
           <tr>
             <td>11 AM</td>
