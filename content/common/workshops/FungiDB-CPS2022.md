@@ -234,7 +234,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
               <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}"><b>Site Search, Organism Preferences, Search strategies I</b></a><br>
             </td>
             <td>Break out rooms</td>
-            <td></td>
+            <td>Not recorded</td>
           </tr>
           <tr>
             <td>11:00 AM</td>
@@ -271,31 +271,31 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
               <a  target="_blank" href="{{'/documents/CPS2022/Day2_Search_Strategies_CPS.pdf' | absolute_url}}"><b>Search strategies, cont.</b></a><br>
             </td>
             <td>Break out rooms</td>
-            <td><iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
+            <td>Recording will be avaiable after the workshop<iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>9:50 AM</td>
             <td>FungiDB demonstration – Gene record pages and JBrowse.<br> <a target="_blank" href="{{'/documents/CPS2022/Day2_JBrowseBasics_CPS.pdf' | absolute_url}}"><b>Genome browser basics (supplementary tutorial)</b></a></td>
             <td>Evelina Basenko</td>
-            <td></td>
+            <td>Recording will be avaiable after the workshop<iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>10:10 AM</td>
             <td>FungiDB demonstration – Apollo, a real time collaborative genome annotation and curation platform</td>
             <td>Uli Böhme</td>
-            <td><iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
+            <td>Recording will be avaiable after the workshop<iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>10:30 AM</td>
             <td>FungiDB demonstration – VEuPathDB Galaxy</td>
             <td>Omar Harb</td>
-            <td><iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
+            <td>Recording will be avaiable after the workshop<iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>11 AM</td>
             <td>End of Day 1. Zoom will stay open for Q&A until 11:15 AM.</td>
             <td></td>
-            <td><iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+            <td></td>
           </tr>
         </tbody>
       </table>
