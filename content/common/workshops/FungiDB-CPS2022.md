@@ -122,6 +122,7 @@ div.instructor-table {
   <div class="centered-title">
     <p><b><a href="#Schedule">SCHEDULE and HANDS-ON EXERCISES</a></b></p>
     <b>9:30 AM - 11 AM (EDT) daily</b> - <a href="https://dateful.com/time-zone-converter" target="_blank">Time zone converter</a>
+    <br>
     <ul>
     <li>Virtual, hands-on workshop with short lectures and hands-on exercises</li>
     <li>Recorded lectures and demonstrations available online here after the workshop</li>
