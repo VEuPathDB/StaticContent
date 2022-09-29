@@ -197,6 +197,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
   <details open>
     <summary><b>Schedule</b></summary>   
     <h4>   
+    <table class="hor-minimalist-a">
         <thead>
           <tr>
             <th class="break"><b>Tuesday, 11th October 2022</b></th>
