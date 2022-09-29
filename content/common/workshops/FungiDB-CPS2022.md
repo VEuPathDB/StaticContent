@@ -277,7 +277,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
             <td>Guided hands-on exercises<br>
               <a  target="_blank" href="{{'/documents/CPS2022/Day2_Search_Strategies_CPS.pdf' | absolute_url}}"><b>Search strategies, cont.</b></a><br>
             </td>
-            <td>Break out rooms</td>
+            <td>Break out rooms<br>Omar Harb<br>Evelina Basenko<br>Uli Böhme</td>
             <td>Not recorded</td>
           </tr>
           <tr>
