@@ -202,7 +202,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
     <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Tuesday, 11 Oct 2022</b></th>
+            <th colspan="4" class="break"><b>Tuesday, 11 Oct 2022</b></th>
           </tr>
           <tr>
             <th class="time">Time (US Eastern)</th>
@@ -257,7 +257,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
     <table class="hor-minimalist-a">
       <thead>
         <tr>
-          <th class="break"><b>Wednesday, 12 Oct 2022</b></th>
+          <th colspan="4" class="break"><b>Wednesday, 12 Oct 2022</b></th>
         </tr>
         <tr>
           <th class="time">Time (US Eastern)</th>
@@ -311,7 +311,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
       <br>
       <br>    
 
-
+<!--
 <script>
 function addColspan(){
     console.log("HERE");
@@ -322,4 +322,4 @@ function addColspan(){
 }
 document.onload = addColspan();
 </script>
-
+-->
