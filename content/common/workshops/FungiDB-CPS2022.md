@@ -154,11 +154,11 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
 
   <h2>Computer and internet access</h2>
   We recommend that you have a laptop or desktop computer equipped with Zoom software and a wifi or wired internet connection. Although cell phones can run Zoom, they are inadequate for completing the hands-on exercises.  Using your cell phone for lectures and discussions and a laptop for the hands-on exercises is a reasonable setup. 
-  <br><br>
+  <br>
       
   <h2>Cost and fees</h2>
-  The workshop is offered through the Canadian Phtyopathological Society.
-  <br><br>
+  The workshop is offered through the <a href="https://phytopath.ca/meetings/cps-workshop-2022-2-fungidb/" target="_blank">Canadian Phytopathological Society (CPS).
+  <br>
 
   <h2>Instructors</h2>
   
@@ -172,23 +172,23 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
       </thead>
       <tbody>
         <tr>
-          <td>Omar Harb</td>
-          <td>University of Pennsylvania</td>
+          <td>Omar Harb, PhD</td>
+          <td>University of Pennsylvania, USA</td>
         </tr>
         <tr>
           <td>Evelina Basenko, PhD</td>
-          <td>University of Liverpool</td>
+          <td>University of Liverpool, UK</td>
         </tr>      
         <tr>
           <td>Ulrike Boehme, PhD</td>
-          <td>University of Liverpool</td>
+          <td>University of Liverpool, UK</td>
         </tr>
       </tbody>
     </table>
     </div>
-  <br><br>
+  <br>
     
-  <h2>More about VEuPathDB</h2>
+  <h2>About VEuPathDB/FungiDB</h2>
   We invite you to read our most recent publication about VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/" target="_blank">Amos et al. 2022</a>).  Please also explore our  <a href="https://www.youtube.com/user/EuPathDB" target="_blank">You Tube Channel</a> and previously recorded <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">webinars and workshops</a>. Our goal is to maintain a fruitful and ongoing conversation between our team and yours to learn more efficient, effective ways to help you reach your goals. Regardless, if you attend the workshop or not, please feel free to email us with questions, new feature suggestions, or new data at <a href="https://fungidb.org/fungidb/app/contact-us">help@fungidb.org</a>.  
   <br><br>
 
@@ -197,8 +197,6 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
   <details open>
     <summary><b>Schedule</b></summary>   
     <h4>   
-    <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
-    <table class="hor-minimalist-a">
         <thead>
           <tr>
             <th class="break"><b>Tuesday, 11th October 2022</b></th>
@@ -368,186 +366,6 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
       </table>
       <br>
       <br>    
-      <table class="hor-minimalist-a">
-        <thead>
-          <tr>
-            <th class="break"><b>Thursday, 8th Sept 2022</b></th>
-          </tr>
-          <tr>
-            <th class="time">Time (Eastern)</th>
-            <th class="event">Topic (and handout)</th>
-            <th class="author">Instructor</th>
-            <th>Recording</th>
-          </tr>
-        </thead>
-        <tbody>         
-          <tr>
-            <td>8:30am</td>
-            <td>Zoom opens for questions and discussion</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>9:00am</td>
-            <td>Transcriptomics and Proteomics data</td>
-            <td>Susanne Warrenfeltz</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/XxI8PBP9vnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-          </tr>
-          <tr>
-            <td>9:30am</td>
-            <td>Hands-on exercise<br>
-            <a target="_blank" href="{{'/documents/Sept2022/7-Transcriptomics-Sept2022.pdf' | absolute_url}}"><b>Transcriptomics</b></a>
-            <br>
-            <a target="_blank" href="{{'/documents/Sept2022/8-Proteomics_Sept2022.pdf' | absolute_url}}"><b>Proteomics</b></a></td>
-            <td>Break out rooms</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>10:30am</td>
-            <td>Introduction to Galaxy in VEuPathDB</td>
-            <td>Omar Harb</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/-tF82nF4964" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-          </tr>          
-          <tr>
-            <td>11am</td>
-            <td>Break</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>11:30am</td>
-            <td>Single Cell RNA-Seq Lecture</td>
-            <td>Kathryn Crouch</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Bemh1fUeOTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br> Single cell RNA-Seq lecture ends at approximately 49 minutes</td>
-          </tr>
-          <tr>
-            <td>12pm</td>
-            <td>Introduction to Orthology</td>
-            <td>Omar Harb</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Bemh1fUeOTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br> Introduction to orthology <b>begins</b> at approximately 49 minutes</td>
-          </tr>
-          <tr>
-            <td></td>
-            <td>Optional Orthology homework<br>
-            <a target="_blank" href="{{'/documents/Sept2022/8a-Orthology-Phyletic-Patterns-Sept2022.pdf' | absolute_url}}"><b>Orthology homework optional</b></a></td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>12:45pm</td>
-            <td>Wrap up</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>1:00pm</td>
-            <td>Free option discussion and questions</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>1:30pm</td>
-            <td>Zoom Closes</td>
-            <td></td>
-            <td></td>
-          </tr>
-        </tbody>
-      </table>
-     <br>
-     <br>
-     <table class="hor-minimalist-a">
-        <thead>
-          <tr>
-            <th class="break"><b>Friday, 9th Sept 2022</b></th>
-          </tr>
-          <tr>
-            <th class="time">Time (Eastern)</th>
-            <th class="event">Topic (and handout)</th>
-            <th class="author">Instructor</th>
-            <th>Recording</th>
-          </tr>
-        </thead>
-        <tbody>         
-          <tr>
-            <td>8:30am</td>
-            <td>Zoom opens for questions and discussion</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>9am</td>
-            <td>Galaxy in VEuPathDB - understanding output files and what to do with them.</td>
-            <td>Kathryn Crouch, Omar Harb</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/EhoPjnUN9t0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Galaxy output files are described until approximately 1 hr 35 min on this video.</td> 
-          </tr>
-          <tr>
-            <td></td>
-            <td>Optional Galaxy exercise<br>
-            <a target="_blank" href="{{'/documents/Sept2022/Galaxy RNAseq groups_AGS.pdf' | absolute_url}}"><b>Suggested data</b></a><br>
-            <a target="_blank" href="{{'/documents/Sept2022/VEuPathDB_RNAseq_Mapping_Galaxy_AGS2022.pdf' | absolute_url}}"><b>Instructions</b></a>
-            </td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>10am</td>
-            <td>Ontologies and Enrichment analysis</td>
-            <td>Omar Harb</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/EhoPjnUN9t0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Orthology lecture begins at approximately 1 hr 35 min.</td>
-          </tr>
-          <tr>
-            <td>10:15am</td>
-            <td>Hands-on exercise<br>
-            <a target="_blank" href="{{'/documents/Sept2022/9-GO-Enrichment-Sept2022.pdf' | absolute_url}}"><b>GO enrichment</b></a></td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>10:45am</td>
-            <td>Phenotypic data</td>
-            <td>Omar Harb</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/nN0vKjaA0Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-          </tr>
-          <tr>
-            <td>11:00am</td>
-            <td>Break</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>11:30am</td>
-            <td>Hands-on exercise<br>
-            <a target="_blank" href="{{'/documents/Sept2022/10_Phenotypic_data_Sept2022.pdf' | absolute_url}}"><b>Phenotypic Data</b></a></td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>12:00pm</td>
-            <td>MapVEu, mosquito surveillance data </td>
-            <td>Sam Rund</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/rvJZSNOwLYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-          </tr>
-          <tr>
-            <td>12:30pm</td>
-            <td>Final wrap up</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>1:00pm</td>
-            <td>Free option discussion and questions</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>1:30pm</td>
-            <td>Zoom Closes</td>
-            <td></td>
-            <td></td>
-          </tr>
-        </tbody>
-      </table>
-      <br>
       <br>
     </details>        
   </div>  <!-- class workshop -->
