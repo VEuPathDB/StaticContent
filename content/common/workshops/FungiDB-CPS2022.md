@@ -238,7 +238,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
           </tr>
           <tr>
             <td>11:00 AM</td>
-            <td>End of Day 1. Zoom will stay open for Q&A until 11:15 AM.</td>
+            <td>End of Day 1. <br>Zoom will stay open for Q&A until 11:15 AM.</td>
             <td></td>
             <td></td>
           </tr>
@@ -275,19 +275,19 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
           </tr>
           <tr>
             <td>9:50 AM</td>
-            <td>FungiDB demonstration – Gene record pages and JBrowse.<br> <a target="_blank" href="{{'/documents/CPS2022/Day2_JBrowseBasics_CPS.pdf' | absolute_url}}"><b>Genome browser basics (supplementary tutorial)</b></a></td>
+            <td>FungiDB demonstration <br>Gene record pages and JBrowse.<br> <a target="_blank" href="{{'/documents/CPS2022/Day2_JBrowseBasics_CPS.pdf' | absolute_url}}"><b>Genome browser basics (supplementary tutorial)</b></a></td>
             <td>Evelina Basenko</td>
             <td>Recording will be avaiable after the workshop<iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>10:10 AM</td>
-            <td>FungiDB demonstration – Apoll - genome annotation and curation platform</td>
+            <td>FungiDB demonstration <br>Apollo: genome annotation and curation platform</td>
             <td>Uli Böhme</td>
             <td>Recording will be avaiable after the workshop<iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>10:30 AM</td>
-            <td>FungiDB demonstration – VEuPathDB Galaxy</td>
+            <td>FungiDB demonstration <br>VEuPathDB Galaxy</td>
             <td>Omar Harb</td>
             <td>Recording will be avaiable after the workshop<iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
