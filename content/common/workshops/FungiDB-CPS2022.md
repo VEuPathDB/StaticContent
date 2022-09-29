@@ -246,18 +246,18 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
       </table>
       <br>
       <br>       
-      <table class="hor-minimalist-a">
-        <thead>
-          <tr>
-            <th class="break"><b>Wednesday, 12 Oct 2022</b></th>
-          </tr>
-          <tr>
-            <th class="time">Time (US Eastern)</th>
-            <th class="event">Topic (and handout)</th>
-            <th class="author">Instructor</th>
-            <th class="recording">Recording</th>
-          </tr>
-        </thead>
+    <table class="hor-minimalist-a">
+      <thead>
+        <tr>
+          <th class="break"><b>Wednesday, 12 Oct 2022</b></th>
+        </tr>
+        <tr>
+          <th class="time">Time (US Eastern)</th>
+          <th class="event">Topic (and handout)</th>
+          <th class="author">Instructor</th>
+          <th class="recording">Recording</th>
+        </tr>
+      </thead>
         <tbody>         
           <tr>
             <td>9:15 AM</td>
