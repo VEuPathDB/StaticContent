@@ -115,7 +115,7 @@ div.instructor-table {
    <a href="/a/app/static-content/landing.html">Learn how to use FungiDB</a> >> 
    <a href="/a/app/static-content/workshops.html">Workshops</a></p>
 
-<h1>FungiDB Virtual Workshop October 11 and 12, 2022</h1>
+<h1>FungiDB Virtual Workshop 11-12 October, 2022</h1>
 <div class="static-content">
 
 
