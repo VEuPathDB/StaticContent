@@ -301,11 +301,6 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
       </table>
       <br>
       <br>    
-      <br>
-    </details>        
-  </div>  <!-- class workshop -->
 
-</div>  <!-- class contents -->
-</div>  <!-- class static-content -->
 
 
