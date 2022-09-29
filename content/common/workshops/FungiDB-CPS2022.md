@@ -224,14 +224,14 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
           </tr>
           <tr>
             <td>9:40am</td>
-            <td>Introduction to FungiDB - lecture with live demos</td>
-            <td>Evelina BAsenko</td>
+            <td>Introduction to VEuPathDB and FungiDB - lecture with live demos</td>
+            <td>Omar Harb, Evelina Basenko</td>
             <td><iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>10:00am</td>
-            <td>Hands-on exercises<br>
-              <a  target="_blank" href="{{'/documents/Sept2022/1-Site-Search-Sept2022.pdf' | absolute_url}}"><b>Site Search</b></a><br>
+            <td>Guided hands-on exercises<br>
+              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}"><b>Site Search</b></a><br>
               <a target="_blank" href="{{'/documents/Sept2022/2-Organism-Preferences-Sept2022.pdf' | absolute_url}}"><b>Organism Preferences</b></a><br>
               <a target="_blank" href="{{'/documents/Sept2022/3-Gene-Page-Sept2022.pdf' | absolute_url}}"><b>Gene Pages</b></a>
               </td>
