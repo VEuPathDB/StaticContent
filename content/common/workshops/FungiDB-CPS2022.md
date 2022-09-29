@@ -223,58 +223,22 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
             <td></td>
           </tr>
           <tr>
-            <td>9:40am</td>
+            <td>9:40 AM</td>
             <td>Introduction to VEuPathDB and FungiDB - lecture with live demos</td>
             <td>Omar Harb, Evelina Basenko</td>
             <td><iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
-            <td>10:00am</td>
+            <td>10:00 AM</td>
             <td>Guided hands-on exercises<br>
-              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}"><b>Site Search</b></a><br>
-              <a target="_blank" href="{{'/documents/Sept2022/2-Organism-Preferences-Sept2022.pdf' | absolute_url}}"><b>Organism Preferences</b></a><br>
-              <a target="_blank" href="{{'/documents/Sept2022/3-Gene-Page-Sept2022.pdf' | absolute_url}}"><b>Gene Pages</b></a>
-              </td>
+              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}"><b>Site Search, Organism Preferences, Search strategies I</b></a><br>
+            </td>
             <td>Break out rooms</td>
             <td></td>
           </tr>
           <tr>
-            <td>11am</td>
-            <td>Break</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>11:30am</td>
-            <td>Introduction to Search Strategies</td>
-            <td>Susanne Warrenfeltz</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/WLyVEKi7rUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
-          </tr>
-          <tr>
-            <td>11:45am</td>
-            <td>Hands-on exercise<br>
-            <a target="_blank" href="{{'/documents/Sept2022/4-Search-Strategies-Sept2022.pdf' | absolute_url}}"><b>Search Strategies</b></a><br>
-            <a target="_blank" href="{{'/documents/Sept2022/4a-Search-Strategies-Sept2022.pdf' | absolute_url}}"><b>Search Strategies homework with extra explanation</b></a></td>
-            <td>Break out rooms</td>
-            <td></td>
-          </tr>          
-          <tr>
-            <td>12:45pm</td>
-            <td>Discussion and wrap up</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>1pm</td>
-            <td>Free option for discussion and questions</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>1:30pm</td>
-            <td>Zoom closes</td>
-            <td></td>
-            <td></td>
+            <td>11:00 AM</td>
+            <td>End of Day 1. Zoom will stay open for Q&A.</td>
           </tr>
         </tbody>
       </table>
