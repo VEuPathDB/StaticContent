@@ -301,7 +301,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
           </tr>
           <tr>
             <td>11 AM</td>
-            <td>End of Day 2 <br>Zoom will stay open for Q&A until 11:15 AM.</td>
+            <td>End of Day 2 <br>Zoom will stay open for Q&A until 11:15 AM</td>
             <td></td>
             <td></td>
           </tr>
