@@ -293,7 +293,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
             <td>11 AM</td>
             <td>End of Day 1. Zoom will stay open for Q&A until 11:15 AM.</td>
             <td></td>
-            <td><iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Gene models discussion from 40 sec to 24 minutes.</td>
+            <td><iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
         </tbody>
       </table>
