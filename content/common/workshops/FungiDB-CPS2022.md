@@ -196,7 +196,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
   <div class="anchor"><a name="Schedule"></a></div>
   <details open>
     <summary><b>Schedule</b></summary>   
-    <h4>   
+    <h3>   
     <table class="hor-minimalist-a">
         <thead>
           <tr>
