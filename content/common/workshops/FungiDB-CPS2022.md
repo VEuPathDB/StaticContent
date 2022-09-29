@@ -200,7 +200,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
     <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Tuesday, 11th October 2022</b></th>
+            <th class="break"><b>Tuesday, 11 Oct 2022</b></th>
           </tr>
           <tr>
             <th class="time">Time (Eastern)</th>
@@ -238,7 +238,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
           </tr>
           <tr>
             <td>11:00 AM</td>
-            <td>End of Day 1. Zoom will stay open for Q&A.</td>
+            <td>End of Day 1. Zoom will stay open for Q&A until 11:15 AM.</td>
           </tr>
         </tbody>
       </table>
@@ -247,7 +247,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Wednesday, 7th Sept 2022</b></th>
+            <th class="break"><b>Wednesday, 12 Oct 2022</b></th>
           </tr>
           <tr>
             <th class="time">Time (Eastern)</th>
