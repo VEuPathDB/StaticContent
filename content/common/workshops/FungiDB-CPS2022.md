@@ -232,7 +232,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
           <tr>
             <td>9:50 AM</td>
             <td>Introduction to FungiDB - lecture with live demos</td>
-            <td>Omar Harb, Evelina Basenko</td>
+            <td>Evelina Basenko</td>
             <td>Recording will be avaiable after the workshop<!--<iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>--><br></td>
           </tr>
           <tr>
