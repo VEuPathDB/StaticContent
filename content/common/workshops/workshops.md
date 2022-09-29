@@ -106,7 +106,7 @@ th.recording {
     <h4><a href="/a/app/static-content/workshopOCT2022.html">FungiDB - CPS Virtual Workshop October 2022</a></h4>
     <p>Tuesday October 11th - Wednesday October 12th 2022</p>
     <p>9:30 AM - 11:00 AM EDT, <a href="https://dateful.com/time-zone-converter" target="_blank">time-zone-converter</a></p>
-    <p>More Information: <a href="/a/app/static-content/workshopSept2022.html">Workshop information and schedule</a>
+    <p>More Information: <a href="/a/app/static-content/workshopOCT2022.html">Workshop information and schedule</a>
    
   <hr>
   
