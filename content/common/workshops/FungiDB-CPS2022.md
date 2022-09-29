@@ -203,7 +203,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
             <th class="break"><b>Tuesday, 11 Oct 2022</b></th>
           </tr>
           <tr>
-            <th class="time">Time (Eastern)</th>
+            <th class="time">Time (US Eastern)</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
             <th class="recording">Recording</th>
@@ -252,7 +252,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
             <th class="break"><b>Wednesday, 12 Oct 2022</b></th>
           </tr>
           <tr>
-            <th class="time">Time (Eastern)</th>
+            <th class="time">Time (US Eastern)</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
             <th class="recording">Recording</th>
