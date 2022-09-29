@@ -157,7 +157,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
   <br>
       
   <h2>Cost and fees</h2>
-  The workshop is offered through the <a href="https://phytopath.ca/meetings/cps-workshop-2022-2-fungidb/" target="_blank">Canadian Phytopathological Society (CPS).
+  The workshop is offered through the <a href="https://phytopath.ca/meetings/cps-workshop-2022-2-fungidb/" target="_blank">Canadian Phytopathological Society (CPS).</a>
   <br>
 
   <h2>Instructors</h2>
