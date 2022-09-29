@@ -52,6 +52,7 @@ table.hor-minimalist-a th {
   font-size: 110%;
   font-weight: 400;
   color: #039;
+  border-top: 0;
   border-bottom: 2px solid #6678b1;
   padding: 0.5em;
   text-align: left;
@@ -311,4 +312,14 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
       <br>    
 
 
+<script>
+function addColspan(){
+    console.log("HERE");
+    const nodes = document.getElementsByClassName("break");
+    for (let i = 0; i < nodes.length; i++) {
+      nodes[i].setAttribute("colspan", "4");
+    }
+}
+document.onload = addColspan();
+</script>
 
