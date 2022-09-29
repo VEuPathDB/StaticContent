@@ -260,34 +260,34 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
         </thead>
         <tbody>         
           <tr>
-            <td>8:30am</td>
+            <td>9:15 AM</td>
             <td>Zoom opens for questions and discussion</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9am</td>
-            <td>Introduction to the genome browser</td>
-            <td>Gloria I. Giraldo-Calderón</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/9Mdw6GdP5II" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
+            <td>9:30 AM</td>
+            <td>Guided Hands-on exercises - Search strategies, continued</td>
+            <td>Break out rooms</td>
+            <td><iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
-            <td>9:15am</td>
-            <td>Hands-on exercise<br> <a target="_blank" href="{{'/documents/Sept2022/5-JBrowse-Basics_Sept-2022.pdf' | absolute_url}}"><b>Genome browser basics</b></a></td>
+            <td>9:50 AM</td>
+            <td>FungiDB demonstration – Gene record pages and JBrowse.<br> <a target="_blank" href="{{'/documents/CPS2022/Day2_JBrowseBasics_CPS.pdf' | absolute_url}}"><b>Genome browser basics (supplementary tutorial)</b></a></td>
             <td>Break out rooms</td>
             <td></td>
           </tr>
           <tr>
-            <td>10:15am</td>
-            <td>Exploring gene models in the genome browser</td>
-            <td>Omar Harb</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/7ZIxJcuINtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
+            <td>10:10 AM</td>
+            <td>FungiDB demonstration – Apollo, a real time collaborative genome annotation and curation platform</td>
+            <td>Uli Böhme</td>
+            <td><iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
-            <td>10:45am</td>
-            <td>Break</td>
-            <td></td>
-            <td></td>
+            <td>10:30 AM</td>
+            <td>FungiDB demonstration – VEuPathDB Galaxy</td>
+            <td>Omar Harb</td>
+            <td><iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>11:15am</td>
@@ -296,38 +296,10 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
             <td></td>
           </tr>
           <tr>
-            <td>12:15pm</td>
-            <td>Gene models discussion</td>
-            <td>Omar Harb</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/zepiEH4Gff0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Gene models discussion from 40 sec to 24 minutes.</td>
-          </tr>
-          <tr>
-            <td>12:45pm</td>
-            <td>Correcting gene models in Apollo</td>
-            <td>Ulrike Böhme</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/zepiEH4Gff0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Apollo introduction starting at about 24 minutes.</td>
-          </tr>
-          <tr>
+            <td>11 AM</td>
+            <td>End of Day 1. Zoom will stay open for Q&A until 11:15 AM.</td>
             <td></td>
-            <td>Optional Apollo homework <br>
-            <a target="_blank" href="{{'/documents/Sept2022/6a-Apollo_optional_exercise.pdf' | absolute_url}}"><b>Apollo optional homework</b></a><br>
-            <a target="_blank" href="{{'/documents/Sept2022/6b-Apollo_optional_exercise_workshop_answer_key-Dave.pdf' | absolute_url}}"><b>Answer key</b></a><br>
-            <a target="_blank" href="https://www.dropbox.com/scl/fo/e5kug9m8l86yihk3204vi/h?dl=0&rlkey=ccdsh5c41bd76yoyxtmclnb5a"><b>Video Answers in dropbox</b></a>
-             </td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>1:00pm</td>
-            <td>Free option discussion and questions</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>1:30pm</td>
-            <td>Zoom Closes</td>
-            <td></td>
-            <td></td>
+            <td><iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Gene models discussion from 40 sec to 24 minutes.</td>
           </tr>
         </tbody>
       </table>
