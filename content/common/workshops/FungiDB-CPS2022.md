@@ -143,11 +143,10 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
     <ul>
       <li>Site Search: use keywords to find FungiDB records, filter and explore results</li>
       <li>Organism preferences: enable and disable to explore all organisms or a subset tailored to your research objectives</li>
-      <li>Searches and strategies: search data sets with over 100 pre-configured searches and combine search results to produce multi-step strategies</li>
-      <li>Gene pages: become familiar with the data and tools available, navigation within the gene page, and link to dynamic visualizations in the genome browser. </li>
-      <li>Genome browser: use menu and navigation options, add and configure data tracks, interpret data (RNA Seq) and check gene models.  </li>
-      <li>Gene Ontology (GO) enrichment: run and analyze a GO enrichment analysis </li>
-      <li>Apollo: learn how to manually annotate a gene, which involves both structural changes (intron/exon boundaries) and metadata (gene name and symbol)</li>
+      <li>Searches, strategies and enrichment analysis: search data sets, create a multi-step strategy, and deploy Gene Ontology (GO) enrichment tool </li>
+      <li>Gene pages: watch demonstration on how to navigate gene pages and explore the integrated data</li>
+      <li>Genome browser (JBrowse): watch demonstrations on how to use menu and navigation options, add and configure data tracks and check gene models</li>      
+      <li>Apollo: watch demonstrations on how to manually make changes to strccutural and functional genome annotation</li>
       <li>Galaxy: watch demonstrations of bioinformatic analyses using our servers, <i>e.g.</i> RNAseq transcript differential expression or SNP calling  </li> 
     </ul>
 <br><br>
