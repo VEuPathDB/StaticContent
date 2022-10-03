@@ -26,8 +26,6 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">   
     
- 
- <p><b>Thursday September 15th, 2022:</b> <a href="#release59">Release 59 Webinar</a></p>
  <p><b>Thursday November 10th, 2022:</b> <a href="#release59">Release 60 Webinar</a></p>
 
   </div>
@@ -36,7 +34,8 @@ tags: [general]
   <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
-     
+ 
+   <p><b>Thursday September 15th, 2022:</b> <a href="#release59">Release 59 Webinar</a></p>  
    <p><b>Thursday June 30th, 2022:</b> <a href="#release58">Release 58 Webinar</a></p>
    <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p>
    <p><b>Wednesday May 25th, 2022:</b> <a href="#apollo2022">VEuPathDB Apollo annotation and curation</a></p> 
@@ -96,17 +95,6 @@ Release webinar dates are subject to change due to production issues that may ar
   
   
 <hr>
-<div class="anchor"><a name="release59"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 59 Webinar<br>
-<b>Date:</b> Thursday September 15th, 2022<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registraion:</b> Registration links will be available 7-10 days prior to a release webinar.<br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 59 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
-</div>
-  
-<hr>
 <div class="anchor"><a name="release60"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 60 Webinar<br>
@@ -124,6 +112,15 @@ Release webinar dates are subject to change due to production issues that may ar
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 <h3>Previous Webinars</h3>
 <div class="contents">
+
+<hr>
+<div class="anchor"><a name="release59"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 59 Webinar<br>
+<b>Date:</b> Thursday September 15th, 2022<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording:</b> <a href="https://youtu.be/PqYCrWFptCs">https://youtu.be/PqYCrWFptCs</a><br>
+</div>
   
 <hr>
 <div class="anchor"><a name="release58"></a></div>

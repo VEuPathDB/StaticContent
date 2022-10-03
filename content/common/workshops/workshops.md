@@ -102,16 +102,21 @@ th.recording {
 
   <h3>Upcoming Workshops</h3>
 
-  <div class="contents">
-    <h4><a href="/a/app/static-content/workshopSept2022.html">VEuPathDB Virtual Workshop September 2022</a></h4>
-    <p>Tuesday Sept 6th - Friday Sept 9th</p>
-    <p>9am - 1pm EDT, <a href="https://dateful.com/time-zone-converter" target="_blank">time-zone-converter</a></p>
-    <p>Registration: <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO" target="_blank">https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO</a></p>
-    <p>More Information: <a href="/a/app/static-content/workshopSept2022.html">Workshop information and schedule</a>
-
+<div class="contents">
+    <h4><a href="/a/app/static-content/workshopOCT2022.html">FungiDB - CPS Virtual Workshop October 2022</a></h4>
+    <p>Tuesday October 11th - Wednesday October 12th 2022</p>
+    <p>9:30 AM - 11:00 AM EDT, <a href="https://dateful.com/time-zone-converter" target="_blank">time-zone-converter</a></p>
+    <p>More Information: <a href="/a/app/static-content/workshopOCT2022.html">Workshop information and schedule</a>
+   
   <hr>
   
   <h3>Previous Workshops</h3>
+
+<div class="contents">
+    <h4><a href="/a/app/static-content/workshopSept2022.html">VEuPathDB Virtual Workshop September 2022</a></h4>
+    <p>Tuesday Sept 6th - Friday Sept 9th</p>
+    <p>9am - 1pm EDT, <a href="https://dateful.com/time-zone-converter" target="_blank">time-zone-converter</a></p>
+    <p>More Information: <a href="/a/app/static-content/workshopSept2022.html">Workshop information and schedule</a>
 
   
   <div class="contents">     

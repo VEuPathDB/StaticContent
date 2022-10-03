@@ -1,0 +1,16 @@
+= Static Content Scripts
+
+The files in this directory are executables available to Jekyll.
+
+== The `post-process-*` files
+
+The `post-process-*` files in this directory are binary executables, one per operating system.  They are used to generate a SOLR-ready document that captures all relevant content produced by Jekyll. The appropriate script (base on operating system) is run by the Jekyll workflow.  The generated Jekyll files are piped into it.  It produces a single document that summarizes those documents in a form ready for SOLR.
+
+The source for these binaries, and additional detail, is available at https://github.com/VEuPathDB/jekyll-site-search.
+
+=== Updating the binaries
+
+The binaries in this repo are updated by manually rebuilding the
+link:https://github.com/VEuPathDB/jekyll-site-search[jekyll-site-search] project
+and copy/pasting the output binaries into this directory, then commiting them
+to git.

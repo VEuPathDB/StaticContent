@@ -120,13 +120,13 @@ div.instructor-table {
 
 
   <div class="centered-title">
+    <p><h4><b><a href="#Schedule">SCHEDULE and HANDS-ON EXERCISES</a></b></h4></p>
     <p><h4>9am - 1pm (EDT) daily </h4></p>
+    <p><h4><a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Virtual, hands-on workshop with short lectures and small goup instruction</h4></p>
     <p><h4>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</h4></p>
     <p><h4>Recorded lectures and exercises available online after the workshop</h4></p>
-    <p><h4><b>Register here: <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO" target="_blank">https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_elEnAmi5PvtUNwO</a></b></h4></p>
   </div>
-
   
 
 <div class="contents">
@@ -177,54 +177,62 @@ div.instructor-table {
   
   <div class="instructor-table">
     <table>
-      <tr>
-        <th>Instructor</th>
-        <th>Institution</th>
-      </tr>
-      <tr>
-        <td>Rachel Ankirskiy</td>
-        <td>University of Georgia</td>
-      </tr>
-      <tr>
-        <td>Evelina Basenko, PhD</td>
-        <td>University of Liverpool</td>
-      </tr>      
-      <tr>
-        <td>Ulrike Boehme, PhD</td>
-        <td>University of Liverpool</td>
-      </tr>
-      <tr>
-        <td>Gloria I. Giraldo-Calderón, PhD</td>
-        <td>University of Notre Dame</td>
-      </tr>
-      <tr>
-        <td>Omar S. Harb, PhD</td>
-        <td>University of Pennsylvania</td>
-      </tr>      
-      <tr>
-        <td>Mary Ann McDowell, PhD</td>
-        <td>University of Notre Dame</td>
-      </tr>
-      <tr>
-        <td>Sarah Kelly, PhD</td>
-        <td>Imperial College London</td>
-      </tr>
-      <tr>
-        <td>Jessica Kissinger, PhD</td>
-        <td>University of Georgia</td>
-      </tr>
-      <tr>
-        <td>David S. Roos, PhD   Joint-PI</td>
-        <td>University of Pennsylvania</td>
-      </tr>
-      <tr>
-        <td>Samuel Rund, PhD</td>
-        <td>University of Notre Dame</td>
-      </tr>
-      <tr>
-        <td>Susanne Warrenfeltz, PhD</td>
-        <td>University of Georgia</td>
-      </tr>
+      <thead>
+        <tr>
+          <th>Instructor</th>
+          <th>Institution</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Rachel Ankirskiy</td>
+          <td>University of Georgia</td>
+        </tr>
+        <tr>
+          <td>Evelina Basenko, PhD</td>
+          <td>University of Liverpool</td>
+        </tr>      
+        <tr>
+          <td>Ulrike Boehme, PhD</td>
+          <td>University of Liverpool</td>
+        </tr>
+        <tr>
+          <td>Gloria I. Giraldo-Calderón, PhD</td>
+          <td>University of Notre Dame</td>
+        </tr>
+        <tr>
+          <td>Kathryn Crouch, PhD</td>
+          <td>University of Glasgow</td>
+        </tr>
+        <tr>
+          <td>Omar S. Harb, PhD</td>
+          <td>University of Pennsylvania</td>
+        </tr>  
+        <tr>
+          <td>Sarah Kelly, PhD</td>
+          <td>Imperial College London</td>
+        </tr>
+        <tr>
+          <td>Jessica Kissinger, PhD</td>
+          <td>University of Georgia</td>
+        </tr>    
+        <tr>
+          <td>Mary Ann McDowell, PhD</td>
+          <td>University of Notre Dame</td>
+        </tr>
+        <tr>
+          <td>Samuel Rund, PhD</td>
+          <td>University of Notre Dame</td>
+        </tr>
+        <tr>
+          <td>Dave Starns, PhD</td>
+          <td>University of Liverpool</td>
+        </tr>
+        <tr>
+          <td>Susanne Warrenfeltz, PhD</td>
+          <td>University of Georgia</td>
+        </tr>
+      </tbody>
     </table>
     </div>
   <br><br>
@@ -237,36 +245,88 @@ div.instructor-table {
   We invite you to read our most recent publication about VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/" target="_blank">Amos et al 2022</a>).  Please also explore our  <a href="https://www.youtube.com/user/EuPathDB" target="_blank">You Tube Channel</a> and previously recorded <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">webinars and workshops</a>. Our goal is to maintain a fruitful and ongoing conversation between our team and yours to learn more efficient, effective ways to help you reach your goals. Regardless, if you attend the workshop or not, please feel free to email us with questions, new feature suggestions, or new data at <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>.  
   <br><br>
 
+
+  <div class="anchor"><a name="Schedule"></a></div>
   <details open>
-    <summary><b>Preliminary Schedule</b> (check back Sept 1 for more details)</summary>      
+    <summary><b>Schedule</b></summary>   
+    <h4>   
+    <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
     <table class="hor-minimalist-a">
         <thead>
           <tr>
             <th class="break"><b>Tuesday, 6th Sept 2022</b></th>
           </tr>
           <tr>
-            <th class="time">Time</th>
+            <th class="time">Time (Eastern)</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
-            <th>Recording</th>
+            <th class="recording">Recording</th>
           </tr>
         </thead>
         <tbody>         
           <tr>
             <td>8:30am</td>
-            <td>Zoom opens for 'meet and greet' and conncetion testing</td>
+            <td>Zoom opens for 'meet and greet' and connection testing</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9am - 9:30am</td>
-            <td>Welcome and introduction to VEuPathDB</td>
+            <td>9am</td>
+            <td>Welcome, workshop overview, instructor introductions</td>
+            <td>Mary Ann McDowell, Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9:10am</td>
+            <td>Introduction to VEuPathDB - lecture with live demos</td>
+            <td>Omar Harb</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/hGMFNMsB8uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
+          </tr>
+          <tr>
+            <td>10:00am</td>
+            <td>Hands-on exercises<br>
+              <a  target="_blank" href="{{'/documents/Sept2022/1-Site-Search-Sept2022.pdf' | absolute_url}}"><b>Site Search</b></a><br>
+              <a target="_blank" href="{{'/documents/Sept2022/2-Organism-Preferences-Sept2022.pdf' | absolute_url}}"><b>Organism Preferences</b></a><br>
+              <a target="_blank" href="{{'/documents/Sept2022/3-Gene-Page-Sept2022.pdf' | absolute_url}}"><b>Gene Pages</b></a>
+              </td>
+            <td>Break out rooms</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11am</td>
+            <td>Break</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9:30am - 1pm</td>
-            <td>Lectures and exercises with 30 min break</td>
+            <td>11:30am</td>
+            <td>Introduction to Search Strategies</td>
+            <td>Susanne Warrenfeltz</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/WLyVEKi7rUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
+          </tr>
+          <tr>
+            <td>11:45am</td>
+            <td>Hands-on exercise<br>
+            <a target="_blank" href="{{'/documents/Sept2022/4-Search-Strategies-Sept2022.pdf' | absolute_url}}"><b>Search Strategies</b></a><br>
+            <a target="_blank" href="{{'/documents/Sept2022/4a-Search-Strategies-Sept2022.pdf' | absolute_url}}"><b>Search Strategies homework with extra explanation</b></a></td>
+            <td>Break out rooms</td>
+            <td></td>
+          </tr>          
+          <tr>
+            <td>12:45pm</td>
+            <td>Discussion and wrap up</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1pm</td>
+            <td>Free option for discussion and questions</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:30pm</td>
+            <td>Zoom closes</td>
             <td></td>
             <td></td>
           </tr>
@@ -280,10 +340,10 @@ div.instructor-table {
             <th class="break"><b>Wednesday, 7th Sept 2022</b></th>
           </tr>
           <tr>
-            <th class="time">Time</th>
+            <th class="time">Time (Eastern)</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
-            <th>Recording</th>
+            <th class="recording">Recording</th>
           </tr>
         </thead>
         <tbody>         
@@ -294,8 +354,66 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>9am - 1pm</td>
-            <td>Lectures and exercises with 30 min break</td>
+            <td>9am</td>
+            <td>Introduction to the genome browser</td>
+            <td>Gloria I. Giraldo-Calderón</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/9Mdw6GdP5II" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
+          </tr>
+          <tr>
+            <td>9:15am</td>
+            <td>Hands-on exercise<br> <a target="_blank" href="{{'/documents/Sept2022/5-JBrowse-Basics_Sept-2022.pdf' | absolute_url}}"><b>Genome browser basics</b></a></td>
+            <td>Break out rooms</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:15am</td>
+            <td>Exploring gene models in the genome browser</td>
+            <td>Omar Harb</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/7ZIxJcuINtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
+          </tr>
+          <tr>
+            <td>10:45am</td>
+            <td>Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:15am</td>
+            <td>Hands-on exercise<br> <a target="_blank" href="{{'/documents/Sept2022/6-Gene-Models-Adv-Jbrowse-Sept2022.pdf' | absolute_url}}"><b>Exploring gene models in the genome browser</b></a></td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:15pm</td>
+            <td>Gene models discussion</td>
+            <td>Omar Harb</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/zepiEH4Gff0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Gene models discussion from 40 sec to 24 minutes.</td>
+          </tr>
+          <tr>
+            <td>12:45pm</td>
+            <td>Correcting gene models in Apollo</td>
+            <td>Ulrike Böhme</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/zepiEH4Gff0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Apollo introduction starting at about 24 minutes.</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>Optional Apollo homework <br>
+            <a target="_blank" href="{{'/documents/Sept2022/6a-Apollo_optional_exercise.pdf' | absolute_url}}"><b>Apollo optional homework</b></a><br>
+            <a target="_blank" href="{{'/documents/Sept2022/6b-Apollo_optional_exercise_workshop_answer_key-Dave.pdf' | absolute_url}}"><b>Answer key</b></a><br>
+            <a target="_blank" href="https://www.dropbox.com/scl/fo/e5kug9m8l86yihk3204vi/h?dl=0&rlkey=ccdsh5c41bd76yoyxtmclnb5a"><b>Video Answers in dropbox</b></a>
+             </td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00pm</td>
+            <td>Free option discussion and questions</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:30pm</td>
+            <td>Zoom Closes</td>
             <td></td>
             <td></td>
           </tr>
@@ -309,7 +427,7 @@ div.instructor-table {
             <th class="break"><b>Thursday, 8th Sept 2022</b></th>
           </tr>
           <tr>
-            <th class="time">Time</th>
+            <th class="time">Time (Eastern)</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
             <th>Recording</th>
@@ -323,8 +441,66 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>9am - 1pm</td>
-            <td>Lectures and exercises with 30 min break</td>
+            <td>9:00am</td>
+            <td>Transcriptomics and Proteomics data</td>
+            <td>Susanne Warrenfeltz</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/XxI8PBP9vnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>9:30am</td>
+            <td>Hands-on exercise<br>
+            <a target="_blank" href="{{'/documents/Sept2022/7-Transcriptomics-Sept2022.pdf' | absolute_url}}"><b>Transcriptomics</b></a>
+            <br>
+            <a target="_blank" href="{{'/documents/Sept2022/8-Proteomics_Sept2022.pdf' | absolute_url}}"><b>Proteomics</b></a></td>
+            <td>Break out rooms</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:30am</td>
+            <td>Introduction to Galaxy in VEuPathDB</td>
+            <td>Omar Harb</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/-tF82nF4964" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>          
+          <tr>
+            <td>11am</td>
+            <td>Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:30am</td>
+            <td>Single Cell RNA-Seq Lecture</td>
+            <td>Kathryn Crouch</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Bemh1fUeOTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br> Single cell RNA-Seq lecture ends at approximately 49 minutes</td>
+          </tr>
+          <tr>
+            <td>12pm</td>
+            <td>Introduction to Orthology</td>
+            <td>Omar Harb</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/Bemh1fUeOTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br> Introduction to orthology <b>begins</b> at approximately 49 minutes</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>Optional Orthology homework<br>
+            <a target="_blank" href="{{'/documents/Sept2022/8a-Orthology-Phyletic-Patterns-Sept2022.pdf' | absolute_url}}"><b>Orthology homework optional</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:45pm</td>
+            <td>Wrap up</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00pm</td>
+            <td>Free option discussion and questions</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:30pm</td>
+            <td>Zoom Closes</td>
             <td></td>
             <td></td>
           </tr>
@@ -338,7 +514,7 @@ div.instructor-table {
             <th class="break"><b>Friday, 9th Sept 2022</b></th>
           </tr>
           <tr>
-            <th class="time">Time</th>
+            <th class="time">Time (Eastern)</th>
             <th class="event">Topic (and handout)</th>
             <th class="author">Instructor</th>
             <th>Recording</th>
@@ -352,8 +528,73 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>9am - 1pm</td>
-            <td>Lectures and exercises with 30 min break</td>
+            <td>9am</td>
+            <td>Galaxy in VEuPathDB - understanding output files and what to do with them.</td>
+            <td>Kathryn Crouch, Omar Harb</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/EhoPjnUN9t0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Galaxy output files are described until approximately 1 hr 35 min on this video.</td> 
+          </tr>
+          <tr>
+            <td></td>
+            <td>Optional Galaxy exercise<br>
+            <a target="_blank" href="{{'/documents/Sept2022/Galaxy RNAseq groups_AGS.pdf' | absolute_url}}"><b>Suggested data</b></a><br>
+            <a target="_blank" href="{{'/documents/Sept2022/VEuPathDB_RNAseq_Mapping_Galaxy_AGS2022.pdf' | absolute_url}}"><b>Instructions</b></a>
+            </td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10am</td>
+            <td>Ontologies and Enrichment analysis</td>
+            <td>Omar Harb</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/EhoPjnUN9t0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Orthology lecture begins at approximately 1 hr 35 min.</td>
+          </tr>
+          <tr>
+            <td>10:15am</td>
+            <td>Hands-on exercise<br>
+            <a target="_blank" href="{{'/documents/Sept2022/9-GO-Enrichment-Sept2022.pdf' | absolute_url}}"><b>GO enrichment</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:45am</td>
+            <td>Phenotypic data</td>
+            <td>Omar Harb</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/nN0vKjaA0Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>11:00am</td>
+            <td>Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:30am</td>
+            <td>Hands-on exercise<br>
+            <a target="_blank" href="{{'/documents/Sept2022/10_Phenotypic_data_Sept2022.pdf' | absolute_url}}"><b>Phenotypic Data</b></a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:00pm</td>
+            <td>MapVEu, mosquito surveillance data </td>
+            <td>Sam Rund</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/rvJZSNOwLYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
+            <td>12:30pm</td>
+            <td>Final wrap up</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00pm</td>
+            <td>Free option discussion and questions</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:30pm</td>
+            <td>Zoom Closes</td>
             <td></td>
             <td></td>
           </tr>

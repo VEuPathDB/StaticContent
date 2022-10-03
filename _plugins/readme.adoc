@@ -1,0 +1,19 @@
+= Static Content Plugins
+
+== `site-search.rb`
+
+This plugin generates a SOLR friendly JSON representation of all of the static
+content in this repo.
+
+The plugin is called after the Jekyll content is rendered as HTML but before it
+is written out to file.
+
+It passes each generated page and collection to a "post-process" binary
+executable from the
+link:https://github.com/VEuPathDB/StaticContent/tree/master/_scripts[`_scripts`]
+directory.
+
+For more information about the binary executables, see the readme in the
+link:https://github.com/VEuPathDB/StaticContent/tree/master/_scripts[`_scripts`]
+directory or the readme in the
+link:https://github.com/VEuPathDB/jekyll-site-search[jekyll-site-search] repo.
