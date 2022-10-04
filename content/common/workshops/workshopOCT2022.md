@@ -239,7 +239,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
           <tr>
             <td>10:10 AM</td>
             <td>Guided hands-on exercises<br>
-              <a  target="_blank" href=""><b>Site Search, Organism Preferences, Search strategies I</b></a><br>
+              <b>Site Search, Organism Preferences, Search strategies I</b></a><br>
             </td>
             <td>Break out rooms<br>Omar Harb<br>Evelina Basenko<br>Uli Böhme</td>
             <td>Not recorded</td>
@@ -283,7 +283,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
           </tr>
           <tr>
             <td>9:50 AM</td>
-            <td>FungiDB demonstration <br>Gene record pages and JBrowse.<br> <a target="_blank" href=""><b>Genome browser basics (supplementary tutorial)</b></a></td>
+            <td>FungiDB demonstration <br>Gene record pages and JBrowse.<br><b>Genome browser basics (supplementary tutorial)</b></a></td>
             <td>Evelina Basenko</td>
             <td>Recorded
             <!--<iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>--><br></td>
