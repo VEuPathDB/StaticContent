@@ -239,7 +239,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
           <tr>
             <td>10:10 AM</td>
             <td>Guided hands-on exercises<br>
-              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}"><b>Site Search, Organism Preferences, Search strategies I</b></a><br>
+              <a  target="_blank" href=""><b>Site Search, Organism Preferences, Search strategies I</b></a><br>
             </td>
             <td>Break out rooms<br>Omar Harb<br>Evelina Basenko<br>Uli Böhme</td>
             <td>Not recorded</td>
@@ -276,14 +276,14 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
           <tr>
             <td>9:30 AM</td>
             <td>Guided hands-on exercises<br>
-              <a  target="_blank" href="{{'/documents/CPS2022/Day2_Search_Strategies_CPS.pdf' | absolute_url}}"><b>Search strategies, cont.</b></a><br>
+              <a  target="_blank" href=""><b>Search strategies, cont.</b></a><br>
             </td>
             <td>Break out rooms<br>Omar Harb<br>Evelina Basenko<br>Uli Böhme</td>
             <td>Not recorded</td>
           </tr>
           <tr>
             <td>9:50 AM</td>
-            <td>FungiDB demonstration <br>Gene record pages and JBrowse.<br> <a target="_blank" href="{{'/documents/CPS2022/Day2_JBrowseBasics_CPS.pdf' | absolute_url}}"><b>Genome browser basics (supplementary tutorial)</b></a></td>
+            <td>FungiDB demonstration <br>Gene record pages and JBrowse.<br> <a target="_blank" href=""><b>Genome browser basics (supplementary tutorial)</b></a></td>
             <td>Evelina Basenko</td>
             <td>Recorded
             <!--<iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>--><br></td>
