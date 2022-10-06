@@ -219,6 +219,108 @@ category: [FungiDB,VEuPathDB]
 
           <br>
        
+       <h4>Phenotype data</h4>
+            
+        <ul>
+        <li><a href="/a/app/record/dataset/DS_f2312514ac">Manually curated Phenotypes (VEuPathDB)</a> &ndash; 
+            We have curated and integrated phenotypes from <a href="https://pubmed.ncbi.nlm.nih.gov/26529322/" target="_blank">Lin et al. 2015</a> and 
+            <a href="https://pubmed.ncbi.nlm.nih.gov/29150592/" target="_blank">Dos Reis et al. 2018</a> for <i>Aspergillus fumigatus</i> Af293 in this release.    
+         </li>
+        </ul>
+        
+          <div style="margin-left: 3em;">
+                    <style>
+                      #Phenotype_Bld60Asp table, #Phenotype_Bld60Asp td, #Phenotype_Bld60Asp th, #Phenotype_Bld60Asp tr {
+                      text-align : left;
+                      padding-left: 5px;
+                      padding-right: 5px;
+                      padding-top: 5px;
+                      padding-bottom: 5px;
+                      border: 1px solid black;
+                      }
+                      #Phenotype_Bld60Asp {
+                      margin-left : 5 em;
+                      }
+                    </style> 
+                      <table id="Phenotype_Bld60Asp"> 
+                      <tr>
+                        <th>Species</th>
+                        <th>New phenotype mappings</th>
+                        <th>Genes with phenotypes</th>
+                      </tr>
+                      <tr>
+                        <td><i>Aspergillus fumigatus</i> Af293</td>
+                        <td>47</td>
+                        <td>4</td>
+                      </tr>
+                      </table>
+            </div>
+            
+    <ul>
+        <li><a href="/a/app/record/dataset/ DS_8cb36b3135">Manually curated Phenotypes from MagnaGenes database (Foster et al)</a> &ndash; 
+            <a href="https://zenodo.org/record/4647766#.Yz6zFi8w3UI" target="_blank">MagnaGenes</a> is a database that compiles and summarizes 
+            all the available studies reporting phenotypic data about gene function in the blast fungus <i>Pyricularia oryzae</i>. The currently integrated 
+            v2.0 of MagnaGenes database provides reported phenotypic annotations for 1,679 genes from <i>Pyricularia oryzae</i> 70-15. After consultation with the MagnaGenes team, 
+            these annotations were mapped to OBO-foundry consistent ontologies by the VEuPathDB team.
+         </li>
+    </ul>
+          <br>
+          
+           <h4>Updated Functional Annotation</h4>
+       		<ul>
+             <li>
+             <a href="https://docs.google.com/spreadsheets/d/1H7CN8BYKNoqMrG88bRdnBRr4nD3tXab7BYS5VBEww4g/edit?usp=sharing" target="_blank">Summary of annotation updates</a>
+               which include gene names, products, GO terms, publications and notes from curators. These functional annotations are current with GeneDB September 2022 GFF version.
+            </li>
+            </ul> 
+               
+            <div style="margin-left: 3em;">   
+             <style>
+                #FunctAnnot_Bld60 table, #FunctAnnot_Bld60 td, #FunctAnnot_Bld60 th, #FunctAnnot_Bld60 tr {
+                text-align : center;
+                padding-left: 5px;
+                padding-right: 5px;
+                padding-top: 5px;
+                padding-bottom: 5px;
+                border: 1px solid black;
+                }
+                #FunctAnnot_Bld60 {
+                margin-left : 5 em;
+                }
+              </style> 
+                <table id="FunctAnnot_Bld60"> 
+                <tr>
+                  <th>FungiDB Genome Version</th>
+                  <th>Download GeneDB GFF file</th>
+                  <th>Genes Updated</th>
+                </tr>
+                <tr>
+                  <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on FungiDB."><a href="https://fungidb.org/fungidb/app/record/dataset/DS_071f05cd56"><i>Aspergillus fumigatus</i> Af293</a></td>
+                  <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-09/AfumigatusAf293/AfumigatusAf293.gff.gz">GeneDB version September, 2022</a></td>
+                  <td>306</td>
+                </tr>
+                <tr>
+                  <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on FungiDB."><a href="https://fungidb.org/fungidb/app/record/dataset/DS_4b35c88aa1"><i>Aspergillus nidulans</i> FGSC A4</a></td>
+                  <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-09/AnidulansFGSCA4/AnidulansFGSCA4.gff.gz">GeneDB version September, 2022</a></td>
+                  <td>8</td>
+                </tr>
+                <tr>
+                  <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on FungiDB."><a href="https://fungidb.org/fungidb/app/record/dataset/DS_cd90ec7602"><i>Fusarium graminearum</i> PH-1</a></td>
+                  <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-09/FgraminearumPH1/FgraminearumPH1.gff.gz">GeneDB version September, 2022</a></td>
+                  <td>3598</td>
+                </tr>
+                </table>
+                </div>
+                
+        <ul>
+             <li>
+             Functional annotations from MagnaGenes database (Foster et al) &ndash; Functional annotations that are currently not available in FungiDB and are available in 
+             <a href="https://zenodo.org/record/4647766#.Yz6zFi8w3UI">MagnaGenes database</a> were integrated in this release. These include 778 new gene names, 100 gene 
+             synonyms and 374 new publications. The parsed annotations can be found <a href="https://docs.google.com/spreadsheets/d/19fhSPUJ-WerKmN-9xKMHnTIUINcxh2kMsECvTUIRUKs/edit?usp=sharing">here</a>.
+        	</li>
+        </ul> 
+                <br>
+       
        </div>
         
 <section>
