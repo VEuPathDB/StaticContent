@@ -371,3 +371,76 @@
            <p>to get all files in that folder.</p>
   uid: programmaticallydownloadgenomefiles
   projects: ""
+
+- type: download
+  question: "How can I convert GFF downloads to GTF format?"
+  answer: |
+          <b>Why doesn't VEuPathDB offer GTF downloads?</b>
+          <p>GTF and GFF formats contain broadly the same type of data; a table of features in a genome referencing the chromosome or contig the feature is found on, the coordinates of the feature and some metadata about the feature. GTF is a tightly structured format which only supports genes and sub-features of genes (UTRs, exons, CDS etc.). GFF is more flexible. We have chosen to use GFF because it allows us to include other types of features where it is relevant to do so, for example centromeres or repeat regions. It also allows us to provide more information about certain kinds of features, for example to differentiate protein-coding genes from non-coding genes.</p>
+          <br>
+
+          <b>What are the differences between GFF and GTF files?</b>
+          <p>Both formats are tab delimited files with 9 columns. The columns are as follows:
+              <ol>
+                  <li>Sequence identifier: the chromosome or contig containing this feature</li>
+                  <li>Source: the source of this annotation</li>
+                  <li>Feature: the type of feature (gene, transcript, exon, CDS etc.)</li>
+                  <li>Start: the start coordinate for this feature</li>
+                  <li>End: the end coordinate for this feature</li>
+                  <li>Score: If relevant a score for this feature. (empty if no score)</li>
+                  <li>Strand: If relevant, the strand for this feature (+, - or empty)</li>
+                  <li>Frame: If relevant, the frame for this feature (0, 1, 2 or empty)</li>
+                  <li>Attributes: Metadata about this feature</li>
+              </ol>
+          </p>
+          <br>
+          <p>The differences between GFF and GTF formats are in column 3, and column 9.</p>
+          <br>
+
+          <p>Column three defines the type of feature. GTF files only allow a restricted set of types:
+              <ul>
+                  <li>gene</li>
+                  <li>transcript</li>
+                  <li>exon</li>
+                  <li>CDS</li>
+                  <li>Selenocysteine</li>
+                  <li>start_codon</li>
+                  <li>stop_codon</li>
+                  <li>three_prime_utr</li>
+                  <li>five_prime_utr</li>
+              </ul>
+          </p>
+          <p>GFF files are much less restrictive, allowing inclusion of any term from the <a href="http://www.sequenceontology.org/" target="_blank" title="Sequence Ontology">Sequence Ontology</a>.</p>
+          <br>
+
+          <p>Column nine allows inclusion of metadata about the feature. GTF files require metadata in the format <i>attribute1 "attribute_value1"; attribute2 "attribute_value2"</i>. The attributes must contain an ID containing a unique identifier for the feature, and gene_id, and transcript_id attributes defining the parents of each feature. GFF files require metadata in the format <i>attribute1=attribute_value1;attribute2=attribute_value2</i>. The attributes must contain an ID attribute containing a unique identifier for the feature, and features that have parents must reference the ID of their direct parent using a Parent attribute.</p>
+
+          <p>For more information about GFF and GTF formats, see <a href="https://agat.readthedocs.io/en/latest/gxf.html" target="_blank" title="GFF and GTF formats">this</a> page.</p>
+          <br>
+
+          <b>Do I need to convert GFF to GTF?</b> 
+          <p>Not always!</p>
+
+          <p>In addition to the mandatory Parent attribute in GFF files, we have added a gene_id attribute compatible with the GTF specification. This means that you can use our GFF files directly with some tools without conversion. <a href="https://htseq.readthedocs.io/en/release_0.11.1/index.html" target="_blank" title="HTSeq-count">HTSeq-count</a> is an example of one tool where this is possible.</p>
+
+          <p>There are some circumstances where you will need to convert. These include:
+              <ul>
+                  <li>When a tool comes across sequence ontology terms in column 3 of the GFF file that are not allowed in GTF files. Some tools will ignore these terms, but for other tools these will cause errors</li>
+                  <li>When a tool does not understand the format of the attribute column (column 9) in a GFF file</li>
+              </ul>
+          </p>
+          <br>
+
+          <b>How do I convert to GTF format?</b>
+          <p>Converting GFF to GTF is not always straight forward because both formats have flexible specifications. A common problem is robustly mapping the diverse Sequence Ontology terms allowed in GFF files to the resticted set allowed in GTF files. Many tools are available to do this conversion, but not all will work as expected. We recommend <a href="https://agat.readthedocs.io/en/latest/" target="_blank" title="AGAT">AGAT</a> as we have worked with the developers to ensure their tools is fully compatible with the Sequence Ontology terms used in our GFF files.</p>
+          <br>
+
+          <b>Running AGAT at the command line</b>
+          <p>In order to use AGAT, <i>please ensure you have version 0.9.0 or later installed</i> for full compatibility with our GFF files. Installation instructions can be found <a href="https://github.com/NBISweden/AGAT#installation" target="_blank" title="AGAT installation">here</a>. We recommend Conda as the easiest method for most people. AGAT has many scripts for interacting with GFF files. For GFF to GTF conversion, the script required is called <i>agat_convert_sp_gff2gtf.pl</i>. An example command line is:<br><br><i>agat_convert_sp_gff2gtf.pl --gff myGffFile.gff -o myGtfFile.gtf</i>.<br><br><i>myGffFile.gff</i> and <i>myGtfFile.gtf</i> should be substituted for the name of the GFF file you wish to convert, and the desired name of your GTF file.</p>
+          <br>
+
+          <b>Running AGAT in Galaxy</b>
+          <p>If you aren't comfortable installing and running AGAT at the command line, we also have this tool available in our Galaxy instance.</p>
+  uid: gfftogtf
+  projects: ""
+
