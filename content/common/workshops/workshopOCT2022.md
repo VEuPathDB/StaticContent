@@ -283,7 +283,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
           </tr>
           <tr>
             <td>9:50 AM</td>
-            <td>FungiDB demonstration <br>Gene record pages and JBrowse.<br><b>Genome browser basics (supplementary tutorial)</b></td>
+            <td>FungiDB demonstration <br>Gene record pages and JBrowse.<br><a  target="_blank" href="{{'/documents/CPS2022/Day2_JBrowseBasics_CPS.pdf' | absolute_url}}"><b>Genome browser basics (supplementary tutorial)</b></a></td>
             <td>Evelina Basenko</td>
             <td>Recorded
             <!--<iframe width="180" height="115" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>--><br></td>
