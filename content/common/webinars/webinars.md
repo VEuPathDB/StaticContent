@@ -26,7 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">   
     
- <p><b>Thursday November 10th, 2022:</b> <a href="#release59">Release 60 Webinar</a></p>
+ <p><b>Tuessday November 15th, 2022:</b> <a href="#release59">Release 60 Webinar</a></p>
 
   </div>
   
@@ -98,7 +98,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="anchor"><a name="release60"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 60 Webinar<br>
-<b>Date:</b> Thursday November 10th, 2022<br>
+<b>Date:</b> Tuesday November 15th, 2022<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registraion:</b> Registration links will be available 7-10 days prior to a release webinar.<br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 60 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
