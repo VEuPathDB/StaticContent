@@ -228,13 +228,13 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
             <td>9:40 AM</td>
             <td>Introduction to VEuPathDB resources</td>
             <td>Omar Harb</td>
-            <td>Recorded<!--<iframe width="180" height="115" src="https://youtu.be/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>--><br></td>
+            <td>Recorded<iframe width="180" height="115" src="https://youtu.be/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>9:50 AM</td>
             <td>Introduction to FungiDB - lecture with live demos</td>
             <td>Evelina Basenko</td>
-            <td>Recoded<!--<iframe width="180" height="115" src="https://youtu.be/0B8a9LsZQNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>--><br></td>
+            <td>Recoded<iframe width="180" height="115" src="https://youtu.be/0B8a9LsZQNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>10:10 AM</td>
