@@ -20,7 +20,7 @@ tags: [general]
   <div>
      <!--    "{{ '/resources.html' | relative_url }}"    -->
      <!--   "/a/app/community/ClinEpiDB/resources.html"  -->
-    <p>This video provides an introduction to our platform.</p>
+    <p>The video embedded below provides a short introduction to our platform. For a more in-depth explanation, see our <a target="_blank" href="https://youtu.be/wkA7A-znMVk">30-minute video</a>.</p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/jfiBfhxItMc"></iframe>
     </div>
 
