@@ -12,7 +12,7 @@ tags: [general]
     <div>
       <p>ClinEpiDB, launched in February 2018, is an open-access exploratory data analysis platform. We integrate data from high quality epidemiological studies, and offer tools and visualizations to explore the data within the browser in a point and click interface. We enable investigators to maximize the utility and reach of their data and to make optimal use of data released by others.</p>
       <p>ClinEpiDB is led by a team of scientists and developers based at the University of Pennsylvania, the University of Georgia, Imperial College London, and several other academic institutions. Currently, we are funded by the Bill and Melinda Gates Foundation for resource development and data integration, and by NIAID for integration of data from the International Centers of Excellence in Malaria Research (ICEMR). </p>
-      <p>Learn more by reading our paper in <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661">Gates Open Research- ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies</a>.
+      <p>Learn more by reading our paper in Gates Open Research - <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661">ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies</a>.
       </p>
     </div>
 
@@ -45,54 +45,56 @@ tags: [general]
         Cristina Aurrecoechea<sup>1</sup>, 
         Ana Barreto<sup>2</sup>, 
         Wojtek Bazant<sup>3</sup>, 
-        Dan Beiting<sup>2</sup>, 
-        Bob Belnap<sup>1</sup>, 
+        Dan Beiting<sup>2</sup>,  
         Ann Blevins<sup>2</sup>, 
-        John Brestelli<sup>4</sup>, 
-        Brian Brunk<sup>2</sup>, 
+        John Brestelli<sup>2</sup>, 
         Danielle Callan<sup>2</sup>, 
         George Christophides<sup>5</sup>, 
         Jeremy DeBarry<sup>1</sup>, 
-        Ryan Doherty<sup>4</sup>, 
+        Ryan Doherty<sup>2</sup>, 
         Dave Falke<sup>1</sup>, 
-        Steve Fischer<sup>4</sup>, 
+        Steve Fischer<sup>2</sup>, 
+        Dan Galdi<sup>2</sup>, 
         Omar S. Harb<sup>2</sup>, 
         Elizabeth Harper<sup>2</sup>, 
         Danica Helb<sup>2</sup>, 
-        Connor Howington<sup>6</sup>, 
+        Connor Howington<sup>5</sup>, 
         Jay Humphrey<sup>1</sup>,
         Bindu Gajria<sup>2</sup>,
         John Judkins<sup>2</sup>, 
-        Sarah Kelly<sup>5</sup>, 
+        Sarah Kelly<sup>4</sup>, 
         Nupur Kittur<sup>1</sup>, 
-        Timothy Kizza<sup>7</sup>, 
-        Dae Kun Kwon<sup>6</sup>, 
-        Jamie Long<sup>2</sup>, 
-        Bob MacCallum<sup>5</sup>,
+        Dae Kun Kwon<sup>5</sup>, 
+        Bob MacCallum<sup>4</sup>,
         Greg Milewski<sup>2</sup>,
-        Isaiah Nabende<sup>7</sup>, 
-        Jaffer Okiring<sup>7</sup>, 
+        Jeremy Myers<sup>2</sup>,
+        Isaiah Nabende<sup>6</sup>, 
+        Jaffer Okiring<sup>6</sup>, 
         David S. Roos<sup>2#</sup>, 
         Steph Wever Schulman<sup>2</sup>, 
         Weilu Song<sup>2</sup>, 
-        Christian J. Stoeckert Jr.<sup>4</sup>, 
         Sheena Shah Tomko<sup>2</sup>,
-        Robert Wieck<sup>6</sup>,
-        Jie Zheng<sup>4</sup> 
+        Robert Wieck<sup>5</sup>,
+        Jie Zheng<sup>2</sup> 
       </div>
       <br>
-    <h4>Previous ClinEpiDB Team Members, 2018-2021</h4><br>
+    <h4>Previous ClinEpiDB Team Members, 2018-2022</h4><br>
       <div>
+      Bob Belnap<sup>1</sup>, 
       Austin Billings<sup>2</sup>, 
-      Ja'Shon Cade<sup>2</sup>, 
+      Brian Brunk<sup>2</sup>,
+      Ja'Shon Cade<sup>2</sup>,
       Cristian Cocos<sup>2</sup>, 
-      San James<sup>7</sup>, 
-      Victor Kamya<sup>7</sup>, 
-      Jessica C Kissinger<sup>1</sup>, 
+      San James<sup>6</sup>, 
+      Victor Kamya<sup>6</sup>, 
+      Jessica C Kissinger<sup>1</sup>,
+      Timothy Kizza<sup>6</sup>, 
       Carolyn Knoll<sup>2</sup>, 
       Brianna Lindsay<sup>2</sup>, 
-      Emmanuel Ruhamyankaka<sup>7</sup>, 
-      Lin Xu<sup>2</sup> 
+      Jamie Long<sup>2</sup>,
+      Emmanuel Ruhamyankaka<sup>6</sup>, 
+      Christian J. Stoeckert Jr.<sup>2</sup>,
+      Lin Xu<sup>2</sup>
       </div>
     <br>
     <br>
@@ -102,7 +104,6 @@ tags: [general]
       <li>University of Georgia, Athens, GA 30602, USA</li>
       <li>University of Pennsylvania, Philadelphia, PA 19104, USA</li>
       <li>University of Glasgow, Glasgow, Scotland G12 8QQ, UK</li>
-      <li>University of Pennsylvania School of Medicine, Philadelphia, PA 19104, USA</li>
       <li>Imperial College London, South Kensington, London SW7 2BU, UK</li>
       <li>University of Notre Dame, Notre Dame, IN 46556, USA</li>
       <li>Makerere University and Infectious Diseases Research Collaboration (IDRC), Kampala, Uganda</li>
