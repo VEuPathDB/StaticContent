@@ -90,7 +90,7 @@ table#hor-minimalist-a tfoot tr {
     <p>
       <b>Date:</b> Sunday, October 30th, 2022 <br>
       <b>Time:</b> 8 AM - 1 PM US PT <br>
-      <b>Location:</b> Seattle Convention Center, Seattle, USA<br>
+      <b>Location:</b> Seattle Convention Center (Skagit 3, Lower Level), Seattle, USA<br>
       <b>Registration:</b> Registration is now closed
     </p>
     <p>
@@ -98,7 +98,7 @@ table#hor-minimalist-a tfoot tr {
     </p>
     <p>Note: All attendees must 1) be <a target="_blank" href="https://www.astmh.org/annual-meeting/registration">registered for the Annual Meeting</a>, 2) have U.S. citizenship, permanent residency, or a valid visa to attend this workshop in person, and 3) have a laptop with a web browser (Chrome, Firefox, etc). 
     </p>
-    <p>The workshop is free for all participants. To offset the cost of traveling to attend the workshop, applicants are able to apply for a limited number of scholarships (200 USD each). Applications will be evaluated on a case-by-case basis. Preference will be given to individuals in one or more of the following categories:
+    <p>The workshop is free for all participants. To offset the cost of traveling to attend the workshop, applicants are able to apply for a limited number of scholarships ($200 USD each). Applications will be evaluated on a case-by-case basis. Preference will be given to individuals in one or more of the following categories:
       <ul>
         <li>Individuals from LMICs</li>
         <li>Students/trainees</li>
@@ -134,7 +134,6 @@ table#hor-minimalist-a tfoot tr {
 <td><b>Welcome and Introduction</b>
 <ul>
   <li>Instructor introductions</li>
-  <li>ClinEpiDB and FAIR data introduction</li>
   <li>Workshop objectives and agenda</li>
 </ul>
 </td>
@@ -144,7 +143,7 @@ table#hor-minimalist-a tfoot tr {
 <td> 8:20 AM PT
 <br> <i>20 min</i>
 </td>
-<td><b>Brainstorming Exercise</b> - Opportunities & challenges of sharing and reuse of epidemiological datasets (FAIR data)
+<td><b>ClinEpiDB and FAIR data introduction</b> - Opportunities & challenges of sharing and reuse of epidemiological datasets (FAIR data)
 </td>
 </tr>
 
@@ -155,7 +154,7 @@ table#hor-minimalist-a tfoot tr {
 <td><b>Navigating ClinEpiDB</b> - searching for variables and datasets; overview of analysis workspace and features; use of ontologies in harmonizing data
 <ul>
   <li>Lecture (20 min)</li>
-  <li>Hands-on exercise - Enteric disease (30 min)</li>
+  <li>Exercise: <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part2exercise_navigating_GEMS1.pdf' | absolute_url}}">Navigating the ClinEpiDB platform, rotavirus in Kenya</a> (30 min)</li>
   <li>Discussion (10 min)</li>
 </ul>
 </td>
@@ -168,7 +167,8 @@ table#hor-minimalist-a tfoot tr {
 <td><b>Uploading Data</b> - uploading simple datasets to ClinEpiDB
 <ul>
   <li>Lecture (10 min)</li>
-  <li>Hands-on exercise - Upload <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/malaria_example.csv' | absolute_url}}" target="_blank">toy dataset</a> (10 min)</li>
+  <li>Exercise: <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part3exercise_upload_data.pdf' | absolute_url}}">Uploading your own dataset</a> (10 min)</li>
+  <li><a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/malaria_example.csv' | absolute_url}}">Toy dataset</a> for uploading</li>
 </ul>
 </td>
 </tr>
@@ -188,9 +188,9 @@ table#hor-minimalist-a tfoot tr {
 <td><b>Exploratory Data Analysis</b> - formulating a hypothesis; exploring, subsetting, and plotting data; adding notes; sharing an analysis
 <ul>
   <li>Lecture (20 min)</li>
-  <li>Hands-on exercise - Malaria (30 min)</li>
+  <li>Exercise: <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part4exercise_eda_malaria.pdf' | absolute_url}}">Exploratory data analysis on ClinEpiDB, malaria in Uganda</a> (30 min)</li>
   <li>Lecture (5 min)</li>
-  <li>Hands-on exercise - Schistosomiasis or self-guided (15 min)</li>
+  <li>Exercise: <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part4exercise_eda_SCORE.pdf' | absolute_url}}">Exploratory data analysis on ClinEpiDB, urinary schistosomiasis in Mozambique</a> (15 min)</li>
   <li>Discussion (10 min)</li>
 </ul>
 </td>
@@ -203,7 +203,7 @@ table#hor-minimalist-a tfoot tr {
 <td><b>Downloading Data</b> - submitting data access requests; downloading complete datasets or generating a subset of data to download
 <ul>
   <li>Lecture (10 min)</li>
-  <li>Hands-on exercise (10 min)</li>
+  <li>Exercise: <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part5exercise_download_data.pdf' | absolute_url}}">Downloading data from ClinEpiDB</a> (10 min)</li>
 </ul>
 </td>
 </tr>
@@ -214,7 +214,7 @@ table#hor-minimalist-a tfoot tr {
 </td>
 <td><b>Uploading Data</b> (part 2) - using ClinEpiDB tools to examine your data
 <ul>
-  <li>Hands-on exercise (20 min)</li>
+  <li>Exercise: <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part6exercise_upload_data.pdf' | absolute_url}}">Exploring your uploaded dataset</a> (20 min)</li>
 </ul>
 </td>
 </tr>
@@ -224,6 +224,12 @@ table#hor-minimalist-a tfoot tr {
 <br> <i>40 min</i>
 </td>
 <td><b>Wrap-up</b> - Share takeaways from the workshop; Q&A
+<ul>
+  <li>Break-out group discussion (10 min)</li>
+  <li>Group summary (10 min)</li>
+  <li>Q&A (15 min)</li>
+  <li><a target="_blank" href="https://upenn.co1.qualtrics.com/jfe/form/SV_3rttyabz5zGWa7I">Workshop survey</a> (5 min)</li>
+</ul>
 </td>
 </tr>
 
