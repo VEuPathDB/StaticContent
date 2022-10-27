@@ -445,7 +445,7 @@
           <ol>
             <li>Find the AGAT tool in the left-hand tool menu. Use the search box if you can't immediately see it.<br><br><img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/AGAT_Galaxy1.png" alt="Screenshot showing how to find the AGAT tool in Galaxy"/></li>
             <li>In the upper box (1) select "Locally cached". In the next box (2), select the genome that you want to convert. Click "Execute" (3). Alternatively, if you have uploaded your own GFF file for conversion, select "From history" in box 1, and then select the file you have uploaded in box 2.<br><br><img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/AGAT_Galaxy2.png" alt="Screenshot showing how to configure the AGAT tool in Galaxy"/></li>
-            <li>If you job runs successfully, it will appear as a green box in the right-hand pane. Click on this to expand it. Download your converted file by clicking on the save icon (red box).<br><br><img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/AGAT_Galaxy3.png" alt="Screenshot showing how to download AGAT output from Galaxy"/>
+            <li>If your job runs successfully, it will appear as a green box in the right-hand pane. Click on this to expand it. Download your converted file by clicking on the save icon (red box).<br><br><img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/AGAT_Galaxy3.png" alt="Screenshot showing how to download AGAT output from Galaxy"/>
   uid: gfftogtf
   projects: ""
 
