@@ -1,0 +1,156 @@
+---
+categories: []
+layout: post
+title: PlasmoDB 60 Released
+category: [PlasmoDB,VEuPathDB]
+---
+{% assign project = page.category[0] %}
+
+
+<h3>We are pleased to announce the release of {{project}} 60.</h3>
+
+<section>
+  <h3>Release 60 Webinar</h3>
+  <div style="margin-left: 3em;">
+    Join us on Thursday November 17th, 2022 at 10am EST for our Release 60 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 60.  
+    <a href="https://attendee.gotowebinar.com/register/8994775200159032332" target="_blank">Register here</a>  
+  </div>
+  <br>
+</section>
+
+<section>
+  <h3>New data in {{project}} 60</h3>
+  <div style="margin-left: 3em;">
+    <h4>Genome updates:</h4> the following assemblies were updated to the INSDC version to avoid small discrepancies between public versions. 
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_8b3f023c86"><i>Plasmodium praefalciparum</i> G01</a> &ndash; <a href="https://www.ncbi.nlm.nih.gov/assembly/GCA_900095595.1" target="_blank">GCA_900095595.1</a>.</li>
+
+        <li><a href="/a/app/record/dataset/DS_b9f1ee69f5"><i>Plasmodium yoelii yoelii</i> YM</a> &ndash; <a href="https://www.ncbi.nlm.nih.gov/assembly/GCA_900002395.1" target="_blank">GCA_900002395.1</a>.</li>
+      </ul>
+      <br>
+    <h4>Genome Sequence and Annotation</h4>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_dec5c1afd1"><i>Plasmodium vivax</i> PvW1</a> &ndash; PacBio and Illumina sequencing reads were assembled into 14 P. vivax chromosomes).  This annotated genome appears for the first time in PlasmoDB <a href="http://www.ncbi.nlm.nih.gov/pubmed/34609964" target="_blank">Minassian et al. 2021</a>.</li>
+      </ul>
+      <br>
+    <h4>Updated Functional Annotation</h4>
+
+      <p><a href="https://docs.google.com/spreadsheets/d/12NpieJFpJZQF6d9j1HA7X70EWXmZN-OU9M1MgL5db1c/edit#gid=1112700546" target="_blank">Summary of annotation updates</a> which include products, GO terms, gene names, synonyms and PMID. Functional annotations in PlasmoDB 60 are current with the <a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-09/" target="_blank">GeneDB GFF versions from September 2022</a>. </p>
+      
+      <style>
+         #FunctAnnot_Bld60 table, #FunctAnnot_Bld60 td, #FunctAnnot_Bld60 th, #FunctAnnot_Bld60 tr {
+         text-align : center;
+         padding-left: 5px;
+         padding-right: 5px;
+         padding-top: 5px;
+         padding-bottom: 5px;
+         border: 1px solid black;
+         }
+         #FunctAnnot_Bld60 {
+         margin-left : 5 em;
+         }
+       </style> 
+         <table id="FunctAnnot_Bld60"> 
+         <tr>
+           <th>PlasmoDB Genome Version</th>
+           <th>Download GeneDB GFF file</th>
+           <th>Genes Updated</th>
+         </tr>
+         <tr>
+           <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_f2d80510c7"><i>P. berghei</i> ANKA </a></td>
+           <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-09/Pberghei/">GeneDB version September 2022</a></td>
+           <td>68 genes</td>
+         </tr>
+         <tr>
+           <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_5dab6e4a9f"><i>P. chabaudi</i> AS </a></td>
+           <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-09/Pchabaudi/">GeneDB version September 2022</a></td>
+           <td>68 genes</td>
+         </tr>
+         <tr>
+           <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_1d17c1883c"><i>P. falciparum</i> 3D7 </a></td>
+           <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-09/Pfalciparum/">GeneDB version September 2022</a></td>
+           <td>127 genes</td>
+         </tr>
+         <tr>
+           <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_22b4dadc51"><i>P. gallinaceum</i> 8A </a></td>
+           <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-09/Pgallinaceum/">GeneDB version September 2022</a></td>
+           <td>69 genes</td>
+         </tr>
+         <tr>
+           <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_8793a259f4"><i>P. knowlesi</i> H </a></td>
+           <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-09/Pknowlesi/">GeneDB version September 2022</a></td>
+           <td>69 genes</td>
+         </tr>
+         <tr>
+           <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_3986a0b578"><i>P. malariae</i> UG01 </a></td>
+           <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-09/Pmalariae/">GeneDB version September 2022</a></td>
+           <td>69 genes</td>
+         </tr>
+         <tr>
+           <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_99a2d5bf10"><i>P. ovale curtisi</i> GH01 </a></td>
+           <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-09/Povale/">GeneDB version September 2022</a></td>
+           <td>69 genes</td>
+         </tr>
+         <tr>
+           <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_91fa338f8f"><i>P. reichenowi</i> CDC </a></td>
+           <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-09/Preichenowi/">GeneDB version September 2022</a></td>
+           <td>69 genes</td>
+         </tr>
+         <tr>
+           <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_c3f289d21a"><i>P. relictum</i> SGS1 </a></td>
+           <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-09/Prelictum/">GeneDB version September 2022</a></td>
+           <td>70 genes</td>
+         </tr>
+         <tr>
+           <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_ad07e73d42"><i>P. vivax</i> P01 </a></td>
+           <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-09/PvivaxP01/">GeneDB version September 2022</a></td>
+           <td>72 genes</td>
+         </tr>
+         <tr>
+           <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_b5a76b5939"><i>P. yoelii yoelii</i> 17X </a></td>
+           <td title="Click here to download GeneDB's GFF file for this genome."><a href="ftp://ftp.sanger.ac.uk/pub/genedb/releases/2022-09/Pyoelii/">GeneDB version March 2022</a></td>
+           <td>68 genes</td>
+         </tr>
+         </table>
+         <br>
+    <h4>Structure Predictions</h4> 
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_dc1c8cb24c">AlphaFold Predictions</a> &ndash; are updated to AlphaFold Release 4 (July 2022) which offers predictions for significantly more proteins than Release 3.  Use {{project}}'s <a href="/a/app/search/transcript/GenesWithAlphafold">Genes with AlphaFold Predictions</a> search to explore genes with AlphaFold predictions or visit the Structure Analysis section of your favorite gene page to view data relevant to you.</li> 
+      </ul>
+      <br>
+  </div>
+</section>
+
+<section>
+  <h3>New features in {{project}} 60</h3>
+  <div style="margin-left: 3em;">
+  
+  <h4>{{project}} site search accesses Apollo data</h4>
+    <ul>
+      <li>Gene annotation updates entered in <a target="_blank" href="/a/app/static-content/apollo_help.html">{{project}} Apollo</a> are now indexed and available to the site search.  Genes with Apollo annotations that contain your search term will be available in site search results under >Genes >Filter gene fields.</li>
+    </ul>
+  <h4>Gene page navigation improvements</h4>
+    <ul>
+      <li>The RNA-Seq Transcription Summary graph now links directly to the Transcript Expression table. Click a data set title in the RNA-Seq Transcription Summary graph to navigate directly to the details for the same data set in the Transcript Expression table.</li>
+      <li>The gene page content navigation tool now contains links to every table or attribute on the gene page. Open each numbered data section to reveal links to all data within the section.  Or use the 'expand all' link at the top of the content tool to view all links.</li>
+    </ul>
+  <h4>Single cell RNA-seq &Beta;eta version</h4>
+    <ul>
+      <li>Single cell RNA-seq data is now represented in {{project}} via <a href="https://arxiv.org/abs/1802.03426" target="_blank">UMAP</a> in <a href="https://cellxgene.cziscience.com/" target="_blank">cellxgene</a>. (<a target="_blank" href="{{'/assets/images/Slide1.PNG' | absolute_url}}">Interface options tutorial.</a>) More data and further feature development are expected in coming releases.  Please <a href="/a/app/contact-us">Contact Us</a> with questions or suggestions. </li>
+      <li>A new search, <a href="/a/app/search/transcript/GenesBySingleCell">Single Cell RNA-Seq Evidence</a>, returns all genes represented in a scRNA-seq data set. The search is available under Search For, Genes, Transcriptomics. </li>
+      <li>A new table, Single Cell RNA-Seq (cellxgene), appears in the Transcriptomics section of record pages for genes with scRNA-Seq data. Table rows represent individual data sets.  Expand the rows to reveal static cellxgene images and links to view the data dynamically in the cellxgene application.</li>
+    </ul>
+  <h4>AlphaFold data available</h4>
+    <ul>
+      <li>Protein structure predictions from <a href="https://alphafold.ebi.ac.uk/" target="_blank">AlphaFold</a> are now available in {{project}}.  The AlphaFold database (<a href="https://alphafold.ebi.ac.uk/faq" target="_blank">Version 3</a>) was downloaded and structures were associated to {{project}} genes via the UniProt ID. <a href="https://pubmed.ncbi.nlm.nih.gov/34265844/" target="_blank">Jumper et al. 2021</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/34791371/" target="_blank">Varadi et al. 2022</a></li>
+      <li>The <a href="/a/app/search/transcript/GenesWithAlphafold">AlphaFold search</a> returns all genes with AlphaFold predictions in {{project}}.</li>
+      <li>Gene pages include a table of AlphaFold data and the AlphaFold 3D viewer for dynamic visualization of the predicted structure. </li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <aside>
+    <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>
