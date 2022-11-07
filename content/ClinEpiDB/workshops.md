@@ -131,7 +131,7 @@ table#hor-minimalist-a tfoot tr {
 <td> 8:00 AM PT
 <br> <i>20 min</i>
 </td>
-<td><b>Welcome and Introduction</b>
+<td><b>Welcome and Introduction</b> (<a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part1a_welcome.pdf' | absolute_url}}">slides</a>)
 <ul>
   <li>Instructor introductions</li>
   <li>Workshop objectives and agenda</li>
@@ -143,7 +143,7 @@ table#hor-minimalist-a tfoot tr {
 <td> 8:20 AM PT
 <br> <i>20 min</i>
 </td>
-<td><b>ClinEpiDB and FAIR data introduction</b> - Opportunities & challenges of sharing and reuse of epidemiological datasets (FAIR data)
+<td><b>ClinEpiDB and FAIR data introduction</b> (<a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part1b_FAIR_data.pdf' | absolute_url}}">slides</a>) - Opportunities & challenges of sharing and reuse of epidemiological datasets (FAIR data)
 </td>
 </tr>
 
@@ -153,7 +153,7 @@ table#hor-minimalist-a tfoot tr {
 </td>
 <td><b>Navigating ClinEpiDB</b> - searching for variables and datasets; overview of analysis workspace and features; use of ontologies in harmonizing data
 <ul>
-  <li>Lecture (20 min)</li>
+  <li>Lecture: <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part2_navigating_demo.pdf' | absolute_url}}">demo notes</a> (20 min)</li>
   <li>Exercise: <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part2exercise_navigating_GEMS1.pdf' | absolute_url}}">Navigating the ClinEpiDB platform, rotavirus in Kenya</a> (30 min)</li>
   <li>Discussion (10 min)</li>
 </ul>
@@ -166,7 +166,7 @@ table#hor-minimalist-a tfoot tr {
 </td>
 <td><b>Uploading Data</b> - uploading simple datasets to ClinEpiDB
 <ul>
-  <li>Lecture (10 min)</li>
+  <li>Lecture: <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part3_uploading_data.pdf' | absolute_url}}">slides</a> (10 min)</li>
   <li>Exercise: <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part3exercise_upload_data.pdf' | absolute_url}}">Uploading your own dataset</a> (10 min)</li>
   <li><a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/malaria_example.csv' | absolute_url}}">Toy dataset</a> for uploading</li>
 </ul>
@@ -187,7 +187,7 @@ table#hor-minimalist-a tfoot tr {
 </td>
 <td><b>Exploratory Data Analysis</b> - formulating a hypothesis; exploring, subsetting, and plotting data; adding notes; sharing an analysis
 <ul>
-  <li>Lecture (20 min)</li>
+  <li>Lecture: <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part4_eda.pdf' | absolute_url}}">slides</a> and <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part4_eda_demo.pdf' | absolute_url}}">demo notes</a>(20 min)</li>
   <li>Exercise: <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part4exercise_eda_malaria.pdf' | absolute_url}}">Exploratory data analysis on ClinEpiDB, malaria in Uganda</a> (30 min)</li>
   <li>Lecture (5 min)</li>
   <li>Exercise: <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part4exercise_eda_SCORE.pdf' | absolute_url}}">Exploratory data analysis on ClinEpiDB, urinary schistosomiasis in Mozambique</a> (15 min)</li>
@@ -202,7 +202,7 @@ table#hor-minimalist-a tfoot tr {
 </td>
 <td><b>Downloading Data</b> - submitting data access requests; downloading complete datasets or generating a subset of data to download
 <ul>
-  <li>Lecture (10 min)</li>
+  <li>Lecture: <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part5_downloading_data.pdf' | absolute_url}}">slides</a> (10 min)</li>
   <li>Exercise: <a target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part5exercise_download_data.pdf' | absolute_url}}">Downloading data from ClinEpiDB</a> (10 min)</li>
 </ul>
 </td>
