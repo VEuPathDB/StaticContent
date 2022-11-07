@@ -87,7 +87,7 @@ table#hor-minimalist-a tfoot tr {
     <h3>No currently scheduled workshops</h3>
     <p>Check back regularly to learn about scheduled workshops, or subscribe to our bimonthly newsletter in your ClinEpiDB account settings to receive workshop announcements. If you would like us to give a virtual or in-person workshop at your institute, please <a target="_blank" href="https://clinepidb.org/ce/app/contact-us">Contact Us</a>!
     </p>
-  <div> <!--no workshop announcement--> 
+</div> <!--no workshop announcement--> 
 
 
 <h2>Previous Workshops</h2>
