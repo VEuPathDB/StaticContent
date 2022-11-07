@@ -85,7 +85,7 @@ table#hor-minimalist-a tfoot tr {
 <div class="anchor"><a name="none"></a></div>
 <div class="workshop">
     <h3>No currently scheduled workshops</h3>
-    <p>Check back regularly to learn about scheduled workshops, or subsribe to our bimonthly newsletter in your ClinEpiDB account settings to receive workshop announcements. If you would like us to give a special workshop at your institute, please <a target="_blank" href="https://clinepidb.org/ce/app/contact-us">Contact Us</a>!
+    <p>Check back regularly to learn about scheduled workshops, or subscribe to our bimonthly newsletter in your ClinEpiDB account settings to receive workshop announcements. If you would like us to give a virtual or in-person workshop at your institute, please <a target="_blank" href="https://clinepidb.org/ce/app/contact-us">Contact Us</a>!
     </p>
   <div> <!--no workshop announcement--> 
 
@@ -101,21 +101,10 @@ table#hor-minimalist-a tfoot tr {
       <b>Date:</b> Sunday, October 30th, 2022 <br>
       <b>Time:</b> 8 AM - 1 PM US PT <br>
       <b>Location:</b> Seattle Convention Center (Skagit 3, Lower Level), Seattle, USA<br>
-      <b>Registration:</b> Registration is now closed
+      <b>Registration is closed</b>
     </p>
     <p>
       <b>Topics:</b> Attendees will learn about the benefits and challenges of FAIR data access, understand how ontological mapping supports meta-analysis, and get hands-on training on ClinEpiDB's tools to efficiently identify, explore, visualize, and download data of interest.
-    </p>
-    <p>Note: All attendees must 1) be registered for the Annual Meeting, 2) have U.S. citizenship, permanent residency, or a valid visa to attend this workshop in person, and 3) have a laptop with a web browser (Chrome, Firefox, etc). 
-    </p>
-    <p>The workshop is free for all participants. To offset the cost of traveling to attend the workshop, applicants are able to apply for a limited number of scholarships ($200 USD each). Applications will be evaluated on a case-by-case basis. Preference will be given to individuals in one or more of the following categories:
-      <ul>
-        <li>Individuals from LMICs</li>
-        <li>Students/trainees</li>
-        <li>Individuals with financial pressure which would preclude them from otherwise attending</li>
-      </ul>
-    </p>
-    <p>Successful applicants will be notified in early October.
     </p>
 
   <details>
