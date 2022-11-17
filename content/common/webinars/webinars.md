@@ -25,9 +25,10 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div class="contents">   
-    
- 
-
+    <p><b>Monday December 19th, 2022:</b> <a href="#release61">Release 61 Webinar</a></p>
+    <p><b>Thursday January 26th, 2023:</b> <a href="#Strats2023">The Search Strategy System</a></p>
+    <p><b>Thursday February 09th, 2023:</b> <a href="#Plasmo2023">Resources for Plasmodium researchers in VEuPathDB</a></p>
+    <p><b>Thursday February 23th, 2023:</b> <a href="#Enrich2023">Enrichment Analysis Tools in VEuPathDB</a></p>
   </div>
   
   <h3>Previous Webinars</h3>
@@ -94,17 +95,48 @@ tags: [general]
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
   
-<!--
 <hr>
-<div class="anchor"><a name="release60"></a></div>
+<div class="anchor"><a name="release61"></a></div>
 <div class="webinar">
-<b>Topic:</b> Release 60 Webinar<br>
-<b>Date:</b> Thursday November 17th, 2022<br>
+<b>Topic:</b> Release 61 Webinar<br>
+<b>Date:</b> Monday December 19th, 2022<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registraion:</b> <a href="https://attendee.gotowebinar.com/register/8994775200159032332">https://attendee.gotowebinar.com/register/8994775200159032332</a> <br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 60 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<b>Registraion:</b> Registration link will be available 7 - 10 days before the webinar <br>
+<b>Additional Details:</b> This webinar will focus on what is new in Release 61 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
-</div>--> 
+</div>
+
+<hr>
+<div class="anchor"><a name="Strats2023"></a></div>
+<div class="webinar">
+<b>Topic:</b> The Search Strategy System<br>
+<b>Date:</b> Thursday January 26th, 2023<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registraion:</b> Registration link will be available 7 - 10 days before the webinar <br>
+<b>Additional Details:</b> This webinar will focus on the search strategy system.  We will discuss background, demonstrate the preconfigured searches with an emphasis on how to use the system to answer your own biological questions or support your own hypotheses. 
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="Plasmo2023"></a></div>
+<div class="webinar">
+<b>Topic:</b> Resources for Plasmodium Researchers in VEuPathDB<br>
+<b>Date:</b> Thursday Febuary 09th, 2023<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registraion:</b> Registration link will be available 7 - 10 days before the webinar <br>
+<b>Additional Details:</b> This webinar will focus on the searches and tools that will benefit Plasmodium researchers. Learn to take advantage of PlasmoDB searches, tools and features to maximize database usage for Plasmodium researchers. 
+<br>
+</div>
+
+<hr>
+<div class="anchor"><a name="Enrich2023"></a></div>
+<div class="webinar">
+<b>Topic:</b> Enrichment Analysis Tools in VEuPathDB<br>
+<b>Date:</b> Thursday Febuary 23th, 2023<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registraion:</b> Registration link will be available 7 - 10 days before the webinar <br>
+<b>Additional Details:</b> This webinar will focus on the post-searches enrichment tools.  Functional enrichment are never far away from the gene result in VEuPathDB sites.  Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. <br>
+</div>
 
 </div><!-- ends div contents  -->
 
