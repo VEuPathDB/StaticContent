@@ -39,7 +39,7 @@ tags: [general]
 
 <hr> <!-- ==== UPCOMING WEBINARS =============================== -->
 
-<h3>Upcoming Webinars</h3>
+<h3>Upcoming Webinars Details and Registration</h3>
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
   
@@ -93,7 +93,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 
 <div class="anchor"><a name="previous"></a></div>
-<h3>Previous Webinars</h3>
+<h3>Previous Webinars Recordings</h3>
 <div class="contents">
 
 
