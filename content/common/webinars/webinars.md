@@ -26,7 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">   
     
- <p><b>Tuessday November 15th, 2022:</b> <a href="#release59">Release 60 Webinar</a></p>
+ 
 
   </div>
   
@@ -34,7 +34,8 @@ tags: [general]
   <div class="contents">
   
     If you missed any of our previous webinars feel free to explore the free recordings:
- 
+
+   <p><b>Thursday November 17th, 2022:</b> <a href="#release60">Release 60 Webinar</a></p>
    <p><b>Thursday September 15th, 2022:</b> <a href="#release59">Release 59 Webinar</a></p>  
    <p><b>Thursday June 30th, 2022:</b> <a href="#release58">Release 58 Webinar</a></p>
    <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p>
@@ -93,7 +94,7 @@ tags: [general]
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
   
-  
+<!--
 <hr>
 <div class="anchor"><a name="release60"></a></div>
 <div class="webinar">
@@ -103,9 +104,9 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Registraion:</b> <a href="https://attendee.gotowebinar.com/register/8994775200159032332">https://attendee.gotowebinar.com/register/8994775200159032332</a> <br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 60 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
-</div>
+</div>--> 
 
-</div> <!-- ends div contents  -->
+</div><!-- ends div contents  -->
 
 
 
@@ -119,7 +120,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> Release 60 Webinar<br>
 <b>Date:</b> Thursday November 17th, 2022<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording:</b> <a href="https://youtu.be/JqYu2ug9PWo">https://youtu.be/JqYu2ug9PWo</a> <br>
+<b>Recording:</b> <a href="https://youtu.be/JqYu2ug9PWo" target="_blank">https://youtu.be/JqYu2ug9PWo</a> <br>
 <b>Additional Details:</b> This webinar focused on new data and features in Release 60 of the VEuPathDB projects.  <br>
 </div>
 
