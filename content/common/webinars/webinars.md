@@ -98,9 +98,9 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="anchor"><a name="release60"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 60 Webinar<br>
-<b>Date:</b> Tuesday November 15th, 2022<br>
+<b>Date:</b> Thursday November 17th, 2022<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registraion:</b> Registration links will be available 7-10 days prior to a release webinar.<br>
+<b>Registraion:</b> <a href="https://attendee.gotowebinar.com/register/8994775200159032332">https://attendee.gotowebinar.com/register/8994775200159032332</a> <br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 60 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
@@ -112,6 +112,16 @@ Release webinar dates are subject to change due to production issues that may ar
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 <h3>Previous Webinars</h3>
 <div class="contents">
+
+<hr>
+<div class="anchor"><a name="release60"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 60 Webinar<br>
+<b>Date:</b> Thursday November 17th, 2022<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording:</b> <a href="https://youtu.be/JqYu2ug9PWo">https://youtu.be/JqYu2ug9PWo</a> <br>
+<b>Additional Details:</b> This webinar focused on new data and features in Release 60 of the VEuPathDB projects.  <br>
+</div>
 
 <hr>
 <div class="anchor"><a name="release59"></a></div>
