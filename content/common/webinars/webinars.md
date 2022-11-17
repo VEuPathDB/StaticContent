@@ -34,60 +34,8 @@ tags: [general]
   <h3>Previous Webinars</h3>
   <div class="contents">
   
-    If you missed any of our previous webinars feel free to explore the free recordings:
-
-   <p><b>Thursday November 17th, 2022:</b> <a href="#release60">Release 60 Webinar</a></p>
-   <p><b>Thursday September 15th, 2022:</b> <a href="#release59">Release 59 Webinar</a></p>  
-   <p><b>Thursday June 30th, 2022:</b> <a href="#release58">Release 58 Webinar</a></p>
-   <p><b>Tuesday March 8 - June 14, 2022:</b> <a href="/a/app/static-content/tickwebinars.html">Bi-weekly tick and tick pathogen webinar series</a></p>
-   <p><b>Wednesday May 25th, 2022:</b> <a href="#apollo2022">VEuPathDB Apollo annotation and curation</a></p> 
-   <p><b>Thursday April 28th, 2022:</b> <a href="#release57">Release 57 Webinar</a></p> 
-   <p><b>Thursday February 24th, 2022:</b> <a href="#release56">Release 56 Webinar</a></p>
-   <p><b>Thursday December 9th, 2021:</b> <a href="#release55">Release 55 Webinar</a></p>
-   <p><b>Thursday September 16th, 2021:</b> <a href="#release54">Release 54 Webinar</a></p>
-   <p><b>Thursday August 5th, 2021:</b> <a href="#release53">Release 53 Webinar</a></p>
-   <p><b>Thursday June 10th, 2021:</b> <a href="#vect4">Analyzing your own data in VectorBase</a></p>
-   <p><b>Tuesday June 1st, 2021:</b> <a href="#BRC6">The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC</a></p>
-   <p><b>Thursday May 27th, 2021:</b> <a href="#release52">Release 52 Webinar</a></p> 
-   <p><b>Thursday May 20th, 2021:</b> <a href="#vect3">Exploring transcriptomic data in VectorBase</a></p>
-   <p><b>Tuesday May 18th, 2021:</b> <a href="#BRC5">The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</a></p>
-   <p><b>Thursday May 6th, 2021:</b> <a href="#microbiomedb2">Web-based analysis of 16S rRNA microbiome data using Nephele and MicrobiomeDB</a></p>
-   <p><b>Tuesday May 4th, 2021:</b> <a href="#BRCfungi2">The Bioinformatic Resource Centers Webinar Series: Aspergillus &  FungiDB</a></p>
-   <p><b>Tuesday April 20th, 2021:</b> <a href="#BRC4">The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR</a></p>
-   <p><b>Thursday April 15th, 2021:</b> <a href="#vect2">Building complex search strategies in VectorBase</a></p>
-   <p><b>Wednesday March 31th, 2021:</b> <a href="#release51">Release 51 Webinar</a></p> 
-   <p><b>Tuesday March 30th, 2021:</b> <a href="#BRC3">The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC</a></p>
-   <p><b>Thursday March 25th, 2021:</b> <a href="#vect1">Introduction to VectorBase for the beginner</a></p>
-   <p><b>Tuesday March 16th, 2021:</b> <a href="#BRC2">The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR</a></p>
-   <p><b>Tuesday March 2nd, 2021:</b> <a href="#BRCfungi1">The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB</a></p> 
-   <p><b>Tuesday February 16th, 2021:</b> <a href="#BRC1">The Bioinformatic Resource Centers Webinar Series: Influenza & IRD</a></p>
-   <p><b>Thursday January 14th, 2020:</b> <a href="#release50">Release 50 Webinar</a></p>
-   <p><b>Wednesday December 9th, 2020:</b> <a href="#clinepi">Clinical and Epidemiologic Data Exploration for Genomic Researchers</a></p>
-   <p><b>Thursday November 12th, 2020:</b> <a href="#release49">Release 49 Webinar</a></p>
-   <p><b>Thursday September 17th, 2020:</b> <a href="#microbiome">Introduction to MicrobiomeDB</a></p>
-   <p><b>Thursday September 3rd, 2020:</b> <a href="#release48">Release 48 Webinar</a></p>
-   <p><b>Thursday August 20th, 2020:</b> <a href="#metabo">Metabolic Pathways in VEuPathDB</a></p>   
-   <p><b>Thursday August 13th, 2020:</b> <a href="#complexstrat">Building complex search strategies in VEuPathDB.</a></p>
-   <p><b>Thursday August 6th, 2020:</b> <a href="#hostdb">HostDB: finding host genes responding to infection.</a></p>
-   <p><b>Thursday July 30th, 2020:</b> <a href="#proteomics">Proteomics data in VEuPathDB.</a></p> 
-   <p><b>Thursday July 23th, 2020:</b> <a href="#snp">Variant data in VEuPathDB.</a></p>
-   <p><b>Thursday July 16th, 2020:</b> <a href="#fungidb">Introduction to FungiDB - Data and Functionality.</a></p>
-   <p><b>Thursday July 9th, 2020:</b> <a href="#rnaseq">RNAseq searches in VEuPathDB.</a></p>
-   <p><b>Thursday July 2nd, 2020:</b> <a href="#ortho">Orthology searches and OrthoMCL.</a></p>
-   <p><b>Thursday June 25th, 2020:</b> <a href="#phenotypic">Searching Phenotypic datasets in VEuPathDB.</a></p>
-   <p><b>Thursday June 18th, 2020:</b> <a href="#special">Special event: Introduction for VectorBase users.</a></p>
-   <p><b>Thursday June 11th, 2020:</b> <a href="#mapveu">MapVEu: population biology map filtering and searches.</a></p>
-   <p><b>Wednesday June 10th, 2020:</b> <a href="#release47">VEuPathDB Release 47.</a></p>
-   <p><b>Thursday June 4th, 2020:</b> <a href="#motif">Motif searches and regular expressions in VEuPathDB.</a></p>
-   <p><b>Thursday May 28th, 2020:</b> <a href="#GO">GO and other enrichment analyses in VEuPathDB.</a></p>
-   <p><b>Thursday May 21st, 2020:</b> <a href="#apollo">Manual gene annotation in Apollo.</a></p>
-    <p><b>Thursday May 14th, 2020:</b> <a href="#galaxy">Running a Galaxy workflow and integrating data into VEuPathDB.</a></p>
-    <p><b>Thursday May 7th, 2020:</b> <a href="#strategies">Building search strategies in VEuPathDB.</a></p>
-    <p><b>Thursday April 30th, 2020:</b> <a href="#interpreting">Interpreting RNAseq data in the genome browser.</a></p>
-    <p><b>Thursday April 23rd, 2020:</b> <a href="#browser">Introduction to the genome browser in VEuPathDB.</a></p>
-    <p><b>Thursday April 16th, 2020:</b> <a href="#introduction">Introduction to VEuPathDB resources.</a></p>
+  If you missed any of our previous webinars feel free to <a href="#previous">explore the free recordings</a>.
   </div>
-<br>
 
 <hr> <!-- ==== UPCOMING WEBINARS =============================== -->
 
@@ -143,6 +91,8 @@ Release webinar dates are subject to change due to production issues that may ar
 
 
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
+
+<div class="anchor"><a name="previous"></a></div>
 <h3>Previous Webinars</h3>
 <div class="contents">
 
