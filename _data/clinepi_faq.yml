@@ -20,7 +20,7 @@
            > Ruhamyankaka E, Brunk BP, Dorsey G *et al.* ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. [version 2; peer review: 2 approved]. *Gates Open Res* 2019, 3:1661 (<https://gatesopenresearch.org/articles/3-1661/v2>{:target='_blank'})
 
            If you want to reference ClinEpiDB in a presentation, please include our logo.<br>
-           <img src="https://static-content.veupathdb.org/assets/images/ClinEpiDB-logo-full.png"/>
+           <img src="https://static-content.veupathdb.org/assets/images/ClinEpiDB-logo-full.png" style="width:30em"/>
   uid: g2
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
