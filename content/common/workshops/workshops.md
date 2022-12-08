@@ -104,7 +104,8 @@ th.recording {
 
   <div class="contents">
     <h4><a href="/a/app/static-content/workshopMay2023.html">VEuPathDB Workshop (In Person)</a></h4>
-   <p>Monday May 15th - Friday May 19th, 2023</p>
+   <p>Times: Monday, May 15th 4:00pm &ndash; Friday, May 19th 1:00pm 2023</p>
+   <p>Location: The University of Georgia, Athens, Georgia 30602 USA
     <p>More Information: <a href="/a/app/static-content/workshopMay2023.html">Workshop information and schedule</a></p>
   </div>
 
