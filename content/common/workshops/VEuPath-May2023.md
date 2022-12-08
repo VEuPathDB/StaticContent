@@ -224,7 +224,7 @@ div.instructor-table {
     <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Monday, 15th May 2023</b></th>
+            <th colspan="4" class="break"><b>Monday, 15th May 2023</b></th>
           </tr>
           <tr>
             <th class="time">Time (Eastern) and location</th>
@@ -259,7 +259,7 @@ div.instructor-table {
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Tuesday, 16th May 2023</b></th>
+            <th colspan="4" class="break"><b>Tuesday, 16th May 2023</b></th>
           </tr>
           <tr>
             <th class="time">Time (Eastern) and location</th>
@@ -289,7 +289,7 @@ div.instructor-table {
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Wednesday, 17th May 2023</b></th>
+            <th colspan="4" class="break"><b>Wednesday, 17th May 2023</b></th>
           </tr>
           <tr>
             <th class="time">Time (Eastern) and location</th>
@@ -319,7 +319,7 @@ div.instructor-table {
      <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Thursday, May 18th May 2023</b></th>
+            <th colspan="4" class="break"><b>Thursday, May 18th May 2023</b></th>
           </tr>
           <tr>
             <th class="time">Time (Eastern) and location</th>
@@ -337,6 +337,36 @@ div.instructor-table {
           </tr>
           <tr>
             <td>9am - 5pm</td>
+            <td>Workshop lectures and exercises<br>
+            snacks, coffee and lunch provided</td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+    <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th colspan="4" class="break"><b>Friday, May 19th May 2023</b></th>
+          </tr>
+          <tr>
+            <th class="time">Time (Eastern) and location</th>
+            <th class="event">Topic (and handout)</th>
+            <th class="author">Instructor</th>
+            <th class="recording">Exercise pdf</th>
+          </tr>
+        </thead>
+        <tbody>      
+          <tr>
+            <td>7 - 8:30am</td>
+            <td>Breakfast available in the hotel</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9am - 1pm</td>
             <td>Workshop lectures and exercises<br>
             snacks, coffee and lunch provided</td>
             <td></td>
