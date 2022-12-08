@@ -120,14 +120,13 @@ div.instructor-table {
 
 
   <div class="centered-title">    
-    <p><h4>Begins Monday May 15th 4:00pm.  Ends Friday May 19th 1:00pm.  All times correspond to the Eastern time zone.</h4></p>
+    <p><h4>Begins Monday May 15th 4:00pm.  Ends Friday May 19th 1:00pm.  All times correspond to the Eastern time zone.  <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Hands-on workshop with short lectures and small goup instruction.  </h4></p>
     <p><h4>Attendence is limited to 30 participants.</h4></p>
     <p><h4>Location: The University of Georgia, Athens Georgia 30602 USA.</h4></p>
     <p><h4>Registration and housing during the workshop are free.  Attendees are expected to pay their own travel expenses.</h4></p>
     <p><h4>Opening dinner reception as well as daily breakfast and lunch during the workshop are provided. </h4></p>
     <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>
-    <!--<p><h4><a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>-->   
   </div>
   
 
