@@ -217,7 +217,7 @@ div.instructor-table {
 
   <div class="anchor"><a name="Schedule"></a></div>
   <details open>
-    <summary><h2>Schedule</h2> </summary>  
+    <summary><h3>Schedule</h3> </summary>  
     <h4>   
     <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
     <table class="hor-minimalist-a">
