@@ -206,7 +206,7 @@ div.instructor-table {
     </table>
     </div>
   <br><br>
--->    
+
   <h2>Questions</h2>
   Please direct inquiries or questions to <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>
   <br><br>
@@ -218,7 +218,7 @@ div.instructor-table {
 
   <div class="anchor"><a name="Schedule"></a></div>
   <details open>
-    <summary><b>Schedule</b></summary>   
+    <h2>Schedule</h2>   
     <h4>   
     <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
     <table class="hor-minimalist-a">
