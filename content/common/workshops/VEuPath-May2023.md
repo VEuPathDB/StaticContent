@@ -52,6 +52,7 @@ table.hor-minimalist-a th {
   font-size: 110%;
   font-weight: 400;
   color: #039;
+  border-top: 0;
   border-bottom: 2px solid #6678b1;
   padding: 0.5em;
   text-align: left;
@@ -82,10 +83,10 @@ table.hor-minimalist-a tfoot tr {
   border:0;
 }
 th.time {
-  width: 10%;
+  width: 20%;
 }
 th.event {
-  width: 50%;
+  width: 40%;
 }
 th.author {
   width: 20%;
