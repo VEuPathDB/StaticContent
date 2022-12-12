@@ -31,7 +31,7 @@ div.UserDatasetHelp img {
     <ul>
       <li>You may only upload single-file datasets. In the future, more complex data will be supported</li>
       <li>The file must be a .csv, .tsv, or tab-delimited .txt file</li>
-      <li>The file name cannot include spaces or special characters</li>
+      <li>The file name cannot include special characters</li>
       <li>The file cannot have >999 columns</li>
       <li>Column headers:
         <ul>
