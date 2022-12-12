@@ -21,7 +21,7 @@ details summary, details ul {
   margin-top: 1em;
 }
 details summary {
-  font-size: 120%;
+  font-size: 130%;
   color: #069;
 }
 details p, details table {
@@ -218,7 +218,7 @@ div.instructor-table {
 
   <div class="anchor"><a name="Schedule"></a></div>
   <details open>
-    <summary><h3>Schedule</h3> </summary>  
+    <summary>Schedule </summary>  
     <h4>   
     <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
     <table class="hor-minimalist-a">
