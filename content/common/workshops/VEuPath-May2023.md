@@ -247,7 +247,13 @@ div.instructor-table {
             <td></td>
           </tr>          
           <tr>
-            <td>5:15 - 7pm</td>
+            <td>5:15 - 6pm</td>
+            <td>Attendee Introductions: Each attendee introduces themselves and presents a one-slide summary of their work. </td>
+            <td></td>
+            <td></td>
+          </tr>       
+          <tr>
+            <td>6 - 8pm</td>
             <td>Opening Recepetion Dinner </td>
             <td></td>
             <td></td>
