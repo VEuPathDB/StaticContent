@@ -102,6 +102,7 @@ div.centered-title {
     margin-right: 10em;
     background: #F8F8F8;
     padding-left: 3em;
+    padding-right: 3em;
 }
 div.instructor-table {
        text-align : left;
