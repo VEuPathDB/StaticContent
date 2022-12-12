@@ -102,6 +102,7 @@ div.centered-title {
     margin-right: 10em;
     background: #F8F8F8;
     padding-left: 3em;
+    padding-right: 3em;
 }
 div.instructor-table {
        text-align : left;
@@ -122,11 +123,10 @@ div.instructor-table {
 
   <div class="centered-title">    
     <p><h4>Monday, May 15th 4:00pm - Friday, May 19th 1:00pm.  All times correspond to the Eastern time zone.  <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
-    <p><h4>Hands-on workshop with short lectures and small goup instruction.  </h4></p>
-    <p><h4>Attendence is limited to 30 participants.</h4></p>
-    <p><h4>Location: The University of Georgia, Athens Georgia 30602 USA.</h4></p>
-    <p><h4>Registration and housing during the workshop are free.  Attendees are expected to pay their own travel expenses.</h4></p>
-    <p><h4>Opening dinner reception as well as daily breakfast and lunch during the workshop are provided. </h4></p>
+    <p><h4>4.5 day hands-on workshop with short lectures and small goup instruction.  Attendence is limited to 30 participants.  </h4></p>
+    <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>
+    <p><h4>Registration, housing, opening dinner reception, daily breakfast and lunch during the workshop are free.  Attendees are expected to pay their own travel expenses, some dinners during the workshop and housing for extended stays. </h4></p>
+    <p><h4>REGISTER HERE: <a href="https://forms.gle/Vbhds6Z7PJQdyEKX7" target="_blank">https://forms.gle/Vbhds6Z7PJQdyEKX7</a> <br>More information: <a href="/a/app/static-content/workshopMay2023.html" target="_blank">Full workshop details</a></h4></p>    
     <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>
   </div>
   
