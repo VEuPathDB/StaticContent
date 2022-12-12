@@ -179,7 +179,7 @@ th.recording {
       <li><b>VEuPathDB:</b> <a target="_blank" href="https://workshop.eupathdb.org" target="_blank">Previous workshops</a>.</li>
     </ul>
   </div>
-
+</div>
 <br>
 <br>
 
