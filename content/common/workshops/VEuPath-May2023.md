@@ -283,7 +283,7 @@ div.instructor-table {
           </tr>
           <tr>
             <td>9am - 5pm</td>
-            <td>Workshop lectures and exercises snacks, coffee and lunch provided</td>
+            <td>Workshop lectures and exercises.  Snacks, coffee and lunch provided.</td>
             <td></td>
             <td></td>
           </tr>
@@ -312,7 +312,7 @@ div.instructor-table {
           </tr>
           <tr>
             <td>9am - 5pm</td>
-            <td>Workshop lectures and exercises snacks, coffee and boxed lunch-to-go provided</td>
+            <td>Workshop lectures and exercises.  Snacks, coffee and lunch provided.</td>
             <td></td>
             <td></td>
           </tr>
@@ -341,7 +341,7 @@ div.instructor-table {
           </tr>
           <tr>
             <td>9am - 5pm</td>
-            <td>Workshop lectures and exercises snacks, coffee and lunch provided</td>
+            <td>Workshop lectures and exercises.  Snacks, coffee and lunch provided.</td>
             <td></td>
             <td></td>
           </tr>
@@ -370,7 +370,7 @@ div.instructor-table {
           </tr>
           <tr>
             <td>9am - 1pm</td>
-            <td>Workshop lectures and exercises snacks, coffee and lunch provided</td>
+            <td>Workshop lectures and exercises.  Snacks, coffee and boxed lunch-to-go provided.</td>
             <td></td>
             <td></td>
           </tr>
