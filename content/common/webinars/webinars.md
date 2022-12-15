@@ -25,7 +25,7 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div class="contents">   
-    <p><b>Monday December 19th, 2022:</b> <a href="#release61">Release 61 Webinar</a></p>
+    <p><b>Wednesday December 21st, 2022:</b> <a href="#release61">Release 61 Webinar</a></p>
     <p><b>Thursday January 26th, 2023:</b> <a href="#Strats2023">The Search Strategy System</a></p>
     <p><b>Thursday February 09th, 2023:</b> <a href="#Plasmo2023">Resources for Plasmodium researchers in VEuPathDB</a></p>
     <p><b>Thursday February 23th, 2023:</b> <a href="#Enrich2023">Enrichment Analysis Tools in VEuPathDB</a></p>
@@ -47,7 +47,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="anchor"><a name="release61"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 61 Webinar<br>
-<b>Date:</b> Monday December 19th, 2022<br>
+<b>Date:</b> Wednesday December 21st, 2022<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registraion:</b> Registration link will be available 7 - 10 days before the webinar <br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 61 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
