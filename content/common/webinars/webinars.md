@@ -25,7 +25,6 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div class="contents">   
-    <p><b>Wednesday December 21st, 2022:</b> <a href="#release61">Release 61 Webinar</a></p>
     <p><b>Thursday January 26th, 2023:</b> <a href="#Strats2023">The Search Strategy System</a></p>
     <p><b>Thursday February 09th, 2023:</b> <a href="#Plasmo2023">Resources for Plasmodium researchers in VEuPathDB</a></p>
     <p><b>Thursday February 23th, 2023:</b> <a href="#Enrich2023">Enrichment Analysis Tools in VEuPathDB</a></p>
