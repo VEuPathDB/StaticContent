@@ -44,16 +44,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="contents">
   
 
-<div class="anchor"><a name="release61"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 61 Webinar<br>
-<b>Date:</b> Wednesday December 21st, 2022<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registraion:</b> Registration link: <a href="https://attendee.gotowebinar.com/register/7100068176646081116">https://attendee.gotowebinar.com/register/7100068176646081116</a> <br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 61 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
-</div>
-
 <hr>
 <div class="anchor"><a name="Strats2023"></a></div>
 <div class="webinar">
@@ -96,7 +86,16 @@ Release webinar dates are subject to change due to production issues that may ar
 <h3>Previous Webinars Recordings</h3>
 <div class="contents">
 
-
+<div class="anchor"><a name="release61"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 61 Webinar<br>
+<b>Date:</b> Wednesday December 21st, 2022<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording:</b> <a href="https://youtu.be/B-XZ8LWf220" target="_blank">https://youtu.be/B-XZ8LWf220</a> <br>
+<b>Additional Details:</b> This webinar will focus on what is new in Release 61 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
+  
 <div class="anchor"><a name="release60"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 60 Webinar<br>
