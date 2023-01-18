@@ -122,12 +122,12 @@ div.instructor-table {
 
 
   <div class="centered-title">    
-    <p><h4>Monday, May 15th 4:00pm - Friday, May 19th 1:00pm.  All times correspond to the Eastern time zone.  <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
+    <p><h4>APPLY HERE: <a href="https://forms.gle/Vbhds6Z7PJQdyEKX7" target="_blank">https://forms.gle/Vbhds6Z7PJQdyEKX7</a>.   Deadline is February 10, 2023. </h4></p> 
+    <p><h4><b>Registration, housing, opening dinner reception, daily breakfast and lunch during the workshop are free.  Attendees are expected to pay their own travel expenses, some dinners during the workshop and housing for extended stays.</b> </h4></p>
     <p><h4>4.5 day hands-on workshop with short lectures and small group instruction.  Attendence is limited to 30 participants.  </h4></p>
-    <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>
-    <p><h4>Registration, housing, opening dinner reception, daily breakfast and lunch during the workshop are free.  Attendees are expected to pay their own travel expenses, some dinners during the workshop and housing for extended stays. </h4></p>
-    <p><h4>APPLY HERE: <a href="https://forms.gle/Vbhds6Z7PJQdyEKX7" target="_blank">https://forms.gle/Vbhds6Z7PJQdyEKX7</a>.   Deadline is February 3, 2023. </h4></p>    
+    <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>       
     <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>
+    <p><h4>Monday, May 15th 4:00pm - Friday, May 19th 1:00pm  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
   </div>
   
 
@@ -137,7 +137,7 @@ div.instructor-table {
   <div class="workshop">
   
   <p><h2>About the workshop</h2></p>
-  <p>During the workshop, instructors will describe and demonstrate the VEuPathDB tools and features that are powerful resources for your hypothesis driven research.  Short lectures will precede hands-on exercises where discussion and conversation are encouraged. The objective is for attendees to leave with an understanding of the breadth of data available, how to effectively use VEuPathDB resources to mine the available data, and to use preconfigured workflows to analyze unintegrated data. If you come with questions about your own research, we are happy to accomodate individual instruction, usually outside workshop hours.  Since VEuPathDB resources mirror each other, workshop exercises can be applied on any component site including AmoebaDB, CryptoDB, FungiDB, GiardiaDB, HostDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB, and VectorBase.  </p>
+  <p>Instructors will describe and demonstrate the VEuPathDB tools and features that are powerful resources for your hypothesis driven research.  Short lectures will precede hands-on exercises where discussion and conversation are encouraged. The objective is for attendees to leave with an understanding of the breadth of data available, how to effectively use VEuPathDB resources to mine the available data, and to use preconfigured workflows to analyze unintegrated data. If you come with questions about your own research, we are happy to accomodate individual instruction, usually outside workshop hours.  Since VEuPathDB resources mirror each other, workshop exercises can be applied on any component site including AmoebaDB, CryptoDB, FungiDB, GiardiaDB, HostDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB, and VectorBase.  </p>
 
   <p>Expected learning objectives:</p>
     <ul>
@@ -164,17 +164,16 @@ div.instructor-table {
         <li>Application deadline is Friday Feb 3, 2023.</li>
     </ul> 
   <br><br>
-  
+      
+  <h2>Cost and fees</h2>
+  The workshop is free and VEuPathDB pays for housing on the nights of Monday May 15 - Thursday May 18, with an extra night before and after for international travelers, if needed. The opening reception dinner (Monday evening May 15th, 2023) as well as breakfast and lunch on May 16 - 19th are also provided free of charge.  Attendees are expected to pay travel expenses, lodging expenses outside the workshop window, and dinners on Tuesday - Thursday. 
+  <br><br>
+  A limited number of special travel awards to current or future VectorBase users, which can be demonstrated in your application, will be sponsored by the American Committee of Medical Entomology (ACME), and details will be provided soon.
+  <br><br>  
 
   <h2>Computer and internet access</h2>
   The workshop will take place in a University of Georgia computer lab.  Each person will be seated at a computer for their individual use.  Laptop computers are not necessary to complete the workshop assignments but may be preferred for personal use outside workshop hours.  
-
   <br><br>
-      
-  <h2>Cost and fees</h2>
-  The workshop is free and VEuPathDB pays for housing on the nights of Monday May 15 - Thursday May 18.   The opening reception dinner (Monday evening May 15th, 2023) as well as breakfast and lunch on May 16 - 19th are also provided free of charge.  Attendees are expected to pay travel expenses, lodging expenses outside the workshop window, and dinners on Tuesday - Thursday 
-  <br><br>
-
   <h2>Instructors</h2>
   
   <div class="instructor-table">
