@@ -123,11 +123,12 @@ div.instructor-table {
 
   <div class="centered-title">    
     <p><h4>APPLY HERE: <a href="https://forms.gle/Vbhds6Z7PJQdyEKX7" target="_blank">https://forms.gle/Vbhds6Z7PJQdyEKX7</a>.   Deadline is February 10, 2023. </h4></p> 
-    <p><h4><b>Registration, housing, opening dinner reception, daily breakfast and lunch during the workshop are free.  Attendees are expected to pay their own travel expenses, some dinners during the workshop and housing for extended stays.</b> </h4></p>
+    <p><h4><b>Registration, housing, and most meals during the workshop are free.  Attendees are expected to pay their own travel expenses, some evening meals, and housing for extended stays.</b> </h4></p>
+    <p><h4>A limited number of travel awards to current or future VectorBase users will be sponsored by American Committee of Medical Entomology (ACME).  Details available soon.</h4><p>
     <p><h4>4.5 day hands-on workshop with short lectures and small group instruction.  Attendence is limited to 30 participants.  </h4></p>
+    <p><h4>Monday, May 15th 4:00pm - Friday, May 19th 1:00pm  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>       
     <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>
-    <p><h4>Monday, May 15th 4:00pm - Friday, May 19th 1:00pm  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
   </div>
   
 
