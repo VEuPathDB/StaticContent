@@ -98,8 +98,8 @@ div.centered-title {
     border: 1px solid black;
     border-radius: 1em;
     text-align: left;
-    margin-left: 10em;
-    margin-right: 10em;
+    margin-left: 8em;
+    margin-right: 8em;
     background: #F8F8F8;
     padding-left: 3em;
     padding-right: 3em;
