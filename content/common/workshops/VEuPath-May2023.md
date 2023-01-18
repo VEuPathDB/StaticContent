@@ -158,11 +158,11 @@ div.instructor-table {
 <br><br>
 
 
-  <h2>Application: deadline Friday February 3, 2023</h2>
+  <h2>Application: deadline Friday February 10, 2023</h2>
     <ul>
         <li><b>Begin your application by completing the form: <a href="https://forms.gle/Vbhds6Z7PJQdyEKX7" target="_blank">https://forms.gle/Vbhds6Z7PJQdyEKX7</a>.  The form information is confidential.</b> </li>
-        <li>Arrange for letters of recommendation to be emailed to jckadmin@uga.edu.  Postdocs, students and staff should have two (2) letters of recommendation emailed by the application deadline (February 3, 2023). Principal investigators applying to the workshop are not required to have recommendation letters sent in support of their applications. </li>
-        <li>Application deadline is Friday Feb 3, 2023.</li>
+        <li>Arrange for letters of recommendation to be emailed to jckadmin@uga.edu.  Postdocs, students and staff should have two (2) letters of recommendation emailed by the application deadline (February 10, 2023). Principal investigators applying to the workshop are not required to have recommendation letters sent in support of their applications. </li>
+        <li>Application deadline is Friday Feb 10, 2023.</li>
     </ul> 
   <br><br>
       
