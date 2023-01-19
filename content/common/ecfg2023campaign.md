@@ -124,7 +124,7 @@ div.centered-title {
     <p><h3>About the campaign</h3></p>
     <p><b>Rules:</b> On 18 Sept 2022 add a User Comment on a gene record page or update structural or functional annotation in Apollo. Top ten submitters will receive a "Got Fungus" mug.</p>
    
-    <img style="width: 20em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/got_fungus_mug.png" | absolute_url }}" alt="T-shirts and mugs"/>
+    <img style="width: 20em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/got_fungus_mug_2023.png" | absolute_url }}" alt="T-shirts and mugs"/>
     <br>
     <p> Not familiar with Apollo or the user comments system? No problem - See our <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> for more information about how to modify gene models or read more about how to create user comment below.
 
