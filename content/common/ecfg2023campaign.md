@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Workshops
-permalink: /usercommentscampaign
+permalink: /ecfg2023campaign
 tags: [workshop-exercise]
 ---
 <style>
