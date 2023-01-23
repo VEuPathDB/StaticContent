@@ -106,13 +106,7 @@ div.centered-title {
 <p><a href="/">Home</a> >> Help >> 
    <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> 
    </p>
-
-<div class="static-content">
  
-    <h4><center><a href="https://fungidb.org">FungiBD</a> User Comment and Annotation drive</center></h4>
-  </div>
-
-  
 
 <div class="contents">
 
