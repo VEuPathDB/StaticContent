@@ -108,9 +108,7 @@ div.centered-title {
    </p>
 
 <div class="static-content">
-
-
-  <div class="centered-title">     
+ 
     <h4><a href="https://fungidb.org">FungiBD</a> User Comment and Annotation drive</h4>
   </div>
 
