@@ -109,7 +109,7 @@ div.centered-title {
 
 <div class="static-content">
  
-    <h4><a href="https://fungidb.org">FungiBD</a> User Comment and Annotation drive</h4>
+    <h4><center><a href="https://fungidb.org">FungiBD</a> User Comment and Annotation drive</center></h4>
   </div>
 
   
