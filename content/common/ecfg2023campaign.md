@@ -96,7 +96,7 @@ th.recording {
 div.centered-title {
     border: 1px solid black;
     border-radius: 0.8em;
-    text-align: center;
+    text-align: left;
     margin-left: 15em;
     margin-right: 15em;
     background: #F8F8F8;
