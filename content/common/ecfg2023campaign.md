@@ -111,7 +111,7 @@ div.centered-title {
 
 
   <div class="centered-title">     
-    <h4><a href="https://fungidb.org">FungiBD</a> User Comment and Annotation drive in conjunction with the 16th European Conference on Fungal Genetics (ECFG16)</h4>
+    <h4><a href="https://fungidb.org">FungiBD</a> User Comment and Annotation drive</h4>
   </div>
 
   
