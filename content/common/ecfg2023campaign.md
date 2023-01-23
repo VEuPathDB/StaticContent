@@ -119,6 +119,6 @@ div.centered-title {
   <div class="anchor"><a name="usercommentscampaign"></a></div>
   <div class="workshop">
 
-   <img style="width: 65em; margin-top: .5em; margin-center: 8em;" src="{{ "/assets/images/fungidb/got_fungus_mug_2023.png" | absolute_url }}" alt="GotFungus? mugs"/>
+   <img style="width: 70em; margin-top: .5em; margin-center: 8em;" src="{{ "/assets/images/fungidb/got_fungus_mug_2023.png" | absolute_url }}" alt="GotFungus? mugs"/>
     <br>
    
