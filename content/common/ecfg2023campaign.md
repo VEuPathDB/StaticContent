@@ -180,7 +180,7 @@ div.centered-title {
     </ul>
      
 
-<p> Not familiar with Apollo or the user comments system? No problem - See our <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> for more information about how to modify gene models or read more about how to create user comment below.
+<p> Not familiar with Apollo? See our <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> for in-depth tutorials.
 
 
 <p><b>Have questions?</b> <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a></p>
