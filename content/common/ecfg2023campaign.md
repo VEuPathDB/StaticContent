@@ -180,7 +180,7 @@ div.centered-title {
     </ul>
      
 
-<p> Not familiar with Apollo? See our <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> for in-depth tutorials.
+<p> Not familiar with Apollo? See our <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo page</a> for in-depth tutorials.
 
 
 <p><b>Have questions?</b> <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a></p>
