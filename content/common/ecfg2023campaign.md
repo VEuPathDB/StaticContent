@@ -134,7 +134,7 @@ div.centered-title {
       <li> Benefit the research community at large, showcase your favourite genes or publications, and are the quickest way to provide up-to-date information about genes on the live site</li> 
     </ul>
   
-    <p><b>How to submit a single comment:</b></p>
+    <p><h3>How to submit a single comment:</h3></p>
         <ul>
       <li> Sign in or Register at <a href="https://fungidb.org/fungidb/app/user/registration">FungiDB.org</a></li>
       <li> Navigate to the gene record page</li> 
@@ -167,7 +167,7 @@ div.centered-title {
     <li>Other functional or experimental information (note that even negative data can be quite informative)</li>
 </ul>
 
-<p><b>How to make changes in Apollo:</b></p>
+<p><h3>How to make changes in Apollo:</h3></p>
     <ul>
       <li> Sign in or Register at <a href="https://fungidb.org/fungidb/app/user/registration">FungiDB.org</a></li>
       <li> Navigate to the gene record page</li> 
