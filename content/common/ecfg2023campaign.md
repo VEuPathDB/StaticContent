@@ -124,7 +124,7 @@ div.centered-title {
     <p><h3>About the campaign</h3></p>
     <p><b>Rules:</b> Starting now and through March 8, 2023 add a User Comment on a gene record page or update structural or functional annotation in Apollo, and receive a free "Got Fungus?" mug.</p>
    
-    <img style="width: 20em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/got_fungus_mug_2023.png" | absolute_url }}" alt="ECFG16mug"/>
+    <img style="width: 25em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/got_fungus_mug_2023.png" | absolute_url }}" alt="ECFG16mug"/>
     <br>
     
     <p><b>Did you know that user comments:</b></p>
