@@ -138,7 +138,7 @@ div.centered-title {
         <ul>
       <li> Sign in or Register at <a href="https://fungidb.org/fungidb/app/user/registration">FungiDB.org</a></li>
       <li> Navigate to the gene record page</li> 
-      <li> Click on the Add a user comment link</li> <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/usr_ecfg16.png" | absolute_url }}" alt="User Comment Form"/>
+      <li> Click on the <i>Add a user comment</i> link</li> <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/usr_ecfg16.png" | absolute_url }}" alt="User Comment Form"/>
       <li> Fill out the comment form (add text, pictures, files or PubMed IDs, etc.)</li> 
     </ul>
 <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/usercommmentform.png" | absolute_url }}" alt="User Comment Form"/>
@@ -171,9 +171,12 @@ div.centered-title {
     <ul>
       <li> Sign in or Register at <a href="https://fungidb.org/fungidb/app/user/registration">FungiDB.org</a></li>
       <li> Navigate to the gene record page</li> 
-      <li> Click on the View & update community annotation in Apollo link</li> <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo1ecfg16.png" | absolute_url }}" alt="User Comment Form"/>
-      <li> Add the gene model into the annotation area, add evidence tracks & edit the annotation</li> <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo2ecfg16.png" | absolute_url }}" alt="User Comment Form"/>
-      <li> View finalized annotation on gene record pages & in JBrowse or share with colleagues via a URL</li> <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo3ecfg16.png" | absolute_url }}" alt="User Comment Form"/>
+      <li> Click on the <i>View & update community annotation in Apollo</i> link</li> 
+      <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo1ecfg16.png" | absolute_url }}" alt="User Comment Form"/>
+      <li> Add the gene model into the annotation area, add evidence tracks & edit the annotation</li> 
+      <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo2ecfg16.png" | absolute_url }}" alt="User Comment Form"/>
+      <li> View finalized annotation on gene record pages & in JBrowse or share with colleagues via a URL</li> 
+      <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo3ecfg16.png" | absolute_url }}" alt="User Comment Form"/>
     </ul>
      
 
