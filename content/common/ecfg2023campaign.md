@@ -122,7 +122,7 @@ div.centered-title {
   <div class="workshop">
 
     <p><h3>About the campaign</h3></p>
-    <p><b>Rules:</b> Starting now and through March 8, 2023 add a User Comment on a gene record page or update structural or functional annotation in Apollo, and receive a free "Got Fungus?" mug.</p> not attending in person? No problem, ask your colleague to pick up a mug for you.</p>
+    <p><b>Rules:</b> Starting now and through March 8, 2023 add a User Comment on a gene record page or update structural or functional annotation in Apollo, and receive a free "Got Fungus?" mug. Not attending in person? No problem, ask your colleague to pick up a mug for you.</p>
    
     <img style="width: 25em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/got_fungus_mug_2023.png" | absolute_url }}" alt="ECFG16mug"/>
     <br>
