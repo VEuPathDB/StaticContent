@@ -144,7 +144,7 @@ div.centered-title {
 <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/usercommmentform.png" | absolute_url }}" alt="User Comment Form"/>
      
 
-  <p><b>How to submit user comments in bulk:</b></p>
+  <p><h3>How to submit user comments in bulk:</h3></p>
     <ul>
       <li> To submit user comments in bulk, download our bulk user comment submission form here: <a href="https://tinyurl.com/commentsfungi">https://tinyurl.com/commentsfungi</a></li>
       <li> Simply fill it out and <a href="https://fungidb.org/fungidb/app/contact-us">send it back to us</a></li>
