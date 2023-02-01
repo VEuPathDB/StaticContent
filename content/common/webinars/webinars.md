@@ -25,7 +25,7 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div class="contents">   
-    <p><b>Thursday January 26th, 2023:</b> <a href="#Strats2023">The Search Strategy System</a></p>
+    <p><b>Thursday February 2nd, 2023:</b> <a href="#Strats2023">The Search Strategy System</a></p>
     <p><b>Thursday February 09th, 2023:</b> <a href="#Plasmo2023">Resources for Plasmodium researchers in VEuPathDB</a></p>
     <p><b>Thursday February 23th, 2023:</b> <a href="#Enrich2023">Enrichment Analysis Tools in VEuPathDB</a></p>
   </div>
@@ -47,9 +47,9 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="anchor"><a name="Strats2023"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Search Strategy System<br>
-<b>Date:</b> Thursday January 26th, 2023<br>
+<b>Date:</b> Thursday February 2nd, 2023<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registraion:</b> Registration link will be available 7 - 10 days before the webinar <br>
+<b>Registraion:</b> <a href="https://attendee.gotowebinar.com/register/3081897436650328663" target="_blank">https://attendee.gotowebinar.com/register/3081897436650328663</a> <br>
 <b>Additional Details:</b> This webinar will focus on the search strategy system.  We will discuss background, demonstrate the preconfigured searches with an emphasis on how to use the system to answer your own biological questions or support your own hypotheses. 
 <br>
 </div>
