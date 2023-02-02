@@ -339,6 +339,17 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo11.png"  />
   uid: apollo11
   projects: ""
+- type: apollo
+  question: "Where can I find Apollo community annotations?"
+  answer: |
+           1. Apollo annotations are shown in the JBrowse window in the gene models section. They can be viewed in the "Community annotations from Apollo" track. This track shows annotations that are marked as finished in Apollo.
+           2. Functional annotations of existing genes are shown in the Annotation, curation and identifiers section in the "Community annotations from Apollo" table.
+           3. To find Apollo gene product annotations go to the Searches menu, select "Genes" and "Text". A new window will open where you can choose the Organism and the Text term (note: choose * if you want to find all Apollo product annotations). Select in the Fields section "Apollo Annotations".
+           4. In the result table click on the button "Add Columns" and choose "Apollo Product description". 
+           
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/apollo12.png"  />
+  uid: apollo12
+  projects: ""
 - type: download
   question: "How do I download a pre-configured table (e.g. Link outs or alternate IDs) of multiple genes?"
   answer: |
