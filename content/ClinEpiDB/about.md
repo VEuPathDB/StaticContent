@@ -21,7 +21,7 @@ tags: [general]
      <!--    "{{ '/resources.html' | relative_url }}"    -->
      <!--   "/a/app/community/ClinEpiDB/resources.html"  -->
     <p>The video embedded below provides a short introduction to our platform. For a more in-depth explanation, see our <a target="_blank" href="https://youtu.be/wkA7A-znMVk">30-minute video</a>.</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/jfiBfhxItMc"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/rxRhDDoq1Ks"></iframe>
     </div>
 
   <h2 id="how-was-it-made">How is it made?</h2>
