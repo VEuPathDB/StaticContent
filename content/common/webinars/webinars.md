@@ -25,7 +25,6 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div class="contents">   
-    <p><b>Thursday February 09th, 2023:</b> <a href="#Plasmo2023">Resources for Plasmodium researchers in VEuPathDB</a></p>
     <p><b>Thursday February 23th, 2023:</b> <a href="#Enrich2023">Enrichment Analysis Tools in VEuPathDB</a></p>
   </div>
   
@@ -40,18 +39,6 @@ tags: [general]
 <h3>Upcoming Webinars Details and Registration</h3>
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
-  
-
-<hr>
-<div class="anchor"><a name="Plasmo2023"></a></div>
-<div class="webinar">
-<b>Topic:</b> Resources for Plasmodium Researchers in VEuPathDB<br>
-<b>Date:</b> Thursday Febuary 09th, 2023<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registraion:</b> Registration link will be available 7 - 10 days before the webinar <br>
-<b>Additional Details:</b> This webinar will focus on the searches and tools that will benefit Plasmodium researchers. Learn to take advantage of PlasmoDB searches, tools and features to maximize database usage for Plasmodium researchers. 
-<br>
-</div>
 
 <hr>
 <div class="anchor"><a name="Enrich2023"></a></div>
@@ -77,11 +64,10 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="webinar">
 <b>Topic:</b> The Search Strategy System<br>
 <b>Date:</b> Thursday February 2nd, 2023<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording:</b> <a href="https://youtu.be/JqYu2ug9PWo" target="_blank">https://youtu.be/JqYu2ug9PWo</a> <br>
+<b>Recording:</b> <a href="https://youtu.be/ipJ3FCYodCw" target="_blank">https://youtu.be/ipJ3FCYodCw</a> <br>
 <b>Additional Details:</b> This webinar focused on the search strategy system.  We presented a general background, demonstrated the preconfigured searches with an emphasis on how to use the system to answer your own biological questions or support your own hypotheses.<br>
 </div>
-  
+
 <hr>
 <div class="anchor"><a name="release61"></a></div>
 <div class="webinar">
