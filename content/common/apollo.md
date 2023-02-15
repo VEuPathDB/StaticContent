@@ -28,7 +28,9 @@ div.centered-button a {
 
 </style>
 
-<div class="eupathdb-Announcement" style="margin: 3px; padding: 0.5em; border-radius: 0.5em; border-width: 1px; border-color: lightgrey; border-style: solid; background: rgb(227, 242, 253); display: block;"><div style="display: flex; justify-content: flex-start; align-items: center;"><span class="fa-stack" style="font-size: 1.2em;"><i class="fa fa-circle fa-stack-2x" style="color: rgb(0, 74, 255);"></i><i class="fa fa-info fa-stack-1x" style="color: white;"></i></span><div style="margin-left: 1em; display: inline-block; width: calc(100% - 5.5em); padding: 8px; vertical-align: middle; color: black; font-size: 1.2em;"><div>We discovered a bug that affects RNA-Seq coverage plots in JBrowse for a number of datasets. This bug only affects the coverage representation in JBrowse. It does not affect queries, plots and splice junction analyses. For affected datasets, it will appear that coverage in introns is similar to coverage in exons. We are working on fixing this as soon as possible.</div></div></div></div>
+<div class="eupathdb-Announcement" style="margin: 3px; padding: 0.5em; border-radius: 0.5em; border-width: 1px; border-color: lightgrey; border-style: solid; background: rgb(227, 242, 253); display: block;"><div style="display: flex; justify-content: flex-start; align-items: center;"><span class="fa-stack" style="font-size: 1.2em;"><i class="fa fa-circle fa-stack-2x" style="color: rgb(0, 74, 255);"></i><i class="fa fa-info fa-stack-1x" style="color: white;"></i></span><div style="margin-left: 1em; display: inline-block; width: calc(100% - 5.5em); padding: 8px; vertical-align: middle; color: black; font-size: 1.2em;"><div>
+We discovered a bug that affects RNA-Seq coverage plots in JBrowse for a number of datasets. This bug only affects the coverage representation in the genome browser and Apollo. It does not affect queries, plots, and splice junction analyses. For affected datasets, it will appear that coverage in introns is similar to coverage in exons. We are working on fixing this as soon as possible.
+</div></div></div></div>
 
 
 <h1>Structural and functional community curation in Apollo</h1>
