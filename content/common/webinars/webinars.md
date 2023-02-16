@@ -45,7 +45,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="webinar">
 <b>Topic:</b> Enrichment Analysis Tools in VEuPathDB<br>
 <b>Date:</b> Thursday Febuary 23th, 2023<br>
-<b>Time:</b> 10:30 AM US Eastern Time<br>
+<b>Time:</b> 10:00 AM US Eastern Time<br>
 <b>Registraion:</b> <a href="https://attendee.gotowebinar.com/register/8330130319160528983" target="_blank">https://attendee.gotowebinar.com/register/8330130319160528983</a> <br>
 <b>Additional Details:</b> This webinar will focus on the post-searches enrichment tools.  Functional enrichment are never far away from the gene result in VEuPathDB sites.  Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. <br>
 </div>
