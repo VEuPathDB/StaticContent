@@ -38,6 +38,18 @@ tags: [general]
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
 
+
+
+</div><!-- ends div contents  -->
+
+
+
+<hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
+
+<div class="anchor"><a name="previous"></a></div>
+<h3>Previous Webinars Recordings</h3>
+<div class="contents">
+  
 <hr>
 <div class="anchor"><a name="Enrich2023"></a></div>
 <div class="webinar">
@@ -53,25 +65,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Additional Details:</b> This webinar will focus on the post-searches enrichment tools.  Functional enrichment are never far away from the gene result in VEuPathDB sites.  Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. <br>
 </div>
   
-<hr>
-<div class="anchor"><a name="Enrich2023"></a></div>
-<div class="webinar">
-<b>Topic:</b> Enrichment Analysis Tools in VEuPathDB<br>
-<b>Date:</b> Thursday Febuary 23th, 2023<br>
-<b>Time:</b> 10:00 AM US Eastern Time<br>
-<b>Registraion:</b> <a href="https://attendee.gotowebinar.com/register/8330130319160528983" target="_blank">https://attendee.gotowebinar.com/register/8330130319160528983</a> <br>
-<b>Additional Details:</b> This webinar will focus on the post-searches enrichment tools.  Functional enrichment are never far away from the gene result in VEuPathDB sites.  Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. <br>
-</div>
-
-</div><!-- ends div contents  -->
-
-
-
-<hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
-
-<div class="anchor"><a name="previous"></a></div>
-<h3>Previous Webinars Recordings</h3>
-<div class="contents">
   
 <div class="anchor"><a name="#Strats2023"></a></div>
 <div class="webinar">
