@@ -58,7 +58,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> Enrichment Analysis Tools in VEuPathDB<br>
 <b>Date:</b> Thursday Febuary 23th, 2023<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording:</b> <a href="https://youtu.be/ipJ3FCYodCw" target="_blank">https://youtu.be/ipJ3FCYodCw</a> <br>
+<b>Recording:</b> <a href="https://youtu.be/_aLYAEaApJY" target="_blank">https://youtu.be/_aLYAEaApJY</a> <br>
 <b>Handouts:</b> 
 <ul>
 <li><a href="{{'/documents/23FEB23_Gene_function_enrichment.pdf' | absolute_url}}">Gene function enrichment slides</a><br></li>
