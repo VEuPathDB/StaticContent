@@ -40,15 +40,7 @@ tags: [general]
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
 
-<hr>
-<div class="anchor"><a name="Enrich2023"></a></div>
-<div class="webinar">
-<b>Topic:</b> Enrichment Analysis Tools in VEuPathDB<br>
-<b>Date:</b> Thursday Febuary 23th, 2023<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registraion:</b> Registration link will be available 7 - 10 days before the webinar <br>
-<b>Additional Details:</b> This webinar will focus on the post-searches enrichment tools.  Functional enrichment are never far away from the gene result in VEuPathDB sites.  Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. <br>
-</div>
+
 
 </div><!-- ends div contents  -->
 
@@ -59,6 +51,21 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="anchor"><a name="previous"></a></div>
 <h3>Previous Webinars Recordings</h3>
 <div class="contents">
+
+<hr>
+<div class="anchor"><a name="Enrich2023"></a></div>
+<div class="webinar">
+<b>Topic:</b> Enrichment Analysis Tools in VEuPathDB<br>
+<b>Date:</b> Thursday Febuary 23th, 2023<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording:</b> <a href="https://youtu.be/ipJ3FCYodCw" target="_blank">https://youtu.be/ipJ3FCYodCw</a> <br>
+<b>Handouts:</b> 
+<ul>
+<li><a href="{{'/documents/23FEB23_Gene_function_enrichment.pdf' | absolute_url}}">Gene function enrichment slides</a><br></li>
+<li><a href="{{'/documents/23FEB23_ECnummbers.pdf' | absolute_url}}">EC numbers slide</a><br></li>
+</ul>
+<b>Additional Details:</b> This webinar will focus on the post-searches enrichment tools.  Functional enrichment are never far away from the gene result in VEuPathDB sites.  Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. <br>
+</div>
 
 <div class="anchor"><a name="#Strats2023"></a></div>
 <div class="webinar">
