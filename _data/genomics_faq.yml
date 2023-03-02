@@ -364,22 +364,18 @@
 - type: download
   question: "How can I programmatically download genome files?"
   answer: |
-          There are several options to programmatically (command line) access and download genome files from our servers.
-           <p>Examples below are for FungiDB genome, <a href="https://fungidb.org/common/downloads/Current_Release/Spombe972h/">Spombe972h.</a> </p>
-           <p>You can use wget and the url as the path.  For example:</p>
-           <p>wget</p>
-           <p>https://fungidb.org/common/downloads/Current_Release/Spombe972h/fasta/data/FungiDB-55_Spombe972h_Genome.fasta</p>  
-           <p>To find the correct file URL visit Data > Download data file</p>
-           <p>Note you can use “Current_Release” or find older versions in the respective folder. </p>
-           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/programaticallydownloadgenomefile.png"  />
-           <p>Alternatively, lftp works so you can (after finding the correct directory as in above) use: </p>
-           <p>lftp</p>
-           <p>https://fungidb.org/common/downloads/Current_Release/Spombe972h/</p>
-           <p>and then use a command such as:</p>
-           <p>mget fasta/data/*</p>
-           <p>Or</p>
-           <p>mget gff/data/*</p>
-           <p>to get all files in that folder.</p>
+          Presented below are two options to programmatic (command line) access and download genome files from our servers. Examples below are for FungiDB genome, <a href="https://fungidb.org/common/downloads/Current_Release/Spombe972h/">Spombe972h.</a>.  Genome files from every organism and release are available in the Downloads section.  To find the URL for your prefered organism go to the header and choose >Data > Download data file.<br>
+          <img style="width:30em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/programaticallydownloadgenomefile.png"  />
+           1. WGET: You can use wget and the url for the data file as the path.  For example, to download the genome.fasta file for Spombe972h from FungiDB Release 61 try:<br>
+           wget https://fungidb.org/common/downloads/release-61/Spombe972h/fasta/data/FungiDB-61_Spombe972h_Genome.fasta   
+           
+           2. LFTP: This file transfer program also works.  After finding the correct directory try the command such as:<br>
+           lftp https://fungidb.org/common/downloads/Current_Release/Spombe972h/<br>
+           and then use a command such as: <br>
+           mget fasta/data/*<br>
+           OR<br>
+           mget gff/data/*<br>
+           to get all files in that folder.
   uid: programmaticallydownloadgenomefiles
   projects: ""
 
