@@ -28,11 +28,11 @@ tags: [general]
         <li>We accept data from clinical trials, observational epidemiological studies, and surveillance studies</li> 
         <li>Due to the curation efforts required to integrate data into the ClinEpiDB platform, we are not able to accept all data submissions. Data is evaluated using the following criteria</li>
        <ul>
-      <li>Potential for secondary data use</li>
-      <li>Scale of the study</li>
-      <li>Complementary studies on ClinEpiDB</li>
-      <li>Ontological development effort</li>
-      <li>Study team support for integration</li>
+      <ul>Potential for secondary data use</ul>
+      <ul>Scale of the study</ul>
+      <ul>Complementary studies on ClinEpiDB</ul>
+      <ul>Ontological development effort</ul>
+      <ul>Study team support for integration</ul>
       </ul>
         </ul>
       </p>
@@ -53,10 +53,10 @@ tags: [general]
         <li>Organization</li>
         <li>Brief information about your data:</li>
        <ul>
-      <li>Study design and objectives</li>
-      <li>Size of the dataset(s), including number of observations and variables</li>
-      <li>Types of variables (demographics, anthropometry, microbiology, etc.)</li>
-      <li>Funding source</li>
+      <ul>Study design and objectives</ul>
+      <ul>Size of the dataset(s), including number of observations and variables</ul>
+      <ul>Types of variables (demographics, anthropometry, microbiology, etc.)</ul>
+      <ul>Funding source</ul>
       </ul>
       </ul>
     </p>
@@ -65,7 +65,7 @@ tags: [general]
   <h2 id="timeline-for-data-integration">What is the timeline for data integration?</h2>
   <div>
     <div>
-      <img alt="Timeline for ClinEpiDB data integration" src="/a/images/ClinEpiDB/ClinEpi_data_integration_process.png" />
+      <img alt="Timeline for ClinEpiDB data integration" src="/a/images/ClinEpiDB/ClinEpi_data_integration_process.png" width="50%"/>
     </div>
   </div>
 
@@ -74,7 +74,7 @@ tags: [general]
     <p><ul>
         <li>If we are able to integrate your data, we will give you access to a secure Box folder where you can upload your data and accompanying files</li> 
         <li>View our current <a target="_blank" href="/documents/ClinEpiDBDatasetGuidelinesforDataProviders.pdf">guidelines for data submission</a> </li>
-       <ul>
+        </ul>
     </p>
   </div>
 
@@ -89,7 +89,7 @@ tags: [general]
     <p>There are currently 5 possible data access levels (public, controlled, protected, private, and prerelease). See the <a target="_blank" href="https://clinepidb.org/ce/app/static-content/ClinEpiDB/access_and_use.html">Data Access and Use Policy</a> to learn more about the restrictions of each level. 
     </p>
     <div>
-      <img alt="ClinEpiDB Data Access Flow Chart" src="/a/images/ClinEpiDB/ClinEpiDataAccessFlowChart.png" />
+      <img alt="ClinEpiDB Data Access Flow Chart" src="/a/images/ClinEpiDB/ClinEpiDataAccessFlowChart.png" width="80%"/>
     </div>
   </div>
 
