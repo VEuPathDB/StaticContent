@@ -89,7 +89,7 @@ tags: [general]
     <p>There are currently 5 possible data access levels (public, controlled, protected, private, and prerelease). See the <a target="_blank" href="https://clinepidb.org/ce/app/static-content/ClinEpiDB/access_and_use.html">Data Access and Use Policy</a> to learn more about the restrictions of each level. 
     </p>
     <div>
-      <img alt="ClinEpiDB Data Access Flow Chart" src="/a/images/ClinEpiDB/ClinEpiDataAccessFlowChart.png" width="80%"/>
+      <img alt="ClinEpiDB Data Access Flow Chart" src="/a/images/ClinEpiDB/ClinEpiDataAccessFlowChart.png" width="50%"/>
     </div>
   </div>
 
