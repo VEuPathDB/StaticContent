@@ -123,7 +123,7 @@ div.instructor-table {
 
   <div class="centered-title">        
     <p><h4>Applications closed. Applicants have been notified of their status. </h4></p> 
-    <p><h4>Two travel awards to students who current or future VectorBase users will be sponsored by American Committee of Medical Entomology (ACME). <a href="#ACME">Learn More</a></h4></p>  
+    <p><h4>Two travel awards sponsored by American Committee of Medical Entomology (ACME) are available to students who are current or future VectorBase users from low and middle income countries. <a href="#ACME">Learn More</a></h4></p>  
     <p><h4>Monday, May 15th 4:00pm - Friday, May 19th 1:00pm  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>       
     <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>
@@ -155,8 +155,7 @@ div.instructor-table {
       <li>Apollo: learn how to manually annotate a gene, which involves both structural changes (intron/exon boundaries) and metadata (gene name and symbol)</li>
       <li>Galaxy: perform bioinformatic analyses using our servers, <i>e.g.</i>RNAseq transcript differential expression or SNP calling  </li> 
     </ul>
-<br><br>
-
+    <br>
 
   <h2>Applications are closed.</h2>
   <!--
@@ -209,7 +208,7 @@ div.instructor-table {
       </tbody>
     </table>
     </div>
-  <br><br>
+  <br>
 
   <h2>Questions</h2>
   Please direct inquiries or questions to <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>
