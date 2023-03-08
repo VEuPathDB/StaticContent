@@ -95,7 +95,8 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Additional Details:</b> This webinar will focus on what is new in Release 61 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
-  
+
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="release60"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 60 Webinar<br>
