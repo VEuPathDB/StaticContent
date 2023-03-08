@@ -121,14 +121,14 @@ div.instructor-table {
 <div class="static-content">
 
 
-  <div class="centered-title">    
-    <p><h4>APPLY HERE: <a href="https://forms.gle/Vbhds6Z7PJQdyEKX7" target="_blank">https://forms.gle/Vbhds6Z7PJQdyEKX7</a>.   Deadline is February 10, 2023. </h4></p> 
-    <p><h4><b>Registration, housing, and most meals during the workshop are free.  Attendees are expected to pay their own travel expenses, some evening meals, and housing for extended stays.</b> </h4></p>
-    <p><h4>4.5 day hands-on workshop with short lectures and small group instruction.  Attendence is limited to 30 participants.  </h4></p>
+  <div class="centered-title">        
+    <p><h4>Applications closed. Applicants have been notified of their status. </h4></p> 
+    <p><h4>Two travel awards to students who current or future VectorBase users will be sponsored by American Committee of Medical Entomology (ACME). <a href="#ACME">Learn More</a></h4></p>  
     <p><h4>Monday, May 15th 4:00pm - Friday, May 19th 1:00pm  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>       
     <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>
-    <p><h4>Two travel awards to current or future VectorBase users will be sponsored by American Committee of Medical Entomology (ACME). <a href="#ACME">Learn More</a></h4></p>
+    <p><h4><b>Registration, housing, and most meals during the workshop are free.  Attendees are expected to pay their own travel expenses, some evening meals, and housing for extended stays.</b> </h4></p>
+      
   </div>
   
 
@@ -158,21 +158,22 @@ div.instructor-table {
 <br><br>
 
 
-  <h2>Application: deadline Friday February 10, 2023</h2>
+  <h2>Applications are closed.</h2>
+  <!--
     <ul>
         <li><b>Begin your application by completing the form: <a href="https://forms.gle/Vbhds6Z7PJQdyEKX7" target="_blank">https://forms.gle/Vbhds6Z7PJQdyEKX7</a>.  The form information is confidential.</b> </li>
         <li>Arrange for letters of recommendation to be emailed to jckadmin@uga.edu.  Postdocs, students and staff should have two (2) letters of recommendation emailed by the application deadline (February 10, 2023). Principal investigators applying to the workshop are not required to have recommendation letters sent in support of their applications. </li>
         <li>Application deadline is Friday Feb 10, 2023.</li>
     </ul> 
-  <br><br>
+  <br><br>-->
       
   <h2>Cost and fees</h2>
   The workshop is free and VEuPathDB pays for housing on the nights of Monday May 15 - Thursday May 18, with an extra night before and after for international travelers, if needed. The opening reception dinner (Monday evening May 15th, 2023) as well as breakfast and lunch on May 16 - 19th are also provided free of charge.  Attendees are expected to pay travel expenses, lodging expenses outside the workshop window, and dinners on Tuesday - Thursday. 
   <br><br>
 
   <div class="anchor"><a name="ACME"></a></div>
-  <b>Two special travel awards to current or future VectorBase users, which can be demonstrated in your application, will be sponsored by the American Committee of Medical Entomology (ACME), each for the value of $450 USD, will be awarded to current or future VectorBase users from 
-  <a href="https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries" target="_blank">low- and middle-income countries (LMICs)</a>.</b> By early March we will send the workshop acceptance emails, please reply back conforming your attendance. If you are a student from an LMIC, currently living outside the USA, and have a financial need to attend the workshop, briefly mention this in your email, as well as how learning about VectorBase will help your professional development (200 words). Details about how the money will be used toward buying airplane tickets, will be discussed with the award recipients. 
+  <b>Two special travel awards ($450 each) sponsored by the American Committee of Medical Entomology (ACME) will be awarded to students who are current or future VectorBase users from 
+  <a href="https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries" target="_blank">low- and middle-income countries (LMICs)</a>.</b> Acceptance emails were sent March 3rd.  Please reply back conforming your attendance. If you are a student from an LMIC, currently living outside the USA, and have a financial need to attend the workshop, briefly mention this in your email, as well as how learning about VectorBase will help your professional development (200 words). Details about how the money will be used toward buying airplane tickets, will be discussed with the award recipients. 
   <br><br>  
 
   <h2>Computer and internet access</h2>
