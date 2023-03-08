@@ -128,7 +128,7 @@ div.instructor-table {
     <p><h4>Monday, May 15th 4:00pm - Friday, May 19th 1:00pm  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>       
     <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>
-    <p><h4>A limited number of travel awards to current or future VectorBase users will be sponsored by American Committee of Medical Entomology (ACME).  Details available soon.</h4></p>
+    <p><h4>Two travel awards to current or future VectorBase users will be sponsored by American Committee of Medical Entomology (ACME).</h4></p>
   </div>
   
 
@@ -169,7 +169,8 @@ div.instructor-table {
   <h2>Cost and fees</h2>
   The workshop is free and VEuPathDB pays for housing on the nights of Monday May 15 - Thursday May 18, with an extra night before and after for international travelers, if needed. The opening reception dinner (Monday evening May 15th, 2023) as well as breakfast and lunch on May 16 - 19th are also provided free of charge.  Attendees are expected to pay travel expenses, lodging expenses outside the workshop window, and dinners on Tuesday - Thursday. 
   <br><br>
-  A limited number of special travel awards to current or future VectorBase users, which can be demonstrated in your application, will be sponsored by the American Committee of Medical Entomology (ACME), and details will be provided soon.
+  Two special travel awards to current or future VectorBase users, which can be demonstrated in your application, will be sponsored by the American Committee of Medical Entomology (ACME), each for the value of $450 USD, will be awarded to current or future VectorBase users from 
+  <a href="https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries" target="_blank">low- and middle-income countries (LMICs)</a>. By early March we will send the workshop acceptance emails, please reply back conforming your attendance. If you are a student from an LMIC, currently living outside the USA, and have a financial need to attend the workshop, briefly mention this in your email, as well as how learning about VectorBase will help your professional development (200 words). Details about how the money will be used toward buying airplane tickets, will be discussed with the award recipients. 
   <br><br>  
 
   <h2>Computer and internet access</h2>
