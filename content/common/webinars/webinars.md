@@ -25,10 +25,11 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div class="contents">   
-  
+  Thursday March 16th, 2023, 10am US Eastern: <a href="#release62">Release 62 Webinar</a>
+  </div>
+
   <h3>Previous Webinars</h3>
-  <div class="contents">
-  
+  <div class="contents">  
   If you missed any of our previous webinars feel free to <a href="#previous">explore the free recordings</a>.
   </div>
 
@@ -38,6 +39,15 @@ tags: [general]
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
 
+<div class="anchor"><a name="release62"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 62 Webinar<br>
+<b>Date:</b> Thursday March 16th, 2023<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/6612181883667626331" target="_blank">https://attendee.gotowebinar.com/register/6612181883667626331</a> <br>
+<b>Details:</b> This webinar will focus on what is new in Release 62 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+<br>
+</div>
 
 
 </div><!-- ends div contents  -->
@@ -47,7 +57,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 
 <div class="anchor"><a name="previous"></a></div>
-<h3>Previous Webinars Recordings</h3>
+<h3>Previous Webinar Recordings</h3>
 <div class="contents">
   
 <hr>
