@@ -25,8 +25,6 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div class="contents">   
-    <p><b>Thursday February 23th, 2023:</b> <a href="#Enrich2023">Enrichment Analysis Tools in VEuPathDB</a></p>
-  </div>
   
   <h3>Previous Webinars</h3>
   <div class="contents">
@@ -51,7 +49,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="anchor"><a name="previous"></a></div>
 <h3>Previous Webinars Recordings</h3>
 <div class="contents">
-
+  
 <hr>
 <div class="anchor"><a name="Enrich2023"></a></div>
 <div class="webinar">
@@ -66,7 +64,8 @@ Release webinar dates are subject to change due to production issues that may ar
 </ul>
 <b>Additional Details:</b> This webinar will focus on the post-searches enrichment tools.  Functional enrichment are never far away from the gene result in VEuPathDB sites.  Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. <br>
 </div>
-
+  
+<hr>  
 <div class="anchor"><a name="#Strats2023"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Search Strategy System<br>
@@ -74,7 +73,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Recording:</b> <a href="https://youtu.be/ipJ3FCYodCw" target="_blank">https://youtu.be/ipJ3FCYodCw</a> <br>
 <b>Additional Details:</b> This webinar focused on the search strategy system.  We presented a general background, demonstrated the preconfigured searches with an emphasis on how to use the system to answer your own biological questions or support your own hypotheses.<br>
 </div>
-  
+
 <hr>
 <div class="anchor"><a name="release61"></a></div>
 <div class="webinar">
@@ -85,8 +84,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Additional Details:</b> This webinar will focus on what is new in Release 61 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
-
-<hr>
+  
 <div class="anchor"><a name="release60"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 60 Webinar<br>
