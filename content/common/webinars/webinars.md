@@ -85,7 +85,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Additional Details:</b> This webinar focused on the search strategy system.  We presented a general background, demonstrated the preconfigured searches with an emphasis on how to use the system to answer your own biological questions or support your own hypotheses.<br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="release61"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 61 Webinar<br>
@@ -105,7 +105,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Additional Details:</b> This webinar focused on new data and features in Release 60 of the VEuPathDB projects.  <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="release59"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 59 Webinar<br>
@@ -114,7 +114,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Recording:</b> <a href="https://youtu.be/PqYCrWFptCs">https://youtu.be/PqYCrWFptCs</a><br>
 </div>
   
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="release58"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 58 Webinar<br>
@@ -125,7 +125,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <br>
 </div>
   
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="apollo2022"></a></div>
 <div class="webinar">
 <b>Topic:</b> VEuPathDB Apollo annotation and curation<br>
@@ -142,7 +142,7 @@ Release webinar dates are subject to change due to production issues that may ar
 </div>
 
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="release57"></a></div>
 <div class="webinar">
 <b>Topic:</b>  Release 57 Webinar<br>
@@ -154,7 +154,7 @@ This webinar focused on what is new in Release 57 of the VEuPathDB projects. We 
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="release56"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 56 Webinar<br>
@@ -165,7 +165,7 @@ This webinar focused on what is new in Release 57 of the VEuPathDB projects. We 
 <br>
 </div>
   
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="release55"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 55 Webinar<br>
@@ -176,7 +176,7 @@ This webinar focused on what is new in Release 57 of the VEuPathDB projects. We 
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="release54"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 54 Webinar<br>
@@ -187,7 +187,7 @@ This webinar focused on what is new in Release 57 of the VEuPathDB projects. We 
 <br>
 </div>
   
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="release53"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 53 Webinar<br>
@@ -198,7 +198,7 @@ This webinar focused on what is new in Release 57 of the VEuPathDB projects. We 
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="vect4"></a></div>
 <div class="webinar">
 <b>Topic:</b> Analyzing your own data in VectorBase<br>
@@ -222,7 +222,7 @@ This webinar focused on what is new in Release 57 of the VEuPathDB projects. We 
 <br>
 </div>
   
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="BRC6"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC<br>
@@ -234,7 +234,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <br>
 </div>
   
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="release52"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 52 Webinar<br>
@@ -245,7 +245,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="vect3"></a></div>
 <div class="webinar">
 <b>Topic:</b> Exploring transcriptomic data in VectorBase<br>
@@ -263,7 +263,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="BRC5"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR<br>
@@ -275,7 +275,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <br>
 </div>
   
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="#microbiomedb2"></a></div>
 <div class="webinar">
 <b>Topic:</b> Web-based analysis of 16S rRNA microbiome data using Nephele and MicrobiomeDB<br>
@@ -291,7 +291,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 </div>
 
   
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="BRCfungi2"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Aspergillus and FungiDB<br>
@@ -303,7 +303,7 @@ bioinformatic resources available at FungiDB.
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="BRC4"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: RSV, Pneumoviridae & ViPR<br>
@@ -315,7 +315,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="vect2"></a></div>
 <div class="webinar">
 <b>Topic:</b> Building complex search strategies in VectorBase<br>
@@ -334,7 +334,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="release51"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 51 Webinar<br>
@@ -345,7 +345,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="BRC3"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC<br>
@@ -356,7 +356,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="vect1"></a></div>
 <div class="webinar">
 <b>Topic:</b> Introduction to VectorBase for the beginner<br>
@@ -376,7 +376,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="BRC2"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR<br>
@@ -387,7 +387,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <br>
 </div>
 
-<hr width="30%">  
+<hr style="width:30%; margin-left:0">  
 <div class="anchor"><a name="BRCfungi1"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB<br>
@@ -398,7 +398,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="BRC1"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Bioinformatic Resource Centers Webinar Series: Influenza & IRD<br>
@@ -409,7 +409,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <br>
 </div>
 
-<hr width="30%">  
+<hr style="width:30%; margin-left:0">  
 <div class="anchor"><a name="release50"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 50 Webinar<br>
@@ -420,7 +420,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="clinepi"></a></div>
 <div class="webinar">
 <b>Topic:</b> Clinical and Epidemiologic Data Exploration for Genomic Researchers<br>
@@ -431,7 +431,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="release49"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 49 Webinar<br>
@@ -442,7 +442,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="microbiome"></a></div>
 <div class="webinar">
 <b>Topic:</b> Introduction to MicrobiomeDB<br>
@@ -454,7 +454,7 @@ This webinar will cover basic usage of MicrobiomeDB.org and describe some of its
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="release48"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 48 Webinar<br>
@@ -466,7 +466,7 @@ This webinar focused on what is new in Release 48 of the VEuPathDB resources.  W
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="metabo"></a></div>
 <div class="webinar">
 <b>Topic:</b> Metabolic Pathways in VEuPathDB<br>
@@ -479,7 +479,7 @@ This webinar focused on how to use and explore metabolic pathways in VEuPathDB s
 </div>
 
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="complexstrat"></a></div>
 <div class="webinar">
 <b>Topic:</b> Building complex search strategies in VEuPathDB<br>
@@ -492,7 +492,7 @@ This webinar will demonstrate how to integrate diverse data types in search stra
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="hostdb"></a></div>
 <div class="webinar">
 <b>Topic:</b> HostDB: finding host genes responding to infection<br>
@@ -504,7 +504,7 @@ This webinar will feature beta.HostDB.org and will showcase the types of availab
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="proteomics"></a></div>
 <div class="webinar">
 <b>Topic:</b> Proteomics data in VEuPathDB<br>
@@ -520,7 +520,7 @@ This webinar will cover the types of proteomics data and searches available in V
 </ul>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="snp"></a></div>
 <div class="webinar">
 <b>Topic:</b> Variant data in VEuPathDB<br>
@@ -535,7 +535,7 @@ This webinar will cover:<br>
 <li>Variant data visualizations</li>
 </ul>
 </div>
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 
 <div class="anchor"><a name="fungidb"></a></div>
 <div class="webinar">
@@ -554,7 +554,7 @@ This webinar will cover:<br>
 </ul>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="rnaseq"></a></div>
 <div class="webinar">
 <b>Topic:</b> RNAseq searches in VEuPathDB<br>
@@ -566,7 +566,7 @@ This webinar will demonstrate how to search for under differential expression wi
 <br>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="ortho"></a></div>
 <div class="webinar">
 <b>Topic:</b> Orthology searches and OrthoMCL<br>
@@ -579,7 +579,7 @@ This webinar will demonstrate how to search for homolog genes.
 </div>
 
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="phenotypic"></a></div>
 <div class="webinar">
 <b>Topic:</b> Searching Phenotypic datasets in VEuPathDB<br>
@@ -592,7 +592,7 @@ This webinar gives an overview of phenotypic data on VEuPathDB sites, including 
 </div>
 
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="special"></a></div>
 <div class="webinar">
 <b>Topic:</b> Special event: Introduction for VectorBase users<br>
@@ -609,7 +609,7 @@ Topics covered included:
 </ul>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="mapveu"></a></div>
 <div class="webinar">
 <b>Topic:</b> MapVEu: population biology map filtering and searches<br>
@@ -626,7 +626,7 @@ This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics co
 </ul>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="release47"></a></div>
 <div class="webinar">
 <b>Topic:</b> VEuPathDB Release 47<br>
@@ -636,7 +636,7 @@ This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics co
 <b>Additional Details:</b> <br>
 This webinar will discuss and demonstrate new features and data available in release 47 of the newly merged VEuPathDB sites.
 </div>
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 
 <div class="anchor"><a name="motif"></a></div>
 <div class="webinar">
@@ -659,7 +659,7 @@ This webinar will describe the different available motif searches including regu
 </ul>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="GO"></a></div>
 <div class="webinar">
 <b>Topic:</b> GO and other enrichment analyses in VEuPathDB<br>
@@ -678,7 +678,7 @@ Metabolic pathway enrichment</li>
 </ul>
 </div>
 
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="apollo"></a></div>
 <div class="webinar">
 <b>Topic:</b> Manual gene annotation in Apollo<br>
@@ -694,7 +694,7 @@ This webinar will guide you through the process of updating and fixing gene mode
 <li>How to use underlying data to support structural changes</li>
 </ul>
 </div>
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 
 <div class="anchor"><a name="galaxy"></a></div>
 <div class="webinar">
@@ -708,7 +708,7 @@ This webinar will guide you through the process of updating and fixing gene mode
 <b>Additional Details:</b> <br>
 This webinar will guide you through the process of running a workflow in galaxy and exporting the results to your VEuPathDB workspace.
 </div>
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 
 <div class="anchor"><a name="strategies"></a></div>
 <div class="webinar">
@@ -729,7 +729,7 @@ This webinar will guide you through the process of building search strategies in
 <li>Analyzing search strategy results (eg. GO enrichment)</li>
 </ul>
 </div>
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 
 <div class="anchor"><a name="interpreting"></a></div>
 <div class="webinar">
@@ -746,7 +746,7 @@ This webinar will guide you through the process of viewing RNA-seq coverage trac
 <li>Interpreting RNA-seq results to confirm gene models and propose alternative ones</li>
 </ul>
 </div>
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 
 <div class="anchor"><a name="browser"></a></div>
 <div class="webinar">
@@ -764,7 +764,7 @@ This webinar will introduce you to the genome browser in VEuPathDB resources. To
 <li>How to load your own data</li>
 </ul>
 </div>
-<hr width="30%">
+<hr style="width:30%; margin-left:0">
 
 <div class="anchor"><a name="introduction"></a></div>
 <div class="webinar">
