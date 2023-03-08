@@ -75,7 +75,8 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Additional Details:</b> This webinar will focus on the post-searches enrichment tools.  Functional enrichment are never far away from the gene result in VEuPathDB sites.  Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. <br>
 </div>
   
-<hr width="30%">  
+
+<hr style="width:30%; margin-left:0"> 
 <div class="anchor"><a name="#Strats2023"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Search Strategy System<br>
