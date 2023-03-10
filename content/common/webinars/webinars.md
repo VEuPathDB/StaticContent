@@ -27,6 +27,9 @@ tags: [general]
   <div class="contents">   
   Thursday March 16th, 2023, 10am US Eastern: <a href="#release62">Release 62 Webinar</a>
   </div>
+  <div class="contents">   
+  Thursday March 23rd, 2023, 10am US Eastern: <a href="#toxoannotation">VEuPathDB Community Annotation Webinar with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation</a>
+  </div>
 
   <h3>Previous Webinars</h3>
   <div class="contents">  
@@ -41,6 +44,20 @@ Release webinar dates are subject to change due to production issues that may ar
 
 <div class="anchor"><a name="release62"></a></div>
 <div class="webinar">
+<b>Topic:</b> VEuPathDB Community Annotation Webinar with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation<br>
+<b>Date:</b> Thursday March 23rd, 2023<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJ0uc-utrD4qE93LoNqF1HHxm9tIWbH1-keO" target="_blank">https://upenn.zoom.us/meeting/register/tJ0uc-utrD4qE93LoNqF1HHxm9tIWbH1-keO</a> <br>
+<b>Details:</b> Webinar goals:<br>
+<ul>
+<li>demonstrate how to contribute gene modifications using the Apollo, or attach User Comments to individual genes or other records</li>
+<li>discuss plans for updating the official genome annotation for TgME49 … and ensure consistent representation at ToxoDB, GenBank, Ensembl, RefSeq, UniProt, SwissProt, etc</li>
+<li>solicit feedback from the community … about individual genes, ToxoDB, or other questions you may have for the VEuPathDB team</li>
+</ul>
+<br>
+</div>
+<div class="anchor"><a name="toxoannotation"></a></div>
+<div class="webinar">
 <b>Topic:</b> Release 62 Webinar<br>
 <b>Date:</b> Thursday March 16th, 2023<br>
 <b>Time:</b> 10AM US Eastern Time<br>
@@ -48,7 +65,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Details:</b> This webinar will focus on what is new in Release 62 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 <br>
 </div>
-
 
 </div><!-- ends div contents  -->
 
