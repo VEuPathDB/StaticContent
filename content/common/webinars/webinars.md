@@ -41,8 +41,16 @@ tags: [general]
 <h3>Upcoming Webinars Details and Registration</h3>
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
-
+</div>
 <div class="anchor"><a name="release62"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 62 Webinar<br>
+<b>Date:</b> Thursday March 16th, 2023<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/6612181883667626331" target="_blank">https://attendee.gotowebinar.com/register/6612181883667626331</a> <br>
+<b>Details:</b> This webinar will focus on what is new in Release 62 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+</div>
+<div class="anchor"><a name="toxoannotation"></a></div>
 <div class="webinar">
 <b>Topic:</b> VEuPathDB Community Annotation Webinar with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation<br>
 <b>Date:</b> Thursday March 23rd, 2023<br>
@@ -54,17 +62,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <li>discuss plans for updating the official genome annotation for TgME49 … and ensure consistent representation at ToxoDB, GenBank, Ensembl, RefSeq, UniProt, SwissProt, etc</li>
 <li>solicit feedback from the community … about individual genes, ToxoDB, or other questions you may have for the VEuPathDB team</li>
 </ul>
-<br>
-</div>
-<div class="anchor"><a name="toxoannotation"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 62 Webinar<br>
-<b>Date:</b> Thursday March 16th, 2023<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/6612181883667626331" target="_blank">https://attendee.gotowebinar.com/register/6612181883667626331</a> <br>
-<b>Details:</b> This webinar will focus on what is new in Release 62 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
-</div>
 
 </div><!-- ends div contents  -->
 
