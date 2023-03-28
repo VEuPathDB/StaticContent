@@ -24,9 +24,7 @@ tags: [general]
 <div class="static-content">
 
   <h3>Upcoming Webinars</h3>
-  <div class="contents">   
-  Thursday March 16th, 2023, 10am US Eastern: <a href="#release62">Release 62 Webinar</a>
-  </div>
+  
   <div class="contents">   
   Thursday March 23rd, 2023, 10am US Eastern: <a href="#toxoannotation">VEuPathDB Community Annotation Webinar with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation</a>
   </div>
@@ -42,14 +40,7 @@ tags: [general]
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
 <div class="contents">
 </div>
-<div class="anchor"><a name="release62"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 62 Webinar<br>
-<b>Date:</b> Thursday March 16th, 2023<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/6612181883667626331" target="_blank">https://attendee.gotowebinar.com/register/6612181883667626331</a> <br>
-<b>Details:</b> This webinar will focus on what is new in Release 62 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-</div>
+
 <div class="anchor"><a name="toxoannotation"></a></div>
 <div class="webinar">
 <b>Topic:</b> VEuPathDB Community Annotation Webinar with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation<br>
@@ -74,6 +65,15 @@ Release webinar dates are subject to change due to production issues that may ar
 
 <div class="contents">
 
+<div class="anchor"><a name="release62"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 62 Webinar<br>
+<b>Date:</b> Thursday March 16th, 2023<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording:</b> <a href="https://youtu.be/2KHOjE3POXo" target="_blank">https://youtu.be/2KHOjE3POXo</a> <br>
+<b>Details:</b> This webinar will focus on what is new in Release 62 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+</div>
+  
 <div class="anchor"><a name="Enrich2023"></a></div>
 <div class="webinar">
 <b>Topic:</b> Enrichment Analysis Tools in VEuPathDB<br>
