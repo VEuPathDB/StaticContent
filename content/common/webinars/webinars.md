@@ -64,7 +64,8 @@ Release webinar dates are subject to change due to production issues that may ar
 <h3>Previous Webinar Recordings</h3>
 
 <div class="contents">
-
+  
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="release62"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 62 Webinar<br>
@@ -74,6 +75,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Details:</b> This webinar will focus on what is new in Release 62 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 </div>
   
+<hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="Enrich2023"></a></div>
 <div class="webinar">
 <b>Topic:</b> Enrichment Analysis Tools in VEuPathDB<br>
