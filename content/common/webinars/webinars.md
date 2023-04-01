@@ -26,7 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   
   <div class="contents">   
-  hursday April 6th, 2023, 10am US Eastern: <a href="#generecordpages">Deep dive into VEuPAthDB gene record pages</a>
+  Thursday April 6th, 2023, 10am US Eastern: <a href="#generecordpages">Deep dive into VEuPAthDB gene record pages</a>
   </div>
 
   <h3>Previous Webinars</h3>
@@ -43,7 +43,7 @@ Release webinar dates are subject to change due to production issues that may ar
 </div>
 
 <hr style="width:30%; margin-left:0">  
-<div class="anchor"><a name="release62"></a></div>
+<div class="anchor"><a name="generecordpages"></a></div>
 <div class="webinar">
 <b>Topic:</b> Deep dive into VEuPathDB gene record pages<br>
 <b>Date:</b> Thursday April 6th, 2023<br>
