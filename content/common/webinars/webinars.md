@@ -26,7 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   
   <div class="contents">   
-  Thursday March 23rd, 2023, 10am US Eastern: <a href="#toxoannotation">VEuPathDB Community Annotation Webinar with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation</a>
+  Thursday April 6th, 2023, 10am US Eastern: <a href="#generecordpages">Deep dive into VEuPAthDB gene record pages</a>
   </div>
 
   <h3>Previous Webinars</h3>
@@ -38,9 +38,32 @@ tags: [general]
 
 <h3>Upcoming Webinars Details and Registration</h3>
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
+  
 <div class="contents">
 </div>
 
+<hr style="width:30%; margin-left:0">  
+<div class="anchor"><a name="generecordpages"></a></div>
+<div class="webinar">
+<b>Topic:</b> Deep dive into VEuPathDB gene record pages<br>
+<b>Date:</b> Thursday April 6th, 2023<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/4461796625457620830" target="_blank">https://attendee.gotowebinar.com/register/4461796625457620830</a> <br>
+<b>Details:</b> This webinar will focus on the content and features of gene record pages.
+</div>
+
+</div><!-- ends div contents  -->
+
+
+
+<hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
+
+<div class="anchor"><a name="previous"></a></div>
+<h3>Previous Webinar Recordings</h3>
+
+<div class="contents">
+
+<hr style="width:30%; margin-left:0"> 
 <div class="anchor"><a name="toxoannotation"></a></div>
 <div class="webinar">
 <b>Topic:</b> VEuPathDB Community Annotation Webinar with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation<br>
@@ -54,8 +77,17 @@ Release webinar dates are subject to change due to production issues that may ar
 <li>solicit feedback from the community … about individual genes, ToxoDB, or other questions you may have for the VEuPathDB team</li>
 </ul>
 
-</div><!-- ends div contents  -->
+<hr style="width:30%; margin-left:0">  
+<div class="anchor"><a name="generecordpages"></a></div>
+<div class="webinar">
+<b>Topic:</b> Deep dive into VEuPathDB gene record pages<br>
+<b>Date:</b> Thursday April 6th, 2023<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/4461796625457620830" target="_blank">https://attendee.gotowebinar.com/register/4461796625457620830</a> <br>
+<b>Details:</b> This webinar will focus on the content and features of gene record pages.
+</div>
 
+</div><!-- ends div contents  -->
 
 
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
