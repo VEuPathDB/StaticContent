@@ -45,7 +45,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <hr style="width:30%; margin-left:0">  
 <div class="anchor"><a name="release62"></a></div>
 <div class="webinar">
-<b>Topic:</b> Deep dive into VEuPAthDB gene record pages<br>
+<b>Topic:</b> Deep dive into VEuPathDB gene record pages<br>
 <b>Date:</b> Thursday April 6th, 2023<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/4461796625457620830" target="_blank">https://attendee.gotowebinar.com/register/4461796625457620830</a> <br>
