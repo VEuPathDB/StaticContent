@@ -26,7 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   
   <div class="contents">   
-  Thursday April 6th, 2023, 10am US Eastern: <a href="#generecordpages">Deep dive into VEuPAthDB gene record pages</a>
+  Thursday April 6th, 2023, 10am US Eastern: <a href="#generecordpages">Deep dive into VEuPathDB gene record pages</a>
   </div>
 
   <h3>Previous Webinars</h3>
