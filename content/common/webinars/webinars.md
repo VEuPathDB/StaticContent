@@ -36,7 +36,6 @@ tags: [general]
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
   
 <div class="contents">
-</div>
 
 
 </div><!-- ends div contents  -->
