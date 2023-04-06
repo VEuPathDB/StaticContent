@@ -37,8 +37,19 @@ Release webinar dates are subject to change due to production issues that may ar
   
 <div class="contents">
 
+  <!-- use this space for upcoming Webinars details and registrations  
+  example =  
+  <hr style="width:30%; margin-left:0">  
+  <div class="anchor"><a name="release62"></a></div>
+  <div class="webinar">
+  <b>Topic:</b> Release 62 Webinar<br>
+  <b>Date:</b> Thursday March 16th, 2023<br>
+  <b>Time:</b> 10AM US Eastern Time<br>
+  <b>Registration:</b> <a href="https://youtu.be/2KHOjE3POXo" target="_blank">https://youtu.be/2KHOjE3POXo</a> <br>
+  <b>Details:</b> This webinar will focus on what is new in Release 62 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+  </div>-->
 
-</div><!-- ends div contents  -->
+</div>
 
 
 
