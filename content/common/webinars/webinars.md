@@ -30,7 +30,7 @@ tags: [general]
   If you missed any of our previous webinars feel free to explore the <a href="#previous">Previous Webinar Recordings</a>.
   </div>
 
-<hr> <!-- ==== UPCOMING WEBINARS =============================== -->
+<!--<hr>  ==== UPCOMING WEBINARS =============================== -->
  
 <!-- ======use this space for upcoming Webinars details and registrations ======
 <h3>Upcoming Webinars Details and Registration</h3>
