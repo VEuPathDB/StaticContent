@@ -78,13 +78,14 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> VEuPathDB Community Annotation Webinar with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation<br>
 <b>Date:</b> Thursday March 23rd, 2023<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJ0uc-utrD4qE93LoNqF1HHxm9tIWbH1-keO" target="_blank">https://upenn.zoom.us/meeting/register/tJ0uc-utrD4qE93LoNqF1HHxm9tIWbH1-keO</a> <br>
+<b>Recording:</b> <a href="https://www.youtube.com/watch?v=TdI9MbN0Du8" target="_blank">https://www.youtube.com/watch?v=TdI9MbN0Du8</a> <br>
 <b>Details:</b> Webinar goals:<br>
 <ul>
 <li>demonstrate how to contribute gene modifications using the Apollo, or attach User Comments to individual genes or other records</li>
 <li>discuss plans for updating the official genome annotation for TgME49 … and ensure consistent representation at ToxoDB, GenBank, Ensembl, RefSeq, UniProt, SwissProt, etc</li>
 <li>solicit feedback from the community … about individual genes, ToxoDB, or other questions you may have for the VEuPathDB team</li>
 </ul>
+</div>
   
 <hr style="width:30%; margin-left:0">  
 <div class="anchor"><a name="release62"></a></div>
@@ -108,7 +109,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <li><a href="{{'/documents/23FEB23_Gene_function_enrichment.pdf' | absolute_url}}">Gene function enrichment slides</a><br></li>
 <li><a href="{{'/documents/23FEB23_ECnummbers.pdf' | absolute_url}}">EC numbers slide</a><br></li>
 </ul>
-<b>Additional Details:</b> This webinar will focus on the post-searches enrichment tools.  Functional enrichment are never far away from the gene result in VEuPathDB sites.  Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. <br>
+<b>Additional Details:</b> This webinar will focus on the post-searches enrichment tools.  Functional enrichment are never far away from the gene result in VEuPathDB sites.  Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. 
 </div>
   
 
@@ -129,7 +130,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording:</b> <a href="https://youtu.be/B-XZ8LWf220" target="_blank">https://youtu.be/B-XZ8LWf220</a> <br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 61 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">
@@ -139,7 +139,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Date:</b> Thursday November 17th, 2022<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording:</b> <a href="https://youtu.be/JqYu2ug9PWo" target="_blank">https://youtu.be/JqYu2ug9PWo</a> <br>
-<b>Additional Details:</b> This webinar focused on new data and features in Release 60 of the VEuPathDB projects.  <br>
+<b>Additional Details:</b> This webinar focused on new data and features in Release 60 of the VEuPathDB projects.
 </div>
 
 <hr style="width:30%; margin-left:0">
@@ -148,7 +148,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> Release 59 Webinar<br>
 <b>Date:</b> Thursday September 15th, 2022<br>
 <b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording:</b> <a href="https://youtu.be/PqYCrWFptCs">https://youtu.be/PqYCrWFptCs</a><br>
+<b>Recording:</b> <a href="https://youtu.be/PqYCrWFptCs">https://youtu.be/PqYCrWFptCs</a>
 </div>
   
 <hr style="width:30%; margin-left:0">
@@ -159,7 +159,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording:</b> <a href="https://youtu.be/9bXMZQr1myU" target="_blank">https://youtu.be/9bXMZQr1myU</a><br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 58 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
 </div>
   
 <hr style="width:30%; margin-left:0">
@@ -175,7 +174,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <li>Structural and functional annotations</li>
 <li>Evidence as tracks and Galaxy</li>
 </ul>
-<br>
 </div>
 
 
@@ -188,7 +186,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Recording:</b> <a href="https://youtu.be/56eduSdIP6s" target="_blank">https://youtu.be/56eduSdIP6s</a><br>
 <b>Additional Details:</b> 
 This webinar focused on what is new in Release 57 of the VEuPathDB projects. We discussed new data sets, demonstrate searches and features, and answer questions.
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">
@@ -199,7 +196,6 @@ This webinar focused on what is new in Release 57 of the VEuPathDB projects. We 
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording:</b> <a href="https://youtu.be/PANxoBp3Wf0" target="_blank">https://youtu.be/PANxoBp3Wf0</a><br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 56 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
 </div>
   
 <hr style="width:30%; margin-left:0">
@@ -210,7 +206,6 @@ This webinar focused on what is new in Release 57 of the VEuPathDB projects. We 
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording:</b> <a href="https://youtu.be/6n45Ie8Mbs0" target="_blank">https://youtu.be/6n45Ie8Mbs0</a><br>
 <b>Additional Details:</b> This is a recording of our Dec 9, 2021 webinar describing the new data and features in VEuPathDB Release 55.
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">
@@ -221,7 +216,6 @@ This webinar focused on what is new in Release 57 of the VEuPathDB projects. We 
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording link:</b> <a href="https://youtu.be/qm3Pq86VwM4" target="_blank">https://youtu.be/qm3Pq86VwM4</a><br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 54 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
 </div>
   
 <hr style="width:30%; margin-left:0">
@@ -232,7 +226,6 @@ This webinar focused on what is new in Release 57 of the VEuPathDB projects. We 
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording Link:</b><a href="https://youtu.be/oriU3ZpG40s">https://youtu.be/oriU3ZpG40s</a><br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 53 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">
@@ -256,7 +249,6 @@ This webinar focused on what is new in Release 57 of the VEuPathDB projects. We 
 <li>Exploring your RNAseq data in VectorBase</li>
 <li>Go enrichment analysis</li>
 </ul>
-<br>
 </div>
   
 <hr style="width:30%; margin-left:0">
@@ -266,9 +258,7 @@ This webinar focused on what is new in Release 57 of the VEuPathDB projects. We 
 <b>Date:</b> Tuesday June 1st 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
 <b>Recording Link:</b> <a href="https://youtu.be/GKNR3dViCcw">https://youtu.be/GKNR3dViCcw</a><br>
-<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
-bioinformatic resources available at the Pathosystems Resource Integration Center.
-<br>
+<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Pathosystems Resource Integration Center.
 </div>
   
 <hr style="width:30%; margin-left:0">
@@ -279,7 +269,6 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording:</b> <a href="https://youtu.be/c0kOezp0_ao">https://youtu.be/c0kOezp0_ao</a><br>
 <b>Additional Details:</b> The May 20, 2021 release of the VEuPathDB resources (Release 52) included new data, new features and annotation updated for some genomes.  In this webinar our Outreach team describes the data and demonstrates useful data mining strategies that can be applied to all VEuPathDB data.
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">
@@ -297,7 +286,6 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <li>Exploring transcriptomic graphs</li>
 <li>Exploring RNAseq data in the genome browser</li>
 </ul>
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">
@@ -307,9 +295,7 @@ bioinformatic resources available at the Pathosystems Resource Integration Cente
 <b>Date:</b> Tuesday May 18th 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
 <b>Recording Link:</b> <a href="https://youtu.be/G6MaVi5G2qY">https://youtu.be/G6MaVi5G2qY</a><br>
-<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
-bioinformatic resources available at the Virus Pathogen Resource.
-<br>
+<b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
 </div>
   
 <hr style="width:30%; margin-left:0">
@@ -324,7 +310,6 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <li>Analyzing data in <a href="https://nephele.niaid.nih.gov/index">Nephele</a> - the National Institute of Allergy & Infectious Diseases microbiome analysis platform.</li>
 <li>Exploring Nephele analyzed data in <a href="https://microbiomedb.org/">MicrobiomeDB</a>.</li>
 </ul>
-<br>
 </div>
 
   
@@ -335,9 +320,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Date:</b> Tuesday May 4th 2021<br>
 <b>Time:</b> 11AM US Eastern Time<br>
 <b>Recording Link:</b> <a href="https://youtu.be/jHDliZnjpS8">https://youtu.be/jHDliZnjpS8</a><br>
-<b>Additional Details:</b> This webinar will focus on <i>Aspergillus</i> pathogens and introduce users to
-bioinformatic resources available at FungiDB.
-<br>
+<b>Additional Details:</b> This webinar will focus on <i>Aspergillus</i> pathogens and introduce users to bioinformatic resources available at FungiDB.
 </div>
 
 <hr style="width:30%; margin-left:0">
@@ -349,7 +332,6 @@ bioinformatic resources available at FungiDB.
 <b>Recording:</b> <a href="https://youtu.be/Wv0xUZKLDHg">https://youtu.be/Wv0xUZKLDHg</a> <br>
 <b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to
 bioinformatic resources available at the Virus Pathogen Resource.
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">
@@ -368,7 +350,6 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <li>Transforming results to orthologs</li>
 <li>downloading search results</li>
 </ul>
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">
@@ -379,7 +360,6 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording:</b> <a href="https://youtu.be/6v6x4PSP4Jc">https://youtu.be/6v6x4PSP4Jc</a><br>
 <b>Additional Details:</b> This webinar focused on new data and features in Release 51 of the VEuPathDB projects.  BLAST-beta, our new multi-sequence BLAST tool, as well as MapVEU, our population biology data mining tool were also discussed. 
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">
@@ -390,7 +370,6 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Time:</b> 11AM US Eastern Time<br>
 <b>Recording:</b> <a href="https://youtu.be/SaKKUIIwDG0">https://youtu.be/SaKKUIIwDG0</a><br>
 <b>Additional Details:</b> This webinar focused on respiratory pathogens and introduced users to bioinformatic resources available at the Pathosystems Resource Integration Center.
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">
@@ -410,7 +389,6 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <li>Available tools and searches</li>
 <li>The genome browser</li>
 </ul>
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">
@@ -421,7 +399,6 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Time:</b> 11AM US Eastern Time<br>
 <b>Recording Link:</b> <a href="https://youtu.be/zB_wKXqn54U">https://youtu.be/zB_wKXqn54U</a><br><br>
 <b>Additional Details:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">  
@@ -432,7 +409,6 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Time:</b> 11AM US Eastern Time<br>
 <b>Recording Link:</b> <a href="https://youtu.be/SEWk0BvaWkc">https://youtu.be/SEWk0BvaWkc</a><br>
 <b>Additional Details:</b> This webinar will feature a lecture from Dr Bridget Barker from Northern Arizona University and introduce users to bioinformatic resources available at FungiDB.org.
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">
@@ -443,7 +419,6 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Time:</b> 11AM US Eastern Time<br>
 <b>Recording:</b><a href="https://youtu.be/VP7d1XYIWdM">https://youtu.be/VP7d1XYIWdM</a><br> <br>
 <b>Additional Details:</b> This webinar focused on respiratory pathogens and introduced users to bioinformatic resources available at the Influenza Research Database.
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">  
@@ -454,7 +429,6 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording Link:</b> <a href="https://youtu.be/5leMraRnnpk">https://youtu.be/5leMraRnnpk</a><br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 50 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">
@@ -465,7 +439,6 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording Link:</b> <a href="https://youtu.be/fpGjAhLGn8Y">https://youtu.be/fpGjAhLGn8Y</a><br>
 <b>Additional Details:</b> In this webinar, we'll cover key features and studies in ClinEpiDB that may be of interest to biologists working on infectious diseases.
-<br>
 </div>
 
 <hr style="width:30%; margin-left:0">
