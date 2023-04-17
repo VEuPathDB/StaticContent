@@ -1,0 +1,146 @@
+---
+categories: []
+layout: post
+title: PlasmoDB 62 Released
+category: [PlasmoDB,VEuPathDB]
+---
+{% assign project = page.category[0] %}
+
+
+<h3>We are pleased to announce the release of {{project}} 62.</h3>
+
+<section>
+  <h3>Release 62 Webinar</h3>
+  <div style="margin-left: 3em;">
+    Join us on Thursday March 16, 2023 at 10 am Eastern for our Release 62 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 62.  
+    <a href="https://attendee.gotowebinar.com/register/6612181883667626331" target="_blank">Register here</a>  
+  </div>
+  <br>
+</section>
+
+<section>
+  <h3>VEuPathDB is a DataWorks! prize winner!</h3>
+  <div style="margin-left: 3em;">
+  <b>Thank you for voting!</b> VEuPathDB is grateful to be the <a href="https://datascience.nih.gov/director/directors-blog-dataworks-winners-2023" target="_blank">2023 DataWorks! Prize Winner</a> in two categories: <b>Significant Achievement Award for Data Reuse</b> and the <b>People's Choice Award</b>. The DataWorks! program was launched by a partnership between the NIH Office of Data Science Strategy (ODSS) and the Federation of American Societies for Experimental Biology (FASEB) to highlight examples of innovative data sharing and reuse. 
+</div><br>
+</section>
+
+<section>
+  <h3>New data in {{project}} 62</h3>
+  <div style="margin-left: 3em;">
+    <h4>Genome sequence and annotation</h4>
+    <div style="margin-left: 3em;">
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_b824c0548b"><i>Plasmodium brasilianum</i> Bolivian I</a> &ndash; <a href="http://www.ncbi.nlm.nih.gov/pubmed/36396703" target="_blank">Bajic et al. 2022</a> and <a href="https://www.ncbi.nlm.nih.gov/assembly/GCA_023973825.1" target="_blank">GCA_023973825.1</a></li>    
+      </ul>   
+      <br> 
+    </div>
+
+    <h4>RNA Sequence</h4>
+    <div style="margin-left: 3em;">
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_6573eba8f8">Comparison of in vitro versus aseptic mosquito produced sporozoites by RNA-seq</a> &ndash; RNA-Seq transcriptomes of <i>in vitro</i> sporozoites produced without mosquitoes and sporozoites manufactured in mosquitoes.  <a href="http://www.ncbi.nlm.nih.gov/pubmed/36477528" target="_blank">Eappen et al. 2022</a>.</li>
+      </ul>
+      <br>    
+    </div>
+
+    <h4>GFF tracks</h4>
+    <div style="margin-left: 3em;">
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_f8f0c13394">Long Read RNA for <i>P. falciparum</i></a> &ndash; Total and nuclear-fractionated RNA from intra-erythrocytic stages were enriched for 5' capped mRNA and sequenced with PacBio and Nanopore methods.<a href="http://www.ncbi.nlm.nih.gov/pubmed/36331983" target="_blank"> Shaw et al. 2022</a>.</li>
+      </ul>
+      <br>    
+    </div>
+
+    <h4>Updated Functional Annotation</h4>
+    <div style="margin-left: 3em;">
+      <p><a href="https://docs.google.com/spreadsheets/d/1XkW78Durx_EvqgNGRJml8nnXDJUWhg73JU9USaWTyJM/edit#gid=1112700546" target="_blank">Summary of annotation updates</a> which include products, GO terms, gene names, synonyms and PMID. Functional annotations in PlasmoDB 62 are current with the <b>GeneDB GFF versions from 30 November 2022</b>. </p>
+
+      <p><b>Number of changes from 1st of September 2022 until 30th November 2022:</b></p>
+      
+      <style>
+      #FunctAnnot_Bld60 table, #FunctAnnot_Bld60 td, #FunctAnnot_Bld60 th, #FunctAnnot_Bld60 tr {
+      text-align : center;
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      border: 1px solid black;
+      }
+      #FunctAnnot_Bld60 {
+      margin-left : 5 em;
+      }
+      </style> 
+      <table id="FunctAnnot_Bld60"> 
+      <tr>
+        <th>PlasmoDB Genome Version</th>
+        <th>Genes Updated</th>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_f2d80510c7"><i>P. berghei</i> ANKA </a></td>
+        <td>194 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_5dab6e4a9f"><i>P. chabaudi</i> AS </a></td>
+        <td>138 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_1d17c1883c"><i>P. falciparum</i> 3D7 </a></td>
+        <td>280 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_22b4dadc51"><i>P. gallinaceum</i> 8A </a></td>
+        <td>104 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_8793a259f4"><i>P. knowlesi</i> H </a></td>
+        <td>107 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_3986a0b578"><i>P. malariae</i> UG01 </a></td>
+        <td>106 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_99a2d5bf10"><i>P. ovale curtisi</i> GH01 </a></td>
+        <td>106 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_91fa338f8f"><i>P. reichenowi</i> CDC </a></td>
+        <td>105 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_c3f289d21a"><i>P. relictum</i> SGS1 </a></td>
+        <td>104 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_ad07e73d42"><i>P. vivax</i> P01 </a></td>
+        <td>113 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_b5a76b5939"><i>P. yoelii yoelii</i> 17X </a></td>
+        <td>126 genes</td>
+      </tr>
+      </table>
+    </div>
+      <br>
+  </div>
+</section>
+
+<section>
+  <h3>New features in {{project}} 62</h3>
+  <div style="margin-left: 3em;">
+    <ul>
+      <li>Site search 'Reference Only' organism filter &ndash; Large results (&#62; 50,000 hits) from the site search are common since it accesses all {{project}} data/page categories (genes, data types, data sets, organisms, etc.).  The new 'Reference Only' toggle offers a one-click filter to reduce the result from all organisms to include only results from VEuPathDB reference orgnanisms.  </li>
+
+      <li>Search details and data sets &ndash; Details for the search and the data sets accessed by the search are now available in tabbed pages from the top of the search pages.  Previous versions of {{project}} presented this information at the bottom of the page where it was easily missed. </li>
+
+      <li>Scroll and zoom on gene page browser frames &ndash; The dynamic browser views on gene pages now provide active scroll and zoom functions with a reset button to return to the default view. Dynamic browser views are available for Synteny, Alignments, SNPs, Transcriptomics Coverage, Protein Features and Proteomics.  </li>
+   </ul>
+  </div>
+</section>
+
+<section>
+  <aside>
+    <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>
