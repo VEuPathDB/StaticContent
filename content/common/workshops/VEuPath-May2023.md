@@ -238,25 +238,29 @@ div.instructor-table {
         </thead>
         <tbody>         
           <tr>
-            <td>4 - 4:15pm</td>
+            <td>4 - 4:15pm<br>
+                Coverdell 175</td>
             <td>Welcome, workshop overview, instructor introductions, logistics for the week</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>4:15 - 5:15</td>
+            <td>4:15 - 5:15<br>
+                Coverdell 175</td>
             <td>Introduction to VEuPathDB</td>
             <td></td>
             <td></td>
           </tr>          
           <tr>
-            <td>5:15 - 6pm</td>
+            <td>5:15 - 6pm<br>
+                Coverdell 175</td></td>
             <td>Attendee Introductions: Each attendee introduces themselves and presents a one-slide summary of their work. </td>
             <td></td>
             <td></td>
           </tr>       
           <tr>
-            <td>6 - 8pm</td>
+            <td>6 - 8pm<br>
+                Coverdell 340</td>
             <td>Opening Recepetion Dinner </td>
             <td></td>
             <td></td>
@@ -279,7 +283,8 @@ div.instructor-table {
         </thead>
         <tbody>         
           <tr>
-            <td>7 - 8:30am</td>
+            <td>7 - 8:30am<br>
+                Springhill Suites</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
