@@ -290,21 +290,74 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>8:00 a.m.</td>
+            <td>8:00 a.m.<br>
+                Springhill Suites</td>
             <td>leave from hotel</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>8:30 a.m.</td>
+            <td>8:30 a.m.<br>
+                Life Sciences C128</td>
             <td>VEuPathDB Overview Lecture</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9:00 a.m.</td>
+            <td>9:00 a.m.<br>
+                Life Sciences C128</td>
             <td>Site Search exercise<br>
                 Gene Page exercise</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:30 a.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:00 a.m.<br>
+                Life Sciences C128</td>
+            <td>Strategies 1 exercise </td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:15 p.m.<br>
+                Life Sciences B116</td>
+            <td>Lunch provided</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:15 p.m.<br>
+                Life Sciences C128</td>
+            <td>JBrowse Basics<br>
+                JBrowse Interetation</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2:30 p.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2:45 p.m.<br>
+                Life Sciences C128</td>
+            <td>JBrowse Interpretation</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>4:45 p.m.<br>
+                Life Sciences C128</td>
+            <td>Motifs and Domains</td>
             <td></td>
             <td></td>
           </tr>
