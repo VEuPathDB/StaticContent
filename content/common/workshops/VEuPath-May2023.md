@@ -592,23 +592,45 @@ div.instructor-table {
             <th class="recording">Exercise pdf</th>
           </tr>
         </thead>
-        <tbody>      
+        <tbody>
           <tr>
-            <td>7 - 8:30 a.m.</td>
+            <td>7 - 8:00 a.m.</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9 a.m. - 1 p.m.</td>
-            <td>Workshop lectures and exercises.  Snacks, coffee and boxed lunch-to-go provided.</td>
+            <td>8:00 a.m.<br>
+                Springhill suites</td>
+            <td>Leave hotel lobby</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>8:30 a.m.<br>
+                Life Sciences C128</td>
+            <td>Group exercise continued</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9:45 a.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee as needed starting at 9:45 a.m.</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:00 a.m.<br>
+                Life Sciences C128</td>
+            <td>Group Presentations </td>
             <td></td>
             <td></td>
           </tr>
           <tr>
             <td>12:00 p.m.<br>
                 Life Sciences C128</td>
-            <td>adjourn</td>
+            <td>Adjourn, boxed lunch-to-go provided.</td>
             <td></td>
             <td></td>
           </tr>
