@@ -283,15 +283,28 @@ div.instructor-table {
         </thead>
         <tbody>         
           <tr>
-            <td>7 - 8:30 a.m.<br>
+            <td>7 - 8:00 a.m.<br>
                 Springhill Suites</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9 a.m. - 5 p.m.</td>
-            <td>Workshop lectures and exercises.  Snacks, coffee and lunch provided.</td>
+            <td>8:00 a.m.</td>
+            <td>leave from hotel</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>8:30 a.m.</td>
+            <td>VEuPathDB Overview Lecture</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9:00 a.m.</td>
+            <td>Site Search exercise<br>
+                Gene Page exercise</td>
             <td></td>
             <td></td>
           </tr>
