@@ -494,14 +494,85 @@ div.instructor-table {
         </thead>
         <tbody>      
           <tr>
-            <td>7 - 8:30 a.m.</td>
+            <td>7 - 8:00 a.m.</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9 a.m. - 5 p.m.</td>
-            <td>Workshop lectures and exercises.  Snacks, coffee and lunch provided.</td>
+            <td>8:00 a.m.<br>
+                Springhill Suites</td>
+            <td>leave from hotel</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>8:30 a.m.<br>
+                Life Sciences C128</td>
+            <td>Galaxy RNA Seq analysis - review results</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:30 a.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:50 a.m.<br>
+                Life Sciences C128</td>
+            <td>Orthology lecture</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:15 a.m.<br>
+                Life Sciences C128</td>
+            <td>Orthology exercise</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:15 p.m.<br>
+                Life Sciences B116</td>
+            <td>Lunch provided</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:15 p.m.<br>
+                Life Sciences C128</td>
+            <td>Search Strategies - exercise 2</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2:45 p.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>3:00 p.m.<br>
+                Life Sciences C128</td>
+            <td>Exploring HostDB</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>4:00 p.m.<br>
+                Life Sciences C128</td>
+            <td>Group exercise - define a question and use VEuPathDB to help answer it</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>5:30 p.m.<br>
+                Life Sciences C128</td>
+            <td>adjourn</td>
             <td></td>
             <td></td>
           </tr>
@@ -531,6 +602,13 @@ div.instructor-table {
           <tr>
             <td>9 a.m. - 1 p.m.</td>
             <td>Workshop lectures and exercises.  Snacks, coffee and boxed lunch-to-go provided.</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:00 p.m.<br>
+                Life Sciences C128</td>
+            <td>adjourn</td>
             <td></td>
             <td></td>
           </tr>
