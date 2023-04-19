@@ -379,14 +379,100 @@ div.instructor-table {
         </thead>
         <tbody>         
           <tr>
-            <td>7 - 8:30 a.m.</td>
+            <td>7 - 8:00 a.m.<br>
+                Springhill Suites</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9 a.m. - 5 p.m.</td>
-            <td>Workshop lectures and exercises.  Snacks, coffee and lunch provided.</td>
+            <td>8:00 a.m.<br>
+                Springhill Suites</td>
+            <td>leave from hotel</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>8:30 a.m.<br>
+                Life Sciences C128</td>
+            <td>Expression data in VEuPathDB lecture</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>8:45 a.m.<br>
+                Life Sciences C128</td>
+            <td>Expression searches exercises</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:15 a.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:30 a.m.<br>
+                Life Sciences C128</td>
+            <td>Single-cell RNA Seq lecture</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:50 a.m.<br>
+                Life Sciences C128</td>
+            <td>Single-cell RNA Seq exercise</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:00 p.m.<br>
+                Life Sciences B116</td>
+            <td>Lunch provided</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00 p.m.<br>
+                Life Sciences C128</td>
+            <td>RNA-Seq basics lecture</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:45 p.m.<br>
+                Life Sciences C128</td>
+            <td>Intro to Galaxy</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2:15 p.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2:30 p.m.<br>
+                Life Sciences C128</td>
+            <td>Galaxy RNA Seq analysis - data import</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>3:00 p.m.<br>
+                Life Sciences C128</td>
+            <td>Galaxy RNA Seq analysis - start workflow</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>5:30 p.m.<br>
+                Life Sciences C128</td>
+            <td>adjourn</td>
             <td></td>
             <td></td>
           </tr>
