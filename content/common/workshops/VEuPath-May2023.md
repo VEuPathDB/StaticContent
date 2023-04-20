@@ -231,7 +231,7 @@ div.instructor-table {
           </tr>
           <tr>
             <th class="time">Time (Eastern) and location</th>
-            <th class="event">Topic (and handout)</th>
+            <th class="event">Topic </th>
             <th class="author">Instructor</th>
             <th class="recording">Exercise pdf</th>
           </tr>
@@ -276,7 +276,7 @@ div.instructor-table {
           </tr>
           <tr>
             <th class="time">Time (Eastern) and location</th>
-            <th class="event">Topic (and handout)</th>
+            <th class="event">Topic </th>
             <th class="author">Instructor</th>
             <th class="recording">Exercise pdf</th>
           </tr>
@@ -336,7 +336,7 @@ div.instructor-table {
             <td>1:15 p.m.<br>
                 Life Sciences C128</td>
             <td>JBrowse Basics<br>
-                JBrowse Interetation</td>
+                JBrowse Interpretation</td>
             <td></td>
             <td></td>
           </tr>
@@ -361,6 +361,13 @@ div.instructor-table {
             <td></td>
             <td></td>
           </tr>
+          <tr>
+            <td>5:30 p.m.<br>
+                Life Sciences C128</td>
+            <td>Adjourn</td>
+            <td></td>
+            <td></td>
+          </tr>
         </tbody>
       </table>
       <br>
@@ -372,7 +379,7 @@ div.instructor-table {
           </tr>
           <tr>
             <th class="time">Time (Eastern) and location</th>
-            <th class="event">Topic (and handout)</th>
+            <th class="event">Topic </th>
             <th class="author">Instructor</th>
             <th class="recording">Exercise pdf</th>
           </tr>
@@ -444,7 +451,7 @@ div.instructor-table {
           <tr>
             <td>1:45 p.m.<br>
                 Life Sciences C128</td>
-            <td>Intro to Galaxy</td>
+            <td>Introduction to Galaxy</td>
             <td></td>
             <td></td>
           </tr>
@@ -472,7 +479,7 @@ div.instructor-table {
           <tr>
             <td>5:30 p.m.<br>
                 Life Sciences C128</td>
-            <td>adjourn</td>
+            <td>Adjourn</td>
             <td></td>
             <td></td>
           </tr>
@@ -487,7 +494,7 @@ div.instructor-table {
           </tr>
           <tr>
             <th class="time">Time (Eastern) and location</th>
-            <th class="event">Topic (and handout)</th>
+            <th class="event">Topic </th>
             <th class="author">Instructor</th>
             <th class="recording">Exercise pdf</th>
           </tr>
@@ -572,7 +579,7 @@ div.instructor-table {
           <tr>
             <td>5:30 p.m.<br>
                 Life Sciences C128</td>
-            <td>adjourn</td>
+            <td>Adjourn</td>
             <td></td>
             <td></td>
           </tr>
@@ -587,7 +594,7 @@ div.instructor-table {
           </tr>
           <tr>
             <th class="time">Time (Eastern) and location</th>
-            <th class="event">Topic (and handout)</th>
+            <th class="event">Topic </th>
             <th class="author">Instructor</th>
             <th class="recording">Exercise pdf</th>
           </tr>
