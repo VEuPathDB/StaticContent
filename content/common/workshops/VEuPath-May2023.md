@@ -123,11 +123,11 @@ div.instructor-table {
 
   <div class="centered-title">        
     <p><h4>Applications closed. Applicants have been notified of their status. </h4></p> 
-    <p><h4>Two travel awards sponsored by American Committee of Medical Entomology (ACME) are available to students who are current or future VectorBase users from low and middle income countries. <a href="#ACME">Learn More</a></h4></p>  
+    <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>     
     <p><h4>Monday, May 15th 4:00 p.m. - Friday, May 19th 1:00 p.m.  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
-    <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>       
-    <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>
+    <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>           
     <p><h4><b>Registration, housing, and most meals during the workshop are free.  Attendees are expected to pay their own travel expenses, some evening meals, and housing for extended stays.</b> </h4></p>
+    <p><h4>Two travel awards sponsored by American Committee of Medical Entomology (ACME) are available to students who are current or future VectorBase users from low and middle income countries. <a href="#ACME">Learn More</a></h4></p> 
       
   </div>
   
