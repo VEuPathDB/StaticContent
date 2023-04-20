@@ -123,12 +123,11 @@ div.instructor-table {
 
   <div class="centered-title">        
     <p><h4>Applications closed. Applicants have been notified of their status. </h4></p> 
-    <p><h4>Two travel awards sponsored by American Committee of Medical Entomology (ACME) are available to students who are current or future VectorBase users from low and middle income countries. <a href="#ACME">Learn More</a></h4></p>  
-    <p><h4>Monday, May 15th 4:00pm - Friday, May 19th 1:00pm  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
-    <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>       
-    <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>
+    <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>     
+    <p><h4>Monday, May 15th 4:00 p.m. - Friday, May 19th 1:00 p.m.  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
+    <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>           
     <p><h4><b>Registration, housing, and most meals during the workshop are free.  Attendees are expected to pay their own travel expenses, some evening meals, and housing for extended stays.</b> </h4></p>
-      
+    <p><h4>Two travel awards sponsored by American Committee of Medical Entomology (ACME) are available to students who are current or future VectorBase users from low and middle income countries. <a href="#ACME">Learn More</a></h4></p>       
   </div>
   
 
@@ -190,7 +189,7 @@ div.instructor-table {
       </thead>
       <tbody>
         <tr>
-          <td>Rachel Ankirskiy</td>
+          <td>Betsy Wenthe</td>
           <td>University of Georgia</td>
         </tr>  
         <tr>
@@ -231,32 +230,36 @@ div.instructor-table {
           </tr>
           <tr>
             <th class="time">Time (Eastern) and location</th>
-            <th class="event">Topic (and handout)</th>
+            <th class="event">Topic </th>
             <th class="author">Instructor</th>
             <th class="recording">Exercise pdf</th>
           </tr>
         </thead>
         <tbody>         
           <tr>
-            <td>4 - 4:15pm</td>
+            <td>4 - 4:15 p.m.<br>
+                Coverdell 175</td>
             <td>Welcome, workshop overview, instructor introductions, logistics for the week</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>4:15 - 5:15</td>
-            <td>Introduction to VEuPathDB</td>
+            <td>4:15 - 5:15 p.m.<br>
+                Coverdell 175</td>
+            <td>Introduction to Genomics</td>
             <td></td>
             <td></td>
           </tr>          
           <tr>
-            <td>5:15 - 6pm</td>
+            <td>5:15 - 6 p.m.<br>
+                Coverdell 175</td></td>
             <td>Attendee Introductions: Each attendee introduces themselves and presents a one-slide summary of their work. </td>
             <td></td>
             <td></td>
           </tr>       
           <tr>
-            <td>6 - 8pm</td>
+            <td>6 - 8 p.m.<br>
+                Coverdell 340</td>
             <td>Opening Recepetion Dinner </td>
             <td></td>
             <td></td>
@@ -272,21 +275,95 @@ div.instructor-table {
           </tr>
           <tr>
             <th class="time">Time (Eastern) and location</th>
-            <th class="event">Topic (and handout)</th>
+            <th class="event">Topic </th>
             <th class="author">Instructor</th>
             <th class="recording">Exercise pdf</th>
           </tr>
         </thead>
         <tbody>         
           <tr>
-            <td>7 - 8:30am</td>
+            <td>7 - 8:00 a.m.<br>
+                Springhill Suites</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9am - 5pm</td>
-            <td>Workshop lectures and exercises.  Snacks, coffee and lunch provided.</td>
+            <td>8:00 a.m.<br>
+                Springhill Suites</td>
+            <td>leave from hotel</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>8:30 a.m.<br>
+                Life Sciences C128</td>
+            <td>VEuPathDB Overview Lecture</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9:00 a.m.<br>
+                Life Sciences C128</td>
+            <td>Site Search exercise<br>
+                Gene Page exercise</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:30 a.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:00 a.m.<br>
+                Life Sciences C128</td>
+            <td>Strategies 1 exercise </td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:15 p.m.<br>
+                Life Sciences B116</td>
+            <td>Lunch provided</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:15 p.m.<br>
+                Life Sciences C128</td>
+            <td>JBrowse Basics<br>
+                JBrowse Interpretation</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2:30 p.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2:45 p.m.<br>
+                Life Sciences C128</td>
+            <td>JBrowse Interpretation</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>4:45 p.m.<br>
+                Life Sciences C128</td>
+            <td>Motifs and Domains</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>5:30 p.m.<br>
+                Life Sciences C128</td>
+            <td>Adjourn</td>
             <td></td>
             <td></td>
           </tr>
@@ -301,21 +378,107 @@ div.instructor-table {
           </tr>
           <tr>
             <th class="time">Time (Eastern) and location</th>
-            <th class="event">Topic (and handout)</th>
+            <th class="event">Topic </th>
             <th class="author">Instructor</th>
             <th class="recording">Exercise pdf</th>
           </tr>
         </thead>
         <tbody>         
           <tr>
-            <td>7 - 8:30am</td>
+            <td>7 - 8:00 a.m.<br>
+                Springhill Suites</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9am - 5pm</td>
-            <td>Workshop lectures and exercises.  Snacks, coffee and lunch provided.</td>
+            <td>8:00 a.m.<br>
+                Springhill Suites</td>
+            <td>leave from hotel</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>8:30 a.m.<br>
+                Life Sciences C128</td>
+            <td>Expression data in VEuPathDB lecture</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>8:45 a.m.<br>
+                Life Sciences C128</td>
+            <td>Expression searches exercises</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:15 a.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:30 a.m.<br>
+                Life Sciences C128</td>
+            <td>Single-cell RNA Seq lecture</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:50 a.m.<br>
+                Life Sciences C128</td>
+            <td>Single-cell RNA Seq exercise</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:00 p.m.<br>
+                Life Sciences B116</td>
+            <td>Lunch provided</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00 p.m.<br>
+                Life Sciences C128</td>
+            <td>RNA-Seq basics lecture</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:45 p.m.<br>
+                Life Sciences C128</td>
+            <td>Introduction to Galaxy</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2:15 p.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2:30 p.m.<br>
+                Life Sciences C128</td>
+            <td>Galaxy RNA Seq analysis - data import</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>3:00 p.m.<br>
+                Life Sciences C128</td>
+            <td>Galaxy RNA Seq analysis - start workflow</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>5:30 p.m.<br>
+                Life Sciences C128</td>
+            <td>Adjourn</td>
             <td></td>
             <td></td>
           </tr>
@@ -330,21 +493,92 @@ div.instructor-table {
           </tr>
           <tr>
             <th class="time">Time (Eastern) and location</th>
-            <th class="event">Topic (and handout)</th>
+            <th class="event">Topic </th>
             <th class="author">Instructor</th>
             <th class="recording">Exercise pdf</th>
           </tr>
         </thead>
         <tbody>      
           <tr>
-            <td>7 - 8:30am</td>
+            <td>7 - 8:00 a.m.</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9am - 5pm</td>
-            <td>Workshop lectures and exercises.  Snacks, coffee and lunch provided.</td>
+            <td>8:00 a.m.<br>
+                Springhill Suites</td>
+            <td>leave from hotel</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>8:30 a.m.<br>
+                Life Sciences C128</td>
+            <td>Galaxy RNA Seq analysis - review results</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:30 a.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:50 a.m.<br>
+                Life Sciences C128</td>
+            <td>Orthology lecture</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:15 a.m.<br>
+                Life Sciences C128</td>
+            <td>Orthology exercise</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:15 p.m.<br>
+                Life Sciences B116</td>
+            <td>Lunch provided</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:15 p.m.<br>
+                Life Sciences C128</td>
+            <td>Search Strategies - exercise 2</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2:45 p.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>3:00 p.m.<br>
+                Life Sciences C128</td>
+            <td>Exploring HostDB</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>4:00 p.m.<br>
+                Life Sciences C128</td>
+            <td>Group exercise - define a question and use VEuPathDB to help answer it</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>5:30 p.m.<br>
+                Life Sciences C128</td>
+            <td>Adjourn</td>
             <td></td>
             <td></td>
           </tr>
@@ -359,21 +593,50 @@ div.instructor-table {
           </tr>
           <tr>
             <th class="time">Time (Eastern) and location</th>
-            <th class="event">Topic (and handout)</th>
+            <th class="event">Topic </th>
             <th class="author">Instructor</th>
             <th class="recording">Exercise pdf</th>
           </tr>
         </thead>
-        <tbody>      
+        <tbody>
           <tr>
-            <td>7 - 8:30am</td>
+            <td>7 - 8:00 a.m.</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9am - 1pm</td>
-            <td>Workshop lectures and exercises.  Snacks, coffee and boxed lunch-to-go provided.</td>
+            <td>8:00 a.m.<br>
+                Springhill suites</td>
+            <td>Leave hotel lobby</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>8:30 a.m.<br>
+                Life Sciences C128</td>
+            <td>Group exercise continued</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9:45 a.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee as needed starting at 9:45 a.m.</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:00 a.m.<br>
+                Life Sciences C128</td>
+            <td>Group Presentations </td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:00 p.m.<br>
+                Life Sciences C128</td>
+            <td>Adjourn, boxed lunch-to-go provided.</td>
             <td></td>
             <td></td>
           </tr>
