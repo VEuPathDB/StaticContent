@@ -252,7 +252,7 @@ div.instructor-table {
           </tr>          
           <tr>
             <td>5:15 - 6 p.m.<br>
-                Coverdell 175</td></td>
+                Coverdell 175</td>
             <td>Attendee Introductions: Each attendee introduces themselves and presents a one-slide summary of their work. </td>
             <td></td>
             <td></td>
