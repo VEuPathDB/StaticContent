@@ -279,7 +279,7 @@ This FungiDB workshop will combine mini lectures with hands-on learning using th
               <a  target="_blank" href="{{'/documents/CPS2022/Day2_Search_Strategies_CPS.pdf' | absolute_url}}"><b>Search strategies, cont.</b></a><br>
             </td>
             <td>Break out rooms<br>Omar Harb<br>Evelina Basenko<br>Uli Böhme</td>
-            <td>GO enrichment overview <iframe width="180" height="115" src="https://www.youtube.com/embed/sGGhDI3Zu1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td></td>
+            <td>GO enrichment overview <iframe width="180" height="115" src="https://www.youtube.com/embed/sGGhDI3Zu1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>9:50 AM</td>
