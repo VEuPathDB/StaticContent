@@ -190,7 +190,7 @@ div.instructor-table {
       </thead>
       <tbody>
         <tr>
-          <td>Rachel Ankirskiy</td>
+          <td>Betsy Wenthe</td>
           <td>University of Georgia</td>
         </tr>  
         <tr>
