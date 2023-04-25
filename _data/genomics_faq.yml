@@ -366,8 +366,12 @@
 - type: download
   question: "How can I programmatically download genome files?"
   answer: |
-          Presented below are two options to programmatic (command line) access and download genome files from our servers. Examples below are for FungiDB genome, <a href="https://fungidb.org/common/downloads/Current_Release/Spombe972h/">Spombe972h.</a>.  Genome files from every organism and release are available in the Downloads section.  To find the URL for your prefered organism go to the header and choose >Data > Download data file.<br>
+          Presented below are two options to programmatic (command line) access and download genome files from our servers. Examples below are for the FungiDB genome, <a href="https://fungidb.org/common/downloads/Current_Release/Spombe972h/">Spombe972h.</a>.  Genome files from every organism and release are available in the Downloads section.  To find the URL for your preferred organism and see our directory structure, go to the header and choose >Data > Download data file. <br>
           <img style="width:30em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/programaticallydownloadgenomefile.png"  />
+          or to get a list of GFF, genome fasta, and protein fasta file names (from a component site, e.g. FungiDB.org) go to the header and choose searches > Organisms  > Organisms: Genome Info & Stats <br>
+          <img style="width:30em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/genome_info_stats.png"  />
+          Then click Download, then choose a report output to download, and add the columns for the file location of the file  types you want (options are, as shown “GFF Download Link, Genome Fasta Download Link, and Protein Fasta Download link)<br>
+          <img style="width:30em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/info_stats_2.png"  />
            1. WGET: You can use wget and the url for the data file as the path.  For example, to download the genome.fasta file for Spombe972h from FungiDB Release 61 try:<br>
            wget https://fungidb.org/common/downloads/release-61/Spombe972h/fasta/data/FungiDB-61_Spombe972h_Genome.fasta   
            
