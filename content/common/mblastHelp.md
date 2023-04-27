@@ -11,7 +11,7 @@ tags: [general]
 
 <h3>BLAST</h3>
 
-<p>BLAST finds regions of similarity between sequences. The program compares nucleotide or protein sequences to sequence databases and calculates the statistical significance of matches.  BLAST is VEuPathDB's updated BLAST tool that accommodates input as a single sequence or several FASTA-formatted sequences at once, e.g. multi-BLAST.  </p>
+<p>BLAST finds regions of similarity between sequences. The program compares nucleotide or protein sequences to sequence databases and calculates the statistical significance of matches. VEuPathDB BLAST accommodates inputs such as a single sequence or several FASTA-formatted sequences at once, i.e., is multi-query capable.  </p>
 
 <div style="display: flex; justify-content: center; align-items: center">  
      <iframe width="560" height="315" src="https://www.youtube.com/embed/mEjt8FhC-W8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
