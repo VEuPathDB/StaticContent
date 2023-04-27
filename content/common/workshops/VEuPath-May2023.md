@@ -645,6 +645,14 @@ div.instructor-table {
       <br>
       <br>
     </details>        
+
+  <div class="anchor"><a name="Directory"></a></div>
+  <details open>
+    <summary><b>Directory</b> </summary>  
+    <br><br>
+    Hello 
+  </details>
+
   </div>  <!-- class workshop -->
 
 </div>  <!-- class contents -->
