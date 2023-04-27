@@ -651,6 +651,7 @@ div.instructor-table {
     <summary><b>Directory</b> </summary>  
     <br><br>
     Hello 
+    <img style="width:20em" src="{{'/documents/2023athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
   </details>
 
   </div>  <!-- class workshop -->
