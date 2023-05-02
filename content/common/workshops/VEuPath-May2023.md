@@ -657,19 +657,19 @@ div.instructor-table {
     <img style="width:20em" src="{{'/documents/2023athens/Photos/CorinneFargo_Headshot.jpg' | absolute_url}}" />
 
     Girish Lastname
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/girish-photo.jpg' | absolute_url}}" />
+    <img style="width:20em" src="{{'/documents/2023athens/Photos/girish-photo.png' | absolute_url}}" />
 
     Hee Kyoung Kang
     <img style="width:20em" src="{{'/documents/2023athens/Photos/HeeKyoungKang.jpg' | absolute_url}}" />
 
     Juan Carlos Gabaldon
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/JuanCarlosGabaldon_photo.jpg' | absolute_url}}" />
+    <img style="width:20em" src="{{'/documents/2023athens/Photos/JuanCarlosGabaldon_photo.png' | absolute_url}}" />
 
     Lautaro Natali
     <img style="width:20em" src="{{'/documents/2023athens/Photos/Lautaro_Natali.jpg' | absolute_url}}" />
 
     Lays Trajano
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/Lautaro_Natali.jpg' | absolute_url}}" />
+    <img style="width:20em" src="{{'/documents/2023athens/Photos/Lautaro_Natali.jpeg' | absolute_url}}" />
 
     Monica Vargas
     <img style="width:20em" src="{{'/documents/2023athens/Photos/Monica_Vargas.jpg' | absolute_url}}" />
