@@ -651,7 +651,7 @@ div.instructor-table {
     <summary><b>Directory</b> </summary>  
     <br><br>
     Carrie Lastname 
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/Carrie_portrait.jpg' | absolute_url}}" />
+    <img style="width:20em" src="{{'/documents/2023athens/Photos/Carrie_portrait.jpeg' | absolute_url}}" />
 
     Corinnne Fargo
     <img style="width:20em" src="{{'/documents/2023athens/Photos/CorinneFargo_Headshot.jpg' | absolute_url}}" />
@@ -661,6 +661,9 @@ div.instructor-table {
 
     Hee Kyoung Kang
     <img style="width:20em" src="{{'/documents/2023athens/Photos/HeeKyoungKang.jpg' | absolute_url}}" />
+
+    Huai Chuang
+    <img style="width:20em" src="{{'/documents/2023athens/Photos/Huai_Chuang.jpg' | absolute_url}}" />
 
     Juan Carlos Gabaldon
     <img style="width:20em" src="{{'/documents/2023athens/Photos/JuanCarlosGabaldon_photo.png' | absolute_url}}" />
