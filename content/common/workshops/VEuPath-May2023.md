@@ -117,6 +117,7 @@ div.photowrapper {
   grid-template-columns: repeat(3, 1fr);
   gap: 3.5em;
   grid-auto-rows: minmax(100px, auto);
+  align-items: end;
 }
 .photowrapper img {
   padding-bottom: 1em;
