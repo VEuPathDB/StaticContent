@@ -669,10 +669,10 @@ div.instructor-table {
     <img style="width:20em" src="{{'/documents/2023athens/Photos/Lautaro_Natali.jpg' | absolute_url}}" />
 
     Lays Trajano
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/Lautaro_Natali.jpeg' | absolute_url}}" />
+    <img style="width:20em" src="{{'/documents/2023athens/Photos/LaysTrajano.jpeg' | absolute_url}}" />
 
     Monica Vargas
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/Monica_Vargas.jpg' | absolute_url}}" />
+    <img style="width:20em" src="{{'/documents/2023athens/Photos/Monica_Vargas.jpeg' | absolute_url}}" />
 
     Viktoriya Leytska
     <img style="width:20em" src="{{'/documents/2023athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
