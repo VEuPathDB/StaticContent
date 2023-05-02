@@ -672,7 +672,7 @@ div.instructor-table {
     <img style="width:20em" src="{{'/documents/2023athens/Photos/Lautaro_Natali.jpg' | absolute_url}}" />
 
     Lays Trajano
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/LaysTrajano.jpeg' | absolute_url}}" />
+    <img style="width:20em" src="{{'/documents/2023athens/Photos/LaysTrajano.JPEG' | absolute_url}}" />
 
     Monica Vargas
     <img style="width:20em" src="{{'/documents/2023athens/Photos/Monica_Vargas.jpeg' | absolute_url}}" />
