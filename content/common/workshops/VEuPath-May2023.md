@@ -219,7 +219,7 @@ div.instructor-table {
 
 
   <div class="anchor"><a name="Schedule"></a></div>
-  <details open>
+  <details closed>
     <summary><b>Schedule</b> </summary>  
     <br><br>
     <b><a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></b>
@@ -647,7 +647,7 @@ div.instructor-table {
     </details>        
 
   <div class="anchor"><a name="Directory"></a></div>
-  <details open>
+  <details closed>
     <summary><b>Directory</b> </summary>  
     <br><br>
     Carrie Lastname 
