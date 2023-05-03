@@ -121,6 +121,7 @@ div.photowrapper {
 }
 .photowrapper img {
   padding-bottom: 1em;
+  width: 20em;
 }
 </style>
 
@@ -663,34 +664,34 @@ div.photowrapper {
   
     <div class="photowrapper">
       <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/Carrie_portrait.jpeg' | absolute_url}}" />
+        <img src="{{'/documents/2023athens/Photos/Carrie_portrait.jpeg' | absolute_url}}" />
         <br>Carrie Lastname</div>
       <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/CorinneFargo_Headshot.jpg' | absolute_url}}" />
+        <img src="{{'/documents/2023athens/Photos/CorinneFargo_Headshot.jpg' | absolute_url}}" />
         <br>Corinnne Fargo</div>
       <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/girish-photo.png' | absolute_url}}" />
+        <img src="{{'/documents/2023athens/Photos/girish-photo.png' | absolute_url}}" />
         <br>Girish Lastname</div>
       <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/HeeKyoungKang.jpg' | absolute_url}}" />
+        <img src="{{'/documents/2023athens/Photos/HeeKyoungKang.jpg' | absolute_url}}" />
         <br>Hee Kyoung Kang</div>
       <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/Huai_Chuang.jpg' | absolute_url}}" />
+        <img src="{{'/documents/2023athens/Photos/Huai_Chuang.jpg' | absolute_url}}" />
         <br>Huai Chuang</div>
       <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/JuanCarlosGabaldon_photo.png' | absolute_url}}" />
+        <img src="{{'/documents/2023athens/Photos/JuanCarlosGabaldon_photo.png' | absolute_url}}" />
         <br>Juan Carlos Gabaldon</div>
       <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/Lautaro_Natali.jpg' | absolute_url}}" />
+        <img src="{{'/documents/2023athens/Photos/Lautaro_Natali.jpg' | absolute_url}}" />
         <br>Lautaro Natali</div>
       <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/LaysTrajano.JPEG' | absolute_url}}" />
+        <img src="{{'/documents/2023athens/Photos/LaysTrajano.JPEG' | absolute_url}}" />
         <br>Lays Trajano</div>
       <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/Monica_Vargas.jpeg' | absolute_url}}" />
+        <img src="{{'/documents/2023athens/Photos/Monica_Vargas.jpeg' | absolute_url}}" />
         <br>Monica Vargas</div>
       <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
+        <img src="{{'/documents/2023athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
         <br>Viktoriya Leytska</div>
     </div>
 
