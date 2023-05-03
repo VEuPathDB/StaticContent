@@ -111,6 +111,17 @@ div.instructor-table {
        padding-top: 5px;
        padding-bottom: 5px;
 }
+
+div.photowrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3.5em;
+  grid-auto-rows: minmax(100px, auto);
+  align-items: end;
+}
+.photowrapper img {
+  padding-bottom: 1em;
+}
 </style>
 
 <p><a href="/">Home</a> >> Help >> 
@@ -648,38 +659,40 @@ div.instructor-table {
 
   <div class="anchor"><a name="Directory"></a></div>
   <details closed>
-    <summary><b>Directory</b> </summary>  
-    <br><br>
-    Carrie Lastname 
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/Carrie_portrait.jpeg' | absolute_url}}" />
-
-    Corinnne Fargo
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/CorinneFargo_Headshot.jpg' | absolute_url}}" />
-
-    Girish Lastname
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/girish-photo.png' | absolute_url}}" />
-
-    Hee Kyoung Kang
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/HeeKyoungKang.jpg' | absolute_url}}" />
-
-    Huai Chuang
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/Huai_Chuang.jpg' | absolute_url}}" />
-
-    Juan Carlos Gabaldon
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/JuanCarlosGabaldon_photo.png' | absolute_url}}" />
-
-    Lautaro Natali
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/Lautaro_Natali.jpg' | absolute_url}}" />
-
-    Lays Trajano
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/LaysTrajano.JPEG' | absolute_url}}" />
-
-    Monica Vargas
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/Monica_Vargas.jpeg' | absolute_url}}" />
-
-    Viktoriya Leytska
-    <img style="width:20em" src="{{'/documents/2023athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
-
+    <summary><b>Directory</b> </summary>
+  
+    <div class="photowrapper">
+      <div>
+        <img style="width:20em" src="{{'/documents/2023athens/Photos/Carrie_portrait.jpeg' | absolute_url}}" />
+        <br>Carrie Lastname</div>
+      <div>
+        <img style="width:20em" src="{{'/documents/2023athens/Photos/CorinneFargo_Headshot.jpg' | absolute_url}}" />
+        <br>Corinnne Fargo</div>
+      <div>
+        <img style="width:20em" src="{{'/documents/2023athens/Photos/girish-photo.png' | absolute_url}}" />
+        <br>Girish Lastname</div>
+      <div>
+        <img style="width:20em" src="{{'/documents/2023athens/Photos/HeeKyoungKang.jpg' | absolute_url}}" />
+        <br>Hee Kyoung Kang</div>
+      <div>
+        <img style="width:20em" src="{{'/documents/2023athens/Photos/Huai_Chuang.jpg' | absolute_url}}" />
+        <br>Huai Chuang</div>
+      <div>
+        <img style="width:20em" src="{{'/documents/2023athens/Photos/JuanCarlosGabaldon_photo.png' | absolute_url}}" />
+        <br>Juan Carlos Gabaldon</div>
+      <div>
+        <img style="width:20em" src="{{'/documents/2023athens/Photos/Lautaro_Natali.jpg' | absolute_url}}" />
+        <br>Lautaro Natali</div>
+      <div>
+        <img style="width:20em" src="{{'/documents/2023athens/Photos/LaysTrajano.JPEG' | absolute_url}}" />
+        <br>Lays Trajano</div>
+      <div>
+        <img style="width:20em" src="{{'/documents/2023athens/Photos/Monica_Vargas.jpeg' | absolute_url}}" />
+        <br>Monica Vargas</div>
+      <div>
+        <img style="width:20em" src="{{'/documents/2023athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
+        <br>Viktoriya Leytska</div>
+    </div>
 
   </details>
 
