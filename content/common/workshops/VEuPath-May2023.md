@@ -118,6 +118,7 @@ div.photowrapper {
   gap: 3.5em;
   grid-auto-rows: minmax(100px, auto);
   align-items: end;
+  font-size: 110%;
 }
 .photowrapper img {
   padding-bottom: 1em;
@@ -660,12 +661,13 @@ div.photowrapper {
 
   <div class="anchor"><a name="Directory"></a></div>
   <details closed>
-    <summary><b>Directory</b> </summary>
-  
+    <summary><b>Directory</b> </summary>  
     <div class="photowrapper">
       <div>
         <img src="{{'/documents/2023athens/Photos/Carrie_portrait.jpeg' | absolute_url}}" />
-        <br>Carrie Lastname</div>
+        <br>Carrie Hetzel
+        <br>Harvard Medical School
+        </div>
       <div>
         <img src="{{'/documents/2023athens/Photos/CorinneFargo_Headshot.jpg' | absolute_url}}" />
         <br>Corinnne Fargo</div>
