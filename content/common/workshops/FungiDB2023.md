@@ -122,10 +122,10 @@ div.instructor-table {
 
 
   <div class="centered-title">        
-    <p><h4>Applications are now being accepted. <a href="https://dateful.com/time-zone-converter" target="_blank">Register</a>. </h4></p> 
+    <p><h4>Applications are now being accepted: <a href="https://forms.gle/xiP7n2QDCMBr1Rb2A" target="_blank">Register</a>. </h4></p> 
     <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>     
-    <p><h4>Monday, May 15th 4:00 p.m. - Friday, May 19th 1:00 p.m.  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
-    <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">ACE computer lab (Uganda)</a> and Zoom. The workshop will be delivered via Zoom.</h4></p>           
+    <p><h4>Wednesday, July 26th - Friday, July 28th 2023, 2:00 - 5:00 p.m. (Uganda time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
+    <p><h4>Location: Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda</a> and on Zoom. The workshop will be delivered via Zoom in its entirety.</h4></p>           
     <p><h4><b>This workshop is free. Registration is required. Attendees are expected to have internet access if joining outside the ACE computer lab.</b> </h4></p>   
   </div>
   
@@ -147,13 +147,13 @@ div.instructor-table {
       <li>Genome browser: use menu and navigation options, add and configure data tracks, interpret data (RNA Seq) and check gene models.</li>
       <li>Gene Ontology (GO) enrichment: run and analyze a GO enrichment analysis </li>
       <li>Apollo: learn how to manually annotate a gene, which involves both structural changes (intron/exon boundaries) and metadata (gene name and symbol)</li>
-      <li>Galaxy: learn how perform bioinformatic analyses using a web-based platform for omics data analysis, <i>e.g.</i>RNAseq transcript differential expression or SNP calling </li> 
+      <li>Galaxy: learn how perform bioinformatic analyses using a web-based platform for omics data analysis, <i>e.g.</i> RNAseq transcript differential expression or SNP calling </li> 
     </ul>
     <br>
 
   <h2>How to apply</h2>
     <ul>
-        <li><b>Begin your application by completing the form: <a href="https://forms.gle/Fwc6FkMd3LAHWe988" target="_blank">https://forms.gle/Fwc6FkMd3LAHWe988</a>.  The form information is confidential.</b> </li>
+        <li>Begin your application by completing the form: <a href="https://forms.gle/Fwc6FkMd3LAHWe988" target="_blank">https://forms.gle/Fwc6FkMd3LAHWe988</a>.  The form information is confidential.</li>
         <li>Application deadline is July 1, 2023.</li>
     </ul> 
   <br><br>
@@ -163,7 +163,7 @@ div.instructor-table {
   <br><br>
 
   <h2>Computer and internet access</h2>
-  The participants can attend the workshop at the ACE computer lab or join remotely. The ACE computer lab has 24 seats that will be assigned on first come first serve basis. Persons joining remotely, will need to have access to a computer and sufficient bandwidth to be able to deploy web-based searches. 
+  The participants can attend the workshop at the ACE computer lab or join remotely. The ACE computer lab has 24 seats that will be allocated on a first come first serve basis. Persons joining remotely, will need to have access to a computer and sufficient bandwidth to be able to deploy web-based searches. 
   <br><br>
   <h2>Instructors</h2>
   
@@ -197,15 +197,7 @@ div.instructor-table {
     </div>
   <br>
 
-  <h2>Questions</h2>
-  Please direct inquiries or questions to <a href="https://fungidb.org/fungidb/app/contact-us">help@fungidb.org</a>
-  <br><br>
-
-  <h2>More about FungiDB</h2>
-  We invite you to read our most recent publication about VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/" target="_blank">Amos et al 2022</a>).  Please also explore our  <a href="https://www.youtube.com/user/EuPathDB" target="_blank">You Tube Channel</a> and previously recorded <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">webinars and workshops</a>. Our goal is to maintain a fruitful and ongoing conversation between our team and yours to learn more efficient, effective ways to help you reach your goals. Regardless, if you attend the workshop or not, please feel free to email us with questions, new feature suggestions, or new data at <a href="https://fungidb.org/fungidb/app/contact-us">help@fungidb.org</a>.  
-  <br><br>
-
-
+  
   <div class="anchor"><a name="Schedule"></a></div>
   <details closed>
     <summary><b>Schedule</b> </summary>  
@@ -380,7 +372,16 @@ div.instructor-table {
             <td></td>
             <td></td>
           </tr>
-          
+
+   <h2>Questions</h2>
+  Please direct inquiries or questions to <a href="https://fungidb.org/fungidb/app/contact-us">help@fungidb.org</a>
+  <br><br>
+
+  <h2>More about FungiDB</h2>
+  We invite you to read our most recent publication about VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/" target="_blank">Amos et al 2022</a>).  Please also explore our  <a href="https://www.youtube.com/user/EuPathDB" target="_blank">You Tube Channel</a> and previously recorded <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">webinars and workshops</a>. Our goal is to maintain a fruitful and ongoing conversation between our team and yours to learn more efficient, effective ways to help you reach your goals. Regardless, if you attend the workshop or not, please feel free to email us with questions, new feature suggestions, or new data at <a href="https://fungidb.org/fungidb/app/contact-us">help@fungidb.org</a>.  
+  <br><br>
+
+       
          
         </tbody>
       </table>
