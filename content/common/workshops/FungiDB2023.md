@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Workshops
-permalink:
+permalink: /FungiDBworkshop2023
 tags: [workshop-exercise]
 ---
 <style>
