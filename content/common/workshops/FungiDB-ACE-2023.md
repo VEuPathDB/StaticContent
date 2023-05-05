@@ -225,10 +225,10 @@ div.photowrapper {
     <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th colspan="4" class="break"><b>Monday, 15th May 2023</b></th>
+            <th colspan="4" class="break"><b>Wednesday, 27 July 2023</b></th>
           </tr>
           <tr>
-            <th class="time">Time (Eastern) and location</th>
+            <th class="time">Time (Uganda) and location</th>
             <th class="event">Topic </th>
             <th class="author">Instructor</th>
             <th class="recording">Exercise pdf</th>
@@ -236,33 +236,49 @@ div.photowrapper {
         </thead>
         <tbody>         
           <tr>
-            <td>4 - 4:15 p.m.<br>
-                Coverdell 175</td>
-            <td>Welcome, workshop overview, instructor introductions, logistics for the week</td>
+            <td>2 - 2:10 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Welcome, workshop overview, and instructor introductions</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>4:15 - 5:15 p.m.<br>
-                Coverdell 175</td>
-            <td>Introduction to Genomics</td>
+            <td>2:05 - 2:20 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>General introduction into VEuPathDB resources (demonstration)</td>
             <td></td>
             <td></td>
-          </tr>          
+          </tr> 
+              
           <tr>
-            <td>5:15 - 6 p.m.<br>
-                Coverdell 175</td>
-            <td>Attendee Introductions: Each attendee introduces themselves and presents a one-slide summary of their work. </td>
+            <td>2:20 - 2:30 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Introduction to site search (demonstration) </td>
             <td></td>
             <td></td>
           </tr>       
           <tr>
-            <td>6 - 8 p.m.<br>
-                Coverdell 340</td>
-            <td>Opening Recepetion Dinner </td>
+            <td>2:30 - 3:10 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Site Search and Organism preferences</td>
             <td></td>
             <td></td>
           </tr>
+          <tr>
+            <td>3:10 - 4:25 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>How to build a search strategy</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>4:25 - 4:55 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>how to build a nested strategy</td>
+            <td></td>
+            <td></td>
+          </tr>
+          
         </tbody>
       </table>
       <br>
@@ -270,10 +286,10 @@ div.photowrapper {
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th colspan="4" class="break"><b>Tuesday, 16th May 2023</b></th>
+            <th colspan="4" class="break"><b>Thursday, 27 July 2023</b></th>
           </tr>
           <tr>
-            <th class="time">Time (Eastern) and location</th>
+            <th class="time">Time (Uganda) and location</th>
             <th class="event">Topic </th>
             <th class="author">Instructor</th>
             <th class="recording">Exercise pdf</th>
@@ -281,91 +297,48 @@ div.photowrapper {
         </thead>
         <tbody>         
           <tr>
-            <td>7 - 8:00 a.m.<br>
-                Springhill Suites</td>
-            <td>Breakfast available in the hotel</td>
+            <td>2:00 - 2:10 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Exploring dataset in FungiDB and HostDB</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>8:00 a.m.<br>
-                Springhill Suites</td>
-            <td>leave from hotel</td>
+            <td>2:10 - 3:25 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Exploring omics data: transcriptomics, proteomics, SNPs (guided hnads-on exercises)</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>8:30 a.m.<br>
-                Life Sciences C128</td>
-            <td>VEuPathDB Overview Lecture</td>
+            <td>3:25 - 3:40 a.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>FungiDB gene record page and JBrowse (demonstration)</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>9:00 a.m.<br>
-                Life Sciences C128</td>
-            <td>Site Search exercise<br>
-                Gene Page exercise</td>
+            <td>3:40 -4:00 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Exploring gene pages</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>10:30 a.m.<br>
-                Life Sciences B116</td>
-            <td>Coffee Break</td>
+            <td>4:00 p 4:30 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Exploring evidence in JBrowse (guided hands-on exercise)</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>11:00 a.m.<br>
-                Life Sciences C128</td>
-            <td>Strategies 1 exercise </td>
+            <td>4:30 - 5:00 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>How to improve gnee models in Apollo, a structural and functional annotation platform</td>
             <td></td>
             <td></td>
           </tr>
-          <tr>
-            <td>12:15 p.m.<br>
-                Life Sciences B116</td>
-            <td>Lunch provided</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>1:15 p.m.<br>
-                Life Sciences C128</td>
-            <td>JBrowse Basics<br>
-                JBrowse Interpretation</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>2:30 p.m.<br>
-                Life Sciences B116</td>
-            <td>Coffee Break</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>2:45 p.m.<br>
-                Life Sciences C128</td>
-            <td>JBrowse Interpretation</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>4:45 p.m.<br>
-                Life Sciences C128</td>
-            <td>Motifs and Domains</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>5:30 p.m.<br>
-                Life Sciences C128</td>
-            <td>Adjourn</td>
-            <td></td>
-            <td></td>
-          </tr>
+          
         </tbody>
       </table>
       <br>
@@ -376,7 +349,7 @@ div.photowrapper {
             <th colspan="4" class="break"><b>Wednesday, 17th May 2023</b></th>
           </tr>
           <tr>
-            <th class="time">Time (Eastern) and location</th>
+            <th class="time">Time (Uganda) and location</th>
             <th class="event">Topic </th>
             <th class="author">Instructor</th>
             <th class="recording">Exercise pdf</th>
@@ -384,305 +357,51 @@ div.photowrapper {
         </thead>
         <tbody>         
           <tr>
-            <td>7 - 8:00 a.m.<br>
-                Springhill Suites</td>
-            <td>Breakfast available in the hotel</td>
+            <td>2:00 - 2:20 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Ontologies, Enrichment analysis, metabolic pathways (Demonstration)</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>8:00 a.m.<br>
-                Springhill Suites</td>
-            <td>leave from hotel</td>
+            <td>2:20 - 2:55 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>GO enrichment analysis (guided hands-on exercise)</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>8:30 a.m.<br>
-                Life Sciences C128</td>
-            <td>Expression data in VEuPathDB lecture</td>
+            <td>2:55 - 3:15 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Orthology and Synteny</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>8:45 a.m.<br>
-                Life Sciences C128</td>
-            <td>Expression searches exercises</td>
+            <td>3:15 - 3:45 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Orthologous transformation and Phyletic patterns (Guided hans-on exercise)</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>10:15 a.m.<br>
-                Life Sciences B116</td>
-            <td>Coffee Break</td>
+            <td>3:45 - 4:45 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>VEuPathDb Galaxy and My workspce in FungiDB</td>
             <td></td>
             <td></td>
           </tr>
-          <tr>
-            <td>10:30 a.m.<br>
-                Life Sciences C128</td>
-            <td>Single-cell RNA Seq lecture</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>10:50 a.m.<br>
-                Life Sciences C128</td>
-            <td>Single-cell RNA Seq exercise</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>12:00 p.m.<br>
-                Life Sciences B116</td>
-            <td>Lunch provided</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>1:00 p.m.<br>
-                Life Sciences C128</td>
-            <td>RNA-Seq basics lecture</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>1:45 p.m.<br>
-                Life Sciences C128</td>
-            <td>Introduction to Galaxy</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>2:15 p.m.<br>
-                Life Sciences B116</td>
-            <td>Coffee break</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>2:30 p.m.<br>
-                Life Sciences C128</td>
-            <td>Galaxy RNA Seq analysis - data import</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>3:00 p.m.<br>
-                Life Sciences C128</td>
-            <td>Galaxy RNA Seq analysis - start workflow</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>5:30 p.m.<br>
-                Life Sciences C128</td>
-            <td>Adjourn</td>
-            <td></td>
-            <td></td>
-          </tr>
-        </tbody>
-      </table>
-     <br>
-     <br>
-     <table class="hor-minimalist-a">
-        <thead>
-          <tr>
-            <th colspan="4" class="break"><b>Thursday, May 18th May 2023</b></th>
-          </tr>
-          <tr>
-            <th class="time">Time (Eastern) and location</th>
-            <th class="event">Topic </th>
-            <th class="author">Instructor</th>
-            <th class="recording">Exercise pdf</th>
-          </tr>
-        </thead>
-        <tbody>      
-          <tr>
-            <td>7 - 8:00 a.m.</td>
-            <td>Breakfast available in the hotel</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>8:00 a.m.<br>
-                Springhill Suites</td>
-            <td>leave from hotel</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>8:30 a.m.<br>
-                Life Sciences C128</td>
-            <td>Galaxy RNA Seq analysis - review results</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>10:30 a.m.<br>
-                Life Sciences B116</td>
-            <td>Coffee break</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>10:50 a.m.<br>
-                Life Sciences C128</td>
-            <td>Orthology lecture</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>11:15 a.m.<br>
-                Life Sciences C128</td>
-            <td>Orthology exercise</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>12:15 p.m.<br>
-                Life Sciences B116</td>
-            <td>Lunch provided</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>1:15 p.m.<br>
-                Life Sciences C128</td>
-            <td>Search Strategies - exercise 2</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>2:45 p.m.<br>
-                Life Sciences B116</td>
-            <td>Coffee break</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>3:00 p.m.<br>
-                Life Sciences C128</td>
-            <td>Exploring HostDB</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>4:00 p.m.<br>
-                Life Sciences C128</td>
-            <td>Group exercise - define a question and use VEuPathDB to help answer it</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>5:30 p.m.<br>
-                Life Sciences C128</td>
-            <td>Adjourn</td>
-            <td></td>
-            <td></td>
-          </tr>
+          
+         
         </tbody>
       </table>
       <br>
       <br>
-    <table class="hor-minimalist-a">
-        <thead>
-          <tr>
-            <th colspan="4" class="break"><b>Friday, May 19th May 2023</b></th>
-          </tr>
-          <tr>
-            <th class="time">Time (Eastern) and location</th>
-            <th class="event">Topic </th>
-            <th class="author">Instructor</th>
-            <th class="recording">Exercise pdf</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>7 - 8:00 a.m.</td>
-            <td>Breakfast available in the hotel</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>8:00 a.m.<br>
-                Springhill suites</td>
-            <td>Leave hotel lobby</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>8:30 a.m.<br>
-                Life Sciences C128</td>
-            <td>Group exercise continued</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>9:45 a.m.<br>
-                Life Sciences B116</td>
-            <td>Coffee as needed starting at 9:45 a.m.</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>10:00 a.m.<br>
-                Life Sciences C128</td>
-            <td>Group Presentations </td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>12:00 p.m.<br>
-                Life Sciences C128</td>
-            <td>Adjourn, boxed lunch-to-go provided.</td>
-            <td></td>
-            <td></td>
-          </tr>
-        </tbody>
-      </table>
+    
       <br>
       <br>
     </details>        
 
-  <div class="anchor"><a name="Directory"></a></div>
-  <details closed>
-    <summary><b>Directory</b> </summary>
-  
-    <div class="photowrapper">
-      <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/Carrie_portrait.jpeg' | absolute_url}}" />
-        <br>Carrie Lastname</div>
-      <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/CorinneFargo_Headshot.jpg' | absolute_url}}" />
-        <br>Corinnne Fargo</div>
-      <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/girish-photo.png' | absolute_url}}" />
-        <br>Girish Lastname</div>
-      <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/HeeKyoungKang.jpg' | absolute_url}}" />
-        <br>Hee Kyoung Kang</div>
-      <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/Huai_Chuang.jpg' | absolute_url}}" />
-        <br>Huai Chuang</div>
-      <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/JuanCarlosGabaldon_photo.png' | absolute_url}}" />
-        <br>Juan Carlos Gabaldon</div>
-      <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/Lautaro_Natali.jpg' | absolute_url}}" />
-        <br>Lautaro Natali</div>
-      <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/LaysTrajano.JPEG' | absolute_url}}" />
-        <br>Lays Trajano</div>
-      <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/Monica_Vargas.jpeg' | absolute_url}}" />
-        <br>Monica Vargas</div>
-      <div>
-        <img style="width:20em" src="{{'/documents/2023athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
-        <br>Viktoriya Leytska</div>
-    </div>
-
-  </details>
 
   </div>  <!-- class workshop -->
 
