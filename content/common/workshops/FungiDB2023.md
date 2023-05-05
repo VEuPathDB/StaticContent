@@ -227,7 +227,7 @@ div.instructor-table {
             <td>2:05 - 2:20 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>General introduction into VEuPathDB resources (Demonstration)</td>
-            <td>TBS</td>
+            <td>TBD</td>
             <td></td>
           </tr> 
               
