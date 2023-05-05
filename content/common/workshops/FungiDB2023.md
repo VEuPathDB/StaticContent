@@ -220,14 +220,14 @@ div.instructor-table {
             <td>2 - 2:10 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Welcome, workshop overview, and instructor introductions</td>
-            <td></td>
+            <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
             <td>2:05 - 2:20 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>General introduction into VEuPathDB resources (demonstration)</td>
-            <td></td>
+            <td>TBS</td>
             <td></td>
           </tr> 
               
@@ -235,28 +235,28 @@ div.instructor-table {
             <td>2:20 - 2:30 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Introduction to site search (demonstration) </td>
-            <td></td>
+            <td>Evelina Basenko</td>
             <td></td>
           </tr>       
           <tr>
             <td>2:30 - 3:10 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Site Search and Organism preferences</td>
-            <td></td>
+            <td>Site Search and Organism preferences (guided hands-on exercise)</td>
+            <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
             <td>3:10 - 4:25 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>How to build a search strategy</td>
-            <td></td>
+            <td>How to build a search strategy (guided hands-on exercise)</td>
+            <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
             <td>4:25 - 4:55 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>how to build a nested strategy</td>
-            <td></td>
+            <td>How to build a nested strategy (guided hands-on exercise)</td>
+            <td>Evelina Basenko</td>
             <td></td>
           </tr>
           
@@ -280,8 +280,8 @@ div.instructor-table {
           <tr>
             <td>2:00 - 2:10 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Exploring dataset in FungiDB and HostDB</td>
-            <td></td>
+            <td>Exploring datasets in FungiDB and HostDB</td>
+            <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
