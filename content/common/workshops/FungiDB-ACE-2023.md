@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Workshops
-permalink: /FungiDBworkshop2023
+permalink:
 tags: [workshop-exercise]
 ---
 <style>
@@ -110,17 +110,6 @@ div.instructor-table {
        padding-right: 5px;
        padding-top: 5px;
        padding-bottom: 5px;
-}
-
-div.photowrapper {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 3.5em;
-  grid-auto-rows: minmax(100px, auto);
-  align-items: end;
-}
-.photowrapper img {
-  padding-bottom: 1em;
 }
 </style>
 
