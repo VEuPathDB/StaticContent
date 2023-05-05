@@ -226,7 +226,7 @@ div.instructor-table {
           <tr>
             <td>2:05 - 2:20 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>General introduction into VEuPathDB resources (demonstration)</td>
+            <td>General introduction into VEuPathDB resources (Demonstration)</td>
             <td>TBS</td>
             <td></td>
           </tr> 
@@ -234,28 +234,28 @@ div.instructor-table {
           <tr>
             <td>2:20 - 2:30 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Introduction to site search (demonstration) </td>
+            <td>Introduction to site search (Demonstration) </td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>       
           <tr>
             <td>2:30 - 3:10 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Site Search and Organism preferences (guided hands-on exercise)</td>
+            <td>Site Search and Organism preferences (Guided hands-on exercise)</td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
             <td>3:10 - 4:25 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>How to build a search strategy (guided hands-on exercise)</td>
+            <td>How to build a search strategy (Guided hands-on exercise)</td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
             <td>4:25 - 4:55 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>How to build a nested strategy (guided hands-on exercise)</td>
+            <td>How to build a nested strategy (Guided hands-on exercise)</td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>
@@ -287,36 +287,36 @@ div.instructor-table {
           <tr>
             <td>2:10 - 3:25 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Exploring omics data: transcriptomics, proteomics, SNPs (guided hnads-on exercises)</td>
-            <td></td>
+            <td>Exploring omics data: transcriptomics, proteomics, SNPs (Guided hands-on exercise)</td>
+            <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
             <td>3:25 - 3:40 a.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>FungiDB gene record page and JBrowse (demonstration)</td>
-            <td></td>
+            <td>FungiDB gene record page and JBrowse (Demonstration)</td>
+            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
             <td>3:40 -4:00 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Exploring gene pages</td>
+            <td>Exploring gene pages (Guided hands-on exercise)</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
             <td>4:00 p 4:30 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Exploring evidence in JBrowse (guided hands-on exercise)</td>
-            <td></td>
+            <td>Exploring evidence in JBrowse (Guided hands-on exercise)</td>
+            <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
             <td>4:30 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>How to improve gnee models in Apollo, a structural and functional annotation platform</td>
-            <td></td>
+            <td>How to improve gnee models in Apollo, a structural and functional annotation platform (Demonstration)</td>
+            <td>Evelina Basenko</td>
             <td></td>
           </tr>
           
@@ -341,35 +341,35 @@ div.instructor-table {
             <td>2:00 - 2:20 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Ontologies, Enrichment analysis, metabolic pathways (Demonstration)</td>
-            <td></td>
+            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
             <td>2:20 - 2:55 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>GO enrichment analysis (guided hands-on exercise)</td>
-            <td></td>
+            <td>GO enrichment analysis (Guided hands-on exercise)</td>
+            <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
             <td>2:55 - 3:15 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Orthology and Synteny</td>
-            <td></td>
+            <td>Orthology and Synteny (Guided hands-on exercise)</td>
+            <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
             <td>3:15 - 3:45 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Orthologous transformation and Phyletic patterns (Guided hans-on exercise)</td>
-            <td></td>
+            <td>Evelina Basenok</td>
             <td></td>
           </tr>
           <tr>
             <td>3:45 - 4:45 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>VEuPathDb Galaxy and My workspce in FungiDB</td>
-            <td></td>
+            <td>TBD</td>
             <td></td>
           </tr>
 
