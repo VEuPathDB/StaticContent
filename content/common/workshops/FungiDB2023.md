@@ -124,7 +124,7 @@ div.instructor-table {
   <div class="centered-title">        
     <p><h4>Applications are now being accepted: <a href="https://tinyurl.com/fungidbworkshopACE" target="_blank">Register</a>. </h4></p> 
     <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>     
-    <p><h4>28 - 28 July 2023, 2:00 - 5:00 p.m. (Uganda time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
+    <p><h4>26 - 28 July 2023, 2:00 - 5:00 p.m. (Uganda time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Location: Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda (first come first served basis) and on Zoom. The workshop will be delivered via Zoom in its entirety.</h4></p>           
     <p><h4><b>This workshop is free. Registration and internet access is required.</b> </h4></p>   
   </div>
