@@ -695,6 +695,11 @@ div.photowrapper {
       <div>
         <img src="{{'/documents/2023athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
         <br>Viktoriya Leytska</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Wei_Hsin-Ho.jpg' | absolute_url}}" />
+        <br>Wei Hsin-Ho
+        <br>Bowling Green State University
+        </div>
     </div>
 
   </details>
