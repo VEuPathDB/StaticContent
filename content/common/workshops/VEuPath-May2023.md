@@ -664,6 +664,10 @@ div.photowrapper {
     <summary><b>Directory</b> </summary>  
     <div class="photowrapper">
       <div>
+        <img src="{{'/documents/2023athens/Photos/Aylla.jpg' | absolute_url}}" />
+        <br>Aylla
+        <br>University of Georgia</div>
+      <div>
         <img src="{{'/documents/2023athens/Photos/Carrie_portrait.jpeg' | absolute_url}}" />
         <br>Carrie Hetzel
         <br>Harvard Medical School</div>
@@ -671,6 +675,10 @@ div.photowrapper {
         <img src="{{'/documents/2023athens/Photos/CorinneFargo_Headshot.jpg' | absolute_url}}" />
         <br>Corinne Fargo
         <br>Oregon Health & Science University</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Fiifi.jpg' | absolute_url}}" />
+        <br>Fiifi
+        <br>University of Georgia</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/girish-photo.png' | absolute_url}}" />
         <br>Girish Lastname</div>
