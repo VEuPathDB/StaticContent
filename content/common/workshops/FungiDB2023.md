@@ -126,7 +126,8 @@ div.instructor-table {
     <p><h4>When: 26 - 28 July 2023, 2:00 - 5:00 p.m. (Uganda time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Where: Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda (first come first served basis) and on Zoom. The workshop will be delivered via Zoom in its entirety.</h4></p>  
     <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>          
-    <p><h4>How to apply: Applications are now being accepted. <b><a href="https://tinyurl.com/fungidbworkshopACE" target="_blank">Register here</a></b>. </h4></p> 
+    <p><h4>How to apply: Applications are now being accepted. <b><a href="https://tinyurl.com/fungidbworkshopACE" target="_blank">Register by completing the registration form</a></b>.</h4></p> 
+    <p><h4>Application deadline: 01 July 2023.</h4></p>
     <p><h4>This workshop is free. Registration and internet access are required.</h4></p>   
   </div>
   
@@ -154,8 +155,8 @@ div.instructor-table {
 
   <h2>How to apply</h2>
     <ul>
-        <li>Begin your application by completing the form: <a href="https://forms.gle/Fwc6FkMd3LAHWe988" target="_blank">https://forms.gle/Fwc6FkMd3LAHWe988</a>.  The form information is confidential.</li>
-        <li>Application deadline is July 1, 2023.</li>
+        <li>Register by completing the registration form: <a href="https://tinyurl.com/fungidbworkshopACE" target="_blank">https://tinyurl.com/fungidbworkshopACE</a>.  The form information is confidential.</li>
+        <li>Application deadline is 01 July, 2023.</li>
     </ul> 
   <br><br>
       
@@ -164,7 +165,7 @@ div.instructor-table {
   <br><br>
 
   <h2>Computer and internet access</h2>
-  The participants can attend the workshop at the ACE computer lab or join remotely. The ACE computer lab has 24 seats that will be allocated on a first come first serve basis. Persons joining remotely, will need to have access to a computer and sufficient bandwidth to be able to deploy web-based searches. 
+  The participants can attend the workshop at the Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda <b>and</b> on Zoom. The ACE computer lab has 24 seats that will be allocated on a first come first serve basis. Persons joining remotely, will need to have access to a computer and sufficient bandwidth to be able to deploy web-based searches. 
   <br><br>
   <h2>Instructors</h2>
   
@@ -203,7 +204,6 @@ div.instructor-table {
   <details closed>
     <summary><b>Schedule</b> </summary>  
     <br><br>
-    <b><a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></b>
     <table class="hor-minimalist-a">
         <thead>
           <tr>
