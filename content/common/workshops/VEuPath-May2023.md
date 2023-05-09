@@ -368,7 +368,7 @@ div.photowrapper {
           <tr>
             <td>2:45 p.m.<br>
                 Life Sciences C128</td>
-            <td>Leveraging omics data to explore gene models in JBrowse Exercise</td>
+            <td>Leveraging omics data to explore gene models in JBrowse exercise</td>
             <td></td>
             <td></td>
           </tr>
@@ -570,7 +570,7 @@ div.photowrapper {
             <td>1:15 p.m.<br>
                 Life Sciences C128</td>
             <td>Exploring HostDB</td>
-            <td></td>
+            <td>Susanne Warrenfeltz</td>
             <td></td>
           </tr>
           <tr>
