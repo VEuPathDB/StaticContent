@@ -271,8 +271,7 @@ div.instructor-table {
             <td>Evelina Basenko</td>
             <td></td>
           </tr>
-          
-        </tbody>
+          </tbody>
       </table>
       <br>
       <br>       
@@ -331,7 +330,6 @@ div.instructor-table {
             <td>Evelina Basenko</td>
             <td></td>
           </tr>
-          
         </tbody>
       </table>
       <br>
@@ -384,8 +382,6 @@ div.instructor-table {
             <td>TBD</td>
             <td></td>
           </tr>
-   
-         
         </tbody>
       </table>
       <br>
