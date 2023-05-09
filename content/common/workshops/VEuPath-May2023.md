@@ -671,7 +671,7 @@ div.photowrapper {
     <div class="photowrapper">
       <div>
         <img src="{{'/documents/2023athens/Photos/Aylla.jpg' | absolute_url}}" />
-        <br>Aylla
+        <br>Aylla Ermland
         <br>University of Georgia</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Carrie_portrait.jpeg' | absolute_url}}" />
@@ -683,32 +683,48 @@ div.photowrapper {
         <br>Oregon Health & Science University</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Fiifi.jpg' | absolute_url}}" />
-        <br>Fiifi
+        <br>Fiifi Agyabeng-Dadzie
         <br>University of Georgia</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/girish-photo.png' | absolute_url}}" />
-        <br>Girish Lastname</div>
+        <br>Girish Rachakonda
+        <br>Meharry Medical College</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/HeeKyoungKang.jpg' | absolute_url}}" />
-        <br>Hee Kyoung Kang</div>
+        <br>Hee Kyoung Kang
+        <br>Seoul National University</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Huai_Chuang.jpg' | absolute_url}}" />
-        <br>Huai Chuang</div>
+        <br>Huai Chuang
+        <br>Nagasaki University</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Jessica_Kissinger.jpg' | absolute_url}}" />
+        <br>Jessica Kissinger, instructor
+        <br>University of Georgia </div>
       <div>
         <img src="{{'/documents/2023athens/Photos/JuanCarlosGabaldon_photo.png' | absolute_url}}" />
-        <br>Juan Carlos Gabaldon</div>
+        <br>Juan Carlos Gabaldon
+        <br>Barcelona Institute for Global Health (ISGlobal)</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Lautaro_Natali.jpg' | absolute_url}}" />
-        <br>Lautaro Natali</div>
+        <br>Lautaro Natali
+        <br>Mercedes and Martin Ferreyra Institute for Medical Research</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/LaysTrajano.JPEG' | absolute_url}}" />
-        <br>Lays Trajano</div>
+        <br>Lays Trajano
+        <br>University of Sao Paulo – Institute of Biomedical Science II</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Monica_Vargas.jpeg' | absolute_url}}" />
-        <br>Monica Vargas</div>
+        <br>Monica Vargas
+        <br>University of Quindio</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Nupur_Kittur.jpeg' | absolute_url}}" />
+        <br>Nupur Kittur
+        <br>University of Georgia</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
-        <br>Viktoriya Leytska</div>
+        <br>Viktoriya Leytska
+        <br>Biology Centre CAS/Podillia State University</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Wei_Hsin-Ho.jpg' | absolute_url}}" />
         <br>Wei Hsin-Ho
