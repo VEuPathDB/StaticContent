@@ -257,14 +257,14 @@ div.photowrapper {
             <td></td>
           </tr>
           <tr>
-            <td>4:15 - 5:15 p.m.<br>
+            <td>4:15 - 5:00 p.m.<br>
                 Coverdell 175</td>
-            <td>Introduction to Genomics</td>
-            <td></td>
+            <td>Crash course in 'Omics</td>
+            <td>Jessica Kissinger</td>
             <td></td>
           </tr>          
           <tr>
-            <td>5:15 - 6 p.m.<br>
+            <td>5 - 6 p.m.<br>
                 Coverdell 175</td>
             <td>Attendee Introductions: Each attendee introduces themselves and presents a one-slide summary of their work. </td>
             <td></td>
@@ -312,7 +312,7 @@ div.photowrapper {
             <td>8:30 a.m.<br>
                 Life Sciences C128</td>
             <td>VEuPathDB Overview Lecture</td>
-            <td></td>
+            <td>Susanne Warrenfeltz</td>
             <td></td>
           </tr>
           <tr>
@@ -320,7 +320,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Site Search exercise<br>
                 Gene Page exercise</td>
-            <td></td>
+            <td>Susanne Warrenfeltz</td>
             <td></td>
           </tr>
           <tr>
@@ -334,7 +334,7 @@ div.photowrapper {
             <td>11:00 a.m.<br>
                 Life Sciences C128</td>
             <td>Strategies 1 exercise </td>
-            <td></td>
+            <td>Susanne Warrenfeltz</td>
             <td></td>
           </tr>
           <tr>
@@ -348,8 +348,8 @@ div.photowrapper {
             <td>1:15 p.m.<br>
                 Life Sciences C128</td>
             <td>JBrowse Basics<br>
-                JBrowse Interpretation</td>
-            <td></td>
+                Leveraging omics data to explore gene models in JBrowse</td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
@@ -362,7 +362,7 @@ div.photowrapper {
           <tr>
             <td>2:45 p.m.<br>
                 Life Sciences C128</td>
-            <td>JBrowse Interpretation</td>
+            <td>Leveraging omics data to explore gene models in JBrowse</td>
             <td></td>
             <td></td>
           </tr>
@@ -370,7 +370,7 @@ div.photowrapper {
             <td>4:45 p.m.<br>
                 Life Sciences C128</td>
             <td>Motifs and Domains</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
@@ -415,7 +415,7 @@ div.photowrapper {
             <td>8:30 a.m.<br>
                 Life Sciences C128</td>
             <td>Expression data in VEuPathDB lecture</td>
-            <td></td>
+            <td>Susanne</td>
             <td></td>
           </tr>
           <tr>
@@ -436,7 +436,7 @@ div.photowrapper {
             <td>10:30 a.m.<br>
                 Life Sciences C128</td>
             <td>Single-cell RNA Seq lecture</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
@@ -457,14 +457,14 @@ div.photowrapper {
             <td>1:00 p.m.<br>
                 Life Sciences C128</td>
             <td>RNA-Seq basics lecture</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
             <td>1:45 p.m.<br>
                 Life Sciences C128</td>
             <td>Introduction to Galaxy</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
@@ -478,14 +478,14 @@ div.photowrapper {
             <td>2:30 p.m.<br>
                 Life Sciences C128</td>
             <td>Galaxy RNA Seq analysis - data import</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
             <td>3:00 p.m.<br>
                 Life Sciences C128</td>
             <td>Galaxy RNA Seq analysis - start workflow</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
@@ -529,7 +529,7 @@ div.photowrapper {
             <td>8:30 a.m.<br>
                 Life Sciences C128</td>
             <td>Galaxy RNA Seq analysis - review results</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
@@ -543,7 +543,7 @@ div.photowrapper {
             <td>10:50 a.m.<br>
                 Life Sciences C128</td>
             <td>Orthology lecture</td>
-            <td></td>
+            <td>Jessica Kissinger</td>
             <td></td>
           </tr>
           <tr>
@@ -563,7 +563,7 @@ div.photowrapper {
           <tr>
             <td>1:15 p.m.<br>
                 Life Sciences C128</td>
-            <td>Search Strategies - exercise 2</td>
+            <td>Exploring HostDB</td>
             <td></td>
             <td></td>
           </tr>
@@ -575,17 +575,17 @@ div.photowrapper {
             <td></td>
           </tr>
           <tr>
-            <td>3:00 p.m.<br>
+            <td>3 p.m.<br>
                 Life Sciences C128</td>
-            <td>Exploring HostDB</td>
-            <td></td>
+            <td>Search Strategies - exercise 2</td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
             <td>4:00 p.m.<br>
                 Life Sciences C128</td>
             <td>Group exercise - define a question and use VEuPathDB to help answer it</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
