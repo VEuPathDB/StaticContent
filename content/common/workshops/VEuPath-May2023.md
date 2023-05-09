@@ -657,11 +657,10 @@ div.photowrapper {
       <br>
       <br>
     </details>        
-
+<!--
   <div class="anchor"><a name="Directory"></a></div>
   <details closed>
-    <summary><b>Directory</b> </summary>
-  
+    <summary><b>Directory</b> </summary>  
     <div class="photowrapper">
       <div>
         <img src="{{'/documents/2023athens/Photos/Carrie_portrait.jpeg' | absolute_url}}" />
@@ -694,7 +693,7 @@ div.photowrapper {
         <img src="{{'/documents/2023athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
         <br>Viktoriya Leytska</div>
     </div>
-
+-->
   </details>
 
   </div>  <!-- class workshop -->
