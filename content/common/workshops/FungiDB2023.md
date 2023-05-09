@@ -337,7 +337,7 @@ div.instructor-table {
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th colspan="4" class="break"><b>Friday, 28 Julyth 2023</b></th>
+            <th colspan="4" class="break"><b>Friday, 28 July 2023</b></th>
           </tr>
           <tr>
             <th class="time">Time (Uganda) and location</th>
