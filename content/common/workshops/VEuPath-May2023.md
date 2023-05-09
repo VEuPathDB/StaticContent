@@ -273,7 +273,7 @@ div.photowrapper {
           <tr>
             <td>6 - 8 p.m.<br>
                 Coverdell 340</td>
-            <td>Opening Recepetion Dinner </td>
+            <td>Opening Reception Dinner </td>
             <td></td>
             <td></td>
           </tr>
