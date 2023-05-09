@@ -248,7 +248,7 @@ div.instructor-table {
             <td>2:35 - 3:05 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Site Search and Organism preferences (Guided hands-on exercise)</td>
-            <td>Evelina Basenko</td>
+            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
@@ -358,25 +358,32 @@ div.instructor-table {
             <td>2:20 - 2:55 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>GO enrichment analysis (Guided hands-on exercise)</td>
-            <td>Evelina Basenko</td>
+            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
-            <td>2:55 - 3:15 p.m.<br>
+            <td>2:55 - 3:10 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Orthology and Synteny (Guided hands-on exercise)</td>
+            <td>Phenotypic data (Demonstration)</td>
+            <td>TBD</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>3:10 - 3:30 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Orthology and Synteny (Demonstration)</td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
-            <td>3:15 - 3:45 p.m.<br>
+            <td>3:30 - 4:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Orthologous transformation and Phyletic patterns (Guided hans-on exercise)</td>
-            <td>Evelina Basenok</td>
+            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
-            <td>3:45 - 4:45 p.m.<br>
+            <td>4:00 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>VEuPathDB Galaxy and My workspce in FungiDB</td>
             <td>TBD</td>
