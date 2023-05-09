@@ -258,6 +258,7 @@ div.instructor-table {
             <td>TBD</td>
             <td></td>
           </tr>
+          <tr>
           <td>3:15 - 4:30 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>How to build a search strategy (Guided hands-on exercise)</td>
