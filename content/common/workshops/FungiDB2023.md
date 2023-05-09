@@ -189,10 +189,6 @@ div.instructor-table {
           <td>TBD</td>
           <td>TBD</td>
         </tr>    
-        <tr>
-          <td>TBD</td>
-          <td>TBD</td>
-        </tr>
       </tbody>
     </table>
     </div>
