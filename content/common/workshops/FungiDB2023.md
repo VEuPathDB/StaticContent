@@ -218,43 +218,57 @@ div.instructor-table {
         </thead>
         <tbody>         
           <tr>
-            <td>2 - 2:10 p.m.<br>
+            <td>2 - 2:05 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Welcome, workshop overview, and instructor introductions</td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
-            <td>2:05 - 2:20 p.m.<br>
+            <td>2:05 - 2:15 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>General introduction into VEuPathDB resources (Demonstration)</td>
             <td>TBD</td>
             <td></td>
-          </tr> 
-              
+          </tr>    
           <tr>
-            <td>2:20 - 2:30 p.m.<br>
+            <td>2:15 - 2:25 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Introduction to home page layout</td>
+            <td>Evelina Basenko</td>
+            <td></td>
+          </tr> 
+
+          <tr>
+            <td>2:25 - 2:35 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Introduction to site search (Demonstration) </td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>       
           <tr>
-            <td>2:30 - 3:10 p.m.<br>
+            <td>2:35 - 3:05 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Site Search and Organism preferences (Guided hands-on exercise)</td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
-            <td>3:10 - 4:25 p.m.<br>
+            <td>3:05 - 3:15 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Introduction to search strategies</td>
+            <td>TBD</td>
+            <td></td>
+          </tr>
+
+          <td>3:15 - 4:30 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>How to build a search strategy (Guided hands-on exercise)</td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
-            <td>4:25 - 4:55 p.m.<br>
+            <td>4:30 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>How to build a nested strategy (Guided hands-on exercise)</td>
             <td>Evelina Basenko</td>
