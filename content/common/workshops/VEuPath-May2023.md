@@ -202,10 +202,6 @@ div.photowrapper {
       </thead>
       <tbody>
         <tr>
-          <td>Betsy Wenthe</td>
-          <td>University of Georgia</td>
-        </tr>  
-        <tr>
           <td>Omar S. Harb, PhD</td>
           <td>University of Pennsylvania</td>
         </tr>  
@@ -672,6 +668,10 @@ div.photowrapper {
       <div>
         <img src="{{'/documents/2023athens/Photos/Aylla.jpg' | absolute_url}}" />
         <br>Aylla Ermland
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Wenthe.jpg' | absolute_url}}" />
+        <br>Betsy Wenthe
         <br>University of Georgia</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Carrie_portrait.jpeg' | absolute_url}}" />
