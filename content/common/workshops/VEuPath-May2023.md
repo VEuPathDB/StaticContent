@@ -347,8 +347,14 @@ div.photowrapper {
           <tr>
             <td>1:15 p.m.<br>
                 Life Sciences C128</td>
-            <td>JBrowse Basics<br>
-                Leveraging omics data to explore gene models in JBrowse</td>
+            <td>JBrowse Basics</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2:15 p.m.<br>
+                Life Sciences C128</td>
+            <td>Leveraging omics data to explore gene models in JBrowse (Lecture)</td>
             <td>Omar Harb</td>
             <td></td>
           </tr>
@@ -362,7 +368,7 @@ div.photowrapper {
           <tr>
             <td>2:45 p.m.<br>
                 Life Sciences C128</td>
-            <td>Leveraging omics data to explore gene models in JBrowse</td>
+            <td>Leveraging omics data to explore gene models in JBrowse Exercise</td>
             <td></td>
             <td></td>
           </tr>
