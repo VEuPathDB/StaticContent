@@ -127,7 +127,7 @@ div.instructor-table {
     <p><h4>Where: Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda (first come first served basis) and on Zoom. The workshop will be delivered via Zoom in its entirety.</h4></p>  
     <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>          
     <p><h4>How to apply: Applications are now being accepted. <b><a href="https://tinyurl.com/fungidbworkshopACE" target="_blank">Register here</a></b>. </h4></p> 
-    <p><h4>This workshop is free. Registration and internet access is required.</h4></p>   
+    <p><h4>This workshop is free. Registration and internet access are required.</h4></p>   
   </div>
   
 
