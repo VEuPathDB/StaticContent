@@ -721,6 +721,14 @@ div.photowrapper {
         <img src="{{'/documents/2023athens/Photos/Nupur_Kittur.jpeg' | absolute_url}}" />
         <br>Nupur Kittur
         <br>University of Georgia</div>
+    <div>
+        <img src="{{'/documents/2023athens/Photos/Omar_Harb.jpeg' | absolute_url}}" />
+        <br>Omar Harb, instructor
+        <br>University of Pennsylvania</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Susanne_Warrenfeltz_crop.jpg' | absolute_url}}" />
+        <br>Susanne Warrenfeltz, instructor
+        <br>University of Georgia</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
         <br>Viktoriya Leytska
