@@ -303,7 +303,7 @@ div.instructor-table {
             <td>3:40 -4:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Exploring gene pages (Guided hands-on exercise)</td>
-            <td></td>
+            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
