@@ -117,16 +117,17 @@ div.instructor-table {
    <a href="/a/app/static-content/landing.html">Learn how to use FungiDB</a> >> 
    <a href="/a/app/static-content/workshops.html">Workshops</a></p>
 
-<h1>FungiDB Workshop (Virtual): Monday July 26 - July 28, 2023</h1>
+<h1>FungiDB Workshop (Virtual) </h1>
 <div class="static-content">
 
 
   <div class="centered-title">        
-    <p><h4>Applications are now being accepted: <a href="https://tinyurl.com/fungidbworkshopACE" target="_blank">Register</a>. </h4></p> 
-    <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>     
-    <p><h4>26 - 28 July 2023, 2:00 - 5:00 p.m. (Uganda time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
-    <p><h4>Location: Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda (first come first served basis) and on Zoom. The workshop will be delivered via Zoom in its entirety.</h4></p>           
-    <p><h4><b>This workshop is free. Registration and internet access is required.</b> </h4></p>   
+    
+    <p><h4><b>When:</b> 26 - 28 July 2023, 2:00 - 5:00 p.m. (Uganda time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
+    <p><h4><b>Where:</b> Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda (first come first served basis) <b>and</b> on Zoom. The workshop will be delivered via Zoom in its entirety.</h4></p>  
+    <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>          
+    <p><h4><b>How to apply:</b> Applications are now being accepted. <b><a href="https://tinyurl.com/fungidbworkshopACE" target="_blank">Register by completing the registration form</a></b>. Application deadline: 01 July 2023.</h4></p> 
+    <p><h4>This workshop is free. Registration and internet access are required.</h4></p>   
   </div>
   
 
@@ -153,8 +154,8 @@ div.instructor-table {
 
   <h2>How to apply</h2>
     <ul>
-        <li>Begin your application by completing the form: <a href="https://forms.gle/Fwc6FkMd3LAHWe988" target="_blank">https://forms.gle/Fwc6FkMd3LAHWe988</a>.  The form information is confidential.</li>
-        <li>Application deadline is July 1, 2023.</li>
+        <li>Register by completing <a href="https://tinyurl.com/fungidbworkshopACE" target="_blank">the registration form</a>.  The information submitted via the form is confidential.</li>
+        <li>Application deadline is 01 July, 2023.</li>
     </ul> 
   <br><br>
       
@@ -163,7 +164,7 @@ div.instructor-table {
   <br><br>
 
   <h2>Computer and internet access</h2>
-  The participants can attend the workshop at the ACE computer lab or join remotely. The ACE computer lab has 24 seats that will be allocated on a first come first serve basis. Persons joining remotely, will need to have access to a computer and sufficient bandwidth to be able to deploy web-based searches. 
+  The participants can attend the workshop at the Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda <b>and</b> on Zoom. The ACE computer lab has 24 seats that will be allocated on a first come first serve basis. Persons joining remotely, will need to have access to a computer and sufficient bandwidth to be able to deploy web-based searches. 
   <br><br>
   <h2>Instructors</h2>
   
@@ -188,10 +189,6 @@ div.instructor-table {
           <td>TBD</td>
           <td>TBD</td>
         </tr>    
-        <tr>
-          <td>TBD</td>
-          <td>TBD</td>
-        </tr>
       </tbody>
     </table>
     </div>
@@ -202,7 +199,6 @@ div.instructor-table {
   <details closed>
     <summary><b>Schedule</b> </summary>  
     <br><br>
-    <b><a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></b>
     <table class="hor-minimalist-a">
         <thead>
           <tr>
@@ -217,49 +213,54 @@ div.instructor-table {
         </thead>
         <tbody>         
           <tr>
-            <td>2 - 2:10 p.m.<br>
+            <td>2 - 2:05 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Welcome, workshop overview, and instructor introductions</td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
-            <td>2:05 - 2:20 p.m.<br>
+            <td>2:05 - 2:15 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>General introduction into VEuPathDB resources (Demonstration)</td>
             <td>TBD</td>
             <td></td>
-          </tr> 
-              
+          </tr>    
           <tr>
-            <td>2:20 - 2:30 p.m.<br>
+            <td>2:15 - 2:25 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Introduction to home page layout</td>
+            <td>Evelina Basenko</td>
+            <td></td>
+          </tr> 
+          <tr>
+            <td>2:25 - 2:35 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Introduction to site search (Demonstration) </td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>       
           <tr>
-            <td>2:30 - 3:10 p.m.<br>
+            <td>2:35 - 3:05 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Site Search and Organism preferences (Guided hands-on exercise)</td>
-            <td>Evelina Basenko</td>
+            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
-            <td>3:10 - 4:25 p.m.<br>
+            <td>3:05 - 3:15 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Introduction to search strategies</td>
+            <td>TBD</td>
+            <td></td>
+          </tr>
+          <tr>
+          <td>3:15 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>How to build a search strategy (Guided hands-on exercise)</td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>
-          <tr>
-            <td>4:25 - 4:55 p.m.<br>
-                ACE computer lab and Zoom</td>
-            <td>How to build a nested strategy (Guided hands-on exercise)</td>
-            <td>Evelina Basenko</td>
-            <td></td>
-          </tr>
-          
         </tbody>
       </table>
       <br>
@@ -302,7 +303,7 @@ div.instructor-table {
             <td>3:40 -4:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Exploring gene pages (Guided hands-on exercise)</td>
-            <td></td>
+            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
@@ -315,11 +316,10 @@ div.instructor-table {
           <tr>
             <td>4:30 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>How to improve gnee models in Apollo, a structural and functional annotation platform (Demonstration)</td>
+            <td>How to improve gene models in Apollo, a structural and functional annotation platform (Demonstration)</td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>
-          
         </tbody>
       </table>
       <br>
@@ -327,7 +327,7 @@ div.instructor-table {
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th colspan="4" class="break"><b>Friday, 28 Julyth 2023</b></th>
+            <th colspan="4" class="break"><b>Friday, 28 July 2023</b></th>
           </tr>
           <tr>
             <th class="time">Time (Uganda) and location</th>
@@ -348,32 +348,37 @@ div.instructor-table {
             <td>2:20 - 2:55 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>GO enrichment analysis (Guided hands-on exercise)</td>
-            <td>Evelina Basenko</td>
+            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
-            <td>2:55 - 3:15 p.m.<br>
+            <td>2:55 - 3:10 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Orthology and Synteny (Guided hands-on exercise)</td>
-            <td>Evelina Basenko</td>
+            <td>Phenotypic data (Demonstration)</td>
+            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
-            <td>3:15 - 3:45 p.m.<br>
+            <td>3:10 - 3:30 p.m.<br>
+                ACE computer lab and Zoom</td>
+            <td>Orthology and Synteny (Demonstration)</td>
+            <td>TBD</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>3:30 - 4:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Orthologous transformation and Phyletic patterns (Guided hans-on exercise)</td>
-            <td>Evelina Basenok</td>
+            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
-            <td>3:45 - 4:45 p.m.<br>
+            <td>4:00 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>VEuPathDB Galaxy and My workspce in FungiDB</td>
             <td>TBD</td>
             <td></td>
           </tr>
-   
-         
         </tbody>
       </table>
       <br>
