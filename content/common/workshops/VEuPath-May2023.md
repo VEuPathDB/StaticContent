@@ -706,6 +706,10 @@ div.photowrapper {
         <br>Juan Carlos Gabaldon
         <br>Barcelona Institute for Global Health (ISGlobal)</div>
       <div>
+        <img src="{{'/documents/2023athens/Photos/Kingsley_Bentum.jpg' | absolute_url}}" />
+        <br>Kinglsey Bentum
+        <br>Tuskegee University</div>
+      <div>
         <img src="{{'/documents/2023athens/Photos/Lautaro_Natali.jpg' | absolute_url}}" />
         <br>Lautaro Natali
         <br>Mercedes and Martin Ferreyra Institute for Medical Research</div>
@@ -730,9 +734,9 @@ div.photowrapper {
         <br>Susanne Warrenfeltz, instructor
         <br>University of Georgia</div>
       <div>
-        <img src="{{'/documents/2023athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
-        <br>Viktoriya Leytska
-        <br>Biology Centre CAS/Podillia State University</div>
+        <img src="{{'/documents/2023athens/Photos/Wayne_Cheng.jpg' | absolute_url}}" />
+        <br>Wayne Cheng
+        <br>University of Georgia</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Wei_Hsin-Ho.jpg' | absolute_url}}" />
         <br>Wei Hsin-Ho
