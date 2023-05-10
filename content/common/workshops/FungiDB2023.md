@@ -362,7 +362,7 @@ div.instructor-table {
             <td>3:10 - 3:30 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Orthology and Synteny (Demonstration)</td>
-            <td>Evelina Basenko</td>
+            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
