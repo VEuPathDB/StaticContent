@@ -255,16 +255,9 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-          <td>3:15 - 4:30 p.m.<br>
+          <td>3:15 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>How to build a search strategy (Guided hands-on exercise)</td>
-            <td>Evelina Basenko</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>4:30 - 5:00 p.m.<br>
-                ACE computer lab and Zoom</td>
-            <td>How to build a nested strategy (Guided hands-on exercise)</td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>
