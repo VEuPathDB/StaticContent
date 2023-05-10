@@ -118,6 +118,7 @@ div.photowrapper {
   gap: 3.5em;
   grid-auto-rows: minmax(100px, auto);
   align-items: end;
+  font-size: 110%;
 }
 .photowrapper img {
   padding-bottom: 1em;
@@ -201,10 +202,6 @@ div.photowrapper {
       </thead>
       <tbody>
         <tr>
-          <td>Betsy Wenthe</td>
-          <td>University of Georgia</td>
-        </tr>  
-        <tr>
           <td>Omar S. Harb, PhD</td>
           <td>University of Pennsylvania</td>
         </tr>  
@@ -256,14 +253,14 @@ div.photowrapper {
             <td></td>
           </tr>
           <tr>
-            <td>4:15 - 5:15 p.m.<br>
+            <td>4:15 - 5:00 p.m.<br>
                 Coverdell 175</td>
-            <td>Introduction to Genomics</td>
-            <td></td>
+            <td>Crash course in 'Omics</td>
+            <td>Jessica Kissinger</td>
             <td></td>
           </tr>          
           <tr>
-            <td>5:15 - 6 p.m.<br>
+            <td>5 - 6 p.m.<br>
                 Coverdell 175</td>
             <td>Attendee Introductions: Each attendee introduces themselves and presents a one-slide summary of their work. </td>
             <td></td>
@@ -272,7 +269,7 @@ div.photowrapper {
           <tr>
             <td>6 - 8 p.m.<br>
                 Coverdell 340</td>
-            <td>Opening Recepetion Dinner </td>
+            <td>Opening Reception Dinner </td>
             <td></td>
             <td></td>
           </tr>
@@ -311,7 +308,7 @@ div.photowrapper {
             <td>8:30 a.m.<br>
                 Life Sciences C128</td>
             <td>VEuPathDB Overview Lecture</td>
-            <td></td>
+            <td>Susanne Warrenfeltz</td>
             <td></td>
           </tr>
           <tr>
@@ -319,7 +316,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Site Search exercise<br>
                 Gene Page exercise</td>
-            <td></td>
+            <td>Susanne Warrenfeltz</td>
             <td></td>
           </tr>
           <tr>
@@ -333,7 +330,7 @@ div.photowrapper {
             <td>11:00 a.m.<br>
                 Life Sciences C128</td>
             <td>Strategies 1 exercise </td>
-            <td></td>
+            <td>Susanne Warrenfeltz</td>
             <td></td>
           </tr>
           <tr>
@@ -346,9 +343,15 @@ div.photowrapper {
           <tr>
             <td>1:15 p.m.<br>
                 Life Sciences C128</td>
-            <td>JBrowse Basics<br>
-                JBrowse Interpretation</td>
+            <td>JBrowse Basics</td>
+            <td>Omar Harb</td>
             <td></td>
+          </tr>
+          <tr>
+            <td>2:15 p.m.<br>
+                Life Sciences C128</td>
+            <td>Leveraging omics data to explore gene models in JBrowse (Lecture)</td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
@@ -361,7 +364,7 @@ div.photowrapper {
           <tr>
             <td>2:45 p.m.<br>
                 Life Sciences C128</td>
-            <td>JBrowse Interpretation</td>
+            <td>Leveraging omics data to explore gene models in JBrowse exercise</td>
             <td></td>
             <td></td>
           </tr>
@@ -369,7 +372,7 @@ div.photowrapper {
             <td>4:45 p.m.<br>
                 Life Sciences C128</td>
             <td>Motifs and Domains</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
@@ -414,7 +417,7 @@ div.photowrapper {
             <td>8:30 a.m.<br>
                 Life Sciences C128</td>
             <td>Expression data in VEuPathDB lecture</td>
-            <td></td>
+            <td>Susanne</td>
             <td></td>
           </tr>
           <tr>
@@ -435,7 +438,7 @@ div.photowrapper {
             <td>10:30 a.m.<br>
                 Life Sciences C128</td>
             <td>Single-cell RNA Seq lecture</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
@@ -456,14 +459,14 @@ div.photowrapper {
             <td>1:00 p.m.<br>
                 Life Sciences C128</td>
             <td>RNA-Seq basics lecture</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
             <td>1:45 p.m.<br>
                 Life Sciences C128</td>
             <td>Introduction to Galaxy</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
@@ -477,14 +480,14 @@ div.photowrapper {
             <td>2:30 p.m.<br>
                 Life Sciences C128</td>
             <td>Galaxy RNA Seq analysis - data import</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
             <td>3:00 p.m.<br>
                 Life Sciences C128</td>
             <td>Galaxy RNA Seq analysis - start workflow</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
@@ -528,7 +531,7 @@ div.photowrapper {
             <td>8:30 a.m.<br>
                 Life Sciences C128</td>
             <td>Galaxy RNA Seq analysis - review results</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
@@ -542,7 +545,7 @@ div.photowrapper {
             <td>10:50 a.m.<br>
                 Life Sciences C128</td>
             <td>Orthology lecture</td>
-            <td></td>
+            <td>Jessica Kissinger</td>
             <td></td>
           </tr>
           <tr>
@@ -562,8 +565,8 @@ div.photowrapper {
           <tr>
             <td>1:15 p.m.<br>
                 Life Sciences C128</td>
-            <td>Search Strategies - exercise 2</td>
-            <td></td>
+            <td>Exploring HostDB</td>
+            <td>Susanne Warrenfeltz</td>
             <td></td>
           </tr>
           <tr>
@@ -574,17 +577,17 @@ div.photowrapper {
             <td></td>
           </tr>
           <tr>
-            <td>3:00 p.m.<br>
+            <td>3 p.m.<br>
                 Life Sciences C128</td>
-            <td>Exploring HostDB</td>
-            <td></td>
+            <td>Search Strategies - exercise 2</td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
             <td>4:00 p.m.<br>
                 Life Sciences C128</td>
             <td>Group exercise - define a question and use VEuPathDB to help answer it</td>
-            <td></td>
+            <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
@@ -657,43 +660,90 @@ div.photowrapper {
       <br>
       <br>
     </details>        
-<!--
+
   <div class="anchor"><a name="Directory"></a></div>
   <details closed>
     <summary><b>Directory</b> </summary>  
     <div class="photowrapper">
       <div>
+        <img src="{{'/documents/2023athens/Photos/Aylla.jpg' | absolute_url}}" />
+        <br>Aylla Ermland
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Wenthe.jpg' | absolute_url}}" />
+        <br>Betsy Wenthe
+        <br>University of Georgia</div>
+      <div>
         <img src="{{'/documents/2023athens/Photos/Carrie_portrait.jpeg' | absolute_url}}" />
-        <br>Carrie Lastname</div>
+        <br>Carrie Hetzel
+        <br>Harvard Medical School</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/CorinneFargo_Headshot.jpg' | absolute_url}}" />
-        <br>Corinnne Fargo</div>
+        <br>Corinne Fargo
+        <br>Oregon Health & Science University</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Fiifi.jpg' | absolute_url}}" />
+        <br>Fiifi Agyabeng-Dadzie
+        <br>University of Georgia</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/girish-photo.png' | absolute_url}}" />
-        <br>Girish Lastname</div>
+        <br>Girish Rachakonda
+        <br>Meharry Medical College</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/HeeKyoungKang.jpg' | absolute_url}}" />
-        <br>Hee Kyoung Kang</div>
+        <br>Hee Kyoung Kang
+        <br>Seoul National University</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Huai_Chuang.jpg' | absolute_url}}" />
-        <br>Huai Chuang</div>
+        <br>Huai Chuang
+        <br>Nagasaki University</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Jessica_Kissinger.jpg' | absolute_url}}" />
+        <br>Jessica Kissinger, instructor
+        <br>University of Georgia </div>
       <div>
         <img src="{{'/documents/2023athens/Photos/JuanCarlosGabaldon_photo.png' | absolute_url}}" />
-        <br>Juan Carlos Gabaldon</div>
+        <br>Juan Carlos Gabaldon
+        <br>Barcelona Institute for Global Health (ISGlobal)</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Kingsley_Bentum.jpg' | absolute_url}}" />
+        <br>Kinglsey Bentum
+        <br>Tuskegee University</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Lautaro_Natali.jpg' | absolute_url}}" />
-        <br>Lautaro Natali</div>
+        <br>Lautaro Natali
+        <br>Mercedes and Martin Ferreyra Institute for Medical Research</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/LaysTrajano.JPEG' | absolute_url}}" />
-        <br>Lays Trajano</div>
+        <br>Lays Trajano
+        <br>University of Sao Paulo – Institute of Biomedical Science II</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Monica_Vargas.jpeg' | absolute_url}}" />
-        <br>Monica Vargas</div>
+        <br>Monica Vargas
+        <br>University of Quindio</div>
       <div>
-        <img src="{{'/documents/2023athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
-        <br>Viktoriya Leytska</div>
+        <img src="{{'/documents/2023athens/Photos/Nupur_Kittur.jpeg' | absolute_url}}" />
+        <br>Nupur Kittur
+        <br>University of Georgia</div>
+    <div>
+        <img src="{{'/documents/2023athens/Photos/Omar_Harb.jpeg' | absolute_url}}" />
+        <br>Omar Harb, instructor
+        <br>University of Pennsylvania</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Susanne_Warrenfeltz_crop.jpg' | absolute_url}}" />
+        <br>Susanne Warrenfeltz, instructor
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Wayne_Cheng.jpg' | absolute_url}}" />
+        <br>Wayne Cheng
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Wei_Hsin-Ho.jpg' | absolute_url}}" />
+        <br>Wei Hsin-Ho
+        <br>Bowling Green State University
+        </div>
     </div>
--->
+
   </details>
 
   </div>  <!-- class workshop -->
