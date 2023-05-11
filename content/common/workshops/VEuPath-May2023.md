@@ -678,6 +678,10 @@ div.photowrapper {
         <br>Carrie Hetzel
         <br>Harvard Medical School</div>
       <div>
+        <img src="{{'/documents/2023athens/Photos/Charani_Karunathilake.jpg.jpeg' | absolute_url}}" />
+        <br>Charani Karunathilake
+        <br>Faculty of Medicine, University of Colombo</div>
+      <div>
         <img src="{{'/documents/2023athens/Photos/CorinneFargo_Headshot.jpg' | absolute_url}}" />
         <br>Corinne Fargo
         <br>Oregon Health & Science University</div>
@@ -733,6 +737,14 @@ div.photowrapper {
         <img src="{{'/documents/2023athens/Photos/Susanne_Warrenfeltz_crop.jpg' | absolute_url}}" />
         <br>Susanne Warrenfeltz, instructor
         <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Stefani_Piedrahita.jpg' | absolute_url}}" />
+        <br>Stefani Piedrahita
+        <br>Universidad de Antioquia</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/vikky_photo.jpg' | absolute_url}}" />
+        <br>Vikky FNU
+        <br>Clemson University</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Wayne_Cheng.jpg' | absolute_url}}" />
         <br>Wayne Cheng
