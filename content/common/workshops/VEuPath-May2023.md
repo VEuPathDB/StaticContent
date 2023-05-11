@@ -678,7 +678,7 @@ div.photowrapper {
         <br>Carrie Hetzel
         <br>Harvard Medical School</div>
       <div>
-        <img src="{{'/documents/2023athens/Photos/Charani_Karunathilake.jpg.jpeg' | absolute_url}}" />
+        <img src="{{'/documents/2023athens/Photos/Charani_Karunathilake.jpg' | absolute_url}}" />
         <br>Charani Karunathilake
         <br>Faculty of Medicine, University of Colombo</div>
       <div>
