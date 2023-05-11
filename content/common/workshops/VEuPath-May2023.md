@@ -743,7 +743,7 @@ div.photowrapper {
         <br>Universidad de Antioquia</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/vikky_photo.jpg' | absolute_url}}" />
-        <br>Vikky FNU
+        <br>Dr. Vikky
         <br>Clemson University</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Wayne_Cheng.jpg' | absolute_url}}" />
