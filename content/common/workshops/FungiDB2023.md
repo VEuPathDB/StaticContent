@@ -229,7 +229,7 @@ div.instructor-table {
           <tr>
             <td>2:15 - 2:25 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Introduction to FungiDB.org</td>
+            <td>Introduction to FungiDB.org (Demonstration)</td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr> 
