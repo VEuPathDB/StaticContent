@@ -216,7 +216,7 @@ div.instructor-table {
             <td>2 - 2:05 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Welcome, workshop overview, and instructor introductions</td>
-            <td>Evelina Basenko</td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
