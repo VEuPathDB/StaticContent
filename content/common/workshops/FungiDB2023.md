@@ -196,7 +196,7 @@ div.instructor-table {
 
   
   <div class="anchor"><a name="Schedule"></a></div>
-  <details closed>
+  <details open>
     <summary><b>Schedule</b> </summary>  
     <br><br>
     <table class="hor-minimalist-a">
