@@ -220,7 +220,7 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>2:05 - 2:15 p.m.<br>
+            <td>2:05 - 2:25 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>General introduction into VEuPathDB resources (Demonstration)</td>
             <td>TBD</td>
@@ -229,7 +229,7 @@ div.instructor-table {
           <tr>
             <td>2:15 - 2:25 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Introduction to home page layout</td>
+            <td>Introduction to FungiDB.org</td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr> 
