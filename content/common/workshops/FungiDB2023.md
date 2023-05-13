@@ -220,45 +220,38 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>2:05 - 2:25 p.m.<br>
+            <td>2:05 - 2:35 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>General introduction into VEuPathDB resources (Demonstration)</td>
             <td>TBD</td>
             <td></td>
           </tr>    
           <tr>
-            <td>2:15 - 2:25 p.m.<br>
+            <td>2:35 - 2:45 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Introduction to FungiDB.org (Demonstration)</td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr> 
           <tr>
-            <td>2:25 - 2:35 p.m.<br>
+            <td>2:45 - 3:00 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Introduction to site search (Demonstration) </td>
+            <td>Introduction to site search and search strategies (Demonstration) </td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>       
           <tr>
-            <td>2:35 - 3:05 p.m.<br>
+            <td>3:0 - 3:20 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Site Search and Organism preferences (Guided hands-on exercise)</td>
             <td>TBD</td>
             <td></td>
           </tr>
           <tr>
-            <td>3:05 - 3:15 p.m.<br>
+            <td>3:20 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Introduction to search strategies</td>
+            <td>Advanced search strategies in FungiDB and HostDB.org</td>
             <td>TBD</td>
-            <td></td>
-          </tr>
-          <tr>
-          <td>3:15 - 5:00 p.m.<br>
-                ACE computer lab and Zoom</td>
-            <td>How to build a search strategy (Guided hands-on exercise)</td>
-            <td>Evelina Basenko</td>
             <td></td>
           </tr>
         </tbody>
