@@ -303,7 +303,7 @@ div.instructor-table {
             <td>4:30 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>How to improve gene models in Apollo, a structural and functional annotation platform (Demonstration)</td>
-            <td>Evelina Basenko</td>
+            <td>TBD</td>
             <td></td>
           </tr>
         </tbody>
