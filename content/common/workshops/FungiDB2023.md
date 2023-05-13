@@ -272,24 +272,17 @@ div.instructor-table {
         </thead>
         <tbody>         
           <tr>
-            <td>2:00 - 2:10 p.m.<br>
+            <td>2:00 - 3:30 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Exploring datasets in FungiDB and HostDB</td>
+            <td>Advanced search strategies, cont. (Guided hands-on exercises)</td>
             <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
-            <td>2:10 - 3:25 p.m.<br>
+            <td>3:30 - 3:40 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Exploring omics data: transcriptomics, proteomics, SNPs (Guided hands-on exercise)</td>
+            <td>Gene pages and JBrowse (Demonstration)</td>
             <td>Evelina Basenko</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>3:25 - 3:40 a.m.<br>
-                ACE computer lab and Zoom</td>
-            <td>FungiDB gene record page and JBrowse (Demonstration)</td>
-            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
