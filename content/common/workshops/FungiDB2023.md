@@ -156,7 +156,7 @@ div.instructor-table {
         <li>Register by completing <a href="https://tinyurl.com/fungidbworkshopACE" target="_blank">the registration form</a>.  The information submitted via the form is confidential.</li>
         <li>Application deadline is 01 July, 2023.</li>
     </ul> 
-  <br><br>
+  <br>
       
   <h2>Cost and fees</h2>
   The workshop is free and offered via the Zoom platform. 
