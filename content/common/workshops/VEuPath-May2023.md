@@ -682,6 +682,10 @@ div.photowrapper {
         <br>Charani Karunathilake
         <br>Faculty of Medicine, University of Colombo</div>
       <div>
+        <img src="{{'/documents/2023athens/Photos/Carol_Vieira.JPG' | absolute_url}}" />
+        <br>Carolina Vieira
+        <br>University of the State of Rio de Janeiro</div>
+      <div>
         <img src="{{'/documents/2023athens/Photos/CorinneFargo_Headshot.jpg' | absolute_url}}" />
         <br>Corinne Fargo
         <br>Oregon Health & Science University</div>
@@ -721,6 +725,10 @@ div.photowrapper {
         <img src="{{'/documents/2023athens/Photos/LaysTrajano.JPEG' | absolute_url}}" />
         <br>Lays Trajano
         <br>University of Sao Paulo – Institute of Biomedical Science II</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/luiz_Vasconcelos.JPG' | absolute_url}}" />
+        <br>Luiz Vasconcelos
+        <br>Fiocruz/Carlos Chagas Institute (Brazil), University of GEorgia</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Monica_Vargas.jpeg' | absolute_url}}" />
         <br>Monica Vargas
