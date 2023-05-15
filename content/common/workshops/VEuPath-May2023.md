@@ -257,7 +257,7 @@ div.photowrapper {
                 Coverdell 175</td>
             <td>Crash course in 'Omics</td>
             <td>Jessica Kissinger</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/EuPathDB-Workshop-2023-Omics.pdf' | absolute_url}}"><b>Lecture Slides</b></a> </td>
           </tr>          
           <tr>
             <td>5 - 6 p.m.<br>
