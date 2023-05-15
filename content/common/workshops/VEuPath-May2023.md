@@ -699,7 +699,7 @@ div.photowrapper {
         <br>Meharry Medical College</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/HeeKyoungKang.jpg' | absolute_url}}" />
-        <br>Hee Kyoung Kang
+        <br>Heekyoung Kang
         <br>Seoul National University</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Huai_Chuang.jpg' | absolute_url}}" />
