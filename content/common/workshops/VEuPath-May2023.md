@@ -348,7 +348,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>JBrowse Basics</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/3_Strategies_basic_LONG_UGA23.pdf' | absolute_url}}"><b>JBrowse Basics</b></a></td>
           </tr>
           <tr>
             <td>2:15 p.m.<br>
