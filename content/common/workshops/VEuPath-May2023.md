@@ -362,14 +362,14 @@ div.photowrapper {
                 Life Sciences B116</td>
             <td>Coffee Break</td>
             <td></td>
-            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/5_Leverage_Omics_Gene_Model_UGA23.pdf' | absolute_url}}"><b>JBrowse Basics</b></a></td>
+            <td></td>
           </tr>
           <tr>
             <td>2:45 p.m.<br>
                 Life Sciences C128</td>
             <td>Leveraging omics data to explore gene models in JBrowse exercise</td>
             <td></td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/5_Leverage_Omics_Gene_Model_UGA23.pdf' | absolute_url}}"><b>Leveraging Omics Data to Evaluate Gene Models</b></a></td>
           </tr>
           <tr>
             <td>4:45 p.m.<br>
