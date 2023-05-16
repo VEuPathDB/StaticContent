@@ -263,7 +263,7 @@ div.photowrapper {
             <td>5 - 6 p.m.<br>
                 Coverdell 175</td>
             <td>Attendee Introductions: Each attendee introduces themselves and presents a one-slide summary of their work. </td>
-            <td></td>
+            <td>Everyone</td>
             <td></td>
           </tr>       
           <tr>
@@ -317,7 +317,9 @@ div.photowrapper {
             <td>Site Search exercise<br>
                 Gene Page exercise</td>
             <td>Susanne Warrenfeltz</td>
-            <td></td>
+            <td>
+            <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/1_SiteSearch_PlasmoDB_UGA23.pdf' | absolute_url}}"><b>Site Search</b></a>            
+            <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/2_Exploring_the_Gene_Page_UGA23.pdf' | absolute_url}}"><b>Exploring the Gene Page</b></a></td>
           </tr>
           <tr>
             <td>10:30 a.m.<br>
