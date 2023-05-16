@@ -376,7 +376,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Motifs and Domains</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/6_Motifs_UGA23.pdf' | absolute_url}}"><b>Motifs and Domains</b></a></td>
           </tr>
           <tr>
             <td>5:30 p.m.<br>
