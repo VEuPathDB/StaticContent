@@ -228,7 +228,7 @@ div.photowrapper {
 
 
   <div class="anchor"><a name="Schedule"></a></div>
-  <details closed>
+  <details open>
     <summary><b>Schedule</b> </summary>  
     <br><br>
     <b><a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></b>
