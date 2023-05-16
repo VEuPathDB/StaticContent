@@ -333,7 +333,8 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Strategies 1 exercise </td>
             <td>Susanne Warrenfeltz</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/3_Strategies_basic_SHORT_UGA23.pdf' | absolute_url}}"><b>Strategies 1</b></a><br>            
+            <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/3_Strategies_basic_LONG_UGA23.pdf' | absolute_url}}"><b>Strategies 1 Long Form</b></a></td>
           </tr>
           <tr>
             <td>12:15 p.m.<br>
