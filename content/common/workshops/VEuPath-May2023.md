@@ -429,8 +429,8 @@ div.photowrapper {
             <td>Expression searches exercises</td>
             <td></td>
             <td>
-            <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/7_Transcriptomics_UGA23.pdf' | absolute_url}}"><b>Transcriptomics</b></a><br><br>
-            <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/8_Proteomics_UGA23.pdf' | absolute_url}}"><b>Proteomics</b></a></td>
+            <a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/7_Transcriptomics_UGA23.pdf' | absolute_url}}"><b>Transcriptomics</b></a><br><br>
+            <a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/8_Proteomics_UGA23.pdf' | absolute_url}}"><b>Proteomics</b></a></td>
           </tr>
           <tr>
             <td>10:15 a.m.<br>
