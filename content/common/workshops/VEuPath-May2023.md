@@ -487,7 +487,7 @@ div.photowrapper {
             <td>Galaxy RNA Seq analysis - data import</td>
             <td>Omar Harb</td>
             <td><a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/10_RNAseq_Mapping_Galaxy_part1_UGA23.pdf' | absolute_url}}"><b>Galaxy Data Import and Workflow Start</b></a><br><br>
-            <a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises\RNAseq groups.pdf' | absolute_url}}"><b>RNASeq Groups</b></a></td>
+            <a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/RNAseq groups.pdf' | absolute_url}}"><b>RNASeq Groups</b></a></td>
           </tr>
           <tr>
             <td>3:00 p.m.<br>
