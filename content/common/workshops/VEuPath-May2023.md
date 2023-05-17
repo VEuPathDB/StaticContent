@@ -486,7 +486,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Galaxy RNA Seq analysis - data import</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/10_RNAseq_Mapping_Galaxy_part1_UGA23.pdf' | absolute_url}}"><b>Galaxy Data Import</b></a></td>
           </tr>
           <tr>
             <td>3:00 p.m.<br>
