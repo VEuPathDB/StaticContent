@@ -451,7 +451,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Single-cell RNA Seq exercise</td>
             <td></td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/9_scRNAseq_UGA23.docx.pdf' | absolute_url}}"><b>Single Cell Exercise</b></a></td>
           </tr>
           <tr>
             <td>12:00 p.m.<br>
