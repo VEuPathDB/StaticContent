@@ -538,7 +538,8 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Galaxy RNA Seq analysis - review results</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td>
+            <a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/11_RNAseq_Mapping_Galaxy_part2_UGA23.pdf' | absolute_url}}"><b>Galaxy Part 2: Review Results</b></a></td>
           </tr>
           <tr>
             <td>10:30 a.m.<br>
