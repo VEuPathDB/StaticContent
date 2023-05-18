@@ -333,7 +333,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Strategies 1 exercise </td>
             <td>Susanne Warrenfeltz</td>
-            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/3_Strategies_basic_SHORT_UGA23.pdf' | absolute_url}}"><b>Strategies 1</b></a><br>            
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/3_Strategies_basic_SHORT_UGA23.pdf' | absolute_url}}"><b>Strategies 1</b></a><br><br>            
             <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/3_Strategies_basic_LONG_UGA23.pdf' | absolute_url}}"><b>Strategies 1 Long Form</b></a></td>
           </tr>
           <tr>
@@ -378,7 +378,7 @@ div.photowrapper {
             <td>Omar Harb</td>
             <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/6_Motifs_UGA23.pdf' | absolute_url}}"><b>Motifs and Domains</b></a>
             <br><br>
-            <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/RegularExpression_Harb.pdf' | absolute_url}}"><b>Motifs and DomainsRegEx Lecture Slides</b></a></td>
+            <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/RegularExpression_Harb.pdf' | absolute_url}}"><b>Motifs and Domains RegEx Lecture Slides</b></a></td>
           </tr>
           <tr>
             <td>5:30 p.m.<br>
