@@ -677,6 +677,10 @@ div.photowrapper {
     <summary><b>Directory</b> </summary>  
     <div class="photowrapper">
       <div>
+        <img src="{{'/documents/2023athens/Photos/group-post.jpg' | absolute_url}}" />
+        <br>2023 VEuPathDB Workshop
+        <br>University of Georgia, Athens GA</div>
+      <div>
         <img src="{{'/documents/2023athens/Photos/Aylla.jpg' | absolute_url}}" />
         <br>Aylla Ermland
         <br>University of Georgia</div>
