@@ -575,7 +575,10 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Exploring HostDB</td>
             <td>Susanne Warrenfeltz</td>
-            <td><a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/13_HostDB_UGA23.pdf' | absolute_url}}"><b>Exploring HostDB</b></a></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/13_HostDB_UGA23.pdf' | absolute_url}}"><b>Exploring HostDB</b></a>
+            <br><br>
+            <a  target="_blank" href="https://www.nature.com/articles/nrmicro2852"><b>Dual RNA-seq of pathogen and host. Westermann et al. 2012</b></a>            
+            </td>
           </tr>
           <tr>
             <td>2:45 p.m.<br>
