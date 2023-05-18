@@ -575,7 +575,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Exploring HostDB</td>
             <td>Susanne Warrenfeltz</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/13_HostDB_UGA23.pdf' | absolute_url}}"><b>Exploring HostDB</b></a></td>
           </tr>
           <tr>
             <td>2:45 p.m.<br>
