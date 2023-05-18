@@ -592,7 +592,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Search Strategies - exercise 2</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/14_Strategies2_UGA23.pdf' | absolute_url}}"><b>Strategies 2: Think about it</b></a></td>
           </tr>
           <tr>
             <td>4:00 p.m.<br>
