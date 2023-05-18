@@ -560,7 +560,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Orthology exercise</td>
             <td></td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/12_Orthology-Phyletic-Patterns_UGA23.pdf' | absolute_url}}"><b>Orthology Exercise</b></a></td>
           </tr>
           <tr>
             <td>12:15 p.m.<br>
