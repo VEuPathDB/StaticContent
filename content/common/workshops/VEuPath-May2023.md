@@ -657,7 +657,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Group Presentations </td>
             <td></td>
-            <td><a target="_blank" href="http://tinyurl.com/27rm864p">http://tinyurl.com/27rm864p</a></td>
+            <td><a target="_blank" href="http://tinyurl.com/27rm864p"><b>http://tinyurl.com/27rm864p</b></a></td>
           </tr>
           <tr>
             <td>12:00 p.m.<br>
