@@ -136,7 +136,7 @@ div.photowrapper {
 
   <div class="centered-title">        
     <p><h4>Applications closed. Applicants have been notified of their status. </h4></p> 
-    <p><h4><b><a href="#Schedule">TENTATIVE SCHEDULE</a></b></h4></p>     
+    <p><h4><b><a href="#Schedule">SCHEDULE</a></b></h4></p>     
     <p><h4>Monday, May 15th 4:00 p.m. - Friday, May 19th 1:00 p.m.  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>           
     <p><h4><b>Registration, housing, and most meals during the workshop are free.  Attendees are expected to pay their own travel expenses, some evening meals, and housing for extended stays.</b> </h4></p>
@@ -228,7 +228,7 @@ div.photowrapper {
 
 
   <div class="anchor"><a name="Schedule"></a></div>
-  <details closed>
+  <details open>
     <summary><b>Schedule</b> </summary>  
     <br><br>
     <b><a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></b>
@@ -257,7 +257,7 @@ div.photowrapper {
                 Coverdell 175</td>
             <td>Crash course in 'Omics</td>
             <td>Jessica Kissinger</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/EuPathDB-Workshop-2023-Omics.pdf' | absolute_url}}"><b>Lecture Slides</b></a> </td>
           </tr>          
           <tr>
             <td>5 - 6 p.m.<br>
@@ -317,7 +317,9 @@ div.photowrapper {
             <td>Site Search exercise<br>
                 Gene Page exercise</td>
             <td>Susanne Warrenfeltz</td>
-            <td></td>
+            <td>
+            <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/1_SiteSearch_PlasmoDB_UGA23.pdf' | absolute_url}}"><b>Site Search</b></a><br><br>            
+            <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/2_Exploring_the_Gene_Page_UGA23.pdf' | absolute_url}}"><b>Exploring the Gene Page</b></a></td>
           </tr>
           <tr>
             <td>10:30 a.m.<br>
@@ -331,7 +333,8 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Strategies 1 exercise </td>
             <td>Susanne Warrenfeltz</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/3_Strategies_basic_SHORT_UGA23.pdf' | absolute_url}}"><b>Strategies 1</b></a><br><br>            
+            <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/3_Strategies_basic_LONG_UGA23.pdf' | absolute_url}}"><b>Strategies 1 Long Form</b></a></td>
           </tr>
           <tr>
             <td>12:15 p.m.<br>
@@ -345,7 +348,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>JBrowse Basics</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/4_JBrowseBasics_UGA23.pdf' | absolute_url}}"><b>JBrowse Basics</b></a></td>
           </tr>
           <tr>
             <td>2:15 p.m.<br>
@@ -366,14 +369,16 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Leveraging omics data to explore gene models in JBrowse exercise</td>
             <td></td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/5_Leverage_Omics_Gene_Model_UGA23.pdf' | absolute_url}}"><b>Leveraging Omics Data to Evaluate Gene Models</b></a></td>
           </tr>
           <tr>
             <td>4:45 p.m.<br>
                 Life Sciences C128</td>
             <td>Motifs and Domains</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/6_Motifs_UGA23.pdf' | absolute_url}}"><b>Motifs and Domains</b></a>
+            <br><br>
+            <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/RegularExpression_Harb.pdf' | absolute_url}}"><b>Motifs and Domains RegEx Lecture Slides</b></a></td>
           </tr>
           <tr>
             <td>5:30 p.m.<br>
@@ -425,7 +430,9 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Expression searches exercises</td>
             <td></td>
-            <td></td>
+            <td>
+            <a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/7_Transcriptomics_UGA23.pdf' | absolute_url}}"><b>Transcriptomics</b></a><br><br>
+            <a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/8_Proteomics_UGA23.pdf' | absolute_url}}"><b>Proteomics</b></a></td>
           </tr>
           <tr>
             <td>10:15 a.m.<br>
@@ -439,14 +446,14 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Single-cell RNA Seq lecture</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/scRNAseq_Harb.pdf'| absolute_url}}"><b>scRNASeq Lecture Slides</b></a></td>
           </tr>
           <tr>
             <td>10:50 a.m.<br>
                 Life Sciences C128</td>
             <td>Single-cell RNA Seq exercise</td>
             <td></td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/9_scRNAseq_UGA23.docx.pdf' | absolute_url}}"><b>Single Cell Exercise</b></a></td>
           </tr>
           <tr>
             <td>12:00 p.m.<br>
@@ -460,7 +467,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>RNA-Seq basics lecture</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/VEuPathDB_RNAseq_lecture_harb.pdf' | absolute_url}}"><b>Bulk-RNA Seq Lecture Slides</b></a></td>
           </tr>
           <tr>
             <td>1:45 p.m.<br>
@@ -481,7 +488,8 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Galaxy RNA Seq analysis - data import</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/10_RNAseq_Mapping_Galaxy_part1_UGA23.pdf' | absolute_url}}"><b>Galaxy Data Import and Workflow Start</b></a><br><br>
+            <a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/RNAseq groups.pdf' | absolute_url}}"><b>RNASeq Groups</b></a></td>
           </tr>
           <tr>
             <td>3:00 p.m.<br>
@@ -495,8 +503,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Adjourn</td>
             <td></td>
-            <td></td>
-          </tr>
+            <td><a target="_blank" href="{{'/documents/2023athens/Day2_Exercises/GO_Term_Presentation_Harb.pdf' | absolute_url}}"><b>GO Term Lecture slides</b></a></td>
         </tbody>
       </table>
      <br>
@@ -532,7 +539,8 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Galaxy RNA Seq analysis - review results</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td>
+            <a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/11_RNAseq_Mapping_Galaxy_part2_UGA23.pdf' | absolute_url}}"><b>Galaxy Part 2: Review Results</b></a></td>
           </tr>
           <tr>
             <td>10:30 a.m.<br>
@@ -553,7 +561,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Orthology exercise</td>
             <td></td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/12_Orthology-Phyletic-Patterns_UGA23.pdf' | absolute_url}}"><b>Orthology Exercise</b></a></td>
           </tr>
           <tr>
             <td>12:15 p.m.<br>
@@ -567,7 +575,10 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Exploring HostDB</td>
             <td>Susanne Warrenfeltz</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/13_HostDB_UGA23.pdf' | absolute_url}}"><b>Exploring HostDB</b></a>
+            <br><br>
+            <a  target="_blank" href="https://www.nature.com/articles/nrmicro2852"><b>Dual RNA-seq of pathogen and host. Westermann et al. 2012</b></a>            
+            </td>
           </tr>
           <tr>
             <td>2:45 p.m.<br>
@@ -581,7 +592,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Search Strategies - exercise 2</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/14_Strategies2_UGA23.pdf' | absolute_url}}"><b>Strategies 2: Think about it</b></a></td>
           </tr>
           <tr>
             <td>4:00 p.m.<br>
@@ -666,6 +677,10 @@ div.photowrapper {
     <summary><b>Directory</b> </summary>  
     <div class="photowrapper">
       <div>
+        <img src="{{'/documents/2023athens/Photos/group-post.jpg' | absolute_url}}" />
+        <br>2023 VEuPathDB Workshop
+        <br>University of Georgia, Athens GA</div>
+      <div>
         <img src="{{'/documents/2023athens/Photos/Aylla.jpg' | absolute_url}}" />
         <br>Aylla Ermland
         <br>University of Georgia</div>
@@ -682,6 +697,10 @@ div.photowrapper {
         <br>Charani Karunathilake
         <br>Faculty of Medicine, University of Colombo</div>
       <div>
+        <img src="{{'/documents/2023athens/Photos/Carol_Vieira.JPG' | absolute_url}}" />
+        <br>Carolina Vieira
+        <br>University of the State of Rio de Janeiro</div>
+      <div>
         <img src="{{'/documents/2023athens/Photos/CorinneFargo_Headshot.jpg' | absolute_url}}" />
         <br>Corinne Fargo
         <br>Oregon Health & Science University</div>
@@ -695,7 +714,7 @@ div.photowrapper {
         <br>Meharry Medical College</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/HeeKyoungKang.jpg' | absolute_url}}" />
-        <br>Hee Kyoung Kang
+        <br>Heekyoung Kang
         <br>Seoul National University</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Huai_Chuang.jpg' | absolute_url}}" />
@@ -710,6 +729,10 @@ div.photowrapper {
         <br>Juan Carlos Gabaldon
         <br>Barcelona Institute for Global Health (ISGlobal)</div>
       <div>
+        <img src="{{'/documents/2023athens/Photos/Juliana_Hoyos.png' | absolute_url}}" />
+        <br>Juliana Hoyos
+        <br>University of Georgia</div>
+      <div>
         <img src="{{'/documents/2023athens/Photos/Kingsley_Bentum.jpg' | absolute_url}}" />
         <br>Kinglsey Bentum
         <br>Tuskegee University</div>
@@ -721,6 +744,10 @@ div.photowrapper {
         <img src="{{'/documents/2023athens/Photos/LaysTrajano.JPEG' | absolute_url}}" />
         <br>Lays Trajano
         <br>University of Sao Paulo – Institute of Biomedical Science II</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/luiz_Vasconcelos.JPG' | absolute_url}}" />
+        <br>Luiz Vasconcelos
+        <br>Fiocruz/Carlos Chagas Institute (Brazil), University of GEorgia</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Monica_Vargas.jpeg' | absolute_url}}" />
         <br>Monica Vargas
