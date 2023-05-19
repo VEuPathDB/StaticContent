@@ -664,7 +664,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Adjourn, boxed lunch-to-go provided.</td>
             <td></td>
-            <td><a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_exNzIoUNwn9hzkW" target="_blank">Workshop Feedback Survey</a></td>
+            <td><a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_exNzIoUNwn9hzkW" target="_blank"><b>Workshop Feedback Survey</b></a></td>
           </tr>
         </tbody>
       </table>
