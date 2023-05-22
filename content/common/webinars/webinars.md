@@ -26,7 +26,6 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
 
-  <hr style="width:30%; margin-left:0">  
   <div class="anchor"><a name="release62"></a></div>
   <div class="webinar">
   <b>Topic:</b> Release 64 Webinar<br>
