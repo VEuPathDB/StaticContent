@@ -47,6 +47,7 @@ tr.break td {
 
 table.hor-minimalist-a {
   text-align: left;
+  width: 100%;
 }
 table.hor-minimalist-a th {
   font-size: 110%;
