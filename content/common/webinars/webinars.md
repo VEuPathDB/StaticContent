@@ -24,8 +24,21 @@ tags: [general]
 <div class="static-content">
 
   <h3>Upcoming Webinars</h3>
-  
-  <h3>Previous Webinars</h3>
+  <div class="contents">
+
+  <hr style="width:30%; margin-left:0">  
+  <div class="anchor"><a name="release62"></a></div>
+  <div class="webinar">
+  <b>Topic:</b> Release 64 Webinar<br>
+  <b>Date:</b> To be determined<br>
+  <b>Time:</b> <br>
+  <b>Registration:</b> Registration details will be posted 7 - 10 days prior to the webinar. <br>
+  <b>Details:</b> This webinar will focus on what is new in Release 64 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+  </div>
+
+  </div> <!--closing div contents for Upcoming Webinars -->
+    
+<h3>Previous Webinars</h3>
   <div class="contents">  
   If you missed any of our previous webinars feel free to explore the <a href="#previous">Previous Webinar Recordings</a>.
   </div>
@@ -52,14 +65,22 @@ Release webinar dates are subject to change due to production issues that may ar
 
 </div>-->
 
-
-
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 
 <div class="anchor"><a name="previous"></a></div>
 <h3>Previous Webinar Recordings</h3>
 
 <div class="contents">
+
+<hr style="width:30%; margin-left:0">  
+<div class="anchor"><a name="generecordpages"></a></div>
+<div class="webinar">
+<b>Topic:</b> Release 63 Webinar<br>
+<b>Date:</b> Thursday May 11th, 2023<br>
+<b>Time:</b> 10AM US Eastern Time<br>
+<b>Recording:</b> <a href="https://youtu.be/vbm7AgIKvgI" target="_blank">https://youtu.be/vbm7AgIKvgI</a> <br>
+<b>Details:</b> This webinar offered an overview of the new data and features in Release 63.  
+</div>
 
 <hr style="width:30%; margin-left:0">  
 <div class="anchor"><a name="generecordpages"></a></div>
