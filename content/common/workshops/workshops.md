@@ -102,17 +102,19 @@ th.recording {
 
   <h3>Upcoming Workshops</h3>
 
-  <div class="contents">
-    <h4><a href="/a/app/static-content/workshopMay2023.html">VEuPathDB Workshop (In Person) May 15-19, 2023</a></h4>
-   <p>Times: Monday, May 15th 4:00pm &ndash; Friday, May 19th 1:00pm 2023</p>
-   <p>Location: The University of Georgia, Athens, Georgia 30602 USA</p>
-  <p>More Information: <a href="/a/app/static-content/workshopMay2023.html">Workshop information and schedule</a></p>
-  </div>
+  
 
   <hr>
   
   <h3>Previous Workshops</h3>
 
+  <div class="contents">
+    <h4><a href="/a/app/static-content/workshopMay2023.html">VEuPathDB Workshop (In Person) May 15-19, 2023</a></h4>
+   <p>Times: Monday, May 15th 4:00pm &ndash; Friday, May 19th 1:00pm 2023</p>
+   <p>Location: The University of Georgia, Athens, Georgia 30602 USA</p>
+  <p>More Information: <a href="/a/app/static-content/workshopMay2023.html">Workshop information, schedule and pdf exercises</a></p>
+  </div>
+  
   <div class="contents">
     <h4><a href="/a/app/static-content/workshopOCT2022.html">FungiDB - CPS Virtual Workshop October 2022</a></h4>
    <p>Tuesday October 11th - Wednesday October 12th 2022</p>
