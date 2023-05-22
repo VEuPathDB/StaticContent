@@ -355,7 +355,7 @@ div.instructor-table {
           <tr>
             <td>4:00 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>VEuPathDB Galaxy and My workspce in FungiDB</td>
+            <td>VEuPathDB Galaxy and My workspace in FungiDB</td>
             <td>TBD</td>
             <td></td>
           </tr>
