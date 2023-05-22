@@ -101,7 +101,13 @@ th.recording {
 <div class="static-content">
 
   <h3>Upcoming Workshops</h3>
-
+ 
+  <div class="contents">
+    <h4><a href="/a/app/static-content/workshopUOL2023.html">University of Liverpool, VEuPathDB Workshop (In Person) June 27-29, 2023</a></h4>
+   <p>Times: Tuesday, June 27th 9:00am &ndash; Thursday, June 29th 3:00pm 2023</p>
+   <p>Location: The University of Liverpool, Liverpool, United Kingdom</p>
+  <p>More Information: <a href="/a/app/static-content/workshopUOL2023.html">Workshop information and schedule tbc</a></p>
+  </div>
   
 
   <hr>
