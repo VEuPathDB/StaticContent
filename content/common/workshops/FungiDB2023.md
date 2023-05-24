@@ -238,7 +238,6 @@ div.instructor-table {
             <td>3:0 - 3:20 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Site Search and Organism preferences (Guided hands-on exercise)</td>
-            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
