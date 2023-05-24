@@ -207,7 +207,7 @@ div.instructor-table {
           <tr>
             <th class="time">Time (Uganda) and location</th>
             <th class="event">Topic </th>
-            <th class="recording">Exercise pdf</th>
+            <th class="recording">Exercise pdf or recording</th>
           </tr>
         </thead>
         <tbody>         
@@ -260,7 +260,7 @@ div.instructor-table {
           <tr>
             <th class="time">Time (Uganda) and location</th>
             <th class="event">Topic </th>
-            <th class="recording">Exercise pdf</th>
+            <th class="recording">Exercise pdf or recording</th>
           </tr>
         </thead>
         <tbody>         
@@ -306,7 +306,7 @@ div.instructor-table {
           <tr>
             <th class="time">Time (Uganda) and location</th>
             <th class="event">Topic </th>
-            <th class="recording">Exercise pdf</th>
+            <th class="recording">Exercise pdf or recording</th>
           </tr>
         </thead>
         <tbody>         
