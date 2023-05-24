@@ -179,11 +179,11 @@ div.instructor-table {
       <tbody>
         <tr>
           <td>Evelina Basenko</td>
-          <td>University of Liverpool</td>
+          <td>University of Liverpool, UK</td>
         </tr>  
         <tr>
-          <td>TBD</td>
-          <td>TBD</td>
+          <td>Omar Harb</td>
+          <td>University of Pennsylvania, USA</td>
         </tr>  
         <tr>
           <td>TBD</td>
