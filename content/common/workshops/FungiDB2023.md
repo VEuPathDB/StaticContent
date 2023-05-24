@@ -282,7 +282,7 @@ div.instructor-table {
             <td>3:30 - 3:40 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Gene pages and JBrowse (Demonstration)</td>
-            <td>Evelina Basenko</td>
+            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
@@ -296,7 +296,7 @@ div.instructor-table {
             <td>4:00 p 4:30 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Exploring evidence in JBrowse (Guided hands-on exercise)</td>
-            <td>Evelina Basenko</td>
+            <td>TBD</td>
             <td></td>
           </tr>
           <tr>
