@@ -47,6 +47,7 @@ tr.break td {
 
 table.hor-minimalist-a {
   text-align: left;
+  width: 100%;
 }
 table.hor-minimalist-a th {
   font-size: 110%;
@@ -178,11 +179,11 @@ div.instructor-table {
       <tbody>
         <tr>
           <td>Evelina Basenko</td>
-          <td>University of Liverpool, UK</td>
+          <td>University of Liverpool</td>
         </tr>  
         <tr>
-          <td>Omar Harb</td>
-          <td>University of Pennsylvania, USA</td>
+          <td>TBD</td>
+          <td>TBD</td>
         </tr>  
         <tr>
           <td>TBD</td>
