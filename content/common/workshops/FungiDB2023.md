@@ -221,22 +221,19 @@ div.instructor-table {
             <td>2:05 - 2:35 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>General introduction into VEuPathDB resources (Demonstration)</td>
-            
-            <td></td>
+           <td></td>
           </tr>    
           <tr>
             <td>2:35 - 2:45 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Introduction to FungiDB.org (Demonstration)</td>
-            
             <td></td>
           </tr> 
           <tr>
             <td>2:45 - 3:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Introduction to site search and search strategies (Demonstration) </td>
-          
-            <td></td>
+          <td></td>
           </tr>       
           <tr>
             <td>3:0 - 3:20 p.m.<br>
@@ -249,8 +246,7 @@ div.instructor-table {
             <td>3:20 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Advanced search strategies in FungiDB and HostDB.org</td>
-          
-            <td></td>
+           <td></td>
           </tr>
         </tbody>
       </table>
@@ -264,7 +260,6 @@ div.instructor-table {
           <tr>
             <th class="time">Time (Uganda) and location</th>
             <th class="event">Topic </th>
-          
             <th class="recording">Exercise pdf</th>
           </tr>
         </thead>
@@ -273,35 +268,30 @@ div.instructor-table {
             <td>2:00 - 3:30 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Advanced search strategies, cont. (Guided hands-on exercises)</td>
-            
             <td></td>
           </tr>
           <tr>
             <td>3:30 - 3:40 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Gene pages and JBrowse (Demonstration)</td>
-           
-            <td></td>
+           <td></td>
           </tr>
           <tr>
             <td>3:40 -4:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Exploring gene pages (Guided hands-on exercise)</td>
-           
-            <td></td>
+           <td></td>
           </tr>
           <tr>
             <td>4:00 p 4:30 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Exploring evidence in JBrowse (Guided hands-on exercise)</td>
-           
-            <td></td>
+           <td></td>
           </tr>
           <tr>
             <td>4:30 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>How to improve gene models in Apollo, a structural and functional annotation platform (Demonstration)</td>
-            
             <td></td>
           </tr>
         </tbody>
@@ -316,7 +306,6 @@ div.instructor-table {
           <tr>
             <th class="time">Time (Uganda) and location</th>
             <th class="event">Topic </th>
-           
             <th class="recording">Exercise pdf</th>
           </tr>
         </thead>
@@ -325,37 +314,31 @@ div.instructor-table {
             <td>2:00 - 2:20 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Ontologies, Enrichment analysis, metabolic pathways (Lecture & Demonstration)</td>
-            
             <td></td>
           </tr>
           <tr>
             <td>2:20 - 3:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>GO enrichment analysis (Guided hands-on exercise)</td>
-            
             <td></td>
           </tr>
-
-          <tr>
+         <tr>
             <td>3:00 - 3:30 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Orthology and Synteny (Lecture & Demonstration)</td>
-          
-            <td></td>
+          <td></td>
           </tr>
           <tr>
             <td>3:30 - 4:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Orthology & Synteny (Guided hans-on exercise)</td>
-           
-            <td></td>
+           <td></td>
           </tr>
           <tr>
             <td>4:00 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>VEuPathDB Galaxy and My workspace in FungiDB</td>
-           
-            <td></td>
+           <td></td>
           </tr>
         </tbody>
       </table>
