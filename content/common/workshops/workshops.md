@@ -106,7 +106,7 @@ th.recording {
     <h4><a href="/a/app/static-content/FungiDBworkshop2023.html">FungiDB - ACE (Uganda) workshop (virtual) July 26-28, 2023</a></h4>
    <p>Times (Uganda time): 2:00pm - 5:00pm daily</p>
    <p>Location: Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda and on Zoom</p>
-  <p>More Information: <a href="/a/app/static-content/FungiDBworkshop2023.html">Workshop information, schedule and exercises</a></p>
+  <p>More Information: <a href="/a/app/static-content/FungiDBworkshop2023.html">Workshop information and schedule</a></p>
   </div>
       <hr>
   <div class="contents">
