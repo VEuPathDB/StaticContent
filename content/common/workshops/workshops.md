@@ -239,7 +239,15 @@ th.recording {
         </li>
       </ul>
     </details>
-    <br>
+
+<details closed>
+      <summary><b>Supplementary materials</b></summary>
+      <ul>
+        <li><a href="{{'/documents/2021hinxtonfungal/1_SGD_mainpage_anatomy.pdf' | absolute_url}}">SGD main page anatomy</a></li>
+        <li><a href="{{'/documents/2021hinxtonfungal/10_AnatomyOfMycoCosm_2021.pdf' | absolute_url}}">Anatomy of JGI MycoCosm</a></li>
+     </ul>
+    </details>
+    <br> 
 
   </div>
  
