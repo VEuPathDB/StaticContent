@@ -155,7 +155,6 @@ th.recording {
         <li><a href="{{'/documents/2021hinxtonfungal/10_AnatomyOfMycoCosm_2021.pdf' | absolute_url}}">Anatomy of JGI MycoCosm</a></li>
      </ul>
     </details>
-    <br> 
     <details closed>
       <summary><b>Workshop module: Data mining in FungiDB, CGD, SGD, JGI MycoCosm, and Ensembl Fungi</b></summary>
       <ul>  
