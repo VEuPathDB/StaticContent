@@ -134,7 +134,7 @@ th.recording {
   <div class="anchor"><a name="hinxton2023"></a></div>
   <div class="workshop">
 
-  <h3>2023 Fungal Pathogen Genomics (Virtual)</h3>
+  <h4>2023 Fungal Pathogen Genomics (Virtual)</h4>
     This workshop was organized by the Wellcome Trust Advanced Courses and was held virtually. <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20230509/">
     2023 Fungal Pathogen Genomics (Virtual)</a>.
     May 09-13, 2023 (In Person).<br>
