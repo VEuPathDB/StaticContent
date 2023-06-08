@@ -35,9 +35,11 @@ tags: [general]
   <b>Details:</b> For the agenda and more information follow this link: <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br>
   </div>
     
+    
   <div class="anchor"><a name="release64"></a></div>
   <div class="webinar">
-  <b>Topic:</b> Release 64 Webinar<br>
+  <b>Topic:</b>
+    <br>
   <b>Date:</b> Thursday July 20th, 2023<br>
   <b>Time:</b> <br>
   <b>Registration:</b> Registration details will be posted 7 - 10 days prior to the webinar. <br>
