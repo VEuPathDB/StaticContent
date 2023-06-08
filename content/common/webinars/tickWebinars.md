@@ -99,10 +99,39 @@ th.recording {
 <p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> 
     <a href="/a/app/static-content/webinars.html">Webinars</a></p>
 
+<p>
+  
+<img style="width: 40em; margin-top: .6em; margin-left: 6em; float: right;" src="{{ "/assets/images/veu_vb_logo2.png" | absolute_url }}" alt="veu_vb_logo2"/>
+<h1>2023 Ticks and mites community webinar</h1>
+<div class="static-content">
 
+<b>Summary</b>: This event is geared towards researchers working on ticks and mites, and might also be of interest to those working on the bacterial, viral or eukaryotic pathogens these two groups of arthropods transmit. The event will focus on highlighting data and bioinformatic tools provided by VectorBase. In addition, we welcome open discussion so we can learn about your research needs that VectorBase might be able to provide.
+<br><br>
+  
+ 
+<b>Structure</b>: Demo of latest tools, data functionality. Open forum discussion. Opportunity to provide dataset suggestions, tool suggestions, data analysis issues. This is a single session scheduled for 1h.
+<br><br>
+  
+<b>Audience</b>: The webinar/conference call is free and open to all scientists from any career stage who may benefit from VectorBase.
+<br><br>
+  
+<b>Participation</b>: If you would like, please submit feedback or questions to be discussed during the webinar/conference call and datasets suggestions to include in our databases, completing this <b><a href="https://forms.gle/1Cvun8EryjHeTjsc8">webform</a></b>. Alternatively, you can also participate live during the event.
+<br><br>
+  
+<b>Registration</b>: <b><a href="https://upenn.zoom.us/meeting/register/tJYucuytpjgrHdE84lDIIfOCPFGQyGYMtW0B">Follow this link</a></b>. You will receive an automatic message with the Zoom link. 
+<br><br>
+  
+<b>Recordings</b>: We strongly value your participation and look forward to all your questions and feedback during our live sessions, but if you are unable to attend or would like to watch the session again,  a recording will be made available after the event.
+<br><br>
+  
+<b>Date and time</b>: 22nd June 2023, 10 AM US Easter Time (Convert to your location if needed                                                                           <a href="https://www.thetimezoneconverter.com/">https://www.thetimezoneconverter.com/</a>). 
+<br><br>
+  
+<b>Presenters</b>: Samuel Rund, PhD and Gloria I. Giraldo-Calderón, PhD, both from the University of Notre Dame (USA), Sarah A. Kelly, MSc, Imperial College London (UK), and David Roos, University of Pennsylvania (USA),  joined by other members of the VectorBase and VEuPathDB team.   
+<br><br>
 
 <img style="width: 30em; margin-top: .5em; margin-left: 4em; float: right;" src="{{ "/assets/images/bv_veupath_logo.png" | absolute_url }}" alt="bv_veupath_logo"/>
-<h1>Ticks and Tick-Borne Pathogens Open Community Webinar Series</h1>
+<h1>2022 Ticks and Tick-Borne Pathogens Open Community Webinar Series</h1>
 <div class="static-content">
 
 <p>
