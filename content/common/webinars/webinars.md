@@ -30,7 +30,7 @@ tags: [general]
   <div class="webinar">
   <b>Topic:</b> 2023 Ticks and mites community webinar<br>
   <b>Date:</b> Thursday June 22nd, 2023<br>
-  <b>Time:</b> <br>
+  <b>Time:</b> 10AM US Eastern Time<br>
   <b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJYucuytpjgrHdE84lDIIfOCPFGQyGYMtW0B">https://upenn.zoom.us/meeting/register/tJYucuytpjgrHdE84lDIIfOCPFGQyGYMtW0B</a> <br>
   <b>Details:</b> For the agenda and more information follow this link: <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br>
   </div>
@@ -39,10 +39,10 @@ tags: [general]
     
   <div class="anchor"><a name="release64"></a></div>
   <div class="webinar">
-  <b>Topic:</b>
+  <b>Topic:Release 64 Webinar</b>
     <br>
   <b>Date:</b> Thursday July 20th, 2023<br>
-  <b>Time:</b> <br>
+  <b>Time:</b> 10AM US Eastern Time<br>
   <b>Registration:</b> Registration details will be posted 7 - 10 days prior to the webinar. <br>
   <b>Details:</b> This webinar will focus on what is new in Release 64 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
   </div>
