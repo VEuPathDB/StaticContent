@@ -101,7 +101,7 @@ th.recording {
 
 <p>
   
-<img style="width: 40em; margin-top: .6em; margin-left: 6em; float: right;" src="{{ "/assets/images/veu_vb_logo.png" | absolute_url }}" alt="veu_vb_logo"/>
+<img style="width: 40em; margin-top: .6em; margin-left: 6em; float: right;" src="{{ "/assets/images/veu_vb_logo2.png" | absolute_url }}" alt="veu_vb_logo2"/>
 <h1>2023 Ticks and mites community webinar</h1>
 <div class="static-content">
 
