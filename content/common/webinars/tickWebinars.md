@@ -115,7 +115,7 @@ th.recording {
 <b>Audience</b>: The webinar/conference call is free and open to all scientists from any career stage who may benefit from VectorBase.
 <br><br>
   
-<b>Participation</b>: If you would like, please submit feedback or questions to be discussed during the webinar/conference call and datasets suggestions to include in our databases, completing this <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsSCTfab0oJw3i4dkz6i9a3M7jx6IWnlaSZxd4srKBdyDKKg/viewform)">webform</a></b>. Alternatively, you can also participate live during the event.
+<b>Participation</b>: If you would like, please submit feedback or questions to be discussed during the webinar/conference call and datasets suggestions to include in our databases, completing this <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsSCTfab0oJw3i4dkz6i9a3M7jx6IWnlaSZxd4srKBdyDKKg/viewform">webform</a></b>. Alternatively, you can also participate live during the event.
 <br><br>
   
 <b>Registration</b>: <b><a href="https://upenn.zoom.us/meeting/register/tJYucuytpjgrHdE84lDIIfOCPFGQyGYMtW0B">Follow this link</a></b>. You will receive an automatic message with the Zoom link. 
