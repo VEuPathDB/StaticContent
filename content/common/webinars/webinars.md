@@ -39,8 +39,7 @@ tags: [general]
     
   <div class="anchor"><a name="release64"></a></div>
   <div class="webinar">
-  <b>Topic:Release 64 Webinar</b>
-    <br>
+  <b>Topic:</b> Release 64 Webinar<br>
   <b>Date:</b> Thursday July 20th, 2023<br>
   <b>Time:</b> 10AM US Eastern Time<br>
   <b>Registration:</b> Registration details will be posted 7 - 10 days prior to the webinar. <br>
