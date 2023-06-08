@@ -118,7 +118,7 @@ th.recording {
 <b>Participation</b>: If you would like, please submit feedback or questions to be discussed during the webinar/conference call and datasets suggestions to include in our databases, completing this <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsSCTfab0oJw3i4dkz6i9a3M7jx6IWnlaSZxd4srKBdyDKKg/viewform">webform</a></b>. Alternatively, you can also participate live during the event.
 <br><br>
   
-<b>Registration</b>: <b><a href=https://upenn.zoom.us/meeting/register/tJYucuytpjgrHdE84lDIIfOCPFGQyGYMtW0B">Follow this link</a></b>. You will receive an automatic message with the Zoom link. 
+<b>Registration</b>: <b><a href="https://upenn.zoom.us/meeting/register/tJYucuytpjgrHdE84lDIIfOCPFGQyGYMtW0B">Follow this link</a></b>. You will receive an automatic message with the Zoom link. 
 <br><br>
   
 <b>Recordings</b>: We strongly value your participation and look forward to all your questions and feedback during our live sessions, but if you are unable to attend or would like to watch the session again,  a recording will be made available after the event.
