@@ -35,6 +35,7 @@ tags: [general]
   <b>Details:</b> For the agenda and more information follow this link: <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br>
   </div>
     
+  <hr style="width:30%; margin-left:0">  
     
   <div class="anchor"><a name="release64"></a></div>
   <div class="webinar">
