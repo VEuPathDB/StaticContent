@@ -101,7 +101,7 @@ th.recording {
 
 <p>
   
-<img style="width: 30em; margin-top: .5em; margin-left: 4em; float: right;" src="{{ "/assets/images/veu_vb_logo.png" | absolute_url }}" alt="veu_vb_logo"/>
+<img style="width: 40em; margin-top: .6em; margin-left: 6em; float: right;" src="{{ "/assets/images/veu_vb_logo.png" | absolute_url }}" alt="veu_vb_logo"/>
 <h1>2023 Ticks and mites community webinar</h1>
 <div class="static-content">
 
@@ -124,7 +124,7 @@ th.recording {
 <b>Recordings</b>: We strongly value your participation and look forward to all your questions and feedback during our live sessions, but if you are unable to attend or would like to watch the session again,  a recording will be made available after the event.
 <br><br>
   
-<b>Date and time</b>: 22nd June 2023, 10 AM US Easter Time (Convert to your location if needed <a href="https://www.thetimezoneconverter.com/"target="_blank">https://www.thetimezoneconverter.com/</a>). 
+<b>Date and time</b>: 22nd June 2023, 10 AM US Easter Time (Convert to your location if needed                                                                           <a href="https://www.thetimezoneconverter.com/">https://www.thetimezoneconverter.com/</a>). 
 <br><br>
   
 <b>Presenters</b>: Samuel Rund, PhD and Gloria I. Giraldo-Calderón, PhD, both from the University of Notre Dame (USA), Sarah A. Kelly, MSc, Imperial College London (UK), and David Roos, University of Pennsylvania (USA),  joined by other members of the VectorBase and VEuPathDB team.   
