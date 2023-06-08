@@ -99,11 +99,11 @@ th.recording {
 <p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> 
     <a href="/a/app/static-content/webinars.html">Webinars</a></p>
 
-<img style="width: 30em; margin-top: .5em; margin-left: 4em; float: right;" src="{{ "/assets/images/bv_veupath_logo.png" | absolute_url }}" alt="bv_veupath_logo"/>
+<p>
+  
+<img style="width: 30em; margin-top: .5em; margin-left: 4em; float: right;" src="{{ "/assets/images/veu_vb_logo.png" | absolute_url }}" alt="veu_vb_logo"/>
 <h1>2023 Ticks and mites community webinar</h1>
 <div class="static-content">
-
-<p>
 
 <b>Summary</b>: This event is geared towards researchers working on ticks and mites, and might also be of interest to those working on the bacterial, viral or eukaryotic pathogens these two groups of arthropods transmit. The event will focus on highlighting data and bioinformatic tools provided by VectorBase. In addition, we welcome open discussion so we can learn about your research needs that VectorBase might be able to provide.
 <br><br>
@@ -130,7 +130,7 @@ th.recording {
 <b>Presenters</b>: Samuel Rund, PhD and Gloria I. Giraldo-Calderón, PhD, both from the University of Notre Dame (USA), Sarah A. Kelly, MSc, Imperial College London (UK), and David Roos, University of Pennsylvania (USA),  joined by other members of the VectorBase and VEuPathDB team.   
 <br><br>
 
-
+  
 <img style="width: 30em; margin-top: .5em; margin-left: 4em; float: right;" src="{{ "/assets/images/bv_veupath_logo.png" | absolute_url }}" alt="bv_veupath_logo"/>
 <h1>2022 Ticks and Tick-Borne Pathogens Open Community Webinar Series</h1>
 <div class="static-content">
