@@ -26,7 +26,7 @@ tags: [general]
   <h3>Upcoming Webinars</h3>
   <div class="contents">
 
-  <div class="anchor"><a name="release62"></a></div>
+  <div class="anchor"><a name="ticks2023"></a></div>
   <div class="webinar">
   <b>Topic:</b> 2023 Ticks and mites community webinar<br>
   <b>Date:</b> Thursday June 22nd, 2023<br>
@@ -212,6 +212,15 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Recording:</b> <a href="https://youtu.be/56eduSdIP6s" target="_blank">https://youtu.be/56eduSdIP6s</a><br>
 <b>Additional Details:</b> 
 This webinar focused on what is new in Release 57 of the VEuPathDB projects. We discussed new data sets, demonstrate searches and features, and answer questions.
+</div>
+  
+<hr style="width:30%; margin-left:0">
+<div class="anchor"><a name="ticks2022"></a></div>
+<div class="webinar">
+<b>Topic:</b>  2022 Ticks and Tick-Borne Pathogens Open Community Webinar Series<br>
+<b>Date:</b> Tuesdays, 8 March to 14 June, 2022<br>
+<b>Time:</b> 11AM US Eastern Time<br>
+<b>Recordings and details:</b> For the agenda and more information follow this link: <a href="https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html">https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html</a><br>
 </div>
 
 <hr style="width:30%; margin-left:0">
