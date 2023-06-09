@@ -47,11 +47,6 @@ tags: [general]
   </div>
 
   </div> <!--closing div contents for Upcoming Webinars -->
-    
-<h3>Previous Webinars</h3>
-  <div class="contents">  
-  If you missed any of our previous webinars feel free to explore the <a href="#previous">Previous Webinar Recordings</a>.
-  </div>
 
 <!--<hr>  ==== UPCOMING WEBINARS =============================== -->
  
