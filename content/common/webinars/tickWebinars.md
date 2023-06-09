@@ -130,6 +130,8 @@ th.recording {
 <b>Presenters</b>: Samuel Rund, PhD and Gloria I. Giraldo-Calderón, PhD, both from the University of Notre Dame (USA), Sarah A. Kelly, MSc, Imperial College London (UK), and David Roos, University of Pennsylvania (USA),  joined by other members of the VectorBase and VEuPathDB team.   
 <br><br>
 
+</div>
+
   
 <img style="width: 30em; margin-top: .5em; margin-left: 4em; float: right;" src="{{ "/assets/images/bv_veupath_logo.png" | absolute_url }}" alt="bv_veupath_logo"/>
 <h1>2022 Ticks and Tick-Borne Pathogens Open Community Webinar Series</h1>
