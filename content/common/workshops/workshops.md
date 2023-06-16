@@ -231,6 +231,7 @@ th.recording {
         <li><a href="{{'/documents/2021hinxtonfungal/VEuPathDB_ Apollo_functional_annotation_26_10_2021.pdf' | absolute_url}}">VEuPathDB/Apollo: functional annotation</a></li>
         <li><a href="{{'/documents/2021hinxtonfungal/VEuPathDB_Apollo_structural_annotation_13_02_2023.pdf' | absolute_url}}">VEuPathDB/Apollo: structural annotation</a></li>
      </ul>
+     <p><a href="{{'/documents/2023hinxtonfungal/FPG2023_Manual.pdf' | absolute_url}}">All FPG2023 workshop module exercises</a></p>
     </details>
     <br> 
 
