@@ -127,109 +127,13 @@ th.recording {
   <p>More Information: <a href="/a/app/static-content/workshopMay2023.html">Workshop information, schedule and pdf exercises</a></p>
   </div>
 
-    <h4>2023 Fungal Pathogen Genomics May 09-13, 2023</h4>
-    <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20230509/">Wellcome Connecting Science 2023 Fungal Pathogen Genomics</a><br>
-
-  <details closed>
-      <summary><b>Pre-workshop module: Gene pages and Genome browsers</b></summary>
-      <ul>
-        <li><a href="{{'/documents/2023hinxtonfungal/1_SGD_mainpage_anatomy.pdf' | absolute_url}}">SGD main page anatomy</a></li>
-        <li><a href="{{'/documents/2023hinxtonfungal/2_SGD_Gene_Pages.pdf' | absolute_url}}">SGD Gene pages</a></li>
-        <li><a href="{{'/documents/2023hinxtonfungal/3_CGD_mainpage_anatomy.pdf' | absolute_url}}">CGD main page anatomy</a></li>
-        <li><a href="{{'/documents/2023hinxtonfungal/4_CGD_Gene_Pages.pdf' | absolute_url}}">CGD Gene pages</a></li>
-        <li><a href="{{'/documents/2023hinxtonfungal/4_SGD_CGD_Browsers_JBrowse.pdf' | absolute_url}}">SGD and CGD Genome browsers JBrowse</a></li>
-        <li><a href="{{'/documents/2023hinxtonfungal/5_Anatomy_of_Ensembl_Fungi.pdf' | absolute_url}}">Anatomy of Ensembl Fungi</a></li>
-        <li><a href="{{'/documents/2023hinxtonfungal/6_Ensembl_Fungi_Genepages_genome_browser_exercises.pdf' | absolute_url}}">Ensembl Fungi: Gene pages and genome browser</a></li>
-        <li><a href="{{'/documents/2023hinxtonfungal/FungiDB_main_page.pdf' | absolute_url}}">FungiDB main page anatomy</a></li>
-        <li><a href="{{'/documents/2023hinxtonfungal/FungiDB_Exploring_the_gene_record_pages.pdf' | absolute_url}}">FungiDB site search</a></li>
-        <li><a href="{{'/documents/2023hinxtonfungal/FungiDB_Exploring_JBrowse.pdf' | absolute_url}}">FungiDB Navigating gene record pages</a></li>
-        <li><a href="{{'/documents/2023hinxtonfungal/10_AnatomyOfMycoCosm_2023.pdf' | absolute_url}}">Anatomy of JGI MycoCosm</a></li>
-     </ul>
-     <p><a href="{{'/documents/2023hinxtonfungal/FPG2023_Introductory_module.pdf' | absolute_url}}">All pre-workshop module exercises</a></p>
-    </details>
-    <details closed>
-      <summary><b>Workshop module: Data mining in FungiDB, CGD, SGD, JGI MycoCosm, and Ensembl Fungi</b></summary>
-      <ul>  
-        <li>Database Queries
-           <ul>
-            <li><a href="{{'/documents/2023hinxtonfungal/1_FungiDB_Advanced_Search_Strategies.pdf' | absolute_url}}">FungiDB: Advanced search strategies</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/2_SGD_Search_Strategies_YeastMine.pdf' | absolute_url}}">SGD: Search strategies in YeastMine</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/3_Database search_BioMart.pdf' | absolute_url}}">Ensembl Fungi: Database search in BioMart</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/3_Database search_Molecular_interactions.pdf' | absolute_url}}">Ensembl Fungi: Molecular interactions</a></li>
-           </ul>
-        </li><br>
-        <li>Database Queries: Transcriptomics and Proteomics
-           <ul>
-            <li><a href="{{'/documents/2023hinxtonfungal/1_RNAseq_data_trackhubs.pdf' | absolute_url}}">Ensembl Fungi: RNA-Seq data (trackhubs)</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/2_SGD_Expression_tools_SPELL.pdf' | absolute_url}}">SGD Expression tools: SPELL</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/3_FungiDB_Transcriptomics_Proteomics.pdf' | absolute_url}}">FungiDB: Transcriptomics and Proteomics</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/4_Assessing_gene_models_Apollo.pdf' | absolute_url}}">FungiDB: Assessing gene models in Apollo</a></li>
-           </ul>
-        </li><br>
-        <li>Database Queries: SNPs and variants
-           <ul>
-            <li><a href="{{'/documents/2023hinxtonfungal/1_SGD_Variant_Viewer.pdf' | absolute_url}}">SGD: Variant Viewer</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/2_FungiDB_SNPs_CNVs.pdf' | absolute_url}}">FungiDB: SNPs and CNVs</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/3_Ensembl_Fungi_Variation_exercises.pdf' | absolute_url}}">Ensembl Fungi: Variation exercises</a></li>
-           </ul>
-        </li><br>
-        <li>Database Queries: Comparative Genomics and Orthology, Evolutionary analysis and cross species inference
-           <ul>
-            <li><a href="{{'/documents/2023hinxtonfungal/1_Comparative genomics_WGA.pdf' | absolute_url}}">Ensembl Fungi: Comparative genomics (WGA)</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/2_MycoCosm_CAZymes.pdf' | absolute_url}}">JGI MycoCosm: CAZymes</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/3_MycoCosm_Synteny.pdf' | absolute_url}}">JGI MycoCosm: synteny</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/4_Exploring_protein_domains_clusters_in_Ensembl_and_MycoCosm.pdf' | absolute_url}}">Mining data across Ensembl Fungi and JGI MycoCosm</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/5_SGD_CGD_predicting_fungal_biology.pdf' | absolute_url}}">Predicting fungal biology with SGD/CGD</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/6_Ensembl_Evolutionary_Analysis.pdf' | absolute_url}}">Ensembl FUngi:Evolutionary Analysis</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/7_FungiDB_MycoCosm_Ensembl_JBrowse_synteny_SC_LM_revised.pdf' | absolute_url}}">Comparative genomics: FungiDB, MycoCosm, Ensembl Fungi</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/8_FungiDB_Orthology_Phyletic_Patterns.pdf' | absolute_url}}">FungiDB: Orthology and Phyletic Patterns</a></li>
-           </ul>
-        </li><br>
-        <li>Mapping RNA-Seq and SNP Data in Galaxy, Part 1
-           <ul>
-           <li><a href="{{'/documents/2023hinxtonfungal/NGS_lecture.pdf' | absolute_url}}">Introduction to Next Generation Sequencing</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/RNA_Seq_Part1.pdf' | absolute_url}}">FungiDB: RNA-Seq mapping in Galaxy, Part1</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/SNP_Mapping_1.pdf' | absolute_url}}">FungiDB: SNP mapping in Galaxy, Part1</a></li>
-           </ul>
-        </li><br>
-        <li>Database Queries: Enrichment analysis
-           <ul>
-            <li><a href="{{'/documents/2023hinxtonfungal/1_SGD_GO_Slim_Mapper.pdf' | absolute_url}}">SGD: GO Slim Mapper</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/2_CGD_GO_Term_Finder.pdf' | absolute_url}}">CGD: GO Term Finder</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/3_FungiDB_GO Enrichment.pdf' | absolute_url}}">FungiDB: GO Enrichment</a></li>
-           </ul>
-        </li><br>
-        <li>Mapping RNA-Seq and SNP Data in Galaxy, Part 2
-           <ul>
-            <li><a href="{{'/documents/2023hinxtonfungal/RNA_Seq_Galaxy_Part 2.pdf' | absolute_url}}">FUngiDB: RNA-Seq mapping in Galaxy, Part 2</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/SNP_Mapping_2.pdf' | absolute_url}}">FungiDB: SNP Mapping in Galaxy, Part 2</a></li>
-           </ul>
-        </li><br>
-        <li>Database Queries: Functional analysis: Pathways and metabolites
-           <ul>
-            <li><a href="{{'/documents/2023hinxtonfungal/1_MycoCosm_KEGG_Browser.pdf.pdf' | absolute_url}}">MycoCosm: KEGG Browser</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/2_MycoCosm_SecondaryMetabolismClusters.pdf' | absolute_url}}">MycoCosm: Secondary Metabolism Clusters Browser</a></li>
-            <li><a href="{{'/documents/2023hinxtonfungal/3_FungiDB_MycoCosm_Secondary metabolites.pdf' | absolute_url}}">FungiDB and MycoCosm: Secondary metabolites</a></li>
-          </ul>
-        </li><br>
-      </ul>
-    </details>
-
-<details closed>
-      <summary><b>Supplementary materials and resoruces</b></summary>
-      <ul>
-        <li><a href="{{'/documents/2021hinxtonfungal/JGI_ManualCuration_2023.pdf' | absolute_url}}">JGI manual curation</a></li>
-        <li><a href="{{'/documents/2021hinxtonfungal/VEuPathDB_ Apollo_functional_annotation_26_10_2021.pdf' | absolute_url}}">VEuPathDB/Apollo: functional annotation</a></li>
-        <li><a href="{{'/documents/2021hinxtonfungal/VEuPathDB_Apollo_structural_annotation_13_02_2023.pdf' | absolute_url}}">VEuPathDB/Apollo: structural annotation</a></li>
-     </ul>
-     <p><a href="{{'/documents/2023hinxtonfungal/FPG2023_Manual.pdf' | absolute_url}}">All FPG2023 workshop module exercises</a></p>
-     <p><a href="https://github.com/WCSCourses/fungpathgeno">Wellcome Connecting Science GitHub repository with all materials</a><br></p>
-
-    </details>
-    <br> 
-
+  <div class="contents">
+    <h4><a href="/a/app/static-content/fpg2023.html">2023 Fungal Pathogen Genomics May 15-19, 2023</a></h4>
+    <p>Location: Wellcome Connecting Science, Hinxton UK</p>
+  <p>More Information: <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20230509/">Course description and outline</a></p>
   </div>
-  
+
+
   <div class="contents">
     <h4><a href="/a/app/static-content/workshopOCT2022.html">FungiDB - CPS Virtual Workshop October 2022</a></h4>
    <p>Tuesday October 11th - Wednesday October 12th 2022</p>
