@@ -134,10 +134,8 @@ th.recording {
   <div class="anchor"><a name="hinxton2023"></a></div>
   <div class="workshop">
 
-  <h4>2023 Fungal Pathogen Genomics </h4>
-    This workshop was organized by the Wellcome Connecting Science - <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20230509/">
-    2023 Fungal Pathogen Genomics</a>.
-    May 09-13, 2023.<br>
+  <h4>2023 Fungal Pathogen Genomics May 09-13, 2023</h4>
+    <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20230509/">Wellcome Connecting Science 2023 Fungal Pathogen Genomics</a><br>
 
   <details closed>
       <summary><b>Pre-workshop module: Gene pages and Genome browsers</b></summary>
