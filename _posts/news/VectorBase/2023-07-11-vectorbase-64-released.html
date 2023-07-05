@@ -1,0 +1,158 @@
+---
+layout: post
+title: VectorBase 63 Released
+category: [VectorBase,VEuPathDB]
+---
+{% assign project = page.category[0] %}
+
+
+<h3>We are pleased to announce the release of {{project}} 63.</h3>
+
+<section>
+  <h3>Release 63 Webinar</h3>
+  <div style="margin-left: 3em;">
+    Join us on Thursday May 11th, 2023 at 10 am Eastern for our Release 63 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 63.  
+    <a href="https://attendee.gotowebinar.com/register/692133104611265374" target="_blank">Register here</a>  
+  </div>
+  <br>
+</section>
+
+
+<section>
+  <h3>New features in {{project}} 63</h3>
+  <div style="margin-left: 3em;">
+    <ul>
+      <li><a href="/a/app/downloads">Download Data Files BETA</a> &ndash; {{project}} has a new tool for downloading genome scale files such as genome.fasta or GFF files. Similar to other {{project}} tools, all data and files are available by default.  To limit the result, choose a value (right) for one or more categories (left).  From the filtered list, download a single file by clicking the file name, or multiple files using the check boxes and 'Dowload selected files' button. <a target="_blank" href="{{'/assets/images/news/BETAdownload.gif' | absolute_url}}">View Download Beta tutorial GIF.</a>  </li>
+   </ul>
+  </div>
+</section>
+
+<section>
+  <h3>Forthcoming Reference Genome Transition and Request for Feedback</h3>
+  <div style="margin-left: 3em;">
+    Recent updates to <a href="https://docs.google.com/spreadsheets/d/1lqzR7jJTi_NbjTp4y4DpxAilir-ndlWnH-v9NyodGm8/edit?usp=sharing" target="_blank">5 mosquito and 1 tick species</a> include new assemblies that are much less fragmented, some organized to the chromosome level. As previously announced, VectorBase is on a 12-month transition period, to move these improved assemblies as reference for all functional data alignments in these species. In the first 6 months, functional data will be aligned to both old and new assemblies. During the second 6 months, functional data alignments to the old assembly will be removed but the old assembly will remain available for comparison. At the end of 12 months, the old assembly will also be removed. If you have any feedback or questions, need help, or are not able to find your genes of interest in the new genomes, please do not hesitate to contact us <a href="/a/app/contact-us">https://vectorbase.org/vectorbase/app/contact-us</a>. 
+    
+  </div>
+</section>
+
+<section>
+  <h3>New data in {{project}} 63</h3>
+  <div style="margin-left: 3em;">
+
+  <h4>Genome Updates</h4>
+  The following genomes received annotation updates; stable IDs were assigned to genes and/or genomic sequences/chromosomes.  Old gene IDs are mapped in VectorBase and listed in the Previous Identifiers, and Aliases table on record pages. Searching for an old ID will return the new ID. For the next release, the five Anopheles genomes int he table below, will also have a new strain name.<br><br>
+  <div style="margin-left: 3em;">
+    <style>
+      #VBStableID_Bld63 table, #VBStableID_Bld63 td, #VBStableID_Bld63 th, #VBStableID_Bld63 tr {
+      text-align : center;
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      border: 1px solid black;
+      }
+      #VBStableID_Bld63 {
+      margin-left : 5 em;
+      }
+      </style> 
+      <table id="VBStableID_Bld63"> 
+      <tr>
+        <th>VectorBase Genome Version</th>
+        <th>New ID format</th>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description."><a href="/a/app/record/dataset/DS_44554a07c1"><i>Anopheles aquasalis</i> idAnoAquaMG-Q_19 </a></td>        
+        <td>gene &ndash; AAQUA_*<br>
+          chromosome &ndash; AaquGF1_*</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description."><a href="/a/app/record/dataset/DS_98703c1d88"><i>Anopheles coluzzii</i> AcolN3 idAnoColuKW18-c001_1 </a></td>        
+        <td>gene &ndash; ACON2_*<br>
+          chromosome &ndash; AcolN3_*</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description."><a href="/a/app/record/dataset/DS_13ae5590c9"><i>Anopheles darlingi</i> idAnoDarlMG-H_01 </a></td>        
+        <td>gene &ndash; ADAR2_*<br>
+          chromosome &ndash; AdarGF1_*</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description."><a href="/a/app/record/dataset/DS_f66e7aaf06"><i>Anopheles funestus</i> idAnoFuneDA-416_04 </a></td>        
+        <td>gene &ndash; AFUN2_*<br>
+          chromosome &ndash; AfunGA1_*</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description."><a href="/a/app/record/dataset/DS_b1763e2778"><i>Anopheles maculipalpis</i> idAnoMacuDA-375_x </a></td>        
+        <td>gene &ndash; AMAC_*<br>
+          chromosome &ndash; AmacGA1_*</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description."><a href="/a/app/record/dataset/DS_fd6142455b"><i>Dermacentor andersoni</i> qqDerAnde1</a></td>        
+        <td>gene &ndash; DAND_*</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description."><a href="/a/app/record/dataset/DS_504e4f68d0"><i>Dermacentor silvarum</i> Dsil-2018 </a></td>        
+        <td>gene &ndash; DSIL_*</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description."><a href="/a/app/record/dataset/DS_c3e414cbf3"><i>Glossina fuscipes</i> IAEA 2018 </a></td>        
+        <td>gene &ndash; GFUI18_*</td>
+      </tr>
+      </table>
+  </div>
+    <br>
+
+  <h4>RNA Sequence</h4>
+  <div style="margin-left: 3em;">
+    <ul>      
+      <li><i>Culex quinquefasciatus</i> JHB 2020</li>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_63c532f040">Non-blood-feeding (NBF) and post-blood-feeding (PBF) female antennae transcriptomes </a>&ndash; Transcriptomes of non-blood-feeding (NBF) and post-blood-feeding (PBF) antennae (olfactory system), from female mosquitoes 3-5 days after eclosion. <a href="http://www.ncbi.nlm.nih.gov/pubmed/35130307" target="_blank">Gu et al. 2022</a>. </li>
+      </ul>
+      
+      <li><i>Ixodes scapularis</i> PalLabHiFi</li>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_6c5155583b">Ix. ricinus cell line IRE11 (aligned to Ix. scapularis) </a>&ndash; Unpublished transcriptome sequencing of Ixodes ricinus IRE11 cell line <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA238785" target="_blank">PRJNA238785</a>. </li>
+        <li><a href="/a/app/record/dataset/DS_f3b029c20a">Midgut transcriptome following SelK knockdown in Borrelia burgdorferi-infected ticks </a>&ndash; Transcriptomes of treated <i>Ixodes scapularis</i> adult females infected wih <i>Borrelia burgdorferi</i> feeding for 5 days. <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531218" target="_blank">PRJNA531218</a>. </li>
+        <li><a href="/a/app/record/dataset/DS_292d01dce7">Tick Cell Line ISE6 RNA-Seq</a>&ndash; Unpublished transcriptome sequencing of <i>Ixodes scapularis</i> ISE6 cell line. These data were reloaded using all biological replicates available in the sequence read archive. <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA238753" target="_blank">PRJNA238753
+        </a>. </li>
+      </ul>
+
+      <li><i>Rhipicephalus sanguineus</i> Rsan-2018</li>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_6086c77397">Tick Cell Line RSE8 RNA-Seq </a>&ndash; Tick Cell Line RSE8 RNA-Seq. <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA238793" target="_blank">PRJNA238793</a>. </li>
+      </ul>      
+    </ul>
+  </div>
+    <br>
+
+  <h4>Population Biology</h4>
+  <div style="margin-left: 3em;">
+    14 projects have been updated (usually to fix minor data issues):<br/>
+    <ul>
+      <li>Comparative analysis of response to selection with three insecticides in the dengue mosquito Aedes aegypti using mRNA sequencing. (VBP0000121: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000121_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000121">view on map</a>, 0 collections, 4 samples, 0 phenotypes, 0 genotypes)</li>
+      <li>Anopheles gambiae (s.l.) is found where few are looking : assessing mosquito diversity and density outside inhabited areas using diverse sampling methods (VBP0000714: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000714_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000714">view on map</a>, 268 collections, 5816 samples, 0 phenotypes, 0 genotypes)</li>
+      <li>First detection of a Vssc allele V1016G conferring a high level of insecticide resistance in Aedes albopictus collected from Europe (Italy) and Asia (Vietnam), 2016: a new emerging threat to controlling arboviral diseases (VBP0000370: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000370_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000370">view on map</a>, 6 collections, 300 samples, 2 phenotypes, 2051 genotypes)</li>
+      <li>Distribution of the Anopheles coluzzii and Anopheles gambiae s.s from Freetown and Monrovia and kdr resistance allele, West Africa (VBP0000016: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000016_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000016">view on map</a>, 9 collections, 294 samples, 0 phenotypes, 186 genotypes)</li>
+      <li>Genetic Structure of a Local Population of the Anopheles gambiae Complex in Burkina Faso (VBP0000124: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000124_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000124">view on map</a>, 422 collections, 422 samples, 0 phenotypes, 1266 genotypes)</li>
+      <li>Insecticide resistance is mediated by multiple mechanisms in recently introduced Aedes aegypti from Madeira Island (Portugal) (VBP0000195: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000195_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000195">view on map</a>, 16 collections, 16 samples, 8 phenotypes, 32 genotypes)</li>
+      <li>Dynamics of pyrethroid resistance in malaria vectors in southern Benin following a large scale implementation of vector control interventions (VBP0000150: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000150_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000150">view on map</a>, 184 collections, 184 samples, 59 phenotypes, 224 genotypes)</li>
+      <li>Knockdown Resistance (kdr) Mutations in Indian
+      Anopheles stephensi (Diptera: Culicidae) Populations (VBP0000225: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000225_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000225">view on map</a>, 9 collections, 9 samples, 2 phenotypes, 15 genotypes)</li>
+      <li>Insecticide susceptibility of Anopheles stephensi to DDT and current insecticides in an elimination area in Iran. (VBP0000157: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000157_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000157">view on map</a>, 1 collections, 11 samples, 11 phenotypes, 0 genotypes)</li>
+      <li>Insecticide resistance status of Aedes aegypti in 10 localities in Colombia (VBP0000127: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000127_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000127">view on map</a>, 10 collections, 20 samples, 109 phenotypes, 0 genotypes)</li>
+      <li>Phenotypic and genotypic pyrethroid resistance of Aedes albopictus, with focus on the 2017 chikungunya outbreak in Italy (VBP0000445: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000445_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000445">view on map</a>, 25 collections, 345 samples, 27 phenotypes, 1422 genotypes)</li>
+      <li>Current insecticide resistance status in Anopheles sacharovi and Anopheles superpictus populations in former malaria endemic areas of Turkey (VBP0000444: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000444_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000444">view on map</a>, 28 collections, 82 samples, 444 phenotypes, 0 genotypes)</li>
+      <li>Multiple mechanisms of resistance to pyrethroids in Anopheles gambiae s.l populations in Niger (VBP0000196: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000196_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000196">view on map</a>, 7 collections, 63 samples, 52 phenotypes, 0 genotypes)</li>
+      <li>Local selection in the presence of high levels of gene flow: Evidence of heterogeneous insecticide selection pressure across Ugandan Culex quinquefasciatus populations (VBP0000205: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=PopBio_Study_VBP0000205_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000205">view on map</a>, 5 collections, 542 samples, 0 phenotypes, 10170 genotypes)</li>
+    </ul>
+  </div>
+  <br>
+  </div>  
+</section>
+
+<section>
+  <aside>
+    <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>
+
