@@ -1,0 +1,120 @@
+---
+categories: []
+layout: post
+title: PlasmoDB 63 Released
+category: [PlasmoDB,VEuPathDB]
+---
+{% assign project = page.category[0] %}
+
+
+<h3>We are pleased to announce the release of {{project}} 63.</h3>
+
+<section>
+  <h3>Release 63 Webinar</h3>
+  <div style="margin-left: 3em;">
+    Join us on Thursday May 11th, 2023 at 10 am Eastern for our Release 63 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 63.  
+    <a href="https://attendee.gotowebinar.com/register/692133104611265374" target="_blank">Register here</a>  
+  </div>
+  <br>
+</section>
+
+
+<section>
+  <h3>New data in {{project}} 63</h3>
+  <div style="margin-left: 3em;">
+    <h4>Whole Genome Sequencing</h4>
+    <div style="margin-left: 3em;">
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_19e0b85ea6">WGS of Pfal isolates from French Guiana during a period of malaria decline (paired-end)</a> &ndash; Paired-end whole genome sequencing of 144 isolates from a dataset containing 148 <i>P. falciparum</i> isolates (blood or culture) from patients. Samples were collected between 1998 and 2015. <a href="http://www.ncbi.nlm.nih.gov/pubmed/35867831">Early et al. 2022</a>.</li>
+
+        <li><a href="/a/app/record/dataset/DS_24c55944e8">WGS of Pfal isolates from French Guiana during a period of malaria decline (single-end)</a> &ndash; Whole genome sequencing (single-end) of 3 <i>P. falciparum</i> isolates (blood or culture) from patients. Samples were collected between 1998 and 2015. <a href="http://www.ncbi.nlm.nih.gov/pubmed/35867831">Early et al. 2022</a>.</li>
+      </ul>
+    </div>
+      <br> 
+
+    <h4>Updated Functional Annotation</h4>
+    <div style="margin-left: 3em;">
+      <p><a href="https://docs.google.com/spreadsheets/d/1uJWzfC5Jo69k-a-VbmbkkIo7GUAVhJBXVCTnBRBtwBc/edit#gid=1112700546" target="_blank">Summary of annotation updates</a> which include products, GO terms, gene names, synonyms and PMID. </p>
+      
+      <style>
+      #FunctAnnot_Bld63 table, #FunctAnnot_Bld63 td, #FunctAnnot_Bld63 th, #FunctAnnot_Bld63 tr {
+      text-align : center;
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      border: 1px solid black;
+      }
+      #FunctAnnot_Bld63 {
+      margin-left : 5 em;
+      }
+      </style> 
+      <table id="FunctAnnot_Bld63"> 
+      <tr>
+        <th>PlasmoDB Genome Version</th>
+        <th>Genes Updated</th>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_f2d80510c7"><i>P. berghei</i> ANKA </a></td>
+        <td>26 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_5dab6e4a9f"><i>P. chabaudi</i> AS </a></td>
+        <td>15 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_1d17c1883c"><i>P. falciparum</i> 3D7 </a></td>
+        <td>36 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_22b4dadc51"><i>P. gallinaceum</i> 8A </a></td>
+        <td>14 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_8793a259f4"><i>P. knowlesi</i> H </a></td>
+        <td>15 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_3986a0b578"><i>P. malariae</i> UG01 </a></td>
+        <td>15 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_99a2d5bf10"><i>P. ovale curtisi</i> GH01 </a></td>
+        <td>15 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_91fa338f8f"><i>P. reichenowi</i> CDC </a></td>
+        <td>15 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_c3f289d21a"><i>P. relictum</i> SGS1 </a></td>
+        <td>15 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_ad07e73d42"><i>P. vivax</i> P01 </a></td>
+        <td>16 genes</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on PlasmoDB."><a href="/a/app/record/dataset/DS_b5a76b5939"><i>P. yoelii yoelii</i> 17X </a></td>
+        <td>26 genes</td>
+      </tr>
+      </table>
+    </div>
+      <br>
+  </div>
+</section>
+
+<section>
+  <h3>New features in {{project}} 63</h3>
+  <div style="margin-left: 3em;">
+    <ul>
+      <li><a href="/a/app/downloads">Download Data Files BETA</a> &ndash; {{project}} has a new tool for downloading genome scale files such as genome.fasta or GFF files. Similar to other {{project}} tools, all data and files are available by default.  To limit the result, choose a value (right) for one or more categories (left).  From the filtered list, download a single file by clicking the file name, or multiple files using the check boxes and 'Dowload selected files' button. <a target="_blank" href="{{'/assets/images/news/BETAdownload.gif' | absolute_url}}">View Download Beta tutorial GIF.</a>  </li>
+   </ul>
+  </div>
+</section>
+
+<section>
+  <aside>
+    <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>
