@@ -186,8 +186,8 @@ div.instructor-table {
           <td>University of Pennsylvania, USA</td>
         </tr>  
         <tr>
-          <td>TBD</td>
-          <td>TBD</td>
+          <td>Uli Boehme</td>
+          <td>University of Liverpool, UK</td>
         </tr>    
       </tbody>
     </table>
