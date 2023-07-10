@@ -153,7 +153,7 @@ div.instructor-table {
 
   <h2>How to apply</h2>
     <ul>
-        <li><b>Begin your application by completing the form: <a href="https://forms.gle/Fwc6FkMd3LAHWe988" target="_blank">https://forms.gle/Fwc6FkMd3LAHWe988</a>.  The form information is confidential.</b> </li>
+        <li><b>Registration: closed</b> </li>
         <li>Application deadline is July 1, 2023.</li>
     </ul> 
   <br><br>
