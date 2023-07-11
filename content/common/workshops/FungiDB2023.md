@@ -264,7 +264,7 @@ div.instructor-table {
           <td></td>
           </tr>       
           <tr>
-            <td>3:0 - 3:20 p.m.<br>
+            <td>3:00 - 3:20 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Site Search and Organism preferences (Guided hands-on exercise)</td>
             <td></td>
