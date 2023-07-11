@@ -194,7 +194,7 @@ div.instructor-table {
     </div>
   <br>
 
-    <div class="instructor-table">
+  <div class="instructor-table">
     <table>
       <thead>
         <tr>
