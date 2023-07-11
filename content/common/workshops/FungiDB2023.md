@@ -126,7 +126,7 @@ div.instructor-table {
     
     <p><h4><b>When:</b> 26 - 28 July 2023, 2:00 - 5:00 p.m. (Uganda time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <h4><b>Where:</b> Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda (first come first served basis) <b>and</b> on Zoom. The workshop will be delivered via Zoom in its entirety.</h4>          
-    <h4><b>How to apply:</b> Applications are now being accepted. <b><a href="https://tinyurl.com/fungidbworkshopACE" target="_blank">Register by completing the registration form</a></b>. Application deadline: 01 July 2023.</h4> 
+    <h4><b>How to apply:</b> Application deadline: 01 July 2023. Registration: closed</h4> 
     <p><h4>This workshop is free. Registration and internet access are required.</h4></p>   
   </div>
   
@@ -154,7 +154,7 @@ div.instructor-table {
 
   <h2>How to apply</h2>
     <ul>
-        <li>Register by completing <a href="https://tinyurl.com/fungidbworkshopACE" target="_blank">the registration form</a>.  The information submitted via the form is confidential.</li>
+        <li>Registration: closed</li>
         <li>Application deadline is 01 July, 2023.</li>
     </ul> 
   <br>
@@ -166,6 +166,11 @@ div.instructor-table {
   <h2>Computer and internet access</h2>
   The participants can attend the workshop at the Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda <b>and</b> on Zoom. The ACE computer lab has 24 seats that will be allocated on a first come first serve basis. Persons joining remotely, will need to have access to a computer and sufficient bandwidth to be able to deploy web-based searches. 
   <br><br>
+
+  <h2>Course materials and recording</h2>
+  Course materials will be made available as pdf documents. Workshop lectures and demonstrations will be recorded and posted on this website. Guided hands-on modules will not be recorded. 
+  <br><br>
+
   <h2>Instructors</h2>
   
   <div class="instructor-table">
@@ -186,8 +191,30 @@ div.instructor-table {
           <td>University of Pennsylvania, USA</td>
         </tr>  
         <tr>
-          <td>TBD</td>
-          <td>TBD</td>
+          <td>Ulrike Böhme</td>
+          <td>University of Liverpool, UK</td>
+        </tr>    
+      </tbody>
+    </table>
+    </div>
+  <br>
+
+  <div class="instructor-table">
+    <table>
+      <thead>
+        <tr>
+          <th>Co-instructor</th>
+          <th>Institution</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Fredrick Kakembo</td>
+          <td>ACE, Uganda</td>
+        </tr>  
+        <tr>
+          <td>Susanne Warrenfeltz</td>
+          <td>University of Georgia, USA</td>
         </tr>    
       </tbody>
     </table>
@@ -197,8 +224,9 @@ div.instructor-table {
   
   <div class="anchor"><a name="Schedule"></a></div>
   <details open>
-    <summary><b>Schedule</b> </summary>  
-    <br><br>
+    <summary><b>Schedule</b> </summary>
+    <p> Zoom channel will open 15 min prior to the workshop start and will remain open for 30 min after the workshop ended for any additional questions from the audience.</p> 
+    <br>
     <table class="hor-minimalist-a">
         <thead>
           <tr>
@@ -236,7 +264,7 @@ div.instructor-table {
           <td></td>
           </tr>       
           <tr>
-            <td>3:0 - 3:20 p.m.<br>
+            <td>3:00 - 3:20 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Site Search and Organism preferences (Guided hands-on exercise)</td>
             <td></td>
