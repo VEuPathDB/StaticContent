@@ -186,7 +186,33 @@ div.instructor-table {
           <td>University of Pennsylvania, USA</td>
         </tr>  
         <tr>
-          <td>Uli Boehme</td>
+          <td>Ulrike Böhme</td>
+          <td>University of Liverpool, UK</td>
+        </tr>    
+      </tbody>
+    </table>
+    </div>
+  <br>
+
+    <div class="instructor-table">
+    <table>
+      <thead>
+        <tr>
+          <th>Co-instructor</th>
+          <th>Institution</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Fredrick Kakembo</td>
+          <td>ACE, Uganda</td>
+        </tr>  
+        <tr>
+          <td>Susanne Warrenfeltz</td>
+          <td>University of Georgia, USA</td>
+        </tr>  
+        <tr>
+          <td>Ulrike Böhme</td>
           <td>University of Liverpool, UK</td>
         </tr>    
       </tbody>
