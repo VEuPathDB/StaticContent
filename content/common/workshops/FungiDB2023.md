@@ -226,7 +226,7 @@ div.instructor-table {
   <details open>
     <summary><b>Schedule</b> </summary>
     <p> Zoom channel will open 15 min prior to the workshop start and will remain open for 30 min after the workshop ended for any additional questions from the audience.</p> 
-    <br><br>
+    <br>
     <table class="hor-minimalist-a">
         <thead>
           <tr>
