@@ -154,7 +154,7 @@ div.instructor-table {
 
   <h2>How to apply</h2>
     <ul>
-        <li>Register by completing <a href="https://tinyurl.com/fungidbworkshopACE" target="_blank">the registration form</a>.  The information submitted via the form is confidential.</li>
+        <li>Registration is closed.</li>
         <li>Application deadline is 01 July, 2023.</li>
     </ul> 
   <br>
@@ -211,10 +211,6 @@ div.instructor-table {
           <td>Susanne Warrenfeltz</td>
           <td>University of Georgia, USA</td>
         </tr>  
-        <tr>
-          <td>Ulrike Böhme</td>
-          <td>University of Liverpool, UK</td>
-        </tr>    
       </tbody>
     </table>
     </div>
