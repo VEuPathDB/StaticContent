@@ -167,7 +167,7 @@ div.instructor-table {
   The participants can attend the workshop at the Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda <b>and</b> on Zoom. The ACE computer lab has 24 seats that will be allocated on a first come first serve basis. Persons joining remotely, will need to have access to a computer and sufficient bandwidth to be able to deploy web-based searches. 
   <br><br>
 
-  <h2>Course materials and recording</h2>h2>
+  <h2>Course materials and recording</h2>
   Course materials will be made available as pdf documents. Workshop lectures and demonstrations will be recorded and posted on this website. Guided hands-on modules will not be recorded. 
   <br><br>
   
