@@ -358,7 +358,7 @@ div.instructor-table {
           <tr>
             <td>3:30 - 4:00 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Orthology & Synteny (Guided hans-on exercise)</td>
+            <td>Orthology & Phyletic patterns (Guided hans-on exercise)</td>
            <td></td>
           </tr>
           <tr>
