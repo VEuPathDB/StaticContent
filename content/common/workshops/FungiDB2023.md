@@ -358,13 +358,13 @@ div.instructor-table {
           <tr>
             <td>3:30 - 4:00 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Orthology & Synteny (Guided hans-on exercise)</td>
+            <td>Orthology & Phyletic patterns (Guided hans-on exercise)</td>
            <td></td>
           </tr>
           <tr>
             <td>4:00 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>VEuPathDB Galaxy and My workspace in FungiDB</td>
+            <td>VEuPathDB Galaxy and My workspace in FungiDB (Demonstration)</td>
            <td></td>
           </tr>
         </tbody>
