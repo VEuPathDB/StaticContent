@@ -118,10 +118,10 @@ th.recording {
 <b>Participation</b>: If you would like, please submit feedback or questions to be discussed during the webinar/conference call and datasets suggestions to include in our databases, completing this <b><a href="https://forms.gle/1Cvun8EryjHeTjsc8">webform</a></b>. Alternatively, you can also participate live during the event.
 <br><br>
   
-<b>Registration</b>: <b><a href="https://upenn.zoom.us/meeting/register/tJYucuytpjgrHdE84lDIIfOCPFGQyGYMtW0B">Follow this link</a></b>. You will receive an automatic message with the Zoom link. 
+<b>Registration</b>: Registration is now closed.
 <br><br>
   
-<b>Recordings</b>: We strongly value your participation and look forward to all your questions and feedback during our live sessions, but if you are unable to attend or would like to watch the session again,  a recording will be made available after the event.
+<b>Recordings</b>: We strongly value your participation and look forward to all your questions and feedback during our live sessions, but if you are unable to attend or would like to watch the session again, the recording is  available here: <b><a href="https://youtu.be/6yapXQ8QaqE">https://youtu.be/6yapXQ8QaqE</a></b>
 <br><br>
   
 <b>Date and time</b>: 22nd June 2023, 10 AM US Easter Time (Convert to your location if needed                                                                           <a href="https://www.thetimezoneconverter.com/">https://www.thetimezoneconverter.com/</a>). 
@@ -146,6 +146,9 @@ th.recording {
 <b>Audience</b>: The webinar series is free and open to all scientists from any career stage who may benefit from the BRCs.<br><br>
   
 <b>Participation</b>: If you would like, please submit feedback or questions to be discussed during the webinars and, datasets suggestions to include in our databases, completing this <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsSCTfab0oJw3i4dkz6i9a3M7jx6IWnlaSZxd4srKBdyDKKg/viewform">webform</a></b>. Alternatively, you can also participate live during the webinar.<br><br>
+
+<b>Registration</b>: Registration is now closed.
+<br><br>
   
 <b>Recordings</b>: We strongly value your participation and are looking forward to all your questions and feedback during our live sessions, but if you are unable to attend or would like to watch a session again, they will all be recorded and made available here. <br><br>
 
