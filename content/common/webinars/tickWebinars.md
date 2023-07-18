@@ -121,7 +121,8 @@ th.recording {
 <b>Registration</b>: Registration is now closed.
 <br><br>
   
-<b>Recordings</b>: We strongly value your participation and look forward to all your questions and feedback during our live sessions, but if you are unable to attend or would like to watch the session again, the recording is  available here: <b><a href="https://youtu.be/6yapXQ8QaqE">https://youtu.be/6yapXQ8QaqE</a></b>
+<b>Recordings</b>: We strongly value your participation and look forward to all your questions and feedback during our live sessions, but if you are unable to attend or would like to watch the session again, the recording is  available here: 
+<iframe width="180" height="115" src="https://youtu.be/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
   
 <b>Date and time</b>: 22nd June 2023, 10 AM US Easter Time (Convert to your location if needed                                                                           <a href="https://www.thetimezoneconverter.com/">https://www.thetimezoneconverter.com/</a>). 
