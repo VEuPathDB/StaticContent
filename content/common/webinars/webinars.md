@@ -25,15 +25,6 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div class="contents">
-
-  <div class="anchor"><a name="ticks2023"></a></div>
-  <div class="webinar">
-  <b>Topic:</b> 2023 Ticks and mites community webinar<br>
-  <b>Date:</b> Thursday June 22nd, 2023<br>
-  <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJYucuytpjgrHdE84lDIIfOCPFGQyGYMtW0B">https://upenn.zoom.us/meeting/register/tJYucuytpjgrHdE84lDIIfOCPFGQyGYMtW0B</a> <br>
-  <b>Details:</b> For the agenda and more information follow this link: <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br>
-  </div>
     
   <hr style="width:30%; margin-left:0">  
     
@@ -42,7 +33,7 @@ tags: [general]
   <b>Topic:</b> Release 64 Webinar<br>
   <b>Date:</b> Thursday July 20th, 2023<br>
   <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> Registration details will be posted 7 - 10 days prior to the webinar. <br>
+  <b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/4226674862077131357">https://attendee.gotowebinar.com/register/4226674862077131357</a> <br>
   <b>Details:</b> This webinar will focus on what is new in Release 64 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
   </div>
 
@@ -76,6 +67,15 @@ Release webinar dates are subject to change due to production issues that may ar
 <h3>Previous Webinar Recordings</h3>
 
 <div class="contents">
+
+<div class="anchor"><a name="ticks2023"></a></div>
+  <div class="webinar">
+  <b>Topic:</b> 2023 Ticks and mites community webinar<br>
+  <b>Date:</b> Thursday June 22nd, 2023<br>
+  <b>Time:</b> 10AM US Eastern Time<br>
+  <b>Recording:</b> <a href="https://youtu.be/6yapXQ8QaqE" target="_blank">https://youtu.be/6yapXQ8QaqE</a> <br>
+  <b>Details:</b> For the agenda and more information follow this link: <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br>
+  </div>
 
 <hr style="width:30%; margin-left:0">  
 <div class="anchor"><a name="generecordpages"></a></div>
