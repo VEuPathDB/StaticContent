@@ -121,14 +121,14 @@ th.recording {
 <b>Registration</b>: Registration is now closed.
 <br><br>
   
-<b>Recordings</b>: We strongly value your participation and look forward to all your questions and feedback during our live sessions, but if you are unable to attend or would like to watch the session again, the recording is  available here: 
-<iframe width="180" height="115" src="https://youtu.be/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-  
 <b>Date and time</b>: 22nd June 2023, 10 AM US Easter Time (Convert to your location if needed                                                                           <a href="https://www.thetimezoneconverter.com/">https://www.thetimezoneconverter.com/</a>). 
 <br><br>
   
 <b>Presenters</b>: Samuel Rund, PhD and Gloria I. Giraldo-Calderón, PhD, both from the University of Notre Dame (USA), Sarah A. Kelly, MSc, Imperial College London (UK), and David Roos, University of Pennsylvania (USA),  joined by other members of the VectorBase and VEuPathDB team.   
+<br><br>
+
+<b>Recording</b>: We strongly value your participation and look forward to all your questions and feedback during our live session, but if you are unable to attend or would like to watch the session again, the recording is  available here: 
+<iframe width="180" height="115" src="https://youtu.be/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 </div>
