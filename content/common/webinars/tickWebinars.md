@@ -105,11 +105,11 @@ th.recording {
 <h1>2023 Ticks and mites community webinar</h1>
 <div class="static-content">
 
-<b>Summary</b>: This event is geared towards researchers working on ticks and mites, and might also be of interest to those working on the bacterial, viral or eukaryotic pathogens these two groups of arthropods transmit. The event will focus on highlighting data and bioinformatic tools provided by VectorBase. In addition, we welcome open discussion so we can learn about your research needs that VectorBase might be able to provide.
+<b>Summary</b>: This event is geared towards researchers working on ticks and mites, and might also be of interest to those working on the bacterial, viral, or eukaryotic pathogens these two groups of arthropods transmit. The event will focus on highlighting data and bioinformatic tools provided by VectorBase. In addition, we welcome open discussion so we can learn about your research needs that VectorBase might be able to provide.
 <br><br>
   
  
-<b>Structure</b>: Demo of latest tools, data functionality. Open forum discussion. Opportunity to provide dataset suggestions, tool suggestions, data analysis issues. This is a single session scheduled for 1h.
+<b>Structure</b>: Demo of latest tools, data functionality. Open forum discussion. Opportunity to provide dataset suggestions, tool suggestions, and data analysis issues. This is a single session scheduled for 1h.
 <br><br>
   
 <b>Audience</b>: The webinar/conference call is free and open to all scientists from any career stage who may benefit from VectorBase.
@@ -118,10 +118,10 @@ th.recording {
 <b>Participation</b>: If you would like, please submit feedback or questions to be discussed during the webinar/conference call and datasets suggestions to include in our databases, completing this <b><a href="https://forms.gle/1Cvun8EryjHeTjsc8">webform</a></b>. Alternatively, you can also participate live during the event.
 <br><br>
   
-<b>Registration</b>: <b><a href="https://upenn.zoom.us/meeting/register/tJYucuytpjgrHdE84lDIIfOCPFGQyGYMtW0B">Follow this link</a></b>. You will receive an automatic message with the Zoom link. 
+<b>Registration</b>: Registration is now closed.
 <br><br>
   
-<b>Recordings</b>: We strongly value your participation and look forward to all your questions and feedback during our live sessions, but if you are unable to attend or would like to watch the session again,  a recording will be made available after the event.
+<b>Recordings</b>: We strongly value your participation and look forward to all your questions and feedback during our live sessions, but if you are unable to attend or would like to watch the session again, the recording is  available here: <b><a href="https://youtu.be/6yapXQ8QaqE">https://youtu.be/6yapXQ8QaqE</a></b>
 <br><br>
   
 <b>Date and time</b>: 22nd June 2023, 10 AM US Easter Time (Convert to your location if needed                                                                           <a href="https://www.thetimezoneconverter.com/">https://www.thetimezoneconverter.com/</a>). 
@@ -139,19 +139,22 @@ th.recording {
 
 <p>
 
-<b>Summary</b>: This webinar series is geared towards researchers working on ticks and the bacterial, viral or eukaryotic pathogens they transmit. The webinars will focus on highlighting data and bioinformatic tools provided by the NIAID bioinformatic resource centers (BRCs), VEuPathDB and BV-BRC. In addition, we welcome open discussion during the webinars so we can learn about your research needs the the BRCs might be able to provide.<br><br>
+<b>Summary</b>: This webinar series is geared towards researchers working on ticks and the bacterial, viral, or eukaryotic pathogens they transmit. The webinars will focus on highlighting data and bioinformatic tools provided by the NIAID bioinformatic resource centers (BRCs), VEuPathDB, and BV-BRC. In addition, we welcome open discussion during the webinars so we can learn about your research needs that the BRCs might be able to provide.<br><br>
 
-<b>Structure</b>: Demo of latest tools, data functionality. Open forum discussion. Opportunity to provide dataset suggestions, tool suggestions, data analysis issues. Each session is scheduled for 1h.<br><br>
+<b>Structure</b>: Demo of latest tools, data functionality. Open forum discussion. Opportunity to provide dataset suggestions, tool suggestions, and data analysis issues. Each session is scheduled for 1h.<br><br>
 
 <b>Audience</b>: The webinar series is free and open to all scientists from any career stage who may benefit from the BRCs.<br><br>
   
 <b>Participation</b>: If you would like, please submit feedback or questions to be discussed during the webinars and, datasets suggestions to include in our databases, completing this <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsSCTfab0oJw3i4dkz6i9a3M7jx6IWnlaSZxd4srKBdyDKKg/viewform">webform</a></b>. Alternatively, you can also participate live during the webinar.<br><br>
+
+<b>Registration</b>: Registration is now closed.
+<br><br>
   
 <b>Recordings</b>: We strongly value your participation and are looking forward to all your questions and feedback during our live sessions, but if you are unable to attend or would like to watch a session again, they will all be recorded and made available here. <br><br>
 
  </p>
 
-<p>All times in this schedule are given as Eastern Daylight time. Please
+<p>All times in this schedule are given as Eastern Daylight Time. Please
         convert to your location <a href="https://www.thetimezoneconverter.com/"
           target="_blank">https://www.thetimezoneconverter.com/</a>.</p>
 <table class="hor-minimalist-a">
