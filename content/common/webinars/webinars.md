@@ -93,8 +93,7 @@ tags: [general]
   <b>Time:</b> 10AM US Eastern Time<br>
   <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
   <b>Details:</b> This webinar will focus on what is new in Release 71 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-  </div>    
-  <hr style="width:30%; margin-left:0">
+  </div>
 
   </div> <!--closing div contents for Upcoming Webinars -->
 
