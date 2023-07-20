@@ -25,17 +25,76 @@ tags: [general]
 
   <h3>Upcoming Webinars</h3>
   <div class="contents">
-    
-  <hr style="width:30%; margin-left:0">  
-    
-  <div class="anchor"><a name="release64"></a></div>
+
+  <div class="anchor"><a name="release65"></a></div>
   <div class="webinar">
-  <b>Topic:</b> Release 64 Webinar<br>
-  <b>Date:</b> Thursday July 20th, 2023<br>
+  <b>Topic:</b> Release 65 Webinar<br>
+  <b>Date:</b> Thursday Sept 21st, 2023<br>
   <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/4226674862077131357">https://attendee.gotowebinar.com/register/4226674862077131357</a> <br>
-  <b>Details:</b> This webinar will focus on what is new in Release 64 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-  </div>
+  <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
+  <b>Details:</b> This webinar will focus on what is new in Release 65 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+  </div>    
+  <hr style="width:30%; margin-left:0">  
+
+  <div class="anchor"><a name="release66"></a></div>
+  <div class="webinar">
+  <b>Topic:</b> Release 66 Webinar<br>
+  <b>Date:</b> Tuesday Nov 28rd, 2023<br>
+  <b>Time:</b> 10AM US Eastern Time<br>
+  <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
+  <b>Details:</b> This webinar will focus on what is new in Release 66 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+  </div>    
+  <hr style="width:30%; margin-left:0">
+
+  <div class="anchor"><a name="release67"></a></div>
+  <div class="webinar">
+  <b>Topic:</b> Release 67 Webinar<br>
+  <b>Date:</b> Thursday Feb 15th, 2024<br>
+  <b>Time:</b> 10AM US Eastern Time<br>
+  <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
+  <b>Details:</b> This webinar will focus on what is new in Release 67 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+  </div>    
+  <hr style="width:30%; margin-left:0">
+
+  <div class="anchor"><a name="release68"></a></div>
+  <div class="webinar">
+  <b>Topic:</b> Release 68 Webinar<br>
+  <b>Date:</b> Thursday April 18th, 2024<br>
+  <b>Time:</b> 10AM US Eastern Time<br>
+  <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
+  <b>Details:</b> This webinar will focus on what is new in Release 68 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+  </div>    
+  <hr style="width:30%; margin-left:0">
+
+  <div class="anchor"><a name="release69"></a></div>
+  <div class="webinar">
+  <b>Topic:</b> Release 69 Webinar<br>
+  <b>Date:</b> Thursday June 20th, 2024<br>
+  <b>Time:</b> 10AM US Eastern Time<br>
+  <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
+  <b>Details:</b> This webinar will focus on what is new in Release 69 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+  </div>    
+  <hr style="width:30%; margin-left:0">
+
+  <div class="anchor"><a name="release69"></a></div>
+  <div class="webinar">
+  <b>Topic:</b> Release 70 Webinar<br>
+  <b>Date:</b> Thursday Aug 22th, 2024<br>
+  <b>Time:</b> 10AM US Eastern Time<br>
+  <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
+  <b>Details:</b> This webinar will focus on what is new in Release 70 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+  </div>    
+  <hr style="width:30%; margin-left:0">
+
+  <div class="anchor"><a name="release69"></a></div>
+  <div class="webinar">
+  <b>Topic:</b> Release 71 Webinar<br>
+  <b>Date:</b> Thursday Oct 24th, 2024<br>
+  <b>Time:</b> 10AM US Eastern Time<br>
+  <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
+  <b>Details:</b> This webinar will focus on what is new in Release 71 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+  </div>    
+  <hr style="width:30%; margin-left:0">
 
   </div> <!--closing div contents for Upcoming Webinars -->
 
@@ -67,6 +126,15 @@ Release webinar dates are subject to change due to production issues that may ar
 <h3>Previous Webinar Recordings</h3>
 
 <div class="contents">
+
+<div class="anchor"><a name="release64"></a></div>
+  <div class="webinar">
+  <b>Topic:</b> Release 64 Webinar<br>
+  <b>Date:</b> Thursday July 20th, 2023<br>
+  <b>Time:</b> 10AM US Eastern Time<br>
+  <b>Recording:</b> <a href="https://youtu.be/varDu6ZkI40">https://youtu.be/varDu6ZkI40</a> <br>
+  <b>Details:</b> This webinar will focus on what is new in Release 64 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+  </div>
 
 <div class="anchor"><a name="ticks2023"></a></div>
   <div class="webinar">
