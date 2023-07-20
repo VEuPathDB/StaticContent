@@ -134,6 +134,7 @@ Release webinar dates are subject to change due to production issues that may ar
   <b>Recording:</b> <a href="https://youtu.be/varDu6ZkI40">https://youtu.be/varDu6ZkI40</a> <br>
   <b>Details:</b> This webinar will focus on what is new in Release 64 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
   </div>
+  <hr style="width:30%; margin-left:0">  
 
 <div class="anchor"><a name="ticks2023"></a></div>
   <div class="webinar">
@@ -143,8 +144,8 @@ Release webinar dates are subject to change due to production issues that may ar
   <b>Recording:</b> <a href="https://youtu.be/6yapXQ8QaqE" target="_blank">https://youtu.be/6yapXQ8QaqE</a> <br>
   <b>Details:</b> For the agenda and more information follow this link: <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br>
   </div>
+  <hr style="width:30%; margin-left:0"> 
 
-<hr style="width:30%; margin-left:0">  
 <div class="anchor"><a name="generecordpages"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 63 Webinar<br>
@@ -153,8 +154,8 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Recording:</b> <a href="https://youtu.be/vbm7AgIKvgI" target="_blank">https://youtu.be/vbm7AgIKvgI</a> <br>
 <b>Details:</b> This webinar offered an overview of the new data and features in Release 63.  
 </div>
-
 <hr style="width:30%; margin-left:0">  
+
 <div class="anchor"><a name="generecordpages"></a></div>
 <div class="webinar">
 <b>Topic:</b> Deep dive into VEuPathDB gene record pages<br>
@@ -163,9 +164,8 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Recording:</b> <a href="https://youtu.be/-OJAFsWAy9Q" target="_blank">https://youtu.be/-OJAFsWAy9Q</a> <br>
 <b>Details:</b> This webinar will focus on the content and features of gene record pages.
 </div>
-
-
 <hr style="width:30%; margin-left:0"> 
+
 <div class="anchor"><a name="toxoannotation"></a></div>
 <div class="webinar">
 <b>Topic:</b> VEuPathDB Community Annotation Webinar with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation<br>
@@ -179,8 +179,8 @@ Release webinar dates are subject to change due to production issues that may ar
 <li>solicit feedback from the community … about individual genes, ToxoDB, or other questions you may have for the VEuPathDB team</li>
 </ul>
 </div>
-  
 <hr style="width:30%; margin-left:0">  
+
 <div class="anchor"><a name="release62"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 62 Webinar<br>
@@ -189,8 +189,8 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Recording:</b> <a href="https://youtu.be/2KHOjE3POXo" target="_blank">https://youtu.be/2KHOjE3POXo</a> <br>
 <b>Details:</b> This webinar will focus on what is new in Release 62 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 </div>
-
 <hr style="width:30%; margin-left:0">
+
 <div class="anchor"><a name="Enrich2023"></a></div>
 <div class="webinar">
 <b>Topic:</b> Enrichment Analysis Tools in VEuPathDB<br>
@@ -204,9 +204,8 @@ Release webinar dates are subject to change due to production issues that may ar
 </ul>
 <b>Additional Details:</b> This webinar will focus on the post-searches enrichment tools.  Functional enrichment are never far away from the gene result in VEuPathDB sites.  Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. 
 </div>
-  
-
 <hr style="width:30%; margin-left:0"> 
+
 <div class="anchor"><a name="#Strats2023"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Search Strategy System<br>
@@ -214,8 +213,8 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Recording:</b> <a href="https://youtu.be/ipJ3FCYodCw" target="_blank">https://youtu.be/ipJ3FCYodCw</a> <br>
 <b>Additional Details:</b> This webinar focused on the search strategy system.  We presented a general background, demonstrated the preconfigured searches with an emphasis on how to use the system to answer your own biological questions or support your own hypotheses.<br>
 </div>
-
 <hr style="width:30%; margin-left:0">
+
 <div class="anchor"><a name="release61"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 61 Webinar<br>
@@ -224,8 +223,8 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Recording:</b> <a href="https://youtu.be/B-XZ8LWf220" target="_blank">https://youtu.be/B-XZ8LWf220</a> <br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 61 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
 </div>
-
 <hr style="width:30%; margin-left:0">
+
 <div class="anchor"><a name="release60"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 60 Webinar<br>
@@ -234,17 +233,17 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Recording:</b> <a href="https://youtu.be/JqYu2ug9PWo" target="_blank">https://youtu.be/JqYu2ug9PWo</a> <br>
 <b>Additional Details:</b> This webinar focused on new data and features in Release 60 of the VEuPathDB projects.
 </div>
-
 <hr style="width:30%; margin-left:0">
+
 <div class="anchor"><a name="release59"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 59 Webinar<br>
 <b>Date:</b> Thursday September 15th, 2022<br>
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording:</b> <a href="https://youtu.be/PqYCrWFptCs">https://youtu.be/PqYCrWFptCs</a>
-</div>
-  
+</div>  
 <hr style="width:30%; margin-left:0">
+
 <div class="anchor"><a name="release58"></a></div>
 <div class="webinar">
 <b>Topic:</b> Release 58 Webinar<br>
@@ -252,9 +251,9 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Time:</b> 10AM US Eastern Time<br>
 <b>Recording:</b> <a href="https://youtu.be/9bXMZQr1myU" target="_blank">https://youtu.be/9bXMZQr1myU</a><br>
 <b>Additional Details:</b> This webinar will focus on what is new in Release 58 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-</div>
-  
+</div>  
 <hr style="width:30%; margin-left:0">
+
 <div class="anchor"><a name="apollo2022"></a></div>
 <div class="webinar">
 <b>Topic:</b> VEuPathDB Apollo annotation and curation<br>
