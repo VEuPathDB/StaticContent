@@ -129,7 +129,7 @@ th.recording {
 
 <b>Recording</b>: We strongly value your participation and look forward to all your questions and feedback during our live session, but if you are unable to attend or would like to watch the session again, the recording is  available here: <a href="https://youtu.be/6yapXQ8QaqE">https://youtu.be/6yapXQ8QaqE</a>
 <br><br>
-<iframe width="180" height="115" src="https://youtu.be/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="180" height="115" src="https://www.youtube.com/embed/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 </div>
