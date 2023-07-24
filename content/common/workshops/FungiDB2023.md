@@ -301,7 +301,7 @@ div.instructor-table {
                 ACE computer lab and Zoom</td>
             <td>Advanced search strategies, cont. (Guided hands-on exercises)</td>
             <td><br>
-              <a  target="_blank" href="{{'/documents/CACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategie II</a><br></td>
+              <a  target="_blank" href="{{'/documents/CACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies, cont. </a><br></td>
           </tr>
           <tr>
             <td>3:30 - 3:40 p.m.<br>
