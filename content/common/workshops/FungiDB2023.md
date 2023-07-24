@@ -304,15 +304,9 @@ div.instructor-table {
            <td></td>
           </tr>
           <tr>
-            <td>3:40 -4:00 p.m.<br>
+            <td>3:40 - 4:30 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Exploring gene pages (Guided hands-on exercise)</td>
-           <td></td>
-          </tr>
-          <tr>
-            <td>4:00 p 4:30 p.m.<br>
-                ACE computer lab and Zoom</td>
-            <td>Exploring evidence in JBrowse (Guided hands-on exercise)</td>
+            <td>Exploring gene pages & JBrowse (Guided hands-on exercise)</td>
            <td></td>
           </tr>
           <tr>
