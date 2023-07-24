@@ -348,7 +348,8 @@ div.instructor-table {
             <td>2:20 - 3:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>GO enrichment analysis (Guided hands-on exercise)</td>
-            <td></td>
+            <td><br>
+              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}">GO enrichment analysis</a><br></td>
           </tr>
          <tr>
             <td>3:00 - 3:30 p.m.<br>
@@ -360,7 +361,8 @@ div.instructor-table {
             <td>3:30 - 4:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Orthology & Phyletic patterns (Guided hans-on exercise)</td>
-           <td></td>
+           <td><br>
+              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}">Orthology & Phyletic patterns</a><br></td>
           </tr>
           <tr>
             <td>4:00 - 5:00 p.m.<br>
