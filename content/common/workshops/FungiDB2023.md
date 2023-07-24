@@ -256,7 +256,7 @@ div.instructor-table {
                 ACE computer lab and Zoom</td>
             <td>Introduction to FungiDB.org (Demonstration)</td>
             <td><br>
-              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}">FungiDB main page tutorial</a><br><br>
+              <a  target="_blank" href="{{'/documents/ACE2023/Main_page.pdf' | absolute_url}}">FungiDB main page tutorial</a><br><br>
               <!--  <<iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
           </tr> 
           <tr>
@@ -270,15 +270,15 @@ div.instructor-table {
                 ACE computer lab and Zoom</td>
             <td>Site Search and Organism preferences (Guided hands-on exercise)</td>
             <td><br>
-              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}">Site Search and Organism Preferences</a><br></td>
+              <a  target="_blank" href="{{'/documents/ACE2023/Site_search_org_pref.pdf' | absolute_url}}">Site Search and Organism Preferences</a><br></td>
           </tr>
           <tr>
             <td>3:20 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Advanced search strategies in FungiDB and HostDB.org</td>
            <td><br>
-              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}">Advanced search strategie I</a><br>
-              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}">Advanced search strategie II</a><br></td>
+              <a  target="_blank" href="{{'/documents/ACE2023/Advanced_search_strategy.pdf' | absolute_url}}">Advanced search strategie I</a><br>
+              <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategie II</a><br></td>
           </tr>
         </tbody>
       </table>
@@ -301,7 +301,7 @@ div.instructor-table {
                 ACE computer lab and Zoom</td>
             <td>Advanced search strategies, cont. (Guided hands-on exercises)</td>
             <td><br>
-              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}">Advanced search strategie II</a><br></td>
+              <a  target="_blank" href="{{'/documents/CACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategie II</a><br></td>
           </tr>
           <tr>
             <td>3:30 - 3:40 p.m.<br>
@@ -312,9 +312,9 @@ div.instructor-table {
           <tr>
             <td>3:40 - 4:30 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Exploring gene pages (Guided hands-on exercise)</td>
+            <td>Exploring gene pages & JBrowse (Guided hands-on exercise)</td>
            <td><br>
-              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}">Gene pages and JBrowse</a><br></td>
+              <a  target="_blank" href="{{'/documents/ACE2023/Gene_pages_JBrowse.pdf' | absolute_url}}">Gene pages and JBrowse</a><br></td>
           </tr>
           <tr>
             <td>4:30 - 5:00 p.m.<br>
@@ -349,7 +349,7 @@ div.instructor-table {
                 ACE computer lab and Zoom</td>
             <td>GO enrichment analysis (Guided hands-on exercise)</td>
             <td><br>
-              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}">GO enrichment analysis</a><br></td>
+              <a  target="_blank" href="{{'/documents/ACE2023/GO_Enrichment.pdf' | absolute_url}}">GO enrichment analysis</a><br></td>
           </tr>
          <tr>
             <td>3:00 - 3:30 p.m.<br>
@@ -362,7 +362,7 @@ div.instructor-table {
                 ACE computer lab and Zoom</td>
             <td>Orthology & Phyletic patterns (Guided hans-on exercise)</td>
            <td><br>
-              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}">Orthology & Phyletic patterns</a><br></td>
+              <a  target="_blank" href="{{'/documents/ACE2023/Orthology_Phyletic_patterns.pdf' | absolute_url}}">Orthology & Phyletic patterns</a><br></td>
           </tr>
           <tr>
             <td>4:00 - 5:00 p.m.<br>
