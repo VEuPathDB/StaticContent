@@ -249,31 +249,36 @@ div.instructor-table {
             <td>2:05 - 2:35 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>General introduction into VEuPathDB resources (Demonstration)</td>
-           <td></td>
+           <td><!--  <iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
           </tr>    
           <tr>
             <td>2:35 - 2:45 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Introduction to FungiDB.org (Demonstration)</td>
-            <td></td>
+            <td><br>
+              <a  target="_blank" href="{{'/documents/ACE2023/Main_page.pdf' | absolute_url}}">FungiDB main page tutorial</a><br><br>
+              <!--  <<iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
           </tr> 
           <tr>
             <td>2:45 - 3:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Introduction to site search and search strategies (Demonstration) </td>
-          <td></td>
+          <td><!--  <iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
           </tr>       
           <tr>
             <td>3:00 - 3:20 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Site Search and Organism preferences (Guided hands-on exercise)</td>
-            <td></td>
+            <td><br>
+              <a  target="_blank" href="{{'/documents/ACE2023/Site_search_org_pref.pdf' | absolute_url}}">Site Search and Organism Preferences</a><br></td>
           </tr>
           <tr>
             <td>3:20 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Advanced search strategies in FungiDB and HostDB.org</td>
-           <td></td>
+           <td><br>
+              <a  target="_blank" href="{{'/documents/ACE2023/Advanced_search_strategy.pdf' | absolute_url}}">Advanced search strategies I</a><br>
+              <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies II</a><br></td>
           </tr>
         </tbody>
       </table>
@@ -295,25 +300,27 @@ div.instructor-table {
             <td>2:00 - 3:30 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Advanced search strategies, cont. (Guided hands-on exercises)</td>
-            <td></td>
+            <td><br>
+              <a  target="_blank" href="{{'/documents/CACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategie II</a><br></td>
           </tr>
           <tr>
             <td>3:30 - 3:40 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Gene pages and JBrowse (Demonstration)</td>
-           <td></td>
+           <td><!--  <iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
           </tr>
           <tr>
             <td>3:40 - 4:30 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Exploring gene pages & JBrowse (Guided hands-on exercise)</td>
-           <td></td>
+           <td><br>
+              <a  target="_blank" href="{{'/documents/ACE2023/Gene_pages_JBrowse.pdf' | absolute_url}}">Gene pages and JBrowse</a><br></td>
           </tr>
           <tr>
             <td>4:30 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>How to improve gene models in Apollo, a structural and functional annotation platform (Demonstration)</td>
-            <td></td>
+            <td><!--  <iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
           </tr>
         </tbody>
       </table>
@@ -334,32 +341,34 @@ div.instructor-table {
           <tr>
             <td>2:00 - 2:20 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Ontologies, Enrichment analysis, metabolic pathways (Lecture & Demonstration)</td>
-            <td></td>
+            <td>Ontologies, Enrichment analysis, metabolic pathways (Demonstration)</td>
+            <td><!--  <iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
           </tr>
           <tr>
             <td>2:20 - 3:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>GO enrichment analysis (Guided hands-on exercise)</td>
-            <td></td>
+            <td><br>
+              <a  target="_blank" href="{{'/documents/ACE2023/GO_Enrichment.pdf' | absolute_url}}">GO enrichment analysis</a><br></td>
           </tr>
          <tr>
             <td>3:00 - 3:30 p.m.<br>
                 ACE computer lab and Zoom</td>
-            <td>Orthology and Synteny (Lecture & Demonstration)</td>
-          <td></td>
+            <td>Orthology and Synteny (Demonstration)</td>
+          <td><!--  <iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
           </tr>
           <tr>
             <td>3:30 - 4:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Orthology & Phyletic patterns (Guided hans-on exercise)</td>
-           <td></td>
+           <td><br>
+              <a  target="_blank" href="{{'/documents/ACE2023/Orthology_Phyletic_patterns.pdf' | absolute_url}}">Orthology & Phyletic patterns</a><br></td>
           </tr>
           <tr>
             <td>4:00 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>VEuPathDB Galaxy and My workspace in FungiDB (Demonstration)</td>
-           <td></td>
+           <td><!--  <iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
           </tr>
         </tbody>
       </table>
