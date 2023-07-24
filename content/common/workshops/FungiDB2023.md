@@ -277,8 +277,8 @@ div.instructor-table {
                 ACE computer lab and Zoom</td>
             <td>Advanced search strategies in FungiDB and HostDB.org</td>
            <td><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/Advanced_search_strategy.pdf' | absolute_url}}">Advanced search strategie I</a><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategie II</a><br></td>
+              <a  target="_blank" href="{{'/documents/ACE2023/Advanced_search_strategy.pdf' | absolute_url}}">Advanced search strategies I</a><br>
+              <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies II</a><br></td>
           </tr>
         </tbody>
       </table>
