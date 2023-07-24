@@ -301,7 +301,7 @@ div.instructor-table {
                 ACE computer lab and Zoom</td>
             <td>Advanced search strategies, cont. (Guided hands-on exercises)</td>
             <td><br>
-              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}"><b>Site Search, Organism Preferences, Search strategies I</b></a><br></td>
+              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}">Advanced search strategie II</a><br></td>
           </tr>
           <tr>
             <td>3:30 - 3:40 p.m.<br>
@@ -310,17 +310,11 @@ div.instructor-table {
            <td><!--  <iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
           </tr>
           <tr>
-            <td>3:40 -4:00 p.m.<br>
+            <td>3:40 - 4:30 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Exploring gene pages (Guided hands-on exercise)</td>
-           <td></td>
-          </tr>
-          <tr>
-            <td>4:00 p 4:30 p.m.<br>
-                ACE computer lab and Zoom</td>
-            <td>Exploring evidence in JBrowse (Guided hands-on exercise)</td>
            <td><br>
-              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}"><b>Site Search, Organism Preferences, Search strategies I</b></a><br></td>
+              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}">Gene pages and JBrowse</a><br></td>
           </tr>
           <tr>
             <td>4:30 - 5:00 p.m.<br>
