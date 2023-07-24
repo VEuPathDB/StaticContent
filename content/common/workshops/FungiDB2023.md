@@ -256,7 +256,7 @@ div.instructor-table {
                 ACE computer lab and Zoom</td>
             <td>Introduction to FungiDB.org (Demonstration)</td>
             <td><br>
-              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}"><b>Site Search, Organism Preferences, Search strategies I</b></a><br>
+              <a  target="_blank" href="{{'/documents/CPS2022/Day1_SiteSearch_OrgPref_SearchStrategies.pdf' | absolute_url}}">FungiDB main page</a><br>
               <iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr> 
           <tr>
