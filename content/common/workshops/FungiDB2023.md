@@ -210,7 +210,7 @@ div.instructor-table {
       <tbody>
         <tr>
           <td>Fredrick Kakembo</td>
-          <td>ACE, Uganda</td>
+          <td>African Centers of Excellence in Bioinformatics, Uganda</td>
         </tr>  
         <tr>
           <td>Susanne Warrenfeltz</td>
