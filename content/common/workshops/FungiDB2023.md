@@ -213,6 +213,10 @@ div.instructor-table {
           <td>African Centers of Excellence in Bioinformatics, Uganda</td>
         </tr>  
         <tr>
+          <td>Nupur Kittur</td>
+          <td>University of Georgia, USA</td>
+        </tr>    
+        <tr>
           <td>Susanne Warrenfeltz</td>
           <td>University of Georgia, USA</td>
         </tr>    
