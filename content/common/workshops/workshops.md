@@ -102,7 +102,14 @@ th.recording {
 
   <h3>Upcoming Workshops</h3>
  
-  <div class="contents">
+  
+  
+
+  <hr>
+  
+  <h3>Previous Workshops</h3>
+
+<div class="contents">
     <h4><a href="/a/app/static-content/FungiDBworkshop2023.html">FungiDB - ACE (Uganda) workshop (virtual) July 26-28, 2023</a></h4>
    <p>Times (Uganda time): 2:00pm - 5:00pm daily</p>
    <p>Location: Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda and on Zoom</p>
@@ -115,13 +122,8 @@ th.recording {
    <p>Times: Tuesday, June 27th 9:00am &ndash; Thursday, June 29th 3:00pm 2023</p>
    <p>Location: The University of Liverpool, Liverpool, United Kingdom</p>
   <p>More Information: <a href="/a/app/static-content/workshopUOL2023.html">Workshop information and schedule tbc</a></p>
-  </div>
+  </div>  
   
-
-  <hr>
-  
-  <h3>Previous Workshops</h3>
-
   <div class="contents">
     <h4><a href="/a/app/static-content/workshopMay2023.html">VEuPathDB Workshop (In Person) May 15-19, 2023</a></h4>
    <p>Times: Monday, May 15th 4:00pm &ndash; Friday, May 19th 1:00pm 2023</p>
