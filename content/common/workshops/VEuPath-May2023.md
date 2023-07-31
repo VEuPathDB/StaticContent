@@ -228,7 +228,7 @@ div.photowrapper {
 
 
   <div class="anchor"><a name="Schedule"></a></div>
-  <details closed>
+  <details open>
     <summary><b>Schedule</b> </summary>  
     <br><br>
     <b><a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></b>
@@ -263,7 +263,7 @@ div.photowrapper {
             <td>5 - 6 p.m.<br>
                 Coverdell 175</td>
             <td>Attendee Introductions: Each attendee introduces themselves and presents a one-slide summary of their work. </td>
-            <td>Everyone</td>
+            <td></td>
             <td></td>
           </tr>       
           <tr>
@@ -318,7 +318,7 @@ div.photowrapper {
                 Gene Page exercise</td>
             <td>Susanne Warrenfeltz</td>
             <td>
-            <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/1_SiteSearch_PlasmoDB_UGA23.pdf' | absolute_url}}"><b>Site Search</b></a><br>            
+            <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/1_SiteSearch_PlasmoDB_UGA23.pdf' | absolute_url}}"><b>Site Search</b></a><br><br>            
             <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/2_Exploring_the_Gene_Page_UGA23.pdf' | absolute_url}}"><b>Exploring the Gene Page</b></a></td>
           </tr>
           <tr>
@@ -333,7 +333,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Strategies 1 exercise </td>
             <td>Susanne Warrenfeltz</td>
-            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/3_Strategies_basic_SHORT_UGA23.pdf' | absolute_url}}"><b>Strategies 1</b></a><br>            
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/3_Strategies_basic_SHORT_UGA23.pdf' | absolute_url}}"><b>Strategies 1</b></a><br><br>            
             <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/3_Strategies_basic_LONG_UGA23.pdf' | absolute_url}}"><b>Strategies 1 Long Form</b></a></td>
           </tr>
           <tr>
@@ -348,7 +348,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>JBrowse Basics</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/4_JBrowseBasics_UGA23.pdf' | absolute_url}}"><b>JBrowse Basics</b></a></td>
           </tr>
           <tr>
             <td>2:15 p.m.<br>
@@ -369,14 +369,16 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Leveraging omics data to explore gene models in JBrowse exercise</td>
             <td></td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/5_Leverage_Omics_Gene_Model_UGA23.pdf' | absolute_url}}"><b>Leveraging Omics Data to Evaluate Gene Models</b></a></td>
           </tr>
           <tr>
             <td>4:45 p.m.<br>
                 Life Sciences C128</td>
             <td>Motifs and Domains</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/6_Motifs_UGA23.pdf' | absolute_url}}"><b>Motifs and Domains</b></a>
+            <br><br>
+            <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/RegularExpression_Harb.pdf' | absolute_url}}"><b>Motifs and Domains RegEx Lecture Slides</b></a></td>
           </tr>
           <tr>
             <td>5:30 p.m.<br>
@@ -428,7 +430,9 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Expression searches exercises</td>
             <td></td>
-            <td></td>
+            <td>
+            <a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/7_Transcriptomics_UGA23.pdf' | absolute_url}}"><b>Transcriptomics</b></a><br><br>
+            <a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/8_Proteomics_UGA23.pdf' | absolute_url}}"><b>Proteomics</b></a></td>
           </tr>
           <tr>
             <td>10:15 a.m.<br>
@@ -442,14 +446,14 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Single-cell RNA Seq lecture</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/scRNAseq_Harb.pdf'| absolute_url}}"><b>scRNASeq Lecture Slides</b></a></td>
           </tr>
           <tr>
             <td>10:50 a.m.<br>
                 Life Sciences C128</td>
             <td>Single-cell RNA Seq exercise</td>
             <td></td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/9_scRNAseq_UGA23.docx.pdf' | absolute_url}}"><b>Single Cell Exercise</b></a></td>
           </tr>
           <tr>
             <td>12:00 p.m.<br>
@@ -463,7 +467,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>RNA-Seq basics lecture</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/VEuPathDB_RNAseq_lecture_harb.pdf' | absolute_url}}"><b>Bulk-RNA Seq Lecture Slides</b></a></td>
           </tr>
           <tr>
             <td>1:45 p.m.<br>
@@ -484,7 +488,8 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Galaxy RNA Seq analysis - data import</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/10_RNAseq_Mapping_Galaxy_part1_UGA23.pdf' | absolute_url}}"><b>Galaxy Data Import and Workflow Start</b></a><br><br>
+            <a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/RNAseq groups.pdf' | absolute_url}}"><b>RNASeq Groups</b></a></td>
           </tr>
           <tr>
             <td>3:00 p.m.<br>
@@ -498,8 +503,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Adjourn</td>
             <td></td>
-            <td></td>
-          </tr>
+            <td><a target="_blank" href="{{'/documents/2023athens/Day2_Exercises/GO_Term_Presentation_Harb.pdf' | absolute_url}}"><b>GO Term Lecture slides</b></a></td>
         </tbody>
       </table>
      <br>
@@ -535,7 +539,8 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Galaxy RNA Seq analysis - review results</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td>
+            <a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/11_RNAseq_Mapping_Galaxy_part2_UGA23.pdf' | absolute_url}}"><b>Galaxy Part 2: Review Results</b></a></td>
           </tr>
           <tr>
             <td>10:30 a.m.<br>
@@ -556,7 +561,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Orthology exercise</td>
             <td></td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/12_Orthology-Phyletic-Patterns_UGA23.pdf' | absolute_url}}"><b>Orthology Exercise</b></a></td>
           </tr>
           <tr>
             <td>12:15 p.m.<br>
@@ -570,7 +575,10 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Exploring HostDB</td>
             <td>Susanne Warrenfeltz</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/13_HostDB_UGA23.pdf' | absolute_url}}"><b>Exploring HostDB</b></a>
+            <br><br>
+            <a  target="_blank" href="https://www.nature.com/articles/nrmicro2852"><b>Dual RNA-seq of pathogen and host. Westermann et al. 2012</b></a>            
+            </td>
           </tr>
           <tr>
             <td>2:45 p.m.<br>
@@ -584,7 +592,7 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Search Strategies - exercise 2</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/14_Strategies2_UGA23.pdf' | absolute_url}}"><b>Strategies 2: Think about it</b></a></td>
           </tr>
           <tr>
             <td>4:00 p.m.<br>
@@ -649,14 +657,14 @@ div.photowrapper {
                 Life Sciences C128</td>
             <td>Group Presentations </td>
             <td></td>
-            <td></td>
+            <td><a target="_blank" href="http://tinyurl.com/27rm864p"><b>http://tinyurl.com/27rm864p</b></a></td>
           </tr>
           <tr>
             <td>12:00 p.m.<br>
                 Life Sciences C128</td>
             <td>Adjourn, boxed lunch-to-go provided.</td>
             <td></td>
-            <td></td>
+            <td><a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_exNzIoUNwn9hzkW" target="_blank"><b>Workshop Feedback Survey</b></a></td>
           </tr>
         </tbody>
       </table>
@@ -668,6 +676,10 @@ div.photowrapper {
   <details closed>
     <summary><b>Directory</b> </summary>  
     <div class="photowrapper">
+      <div>
+        <img src="{{'/documents/2023athens/Photos/group-post.jpg' | absolute_url}}" />
+        <br>2023 VEuPathDB Workshop
+        <br>University of Georgia, Athens GA</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Aylla.jpg' | absolute_url}}" />
         <br>Aylla Ermland
