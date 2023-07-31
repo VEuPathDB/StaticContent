@@ -35,6 +35,12 @@ table {
   margin-top: 1em;
   border-collapse: collapse;
 }
+/*
+table, th, td {
+  border: 1px solid black;
+  padding: 0.5em;
+}
+*/
 tr.break td {
   background-color: #DCDCDC;
 }
@@ -143,7 +149,7 @@ div.photowrapper {
   <div class="anchor"><a name="workshopSept2022"></a></div>
   <div class="workshop">
   
-  <h2>About the workshop</h2>
+  <p><h2>About the workshop</h2></p>
   <p>Instructors will describe and demonstrate the VEuPathDB tools and features that are powerful resources for your hypothesis driven research.  Short lectures will precede hands-on exercises where discussion and conversation are encouraged. The objective is for attendees to leave with an understanding of the breadth of data available, how to effectively use VEuPathDB resources to mine the available data, and to use preconfigured workflows to analyze unintegrated data. If you come with questions about your own research, we are happy to accomodate individual instruction, usually outside workshop hours.  Since VEuPathDB resources mirror each other, workshop exercises can be applied on any component site including AmoebaDB, CryptoDB, FungiDB, GiardiaDB, HostDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB, and VectorBase.  </p>
 
   <p>Expected learning objectives:</p>
@@ -164,6 +170,13 @@ div.photowrapper {
     <br>
 
   <h2>Applications are closed.</h2>
+  <!--
+    <ul>
+        <li><b>Begin your application by completing the form: <a href="https://forms.gle/Vbhds6Z7PJQdyEKX7" target="_blank">https://forms.gle/Vbhds6Z7PJQdyEKX7</a>.  The form information is confidential.</b> </li>
+        <li>Arrange for letters of recommendation to be emailed to jckadmin@uga.edu.  Postdocs, students and staff should have two (2) letters of recommendation emailed by the application deadline (February 10, 2023). Principal investigators applying to the workshop are not required to have recommendation letters sent in support of their applications. </li>
+        <li>Application deadline is Friday Feb 10, 2023.</li>
+    </ul> 
+  <br><br>-->
       
   <h2>Cost and fees</h2>
   The workshop is free and VEuPathDB pays for housing on the nights of Monday May 15 - Thursday May 18, with an extra night before and after for international travelers, if needed. The opening reception dinner (Monday evening May 15th, 2023) as well as breakfast and lunch on May 16 - 19th are also provided free of charge.  Attendees are expected to pay travel expenses, lodging expenses outside the workshop window, and dinners on Tuesday - Thursday. 
@@ -202,7 +215,7 @@ div.photowrapper {
         </tr>
       </tbody>
     </table>
-  </div>
+    </div>
   <br>
 
   <h2>Questions</h2>
@@ -219,8 +232,6 @@ div.photowrapper {
     <summary><b>Schedule</b> </summary>  
     <br><br>
     <b><a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></b>
-
-
     <table class="hor-minimalist-a">
         <thead>
           <tr>
@@ -264,16 +275,9 @@ div.photowrapper {
           </tr>
         </tbody>
       </table>
-
-
-
       <br>
       <br>       
- 
-
-
-
-     <table class="hor-minimalist-a">
+      <table class="hor-minimalist-a">
         <thead>
           <tr>
             <th colspan="4" class="break"><b>Tuesday, 16th May 2023</b></th>
@@ -387,21 +391,284 @@ div.photowrapper {
       </table>
       <br>
       <br>    
-
-
      <br>
      <br>
-
-
-
+     <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th colspan="4" class="break"><b>Thursday, May 18th May 2023</b></th>
+          </tr>
+          <tr>
+            <th class="time">Time (Eastern) and location</th>
+            <th class="event">Topic </th>
+            <th class="author">Instructor</th>
+            <th class="recording">Exercise pdf</th>
+          </tr>
+        </thead>
+        <tbody>      
+          <tr>
+            <td>7 - 8:00 a.m.</td>
+            <td>Breakfast available in the hotel</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>8:00 a.m.<br>
+                Springhill Suites</td>
+            <td>leave from hotel</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>8:30 a.m.<br>
+                Life Sciences C128</td>
+            <td>Galaxy RNA Seq analysis - review results</td>
+            <td>Omar Harb</td>
+            <td>
+            <a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/11_RNAseq_Mapping_Galaxy_part2_UGA23.pdf' | absolute_url}}"><b>Galaxy Part 2: Review Results</b></a></td>
+          </tr>
+          <tr>
+            <td>10:30 a.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:50 a.m.<br>
+                Life Sciences C128</td>
+            <td>Orthology lecture</td>
+            <td>Jessica Kissinger</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:15 a.m.<br>
+                Life Sciences C128</td>
+            <td>Orthology exercise</td>
+            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/12_Orthology-Phyletic-Patterns_UGA23.pdf' | absolute_url}}"><b>Orthology Exercise</b></a></td>
+          </tr>
+          <tr>
+            <td>12:15 p.m.<br>
+                Life Sciences B116</td>
+            <td>Lunch provided</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:15 p.m.<br>
+                Life Sciences C128</td>
+            <td>Exploring HostDB</td>
+            <td>Susanne Warrenfeltz</td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/13_HostDB_UGA23.pdf' | absolute_url}}"><b>Exploring HostDB</b></a>
+            <br><br>
+            <a  target="_blank" href="https://www.nature.com/articles/nrmicro2852"><b>Dual RNA-seq of pathogen and host. Westermann et al. 2012</b></a>            
+            </td>
+          </tr>
+          <tr>
+            <td>2:45 p.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>3 p.m.<br>
+                Life Sciences C128</td>
+            <td>Search Strategies - exercise 2</td>
+            <td>Omar Harb</td>
+            <td><a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/14_Strategies2_UGA23.pdf' | absolute_url}}"><b>Strategies 2: Think about it</b></a></td>
+          </tr>
+          <tr>
+            <td>4:00 p.m.<br>
+                Life Sciences C128</td>
+            <td>Group exercise - define a question and use VEuPathDB to help answer it</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>5:30 p.m.<br>
+                Life Sciences C128</td>
+            <td>Adjourn</td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
       <br>
       <br>
-
-
+    <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th colspan="4" class="break"><b>Friday, May 19th May 2023</b></th>
+          </tr>
+          <tr>
+            <th class="time">Time (Eastern) and location</th>
+            <th class="event">Topic </th>
+            <th class="author">Instructor</th>
+            <th class="recording">Exercise pdf</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>7 - 8:00 a.m.</td>
+            <td>Breakfast available in the hotel</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>8:00 a.m.<br>
+                Springhill suites</td>
+            <td>Leave hotel lobby</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>8:30 a.m.<br>
+                Life Sciences C128</td>
+            <td>Group exercise continued</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>9:45 a.m.<br>
+                Life Sciences B116</td>
+            <td>Coffee as needed starting at 9:45 a.m.</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:00 a.m.<br>
+                Life Sciences C128</td>
+            <td>Group Presentations </td>
+            <td></td>
+            <td><a target="_blank" href="http://tinyurl.com/27rm864p"><b>http://tinyurl.com/27rm864p</b></a></td>
+          </tr>
+          <tr>
+            <td>12:00 p.m.<br>
+                Life Sciences C128</td>
+            <td>Adjourn, boxed lunch-to-go provided.</td>
+            <td></td>
+            <td><a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_exNzIoUNwn9hzkW" target="_blank"><b>Workshop Feedback Survey</b></a></td>
+          </tr>
+        </tbody>
+      </table>
       <br>
       <br>
     </details>        
 
+  <div class="anchor"><a name="Directory"></a></div>
+  <details closed>
+    <summary><b>Directory</b> </summary>  
+    <div class="photowrapper">
+      <div>
+        <img src="{{'/documents/2023athens/Photos/group-post.jpg' | absolute_url}}" />
+        <br>2023 VEuPathDB Workshop
+        <br>University of Georgia, Athens GA</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Aylla.jpg' | absolute_url}}" />
+        <br>Aylla Ermland
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Wenthe.jpg' | absolute_url}}" />
+        <br>Betsy Wenthe
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Carrie_portrait.jpeg' | absolute_url}}" />
+        <br>Carrie Hetzel
+        <br>Harvard Medical School</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Charani_Karunathilake.jpg' | absolute_url}}" />
+        <br>Charani Karunathilake
+        <br>Faculty of Medicine, University of Colombo</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Carol_Vieira.JPG' | absolute_url}}" />
+        <br>Carolina Vieira
+        <br>University of the State of Rio de Janeiro</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/CorinneFargo_Headshot.jpg' | absolute_url}}" />
+        <br>Corinne Fargo
+        <br>Oregon Health & Science University</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Fiifi.jpg' | absolute_url}}" />
+        <br>Fiifi Agyabeng-Dadzie
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/girish-photo.png' | absolute_url}}" />
+        <br>Girish Rachakonda
+        <br>Meharry Medical College</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/HeeKyoungKang.jpg' | absolute_url}}" />
+        <br>Heekyoung Kang
+        <br>Seoul National University</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Huai_Chuang.jpg' | absolute_url}}" />
+        <br>Huai Chuang
+        <br>Nagasaki University</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Jessica_Kissinger.jpg' | absolute_url}}" />
+        <br>Jessica Kissinger, instructor
+        <br>University of Georgia </div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/JuanCarlosGabaldon_photo.png' | absolute_url}}" />
+        <br>Juan Carlos Gabaldon
+        <br>Barcelona Institute for Global Health (ISGlobal)</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Juliana_Hoyos.png' | absolute_url}}" />
+        <br>Juliana Hoyos
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Kingsley_Bentum.jpg' | absolute_url}}" />
+        <br>Kinglsey Bentum
+        <br>Tuskegee University</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Lautaro_Natali.jpg' | absolute_url}}" />
+        <br>Lautaro Natali
+        <br>Mercedes and Martin Ferreyra Institute for Medical Research</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/LaysTrajano.JPEG' | absolute_url}}" />
+        <br>Lays Trajano
+        <br>University of Sao Paulo – Institute of Biomedical Science II</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/luiz_Vasconcelos.JPG' | absolute_url}}" />
+        <br>Luiz Vasconcelos
+        <br>Fiocruz/Carlos Chagas Institute (Brazil), University of GEorgia</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Monica_Vargas.jpeg' | absolute_url}}" />
+        <br>Monica Vargas
+        <br>University of Quindio</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Nupur_Kittur.jpeg' | absolute_url}}" />
+        <br>Nupur Kittur
+        <br>University of Georgia</div>
+    <div>
+        <img src="{{'/documents/2023athens/Photos/Omar_Harb.jpeg' | absolute_url}}" />
+        <br>Omar Harb, instructor
+        <br>University of Pennsylvania</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Susanne_Warrenfeltz_crop.jpg' | absolute_url}}" />
+        <br>Susanne Warrenfeltz, instructor
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Stefani_Piedrahita.jpg' | absolute_url}}" />
+        <br>Stefani Piedrahita
+        <br>Universidad de Antioquia</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/vikky_photo.jpg' | absolute_url}}" />
+        <br>Dr. Vikky
+        <br>Clemson University</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Wayne_Cheng.jpg' | absolute_url}}" />
+        <br>Wayne Cheng
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Wei_Hsin-Ho.jpg' | absolute_url}}" />
+        <br>Wei Hsin-Ho
+        <br>Bowling Green State University
+        </div>
+    </div>
+
+  </details>
 
   </div>  <!-- class workshop -->
 
