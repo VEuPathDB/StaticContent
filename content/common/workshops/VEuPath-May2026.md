@@ -610,62 +610,8 @@ div.photowrapper {
       </table>
       <br>
       <br>
-    <table class="hor-minimalist-a">
-        <thead>
-          <tr>
-            <th colspan="4" class="break"><b>Friday, May 19th May 2023</b></th>
-          </tr>
-          <tr>
-            <th class="time">Time (Eastern) and location</th>
-            <th class="event">Topic </th>
-            <th class="author">Instructor</th>
-            <th class="recording">Exercise pdf</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>7 - 8:00 a.m.</td>
-            <td>Breakfast available in the hotel</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>8:00 a.m.<br>
-                Springhill suites</td>
-            <td>Leave hotel lobby</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>8:30 a.m.<br>
-                Life Sciences C128</td>
-            <td>Group exercise continued</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>9:45 a.m.<br>
-                Life Sciences B116</td>
-            <td>Coffee as needed starting at 9:45 a.m.</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>10:00 a.m.<br>
-                Life Sciences C128</td>
-            <td>Group Presentations </td>
-            <td></td>
-            <td><a target="_blank" href="http://tinyurl.com/27rm864p"><b>http://tinyurl.com/27rm864p</b></a></td>
-          </tr>
-          <tr>
-            <td>12:00 p.m.<br>
-                Life Sciences C128</td>
-            <td>Adjourn, boxed lunch-to-go provided.</td>
-            <td></td>
-            <td><a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_exNzIoUNwn9hzkW" target="_blank"><b>Workshop Feedback Survey</b></a></td>
-          </tr>
-        </tbody>
-      </table>
+
+
       <br>
       <br>
     </details>        
