@@ -504,7 +504,8 @@ div.photowrapper {
             <td>Adjourn</td>
             <td></td>
             <td><a target="_blank" href="{{'/documents/2023athens/Day2_Exercises/GO_Term_Presentation_Harb.pdf' | absolute_url}}"><b>GO Term Lecture slides</b></a></td>
-        </tbody>
+         </tr> 
+       </tbody>
       </table>
      <br>
      <br>
