@@ -347,27 +347,29 @@ div.instructor-table {
             <td>2:00 - 2:20 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Ontologies, Enrichment analysis, metabolic pathways (Demonstration)</td>
-            <td><!--  <iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
+            <td><iframe width="180" height="115" src="https://youtu.be/MVPJvWMGlkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>2:20 - 3:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>GO enrichment analysis (Guided hands-on exercise)</td>
             <td><br>
+              <iframe width="180" height="115" src="https://youtu.be/Ce9X7Umgn2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
               <a  target="_blank" href="{{'/documents/ACE2023/GO_Enrichment.pdf' | absolute_url}}">GO enrichment analysis</a><br></td>
           </tr>
          <tr>
             <td>3:00 - 3:30 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Orthology and Synteny (Demonstration)</td>
-          <td><!--  <iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
+          <td><iframe width="180" height="115" src="https://youtu.be/Ce9X7Umgn2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>3:30 - 4:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Orthology & Phyletic patterns (Guided hans-on exercise)</td>
            <td><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/Orthology_Phyletic_patterns.pdf' | absolute_url}}">Orthology & Phyletic patterns</a><br></td>
+              <a  target="_blank" href="{{'/documents/ACE2023/Orthology_Phyletic_patterns.pdf' | absolute_url}}">Orthology & Phyletic patterns</a><br>
+              </td>
           </tr>
           <tr>
             <td>4:00 - 5:00 p.m.<br>
