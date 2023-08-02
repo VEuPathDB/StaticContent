@@ -354,8 +354,7 @@ div.instructor-table {
                 ACE computer lab and Zoom</td>
             <td>GO enrichment analysis (Guided hands-on exercise)</td>
             <td><br>
-              <iframe width="180" height="115" src="https://youtu.be/Ce9X7Umgn2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/GO_Enrichment.pdf' | absolute_url}}">GO enrichment analysis</a><br></td>
+                <a  target="_blank" href="{{'/documents/ACE2023/GO_Enrichment.pdf' | absolute_url}}">GO enrichment analysis</a><br></td>
           </tr>
          <tr>
             <td>3:00 - 3:30 p.m.<br>
