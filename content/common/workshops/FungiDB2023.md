@@ -261,7 +261,7 @@ div.instructor-table {
             <td>Introduction to FungiDB.org (Demonstration)</td>
             <td><br>
               <a  target="_blank" href="{{'/documents/ACE2023/Main_page.pdf' | absolute_url}}">FungiDB main page tutorial</a><br><br>
-              <!--  <<iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
+              <iframe width="180" height="115" src="https://youtu.be/F_0br2iSduY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr> 
           <tr>
             <td>2:45 - 3:00 p.m.<br>
