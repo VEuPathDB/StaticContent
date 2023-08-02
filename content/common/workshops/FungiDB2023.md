@@ -325,7 +325,7 @@ div.instructor-table {
             <td>4:30 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>How to improve gene models in Apollo, a structural and functional annotation platform (Demonstration)</td>
-            <td><!--  <iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
+            <td><br><iframe width="180" height="115" src="https://youtu.be/NP4tS94FTVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
           </tr>
         </tbody>
       </table>
