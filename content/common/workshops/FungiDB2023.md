@@ -347,7 +347,7 @@ div.instructor-table {
             <td>2:00 - 2:20 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Ontologies, Enrichment analysis, metabolic pathways (Demonstration)</td>
-            <td><iframe width="280" height="157" src="https://www.youtube.com/embed/MVPJvWMGlkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/MVPJvWMGlkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>2:20 - 3:00 p.m.<br>
@@ -360,7 +360,7 @@ div.instructor-table {
             <td>3:00 - 3:30 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Orthology and Synteny (Demonstration)</td>
-          <td><iframe width="280" height="157" src="https://www.youtube.com/embed/Ce9X7Umgn2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+          <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/Ce9X7Umgn2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>3:30 - 4:00 p.m.<br>
