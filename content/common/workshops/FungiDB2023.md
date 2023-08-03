@@ -274,7 +274,7 @@ div.instructor-table {
                 ACE computer lab and Zoom</td>
             <td>Site Search and Organism preferences (Guided hands-on exercise)</td>
             <td><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/Site_search_org_pref.pdf' | absolute_url}}">Site Search and Organism Preferences</a><br></td>
+              <a  target="_blank" href="{{'/documents/ACE2023/Site_search_org_pref.pdf' | absolute_url}}">Site Search and Organism Preferences</a><br><br></td>
           </tr>
           <tr>
             <td>3:20 - 5:00 p.m.<br>
@@ -282,7 +282,7 @@ div.instructor-table {
             <td>Advanced search strategies in FungiDB and HostDB.org</td>
            <td><br>
               <a  target="_blank" href="{{'/documents/ACE2023/Advanced_search_strategy.pdf' | absolute_url}}">Advanced search strategies I</a><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies II</a><br></td>
+              <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies II</a><br><br></td>
           </tr>
         </tbody>
       </table>
@@ -306,7 +306,7 @@ div.instructor-table {
             <td>Advanced search strategies, cont. (Guided hands-on exercises)</td>
             <td><br>
               <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies II, cont.</a><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_SNPs.pdf' | absolute_url}}">Advanced search strategies III</a><br></td>
+              <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_SNPs.pdf' | absolute_url}}">Advanced search strategies III</a><br><br></td>
           </tr>
           <tr>
             <td>3:30 - 3:40 p.m.<br>
@@ -319,7 +319,7 @@ div.instructor-table {
                 ACE computer lab and Zoom</td>
             <td>Exploring gene pages & JBrowse (Guided hands-on exercise)</td>
            <td><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/Gene_pages_JBrowse.pdf' | absolute_url}}">Gene pages and JBrowse</a><br></td>
+              <a  target="_blank" href="{{'/documents/ACE2023/Gene_pages_JBrowse.pdf' | absolute_url}}">Gene pages and JBrowse</a><br><br></td>
           </tr>
           <tr>
             <td>4:30 - 5:00 p.m.<br>
@@ -354,7 +354,7 @@ div.instructor-table {
                 ACE computer lab and Zoom</td>
             <td>GO enrichment analysis (Guided hands-on exercise)</td>
             <td><br>
-                <a  target="_blank" href="{{'/documents/ACE2023/GO_Enrichment.pdf' | absolute_url}}">GO enrichment analysis</a><br></td>
+                <a  target="_blank" href="{{'/documents/ACE2023/GO_Enrichment.pdf' | absolute_url}}">GO enrichment analysis</a><br><br></td>
           </tr>
          <tr>
             <td>3:00 - 3:30 p.m.<br>
@@ -367,7 +367,7 @@ div.instructor-table {
                 ACE computer lab and Zoom</td>
             <td>Orthology & Phyletic patterns (Guided hans-on exercise)</td>
            <td><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/Orthology_Phyletic_patterns.pdf' | absolute_url}}">Orthology & Phyletic patterns</a><br>
+              <a  target="_blank" href="{{'/documents/ACE2023/Orthology_Phyletic_patterns.pdf' | absolute_url}}">Orthology & Phyletic patterns</a><br><br>
               </td>
           </tr>
           <tr>
