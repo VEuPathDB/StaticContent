@@ -261,13 +261,13 @@ div.instructor-table {
             <td>Introduction to FungiDB.org (Demonstration)</td>
             <td><br>
               <a  target="_blank" href="{{'/documents/ACE2023/Main_page.pdf' | absolute_url}}">FungiDB main page tutorial</a><br><br>
-              <iframe width="180" height="115" src="https://youtu.be/F_0br2iSduY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
+              <iframe width="280" height="157" src="https://www.youtube.com/embed/F_0br2iSduY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr> 
           <tr>
             <td>2:45 - 3:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Introduction to site search and search strategies (Demonstration) </td>
-          <td><!--  <iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
+          <td><iframe width="280" height="157" src="https://www.youtube.com/embed/sMf3brfd_Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>--></td>
           </tr>       
           <tr>
             <td>3:00 - 3:20 p.m.<br>
@@ -312,7 +312,7 @@ div.instructor-table {
             <td>3:30 - 3:40 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Gene pages and JBrowse (Demonstration)</td>
-           <td><!--  <iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
+           <td>Not recorded</td>
           </tr>
           <tr>
             <td>3:40 - 4:30 p.m.<br>
@@ -325,7 +325,7 @@ div.instructor-table {
             <td>4:30 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>How to improve gene models in Apollo, a structural and functional annotation platform (Demonstration)</td>
-            <td><br><iframe width="180" height="115" src="https://youtu.be/NP4tS94FTVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
+            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/NP4tS94FTVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
         </tbody>
       </table>
@@ -347,7 +347,7 @@ div.instructor-table {
             <td>2:00 - 2:20 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Ontologies, Enrichment analysis, metabolic pathways (Demonstration)</td>
-            <td><iframe width="180" height="115" src="https://youtu.be/MVPJvWMGlkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></td>
+            <td><iframe width="280" height="157" src="https://www.youtube.com/embed/MVPJvWMGlkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>2:20 - 3:00 p.m.<br>
@@ -360,7 +360,7 @@ div.instructor-table {
             <td>3:00 - 3:30 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Orthology and Synteny (Demonstration)</td>
-          <td><iframe width="180" height="115" src="https://youtu.be/Ce9X7Umgn2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+          <td><iframe width="280" height="157" src="https://www.youtube.com/embed/Ce9X7Umgn2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>3:30 - 4:00 p.m.<br>
