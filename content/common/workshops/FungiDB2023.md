@@ -267,7 +267,7 @@ div.instructor-table {
             <td>2:45 - 3:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>Introduction to site search and search strategies (Demonstration) </td>
-          <td><iframe width="280" height="157" src="https://www.youtube.com/embed/sMf3brfd_Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>--></td>
+          <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/sMf3brfd_Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>       
           <tr>
             <td>3:00 - 3:20 p.m.<br>
