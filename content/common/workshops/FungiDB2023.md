@@ -374,7 +374,7 @@ div.instructor-table {
             <td>4:00 - 5:00 p.m.<br>
                 ACE computer lab and Zoom</td>
             <td>VEuPathDB Galaxy and My workspace in FungiDB (Demonstration)</td>
-           <td><!--  <iframe width="180" height="115" src="https://www.youtube.com/embed/Yp0uu0w620I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>--></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/ik75NvQeHWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
         </tbody>
       </table>
