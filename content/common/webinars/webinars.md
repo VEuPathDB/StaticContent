@@ -136,6 +136,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="webinar">
 <b>Deep dive into content and features of VEuPathDB gene record pages</b> (April 6, 2023)<br>
 <b>Recording:</b> <a href="https://youtu.be/-OJAFsWAy9Q" target="_blank">https://youtu.be/-OJAFsWAy9Q</a> <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="anchor"><a name="toxoannotation"></a></div>
