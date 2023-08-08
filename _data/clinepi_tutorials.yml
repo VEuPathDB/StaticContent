@@ -69,6 +69,20 @@
   projects: "ClinEpiDB,AllClinEpiDB"
   fileName: clinEpi_exercises/Tutorial_GettingHelp.pdf
   date: "Feb 18, 2022"
+- type: tutorial
+  title: "Study Teams: Active approval of data requests"
+  description: "Tutorial for study teams to use the ClinEpIDB data access dashboard to manage active approval of data requests"
+  uid: t11
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/ClinEpiDB_Data_Access_Dashboard_Protected_ACTIVE.pdf
+  date: "Aug 8, 2023"
+- type: tutorial
+  title: "Study Teams: Passive approval of data requests"
+  description: "Tutorial for study teams to use the ClinEpIDB data access dashboard to manage passive approval of data requests"
+  uid: t12
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/ClinEpiDB_Data_Access_Dashboard_Protected_PASSIVE.pdf
+  date: "Aug 8, 2023"
 - type: video
   title: "ClinEpiDB quick start guide"
   description: "Covers different tools the site offers to explore and visualize data"
