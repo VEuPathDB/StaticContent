@@ -127,16 +127,14 @@ Release webinar dates are subject to change due to production issues that may ar
 
 <div class="anchor"><a name="ticks2023"></a></div>
 <div class="webinar">
-<b>Topic:</b> 2023 Ticks and Mites Community Webinar<br>
-<b>Date:</b> June 22, 2023<br>
+<b>2023 Ticks and Mites Community Webinar</b> (June 22, 2023)<br>
 <b>Recording:</b> <a href="https://youtu.be/6yapXQ8QaqE" target="_blank">https://youtu.be/6yapXQ8QaqE</a> <br>
 <b>Agenda:</b> <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br>
 </div>
 
 <div class="anchor"><a name="generecordpages"></a></div>
 <div class="webinar">
-<b>Topic:</b> Deep dive into content and features of VEuPathDB gene record pages<br>
-<b>Date:</b> April 6, 2023<br>
+<b>Deep dive into content and features of VEuPathDB gene record pages</b> (April 6, 2023)<br>
 <b>Recording:</b> <a href="https://youtu.be/-OJAFsWAy9Q" target="_blank">https://youtu.be/-OJAFsWAy9Q</a> <br>
 </div>
 
@@ -605,7 +603,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <h3>VEuPathDB Release Webinars</h3>
 <div class="contents">
 
-<b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session. Click on the links to watch the recorded release webinars.</b>
+<b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session. Click on the links to watch the recorded release webinars.</b> <br>
 
 <ul>
 <li><b>Release 64 Webinar</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40" target="_blank">https://youtu.be/varDu6ZkI40</a></li>
