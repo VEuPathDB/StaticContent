@@ -132,7 +132,6 @@ Release webinar dates are subject to change due to production issues that may ar
   <b>Recording:</b> <a href="https://youtu.be/6yapXQ8QaqE" target="_blank">https://youtu.be/6yapXQ8QaqE</a> <br>
   <b>Agenda:</b> <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br>
   </div>
-  <p /> 
 
 <div class="anchor"><a name="generecordpages"></a></div>
 <div class="webinar">
@@ -147,7 +146,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <b>Topic:</b> VEuPathDB Community Annotation Webinar with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation<br>
 <b>Date:</b> March 23, 2023<br>
 <b>Recording:</b> <a href="https://youtu.be/TdI9MbN0Du8" target="_blank">https://youtu.be/TdI9MbN0Du8</a> <br>
-<b>Details:</b> Webinar goals:<br>
+<b>Webinar goals:</b><br>
 <ul>
 <li>Demonstrate how to contribute gene modifications using Apollo, or attach User Comments to individual genes or other records</li>
 <li>Discuss plans for updating the official genome annotation for TgME49 and ensure consistent representation at ToxoDB, GenBank, Ensembl, RefSeq, UniProt, SwissProt, etc.</li>
@@ -166,85 +165,25 @@ Release webinar dates are subject to change due to production issues that may ar
 <li><a href="{{'/documents/23FEB23_Gene_function_enrichment.pdf' | absolute_url}}">Gene function enrichment slides</a><br></li>
 <li><a href="{{'/documents/23FEB23_ECnummbers.pdf' | absolute_url}}">EC numbers slide</a><br></li>
 </ul>
-<b>Details:</b> This webinar will focus on the post-searches enrichment tools.  Functional enrichment are never far away from the gene result in VEuPathDB sites. Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. 
+<b>Description:</b> This webinar will focus on the post-searches enrichment tools. Functional enrichment are never far away from the gene result in VEuPathDB sites. Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. 
 </div>
 <p />
-
-<div class="anchor"><a name="release"></a></div>
-<h3>VEuPathDB Release Webinars</h3>
-<div class="contents">
-
-<b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session. Click on the links to watch recorded release webinar.</b>
-
-<ul>
-<li><b>Release 64 Webinar:</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40">target="_blank">https://youtu.be/varDu6ZkI40</a></li>
-<li><b>Release 63 Webinar:</b> (May 11, 2023): <a href="https://youtu.be/vbm7AgIKvgI" target="_blank">https://youtu.be/vbm7AgIKvgI</a></li>
-<li><b>Release 62 Webinar:</b> (March 16, 2023): <a href="https://youtu.be/2KHOjE3POXo">target="_blank">https://youtu.be/varDu6ZkI40</a></li>
-</ul>
-
-
-
-
-
-
-
- 
 
 <div class="anchor"><a name="#Strats2023"></a></div>
 <div class="webinar">
 <b>Topic:</b> The Search Strategy System<br>
-<b>Date:</b> Thursday February 2nd, 2023<br>
+<b>Date:</b> February 2, 2023<br>
 <b>Recording:</b> <a href="https://youtu.be/ipJ3FCYodCw" target="_blank">https://youtu.be/ipJ3FCYodCw</a> <br>
-<b>Additional Details:</b> This webinar focused on the search strategy system.  We presented a general background, demonstrated the preconfigured searches with an emphasis on how to use the system to answer your own biological questions or support your own hypotheses.<br>
+<b>Description:</b> This webinar focused on the search strategy system. We presented a general background, and demonstrated the preconfigured searches with an emphasis on how to use the system to answer your own biological questions or support your own hypotheses.<br>
 </div>
-<p />
-
-<div class="anchor"><a name="release61"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 61 Webinar<br>
-<b>Date:</b> Wednesday December 21st, 2022<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording:</b> <a href="https://youtu.be/B-XZ8LWf220" target="_blank">https://youtu.be/B-XZ8LWf220</a> <br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 61 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-</div>
-<p />
-
-<div class="anchor"><a name="release60"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 60 Webinar<br>
-<b>Date:</b> Thursday November 17th, 2022<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording:</b> <a href="https://youtu.be/JqYu2ug9PWo" target="_blank">https://youtu.be/JqYu2ug9PWo</a> <br>
-<b>Additional Details:</b> This webinar focused on new data and features in Release 60 of the VEuPathDB projects.
-</div>
-<p />
-
-<div class="anchor"><a name="release59"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 59 Webinar<br>
-<b>Date:</b> Thursday September 15th, 2022<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording:</b> <a href="https://youtu.be/PqYCrWFptCs">https://youtu.be/PqYCrWFptCs</a>
-</div>  
-<p />
-
-<div class="anchor"><a name="release58"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 58 Webinar<br>
-<b>Date:</b> Thursday June 30th, 2022<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording:</b> <a href="https://youtu.be/9bXMZQr1myU" target="_blank">https://youtu.be/9bXMZQr1myU</a><br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 58 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-</div>  
 <p />
 
 <div class="anchor"><a name="apollo2022"></a></div>
 <div class="webinar">
-<b>Topic:</b> VEuPathDB Apollo annotation and curation<br>
-<b>Date:</b> Wednesday May 25th, 2022<br>
-<b>Time:</b> 10AM US Eastern Time<br>
+<b>Topic:</b> VEuPathDB Apollo Annotation and Curation<br>
+<b>Date:</b> May 25, 2022<br>
 <b>Recording:</b> <a href="https://youtu.be/sHn_qOCYQ38" target="_blank">https://youtu.be/sHn_qOCYQ38</a><br>
-<b>Additional Details:</b> <br>
+<b>Description:</b> <br>
 <ul>
 <li>Apollo navigation and main tools</li>
 <li>Structural and functional annotations</li>
@@ -253,66 +192,43 @@ Release webinar dates are subject to change due to production issues that may ar
 </div>
 <p />
 
-<div class="anchor"><a name="release57"></a></div>
-<div class="webinar">
-<b>Topic:</b>  Release 57 Webinar<br>
-<b>Date:</b> Thursday April 28th, 2022<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording:</b> <a href="https://youtu.be/56eduSdIP6s" target="_blank">https://youtu.be/56eduSdIP6s</a><br>
-<b>Additional Details:</b> 
-This webinar focused on what is new in Release 57 of the VEuPathDB projects. We discussed new data sets, demonstrate searches and features, and answer questions.
-</div>
-  
 <hr style="width:30%; margin-left:0">
 <div class="anchor"><a name="ticks2022"></a></div>
 <div class="webinar">
 <b>Topic:</b>  2022 Ticks and Tick-Borne Pathogens Open Community Webinar Series<br>
-<b>Date:</b> Tuesdays, 8 March to 14 June, 2022<br>
-<b>Time:</b> 11AM US Eastern Time<br>
-<b>Recordings and details:</b> For the agenda and more information follow this link: <a href="https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html">https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html</a><br>
+<b>Date:</b> 8 March to 14 June, 2022<br>
+<b>Agenda and recordings:</b> <a href="https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html">https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html</a><br>
 </div>
 
-<hr style="width:30%; margin-left:0">
-<div class="anchor"><a name="release56"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 56 Webinar<br>
-<b>Date:</b> Thursday Feb 24th, 2022<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording:</b> <a href="https://youtu.be/PANxoBp3Wf0" target="_blank">https://youtu.be/PANxoBp3Wf0</a><br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 56 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-</div>
-  
-<hr style="width:30%; margin-left:0">
-<div class="anchor"><a name="release55"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 55 Webinar<br>
-<b>Date:</b> Thursday Dec 9th, 2021<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording:</b> <a href="https://youtu.be/6n45Ie8Mbs0" target="_blank">https://youtu.be/6n45Ie8Mbs0</a><br>
-<b>Additional Details:</b> This is a recording of our Dec 9, 2021 webinar describing the new data and features in VEuPathDB Release 55.
-</div>
+<div class="anchor"><a name="release"></a></div>
+<h3>VEuPathDB Release Webinars</h3>
+<div class="contents">
 
-<hr style="width:30%; margin-left:0">
-<div class="anchor"><a name="release54"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 54 Webinar<br>
-<b>Date:</b> Thursday Sept 16th, 2021<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording link:</b> <a href="https://youtu.be/qm3Pq86VwM4" target="_blank">https://youtu.be/qm3Pq86VwM4</a><br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 54 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-</div>
-  
-<hr style="width:30%; margin-left:0">
-<div class="anchor"><a name="release53"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 53 Webinar<br>
-<b>Date:</b> Thursday August 5th, 2021<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording Link:</b><a href="https://youtu.be/oriU3ZpG40s">https://youtu.be/oriU3ZpG40s</a><br>
-<b>Additional Details:</b> This webinar will focus on what is new in Release 53 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-</div>
+<b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session. Click on the links to watch the recorded release webinars.</b>
 
-<hr style="width:30%; margin-left:0">
+<ul>
+<li><b>Release 64 Webinar</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40" target="_blank">https://youtu.be/varDu6ZkI40</a></li>
+<li><b>Release 63 Webinar</b> (May 11, 2023): <a href="https://youtu.be/vbm7AgIKvgI" target="_blank">https://youtu.be/vbm7AgIKvgI</a></li>
+<li><b>Release 62 Webinar</b> (March 16, 2023): <a href="https://youtu.be/2KHOjE3POXo" target="_blank">https://youtu.be/2KHOjE3POXo</a></li>
+<li><b>Release 61 Webinar</b> (December 21, 2022): <a href="https://youtu.be/B-XZ8LWf220" target="_blank">https://youtu.be/B-XZ8LWf220</a></li>
+<li><b>Release 60 Webinar</b> (November 17, 2022): <a href="https://youtu.be/JqYu2ug9PWo" target="_blank">https://youtu.be/JqYu2ug9PWo</a></li>
+<li><b>Release 59 Webinar</b> (September 15, 2022): <a href="https://youtu.be/PqYCrWFptCs" target="_blank">https://youtu.be/PqYCrWFptCs</a></li>
+<li><b>Release 58 Webinar</b> (June 30, 2022): <a href="https://youtu.be/9bXMZQr1myU" target="_blank">https://youtu.be/9bXMZQr1myU</a></li>
+<li><b>Release 57 Webinar</b> (April 28, 2022): <a href="https://youtu.be/56eduSdIP6s" target="_blank">https://youtu.be/56eduSdIP6s</a></li>
+<li><b>Release 56 Webinar</b> (February 24, 2022): <a href="https://youtu.be/PANxoBp3Wf0" target="_blank">https://youtu.be/PANxoBp3Wf0</a></li>
+<li><b>Release 55 Webinar</b> (Dec 9, 2021): <a href="https://youtu.be/6n45Ie8Mbs0" target="_blank">https://youtu.be/6n45Ie8Mbs0</a></li>
+<li><b>Release 54 Webinar</b> (Sept 16, 2021): <a href="https://youtu.be/qm3Pq86VwM4" target="_blank">https://youtu.be/qm3Pq86VwM4</a></li>
+<li><b>Release 53 Webinar</b> (August 5, 2021): <a href="https://youtu.be/oriU3ZpG40s" target="_blank">https://youtu.be/oriU3ZpG40s</a></li>
+<li><b>Release 52 Webinar</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40" target="_blank">https://youtu.be/varDu6ZkI40</a></li>
+<li><b>Release 51 Webinar</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40" target="_blank">https://youtu.be/varDu6ZkI40</a></li>
+<li><b>Release 50 Webinar</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40" target="_blank">https://youtu.be/varDu6ZkI40</a></li>
+</ul>
+
+
+
+
+
+
 <div class="anchor"><a name="vect4"></a></div>
 <div class="webinar">
 <b>Topic:</b> Analyzing your own data in VectorBase<br>
