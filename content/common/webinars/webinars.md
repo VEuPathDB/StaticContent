@@ -134,55 +134,53 @@ Release webinar dates are subject to change due to production issues that may ar
   </div>
   <p /> 
 
-<div class="anchor"><a name="release"></a></div>
-<h3>VEuPathDB Release Webinars</h3>
-<div class="contents">
-
-<b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session.</b>
-
-<div class="anchor"><a name="release64"></a></div>
-  <div class="webinar">
-  <b>Release 64 Webinar:</b> July 20, 2023<br> 
-  <b>Recording:</b> <a href="https://youtu.be/varDu6ZkI40">https://youtu.be/varDu6ZkI40</a> <br>
-  </div>
-  <p /> 
-
-
-
 <div class="anchor"><a name="generecordpages"></a></div>
 <div class="webinar">
-<b>Topic:</b> Release 63 Webinar<br>
-<b>Date:</b> Thursday May 11th, 2023<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording:</b> <a href="https://youtu.be/vbm7AgIKvgI" target="_blank">https://youtu.be/vbm7AgIKvgI</a> <br>
-<b>Details:</b> This webinar offered an overview of the new data and features in Release 63.  
-</div>
-<p />  
-
-<div class="anchor"><a name="generecordpages"></a></div>
-<div class="webinar">
-<b>Topic:</b> Deep dive into VEuPathDB gene record pages<br>
-<b>Date:</b> Thursday April 6th, 2023<br>
-<b>Time:</b> 10AM US Eastern Time<br>
+<b>Topic:</b> Deep dive into content and features of VEuPathDB gene record pages<br>
+<b>Date:</b> April 6, 2023<br>
 <b>Recording:</b> <a href="https://youtu.be/-OJAFsWAy9Q" target="_blank">https://youtu.be/-OJAFsWAy9Q</a> <br>
-<b>Details:</b> This webinar will focus on the content and features of gene record pages.
 </div>
 <p /> 
 
 <div class="anchor"><a name="toxoannotation"></a></div>
 <div class="webinar">
 <b>Topic:</b> VEuPathDB Community Annotation Webinar with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation<br>
-<b>Date:</b> Thursday March 23rd, 2023<br>
-<b>Time:</b> 10AM US Eastern Time<br>
+<b>Date:</b> March 23, 2023<br>
 <b>Recording:</b> <a href="https://youtu.be/TdI9MbN0Du8" target="_blank">https://youtu.be/TdI9MbN0Du8</a> <br>
 <b>Details:</b> Webinar goals:<br>
 <ul>
-<li>demonstrate how to contribute gene modifications using the Apollo, or attach User Comments to individual genes or other records</li>
-<li>discuss plans for updating the official genome annotation for TgME49 … and ensure consistent representation at ToxoDB, GenBank, Ensembl, RefSeq, UniProt, SwissProt, etc</li>
-<li>solicit feedback from the community … about individual genes, ToxoDB, or other questions you may have for the VEuPathDB team</li>
+<li>Demonstrate how to contribute gene modifications using Apollo, or attach User Comments to individual genes or other records</li>
+<li>Discuss plans for updating the official genome annotation for TgME49 and ensure consistent representation at ToxoDB, GenBank, Ensembl, RefSeq, UniProt, SwissProt, etc.</li>
+<li>Solicit feedback from the community about individual genes, ToxoDB</li>
 </ul>
 </div>
 <p />  
+
+<div class="anchor"><a name="release"></a></div>
+<h3>VEuPathDB Release Webinars</h3>
+<div class="contents">
+
+<b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session. Click on the links to watch recorded release webinar.</b>
+
+<div class="anchor"><a name="release64"></a></div>
+  <div class="webinar">
+  <b>Release 64 Webinar:</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40">https://youtu.be/varDu6ZkI40</a>
+  </div>
+  <p /> 
+
+<div class="anchor"><a name="release63"></a></div>
+<div class="webinar">
+<b>Release 63 Webinar:</b> May 11, 2023<br> 
+<b>Recording:</b> <a href="https://youtu.be/vbm7AgIKvgI" target="_blank">https://youtu.be/vbm7AgIKvgI</a> <br>
+</div>
+<p />  
+
+
+
+
+
+
+
 
 <div class="anchor"><a name="release62"></a></div>
 <div class="webinar">
