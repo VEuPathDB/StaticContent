@@ -128,15 +128,14 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="anchor"><a name="ticks2023"></a></div>
 <div class="webinar">
 <b>2023 Ticks and Mites Community Webinar</b> (June 22, 2023)<br>
-<b>Recording:</b> <a href="https://youtu.be/6yapXQ8QaqE" target="_blank">https://youtu.be/6yapXQ8QaqE</a> <br>
 <b>Agenda:</b> <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="anchor"><a name="generecordpages"></a></div>
 <div class="webinar">
 <b>Deep dive into content and features of VEuPathDB gene record pages</b> (April 6, 2023)<br>
 <b>Recording:</b> <a href="https://youtu.be/-OJAFsWAy9Q" target="_blank">https://youtu.be/-OJAFsWAy9Q</a> <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="anchor"><a name="toxoannotation"></a></div>
