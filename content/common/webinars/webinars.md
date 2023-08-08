@@ -156,56 +156,39 @@ Release webinar dates are subject to change due to production issues that may ar
 </div>
 <p />  
 
-<div class="anchor"><a name="release"></a></div>
-<h3>VEuPathDB Release Webinars</h3>
-<div class="contents">
-
-<b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session. Click on the links to watch recorded release webinar.</b>
-
-<div class="anchor"><a name="release64"></a></div>
-  <div class="webinar">
-  <b>Release 64 Webinar:</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40">https://youtu.be/varDu6ZkI40</a>
-  </div>
-  <p /> 
-
-<div class="anchor"><a name="release63"></a></div>
-<div class="webinar">
-<b>Release 63 Webinar:</b> May 11, 2023<br> 
-<b>Recording:</b> <a href="https://youtu.be/vbm7AgIKvgI" target="_blank">https://youtu.be/vbm7AgIKvgI</a> <br>
-</div>
-<p />  
-
-
-
-
-
-
-
-
-<div class="anchor"><a name="release62"></a></div>
-<div class="webinar">
-<b>Topic:</b> Release 62 Webinar<br>
-<b>Date:</b> Thursday March 16th, 2023<br>
-<b>Time:</b> 10AM US Eastern Time<br>
-<b>Recording:</b> <a href="https://youtu.be/2KHOjE3POXo" target="_blank">https://youtu.be/2KHOjE3POXo</a> <br>
-<b>Details:</b> This webinar will focus on what is new in Release 62 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-</div>
-<p />
-
 <div class="anchor"><a name="Enrich2023"></a></div>
 <div class="webinar">
 <b>Topic:</b> Enrichment Analysis Tools in VEuPathDB<br>
-<b>Date:</b> Thursday Febuary 23th, 2023<br>
-<b>Time:</b> 10AM US Eastern Time<br>
+<b>Date:</b> Febuary 23, 2023<br>
 <b>Recording:</b> <a href="https://youtu.be/_aLYAEaApJY" target="_blank">https://youtu.be/_aLYAEaApJY</a> <br>
 <b>Handouts:</b> 
 <ul>
 <li><a href="{{'/documents/23FEB23_Gene_function_enrichment.pdf' | absolute_url}}">Gene function enrichment slides</a><br></li>
 <li><a href="{{'/documents/23FEB23_ECnummbers.pdf' | absolute_url}}">EC numbers slide</a><br></li>
 </ul>
-<b>Additional Details:</b> This webinar will focus on the post-searches enrichment tools.  Functional enrichment are never far away from the gene result in VEuPathDB sites.  Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. 
+<b>Details:</b> This webinar will focus on the post-searches enrichment tools.  Functional enrichment are never far away from the gene result in VEuPathDB sites. Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. 
 </div>
-<p /> 
+<p />
+
+<div class="anchor"><a name="release"></a></div>
+<h3>VEuPathDB Release Webinars</h3>
+<div class="contents">
+
+<b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session. Click on the links to watch recorded release webinar.</b>
+
+<ul>
+<li><b>Release 64 Webinar:</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40">target="_blank">https://youtu.be/varDu6ZkI40</a></li>
+<li><b>Release 63 Webinar:</b> (May 11, 2023): <a href="https://youtu.be/vbm7AgIKvgI" target="_blank">https://youtu.be/vbm7AgIKvgI</a></li>
+<li><b>Release 62 Webinar:</b> (March 16, 2023): <a href="https://youtu.be/2KHOjE3POXo">target="_blank">https://youtu.be/varDu6ZkI40</a></li>
+</ul>
+
+
+
+
+
+
+
+ 
 
 <div class="anchor"><a name="#Strats2023"></a></div>
 <div class="webinar">
