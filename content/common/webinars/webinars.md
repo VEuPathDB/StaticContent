@@ -121,6 +121,32 @@ Release webinar dates are subject to change due to production issues that may ar
 
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 
+<div class="anchor"><a name="release"></a></div>
+<h3>VEuPathDB Release Webinars</h3>
+<div class="contents">
+
+<b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session. Click on the links to watch the recorded release webinars.</b> <br>
+<ul>
+<li><b>Release 64 Webinar</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40" target="_blank">https://youtu.be/varDu6ZkI40</a></li>
+<li><b>Release 63 Webinar</b> (May 11, 2023): <a href="https://youtu.be/vbm7AgIKvgI" target="_blank">https://youtu.be/vbm7AgIKvgI</a></li>
+<li><b>Release 62 Webinar</b> (March 16, 2023): <a href="https://youtu.be/2KHOjE3POXo" target="_blank">https://youtu.be/2KHOjE3POXo</a></li>
+<li><b>Release 61 Webinar</b> (December 21, 2022): <a href="https://youtu.be/B-XZ8LWf220" target="_blank">https://youtu.be/B-XZ8LWf220</a></li>
+<li><b>Release 60 Webinar</b> (November 17, 2022): <a href="https://youtu.be/JqYu2ug9PWo" target="_blank">https://youtu.be/JqYu2ug9PWo</a></li>
+<li><b>Release 59 Webinar</b> (September 15, 2022): <a href="https://youtu.be/PqYCrWFptCs" target="_blank">https://youtu.be/PqYCrWFptCs</a></li>
+<li><b>Release 58 Webinar</b> (June 30, 2022): <a href="https://youtu.be/9bXMZQr1myU" target="_blank">https://youtu.be/9bXMZQr1myU</a></li>
+<li><b>Release 57 Webinar</b> (April 28, 2022): <a href="https://youtu.be/56eduSdIP6s" target="_blank">https://youtu.be/56eduSdIP6s</a></li>
+<li><b>Release 56 Webinar</b> (February 24, 2022): <a href="https://youtu.be/PANxoBp3Wf0" target="_blank">https://youtu.be/PANxoBp3Wf0</a></li>
+<li><b>Release 55 Webinar</b> (Dec 9, 2021): <a href="https://youtu.be/6n45Ie8Mbs0" target="_blank">https://youtu.be/6n45Ie8Mbs0</a></li>
+<li><b>Release 54 Webinar</b> (Sept 16, 2021): <a href="https://youtu.be/qm3Pq86VwM4" target="_blank">https://youtu.be/qm3Pq86VwM4</a></li>
+<li><b>Release 53 Webinar</b> (August 5, 2021): <a href="https://youtu.be/oriU3ZpG40s" target="_blank">https://youtu.be/oriU3ZpG40s</a></li>
+<li><b>Release 52 Webinar</b> (May 27, 2021): <a href="https://youtu.be/c0kOezp0_ao" target="_blank">https://youtu.be/c0kOezp0_ao</a></li>
+<li><b>Release 51 Webinar</b> (March 31, 2021): <a href="https://youtu.be/6v6x4PSP4Jc" target="_blank">https://youtu.be/6v6x4PSP4Jc</a></li>
+<li><b>Release 50 Webinar</b> (December 17, 2020): <a href="https://youtu.be/5leMraRnnpk" target="_blank">https://youtu.be/5leMraRnnpk</a></li>
+<li><b>Release 49 Webinar</b> (November 12, 2020): <a href="https://youtu.be/VJSLVSBuz-A" target="_blank">https://youtu.be/VJSLVSBuz-A</a></li>
+<li><b>Release 48 Webinar</b> (September 3, 2020): <a href="https://youtu.be/sFZFTcM0POs" target="_blank">https://youtu.be/sFZFTcM0POs</a></li>
+<li><b>Release 47 Webinar</b> (June 10, 2020): <a href="https://youtu.be/Ab0V1ojYono" target="_blank">https://youtu.be/Ab0V1ojYono</a></li>
+</ul>
+
 <div class="anchor"><a name="previous"></a></div>
 <h3>On-Demand Webinars</h3>
 <div class="contents">
@@ -599,32 +625,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 </ul>
 </div>
 
-<div class="anchor"><a name="release"></a></div>
-<h3>VEuPathDB Release Webinars</h3>
-<div class="contents">
 
-<b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session. Click on the links to watch the recorded release webinars.</b> <br>
-
-<ul>
-<li><b>Release 64 Webinar</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40" target="_blank">https://youtu.be/varDu6ZkI40</a></li>
-<li><b>Release 63 Webinar</b> (May 11, 2023): <a href="https://youtu.be/vbm7AgIKvgI" target="_blank">https://youtu.be/vbm7AgIKvgI</a></li>
-<li><b>Release 62 Webinar</b> (March 16, 2023): <a href="https://youtu.be/2KHOjE3POXo" target="_blank">https://youtu.be/2KHOjE3POXo</a></li>
-<li><b>Release 61 Webinar</b> (December 21, 2022): <a href="https://youtu.be/B-XZ8LWf220" target="_blank">https://youtu.be/B-XZ8LWf220</a></li>
-<li><b>Release 60 Webinar</b> (November 17, 2022): <a href="https://youtu.be/JqYu2ug9PWo" target="_blank">https://youtu.be/JqYu2ug9PWo</a></li>
-<li><b>Release 59 Webinar</b> (September 15, 2022): <a href="https://youtu.be/PqYCrWFptCs" target="_blank">https://youtu.be/PqYCrWFptCs</a></li>
-<li><b>Release 58 Webinar</b> (June 30, 2022): <a href="https://youtu.be/9bXMZQr1myU" target="_blank">https://youtu.be/9bXMZQr1myU</a></li>
-<li><b>Release 57 Webinar</b> (April 28, 2022): <a href="https://youtu.be/56eduSdIP6s" target="_blank">https://youtu.be/56eduSdIP6s</a></li>
-<li><b>Release 56 Webinar</b> (February 24, 2022): <a href="https://youtu.be/PANxoBp3Wf0" target="_blank">https://youtu.be/PANxoBp3Wf0</a></li>
-<li><b>Release 55 Webinar</b> (Dec 9, 2021): <a href="https://youtu.be/6n45Ie8Mbs0" target="_blank">https://youtu.be/6n45Ie8Mbs0</a></li>
-<li><b>Release 54 Webinar</b> (Sept 16, 2021): <a href="https://youtu.be/qm3Pq86VwM4" target="_blank">https://youtu.be/qm3Pq86VwM4</a></li>
-<li><b>Release 53 Webinar</b> (August 5, 2021): <a href="https://youtu.be/oriU3ZpG40s" target="_blank">https://youtu.be/oriU3ZpG40s</a></li>
-<li><b>Release 52 Webinar</b> (May 27, 2021): <a href="https://youtu.be/c0kOezp0_ao" target="_blank">https://youtu.be/c0kOezp0_ao</a></li>
-<li><b>Release 51 Webinar</b> (March 31, 2021): <a href="https://youtu.be/6v6x4PSP4Jc" target="_blank">https://youtu.be/6v6x4PSP4Jc</a></li>
-<li><b>Release 50 Webinar</b> (December 17, 2020): <a href="https://youtu.be/5leMraRnnpk" target="_blank">https://youtu.be/5leMraRnnpk</a></li>
-<li><b>Release 49 Webinar</b> (November 12, 2020): <a href="https://youtu.be/VJSLVSBuz-A" target="_blank">https://youtu.be/VJSLVSBuz-A</a></li>
-<li><b>Release 48 Webinar</b> (September 3, 2020): <a href="https://youtu.be/sFZFTcM0POs" target="_blank">https://youtu.be/sFZFTcM0POs</a></li>
-<li><b>Release 47 Webinar</b> (June 10, 2020): <a href="https://youtu.be/Ab0V1ojYono" target="_blank">https://youtu.be/Ab0V1ojYono</a></li>
-</ul>
 
 
 
