@@ -46,7 +46,7 @@ tags: [general]
   </div>    
   <hr style="width:30%; margin-left:0">
 
-  <div class="anchor"><a name="release67"></a></div>
+  <!-- <div class="anchor"><a name="release67"></a></div>
   <div class="webinar">
   <b>Topic:</b> Release 67 Webinar<br>
   <b>Date:</b> Thursday Feb 15th, 2024<br>
@@ -76,7 +76,7 @@ tags: [general]
   </div>    
   <hr style="width:30%; margin-left:0">
 
-  <div class="anchor"><a name="release69"></a></div>
+  <div class="anchor"><a name="release70"></a></div>
   <div class="webinar">
   <b>Topic:</b> Release 70 Webinar<br>
   <b>Date:</b> Thursday Aug 22th, 2024<br>
@@ -86,14 +86,14 @@ tags: [general]
   </div>    
   <hr style="width:30%; margin-left:0">
 
-  <div class="anchor"><a name="release69"></a></div>
+  <div class="anchor"><a name="release71"></a></div>
   <div class="webinar">
   <b>Topic:</b> Release 71 Webinar<br>
   <b>Date:</b> Thursday Oct 24th, 2024<br>
   <b>Time:</b> 10AM US Eastern Time<br>
   <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
   <b>Details:</b> This webinar will focus on what is new in Release 71 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-  </div>
+  </div>-->
 
   </div> <!--closing div contents for Upcoming Webinars -->
 
@@ -124,7 +124,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="anchor"><a name="release"></a></div>
 <h3>VEuPathDB Release Webinars</h3>
 <div class="contents">
-
+<details closed>
 <b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session. Click on the links to watch the recorded release webinars.</b> <br>
 <ul>
 <li><b>Release 64 Webinar</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40" target="_blank">https://youtu.be/varDu6ZkI40</a></li>
@@ -146,6 +146,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <li><b>Release 48 Webinar</b> (September 3, 2020): <a href="https://youtu.be/sFZFTcM0POs" target="_blank">https://youtu.be/sFZFTcM0POs</a></li>
 <li><b>Release 47 Webinar</b> (June 10, 2020): <a href="https://youtu.be/Ab0V1ojYono" target="_blank">https://youtu.be/Ab0V1ojYono</a></li>
 </ul>
+</details>
 
 <div class="anchor"><a name="previous"></a></div>
 <h3>On-Demand Webinars</h3>
