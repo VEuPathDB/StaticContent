@@ -17,7 +17,6 @@ tags: [general]
   }
   details summary {
   font-size: 150%;
-  color: #069;
   }
 </style>
 
@@ -27,7 +26,7 @@ tags: [general]
 
 <div class="static-content">
 
-  <h3>Upcoming Webinars</h3>
+  <h3>Upcoming Webinars 
   <div class="contents">
 
   <div class="anchor"><a name="release65"></a></div>
@@ -127,7 +126,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="anchor"><a name="release"></a></div>
 <div class="contents">
 <details closed>
-<summary>VEuPathDB Release Webinars</summary>
+<summary><h3>VEuPathDB Release Webinars</h3></summary>
 <b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session.</b> <br>
 <ul>
 <li><b>Release 64 Webinar</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40" target="_blank">https://youtu.be/varDu6ZkI40</a></li>
@@ -148,12 +147,13 @@ Release webinar dates are subject to change due to production issues that may ar
 <li><b>Release 49 Webinar</b> (November 12, 2020): <a href="https://youtu.be/VJSLVSBuz-A" target="_blank">https://youtu.be/VJSLVSBuz-A</a></li>
 <li><b>Release 48 Webinar</b> (September 3, 2020): <a href="https://youtu.be/sFZFTcM0POs" target="_blank">https://youtu.be/sFZFTcM0POs</a></li>
 <li><b>Release 47 Webinar</b> (June 10, 2020): <a href="https://youtu.be/Ab0V1ojYono" target="_blank">https://youtu.be/Ab0V1ojYono</a></li>
-</ul>
+</ul><br>
 </details>
+  <hr style="width:30%; margin-left:0">  
 
 <div class="anchor"><a name="On-Demand Webinars"></a></div>
   <details open>
-    <summary><b>On-Demand Webinars</b> </summary>
+    <summary><h3>On-Demand Webinars</h3> </summary>
     <br>
     <table class="hor-minimalist-a">
         <thead>
