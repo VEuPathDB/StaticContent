@@ -172,8 +172,7 @@ Release webinar dates are subject to change due to production issues that may ar
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/-OJAFsWAy9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>  
            <tr>
-           <td><b>Topic:</b> VEuPathDB Community Annotation Webinar with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation<br>
-           <b>Date:</b> March 23, 2023<br>
+           <td><b>VEuPathDB Community Annotation Webinar</b> with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation (March 23, 2023)<br>
            <b>Webinar goals:</b><br>
            <ul>
            <li>Demonstrate how to contribute gene modifications using Apollo, or attach User Comments to individual genes or other records</li>
