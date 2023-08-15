@@ -26,7 +26,7 @@ tags: [general]
 
 <div class="static-content">
 
-  <h3>Upcoming Webinars 
+  <h3>Upcoming Webinars </h3>
   <div class="contents">
 
   <div class="anchor"><a name="release65"></a></div>
