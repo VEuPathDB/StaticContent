@@ -148,6 +148,7 @@ Release webinar dates are subject to change due to production issues that may ar
 </ul>
 </details>
 
+
 <div class="anchor"><a name="previous"></a></div>
 <h3>On-Demand Webinars</h3>
 <div class="contents">
@@ -156,7 +157,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="webinar">
 <b>2023 Ticks and Mites Community Webinar</b> (June 22, 2023)<br>
 <b>Agenda:</b> <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="anchor"><a name="generecordpages"></a></div>
