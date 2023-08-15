@@ -15,6 +15,10 @@ tags: [general]
   div.webinar {
     margin: 2em 0;
   }
+  details summary {
+  font-size: 150%;
+  color: #069;
+  }
 </style>
 
 <p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> Webinars</p>
@@ -162,7 +166,21 @@ Release webinar dates are subject to change due to production issues that may ar
           <tr>
            <td><b>2023 Ticks and Mites Community Webinar</b> (June 22, 2023)<br><b>Agenda:</b> <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br></td>
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
-          </tr>    
+          </tr>  
+          <tr>
+           <td><b>Deep dive into content and features of VEuPathDB gene record pages</b> (April 6, 2023)<br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/-OJAFsWAy9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+           <tr>
+           <td><b>Topic:</b> VEuPathDB Community Annotation Webinar with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation<br>
+           <b>Date:</b> March 23, 2023<br>
+           <b>Webinar goals:</b><br>
+           <ul>
+           <li>Demonstrate how to contribute gene modifications using Apollo, or attach User Comments to individual genes or other records</li>
+           <li>Discuss plans for updating the official genome annotation for TgME49 and ensure consistent representation at ToxoDB, GenBank, Ensembl, RefSeq, UniProt, SwissProt, etc.</li>
+           <li>Solicit feedback from the community about individual genes, ToxoDB</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/TdI9MbN0Du8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>     
         </tbody>
       </table>
         </details>  
