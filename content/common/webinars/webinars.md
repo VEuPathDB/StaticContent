@@ -44,7 +44,6 @@ tags: [general]
   <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
   <b>Details:</b> This webinar will focus on what is new in Release 66 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
   </div>    
-  <hr style="width:30%; margin-left:0">
 
   <!-- <div class="anchor"><a name="release67"></a></div>
   <div class="webinar">
@@ -125,7 +124,8 @@ Release webinar dates are subject to change due to production issues that may ar
 <h3>VEuPathDB Release Webinars</h3>
 <div class="contents">
 <details closed>
-<b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session. Click on the links to watch the recorded release webinars.</b> <br>
+<summary>Recordings</summary>
+<b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session.</b> <br>
 <ul>
 <li><b>Release 64 Webinar</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40" target="_blank">https://youtu.be/varDu6ZkI40</a></li>
 <li><b>Release 63 Webinar</b> (May 11, 2023): <a href="https://youtu.be/vbm7AgIKvgI" target="_blank">https://youtu.be/vbm7AgIKvgI</a></li>
