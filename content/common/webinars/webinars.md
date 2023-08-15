@@ -146,7 +146,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <li><b>Release 47 Webinar</b> (June 10, 2020): <a href="https://youtu.be/Ab0V1ojYono" target="_blank">https://youtu.be/Ab0V1ojYono</a></li>
 </ul><br>
 </details>
-  <hr style="width:30%; margin-left:0">  
+  <hr>  
 
 <div class="anchor"><a name="On-Demand Webinars"></a></div>
   <details open>
@@ -180,9 +180,10 @@ Release webinar dates are subject to change due to production issues that may ar
         </tbody>
       </table>
         </details>  
+        <hr>
 
 
-<div class="anchor"><a name="previous"></a></div>
+<!--<div class="anchor"><a name="previous"></a></div>
 <h3>On-Demand Webinars</h3>
 <div class="contents">
 
@@ -658,7 +659,7 @@ bioinformatic resources available at the Virus Pathogen Resource.
 <li>Phenotype data</li>
 <li>Galaxy tools</li>
 </ul>
-</div>
+</div>-->
 
 
 
