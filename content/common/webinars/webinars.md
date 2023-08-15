@@ -121,10 +121,9 @@ Release webinar dates are subject to change due to production issues that may ar
 <hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 
 <div class="anchor"><a name="release"></a></div>
-<h3>VEuPathDB Release Webinars</h3>
 <div class="contents">
 <details closed>
-<summary>Recordings</summary>
+<summary>VEuPathDB Release Webinars</summary>
 <b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session.</b> <br>
 <ul>
 <li><b>Release 64 Webinar</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40" target="_blank">https://youtu.be/varDu6ZkI40</a></li>
@@ -147,6 +146,26 @@ Release webinar dates are subject to change due to production issues that may ar
 <li><b>Release 47 Webinar</b> (June 10, 2020): <a href="https://youtu.be/Ab0V1ojYono" target="_blank">https://youtu.be/Ab0V1ojYono</a></li>
 </ul>
 </details>
+
+<div class="anchor"><a name="On-Demand Webinars"></a></div>
+  <details open>
+    <summary><b>On-Demand Webinars</b> </summary>
+    <br>
+    <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="event">Topic</th>
+            <th class="recording">Recording</th>
+          </tr>
+        </thead>
+        <tbody>         
+          <tr>
+           <td><b>2023 Ticks and Mites Community Webinar</b> (June 22, 2023)<br><b>Agenda:</b> <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>    
+        </tbody>
+      </table>
+        </details>  
 
 
 <div class="anchor"><a name="previous"></a></div>
