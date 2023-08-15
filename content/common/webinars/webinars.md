@@ -15,6 +15,12 @@ tags: [general]
   div.webinar {
     margin: 2em 0;
   }
+  details summary { 
+  cursor: pointer;
+  }
+  details summary > * {
+  display: inline;
+  }
 </style>
 
 <p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> Webinars</p>
