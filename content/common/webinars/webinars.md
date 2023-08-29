@@ -129,8 +129,8 @@ Release webinar dates are subject to change due to production issues that may ar
 <div class="anchor"><a name="release"></a></div>
 <div class="contents">
 <details closed>
-<summary><h3>VEuPathDB Release Webinars</h3></summary>
-<b>VEuPathDB release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session.</b> <br>
+<summary><h3>Releases</h3></summary>
+<b>Release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session.</b> <br>
 <ul>
 <li><b>Release 64 Webinar</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40" target="_blank">https://youtu.be/varDu6ZkI40</a></li>
 <li><b>Release 63 Webinar</b> (May 11, 2023): <a href="https://youtu.be/vbm7AgIKvgI" target="_blank">https://youtu.be/vbm7AgIKvgI</a></li>
@@ -156,7 +156,7 @@ Release webinar dates are subject to change due to production issues that may ar
 
 <div class="anchor"><a name="On-Demand Webinars"></a></div>
   <details open>
-    <summary><h3>On-Demand Webinars</h3> </summary>
+    <summary><h3>On-Demand Training</h3> </summary>
     <br>
     <table class="hor-minimalist-a">
         <thead>
@@ -174,7 +174,7 @@ Release webinar dates are subject to change due to production issues that may ar
            <td><b>Deep dive into content and features of VEuPathDB gene record pages</b> (April 6, 2023)<br></td>
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/-OJAFsWAy9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>  
-           <tr>
+          <tr>
            <td><b>VEuPathDB Community Annotation Webinar</b> with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation (March 23, 2023)<br>
            <b>Webinar goals:</b><br>
            <ul>
@@ -182,7 +182,51 @@ Release webinar dates are subject to change due to production issues that may ar
            <li>Discuss plans for updating the official genome annotation for TgME49 and ensure consistent representation at ToxoDB, GenBank, Ensembl, RefSeq, UniProt, SwissProt, etc.</li>
            <li>Solicit feedback from the community about individual genes, ToxoDB</li></ul><br></td>
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/TdI9MbN0Du8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
-          </tr>     
+          </tr>   
+          <tr>
+           <td><b>Enrichment Analysis Tools in VEuPathDB</b> (February 23, 2023)<br>
+           <b>Description:</b> This webinar will focus on the post-searches enrichment tools. Functional enrichment is never far away from the gene result in VEuPathDB sites. Learn to deploy the enrichment tools and enrichment results to guide the next steps in your research project. <br>
+           <b>Handouts:</b><br>
+           <ul>
+           <li><a href="{{'/documents/23FEB23_Gene_function_enrichment.pdf' | absolute_url}}">Gene function enrichment slides</a><br></li>
+           <li><a href="{{'/documents/23FEB23_ECnummbers.pdf' | absolute_url}}">EC numbers slide</a><br></li></ul></td>
+           <td><br><iframe width="280" height="157" src="https://youtu.be/_aLYAEaApJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>    
+          <tr>
+           <td><b>The Search Strategy System</b> (February 2, 2023)<br>
+           <b>Description:</b> This webinar focused on the search strategy system. We presented a general background, and demonstrated the preconfigured searches with an emphasis on how to use the system to answer your own biological questions or support your own hypotheses.<br></td>
+           <td><br><iframe width="280" height="157" src="https://youtu.be/ipJ3FCYodCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>VEuPathDB Apollo Annotation and Curation</b> (May 25, 2022)<br>
+           <b>Description:</b> <br>
+           <ul>
+           <li>Apollo navigation and main tools</li>
+           <li>Structural and functional annotations</li>
+           <li>Evidence as tracks and Galaxy</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://youtu.be/sHn_qOCYQ38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>2022 Ticks and Tick-Borne Pathogens Open Community Webinar Series</b> (8 March to 14 June, 2022)<br>
+           <b>Agenda and recordings:</b> <a href="https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html">https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html</a><br><br></td>
+          </tr>  
+          <tr>
+           <td><b>Analyzing your own data in VectorBase</b> (June 10, 2021)<br>
+           <b>Handouts:</b> 
+           <ul>
+           <li><a href="{{'/documents/10June2021_Galaxy0_webinar.pdf' | absolute_url}}">Galaxy 0: Setting up a VectorBase Galaxy account</a><br></li>
+           <li><a href="{{'/documents/10June2021_Galaxy1_webinar.pdf' | absolute_url}}">Galaxy 1: Uploading data and starting a workflow</a><br></li>
+           <li><a href="{{'/documents/10June2021_Galaxy2_webinar.pdf' | absolute_url}}">Galaxy 2: View & interpret the results</a><br></li>
+           </ul>
+           <b>Description:</b> This webinar describes how you can analyze your own data in VectorBase:
+           <ul>
+           <li>Introduction to differential expression</li>
+           <li>RNAseq analysis in Galaxy</li>
+           <li>RNAseq result export to VectorBase</li>
+           <li>Exploring your RNAseq data in VectorBase</li>
+           <li>Go enrichment analysis</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://youtu.be/07Z4DteNSPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
         </tbody>
       </table>
         </details>  
@@ -200,24 +244,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <iframe width="280" height="157" src="https://www.youtube.com/embed/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-<div class="anchor"><a name="generecordpages"></a></div>
-<div class="webinar">
-<b>Deep dive into content and features of VEuPathDB gene record pages</b> (April 6, 2023)<br>
-<b>Recording:</b> <a href="https://youtu.be/-OJAFsWAy9Q" target="_blank">https://youtu.be/-OJAFsWAy9Q</a> <br>
-</div>
-
-<div class="anchor"><a name="toxoannotation"></a></div>
-<div class="webinar">
-<b>Topic:</b> VEuPathDB Community Annotation Webinar with a focus on updating the <i>Toxoplasma gondii</i> ME49 annotation<br>
-<b>Date:</b> March 23, 2023<br>
-<b>Recording:</b> <a href="https://youtu.be/TdI9MbN0Du8" target="_blank">https://youtu.be/TdI9MbN0Du8</a> <br>
-<b>Webinar goals:</b><br>
-<ul>
-<li>Demonstrate how to contribute gene modifications using Apollo, or attach User Comments to individual genes or other records</li>
-<li>Discuss plans for updating the official genome annotation for TgME49 and ensure consistent representation at ToxoDB, GenBank, Ensembl, RefSeq, UniProt, SwissProt, etc.</li>
-<li>Solicit feedback from the community about individual genes, ToxoDB</li>
-</ul>
-</div>
 
 <div class="anchor"><a name="Enrich2023"></a></div>
 <div class="webinar">
