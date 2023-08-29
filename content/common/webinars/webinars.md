@@ -190,12 +190,12 @@ Release webinar dates are subject to change due to production issues that may ar
            <ul>
            <li><a href="{{'/documents/23FEB23_Gene_function_enrichment.pdf' | absolute_url}}">Gene function enrichment slides</a><br></li>
            <li><a href="{{'/documents/23FEB23_ECnummbers.pdf' | absolute_url}}">EC numbers slide</a><br></li></ul></td>
-           <td><br><iframe width="280" height="157" src="https://youtu.be/_aLYAEaApJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <td><br><iframe width="560" height="315" src="https://www.youtube.com/embed/_aLYAEaApJY?si=-ifM_P-W0qCpJjC2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>    
           <tr>
            <td><b>The Search Strategy System</b> (February 2, 2023)<br>
            <b>Description:</b> This webinar focused on the search strategy system. We presented a general background, and demonstrated the preconfigured searches with an emphasis on how to use the system to answer your own biological questions or support your own hypotheses.<br></td>
-           <td><br><iframe width="280" height="157" src="https://youtu.be/ipJ3FCYodCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <td><br><iframe width="560" height="315" src="https://www.youtube.com/embed/ipJ3FCYodCw?si=Bdof8vTs2LHccxvj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>  
           <tr>
            <td><b>VEuPathDB Apollo Annotation and Curation</b> (May 25, 2022)<br>
@@ -204,11 +204,11 @@ Release webinar dates are subject to change due to production issues that may ar
            <li>Apollo navigation and main tools</li>
            <li>Structural and functional annotations</li>
            <li>Evidence as tracks and Galaxy</li></ul><br></td>
-           <td><br><iframe width="280" height="157" src="https://youtu.be/sHn_qOCYQ38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <td><br><iframe width="560" height="315" src="https://www.youtube.com/embed/sHn_qOCYQ38?si=A84sD0YNb2ldE-fr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>  
           <tr>
-           <td><b>2022 Ticks and Tick-Borne Pathogens Open Community Webinar Series</b> (8 March to 14 June, 2022)<br>
-           <b>Agenda and recordings:</b> <a href="https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html">https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html</a><br><br></td>
+           <td><b>2022 Ticks and Tick-Borne Pathogens Open Community Webinar Series</b> (8 March to 14 June, 2022)<br></td>
+           <td><b>Agenda and recordings:</b> <a href="https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html">https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html</a></td>
           </tr>  
           <tr>
            <td><b>Analyzing your own data in VectorBase</b> (June 10, 2021)<br>
@@ -225,7 +225,7 @@ Release webinar dates are subject to change due to production issues that may ar
            <li>RNAseq result export to VectorBase</li>
            <li>Exploring your RNAseq data in VectorBase</li>
            <li>Go enrichment analysis</li></ul><br></td>
-           <td><br><iframe width="280" height="157" src="https://youtu.be/07Z4DteNSPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <td><br><iframe width="560" height="315" src="https://www.youtube.com/embed/07Z4DteNSPo?si=M6kIrj2k47yFqXMG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>  
         </tbody>
       </table>
