@@ -455,7 +455,7 @@ Release webinar dates are subject to change due to production issues that may ar
           </tr>  
           <tr>
            <td><b>Interpreting RNAseq data in the genome browser</b> (April 30, 2020)<br>
-           <<b>Description:</b> This webinar will guide you through the process of viewing RNA-seq coverage tracks in the genome browser and how to use this data to examine gene structure. Specifically, the webinar will cover:<br>
+           <b>Description:</b> This webinar will guide you through the process of viewing RNA-seq coverage tracks in the genome browser and how to use this data to examine gene structure. Specifically, the webinar will cover:<br>
            <ul>
            <li>Loading RNA-seq and viewing data tracks</li>
            <li>Loading and viewing splice junction tracks</li>
