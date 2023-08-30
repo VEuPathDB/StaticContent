@@ -167,7 +167,8 @@ Release webinar dates are subject to change due to production issues that may ar
         </thead>
         <tbody>         
           <tr>
-           <td><b>2023 Ticks and Mites Community Webinar</b> (June 22, 2023)<br><b>Agenda:</b> <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br></td>
+           <td><b>2023 Ticks and Mites Community Webinar</b> (June 22, 2023)<br>
+           <b>Agenda:</b> <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br></td>
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>  
           <tr>
@@ -227,6 +228,80 @@ Release webinar dates are subject to change due to production issues that may ar
            <li>Go enrichment analysis</li></ul><br></td>
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/07Z4DteNSPo?si=M6kIrj2k47yFqXMG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>  
+          <tr>
+           <td><b>The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC</b> (June 1, 2021)<br>
+           <b>Description:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Pathosystems Resource Integration Center.<br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/GKNR3dViCcw?si=1ur0rXJiok-grKlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Exploring Transcriptomic Data in VectorBase</b> (May 20, 2021)<br>
+           <b>Handout: </b> <a href="{{'/documents/Transcriptomics_VectorBase_webinar2021_QAndA_Report.xlsx' | absolute_url}}">QandA webinar report</a><br>
+           <b>Description:</b> This webinar describes how to explore transcriptomic data including:
+           <ul>
+           <li>Exploring RNAseq searches</li>
+           <li>Exploring microarray searches</li>
+           <li>Exploring transcriptomic graphs</li>
+           <li>Exploring RNAseq data in the genome browser</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/Sp7GAjSgDPs?si=525k-KpuSlRsT2mJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR</b> (May 18 2021)<br>
+           <b>Description:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.<br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/G6MaVi5G2qY?si=TQgdP_vsbw1H6RLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Web-based analysis of 16S rRNA microbiome data using Nephele and MicrobiomeDB</b> (May 6, 2021)<br>
+           <b>Description:</b> This webinar will focus on using web resources to analyze 16s rRNA microbiome, specifically,
+           <ul>
+           <li>Analyzing data in <a href="https://nephele.niaid.nih.gov/index">Nephele</a> - the National Institute of Allergy & Infectious Diseases microbiome analysis platform.</li>
+           <li>Exploring Nephele analyzed data in <a href="https://microbiomedb.org/">MicrobiomeDB</a>.</li></ul><br></td>
+           <td><br><iframe src="https://player.vimeo.com/video/546055765?h=bd059b9b8f" width="320" height="180" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>The Bioinformatic Resource Centers Webinar Series: Aspergillus and FungiDB</b> (May 4, 2021)<br>
+           <b>Description:</b> This webinar will focus on <i>Aspergillus</i> pathogens and introduce users to bioinformatic resources available at FungiDB.<br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/jHDliZnjpS8?si=JPfjhgKkhzPmzR_S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>The Bioinformatic Resource Centers Webinar Series: RSV, Pneumoviridae & ViPR</b> (April 20, 2021)<br>
+           <b>Description:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.<br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/Wv0xUZKLDHg?si=bpgBzab6fK-LS-09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>
+          <tr>
+           <td><b>Building complex search strategies in VectorBase</b> (April 15, 2021)<br>
+           <b>Handout: </b> <a href="{{'/documents/Strategies_Training_Module_VB_2021.pdf' | absolute_url}}">Introductory/101 guide to construct your first strategy</a><br>
+           <b>Description:</b> This webinar describes how to build search strategies, including:
+           <ul>
+           <li>Starting your first step</li>
+           <li>Adding steps</li>
+           <li>Boolean operations</li>
+           <li>Transforming results to orthologs</li>
+           <li>Downloading search results</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/Z_PbgtU9C-k?si=mw7m-srZkTdH-VXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           </tr>
+           <tr>
+           <td><b>The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC</b> (March 30, 2021)<br>
+           <b>Description:</b> This webinar focused on respiratory pathogens and introduced users to bioinformatic resources available at the Pathosystems Resource Integration Center.<br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/SaKKUIIwDG0?si=GES_fo6Y3J6wJXh-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>
+           <tr>
+           <td><b>Introduction to VectorBase for the beginner</b> (March 25, 2021)<br>
+           <b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/Guide_for_former_BioMart_users.pdf">Guide for former BioMart users</a><br>
+           <b>Description:</b> This webinar will cover VectorBase basics including
+           <ul>
+           <li>The home page</li>
+           <li>Site Search</li>
+           <li>Building your first search strategy</li>
+           <li>The gene page</li>
+           <li>Available tools and searches</li>
+           <li>The genome browser</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/Ba4IUnrPOE0?si=kxti_rM12swVDEZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <tr>
+           <td><b>The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR</b> (March 16, 2021)<br>
+           <b>Description:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.<br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/zB_wKXqn54U?si=pKVnktW-XAdLOfoZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>
+          </tr>
         </tbody>
       </table>
         </details>  
