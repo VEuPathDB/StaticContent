@@ -301,7 +301,189 @@ Release webinar dates are subject to change due to production issues that may ar
            <b>Description:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.<br></td>
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/zB_wKXqn54U?si=pKVnktW-XAdLOfoZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
-          </tr>
+          <tr>
+           <td><b>The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB</b> (March 2, 2021)<br>
+           <b>Description:</b> This webinar will feature a lecture from Dr. Bridget Barker from Northern Arizona University and introduce users to bioinformatic resources available at FungiDB.org.<br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/SEWk0BvaWkc?si=DBgkxA5ZQPed713c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>The Bioinformatic Resource Centers Webinar Series: Influenza & IRD</b> (February 16, 2021)<br>
+           <b>Description:</b> This webinar focused on respiratory pathogens and introduced users to bioinformatic resources available at the Influenza Research Database.<br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/VP7d1XYIWdM?si=_jsj6xjyw_HHasrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Clinical and Epidemiologic Data Exploration for Genomic Researchers</b> (December 9, 2020)<br>
+           <b>Description:</b> In this webinar, we will cover key features and studies in ClinEpiDB that may be of interest to biologists working on infectious diseases.<br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/fpGjAhLGn8Y?si=2cMUlYrU0kppJZEh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Introduction to MicrobiomeDB</b> (September 17, 2020)<br>
+           <b>Description:</b>This webinar covered basic usage of MicrobiomeDB.org and described some of its key features.<br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/or0adtDmPhw?si=RUpthtgAlZgruxh_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Metabolic Pathways in VEuPathDB</b> (August 20, 2020)<br>
+           <b>Description:</b> This webinar focused on how to use and explore metabolic pathways in VEuPathDB sites.<br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/kHD0HbVwFfo?si=FkfH-KGLj4-QJjKG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Building complex search strategies in VEuPathDB</b> (August 13, 2020)<br>
+           <b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/13August2020webinar.pdf">Building complex search strategies in FungiDB</a><br>
+           <b>Description:</b> This webinar will demonstrate how to integrate diverse data types in search strategies to answer biological questions and build testable hypotheses.<br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/OBQCI5_Y9jU?si=OKCN7GU59wmSW87R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>HostDB: finding host genes responding to infection</b> (August 6, 2020)<br>
+           <b>Description:</b> This webinar will feature beta.HostDB.org and will showcase the types of available data to query host response to infection. <br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/VdlzBcTyJ2U?si=eC_9FOoV--Adq6jO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Proteomics data in VEuPathDB</b> (July 30, 2020)<br>
+           <b>Description:</b> This webinar will cover the types of proteomics data and searches available in VEuPathDB, including,<br>
+           <ul>
+           <li>Peptides</li>
+           <li>Quantitative proteomics</li>
+           <li>Post translational modifications (PTMs)</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/fXMs7mx3x5s?si=VQcvvP_pwVyy6FZL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Variant data in VEuPathDB</b> (July 23, 2020)<br>
+           <b>Description:</b> This webinar will cover:<br>
+           <ul>
+           <li>Single nucleotide polymorphism searches</li>
+           <li>Copy number variation searches</li>
+           <li>Variant data visualizations</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/1ZUPQCCdhAg?si=h0UQ3d9StrqKIQ0l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Introduction to FungiDB - Data and Functionality</b> (July 16th, 2020)<br>
+           <b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/FungiDBNavigatingmainpage.pdf">Anatomy of the main page</a><br>
+           <b>Description:</b> This webinar will cover:<br>
+           <ul>
+           <li>What type of data is in FungiDB</li>
+           <li>How we find out about data and schedule it for release</li>
+           <li>Demo of key searches</li>
+           <li>Demo of key search and analysis tools</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/EAL_7uCPH3Q?si=9fxxC7bOEMqPESlf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>RNAseq searches in VEuPathDB</b> (July 9th, 2020)<br>
+           <<b>Description:</b> This webinar will demonstrate how to search for under differential expression with RNAseq datasets. <br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/D2NAqIz6Fug?si=q9oEMkcgUCusYGr6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Orthology searches and OrthoMCL</b> (July 2nd, 2020)<br>
+           <b>Description:</b> This webinar will demonstrate how to search for homolog genes. <br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/KYD44dBteSs?si=KDRdM-9_OGYbFHaG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Searching Phenotypic datasets in VEuPathDB</b> (June 25, 2020)<br>
+           <b>Description:</b> This webinar gives an overview of phenotypic data on VEuPathDB sites, including representation of data on gene pages and searches that access all data so that you can find all genes with a certain phenotype.  Phenotype data on our sites is based on cellular imaging experiments, and mutagenesis studies (among others).<br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/0KNatBANi94?si=7UCRg0IuzWPRWDZ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Special event: Introduction for VectorBase users</b> (June 18, 2020)<br>
+           <b>Description:</b> Topics covered included:<br>
+           <ul>
+           <li>Tour of the new (beta) website layout and organization</li>
+           <li>Overview of the new tools</li>
+           <li>Process for new data set incorporation</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/nETsJDwFxBA?si=e524DHf0MWte66nq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>MapVEu: population biology map filtering and searches</b> (June 11, 2020)<br>
+           <b>Description:</b> This webinar will demonstrate how to use the MapVEu tool in VEuPathDB. Topics covered will include:<br>
+           <ul>
+           <li>Basic MapVEu navigation</li>
+           <li>Filtering data in the map</li>
+           <li>Exploring record details</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/XhnUuDN7CLo?si=w9F0HphViifmz1GE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Motif searches and regular expressions in VEuPathDB</b> (June 4, 2020)<br>
+           <b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/Handout1-Webinar-4-June-2020.pdf">Motifs and regular expressions 1</a><br>
+           <b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/Handout2-Webinar-4-June-2020.pdf">Motifs and regular expressions 2</a><br>
+           <b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/Handout3-Webinar-4-June-2020.pdf">Motifs and regular expressions 3</a><br>
+           <b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/Regular-Expressions-slides.pdf">Motifs and regular expressions presentation slides</a><br>
+           <b>Description:</b> This webinar will describe the different available motif searches including regular expressions in VEuPathDB. Topics covered will include:<br>
+           <ul>
+           <li>InterPro domains</li>
+           <li>InterPro domain searches</li>
+           <li>Regular expressions</li>  
+           <li>Regular expressions searches</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/kaQbEdtjIew?si=c3DvSEvwRKjBQkJD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>GO and other enrichment analyses in VEuPathDB</b> (May 28, 2020)<br>
+           <b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/27May2020VEuPathDBWebinarfinal.pdf">Enrichment Analysis in VEuPathDB</a><br>
+           <b>Additional Details:</b> This webinar will guide you through the process of running enrichment analyses in VEuPathDB. Topics covered will include:<br>
+           <ul>
+           <li>Gene ontology</li>
+           <li>GO enrichment</li>
+           <li>Metabolic pathway enrichment</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/l5Uf49T9AF4?si=t029ltKC670B5oG7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Manual gene annotation in Apollo</b> (May 21, 2020)<br>
+           <b>Description:</b> This webinar will guide you through the process of updating and fixing gene models based on underlying data. Topics covered will include:<br>
+           <ul>
+           <li>How to add new gene models</li>
+           <li>How to alter the structure of a gene</li>
+           <li>How to use underlying data to support structural changes</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/RMXZDBMh8Fo?si=KO_jQRLXjbiCI1sL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Running a Galaxy workflow and integrating data into VEuPathDB</b> (May 14, 2020)<br>
+           <b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/14May2020_How-to-set-an-account-in-VEuPathDB-Galaxy.pdf">How to set up an account in VEuPathDB Galaxy</a><br>
+           <b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/14May2020_RNA-sequence-data-analysis-in-VEuPathDB-Galaxy-Part-1.pdf">RNA sequence data analysis in VEuPathDB Galaxy Part 1</a><br>
+           <b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/14May2020_RNA-sequence-data-analysis-in-VEuPathDB-Galaxy-Part-2.pdf">RNA sequence data analysis in VEuPathDB Galaxy Part 2</a><br>
+           <b>Description:</b> This webinar will guide you through the process of running a workflow in galaxy and exporting the results to your VEuPathDB workspace.<br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/k15AJlZpNH8?si=hlvRQQYlVqbo3oDW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Building search strategies in VEuPathDB</b> (May 7th, 2020)<br>
+           <b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/07May2020-Strategies-in-PlasmoDB.pdf">Building Strategies- example in PlasmoDB</a><br>
+           <b>Handout: </b> <a href="https://static-content.veupathdb.org/documents/07May2020_Building-search-strategies-in-FungiDB.pdf">Building search strategies in FungiDB</a><br>
+           <b>Additional Details:</b> This webinar will guide you through the process of building search strategies in VEuPathDB resources. Topics covered will include:<br>
+           <ul>
+           <li>Running searches</li>
+           <li>Combining searches in your strategy space</li>
+           <li>Editing steps in your search strategy</li>
+           <li>Examining results of search strategies</li>
+           <li>Analyzing search strategy results (eg. GO enrichment)</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/hmTzUUibSeY?si=aW1L_TEndjttbLea" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Interpreting RNAseq data in the genome browser</b> (April 30, 2020)<br>
+           <<b>Description:</b> This webinar will guide you through the process of viewing RNA-seq coverage tracks in the genome browser and how to use this data to examine gene structure. Specifically, the webinar will cover:<br>
+           <ul>
+           <li>Loading RNA-seq and viewing data tracks</li>
+           <li>Loading and viewing splice junction tracks</li>
+           <li>Interpreting RNA-seq results to confirm gene models and propose alternative ones</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/W-HKQMq2_tI?si=twoWqiP6CeH631Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Introduction to the genome browser in VEuPathDB</b> (April 23, 2020)<br>
+           <b>Description:</b> This webinar will introduce you to the genome browser in VEuPathDB resources. Topics covered will include:<br>
+           <ul>
+           <li>How to get started with JBrowse</li>
+           <li>How to add tracks</li>
+           <li>How to search in JBrowse</li>
+           <li>How to move around</li>
+           <li>How to load your own data</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/GfV1LrycO7Y?si=n4h_LJ4PYIVLKnqF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
+          <tr>
+           <td><b>Introduction to VEuPathDB resources</b> (April 16, 2020)<br>
+           <b>Description:</b> This webinar will introduce you to VEuPathDB resources and highlight some of the tools available to you to explore and analyze underlying data.  Topics covered will include:<br>
+           <ul>
+           <li>How to get started</li>
+           <li>RNAseq searches</li>
+           <li>MapVEu</li>
+           <li>Phenotype data</li>
+           <li>Galaxy tools</li></ul><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/YprhSDTvsEE?si=H9ngtwxwGYhibXmS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          </tr>  
         </tbody>
       </table>
         </details>  
