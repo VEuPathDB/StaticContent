@@ -367,7 +367,7 @@ Release webinar dates are subject to change due to production issues that may ar
           </tr>  
           <tr>
            <td><b>RNAseq searches in VEuPathDB</b> (July 9th, 2020)<br>
-           <<b>Description:</b> This webinar will demonstrate how to search for under differential expression with RNAseq datasets. <br></td>
+           <b>Description:</b> This webinar will demonstrate how to search for differential expression with RNAseq datasets. <br></td>
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/D2NAqIz6Fug?si=q9oEMkcgUCusYGr6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>  
           <tr>
