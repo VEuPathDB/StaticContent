@@ -207,8 +207,9 @@ Release webinar dates are subject to change due to production issues that may ar
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/sHn_qOCYQ38?si=A84sD0YNb2ldE-fr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>  
           <tr>
-           <td><b>2022 Ticks and Tick-Borne Pathogens Open Community Webinar Series</b> (8 March to 14 June, 2022)<br></td>
-           <td><b>Agenda and recordings:</b> <a href="https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html">https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html</a></td>
+           <td><b>2022 Ticks and Tick-Borne Pathogens Open Community Webinar Series</b> (8 March to 14 June, 2022)<br>
+           <b>Agenda and recordings:</b> <a href="https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html">https://veupathdb.org/veupathdb/app/static-content/tickwebinars.html</a><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/93Ci3UJ-yAU?si=LdfRHA1nofWZZZuF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>  
           <tr>
            <td><b>Analyzing your own data in VectorBase</b> (June 10, 2021)<br>
