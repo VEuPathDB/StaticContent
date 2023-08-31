@@ -40,7 +40,6 @@ tags: [general]
   <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
   <b>Details:</b> This webinar will focus on what is new in Release 65 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
   </div>    
-  <hr style="width:30%; margin-left:0">  
 
   <div class="anchor"><a name="release66"></a></div>
   <div class="webinar">
@@ -124,7 +123,6 @@ Release webinar dates are subject to change due to production issues that may ar
 
 </div>-->
 
-<hr>  <!-- =========== PREVIOUS WEBINARS  ======================== -->
 
 <div class="anchor"><a name="release"></a></div>
 <div class="contents">
@@ -152,7 +150,6 @@ Release webinar dates are subject to change due to production issues that may ar
 <li><b>Release 47 Webinar</b> (June 10, 2020): <a href="https://youtu.be/Ab0V1ojYono" target="_blank">https://youtu.be/Ab0V1ojYono</a></li>
 </ul><br>
 </details>
-  <hr>  
 
 <div class="anchor"><a name="On-Demand Webinars"></a></div>
   <details open>
@@ -484,7 +481,6 @@ Release webinar dates are subject to change due to production issues that may ar
            <li>Galaxy tools</li></ul><br></td>
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/YprhSDTvsEE?si=H9ngtwxwGYhibXmS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>  
-        <hr>
 
 
 <!--<div class="anchor"><a name="previous"></a></div>
