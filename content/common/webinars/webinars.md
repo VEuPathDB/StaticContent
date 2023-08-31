@@ -13,7 +13,7 @@ tags: [general]
     line-height: 90%;
   }
   div.webinar {
-    margin: 2em 0;
+    margin: 1em 0;
   }
   details summary { 
   cursor: pointer;
