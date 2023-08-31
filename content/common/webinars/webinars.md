@@ -150,6 +150,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <li><b>Release 47 Webinar</b> (June 10, 2020): <a href="https://youtu.be/Ab0V1ojYono" target="_blank">https://youtu.be/Ab0V1ojYono</a></li>
 </ul><br>
 </details>
+</div>   
 
 <div class="anchor"><a name="On-Demand Webinars"></a></div>
   <details open>
