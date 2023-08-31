@@ -153,6 +153,7 @@ Release webinar dates are subject to change due to production issues that may ar
 </div>   
 
 <div class="anchor"><a name="On-Demand Webinars"></a></div>
+<div class="contents">
   <details open>
     <summary><h3>On-Demand Training</h3> </summary>
     <br>
@@ -482,6 +483,8 @@ Release webinar dates are subject to change due to production issues that may ar
            <li>Galaxy tools</li></ul><br></td>
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/YprhSDTvsEE?si=H9ngtwxwGYhibXmS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>  
+          </details>
+          </div>   
 
 
 <!--<div class="anchor"><a name="previous"></a></div>
