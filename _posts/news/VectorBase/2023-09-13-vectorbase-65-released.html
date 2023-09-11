@@ -1,0 +1,130 @@
+---
+layout: post
+title: VectorBase 64 Released
+category: [VectorBase,VEuPathDB]
+---
+{% assign project = page.category[0] %}
+
+
+<h3>We are pleased to announce the release of {{project}} 64.</h3>
+
+<section>
+  <h3>Release 64 Webinar</h3>
+  <div style="margin-left: 3em;">
+    Join us on Thursday July 20th, 2023 at 10 am Eastern for our Release 64 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 64. 
+    <a href="https://attendee.gotowebinar.com/register/4226674862077131357" target="_blank">Register here</a>
+  </div>
+  <br>
+</section>
+
+
+<section>
+  <h3>New features in {{project}} 64</h3>
+  <div style="margin-left: 3em;">
+    <ul>
+      <li><a href="https://veupathdbprod.globusgenomics.org/" target="_blank">VEuPathDB Galaxy</a> now offers a preconfigured ChIP Seq workflow. This workflow processes ChIP Seq FASTQ files by aligning to your chosen reference genome with BWA then calling peaks using MACS2. Peaks calculated from the input FASTQ files are converted to bigWig format which can be exported from Galaxy to your VEuPathDB account.</li>
+      <li>Strategy Improvement  &ndash; A new option in the gene result table provides a view of search specific data columns for your preferred subset of genes. Click the 'Show only the Genes in my basket' option from any gene result to filter the result based on the genes in your basket.  This can be used in combination with the 'Send to Basket (replace)' option to view search specific data columns for multi-step strategy results. <a target="_blank" href="https://youtu.be/SCCxNTGu-dQ">Filter by Basket tutorial.</a> </li>
+   </ul>
+  </div>
+</section>
+
+<section>
+  <h3>Reference Genome Transition</h3>
+  <div style="margin-left: 3em;">
+    Recent updates to <a href="https://docs.google.com/spreadsheets/d/1lqzR7jJTi_NbjTp4y4DpxAilir-ndlWnH-v9NyodGm8/edit?usp=sharing" target="_blank">mosquito and tick species</a> include new assemblies that are much less fragmented, some organized to the chromosome level. All functional data alignments (e.g., RNAseq) will be mapped to both the current and new genomes.  After approximately six months, functional data alignments to the old assembly will be removed; old assemblies will remain available on VectorBase indefinitely but with limited functionality. The new assembly will have all the omics data sets aligned and complete site functionality. A banner on the genome page of the species involved will indicate such changes (e.g., <a href="https://vectorbase.org/vectorbase/app/record/dataset/TMPTX_iscaPalLabHiFi">Ixodes scapularis PalLabHiFi</a>). If you have any feedback or questions, need help, or are not able to find your genes of interest in the new genomes, please do not hesitate to contact us <a href="/a/app/contact-us">https://vectorbase.org/vectorbase/app/contact-us</a>.
+  </div>
+</section>
+
+<section>
+  <h3>New data in {{project}} 64</h3>
+  <div style="margin-left: 3em;">
+
+  <h4>Genome Sequence and Annotation</h4>
+  <div style="margin-left: 3em;">
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_c15b4dcf4a"><i>Anopheles cruzii</i> idAnoCruzAS_RS32_06 </a>&ndash;  <a href="https://www.ncbi.nlm.nih.gov/assembly/GCF_943734635.1" target="_blank">GCF_943734635.1</a>. </li>
+
+      <li><a href="/a/app/record/dataset/DS_4a4d01e08e"><i>Anopheles moucheti</i> idAnoMoucSN_F20_07 </a>&ndash;  <a href="https://www.ncbi.nlm.nih.gov/assembly/GCF_943734755.1" target="_blank">GCF_943734755.1</a>. </li>
+
+      <li><a href="/a/app/record/dataset/DS_f4d18829f8"><i>Rhipicephalus sanguineus</i> Rsan-2018 </a>&ndash;  <a href="https://www.ncbi.nlm.nih.gov/assembly/GCF_013339695.2" target="_blank">GCF_013339695.2</a> &ndash; <a href="http://www.ncbi.nlm.nih.gov/pubmed/32814014" target="_blank">Jia et al. 2020</a>. </li>
+    </ul>
+  </div>
+    <br>
+
+  <h4>RNA Sequence</h4>
+  <div style="margin-left: 3em;">
+    <ul>
+      <li><i>Aedes aegypti</i> LVP_AGWG</li>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_dba68c637d">Mosquito cell lines Aag2 and CCL-125 </a>&ndash; Transcriptome sequencing of <i>Ae. aegypti</i> Aag2 and CC-125 cell lines. </li>
+      </ul>
+
+      <li><i>Aedes albopictus</i> Foshan FPA</li>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_4c091fefa9">Mosquito cell lines C6/36, C7/10 and u4.4</a>. </li>
+      </ul>
+
+      <li><i>Anopheles gambiae</i> PEST</li>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_819b6b9a4d">Mosquito cell line MOS55 </a>&ndash; plus biological replicates of Wolbachia-infected (wMelPop and wMel), and with- and without-DNV. </li>
+        <li><a href="/a/app/record/dataset/DS_5d6ca2547f">Mosquito cell line Sua5B </a>&ndash; plus biological replicates of Wolbachia-infected and uninfected.  </li>
+      </ul>
+
+      <li><i>Culex quinquefasciatus</i> JHB 2020</li>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_48a5768081">Individual Hawaiian mosquitoes response to the avian malaria parasite <i>Plasmodium relictum</i></a> &ndash; Five <i>Plasmodium</i>-infected and three uninfected individual mosquitoes at three stages of the parasite life cycle (24 hpf, 5 dpf, 10 dp) were analyzed by RNA seq. <a href="http://www.ncbi.nlm.nih.gov/pubmed/36038897" target="_blank">Ferreira et al. 2022</a></li>
+      </ul>
+
+      <li><i>Dermacentor andersoni</i> qqDerAnde1</li>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_2c164a746d">Tick cell lines DAE15, DAE100 and DVE1</a>&ndash; Unpublished transcriptome sequencing of <i>D. variabilis</i> DVE1 and, <i>D. andersoni</i> DAE15 and DAE100 cell lines. </li>
+      </ul>
+
+      <li><i>Ixodes scapularis</i> PalLabHiFi</li>
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_20cfb4a364">Tick cell line ISE6 uninfected and infected with <i>Ehrlichia</i> </a>&ndash; Transcriptome profiles of human ehrlichiosis agents (<i>Ehrlichia sp</i>), using <i>Ixodes scapularis</i> ISE6 cell line (ISE6). </li>
+
+        <li><a href="/a/app/record/dataset/DS_0941d3180e">Tick Cell Lines ISE6, ISE18, IDE2, IDE8, IDE12 and IRE11 </a>&ndash; Transcriptome RNA sequencing of tick cell lines. </li>
+      </ul>
+    </ul>
+  </div>
+    <br>
+
+  <h4>Proteomics</h4>
+  <div style="margin-left: 3em;">
+    <ul>
+      <li><a href="/a/app/record/dataset/DS_990d94a588">Body with no heads, wings, or legs </a>&ndash; Body of the <i>Anopheles stephensi</i> with no head, wings, or legs. Proteomic analyses were performed on a single pool from all collection time points.</li>
+    </ul>
+  </div>
+
+  <h4>Population Biology</h4>
+  <div style="margin-left: 3em;">
+    14 projects have been updated (usually to fix minor data issues):<br/>
+    <ul>
+    <li>Comparative analysis of response to selection with three insecticides in the dengue mosquito Aedes aegypti using mRNA sequencing. (VBP0000121: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=ISATab_VBP0000121_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000121">view on map</a>, 0 collections, 4 samples, 0 phenotypes, 0 genotypes)</li>
+    <li>Anopheles gambiae (s.l.) is found where few are looking : assessing mosquito diversity and density outside inhabited areas using diverse sampling methods (VBP0000714: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=ISATab_VBP0000714_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000714">view on map</a>, 268 collections, 5816 samples, 0 phenotypes, 0 genotypes)</li>
+    <li>First detection of a Vssc allele V1016G conferring a high level of insecticide resistance in Aedes albopictus collected from Europe (Italy) and Asia (Vietnam), 2016: a new emerging threat to controlling arboviral diseases (VBP0000370: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=ISATab_VBP0000370_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000370">view on map</a>, 6 collections, 300 samples, 2 phenotypes, 2051 genotypes)</li>
+    <li>Distribution of the Anopheles coluzzii and Anopheles gambiae s.s from Freetown and Monrovia and kdr resistance allele, West Africa (VBP0000016: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=ISATab_VBP0000016_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000016">view on map</a>, 9 collections, 294 samples, 0 phenotypes, 186 genotypes)</li>
+    <li>Genetic Structure of a Local Population of the Anopheles gambiae Complex in Burkina Faso (VBP0000124: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=ISATab_VBP0000124_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000124">view on map</a>, 422 collections, 422 samples, 0 phenotypes, 1266 genotypes)</li>
+    <li>Insecticide resistance is mediated by multiple mechanisms in recently introduced Aedes aegypti from Madeira Island (Portugal) (VBP0000195: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=ISATab_VBP0000195_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000195">view on map</a>, 16 collections, 16 samples, 8 phenotypes, 32 genotypes)</li>
+    <li>Dynamics of pyrethroid resistance in malaria vectors in southern Benin following a large scale implementation of vector control interventions (VBP0000150: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=ISATab_VBP0000150_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000150">view on map</a>, 184 collections, 184 samples, 59 phenotypes, 224 genotypes)</li>
+    <li>Knockdown Resistance (kdr) Mutations in Indian
+    Anopheles stephensi (Diptera: Culicidae) Populations (VBP0000225: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=ISATab_VBP0000225_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000225">view on map</a>, 9 collections, 9 samples, 2 phenotypes, 15 genotypes)</li>
+    <li>Insecticide susceptibility of Anopheles stephensi to DDT and current insecticides in an elimination area in Iran. (VBP0000157: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=ISATab_VBP0000157_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000157">view on map</a>, 1 collections, 11 samples, 11 phenotypes, 0 genotypes)</li>
+    <li>Insecticide resistance status of Aedes aegypti in 10 localities in Colombia (VBP0000127: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=ISATab_VBP0000127_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000127">view on map</a>, 10 collections, 20 samples, 109 phenotypes, 0 genotypes)</li>
+    <li>Phenotypic and genotypic pyrethroid resistance of Aedes albopictus, with focus on the 2017 chikungunya outbreak in Italy (VBP0000445: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=ISATab_VBP0000445_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000445">view on map</a>, 25 collections, 345 samples, 27 phenotypes, 1422 genotypes)</li>
+    <li>Current insecticide resistance status in Anopheles sacharovi and Anopheles superpictus populations in former malaria endemic areas of Turkey (VBP0000444: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=ISATab_VBP0000444_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000444">view on map</a>, 28 collections, 82 samples, 444 phenotypes, 0 genotypes)</li>
+    <li>Multiple mechanisms of resistance to pyrethroids in Anopheles gambiae s.l populations in Niger (VBP0000196: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=ISATab_VBP0000196_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000196">view on map</a>, 7 collections, 63 samples, 52 phenotypes, 0 genotypes)</li>
+    <li>Local selection in the presence of high levels of gene flow: Evidence of heterogeneous insecticide selection pressure across Ugandan Culex quinquefasciatus populations (VBP0000205: <a href="/a/app/search/transcript/DatasetsByDatasetNames?param.dataset_name=ISATab_VBP0000205_RSRC&autoRun=1">dataset info</a>, <a href="/popbio-map/web/?projectID=VBP0000205">view on map</a>, 5 collections, 542 samples, 0 phenotypes, 10170 genotypes)</li>
+    </ul>
+  </div>
+  <br>
+  </div>  
+</section>
+
+<section>
+  <aside>
+    <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>
+
