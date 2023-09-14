@@ -37,7 +37,7 @@ tags: [general]
   <b>Topic:</b> Release 65 Webinar<br>
   <b>Date:</b> Thursday, Sept 21, 2023<br>
   <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> https://register.gotowebinar.com/register/7756855956160196183<br>
+  <b>Registration:</b> <a href="https://register.gotowebinar.com/register/7756855956160196183">https://register.gotowebinar.com/register/7756855956160196183</a><br>
   <b>Details:</b> This webinar will focus on what is new in Release 65 of the VEuPathDB projects. We will discuss new data sets, demonstrate searches and features, and answer questions.
   </div>    
 
