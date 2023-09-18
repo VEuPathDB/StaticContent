@@ -33,7 +33,8 @@ div.method-details {
       <li><a href="#Searches-for-genes-based-on-orthology">Searches for genes based on orthology</a></li>
       </ul>
    <li><a href="#Proteomics">Proteomics</a></li>
-   <li><a href="#RNA-Sequence">RNA-Sequence</a></li>
+   <li><a href="#RNA-Sequence">RNA Sequence</a></li>
+   <li><a href="#scRNA-Seq">Single-cell RNA Sequence</a></li>
    <li><a href="#ChIP-Sequence">ChIP-Sequence</a></li>
    <li><a href="#Copy-Number-Variation">Copy Number Variation</a></li>
       <ul>
@@ -154,7 +155,7 @@ div.method-details {
 
 <hr>
 <div class="anchor"><a name="RNA-Sequence"></a></div>
-<h2>RNA-Sequence</h2>
+<h2>RNA Sequence</h2>
 <div class="method-details">
    <p>VEuPathDB integrates RNA-Seq data from many different experiments and analyzes all data with the same EBI RNA-Seq analysis pipeline. The RNA sequence data that we integrate is processed at EBI. </p>
 
@@ -170,6 +171,20 @@ div.method-details {
     
    <p><a href="https://docs.google.com/document/d/1igsvk73s3pNjeaJvwLtitfFLexhNfr6-Vk3OIKqq3bw/edit?usp=sharing">EBI RNA-Seq pipeline details</a></p>
  </div>
+
+<hr>
+<div class="anchor"><a name="scRNA-Seq"></a></div>
+<h2>Single-cell RNA Sequence</h2>
+<div class="method-details">
+
+<p>VEuPathDB supports scRNA-Seq data as expression values and cell cluster projections displayed in the CELLXGENE interactive data mining application. VEuPathDB loads the data directly from data providers without reanalyzing raw data. </p>
+<ul>
+   <li>A (sparse) matrix of the normalised expression for each gene in each cell. </li>
+   <li>Coordinates for the cluster analysis such as UMAP, PCA or PHATE projections.</li>
+   <li>Metadata about the cells which can originate from experimental parameters (e.g., which sample a given cell came from), qa output (e.g., number of features and number of RNAs counted for each cell), or derived metadata such as cluster assignments, of which there may be several if the clustering has been done in different ways.</li>
+</ul>
+</div>
+
 
 <hr>
 <div class="anchor"><a name="ChIP-Sequence"></a></div>
