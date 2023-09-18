@@ -83,7 +83,7 @@ div.method-details {
    
    <p><u>Synteny</u>: VEuPathDB uses an in-house script called runMercator to run pair-wise alignments that employs Mercator and MAVID for comparative genome analysis. Mercator generates orthology maps using genomes and exon coordinates to create exon translations for protein BLAT alignments. The orthology maps are used as a guide for MAVID which also uses a phylogenetic newick tree to generate gene alignments.</p>
 
-   <p><u>Product description annotations</u>: In genomes with greater than 90% uninformative gene product names such as 'unspecified product' or 'hypothetical', Pfam domain names are substituted for product descriptions for genes with assigned Pfam domains and uninformative product descriptions. Electronically transferred gene product descriptions are amended with ‘domain containing protein’ and the details of the electronic transfer are chronicled in the gene page Product Descriptions table.
+   <p><u>Product description annotations</u>: In genomes with greater than 90% uninformative gene product names such as 'unspecified product' or 'hypothetical', Pfam domain names are substituted for product descriptions for genes with assigned Pfam domains and uninformative product descriptions. Electronically transferred gene product descriptions are amended with ‘domain containing protein’ and the details of the electronic transfer are chronicled in the gene page Product Descriptions table.</p>
    
    <p><a href="{{'/documents/Methods-Supplements-Genomes.pdf' | absolute_url }}">Details for the supplements to the EBI pipelines</a></p>
   </div>
@@ -179,7 +179,7 @@ div.method-details {
 <h2>Single-cell RNA Sequence</h2>
 <div class="method-details">
 
-<p>VEuPathDB supports scRNA-Seq data as expression values and cell cluster projections displayed in the CELLXGENE interactive data mining application. VEuPathDB loads the data directly from data providers without reanalyzing raw data. </p>
+<p>VEuPathDB supports scRNA-Seq data as expression values and cell cluster projections displayed in the CELLXGENE interactive data mining application. VEuPathDB loads the data directly from data providers without reanalyzing raw data. Data is shared with VEuPathDB as:</p>
 <ul>
    <li>A (sparse) matrix of the normalised expression for each gene in each cell. </li>
    <li>Coordinates for the cluster analysis such as UMAP, PCA or PHATE projections.</li>
