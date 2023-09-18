@@ -82,6 +82,8 @@ div.method-details {
    <p><u>Open reading frame generation</u>: Open reading frames are generated from genomic DNA or EST sequences.  The analysis produces a gff file containing the ORFs (50 or more amino acid translations of the input nucleic acid) for the 6 reading frames. The translations in all 6 reading frames do not necessarily begin with MET but always end at a stop codon. ORF names are in the form template-frame-start-end, e.g. AAEL01000396-5-5847-4366.</p>
    
    <p><u>Synteny</u>: VEuPathDB uses an in-house script called runMercator to run pair-wise alignments that employs Mercator and MAVID for comparative genome analysis. Mercator generates orthology maps using genomes and exon coordinates to create exon translations for protein BLAT alignments. The orthology maps are used as a guide for MAVID which also uses a phylogenetic newick tree to generate gene alignments.</p>
+
+   <p><u>Product description annotations</u>: In genomes with greater than 90% uninformative gene product names such as 'unspecified product' or 'hypothetical', Pfam domain names are substituted for product descriptions for genes with assigned Pfam domains and uninformative product descriptions. Electronically transferred gene product descriptions are amended with ‘domain containing protein’ and the details of the electronic transfer are chronicled in the gene page Product Descriptions table.
    
    <p><a href="{{'/documents/Methods-Supplements-Genomes.pdf' | absolute_url }}">Details for the supplements to the EBI pipelines</a></p>
   </div>
