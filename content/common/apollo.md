@@ -69,7 +69,7 @@ div.centered-button a {
   </div>
   </div>
 
-  <div>
+  <div style="text-align: center;">
       <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" alt="Example of an apollo screen" />      
   </div>
 
