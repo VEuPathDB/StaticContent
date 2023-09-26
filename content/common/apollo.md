@@ -50,8 +50,9 @@ div.centered-button a {
   text-align: center;
 }
 .flex-container div img {
-  width: 100%;
-  border-radius: 4px;
+  width: 200px;
+  height: 300px;
+  object-fit: contain;
 }
 
 </style>
