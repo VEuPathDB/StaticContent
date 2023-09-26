@@ -26,10 +26,53 @@ div.centered-button a {
   text-decoration: none;
 }
 
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: 95%;
+}
+.flex-container div {
+  font-size: 75%;
+  border: 0.2em solid lightblue;
+  border-radius: 0.5em;
+  margin: 0 1em 1em 0;
+  padding: 0 1em 1em;
+  text-align: center;
+}
+.flex-container div button {
+  padding: 0.5em;
+}
+.flex-container div button a {
+  text-decoration: none;
+}
+.flex-container div h3 {
+  text-align: center;
+}
+
 </style>
 
 
-<h1>Structural and functional community curation in Apollo</h1>
+<h1>APOLLO: A Tool for Structural and Functional Community Curation</h1>
+
+<div class="centered-button">
+      <a class="eupathdb-BigButton" title="Open Apollo in a new tab/window"  href="https://apollo.veupathdb.org/">Go to Apollo</a>
+  </div>
+
+  <div class="static-content flex-container">
+  <div>
+    <h3>Apollo</h3>
+    <p>Click here if you are a trained and experienced Apollo user</p>
+    <button><a href="https://apollo.veupathdb.org/">Apollo</a></button>
+  </div>
+ <div style="text-align: center;">
+      <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" alt="Example of an apollo screen" />      
+  </div>
+  <div>
+    <h3>Apollo Sandbox</h3>
+    <p>Click here for a "play" Apollo site to experiment and learn</p>
+    <button><a href="https://apollo-sandbox.veupathdb.org/annotator/index">Apollo Sandbox</a></button>
+  </div>
 
 <div class="static-content">
   <h3>Welcome to the VEuPathDB Apollo service <a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/30726205">(Dunn et al. 2019)</a>, a real time collaborative genome annotation and curation platform.</h3>
@@ -67,10 +110,6 @@ We are currently in the process of a long term project to update our genome anno
     <div style="text-align: center;">
       <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" alt="Example of an apollo screen" />      
     </div>
-  </div>
-
-  <div class="centered-button">
-      <a class="eupathdb-BigButton" title="Open Apollo in a new tab/window"  href="https://apollo.veupathdb.org/">Go to Apollo</a>
   </div>
 
 </div>
