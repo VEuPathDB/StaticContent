@@ -28,7 +28,9 @@ div.centered-button a {
 
 .flex-container {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
+  width: 100%;
   justify-content: center;
   font-size: 95%;
 }
