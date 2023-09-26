@@ -51,20 +51,10 @@ div.centered-button a {
 .flex-container div h3 {
   text-align: center;
 }
-.flex-container div img {
-  width: 200px;
-  height: 300px;
-  object-fit: contain;
-}
 
 </style>
 
-
 <h1>APOLLO: A Tool for Structural and Functional Community Curation</h1>
-
-<div class="centered-button">
-      <a class="eupathdb-BigButton" title="Open Apollo in a new tab/window"  href="https://apollo.veupathdb.org/">Go to Apollo</a>
-  </div>
 
   <div class="static-content flex-container">
   <div>
@@ -73,13 +63,14 @@ div.centered-button a {
     <button><a href="https://apollo.veupathdb.org/">Apollo</a></button>
   </div>
   <div>
-      <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" alt="Example of an apollo screen" />      
-  </div>
-  <div>
     <h3>New Users</h3>
     <p>Click here for a "play" Apollo site to experiment and learn</p>
     <button><a href="https://apollo-sandbox.veupathdb.org/annotator/index">Apollo Sandbox</a></button>
   </div>
+  </div>
+
+  <div>
+      <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" alt="Example of an apollo screen" />      
   </div>
 
 <div class="static-content">
