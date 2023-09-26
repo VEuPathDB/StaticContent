@@ -65,6 +65,7 @@ div.centered-button a {
     <p>Click here if you are a trained and experienced Apollo user</p>
     <button><a href="https://apollo.veupathdb.org/">Apollo</a></button>
   </div>
+  <div>
       <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" alt="Example of an apollo screen" />      
   </div>
   <div>
