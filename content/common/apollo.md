@@ -49,6 +49,11 @@ div.centered-button a {
 .flex-container div h3 {
   text-align: center;
 }
+.flex-container div img {
+  width: 100%;
+  object-fit: contain;
+  border-radius: 4px;
+}
 
 </style>
 
