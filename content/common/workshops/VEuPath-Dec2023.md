@@ -246,7 +246,7 @@ div.instructor-table {
     <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Monday, 4th December 2023</b></th>
+            <th colspan="4" class="break"><b>Monday, 4th December 2023</b></th>
           </tr>
           <tr>
             <th class="time">Time (Eastern)</th>
