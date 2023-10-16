@@ -52,6 +52,7 @@ table.hor-minimalist-a th {
   font-size: 110%;
   font-weight: 400;
   color: #039;
+  border-top: 0;
   border-bottom: 2px solid #6678b1;
   padding: 0.5em;
   text-align: left;
@@ -82,10 +83,10 @@ table.hor-minimalist-a tfoot tr {
   border:0;
 }
 th.time {
-  width: 10%;
+  width: 20%;
 }
 th.event {
-  width: 50%;
+  width: 40%;
 }
 th.author {
   width: 20%;
@@ -97,10 +98,11 @@ div.centered-title {
     border: 1px solid black;
     border-radius: 1em;
     text-align: left;
-    margin-left: 10em;
-    margin-right: 10em;
+    margin-left: 8em;
+    margin-right: 8em;
     background: #F8F8F8;
     padding-left: 3em;
+    padding-right: 3em;
 }
 div.instructor-table {
        text-align : left;
@@ -108,6 +110,19 @@ div.instructor-table {
        padding-right: 5px;
        padding-top: 5px;
        padding-bottom: 5px;
+}
+
+div.photowrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3.5em;
+  grid-auto-rows: minmax(100px, auto);
+  align-items: end;
+  font-size: 110%;
+}
+.photowrapper img {
+  padding-bottom: 1em;
+  width: 20em;
 }
 </style>
 
