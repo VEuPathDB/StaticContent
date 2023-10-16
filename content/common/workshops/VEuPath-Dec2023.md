@@ -263,6 +263,7 @@ div.instructor-table {
             <td></td>
           </tr>
         </tbody>
+      </table>
       </details>        
   </div> 
     <!--
