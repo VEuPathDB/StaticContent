@@ -267,7 +267,7 @@ div.instructor-table {
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Tuesday, 5th December 2023</b></th>
+            <th colspan="4" class="break"><b>Tuesday, 5th December 2023</b></th>
           </tr>
           <tr>
             <th class="time">Time (Eastern)</th>
@@ -288,7 +288,7 @@ div.instructor-table {
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Wednesday, 6th December 2023</b></th>
+            <th colspan="4" class="break"><b>Wednesday, 6th December 2023</b></th>
           </tr>
           <tr>
             <th class="time">Time (Eastern)</th>
@@ -309,7 +309,7 @@ div.instructor-table {
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th class="break"><b>Thursday, 7th December 2023</b></th>
+            <th colspan="4" class="break"><b>Thursday, 7th December 2023</b></th>
           </tr>
           <tr>
             <th class="time">Time (Eastern)</th>
