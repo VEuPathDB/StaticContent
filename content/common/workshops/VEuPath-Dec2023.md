@@ -58,7 +58,7 @@ table.hor-minimalist-a th {
   text-align: left;
 }
 table.hor-minimalist-a tr {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 2px solid #ddd;
 }
 table.hor-minimalist-a tr:hover td {
   color: #039; 
@@ -279,6 +279,7 @@ div.photowrapper {
           </tr>
         </tbody>
       </table>
+      <br><br>
       <table class="hor-minimalist-a">
         <thead>
           <tr>
@@ -300,6 +301,7 @@ div.photowrapper {
           </tr>
         </tbody>
       </table>
+      <br><br>
       <table class="hor-minimalist-a">
         <thead>
           <tr>
@@ -321,6 +323,7 @@ div.photowrapper {
           </tr>
         </tbody>
       </table>
+      <br><br>
       <table class="hor-minimalist-a">
         <thead>
           <tr>
