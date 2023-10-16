@@ -183,14 +183,14 @@ div.instructor-table {
           <th>Institution</th>
         </tr>
       </thead>
-      <tbody>
-        <tr>
-          <td>Evelina Basenko, PhD</td>
-          <td>University of Liverpool</td>
-        </tr>      
+      <tbody> 
         <tr>
           <td>Ulrike Boehme, PhD</td>
           <td>University of Liverpool</td>
+        </tr>
+        <tr>
+          <td>Stuart Brown, PhD</td>
+          <td>University of Pennsylvania</td>
         </tr>
         <tr>
           <td>Gloria I. Giraldo-Calderón, PhD</td>
@@ -211,14 +211,10 @@ div.instructor-table {
         <tr>
           <td>Jessica Kissinger, PhD</td>
           <td>University of Georgia</td>
-        </tr>    
-        <tr>
-          <td>Mary Ann McDowell, PhD</td>
-          <td>University of Notre Dame</td>
         </tr>
         <tr>
-          <td>Samuel Rund, PhD</td>
-          <td>University of Notre Dame</td>
+          <td>Nupur Kittur, PhD</td>
+          <td>University of Georgia</td>
         </tr>
         <tr>
           <td>Dave Starns, PhD</td>
@@ -241,10 +237,35 @@ div.instructor-table {
   We invite you to read our most recent publication about VEuPathDB (<a href="https://pubmed.ncbi.nlm.nih.gov/34718728/" target="_blank">Amos et al 2022</a>).  Please also explore our  <a href="https://www.youtube.com/user/EuPathDB" target="_blank">You Tube Channel</a> and previously recorded <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">webinars and workshops</a>. Our goal is to maintain a fruitful and ongoing conversation between our team and yours to learn more efficient, effective ways to help you reach your goals. Regardless, if you attend the workshop or not, please feel free to email us with questions, new feature suggestions, or new data at <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>.  
   <br><br>
 
-<!--
+
   <div class="anchor"><a name="Schedule"></a></div>
   <details open>
-    <summary><b>Schedule</b></summary>   
+    <summary><b>Basic Schedule</b></summary>
+    <h4>   
+    <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
+    <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Monday, 4th December 2023</b></th>
+          </tr>
+          <tr>
+            <th class="time">Time (Eastern)</th>
+            <th class="event">Topic (and handout)</th>
+            <th class="author">Instructor</th>
+            <th class="recording">Recording</th>
+          </tr>
+        </thead>        
+        <tbody>         
+          <tr>
+            <td>9am - 1pm Eastern</td>
+            <td>Lectures and hands on exercises via zoom</td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </details>        
+  </div> 
+    <!--
     <h4>   
     <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
     <table class="hor-minimalist-a">
