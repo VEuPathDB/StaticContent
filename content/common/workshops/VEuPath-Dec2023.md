@@ -264,7 +264,70 @@ div.instructor-table {
           </tr>
         </tbody>
       </table>
-      </details>        
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Tuesday, 5th December 2023</b></th>
+          </tr>
+          <tr>
+            <th class="time">Time (Eastern)</th>
+            <th class="event">Topic (and handout)</th>
+            <th class="author">Instructor</th>
+            <th class="recording">Recording</th>
+          </tr>
+        </thead>        
+        <tbody>         
+          <tr>
+            <td>9am - 1pm Eastern</td>
+            <td>Lectures and hands on exercises via zoom</td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Wednesday, 6th December 2023</b></th>
+          </tr>
+          <tr>
+            <th class="time">Time (Eastern)</th>
+            <th class="event">Topic (and handout)</th>
+            <th class="author">Instructor</th>
+            <th class="recording">Recording</th>
+          </tr>
+        </thead>        
+        <tbody>         
+          <tr>
+            <td>9am - 1pm Eastern</td>
+            <td>Lectures and hands on exercises via zoom</td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+      <table class="hor-minimalist-a">
+        <thead>
+          <tr>
+            <th class="break"><b>Thursday, 7th December 2023</b></th>
+          </tr>
+          <tr>
+            <th class="time">Time (Eastern)</th>
+            <th class="event">Topic (and handout)</th>
+            <th class="author">Instructor</th>
+            <th class="recording">Recording</th>
+          </tr>
+        </thead>        
+        <tbody>         
+          <tr>
+            <td>9am - 1pm Eastern</td>
+            <td>Lectures and hands on exercises via zoom</td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>    
+    </details>           
   </div> 
     <!--
     <h4>   
