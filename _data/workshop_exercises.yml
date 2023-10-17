@@ -15,7 +15,7 @@ cards:
         description: 
   - card: Gene Pages
     description: Explore the data and images on gene pages 
-    date: 2020/10/27
+    date: 2023/10/27
     exclude: OrthoMCL
     links:
       - name: Gene Pages
@@ -42,7 +42,7 @@ cards:
         description:
   - card: Genome Browser
     description: Basic tutorial on how to effectively explore data in the genome browser including track selection and configuration
-    date: 2020/04/15
+    date: 2023/10/17
     exclude: OrthoMCL
     links:
       - name: Genome browser basics
@@ -50,7 +50,7 @@ cards:
         description:
   - card: Genome Browser Advanced
     description: Self-led exercise on investigating genes models and structural annotations with RNA-seq expression data 
-    date: 2020/10/27
+    date: 2023/10/17
     exclude: OrthoMCL
     links:
       - name: RNA-Seq data & gene models
@@ -66,7 +66,7 @@ cards:
         description:
   - card: Host Response
     description: Explore host responses by building a search strategy in HostDB
-    date: 2020/10/27
+    date: 2023/10/17
     exclude: OrthoMCL
     links:
       - name: Host Response (HostDB)
@@ -104,7 +104,7 @@ cards:
         description:        
   - card: Orthology Phyletic Patterns
     description: Leverage the transform by orthology tool, orthology tables on gene pages, OrthoMCL, and the phyletic pattern search 
-    date: 2020/10/28
+    date: 2023/10/17
     links:
       - name: Orthology and Phyletic Patterns
         path: Orthology-Phyletic-Patterns.pdf
@@ -118,7 +118,7 @@ cards:
         description:
   - card: Regular expressions & colocation
     description: Use regular expressions to identify protein or DNA patters. Use the colocation tool to identify DNA segments based on their relative location on the genome
-    date: 2020/04/15
+    date: 2023/10/17
     exclude: OrthoMCL
     links:
       - name: Motifs, domains and regular expressions
@@ -129,7 +129,7 @@ cards:
         description: 
   - card: Search Strategies (Basics)
     description: Run basic searches, extend them into strategies, and explore search results
-    date: 2020/10/28
+    date: 2023/10/17
     links:
       - name: Search Strategies (Basics)
         path: SearchStrategies-short.pdf
@@ -139,28 +139,28 @@ cards:
         description:
   - card: Search Strategies (Advanced)
     description: Integrate diverse data types and leverage orthology or phylogenetic profiling
-    date: 2020/10/28
+    date: 2023/10/17
     links:
       - name: Search Strategies (Advanced)
         path: Advanced-Search-Strategies.pdf
         description:
   - card: Single Cell RNA Seq
     description: Explore single cell RNA Seq data in cellxgene and compare to bulk RNA Seq data
-    date: 2020/10/28
+    date: 2023/10/17
     links:
       - name: scRNA-Seq
         path: scRNAseq.pdf
         description:
   - card: Site Search
     description: Explore site search and learn how to filter your results or export them to a search strategy
-    date: 2020/10/27
+    date: 2023/10/17
     links:
       - name: Site Search
         path: SiteSearch.pdf
         description:
   - card: Transcriptomics and Proteomics
     description: Explore searches that return genes based on expression evidence from RNA-Seq, microaray and proteomics searches
-    date: 2020/10/28
+    date: 2023/10/17
     exclude: OrthoMCL
     links:
       - name: Expression searches
