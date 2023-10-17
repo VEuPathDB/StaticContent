@@ -15,7 +15,7 @@ cards:
         description: 
   - card: Gene Pages
     description: Explore the data and images on gene pages 
-    date: 2023/10/27
+    date: 2023/10/17
     exclude: OrthoMCL
     links:
       - name: Gene Pages
