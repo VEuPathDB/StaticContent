@@ -163,10 +163,10 @@ cards:
     date: 2023/10/17
     exclude: OrthoMCL
     links:
-      - name: Expression searches
+      - name: Transcriptomics searches
         path: Transcriptomics.pdf
         description:
-      - name: Expression searches
+      - name: Proteomics searches
         path: Proteomics.pdf
         description:
   - card: Variant Calling
