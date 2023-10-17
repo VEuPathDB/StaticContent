@@ -121,6 +121,9 @@ cards:
     date: 2020/04/15
     exclude: OrthoMCL
     links:
+      - name: Motifs, domains and regular expressions
+        path: Motifs-Domains-RegEX.pdf
+        description: 
       - name: Regular expressions & genomic colocation
         path: RegEXcolocate.pdf
         description: 
@@ -129,7 +132,10 @@ cards:
     date: 2020/10/28
     links:
       - name: Search Strategies (Basics)
-        path: SearchStrategies.pdf
+        path: SearchStrategies-short.pdf
+        description:
+      - name: Search Strategies -with explanations
+        path: SearchStrategies-long.pdf
         description:
   - card: Search Strategies (Advanced)
     description: Integrate diverse data types and leverage orthology or phylogenetic profiling
@@ -137,6 +143,13 @@ cards:
     links:
       - name: Search Strategies (Advanced)
         path: Advanced-Search-Strategies.pdf
+        description:
+  - card: Single Cell RNA Seq
+    description: Explore single cell RNA Seq data in cellxgene and compare to bulk RNA Seq data
+    date: 2020/10/28
+    links:
+      - name: scRNA-Seq
+        path: scRNAseq.pdf
         description:
   - card: Site Search
     description: Explore site search and learn how to filter your results or export them to a search strategy
@@ -151,7 +164,10 @@ cards:
     exclude: OrthoMCL
     links:
       - name: Expression searches
-        path: Transcriptomic-proteomics.pdf
+        path: Transcriptomics.pdf
+        description:
+      - name: Expression searches
+        path: Proteomics.pdf
         description:
   - card: Variant Calling
     description: Analyze DNA sequence for variants using a workflow in VEuPathDB Galaxy 
