@@ -136,7 +136,7 @@ div.photowrapper {
 
   <div class="centered-title">
     <p><h4><b><a href="#Schedule">SCHEDULE and HANDS-ON EXERCISES</a></b></h4></p>
-    <p><h4>9am - 1pm (EDT) daily </h4></p>
+    <p><h4>10am - 1pm (EDT) daily </h4></p>
     <p><h4><a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Virtual, hands-on workshop with short lectures and small goup instruction</h4></p>
     <p><h4>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</h4></p>
@@ -272,7 +272,7 @@ div.photowrapper {
         </thead>        
         <tbody>         
           <tr>
-            <td>9am - 1pm Eastern</td>
+            <td>10am - 1pm Eastern</td>
             <td>Lectures and hands on exercises via zoom</td>
             <td></td>
             <td></td>
@@ -294,7 +294,7 @@ div.photowrapper {
         </thead>        
         <tbody>         
           <tr>
-            <td>9am - 1pm Eastern</td>
+            <td>10am - 1pm Eastern</td>
             <td>Lectures and hands on exercises via zoom</td>
             <td></td>
             <td></td>
@@ -316,7 +316,7 @@ div.photowrapper {
         </thead>        
         <tbody>         
           <tr>
-            <td>9am - 1pm Eastern</td>
+            <td>10am - 1pm Eastern</td>
             <td>Lectures and hands on exercises via zoom</td>
             <td></td>
             <td></td>
@@ -338,7 +338,7 @@ div.photowrapper {
         </thead>        
         <tbody>         
           <tr>
-            <td>9am - 1pm Eastern</td>
+            <td>10am - 1pm Eastern</td>
             <td>Lectures and hands on exercises via zoom</td>
             <td></td>
             <td></td>
