@@ -66,7 +66,7 @@ div.centered-button a {
   </div>
   <div>
     <h3>New Users</h3>
-    <p>Click here for a "play" Apollo site to experiment and learn</p>
+    <p>Click here for a "play" Apollo site to experiment and learn. See FAQ below for more info.</p>
     <button><a href="https://apollo-sandbox.veupathdb.org/annotator/index">Apollo Sandbox</a></button>
   </div>
   </div>
