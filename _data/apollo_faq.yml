@@ -1,0 +1,32 @@
+--- # apollo faq page
+- type: general
+  question: "Introductory tour"
+  answer: |
+           The video below provides a short overview of the major features of ClinEpiDB. You can also visit our [Tutorials](/a/app/static-content/ClinEpiDB/tutorials.html){:target='_blank'}, [Workshops](/a/app/static-content/ClinEpiDB/workshops.html){:target='_blank'}, and [Resources](/a/app/static-content/ClinEpiDB/resources.html){:target='_blank'} pages for additional resources.
+           <iframe style="margin-left:3em;margin-top:1em;" width="560" height="315" src="https://www.youtube.com/embed/jfiBfhxItMc"></iframe>
+  uid: g1
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: general
+  question: "How do I cite ClinEpiDB?"
+  answer: |
+           When citing a dataset that you accessed via ClinEpiDB, please include the  authors, study name, date of release and release number on ClinEpiDB, study page URL, and the fact that the data came from ClinEpiDB. For example, the citation for the PRISM Cohort study would be:
+
+           > Dorsey G, Kamya M, Greenhouse B, *et al.* Dataset: PRISM Cohort. *ClinEpiDB*. 2018, 5 (<https://clinepidb.org/ce/app/workspace/analyses/DS_0ad509829e/new/details>{:target='_blank'})
+
+           You can find the information on the **View Study Details** tab of a study. The release number and release date (***Release # / date***) are towards the top of the page, while authors are listed in the ***Principal Investigator and Collaborators*** table towards the bottom of the page. You can also find links to original study publications, which you may want to cite.
+
+           If you want to cite ClinEpiDB directly, please use:
+
+           > Ruhamyankaka E, Brunk BP, Dorsey G *et al.* ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. [version 2; peer review: 2 approved]. *Gates Open Res* 2019, 3:1661 (<https://gatesopenresearch.org/articles/3-1661/v2>{:target='_blank'})
+
+           If you want to reference ClinEpiDB in a presentation, please include our logo.<br><br>
+           <img src="https://static-content.veupathdb.org/assets/images/ClinEpiDB-logo-full.png" style="width:25em"/>
+  uid: g2
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: general
+  question: "Can I use ClinEpiDB to analyze my own data?"
+  answer: |
+           At this time, ClinEpiDB does not allow you to upload and analyze your own data. However, you can [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about having your own
+           data loaded into the site.
+  uid: g3
+  projects: "ClinEpiDB,AllClinEpiDB"
