@@ -33,11 +33,10 @@
   - type: general
   question: "How can I practice using Apollo"
   answer: |
-           <ul>
-           <li>Coffee</li>
-           <li>Tea</li>
-           <li>Milk</li>
-           </ul>
+           Use our Apollo test/play instance to practice using the tool. This tool allows you to experiment and get familiar with all Apollo menus, tools, and tracks before you decide to use it in the live instance for your real gene manual annotations. These changes will not affect any of the organism's official gene set, nor will be preserved. 
+           
+           [Click here](https://apollo-sandbox.veupathdb.org/annotator/index){:target='_blank'} to access the VEuPathDB Apollo Sandbox. Note that you will need to log in with your VEuPathDB credentials.
+
   uid: g4
   projects: ""
    - type: general
