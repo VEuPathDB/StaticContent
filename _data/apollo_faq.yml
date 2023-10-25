@@ -10,12 +10,12 @@
   question: "How can I learn to use Apollo?"
   answer: |
            <ul>
-           <li>A <a href="https://www.youtube.com/watch?v=sHn_qOCYQ38" target="_blank" title="Apollo webinar">comprehensive webinar recording</a> to learn how to use Apollo (55:05 min)</li>
-           <li>YouTube [Apollo tutorial channel](https://www.youtube.com/playlist?list=PLWzQB3i5sYALdtuACxZRowVoqhLimhwx_){:target='_blank'}</li>
-           <li>A description of [quick commands](https://qa.plasmodb.org/plasmo.b66/app/static-content/apollo_help.html){:target='_blank'} (Apollo now has the BLAT tool!)</li>
-           <li>[Functional annotation tutorial](https://qa.static-content.veupathdb.org/documents/Apollo_functional_annotation_26_10_2021.pdf){:target='_blank'}</li>
-           <li>[Structural annotation tutorial](https://qa.static-content.veupathdb.org/documents/Apollo_structural_annotation_13_02_2023.pdf){:target='_blank'}</li>
-           <li>[Frequently asked questions](https://qa.plasmodb.org/plasmo.b66/app/static-content/faq.html#apollo){:target='_blank'}</li>
+           <li>A <a href="https://www.youtube.com/watch?v=sHn_qOCYQ38" target="_blank" title="Apollo webinar">comprehensive webinar recording</a> to learn how to use Apollo (55:05 min) </li>
+           <li> <a href="https://www.youtube.com/playlist?list=PLWzQB3i5sYALdtuACxZRowVoqhLimhwx_" target="_blank" title="Apollo tutorial channel">Apollo tutorial channel</a> </li>
+           <li> A description of <a href="https://qa.plasmodb.org/plasmo.b66/app/static-content/apollo_help.html" target="_blank" title="Apollo quick commands">quick commands</a> (Apollo now has the BLAT tool!)</li>
+           <li> <a href="https://qa.static-content.veupathdb.org/documents/Apollo_functional_annotation_26_10_2021.pdf" target="_blank" title="Functional annotation tutorial">Functional annotation tutorial</a> </li>
+           <li> <a href="https://qa.static-content.veupathdb.org/documents/Apollo_structural_annotation_13_02_2023.pdf" target="_blank" title="Structural annotation tutorial">Structural annotation tutorial</a> </li>
+           <li> <a href="https://qa.plasmodb.org/plasmo.b66/app/static-content/faq.html#apollo" target="_blank" title="Frequently asked questions">Frequently asked questions</a> </li>
            </ul>
   uid: g2
   projects: ""
@@ -24,11 +24,11 @@
   question: "Where can I find Apollo documentation and API?"
   answer: |
            <ul>
-           <li>[About Apollo](https://apollo.veupathdb.org/1613634913933131701353630290/about){:target='_blank'} (Login required)</li>
-           <li>[User guide](https://genomearchitect.readthedocs.io/en/latest/UsersGuide.html){:target='_blank'}</li>
-           <li>[Request feature/ Report a bug](https://github.com/gmod/apollo/issues/new){:target='_blank'} (Apollo now has the BLAT tool!)</li>
-           <li>[Powered by JBrowse](https://jbrowse.org/jb2/){:target='_blank'}</li>
-           <li>[Web Service API](https://apollo.veupathdb.org/56133187121381847651851098590/jbrowse/web_services/api){:target='_blank'} (Login required)</li>
+           <li> <a href="https://apollo.veupathdb.org/1613634913933131701353630290/about" target="_blank" title="About Apollo">About Apollo</a> (Login required) </li>
+           <li> <a href="https://genomearchitect.readthedocs.io/en/latest/UsersGuide.html" target="_blank" title="User guide">User guide</a> </li>
+           <li> <a href="https://github.com/gmod/apollo/issues/new" target="_blank" title="Request feature/ Report a bug">Request feature/ Report a bug</a> </li>
+           <li> <a href="https://jbrowse.org/jb2/" target="_blank" title="Powered by JBrowse">Powered by JBrowse</a> </li>
+           <li> <a href="https://apollo.veupathdb.org/56133187121381847651851098590/jbrowse/web_services/api" target="_blank" title="Web Service API">Web Service API</a> (Login required) </li>
            </ul>
   uid: g3
   projects: ""
@@ -49,12 +49,12 @@
            <img src="{{ "/assets/images/Apollo_flow_chart.png" | absolute_url }}" alt="Graphic of VEuPathDB Apollo workflow" />
 
            <ul>
-           <li><b>Step 1</b>: Use Apollo to edit your favorite gene (image below, a). Once you are done, change the gene status to “finished” (image below, b). Your gene is visible in the genome browser and in Apollo (image below, c), both of which are accessible from the gene page
-           <img src="{{ "/assets/images/Apollo_workflow_step1.png" | absolute_url }}" alt="Example of Apollo edits" />
-           <li>*Step 2* VEuPathDB validation checks: Only genes marked “Finished” will be assessed via VEuPathDB validation checks. You will receive automated emails if errors are found.</li>
-           <li>*Step 3* Genome update: This is when we decide to advance a genome through a patch build, meaning that a part of the annotation is updated. Genomes that have reached the threshold, which is different in every case, will be manually assessed to ensure quality control.</li>
-           <li>*Step 4* Accepted annotations integrated into VEuPathDB: It is possible that not all users’ annotations will pass our validation checks – some might be rejected, and will remain in Apollo. Accepted annotations integrated into VEuPathDB will be removed from the Apollo community annotations track. Rejected models remain in the user created annotations track.</li>
-           <li>*Future perspectives*: VEuPathDB will submit the new gene set version to INSDC databases, if we have permission from genome PI/consortium. The first VEuPathDB submission is yet to be scheduled.</li>
+           <li><b>Step 1</b>: Use Apollo to edit your favorite gene (image below, a). Once you are done, change the gene status to “finished” (image below, b). Your gene is visible in the genome browser and in Apollo (image below, c), both of which are accessible from the gene page. </li>
+           <img src="{{ "/assets/images/Apollo_workflow_step1.png" | absolute_url }}" alt="Example of Apollo edits" /> 
+           <li><b>Step 2</b> VEuPathDB validation checks: Only genes marked “Finished” will be assessed via VEuPathDB validation checks. You will receive automated emails if errors are found.</li>
+           <li><b>Step 3</b> Genome update: This is when we decide to advance a genome through a patch build, meaning that a part of the annotation is updated. Genomes that have reached the threshold, which is different in every case, will be manually assessed to ensure quality control.</li>
+           <li><b>Step 4</b> Accepted annotations integrated into VEuPathDB: It is possible that not all users’ annotations will pass our validation checks– some might be rejected, and will remain in Apollo. Accepted annotations integrated into VEuPathDB will be removed from the Apollo community annotations track. Rejected models remain in the user created annotations track.</li>
+           <li><b>Future perspectives</b>: VEuPathDB will submit the new gene set version to INSDC databases, if we have permission from genome PI/consortium. The first VEuPathDB submission is yet to be scheduled.</li>
            </ul>
   uid: g5
   projects: ""
