@@ -11,6 +11,8 @@ div.apollo-layout {
 }
 div.apollo-layout>div {
   width: 60%;
+  margin-left: auto;
+  margin-right: auto;
 }
 div.apollo-layout img {
   width: 40em; 
@@ -37,8 +39,8 @@ div.centered-button a {
   font-size: 95%;
 }
 .flex-container div {
-  font-size: 75%;
-  border: 0.2em solid lightblue;
+  font-size: 100%;
+  border: 0.2em solid darkblue;
   border-radius: 0.5em;
   margin: 0 1em 1em 0;
   padding: 0 1em 1em;
