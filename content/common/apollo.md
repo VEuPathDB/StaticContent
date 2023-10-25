@@ -17,6 +17,8 @@ div.apollo-layout img {
   object-fit: contain;
   border: 2px solid grey;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 div.centered-button {
   margin-top: 1.5em;
