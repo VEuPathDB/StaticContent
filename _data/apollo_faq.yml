@@ -33,7 +33,7 @@
   uid: g3
   projects: ""
 
-  - type: general
+- type: general
   question: "How can I practice using Apollo?"
   answer: |
            Use our Apollo test/play instance to practice using the tool. This tool allows you to experiment and get familiar with all Apollo menus, tools, and tracks before you decide to use it in the live instance for your real gene manual annotations. These changes will not affect any of the organism's official gene set, nor will be preserved. 
@@ -42,7 +42,7 @@
   uid: g4
   projects: ""
 
-   - type: general
+- type: general
   question: "What is the workflow and timeline for genome updates using Apollo?"
   answer: |
            Please contact us as early as possible if you need our assistance, especially if your genome of interest is not part of VEuPathDB yet, or if you need additional track evidence e.g., transcriptomes and proteomes, for your annotations. Once a genome is part of VEuPathDB, the general data flow is as follows:
@@ -59,7 +59,7 @@
   uid: g5
   projects: ""
 
-   - type: general
+- type: general
   question: "How can I use Apollo as a research or educational tool?"
   answer: |
            In addition to supporting the publication of vector, parasite, and fungi genome papers by genome consortiums ([Adema et al 2017](https://pubmed.ncbi.nlm.nih.gov/28508897/){:target='_blank'}, [Attardo et al 2019](https://pubmed.ncbi.nlm.nih.gov/31477173/){:target='_blank'}, [Olafson et al 2021](https://pubmed.ncbi.nlm.nih.gov/33750380/){:target='_blank'}), and facilitating the regular improvement of already published genomes ([Betting et al 2021](https://pubmed.ncbi.nlm.nih.gov/34210890/){:target='_blank'}, [Costa-Latgé et al 2021](https://pubmed.ncbi.nlm.nih.gov/33897451/){:target='_blank'}), manual gene curation with Apollo can also be used as a research exercise with students (Hosmani et al 2019](https://pubmed.ncbi.nlm.nih.gov/30943207/){:target='_blank'}, Saha et al 2021](https://pubmed.ncbi.nlm.nih.gov/33884059/){:target='_blank'}). If you are interested in a VEuPathDB Apollo-specific training (workshop, webinar, or virtual lab meeting), either in person or virtual, contact us at ***help@VEuPathDB.org***.
