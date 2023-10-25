@@ -73,9 +73,6 @@ div.static-content img {
   margin-left: 6em;
   width: 30em;
 }
-ul li a {
-  display: block;
-}
 
 </style>
 
