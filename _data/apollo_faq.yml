@@ -10,7 +10,7 @@
   question: "How can I learn to use Apollo?"
   answer: |
            <ul>
-           <li>A [comprehensive webinar recording](https://www.youtube.com/watch?v=sHn_qOCYQ38){:target='_blank'} to learn how to use Apollo (55:05 min)</li>
+           <li>A <a href="https://www.youtube.com/watch?v=sHn_qOCYQ38" target="_blank" title="Apollo webinar">comprehensive webinar recording</a> to learn how to use Apollo (55:05 min)</li>
            <li>YouTube [Apollo tutorial channel](https://www.youtube.com/playlist?list=PLWzQB3i5sYALdtuACxZRowVoqhLimhwx_){:target='_blank'}</li>
            <li>A description of [quick commands](https://qa.plasmodb.org/plasmo.b66/app/static-content/apollo_help.html){:target='_blank'} (Apollo now has the BLAT tool!)</li>
            <li>[Functional annotation tutorial](https://qa.static-content.veupathdb.org/documents/Apollo_functional_annotation_26_10_2021.pdf){:target='_blank'}</li>
@@ -49,12 +49,12 @@
            <img src="https://static-content.veupathdb.org/assets/images/Apollo_flow_chart.png" style="width:25em"/>
 
            <ul>
-           <li>Step 1: Use Apollo to edit your favorite gene (image below, a). Once you are done, change the gene status to “finished” (image below, b). Your gene is visible in the genome browser and in Apollo (image below, c), both of which are accessible from the gene page
+           <li>*Step 1*: Use Apollo to edit your favorite gene (image below, a). Once you are done, change the gene status to “finished” (image below, b). Your gene is visible in the genome browser and in Apollo (image below, c), both of which are accessible from the gene page
            <img src="https://static-content.veupathdb.org/assets/images/Apollo_workflow_step1.png" style="width:25em"/></li>
-           <li>Step 2 VEuPathDB validation checks: Only genes marked “Finished” will be assessed via VEuPathDB validation checks. You will receive automated emails if errors are found.</li>
-           <li>Step 3 Genome update: This is when we decide to advance a genome through a patch build, meaning that a part of the annotation is updated. Genomes that have reached the threshold, which is different in every case, will be manually assessed to ensure quality control.</li>
-           <li>Step 4 Accepted annotations integrated into VEuPathDB: It is possible that not all users’ annotations will pass our validation checks – some might be rejected, and will remain in Apollo. Accepted annotations integrated into VEuPathDB will be removed from the Apollo community annotations track. Rejected models remain in the user created annotations track.</li>
-           <li>Future perspectives: VEuPathDB will submit the new gene set version to INSDC databases, if we have permission from genome PI/consortium. The first VEuPathDB submission is yet to be scheduled.</li>
+           <li>*Step 2* VEuPathDB validation checks: Only genes marked “Finished” will be assessed via VEuPathDB validation checks. You will receive automated emails if errors are found.</li>
+           <li>*Step 3* Genome update: This is when we decide to advance a genome through a patch build, meaning that a part of the annotation is updated. Genomes that have reached the threshold, which is different in every case, will be manually assessed to ensure quality control.</li>
+           <li>*Step 4* Accepted annotations integrated into VEuPathDB: It is possible that not all users’ annotations will pass our validation checks – some might be rejected, and will remain in Apollo. Accepted annotations integrated into VEuPathDB will be removed from the Apollo community annotations track. Rejected models remain in the user created annotations track.</li>
+           <li>*Future perspectives*: VEuPathDB will submit the new gene set version to INSDC databases, if we have permission from genome PI/consortium. The first VEuPathDB submission is yet to be scheduled.</li>
            </ul>
   uid: g5
   projects: ""
@@ -62,7 +62,7 @@
 - type: general
   question: "How can I use Apollo as a research or educational tool?"
   answer: |
-           In addition to supporting the publication of vector, parasite, and fungi genome papers by genome consortiums ([Adema et al 2017](https://pubmed.ncbi.nlm.nih.gov/28508897/){:target='_blank'}, [Attardo et al 2019](https://pubmed.ncbi.nlm.nih.gov/31477173/){:target='_blank'}, [Olafson et al 2021](https://pubmed.ncbi.nlm.nih.gov/33750380/){:target='_blank'}), and facilitating the regular improvement of already published genomes ([Betting et al 2021](https://pubmed.ncbi.nlm.nih.gov/34210890/){:target='_blank'}, [Costa-Latgé et al 2021](https://pubmed.ncbi.nlm.nih.gov/33897451/){:target='_blank'}), manual gene curation with Apollo can also be used as a research exercise with students (Hosmani et al 2019](https://pubmed.ncbi.nlm.nih.gov/30943207/){:target='_blank'}, Saha et al 2021](https://pubmed.ncbi.nlm.nih.gov/33884059/){:target='_blank'}). If you are interested in a VEuPathDB Apollo-specific training (workshop, webinar, or virtual lab meeting), either in person or virtual, contact us at ***help@VEuPathDB.org***.
+           In addition to supporting the publication of vector, parasite, and fungi genome papers by genome consortiums ([Adema et al 2017](https://pubmed.ncbi.nlm.nih.gov/28508897/){:target='_blank'}, [Attardo et al 2019](https://pubmed.ncbi.nlm.nih.gov/31477173/){:target='_blank'}, [Olafson et al 2021](https://pubmed.ncbi.nlm.nih.gov/33750380/){:target='_blank'}), and facilitating the regular improvement of already published genomes ([Betting et al 2021](https://pubmed.ncbi.nlm.nih.gov/34210890/){:target='_blank'}, [Costa-Latgé et al 2021](https://pubmed.ncbi.nlm.nih.gov/33897451/){:target='_blank'}), manual gene curation with Apollo can also be used as a research exercise with students ([Hosmani et al 2019](https://pubmed.ncbi.nlm.nih.gov/30943207/){:target='_blank'}, [Saha et al 2021](https://pubmed.ncbi.nlm.nih.gov/33884059/){:target='_blank'}). If you are interested in a VEuPathDB Apollo-specific training (workshop, webinar, or virtual lab meeting), either in person or virtual, contact us at ***help@VEuPathDB.org***.
            
            Apollo training can be structured to provide information on the principles associated with the identification of specific genes by comparison to gene structural aspects, how to search the genome for targets of interest, orthologs, and using the combination of gene predictions and additional evidence tracks to correct gene models with Apollo. Secondary analyses, such as BLAST comparison to other genomes and phylogenetic analyses can also be demonstrated. Discussions will include recommended standards for the minimum evidence required for annotating a gene model, gene naming conventions, and quality control checks, among other topics. 
   uid: g6
