@@ -85,12 +85,12 @@ div.static-content img {
     <button><a href="https://apollo.veupathdb.org/">Apollo</a></button>
   </div>
   <div>
+  <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" alt="Example of an apollo screen" />      
+  </div>
+  <div>
     <h3>New Users</h3>
     <p>Click here for a "play" Apollo site to experiment and learn. <br> See "How can I practice" section below for more info.</p>
     <button><a href="https://apollo-sandbox.veupathdb.org/annotator/index">Apollo Sandbox</a></button>
-  </div>
-  <div>
-  <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" alt="Example of an apollo screen" />      
   </div>
   </div>
 
