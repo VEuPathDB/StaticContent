@@ -85,14 +85,14 @@ div.static-content img {
     <p>Click this button if you are a trained and experienced Apollo user.</p>
     <button><a href="https://apollo.veupathdb.org/">Apollo</a></button>
   </div>
+  <div>
     <h3>New Users</h3>
     <p>Click this button for a "play" Apollo site to experiment and learn. <br> See "How can I practice" section below for more info.</p>
     <button><a href="https://apollo-sandbox.veupathdb.org/annotator/index">Apollo Sandbox</a></button>
   </div>
-   <div>
+  <div>
   <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" alt="Example of an apollo screen" />      
   </div>
-  <div>
   </div>
 
   
