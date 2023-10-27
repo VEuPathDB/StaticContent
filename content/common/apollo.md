@@ -7,7 +7,7 @@ tags: [general]
 
 div.apollo-layout {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 div.apollo-layout>div {
   width: 60%;
@@ -68,7 +68,11 @@ div.static-content p {
     margin: 1em 3.25em;
     font-size: 110%;
 }
-
+div.static-content img {
+  margin-top: .5em; 
+  margin-left: 6em;
+  width: 30em;
+}
 
 </style>
 
