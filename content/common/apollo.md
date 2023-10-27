@@ -32,7 +32,6 @@ div.centered-button a {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  flex-basis: 33.333333%;
   width: 100%;
   justify-content: center;
   font-size: 95%;
@@ -42,6 +41,7 @@ div.centered-button a {
   border: 0.2em solid darkblue;
   border-radius: 0.5em;
   margin: 0 1em 1em 0;
+  flex-basis: 33.333333%;
   padding: 0 1em 1em;
   text-align: center;
 }
