@@ -33,7 +33,7 @@ div.centered-button a {
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
-  justify-content: center;
+  justify-content: space-evenly;
   font-size: 95%;
 }
 .flex-container div {
