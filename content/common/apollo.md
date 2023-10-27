@@ -31,7 +31,7 @@ div.centered-button a {
 .flex-container {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   width: 100%;
   justify-content: space-evenly;
   font-size: 95%;
@@ -70,7 +70,7 @@ div.static-content p {
 }
 div.static-content img {
   margin-top: .5em; 
-  margin-left: 6em;
+  margin-left: .5em;
   width: 30em;
 }
 
