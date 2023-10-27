@@ -38,7 +38,7 @@ div.centered-button a {
 }
 .flex-container div {
   font-size: 100%;
-  border: 0.2em solid darkblue;
+  border: 0.1em solid lightblue;
   border-radius: 0.5em;
   margin: 0 1em 1em 0;
   flex-basis: 33.333333%;
