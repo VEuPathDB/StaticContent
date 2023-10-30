@@ -130,7 +130,7 @@ div.photowrapper {
    <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> 
    <a href="/a/app/static-content/workshops.html">Workshops</a></p>
 
-<h1>VEuPathDB Virtual Workshop September 4-7, 2023</h1>
+<h1>VEuPathDB Virtual Workshop December 4-7, 2023</h1>
 <div class="static-content">
 
   <div class="centered-title">
