@@ -33,7 +33,8 @@ div.centered-button a {
   flex-direction: row;
   flex-wrap: nowrap;
   width: 100%;
-  justify-content: space-evenly;
+  align-items: center;
+  justify-content: center;
   font-size: 95%;
 }
 .flex-container div {
@@ -91,7 +92,7 @@ div.static-content img {
     <button><a href="https://apollo-sandbox.veupathdb.org/annotator/index">Apollo Sandbox</a></button>
   </div>
   <div>
-  <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" style="width:500px" alt="Example of an apollo screen" />      
+  <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" style="width:400px" alt="Example of an apollo screen" />      
   </div>
   </div>
 
