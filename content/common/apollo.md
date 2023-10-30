@@ -33,8 +33,7 @@ div.centered-button a {
   flex-direction: row;
   flex-wrap: nowrap;
   width: 100%;
-  align-items: center;
-  justify-content: center;
+  justify-content: space-evenly;
   font-size: 95%;
 }
 .flex-container div {
@@ -43,7 +42,7 @@ div.centered-button a {
   border-radius: 0.5em;
   margin: 0 1em 1em 0;
   flex-basis: 33.333333%;
-  padding: 0 1em 1em;
+  padding: 0.3em 0.3em 0.3em;
   text-align: center;
 }
 .flex-container div button {
