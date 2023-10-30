@@ -104,8 +104,8 @@ th.recording {
  
   <div class="contents">
   <h4><a href="/a/app/static-content/workshopDec2023.html">VEuPathDB Virtual, Dec 4-7, 2023</a></h4>
-  <p>Times: 10am - 1pm Eastern daily</p>
-  <p>Location: This workshop is virtual.  Attendees will need to have a computer with internet access. Includes an optional 30 min question and answer session 1 - 1:30pm daily.</p>
+  <p>Times: 10am - 1pm Eastern daily with optional question and answer session 1 - 1:30pm Eastern daily</p>
+  <p>Location: This workshop is virtual.  Attendees will need to have a computer with internet access.</p>
   <p>More Information: <a href="/a/app/static-content/workshopDec2023.html">Workshop information and schedule</a></p>
   </div>
   
