@@ -136,7 +136,7 @@ div.photowrapper {
 
   <div class="centered-title">
     <p><h4><b><a href="#Schedule">SCHEDULE and HANDS-ON EXERCISES</a></b></h4></p>
-    <p><h4>10am - 1pm (EDT) daily </h4></p>
+    <p><h4>10am - 1pm (EDT) daily with optional Q/A until 1:30pm </h4></p>
     <p><h4><a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Virtual, hands-on workshop with short lectures and small goup instruction</h4></p>
     <p><h4>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</h4></p>
@@ -199,6 +199,10 @@ div.photowrapper {
         </tr>
       </thead>
       <tbody> 
+        <tr>
+          <td>Evelina Basenko, PhD</td>
+          <td>University of Liverpool</td>
+        </tr>
         <tr>
           <td>Ulrike Boehme, PhD</td>
           <td>University of Liverpool</td>
@@ -277,6 +281,12 @@ div.photowrapper {
             <td></td>
             <td></td>
           </tr>
+          <tr>
+            <td>1 - 1:30pm Eastern</td>
+            <td>optional Q/A session via zoom</td>
+            <td></td>
+            <td></td>
+          </tr>
         </tbody>
       </table>
       <br><br>
@@ -299,6 +309,12 @@ div.photowrapper {
             <td></td>
             <td></td>
           </tr>
+          <tr>
+            <td>1 - 1:30pm Eastern</td>
+            <td>optional Q/A session via zoom</td>
+            <td></td>
+            <td></td>
+          </tr>
         </tbody>
       </table>
       <br><br>
@@ -314,10 +330,16 @@ div.photowrapper {
             <th class="recording">Recording</th>
           </tr>
         </thead>        
-        <tbody>         
+        <tbody>
           <tr>
             <td>10am - 1pm Eastern</td>
             <td>Lectures and hands on exercises via zoom</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1 - 1:30pm Eastern</td>
+            <td>optional Q/A session via zoom</td>
             <td></td>
             <td></td>
           </tr>
@@ -340,6 +362,12 @@ div.photowrapper {
           <tr>
             <td>10am - 1pm Eastern</td>
             <td>Lectures and hands on exercises via zoom</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1 - 1:30pm Eastern</td>
+            <td>optional Q/A session via zoom</td>
             <td></td>
             <td></td>
           </tr>
