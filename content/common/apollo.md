@@ -69,11 +69,11 @@ div.static-content p {
     margin: 1em 3.25em;
     font-size: 110%;
 }
+
 div.static-content img {
-  margin-top: .5em; 
-  margin-left: .5em;
-  width: 30em;
+    padding: 5px;
 }
+
 
 </style>
 
@@ -91,7 +91,7 @@ div.static-content img {
     <button><a href="https://apollo-sandbox.veupathdb.org/annotator/index">Apollo Sandbox</a></button>
   </div>
   <div>
-  <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" alt="Example of an apollo screen" />      
+  <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" style="width:500px" alt="Example of an apollo screen" />      
   </div>
   </div>
 
