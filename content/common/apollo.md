@@ -70,6 +70,10 @@ div.static-content p {
     font-size: 110%;
 }
 
+div.static-content img {
+    padding: 20px;
+}
+
 
 </style>
 
@@ -87,7 +91,7 @@ div.static-content p {
     <button><a href="https://apollo-sandbox.veupathdb.org/annotator/index">Apollo Sandbox</a></button>
   </div>
   <div>
-  <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" style="width:300px" alt="Example of an apollo screen" />      
+  <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" style="width:550px" alt="Example of an apollo screen" />      
   </div>
   </div>
 
