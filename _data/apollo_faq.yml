@@ -45,11 +45,11 @@
 - type: general
   question: "What is the workflow and timeline for genome updates using Apollo?"
   answer: |
-           Please contact us as early as possible if you need our assistance, especially if your genome of interest is not part of VEuPathDB yet, or if you need additional track evidence e.g., transcriptomes and proteomes, for your annotations. Once a genome is part of VEuPathDB, the general data flow is as follows: <img src="https://static-content.veupathdb.org/assets/images/Apollo_flow_chart.png" width="40" alt="Graphic of VEuPathDB Apollo workflow"/>
+           Please contact us as early as possible if you need our assistance, especially if your genome of interest is not part of VEuPathDB yet, or if you need additional track evidence e.g., transcriptomes and proteomes, for your annotations. Once a genome is part of VEuPathDB, the general data flow is as follows: <img src="https://static-content.veupathdb.org/assets/images/Apollo_flow_chart.png" style="width:40px"  alt="Graphic of VEuPathDB Apollo workflow"/>
 
            <ul>
            <li><b>Step 1</b>: Use Apollo to edit your favorite gene (image below, a). Once you are done, change the gene status to “finished” (image below, b). Your gene is visible in the genome browser and in Apollo (image below, c), both of which are accessible from the gene page. </li>
-           <img src="https://static-content.veupathdb.org/assets/images/Apollo_workflow_step1.png" style="width:60em" alt="Example of Apollo edits"/>
+           <img src="https://static-content.veupathdb.org/assets/images/Apollo_workflow_step1.png" style="width:80px" alt="Example of Apollo edits"/>
            <li><b>Step 2</b> VEuPathDB validation checks: Only genes marked “Finished” will be assessed via VEuPathDB validation checks. You will receive automated emails if errors are found.</li>
            <li><b>Step 3</b> Genome update: This is when we decide to advance a genome through a patch build, meaning that a part of the annotation is updated. Genomes that have reached the threshold, which is different in every case, will be manually assessed to ensure quality control.</li>
            <li><b>Step 4</b> Accepted annotations integrated into VEuPathDB: It is possible that not all users’ annotations will pass our validation checks– some might be rejected, and will remain in Apollo. Accepted annotations integrated into VEuPathDB will be removed from the Apollo community annotations track. Rejected models remain in the user created annotations track.</li>
