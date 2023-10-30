@@ -45,7 +45,8 @@
 - type: general
   question: "What is the workflow and timeline for genome updates using Apollo?"
   answer: |
-           Please contact us as early as possible if you need our assistance, especially if your genome of interest is not part of VEuPathDB yet, or if you need additional track evidence e.g., transcriptomes and proteomes, for your annotations. Once a genome is part of VEuPathDB, the general data flow is as follows: <img src="https://static-content.veupathdb.org/assets/images/Apollo_flow_chart.png" style="width:700px"  alt="Graphic of VEuPathDB Apollo workflow"/>
+           Please contact us as early as possible if you need our assistance, especially if your genome of interest is not part of VEuPathDB yet, or if you need additional track evidence e.g., transcriptomes and proteomes, for your annotations. Once a genome is part of VEuPathDB, the general data flow is as follows: 
+           <img src="https://static-content.veupathdb.org/assets/images/Apollo_flow_chart.png" style="width:700px"  alt="Graphic of VEuPathDB Apollo workflow"/>
 
            <ul>
            <li><b>Step 1</b>: Use Apollo to edit your favorite gene (image below, a). Once you are done, change the gene status to “finished” (image below, b). Your gene is visible in the genome browser and in Apollo (image below, c), both of which are accessible from the gene page. </li>
