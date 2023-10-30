@@ -72,7 +72,8 @@ div.static-content p {
 div.static-content img {
   margin-top: .5em; 
   margin-left: .5em;
-  width: 30em;
+  max-width: 50%;
+  max-height: 50%;
 }
 
 </style>
