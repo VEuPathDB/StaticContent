@@ -133,14 +133,13 @@ div.photowrapper {
 <h1>VEuPathDB Virtual Workshop September 4-7, 2023</h1>
 <div class="static-content">
 
-
   <div class="centered-title">
-    <p><h4><b><a href="#Schedule">SCHEDULE and HANDS-ON EXERCISES</a></b></h4></p>
+    <p><h4>Register by completing the <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_3XcIh7Ns9xxwZG6" target="_blank">registration form</a>.</h4></p>
     <p><h4>10am - 1pm (EDT) daily with optional Q/A until 1:30pm </h4></p>
     <p><h4><a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
-    <p><h4>Virtual, hands-on workshop with short lectures and small goup instruction</h4></p>
-    <p><h4>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</h4></p>
+    <p><h4>Virtual, hands-on workshop with short lectures and small group instruction via Zoom</h4></p>
     <p><h4>Recorded lectures and exercises available online after the workshop</h4></p>
+    <p><h4><a href="#Schedule">Tentative schedule</a></h4></p>
   </div>
   
 
