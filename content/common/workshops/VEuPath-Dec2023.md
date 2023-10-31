@@ -130,17 +130,15 @@ div.photowrapper {
    <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> 
    <a href="/a/app/static-content/workshops.html">Workshops</a></p>
 
-<h1>VEuPathDB Virtual Workshop September 4-7, 2023</h1>
+<h1>VEuPathDB Virtual Workshop December 4-7, 2023</h1>
 <div class="static-content">
 
   <div class="centered-title">
-    <p><h4>Register by completing the <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_3XcIh7Ns9xxwZG6" target="_blank">registration form</a>.</h4></p>
-    <p><h4><a href="#Schedule">Schedule and hands on exercises</a></h4></p>
-    <p><h4>10am - 1pm (EDT) daily with optional Q/A until 1:30pm </h4></p>
-    <p><h4><a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
-    <p><h4>Virtual, hands-on workshop with short lectures and small goup instruction</h4></p>
-    <p><h4>Zoom meeting with group lectures and breakout rooms for small group hands-on exercises</h4></p>
-    <p><h4>Recorded lectures and exercises available online after the workshop</h4></p>
+    <h4>Register by completing the <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_3XcIh7Ns9xxwZG6" target="_blank">registration form</a>.</h4>
+    <h4>Registration deadline Monday Nov 27th, 2023</h4>
+    <h4>10am - 1pm (EST) daily with optional Q/A until 1:30pm - <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
+    <h4>Virtual, hands-on workshop with short lectures and small group instruction via Zoom with recordings posted online</h4>
+    <h4><a href="#Schedule">Tentative schedule</a></h4>
   </div>
   
 
