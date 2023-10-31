@@ -77,7 +77,7 @@ div.static-content img {
 
 </style>
 
-<h1>APOLLO: A Tool for Structural and Functional Community Curation</h1>
+<h1><b>Apollo</b>: A Tool for Structural and Functional Community Curation</h1>
 
   <div class="static-content flex-container">
   <div>
