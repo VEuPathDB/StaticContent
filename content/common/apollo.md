@@ -15,13 +15,16 @@ tags: [general]
 .flex-container img {
   width: 550px;
 }
+.flex-container h3, .flex-container button {
+  font-size: 130%;
+}
 .flex-container > div {
   margin: 2em;
 }
 .flex-container > div > div {
   border: 2px solid grey;
   border-radius: 0.5em;
-  padding: 0 0.3em 0.3em 0.3em;
+  padding: 0 0.3em 1.3em 0.3em;
   text-align: center;
   margin: 1em 0;
 }
@@ -45,7 +48,8 @@ div.static-content p {
 
 <div class="flex-container">
   <div>
-    <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" style="width:400px" alt="Example of an apollo screen" /> 
+    <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" alt="Example of an apollo screen" /> 
+<!-- <img src="/assets/images/apollo-example.png" alt="Example of an apollo screen" /> -->
   </div>
   <div>
   <div>
