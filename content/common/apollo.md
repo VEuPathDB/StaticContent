@@ -17,6 +17,8 @@ tags: [general]
 }
 .flex-container h3, .flex-container button {
   font-size: 130%;
+  text-align: center;
+  padding: 0.3em;
 }
 .flex-container > div {
   margin: 2em;
