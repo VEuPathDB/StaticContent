@@ -21,7 +21,7 @@ tags: [general]
   padding: 0.3em;
 }
 .flex-container > div {
-  margin: 2em;
+  margin: 1em 2em;
 }
 .flex-container > div > div {
   border: 2px solid grey;
