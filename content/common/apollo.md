@@ -5,57 +5,26 @@ tags: [general]
 ---
 <style>
 
-div.apollo-layout {
-  display: flex;
-  justify-content: space-evenly;
-}
-div.apollo-layout>div {
-  width: 60%;
-}
-div.apollo-layout img {
-  width: 40em; 
-  object-fit: contain;
-  border: 2px solid grey;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-}
-div.centered-button {
-  margin-top: 1.5em;
-  text-align: center;
-}
-div.centered-button a {
-  text-decoration: none;
-}
-
 .flex-container {
   display: flex;
-  flex-direction: row;
   flex-wrap: nowrap;
-  width: 100%;
-  justify-content: space-evenly;
-  font-size: 95%;
+  align-items: center;
+  align-content: space-around;
+  justify-content: center;
 }
-.flex-container div {
-  font-size: 100%;
+.flex-container img {
+  width: 550px;
+}
+.flex-container > div {
+  margin: 2em;
+}
+.flex-container > div > div {
   border: 2px solid grey;
   border-radius: 0.5em;
-  margin: 0 1em 1em 0;
-  flex-basis: 33.333333%;
-  padding: 0.3em 0.3em 0.3em;
+  padding: 0 0.3em 0.3em 0.3em;
   text-align: center;
+  margin: 1em 0;
 }
-.flex-container div button {
-  padding: 0.5em;
-}
-.flex-container div button a {
-  text-decoration: none;
-  font-size: 16px;
-}
-.flex-container div h3 {
-  text-align: center;
-}
-
 div.static-content summary {
     font-size: 130%;
     margin: 0.25em 1.5em 1em;
@@ -70,16 +39,15 @@ div.static-content p {
     font-size: 110%;
 }
 
-div.static-content img {
-    padding: 5px;
-}
-
-
 </style>
 
 <h1><b>Apollo</b>: A Tool for Structural and Functional Community Curation</h1>
 
-  <div class="static-content flex-container">
+<div class="flex-container">
+  <div>
+    <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" style="width:400px" alt="Example of an apollo screen" /> 
+  </div>
+  <div>
   <div>
     <h3>Experienced Apollo Users</h3>
     <p>Click this button if you are a trained and experienced Apollo user.</p>
@@ -90,12 +58,9 @@ div.static-content img {
     <p>Click this button for a "play" Apollo site to experiment and learn. <br> See "How can I practice" section below for more info.</p>
     <button><a href="https://apollo-sandbox.veupathdb.org/annotator/index">Apollo Sandbox</a></button>
   </div>
-  <div>
-  <img src="{{ "/assets/images/apollo-example.png" | absolute_url }}" style="width:400px" alt="Example of an apollo screen" />      
-  </div>
   </div>
 
-  
+</div>
 
 <div class="static-content">
  <div id="general">
