@@ -13,10 +13,10 @@ tags: [general]
   justify-content: center;
 }
 .flex-container img {
-  width: 550px;
+  width: 650px;
 }
 .flex-container h3, .flex-container button {
-  font-size: 130%;
+  font-size: 150%;
   text-align: center;
   padding: 0.3em;
 }
@@ -26,7 +26,7 @@ tags: [general]
 .flex-container > div > div {
   border: 2px solid grey;
   border-radius: 0.5em;
-  padding: 0 0.3em 1.3em 0.3em;
+  padding: 1em 0.3em 1.3em 0.3em;
   text-align: center;
   margin: 1em 0;
 }
