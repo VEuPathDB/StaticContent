@@ -28,7 +28,7 @@ tags: [general]
   border-radius: 0.5em;
   padding: 1em 0.3em 1.3em 0.3em;
   text-align: center;
-  margin: 1em 0;
+  margin: 4em 0;
 }
 div.static-content summary {
     font-size: 130%;
