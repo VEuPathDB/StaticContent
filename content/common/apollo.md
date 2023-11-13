@@ -61,7 +61,7 @@ div.static-content p {
   </div>
   <div>
     <h3>New Users</h3>
-    <p>Click this button for a "play" Apollo site to experiment and learn. <br> See "How can I practice" section below for more info.</p>
+    <p>Click this button for a demo Apollo site to experiment and learn. <br> See "How can I practice" section below for more info.</p>
     <button><a href="https://apollo-sandbox.veupathdb.org/annotator/index">Apollo Sandbox</a></button>
   </div>
   </div>
