@@ -53,12 +53,17 @@ div.UserDatasetHelp img {
           <ul>
           <li>Categorical data uploaded as coded, numeric data (e.g. 0, 1, -9) will be displayed as a histogram rather than in a data frequency table</li>
           <li>Values will be recognized as dates and handled appropriately if formatted as YYYY-MM-DD. All other formats will be recognized as strings and displayed as categorical data</li>
-          </ul></li>
+          </ul>
+        </li>
         <li>Must be less than 1000 characters</li>
         <li>Special characters will appear nonsensical on the website (e.g. <b>é</b> appears as <b>\x8E</b>)</li>
         </ul>
+      <li>To use the Interactive Map tool for geospatial visualization of data:
+          <ul>
+          <li>The file must have separate columns labeled “Latitude” and “Longitude”</li>
+          <li>Values for “Latitude” and “Longitude” must be in floating point notation (e.g. “-6.5431”, rather than “6.5431E”)</li>
+          </ul>
       </li>
-    </ul>
   <br><hr>
 
 
