@@ -63,6 +63,13 @@
   fileName: clinEpi_exercises/Tutorial8_NavigatingDownloads.pdf
   date: "Feb 18, 2022"
 - type: tutorial
+  title: "Explore geospatial data in the Interactive Map"
+  description: "How to explore geospatial data within the interactive map on the ClinEpiDB platform"
+  uid: t13
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Interactive_Map_tutorial_ClinEpiDB_20231127.pdf
+  date: "Nov 27, 2023"
+- type: tutorial
   title: "Get help and submit feedback"
   description: "Request demos, help with a specific task, etc."
   uid: t3
