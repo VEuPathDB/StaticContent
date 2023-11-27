@@ -58,7 +58,7 @@ div.UserDatasetHelp img {
         <li>Must be less than 1000 characters</li>
         <li>Special characters will appear nonsensical on the website (e.g. <b>é</b> appears as <b>\x8E</b>)</li>
         </ul>
-      <li>To use the Interactive Map tool for geospatial visualization of data:
+      <li>To use the <b>Interactive Map</b> tool for geospatial visualization of data:
           <ul>
           <li>The file must have separate columns labeled “Latitude” and “Longitude”</li>
           <li>Values for “Latitude” and “Longitude” must be in floating point notation (e.g. “-6.5431”, rather than “6.5431E”)</li>
