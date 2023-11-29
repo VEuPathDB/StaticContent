@@ -256,7 +256,7 @@ div.photowrapper {
 
   <div class="anchor"><a name="Schedule"></a></div>
   <details open>
-    <summary><b>Basic Schedule</b></summary>
+    <summary><b>Schedule</b></summary>
     <h4>
     <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
     <h4><a href="https://youtu.be/pVD4HBVoEGY">Crash Course in Omics, Terminology, Concepts, and Data Types</a> This is an introductory lecture by Dr. Jessica Kissinger available on YouTube. We strongly recommend that you watch the video before the workshop begins on Dec 4th. <a href="https://youtu.be/pVD4HBVoEGY" target="_blank">https://youtu.be/pVD4HBVoEGY</a></h4>
@@ -274,13 +274,59 @@ div.photowrapper {
         </thead>
         <tbody>
           <tr>
-            <td>10am - 1pm Eastern</td>
-            <td>Lectures and hands on exercises via zoom</td>
+            <td>9:45am Eastern</td>
+            <td>Zoom opens</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>1 - 1:30pm Eastern</td>
+            <td>10am </td>
+            <td>General welcome, workshop overview, instructor introductions</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:10am </td>
+            <td>Introduction to VEuPathDB - lecture with live demos</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:45am </td>
+            <td>Hands-on exercises in breakout rooms<br>
+              Site Search<br>
+              Organisms Preferences<br>
+              Gene Pages </td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:30am </td>
+            <td>Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:50am </td>
+            <td>Introduction to Search Strategies</td>
+            <td>Eve Basenko</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:05pm </td>
+            <td>Hands-on exercises in breakout rooms<br>
+              Search Strategies</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00pm </td>
+            <td>Wrap up</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:10 - 1:30pm Eastern</td>
             <td>optional Q/A session via zoom</td>
             <td></td>
             <td></td>
