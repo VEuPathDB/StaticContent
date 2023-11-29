@@ -274,6 +274,12 @@ div.photowrapper {
         </thead>
         <tbody>
           <tr>
+            <td>Pre-recorded introductory lecture </td>
+            <td><a  target="_blank" href="{{'documents/2023Virtual/VEuPathDB_Omics_2023.pdf' | absolute_url}}"><b>Lecture Slides</b></a></td>
+            <td>Jessica Kissinger</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/pVD4HBVoEGY?si=-pMkqQzVuCOdIiF9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+          </tr>
+          <tr>
             <td>9:45am Eastern</td>
             <td>Zoom opens</td>
             <td></td>
