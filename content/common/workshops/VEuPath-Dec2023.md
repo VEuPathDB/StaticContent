@@ -139,6 +139,7 @@ div.photowrapper {
     <h4>10am - 1pm (EST) daily with optional Q/A until 1:30pm - <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
     <h4>Virtual, hands-on workshop with short lectures and small group instruction via Zoom with recordings posted online</h4>
     <h4><a href="#Schedule">Tentative schedule</a></h4>
+    <h4><a href="https://youtu.be/pVD4HBVoEGY">Crash Course in Omics, Terminology, Concepts, and Data Types</a> This is an introductory lecture by Dr. Jessica Kissinger available on YouTube. We strongly recommend that you watch the video before the workshop begins on Dec 4th. <a href="https://youtu.be/pVD4HBVoEGY" target="_blank">https://youtu.be/pVD4HBVoEGY</a></h4>
   </div>
 
 
@@ -258,6 +259,7 @@ div.photowrapper {
     <summary><b>Basic Schedule</b></summary>
     <h4>
     <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
+    <h4><a href="https://youtu.be/pVD4HBVoEGY">Crash Course in Omics, Terminology, Concepts, and Data Types</a> This is an introductory lecture by Dr. Jessica Kissinger available on YouTube. We strongly recommend that you watch the video before the workshop begins on Dec 4th. <a href="https://youtu.be/pVD4HBVoEGY" target="_blank">https://youtu.be/pVD4HBVoEGY</a></h4>
     <table class="hor-minimalist-a">
         <thead>
           <tr>
@@ -353,8 +355,8 @@ div.photowrapper {
             <th class="author">Instructor</th>
             <th class="recording">Recording</th>
           </tr>
-        </thead>        
-        <tbody>         
+        </thead>
+        <tbody>
           <tr>
             <td>10am - 1pm Eastern</td>
             <td>Lectures and hands on exercises via zoom</td>
@@ -368,9 +370,9 @@ div.photowrapper {
             <td></td>
           </tr>
         </tbody>
-      </table>    
-    </details>           
-  </div> 
+      </table>
+    </details>
+  </div>
     <!--
     <h4>   
     <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
