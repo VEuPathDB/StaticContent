@@ -169,13 +169,13 @@ div.photowrapper {
 <br><br>
 
 
-  <h2>Registration: deadline Monday November 27, 2023</h2>
-    <ul>
+  <h2>Registration deadline was Monday November 27, 2023. Please <a href="https://veupathdb.org/veupathdb/app/contact-us" target="_blank">Contact Us</a> with any questions. </h2>
+    <!--<ul>
         <li><b>Register by completing this form: <a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_3XcIh7Ns9xxwZG6" target="_blank">https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_3XcIh7Ns9xxwZG6</a></b> </li>
         <li>The form information is confidential and it helps us know our prospective audience to customize examples and exercises.</li>
         <li>After registration closes, you will receive an email requesting that you confirm your availability for the workshop dates and times.  Once confirmed, you will receive workshop details. </li>
         <li>Registration deadline is Monday November 27.</li>
-    </ul>
+    </ul>-->
   <br><br>
 
   <h2>Computer and internet access</h2>
