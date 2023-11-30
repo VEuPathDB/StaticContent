@@ -138,7 +138,7 @@ div.photowrapper {
     <h4>Registration is closed.  Please <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us</a> for further information. </h4>
     <h4>10am - 1pm (EST) daily with optional Q/A until 1:30pm - <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
     <h4><a href="#Schedule">Schedule</a> &ndash; find PDF exercises, lecture recordings, and lecture slides linked here.</h4>
-    <h4><a href="https://youtu.be/pVD4HBVoEGY">Pre-recorded Introductory</a> by Dr. Jessica Kissinger. We strongly recommend that you watch the video before the workshop begins on Dec 4th. <a href="https://youtu.be/pVD4HBVoEGY" target="_blank">https://youtu.be/pVD4HBVoEGY</a></h4>
+    <h4><a href="https://youtu.be/pVD4HBVoEGY">Pre-recorded Introductory Lecture</a> by Dr. Jessica Kissinger. We strongly recommend that you watch the video before the workshop begins on Dec 4th. <a href="https://youtu.be/pVD4HBVoEGY" target="_blank">https://youtu.be/pVD4HBVoEGY</a></h4>
   </div>
 
 
