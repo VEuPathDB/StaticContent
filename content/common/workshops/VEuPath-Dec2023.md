@@ -138,7 +138,7 @@ div.photowrapper {
     <h4>Registration is closed.  Please <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us</a> for further information. </h4>
     <h4>10am - 1pm (EST) daily with optional Q/A until 1:30pm - <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
     <h4><a href="#Schedule">Schedule</a> &ndash; find PDF exercises, lecture recordings, and lecture slides linked here.</h4>
-    <h4><a href="https://youtu.be/pVD4HBVoEGY">Pre-recorded Introductory Lecture</a> by Dr. Jessica Kissinger. We strongly recommend that you watch the video before the workshop begins on Dec 4th. <a href="https://youtu.be/pVD4HBVoEGY" target="_blank">https://youtu.be/pVD4HBVoEGY</a></h4>
+    <h4><a href="https://youtu.be/wFRjWXjC5L4" target="_blank">Pre-recorded Introductory Lecture</a> by Dr. Jessica Kissinger. We strongly recommend that you watch the video before the workshop begins on Dec 4th. <a href="https://youtu.be/wFRjWXjC5L4" target="_blank">https://youtu.be/pVD4HBVoEGY</a></h4>
   </div>
 
 
@@ -275,10 +275,11 @@ div.photowrapper {
             <td>Pre-recorded introductory lecture best viewed prior to workshop start, but useful anytime. </td>
             <td><a  target="_blank" href="{{'documents/2023Virtual/VEuPathDB_Omics_2023.pdf' | absolute_url}}"><b>Lecture Slides</b></a></td>
             <td>Jessica Kissinger</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/pVD4HBVoEGY?si=-pMkqQzVuCOdIiF9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/wFRjWXjC5L4?si=Pkm7kVRC9gqB6VQy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </td>
           </tr>
           <tr>
-            <td>9:45am Eastern</td>
+            <td>9:30am Eastern</td>
             <td>Zoom opens</td>
             <td></td>
             <td></td>
