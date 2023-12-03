@@ -273,7 +273,7 @@ div.photowrapper {
         <tbody>
           <tr>
             <td>Pre-recorded introductory lecture best viewed prior to workshop start, but useful anytime. </td>
-            <td><a  target="_blank" href="{{'documents/2023Virtual/VEuPathDB_Omics_2023.pdf' | absolute_url}}"><b>Lecture Slides</b></a></td>
+            <td><a target="_blank" href="{{'documents/2023Virtual/VEuPathDB_Omics_2023.pdf' | absolute_url}}"><b>Lecture Slides</b></a></td>
             <td>Jessica Kissinger</td>
             <td><iframe width="180" height="115" src="https://www.youtube.com/embed/wFRjWXjC5L4?si=Pkm7kVRC9gqB6VQy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </td>
@@ -299,9 +299,9 @@ div.photowrapper {
           <tr>
             <td>10:45am </td>
             <td>Hands-on exercises in breakout rooms<br>
-              Site Search<br>
+             <a target="_blank" href="{{'documents/2023Virtual/SiteSearch.pdf' | absolute_url}}"><b>Site Search</b></a><br>
               Organisms Preferences<br>
-              Gene Pages </td>
+              <a target="_blank" href="{{'documents/2023Virtual/Gene-Page.pdf' | absolute_url}}"><b>Exploring Gene Page</b></a></td>
             <td></td>
             <td></td>
           </tr>
