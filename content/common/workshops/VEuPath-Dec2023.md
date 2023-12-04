@@ -351,14 +351,69 @@ div.photowrapper {
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <td>10am - 1pm Eastern</td>
-            <td>Lectures and hands on exercises via zoom</td>
+        <tr>
+            <td>9:30am Eastern</td>
+            <td>Zoom opens</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>1 - 1:30pm Eastern</td>
+            <td>10am </td>
+            <td>Introduction to the Genome Browser</td>
+            <td>Gloria I. Giraldo-Calderón</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:15</td>
+            <td>Hands on exercise<br>
+              <!--<a target="_blank" href="{{'documents/2023Virtual/Genome-Browser-Basics.pdf' | absolute_url}}"><b>Genome Browser Basics</b></a>--></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:45</td>
+            <td>Exploring gene models in the genome browser<br>
+              </td>
+            <td>Dave Starns</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11am </td>
+            <td>Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:20am </td>
+            <td>Hands on exercise<br>
+            <!--<a target="_blank" href="{{'documents/2023Virtual/Genome-Browser-Basics.pdf' | absolute_url}}"><b>Genome Browser Basics</b></a>--></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:10am </td>
+            <td>Gene models discussion<br>
+              RNA-Seq and other data in the genome browser</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:40am </td>
+            <td>Correcting gene models in Apollo<br>
+            <a target="_blank" href="{{'documents/2023Virtual/Apollo_optional_exercise_Dec2023.pdf' | absolute_url}}"><b>Apollo optional exercise</b></a><br>
+            <a target="_blank" href="{{'documents/2023Virtual/Apollo_optional_answers.pdf' | absolute_url}}"><b>Apollo answers</b></a>
+            </td>
+            <td>Ulrike Boehme</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00pm </td>
+            <td>Wrap up</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:10 - 1:30pm Eastern</td>
             <td>optional Q/A session via zoom</td>
             <td></td>
             <td></td>
