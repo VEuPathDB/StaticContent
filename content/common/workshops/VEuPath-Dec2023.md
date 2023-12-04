@@ -476,12 +476,6 @@ div.photowrapper {
             <td></td>
           </tr>
           <tr>
-            <td>12:10pm </td>
-            <td>Introduction to scRNA-Seq </td>
-            <td>Kathryn Crouch</td>
-            <td></td>
-          </tr>
-          <tr>
             <td>12:40pm </td>
             <td>Hands on scRNA-Seq exercise</td>
             <td></td>
