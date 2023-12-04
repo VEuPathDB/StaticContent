@@ -355,7 +355,7 @@ div.photowrapper {
           </tr>
         </thead>
         <tbody>
-        <tr>
+          <tr>
             <td>9:30am Eastern</td>
             <td>Zoom opens</td>
             <td></td>
@@ -390,7 +390,7 @@ div.photowrapper {
           <tr>
             <td>11:20am </td>
             <td>Hands on exercise<br>
-            <a target="_blank" href="{{'documents/2023Virtual/Exploring-gene-models.pdf' | absolute_url}}"><b>Genome Browser Basics</b></a></td>
+            <a target="_blank" href="{{'documents/2023Virtual/Exploring-gene-models.pdf' | absolute_url}}"><b>Exploring Gene Models in JBrowse</b></a></td>
             <td></td>
             <td></td>
           </tr>
@@ -437,15 +437,64 @@ div.photowrapper {
             <th class="recording">Recording</th>
           </tr>
         </thead>
-        <tbody>
+        <tbody>          
           <tr>
-            <td>10am - 1pm Eastern</td>
-            <td>Lectures and hands on exercises via zoom</td>
+            <td>9:30am Eastern</td>
+            <td>Zoom opens</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>1 - 1:30pm Eastern</td>
+            <td>10am </td>
+            <td>Expression searches: transcriptomics and proteomics</td>
+            <td>Susanne Warrenfeltz</td>
+            <td></td>
+          </tr>
+            <tr>
+            <td>10:10am </td>
+            <td>Hands-on exercise<br>
+              <a target="_blank" href="{{'documents/2023Virtual/Expression-Searches.pdf' | absolute_url}}"><b>Expression Searches</b></a></td>
+            <td>Susanne Warrenfeltz</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:50am </td>
+            <td>Introduction to Galaxy.  Start an RNA-Seq workflow<</td>
+            <td>Omar Harb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>11:50am </td>
+            <td>Break</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:10pm </td>
+            <td>Introduction to scRNA-Seq </td>
+            <td>Kathryn Crouch</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:10pm </td>
+            <td>Introduction to scRNA-Seq </td>
+            <td>Kathryn Crouch</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>12:40pm </td>
+            <td>Hands on scRNA-Seq exercise</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:00pm </td>
+            <td>Wrap up</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1:10 - 1:30pm Eastern</td>
             <td>optional Q/A session via zoom</td>
             <td></td>
             <td></td>
