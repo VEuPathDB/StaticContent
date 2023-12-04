@@ -298,7 +298,7 @@ div.photowrapper {
             <td>10:10am </td>
             <td>Introduction to VEuPathDB - lecture with live demos</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/lYhhH3zQZ-I?si=JTxQU8PHayjWA71T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>10:45am </td>
@@ -318,7 +318,7 @@ div.photowrapper {
             <td>11:50am </td>
             <td>Introduction to Search Strategies</td>
             <td>Evelina Basenko</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/89I9gCdbCrk?si=DUbM3lJwaXUCGiCd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>12:05pm </td>
