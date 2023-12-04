@@ -522,12 +522,6 @@ div.photowrapper {
             <td></td>
           </tr>
           <tr>
-            <td>10am </td>
-            <td>Understanding Galaxy output files</td>
-            <td>Stuart Brown</td>
-            <td></td>
-          </tr>
-          <tr>
             <td>10:50am </td>
             <td>Orthologies, ontologies and enrichment analysis</td>
             <td>Helen Davison</td>
@@ -536,7 +530,7 @@ div.photowrapper {
           <tr>
             <td>11:30am </td>
             <td>Orthology and enrichment exercise</td>
-            <td>Hands on exercise</td>
+            <td><a target="_blank" href="{{'documents/2023Virtual/Orthology-Ontology.pdf' | absolute_url}}"><b>Orthology and Ontology exercise</b></a></td>
             <td></td>
           </tr>
           <tr>
@@ -547,9 +541,9 @@ div.photowrapper {
           </tr>
           <tr>
             <td>12:20pm </td>
-            <td>MapVEu introduction and demo</td>
-            <td>Nupur Kittur and Sarah Kelly<br>
+            <td>MapVEu introduction and demo<br>
              <a target="_blank" href="{{'documents/2023Virtual/MapVEu-Exercise.pdf' | absolute_url}}"><b>Optional MapVEu exercise for homework</b></a></td>
+            <td>Nupur Kittur and Sarah Kelly</td>
             <td></td>
           </tr>
           <tr>
