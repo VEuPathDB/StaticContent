@@ -529,8 +529,9 @@ div.photowrapper {
           </tr>
           <tr>
             <td>11:30am </td>
-            <td>Orthology and enrichment exercise</td>
-            <td><a target="_blank" href="{{'documents/2023Virtual/Orthology-Ontology.pdf' | absolute_url}}"><b>Orthology and Ontology exercise</b></a></td>
+            <td>Hands on exercise <br>
+            <a target="_blank" href="{{'documents/2023Virtual/Orthology-Ontology.pdf' | absolute_url}}"><b>Orthology and Ontology exercise</b></a></td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
@@ -543,7 +544,7 @@ div.photowrapper {
             <td>12:20pm </td>
             <td>MapVEu introduction and demo<br>
              <a target="_blank" href="{{'documents/2023Virtual/MapVEu-Exercise.pdf' | absolute_url}}"><b>Optional MapVEu exercise for homework</b></a></td>
-            <td>Nupur Kittur and Sarah Kelly</td>
+            <td>Nupur Kittur<br>Sarah Kelly</td>
             <td></td>
           </tr>
           <tr>
