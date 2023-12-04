@@ -405,7 +405,7 @@ div.photowrapper {
             <td>12:40am </td>
             <td>Correcting gene models in Apollo<br>
             <a target="_blank" href="{{'documents/2023Virtual/Apollo_optional_exercise_Dec2023.pdf' | absolute_url}}"><b>Apollo optional exercise</b></a><br>
-            <a target="_blank" href="{{'documents/2023Virtual/Apollo_optional_answers.pdf' | absolute_url}}"><b>Apollo answers</b></a>
+            <a target="_blank" href="{{'documents/2023Virtual/Apollo_answers.pdf' | absolute_url}}"><b>Apollo answers</b></a>
             </td>
             <td>Ulrike Boehme</td>
             <td></td>
