@@ -300,7 +300,6 @@ div.photowrapper {
             <td>10:45am </td>
             <td>Hands-on exercises in breakout rooms<br>
              <a target="_blank" href="{{'documents/2023Virtual/SiteSearch.pdf' | absolute_url}}"><b>Site Search</b></a><br>
-              Organisms Preferences<br>
               <a target="_blank" href="{{'documents/2023Virtual/Gene-Page.pdf' | absolute_url}}"><b>Exploring Gene Page</b></a></td>
             <td></td>
             <td></td>
