@@ -320,7 +320,7 @@ div.photowrapper {
           <tr>
             <td>12:05pm </td>
             <td>Hands-on exercises in breakout rooms<br>
-              Search Strategies</td>
+              <a target="_blank" href="{{'documents/2023Virtual/SearchStrategies.pdf' | absolute_url}}"><b>Search Strategies</b></a></td>
             <td></td>
             <td></td>
           </tr>
