@@ -313,7 +313,7 @@ div.photowrapper {
           <tr>
             <td>11:50am </td>
             <td>Introduction to Search Strategies</td>
-            <td>Eve Basenko</td>
+            <td>Evelina Basenko</td>
             <td></td>
           </tr>
           <tr>
