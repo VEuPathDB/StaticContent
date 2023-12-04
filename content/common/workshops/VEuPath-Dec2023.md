@@ -208,6 +208,10 @@ div.photowrapper {
           <td>University of Pennsylvania</td>
         </tr>
         <tr>
+          <td>Helen Davison, PhD</td>
+          <td>University of Liverpool</td>
+        </tr>
+        <tr>
           <td>Gloria I. Giraldo-Calderón, PhD</td>
           <td>University of Notre Dame</td>
         </tr>
