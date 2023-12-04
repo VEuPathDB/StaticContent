@@ -366,7 +366,7 @@ div.photowrapper {
           <tr>
             <td>10:15</td>
             <td>Hands on exercise<br>
-              <!--<a target="_blank" href="{{'documents/2023Virtual/Genome-Browser-Basics.pdf' | absolute_url}}"><b>Genome Browser Basics</b></a>--></td>
+              <a target="_blank" href="{{'documents/2023Virtual/Genome-Browser-Basics.pdf' | absolute_url}}"><b>Genome Browser Basics</b></a></td>
             <td></td>
             <td></td>
           </tr>
