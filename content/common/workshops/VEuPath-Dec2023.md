@@ -365,7 +365,7 @@ div.photowrapper {
             <td>10am </td>
             <td>Introduction to the Genome Browser</td>
             <td>Gloria I. Giraldo-Calderón</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/XdBGd-RwJJQ?si=zgIQVK-coyeRNMJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>10:15</td>
@@ -379,7 +379,7 @@ div.photowrapper {
             <td>Exploring gene models in the genome browser<br>
               </td>
             <td>Dave Starns</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/OVzCMvK_6Ws?si=y5aX4N5IfoSV-fya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>11am </td>
@@ -399,7 +399,7 @@ div.photowrapper {
             <td>Gene models discussion<br>
               RNA-Seq and other data in the genome browser</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/iczUg2sD7OA?si=1mp7FrYNPSudu-9h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>12:40am </td>
@@ -408,7 +408,7 @@ div.photowrapper {
             <a target="_blank" href="{{'documents/2023Virtual/Apollo_answers.pdf' | absolute_url}}"><b>Apollo answers</b></a>
             </td>
             <td>Ulrike Boehme</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/2DMcMi4oW5o?si=ZaGJbgx_JQytRzEj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>1:00pm </td>
