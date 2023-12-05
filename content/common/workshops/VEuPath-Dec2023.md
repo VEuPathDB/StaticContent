@@ -420,7 +420,7 @@ div.photowrapper {
             <td>1:10 - 1:30pm Eastern</td>
             <td>optional Q/A session via zoom</td>
             <td></td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/djHddlhE9aE?si=b6_v9MemNxoS2aid" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
         </tbody>
       </table>
@@ -471,7 +471,8 @@ div.photowrapper {
           </tr>
           <tr>
             <td>12:10pm </td>
-            <td>Introduction to scRNA-Seq </td>
+            <td>Introduction to scRNA-Seq <br>
+            <a target="_blank" href="{{'documents/2023Virtual/scRNA_VEuPathWorkshop_23.pdf' | absolute_url}}"><b>scRNA-Seq Lecture Slides</b></a></td>
             <td>Kathryn Crouch</td>
             <td></td>
           </tr>
