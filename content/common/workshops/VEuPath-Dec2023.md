@@ -473,7 +473,7 @@ div.photowrapper {
             <td>12:10pm </td>
             <td>Introduction to scRNA-Seq <br>
             <a target="_blank" href="{{'documents/2023Virtual/scRNA_VEuPathWorkshop_23.pdf' | absolute_url}}"><b>scRNA-Seq Lecture Slides</b></a><br>
-            <a target="_blank" href="{{'documents/2023Virtual/scRNASeq_homework.pdf' | absolute_url}}"><b>scRNA-Seq optional homework</b></a>
+            <a target="_blank" href="{{'documents/2023Virtual/scRNASeq-homework.pdf' | absolute_url}}"><b>scRNA-Seq optional homework</b></a>
             </td>
             <td>Kathryn Crouch</td>
             <td></td>
