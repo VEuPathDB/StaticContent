@@ -459,7 +459,10 @@ div.photowrapper {
           </tr>
           <tr>
             <td>11:00am </td>
-            <td>Introduction to Galaxy.  Start an RNA-Seq workflow</td>
+            <td>Introduction to Galaxy.  Start an RNA-Seq workflow<br>
+            <a target="_blank" href="{{'documents/2023Virtual/RNAseq_groups.pdf' | absolute_url}}"><b>Optional RNA-Seq workflow CHOOSE DATA</b></a><br><br>
+            <a target="_blank" href="{{'documents/2023Virtual/RNAseq_Mapping_Galaxy_part1.pdf' | absolute_url}}"><b>Optional RNA-Seq workflow UPLOAD DATA</b></a><br><br>
+            <a target="_blank" href="{{'documents/2023Virtual/RNAseq_Mapping_Galaxy_part2.pdf' | absolute_url}}"><b>Optional RNA-Seq workflow RUN WORKFLOW</b></a></td>
             <td>Omar Harb</td>
             <td></td>
           </tr>
