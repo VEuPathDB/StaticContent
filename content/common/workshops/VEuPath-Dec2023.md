@@ -458,19 +458,19 @@ div.photowrapper {
             <td></td>
           </tr>
           <tr>
-            <td>10:50am </td>
+            <td>11:00am </td>
             <td>Introduction to Galaxy.  Start an RNA-Seq workflow</td>
             <td>Omar Harb</td>
             <td></td>
           </tr>
           <tr>
-            <td>11:50am </td>
+            <td>12:00pm </td>
             <td>Break</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>12:10pm </td>
+            <td>12:20pm </td>
             <td>Introduction to scRNA-Seq <br>
             <a target="_blank" href="{{'documents/2023Virtual/scRNA_VEuPathWorkshop_23.pdf' | absolute_url}}"><b>scRNA-Seq Lecture Slides</b></a><br>
             <a target="_blank" href="{{'documents/2023Virtual/scRNASeq-homework.pdf' | absolute_url}}"><b>scRNA-Seq optional homework</b></a>
