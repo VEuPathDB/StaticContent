@@ -462,7 +462,7 @@ div.photowrapper {
             <td>Introduction to Galaxy.  Start an RNA-Seq workflow<br>
             <a target="_blank" href="{{'documents/2023Virtual/RNAseq_groups.pdf' | absolute_url}}"><b>Optional RNA-Seq workflow CHOOSE DATA</b></a><br><br>
             <a target="_blank" href="{{'documents/2023Virtual/RNAseq_Mapping_Galaxy_part1.pdf' | absolute_url}}"><b>Optional RNA-Seq workflow UPLOAD DATA</b></a><br><br>
-            <a target="_blank" href="{{'documents/2023Virtual/RNAseq_Mapping_Galaxy_part2.pdf' | absolute_url}}"><b>Optional RNA-Seq workflow RUN WORKFLOW</b></a></td>
+            <a target="_blank" href="{{'documents/2023Virtual/RNAseq_Mapping_Galaxy_part2.pdf' | absolute_url}}"><b>Optional RNA-Seq workflow LOOK AT RESULT</b></a></td>
             <td>Omar Harb</td>
             <td></td>
           </tr>
