@@ -519,14 +519,20 @@ div.photowrapper {
             <td>10am </td>
             <td>Understanding Galaxy output files</td>
             <td>Stuart Brown</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/4IMtJ1U5QBI?si=IC1RsZKaID-yBhC2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>10:50am </td>
             <td>Orthologies, ontologies and enrichment analysis</td>
             <td>Helen Davison</td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/3Kjhb9N8XFs?si=SOuU0-1jFpfXu96J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+          </tr>          
+          <tr>
             <td></td>
-          </tr>
+            <td>Orthology discussion</td>
+            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/BjcWGH1pj3g?si=EKZuo6Lx8ilmG70W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+          </tr>          
           <tr>
             <td>11:30am </td>
             <td>Hands on exercise <br>
@@ -545,7 +551,7 @@ div.photowrapper {
             <td>MapVEu introduction and demo<br>
              <a target="_blank" href="{{'documents/2023Virtual/MapVEu-Exercise.pdf' | absolute_url}}"><b>Optional MapVEu exercise for homework</b></a></td>
             <td>Nupur Kittur<br>Sarah Kelly</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/tRi9ynbPGGQ?si=BaeiyQRYKu5_W9E9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>12:50pm </td>
@@ -557,7 +563,7 @@ div.photowrapper {
             <td>1:00 - 1:30pm Eastern</td>
             <td>optional Q/A session via zoom</td>
             <td></td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/nG9sdVG7714?si=GKH6maFNRg1g56_u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
         </tbody>
       </table>
