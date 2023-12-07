@@ -464,7 +464,7 @@ div.photowrapper {
             <a target="_blank" href="{{'documents/2023Virtual/RNAseq_Mapping_Galaxy_part1.pdf' | absolute_url}}"><b>Optional RNA-Seq workflow UPLOAD DATA</b></a><br><br>
             <a target="_blank" href="{{'documents/2023Virtual/RNAseq_Mapping_Galaxy_part2.pdf' | absolute_url}}"><b>Optional RNA-Seq workflow LOOK AT RESULT</b></a></td>
             <td>Omar Harb</td>
-            <td><iframe width=180" height="115" src="https://www.youtube.com/embed/sMGojBP2zGk?si=O1IuZ5Wzh1Des8dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/sMGojBP2zGk?si=O1IuZ5Wzh1Des8dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>12:00pm </td>
