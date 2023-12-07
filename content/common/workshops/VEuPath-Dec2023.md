@@ -491,7 +491,7 @@ div.photowrapper {
             <td>1:10 - 1:30pm Eastern</td>
             <td>optional Q/A session via zoom</td>
             <td></td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/TVcs-k7VK2Q?si=20_qbux9PuOZV6QM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
         </tbody>
       </table>
