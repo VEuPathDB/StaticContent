@@ -448,13 +448,13 @@ div.photowrapper {
             <td>10am </td>
             <td>Expression searches: transcriptomics and proteomics</td>
             <td>Susanne Warrenfeltz</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/J2sjuoSvExM?si=fU_QPRQKELLIcn9D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
             <tr>
             <td>10:10am </td>
             <td>Hands-on exercise<br>
               <a target="_blank" href="{{'documents/2023Virtual/Expression-Searches.pdf' | absolute_url}}"><b>Expression Searches</b></a></td>
-            <td>Susanne Warrenfeltz</td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
@@ -464,7 +464,7 @@ div.photowrapper {
             <a target="_blank" href="{{'documents/2023Virtual/RNAseq_Mapping_Galaxy_part1.pdf' | absolute_url}}"><b>Optional RNA-Seq workflow UPLOAD DATA</b></a><br><br>
             <a target="_blank" href="{{'documents/2023Virtual/RNAseq_Mapping_Galaxy_part2.pdf' | absolute_url}}"><b>Optional RNA-Seq workflow LOOK AT RESULT</b></a></td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><iframe width=180" height="115" src="https://www.youtube.com/embed/sMGojBP2zGk?si=O1IuZ5Wzh1Des8dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>12:00pm </td>
@@ -479,7 +479,7 @@ div.photowrapper {
             <a target="_blank" href="{{'documents/2023Virtual/scRNASeq-homework.pdf' | absolute_url}}"><b>scRNA-Seq optional homework</b></a>
             </td>
             <td>Kathryn Crouch</td>
-            <td></td>
+            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/A4-8m4uV71A?si=vBDC7HknKuogKcg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>1:00pm </td>
