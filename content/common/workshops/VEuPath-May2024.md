@@ -135,7 +135,7 @@ div.photowrapper {
 
 
   <div class="centered-title">        
-    <p><h4>Applications are open. Please complete the application form at <a href="https://forms.gle/4S4neaBys2ghqdEUA" target="_blank">https://forms.gle/4S4neaBys2ghqdEUA</a>.  Students, Post Docs and staff should also arrange for 2 reccommendation letters to be sent to <a href="mailto:jckadmin@uga.edu">jckadmin@uga.edu</a>.   </h4></p>  
+    <p><h4>Applications are open. Please complete the application form at <a href="https://forms.gle/4S4neaBys2ghqdEUA" target="_blank">https://forms.gle/4S4neaBys2ghqdEUA</a>.  Students, Post Docs and staff should also arrange for 2 recommendation letters to be sent to <a href="mailto:jckadmin@uga.edu">jckadmin@uga.edu</a>.   </h4></p>  
     <p><h4>Monday, May 13th 4:00 pm - Friday, May 17th 1:00 pm  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>           
     <p><h4><b>Registration, housing, and most meals during the workshop are free.  Attendees are expected to pay their own travel expenses, some evening meals, and housing for extended stays.</b> </h4></p>   
@@ -180,7 +180,7 @@ div.photowrapper {
   The workshop is free and VEuPathDB pays for housing on the nights of Monday May 13 - Thursday May 16, with an extra night before and after for international travelers, if needed. The opening reception dinner (Monday evening May 13th, 2024) as well as breakfast and lunch on May 14 - 17th are also provided free of charge.  Attendees are expected to pay travel expenses, lodging expenses outside the workshop window, and dinners on Tuesday - Thursday. 
   <br><br>
 
- <!--> <div class="anchor"><a name="ACME"></a></div>
+ <!-- <div class="anchor"><a name="ACME"></a></div>
   <b>Two special travel awards ($450 each) sponsored by the American Committee of Medical Entomology (ACME) will be awarded to students who are current or future VectorBase users from 
   <a href="https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries" target="_blank">low- and middle-income countries (LMICs)</a>.</b> Acceptance emails were sent March 3rd.  Please reply back conforming your attendance. If you are a student from an LMIC, currently living outside the USA, and have a financial need to attend the workshop, briefly mention this in your email, as well as how learning about VectorBase will help your professional development (200 words). Details about how the money will be used toward buying airplane tickets, will be discussed with the award recipients. 
   <br><br>  -->
@@ -254,8 +254,8 @@ div.photowrapper {
             <td>4:15 - 5:00 pm<br>
                 Coverdell 175</td>
             <td>Crash course in 'Omics</td>
-            <td>Jessica Kissinger</td>
-            <td><a  target="_blank" href="{{'/documents/2023athens/EuPathDB-Workshop-2023-Omics.pdf' | absolute_url}}"><b>Lecture Slides</b></a> </td>
+            <td></td>
+            <td></td>
           </tr>          
           <tr>
             <td>5 - 6 pm<br>
