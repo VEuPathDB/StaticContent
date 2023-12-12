@@ -385,9 +385,8 @@ div.photowrapper {
             <td>Adjourn</td>
             <td></td>
             <td></td>
-          </tr>
+          </tr> -->
         </tbody>
-        -->
       </table>
       <br>
       <br>    
