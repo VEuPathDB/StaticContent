@@ -677,7 +677,7 @@ div.photowrapper {
       <br>
       <br>
     </details>        
-<!--
+  <!--
   <div class="anchor"><a name="Directory"></a></div>
   <details closed>
     <summary><b>Directory</b> </summary>  
@@ -785,11 +785,11 @@ div.photowrapper {
       <div>
         <img src="{{'/documents/2023athens/Photos/Wei_Hsin-Ho.jpg' | absolute_url}}" />
         <br>Wei Hsin-Ho
-        <br>Bowling Green State University
-        </div>
+        <br>Bowling Green State University</div>
+      </details>
     </div>
 -->
-  </details>
+
 
   </div>  <!-- class workshop -->
 
