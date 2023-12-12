@@ -788,9 +788,6 @@ div.photowrapper {
         <br>Bowling Green State University</div>
     </div>  
   </details> -->
-    
--->
-
 
   </div>  <!-- class workshop -->
 
