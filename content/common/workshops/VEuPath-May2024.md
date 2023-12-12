@@ -213,7 +213,7 @@ div.photowrapper {
         </tr>
       </tbody>
     </table>
-    </div>
+  </div>
   <br>
 
   <h2>Questions</h2>
