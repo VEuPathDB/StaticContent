@@ -762,7 +762,7 @@ div.photowrapper {
         <img src="{{'/documents/2023athens/Photos/Nupur_Kittur.jpeg' | absolute_url}}" />
         <br>Nupur Kittur
         <br>University of Georgia</div>
-    <div>
+      <div>
         <img src="{{'/documents/2023athens/Photos/Omar_Harb.jpeg' | absolute_url}}" />
         <br>Omar Harb, instructor
         <br>University of Pennsylvania</div>
@@ -786,8 +786,9 @@ div.photowrapper {
         <img src="{{'/documents/2023athens/Photos/Wei_Hsin-Ho.jpg' | absolute_url}}" />
         <br>Wei Hsin-Ho
         <br>Bowling Green State University</div>
-      </details>
-    </div>
+    </div>  
+  </details> -->
+    
 -->
 
 
