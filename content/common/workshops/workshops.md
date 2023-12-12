@@ -103,16 +103,23 @@ th.recording {
   <h3>Upcoming Workshops</h3>
  
   <div class="contents">
-  <h4><a href="/a/app/static-content/workshopDec2023.html">VEuPathDB Virtual, Dec 4-7, 2023</a></h4>
-  <p>Times: Monday, Dec 4 &ndash; Thursday Dec 7, 10am - 1:00pm US Eastern time every day with optional question and answer session 1 - 1:30pm Eastern daily</p>
-  <p>Location: This workshop is virtual via Zoom.  Attendees will need to have a computer with internet access.</p>
-  <p>More Information: <a href="/a/app/static-content/workshopDec2023.html">Workshop information and schedule</a></p>
+  <h4><a href="/a/app/static-content/workshopMay2024.html">VEuPathDB Annual Workshop (In-person) May 13th &ndash; May 17th, 2024</a></h4>
+  <p>Times: Monday May 13 &ndash; Friday May 17, 2024 </p>
+  <p>Location: The University of Georgia, Athens Georgia, USA</p>
+  <p>More Information: <a href="/a/app/static-content/workshopMay2024.html">Workshop information and schedule</a></p>
   </div>
   
 
   <hr>
   
   <h3>Previous Workshops</h3>
+
+<div class="contents">
+  <h4><a href="/a/app/static-content/workshopDec2023.html">VEuPathDB Virtual, Dec 4-7, 2023</a></h4>
+  <p>Times: Monday, Dec 4 &ndash; Thursday Dec 7, 10am - 1:00pm US Eastern time every day with optional question and answer session 1 - 1:30pm Eastern daily</p>
+  <p>Location: This workshop is virtual via Zoom.  Attendees will need to have a computer with internet access.</p>
+  <p>More Information: <a href="/a/app/static-content/workshopDec2023.html">Workshop information and schedule</a></p>
+</div>
 
 <div class="contents">
     <h4><a href="/a/app/static-content/FungiDBworkshop2023.html">FungiDB - ACE (Uganda) workshop (virtual) July 26-28, 2023</a></h4>
