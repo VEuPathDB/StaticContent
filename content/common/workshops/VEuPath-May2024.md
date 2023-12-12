@@ -290,7 +290,7 @@ div.photowrapper {
         <tbody>         
           <tr>
             <td>7 - 8:00 am<br>
-                Georgia Center, UGA</td>
+                Georgia Center</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
@@ -305,7 +305,7 @@ div.photowrapper {
           <tr>
             <td>8:30 am - 5:30 pm<br>
                 Life Sciences C128</td>
-            <td>VEuPathDB Workshop with short lectures and hands-on exercises</td>
+            <td>Short lectures and hands-on exercises</td>
             <td></td>
             <td></td>
           </tr>
@@ -406,14 +406,14 @@ div.photowrapper {
         <tbody>         
           <tr>
             <td>7 - 8:00 am<br>
-                Georgia Center, UGA</td>
+                Georgia Center</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
             <td>8:00 am<br>
-                Georgia Center </td>
+                Georgia Center</td>
             <td>leave from hotel to walk to Life Sciences</td>
             <td></td>
             <td></td>
@@ -532,7 +532,7 @@ div.photowrapper {
           </tr>
           <tr>
             <td>8:00 am<br>
-                Georgia Center, UGA</td>
+                Georgia Center</td>
             <td>leave from hotel</td>
             <td></td>
             <td></td>
@@ -541,7 +541,7 @@ div.photowrapper {
             <td>8:30 am - 5:30 pm<br>
                 Life Sciences C128</td>
             <td>Short lectures and hands-on exercises</td>
-            <td>O</td>
+            <td></td>
             <td></td>
           </tr>
           <!--
@@ -636,15 +636,15 @@ div.photowrapper {
           </tr>
           <tr>
             <td>8:00 am<br>
-                Georgia Center, UGA</td>
-            <td>Leave hotel lobby</td>
+                Georgia Center</td>
+            <td>Leave hotel lobby to walk to Life Sciences</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
             <td>8:30 am - 12 pm<br>
                 Life Sciences C128</td>
-            <td>Group exercises and workshop discussion<br>
+            <td>Group exercise and workshop discussion<br>
                 Boxed lunch to go</td>
             <td></td>
             <td></td>
