@@ -139,7 +139,7 @@ div.photowrapper {
     <p><h4>Monday, May 13th 4:00 pm - Friday, May 17th 12:00 pm  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>           
     <p><h4><b>Registration, housing, and most meals during the workshop are free.  Attendees are expected to pay their own travel expenses, some evening meals, and housing for extended stays.</b> </h4></p>   
-    <p><h4><b><a href="#Schedule"></a></b></h4></p>      
+    <p><h4><b><a href="#Schedule">Basic Schedule</a></b></h4></p>      
   </div>
   
 
@@ -385,9 +385,8 @@ div.photowrapper {
             <td>Adjourn</td>
             <td></td>
             <td></td>
-          </tr>
+          </tr> -->
         </tbody>
-        -->
       </table>
       <br>
       <br>    
@@ -677,7 +676,7 @@ div.photowrapper {
       <br>
       <br>
     </details>        
-<!--
+  <!--
   <div class="anchor"><a name="Directory"></a></div>
   <details closed>
     <summary><b>Directory</b> </summary>  
@@ -762,7 +761,7 @@ div.photowrapper {
         <img src="{{'/documents/2023athens/Photos/Nupur_Kittur.jpeg' | absolute_url}}" />
         <br>Nupur Kittur
         <br>University of Georgia</div>
-    <div>
+      <div>
         <img src="{{'/documents/2023athens/Photos/Omar_Harb.jpeg' | absolute_url}}" />
         <br>Omar Harb, instructor
         <br>University of Pennsylvania</div>
@@ -785,11 +784,9 @@ div.photowrapper {
       <div>
         <img src="{{'/documents/2023athens/Photos/Wei_Hsin-Ho.jpg' | absolute_url}}" />
         <br>Wei Hsin-Ho
-        <br>Bowling Green State University
-        </div>
-    </div>
--->
-  </details>
+        <br>Bowling Green State University</div>
+    </div>  
+  </details> -->
 
   </div>  <!-- class workshop -->
 
