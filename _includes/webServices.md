@@ -67,5 +67,5 @@ Find all ({{organism}}) genes that have molecular weight between 10,000 and 10,5
 <h3>The Full {{project}} Web Services API</h3>
 <p>Advanced users might want to view the <a href="/service-api.html">{{project}} Web Services API</a>.</p>
 <p>The base URL for the service call is: <b>https://{{project}}.org/{{webapp}}/service/</b></p>
-
+<p>An in depth tutorial in <a href="{{ "/documents/Using-Web-services-Dec2023.pdf" | absolute_url }}">VEuPathDB Web Services</a>.</p>
 </div>
