@@ -33,7 +33,7 @@ img {
       <li>From the <b>Workspace</b> menu in the header, click on <b>My User Studies</b></li>
       <li>Go to the <b>New upload</b> tab</li>
       <li>Fill out the <b>Name</b> and <b>Summary</b> fields. The <b>Description</b> is optional, but a great place to add in-depth detail such as background, study objectives, methodology, etc.</li>
-      <li>Choose the .csv, .tsv, or tab-delimited .txt file you wish to upload</li>
+      <li>Choose the file you wish to upload</li>
       <li>Click <b>Upload Data Set</b>. Now your upload is in progress</li>
       <li>You will be redirected to the <b>Recent uploads</b> tab. Click the <b>Refresh page</b> button if your study appears as in progress (yellow). Once the upload is complete, the entry will turn green and provide a link to your <b>User Study Record</b>, where you can edit the name, summary, and description of your dataset. If the upload fails, the entry will turn red. Please try again and <a  href="/a/app/contact-us" target="_blank">Contact Us</a> if the problem persists</li>
       <li>After the data are uploaded, they must be installed. This process is started automatically and can take anywhere from a few minutes to a couple of hours depending on the size of your data. Check the status of installation on the <b>All</b> tab and refresh the page to get the latest status. In the <b>Status</b> column, a clock indicates that installation is in progress, a green check mark indicates it is complete, and a gray icon indicates it failed. If the icon turns gray, please <a  href="/a/app/contact-us" target="_blank">Contact Us</a></li>
