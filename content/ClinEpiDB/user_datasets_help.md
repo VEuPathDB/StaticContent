@@ -60,6 +60,7 @@ img {
           <li>Values for “Latitude” and “Longitude” must be in floating point notation (e.g. “-6.5431”, rather than “6.5431E”)</li>
           </ul>
       </li>
+    </ul>
   <br><hr>
 
   <h3>Upload data</h3>
