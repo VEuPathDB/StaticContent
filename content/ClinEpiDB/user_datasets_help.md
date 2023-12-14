@@ -53,6 +53,7 @@ img {
         <li>Must be less than 1000 characters</li>
         <li>Special characters will appear nonsensical on the website (e.g. <b>é</b> appears as <b>\x8E</b>)</li>
         </ul>
+      </li>
       <li>To use the <b>Interactive Map</b> tool for geospatial visualization of data:
           <ul>
           <li>The file must have separate columns labeled “Latitude” and “Longitude”</li>
