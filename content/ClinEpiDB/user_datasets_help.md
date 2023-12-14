@@ -4,18 +4,14 @@ title: User Data Sets Help
 ---
 <style>
 
-div.UserDatasetHelp img {
+img {
     width: 50%;
     margin-bottom: 20px;
 }
 
 </style>
 
-
 <div class="static-content">
-
-  <div class="UserDatasetHelp">
-
 
   <h3>Overview</h3>
     <ul>
@@ -25,7 +21,6 @@ div.UserDatasetHelp img {
       <li><b>My User Studies</b> persist between sessions, so your datasets are always accessible unless you remove them</li>
     </ul>
   <br><hr>
-
 
   <h3>Prepare data for upload</h3>
     <ul>
@@ -65,7 +60,6 @@ div.UserDatasetHelp img {
           </ul>
       </li>
   <br><hr>
-
 
   <h3>Upload data</h3>
     <ol>
@@ -125,7 +119,5 @@ div.UserDatasetHelp img {
       </li>
     </ul>
    <br><hr>
-
-  </div>
 
 </div>
