@@ -23,8 +23,9 @@ img {
   <h3>Prepare data for upload</h3>
     <ul>
       <li>You may only upload single-file datasets. In the future, more complex data will be supported</li>
-      <li>The file must be a .biom file</li>
-      <li>The file must have a Taxonomy field</li>
+      <li>The file must be a .biom file, either JSON-based (BIOM 1.0) or HDF5 (BIOM 2.0+)</li>
+      <li>The file must have a Taxonomy field. Try including taxonomic information and rich sample details in your file. This will allow you to select groups of samples and create meaningful comparisons at a desired aggregation level, using our filtering and visualisation tools</li>
+      <li>The maximum allowed file size is 1GB</li>
     </ul>  
 <br><hr>
 
