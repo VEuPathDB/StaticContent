@@ -463,9 +463,9 @@
   projects: ""
   
 - type: download
-  question: "Which database, NCBI/EMBL-EBI or VEuPathDB, hosts the most up to date genome annotation file version (*gff)?"
+  question: "Why are genome annotation files at VEuPathDB different from NCBI, ENA, EMBL-EBI, DDBJ, or other repositories?"
   answer: |
-          If you need a genome annotation file (*gff), e.g., for RNAseq differential expression analyses or mass spectrometry expression analyses, VEuPathDB hosts the most up to date genome annotation file version. To download the file, go to the header of the site under the “Data” menu and click on “Download data files”, e.g., https://vectorbase.org/vectorbase/app/downloads. If you use the annotation files from NCBI or ENA/EMBL-EBI and come back to VEuPathDB for downstream analyses, you might find that some of your genes of interest are missing or have a different gene ID, due to structural or functional annotation changes. To learn why there is a difference between the INSDC archival databases and VEuPathDB <a href="https://veupathdb.org/veupathdb/app/static-content/apollo_help.html" target="_blank" title="Apollo landing page">follow this link to Apollo</a> to learn about our genome update workflow. 
+          If you use the annotation files from other repositories and come back to VEuPathDB for downstream analyses, you might find that some of your genes of interest are missing or have a different gene ID, due to structural or functional annotation changes. To download the file, go to the header of the site under the “Data” menu and click on “Download data files”, e.g., https://vectorbase.org/vectorbase/app/downloads.learn and to learn why there is a difference between the INSDC archival databases and VEuPathDB <a href="https://veupathdb.org/veupathdb/app/static-content/apollo_help.html" target="_blank" title="Apollo landing page">follow this link to Apollo</a> to learn about our genome update workflow. 
 
   uid: uptodate
   projects: ""
