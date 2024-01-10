@@ -32,13 +32,13 @@ tags: [general]
   <h3>Upcoming</h3>
   <div class="contents">   
 
-  <div class="anchor"><a name="release66"></a></div>
+  <div class="anchor"><a name="release67"></a></div>
   <div class="webinar">
-  <b>Topic:</b> Release 66 Webinar<br>
-  <b>Date:</b> Tuesday, Nov 28, 2023<br>
+  <b>Topic:</b> Release 67 Webinar<br>
+  <b>Date:</b> To be posted<br>
   <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
-  <b>Details:</b> This webinar will focus on what is new in Release 66 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+  <b>Registration:</b> Registration link will be available 7-10 days prior to the webinar.  <br>
+  <b>Details:</b> This webinar will focus on what is new in Release 67 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
   </div>    
 
   <!-- <div class="anchor"><a name="release67"></a></div>
@@ -121,6 +121,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <summary><h3>Releases</h3></summary>
 <b>Release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session.</b> <br>
 <ul>
+<li><b>Release 66 Webinar</b> (Dec 14, 2023): <a href="https://youtu.be/jdpRcYuQQUo?si=MmpjOVQIufZpxZiD" target="_blank">https://youtu.be/jdpRcYuQQUo?si=MmpjOVQIufZpxZiD</a></li>
 <li><b>Release 65 Webinar</b> (Sep 21, 2023): <a href="https://youtu.be/9r4TrxzerIg" target="_blank">https://youtu.be/9r4TrxzerIg</a></li>
 <li><b>Release 64 Webinar</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40" target="_blank">https://youtu.be/varDu6ZkI40</a></li>
 <li><b>Release 63 Webinar</b> (May 11, 2023): <a href="https://youtu.be/vbm7AgIKvgI" target="_blank">https://youtu.be/vbm7AgIKvgI</a></li>
