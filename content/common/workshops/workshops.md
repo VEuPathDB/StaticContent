@@ -110,11 +110,11 @@ th.recording {
   </div>
  
   <div class="contents">
-  <h4><a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/" target="_blank">2024 Fungal Pathogen Genomics (in-person) 02 &ndash; 07 June 2024</a></h4>
+  <h4><a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/" target="_blank">2024 Fungal Pathogen Genomics (in-person) June 02 &ndash; 07, 2024</a></h4>
   <p>Learn how to take advantage of the unique tools offered by FungiDB, Ensembl Fungi, SGD/CGD, and MycoCosm/JGI databases & more.</p>
-  <p><b>APPLY NOW!!</b> Registration is now open.</p> 
-  <p><b>Where:</b> Wellcome Genome Campus, Hinxton, UK.</p> 
-  </p><br>Application deadline:</b> 29 February 2024. More information: <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/" target="_blank">2024 Fungal Pathogen Genomics</a>.
+  <p><b>Location:</b> Wellcome Genome Campus, Hinxton, UK.</p> 
+  <p><b>Application deadline:</b> 29 February 2024.</p> 
+  <p><b>More information:</b> <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/" target="_blank">2024 Fungal Pathogen Genomics</a>.
   </div>
 
    <hr>
