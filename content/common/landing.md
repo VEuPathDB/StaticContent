@@ -36,33 +36,33 @@ title: VEuPathDB landing
 
   <div>
     <h3>FAQs</h3>
-    <p>Quick answers to your questions!</p>
+    <p>Quick answers to your questions</p>
     <button><a href="/a/app/static-content/faq.html">Explore</a></button>
   </div>
   <div>
-    <h3>Virtual Event</h3>
-    <p>Host us for your lab meeting or workshop!</p>
-    <button><a href="/a/app/contact-us">Contact Us</a></button>
-  </div>
-  <div>
     <h3>Webinars</h3>
-    <p>Live and on-demand instructional videos.</p>
+    <p>Live and on-demand instructional videos</p>
     <button><a href="/a/app/static-content/webinars.html">Explore</a></button>
   </div>
   <div>
     <h3>Workshops</h3>
-    <p>Training to improve your skills.</p>
+    <p>Structured training to improve your skills</p>
     <button><a href="/a/app/static-content/workshops.html">Explore</a></button>
   </div>
   <div>
-    <h3>Learning Materials</h3>
-    <p>Explore quickstarts and tutorials.</p>
+    <h3>Tutorials</h3>
+    <p>Self-guided exercises and tutorials (PDFs)</p>
     <button><a href="/a/app/static-content/tutorials.html">Explore</a></button>
   </div>
   <div>
-    <h3>Methods</h3>
-    <p>Understand our data and its provenance.</p>
+    <h3>Analysis methods</h3>
+    <p>Understand our data and its provenance</p>
     <button><a href="/a/app/static-content/methods.html">Explore</a></button>
+  </div>
+  <div>
+    <h3>Virtual Events</h3>
+    <p>Host us for your lab meeting or workshop!</p>
+    <button><a href="/a/app/contact-us">Contact Us</a></button>
   </div>
 
 </div>
