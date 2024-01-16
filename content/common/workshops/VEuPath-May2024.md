@@ -298,7 +298,7 @@ div.photowrapper {
           <tr>
             <td>8:00 am<br>
                 Georgia Center</td>
-            <td>leave from hotel to walk to Life SCiences Building</td>
+            <td>leave from hotel to walk to Life Sciences Building</td>
             <td></td>
             <td></td>
           </tr>
