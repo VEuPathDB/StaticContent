@@ -114,7 +114,7 @@ th.recording {
   <p>Learn how to take advantage of the unique tools offered by FungiDB, Ensembl Fungi, SGD/CGD, and MycoCosm/JGI databases & more.</p>
   <p><b>Location:</b> Wellcome Genome Campus, Hinxton, UK.</p> 
   <p><b>Application deadline:</b> 29 February 2024.</p> 
-  <p><b>More information:</b> <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/" target="_blank">2024 Fungal Pathogen Genomics</a>.
+  <p><b>More information:</b> <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/" target="_blank">Wellcome Connecting Science 2024 Fungal Pathogen Genomics course</a>.</p>
   </div>
 
   <hr>
