@@ -132,7 +132,6 @@ th.recording {
    <p>Location: Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda and on Zoom</p>
   <p>More Information: <a href="/a/app/static-content/FungiDBworkshop2023.html">Workshop information and schedule</a></p>
   </div>
-      <hr>
 
   <div class="contents">
     <h4><a href="/a/app/static-content/workshopUOL2023.html">University of Liverpool, VEuPathDB Workshop (In Person) June 27-29, 2023</a></h4>
