@@ -135,7 +135,7 @@ div.photowrapper {
 
 
   <div class="centered-title">        
-    <p><h4><b><div style="color:maroon">Application deadline is Jan 22, 2024</div></b> Please complete the application form at <a href="https://forms.gle/4S4neaBys2ghqdEUA" target="_blank">https://forms.gle/4S4neaBys2ghqdEUA</a>.  Students, Post Docs and staff should also arrange for 2 recommendation letters to be sent to <a href="mailto:jckadmin@uga.edu">jckadmin@uga.edu</a>.   </h4></p>  
+    <p><h4><b><div style="color:maroon">Application deadline is extended to Jan 22, 2024</div></b> Please complete the application form at <a href="https://forms.gle/4S4neaBys2ghqdEUA" target="_blank">https://forms.gle/4S4neaBys2ghqdEUA</a>.  Students, Post Docs and staff should also arrange for 2 recommendation letters to be sent to <a href="mailto:jckadmin@uga.edu">jckadmin@uga.edu</a>.   </h4></p>  
     <p><h4>Monday, May 13th 4:00 pm - Friday, May 17th 12:00 pm  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>           
     <p><h4><b>Registration, housing, and most meals during the workshop are free.  Attendees are expected to pay their own travel expenses, some evening meals, and housing for extended stays.</b> </h4></p>   
