@@ -255,7 +255,7 @@
   uid: apollo3
   projects: ""
 - type: apollo
-  question: "How do I update functional annotation in Apollo?"
+  question: "How do I update functional annotation in Apollo (e.g., gene name, product description)?"
   answer: |
            1. Log into VEuPathDB 
            2. From the gene record page select “View and update community annotations in Apollo”. 
