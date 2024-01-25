@@ -17,6 +17,7 @@ title: VEuPathDB landing
   margin: 0 1em 1em 0;
   padding: 0 1em 1em;
   text-align: center;
+  width: 200px;
 }
 .flex-container div button {
   padding: 0.5em;
