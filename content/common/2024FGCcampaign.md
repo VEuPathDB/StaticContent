@@ -147,7 +147,7 @@ div.centered-title {
   <p><b>How to submit user comments in bulk:</b></p>
     <ul>
       <li> To submit user comments in bulk, download our bulk user comment submission form here: <a href="https://tinyurl.com/commentsfungi">https://tinyurl.com/commentsfungi</a></li>
-      <li> Simply fill it out and <a href="https://fungidb.org/fungidb/app/contact-us">send it back to us</a></li>
+      <li> Simply fill it out and <a href="https://fungidb.org/fungidb/app/contact-us">send it back to us</a>
     </ul>
 
  
@@ -168,8 +168,8 @@ div.centered-title {
     <ul>
       <li> Sign in or Register at <a href="https://fungidb.org/fungidb/app/user/registration">FungiDB.org</a></li>
       <li> Navigate to the gene record page</li> 
-      <li> Click on the View & update community annotation in Apollo link</li> <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo1ecfg16.png" | absolute_url }}" alt="User Comment Form"/>. </li>
-      <li> Add the gene model into the annotation area, add evidence tracks & edit the annotation</li> <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo2ecfg16.png" | absolute_url }}" alt="User Comment Form"/></li>
+      <li> Click on the View & update community annotation in Apollo link</li> <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo1ecfg16.png" | absolute_url }}" alt="User Comment Form"/>.
+      <li> Add the gene model into the annotation area, add evidence tracks & edit the annotation</li> <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo2ecfg16.png" | absolute_url }}" alt="User Comment Form"/>
     </ul>
       <p> Not familiar with Apollo editor? No problem - See <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> for more information about how to modify gene models.
       
