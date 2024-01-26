@@ -111,7 +111,7 @@ div.centered-title {
 
 
   <div class="centered-title">     
-    <h4><a href="https://fungidb.org">FungiBD</a> User Comment and Annotation drive - Now and through March 8, 2023</h4>
+    <h4><a href="https://fungidb.org">FungiBD</a> User Comment and Annotation drive - Now and through March 16, 2024</h4>
   </div>
 
   
