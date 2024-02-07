@@ -481,4 +481,4 @@
            5. <b>Explore the Orthology and Synteny section of your gene of interest to see if there are any orthologs:</b>Missing orthologs can be an indication of a possible problem with your gene of interest. The synteny view can also provide additional information on your gene of interest. This data can be explored from the orthology and synteny section of the gene page or in the genome browser.
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/genestructure.png"  />           
   uid: genestructure
-    projects: ""
+  projects: ""
