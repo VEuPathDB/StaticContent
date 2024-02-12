@@ -167,8 +167,8 @@ div.method-details {
      <li>Trim poor quality data (Trimmomatic)</li>
      <li>HiSAT2 alignment to a reference genome</li>
      <li>HT-Seq-count to tally aligned reads per gene</li>
-     <li>Convert to transcripts per kilobase million (TPM)</li>
-     <li>DESeq2 to determine differential expression</li>
+     <li>Convert count data to transcripts per kilobase million (TPM) for use in visualisations and fold-change searches</li>
+     <li>Use count data as input to DESeq2 to determine differential expression</li>
     </ul>
     
    <p><a href="https://docs.google.com/document/d/1igsvk73s3pNjeaJvwLtitfFLexhNfr6-Vk3OIKqq3bw/edit?usp=sharing">EBI RNA-Seq pipeline details</a></p>
