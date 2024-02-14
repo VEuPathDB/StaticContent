@@ -124,19 +124,19 @@ div.centered-title {
     <p><h3>About the campaign</h3></p>
     <p>We are excited to announce that FungiDB is launching a crowdsourcing user comment and gene annotation campaign, coinciding with the 32nd Fungal Genetics Conference (FGC) in Asilomar, USA.</p>
 
-        <img style="width: 70em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/fgc2024ucc.png" | absolute_url }}" alt="2024FGCmug"/>
+        <img style="width: 70em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/got_fungus_mug_2023.png" | absolute_url }}" alt="2024FGCmug"/>
     <br>
-    <p><b>Participation is straightforward:</p>
+    <p><b>Participation is straightforward:</b></p>
     <ul> 
     <li>Leave a user comment on a gene record page OR enhance structural/functional gene annotation using the Apollo genome editor.</li>
     <li>Drop by the FungiDB help desk during poster sessions at FGC to claim your complimentary "Got Fungus?" mug. Top 10 contributors will also receive a "Got Fungus?" T-shirt!</li>
     </ul>
 
-    <p>Interested in a little friendly competition? Let's find out which fungal communities can generate the most user comments and secure a feature spot on the FungiDB Twitter posts! Calling all Aspergillus, Fusarium, Neurospora, Cryptococcus, Candida and other fungal enthusiasts and lovers! Your expertise is vital for enhancing genome quality. Join in the fun!</p>
+    <p><i>Interested in a little friendly competition?</i> Let's find out which fungal communities can generate the most user comments and secure a feature spot on the FungiDB Twitter posts! Calling all <i>Aspergillus</i>, <i>Fusarium</i>, <i>Neurospora</i>, <i>Cryptococcus</i>, <i>Candida</i> and other fungal enthusiasts and lovers! Your expertise is vital for enhancing genome quality. Join in the fun!</p>
 
-    <p>Got too many user comments to submit individually? We got you covered! Download our bulk user comments submission form here: https://tinyurl.com/commentsfungi, complete it, and email it back to us at help@fungidb.org.</p>
+    <p><i>Got too many user comments to submit individually?</i> We've got you covered! Download our bulk user comments submission form here: https://tinyurl.com/commentsfungi, complete it, and email it back to us at help@fungidb.org.</p>
 
-    <p>If you're unable to attend FGC, fret not! You can still contribute by submitting a user comment or updating gene models remotely via FungiDB.org. Simply arrange for a colleague attending FGC to collect a mug on your behalf.</p>
+    <p>If you are unable to attend FGC, fret not! You can still contribute by submitting a user comment or updating gene models remotely via FungiDB.org. Simply arrange for a colleague attending FGC to collect a mug on your behalf.</p>
 
    
     <p><b>Did you know that your contributions:</b></p>
