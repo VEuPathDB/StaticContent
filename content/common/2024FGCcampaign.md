@@ -134,7 +134,7 @@ div.centered-title {
 
     <p><h4><i>Interested in a little friendly competition?</i></h4> Let's find out which fungal communities can generate the most user comments and secure a feature spot on the <a href="https://twitter.com/fungidb">FungiDB Twitter!</a> Calling all <i>Aspergillus</i>, <i>Fusarium</i>, <i>Neurospora</i>, <i>Cryptococcus</i>, <i>Candida</i> and other fungal enthusiasts and lovers! Your expertise is vital for enhancing genome quality. Join in the fun!</p>
 
-    <p><h4><i>Got too many user comments to submit individually?</i></h4> We've got you covered! Download our  <a href="https://tinyurl.com/commentsfungi">bulk user comments submission form</a>, complete it, and email it back to us at help@fungidb.org.</p>
+    <p><h4><i>Got too many user comments to submit individually?</i></h4> We've got you covered! Download our  <a href="https://tinyurl.com/commentsfungi">bulk user comments submission form</a>, complete it, and <a href="https://fungidb.org/fungidb/app/contact-us">send it back to us</a> or email directly to help@fungidb.org.</p>
 
     <p>If you're unable to attend FGC, fret not! You can still contribute by submitting a user comment or updating gene models remotely via FungiDB.org. Simply arrange for a colleague attending FGC to collect a mug on your behalf.</p>
 
@@ -160,7 +160,7 @@ div.centered-title {
     <p><b>How to submit user comments in bulk:</b></p>
     <ul>
       <li> To submit user comments in bulk, download our bulk user comment submission form here: <a href="https://tinyurl.com/commentsfungi">https://tinyurl.com/commentsfungi</a></li>
-      <li> Simply fill it out and <a href="https://fungidb.org/fungidb/app/contact-us">send it back to us</a></li>
+      <li> Simply fill it out and send it back via the <a href="https://fungidb.org/fungidb/app/contact-us">FungiDB contact form</a> or email directly to help@fungidb.org.</li>
     </ul>
 
  
