@@ -188,6 +188,6 @@ div.centered-title {
       <p> Not familiar with Apollo editor? No problem - See <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> for more information about how to modify gene models.
            
     <p><b>Have questions?</b> <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a></p>
-    </div>
+    
 
 
