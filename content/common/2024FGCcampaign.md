@@ -124,9 +124,9 @@ div.centered-title {
     <p><h3>About the campaign</h3></p>
     <p>We are excited to announce that FungiDB is launching a crowdsourcing user comment and gene annotation campaign, coinciding with the 32nd Fungal Genetics Conference (FGC) in Asilomar, USA.</p>
 
-        <img style="width: 70em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/fgc2024ucc.png" | absolute_url }}" alt="2024FGCmug"/>
+        <img style="width: 70em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/got_fungus_mug_2023.png" | absolute_url }}" alt="2024FGCmug"/>
     <br>
-    <p><b>Participation is straightforward:</p>
+    <p><b>Participation is straightforward:</b></p>
     <ul> 
     <li>Leave a user comment on a gene record page OR enhance structural/functional gene annotation using the Apollo genome editor.</li>
     <li>Drop by the FungiDB help desk during poster sessions at FGC to claim your complimentary "Got Fungus?" mug. Top 10 contributors will also receive a "Got Fungus?" T-shirt!</li>
