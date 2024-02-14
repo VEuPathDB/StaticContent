@@ -184,7 +184,7 @@ div.centered-title {
       <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo1ecfg16.png" | absolute_url }}" alt="User Comment Form"/>.
       <li> Add the gene model into the annotation area, add evidence tracks & edit the annotation</li> <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo2ecfg16.png" | absolute_url }}" alt="User Comment Form"/>
     </ul>
-  <p> Not familiar with Apollo editor? No problem - See <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> for more information about how to modify gene models.
+  <p><b>Not familiar with Apollo editor?</b> No problem - See <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> for more information about how to modify gene models.
            
     <p><h4>Have questions?</h4> <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a></p>
     
