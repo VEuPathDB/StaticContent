@@ -134,7 +134,7 @@ div.centered-title {
 
     <p><i>Interested in a little friendly competition?</i> Let's find out which fungal communities can generate the most user comments and secure a feature spot on the FungiDB FungiDB <a href="https://twitter.com/fungidb">Twitter!</a> Calling all <i>Aspergillus</i>, <i>Fusarium</i>, <i>Neurospora</i>, <i>Cryptococcus</i>, <i>Candida</i> and other fungal enthusiasts and lovers! Your expertise is vital for enhancing genome quality. Join in the fun!</p>
 
-    <p><i>Got too many user comments to submit individually?</i> We've got you covered! Download our  <a href="https://tinyurl.com/commentsfungi">bulk user comments submission form</a>, complete it, and email it back to us at help@fungidb.org.</p>
+    <p><h4><i>Got too many user comments to submit individually?</i></h4> We've got you covered! Download our  <a href="https://tinyurl.com/commentsfungi">bulk user comments submission form</a>, complete it, and email it back to us at help@fungidb.org.</p>
 
     <p>If you are unable to attend FGC, fret not! You can still contribute by submitting a user comment or updating gene models remotely via FungiDB.org. Simply arrange for a colleague attending FGC to collect a mug on your behalf.</p>
 
