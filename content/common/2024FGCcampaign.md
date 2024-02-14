@@ -132,7 +132,7 @@ div.centered-title {
     <li>Drop by the FungiDB help desk during poster sessions at FGC to claim your complimentary "Got Fungus?" mug. Top 10 contributors will also receive a "Got Fungus?" T-shirt!</li>
     </ul>
 
-    <p><i>Interested in a little friendly competition?</i> Let's find out which fungal communities can generate the most user comments and secure a feature spot on the FungiDB Twitter posts! Calling all <i>Aspergillus</i>, <i>Fusarium</i>, <i>Neurospora</i>, <i>Cryptococcus</i>, <i>Candida</i> and other fungal enthusiasts and lovers! Your expertise is vital for enhancing genome quality. Join in the fun!</p>
+    <p><i>Interested in a little friendly competition?</i> Let's find out which fungal communities can generate the most user comments and secure a feature spot on the FungiDB FungiDB <a href="https://twitter.com/fungidb">Twitter!</a> Calling all <i>Aspergillus</i>, <i>Fusarium</i>, <i>Neurospora</i>, <i>Cryptococcus</i>, <i>Candida</i> and other fungal enthusiasts and lovers! Your expertise is vital for enhancing genome quality. Join in the fun!</p>
 
     <p><i>Got too many user comments to submit individually?</i> We've got you covered! Download our bulk user comments submission form here: https://tinyurl.com/commentsfungi, complete it, and email it back to us at help@fungidb.org.</p>
 
