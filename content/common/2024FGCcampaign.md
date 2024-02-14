@@ -123,7 +123,7 @@ div.centered-title {
 
     <p>We are excited to announce that FungiDB is launching a crowdsourcing user comment and gene annotation campaign, coinciding with the 32nd Fungal Genetics Conference (FGC) in Asilomar, USA.</p>
 
-        <img style="width: 23em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/2024fgc_mug_shirt.png" | absolute_url }}" alt="2024FGCmug"/>
+        <img style="width: 35em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/2024fgc_mug_shirt.png" | absolute_url }}" alt="2024FGCmug"/>
     <br>
     <p><h4>Participation is straightforward:</h4></p>
     <ol> 
