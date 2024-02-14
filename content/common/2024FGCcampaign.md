@@ -132,7 +132,7 @@ div.centered-title {
     </ol>
     <p>If you're unable to attend FGC, fret not! You can still contribute by submitting a user comment or updating gene models remotely via FungiDB.org. Simply arrange for a colleague attending FGC to collect a mug on your behalf.</p>
 
-    <p><h4>Interested in a little friendly competition?</h4> Let's find out which fungal communities can generate the most user comments and secure a feature spot on the <a href="https://twitter.com/fungidb">FungiDB Twitter!</a> Calling all <i>Aspergillus</i>, <i>Fusarium</i>, <i>Neurospora</i>, <i>Cryptococcus</i>, <i>Candida</i> and other fungal enthusiasts and lovers! Your expertise is vital for enhancing genome quality. Join in the fun!</p>
+    <p><h4>Interested in a little friendly competition?</h4> Let's find out which fungal communities can generate the most user comments and secure a feature spot on <a href="https://twitter.com/fungidb">FungiDB Twitter!</a> Calling all <i>Aspergillus</i>, <i>Fusarium</i>, <i>Neurospora</i>, <i>Cryptococcus</i>, <i>Candida</i> and other fungal enthusiasts and lovers! Your expertise is vital for enhancing genome quality. Join in the fun!</p>
 
     <p><h4>Got too many user comments to submit individually?</h4> We've got you covered! Download our  <a href="https://tinyurl.com/commentsfungi">bulk user comments submission form</a>, complete it, and send it back via the <a href="https://fungidb.org/fungidb/app/contact-us">FungiDB contact form</a>.</p>
 
@@ -174,7 +174,7 @@ div.centered-title {
      <li>Other functional or experimental information (note that even negative data can be quite informative)</li>
     </ul>
 
-   <p><h4>How to make changes in Apollo:</h4></p>
+    <p><h4>How to make changes in Apollo:</h4></p>
     <ul>
       <li> Sign in or Register at <a href="https://fungidb.org/fungidb/app/user/registration">FungiDB.org</a></li>
       <li> Navigate to the gene record page</li> 
@@ -182,9 +182,9 @@ div.centered-title {
       <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo1ecfg16.png" | absolute_url }}" alt="User Comment Form"/>.
       <li> Add the gene model into the annotation area, add evidence tracks & edit the annotation</li> <img style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo2ecfg16.png" | absolute_url }}" alt="User Comment Form"/>
     </ul>
-  <p><b>Not familiar with Apollo editor?</b> No problem - See <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> for more information about how to modify gene models.
+    <p><b>Not familiar with Apollo editor?</b> No problem - See <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> for more information about how to modify gene models.
            
-    <p><h4>Have questions?</h4> <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a></p>
+    <p><b>Have questions?</b> - <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a></p>
     
 
 
