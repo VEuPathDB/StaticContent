@@ -130,14 +130,12 @@ div.centered-title {
     <li>Leave a user comment on a gene record page OR enhance structural/functional gene annotation using the Apollo genome editor.</li>
     <li>Drop by the FungiDB help desk during poster sessions at FGC to claim your complimentary "Got Fungus?" mug. Top 10 contributors will also receive a "Got Fungus?" T-shirt!</li>
     </ol>
+    <p>If you're unable to attend FGC, fret not! You can still contribute by submitting a user comment or updating gene models remotely via FungiDB.org. Simply arrange for a colleague attending FGC to collect a mug on your behalf.</p>
 
     <p><h4>Interested in a little friendly competition?</h4> Let's find out which fungal communities can generate the most user comments and secure a feature spot on the <a href="https://twitter.com/fungidb">FungiDB Twitter!</a> Calling all <i>Aspergillus</i>, <i>Fusarium</i>, <i>Neurospora</i>, <i>Cryptococcus</i>, <i>Candida</i> and other fungal enthusiasts and lovers! Your expertise is vital for enhancing genome quality. Join in the fun!</p>
 
     <p><h4>Got too many user comments to submit individually?</h4> We've got you covered! Download our  <a href="https://tinyurl.com/commentsfungi">bulk user comments submission form</a>, complete it, and send it back via the <a href="https://fungidb.org/fungidb/app/contact-us">FungiDB contact form</a>.</p>
 
-    <p>If you're unable to attend FGC, fret not! You can still contribute by submitting a user comment or updating gene models remotely via FungiDB.org. Simply arrange for a colleague attending FGC to collect a mug on your behalf.</p>
-
-   
     <p><b>Did you know that your contributions:</b></p>
     <ul>
       <li> Help improve genome annotations: provide evidence for alternative gene models, knockout phenotypes, sub-cellular localisation, PubMed IDs, etc.</li> 
