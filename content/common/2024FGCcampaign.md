@@ -127,10 +127,10 @@ div.centered-title {
         <img style="width: 35em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/got_fungus_mug_2023.png" | absolute_url }}" alt="2024FGCmug"/>
     <br>
     <p><b>Participation is straightforward:</b></p>
-    <ul> 
+    <ol> 
     <li>Leave a user comment on a gene record page OR enhance structural/functional gene annotation using the Apollo genome editor.</li>
     <li>Drop by the FungiDB help desk during poster sessions at FGC to claim your complimentary "Got Fungus?" mug. Top 10 contributors will also receive a "Got Fungus?" T-shirt!</li>
-    </ul>
+    </ol>
 
     <p>Interested in a little friendly competition? Let's find out which fungal communities can generate the most user comments and secure a feature spot on the FungiDB Twitter posts! Calling all Aspergillus, Fusarium, Neurospora, Cryptococcus, Candida and other fungal enthusiasts and lovers! Your expertise is vital for enhancing genome quality. Join in the fun!</p>
 
