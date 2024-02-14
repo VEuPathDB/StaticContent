@@ -121,7 +121,6 @@ div.centered-title {
   <div class="anchor"><a name="ecfg16campaign"></a></div>
   <div class="workshop">
 
-    <p><h3>About the campaign</h3></p>
     <p>We are excited to announce that FungiDB is launching a crowdsourcing user comment and gene annotation campaign, coinciding with the 32nd Fungal Genetics Conference (FGC) in Asilomar, USA.</p>
 
         <img style="width: 23em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/got_fungus_mug_2023.png" | absolute_url }}" alt="2024FGCmug"/>
