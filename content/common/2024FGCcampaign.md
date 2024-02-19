@@ -1,6 +1,6 @@
 ---
 layout: plain
-title: FungiDB user comment and annotation campaign
+title: FungiDB User Comments and Gene Annotation Campaign
 permalink: /2024FGC
 tags: [workshop-exercise]
 ---
@@ -111,7 +111,7 @@ div.centered-title {
 
 
   <div class="centered-title">     
-    <h4><a href="https://fungidb.org">FungiBD</a> User Comment and Annotation drive - Now and through March 16, 2024</h4>
+    <h4><a href="https://fungidb.org">FungiBD</a> User Comments and Gene Annotation Campaign - Now and through March 16, 2024</h4>
   </div>
 
   
@@ -121,7 +121,7 @@ div.centered-title {
   <div class="anchor"><a name="ecfg16campaign"></a></div>
   <div class="workshop">
 
-    <p>We are excited to announce that FungiDB is launching a crowdsourcing user comment and gene annotation campaign, coinciding with the 32nd Fungal Genetics Conference (FGC) in Asilomar, USA.</p>
+    <p>We are excited to announce that FungiDB is launching a crowdsourcing User Comments and Gene Annotation Campaign, coinciding with the 32nd Fungal Genetics Conference (FGC) in Asilomar, USA.</p>
 
         <img style="width: 35em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/fungidb/2024fgc_mug_shirt.png" | absolute_url }}" alt="2024FGCmug"/>
     <br>
