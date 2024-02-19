@@ -77,14 +77,14 @@ cards:
     date: 2023/09/14
     exclude: OrthoMCL
     links:
-      - name: Introduction to MapVEu  
+      - name: Introduction to the new MapVeu
+        path: MapVEu_EDA_Introduction_20230913.pdf
+        description:
+      - name: Legacy MapVEu (intro) 
         path: MapVEu_part1_05_05_2020.pdf
         description:
-      - name: Additional features of MapVEu 
+      - name: Additional features of legacy MapVEu 
         path: MapVEu_part2_05_05_2020.pdf
-        description:
-      - name: Introduction to MapVEu EDA-beta
-        path: MapVEu_EDA_Introduction_20230913.pdf
         description:
   - card: Metabolic Pathways
     description: Learn to use metabolic pathway searches and visualization tools 
