@@ -139,9 +139,9 @@ div.centered-title {
     <p><b>Did you know that your contributions:</b></p>
     <ul>
       <li> Help improve genome annotations: provide evidence for alternative gene models, knockout phenotypes, sub-cellular localisation, PubMed IDs, etc.</li> 
-      <li> User comments become immediately visible on the gene record pages. </li> 
-      <li> Changes in Apollo become a part of the Community annotation from Apollo JBrowse track. </li>
-      <li> Benefit the research community at large, showcase your favourite genes or publications, and are the quickest way to provide up-to-date information about genes on the live site. </li>
+      <li> Become searchable and visible on gene record pages and JBrowse (e.g., Community annotation from Apollo track)</li> 
+      <li> Benefit the research community at large, showcase your favorite genes or publications, and are the quickest way to provide up-to-date information about genes on the live site</li> 
+ </li>
     </ul>
   
     <p><h4>How to submit a single comment:</h4></p>
