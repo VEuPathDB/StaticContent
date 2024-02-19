@@ -1,6 +1,6 @@
 ---
 layout: plain
-title: FungiDB user comment and annotation campaign
+title: FungiDB User Comments and Gene Annotation Campaign
 permalink: /2024FGC
 tags: [workshop-exercise]
 ---
