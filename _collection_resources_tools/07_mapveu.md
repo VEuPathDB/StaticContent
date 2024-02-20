@@ -56,7 +56,7 @@ permalink: '#mapveu'
 }
 </style>
 <div id="topright">
-  <a href="/popbio-map/web/">MapVEu</a>
+  <a href="/a/app/workspace/maps/DS_480c976ef9/new">MapVEu</a>
 </div>
 <div class="search-strategies-feature">
   <p><a href="/a/app/workspace/maps/DS_480c976ef9/new">MapVEu</a> is a web application and exploratory data analysis platform that facilitates access to and exploration of geospatial data. It integrates genomic, phenotypic and population data for traits such as insecticide resistance genotypes and phenotypes, genetic variation with microsatellites, chromosomal inversions and SNPs, population abundance, pathogen infection status and blood meal identification. </p>
