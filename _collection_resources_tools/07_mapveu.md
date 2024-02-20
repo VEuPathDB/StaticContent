@@ -63,21 +63,21 @@ permalink: '#mapveu'
   <div class="search-strategies-feature--panels">
     <div>
       <div>Data is presented on a full-screen map with a menu of tools to facilitate exploratory data analysis.</div>
-      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/views-in-mapveu.png" | absolute_url }}" alt="Searches"/>
+      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/mapveu_landing.png" | absolute_url }}" alt="Searches"/>
     </div>
     <div>
     <br/>
       <div>Data is displayed using three types of markers- donuts, bar plots, and bubbles- that are responsive to zoom level. Supporting plots greatly expand analysis capabilities with visualizations of variables in the data set, including X-Y relationships (scatter plot, line plot, time series), distributions (histogram, box plot), and counts and proportions (bar plot, contingency table).</div>
-      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/metadata.png" | absolute_url }}" alt="Strategy panel"/>
+      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/mapveu_plots.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
     <div>
     <br/>
       <div>A variable tree allows you to browse all the variables in the data and examine their distribution. Data can be filtered to choose a subset.</div>
-      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/download.png" | absolute_url }}" alt="Strategy panel"/>
+      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/mapveu_filter.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
     <div>
     <br/>
       <div>Download your subset of interest or the entire dataset as flat files to analyze on your own. Analyses can be saved and shared.</div>
-      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/share.png" | absolute_url }}" alt="Strategy panel"/>
+      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/mapveu_download.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
 <div>
