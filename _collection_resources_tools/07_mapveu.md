@@ -63,7 +63,7 @@ permalink: '#mapveu'
   <div class="search-strategies-feature--panels">
     <div>
       <div>Data is presented on a full-screen map with a menu of tools to facilitate exploratory data analysis.</div>
-      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/mapveu_landing.png" | absolute_url }}" alt="Searches"/>
+      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/mapveu_landing.png" | absolute_url }}" alt="Searches"/>
     </div>
     <div>
     <br/>
@@ -73,7 +73,7 @@ permalink: '#mapveu'
     <div>
     <br/>
       <div>A variable tree allows you to browse all the variables in the data and examine their distribution. Data can be filtered to choose a subset.</div>
-      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/mapveu_filter.png" | absolute_url }}" alt="Strategy panel"/>
+      <img style="width: 35em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/mapveu_filter.png" | absolute_url }}" alt="Strategy panel"/>
     </div>
     <div>
     <br/>
