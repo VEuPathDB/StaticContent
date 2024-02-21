@@ -13,20 +13,6 @@ cards:
       - name: "Unannotated Intron Junctions"
         path: Intron_junctions_search_07_08_2022.pdf
         description: 
-  - card: "Apollo: Manual gene annotation" 
-    description: Structural and functional community curation with Apollo, a real time collaborative genome annotation and curation platform 
-    date: 2023/02/13
-    exclude: OrthoMCL
-    links:
-      - name: "Functional annotation"
-        path: Apollo_functional_annotation_26_10_2021.pdf
-        description:
-      - name: "Structural annotation"
-        path: Apollo_structural_annotation_13_02_2023.pdf
-        description: 
-      - name: "Unannotated Intron Junctions"
-        path: Intron_junctions_search_07_08_2022.pdf
-        description: 
   - card: Gene Pages
     description: Explore the data and images on gene pages 
     date: 2023/10/17
