@@ -13,6 +13,14 @@ cards:
       - name: "Unannotated Intron Junctions"
         path: Intron_junctions_search_07_08_2022.pdf
         description: 
+  - card: "Finding old Gene IDs" 
+    description: Methods for finding the current version of old or retired gene IDs 
+    date: 2024/02/22
+    exclude: OrthoMCL
+    links:
+      - name: "Where's my gene?"
+        path: Finding_old_gene_IDs.pdf
+        description:
   - card: Gene Pages
     description: Explore the data and images on gene pages 
     date: 2023/10/17
