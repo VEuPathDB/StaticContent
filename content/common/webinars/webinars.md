@@ -35,9 +35,9 @@ tags: [general]
   <div class="anchor"><a name="release67"></a></div>
   <div class="webinar">
   <b>Topic:</b> Release 67 Webinar<br>
-  <b>Date:</b> To be posted<br>
+  <b>Date:</b> Thursday Feb 29, 2024<br>
   <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> Registration link will be available 7-10 days prior to the webinar.  <br>
+  <b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/473566692359573344" target="_blank">https://attendee.gotowebinar.com/register/473566692359573344</a>  <br>
   <b>Details:</b> This webinar will focus on what is new in Release 67 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
   </div>    
 
