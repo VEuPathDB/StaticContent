@@ -140,8 +140,7 @@ div.centered-title {
     <ul>
       <li> Help improve genome annotations: provide evidence for alternative gene models, knockout phenotypes, sub-cellular localisation, PubMed IDs, etc.</li> 
       <li> Become searchable and visible on gene record pages and JBrowse (e.g., Community annotation from Apollo track)</li> 
-      <li> Benefit the research community at large, showcase your favorite genes or publications, and are the quickest way to provide up-to-date information about genes on the live site</li> 
- </li>
+      <li> Benefit the research community at large, showcase your favorite genes or publications, and are the quickest way to provide up-to-date information about genes on the live site</li>
     </ul>
   
     <p><h4>How to submit a single comment:</h4></p>
