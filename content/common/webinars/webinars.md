@@ -35,7 +35,7 @@ tags: [general]
   <div class="anchor"><a name="release68"></a></div>
   <div class="webinar">
   <b>Topic:</b> Release 68 Webinar<br>
-  <b>Date:</b>To be announced<br>
+  <b>Date:</b> To be announced<br>
   <b>Time:</b> 10AM US Eastern Time<br>
   <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
   <b>Details:</b> This webinar will focus on what is new in Release 68 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
