@@ -107,7 +107,6 @@ th.recording {
   <div class="contents">
   
   <h4><a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/" target="_blank">FungiDB workshop at 32nd Fungal Genetics Conference in Asilomar, USA</a></h4>
-  <p>Learn how to take advantage of the unique tools offered by FungiDB.</p>
   <p><b>Location:</b> Asilomar conference grounds.</p> 
   <p><b>Date:</b> 14 March 2024.</p> 
   <p><b>More information:</b> <a href="https://qa.fungidb.org/fungidb.b68/app/static-content/2024FGCFungiDBworkshop.html" target="_blank">Workshop information and schedule</a>.</p>
