@@ -110,7 +110,7 @@ th.recording {
   <p>Learn how to take advantage of the unique tools offered by FungiDB.</p>
   <p><b>Location:</b> Asilomar conference grounds.</p> 
   <p><b>Date:</b> 14 March 2024.</p> 
-  <p><b>More information:</b> <a href="https://qa.fungidb.org/fungidb.b68/app/static-content/2024FGCFungiDBworkshop.html" target="_blank">FungiDB Workshop (FGC, Asilomar)</a>.</p>
+  <p><b>More information:</b> <a href="https://qa.fungidb.org/fungidb.b68/app/static-content/2024FGCFungiDBworkshop.html" target="_blank">Workshop information and schedule</a>.</p>
   
   <h4><a href="/a/app/static-content/workshopMay2024.html">VEuPathDB Annual Workshop (In-person) May 13th &ndash; May 17th, 2024</a></h4>
   <p>Times: Monday May 13 &ndash; Friday May 17, 2024 </p>
