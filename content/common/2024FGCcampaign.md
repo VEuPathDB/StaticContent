@@ -127,7 +127,7 @@ div.centered-title {
     <br>
     <p><h4>Participation is straightforward:</h4></p>
     <ol> 
-    <li>Leave a user comment that imrpvoe gene annotation on a gene record page OR enhance structural/functional gene annotation using the Apollo genome editor.</li>
+    <li>Leave a user comment that improves gene annotation on a gene record page OR enhance structural/functional gene annotation using the Apollo genome editor.</li>
     <li>Drop by the FungiDB help desk during poster sessions at FGC to claim your complimentary "Got Fungus?" mug. Top 10 contributors will also receive a "Got Fungus?" T-shirt!</li>
     </ol>
     <p>If you're unable to attend FGC, fret not! You can still contribute by submitting a user comment or updating gene models remotely via FungiDB.org. Simply arrange for a colleague attending FGC to collect a mug on your behalf.</p>
