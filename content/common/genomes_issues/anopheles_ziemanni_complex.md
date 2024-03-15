@@ -12,9 +12,11 @@ tags: [general]
 <h3><i>Anopheles coustani</i> AcouGA1 and <i>An. ziemanni</i> AzieGA1 species complex</h3>
 
 <br>
+<br>
 
 <i>Anopheles coustani</i> AcouGA1 and <i>A. ziemanni</i> AzieGA1 genomes are part of the <a href="[url](https://www.sanger.ac.uk/collaboration/anopheles-reference-genomes-project/)"><i>Anopheles</i> Reference Genomes Project</a> at the Wellcome Sanger Institute. Following its release on <a href="[url](https://www.insdc.org/)">INSDC</a> and VectorBase (21 February 2024), it became apparent that the currently available morphological and molecular data, is not conclusive enough for confident species identification: 
 
+<br>
 <br>
 
 <ul>
@@ -34,9 +36,11 @@ tags: [general]
 </ul>
 
 <br>
+<br>
 
 <b>In summary</b>, AzieGA1 is more likely <i>An. coustani</i> based on current data. However, our understanding of this species group's genomics is insufficient for confident assertions.
 
+<br>
 <br>
 
 If you are interested in furthering the study of this <b>species complex</b>, please feel free to do so, as there is currently no active pursuit of this subject within the genome sequencing project consortium. 
