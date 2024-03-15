@@ -8,7 +8,6 @@ tags: [general]
 
 <div class="static-content">
 
-<br>
 <p>
 <i>Anopheles coustani</i> AcouGA1 and <i>A. ziemanni</i> AzieGA1 genomes are part of the <a href="https://www.sanger.ac.uk/collaboration/anopheles-reference-genomes-project/"><i>Anopheles</i> Reference Genomes Project</a> at the Wellcome Sanger Institute. Following its release on <a href="https://www.insdc.org/">INSDC</a> and VectorBase (21 February 2024), it became apparent that the currently available morphological and molecular data, is not conclusive enough for confident species identification: 
 </p>
@@ -26,7 +25,6 @@ tags: [general]
 </ul>
   
   <li>An additional unscaffolded genome in progress with the <i>Anopheles</i> Reference Genomes Project, generated from a sample morphologically identified as <i>An. ziemanni</i> has ITS2 sequence grouping with an unidentified species cluster. This could represent true <i>An. ziemanni</i> or other species. </li>
-
 </ul>
 
 <p>
