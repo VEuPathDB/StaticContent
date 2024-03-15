@@ -15,7 +15,7 @@ tags: [general]
 <ul>
   <li>AzieGA1 morphological species identification shows inconclusive <i>A. ziemanni/A. coustani</i> classification.</li>
   <li>AzieGA1 assembly has at least four large chromosomal inversions relative to AcouGA1.</li>
-  <li>The COI barcode from AcouGA1 and AzieGA1 mitochondrial genomes is consistent with public <i>An. coustani/An. ziemanni</i> records in the Barcode of Life Data System (BOLD) Barcode Index Number (BIN) <a href="[url](https://www.boldsystems.org/index.php/Public_BarcodeCluster?clusteruri=BOLD:AAN9442)">AAN9442</a>, so reliable species discrimination with this marker is not possible.</li>
+  <li>The COI barcode from AcouGA1 and AzieGA1 mitochondrial genomes is consistent with public <i>An. coustani/An. ziemanni</i> records in the Barcode of Life Data System (BOLD) Barcode Index Number (BIN) <a href="https://www.boldsystems.org/index.php/Public_BarcodeCluster?clusteruri=BOLD:AAN9442">AAN9442</a>, so reliable species discrimination with this marker is not possible.</li>
     <li>ITS2 analysis against records in NCBI GenBank with BLAST reveals distinct clusters: </li>
 
 <ul>
