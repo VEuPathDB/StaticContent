@@ -48,19 +48,20 @@ img {
             <li>Any special characters or spaces will be converted to underscores</li>
             <li>An underscore will be added to the start of any variable name beginning with a number</li>
             </ul>
+         </ul>
       <li><b>Data values/ observations (rows)</b>
         <ul>
-        <li>Format values as you would like them to appear on the website (e.g. "Yes", "No" rather than "1", "0")
-            <ul>
-            <li>If categorical data is uploaded in a coded, numeric format (e.g. "0", "1", "-9"), it will be displayed as a histogram rather than in a data frequency table</li>
-            </ul>
-        <li>Values must have fewer than 1000 characters per cell</li>
-        <li>Dates must be formatted as YYYY-MM-DD to be handled appropriately
-            <ul>
-            <li>All other date formats will be stored as strings and displayed as categorical data</li>
-            </ul>
-        </li>
-        <li>Special characters will appear nonsensical on the website (e.g. <b>é</b> appears as <b>\x8E</b>)</li>
+           <li>Format values as you would like them to appear on the website (e.g. "Yes", "No" rather than "1", "0")
+              <ul>
+              <li>If categorical data is uploaded in a coded, numeric format (e.g. "0", "1", "-9"), it will be displayed as a histogram rather than in a data frequency table</li>
+              </ul>
+           <li>Values must have fewer than 1000 characters per cell</li>
+           <li>Dates must be formatted as YYYY-MM-DD to be handled appropriately
+              <ul>
+              <li>All other date formats will be stored as strings and displayed as categorical data</li>
+              </ul>
+          </li>
+          <li>Special characters will appear nonsensical on the website (e.g. <b>é</b> appears as <b>\x8E</b>)</li>
         </ul>
       <li><b>If geospatial data is present</b>
           <ul>
