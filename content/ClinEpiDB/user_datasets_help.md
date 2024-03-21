@@ -42,12 +42,12 @@ img {
             <li>Alpha-numeric characters (a-z, A-Z, 0-9)</li>
             <li>Periods (.)</li>
             <li>Underscores (_)</li>
-            </ul>
+            </ul></li>
          <li>During upload:
             <ul>
             <li>Any special characters or spaces will be converted to underscores</li>
             <li>An underscore will be added to the start of any variable name beginning with a number</li>
-            </ul>
+            </ul></li>
       </li>
       <li><b>Data values/ observations (rows)</b>
         <ul>
