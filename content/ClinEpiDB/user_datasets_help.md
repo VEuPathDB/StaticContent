@@ -35,7 +35,7 @@ img {
          </ul>
       </li>
       <li><b>Variable names (column headers)</b>
-         <ul>
+        <ul>
          <li>The file can have a maximum of 999 columns</li>
          <li>Variable names should only contain:
             <ul>
@@ -48,7 +48,6 @@ img {
             <li>Any special characters or spaces will be converted to underscores</li>
             <li>An underscore will be added to the start of any variable name beginning with a number</li>
             </ul>
-         </ul>
       </li>
       <li><b>Data values/ observations (rows)</b>
         <ul>
