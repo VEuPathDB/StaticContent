@@ -26,42 +26,40 @@ img {
   <h3>Prepare data for upload</h3>
     <ul>
       <li><b>Files and file names</b>
-      <ul>
-      <li>Data must be in a single flat file</li>
-      <li>Data must have variable names as column headers and observations as rows</li>
-      <li>The file must be a .csv, .tsv, or tab-delimited .txt file</li>
-      <li>The file name cannot include spaces or special characters such as periods (.)</li>
-      <li>The file name should not be longer than 50 characters</li>
-       <ul>
+         <ul>
+         <li>Data must be in a single flat file</li>
+         <li>Data must have variable names as column headers and observations as rows</li>
+         <li>The file must be a .csv, .tsv, or tab-delimited .txt file</li>
+         <li>The file name cannot include spaces or special characters such as periods (.)</li>
+         <li>The file name should not be longer than 50 characters</li>
+         <ul>
       </li>
       <li><b>Variable names (column headers)</b>
-        <ul>
-        <li>The file can have a maximum of 999 columns</li>
-        <li>Variable names should only contain:
-          <ul>
-          <li>Alpha-numeric characters (a-z, A-Z, 0-9)</li>
-          <li>Periods (.)</li>
-          <li>Underscores (_)</li>
-          </ul>
-        <li>During upload:
-          <ul>
-          <li>Any special characters or spaces will be converted to underscores</li>
-          <li>An underscore will be added to the start of any variable name beginning with a number</li>
-          </ul>
-        </li>
+         <ul>
+         <li>The file can have a maximum of 999 columns</li>
+         <li>Variable names should only contain:
+            <ul>
+            <li>Alpha-numeric characters (a-z, A-Z, 0-9)</li>
+            <li>Periods (.)</li>
+            <li>Underscores (_)</li>
+            </ul>
+         <li>During upload:
+            <ul>
+            <li>Any special characters or spaces will be converted to underscores</li>
+            <li>An underscore will be added to the start of any variable name beginning with a number</li>
+            </ul>
       </li>
       <li><b>Data values/ observations (rows)</b>
         <ul>
         <li>Format values as you would like them to appear on the website (e.g. "Yes", "No" rather than "1", "0")
-          <ul>
-          <li>If categorical data is uploaded in a coded, numeric format (e.g. "0", "1", "-9"), it will be displayed as a histogram rather than in a data frequency table</li>
-          </ul>
-        </li>
+            <ul>
+            <li>If categorical data is uploaded in a coded, numeric format (e.g. "0", "1", "-9"), it will be displayed as a histogram rather than in a data frequency table</li>
+            </ul>
         <li>Values must have fewer than 1000 characters per cell</li>
         <li>Dates must be formatted as YYYY-MM-DD to be handled appropriately
-          <ul>
-          <li>All other date formats will be stored as strings and displayed as categorical data</li>
-          </ul>
+            <ul>
+            <li>All other date formats will be stored as strings and displayed as categorical data</li>
+            </ul>
         </li>
         <li>Special characters will appear nonsensical on the website (e.g. <b>é</b> appears as <b>\x8E</b>)</li>
         </ul>
@@ -69,7 +67,8 @@ img {
       <li><b>If geospatial data is present</b>
           <ul>
           <li>The file must have separate columns labeled “Latitude” and “Longitude”</li>
-          <li>Use WGS-84 format with floating point notation (e.g. "-6.5431", not "6.5431E") for Latitude and Longitude values< li>
+          <li>Use WGS-84 format with floating point notation (e.g. "-6.5431", not "6.5431E") for Latitude and Longitude values
+          <li>
           </ul>
       </li>
     </ul>
