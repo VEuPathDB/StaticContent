@@ -47,8 +47,7 @@ img {
             <ul>
             <li>Any special characters or spaces will be converted to underscores</li>
             <li>An underscore will be added to the start of any variable name beginning with a number</li>
-            </ul>
-         </ul> 
+            </ul></li>
       </li>
       <li><b>Data values/ observations (rows)</b>
         <ul>
