@@ -32,7 +32,7 @@ img {
          <li>The file must be a .csv, .tsv, or tab-delimited .txt file</li>
          <li>The file name cannot include spaces or special characters such as periods (.)</li>
          <li>The file name should not be longer than 50 characters</li>
-         <ul>
+         </ul>
       </li>
       <li><b>Variable names (column headers)</b>
          <ul>
