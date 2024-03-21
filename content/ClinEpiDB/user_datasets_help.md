@@ -54,12 +54,12 @@ img {
            <li>Format values as you would like them to appear on the website (e.g. "Yes", "No" rather than "1", "0")
               <ul>
               <li>If categorical data is uploaded in a coded, numeric format (e.g. "0", "1", "-9"), it will be displayed as a histogram rather than in a data frequency table</li>
-              </ul>
+              </ul></li>
            <li>Values must have fewer than 1000 characters per cell</li>
            <li>Dates must be formatted as YYYY-MM-DD to be handled appropriately
               <ul>
               <li>All other date formats will be stored as strings and displayed as categorical data</li>
-              </ul>
+              </ul></li>
           </li>
           <li>Special characters will appear nonsensical on the website (e.g. <b>é</b> appears as <b>\x8E</b>)</li>
         </ul>
