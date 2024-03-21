@@ -49,6 +49,7 @@ img {
             <li>An underscore will be added to the start of any variable name beginning with a number</li>
             </ul>
          </ul>
+      </li>
       <li><b>Data values/ observations (rows)</b>
         <ul>
            <li>Format values as you would like them to appear on the website (e.g. "Yes", "No" rather than "1", "0")
@@ -63,6 +64,7 @@ img {
           </li>
           <li>Special characters will appear nonsensical on the website (e.g. <b>é</b> appears as <b>\x8E</b>)</li>
         </ul>
+      </li>
       <li><b>If geospatial data is present</b>
           <ul>
           <li>The file must have separate columns labeled “Latitude” and “Longitude”</li>
