@@ -68,7 +68,6 @@ img {
           <ul>
           <li>The file must have separate columns labeled “Latitude” and “Longitude”</li>
           <li>Use WGS-84 format with floating point notation (e.g. "-6.5431", not "6.5431E") for Latitude and Longitude values
-          <li>
           </ul>
       </li>
     </ul>
