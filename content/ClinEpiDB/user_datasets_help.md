@@ -61,7 +61,7 @@ img {
               <ul>
               <li>All other date formats will be stored as strings and displayed as categorical data</li>
               </ul></li>
-          <li>Special characters will appear nonsensical on the website (e.g. <b>é</b> appears as <b>\x8E</b>)</li>
+          <li>Commas are not allowed within data, e.g., within numbers. Commas are only allowed as data separators within csv files.</li>
         </ul>
       </li>
       <li><b>If geospatial data is present</b>
