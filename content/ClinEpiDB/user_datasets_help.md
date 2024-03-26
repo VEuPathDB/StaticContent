@@ -29,8 +29,8 @@ img {
          <ul>
          <li>Data must be in a single flat file</li>
          <li>Data must have variable names as column headers and observations as rows</li>
-         <li>The file must be a .csv, .tsv, or tab-delimited .txt file</li>
-         <li>The file name cannot include spaces or special characters such as periods (.)</li>
+         <li>The file must be a .csv or tab-delimited .txt file</li>
+         <li>The file name cannot include spaces or special characters such as periods (.) except to indicate file extension (e.g. “filename_1.csv”, not “filename.1.csv")</li>
          <li>The file name should not be longer than 50 characters</li>
          </ul>
       </li>
@@ -61,7 +61,7 @@ img {
               <ul>
               <li>All other date formats will be stored as strings and displayed as categorical data</li>
               </ul></li>
-          <li>Values cannot contain commas (e.g. “1000” rather than “1,000"). Commas are only allowed as delimiters within .csv files.</li>
+          <li>Values cannot contain commas (e.g. “1000”, not “1,000"). Commas are only allowed as delimiters within .csv files.</li>
         </ul>
       </li>
       <li><b>If geospatial data is present</b>
