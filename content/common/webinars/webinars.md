@@ -154,7 +154,7 @@ Release webinar dates are subject to change due to production issues that may ar
           <tr>
            <td><b>2023 Ticks and Mites Community Webinar</b> (June 22, 2023)<br>
            <b>Agenda:</b> <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br></td>
-           <td><br><iframe width="280" height="157" vertical-align="top" src="https://www.youtube.com/embed/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <td><iframe width="280" height="157" vertical-align="top" src="https://www.youtube.com/embed/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>  
           <tr>
            <td><b>Deep dive into content and features of VEuPathDB gene record pages</b> (April 6, 2023)<br></td>
