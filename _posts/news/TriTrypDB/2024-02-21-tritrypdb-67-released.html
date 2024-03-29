@@ -1,0 +1,87 @@
+---
+layout: post
+title: TriTrypDB 67 Released
+category: [TriTrypDB,VEuPathDB]
+---
+{% assign project = page.category[0] %}
+
+
+<h3>We are pleased to announce the release of {{project}} 67.</h3>
+
+<section>
+  <h3>Release 67 Webinar</h3>
+  <div style="margin-left: 3em;">
+    Join us on Thursday Feb 29th, 2024 at 10 am Eastern for our Release 67 Highlights webinar where we will demonstrate and discuss new data and features in VEuPathDB 67. 
+    <a href="https://attendee.gotowebinar.com/register/473566692359573344" target="_blank">Register here</a>
+  </div>
+  <br>
+</section>
+
+<section>
+  <h3>VEuPathDB named as an Elixir Core Data Resource</h3>
+  <div style="margin-left: 3em;">
+    <a href="https://elixiruknode.org/news/2023/4-uk-services-cdrs/" target="_blank">Inducted in December 2023</a>, VEuPathDB is honored to join the select group of <a href="https://elixir-europe.org/platforms/data/core-data-resources" target="_blank">Elixir Core Data Resources</a> (CDR). With this distinction, VEuPathDB is identified as a resource of fundamental importance to the life science community and the preservation of biological data, dedicated to the principle of open access for publicly funded research. The CDR program recognizes resources that promote excellence and provide infrastructure vital for the advancement of the life sciences.  Evaluation criteria include scientific focus, quality of science and community service, governance, impact, and ability to facilitate scientific research. 
+  </div>
+</section>
+
+<section>
+  <h3>Contribute your expert knowledge!</h3>
+  <div style="margin-left: 3em;">
+    We invite all users to engage with Apollo, where you can actively edit and enhance your selected genes. Whether you're a seasoned user or a newcomer, our updated <a href="/a/app/static-content/apollo_help.html">Apollo landing page</a> provides a wealth of resources, including links to on-demand webinars, tutorials, and annotation guidelines. <br><br>
+    Every edit you make contributes significantly! This open invitation is extended to all users, with a special emphasis on scientists studying groups of organisms that have recently been updated to integrate new reference genomes, and for the species that are now accessible on {{project}} for the first time. If you're unfamiliar or have any questions, don't hesitate to <a href="/a/app/contact-us">Contact Us</a>. We're here to help!
+  </div>
+</section>
+
+<section>
+  <h3>New data in {{project}} 67</h3>
+  <div style="margin-left: 3em;">
+
+    <h4>Genome sequence and annotation</h4>
+    <div style="margin-left: 3em;">
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_d0d52b7e5b"><i>Leishmania amazonensis</i> strain PH8</a> &ndash; <a href="https://www.ncbi.nlm.nih.gov/data-hub/genome/GCA_025688915.1" target="_blank">GCA_025688915.1</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/37263313" target="_blank">Goes et al. 2023</a>.</li>
+      </ul>
+    </div>
+
+    <h4>Updated Genomes</h4>
+    <div style="margin-left: 3em;">
+      The following genomes were updated to reflect changes at the INSDC repository.
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_fdeb6dc001"><i>Trypanosoma evansi</i> STIB 805</a> &ndash; <a href="https://www.ncbi.nlm.nih.gov/data-hub/genome/GCA_917563935.1" target="_blank">GCA_917563935.1</a>.</li>
+
+        <li><a href="/a/app/record/dataset/DS_6ad396c3ad"><i>Leishmania aethiopica</i> L147</a> &ndash; <a href="https://www.ncbi.nlm.nih.gov/data-hub/genome/GCA_000444285.2" target="_blank">GCA_000444285.2</a>.</li>
+
+        <li><a href="/a/app/record/dataset/DS_317f0d802c"><i>Leishmania amazonensis</i> MHOM/BR/71973/M2269</a> &ndash; <a href="https://www.ncbi.nlm.nih.gov/data-hub/genome/GCA_000438535.1" target="_blank">GCA_000438535.1</a>.</li>
+
+        <li><a href="/a/app/record/dataset/DS_22b60660b6"><i>Leishmania braziliensis</i> MHOM/BR/75/M2903</a> &ndash; <a href="https://www.ncbi.nlm.nih.gov/data-hub/genome/GCA_000340355.2" target="_blank">GCA_000340355.2</a>.</li>
+      </ul>
+    </div>
+
+    <h4>Transcriptomics</h4>
+    <div style="margin-left: 3em;">
+      <ul>
+        <li><a href="/a/app/record/dataset/DS_f01ace4781">Transcriptome of <i>T. brucei</i> from midgut (days 3-28), proventriculus and salivary glands</a> &ndash; RNA-Seq transcriptome of <i>T. brucei</i> isolated from Tsetse fly midgut, proventriculus and salivary glands at multiple time points after infection. <a href="http://www.ncbi.nlm.nih.gov/pubmed/34543277" target="_blank">Naguleswaran et al. 2021</a></li>
+      </ul>
+    </div>
+      <br>
+  </div>
+</section>
+
+<section>
+  <h3>New features in {{project}} 67</h3>
+  <div style="margin-left: 3em;">
+    <ul>
+      <li>The <a href="/a/app/fasta-tool/transcript">Sequence Retrieval Tool</a> offers more input options such as uploading from a text file or URL. New options for configuring or choosing the type of sequence returned are also available. </li>
+      <li>The Product Descriptions table on gene pages is now called All Product Descriptions and contains product descriptions from all relevant sources. The most commonly used product description also appears at the top of the gene page. </li>
+      <li>The <a href="/a/app/search/transcript/GenesByText">Text Search</a> 'Fields' parameter values have changed. Choose 'Product descriptions (all)' to search the All Product Descriptions table on gene pages.  Choose 'Product descriptions' to search only the commonly used product descriptions that appear at the top of gene pages.  </li>
+      <li>The Organisms parameter in the <a href="/a/app/search/transcript/GenesByNgsSnps">Identify Genes based on SNP Characteristics</a> search has a new look. Choose your organism of interest to load the Set of Samples parameter with that organism's WGS isolates.</li>
+      <li>Compressed files in the <a href="/a/app/downloads">Download Data Files</a> tool are now in .gz format.</li>
+   </ul>
+  </div>
+</section>
+
+<section>
+  <aside>
+   <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary.  Changes in annotation and new experimental data September slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+  </aside>
+</section>

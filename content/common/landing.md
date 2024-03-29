@@ -56,6 +56,11 @@ title: VEuPathDB landing
     <button><a href="/a/app/static-content/tutorials.html">Explore</a></button>
   </div>
   <div>
+    <h3>Videos</h3>
+    <p>On-demand instructional videos</p>
+    <button><a href="https://www.youtube.com/user/EuPathDB/playlists">Explore</a></button>
+  </div>
+  <div>
     <h3>Analysis methods</h3>
     <p>Understand our data and its provenance</p>
     <button><a href="/a/app/static-content/methods.html">Explore</a></button>

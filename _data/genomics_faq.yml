@@ -1,4 +1,17 @@
 --- # genomics faq page
+- type: general
+  question: "My gene ID has gone missing, how do I find it again?"
+  answer: |
+            Genomes are updated as assemblies improve, which can lead to old gene IDs being replaced by new ones. Alternatively, a gene may not be annotated on a new reference genome, and you want to find it.
+            There are several ways to find old gene IDs:
+            1.	Site search – if your old gene ID has a new alias, searching for it will bring up the current ID
+            2.	Orthology and Synteny –  Ortholog transformation in search strategies and synteny tables on gene pages can be used to find alternate versions of the gene on different genomes. This is useful when trying to find an old annotation on a new reference genome.
+            3.	Sequence searches – BLAST and BLAT tools are available on VEuPathDB sites and can help you locate similar sequences to your gene on other genomes.
+            4.	Liftoff track – in some cases, a tool called liftoff has been used to help preserve old gene models between old and new reference genomes. It's results can be displayed as a track in JBrowse or Apollo and used alongside other evidence to annotate the new reference. 
+            
+            For more detailed methods see the following worksheet: [Where's my gene ID?](https://static-content.veupathdb.org/documents/Finding_old_gene_IDs.pdf)
+  uid: findgeneids
+  projects: ""          
 - type: mining
   question: "How do I populate a strategy with my existing list of genes of interest?"
   answer: |
@@ -469,4 +482,16 @@
 
   uid: uptodate
   projects: ""
-
+  
+- type: mining
+  question: "How can I check if the gene structure of my gene of interest is correct?"
+  answer: |
+          VEuPathDB integrates different data types and tools that can help you evaluate your gene model of interest:
+           1. <b>RNA-Seq Evidence for Introns genome browser track:</b> This analysis is generated from all RNAseq data loaded and is available on the gene record page in the Gene Models section in the JBrowse window. This track provides evidence for introns and allows you to confirm gene model introns or discover possible missing exons, incorrect exon/intron boundaries or alternative transcripts. It also provides information if a gene model should be split, merged or if there is a possible missing gene model. The track is divided into two sections. On the top there are intron junctions that match the annotation. Below this, the track shows unannotated introns with strong evidence that indicate a possible incorrect/alternative gene structure. <i>Hint: Go to the drop-down menu of the track and select "Show labels" to see how many reads confirm the intron junctions.</i>
+           2. <b>Combined RNAseq plot genome browser track:</b> This track combines coverage data for all available RNAseq data. It is shown in the Gene Models section in the JBrowse window. This track will give you an indication about the length of the 3’ and 5’ UTRs, possible incorrect introns and missing exons. The track also provides information if your gene has an incorrect start and is too long (attached example). <i>Please note: This track is not always visible. To view this track use the scroll bar on the right-hand side of the JBrowse window.</i>
+           3. <b>Gene models can be explored further in the genome browser:</b> The browser can be accessed from the gene record page or the tools menu. The availability of data tracks will vary based on your genome of interest. More information on how to explore gene models in JBrowse can be found in this <a href="https://static-content.veupathdb.org/documents/2023Virtual/Exploring-gene-models.pdf">workshop exercise.</a>
+           4. <b>Explore Sequence and scaffold structure:</b> Gaps in sequencing may result in incomplete gene models. For example, if you explore the sequence section of the gene record page and notice that your gene of interest is missing  a Methionine you can find out if this is due to a sequencing gap. Open the genome browser and select the track Scaffolds and Gaps. This will give you an indication if your gene is incorrectly annotated or is partial due to being located next to a gap/contig boundary. To learn more on how to select tracks in JBrowse have a look at this <a href="https://static-content.veupathdb.org/documents/JBrowseBasics.pdf">tutorial</a>.
+           5. <b>Explore the Orthology and Synteny section:</b> Missing orthologs can be an indication of a possible problem with your gene of interest. The synteny view can also provide additional information on your gene of interest. This data can be explored from the orthology and synteny section of the gene page or in the genome browser.
+           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/genestructure.png"  />           
+  uid: genestructure
+  projects: ""

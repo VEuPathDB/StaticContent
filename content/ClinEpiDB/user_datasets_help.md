@@ -15,49 +15,59 @@ img {
 
   <h3>Overview</h3>
     <ul>
-      <li>Upload your data as a .csv, .tsv, or tab-delimited .txt file and explore it using the ClinEpiDB platform. The data will become available in ClinEpiDB as a User Study</li>
-      <li>Upload up to 10.00 GB of data with your account as either a single study or multiple separate studies</li>
-      <li><b>My User Studies</b> remain private unless you choose to share them with colleagues</li>
-      <li><b>My User Studies</b> persist between sessions, so your datasets are always accessible unless you remove them</li>
+      <li>You must be logged into your ClinEpiDB account to upload your own data</li>
+      <li>Your account can accommodate up to 10.0 GB of data, either as a single study or as multiple separate studies</li>
+      <li><b>My Studies</b> remain private unless you choose to share them with colleagues</li>
+      <li><b>My Studies</b> persist between sessions, so your datasets are always accessible when you are signed into your account, unless you remove them</li>
+       <li>You must format your file correctly in order to upload it successfully, as described below</li>
     </ul>
   <br><hr>
 
   <h3>Prepare data for upload</h3>
     <ul>
-      <li>You may only upload single-file datasets. In the future, more complex data will be supported</li>
-      <li>The file must be a .csv, .tsv, or tab-delimited .txt file</li>
-      <li>The file name cannot include special characters</li>
-      <li>The file cannot have >999 columns</li>
-      <li>Column headers:
+      <li><b>Files and file names</b>
+         <ul>
+         <li>Data must be in a single flat file</li>
+         <li>Data must have variable names as column headers and observations as rows</li>
+         <li>The file must be a .csv or tab-delimited .txt file</li>
+         <li>The file name cannot include spaces or special characters such as periods (.) except to indicate file extension (e.g. “filename_1.csv”, not “filename.1.csv")</li>
+         <li>The file name should not be longer than 50 characters</li>
+         </ul>
+      </li>
+      <li><b>Variable names (column headers)</b>
         <ul>
-        <li>Should be composed of alphanumeric characters, periods, and underscores (<b>a-z</b>, <b>A-Z</b>, <b>0-9</b>, <b>.</b>, and <b>_</b>)
-          <ul>
-          <li>Any special characters in column headers (including spaces) will be converted to underscores (<b>_</b>) during upload</li>
-          </ul>
-        </li>
-        <li>Should not start with a number
-          <ul>
-          <li>Column headers that begin with a number will have an underscore (<b>_</b>) added in front during upload</li>
-          </ul>
-        </li>
+         <li>The file can have a maximum of 999 columns</li>
+         <li>Variable names should only contain:
+            <ul>
+            <li>Alpha-numeric characters (a-z, A-Z, 0-9)</li>
+            <li>Periods (.)</li>
+            <li>Underscores (_)</li>
+            </ul></li>
+         <li>During upload:
+            <ul>
+            <li>Any special characters or spaces will be converted to underscores</li>
+            <li>An underscore will be added to the start of any variable name beginning with a number</li>
+            </ul></li>
         </ul>
       </li>
-      <li>Values:
+      <li><b>Data values/ observations (rows)</b>
         <ul>
-        <li>Should be as you want them to appear on the website (e.g. "Yes" and "No" rather than "1" and "0")
-          <ul>
-          <li>Categorical data uploaded as coded, numeric data (e.g. 0, 1, -9) will be displayed as a histogram rather than in a data frequency table</li>
-          <li>Values will be recognized as dates and handled appropriately if formatted as YYYY-MM-DD. All other formats will be recognized as strings and displayed as categorical data</li>
-          </ul>
-        </li>
-        <li>Must be less than 1000 characters</li>
-        <li>Special characters will appear nonsensical on the website (e.g. <b>é</b> appears as <b>\x8E</b>)</li>
+           <li>Format values as you would like them to appear on the website (e.g. "Yes", "No" rather than "1", "0")
+              <ul>
+              <li>If categorical data is uploaded in a coded, numeric format (e.g. "0", "1", "-9"), it will be displayed as a histogram rather than in a data frequency table</li>
+              </ul></li>
+           <li>Values must have fewer than 1000 characters per cell</li>
+           <li>Dates must be formatted as YYYY-MM-DD to be handled appropriately
+              <ul>
+              <li>All other date formats will be stored as strings and displayed as categorical data</li>
+              </ul></li>
+          <li>Values cannot contain commas (e.g. “1000”, not “1,000"). Commas are only allowed as delimiters within .csv files.</li>
         </ul>
       </li>
-      <li>To use the <b>Interactive Map</b> tool for geospatial visualization of data:
+      <li><b>If geospatial data is present</b>
           <ul>
           <li>The file must have separate columns labeled “Latitude” and “Longitude”</li>
-          <li>Values for “Latitude” and “Longitude” must be in floating point notation (e.g. “-6.5431”, rather than “6.5431E”)</li>
+          <li>Use WGS-84 format with floating point notation (e.g. "-6.5431", not "6.5431E") for Latitude and Longitude values</li>
           </ul>
       </li>
     </ul>
@@ -65,7 +75,7 @@ img {
 
   <h3>Upload data</h3>
     <ol>
-      <li>From the <b>Workspace</b> menu in the header, click on <b>My User Studies</b></li>
+      <li>From the <b>Workspace</b> menu in the header, click on <b>My Studies</b></li>
       <li>Go to the <b>New upload</b> tab</li>
       <li>Fill out the <b>Name</b> and <b>Summary</b> fields. The <b>Description</b> is optional, but a great place to add in-depth detail such as background, study objectives, methodology, etc.</li>
       <li>Choose the .csv, .tsv, or tab-delimited .txt file you wish to upload</li>
@@ -83,14 +93,15 @@ img {
     <br>
     <ol>
       <li>Click the <b>Studies</b> menu from the header</li>
-      <li>Find and click on your dataset's name towards the top under the <b>User studies</b> section</li>
+      <li>Find and click on your dataset's name towards the top under the <b>My studies</b> section</li>
     </ol>
     <br>
-    <b>My User Studies</b> workspace
+    <b>My Studies</b> workspace
     <br>
     <ol>
       <li>From the <b>All</b> tab, click on the blue link to your study in the table</li>
       <li>Click the <b>Explore in ClinEpiDB</b> link</li>
+      <li>From here, if geospatial data is present, you can click the link to explore the data in the interactive map</li>
     </ol>
    <br>
    Once you have your study open, you can click through variables in the <b>Browse and Subset</b> tab and create a subset of interest, you can create plots and tables in the <b>Visualize</b> tab, and otherwise use the ClinEpiDB platform exactly as you would for another study.
@@ -100,7 +111,7 @@ img {
   <h3>Manage your data</h3>
     <img src="{{'/assets/images/MyUserStudies_AllTable_ClinEpi.png' | absolute_url}}" />
     <br>
-    View, manage, share, and utilize your data from the <b>All</b> tab in the <b>My User Studies</b> workspace
+    View, manage, share, and utilize your data from the <b>All</b> tab in the <b>My Studies</b> workspace
     <br>
     <ul>
       <li>View a table of all the datasets you have uploaded, including information on when you uploaded it and the file size</li>

@@ -13,6 +13,14 @@ cards:
       - name: "Unannotated Intron Junctions"
         path: Intron_junctions_search_07_08_2022.pdf
         description: 
+  - card: "Finding old Gene IDs" 
+    description: Methods for finding the current version of old or retired gene IDs 
+    date: 2024/02/22
+    exclude: OrthoMCL
+    links:
+      - name: "Where's my gene?"
+        path: Finding_old_gene_IDs.pdf
+        description:
   - card: Gene Pages
     description: Explore the data and images on gene pages 
     date: 2023/10/17
@@ -77,14 +85,14 @@ cards:
     date: 2023/09/14
     exclude: OrthoMCL
     links:
-      - name: Introduction to MapVEu  
+      - name: Introduction to the new MapVeu
+        path: MapVEu_EDA_Introduction_20230913.pdf
+        description:
+      - name: Legacy MapVEu (intro) 
         path: MapVEu_part1_05_05_2020.pdf
         description:
-      - name: Additional features of MapVEu 
+      - name: Additional features of legacy MapVEu 
         path: MapVEu_part2_05_05_2020.pdf
-        description:
-      - name: Introduction to MapVEu EDA-beta
-        path: MapVEu_EDA_Introduction_20230913.pdf
         description:
   - card: Metabolic Pathways
     description: Learn to use metabolic pathway searches and visualization tools 

@@ -32,24 +32,16 @@ tags: [general]
   <h3>Upcoming</h3>
   <div class="contents">   
 
-  <div class="anchor"><a name="release67"></a></div>
+  <div class="anchor"><a name="release68"></a></div>
   <div class="webinar">
-  <b>Topic:</b> Release 67 Webinar<br>
-  <b>Date:</b> To be posted<br>
-  <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> Registration link will be available 7-10 days prior to the webinar.  <br>
-  <b>Details:</b> This webinar will focus on what is new in Release 67 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-  </div>    
-
-  <!-- <div class="anchor"><a name="release67"></a></div>
-  <div class="webinar">
-  <b>Topic:</b> Release 67 Webinar<br>
-  <b>Date:</b> Thursday Feb 15th, 2024<br>
+  <b>Topic:</b> Release 68 Webinar<br>
+  <b>Date:</b> To be announced<br>
   <b>Time:</b> 10AM US Eastern Time<br>
   <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
-  <b>Details:</b> This webinar will focus on what is new in Release 67 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-  </div>    
-  <hr style="width:30%; margin-left:0">
+  <b>Details:</b> This webinar will focus on what is new in Release 68 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+  </div>  
+
+  <!-- 
 
   <div class="anchor"><a name="release68"></a></div>
   <div class="webinar">
@@ -121,6 +113,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <summary><h3>Releases</h3></summary>
 <b>Release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session.</b> <br>
 <ul>
+<li><b>Release 67 Webinar</b> (Feb 29, 2024): <a href="https://youtu.be/5TLm5jU8bTM" target="_blank">https://youtu.be/5TLm5jU8bTM</a></li>
 <li><b>Release 66 Webinar</b> (Dec 14, 2023): <a href="https://youtu.be/jdpRcYuQQUo?si=MmpjOVQIufZpxZiD" target="_blank">https://youtu.be/jdpRcYuQQUo?si=MmpjOVQIufZpxZiD</a></li>
 <li><b>Release 65 Webinar</b> (Sep 21, 2023): <a href="https://youtu.be/9r4TrxzerIg" target="_blank">https://youtu.be/9r4TrxzerIg</a></li>
 <li><b>Release 64 Webinar</b> (July 20, 2023): <a href="https://youtu.be/varDu6ZkI40" target="_blank">https://youtu.be/varDu6ZkI40</a></li>
@@ -161,7 +154,7 @@ Release webinar dates are subject to change due to production issues that may ar
           <tr>
            <td><b>2023 Ticks and Mites Community Webinar</b> (June 22, 2023)<br>
            <b>Agenda:</b> <a href="https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html">https://vectorbase.org/vectorbase/app/static-content/tickwebinars.html</a> <br></td>
-           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <td><br><iframe width="280" height="157" vertical-align="top" src="https://www.youtube.com/embed/6yapXQ8QaqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>  
           <tr>
            <td><b>Deep dive into content and features of VEuPathDB gene record pages</b> (April 6, 2023)<br></td>

@@ -70,6 +70,13 @@
   fileName: clinEpi_exercises/Interactive_Map_tutorial_ClinEpiDB_20231127.pdf
   date: "Nov 27, 2023"
 - type: tutorial
+  title: "Upload and explore your own data on ClinEpiDB"
+  description: "How to use the ClinEpiDB platform and tools to upload and explore your own dataset"
+  uid: t14
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/ClinEpiDB_Upload_Your_Own_Data.pdf
+  date: "Mar 21, 2024"
+- type: tutorial
   title: "Get help and submit feedback"
   description: "Request demos, help with a specific task, etc."
   uid: t3
