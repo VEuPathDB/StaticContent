@@ -7,8 +7,7 @@ category: [OrthoMCL,VEuPathDB]
 <p>OrthoMCL Version 6.21 is released. In this release, 16 <b>Peripheral</b> organisms were added. Thus, OrthoMCL now predicts orthology for a total of 857 organisms (707 <b>Peripheral</b> and 150 <b>Core</b> organisms). Proteins from the 16 new organisms were mapped into <b>Core</b> ortholog groups. Then, a new set of <b>Residual</b> ortholog groups were formed from the collection of all unmapped <b>Peripheral</b> proteins. See the <a href="/a/app/static-content/OrthoMCL/about.html">About page</a> for the methods.
 </p>
 
-<p>The BLAST database was updated to remove obsolete proteins and to add back proteomes of VEuPathDB organisms that had been inadvertently missing.  Repeating BLAST searches will provide the most accurate results.
-</p>
+<p>For OrthoMCL build 6.21, the <a href="https://veupathdbprod.globusgenomics.org/" target="_blank">Galaxy workflow</a> that maps user proteomes to OrthoMCL groups has been updated, replacing NCBI BLASTP with Diamond blastp. Diamond has approximately 99.8% of the sensitivity of Blast, but runs 1000-fold faster.  Jobs that took 4-12 hours with BLAST, can now run in 2-10 minutes. The output from the new workflow is identical in format to the BLAST based workflow. The original BLAST workflow is still available.</p>
 
 <p><b>New organisms include:</b><br>
     <div style="margin-left: 3em;">
