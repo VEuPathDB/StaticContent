@@ -6,9 +6,9 @@ title: WGCNA Learn tab content
   div.static-content details {
     margin: 1em 0;
   }
-  div.static-content details p, div.static-content details ul {
-    margin-left: 1emi;
-    font-size: 90%;
+  div.static-content details p, div.static-content details ul, div.static-content details ul li {
+    margin-left: 1em;
+    font-size: 95%;
   }
 </style>
 
