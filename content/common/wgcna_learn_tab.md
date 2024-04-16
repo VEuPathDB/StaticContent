@@ -15,7 +15,7 @@ title: WGCNA Learn tab content
             <summary>Overview</summary>
             The <b>Study Explorer</b> is an interactive feature that allows you to learn more about a dataset, explore all the variables in the dataset, and perform exploratory data analysis to visualize associations between two or more variables.
         </details>
-        <br>
+        <p>
        <details>
             <summary>The Dataset Diagram</summary>
             Across the top of the page is a diagram that depicts the structure of the dataset and the sample size. Below the dataset diagram are several tabs whose functionality is described below.
