@@ -3,8 +3,12 @@ permalink: /wgcna_help
 title: WGCNA Learn tab content
 ---
 <style>
+  div.static-content details {
+    margin: 1em;
+  }
   div.static-content details p, div.static-content details ul {
-    margin-left: 1em;
+    margin-left: 1emi;
+    font-size: 90%;
   }
 </style>
 
@@ -25,19 +29,19 @@ title: WGCNA Learn tab content
     </details>
     <details>
       <summary>Browse and Subset</summary>
-      <ul>The <b>Browse and Subset</b> tab enables you to
+      <p><ul>The <b>Browse and Subset</b> tab enables you to
         <li>Browse through a <b>hierarchical variable tree</b>, a list of all the variables in the dataset that is displayed in on the left of the page</li>
         <li>View the <b>univariate distributions</b> of each of the variables by clicking on the variable name in the tree. Clicking on a categorical variable displays a frequency table while clicking on a continuous variable displays a histogram with summary statistics.</li>
         <li><b>Subset the data</b> to select observations of interest</li>
-      </ul>
+      </ul></p>
     </details>
     <details>
       <summary>Visualize</summary>
-      <ul>The <b>Visualize</b> tab enables you to create graphs and plots to explore associations between two or more variables. Clicking on “New visualization” opens a menu of visualization apps. Click on any icon to open the app and configure it.
+      <p><ul>The <b>Visualize</b> tab enables you to create graphs and plots to explore associations between two or more variables. Clicking on “New visualization” opens a menu of visualization apps. Click on any icon to open the app and configure it.
         <li>The <b>correlation</b> app allows you to generate a bipartite network and uncover connections between functional data and metadata variables.</li>
         <li>Plot simple distributions of continuous data using <b>histogram</b> and <b>box plot</b> apps.</li>
         <li>Counts and proportions: Use standard <b>bar plots</b> and 'row by column' (RxC) or 2x2 <b>contingency tables</b> to examine and compare frequencies in the data.</li>
-      </ul>
+      </ul></p>
     </details>
     <details>
       <summary>Download</summary>
