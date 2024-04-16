@@ -26,16 +26,16 @@ title: WGCNA Learn tab content
         <details>
            <p> <summary>Browse and Subset</summary>
             The <b>Browse and Subset</b> tab enables you to
-            <li>Browse through a hierarchical variable tree, a list of all the variables in the dataset that is displayed in on the left of the page</li>
-            <li>View the univariate distributions of each of the variables by clicking on the variable name in the tree. Clicking on a categorical variable displays a frequency table while clicking on a continuous variable displays a histogram with summary statistics.</li>
-            <li>Subset the data to select observations of interest</li></p>
+            <li>Browse through a <b>hierarchical variable tree</b>, a list of all the variables in the dataset that is displayed in on the left of the page</li>
+            <li>View the <b>univariate distributions</b> of each of the variables by clicking on the variable name in the tree. Clicking on a categorical variable displays a frequency table while clicking on a continuous variable displays a histogram with summary statistics.</li>
+            <li><b>Subset the data</b> to select observations of interest</li></p>
         </details>
         <details>
            <p> <summary>Visualize</summary>
             The <b>Visualize</b> tab enables you to create graphs and plots to explore associations between two or more variables. Clicking on “New visualization” opens a menu of visualization apps. Click on any icon to open the app and configure it.
-            <li>The correlation app allows you to generate a bipartite network and uncover connections between functional data and metadata variables.</li>
-            <li>Plot simple distributions of continuous data using histogram and box plot apps.</li>
-            <li>Counts and proportions: Use standard bar plots and 'row by column' (RxC) or 2x2 contingency tables to examine and compare frequencies in the data.</li></p>
+            <li>The <b>correlation</b> app allows you to generate a bipartite network and uncover connections between functional data and metadata variables.</li>
+            <li>Plot simple distributions of continuous data using <b>histogram</b> and <b>box plot</b> apps.</li>
+            <li>Counts and proportions: Use standard <b>bar plots</b> and 'row by column' (RxC) or 2x2 <b>contingency tables</b> to examine and compare frequencies in the data.</li></p>
         </details>
         <details>
             <p><summary>Download</summary>
