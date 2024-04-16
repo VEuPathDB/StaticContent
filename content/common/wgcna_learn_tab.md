@@ -4,7 +4,7 @@ title: WGCNA Learn tab content
 ---
 <style>
   div.static-content details {
-    margin: 1em;
+    margin: 1em 0;
   }
   div.static-content details p, div.static-content details ul {
     margin-left: 1emi;
