@@ -1,5 +1,5 @@
 ---
-permalink: /wgcna_learn_tab
+permalink: /wgcna_help
 title: WGCNA Learn tab content
 ---
 <style>
@@ -9,7 +9,7 @@ title: WGCNA Learn tab content
 </style>
 
 <div class="static-content">
-    <div class="wgcna-learn">
+    <div class="wgcna-help">
         <h3>Learn the basic features of the study explorer</h3>
         <details>
             <summary>Overview</summary>
