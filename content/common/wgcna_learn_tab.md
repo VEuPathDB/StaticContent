@@ -3,17 +3,20 @@ permalink: /wgcna_help
 title: WGCNA Learn tab content
 ---
 <style>
-    ul {
-        list-style: none;
-    }
+  ul {
+    list-style: none;
+  }
+  div.static-content details p {
+    margin-left: 1em;
+  }
 </style>
 
 <div class="static-content">
     <div class="wgcna-help">
         <h3>Learn the basic features of the study explorer</h3>
         <details>
-           <p> <summary>Overview</summary>
-            The <b>Study Explorer</b> is an interactive feature that allows you to learn more about a dataset, explore all the variables in the dataset, and perform exploratory data analysis to visualize associations between two or more variables.</p>
+           <summary>Overview</summary>
+           <p>The <b>Study Explorer</b> is an interactive feature that allows you to learn more about a dataset, explore all the variables in the dataset, and perform exploratory data analysis to visualize associations between two or more variables.</p>
         </details>
        <details>
            <p> <summary>The Dataset Diagram</summary>
@@ -39,7 +42,7 @@ title: WGCNA Learn tab content
         </details>
         <details>
             <p><summary>Download</summary>
-            The <b>Download</b> tab allows you to download the data that is represented in the study explorer and work with it on your own. <p>
+            The <b>Download</b> tab allows you to download the data that is represented in the study explorer and work with it on your own. </p>
         </details>
     </div>
 </div>
