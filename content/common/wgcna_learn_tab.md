@@ -3,9 +3,6 @@ permalink: /wgcna_help
 title: WGCNA Learn tab content
 ---
 <style>
-  ul {
-    list-style: none;
-  }
   div.static-content details p, div.static-content details ul {
     margin-left: 1em;
   }
@@ -32,6 +29,7 @@ title: WGCNA Learn tab content
         <li>Browse through a <b>hierarchical variable tree</b>, a list of all the variables in the dataset that is displayed in on the left of the page</li>
         <li>View the <b>univariate distributions</b> of each of the variables by clicking on the variable name in the tree. Clicking on a categorical variable displays a frequency table while clicking on a continuous variable displays a histogram with summary statistics.</li>
         <li><b>Subset the data</b> to select observations of interest</li>
+      </ul>
     </details>
     <details>
       <summary>Visualize</summary>
@@ -39,6 +37,7 @@ title: WGCNA Learn tab content
         <li>The <b>correlation</b> app allows you to generate a bipartite network and uncover connections between functional data and metadata variables.</li>
         <li>Plot simple distributions of continuous data using <b>histogram</b> and <b>box plot</b> apps.</li>
         <li>Counts and proportions: Use standard <b>bar plots</b> and 'row by column' (RxC) or 2x2 <b>contingency tables</b> to examine and compare frequencies in the data.</li>
+      </ul>
     </details>
     <details>
       <summary>Download</summary>
