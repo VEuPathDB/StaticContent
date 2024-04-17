@@ -17,7 +17,7 @@ tags: [workshop-exercise]
     margin: 2em 1em;
   }
 
-details summary, details ul {
+div.static-content details summary, details ul {
   margin-top: 1em;
 }
 div.static-content details summary {
