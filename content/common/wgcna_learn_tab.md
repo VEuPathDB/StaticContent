@@ -47,5 +47,9 @@ title: WGCNA Learn tab content
       <summary>Download</summary>
       <p>The <b>Download</b> tab allows you to download the data that is represented in the study explorer and work with it on your own. </p>
     </details>
+    <details>
+      <summary>Tutorial</summary>
+      <p>For more details on exploratory data analysis of this WGCNA dataset of dual host-parasite transcriptomes of malaria-infected Gambian children, please <a target="_blank" href="/documents/Study_Explorer_WGCNA_dualTxGambian.pdf">click to access a tutorial</a>.</p>
+    </details>
   </div>
 </div>
