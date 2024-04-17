@@ -30,9 +30,9 @@ title: WGCNA Learn tab content
     <details open>
       <summary><b>Browse and Subset</b></summary>
       <p><ul>The <b>Browse and Subset</b> tab enables you to
-        <li>Browse through a <b>hierarchical tree of study variables</b>, displayed in a list on the left of the page</li>.
+        <li>Browse through a <b>hierarchical tree of study variables</b>, displayed in a list on the left of the page.</li>
         <li>View the <b>univariate distributions</b> of each of the variables by clicking on the variable name in the tree. Clicking on a categorical variable displays a frequency table while clicking on a continuous variable displays a histogram with summary statistics.</li>
-        <li><b>Subset the data</b> to select observations of interest</li>.
+        <li><b>Subset the data</b> to select observations of interest.</li>
       </ul></p>
     </details>
    <details open>
