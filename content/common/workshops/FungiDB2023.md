@@ -20,7 +20,7 @@ tags: [workshop-exercise]
 details summary, details ul {
   margin-top: 1em;
 }
-details summary {
+div.static-content details summary {
   font-size: 150%;
   color: #069;
 }
