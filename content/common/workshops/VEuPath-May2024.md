@@ -135,8 +135,8 @@ div.photowrapper {
 
 
   <div class="centered-title">        
-    <p><h4><b><div style="color:maroon">Application deadline is extended to Jan 22, 2024</div></b> Please complete the application form at <a href="https://forms.gle/4S4neaBys2ghqdEUA" target="_blank">https://forms.gle/4S4neaBys2ghqdEUA</a>.  Students, Post Docs and staff should also arrange for 2 recommendation letters to be sent to <a href="mailto:jckadmin@uga.edu">jckadmin@uga.edu</a>.   </h4></p>  
-    <p><h4>Monday, May 13th 4:00 pm - Friday, May 17th 12:00 pm  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
+    <!--<p><h4><b><div style="color:maroon">Application deadline is extended to Jan 22, 2024</div></b> Please complete the application form at <a href="https://forms.gle/4S4neaBys2ghqdEUA" target="_blank">https://forms.gle/4S4neaBys2ghqdEUA</a>.  Students, Post Docs and staff should also arrange for 2 recommendation letters to be sent to <a href="mailto:jckadmin@uga.edu">jckadmin@uga.edu</a>.   </h4></p>  -->
+    <p><h4>Monday, May 13th 4:30 pm - Friday, May 17th 12:00 pm  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>           
     <p><h4><b>Registration, housing, and most meals during the workshop are free.  Attendees are expected to pay their own travel expenses, some evening meals, and housing for extended stays.</b> </h4></p>   
     <p><h4><b><a href="#Schedule">Basic Schedule</a></b></h4></p>      
@@ -169,11 +169,12 @@ div.photowrapper {
     <br>
 
   <h2>Applications</h2>
-    <ul>
+    <b>Applications are closed</b>
+    <!--<ul>
         <li><b>Begin your application by completing the form: <a href="https://forms.gle/4S4neaBys2ghqdEUA" target="_blank">https://forms.gle/4S4neaBys2ghqdEUA</a>.  The form information is confidential.</b> </li>
         <li>Arrange for letters of recommendation to be emailed to jckadmin@uga.edu.  Postdocs, students and staff should have two (2) letters of recommendation emailed by the application deadline (January 22, 2024). Principal investigators applying to the workshop are not required to have recommendation letters sent in support of their applications. </li>
         <li>Application deadline is January 22, 2024.</li>
-    </ul> 
+    </ul> -->
   <br><br>
       
   <h2>Cost and fees</h2>
@@ -202,11 +203,15 @@ div.photowrapper {
         <tr>
           <td>Omar S. Harb, PhD</td>
           <td>University of Pennsylvania</td>
-        </tr>  
+        </tr>
         <tr>
           <td>Jessica Kissinger, PhD</td>
           <td>University of Georgia</td>
-        </tr>    
+        </tr>
+        <tr>
+          <td>Nupur Kittur, PhD</td>
+          <td>University of Georgia</td>
+        </tr>
         <tr>
           <td>Susanne Warrenfeltz, PhD</td>
           <td>University of Georgia</td>
@@ -244,28 +249,28 @@ div.photowrapper {
         </thead>
         <tbody>         
           <tr>
-            <td>4 - 4:15 pm<br>
+            <td>4:30 - 4:45 pm<br>
                 Coverdell 175</td>
             <td>Welcome, workshop overview, instructor introductions, logistics for the week</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>4:15 - 5:00 pm<br>
+            <td>4:45 - 5:30 pm<br>
                 Coverdell 175</td>
             <td>Crash course in Omics</td>
             <td></td>
             <td></td>
           </tr>          
           <tr>
-            <td>5 - 6 pm<br>
+            <td>5:30 - 6:30 pm<br>
                 Coverdell 175</td>
             <td>Attendee Introductions: Each attendee introduces themselves and presents a one-slide summary of their work. </td>
             <td></td>
             <td></td>
           </tr>       
           <tr>
-            <td>6 - 8 pm<br>
+            <td>6:30 - 8:30 pm or later<br>
                 Coverdell 340</td>
             <td>Opening Reception Dinner </td>
             <td></td>
