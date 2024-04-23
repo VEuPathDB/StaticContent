@@ -14,7 +14,8 @@ title: WGCNA Learn tab content
 
 <div class="static-content">
   <div class="wgcna-help">
-    <h3>Learn the basic features of the study explorer (<a target="_blank" href="{{'/documents/Study_Explorer_WGCNA_dualTxGambian.pdf' | absolute_url}}">WCGNA study explorer tutorial</a>)</h3>
+    <h3>Learn the basic features of the study explorer
+    <a target="_blank" href="{{'/documents/Study_Explorer_WGCNA_dualTxGambian.pdf' | absolute_url}}">WGCNA study explorer tutorial</a></h3>
     <details open>
       <summary><b>Overview</b></summary>
       <p>The <b>Study Explorer</b> is an interactive feature that allows you to learn more about a dataset, explore all the variables in the dataset, and perform exploratory data analysis to visualize associations between two or more variables.</p>
