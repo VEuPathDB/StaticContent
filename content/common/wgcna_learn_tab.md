@@ -14,7 +14,7 @@ title: WGCNA Learn tab content
 
 <div class="static-content">
   <div class="wgcna-help">
-    <h3>Learn the basic features of the study explorer
+    <h3>Learn the basic features of the study explorer <br/>
     <a target="_blank" href="{{'/documents/Study_Explorer_WGCNA_dualTxGambian.pdf' | absolute_url}}">WGCNA study explorer tutorial</a></h3>
     <details open>
       <summary><b>Overview</b></summary>
