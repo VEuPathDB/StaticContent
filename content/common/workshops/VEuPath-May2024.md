@@ -114,7 +114,7 @@ div.instructor-table {
 
 div.photowrapper {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 3.5em;
   grid-auto-rows: minmax(100px, auto);
   align-items: end;
