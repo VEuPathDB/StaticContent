@@ -691,7 +691,7 @@ div.photowrapper {
         <br>2023 VEuPathDB Workshop
         <br>University of Georgia, Athens GA</div>
       <div>
-        <img src="{{'/documents/2023athens/Photos/Aylla.jpg' | absolute_url}}" />
+        <img src="{{'/documents/2024athens/Photos/Irene_Bagala.jpg' | absolute_url}}" />
         <br>Aylla Ermland
         <br>University of Georgia</div>
       <div>
