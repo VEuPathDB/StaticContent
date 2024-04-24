@@ -684,7 +684,7 @@ div.photowrapper {
       <br>
       <br>
     </details>        
-  <!--
+  
   <div class="anchor"><a name="Directory"></a></div>
   <details closed>
     <summary><b>Directory</b> </summary>  
@@ -713,6 +713,8 @@ div.photowrapper {
         <img src="{{'/documents/2024athens/Photos/Anissa_Waller_Del_Valle.jpg' | absolute_url}}" />
         <br>Anissa Waller Del Valle
         <br>TODO</div>
+    </div>
+    <!--
       <div>
         <img src="{{'/documents/2023athens/Photos/Carol_Vieira.JPG' | absolute_url}}" />
         <br>Carolina Vieira
@@ -797,8 +799,8 @@ div.photowrapper {
         <img src="{{'/documents/2023athens/Photos/Wei_Hsin-Ho.jpg' | absolute_url}}" />
         <br>Wei Hsin-Ho
         <br>Bowling Green State University</div>
-    </div>  
-  </details> -->
+    </div>  -->
+  </details> 
 
   </div>  <!-- class workshop -->
 
