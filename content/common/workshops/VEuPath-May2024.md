@@ -182,7 +182,9 @@ div.photowrapper {
   <br><br>
 
   Funding for this workshop is provided by NIH grant #blah and by the Buroughs Wellcome Fund. <br><br>
-  <img src="{{'/documents/2024athens/Exercises_and_documents/BWF_logo.png' | absolute_url}}" />
+  <div class="photowrapper">
+    <div><img src="{{'/documents/2024athens/Exercises_and_documents/BWF_logo.png' | absolute_url}}" /></div>
+  </div>
 
 
   <h2>Computer and internet access</h2>
@@ -691,20 +693,20 @@ div.photowrapper {
         <br>University of Georgia, Athens GA</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Irene_Bagala.jpg' | absolute_url}}" />
-        <br>Aylla Ermland
-        <br>University of Georgia</div>
+        <br>Irene Bagala
+        <br>TODO</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Wenthe.jpg' | absolute_url}}" />
         <br>Betsy Wenthe
         <br>University of Georgia</div>
       <div>
-        <img src="{{'/documents/2023athens/Photos/Carrie_portrait.jpeg' | absolute_url}}" />
-        <br>Carrie Hetzel
-        <br>Harvard Medical School</div>
+        <img src="{{'/documents/2024athens/Photos/Fatoumata_Fofana.jpg' | absolute_url}}" />
+        <br>Fatoumata Fofana
+        <br>TODO</div>
       <div>
-        <img src="{{'/documents/2023athens/Photos/Charani_Karunathilake.jpg' | absolute_url}}" />
-        <br>Charani Karunathilake
-        <br>Faculty of Medicine, University of Colombo</div>
+        <img src="{{'/documents/2024athens/Photos/Olatunbosun_Aringbangba.heic' | absolute_url}}" />
+        <br>Olatunbosun_Aringbangba
+        <br>TODO</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Carol_Vieira.JPG' | absolute_url}}" />
         <br>Carolina Vieira
