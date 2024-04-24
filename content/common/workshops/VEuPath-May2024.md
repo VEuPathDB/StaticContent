@@ -127,7 +127,7 @@ div.photowrapper {
 
 div.logowrapper {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 4.5em;
   grid-auto-rows: minmax(75px, auto);
   align-items: end;
@@ -135,7 +135,7 @@ div.logowrapper {
 }
 .logowrapper img {
   padding-bottom: 2em;
-  width: 15em;
+  width: 10em;
 }
 </style>
 
