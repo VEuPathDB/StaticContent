@@ -182,9 +182,10 @@ div.photowrapper {
   <br><br>
 
   Funding for this workshop is provided by NIH grant #blah and by the Buroughs Wellcome Fund. <br><br>
+  <div style="margin-left: 5em;">
   <div class="photowrapper">
     <div><img src="{{'/documents/2024athens/Exercises_and_documents/BWF_logo.png' | absolute_url}}" /></div>
-  </div>
+  </div></div>
 
 
   <h2>Computer and internet access</h2>
