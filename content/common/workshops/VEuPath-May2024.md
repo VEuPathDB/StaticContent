@@ -181,10 +181,9 @@ div.photowrapper {
   The workshop is free and VEuPathDB pays for housing on the nights of Monday May 13 - Thursday May 16, with an extra night before and after for international travelers, if needed. The opening reception dinner (Monday evening May 13th, 2024) as well as breakfast and lunch on May 14 - 17th are also provided free of charge.  Attendees are expected to pay travel expenses, lodging expenses outside the workshop window, and dinners on Tuesday - Thursday. 
   <br><br>
 
- <!-- <div class="anchor"><a name="ACME"></a></div>
-  <b>Two special travel awards ($450 each) sponsored by the American Committee of Medical Entomology (ACME) will be awarded to students who are current or future VectorBase users from 
-  <a href="https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries" target="_blank">low- and middle-income countries (LMICs)</a>.</b> Acceptance emails were sent March 3rd.  Please reply back conforming your attendance. If you are a student from an LMIC, currently living outside the USA, and have a financial need to attend the workshop, briefly mention this in your email, as well as how learning about VectorBase will help your professional development (200 words). Details about how the money will be used toward buying airplane tickets, will be discussed with the award recipients. 
-  <br><br>  -->
+  Funding for this workshop is provided by NIH grant #blah and by the Buroughs Wellcome Fund. <br><br>
+  <img src="{{'/documents/2024athens/Exercises_and_documents/BWF_logo.png' | absolute_url}}" />
+
 
   <h2>Computer and internet access</h2>
   The workshop will take place in a University of Georgia computer lab.  Each person will be seated at a computer for their individual use.  Laptop computers are not necessary to complete the workshop assignments but may be preferred for personal use outside workshop hours.  
