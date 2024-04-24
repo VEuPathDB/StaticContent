@@ -185,6 +185,7 @@ div.photowrapper {
   <div style="margin-left: 5em;">
   <div class="photowrapper">
     <div><img src="{{'/documents/2024athens/Exercises_and_documents/BWF_logo.png' | absolute_url}}" /></div>
+    <div><img src="{{'/documents/2024athens/Exercises_and_documents/BRC_Logo_v8.png' | absolute_url}}" /></div>
   </div></div>
 
 
