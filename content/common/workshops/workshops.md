@@ -101,8 +101,6 @@ th.recording {
 <div class="static-content">
 
   <h3>Upcoming Workshops</h3>
- 
-  <div class="contents">
 
   <div class="contents">
   
