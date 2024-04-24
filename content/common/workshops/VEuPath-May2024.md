@@ -122,7 +122,7 @@ div.photowrapper {
 }
 .photowrapper img {
   padding-bottom: 1em;
-  width: 20em;
+  width: 15em;
 }
 
 div.logowrapper {
