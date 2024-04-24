@@ -134,8 +134,8 @@ div.logowrapper {
   font-size: 110%;
 }
 .logowrapper img {
-  padding-bottom: 1em;
-  width: 20em;
+  padding-bottom: 2em;
+  width: 15em;
 }
 </style>
 
