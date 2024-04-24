@@ -124,6 +124,19 @@ div.photowrapper {
   padding-bottom: 1em;
   width: 20em;
 }
+
+div.logowrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4.5em;
+  grid-auto-rows: minmax(75px, auto);
+  align-items: end;
+  font-size: 110%;
+}
+.logowrapper img {
+  padding-bottom: 1em;
+  width: 20em;
+}
 </style>
 
 <p><a href="/">Home</a> >> Help >> 
@@ -688,11 +701,7 @@ div.photowrapper {
   <div class="anchor"><a name="Directory"></a></div>
   <details closed>
     <summary><b>Directory</b> </summary>  
-    <div class="photowrapper">
-      <div>
-        <img src="{{'/documents/2023athens/Photos/group-post.jpg' | absolute_url}}" />
-        <br>2023 VEuPathDB Workshop
-        <br>University of Georgia, Athens GA</div>
+    <div class="logowrapper">
       <div>
         <img src="{{'/documents/2024athens/Photos/Irene_Bagala.jpg' | absolute_url}}" />
         <br>Irene Bagala
@@ -712,7 +721,23 @@ div.photowrapper {
       <div>
         <img src="{{'/documents/2024athens/Photos/Anissa_Waller_Del_Valle.jpg' | absolute_url}}" />
         <br>Anissa Waller Del Valle
-        <br>TODO</div>
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Omar_Harb.jpeg' | absolute_url}}" />
+        <br>Omar Harb, instructor
+        <br>University of Pennsylvania</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Jessica_Kissinger.jpg' | absolute_url}}" />
+        <br>Jessica Kissinger, instructor
+        <br>University of Georgia </div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Nupur_Kittur.jpeg' | absolute_url}}" />
+        <br>Nupur Kittur, instructor
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Susanne_Warrenfeltz_crop.jpg' | absolute_url}}" />
+        <br>Susanne Warrenfeltz, instructor
+        <br>University of Georgia</div>
     </div>
     <!--
       <div>
@@ -739,10 +764,6 @@ div.photowrapper {
         <img src="{{'/documents/2023athens/Photos/Huai_Chuang.jpg' | absolute_url}}" />
         <br>Huai Chuang
         <br>Nagasaki University</div>
-      <div>
-        <img src="{{'/documents/2023athens/Photos/Jessica_Kissinger.jpg' | absolute_url}}" />
-        <br>Jessica Kissinger, instructor
-        <br>University of Georgia </div>
       <div>
         <img src="{{'/documents/2023athens/Photos/JuanCarlosGabaldon_photo.png' | absolute_url}}" />
         <br>Juan Carlos Gabaldon
@@ -771,18 +792,6 @@ div.photowrapper {
         <img src="{{'/documents/2023athens/Photos/Monica_Vargas.jpeg' | absolute_url}}" />
         <br>Monica Vargas
         <br>University of Quindio</div>
-      <div>
-        <img src="{{'/documents/2023athens/Photos/Nupur_Kittur.jpeg' | absolute_url}}" />
-        <br>Nupur Kittur
-        <br>University of Georgia</div>
-      <div>
-        <img src="{{'/documents/2023athens/Photos/Omar_Harb.jpeg' | absolute_url}}" />
-        <br>Omar Harb, instructor
-        <br>University of Pennsylvania</div>
-      <div>
-        <img src="{{'/documents/2023athens/Photos/Susanne_Warrenfeltz_crop.jpg' | absolute_url}}" />
-        <br>Susanne Warrenfeltz, instructor
-        <br>University of Georgia</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/Stefani_Piedrahita.jpg' | absolute_url}}" />
         <br>Stefani Piedrahita
