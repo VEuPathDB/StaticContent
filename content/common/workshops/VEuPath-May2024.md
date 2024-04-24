@@ -196,7 +196,7 @@ div.logowrapper {
 
   Funding for this workshop is provided by NIH grant #blah and by the Buroughs Wellcome Fund. <br><br>
   <div style="margin-left: 5em;">
-  <div class="photowrapper">
+  <div class="logowrapper">
     <div><img src="{{'/documents/2024athens/Exercises_and_documents/BWF_logo.png' | absolute_url}}" /></div>
     <div><img src="{{'/documents/2024athens/Exercises_and_documents/BRC_Logo_v8.png' | absolute_url}}" /></div>
   </div></div>
@@ -701,7 +701,7 @@ div.logowrapper {
   <div class="anchor"><a name="Directory"></a></div>
   <details closed>
     <summary><b>Directory</b> </summary>  
-    <div class="logowrapper">
+    <div class="photowrapper">
       <div>
         <img src="{{'/documents/2024athens/Photos/Irene_Bagala.jpg' | absolute_url}}" />
         <br>Irene Bagala
