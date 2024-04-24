@@ -104,18 +104,22 @@ th.recording {
  
   <div class="contents">
 
-  <div class="contents">
+    <h4><a href="https://fungidb.org/fungidb/app/static-content/2024FGCFungiDBworkshop.html" target="_blank">FungiDB workshop at 32nd Fungal Genetics Conference in Asilomar, USA</a></h4>
+  <p><b>Location:</b> Asilomar conference grounds.</p> 
+  <p><b>Date:</b> 14 March 2024.</p> 
+  <p><b>More information:</b> <a href="https://fungidb.org/fungidb/app/static-content/2024FGCFungiDBworkshop.html" target="_blank">Workshop information and schedule</a>.</p>
+  
+  <h4><a href="/a/app/static-content/workshopMay2024.html">VEuPathDB Annual Workshop (In-person) May 13th &ndash; May 17th, 2024</a></h4>
+  <p>Times: Monday May 13 &ndash; Friday May 17, 2024 </p>
+  <p>Location: The University of Georgia, Athens Georgia, USA</p>
+  <p>More Information: <a href="/a/app/static-content/workshopMay2024.html">Workshop information and schedule</a></p>
+ 
+ 
   <h4><a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/" target="_blank">2024 Fungal Pathogen Genomics (in-person) June 02 &ndash; 07, 2024</a></h4>
   <p>Learn how to take advantage of the unique tools offered by FungiDB, Ensembl Fungi, SGD/CGD, and MycoCosm/JGI databases & more.</p>
   <p><b>Location:</b> Wellcome Genome Campus, Hinxton, UK.</p> 
   <p><b>Application deadline:</b> 29 February 2024.</p> 
   <p><b>More information:</b> <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/" target="_blank">Wellcome Connecting Science 2024 Fungal Pathogen Genomics course</a>.</p>
-  
-  </div>
-  <h4><a href="/a/app/static-content/workshopMay2024.html">VEuPathDB Annual Workshop (In-person) May 13th &ndash; May 17th, 2024</a></h4>
-  <p>Times: Monday May 13 &ndash; Friday May 17, 2024 </p>
-  <p>Location: The University of Georgia, Athens Georgia, USA</p>
-  <p>More Information: <a href="/a/app/static-content/workshopMay2024.html">Workshop information and schedule</a></p>
   </div>
  
    <hr>
