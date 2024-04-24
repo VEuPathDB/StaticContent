@@ -710,6 +710,10 @@ div.photowrapper {
         <br>Olatunbosun_Aringbangba
         <br>TODO</div>
       <div>
+        <img src="{{'/documents/2024athens/Photos/Anissa_Waller_Del_Valle.jpg' | absolute_url}}" />
+        <br>Anissa Waller Del Valle
+        <br>TODO</div>
+      <div>
         <img src="{{'/documents/2023athens/Photos/Carol_Vieira.JPG' | absolute_url}}" />
         <br>Carolina Vieira
         <br>University of the State of Rio de Janeiro</div>
