@@ -34,10 +34,13 @@ category: [HostDB,VEuPathDB]
   <h3>New features in {{project}} 68</h3>
   <div style="margin-left: 3em;">
     <ul>
-      <li>The <a href="/a/app/fasta-tool/transcript">Sequence Retrieval Tool</a> offers more input options such as uploading from a text file or URL. New options for configuring or choosing the type of sequence returned are also available. </li>
-      <li>The Product Descriptions table on gene pages is now called All Product Descriptions and contains product descriptions from all relevant sources. The most commonly used product description also appears at the top of the gene page. </li>
-      <li>The <a href="/a/app/search/transcript/GenesByText">Text Search</a> 'Fields' parameter values have changed. Choose 'Product descriptions (all)' to search the All Product Descriptions table on gene pages.  Choose 'Product descriptions' to search only the commonly used product descriptions that appear at the top of gene pages.  </li>
-      <li>Compressed files in the <a href="/a/app/downloads">Download Data Files</a> tool are now in .gz format.</li>
+      <li>Long gene product descriptions are now trucated in relation to the width of your browser window.  The full product description is available on mouseover and individual transcript product descriptions are available in the All Product Descriptions table on gene pages. <a target="_blank" href="{{'/assets/images/news/Truncated_descriptions.gif' | absolute_url}}">Truncated descriptions GIF</a>. </li>
+
+      <li>The Orthologs and Paralogs table on {{project}} gene pages also serves as a Clustal Omega tool for retrieving alignments between orthologs. This table now includes 'Selection Count' and 'Selection Clear' options for improved tool function. <a target="_blank" href="{{'/assets/images/news/Clustal_Omega_Counts.gif' | absolute_url}}">Clustal Omega Counts GIF</a>.   </li>
+
+      <li>The Send To tool is now offered in VEuPathDB.org Strategies. Gene lists created in VEuPathDB.org Strategies can now be ported to {{project}} My Strategies for further investigation. Porting to a site that does not have genes represented in the VEuPathDB.org result, will create a strategy with no results. <a target="_blank" href="{{'/assets/images/news/VEuPath_Port_to_Component.gif' | absolute_url}}">VEuPathDB.org Send To GIF</a>.</li>
+
+      <li>Newly sorted strategy result tables will now default to page 1 &ndash; search result tables can be sorted based on any column of data. When a table is sorted while viewing page 3, users are returned to page 1 to view the sorted data table. </li>
    </ul>
   </div>
 </section>
