@@ -34,7 +34,7 @@
   uid: allgenesorganism
   projects: ""
 - type: mining
-  question: " How do I send IDs from command line to VEuPathDB and retrieve the search results?"
+  question: "How do I send IDs from command line to VEuPathDB and retrieve the search results?"
   answer: |
            VEuPathDB has an API system that allows you to run search strategies from command line. A python script to do this for gene IDs 
            is available [here](https://github.com/VEuPathDB/rest-api-example-scripts/blob/main/genomics/Gene_search_api_usage.ipynb). 
