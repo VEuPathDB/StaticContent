@@ -74,6 +74,20 @@ div.static-content img {
 </div>
 
 
+<div id="commandline">
+    <h2>Programmatic access to VEuPathDB sites</h2>
+    {% for item in site.data.genomics_faq %}
+    {% if item.type == "commandline" %}
+      <details id="{{ item.uid }}">
+        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
+        {{ item.answer | markdownify }}
+        <br>
+      </details>
+    {% endif %}
+    {% unless forloop.last %}{% endunless %}{% endfor %}
+</div>
+
+
 <div id="apollo">
     <h2>Manual gene annotation using Apollo</h2>
     {% for item in site.data.genomics_faq %}
