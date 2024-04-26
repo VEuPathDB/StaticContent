@@ -33,7 +33,7 @@
            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_2.png"  />
   uid: allgenesorganism
   projects: ""
-- type: mining
+- type: commandline
   question: "How do I send IDs from command line to VEuPathDB and retrieve the search results?"
   answer: |
            VEuPathDB has an API system that allows you to run search strategies from command line. 
