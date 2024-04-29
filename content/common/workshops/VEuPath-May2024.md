@@ -707,16 +707,28 @@ div.logowrapper {
         <br>Irene Bagala
         <br>TODO</div>
       <div>
-        <img src="{{'/documents/2023athens/Photos/Wenthe.jpg' | absolute_url}}" />
-        <br>Betsy Wenthe
-        <br>University of Georgia</div>
+        <img src="{{'/documents/2024athens/Photos/Asima_Das.jpg' | absolute_url}}" />
+        <br>Asima Das
+        <br>TODO</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Fatoumata_Fofana.jpg' | absolute_url}}" />
         <br>Fatoumata Fofana
         <br>TODO</div>
       <div>
+        <img src="{{'/documents/2024athens/Photos/Debora_Karolla.jpg' | absolute_url}}" />
+        <br>Debora_Karolla
+        <br>TODO</div>
+      <div>
         <img src="{{'/documents/2024athens/Photos/Olatunbosun_Aringbangba.heic' | absolute_url}}" />
         <br>Olatunbosun_Aringbangba
+        <br>TODO</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Raihan_Rahman.jpg' | absolute_url}}" />
+        <br>Raihas Rahman
+        <br>Washington State University</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Vanessa_Vasquez1.jpg' | absolute_url}}" />
+        <br>Vanessa Vasquez
         <br>TODO</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Anissa_Waller_Del_Valle.jpg' | absolute_url}}" />
@@ -737,6 +749,10 @@ div.logowrapper {
       <div>
         <img src="{{'/documents/2024athens/Photos/Susanne_Warrenfeltz_crop.jpg' | absolute_url}}" />
         <br>Susanne Warrenfeltz, instructor
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Wenthe.jpg' | absolute_url}}" />
+        <br>Betsy Wenthe
         <br>University of Georgia</div>
     </div>
     <!--
