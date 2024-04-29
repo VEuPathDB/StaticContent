@@ -707,7 +707,7 @@ div.logowrapper {
         <br>Irene Bagala
         <br>TODO</div>
       <div>
-        <img src="{{'/documents/2024athens/Photos/Asima_Das.jpg' | absolute_url}}" />
+        <img src="{{'/documents/2024athens/Photos/Asima_Das.jpeg' | absolute_url}}" />
         <br>Asima Das
         <br>TODO</div>
       <div>
