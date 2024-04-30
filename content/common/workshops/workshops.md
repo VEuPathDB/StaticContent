@@ -106,10 +106,11 @@ th.recording {
   
   <h4>Hands-on Arthropod Bioinformatics Workshop (In-person)</h4>
   Learn how to use the unique tools offered by Ensembl Metazoa and VectorBase
-  <p>Date: 8 - 9 July 2024</p>
-  <p>Location: Universidad Santiago de Cali, Cali, Colombia</p>
-  <p>This is a pre-meeting event of the <a href="[url](https://www.socolen.org.co/programacongreso)">Colombian Society of Entomology, SOCOLEN</a>. It is not necessary to attend the conference to register for the worlshop</p>
+  <p><b>Date:</b> 8 - 9 July 2024</p>
+  <p><b>Location:</b> Universidad Santiago de Cali, Cali, Colombia</p>
+  <p><This is a pre-meeting event of the <a href="[url](https://www.socolen.org.co/programacongreso)">Colombian Society of Entomology, SOCOLEN</a>. It is not necessary to attend the conference to register for the worlshop</p>
   <p><a href="[/a/app/static-content/workshopMay2024.html](https://www.ebi.ac.uk/training/events/socolen-arthropod-bioinformatics-workshop/)">Workshop information and schedule</a></p>
+  </div>
 
   <div class="contents">
   
@@ -117,7 +118,7 @@ th.recording {
   <p>Times: Monday May 13 &ndash; Friday May 17, 2024 </p>
   <p>Location: The University of Georgia, Athens Georgia, USA</p>
   <p>More Information: <a href="/a/app/static-content/workshopMay2024.html">Workshop information and schedule</a></p>
- 
+   </div>
  
   <h4><a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/" target="_blank">2024 Fungal Pathogen Genomics (in-person) June 02 &ndash; 07, 2024</a></h4>
   <p>Learn how to take advantage of the unique tools offered by FungiDB, Ensembl Fungi, SGD/CGD, and MycoCosm/JGI databases & more.</p>
