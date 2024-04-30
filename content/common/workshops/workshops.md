@@ -104,6 +104,15 @@ th.recording {
 
   <div class="contents">
   
+  <h4>Hands-on Arthropod Bioinformatics Workshop (In-person)</h4>
+  Learn how to use the unique tools offered by Ensembl Metazoa and VectorBase
+  <p>Date: 8 - 9 July 2024</p>
+  <p>Location: Universidad Santiago de Cali, Cali, Colombia</p>
+  <p>This is a pre-meeting event of the <a href="[url](https://www.socolen.org.co/programacongreso)">Colombian Society of Entomology, SOCOLEN</a>. It is not necessary to attend the conference to register for the worlshop</p>
+  <p><a href="[/a/app/static-content/workshopMay2024.html](https://www.ebi.ac.uk/training/events/socolen-arthropod-bioinformatics-workshop/)">Workshop information and schedule</a></p>
+
+  <div class="contents">
+  
   <h4><a href="/a/app/static-content/workshopMay2024.html">VEuPathDB Annual Workshop (In-person) May 13th &ndash; May 17th, 2024</a></h4>
   <p>Times: Monday May 13 &ndash; Friday May 17, 2024 </p>
   <p>Location: The University of Georgia, Athens Georgia, USA</p>
