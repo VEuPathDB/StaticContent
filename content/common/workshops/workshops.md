@@ -109,8 +109,7 @@ th.recording {
   Learn how to use the data, tools, and resources offered by Ensembl Metazoa and VectorBase.
   <p><b>Date:</b> 8 - 9 July 2024</p>
   <p><b>Location:</b> Universidad Santiago de Cali, Cali, Colombia</p>
-  <p>This is a pre-meeting event of the <a href="[url](https://www.socolen.org.co/programacongreso)">Colombian Society of Entomology, SOCOLEN</a>. It is not necessary to attend the conference to register for the workshop.</p>
-  <p><a href="[/a/app/static-content/workshopMay2024.html](https://www.ebi.ac.uk/training/events/socolen-arthropod-bioinformatics-workshop/)">Workshop information and schedule.</a></p>
+  <p><b>More information:</b>b This is a pre-meeting event of the <a href="[url](https://www.socolen.org.co/programacongreso)">Colombian Society of Entomology, SOCOLEN</a>. It is not necessary to attend the conference to register for the workshop. <a href="[/a/app/static-content/workshopMay2024.html](https://www.ebi.ac.uk/training/events/socolen-arthropod-bioinformatics-workshop/)">Details and schedule here.</a></p>
   </div>
 
   <div class="contents">
