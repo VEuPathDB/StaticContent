@@ -24,6 +24,7 @@ div.method-details {
       <li><a href="#EBIpipeline">EBI Pipeline</a></li>
       <li><a href="#Supplements-to-EBI">Supplements to the EBI Pipelines</a></li>
       <li><a href="#In-House-genome-analyses">In-house genome analyses in Lieu of the EBI Pipeline</a></li>
+      <li><a href="#Preserving-annotation">Preserving annotations with LiftOff</a></li>
       </ul>
    <li><a href="#Orthology">Orthology</a></li>
       <ul>
@@ -113,6 +114,17 @@ div.method-details {
    <p><u>tRNA gene prediction</u>: tRNAScan identifies transfer RNA genes in transcript or genome sequences.  </p>
    
    <p><a href="{{'/documents/Methods-Details-In-Lieu-genomes.pdf' | absolute_url }}">Details for the VEuPathDB in-house pipelines</a></p>
+  </div>
+
+  <div class="anchor"><a name="Preserving-annotation"></a></div>
+  <h4>Preserving annotations with LiftOff</h4>
+  <div class="method-details">
+
+  <p>We have developed a <a href='https://github.com/VEuPathDB/liftoff-transfer-annotations' > pipeline to run LiftOff</a> to preserve old annotations. First, the distance and flank parameters are incrementally changed to find the combination with the lowest flank number and the fewest   missing features. Features are retrieved from the source GFF3 and passed to LiftOff. Then we use <a href = "https://agat.readthedocs.io/en/latest/tools/agat_sp_fix_cds_phases.html" > agat_sp_fix_cds_phases</a> to calculate phase information and identify any transferred gene models  that are incomplete or otherwise invalid. AGAT’s <a href="https://agat.readthedocs.io/en/latest/tools/agat_sp_extract_sequences.html">agat_sp_extract_sequences</a> is then used to extract CDS sequences for the transferred genes on the new genome. Next, missing CDS regions are identified, and the pipeline produces datasets of what those changes are on a model-by-model basis. It also outputs summary graphics and a corrected GFF3 with metadata regarding model validity (i.e. if it contains stop codons, matches the original sequence, or has any missing regions).</p>
+
+  <p>The GFF3 of the lifted annotation is then loaded as a track on the new genome. Each model is colour coded according whether the transfer is valid (it does not have stop codons or missing regions) and if the protein on the new genome matches the protein from the source genome.</p>
+
+  <p>Transfers are considered invalid where coding sequence has a missing CDS region or internal stop codon and where ncRNA sequences do not match between the source and transfer. Coding sequences with mismatching protein sequence are not considered immediately invalid, but should be examined to determine if the annotation should be kept, fixed or discarded.</p>
   </div>
 
 <hr>
