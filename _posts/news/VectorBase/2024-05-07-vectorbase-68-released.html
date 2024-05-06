@@ -46,14 +46,13 @@ category: [VectorBase,VEuPathDB]
   <a href="https://vectorbase.org/vectorbase/app/record/dataset/TMPTX_acouAcouGA1"><i>Anopheles coustani</i> AcouGA1</a> and <a href="/a/app/record/dataset/TMPTX_azieAzieGA1"><i>Anopheles ziemanni</i> AzieGA1</a> genomes are part of a <b>species complex</b>. Based on the current evidence, <i>An. ziemanni</i> AzieGA1 may actually be the species <i>An. coustani</i> or even another species from this complex. We have banners on each gene page for both of these genomes. <a href="/a/app/static-content/aziemani.html">Additional details</a>
   <br><br>
 
-  <h4>Genome Sequence and Annotation</h4>
+  <h4>New Genome Sequence and Annotation</h4>
   The following organisms are represented in VectorBase for the first time.
   <div style="margin-left: 3em;"> 
     <ul>
       <li><a href="/a/app/record/dataset/DS_c8bd8b61dc"><i>Anopheles gambiae</i> Ifakara</a> &ndash;  <a href="http://www.ncbi.nlm.nih.gov/pubmed/37424773" target="_blank">Habtewold et al. 2023</a>, <a href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_943734735.2/" target="_blank">GCF_943734735.2</a>. 
         <ul>
-          <li>This <i>Anopheles</i> genome has two public annotations available &ndash; NCBI RefSeq (<a href="https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_943734735.2" target="_blank">GCF_943734735.2</a>) and one from Ensembl genebuild.  VectorBase integrated the RefSeq genome sequence and annotation while the Ensemble genebuild annotation is available as a JBrowse track of 
-            <a href="/a/app/jbrowse/index.html?data=%2Fa%2Fservice%2Fjbrowse%2Ftracks%2FagamIfakara&loc=AgamI1_2RL%3A1..453098&tracks=gene%2CagamIfakara_GCAv1_to_GCFv2_GFF_RSRC&highlight=">Ensembl genebuild annotation</a> aligned to the RefSeq genome sequence.  </li>
+          <li>This <i>Anopheles</i> genome has two public annotations available &ndash; NCBI RefSeq (<a href="https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_943734735.2" target="_blank">GCF_943734735.2</a>) and one from Ensembl genebuild.  VectorBase integrated the RefSeq genome sequence and annotation while the Ensemble genebuild annotation is available as a JBrowse track of <a target="_blank" href="{{'/assets/images/news/Ensembl-gene-build.gif' | absolute_url}}">VEuPathDB.org Send To GIF</a>.  </li>
         </ul>
       </li>
 
@@ -83,8 +82,8 @@ category: [VectorBase,VEuPathDB]
     </style>
     <table id="GenRefChng_Bld68">
       <tr>
-        <th>New Name</th>
-        <th>Previous Name</th>
+        <th>New Reference</th>
+        <th>Previous Reference</th>
       </tr>
       <tr>
         <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on VectorBase."><a href="/a/app/record/dataset/DS_b56fe6b141"><i>Biomphalaria glabrata </i>XG47</a></td>
@@ -102,6 +101,50 @@ category: [VectorBase,VEuPathDB]
   </div>
   <br>
 
+  To aid in the transition to a new reference genomes, we have integrated "LiftOff" tracks into the genome browser (JBrowse) and the gene manual annotation tool <a href="/a/app/static-content/apollo_help.html">Apollo</a>. The workflow to create these tracks and an explanation of their interpretation are described in the <a href="/a/app/static-content/methods.html">VectorBase Methods</a>.The existing tracks were released previously, but new funtionality now displays different colors for each transcript with a color key explanation. Additional tracks are anticipated in the future. <a href="{{'/assets/images/news/Liftoff.gif | absolute_url}}" target="_blank">Liftoff GIF</a>
+  <br><br>
+  <div style="margin-left: 3em;">
+    <style>
+      #GenIdChange_Bld68 table, #GenIdChange_Bld68 td, #GenIdChange_Bld68 th, #GenIdChange_Bld68 tr {
+      text-align : center;
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      border: 1px solid black;
+      }
+      #GenIdChange_Bld68 {
+      margin-left : 5 em;
+      }
+    </style>
+    <table id="LiftOff_Bld68">
+      <tr>
+        <th>Genome</th>
+        <th>Track Name</th>
+        <th>Genome Browser Link</th>
+      </tr>
+      <tr>
+        <td><i>Anopheles funestus</i> AfunGA1</td>
+        <td><a href="/a/app/record/dataset/DS_cb12e6264c">Liftoff gene models of FUMOZ to AfunGA1</a></td>
+        <td><a href="/a/app/jbrowse?data=%2Fa%2Fservice%2Fjbrowse%2Ftracks%2FafunAfunGA1&loc=AfunGA1_X%3A10796001..11454500&tracks=gene%2CafunidAnoFuneDA416_04_FUMOZ_liftoff_phase_corrected_GFF_RSRC&highlight=" target="_blank">JBrowse</a>.</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on VectorBase."><a href="/a/app/record/dataset/DS_2f761c02f0"><i>Anopheles marshallii</i> AmarGA1 </a></td>
+        <td>AmarGA1_000001</td>
+        <td>AMARGA1_000001</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on VectorBase."><a href="/a/app/record/dataset/DS_4a4d01e08e"><i>Anopheles moucheti</i> AmouCM1 </a></td>
+        <td>AmouM1_0C00001</td>
+        <td>AMOUCM1_000001</td>
+      </tr>
+      <tr>
+        <td title="Click here to view this genome's full description and a list of associated searches and GBrowse tracks on VectorBase."><a href="/a/app/record/dataset/TMPTX_anilAnilCM1"><i>Anopheles nili</i> AnilCM1 </a></td>
+        <td>AnilCM1_037063</td>
+        <td>ANILCM1_037063</td>
+      </tr>
+    </table>
+  
   <h4>Gene ID Updates</h4>
   For the following genomes, the gene ID formats have changed as indicated by the examples in the table below.
   <br><br>
