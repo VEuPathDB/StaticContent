@@ -732,7 +732,7 @@ div.logowrapper {
         <br>Debora Karolla
         <br>Federal University of Uberlândia</div>
       <div>
-        <img src="{{'/documents/2024athens/Photos/Olatunbosun_Aringbangba.heic' | absolute_url}}" />
+        <img src="{{'/documents/2024athens/Photos/Olatunbosun_Aringbangba.jpg' | absolute_url}}" />
         <br>Olatunbosun Aringbangba
         <br>University of South Florida</div>
       <div>
