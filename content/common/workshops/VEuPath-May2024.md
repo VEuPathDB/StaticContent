@@ -718,23 +718,23 @@ div.logowrapper {
       <div>
         <img src="{{'/documents/2024athens/Photos/Irene_Bagala.jpg' | absolute_url}}" />
         <br>Irene Bagala
-        <br>TODO</div>
+        <br>Infectious Diseases Research Collaboration, Nakasero, Kampala </div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Asima_Das.jpeg' | absolute_url}}" />
         <br>Asima Das
-        <br>TODO</div>
+        <br>University of Cincinnati</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Fatoumata_Fofana.jpg' | absolute_url}}" />
         <br>Fatoumata Fofana
-        <br>TODO</div>
+        <br>University of Sciences, Techniques and Technologies of Bamako (USTTB)</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Debora_Karolla.jpg' | absolute_url}}" />
-        <br>Debora_Karolla
-        <br>TODO</div>
+        <br>Debora Karolla
+        <br>Federal University of Uberlândia</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Olatunbosun_Aringbangba.heic' | absolute_url}}" />
-        <br>Olatunbosun_Aringbangba
-        <br>TODO</div>
+        <br>Olatunbosun Aringbangba
+        <br>University of South Florida</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Raihan_Rahman.jpg' | absolute_url}}" />
         <br>Raihas Rahman
@@ -742,7 +742,7 @@ div.logowrapper {
       <div>
         <img src="{{'/documents/2024athens/Photos/Vanessa_Vasquez1.jpg' | absolute_url}}" />
         <br>Vanessa Vasquez
-        <br>TODO</div>
+        <br>Instituto Conmemorativo Gorgas</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Anissa_Waller_Del_Valle.jpg' | absolute_url}}" />
         <br>Anissa Waller Del Valle
