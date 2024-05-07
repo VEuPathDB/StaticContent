@@ -411,10 +411,10 @@ div.logowrapper {
             <td>Adjourn</td>
             <td></td>
             <td></td>
-          </tr> -->
+          </tr>
         </tbody>
       </table>
-      <br>4>30
+      <br>
       <br>    
       <table class="hor-minimalist-a">
         <thead>
