@@ -152,7 +152,7 @@ div.logowrapper {
     <p><h4>Monday, May 13th 4:30 pm - Friday, May 17th 12:00 pm  (Eastern time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
     <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>           
     <p><h4><b>Registration, housing, and most meals during the workshop are free.  Attendees are expected to pay their own travel expenses, some evening meals, and housing for extended stays.</b> </h4></p>   
-    <p><h4><b><a href="#Schedule">Basic Schedule</a></b></h4></p>      
+    <p><h4><b><a href="#Schedule">Schedule</a></b></h4></p>      
   </div>
   
 
@@ -317,14 +317,14 @@ div.logowrapper {
         </thead>
         <tbody>         
           <tr>
-            <td>7 - 8:00 am<br>
+            <td>7 - 8 am<br>
                 Georgia Center</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>8:00 am<br>
+            <td>8 am<br>
                 Georgia Center</td>
             <td>leave from hotel to walk to Life Sciences Building</td>
             <td></td>
@@ -521,7 +521,6 @@ div.logowrapper {
             <td></td>
             <td><!--<a target="_blank" href="{{'/documents/2023athens/Day2_Exercises/GO_Term_Presentation_Harb.pdf' | absolute_url}}"><b>GO Term Lecture slides</b></a>--></td>
          </tr> 
-         -->
        </tbody>
       </table>
      <br>
@@ -624,7 +623,7 @@ div.logowrapper {
             <td>Adjourn</td>
             <td></td>
             <td></td>
-          </tr>-->
+          </tr>
         </tbody>
       </table>
       <br>
