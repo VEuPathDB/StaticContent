@@ -194,7 +194,7 @@ div.logowrapper {
   The workshop is free and VEuPathDB pays for housing on the nights of Monday May 13 - Thursday May 16, with an extra night before and after for international travelers, if needed. The opening reception dinner (Monday evening May 13th, 2024) as well as breakfast and lunch on May 14 - 17th are also provided free of charge.  Attendees are expected to pay travel expenses, lodging expenses outside the workshop window, and dinners on Tuesday - Thursday. 
   <br><br>
 
-  Funding for this workshop is provided by NIH grant #blah and by the Burroughs Wellcome Fund. <br><br>
+  Funding for this workshop is provided by NIH contract 75N93019C00077, “Bioinformatics Resource Centers for Infectious Diseases” and by the Burroughs Wellcome Fund grant 1306605, “Travel Supplements for Training in Infectious Disease Research.” <br><br>
   <div style="margin-left: 5em;">
   <div class="logowrapper">
     <div><img src="{{'/documents/2024athens/Exercises_and_documents/BWF_logo.png' | absolute_url}}" /></div><!--
