@@ -714,7 +714,11 @@ div.logowrapper {
   <div class="anchor"><a name="Directory"></a></div>
   <details closed>
     <summary><b>Directory</b> </summary>  
-    <div class="photowrapper">
+    <div class="photowrapper">      
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Farid_Salim_Abdi.jpg' | absolute_url}}" />
+        <br>Salim Farid 
+        <br>United States Army Medical Research Unit</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Irene_Bagala.jpg' | absolute_url}}" />
         <br>Irene Bagala
@@ -769,10 +773,6 @@ div.logowrapper {
         <br>University of Georgia</div>
     </div>
     <!--
-      <div>
-        <img src="{{'/documents/2023athens/Photos/Carol_Vieira.JPG' | absolute_url}}" />
-        <br>Carolina Vieira
-        <br>University of the State of Rio de Janeiro</div>
       <div>
         <img src="{{'/documents/2023athens/Photos/CorinneFargo_Headshot.jpg' | absolute_url}}" />
         <br>Corinne Fargo
