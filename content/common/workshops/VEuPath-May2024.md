@@ -317,14 +317,14 @@ div.logowrapper {
         </thead>
         <tbody>         
           <tr>
-            <td>7 - 8 am<br>
+            <td>7 am onward<br>
                 Georgia Center</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>8 am<br>
+            <td>8:15 am<br>
                 Georgia Center</td>
             <td>leave from hotel to walk to Life Sciences Building</td>
             <td></td>
@@ -430,14 +430,14 @@ div.logowrapper {
         </thead>
         <tbody>         
           <tr>
-            <td>7 - 8:00 am<br>
+            <td>7 am onward<br>
                 Georgia Center</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>8:00 am<br>
+            <td>8:15 am<br>
                 Georgia Center</td>
             <td>leave from hotel to walk to Life Sciences</td>
             <td></td>
@@ -539,13 +539,13 @@ div.logowrapper {
         </thead>
         <tbody>      
           <tr>
-            <td>7 - 8 am</td>
+            <td>7 am onward</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>8 am<br>
+            <td>8:15 am<br>
                 Georgia Center</td>
             <td>leave from hotel</td>
             <td></td>
@@ -642,13 +642,13 @@ div.logowrapper {
         </thead>
         <tbody>
           <tr>
-            <td>7 - 8 am</td>
+            <td>7 am onward</td>
             <td>Breakfast available in the hotel</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>8 am<br>
+            <td>8:15 am<br>
                 Georgia Center</td>
             <td>Leave hotel lobby to walk to Life Sciences</td>
             <td></td>
