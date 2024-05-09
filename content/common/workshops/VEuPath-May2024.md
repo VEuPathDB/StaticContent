@@ -716,7 +716,7 @@ div.logowrapper {
     <summary><b>Directory</b> </summary>  
     <div class="photowrapper">      
       <div>
-        <img src="{{'/documents/2023athens/Photos/Farid_Salim_Abdi.jpg' | absolute_url}}" />
+        <img src="{{'/documents/2024athens/Photos/Farid_Salim_Abdi.jpg' | absolute_url}}" />
         <br>Salim Farid 
         <br>United States Army Medical Research Unit</div>
       <div>
