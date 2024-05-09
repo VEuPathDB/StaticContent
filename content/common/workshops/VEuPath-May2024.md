@@ -724,6 +724,10 @@ div.logowrapper {
         <br>Irene Bagala
         <br>Infectious Diseases Research Collaboration, Nakasero, Kampala </div>
       <div>
+        <img src="{{'/documents/2024athens/Photos/Emma_Camacho.jpg' | absolute_url}}" />
+        <br>Emma Camacho
+        <br>Johns Hopkins Bloomberg School of Public Health</div>
+      <div>
         <img src="{{'/documents/2024athens/Photos/Asima_Das.jpeg' | absolute_url}}" />
         <br>Asima Das
         <br>University of Cincinnati</div>
@@ -735,6 +739,10 @@ div.logowrapper {
         <img src="{{'/documents/2024athens/Photos/Debora_Karolla.jpg' | absolute_url}}" />
         <br>Debora Karolla
         <br>Federal University of Uberlândia</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
+        <br>Viktoriya Levytska
+        <br>Biology Centre CAS, Institute of Parasitology</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Olatunbosun_Aringbangba.jpg' | absolute_url}}" />
         <br>Olatunbosun Aringbangba
