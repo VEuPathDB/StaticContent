@@ -732,7 +732,7 @@ div.logowrapper {
         <br>Betsy Wenthe
         <br>University of Georgia</div>
       <div>
-        <img src="{{'/documents/2024athens/Photos/David_DaSilva_Pires.jpeg' | absolute_url}}" />
+        <img src="{{'/documents/2024athens/Photos/David_DaSilva_Pires.jpg' | absolute_url}}" />
         <br>David Da Silva Pires
         <br>Butantan Institute</div>
       <div>
@@ -780,11 +780,11 @@ div.logowrapper {
         <br>Omar Harb, instructor
         <br>University of Pennsylvania</div>
       <div>
-        <img src="{{'/documents/2024athens/Photos/Qahash_Tarrick.jpeg' | absolute_url}}" />
+        <img src="{{'/documents/2024athens/Photos/Qahash_Tarrick.jpg' | absolute_url}}" />
         <br>Tarrick Qahash
         <br>University of Notre Dame</div>
       <div>
-        <img src="{{'/documents/2024athens/Photos/Raihan_Rahman.jpeg' | absolute_url}}" />
+        <img src="{{'/documents/2024athens/Photos/Raihan_Rahman.jpg' | absolute_url}}" />
         <br>Raihan Rahman
         <br>Washington State University</div>
       <div>
