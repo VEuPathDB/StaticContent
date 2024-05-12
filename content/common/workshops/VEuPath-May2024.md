@@ -716,68 +716,100 @@ div.logowrapper {
     <summary><b>Directory</b> </summary>  
     <div class="photowrapper">      
       <div>
-        <img src="{{'/documents/2024athens/Photos/Farid_Salim_Abdi.jpg' | absolute_url}}" />
-        <br>Salim Farid 
-        <br>United States Army Medical Research Unit</div>
-      <div>
-        <img src="{{'/documents/2024athens/Photos/Irene_Bagala.jpg' | absolute_url}}" />
-        <br>Irene Bagala
-        <br>Infectious Diseases Research Collaboration, Nakasero, Kampala </div>
-      <div>
-        <img src="{{'/documents/2024athens/Photos/Emma_Camacho.jpg' | absolute_url}}" />
-        <br>Emma Camacho
-        <br>Johns Hopkins Bloomberg School of Public Health</div>
-      <div>
-        <img src="{{'/documents/2024athens/Photos/Asima_Das.jpeg' | absolute_url}}" />
-        <br>Asima Das
-        <br>University of Cincinnati</div>
-      <div>
-        <img src="{{'/documents/2024athens/Photos/Fatoumata_Fofana.jpg' | absolute_url}}" />
-        <br>Fatoumata Fofana
-        <br>University of Sciences, Techniques and Technologies of Bamako (USTTB)</div>
-      <div>
-        <img src="{{'/documents/2024athens/Photos/Debora_Karolla.jpg' | absolute_url}}" />
-        <br>Debora Karolla
-        <br>Federal University of Uberlândia</div>
-      <div>
-        <img src="{{'/documents/2024athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
-        <br>Viktoriya Levytska
-        <br>Biology Centre CAS, Institute of Parasitology</div>
-      <div>
-        <img src="{{'/documents/2024athens/Photos/Olatunbosun_Aringbangba.jpg' | absolute_url}}" />
-        <br>Olatunbosun Aringbangba
-        <br>University of South Florida</div>
-      <div>
-        <img src="{{'/documents/2024athens/Photos/Raihan_Rahman.jpg' | absolute_url}}" />
-        <br>Raihas Rahman
-        <br>Washington State University</div>
-      <div>
-        <img src="{{'/documents/2024athens/Photos/Vanessa_Vasquez1.jpg' | absolute_url}}" />
-        <br>Vanessa Vasquez
-        <br>Instituto Conmemorativo Gorgas</div>
+        <img src="{{'/documents/2024athens/Photos/Alessandro_Rocchi.jpg' | absolute_url}}" />
+        <br>Alessandro_Rocchi
+        <br>Clemson University</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Anissa_Waller_Del_Valle.jpg' | absolute_url}}" />
         <br>Anissa Waller Del Valle
         <br>University of Georgia</div>
       <div>
-        <img src="{{'/documents/2024athens/Photos/Omar_Harb.jpeg' | absolute_url}}" />
-        <br>Omar Harb, instructor
-        <br>University of Pennsylvania</div>
+        <img src="{{'/documents/2024athens/Photos/Asima_Das.jpeg' | absolute_url}}" />
+        <br>Asima Das
+        <br>University of Cincinnati</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Wenthe.jpg' | absolute_url}}" />
+        <br>Betsy Wenthe
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/David_DaSilva_Pires.jpeg' | absolute_url}}" />
+        <br>David DaSilva Pires
+        <br>Butantan Institute</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Debora_Karolla.jpg' | absolute_url}}" />
+        <br>Debora Karolla
+        <br>Federal University of Uberlândia</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Emma_Camacho.jpg' | absolute_url}}" />
+        <br>Emma Camacho
+        <br>Johns Hopkins Bloomberg School of Public Health</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Farid_Salim_Abdi.jpg' | absolute_url}}" />
+        <br>Farid Salim
+        <br>United States Army Medical Research Unit</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Fatoumata_Fofana.jpg' | absolute_url}}" />
+        <br>Fatoumata Fofana
+        <br>University of Sciences, Techniques and Technologies of Bamako (USTTB)</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Irene_Bagala.jpg' | absolute_url}}" />
+        <br>Irene Bagala
+        <br>Infectious Diseases Research Collaboration, Nakasero, Kampala </div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Jessica_Kissinger.jpg' | absolute_url}}" />
         <br>Jessica Kissinger, instructor
         <br>University of Georgia </div>
       <div>
+        <img src="{{'/documents/2024athens/Photos/Juan_David_Hernanez.jpg' | absolute_url}}" />
+        <br>Juan David Hernanez
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Nino_Laurel.jpg' | absolute_url}}" />
+        <br>Nino Laurel
+        <br>University of Georgia</div>
+      <div>
         <img src="{{'/documents/2024athens/Photos/Nupur_Kittur.jpeg' | absolute_url}}" />
         <br>Nupur Kittur, instructor
         <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Olatunbosun_Aringbangba.jpg' | absolute_url}}" />
+        <br>Olatunbosun Aringbangba
+        <br>University of South Florida</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Omar_Harb.jpeg' | absolute_url}}" />
+        <br>Omar Harb, instructor
+        <br>University of Pennsylvania</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Qahash_Tarrick.jpeg' | absolute_url}}" />
+        <br>Tarrick Qahash
+        <br>University of Notre Dame</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Raihan_Rahman.jpeg' | absolute_url}}" />
+        <br>Raihan_Rahman
+        <br>Washington State University</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Sarah_Reilly.jpeg' | absolute_url}}" />
+        <br>Sarah Reilly
+        <br>University of Pittsburgh</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Susanne_Warrenfeltz_crop.jpg' | absolute_url}}" />
         <br>Susanne Warrenfeltz, instructor
         <br>University of Georgia</div>
       <div>
-        <img src="{{'/documents/2023athens/Photos/Wenthe.jpg' | absolute_url}}" />
-        <br>Betsy Wenthe
+        <img src="{{'/documents/2024athens/Photos/Tam_Stackhouse.jpg' | absolute_url}}" />
+        <br>Tam Stackhouse
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Vanessa_Vasquez1.jpg' | absolute_url}}" />
+        <br>Vanessa Vasquez
+        <br>Instituto Conmemorativo Gorgas</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Viktoriya_Levytska.jpg' | absolute_url}}" />
+        <br>Viktoriya Levytska
+        <br>Biology Centre CAS, Institute of Parasitology</div>
+      <div>
+        <img src="{{'/documents/2023athens/Photos/Yin_Wang.jpg' | absolute_url}}" />
+        <br>Yin Wang
         <br>University of Georgia</div>
     </div>
     <!--
