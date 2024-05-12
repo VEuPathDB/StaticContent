@@ -717,7 +717,7 @@ div.logowrapper {
     <div class="photowrapper">      
       <div>
         <img src="{{'/documents/2024athens/Photos/Alessandro_Rocchi.jpg' | absolute_url}}" />
-        <br>Alessandro_Rocchi
+        <br>Alessandro Rocchi
         <br>Clemson University</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Anissa_Waller_Del_Valle.jpg' | absolute_url}}" />
@@ -733,7 +733,7 @@ div.logowrapper {
         <br>University of Georgia</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/David_DaSilva_Pires.jpeg' | absolute_url}}" />
-        <br>David DaSilva Pires
+        <br>David Da Silva Pires
         <br>Butantan Institute</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Debora_Karolla.jpg' | absolute_url}}" />
@@ -764,7 +764,7 @@ div.logowrapper {
         <br>Juan David Hernanez
         <br>University of Georgia</div>
       <div>
-        <img src="{{'/documents/2024athens/Photos/Nino_Laurel.jpg' | absolute_url}}" />
+        <img src="{{'/documents/2024athens/Photos/Nino_Laurel.png' | absolute_url}}" />
         <br>Nino Laurel
         <br>University of Georgia</div>
       <div>
@@ -785,10 +785,10 @@ div.logowrapper {
         <br>University of Notre Dame</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Raihan_Rahman.jpeg' | absolute_url}}" />
-        <br>Raihan_Rahman
+        <br>Raihan Rahman
         <br>Washington State University</div>
       <div>
-        <img src="{{'/documents/2024athens/Photos/Sarah_Reilly.jpeg' | absolute_url}}" />
+        <img src="{{'/documents/2024athens/Photos/Sarah_Reilly.png' | absolute_url}}" />
         <br>Sarah Reilly
         <br>University of Pittsburgh</div>
       <div>
@@ -808,7 +808,7 @@ div.logowrapper {
         <br>Viktoriya Levytska
         <br>Biology Centre CAS, Institute of Parasitology</div>
       <div>
-        <img src="{{'/documents/2023athens/Photos/Yin_Wang.jpg' | absolute_url}}" />
+        <img src="{{'/documents/2024athens/Photos/Yin_Wang.jpg' | absolute_url}}" />
         <br>Yin Wang
         <br>University of Georgia</div>
     </div>
