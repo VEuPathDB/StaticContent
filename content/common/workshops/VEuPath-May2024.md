@@ -733,6 +733,10 @@ div.logowrapper {
         <br>Betsy Wenthe
         <br>University of Georgia</div>
       <div>
+        <img src="{{'/documents/2024athens/Photos/Chris_Turlo.jpeg' | absolute_url}}" />
+        <br>Chris Turlo
+        <br>University of Notre Dame</div>
+      <div>
         <img src="{{'/documents/2024athens/Photos/David_DaSilva_Pires.jpg' | absolute_url}}" />
         <br>David Da Silva Pires
         <br>Butantan Institute</div>
