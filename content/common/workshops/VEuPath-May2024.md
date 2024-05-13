@@ -575,27 +575,17 @@ div.logowrapper {
           </tr>
           <tr>
             <td>12 pm<br>
-                Life Sciences C128</td>
-            <td>Host-Pathogen Interactions (Lecture)</td>
-            <td>Nupur Kittur</td>
-            <td><!--<a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/12_Orthology-Phyletic-Patterns_UGA23.pdf' | absolute_url}}"><b>Orthology Exercise</b></a>--></td>
-          </tr>
-          <tr>
-            <td>12:15 pm<br>
                 Life Sciences B116</td>
             <td>Lunch provided</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>1:15 pm<br>
+            <td>1 pm<br>
                 Life Sciences C128</td>
-            <td>Exploring HostDB and WGCNA exercise</td>
+            <td>Host-Pathogen Interactions and WGCNA </td>
             <td>Nupur Kittur</td>
-            <td><!--<a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/13_HostDB_UGA23.pdf' | absolute_url}}"><b>Exploring HostDB</b></a>
-            <br><br>
-            <a  target="_blank" href="https://www.nature.com/articles/nrmicro2852"><b>Dual RNA-seq of pathogen and host. Westermann et al. 2012</b></a>-->          
-            </td>
+            <td><!--<a  target="_blank" href="{{'/documents/2023athens/Day3_Exercises/12_Orthology-Phyletic-Patterns_UGA23.pdf' | absolute_url}}"><b>Orthology Exercise</b></a>--></td>
           </tr>
           <tr>
             <td>2:45 pm<br>
