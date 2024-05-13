@@ -277,8 +277,8 @@ div.logowrapper {
                 Coverdell 175</td>
             <td>Crash course in Omics</td>
             <td>Jessic Kissinger</td>
-            <td><b><a href="/a/documents/2024athens/Exercises_and_documents/VEuPathDB_Omics_2024.pdf" target="_blank">Lecture Slides</a></b></td>
-          </tr>          
+            <td><b><a target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/VEuPathDB_Omics_2024.pdf' | absolute_url}}" >Lecture Slides</a></b></td>
+          </tr> 
           <tr>
             <td>5:45 pm<br>
                 Coverdell 175</td>
