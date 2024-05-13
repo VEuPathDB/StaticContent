@@ -761,8 +761,12 @@ div.logowrapper {
         <br>University of Georgia </div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Juan_David_Hernanez.jpg' | absolute_url}}" />
-        <br>Juan David Hernanez
+        <br>Juan David Hernandez
         <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Kendall_Reidenbach.jpeg' | absolute_url}}" />
+        <br>Kendall Reidenbach
+        <br>University of New Hampshire</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Nino_Laurel.png' | absolute_url}}" />
         <br>Nino Laurel
@@ -775,6 +779,10 @@ div.logowrapper {
         <img src="{{'/documents/2024athens/Photos/Olatunbosun_Aringbangba.jpg' | absolute_url}}" />
         <br>Olatunbosun Aringbangba
         <br>University of South Florida</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Olufemi_Akinkuotu.png' | absolute_url}}" />
+        <br>Olufemi_Akinkuotu
+        <br>University of Pennsylvania</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Omar_Harb.jpeg' | absolute_url}}" />
         <br>Omar Harb, instructor
