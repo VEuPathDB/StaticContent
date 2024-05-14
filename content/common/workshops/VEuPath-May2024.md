@@ -341,12 +341,11 @@ div.logowrapper {
           <tr>
             <td>9:00 am<br>
                 Life Sciences C128</td>
-            <td>Site Search exercise<br>
-                Gene Page exercise</td>
+            <td>Site Search and Gene Pages</td>
             <td>Nupur Kittur</td>
-            <td>
-            <!--<a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/Site_Search_UGA2024.pdf' | absolute_url}}"><b>Site Search</b></a><br><br>  
-            <a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/Gene_Page_UGA2024.pdf' | absolute_url}}"><b>Exploring the Gene Page</b></a>--></td>
+            <td><a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/Site_Search_UGA2024.pdf' | absolute_url}}"><b>Site Search</b></a><br><br>  
+            <a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/Gene_Page_UGA2024.pdf' | absolute_url}}"><b>Exploring the Gene Page</b></a><br><br> 
+            <a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/SiteSearch_GenePage_intro.pdf' | absolute_url}}"><b>Exploring the Gene Page</b></a></td>
           </tr>
           <tr>
             <td>10:30 am<br>
