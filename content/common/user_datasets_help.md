@@ -82,12 +82,12 @@ div.UserDatasetHelp img {
     This feature is offered in preparation to provide gene set functionality such as gene set enrichment analysis. 
     <ul>
       <li>Open the New Upload tab in your My Data Sets workspace. </li>
-      <li>The file containing gene IDs needs to contain valid IDs separated by valid delimiters. 
-          \nValid gene IDs: 
+      <li>Choose file:  the file containing gene IDs needs to contain valid IDs separated by valid delimiters. 
+          <br>Valid gene IDs: 
           <ul>
-            <li>ID regex: [a-zA-Z0-9().:_-]*$</li>
-            <li>ID has at least one alphabetical character.</li>
-            <li>ID is at most 40 characters</li>
+            <li>each gene ID includes only these charatacers : regex: [a-zA-Z0-9().:_-]*$</li>
+            <li>each gene ID has at least one alphabetical character.</li>
+            <li>each gene ID is at most 40 characters</li>
          </ul>
          Valid delimiters:
          <ul>
