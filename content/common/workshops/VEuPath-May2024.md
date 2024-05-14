@@ -345,7 +345,7 @@ div.logowrapper {
             <td>Nupur Kittur</td>
             <td><a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/Site_Search_UGA2024.pdf' | absolute_url}}"><b>Site Search</b></a><br><br>  
             <a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/Gene_Page_UGA2024.pdf' | absolute_url}}"><b>Exploring the Gene Page</b></a><br><br> 
-            <a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/SiteSearch_GenePage_intro.pdf' | absolute_url}}"><b>Exploring the Gene Page</b></a></td>
+            <a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/SiteSearch_GenePage_intro.pdf' | absolute_url}}"><b>Slides</b></a></td>
           </tr>
           <tr>
             <td>10:30 am<br>
