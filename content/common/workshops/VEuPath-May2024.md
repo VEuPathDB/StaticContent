@@ -373,7 +373,7 @@ div.logowrapper {
                 Life Sciences C128</td>
             <td>JBrowse Basics</td>
             <td>Jessica Kissinger</td>
-            <td><!--<a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/4_JBrowseBasics_UGA23.pdf' | absolute_url}}"><b>JBrowse Basics</b></a>--></td>
+            <td><a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/JBrowseBasics_UGA24.pdf | absolute_url}}"><b>JBrowse Basics</b></a></td>
           </tr>
           <tr>
             <td>2:15 pm<br>
