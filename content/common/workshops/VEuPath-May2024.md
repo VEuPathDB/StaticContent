@@ -394,7 +394,7 @@ div.logowrapper {
                 Life Sciences C128</td>
             <td>Leveraging omics data to explore gene models in JBrowse group exercise</td>
             <td></td>
-            <td><a  target="_blank" href="{{'documents/2024athens/Exercises_and_documents/Exploring_gene_models_JBrowse_UGA24.pdf | absolute_url}}"><b>Leveraging Omics Data to Evaluate Gene Models</b></a></td>
+            <td><a  target="_blank" href="{{'documents/2024athens/Exercises_and_documents/Exploring_gene_models_JBrowse_UGA24.pdf' | absolute_url}}"><b>Leveraging Omics Data to Evaluate Gene Models</b></a></td>
           </tr>
           <tr>
             <td>4:45 pm<br>
