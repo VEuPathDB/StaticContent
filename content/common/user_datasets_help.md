@@ -82,7 +82,21 @@ div.UserDatasetHelp img {
     This feature is offered in preparation to provide gene set functionality such as gene set enrichment analysis. 
     <ul>
       <li>Open the New Upload tab in your My Data Sets workspace. </li>
-      <li>Choose My Data Sets.  This initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.</li>
+      <li>The file containing gene IDs needs to contain valid IDs separated by valid delimiters. 
+          \nValid gene IDs: 
+          <ul>
+            <li>ID regex: [a-zA-Z0-9().:_-]*$</li>
+            <li>ID has at least one alphabetical character.</li>
+            <li>ID is at most 40 characters</li>
+         </ul>
+         Valid delimiters:
+         <ul>
+            <li>white space (newline, space, tab)</li>
+            <li>comma</li>
+            <li>semi-colon</li>
+         </ul>
+      </li>
+      <li>Upload My Data Set.  This initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.</li>
       <li>Open the new data set record for more details about the files and options to download the gene list.  </li>
     </ul>
    <br><hr>
