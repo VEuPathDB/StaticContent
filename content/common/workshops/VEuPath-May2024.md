@@ -401,8 +401,8 @@ div.logowrapper {
                 Life Sciences C128</td>
             <td>Orthology and Ontology</td>
             <td>Jessica Kissinger</td>
-            <td><!--<a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/Orthology_and_Ontology_May2024.pdf'  | absolute_url}}"><b>Orthology and Ontology</b></a>-->
-            <br><br><!--
+            <td><a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/Orthology_and_Ontology_May2024.pdf'  | absolute_url}}"><b>Orthology and Ontology</b></a><!--
+            <br><br>
             <a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/RegularExpression_Harb.pdf' | absolute_url}}"<b>Motifs and Domains RegEx Lecture Slides</b></a>--></td>
           </tr>
           <tr>
