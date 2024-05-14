@@ -336,7 +336,7 @@ div.logowrapper {
                 Life Sciences C128</td>
             <td>VEuPathDB Overview Lecture </td>
             <td>Susanne Warrenfeltz</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/VEuPathDB_overview.pdf' | absolute_url}}"><b>Overview Slides</b></a></td>
           </tr>
           <tr>
             <td>9:00 am<br>
