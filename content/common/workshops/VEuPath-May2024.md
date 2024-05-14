@@ -360,7 +360,7 @@ div.logowrapper {
                 Life Sciences C128</td>
             <td>Strategies 1 exercise </td>
             <td>Susanne Warrenfeltz</td>
-            <td><!--<a  target="_blank" href="{{'/documents/2023athens/Day1_Exercises/3_Strategies_basic_SHORT_UGA23.pdf' | absolute_url}}"><b>Strategies 1</b></a>--></td>
+            <td><!--<a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/SearchStrategies_May_2024.pdf' | absolute_url}}"><b>Strategies 1</b></a>--></td>
           </tr>
           <tr>
             <td>12:15 pm<br>
