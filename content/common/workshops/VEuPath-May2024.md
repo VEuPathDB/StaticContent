@@ -153,7 +153,7 @@ div.logowrapper {
     <p><h4>Location: <a href="https://www.google.com/maps/place/University+of+Georgia/@33.9480097,-83.3795108,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6136038fba6bf:0xdf849d68bb40ef74!8m2!3d33.9480053!4d-83.3773221">The University of Georgia</a>, Athens Georgia 30602 USA.</h4></p>           
     <p><h4><b>Registration, housing, and most meals during the workshop are free.  Attendees are expected to pay their own travel expenses, some evening meals, and housing for extended stays.</b> </h4></p>   
     <p><h4><b><a href="#Schedule">Schedule</a></b></h4></p>
-    <p><h4><b><a  target="_blank" href="{{'/documents/2024athens/Restaurants_UGA.pdf' | absolute_url}}"><b>Restaurants in walking distance</b></a></h4></p>
+    <p><h4><b><a  target="_blank" href="{{'/documents/2024athens/Restaurants_UGA.pdf' | absolute_url}}">Restaurants in walking distance</a></b></h4></p>
     <p><h4>Memorial Park has a small zoo, pond and walking trails. <b><a target="_blank" href="https://maps.app.goo.gl/UQUBGkYHQ2FExv2R8">Google Maps</a></b></h4></p>
   </div>
   
