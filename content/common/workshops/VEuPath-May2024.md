@@ -154,6 +154,7 @@ div.logowrapper {
     <p><h4><b>Registration, housing, and most meals during the workshop are free.  Attendees are expected to pay their own travel expenses, some evening meals, and housing for extended stays.</b> </h4></p>   
     <p><h4><b><a href="#Schedule">Schedule</a></b></h4></p>
     <p><h4><b><a  target="_blank" href="{{'/documents/2024athens/Restaurants_UGA.pdf' | absolute_url}}"><b>Restaurants in walking distance</b></a></b></h4></p>
+    <p><h4><b><a  target="_blank" href="https://maps.app.goo.gl/voJwHex388xd9QVF8"><b>Memorial Park (small zoo, pond and walking trails</b></a></b></h4></p>
   </div>
   
 
