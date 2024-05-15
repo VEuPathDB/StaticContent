@@ -448,7 +448,7 @@ div.logowrapper {
                 Life Sciences C128</td>
             <td>Expression searches</td>
             <td>Susanne Warrenfeltz</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/ExpressionSearches_May_2024.pdf' | absolute_url}}"><b>Expression Searches</b></a></td>
           </tr>
           <tr>
             <td>10:15 am<br>
