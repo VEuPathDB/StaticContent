@@ -505,7 +505,7 @@ div.logowrapper {
             <td>Galaxy RNA Seq analysis - data import</td>
             <td>Omar Harb</td>
             <td><a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/RNAseq_Mapping_Galaxy_part1_UGA24.pdf' | absolute_url}}"><b>Import data and start Galaxy workflow</b></a><br><br>
-            <a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/Galaxy_RNAseq_groups_UGA24.pdf' | absolute_url}}"><b>RNASeq Groups</b></a></td>
+            <a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/Galaxy_RNAseq_groups_UGA24.pdf' | absolute_url}}"><b>RNASeq Data and working groups</b></a></td>
           </tr>
           <tr>
             <td>3:00 pm<br>
