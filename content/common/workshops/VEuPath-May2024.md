@@ -462,14 +462,14 @@ div.logowrapper {
                 Life Sciences C128</td>
             <td>Single-cell RNA Seq lecture</td>
             <td>Omar Harb</td>
-            <td><!--<a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/scRNAseq_Harb.pdf'| absolute_url}}"><b>scRNASeq Lecture Slides</b></a>--></td>
+            <td><!--<a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/scRNAseq_Harb.pdf' | absolute_url}}"><b>scRNASeq Lecture Slides</b></a>--></td>
           </tr>
           <tr>
             <td>10:50 am<br>
                 Life Sciences C128</td>
             <td>Single-cell RNA Seq exercise</td>
             <td></td>
-            <td><!--<a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/9_scRNAseq_UGA23.docx.pdf' | absolute_url}}"><b>Single Cell Exercise</b></a>--></td>
+            <td><a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/scRNAseq_UGA24.pdf' | absolute_url}}"><b>Single Cell RNA-Seq Exercise</b></a></td>
           </tr>
           <tr>
             <td>12:00 pm<br>
