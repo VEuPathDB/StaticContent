@@ -505,8 +505,8 @@ div.logowrapper {
                 Life Sciences C128</td>
             <td>Galaxy RNA Seq analysis - data import</td>
             <td>Omar Harb</td>
-            <td><a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/RNAseq_Mapping_Galaxy_part1_UGA24.pdf' | absolute_url}}"><b>Import data and start Galaxy workflow</b></a><br><br>
-            <a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/Galaxy_RNAseq_groups_UGA24.pdf' | absolute_url}}"><b>RNASeq Data and working groups</b></a></td>
+            <td><a target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/RNAseq_Mapping_Galaxy_part1_UGA24.pdf' | absolute_url}}"><b>Import data and start Galaxy workflow</b></a><br><br>
+            <a target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/Galaxy_RNAseq_groups_UGA24.pdf' | absolute_url}}"><b>RNASeq Data and working groups</b></a></td>
           </tr>
           <tr>
             <td>3:00 pm<br>
@@ -520,7 +520,7 @@ div.logowrapper {
                 Life Sciences C128</td>
             <td>Adjourn</td>
             <td></td>
-            <td><!--<a target="_blank" href="{{'/documents/2023athens/Day2_Exercises/GO_Term_Presentation_Harb.pdf' | absolute_url}}"><b>GO Term Lecture slides</b></a>--></td>
+            <td></td>
          </tr> 
        </tbody>
       </table>
@@ -557,7 +557,7 @@ div.logowrapper {
                 Life Sciences C128</td>
             <td>Galaxy: review results</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/RNAseq_Mapping_Galaxy_part2_UGA24.pdf' | absolute_url}}"><b>Review workflow results</b></a></td>
           </tr>
           <tr>
             <td>10:30 am<br>
