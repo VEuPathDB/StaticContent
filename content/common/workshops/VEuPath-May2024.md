@@ -484,7 +484,7 @@ div.logowrapper {
                 Life Sciences C128</td>
             <td>RNA-Seq basics lecture</td>
             <td>Omar Harb</td>
-            <td><!--<a  target="_blank" href="{{'/documents/2023athens/Day2_Exercises/VEuPathDB_RNAseq_lecture_harb.pdf' | absolute_url}}"><b>Bulk-RNA Seq Lecture Slides</b></a>--></td>
+            <td><a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/VEuPathDB_RNAseq_lecture_harb.pdf' | absolute_url}}"><b>RNA Seq Lecture Slides</b></a></td>
           </tr>
           <tr>
             <td>1:45 pm<br>
@@ -571,7 +571,7 @@ div.logowrapper {
                 Life Sciences C128</td>
             <td>Motifs and Domains</td>
             <td>Omar Harb</td>
-            <td></td>
+            <td><a  target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/Motifs_UGA24.pdf' | absolute_url}}"><b>Motifs and Domains exercise</b></a></td>
           </tr>
           <tr>
             <td>12 pm<br>
