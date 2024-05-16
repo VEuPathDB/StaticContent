@@ -587,7 +587,7 @@ div.logowrapper {
             <td>Nupur Kittur</td>
             <td><a target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/Host_response_UGA2024.pdf' | absolute_url}}"><b>Host response in HostDB exercise</b></a><br><br>
             <a target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/HPI_WGCNA_UGA2024.pdf' | absolute_url}}"><b>WGCNA and the Study Explorer</b></a><br><br>
-            <a target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/WCGNA_intro_demo_UGA_workshop_10m' | absolute_url}}"><b>WGCNA and the Study Explorer slides</b></a>
+            <a target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/WCGNA_intro_demo_UGA_workshop_10m.pdf' | absolute_url}}"><b>WGCNA and the Study Explorer slides</b></a>
             </td>
           </tr>
           <tr>
