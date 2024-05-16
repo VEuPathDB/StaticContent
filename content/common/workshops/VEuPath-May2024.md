@@ -708,7 +708,19 @@ div.logowrapper {
   <div class="anchor"><a name="Directory"></a></div>
   <details closed>
     <summary><b>Directory</b> </summary>  
-    <div class="photowrapper">      
+    <div class="photowrapper">
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Everyone_1.jpg' | absolute_url}}" />
+        <br>Everyone A
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Everyone_2.jpg' | absolute_url}}" />
+        <br>Everyone B
+        <br>University of Georgia</div>
+      <div>
+        <img src="{{'/documents/2024athens/Photos/Everyone_3.jpg' | absolute_url}}" />
+        <br>Everyone C
+        <br>University of Georgia</div>
       <div>
         <img src="{{'/documents/2024athens/Photos/Alessandro_Rocchi.jpg' | absolute_url}}" />
         <br>Alessandro Rocchi
