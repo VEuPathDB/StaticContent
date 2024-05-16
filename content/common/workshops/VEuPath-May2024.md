@@ -557,7 +557,7 @@ div.logowrapper {
                 Life Sciences C128</td>
             <td>Galaxy: review results</td>
             <td>Omar Harb</td>
-            <td><a target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/RNAseq_Mapping_Galaxy_part2_UGA24.pdf' | absolute_url}}"><b>Review workflow results</b></a></td>
+            <td><a target="_blank" href="{{'/documents/2024athens/Exercises_and_documents/RNAseq_Mapping_Galaxy_part2_UGA24.pdf' | absolute_url}}"><b>Review Galaxy workflow results</b></a></td>
           </tr>
           <tr>
             <td>10:30 am<br>
