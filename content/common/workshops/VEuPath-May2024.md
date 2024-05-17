@@ -667,7 +667,7 @@ div.logowrapper {
                 Life Sciences C128</td>
             <td>Wrap up and survey</td>
             <td></td>
-            <td></td>
+            <td><a href="https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_3mGIaU3BI33rcA6">Workshop Survey</a>  </td>
           </tr>
           <tr>
             <td>12 p<br>
