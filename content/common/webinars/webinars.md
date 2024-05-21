@@ -31,14 +31,14 @@ tags: [general]
 
   <h3>Upcoming</h3>
   <div class="contents">   
-
+<!--
   <div class="anchor"><a name="release68"></a></div>
   <div class="webinar">
   <b>Topic:</b> Release 68 Webinar<br>
   <b>Date:</b> May 23rd, 2024<br>
   <b>Time:</b> 10AM US Eastern Time<br>
   <b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/362861265556682325" target="_blank">https://attendee.gotowebinar.com/register/362861265556682325</a><br>
-  <b>Details:</b> This webinar will focus on what is new in Release 68 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
+  <b>Details:</b> This webinar will focus on what is new in Release 68 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions. -->
   </div>  
 
   <!-- 
