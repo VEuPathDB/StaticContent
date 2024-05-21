@@ -31,6 +31,7 @@ tags: [general]
 
   <h3>Upcoming</h3>
   <div class="contents">   
+  There are no currently scheduled webinars.  Please check back later for more information. 
 <!--
   <div class="anchor"><a name="release68"></a></div>
   <div class="webinar">
