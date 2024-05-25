@@ -1,0 +1,219 @@
+animal,id,age,sex,toxoDB_genotype,carnivore_toxoDB_genotype,sea_otter_toxoDB_genotype,latitude,longitude,sea_otter_toxo_cause_of_death,sea_otter_year,so_B1_MLST,so_L358_MLST,so_PK1_MLST,so_SAG1_MLST,so_BTUB_MLST,so_GRA6_MLST,so_loci_num,sea_otter_location,carnivore_predom_habitat,carnivore_type,carnivore_year,carnivore_cause_of_death,carnivore_toxo_titer,carnivore_toxo320,carnivore_toxo160,carnivore_sarco_titer,carnivore_neo_titer,carnivore_FIV,carnivore_FeLV,carnivore_b1_genotype
+seaotter,2787-02,Adult,Female,Genotype 1,NA,Genotype 1,36.609768,-121.86615,No,2002,II/III,II,II,II/III,II,II,6,"Del Monte Beach, Monterey Beach Hotel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3005-98,Adult,Male,Genotype 1,NA,Genotype 1,35.091873,-120.636108,No,1998,II/III,II,faint band,NA,II,NA,3,Pismo Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3045-98,Adult,Female,Genotype 5,NA,Genotype 5,35.440735,-120.904808,No,1998,X,I/X,X,X,X,X,6,Cayucos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3077-98,Adult,Male,Genotype 5,NA,Genotype 5,37.229698,-122.417137,No,1998,X,I/X,X,X,X,X,6,Bean Hollow,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3087-98,Adult,Female,Genotype 1,NA,Genotype 1,36.605328,-121.884392,No,1998,II/III,II,II,II/III,II,II,6,Monterey Harbor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3097-98,Adult,Male,Genotype 5,NA,Genotype 5,37.486206,-122.464066,Primary,1998,Xvar,I/X,X,X,X,X,6,San Mateo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3160-99,Adult,Male,Genotype 5,NA,Genotype 5,35.070126,-120.636475,No,1999,X,I/X,X,X,X,NA,5,Pismo Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3182-99,Adult,Male,Genotype 1,NA,Genotype 1,36.817005,-121.798737,No,1999,II/III,II,II,II/III,II,II,6,Moss Landing State Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3208-99,Adult,Male,Genotype 1,NA,Genotype 1,36.669476,-121.82193,No,1999,II/III,II,II,II/III,II,II,6,Monterey side of Monterey Bay from a gill net,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3234-99,Adult,Male,Genotype 5,NA,Genotype 5,35.29393,-120.888329,Contributing,1999,X,I/X,faint band,X,faint band,X,4,Montana de Oro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3265-99,Adult,Female,Genotype 5,NA,Genotype 5,36.556206,-121.935402,No,1999,Xvar,I/X,X,X,X,X,6,Carmel Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3287-99,Adult,Female,Genotype 5,NA,Genotype 5,36.552433,-121.934959,No,1999,faint band,I/X,IIvar,X,X,X,5,"Carmel Beach, 26330 Scenic Avenue, Carmel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3298-99,Adult,Female,Genotype 5,NA,Genotype 5,36.556206,-121.935402,No,1999,Xvar,I/X,X,X,X,X,6,Carmel Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3458-01,Adult,Female,Genotype 5,NA,Genotype 5,36.56184,-121.947144,Primary,2001,X ,I/X,II var,X,X,X,6,Stillwater Cove,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3483-01,Adult,Female,Genotype 5,NA,Genotype 5,35.395889,-120.872665,No,2001,X ,I/X,II var,X,X,X,6,Morro Strand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3508-01,Adult,Male,Genotype 5,NA,Genotype 5,35.365318,-120.870735,No,2001,Xvar,I/X,X,X,X,X,6,Morro Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3521-01,Adult,Male,Genotype 1,NA,Genotype 1,36.793613,-121.797272,Contributing,2001,II/III,II,II,II/III,II,II,6,Salinas River Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3587-01**,Adult,Male,Genotype 1,NA,Genotype 1,36.953899,-121.906197,Contributing,2001,X ,II,II,II/III,II,II,6,Rio Del Mar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3636-01,Adult,Male,Genotype 1,NA,Genotype 1,36.603729,-121.87925,No,2001,II/III,II,II,II/III,II,II,6,Del Monte Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3637-01,Adult,Female,Genotype 5,NA,Genotype 5,35.100487,-120.636566,NA,2002,Xvar,X,X,X,X,X,6,Oceana Dunes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3659-02,Adult,Female,Genotype 5,NA,Genotype 5,36.607788,-121.870453,No,2002,Xvar,I/X,X,X,X,X,6,Del Monte Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3675-02,Adult,Female,Genotype 1,NA,Genotype 1,36.524994,-121.934273,Contributing,2002,poor,II,II,NA,II,II,1,Pt. Lobos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3739-02,Adult,Male,Genotype 5,NA,Genotype 5,36.950115,-121.987083,No,2002,X ,NA,NA,NA,NA,NA,1,26th Avenue Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3744-02,Adult,Female,Genotype 5,NA,Genotype 5,35.109142,-120.637634,No,2002,Xvar,I/X,X,X,X,X,6,Pismo Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3786-02,Adult,Male,Genotype 5,NA,Genotype 5,37.113056,-122.338448,No,2002,X ,I/X,II var,X,X,X,6,Ano Nuevo Island,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3814-02,Adult,Female,Genotype 5,NA,Genotype 5,36.78207,-121.802292,NA,2002,Xvar,I/X,X,X,X,X,6,Salinas River Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3819-02,Adult,Female,Genotype 5,NA,Genotype 5,35.637707,-121.185799,NA,2002,X ,I/X,X,X,X,X,6,San Simeon Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3821-03,Adult,Male,Genotype 5,NA,Genotype 5,35.117466,-120.639229,Contributing,2003,X ,I/X,X,X,X,X,6,Pismo Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3825-03,Adult,Male,Genotype 5,NA,Genotype 5,36.963867,-121.929237,No,2003,X,I/X,II var,X,X,X,6,Seacliff State Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3865-03,Adult,Female,Genotype 5,NA,Genotype 5,36.538338,-121.933876,No,2003,Xvar,I/X,X,X,X,X,6,Carmel River State Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3874-03,Adult,Male,Genotype 5,NA,Genotype 5,36.813427,-121.796043,No,2003,X,I/X,X ,X,X,X,6,Moss Landing State Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3882-03,Adult,Male,Genotype 5,NA,Genotype 5,36.961563,-121.944649,No,2003,Xvar,I/X,X,X,X,X,6,New Brighton State Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3897-03,Adult,Female,Genotype 5,NA,Genotype 5,36.524994,-121.934273,No,2003,X,I/X,II var,X,X,X,6,Pt. Lobos State Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3901-03,Adult,Female,Genotype 5,NA,Genotype 5,35.404404,-120.875572,No,2003,X,I/X,II var,X,X,X,6,"Morro Strand Beach, South end of camp ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3936-03,Adult,Male,Genotype 5,NA,Genotype 5,36.823879,-121.804153,Contributing,2003,X,I/X,II var,X,X,X,6,Moss Landing State Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3947-03,Adult,Female,Genotype 5,NA,Genotype 5,36.238823,-121.822395,No,2003,X,I/X,X ,X,X,X,6,Pfeiffer Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3992-03,Adult,Male,Genotype 5,NA,Genotype 5,35.391983,-120.87159,No,2003,X,I/X,X ,X,X,X,6,Morro Strand Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4003-03,Adult,Female,Genotype 5,NA,Genotype 5,35.58279,-121.125465,No,2003,Xvar,I/X,X ,X,X,X,6,Cambria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4028-03,Adult,Female,Genotype 5,NA,Genotype 5,36.607788,-121.870453,NA,2003,X,I/X,X ,X,X,NA,5,Monterey Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4045-03,Adult,Male,Genotype 5,NA,Genotype 5,36.953945,-122.008156,No,2003,Xvar,I/X,II var,X,X,X,6,Seabright Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4071-03,Adult,Female,Genotype 5,NA,Genotype 5,35.44236,-120.909416,No,2003,X ,I/X,NA,X,X,X,5,"Cayucos, just north of ""E"" Street",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4139-04,Adult,Female,Genotype 5,NA,Genotype 5,36.919655,-121.866302,No,2004,faint band,I/X,II var,X,X,X,5,Monterey Bay Academy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4140-04,Adult,Female,Genotype 1,NA,Genotype 1,36.919655,-121.866302,No,2004,II/III,II,II,II/III,II,II,6,"Hidden beach, Aptos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4167-04,Adult,Male,Genotype 5,NA,Genotype 5,35.383099,-120.870682,Primary,2004,X,I/X,X ,X,X,X,6,"Morro Strand Beach, Morro Creek, just N of Morro Rock",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4178-04,Adult,Male,Genotype 5,NA,Genotype 5,34.453712,-120.364647,Primary,2004,Xvar,I/X,X ,X,X,X,6,"San Agustine Creek, Hollister Ranch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4183-04,Adult,Male,Genotype 5,NA,Genotype 5,35.130062,-120.644089,No,2004,X,I/X,X ,X,X,X,6,"Pismo Beach, 1/4 mile north of Grande Ave.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4294-04,Adult,Female,Genotype 1,NA,Genotype 1,36.953945,-122.008156,NA,2004,II/III,NA,NA,II/III,II,II,4,Santa Cruz Harbor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4295-04,Adult,Male,Genotype 5,NA,Genotype 5,35.134155,-120.646416,Contributing,2004,X,I/X,X,X,X,NA,5,"Pismo Beach, just north of grand avenue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4311-04,Adult,Female,Genotype 5,NA,Genotype 5,35.365318,-120.870735,Primary,2004,X,I/X,X,X,X,NA,5,"Morro Bay, Inside Morro Bay near Harbor Hut",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4318-04,Adult,Male,Genotype 5,NA,Genotype 5,36.959274,-121.914276,No,2004,X,X,poor,X,X,X,5,Btwn Rio Del Mar and Manresa State Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4379-05,Adult,Male,Genotype 5,NA,Genotype 5,36.801327,-121.792946,No,2005,X,X,X,X,X,X,6,"Salinas River Beach, in front of Moss Landing Marine Lab",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4388-05,Adult,Male,Genotype 1,NA,Genotype 1,36.693069,-121.814598,No,2005,II/III,II,poor,II/III,II,,5,"Marina State Beach, 1 mile south Reservation Road",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4408-05,Adult,Female,Genotype 5,NA,Genotype 5,36.621803,-121.899658,Primary,2005,X,I/X,II var,X,X,X,6,"Berwick Park, 100 meters off shore",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4429-05,Adult,Male,Genotype 5,NA,Genotype 5,36.932293,-121.880531,No,2005,Xvar,I/X,X ,X,X,X,6,"La Selva Beach, 1/2 mile north of Manresa State Beach",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4430-05,Adult,Female,Genotype 1,NA,Genotype 1,35.070126,-120.636475,No,2005,II/III,II,NA,II/III,II,II,5,"Pismo Beach, between post 5 and 6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4457-05,Adult,Male,Genotype 5,NA,Genotype 5,35.387493,-120.871017,No,2005,Xvar,I/X,X,X,X,X,6,"Morro Strand Beach, 3/4 mile north of Morro Creek",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4628-05,Adult,Male,Genotype 5,NA,Genotype 5,37.12925,-122.339088,No,2005,X,I/X,X,X,X,X,6,"Ano Nuevo Beach, N end Ano Reserve",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4630-05,Adult,Male,Genotype 5,NA,Genotype 5,35.091873,-120.636108,No,2005,X,I/X,X ,X,X,X,6,"Pismo Beach, B/w posts 2 and 3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4633-05,Adult,Female,Genotype 5,NA,Genotype 5,36.601963,-121.964569,NA,2005,X,X,NA,poor,X,X,3,Between Bird Rock and China Rock,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4649-06,Adult,Male,Genotype 1,NA,Genotype 1,36.612564,-121.861801,No,2006,II/III,II,NA,II/III var,II,II,5,Del Monte Beach (near cross),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4660-06,Adult,Male,Genotype 5,NA,Genotype 5,35.12603,-120.642128,No,2006,Xvar,I/X,X ,X,X,X,6,Pismo Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4678-06,Adult,Female,Genotype 5,NA,Genotype 5,35.440735,-120.904808,No,2006,X,I/X,X ,X,X,X,6,Cayucos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4705-06,Adult,Female,Genotype 5,NA,Genotype 5,36.932293,-121.880531,No,2006,X,I/X,II var,X,X,X,6,La Selva Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4732-06,Adult,Male,Genotype 1,NA,Genotype 1,36.961533,-121.919098,No,2006,II,II,poor,II/III,II,II,5,Rio Del Mar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4742-06,Adult,Male,Genotype 5,NA,Genotype 5,36.730579,-121.813126,No,2006,Xvar,I/X,X var,X,X,X,6,Marina State Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4748-06,Adult,Female,Genotype 5,NA,Genotype 5,36.926174,-121.873077,No,2006,X,I/X,II var,X,X,X,6,"Manresa State Beach, in front of condos @ 300 Ocean",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4751-06,Adult,Male,Genotype 5,NA,Genotype 5,36.805351,-121.79232,No,2006,X,I/X,X,NA,X,X,5,Salinas River Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4772-06,Adult,Female,Genotype 1,NA,Genotype 1,36.947559,-122.020996,No,2006,II/III,II,poor,II/III,poor,II,4,Santa Cruz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4795-06,Adult,Female,Genotype 1,NA,Genotype 1,37.116714,-122.341072,NA,2006,II/III,II,II var,II/III,II,II,6,Ano Nuevo Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4818-06,Adult,Female,Genotype 4,NA,Genotype 4,36.953945,-122.008156,No,2006,II/III,I/X,II,II/III,II,II,6,"Santa Cruz, b/w 5th and 6th streets",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4834-06,Adult,Male,Genotype 5,NA,Genotype 5,36.953945,-122.008156,No,2006,Xvar,I/X,X ,X,X,X,6,"Santa Cruz Harbor, Santa Cruz N harbor-Dock V",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4842-06,Adult,Male,Genotype 5,NA,Genotype 5,35.427841,-120.889549,Contributing,2006,X,I/X,II var - R only,X,X,X,6,"Cayucos, Just South of Willow Circle at El Sereno Access",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4870-06,Adult,Male,Genotype 5,NA,Genotype 5,35.164268,-120.74733,Contributing,2006,X,I/X,II var,X,X,X,6,Port San Luis Harbor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4899-06,Adult,Male,Genotype 5,NA,Genotype 5,35.400425,-120.874199,No,2006,X,I/X,poor,X,X,X,5,Morro Strand State Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4924-07,Adult,Male,Genotype 5,NA,Genotype 5,35.074196,-120.636368,No,2007,Xvar,I/X,failed,X,X,X,5,Pismo Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4932-07,Adult,Male,Genotype 5,NA,Genotype 5,35.37846,-120.8703,Contributing,2007,Xvar,I/X,II var,X,X,X,6,Morro Rock,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4971-07,Adult,Male,Genotype 5,NA,Genotype 5,35.039665,-120.639999,Contributing,2007,X,I/X,failed,X,X,X,5,"Pismo Beach, Pismo Beach - Oso Flaco",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4983-07,Adult,Female,Genotype 5,NA,Genotype 5,35.365318,-120.870735,No,2007,Xvar,I/X,II var,X,X,X,6,"Morro Bay, Inside Morro Bay@ the boat yard docks",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,5001-07,Adult,Male,Genotype 5,NA,Genotype 5,36.944168,-122.063171,No,2007,Xvar,I/X,poor,X,NA,X,4,"Natural Bridges State Beach, Natural Bridges State Beach",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,5006-07,Adult,Female,Genotype 5,NA,Genotype 5,35.437447,-120.901405,No,2007,X,I/X,IIvar,X,X,X,6,"Cayucos, Cayucos @ 12th Street",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,5278-08,Adult,Female,Genotype 1,NA,Genotype 1,36.809654,-121.793907,No,2008,II/III,II,II,II/III,II,II,6,"Moss Landing Harbor, North Harbor Boat Launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,5392-08,Adult,Female,Genotype 5,NA,Genotype 5,36.607788,-121.870453,No,2008,X,I/X,II var,poor,poor,X,4,Del Monte Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,5417-08,Adult,Female,Genotype 5,NA,Genotype 5,37.047852,-122.242622,No,2008,Xvar,I/X,X,X,poor,X,5,1 mile North of Scotts Creek Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,5418-08,Adult,Male,Genotype 5,NA,Genotype 5,36.809654,-121.793907,No,2008,X,I/X,II var,X,poor,X,5,Moss Landing - Elkhorn Yacht Club,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,7430-15,Adult,Female,Genotype 5,NA,Genotype 5,35.441872,-120.914833,NA,2015,X,I/X,X,X,poor,X,5,Cayucos ~300 m south of pier,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3026-98,Adult,Male,Genotype 5,NA,Genotype 5,35.310474,-120.880981,No,1998,X,I/X,X,X,X,X,6,Morro Bay Sandspit,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3131-99,Adult,Male,Genotype 1,NA,Genotype 1,36.610901,-121.89196,No,1999,II/III,II,II_varB,II/III,II,II,6,Monterey Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3183-99,Adult,Female,Genotype 5,NA,Genotype 5,35.413124,-120.878731,Contributing,1999,X,I/X,IIvar,X,X,X,6,Morro Strand @ Motel Point,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3488-01,Adult,Female,Genotype 5,NA,Genotype 5,35.130062,-120.644089,No,2001,X ,I/X,X,X,X,X,6,Pismo Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3728-02,Adult,Male,Genotype 5,NA,Genotype 5,34.067533,-119.01824,No,2002,X ,I/X,II var,X,X,X,6,"Sycamore Cove, Point Mugu State Park",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3907-03,Adult,Male,Genotype 5,NA,Genotype 5,36.866959,-121.829208,Contributing,2003,Xvar,I/X,X ,X,X,X,6,Sunset Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3950-03**,Adult,Male,Genotype 1,NA,Genotype 1,36.950771,-121.991928,Contributing,2003,X,II,II,II/III,II,II,6,Santa Cruz 21st St. Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3991-03,Adult,Male,Genotype 1,NA,Genotype 1,36.793613,-121.797272,No,2003,II/III,II,II,II/III,II,II,6,Salinas River Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4001-03,Adult,Male,Atypical/Unique,NA,Atypical/Unique,36.963242,-121.939522,No,2003,II/III,II,II,X,II,II,6,"Pot Belly Beach, near New Brighton State Beach",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4010-03,Adult,Female,Genotype 1,NA,Genotype 1,36.605328,-121.884392,No,2003,II/III,II,II,II/III,II,II,6,Monterey Harbor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4152-04,Adult,Male,Genotype 1,NA,Genotype 1,36.922955,-121.869469,No,2004,II/III,II,II,II/III,II,II,6,Manresa State Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4287-04,Adult,Female,Genotype 5,NA,Genotype 5,36.542389,-121.935379,NA,2004,X,I/X,IIvar,X,X,NA,5,"Carmel Beach, Carmel R St beach north end",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4322-04,Adult,Male,Genotype 5,NA,Genotype 5,36.953945,-122.008156,No,2004,X,I/X,IIvar,X,X,X,6,Twin Lakes Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4361-04,Adult,Female,Genotype 5,NA,Genotype 5,36.548275,-121.933502,NA,2004,X,I/X,IIvar,X,X,X,6,"Carmel Beach, Scenic Dr near FLW house",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4469-05,Adult,Female,Genotype 5,NA,Genotype 5,35.400425,-120.874199,No,2005,X,I/X,X,X,X,X,6,"Morro Strand Beach, South of campground near Azure St",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4473-05,Adult,Male,Genotype 1,NA,Genotype 1,37.222095,-122.412537,No,2005,II/III,failed,failed,no band,II,II,3,"Pescardero, Pescadero State Beach south",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4791-06,Adult,Male,Genotype 5,NA,Genotype 5,35.365318,-120.870735,No,2006,Xvar,I/X,II var,X,X,X,6,"Morro Bay, @ North T pier",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4923-07,Adult,Male,Genotype 5,NA,Genotype 5,36.633732,-121.91774,Contributing,2007,X,I/X,poor,X,X,X,5,Esplanade/Otter Point,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3429-00,Immature,Female,Genotype 5,NA,Genotype 5,35.365318,-120.870735,NA,2000,X ,I/X,X,X,X,X,6,Morro Bay State Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3639-02,Immature,Male,Genotype 5,NA,Genotype 5,36.894447,-121.846207,NA,2001,Xvar,NA,NA,NA,NA,NA,1,Sunset Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3849-03,Immature,Male,Genotype 1,NA,Genotype 1,36.587475,-121.968086,NA,2003,II/III,II,NA,II/III,II,II,5,Fan Shell Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4474-05,Immature,Female,Genotype 1,NA,Genotype 1,36.950855,-122.017448,NA,2005,II/III,II,NA,II/III,NA,NA,3,Boardwalk Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4782-06,Immature,Female,Genotype 1,NA,Genotype 1,36.559849,-121.937515,NA,2006,NA,II,poor,II/III,poor,II,3,Carmel Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,2987-98,Immature,Female,Genotype 1,NA,Genotype 1,36.922955,-121.869469,Contributing,1998,faint band,II,II,NA,II,NA,3,Manresa State Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3178-99_02,Immature,Female,Genotype 5,NA,Genotype 5,36.809654,-121.793907,NA,2002,X,I/X,II var,X,X,X,6,Moss Landing Harbor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3387-00,Immature,Female,Genotype 5,NA,Genotype 5,35.117466,-120.639229,Contributing,2000,Xvar,I/X,NA,X,X,X,5,Pismo Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3396-00,Immature,Male,Genotype 1,NA,Genotype 1,35.091873,-120.636108,NA,2000,II/III,II,II,II/III,II,II,6,Oceano Dunes SVRA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3451-00,Immature,Male,Genotype 5,NA,Genotype 5,35.327091,-120.875076,No,2000,X ,I/X,NA,X,X,X,5,Morro Bay Sandspit - between post 3 and 4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3503-01,Immature,Male,Genotype 5,NA,Genotype 5,34.372038,-119.480652,NA,2001,X ,I/X,X,X,X,X,6,Rincon Point,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3523-01,Immature,Female,Genotype 5,NA,Genotype 5,37.245838,-122.42305,No,2001,X ,NA,NA,NA,NA,NA,1,Pescardero,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,3576-01,Immature,Male,Genotype 1,NA,Genotype 1,36.963242,-121.939522,Contributing,2001,II/III,II,II,II/III,II,II,6,New Brighton State Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4151-04,Immature,Female,Genotype 5,NA,Genotype 5,35.365318,-120.870735,Primary,2004,Xvar,I/X,X ,X,X,X,6,"Morro Bay, Morro Bay Harbor",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4166-04,Immature,Male,Genotype 5,NA,Genotype 5,35.365318,-120.870735,Primary,2004,X,I/X,poor,X,II,X,5,"Morro Bay, Inside Morro Bay (floating near Flying Dutchman)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4169-04,Immature,Male,Genotype 5,NA,Genotype 5,35.383099,-120.870682,Primary,2004,Xvar,I/X,X ,X,X,X,6,"Morro Strand Beach, Just north of hwy 41",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4189-04,Immature,Female,Genotype 5,NA,Genotype 5,35.440735,-120.904808,Primary,2004,Xvar,I/X,X ,X,X,X,6,"Cayucos State Beach, @ 8th and Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4390-05,Immature,Male,Genotype 5,NA,Genotype 5,37.110531,-122.324059,Contributing,2005,X,X,X,X,X,X,6,"Ano Nuevo Beach, Tar Sands Beach",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4436-05,Immature,Male,Genotype 5,NA,Genotype 5,35.437447,-120.901405,Contributing,2005,X,X,failed,NA,X,poor,2,"Cayucos, at 12th Street",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4449-05,Immature,Female,Genotype 5,NA,Genotype 5,35.365318,-120.870735,No,2005,Xvar,I/X,NA,X,NA,NA,3,"Morro Bay, Inside Morro Bay just east of Target Rock",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4451-05,Immature,Male,Genotype 5,NA,Genotype 5,35.413124,-120.878731,No,2005,X,I/X,X,X,X,X,6,"Cayucos, North side of Motel Point",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4587-05,Immature,Female,Genotype 5,NA,Genotype 5,35.365318,-120.870735,No,2005,X,I/X,X ,X,X,X,6,"Morro Bay, in water off T-piers inside Morro Bay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4673-06,Immature,Female,Genotype 5,NA,Genotype 5,35.070126,-120.636475,No,2006,X,I/X,X ,X,X,X,6,Pismo Beach at 5.5 mark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4724-06,Immature,Female,Genotype 5,NA,Genotype 5,36.542389,-121.935379,No,2006,Xvar,X,poor,X,X,X,5,Carmel River State Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4794-06,Immature,Male,Genotype 5,NA,Genotype 5,36.855225,-121.822998,No,2006,Xvar,I/X,X,X,X,X,6,Pajaro Dunes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4831-06,Immature,Male,Genotype 5,NA,Genotype 5,35.395889,-120.872665,No,2006,Xvar,I/X,X ,X,X,X,6,Morro Strand Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4851-06,Immature,Male,Genotype 5,NA,Genotype 5,35.37846,-120.8703,NA,2006,Xvar,I/X,II var,X,X,X,6,Morro Strand Beach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4852-06,Immature,Female,Genotype 5,NA,Genotype 5,35.440735,-120.904808,No,2006,NA,I/X,poor,X,X,X,4,Cayucos at 12th Street,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4946-07,Immature,Male,Genotype 5,NA,Genotype 5,36.809654,-121.793907,No,2007,X,I/X,II var,X,X,X,6,"Moss Landing Harbor, beach immediately S. of launch ramp in N. Harbor",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,4995-07,Immature,Female,Genotype 5,NA,Genotype 5,35.43121,-120.89341,Contributing,2007,poor,I/X,X,X,X,X,5,"Cayucos, Cayucos ~ 50 meters north of Willow creek",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,5256-08,Immature,Female,Genotype 5,NA,Genotype 5,35.335205,-120.872215,Primary,2008,X,I/X,II,X,X,X,6,"Morro Bay Sandspit, Between post 3 and 4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+seaotter,5263-08,Immature,Female,Genotype 5,NA,Genotype 5,35.33934,-120.870979,Primary,2008,X,I/X,X,X,X,X,6,"Morro Bay Sandspit, Between post 4 and 5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bobcat,07-0015,Adult,Female,Atypical/Unique,Atypical/Unique,NA,35.47181944,-120.9821194,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2007,Trauma,NA,NA,NA,NA,NA,NA,NA,atyp I
+canid,07-0591,Adult,Female,Atypical/Unique,Atypical/Unique,NA,36.824925,-121.7371222,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2007,Dep,80,NA,NA,<40,<40,NA,NA,atyp II
+feralcat,06-0267_2,Adult,Female,Genotype 66,Genotype 66,NA,36.8129,-121.7813,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2006,Dep,2560,1,1,NA,NA,0,1,I
+feralcat,06-0457,Adult,Female,Genotype 66,Genotype 66,NA,36.79052778,-121.7925972,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2006,Dep,160,0,1,<40,nd,0,1,I
+feralcat,06-0501,Adult,Female,Genotype 66,Genotype 66,NA,36.8332,-121.8014194,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2006,Dep,5120,1,1,40,nd,0,0,I
+canid,06-0425,Adult,Female,Genotype 1,Genotype 1,NA,36.80513333,-121.7878139,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,wild,2006,Dep,2560,NA,NA,<40,1280,NA,NA,II/III
+canid,07-0125,Adult,Female,Genotype 1,Genotype 1,NA,36.47643333,-121.73345,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2007,NA,40,NA,NA,<40,<40,NA,NA,II/III
+feralcat,08-0140,Adult,Female,Genotype 1,Genotype 1,NA,36.92971389,-121.7341,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,<40,nd,0,0,II/III
+feralcat,08-0264,Adult,Female,Genotype 1,Genotype 1,NA,36.96528611,-121.7928222,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,40,0,0,NA,NA,0,0,II/III
+feralcat,08-0663,Adult,Female,Genotype 1,Genotype 1,NA,36.80148889,-121.640925,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,<40,nd,0,0,II/III
+feralcat,08-0699,Adult,Female,Genotype 1,Genotype 1,NA,36.74956944,-121.6570528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,20480,1,1,<40,nd,0,1,II/III
+feralcat,08-1084,Adult,Female,Genotype 1,Genotype 1,NA,36.854275,-121.6895861,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,20240,1,1,<40,nd,0,0,II/III
+feralcat,08-1106,Adult,Female,Genotype 1,Genotype 1,NA,36.76708056,-121.7550528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,10240,1,1,40,nd,0,0,II/III
+canid,09-0253,Adult,Female,Genotype 1,Genotype 1,NA,36.78083611,-121.6689861,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,wild,2008,NA,320,NA,NA,<40,<40,NA,NA,II/III
+lion,06-1020,Adult,Female,Genotype 5,Genotype 5,NA,36.47578889,-121.7352028,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2006,Dep,80,0,0,<40,<40,1,1,X
+feralcat,07-0901,Adult,Female,Genotype 5,Genotype 5,NA,37.10316111,-122.0856333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,domestic,2007,shelter,10240,1,1,<40,nd,0,0,X
+feralcat,08-0045,Adult,Female,Genotype 5,Genotype 5,NA,36.91276667,-121.8130167,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,<40,nd,0,0,X
+feralcat,08-0114,Adult,Female,Genotype 5,Genotype 5,NA,36.92125278,-121.7759083,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,NA,NA,0,0,X
+feralcat,08-0144,Adult,Female,Genotype 5,Genotype 5,NA,36.96424444,-121.7623528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,<40,nd,1,0,X
+feralcat,08-0247,Adult,Female,Genotype 5,Genotype 5,NA,36.92125278,-121.7759083,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,NA,NA,0,0,X
+feralcat,08-0290,Adult,Female,Genotype 5,Genotype 5,NA,36.96424444,-121.7623528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,NA,NA,0,0,X
+lion,08-0601,Adult,Female,Genotype 5,Genotype 5,NA,36.6214,-121.6645861,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2008,Dep,1280,1,1,5120,nd,0,0,X
+feralcat,08-1115,Adult,Female,Atypical/Unique,Atypical/Unique,NA,36.81406111,-121.6535139,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,domestic,2008,shelter,<40,0,0,<40,nd,0,0,X
+canid,09-0264,Adult,Female,Genotype 5,Genotype 5,NA,36.55611667,-121.7711833,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2009,NA,2560,NA,NA,<40,<40,NA,NA,X
+canid,09-0268,Adult,Female,Genotype 5,Genotype 5,NA,36.56856667,-121.7375667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2008,NA,160,NA,NA,<40,<40,NA,NA,X
+canid,09-0270,Adult,Female,Genotype 5,Genotype 5,NA,36.52596944,-121.8433528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2008,NA,160,NA,NA,<40,<40,NA,NA,X
+feralcat,08-0129,Adult,Male,Atypical/Unique,Atypical/Unique,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,domestic,2008,shelter,1280,1,1,<40,nd,1,0,atyp I
+feralcat,08-0627,Adult,Male,Atypical/Unique,Atypical/Unique,NA,36.530425,-121.8570056,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,domestic,2008,shelter,1280,1,1,40,nd,1,0,atyp I
+feralcat,08-0665,Adult,Male,Atypical/Unique,Atypical/Unique,NA,36.57678056,-121.4940917,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,1280,1,1,<40,nd,0,0,atyp I
+canid,09-0032,Adult,Male,Atypical/Unique,Atypical/Unique,NA,36.79266667,-121.6405389,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,wild,2008,NA,40,NA,NA,NA,NA,NA,NA,atyp II
+lion,06-0444,Adult,Male,Genotype 66,Genotype 66,NA,35.611675,-120.8403667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,wild,2006,Dep,5120,1,1,<40,nd,0,0,I
+bobcat,07-0316,Adult,Male,Genotype 66,Genotype 66,NA,36.95080833,-121.8551056,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,wild,2007,HBC,640,1,1,<40,<40,0,0,I
+feralcat,08-0662,Adult,Male,Atypical/Unique,Atypical/Unique,NA,36.84092778,-121.6779,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,40,0,0,<40,nd,0,0,I
+canid,06-0221,Adult,Male,Genotype 1,Genotype 1,NA,36.824925,-121.7371222,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2006,Dep,320,NA,NA,<40,<40,NA,NA,II/III
+feralcat,06-0264,Adult,Male,Genotype 1,Genotype 1,NA,36.84371111,-121.8051583,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2006,Dep,2560,1,1,NA,NA,0,0,II/III
+feralcat,06-0456,Adult,Male,Genotype 1,Genotype 1,NA,36.79052778,-121.7925972,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2006,Dep,10240,1,1,<40,nd,0,0,II/III
+bobcat,08-0038,Adult,Male,Genotype 1,Genotype 1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,2008,HBC,10240,1,1,<40,nd,0,0,II/III
+feralcat,08-0133,Adult,Male,Genotype 1,Genotype 1,NA,36.81406111,-121.6535139,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,<40,nd,0,0,II/III
+feralcat,08-0246,Adult,Male,Genotype 1,Genotype 1,NA,36.92971389,-121.7341,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,>1280,1,1,NA,NA,0,0,II/III
+feralcat,08-0331,Adult,Male,Genotype 1,Genotype 1,NA,36.74578889,-121.6300861,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,1280,1,1,<40,nd,1,0,II/III
+feralcat,08-0608,Adult,Male,Genotype 1,Genotype 1,NA,36.79354722,-121.6264833,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,domestic,2008,shelter,20480,1,1,<40,nd,0,1,II/III
+feralcat,08-0664,Adult,Male,Genotype 1,Genotype 1,NA,36.66943333,-121.6777667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,<40,nd,0,0,II/III
+feralcat,08-0702,Adult,Male,Genotype 1,Genotype 1,NA,36.76277222,-121.7487333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,40960,1,1,<40,nd,0,0,II/III
+feralcat,08-1015,Adult,Male,Genotype 1,Genotype 1,NA,36.61784722,-121.5584139,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,2560,1,1,NA,NA,0,1,II/III
+feralcat,08-1025,Adult,Male,Genotype 1,Genotype 1,NA,36.13022778,-121.0215167,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,<40,nd,0,0,II/III
+feralcat,08-1026,Adult,Male,Genotype 1,Genotype 1,NA,36.70550556,-121.6629028,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,<40,nd,0,0,II/III
+feralcat,08-1104,Adult,Male,Genotype 1,Genotype 1,NA,36.79715,-121.6401917,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,10240,1,1,<40,nd,0,0,II/III
+lion,07-0387,Adult,Male,Genotype 5,Genotype 5,NA,35.83681944,-121.0445667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2007,Dep,320,1,1,<40,<40,0,0,X
+bobcat,07-0578,Adult,Male,Genotype 5,Genotype 5,NA,35.72629167,-121.3133778,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2007,HBC,1280,1,1,<40,nd,0,0,X
+bobcat,07-1037,Adult,Male,Genotype 5,Genotype 5,NA,36.60016667,-121.9088333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,wild,2007,HBC,1280,1,1,<40,nd,0,0,X
+feralcat,08-0282,Adult,Male,Genotype 5,Genotype 5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,domestic,2008,shelter,40,0,0,NA,NA,0,0,X
+bobcat,08-0603,Adult,Male,Genotype 5,Genotype 5,NA,36.60515833,-121.6926556,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2008,Trauma,2560,1,1,<40,nd,0,0,X
+feralcat,08-0629,Adult,Male,Genotype 5,Genotype 5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,domestic,2008,shelter,<40,0,0,<40,nd,1,0,X
+canid,08-1045,Adult,Male,Genotype 5,Genotype 5,NA,36.57561111,-121.6293139,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2008,NA,<40,NA,NA,<40,<40,NA,NA,X
+canid,09-0269,Adult,Male,Genotype 5,Genotype 5,NA,36.53326111,-121.8713194,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2008,NA,160,NA,NA,<40,<40,NA,NA,X
+bobcat,08-0033,Adult,NA,Genotype 5,Genotype 5,NA,36.96244167,-122.0812361,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2008,Dep,2560,1,1,<40,nd,1,0,X
+canid,08-1080,Adult,NA,Genotype 5,Genotype 5,NA,37.02246389,-122.0386722,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2008,HBC,1280,NA,NA,1280,40,NA,NA,X
+canid,09-0267,Adult,NA,Genotype 5,Genotype 5,NA,36.48935556,-121.7482306,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2008,NA,640,NA,NA,<40,<40,NA,NA,X
+feralcat,07-1033,Immature,Female,Atypical/Unique,Atypical/Unique,NA,36.89286667,-121.8259,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2007,shelter,<40,0,0,<40,nd,0,1,atyp I
+feralcat,08-0024,Immature,Female,Atypical/Unique,Atypical/Unique,NA,36.90182778,-121.8241528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,<40,nd,0,0,atyp I
+feralcat,08-0130,Immature,Female,Atypical/Unique,Atypical/Unique,NA,36.74700556,-121.6621389,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,<40,nd,0,0,atyp II
+lion,09-0068,Immature,Female,Atypical/Unique,Atypical/Unique,NA,36.91099444,-121.7698528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,wild,2009,Dep,NA,NA,NA,NA,NA,NA,NA,atyp II
+feralcat,08-0138,Immature,Female,Genotype 1,Genotype 1,NA,36.87715556,-121.6460361,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,<40,nd,0,0,II/III
+feralcat,08-0322,Immature,Female,Genotype 1,Genotype 1,NA,36.86235556,-121.7347972,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,40960,1,1,<40,nd,0,0,II/III
+feralcat,08-1013,Immature,Female,Genotype 1,Genotype 1,NA,36.61784722,-121.5584139,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,80,0,0,40,nd,0,0,II/III
+lion,08-0053,Immature,Female,Genotype 5,Genotype 5,NA,36.97278056,-121.9537417,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,wild,2008,NA,320,1,1,<40,nd,0,0,X
+lion,09-0080,Immature,Female,Genotype 5,Genotype 5,NA,35.78221111,-120.9178778,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2009,Dep,2560,1,1,NA,NA,0,0,X
+bobcat,07-0317,Immature,Male,Atypical/Unique,Atypical/Unique,NA,36.97857778,-122.1363667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2007,HBC,640,1,1,<40,<40,0,0,atyp I
+feralcat,08-0113,Immature,Male,Atypical/Unique,Atypical/Unique,NA,36.91504167,-121.754,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,NA,NA,0,0,atyp I
+feralcat,08-0283,Immature,Male,Atypical/Unique,Atypical/Unique,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,domestic,2008,shelter,<40,0,0,NA,NA,0,0,atyp I
+canid,09-0297,Immature,Male,Genotype 66,Genotype 66,NA,36.5416,-121.7535556,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2008,NA,<40,0,0,NA,NA,NA,NA,I
+canid,06-0964,Immature,Male,Genotype 1,Genotype 1,NA,36.79547222,-121.7248194,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,wild,2006,NA,2560,1,1,<40,<40,NA,NA,II/III
+bobcat,07-0969,Immature,Male,Genotype 1,Genotype 1,NA,36.98565556,-122.035075,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,wild,2007,Dep,640,1,1,<40,nd,0,0,II/III
+feralcat,08-0057,Immature,Male,Genotype 1,Genotype 1,NA,36.93133333,-121.781125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,40960,1,1,<40,nd,0,0,II/III
+feralcat,08-0139,Immature,Male,Genotype 1,Genotype 1,NA,36.92971389,-121.7341,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,<40,nd,0,0,II/III
+feralcat,08-0143,Immature,Male,Genotype 1,Genotype 1,NA,36.92971389,-121.7341,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,<40,nd,0,0,II/III
+bobcat,07-0222 ,Immature,Male,Genotype 5,Genotype 5,NA,36.56038056,-121.7454194,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2007,NA,<40,0,0,<40,<40,0,0,X
+feralcat,07-1038,Immature,Male,Genotype 5,Genotype 5,NA,36.96265,-121.8246056,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,domestic,2007,shelter,<40,0,0,<40,nd,0,0,X
+lion,08-0034,Immature,Male,Genotype 5,Genotype 5,NA,36.82706944,-121.7081861,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,wild,2008,HBC,2560,1,1,40,nd,0,0,X
+feralcat,08-0048,Immature,Male,Genotype 5,Genotype 5,NA,36.91276667,-121.8130167,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,<40,nd,0,1,X
+feralcat,08-1024,NA,NA,Atypical/Unique,Atypical/Unique,NA,36.13022778,-121.0215167,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2008,shelter,<40,0,0,40,nd,0,0,atyp II
+feralcat,06-0958,NA,NA,Genotype 1,Genotype 1,NA,36.81866667,-121.7931111,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,uag,domestic,2006,Dep,5120,1,1,40,nd,0,0,II/III
+bobcat,08-1396,NA,NA,Genotype 5,Genotype 5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wild,2008,NA,1280,1,1,<40,nd,0,0,X
