@@ -31,7 +31,6 @@ tags: [general]
 
   <h3>Upcoming</h3>
   <div class="contents">   
-  There are no currently scheduled webinars.  Please check back later for more information. 
 
   <div class="anchor"><a name="release68"></a></div>
   <div class="webinar">
@@ -39,8 +38,10 @@ tags: [general]
   <b>Date:</b> Wednesday July 10th, 2024<br>
   <b>Time:</b> 10AM US Eastern Time<br>
   <b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/5801499876522979670" target="_blank">https://attendee.gotowebinar.com/register/5801499876522979670</a><br>
-  <b>Details:</b> This webinar will focus on what is new in Release 68 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions. -->
+  <b>Details:</b> This webinar will focus on what is new in Release 68 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
   </div>  
+
+  <br><br>
 
   <!-- 
 
@@ -138,7 +139,8 @@ Release webinar dates are subject to change due to production issues that may ar
 </ul><br>
 </details>
 </div>   
-
+ <br><br>
+ 
 <div class="anchor"><a name="On-Demand Webinars"></a></div>
 <div class="contents">
   <details open>
