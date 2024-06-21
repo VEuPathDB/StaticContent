@@ -103,20 +103,13 @@ th.recording {
   <h3>Upcoming Workshops</h3>
   <br>
 
-  <div class="contents">
-  <h4><a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/" target="_blank">2024 Fungal Pathogen Genomics (in-person) June 02 &ndash; 07, 2024</a></h4>
-  <p>Learn how to take advantage of the unique tools offered by FungiDB, Ensembl Fungi, SGD/CGD, and MycoCosm/JGI databases & more.</p>
-  <p><b>Location:</b> Wellcome Genome Campus, Hinxton, UK.</p> 
-  <p><b>Application deadline:</b> 29 February 2024.</p> 
-  <p><b>More information:</b> <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/" target="_blank">Wellcome Connecting Science 2024 Fungal Pathogen Genomics course</a>.</p>
-  </div>
-
     <div class="contents">
   <h4>Hands-on VectorBase Workshop (In-person)</h4>
   Learn how to use the data, tools, and resources offered by VectorBase.
   <p><b>Date:</b> 22 - 26 June 2024.</p>
   <p><b>Location:</b> Nairobi, Kenya.</p>
   <p><b>More information:</b> This is a pre-meeting event of the <a href="https://web.cvent.com/event/90b3ccde-c4df-491d-bdab-ec5da322c2d4/summary?locale=en">Arthopod Genomics Symposium, AGS</a>. It is not necessary to attend the conference to register for the workshop. <a href="https://web.cvent.com/event/90b3ccde-c4df-491d-bdab-ec5da322c2d4/summary?locale=en">Details and schedule here.</a></p>
+  <p><h4><a href="/a/app/static-content/ags2024.html">AGS Workshop Schedule</a></h4></p>
   </div>
 
   <div class="contents">
@@ -130,6 +123,14 @@ th.recording {
   <h3>Previous Workshops</h3>
   <br>
   
+  <div class="contents">
+  <h4><a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/" target="_blank">2024 Fungal Pathogen Genomics (in-person) June 02 &ndash; 07, 2024</a></h4>
+  <p>Learn how to take advantage of the unique tools offered by FungiDB, Ensembl Fungi, SGD/CGD, and MycoCosm/JGI databases & more.</p>
+  <p><b>Location:</b> Wellcome Genome Campus, Hinxton, UK.</p> 
+  <p><b>Application deadline:</b> 29 February 2024.</p> 
+  <p><b>More information:</b> <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/" target="_blank">Wellcome Connecting Science 2024 Fungal Pathogen Genomics course</a>.</p>
+  </div>
+
   <div class="contents">
   <h4><a href="/a/app/static-content/workshopMay2024.html">VEuPathDB Annual Workshop (In-person) May 13th &ndash; May 17th, 2024</a></h4>
   <p><b>Times:</b> Monday May 13 &ndash; Friday May 17, 2024. </p>
