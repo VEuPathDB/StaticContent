@@ -28,64 +28,6 @@ tags: [general]
 <h1 id="resources">VEuPathDB Webinars</h1>
 
 <div class="static-content">
-
-  <h3>Upcoming</h3>
-  <div class="contents">   
-
-  <div class="anchor"><a name="release68"></a></div>
-  <div class="webinar">
-  <b>Topic:</b> Release 68 Webinar<br>
-  <b>Date:</b> Wednesday July 10th, 2024<br>
-  <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> <a href="https://attendee.gotowebinar.com/register/5801499876522979670" target="_blank">https://attendee.gotowebinar.com/register/5801499876522979670</a><br>
-  <b>Details:</b> This webinar will focus on what is new in Release 68 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-  </div>  
-
-  <br><br>
-
-  <!-- 
-
-  <div class="anchor"><a name="release68"></a></div>
-  <div class="webinar">
-  <b>Topic:</b> Release 68 Webinar<br>
-  <b>Date:</b> Thursday April 18th, 2024<br>
-  <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
-  <b>Details:</b> This webinar will focus on what is new in Release 68 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-  </div>    
-  <hr style="width:30%; margin-left:0">
-
-  <div class="anchor"><a name="release69"></a></div>
-  <div class="webinar">
-  <b>Topic:</b> Release 69 Webinar<br>
-  <b>Date:</b> Thursday June 20th, 2024<br>
-  <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
-  <b>Details:</b> This webinar will focus on what is new in Release 69 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-  </div>    
-  <hr style="width:30%; margin-left:0">
-
-  <div class="anchor"><a name="release70"></a></div>
-  <div class="webinar">
-  <b>Topic:</b> Release 70 Webinar<br>
-  <b>Date:</b> Thursday Aug 22th, 2024<br>
-  <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
-  <b>Details:</b> This webinar will focus on what is new in Release 70 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-  </div>    
-  <hr style="width:30%; margin-left:0">
-
-  <div class="anchor"><a name="release71"></a></div>
-  <div class="webinar">
-  <b>Topic:</b> Release 71 Webinar<br>
-  <b>Date:</b> Thursday Oct 24th, 2024<br>
-  <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> Registration links will be available 7-10 days prior to the webinar.  <br>
-  <b>Details:</b> This webinar will focus on what is new in Release 71 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
-  </div>-->
-
-  </div> <!--closing div contents for Upcoming Webinars -->
-
 <!--<hr>  ==== UPCOMING WEBINARS =============================== -->
  
 <!-- ======use this space for upcoming Webinars details and registrations ======
@@ -93,8 +35,6 @@ tags: [general]
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
   
 <div class="contents">
-
-   
   example =  
   <hr style="width:30%; margin-left:0">  
   <div class="anchor"><a name="release62"></a></div>
@@ -107,6 +47,13 @@ Release webinar dates are subject to change due to production issues that may ar
   </div>
 
 </div>-->
+  <h3>Upcoming</h3>
+  <div class="contents">   
+  
+
+  <br><br>
+
+  </div> <!--closing div contents for Upcoming Webinars -->
 
 
 <div class="anchor"><a name="release"></a></div>
@@ -115,6 +62,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <summary><h3>Releases</h3></summary>
 <b>Release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session.</b> <br>
 <ul>
+<li><b>Release 68 Webinar</b> (10 July 2024): <a href="https://youtu.be/fOfCN-u4CFI" target="_blank">https://youtu.be/fOfCN-u4CFI</a></li>
 <li><b>Release 67 Webinar</b> (Feb 29, 2024): <a href="https://youtu.be/5TLm5jU8bTM" target="_blank">https://youtu.be/5TLm5jU8bTM</a></li>
 <li><b>Release 66 Webinar</b> (Dec 14, 2023): <a href="https://youtu.be/jdpRcYuQQUo?si=MmpjOVQIufZpxZiD" target="_blank">https://youtu.be/jdpRcYuQQUo?si=MmpjOVQIufZpxZiD</a></li>
 <li><b>Release 65 Webinar</b> (Sep 21, 2023): <a href="https://youtu.be/9r4TrxzerIg" target="_blank">https://youtu.be/9r4TrxzerIg</a></li>
