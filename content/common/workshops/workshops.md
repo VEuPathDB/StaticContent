@@ -130,7 +130,7 @@ th.recording {
   <p><b>Location:</b> Wellcome Genome Campus, Hinxton, UK.</p> 
   <p><b>Application deadline:</b> 29 February 2024.</p> 
   <p><b>More information:</b> <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/" target="_blank">Wellcome Connecting Science 2024 Fungal Pathogen Genomics course</a>.</p>
-  <p><b>Download course manual and other resoruces:</b> <a href="https://github.com/WCSCourses/Fungal2024" target="_blank">Wellcome Connecting Science Fungal2024 GitHub directory</a>.</p>
+  <p><b>Download course manual and other resources:</b> <a href="https://github.com/WCSCourses/Fungal2024" target="_blank">Wellcome Connecting Science Fungal2024 GitHub directory</a>.</p>
   </div>
 
   <div class="contents">
