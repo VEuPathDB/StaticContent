@@ -25,11 +25,66 @@ permalink: /MicrobiomeDB/faq
   </ul>
 </div>
 
-<div id="microbiome-using_site">
-  <h2>Using the site</h2>
+<div id="microbiome-datasets">
+  <h2>Datasets</h2>
   <ul>
     {% for item in site.data.MicrobiomeDB_faq %}
-    {% if item.type == "using_site" %}
+    {% if item.type == "datasets" %}
+    <li>
+      <details id="{{ item.uid }}">
+        <summary>{{ item.question }}</summary>
+        <p>
+          {{ item.answer | markdownify}}
+        </p>
+      </details>
+    </li>
+    {% endif %}
+    {% unless forloop.last %}{% endunless %}{% endfor %}
+  </ul>
+</div>
+
+<div id="microbiome-analysis">
+  <h2>Analysis of your own data</h2>
+  <ul>
+    {% for item in site.data.MicrobiomeDB_faq %}
+    {% if item.type == "analysis" %}
+    <li>
+      <details id="{{ item.uid }}">
+        <summary>{{ item.question }}</summary>
+        <p>
+          {{ item.answer | markdownify}}
+        </p>
+      </details>
+    </li>
+    {% endif %}
+    {% unless forloop.last %}{% endunless %}{% endfor %}
+  </ul>
+</div>
+
+<div id="microbiome-viz">
+  <h2>Computations and visualizations</h2>
+  <ul>
+    {% for item in site.data.MicrobiomeDB_faq %}
+    {% if item.type == "viz" %}
+    <li>
+      <details id="{{ item.uid }}">
+        <summary>{{ item.question }}</summary>
+        <p>
+          {{ item.answer | markdownify}}
+        </p>
+      </details>
+    </li>
+    {% endif %}
+    {% unless forloop.last %}{% endunless %}{% endfor %}
+  </ul>
+</div>
+
+
+<div id="microbiome-cite">
+  <h2>Cite us!</h2>
+  <ul>
+    {% for item in site.data.MicrobiomeDB_faq %}
+    {% if item.type == "cite" %}
     <li>
       <details id="{{ item.uid }}">
         <summary>{{ item.question }}</summary>
