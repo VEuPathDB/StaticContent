@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: MicrobiomeDB Frequently Asked Questions
-permalink: /MicrobiomeDB/faq
+permalink: /MicrobiomeDB/faq_beta
 ---
 <div id="ce-static-content">
 
@@ -10,7 +10,7 @@ permalink: /MicrobiomeDB/faq
 <div id="microbiome-general">
   <h2>General</h2>
   <ul>
-    {% for item in site.data.MicrobiomeDB_faq%}
+    {% for item in site.data.MicrobiomeDB_faq_beta%}
     {% if item.type == "general" %}
     <li>
       <details id="{{ item.uid }}">
@@ -28,7 +28,7 @@ permalink: /MicrobiomeDB/faq
 <div id="microbiome-datasets">
   <h2>Datasets</h2>
   <ul>
-    {% for item in site.data.MicrobiomeDB_faq %}
+    {% for item in site.data.MicrobiomeDB_faq_beta%}
     {% if item.type == "datasets" %}
     <li>
       <details id="{{ item.uid }}">
@@ -46,7 +46,7 @@ permalink: /MicrobiomeDB/faq
 <div id="microbiome-analysis">
   <h2>Analysis of your own data</h2>
   <ul>
-    {% for item in site.data.MicrobiomeDB_faq %}
+    {% for item in site.data.MicrobiomeDB_faq_beta%}
     {% if item.type == "analysis" %}
     <li>
       <details id="{{ item.uid }}">
@@ -64,7 +64,7 @@ permalink: /MicrobiomeDB/faq
 <div id="microbiome-viz">
   <h2>Computations and visualizations</h2>
   <ul>
-    {% for item in site.data.MicrobiomeDB_faq %}
+    {% for item in site.data.MicrobiomeDB_faq_beta%}
     {% if item.type == "viz" %}
     <li>
       <details id="{{ item.uid }}">
@@ -83,7 +83,7 @@ permalink: /MicrobiomeDB/faq
 <div id="microbiome-cite">
   <h2>Cite us!</h2>
   <ul>
-    {% for item in site.data.MicrobiomeDB_faq %}
+    {% for item in site.data.MicrobiomeDB_faq_beta%}
     {% if item.type == "cite" %}
     <li>
       <details id="{{ item.uid }}">

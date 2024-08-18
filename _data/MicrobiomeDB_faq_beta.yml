@@ -49,14 +49,14 @@
 
 - type: general
   question: "Where did you get the images on the MicrobiomeDB homepage?"
-  answer:
+  answer: |
            Our **[banner image](https://phil.cdc.gov/Details.aspx?pid=18128)** shows methicillin-resistant, *Staphylococcus aureus* (MRSA) bacteria in the process of being ingested by a neutrophil, and our **[icon](https://phil.cdc.gov/Details.aspx?pid=18170)** shows *Klebsiella pneumoniae* interacting with a human neutrophil. Both images are courtesy of the National Institute for Allergy and Infectious Disease and are free of any copyright restrictions
   uid: g5
   projects: "MicrobiomeDB"
 
 - type: general
   question: "Can I access the code used for MicrobiomeDB?"
-  answer:
+  answer: |
            Yes! Our code can be found on **[Github](https://github.com/VEuPathDB?q=microbiome&type=&language=)**, and we welcome input from the community.
 
            * Check out our **[Shiny app scripts](https://github.com/VEuPathDB/MicrobiomeWebsite/tree/master/View/lib/R/shiny/apps)**
@@ -132,7 +132,7 @@
 
 - type: datasets
   question: "Where can I find additional information for the large epidemiological studies you have loaded on MicrobiomeDB?"
-  answer:
+  answer: |
            Several of the studies available on MicrobiomeDB, including the [GEMS1 Case Control study](https://qa.microbiomedb.org/mbio.b17/app/record/dataset/DS_bb7b589593), [MAL-ED 2yr](https://qa.microbiomedb.org/mbio.b17/app/record/dataset/DS_9d44f0a9b5), and [MAL-ED diarrhea](https://qa.microbiomedb.org/mbio.b17/app/record/dataset/DS_71c725321c)
            are all part of large studies where rich clinical and epidemiological data were collected from thousands of participants across multiple countries.
            For each of these studies, only a subset of participants had samples collected and processed for microbiome analysis.  Moreover, the sample metadata available on MicrobiomeDB for these studies includes only
@@ -213,7 +213,7 @@
 
 - type: viz
   question: "How do you identify eukaryotes in metagenomic data on your site?"
-  answer:
+  answer: |
            Detection of eukaryotes in shotgun studies on our site is based on the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database.
            Methods and software describing how we map reads to this reference database and call taxa can be found [here](https://github.com/wbazant/marker_alignments), and our nextflow workflow used to implement this approach on all samples on our database can be found [here](https://github.com/wbazant/marker-alignments-nextflow).
            You can read about our method for eukaryote detection - called CORRAL (clustering of related read alignments) - in [this manuscript](https://doi.org/10.1186/s40168-023-01505-1).
@@ -222,7 +222,7 @@
 
 - type: viz
   question: "Why do some apps in the 'Visualize' tab appear ghosted or greyed out?"
-  answer:
+  answer: |
            Apps are only available when they are compatible with the data you have selected.  For example, if you have selected a study or a subset of samples that do not have a continuous metadata variable (e.g., age), you will not be able to use the bipartie app that correlates taxa with continuous metadata variables.
   uid: v3
   projects: "MicrobiomeDB"
