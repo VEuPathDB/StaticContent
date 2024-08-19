@@ -187,6 +187,8 @@
   question: "Can I download plots and data visualizations from MicrobiomeDB?"
   answer: |
            Yes. All plots and visualizations generated on MicrobiomeDB can be downloaded as .png or .svg files.  Simply click the 'Export plot' button on the bottom right of the plot or visualization you're interested in.
+           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/downloadPlot.png" width="500" height="500"/>
+
   uid: v1
   projects: "MicrobiomeDB"
 
