@@ -195,9 +195,9 @@
 - type: viz
   question: "How do you identify eukaryotes in metagenomic data on your site?"
   answer: |
-           Detection of eukaryotes in shotgun studies on our site is based on the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database.
-           Methods and software describing how we map reads to this reference database and call taxa can be found [here](https://github.com/wbazant/marker_alignments), and our nextflow workflow used to implement this approach on all samples on our database can be found [here](https://github.com/wbazant/marker-alignments-nextflow).
            You can read about our method for eukaryote detection - called CORRAL (clustering of related read alignments) - in [this manuscript](https://doi.org/10.1186/s40168-023-01505-1).
+           CORRAL's dection of eukaryotes in shotgun studies is based on the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database.
+           Methods and software describing how we map reads to this reference database and call taxa can be found [here](https://github.com/wbazant/marker_alignments), and our nextflow workflow used to implement this approach on all samples on our database can be found [here](https://github.com/wbazant/marker-alignments-nextflow).
   uid: v2
   projects: "MicrobiomeDB"
 
@@ -206,7 +206,7 @@
   answer: |
            Apps are only available when they are compatible with the data you have selected.
            For example, if you have selected a study or a subset of samples that do not have a continuous metadata variable (e.g., age), you will not be able to use the bipartie app that correlates taxa with continuous metadata variables (see screenshot below). <br><br>
-           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/appNotAvailable.png" width="500" height="500"/>
+           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/appNotAvailable.png" width="1000" height="1000"/>
 
   uid: v3
   projects: "MicrobiomeDB"
@@ -217,6 +217,11 @@
            If you use MicrobiomeDB for your research, please cite us:
 
            > [Oliveira FS, Brestelli J, Cade S, *et al.*; MicrobiomeDB: A Systems Biology Platform for Integrating, Mining and Analyzing Microbiome Experiments. *Nucleic Acids Research* 2018](https://doi.org/10.1093/nar/gkx1027).
+
+           If you use microbial eukaryote data on the site, or our standalone eukaryote detection tool, CORRLA, please also cite:
+
+           > [Bazant W, Blevins AS, Crouch K, and Beiting DP; Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes* 2023](https://doi.org/10.1186/s40168-023-01505-1).
+
   uid: c1
   projects: "MicrobiomeDB"
 
