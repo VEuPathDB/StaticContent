@@ -75,12 +75,12 @@
 - type: datasets
   question: "What's the difference between private, community, and curated datasets?"
   answer: |
-           * **Curated datasets** are uploaded by our staff for convenient public access and are represented on the homepage as study cards.
+           * **Curated datasets** - these datasedts are uploaded by our staff for convenient public access and are represented on the homepage as study cards.
            * **Private datasets** - Any data uploaded by a user through the 'My studies' page is private by default.  Only you and people that you choose to share with can view this data.
            * **Community datasets** - When/if the owner of a private dataset decides they are ready to share this data with all users of our site, they can convert a private dataset to a community dataset with the click of a button.
            At any time, the original owner of community dataset can choose to revoke community access, which will revert the dataset back to private status.
            Community datasets can be queried and visualized in the same way as curated datsets, but are not represented on the homepage as study cards.
-           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/communityStudy.png" width="500" height="300"/>
+           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/communityStudy.png" width="500" height="500"/>
 
   uid: d1
   projects: "MicrobiomeDB"
