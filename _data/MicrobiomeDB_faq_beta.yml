@@ -80,7 +80,7 @@
            * **Community datasets** - When/if the owner of a private dataset decides they are ready to share this data with all users of our site, they can convert a private dataset to a community dataset with the click of a button.
            At any time, the original owner of community dataset can choose to revoke community access, which will revert the dataset back to private status.
            Community datasets can be queried and visualized in the same way as curated datsets, but are not represented on the homepage as study cards.
-           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/communityStudy.png" width="500" height="500"/>
+           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/communityStudy.png" width="2800" height="900"/>
 
   uid: d1
   projects: "MicrobiomeDB"
