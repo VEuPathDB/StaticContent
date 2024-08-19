@@ -206,7 +206,7 @@
   answer: |
            Apps are only available when they are compatible with the data you have selected.
            For example, if you have selected a study or a subset of samples that do not have a continuous metadata variable (e.g., age), you will not be able to use the bipartie app that correlates taxa with continuous metadata variables (see screenshot below). <br><br>
-           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/appNotAvailable.png" width="1000" height="1000"/>
+           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/appNotAvailable.png" width="1000" height="1000" align="left"/>
 
   uid: v3
   projects: "MicrobiomeDB"
@@ -220,7 +220,7 @@
 
            If you use microbial eukaryote data on the site, or our standalone eukaryote detection tool, CORRLA, please also cite:
 
-           > [Bazant W, Blevins AS, Crouch K, and Beiting DP; Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes* 2023](https://doi.org/10.1186/s40168-023-01505-1).
+           > [Bazant W, Blevins AS, Crouch K, and Beiting DP; Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes 2023](https://doi.org/10.1186/s40168-023-01505-1).
 
   uid: c1
   projects: "MicrobiomeDB"
