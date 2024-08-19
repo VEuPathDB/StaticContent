@@ -68,7 +68,7 @@
 - type: general
   question: "Who funds this resource?"
   answer: |
-           Funding has been provided by the Bill and Melinda Gates Foundation (BMGF), The Chan-Zuckerberg Initiative (CZI) through their Essential Open Source Software for Science (EOSS) program (round 5).
+           Funding has been provided by the Bill and Melinda Gates Foundation (BMGF) and The Chan-Zuckerberg Initiative (CZI) through their Essential Open Source Software for Science (EOSS) program (round 5).
   uid: g7
   projects: "MicrobiomeDB"
 
@@ -202,7 +202,7 @@
   answer: |
            Apps are only available when they are compatible with the data you have selected.
            For example, if you have selected a study or a subset of samples that do not have a continuous metadata variable (e.g., age), you will not be able to use the bipartie app that correlates taxa with continuous metadata variables (see screenshot below). <br><br>
-           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/appNotAvailable.png" width="500" height="500" align="left"/> <br><br>
+           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/appNotAvailable.png" width="500" height="500"/>
 
   uid: v3
   projects: "MicrobiomeDB"
