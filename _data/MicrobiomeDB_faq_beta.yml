@@ -46,7 +46,6 @@
   uid: g4
   projects: "MicrobiomeDB"
 
-
 - type: general
   question: "Where did you get the images on the MicrobiomeDB homepage?"
   answer: |
@@ -66,12 +65,19 @@
   uid: g6
   projects: "MicrobiomeDB"
 
+- type: general
+  question: "Who funds this resource?"
+  answer: |
+           Funding has been provided by the Bill and Melinda Gates Foundation (BMGF), The Chan-Zuckerberg Initiative (CZI) through their Essential Open Source Software for Science (EOSS) program (round 5).
+  uid: g7
+  projects: "MicrobiomeDB"
+
 - type: datasets
   question: "What's the difference between private, community, and curated datasets?"
   answer: |
-           Curated datasets are uploaded by our staff for convenient public access and are represented on the homepage as study cards.
-           Any data uploaded by a user through the 'My studies' page is private by default.  Only you and people that you choose to share with can view this data.
-           When/if the owner of a private dataset decides they are ready to share this data with all users of our site, they can convert a private dataset to a community dataset with the click of a button.
+           * **Curated datasets** are uploaded by our staff for convenient public access and are represented on the homepage as study cards.
+           * **Private datasets** - Any data uploaded by a user through the 'My studies' page is private by default.  Only you and people that you choose to share with can view this data.
+           * **Community datasets** - When/if the owner of a private dataset decides they are ready to share this data with all users of our site, they can convert a private dataset to a community dataset with the click of a button.
            At any time, the original owner of community dataset can choose to revoke community access, which will revert the dataset back to private status.
            Community datasets can be queried and visualized in the same way as curated datsets, but are not represented on the homepage as study cards.
   uid: d1
@@ -115,7 +121,7 @@
 - type: datasets
   question: "How do I carry out a search of curated public datasets?"
   answer: |
-           Each study is represented on MicrobiomeDB using a small card.  All study cards can be found under the "Explore the Studies" section of the MicrobiomeDB homepage.
+           Each curated study is represented on MicrobiomeDB using a small card.  All study cards can be found under the "Explore the Studies" section of the MicrobiomeDB homepage.
            Once you've identified a study to query, **click on the graph icon below 'Explore the Data'**,
            located on the bottom right of the card.  This will take you to our exploration and visualzation page.
            For more details on carrying out this type of query, take a look at the short video below.
@@ -170,8 +176,7 @@
   question: "The website is great, but I prefer to analyze data using command line tools.  Do you offer a way to programmatically access the tools and datasets on your site?"
   answer: |
            We do!
-           We built a MicrobiomeDB R package that provides a consistent set of functions to access all data and analytic tools on the site.
-           You can access this software at: https://microbiomedb.github.io/MicrobiomeDB/
+           We built a **[MicrobiomeDB R package](https://microbiomedb.github.io/MicrobiomeDB/)** that provides a consistent set of functions to access all data and analytic tools on the site.
   uid: a3
   projects: "MicrobiomeDB"
 
