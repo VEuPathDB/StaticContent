@@ -46,7 +46,6 @@
   uid: g4
   projects: "MicrobiomeDB"
 
-
 - type: general
   question: "Where did you get the images on the MicrobiomeDB homepage?"
   answer: |
@@ -65,11 +64,6 @@
            * Code for our **[eukaryotic detection](https://github.com/wbazant/marker_alignments)** and a [nextflow implementaton of this workflow](https://github.com/wbazant/marker-alignments-nextflow) are used for identifying eukaryotic microbes in shotgun metagenomic data using the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database
   uid: g6
   projects: "MicrobiomeDB"
-
-
-
-
-
 
 - type: datasets
   question: "What's the difference between private, community, and curated datasets?"
@@ -106,7 +100,6 @@
   uid: d3
   projects: "MicrobiomeDB"
 
-
 - type: datasets
   question: "How are datasets chosen for loading into MicrobiomeDB?"
   answer: |
@@ -129,7 +122,6 @@
   uid: d5
   projects: "MicrobiomeDB"
 
-
 - type: datasets
   question: "Where can I find additional information for the large epidemiological studies you have loaded on MicrobiomeDB?"
   answer: |
@@ -141,7 +133,6 @@
   uid: d6
   projects: "MicrobiomeDB"
 
-
 - type: datasets
   question: "Can I download raw data from MicrobiomeDB?"
   answer: |
@@ -150,24 +141,6 @@
            * What about raw sequence data?  We do not host raw sequence data for download.  For published studies the raw data is available on the [SRA](https://www.ncbi.nlm.nih.gov/sra/) or [ENA](https://www.ebi.ac.uk/ena).  If you're interested in accessing raw data for unpublished studies, we can faciliate contact with the data providers.
   uid: d7
   projects: "MicrobiomeDB"
-
-
-
-
-
-
-- type: analysis
-  question: "Can I privately analyze my own unpublished data using the tools on MicrobiomeDB?"
-  answer: |
-           Yes! Simply register for a free account, and you'll have access to your own private user workspace, called 'My Studies', were you can upload **[.biom files](http://biom-format.org/)** from 16S or shotgun metagenomic studies, or import data from **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource.
-           A .biom file can be produced from many standard 16S marker gene and shotgun metagenomic data processing pipelines.
-           When creating your .biom file, be sure to incorporate metadata from your samples so that you can use these metadata variables to create informative data anlayses and visualizations on the site.
-           If you are using QIIME to analyze your 16S data, be sure to take a look at [our QIIME2 protocol](https://www.notion.so/Analysis-of-16S-data-using-QIIME2-f225c95e34784cc3b726cff2d4d137cc).
-           Instructions for generating a .biom file with metadata included are in the 'OPTIONAL: export .biom file' step in the protocol.
-  uid: a1
-  projects: "MicrobiomeDB"
-
-- type: analysis
   question: "How do I upload my own .biom file for analysis using microbiomeDB tools?"
   answer: |
            1. Log in to your account
@@ -187,7 +160,7 @@
            If you are interested in analyzing your own raw sequence data from 16S, ITS or shotgun metagenomic studies, check out **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource, or [CZID](https://czid.org/) from the folks at the Chan-Zuckerberg Biohub in San Francisco, CA.
            You can run complete workflows on Nephele and produce a 'magic link' to your results.  This link is an authenticated URL that can be copied/pasted into the 'My Data Sets' page of MicrobiomeDB,
            thus allowing direct transfer of results from Nephele to MicrobiomeDB for filtering, querying and visualizing your results.
-  uid: a3
+  uid: a1
   projects: "MicrobiomeDB"
 
 - type: analysis
@@ -196,15 +169,8 @@
            We do!
            We built a MicrobiomeDB R package that provides a consistent set of functions to access all data and analytic tools on the site.
            You can access this software at: https://microbiomedb.github.io/MicrobiomeDB/
-  uid: a4
+  uid: a2
   projects: "MicrobiomeDB"
-
-
-
-
-
-
-- type: viz
   question: "Can I download plots and data visualizations from MicrobiomeDB?"
   answer: |
            Yes. All plots and visualizations generated on MicrobiomeDB can be downloaded as .png or .svg files.  Simply click the 'Export plot' button on the bottom right of the plot or visualization you're interested in.
@@ -217,18 +183,15 @@
            Detection of eukaryotes in shotgun studies on our site is based on the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database.
            Methods and software describing how we map reads to this reference database and call taxa can be found [here](https://github.com/wbazant/marker_alignments), and our nextflow workflow used to implement this approach on all samples on our database can be found [here](https://github.com/wbazant/marker-alignments-nextflow).
            You can read about our method for eukaryote detection - called CORRAL (clustering of related read alignments) - in [this manuscript](https://doi.org/10.1186/s40168-023-01505-1).
-  uid: v2
+  uid: v1
   projects: "MicrobiomeDB"
 
 - type: viz
   question: "Why do some apps in the 'Visualize' tab appear ghosted or greyed out?"
   answer: |
            Apps are only available when they are compatible with the data you have selected.  For example, if you have selected a study or a subset of samples that do not have a continuous metadata variable (e.g., age), you will not be able to use the bipartie app that correlates taxa with continuous metadata variables.
-  uid: v3
+  uid: v2
   projects: "MicrobiomeDB"
-
-
-
 
 - type: cite
   question: "How do I cite MicrobiomeDB?"
@@ -238,7 +201,6 @@
            > [Oliveira FS, Brestelli J, Cade S, *et al.*; MicrobiomeDB: A Systems Biology Platform for Integrating, Mining and Analyzing Microbiome Experiments. *Nucleic Acids Research* 2018](https://doi.org/10.1093/nar/gkx1027).
   uid: c1
   projects: "MicrobiomeDB"
-
 
 - type: cite
   question: "How do I cite datasets that I access or analyze through MicrobiomeDB?"
