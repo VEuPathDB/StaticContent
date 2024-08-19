@@ -202,7 +202,7 @@
   answer: |
            Apps are only available when they are compatible with the data you have selected.
            For example, if you have selected a study or a subset of samples that do not have a continuous metadata variable (e.g., age), you will not be able to use the bipartie app that correlates taxa with continuous metadata variables (see screenshot below). <br><br>
-           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/appNotAvailable.png" width="500" height="500" align="left"/>
+           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/appNotAvailable.png" width="500" height="500" align="left"/> <br><br>
 
   uid: v3
   projects: "MicrobiomeDB"
