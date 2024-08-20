@@ -26,9 +26,10 @@
            2. Fill out the registration form then click the ‘Register’ button
            3. A green text box should appear, indicating successful registration
            4. Check your email to retrieve your temporary password
+           NOTE: we have occasionally observed that when new users register with a gmail account they may not get the email with the temporary password.  If this happens, please try registering with a non-gmail address.
 
-           Note: You only need one account for all VEuPathDB websites. This means that if you have
-           an account for other VEuPathDB resources such as PlasmoDB or ClinEpiDB, you can log
+           Also NOTE: Your MicrobiomeDB login credentials will also work with any of the VEuPathDB sites. So, if you already have
+           an account for other VEuPathDB resources such as PlasmoDB, ToxoDB, or ClinEpiDB, you can log
            into MicrobiomeDB with those credentials and *vice versa*.
   uid: g3
   projects: "MicrobiomeDB"
@@ -75,11 +76,12 @@
 - type: datasets
   question: "What's the difference between private, community, and curated datasets?"
   answer: |
-           * **Curated datasets** - these datasedts are uploaded by our staff for convenient public access and are represented on the homepage as study cards.
+           * **Curated datasets** - these datasedts are uploaded by our staff for convenient public access and are represented on the homepage as study cards.  <br><br>
+           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/curatedStudy.png" width="800" height="500"/>
            * **Private datasets** - Any data uploaded by a user through the 'My studies' page is private by default.  Only you and people that you choose to share with can view this data.
-           * **Community datasets** - When/if the owner of a private dataset decides they are ready to share this data with all users of our site, they can convert a private dataset to a community dataset with the click of a button.
+           * **Community datasets** - When/if the owner of a private dataset decides they are ready to share this data with all users of our site, they can convert a private dataset to a community dataset with the click of a button (see screenshot below).
            At any time, the original owner of community dataset can choose to revoke community access, which will revert the dataset back to private status.
-           Community datasets can be queried and visualized in the same way as curated datsets, but are not represented on the homepage as study cards.
+           Community datasets can be queried and visualized in the same way as curated datsets, but are not represented on the homepage as study cards.  <br><br>
            <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/communityStudy.png" width="800" height="250"/>
 
   uid: d1
@@ -101,7 +103,7 @@
   projects: "MicrobiomeDB"
 
 - type: datasets
-  question: "Does the site handle data from shotgun metagenomic studies?"
+  question: "Does the site handle data shotgun metagenomic data?"
   answer: |
            Yes!  As of release 21 (March 2021) we started loading shotgun metagenomic data.  In addition, if you have have your own metagenomic data that you're interested in analyzing on MicrobiomeDB, you can take advantage of our collaboration with [Nephele](https://nephele.niaid.nih.gov/) and [CZID](https://czid.org/)
            to generate a .biom file from your metagenomic study, then you can upload this directly to MicrobiomeDB under the Workspace menu (see next FAQ below).  You're not limited to taxonomic data either - our curated public metagenomic studies also have pathway-level and gene-level functional data, all of which can be mined using the same analyis and visualization tools on our site!
@@ -218,7 +220,7 @@
 
            > [Oliveira FS, Brestelli J, Cade S, *et al.*; MicrobiomeDB: A Systems Biology Platform for Integrating, Mining and Analyzing Microbiome Experiments. *Nucleic Acids Research* 2018](https://doi.org/10.1093/nar/gkx1027).
 
-           If you use microbial eukaryote data on the site, or our standalone eukaryote detection tool, CORRLA, please also cite:
+           If you use microbial eukaryote data on the site, or our standalone eukaryote detection tool, CORRAL, please also cite:
 
            > [Bazant W, Blevins AS, Crouch K, and Beiting DP; Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes 2023](https://doi.org/10.1186/s40168-023-01505-1).
 
