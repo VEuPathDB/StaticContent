@@ -208,7 +208,7 @@
   answer: |
            Apps are only available when they are compatible with the data you have selected.
            For example, if you have selected a study or a subset of samples that do not have a continuous metadata variable (e.g., age), you will not be able to use the bipartie app that correlates taxa with continuous metadata variables (see screenshot below). <br><br>
-           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/appNotAvailable.png" width="500" height="500" align="left"/> <br><br>
+           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/appNotAvailable.png" width="500" height="500"/> <br><br>
   uid: v3
   projects: "MicrobiomeDB"
 
@@ -216,7 +216,7 @@
   question: "How can I learn more about the underlying methods used for analyses on the site (e.g. differential abundance testing, correlations, etc?"
   answer: |
            Some of our analysis apps have informational panels that be expanded to learn more details about how different computations are carried out.  If you still have questions that we didn't address, please reach out via our [Contact us page](https://microbiomedb.org/mbio/app/contact-us) or our [Discord page](https://discord.gg/arJ8SVq8QN). <br><br>
-           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/appInfoPanel.png" width="800" height="325" align="left"/> <br><br>
+           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/appInfoPanel.png" width="800" height="325"/> <br><br>
   uid: v4
   projects: "MicrobiomeDB"
 
