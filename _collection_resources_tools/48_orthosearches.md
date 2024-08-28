@@ -59,7 +59,7 @@ category: [OrthoMCL]
     </div>
     <div>
       <div>OrthoMCL groups may be identified using any of the specific searches available at the left of the home page or from the "Searches" drop-down menu at the top of the page.   </div>
-      <img style="width: 25em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/orthoMCL7GroupSearches.png" | absolute_url }}" alt="phyletic tree"/><br/><br/>
+      <img style="width: 20em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/orthoMCL7GroupSearches.png" | absolute_url }}" alt="phyletic tree"/><br/><br/>
       <div>Proteins in OrthoMCL may be identified using any of the specific searches available at the left of the home page or from the "Searches" drop-down menu at the top of the page.    </div>
-      <img style="width: 25em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/orthoMCL7ProteinSearches.png" | absolute_url }}" alt="phyletic tree"/><br/><br/>
+      <img style="width: 20em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/orthoMCL7ProteinSearches.png" | absolute_url }}" alt="phyletic tree"/><br/><br/>
     </div>
