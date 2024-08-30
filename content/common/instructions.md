@@ -13,7 +13,7 @@ tags: [general]
 <h3>Title 1</h3>
 
 I am downloading important data that may not exist elsewhere or might be a pain to locate.  To download bulk data sets, e.g. genome sequences, predicted proteins and transcripts, use the “Download data files” option located under the “Data” menu in toolbar for your favorite group of organisms. See the image below: 
-<img  src="{{ "/assets/images/instructions1a.png" | absolute_url }}" alt="" width="500px" />
+<br><br><img  src="{{ "/assets/images/instructions1a.png" | absolute_url }}" alt="" width="500px" />
 
 
 
@@ -27,7 +27,7 @@ Data that I find essential includes:
 </li></ul>
 
 The above files are available for each release of the databases, so if you have been working with an older release version, be sure to grab those files as well.  If you are comfortable with command line operations and “web services” you can also obtain bulk download data using Web Services under the Tools menu as shown below.
-<img  src="{{ "/assets/images/instructions1b.png" | absolute_url }}" alt="" width="500px" />
+<br><br><img  src="{{ "/assets/images/instructions1b.png" | absolute_url }}" alt="" width="500px" />
 
 <br><br>
 
@@ -47,10 +47,10 @@ As the new resources come online you will be able to find information at this NI
 
 
 If you would like to capture a lot of information about all genes for a particular organism, you can also download a customizable gene table containing the information of interest for each gene.  To do this, use the tool, Identify genes based on organism tool. Select your organism ( see images below).
-<img  src="{{ "/assets/images/instructions4a.png" | absolute_url }}" alt="" width="500px" />
+<br><br><img  src="{{ "/assets/images/instructions4a.png" | absolute_url }}" alt="" width="500px" />
 
 When the table of 3,994 genes appears, click on the “add columns” button in the upper right corner of the page to add or remove data columns as relevant to your needs and then download the resulting table (it may be huge) by clicking on the download button to the left of the add columns button.  See the image below for an example:
-<img  src="{{ "/assets/images/instructions4b.png" | absolute_url }}" alt="" width="500px" />
+<br><br><img  src="{{ "/assets/images/instructions4b.png" | absolute_url }}" alt="" width="500px" />
 
 <h3>Title 5</h3>
 If you are working on population variation data or gene and pathway expression data, I would make screen snapshot of any visualizations that are important to you and download tables of relevant data on the page where you generated your analysis.
