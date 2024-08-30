@@ -47,7 +47,7 @@ As the new resources come online you will be able to find information at this NI
 
 
 If you would like to capture a lot of information about all genes for a particular organism, you can also download a customizable gene table containing the information of interest for each gene.  To do this, use the tool, Identify genes based on organism tool. Select your organism ( see images below).
-<br><br><img  src="{{ "/assets/images/instructions4a.png" | absolute_url }}" alt="" width="500px" />
+<br><br><img  src="{{ "/assets/images/instructions4a.png" | absolute_url }}" alt="" width="250px" />
 
 When the table of 3,994 genes appears, click on the “add columns” button in the upper right corner of the page to add or remove data columns as relevant to your needs and then download the resulting table (it may be huge) by clicking on the download button to the left of the add columns button.  See the image below for an example:
 <br><br><img  src="{{ "/assets/images/instructions4b.png" | absolute_url }}" alt="" width="500px" />
