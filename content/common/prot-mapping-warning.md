@@ -9,9 +9,9 @@ title: OrthoMCL Protein Mapping tool
 
 <p style="font-size:120%">
 We are working on a replacement, expected before the end of September. Please check back soon.
-<br>
+<br><br>
 We are very sorry for the inconvenience.
-<br>
+<br><br>
 The VEuPathDB team
 </p>
 </div>
