@@ -8,8 +8,8 @@ title: OrthoMCL Protein Mapping tool
 <div class="static-content">
 
 <p>
-The veupathdb.globusgenomics.org site is down. We are working on a replacement for this tool. It should be available here soon. 
-Sorry for the inconvenience.
+Owing to funding changes at VEuPathDB, this tool is not currently available.
+We are working on a replacement, expected by the end of September. We are very sorry for the inconvenience.
 </p>
 <p>
 The VEuPathDB team
