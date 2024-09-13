@@ -8,7 +8,7 @@ title: Analyze my experimental data
 <div class="static-content">
 
 <p style="font-size:120%">
-Owing to funding changes at VEuPathDB, this tool is not currently available.
+Owing to funding changes at VEuPathDB, the VEuPathDB Galaxy is not currently available.
 <br><br>
 We are very sorry for the inconvenience.
 <br><br>
