@@ -166,10 +166,7 @@ tags: [general]
         </div>
         <div class="section-content">
           <p>
-            This project has been funded in whole or in part with Federal funds from the National
-            Institute of Allergy and Infectious Diseases, National Institutes of Health, Department
-            of Health and Human Services, under Contract No. HHSN266200400037C. The major PIs are
-            Drs. David Roos and Chris Stoeckert.
+            The major PIs of this project are Drs. David Roos and Chris Stoeckert.
           </p>
           <p>
             The OrthoMCL-DB project was initiated by Feng Chen in April 2005, and people from
