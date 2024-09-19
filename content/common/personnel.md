@@ -13,16 +13,16 @@ title: VEuPathDB personnel
 Jorge Alvarez, EBI Data Processing Manager<br>
 Cristina Aurrecoechea, User Interface and Portal Manager<br>
 John Brestelli, Data Development Manager<br>
-George Christophides, Co-I, NIAID BRC Contract<br>
+George Christophides, Co-I<br>
 Kathryn Crouch, Co-I, Wellcome Trust<br>
-Sarah Dyer, Co-I, NIAID BRC Contract<br>
+Sarah Dyer, Co-I<br>
 Steve Fischer, Software and Infrastructure Manager<br>
 Omar Harb, Director of Scientific Outreach & Education and Project Manager<br>
-Andy Jones, Wellcome Trust PI; Co-I NIAID BRC Contract <br>
-Jessica C Kissinger, Co-I, NIAID BRC Contract; WT Co-PI<br>
+Andy Jones, Wellcome Trust PI <br>
+Jessica C Kissinger, Co-I; WT Co-PI<br>
 Wei Li, Data Loading Manager<br>
-Mary Ann McDowell, Joint-PI, NIAID BRC Contract<br>
-David S Roos, Joint-PI, NIAID BRC Contract; WT Co-PI<br><br>
+Mary Ann McDowell, Joint-PI<br>
+David S Roos, Joint-PI; WT Co-PI<br><br>
     
 To contact any one of us please use the <a href="/a/app/contact-us">contact us form</a>.<br><br>
 
