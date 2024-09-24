@@ -12,7 +12,7 @@ tags: [general]
   <p><b>Overview</b>: The purpose of this tool is to map a set of proteins (usually a complete proteome from an organism) to OrthoMCL groups using Diamond BLASTP. The Diamond BLASTP search includes all ~8 million proteins in the OrthoMCL database which have been clustered into Core and Residual groups. The BLASTP significance cutoff is 1e 0.05.
   <ul>
   <li>You must be logged into your OrthoMCL DB account to upload your own data.</li>
-  <li>Your jobs persist between sessions, and will always be accessible in the "My jobs" tab when you are signed into your account.</li>
+  <li>Your queries persist between sessions, and will always be accessible in the "My jobs" tab when you are signed into your account.</li>
   </ul>
   </p>
 
