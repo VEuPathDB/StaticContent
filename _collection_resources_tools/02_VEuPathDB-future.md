@@ -18,7 +18,14 @@ p.indent {
     text-align: center;
     margin-top: 5px;
 }
-
+survey-link a {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
 </style>
 
 
