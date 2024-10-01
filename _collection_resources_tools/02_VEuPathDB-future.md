@@ -2,7 +2,7 @@
 identifier: future
 listTitle: Sustainability and Future 
 descriptionTitle: Sustainability and Future Directions
-listIconKey: hourglass-start
+listIconKey: fa-forward
 tags: [tutorial]
 title: Sustainability and Future Directions
 permalink: '#future'
@@ -14,15 +14,7 @@ p.indent {
 }
 
 </style>
-VEuPathDB genomic databases are continuing to offer bioinformatics services under a new organizational structure starting on October 2, 2024 after 20 years of serving the global scientific community with customized tools that support hypothesis driven research. We envision a future where we provide established functionalities as well as improve, streamline and grow the resource with front line data and tools in collaboration with researchers worldwide.<br><br>
-
-<b>Access starting October 2, 2024</b>:<br>
-   <p class="indent">All VEuPathDB sites are functional with free access worldwide, although we now require all users to log in. Accurate usage data will inform current resource allocation and future development. You will be prompted to log in to existing accounts and update your profile or register for a new account. Registration is free and compliant with privacy standards. <a href="https://gdpr-info.eu/">https://gdpr-info.eu/</a>  </p>
-<br>
-
-<b>Support for database access and updates</b>: <br>
-   <p class="indent">We are grateful be online with VEuPathDB Release 68 supported by The Foundation for the Advancement of Science & Medicine, Open Philanthropy, the Chan Zuckerberg Initiative, and the Universities of Pennsylvania and Georgia. These donors also provide 1 - 2 years of partial funding for organizational restructuring and limited new database builds that incorporate new data and features.  </p>
-
+VEuPathDB genomic databases will continue to provide bioinformatics services under a new organizational structure. For over 25 years, VEuPathDB has delivered bioinformatics solutions to research communities worldwide. It aims to establish a sustainable FAIR Access infrastructure that supports existing omics datasets and tools, as well as develops new tools and AI-driven approaches to enhance genome data and annotation. Our vision is not only to maintain established functionalities but also to improve, streamline, and expand resources by integrating cutting-edge data and tools in collaboration with researchers worldwide. Please complete a brief <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_50ZH5wxLQostZ8G">anonymous survey</a>, helping us to understand VEuPathDB usage and its impact on your work, and guide plans for the future.
 
 <b>Future outlook</b>: <br>
    <p class="indent">New tool and feature development will be driven by the needs of all research communities we serve, and will rely on additional funding. The long term sustainability of VEuPathDB will likely involve a combination of grants, donations and service contracts. We strive for transparent and open communications, especially during this period of transition. Stay tuned for more information as we make progress. And please feel free to send us your thoughts via our <a href="/a/app/contact-us">Contact Us</a> link or directly at <a href="mailto:help@veupathdb.org">help@veupathdb.org</a>. </p>
