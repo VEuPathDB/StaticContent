@@ -7,6 +7,7 @@ tags: [tutorial]
 title: "Analyze My Data"
 permalink: '#analyze'
 exclude: [OrthoMCL]
+published: false
 ---
 <div style="margin: auto; max-width: 51em;">
   <p>Use pre-configured workflows in VEuPathDB's Galaxy to analyze your data.  Workflows include:</p>
