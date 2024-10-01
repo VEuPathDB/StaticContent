@@ -22,7 +22,7 @@ category: [OrthoMCL]
 <a href="{{'/documents/OrthoMCL_protein_mapping_tutorial.pdf' | absolute_url}}"><b>Click here for a tutorial</b></a> on using the OrthoMCL Protein Mapping with Diamond BLASTP tool.
 <br>
 <div style="width: 10em; margin: 0 1em;">
-      <img style="width: 50em" src="{{ "/assets/images/resources_tools/ortho_assign_proteins.png" | absolute_url }}"/>
+      <img style="width: 50em" src="{{ "/assets/images/resources_tools/orthomcl_diamond_tool.png" | absolute_url }}"/>
 </div>
 
 
