@@ -6,7 +6,7 @@ listIconKey: usd
 tags: [tutorial]
 title: Funding
 permalink: '#funding'
-exclude:
+category: [OrthoMCL]
 ---
 <style>
 p.indent {
