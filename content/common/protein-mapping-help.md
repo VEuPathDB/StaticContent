@@ -12,7 +12,7 @@ tags: [general]
   <p><b>Overview</b>: The purpose of this tool is to map a set of proteins, usually a complete proteome from an organism, to existing OrthoMCL groups. Each entry in your set of proteins is queried with Diamond BLASTP against the full OrthoMCL database (~8 million proteins) and assigned to OrthoMCL groups (Core and Residual) based on the percent identity and e-values of your proteins' best hit within the OrthoMCL database. The BLASTP significance cutoff is 1e 0.05. 
   <ul>
   <li>You must be logged into your OrthoMCL DB account to upload your protein FASTA file.</li>
-  <li>Your queries persist between sessions, and will always be available in the "My jobs" tab which is accessible when you are signed into your account.</li>
+  <li>Uploaded proteome FASTA files will be stored on the system for 5 days.</li>
   </ul>
   </p>
 
@@ -30,6 +30,7 @@ tags: [general]
     <pre>Query_ID/Subject_ID/Orthogroup/Subject_description/Alignment_length/Percent_identity/e-value</pre>
   </li>
   <li>Unmatched query proteins are included in the results file without an OrthoMCL protein or group listed.</li>
+  <li>Results will be available in the "My jobs" tab which is accessible when you are signed into your account.</li>
   </ul>
   </p>
 
