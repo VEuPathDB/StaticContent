@@ -33,6 +33,6 @@ tags: [general]
   </ul>
   </p>
 
-  <p> <b>To Learn More</b>: <a href="/a/app/static-content/documents/OrthoMCL_protein_mapping_tutorial.pdf">Click here for a tutorial</a> on using the OrthoMCL Protein Mapping with Diamond BLASTP tool.
+  <p> <b>To Learn More</b>: <a href="static-content/documents/OrthoMCL_protein_mapping_tutorial.pdf">Click here for a tutorial</a> on using the OrthoMCL Protein Mapping with Diamond BLASTP tool.
   </p>
 </div>
