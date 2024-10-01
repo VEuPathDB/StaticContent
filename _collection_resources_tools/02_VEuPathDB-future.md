@@ -25,7 +25,7 @@ VEuPathDB genomic databases are continuing to offer bioinformatics services unde
 
 
 <b>Future outlook</b>: <br>
-   <p class="indent">New tool and feature development will be driven by the needs of all research communities we serve, and will rely on additional funding. Long term sustainability of VEuPathDB depends on additional funding which will likely involve a combination of grants, donations and service contracts. We strive for transparent and open communications, especially during this period of transition. Stay tuned for more information as we make progress. And please feel free to send us your thoughts via our <a href="/a/app/contact-us">Contact Us</a> link or directly at <a href="mailto:help@veupathdb.org">help@veupathdb.org</a>. </p>
+   <p class="indent">New tool and feature development will be driven by the needs of all research communities we serve, and will rely on additional funding. The long term sustainability of VEuPathDB will likely involve a combination of grants, donations and service contracts. We strive for transparent and open communications, especially during this period of transition. Stay tuned for more information as we make progress. And please feel free to send us your thoughts via our <a href="/a/app/contact-us">Contact Us</a> link or directly at <a href="mailto:help@veupathdb.org">help@veupathdb.org</a>. </p>
 
 
    
