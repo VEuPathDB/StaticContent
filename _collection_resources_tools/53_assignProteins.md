@@ -1,7 +1,7 @@
 ---
 identifier: "assignProteins"
 listIconKey: "connectdevelop"
-listTitle: "Assign Proteins to Groups"
+listTitle: "Map Proteins to Groups"
 descriptionTitle: "Map Proteins to Groups"
 tags: [tutorial]
 title: "Map Proteins to Groups"
