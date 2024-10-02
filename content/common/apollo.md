@@ -46,10 +46,6 @@ div.static-content p {
 
 </style>
 
-<div class="eupathdb-Announcement" style="margin: 3px; padding: 0.5em; border-radius: 0.5em; border-width: 1px; border-color: lightgrey; border-style: solid; background: rgb(227, 242, 253); display: block;"><div style="display: flex; justify-content: flex-start; align-items: center;"><span class="fa-stack" style="font-size: 1.2em;"><i class="fa fa-circle fa-stack-2x" style="color: rgb(0, 74, 255);"></i><i class="fa fa-info fa-stack-1x" style="color: white;"></i></span><div style="margin-left: 1em; display: inline-block; width: calc(100% - 5.5em); padding: 8px; vertical-align: middle; color: black; font-size: 1.2em;"><div><font size="+1">
-Please note that the NIAID contract supporting VEuPathDB will end on September 14, 2024. To prevent any loss of community annotations we will stop accepting further community edits in the Apollo platform on August 9th. Any existing community edits will be exported as GFF files, which will be made available for download. Detailed information on how to access these files will be provided before September 14th.
-</font></div></div>
-</div></div>
 
 <h1><b>Apollo</b>: A Tool for Structural and Functional Community Curation</h1>
 
