@@ -22,9 +22,9 @@ title: Usage Metrics
   <li><a href="/a/app/search/metrics/OrgPageViewMetrics">Organism-related Record pages</a></li>
 </ul></td></tr>
 
-<tr><td><b>Other Tools</b></td></tr>
+<tr><td><b>Other Tools (webservices, enrichment, SRT, downloads, etc</b></td></tr>
 <tr><td><ul>
-  <li><a href="/a/app/search/metrics/ToolMetrics">Other Tools</a></li>
+  <li><a href="/a/app/search/metrics/ToolMetrics">Tools</a></li>
 </ul></td></tr>
 
 
