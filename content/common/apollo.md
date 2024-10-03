@@ -53,7 +53,7 @@ div.static-content p {
 <div style="margin-left: 1em; display: inline-block; width: calc(100% - 5.5em); padding: 8px; vertical-align: middle; color: black; font-size: 1.2em;">
 
 <div><font size="+1">
-{{project}} Apollo is available in 'read only' mode. The interface is active for viewing, scrolling, and downloading of GFF, VCF, FASTA and GO files from the Ref Sequence tab.
+{{project}} Apollo is available in 'read only' mode. The interface is active for viewing and scrolling.
 </font>
 </div></div>
 </div></div>
