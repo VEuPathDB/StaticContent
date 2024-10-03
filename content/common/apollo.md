@@ -46,6 +46,18 @@ div.static-content p {
 
 </style>
 
+<div class="eupathdb-Announcement" style="margin: 3px; padding: 0.5em; border-radius: 0.5em; border-width: 1px; border-color: lightgrey; border-style: solid; background: rgb(227, 242, 253); display: block;">
+
+<div style="display: flex; justify-content: flex-start; align-items: center;"><span class="fa-stack" style="font-size: 1.2em;"><i class="fa fa-circle fa-stack-2x" style="color: rgb(0, 74, 255);"></i><i class="fa fa-info fa-stack-1x" style="color: white;"></i></span>
+
+<div style="margin-left: 1em; display: inline-block; width: calc(100% - 5.5em); padding: 8px; vertical-align: middle; color: black; font-size: 1.2em;">
+
+<div><font size="+1">
+{{project}} Apollo is available in 'read only' mode. The interface is active for viewing, scrolling, and downloading of GFF files using the Ref Sequence tab.
+</font>
+</div></div>
+</div></div>
+
 
 <h1><b>Apollo</b>: A Tool for Structural and Functional Community Curation</h1>
 
