@@ -12,7 +12,7 @@ title: Usage Metrics
 <tr><td><b>Searches</b></td></tr>
 <tr><td><ul>
   <li><a href="/a/app/search/metrics/SearchMetrics">Search popularity</a></li>
-  <li><a href="/a/app/search/metrics/OrgParamNameMetrics">"Number of Searches per Organism</a></li>
+  <li><a href="/a/app/search/metrics/OrgParamNameMetrics">Number of Searches per Organism</a></li>
   <li><a href="/a/app/search/metrics/OrgParamCountMetrics">Number of Organisms selected per Search</a></li>
 </ul></td></tr>
 
