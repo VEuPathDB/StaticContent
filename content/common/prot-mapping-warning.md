@@ -8,9 +8,7 @@ title: OrthoMCL Protein Mapping tool
 <div class="static-content">
 
 <p style="font-size:120%">
-Owing to funding changes at VEuPathDB, this tool is not currently available.
-<br><br>
-We are working on a replacement, expected before the end of September. Please check back soon.
+As VEuPathDB transitions to a new organizational strucutre, this tool is not available. We are working on a replacement, expected by the end of October. Please check back soon.
 <br><br>
 We are very sorry for the inconvenience.
 <br><br>
