@@ -53,7 +53,7 @@ div.static-content p {
 <div style="margin-left: 1em; display: inline-block; width: calc(100% - 5.5em); padding: 8px; vertical-align: middle; color: black; font-size: 1.2em;">
 
 <div><font size="+1">
-{{project}} Apollo is available in 'read only' mode. The interface is active for viewing and scrolling.
+The Apollo interface is active for viewing, scrolling, gene model editing and downloading of GFF3, VCF, FASTA and GO files from the Ref Sequence tab. Gene record pages and JBrowse contain 'Community annotations from Apollo' tracks for VEuPathDB reference genomes. 
 </font>
 </div></div>
 </div></div>
