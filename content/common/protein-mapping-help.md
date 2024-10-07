@@ -7,9 +7,9 @@ tags: [general]
 <!-- no need for a title in this page -->
 
 <div class="static-content">
-  <h3>Protein mapping with DIAMOND BLASTP</h3>
+  <h3>Protein mapping with DIAMOND blastp</h3>
 
-  <p><b>Overview</b>: The purpose of this tool is to map a set of proteins, usually a complete proteome from an organism, to existing OrthoMCL groups. Each entry in your set of proteins is queried with DIAMOND BLASTP against the full OrthoMCL database (~8 million proteins) and assigned to OrthoMCL groups (Core and Residual) based on the percent identity and e-values of your proteins' best hit within the OrthoMCL database. The BLASTP significance cutoff is 1e 0.05. 
+  <p><b>Overview</b>: The purpose of this tool is to map a set of proteins, usually a complete proteome from an organism, to existing OrthoMCL groups. Each entry in your set of proteins is queried with DIAMOND blastp against the full OrthoMCL database (~8 million proteins) and assigned to OrthoMCL groups (Core and Residual) based on the percent identity and e-values of your proteins' best hit within the OrthoMCL database. The blastp significance cutoff is 1e 0.05. 
   <ul>
   <li>You must be logged into your OrthoMCL DB account to upload your protein FASTA file.</li>
   <li>Uploaded proteome FASTA files will be stored on the system for 5 days.</li>
@@ -34,6 +34,6 @@ tags: [general]
   </ul>
   </p>
 
-  <p> <b>To Learn More</b>: <a href="{{'/documents/OrthoMCL_protein_mapping_tutorial.pdf' | absolute_url}}"><b>Click here for a tutorial</b></a> on using the OrthoMCL Protein Mapping with DIAMOND BLASTP tool.
+  <p> <b>To Learn More</b>: <a href="{{'/documents/OrthoMCL_protein_mapping_tutorial.pdf' | absolute_url}}"><b>Click here for a tutorial</b></a> on using the OrthoMCL Protein Mapping with DIAMOND blastp tool.
   </p>
 </div>
