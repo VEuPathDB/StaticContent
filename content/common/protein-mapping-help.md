@@ -9,7 +9,7 @@ tags: [general]
 <div class="static-content">
   <h3>Protein mapping with DIAMOND blastp</h3>
 
-  <p><b>Overview</b>: The purpose of this tool is to map a set of proteins, usually a complete proteome, to existing OrthoMCL groups in order to discover orthologs in other species as well as protein function. Each entry in your set of proteins is queried with DIAMOND blastp against the full OrthoMCL database (~8 million proteins) and assigned to OrthoMCL groups (Core and Residual) based on the percent identity and e-values of your proteins' best hit within the OrthoMCL database. DIAMOND is a newer computing alternative to BLAST, which is 10,000 times faster than BLAST while being only 0.1- 1% less sensitive. The blastp significance cutoff is 1e 0.05.
+  <p><b>Overview</b>: The purpose of this tool is to map a set of proteins, usually a complete proteome, to existing OrthoMCL groups in order to discover orthologs in other species as well as protein function. Each entry in your set of proteins is queried with DIAMOND blastp against the full OrthoMCL database (~8 million proteins) and assigned to OrthoMCL groups (Core and Residual) based on the percent identity and e-values of your proteins' best hit within the OrthoMCL database. DIAMOND is a newer computing alternative to BLAST, which is 10,000 times faster than BLAST while being only 0.1- 1% less sensitive. The expectation value (E-value) cutoff is 0.05, allowing you to filter the output file more stringently if required.
   <ul>
   <li>You must be logged into your OrthoMCL DB account to upload your protein FASTA file.</li>
   <li>Uploaded proteome FASTA files will be stored on the system for 5 days.</li>
