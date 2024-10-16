@@ -26,7 +26,7 @@
 - type: general
   question: "Can I use ClinEpiDB to analyze my own data?"
   answer: |
-           You can manage the release of your own study data on ClinEpiDB. After you have uploaded your dataset privately to “My Studies” (under the Workspace menu in the site header), just select any studies you own from the My Studies table and click the “Manage Access” button in the upper right. From here, you can choose to share the dataset with a select group of individuals or broadly with the ClinEpiDB Community. Please note that any study data with Community Access is immediately accessible from the Studies menu in the site header and downloadable by anyone who visits ClinEpiDB.
+           Look for "My Studies" under the workspace menu in the site header. You can upload your own dataset in the "New Upload" tab and perform exploratory data analysis. You can also manage the release of your own study data on ClinEpiDB. After you have uploaded your dataset privately to “My Studies”, just select any studies you own from the My Studies table and click the “Manage Access” button in the upper right. From here, you can choose to share the dataset with a select group of individuals or broadly with the ClinEpiDB Community. Please note that any study data with Community Access is immediately accessible from the Studies menu in the site header and downloadable by anyone who visits ClinEpiDB.
   uid: g3
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
