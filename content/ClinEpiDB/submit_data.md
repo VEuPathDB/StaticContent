@@ -40,7 +40,7 @@ tags: [general]
 
   <h2 id="cost-of-data-integration">What is the cost of data integration?</h2>
   <div>
-    <p>ClinEpiDB is an academic project that provides long-term access to its contents at no cost to data providers or data users. We are able to provide free data integration due to financial support from our funders. 
+    <p>ClinEpiDB is an academic project, providing access to large-scale clinical, field and epidemiological datasets at no cost to either the data providers or end users.  ClinEpiDB infrastructure – including the ability for users to upload and share their own data – is freely available for public use.  No support is currently available for further ontology development, data cleaning/curation, or infrastructure development (please <a target="_blank" href="https://clinepidb.org/ce/app/contact-us">contact us</a> for details). 
     </p>
   </div>
 
