@@ -48,7 +48,7 @@ Release webinar dates are subject to change due to production issues that may ar
 
 </div>-->
 
-  <h3>Upcoming</h3>
+  <h3>Upcoming Webinars & Community Meetings</h3>
   <div class="contents">   
    <hr style="width:30%; margin-left:0">  
   <div class="anchor"><a name="vectorbase_comm_nov24"></a></div>
