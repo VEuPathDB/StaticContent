@@ -47,10 +47,17 @@ Release webinar dates are subject to change due to production issues that may ar
   </div>
 
 </div>-->
+
   <h3>Upcoming</h3>
   <div class="contents">   
-  
-
+   <hr style="width:30%; margin-left:0">  
+  <div class="anchor"><a name="vectorbase_comm_nov24"></a></div>
+  <div class="webinar">
+  <b>Topic:</b> VectorBase Community Meeting<br>
+  <b>Date:</b> Monday, November 4, 2024<br>
+  <b>Time:</b> 10AM US Eastern Time<br>
+  <b>Registration:</b> <a href="Click here" target="_blank">https://upenn.zoom.us/meeting/register/tJMkdO6hqjsrH9MnkFMXFLwz81pgEnAuiBPK#/registration</a> <br>
+  <b>Details:</b> In this community meeting, the VEuPathDB team will present a brief status update and discuss our plans for the future. We will allot ample time to answering questions from the community. 
   <br><br>
 
   </div> <!--closing div contents for Upcoming Webinars -->
