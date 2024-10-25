@@ -199,27 +199,6 @@
             <img style="width:55em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/restrictionsite_faq.png"  />
   uid: restrictionsite
   projects: ""
-- type: others
-  question: "Exporting from Galaxy/Globus to VEuPathDB returns a user email not valid error. How can I fix this?"
-  answer: |
-           This is most likely caused by you having a Galaxy account created outside VEuPathDB.
-           To check this, click on “User” from the home page. If the email address listed does not end in “@veupathdb.org”, then you are using a non-VEuPathDB account. This account could have been created through the Globus system.
-           If you do not have a “@veupathdb.org” address listed here, our systems will not be able to link your Galaxy account to your VEuPathDB account.
-
-            <img src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_16.png"  />
-           
-
-           <p>To fix this, go here: https://app.globus.org/account/identities
-           You will likely have a primary identity consisting of your non-VEuPathDB email address:</p>
-
-            <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/Picture_genomics_17.png"  />
-
-           <p>If so, you need to unlink your VEuPathDB account from your other account by selecting ‘Manage Identities’ and pressing the Trash icon next to your VEuPathDB user name. This will not delete the VEuPathDB account, but will remove it from this particular Globus identity. Log out from this Globus identity.</p>
-           <p>Then, you must log out of Galaxy. Then log back into Galaxy using your VEuPathDB credentials -- this will likely create a new Galaxy account. Also, this will create a new Globus identity in which your VEuPathDB is the only account and also the primary identity. To verify that this worked, press the User menu in Galaxy and you should see your VEuPathDB user name: for example, mark123456789@veupathdb.org.</p>
-           <p>To transfer your work from your old non-VEuPathDB account to your new VEuPathDB account, share your history from the non-VEuPathDB account to the VEuPathDB account. Import the history into your VEuPathDB account.</p>
-           <p>Now you can export to our VEuPathDB websites. You should use this particular Galaxy account to do your future VEuPathDB work, so that you can export to VEuPathDB and so that we can contact you with important information about VEuPathDB Galaxy.</p>
-  uid: galaxy
-  projects: ""
 - type: general
   question: "How do I select my organism preferences?"
   answer: |
