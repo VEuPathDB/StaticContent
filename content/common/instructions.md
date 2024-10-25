@@ -35,14 +35,6 @@ The above files are available for each release of the databases, so if you have 
 
 As VEuPathDB is a knowledgebase, i.e. we are not the archival repository, much of our functionality resides in our tools. There will be no login functionality after shutdown, so, if you have previously run searches and saved the results, you may wish to login and download these data from your saved history.
 
-<h3>Download any data, histories and workflows you have in the VEuPathDB Galaxy instance</h3>
-
-VEuPathDB provided its own Galaxy instance and pipelines for you to analyze your own data. If you used these services, please download your results and even text versions of the workflow(s) you used so you can accurately detail your methods when you publish.  It is my understanding that Galaxy services will be provided to the community from one of the new awardees.
-
-
-As the new resources come online you will be able to find information at this NIAID link:  https://www.niaid.nih.gov/research/bioinformatics-resource-centers.  The new resources will have new names and URLs.  We will post any updates on our resources on our website URLs, e.g. VEuPathDB.org
-
-
 <h3>Capturing information presented on Gene Pages</h3>
 
 
