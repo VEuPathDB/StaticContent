@@ -26,7 +26,7 @@ The OrthoMCL website provides a web page for each orthogroup, showing annotated 
 
 <br><br>
 
-Users can map their own set of proteins (e.g., an entire set of protein sequences derived from a genome sequence of an organism) into OrthoMCL groups. See the <a href="/a/app/workspace/map-proteins/new" target="_blank">Assign Proteins to Groups</a> page.
+Users can map their own set of proteins (e.g., an entire set of protein sequences derived from a genome sequence of an organism) into OrthoMCL groups. See the <a href="https://feature.orthomcl.org/orthomcl.feature/app/workspace/map-proteins/new" target="_blank">Assign Proteins to Groups</a> page.
 
 <br><br>
 
