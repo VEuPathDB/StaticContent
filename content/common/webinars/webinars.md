@@ -56,13 +56,13 @@ Release webinar dates are subject to change due to production issues that may ar
   <b>Topic:</b> VectorBase Community Meeting<br>
   <b>Date:</b> Monday, November 4, 2024<br>
   <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> <a href="Click here" target="_blank">https://upenn.zoom.us/meeting/register/tJMkdO6hqjsrH9MnkFMXFLwz81pgEnAuiBPK#/registration</a> <br>
+  <b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJMkdO6hqjsrH9MnkFMXFLwz81pgEnAuiBPK#/registration">Click here to register now</a><br>
   <b>Details:</b> In this community meeting, the VEuPathDB team will present a brief status update and discuss our plans for the future. We will allot ample time to answering questions from the community. 
 <br><br>
   <b>Topic:</b> FungiDB Community Meeting<br>
   <b>Date:</b> Tuesday, November 12, 2024<br>
   <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> <a href="Click here" target="_blank">https://upenn.zoom.us/meeting/register/tJUud-6urz8qEtzfIT-X5axAXz7fTJmhj5_A#/registration</a> <br>
+  <b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJUud-6urz8qEtzfIT-X5axAXz7fTJmhj5_A#/registration">Click here to register now</a> <br>
   <b>Details:</b> This VEuPathDB community meeting will focus on FungiDB users and include a short introduction about where we stand and our plans. Ample time will be given for discussion and questions from attendees.  
   <br><br>
 
