@@ -137,7 +137,7 @@ div.instructor-table {
   <div class="workshop">
   
   <p><h2>About the workshop</h2></p>
-  <p>In this workshop, instructors will introduce and demonstrate the powerful tools and features of VEuPathDB to support hypothesis-driven research. Brief lectures will lead into hands-on exercises conducted through informal Zoom sessions that encourage discussion and interaction. The goal is for participants to gain a clear understanding of the extensive data available, learn how to navigate and utilize VEuPathDB resources for data mining, and apply preconfigured workflows to analyze standalone data. VEuPathDB workshop exercises are easily transferable across all component sites, including AmoebaDB, CryptoDB, FungiDB, GiardiaDB, HostDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB, and VectorBase. If you have any further questions, please <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us</a> for further information. </h4></p>
+  <p>In this workshop, instructors will introduce and demonstrate the powerful tools and features of VEuPathDB to support hypothesis-driven research. Brief lectures will lead into hands-on exercises conducted through informal Zoom sessions that encourage discussion and interaction. The goal is for participants to gain a clear understanding of the extensive data available, learn how to navigate and utilize VEuPathDB resources for data mining, and apply preconfigured workflows to analyze standalone data. VEuPathDB workshop exercises are easily transferable across all component sites, including AmoebaDB, CryptoDB, FungiDB, GiardiaDB, HostDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB, and VectorBase. If you have any further questions, please <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us</a> for further information.</p>
 
   <p>Expected learning objectives:</p>
     <ul>
@@ -149,8 +149,8 @@ div.instructor-table {
           <li>RNAseq and microarrays data searches: Use differential expression, fold change, and percentile searches to examine gene expression.</li>
           <li>Proteomics data searches: Use mass spectrometry data to identify genes based on expression evidence.</li>
         </ul>
-      <li>Genome browser: Navigate menu options, add and customize data tracks, interpret RNA-seq data, and verify gene models. </li>
-      <li>Gene Ontology (GO) enrichment: Perform and analyze a GO enrichment analysis.</li>
+      <li><b>Genome browser</b>: Navigate menu options, add and customize data tracks, interpret RNA-seq data, and verify gene models. </li>
+      <li><b>Gene Ontology (GO) enrichment</b>: Perform and analyze a GO enrichment analysis.</li>
     </ul>
 <br><br>
 
