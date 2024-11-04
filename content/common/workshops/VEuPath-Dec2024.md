@@ -370,11 +370,11 @@ div.instructor-table {
       <br>
     
    <h2>Questions</h2>
-  Please direct inquiries or questions to <a href="https://fungidb.org/fungidb/app/contact-us">help@fungidb.org</a>
+  Please direct inquiries or questions to <a href="https://veupathdb.org/veupathdb/app/contact-us">>help@veupathdb.org</a>
   <br><br>
 
   <h2>More about VEuPathDB</h2>
-  We invite you to read our latest publication on VEuPathDB, <a href="https://pubmed.ncbi.nlm.nih.gov/34718728/" target="_blank">Amos et al 2022</a> and to explore our resources on the <a href="https://www.youtube.com/user/EuPathDB" target="_blank">You Tube Channel</a> and our library of <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">recorded webinars and workshops</a>. Our aim is to foster an ongoing, productive dialogue with you to find more efficient ways to support your research goals. Whether or not you attend the workshop, please feel free to reach out with questions, feature suggestions, or new data at <a href="https://veupathdb.org/veupathdb/app/contact-us">help@vupathdb.org</a>.  
+  We invite you to read our latest publication on VEuPathDB, <a href="https://pubmed.ncbi.nlm.nih.gov/34718728/" target="_blank">Amos et al 2022</a> and to explore our resources on the <a href="https://www.youtube.com/user/EuPathDB" target="_blank">You Tube Channel</a> and our library of <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">recorded webinars and workshops</a>. Our aim is to foster an ongoing, productive dialogue with you to find more efficient ways to support your research goals. Whether or not you attend the workshop, please feel free to reach out with questions, feature suggestions, or new data at <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>.  
   <br><br>
       <br>
       <br>
