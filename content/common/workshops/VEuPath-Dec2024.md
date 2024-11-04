@@ -174,6 +174,10 @@ div.instructor-table {
       </thead>
       <tbody>
         <tr>
+          <td>Nupur Kittur, PhD</td>
+          <td>University of Georgia, USA</td>
+        </tr>
+        <tr>
           <td>Ulrike Boehme, PhD</td>
           <td>University of Liverpool, UK</td>
         </tr>
@@ -199,10 +203,6 @@ div.instructor-table {
         </tr>
         <tr>
           <td>Jessica Kissinger, PhD</td>
-          <td>University of Georgia, USA</td>
-        </tr>
-        <tr>
-          <td>Nupur Kittur, PhD</td>
           <td>University of Georgia, USA</td>
         </tr>
         <tr>
