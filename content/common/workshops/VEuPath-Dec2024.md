@@ -175,39 +175,39 @@ div.instructor-table {
       <tbody>
         <tr>
           <td>Evelina Basenko, PhD</td>
-          <td>University of Liverpool</td>
+          <td>University of Liverpool, UK</td>
         </tr>
         <tr>
           <td>Ulrike Boehme, PhD</td>
-          <td>University of Liverpool</td>
+          <td>University of Liverpool, UK</td>
         </tr>
         <tr>
           <td>Stuart Brown, PhD</td>
-          <td>University of Pennsylvania</td>
+          <td>University of Pennsylvania, USA</td>
         </tr>
         <tr>
           <td>Helen Davison, PhD</td>
-          <td>University of Liverpool</td>
+          <td>University of Liverpool, UK</td>
         </tr>
         <tr>
           <td>Kathryn Crouch, PhD</td>
-          <td>University of Glasgow</td>
+          <td>University of Glasgow, UK</td>
         </tr>
         <tr>
           <td>Omar S. Harb, PhD</td>
-          <td>University of Pennsylvania</td>
+          <td>University of Pennsylvania, USA</td>
         </tr>
         <tr>
           <td>Jessica Kissinger, PhD</td>
-          <td>University of Georgia</td>
+          <td>University of Georgia, USA</td>
         </tr>
         <tr>
           <td>Nupur Kittur, PhD</td>
-          <td>University of Georgia</td>
+          <td>University of Georgia, USA</td>
         </tr>
         <tr>
           <td>Susanne Warrenfeltz, PhD</td>
-          <td>University of Georgia</td>
+          <td>University of Georgia, USA</td>
         </tr>  
       </tbody>
     </table>
