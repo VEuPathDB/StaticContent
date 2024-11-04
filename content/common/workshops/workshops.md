@@ -103,7 +103,7 @@ th.recording {
   <h3>Upcoming Workshops</h3>
   <br>
   <div class="contents">
-  <h4><a href="/a/app/static-content/workshopDec2023.html">VEuPathDB Virtual, Dec 11-13, 2024</a></h4>
+  <h4><a href="/a/app/static-content/workshopDec2024.html">VEuPathDB Virtual, Dec 11-13, 2024</a></h4>
   <p>Times: Monday, Dec 11 &ndash; Thursday Dec 12, 10am - 1:00 PM US Eastern time every day with optional question and answer session 1 - 1:30pm Eastern daily</p>
   <p>Location: This workshop is virtual via Zoom.</p>
   <p>More Information: <a href="/a/app/static-content/workshopDec2024.html">Workshop information and schedule</a></p>
