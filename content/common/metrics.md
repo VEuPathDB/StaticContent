@@ -13,7 +13,7 @@ title: Usage Metrics
 <tr><td><ul>
   <li><a href="/a/app/search/metrics/LoginStats">Number of users who logged in</a></li>
   <li><a href="/a/app/search/metrics/PageViewStats">Page view stats</a></li>
-  <li><a href="/a/app/search/metrics/RecordPageViewsStats">Record page views stats</a></li>
+  <li><a href="/a/app/search/metrics/RecordPageViewStats">Record page views stats</a></li>
   <li><a href="/a/app/search/metrics/OrgPageViewMetrics">Organism-related Record pages views</a></li>
   <li><a href="/a/app/search/metrics/GenePageTableMetrics">Gene page: Table requests</a></li>
   <li><a href="/a/app/search/metrics/Awstats">Awstats</a></li>
