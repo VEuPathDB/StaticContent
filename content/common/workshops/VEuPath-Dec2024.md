@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Workshops
-permalink: /FungiDBworkshop2023
+permalink: /workshopDec2024
 tags: [workshop-exercise]
 ---
 <style>
@@ -115,20 +115,20 @@ div.instructor-table {
 </style>
 
 <p><a href="/">Home</a> >> Help >> 
-   <a href="/a/app/static-content/landing.html">Learn how to use FungiDB</a> >> 
+   <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> 
    <a href="/a/app/static-content/workshops.html">Workshops</a></p>
 
-<h1>FungiDB Workshop (Virtual) </h1>
+<h1>VEuPathDB Virtual Workshop December 11-13, 2024</h1>
 <div class="static-content">
 
 
-  <div class="centered-title">        
-    
-    <p><h4><b>When:</b> 26 - 28 July 2023, 2:00 - 5:00 p.m. (Uganda time zone). <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4></p>
-    <h4><b>Where:</b> Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda (first come first served basis) <b>and</b> on Zoom. The workshop will be delivered via Zoom in its entirety.</h4>          
-    <h4><b>How to apply:</b> Application deadline: 01 July 2023. Registration: closed</h4> 
-    <p><h4>This workshop is free. Registration and internet access are required.</h4></p>   
-  </div>
+  <div class="centered-title">
+      <h4>Registration deadline was Monday December 4, 2024. Register by completing the <a href="LINK" target="_blank">registration form</a>. The information provided in the form is confidential and helps us understand our prospective audience, allowing us to tailor examples and exercises accordingly. Once registration closes, you will receive an email asking you to confirm your availability for the workshop dates and times. After you confirm, we will send you the workshop details.</h4>
+      <!--<h4>Registration is closed.  Please <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us</a> for further information. </h4>-->
+      <h4>10am - 1pm (EST) daily with optional Q/A until 1:30pm - <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
+      <h4><a href="#Schedule">Schedule</a> &ndash; find PDF exercises, lecture recordings, and lecture slides linked here.</h4>
+      <h4><a href="https://youtu.be/wFRjWXjC5L4" target="_blank">Pre-recorded Introductory Lecture</a> by Dr. Jessica Kissinger. We highly recommend watching the video before the workshop starts on Dec 11th. <a href="LINK" target="_blank">LINK</a></h4>
+    </div>
   
 
 <div class="contents">
@@ -137,38 +137,29 @@ div.instructor-table {
   <div class="workshop">
   
   <p><h2>About the workshop</h2></p>
-  <p>Instructors will describe and demonstrate the FungiDB tools and features that can be used for hypothesis driven research with the emphasis on <i>Cryptococcus</i> species.  The workshop will include short lectures and guided hands-on exercises where discussion and conversation are encouraged. The objective is for attendees to leave with an understanding of the breadth of data available, how to effectively use FungiDB resources to mine the available data, and to use preconfigured workflows to analyze unintegrated data.</p>
+  <p>In this workshop, instructors will introduce and demonstrate the powerful tools and features of VEuPathDB to support hypothesis-driven research. Brief lectures will lead into hands-on exercises conducted through informal Zoom sessions that encourage discussion and interaction. The goal is for participants to gain a clear understanding of the extensive data available, learn how to navigate and utilize VEuPathDB resources for data mining, and apply preconfigured workflows to analyze standalone data. VEuPathDB workshop exercises are easily transferable across all component sites, including AmoebaDB, CryptoDB, FungiDB, GiardiaDB, HostDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB, and VectorBase. If you have any further questions, please <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us</a> for further information. </h4></p>
 
   <p>Expected learning objectives:</p>
     <ul>
-      <li>Site Search: use keywords to find records in FungiDB, filter and explore results, export to strategies</li>
-      <li>Organism preferences: enable and disable to explore all <i>Cryptococcus</i> organisms or a subset tailored to your research objectives </li>
-      <li>Gene pages: become familiar with navigation within the gene page, link to dynamic visualizations in the genome browser JBrowse or Apollo, a collaborative platform for structural and functional gene annotation.</li>
-      <li>Searches and strategies: search data sets using pre-configured searches (e.g. transmembrane domain search) and create advanced multi-step strategies using RNA-Seq, proteoomics, SNPs and other types of records</li>
-      <li>Genome browser: use menu and navigation options, add and configure data tracks, interpret data (RNA Seq) and check gene models.</li>
-      <li>Gene Ontology (GO) enrichment: run and analyze a GO enrichment analysis </li>
-      <li>Apollo: learn how to manually annotate a gene, which involves both structural changes (intron/exon boundaries) and metadata (gene name and symbol)</li>
-      <li>Galaxy: learn how perform bioinformatic analyses using a web-based platform for omics data analysis, <i>e.g.</i> RNAseq transcript differential expression or SNP calling </li> 
+      <li><b>Site search</b>: Use keywords to locate VEuPathDB records, filter and explore results, and export them into strategies</li>
+      <li><b>Organism preferences</b>: Enable or disable specific organisms to explore either all available options or a targeted subset aligned with your research goals</li>
+      <li><b>Gene pages</b>: Familiarize yourself with the available data and tools, navigate within the gene page, and access dynamic visualizations through the genome browser JBrowse.</li>
+      <li><b>Searches and strategies</b>: Explore datasets with over 100 pre-configured searches and combine results to create multi-step strategies.</li>
+        <ul>
+          <li>RNAseq and microarrays data searches: Use differential expression, fold change, and percentile searches to examine gene expression.</li>
+          <li>Proteomics data searches: Use mass spectrometry data to identify genes based on expression evidence.</li>
+        </ul>
+      <li>Genome browser: Navigate menu options, add and customize data tracks, interpret RNA-seq data, and verify gene models. </li>
+      <li>Gene Ontology (GO) enrichment: Perform and analyze a GO enrichment analysis.</li>
     </ul>
-    <br>
-
-  <h2>How to apply</h2>
-    <ul>
-        <li>Registration: closed</li>
-        <li>Application deadline is 01 July, 2023.</li>
-    </ul> 
-  <br>
-      
-  <h2>Cost and fees</h2>
-  The workshop is free and offered via the Zoom platform. 
-  <br><br>
+<br><br>
 
   <h2>Computer and internet access</h2>
-  The participants can attend the workshop at the Computer lab at the African Center of Excellence in Bioinformatics & Data-intensive Sciences (ACE), Uganda <b>and</b> on Zoom. The ACE computer lab has 24 seats that will be allocated on a first come first serve basis. Persons joining remotely, will need to have access to a computer and sufficient bandwidth to be able to deploy web-based searches. 
+ We recommend using a laptop or desktop computer with Zoom installed and a Wi-Fi or wired internet connection. While Zoom can run on cell phones, they aren’t sufficient for completing the hands-on exercises.
   <br><br>
 
-  <h2>Course materials and recording</h2>
-  Course materials will be made available as pdf documents. Workshop lectures and demonstrations will be recorded and posted on this website. Guided hands-on modules will not be recorded. 
+  <h2>Cost and fees</h2>
+  The workshop is free and open to everyone. Feel free to share the workshop information and registration details with your colleagues.
   <br><br>
 
   <h2>Instructors</h2>
@@ -183,49 +174,46 @@ div.instructor-table {
       </thead>
       <tbody>
         <tr>
-          <td>Evelina Basenko</td>
-          <td>University of Liverpool, UK</td>
-        </tr>  
-        <tr>
-          <td>Omar Harb</td>
-          <td>University of Pennsylvania, USA</td>
-        </tr>  
-        <tr>
-          <td>Ulrike Böhme</td>
-          <td>University of Liverpool, UK</td>
-        </tr>    
-      </tbody>
-    </table>
-    </div>
-  <br>
-
-  <div class="instructor-table">
-    <table>
-      <thead>
-        <tr>
-          <th>Co-instructor</th>
-          <th>Institution</th>
+          <td>Evelina Basenko, PhD</td>
+          <td>University of Liverpool</td>
         </tr>
-      </thead>
-      <tbody>
         <tr>
-          <td>Fredrick Kakembo</td>
-          <td>African Centers of Excellence in Bioinformatics, Uganda</td>
+          <td>Ulrike Boehme, PhD</td>
+          <td>University of Liverpool</td>
+        </tr>
+        <tr>
+          <td>Stuart Brown, PhD</td>
+          <td>University of Pennsylvania</td>
+        </tr>
+        <tr>
+          <td>Helen Davison, PhD</td>
+          <td>University of Liverpool</td>
+        </tr>
+        <tr>
+          <td>Kathryn Crouch, PhD</td>
+          <td>University of Glasgow</td>
+        </tr>
+        <tr>
+          <td>Omar S. Harb, PhD</td>
+          <td>University of Pennsylvania</td>
+        </tr>
+        <tr>
+          <td>Jessica Kissinger, PhD</td>
+          <td>University of Georgia</td>
+        </tr>
+        <tr>
+          <td>Nupur Kittur, PhD</td>
+          <td>University of Georgia</td>
+        </tr>
+        <tr>
+          <td>Susanne Warrenfeltz, PhD</td>
+          <td>University of Georgia</td>
         </tr>  
-        <tr>
-          <td>Nupur Kittur</td>
-          <td>University of Georgia, USA</td>
-        </tr>    
-        <tr>
-          <td>Susanne Warrenfeltz</td>
-          <td>University of Georgia, USA</td>
-        </tr>    
       </tbody>
     </table>
     </div>
   <br>
-
-  
+   
   <div class="anchor"><a name="Schedule"></a></div>
   <details open>
     <summary><b>Schedule</b> </summary>
