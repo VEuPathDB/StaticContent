@@ -123,12 +123,12 @@ div.instructor-table {
 
 
   <div class="centered-title">
-      <h4>Registration deadline is Monday December 4, 2024. Register by completing the <a href="LINK" target="_blank">registration form</a>. Once registration closes, you will receive an email asking you to confirm your availability for the workshop dates and times. After we receive a confirmation, we will send you Zoom details.</h4>
+      <h4>Registration deadline is Monday December 4, 2024. Register by completing the <a href="LINK" target="_blank">registration form</a>. Once registration closes, participants will receive an email asking to confirm the availability for the workshop. After you have confirmed your participation, Zoom details will be provide in an email.</h4>
       <!--<h4>Registration is closed.  Please <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us</a> for further information. </h4>-->
       <h4>Workshop times: 10 AM - 1 PM (EST) daily with optional Q/A until 1:30 PM - <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
       <h4><a href="#Schedule">Schedule</a> &ndash; find PDF exercises, lecture recordings, and lecture slides linked here.</h4>
       <h4><a href="https://youtu.be/wFRjWXjC5L4" target="_blank">Pre-recorded Introductory Lecture</a> by Dr. Jessica Kissinger. We highly recommend watching the video before the workshop starts on Dec 11th. <a href="LINK" target="_blank">LINK</a></h4>
-    </div>
+  </div>
   
 
 <div class="contents">
