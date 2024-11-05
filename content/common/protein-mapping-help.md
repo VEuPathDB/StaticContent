@@ -23,7 +23,7 @@ tags: [general]
   <li>Header line must start with a greater than (>) symbol and end with a carriage return.</li>
   </ul>
   </p>
-  <img style="width: 50em" src="{{ "/assets/images/resources_tools/fasta_example.png" | absolute_url }}"/>
+  <img style="width: 30em" src="{{ "/assets/images/resources_tools/fasta_example.png" | absolute_url }}"/>
 
   <p><b>Output: Understanding the DIAMOND job result page</b>
   <ul>
