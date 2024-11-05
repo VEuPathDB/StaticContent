@@ -18,11 +18,12 @@ tags: [general]
 
   <p><b>Input: How to prepare data for upload</b>
   <ul>
-  <li>Upload your set of proteins as a <a href="https://zhanggroup.org/FASTA/#:~:text=What%20is%20FASTA%20format%3F,by%20lines%20of%20sequence%20data">FASTA</a> file.</li>
+  <li>Upload your set of proteins as a <a href="https://zhanggroup.org/FASTA/#:~:text=What%20is%20FASTA%20format%3F,by%20lines%20of%20sequence%20data">FASTA</a> file. An example of a properly formatted FASTA file is shown below.</li>
   <li>The single-line description/header for each protein sequence in the FASTA file must begin with a unique protein identifier.</li>
   <li>Header line must start with a greater than (>) symbol and end with a carriage return.</li>
   </ul>
   </p>
+  <img style="width: 40em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/fasta_example.png" | absolute_url }}" alt="cluster"/><br/>
 
   <p><b>Output: Understanding the DIAMOND job result page</b>
   <ul>
