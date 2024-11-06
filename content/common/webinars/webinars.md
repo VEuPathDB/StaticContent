@@ -50,7 +50,7 @@ Release webinar dates are subject to change due to production issues that may ar
 
   <h3>Upcoming Webinars & Community Meetings</h3>
   <div class="contents">   
-   <hr style="width:30%; margin-left:0">  
+  <hr style="width:30%; margin-left:0">  </div>
   <div class="anchor"><a name="vectorbase_comm_nov24"></a></div>
   <div class="webinar">
   <b>Topic:</b> FungiDB Community Meeting<br>
@@ -445,7 +445,7 @@ Release webinar dates are subject to change due to production issues that may ar
            <li>Galaxy tools</li></ul><br></td>
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/YprhSDTvsEE?si=H9ngtwxwGYhibXmS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>  
-
+</div> 
 
 
 
