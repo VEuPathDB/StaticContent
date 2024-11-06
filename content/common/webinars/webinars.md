@@ -113,7 +113,7 @@ Release webinar dates are subject to change due to production issues that may ar
 </div>   
  <br><br>
  
-<div class="anchor"><a name="On-Demand Webinars"></a></div>
+<div class="anchor"><a name="On-Demand Webinars"></a>
 <div class="contents">
   <details open>
     <summary><h3>On-Demand Training</h3> </summary>
