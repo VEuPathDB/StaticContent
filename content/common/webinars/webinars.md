@@ -6,7 +6,7 @@ tags: [general]
 ---
 <style>
   div.contents {
-    margin-left: 1em;
+    margin-left: 0;
     margin-bottom: 1em;
   }
   div.contents p {
@@ -71,7 +71,6 @@ Release webinar dates are subject to change due to production issues that may ar
 
 <div class="anchor"><a name="community meetings"></a></div>
 <div class="contents">
-<hr style="margin-left:0">
 <details open>
 <summary><h3>Community Meetings</h3></summary>
 <ul>
