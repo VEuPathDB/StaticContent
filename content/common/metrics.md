@@ -11,19 +11,27 @@ title: Usage Metrics
 
 <tr><td><b>Users, Page views, Awstats</b></td></tr>
 <tr><td><ul>
-  <li><a href="/a/app/search/metrics/LoginStats">#Users who logged in, #registrations</a>: from oauth logins.log and the user database to discover the number of registered users</li>
-  <li><a href="/a/app/search/metrics/PageViewStats">#Page views by #Users (guest vs. registered)</a>: from tomcat webapp page-views.log</li>
-  <li><a href="/a/app/search/metrics/RecordPageViewStats">#Record page views</a>: from w* access_log (* based on where you run)</li>
-  <li><a href="/a/app/search/metrics/OrgPageViewMetrics">#Organism-related record pages views</a>: from site client reporting/prometheus metrics</li>
-  <li><a href="/a/app/search/metrics/GenePageTableMetrics">Gene page: #Table requests per type</a>: from site client reporting/prometheus metrics</li>
+  <li><a href="/a/app/search/metrics/LoginStats"># Logins and registrations</a>: 
+    <ul><li>from oauth logins.log and the user database to discover the number of registered users</li></ul></li>
+  <li><a href="/a/app/search/metrics/PageViewStats"># Page views (by guest vs. registered)</a>: 
+    <ul><li>from tomcat webapp page-views.log</li></ul></li>
+  <li><a href="/a/app/search/metrics/RecordPageViewStats"># Record page views</a>: 
+    <ul><li>from w* access_log (* based on where you run)</li></ul></li>
+  <li><a href="/a/app/search/metrics/OrgPageViewMetrics"># Organism-related record pages views</a>: 
+    <ul><li>from site client reporting/prometheus metrics</li></ul></li>
+  <li><a href="/a/app/search/metrics/GenePageTableMetrics">Gene page: # Table requests</a>: 
+    <ul><li>from site client reporting/prometheus metrics</li></ul></li>
   <li><a href="/a/app/search/metrics/Awstats">Awstats</a></li>
 </ul></td></tr>
 
 <tr><td><b>Searches</b></td></tr>
 <tr><td><ul>
-  <li><a href="/a/app/search/metrics/SearchMetrics">Search popularity</a>: based on step information in the user database</li>
-  <li><a href="/a/app/search/metrics/OrgParamNameMetrics">#Searches per organism</a>: based on step information in the user database</li>
-  <li><a href="/a/app/search/metrics/OrgParamCountMetrics">#Organisms selected in #searches</a>: based on step information in the user database</li>
+  <li><a href="/a/app/search/metrics/SearchMetrics">Search popularity</a>: 
+    <ul><li>based on step information in the user database</li></ul></li>
+  <li><a href="/a/app/search/metrics/OrgParamNameMetrics"># Searches per organism</a>: 
+    <ul><li>based on step information in the user database</li></ul></li>
+  <li><a href="/a/app/search/metrics/OrgParamCountMetrics"># Organisms selected in # searches</a>: 
+    <ul><li>based on step information in the user database</li></ul></li>
 </ul></td></tr>
 
 <tr><td><b>Tool usage (webservices, jbrowse, enrichment, SRT, downloads, etc)</b></td></tr>
