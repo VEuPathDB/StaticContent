@@ -80,7 +80,7 @@ Release webinar dates are subject to change due to production issues that may ar
 </div>   
  <br><br>
 
- <div class="anchor"><a name="release"></a></div>
+<div class="anchor"><a name="release"></a></div>
 <div class="contents">
 <details closed>
 <summary><h3>Releases</h3></summary>
