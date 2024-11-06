@@ -11,7 +11,7 @@ title: Usage Metrics
 
 <tr><td><b>Users, Page views, Awstats</b></td></tr>
 <tr><td><ul>
-  <li><a href="/a/app/search/metrics/LoginStats">#Users who logged in</a>: from oauth logins.log and the user database to discover the number of registered users</li>
+  <li><a href="/a/app/search/metrics/LoginStats">#Users who logged in, #registrations</a>: from oauth logins.log and the user database to discover the number of registered users</li>
   <li><a href="/a/app/search/metrics/PageViewStats">#Page views by #Users (guest vs. registered)</a>: from tomcat webapp page-views.log</li>
   <li><a href="/a/app/search/metrics/RecordPageViewStats">#Record page views</a>: from w* access_log (* based on where you run)</li>
   <li><a href="/a/app/search/metrics/OrgPageViewMetrics">#Organism-related record pages views</a>: from site client reporting/prometheus metrics</li>
