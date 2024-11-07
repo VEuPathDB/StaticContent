@@ -255,7 +255,7 @@ div.instructor-table {
             <td>11:50 AM - 12:05 PM<br>
                 Zoom</td>
             <td>Introduction to search strategies</td>
-          <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/sMf3brfd_Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/sMf3brfd_Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>       
           <tr>
             <td>12:05 - 12:50 PM<br>
@@ -268,15 +268,15 @@ div.instructor-table {
             <td>12:50 - 1:00 PM<br>
                 Zoom</td>
             <td>Summary of DAY 1</td>
-           <td><br>
+            <td><br>
               <a  target="_blank" href="{{'/documents/ACE2023/Advanced_search_strategy.pdf' | absolute_url}}">Advanced search strategies I</a><br>
               <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies II</a><br><br></td>
           </tr>
-           <tr>
+          <tr>
             <td>1:00 - 1:30 PM<br>
                 Zoom</td>
             <td>Discussion & Q&A (optional)</td>
-           <td><br>
+           <td></td><br>
           </tr>
         </tbody>
       </table>
