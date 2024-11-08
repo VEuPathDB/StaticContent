@@ -127,7 +127,7 @@ div.instructor-table {
       <!--<h4>Registration is closed.  Please <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us</a> for further information. </h4>-->
       <h4>Workshop times: 10 AM - 1 PM (EST) daily with optional Q/A until 1:30 PM - <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
       <h4><a href="#Schedule">Schedule</a> &ndash; find PDF exercises, lecture recordings, and lecture slides linked here.</h4>
-      <img style="width: 35em; margin-top: .5em; margin-center: 50em;" src="{{ "/assets/images/workshops/VEuPathDB_workshop.png" | absolute_url }}" alt="2024VEuPathDB"/>
+      <img style="width: 35em; margin-top: .5em; margin-center: 5em; align: center;" src="{{ "/assets/images/workshops/VEuPathDB_workshop.png" | absolute_url }}" alt="2024VEuPathDB"/>
   </div>
 
 
