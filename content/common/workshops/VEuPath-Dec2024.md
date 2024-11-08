@@ -263,9 +263,7 @@ div.instructor-table {
           <tr>
             <td>12:50 - 1:00 PM<br></td>
             <td>Summary of DAY 1</td>
-            <td><br>
-              <!--<a  target="_blank" href="{{'/documents/ACE2023/Advanced_search_strategy.pdf' | absolute_url}}">Advanced search strategies I</a>--><br>
-              <!--<a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies II</a>--><br><br></td>
+            <td><br><br></td>
           </tr>
           <tr>
             <td>1:00 - 1:30 PM<br></td>
