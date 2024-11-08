@@ -322,7 +322,7 @@ div.instructor-table {
             <td>Gene models discussion. RNA Seq and other data in the genome browser</td>
             <td><br><iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
-           <tr>
+          <tr>
             <td>12:40 - 12:50 PM<br></td>
             <td>Correcting Gene models in Apollo</td>
             <td><br><iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
@@ -332,10 +332,10 @@ div.instructor-table {
             <td>Summary of DAY 2</td>
            <td></td>
           </tr>
-           <tr>
+          <tr>
             <td>1:00 - 1:30 PM<br></td>
             <td>Discussion & Q&A (optional)</td>
-           <td><br>
+           <td></td><br>
           </tr>
         </tbody>
       </table>
@@ -404,7 +404,7 @@ div.instructor-table {
           <tr>
             <td>1:00 - 1:30 PM<br></td>
             <td>Discussion & Q&A (optional)</td>
-           <td><br>
+           <td></td><br>
           </tr>
         </tbody>
       </table>
