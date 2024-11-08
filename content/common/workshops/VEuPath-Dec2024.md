@@ -244,7 +244,7 @@ div.instructor-table {
           </tr>    
           <tr>
             <td>10:45 - 11:30 AM<br></td>
-            <td>Break out room</td>
+            <td>Site search & Gene pages</td>
             <td><br>
               <!--<a  target="_blank" href="{{'/documents/ACE2023/Main_page.pdf' | absolute_url}}">FungiDB main page tutorial</a>--><br><br>
               <!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
