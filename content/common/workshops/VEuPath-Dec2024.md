@@ -239,7 +239,7 @@ div.instructor-table {
           </tr>
           <tr>
             <td>10:10 - 10:45 AM<br></td>
-            <td>Introduction into VEuPathDB resources (Demonstration)</td>
+            <td>Introduction into VEuPathDB resources</td>
            <td><br><iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>    
           <tr>
