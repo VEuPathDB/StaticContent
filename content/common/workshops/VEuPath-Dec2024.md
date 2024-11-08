@@ -130,7 +130,7 @@ div.instructor-table {
   </div>
 
   <div class="centered-title"> 
-    <img style="width: 35em; margin-top: .5em; margin-center: 4em;" src="{{ "/assets/images/workshops/VEuPathDB_workshop.png" | absolute_url }}" alt="2024VEuPathDB"/>
+    <img style="width: 35em; margin-top: .5em; margin-center: 15em;" src="{{ "/assets/images/workshops/VEuPathDB_workshop.png" | absolute_url }}" alt="2024VEuPathDB"/>
   </div>
 
 <div class="contents">
