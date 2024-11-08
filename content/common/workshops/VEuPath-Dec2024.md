@@ -296,7 +296,7 @@ div.instructor-table {
           <tr>
             <td>10:15 - 10:45 AM<br></td>
             <td>Genome browser basics</td>
-           <td>Not recorded</td>
+           <td></td>
           </tr>
           <tr>
             <td>10:45 - 11:00 AM<br></td>
