@@ -246,7 +246,7 @@ div.instructor-table {
             <td>10:45 - 11:30 AM<br></td>
             <td>Break out room</td>
             <td><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/Main_page.pdf' | absolute_url}}">FungiDB main page tutorial</a><br><br>
+              <!--<a  target="_blank" href="{{'/documents/ACE2023/Main_page.pdf' | absolute_url}}">FungiDB main page tutorial</a>--><br><br>
               <!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
           </tr> 
           <tr>
@@ -258,14 +258,14 @@ div.instructor-table {
             <td>12:05 - 12:50 PM<br></td>
             <td>Search strategies</td>
             <td><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/Site_search_org_pref.pdf' | absolute_url}}">Site Search and Organism Preferences</a><br><br></td>
+              <!--<a  target="_blank" href="{{'/documents/ACE2023/Site_search_org_pref.pdf' | absolute_url}}">Site Search and Organism Preferences</a>--><br><br></td>
           </tr>
           <tr>
             <td>12:50 - 1:00 PM<br></td>
             <td>Summary of DAY 1</td>
             <td><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/Advanced_search_strategy.pdf' | absolute_url}}">Advanced search strategies I</a><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies II</a><br><br></td>
+              <!--<a  target="_blank" href="{{'/documents/ACE2023/Advanced_search_strategy.pdf' | absolute_url}}">Advanced search strategies I</a>--><br>
+              <!--<a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies II</a>--><br><br></td>
           </tr>
           <tr>
             <td>1:00 - 1:30 PM<br></td>
@@ -292,8 +292,8 @@ div.instructor-table {
             <td>10:00 - 10:15 AM<br></td>
             <td> Introduction to the genome browser</td>
             <td><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies II, cont.</a><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_SNPs.pdf' | absolute_url}}">Advanced search strategies III</a><br><br></td>
+              <!--<a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies II, cont.</a>--><br>
+              <!--<a  target="_blank" href="{{'/documents/ACE2023/FungiDB_SNPs.pdf' | absolute_url}}">Advanced search strategies III</a>--><br><br></td>
           </tr>
           <tr>
             <td>10:15 - 10:45 AM<br></td>
@@ -304,7 +304,7 @@ div.instructor-table {
             <td>10:45 - 11:00 AM<br></td>
             <td>Exploring gene models in the genome browser</td>
            <td><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/Gene_pages_JBrowse.pdf' | absolute_url}}">Gene pages and JBrowse</a><br><br></td>
+              <!--<a  target="_blank" href="{{'/documents/ACE2023/Gene_pages_JBrowse.pdf' | absolute_url}}">Gene pages and JBrowse</a>--><br><br></td>
           </tr>
           <tr>
             <td>11:00 - 11:20 AM<br></td>
@@ -362,7 +362,7 @@ div.instructor-table {
             <td>10:10 - 10:40 AM<br></td>
             <td>Expression searches exercise</td>
             <td><br>
-                <a  target="_blank" href="{{'/documents/ACE2023/GO_Enrichment.pdf' | absolute_url}}">GO enrichment analysis</a><br><br></td>
+                <!--<a  target="_blank" href="{{'/documents/ACE2023/GO_Enrichment.pdf' | absolute_url}}">GO enrichment analysis</a>--><br><br></td>
           </tr>
          <tr>
             <td>10:40 - 10:50 AM<br></td>
@@ -373,7 +373,7 @@ div.instructor-table {
             <td>10:50 - 11:10 AM<br></td>
             <td>scRNA-Seq</td>
            <td><br>
-              <a  target="_blank" href="{{'/documents/ACE2023/Orthology_Phyletic_patterns.pdf' | absolute_url}}">Orthology & Phyletic patterns</a><br><br>
+              <!--<a  target="_blank" href="{{'/documents/ACE2023/Orthology_Phyletic_patterns.pdf' | absolute_url}}">Orthology & Phyletic patterns</a>--><br><br>
               </td>
           </tr>
           <tr>
