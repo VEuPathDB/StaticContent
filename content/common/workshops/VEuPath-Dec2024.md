@@ -130,6 +130,7 @@ div.instructor-table {
       <h4><a href="https://youtu.be/wFRjWXjC5L4" target="_blank">Pre-recorded Introductory Lecture</a> by Dr. Jessica Kissinger. We highly recommend watching the video before the workshop starts on Dec 11th. <a href="LINK" target="_blank">LINK</a></h4>
   </div>
   
+<img style="width: 35em; margin-top: .5em; margin-left: 4em;" src="{{ "/assets/images/workshops/VEuPathDB_workshop.png" | absolute_url }}" alt="2024VEuPathDB"/>
 
 <div class="contents">
 
