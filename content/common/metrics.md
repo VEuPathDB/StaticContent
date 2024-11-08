@@ -36,8 +36,10 @@ title: Usage Metrics
 
 <tr><td><b>Tool usage (webservices, jbrowse, enrichment, SRT, downloads, etc)</b></td></tr>
 <tr><td><ul>
-  <li><a href="/a/app/search/metrics/ToolMetrics">Tool usage</a>: from w* access_log and user database</li>
-  <li><a href="/a/app/search/metrics/UserDatasets">User Datasets usage</a>: from the vdi service endpoint</li>
+  <li><a href="/a/app/search/metrics/ToolMetrics">Tool usage</a>:
+    <ul><li>from w* access_log and user database</li></ul></li>
+  <li><a href="/a/app/search/metrics/UserDatasets">User Datasets usage</a>: 
+    <ul><li>from the vdi service endpoint</li></ul></li>
 </ul></td></tr>
 
 
