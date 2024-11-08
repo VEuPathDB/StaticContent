@@ -225,7 +225,7 @@ div.instructor-table {
             <th colspan="4" class="break"><b>Wednesday, 11 December 2024</b></th>
           </tr>
           <tr>
-            <th class="time">Time (US Eastern) and location</th>
+            <th class="time">Time (US Eastern)</th>
             <th class="event">Topic </th>
             <th class="recording">Exercise pdf or recording</th>
           </tr>
@@ -238,43 +238,37 @@ div.instructor-table {
             <td></td>
           </tr>
           <tr>
-            <td>10:10 - 10:45 AM<br>
-                Zoom</td>
+            <td>10:10 - 10:45 AM<br></td>
             <td>Introduction into VEuPathDB resources (Demonstration)</td>
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/o0vKRwp-5ME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>    
           <tr>
-            <td>10:45 - 11:30 AM<br>
-                oom</td>
+            <td>10:45 - 11:30 AM<br></td>
             <td>Break out room</td>
             <td><br>
               <a  target="_blank" href="{{'/documents/ACE2023/Main_page.pdf' | absolute_url}}">FungiDB main page tutorial</a><br><br>
               <iframe width="280" height="157" src="https://www.youtube.com/embed/F_0br2iSduY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr> 
           <tr>
-            <td>11:50 AM - 12:05 PM<br>
-                Zoom</td>
+            <td>11:50 AM - 12:05 PM<br></td>
             <td>Introduction to search strategies</td>
             <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/sMf3brfd_Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>       
           <tr>
-            <td>12:05 - 12:50 PM<br>
-                Zoom</td>
+            <td>12:05 - 12:50 PM<br></td>
             <td>Search strategies</td>
             <td><br>
               <a  target="_blank" href="{{'/documents/ACE2023/Site_search_org_pref.pdf' | absolute_url}}">Site Search and Organism Preferences</a><br><br></td>
           </tr>
           <tr>
-            <td>12:50 - 1:00 PM<br>
-                Zoom</td>
+            <td>12:50 - 1:00 PM<br></td>
             <td>Summary of DAY 1</td>
             <td><br>
               <a  target="_blank" href="{{'/documents/ACE2023/Advanced_search_strategy.pdf' | absolute_url}}">Advanced search strategies I</a><br>
               <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies II</a><br><br></td>
           </tr>
           <tr>
-            <td>1:00 - 1:30 PM<br>
-                Zoom</td>
+            <td>1:00 - 1:30 PM<br></td>
             <td>Discussion & Q&A (optional)</td>
            <td></td><br>
           </tr>
@@ -288,67 +282,58 @@ div.instructor-table {
             <th colspan="4" class="break"><b>Thursday, 12 December 2024</b></th>
           </tr>
           <tr>
-            <th class="time">Time (US Eastern) and location</th>
+            <th class="time">Time (US Eastern)</th>
             <th class="event">Topic </th>
             <th class="recording">Exercise pdf or recording</th>
           </tr>
         </thead>
         <tbody>         
           <tr>
-            <td>10:00 - 10:15 AM<br>
-                Zoom</td>
+            <td>10:00 - 10:15 AM<br></td>
             <td> Introduction to the genome browser</td>
             <td><br>
               <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies II, cont.</a><br>
               <a  target="_blank" href="{{'/documents/ACE2023/FungiDB_SNPs.pdf' | absolute_url}}">Advanced search strategies III</a><br><br></td>
           </tr>
           <tr>
-            <td>10:15 - 10:45 AM<br>
-                Zoom</td>
+            <td>10:15 - 10:45 AM<br></td>
             <td>Genome browser basics</td>
            <td>Not recorded</td>
           </tr>
           <tr>
-            <td>10:45 - 11:00 AM<br>
-                Zoom</td>
+            <td>10:45 - 11:00 AM<br></td>
             <td>Exploring gene models in the genome browser</td>
            <td><br>
               <a  target="_blank" href="{{'/documents/ACE2023/Gene_pages_JBrowse.pdf' | absolute_url}}">Gene pages and JBrowse</a><br><br></td>
           </tr>
           <tr>
-            <td>11:00 - 11:20 AM<br>
-                Zoom</td>
+            <td>11:00 - 11:20 AM<br></td>
             <td>BREAK</td>
            <td><br>
               <br></td>
           </tr>
           <tr>
-            <td>11:20 AM - 12:10 PM<br>
-                Zoom</td>
+            <td>11:20 AM - 12:10 PM<br></td>
             <td>Exploring gene models in the genome browser</td>
             <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/NP4tS94FTVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
-            <td>12:10 - 12:40 PM<br>
-                Zoom</td>
+            <td>12:10 - 12:40 PM<br></td>
             <td>Gene models discussion. RNA Seq and other data in the genome browser</td>
             <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/NP4tS94FTVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
            <tr>
-            <td>12:40 - 12:50 PM<br>
-                Zoom</td>
+            <td>12:40 - 12:50 PM<br></td>
             <td>Correcting Gene models in Apollo</td>
             <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/NP4tS94FTVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
-            <td>12:50 - 1:00 PM<br>
-                Zoom</td>
+            <td>12:50 - 1:00 PM<br></td>
             <td>Summary of DAY 2</td>
            <td></td>
           </tr>
            <tr>
-            <td>1:00 - 1:30 PM<br>
-                Zoom</td>
+            <td>1:00 - 1:30 PM<br></td>
             <td>Discussion & Q&A (optional)</td>
            <td><br>
           </tr>
@@ -362,72 +347,62 @@ div.instructor-table {
             <th colspan="4" class="break"><b>Friday, 13 December 2024</b></th>
           </tr>
           <tr>
-            <th class="time">Time (US Eastern) and location</th>
+            <th class="time">Time (US Eastern)</th>
             <th class="event">Topic </th>
             <th class="recording">Exercise pdf or recording</th>
           </tr>
         </thead>
         <tbody>         
           <tr>
-            <td>10:00 - 10:10 AM<br>
-                Zoom</td>
+            <td>10:00 - 10:10 AM<br></td>
             <td>Transcriptomics and Proteomics data</td>
             <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/MVPJvWMGlkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
-            <td>10:10 - 10:40 AM<br>
-                Zoom</td>
+            <td>10:10 - 10:40 AM<br></td>
             <td>Expression searches exercise</td>
             <td><br>
                 <a  target="_blank" href="{{'/documents/ACE2023/GO_Enrichment.pdf' | absolute_url}}">GO enrichment analysis</a><br><br></td>
           </tr>
          <tr>
-            <td>10:40 - 10:50 AM<br>
-                Zoom</td>
+            <td>10:40 - 10:50 AM<br></td>
             <td>BREAK</td>
           <td></td>
           </tr>
           <tr>
-            <td>10:50 - 11:10 AM<br>
-                Zoom</td>
+            <td>10:50 - 11:10 AM<br></td>
             <td>scRNA-Seq</td>
            <td><br>
               <a  target="_blank" href="{{'/documents/ACE2023/Orthology_Phyletic_patterns.pdf' | absolute_url}}">Orthology & Phyletic patterns</a><br><br>
               </td>
           </tr>
           <tr>
-            <td>11:10 - 11:30 AM<br>
-                Zoom</td>
+            <td>11:10 - 11:30 AM<br></td>
             <td>scRNA-Seq Exercise</td>
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/ik75NvQeHWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
-            <td>11:30 - 11:40 AM<br>
-                Zoom</td>
+            <td>11:30 - 11:40 AM<br></td>
             <td>BREAK</td>
            <td></td>
           </tr>
           <tr>
-            <td>11:40 AM - 12:20 PM<br>
-                Zoom</td>
+            <td>11:40 AM - 12:20 PM<br></td>
             <td>Orthology, Ontologies and Enrichment analysis</td>
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/ik75NvQeHWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
-            <td>12:20 - 12:50 PM<br>
-                Zoom</td>
+            <td>12:20 - 12:50 PM<br></td>
             <td>Orthology exercise</td>
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/ik75NvQeHWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
            <tr>
-            <td>12:50 - 1:00 PM<br>
-                Zoom</td>
+            <td>12:50 - 1:00 PM<br></td>
             <td>Summary of DAY 3</td>
            <td></td>
           </tr>
            <tr>
-            <td>1:00 - 1:30 PM<br>
-                Zoom</td>
+            <td>1:00 - 1:30 PM<br></td>
             <td>Discussion & Q&A (optional)</td>
            <td><br>
           </tr>
