@@ -240,19 +240,19 @@ div.instructor-table {
           <tr>
             <td>10:10 - 10:45 AM<br></td>
             <td>Introduction into VEuPathDB resources (Demonstration)</td>
-           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/o0vKRwp-5ME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <td><br><iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>    
           <tr>
             <td>10:45 - 11:30 AM<br></td>
             <td>Break out room</td>
             <td><br>
               <a  target="_blank" href="{{'/documents/ACE2023/Main_page.pdf' | absolute_url}}">FungiDB main page tutorial</a><br><br>
-              <iframe width="280" height="157" src="https://www.youtube.com/embed/F_0br2iSduY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+              <iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr> 
           <tr>
             <td>11:50 AM - 12:05 PM<br></td>
             <td>Introduction to search strategies</td>
-            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/sMf3brfd_Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+            <td><br><iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>       
           <tr>
             <td>12:05 - 12:50 PM<br></td>
@@ -315,17 +315,17 @@ div.instructor-table {
           <tr>
             <td>11:20 AM - 12:10 PM<br></td>
             <td>Exploring gene models in the genome browser</td>
-            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/NP4tS94FTVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+            <td><br><iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>12:10 - 12:40 PM<br></td>
             <td>Gene models discussion. RNA Seq and other data in the genome browser</td>
-            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/NP4tS94FTVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+            <td><br><iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
            <tr>
             <td>12:40 - 12:50 PM<br></td>
             <td>Correcting Gene models in Apollo</td>
-            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/NP4tS94FTVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+            <td><br><iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>12:50 - 1:00 PM<br></td>
@@ -356,7 +356,7 @@ div.instructor-table {
           <tr>
             <td>10:00 - 10:10 AM<br></td>
             <td>Transcriptomics and Proteomics data</td>
-            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/MVPJvWMGlkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+            <td><br><iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>10:10 - 10:40 AM<br></td>
@@ -379,7 +379,7 @@ div.instructor-table {
           <tr>
             <td>11:10 - 11:30 AM<br></td>
             <td>scRNA-Seq Exercise</td>
-           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/ik75NvQeHWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <td><br><iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>11:30 - 11:40 AM<br></td>
@@ -389,19 +389,19 @@ div.instructor-table {
           <tr>
             <td>11:40 AM - 12:20 PM<br></td>
             <td>Orthology, Ontologies and Enrichment analysis</td>
-           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/ik75NvQeHWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <td><br><iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>12:20 - 12:50 PM<br></td>
             <td>Orthology exercise</td>
-           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/ik75NvQeHWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <td><br><iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
-           <tr>
+          <tr>
             <td>12:50 - 1:00 PM<br></td>
             <td>Summary of DAY 3</td>
            <td></td>
           </tr>
-           <tr>
+          <tr>
             <td>1:00 - 1:30 PM<br></td>
             <td>Discussion & Q&A (optional)</td>
            <td><br>
