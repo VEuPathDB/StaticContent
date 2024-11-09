@@ -12,12 +12,12 @@ title: Usage Metrics
 <tr><td><b>Users, Page views, Awstats</b></td></tr>
 <tr><td><ul>
   <li><a href="/a/app/search/metrics/LoginStats"># Logins and registrations</a>: 
-    <ul><li>from oauth logins.log and the user database to discover the number of registered users</li></ul></li>
-  <li><a href="/a/app/search/metrics/PageViewStats"># Page views (by guest vs. registered)</a>: 
-    <ul><li>from tomcat webapp page-views.log</li></ul></li>
-  <li><a href="/a/app/search/metrics/RecordPageViewStats"># Record page views</a>: 
-    <ul><li>from w* access_log (* based on where you run)</li></ul></li>
-  <li><a href="/a/app/search/metrics/OrgPageViewMetrics"># Organism-related record pages views</a>: 
+    <ul><li>from oauth logins.log and the user database</li></ul></li>
+  <li><a href="/a/app/search/metrics/PageViewStats"><b># Page views (by guest vs. registered)</b></a>: 
+    <ul><li>from webapp page-views.log</li></ul></li>
+  <li><a href="/a/app/search/metrics/RecordPageViewStats"><b># Record page views</b></a>: 
+    <ul><li>from access_log (count endpoint)</li></ul></li>
+  <li><a href="/a/app/search/metrics/OrgPageViewMetrics"><b># Organism-related record pages views</b></a>: 
     <ul><li>from site client reporting/prometheus metrics</li></ul></li>
   <li><a href="/a/app/search/metrics/GenePageTableMetrics">Gene page: # Table requests</a>: 
     <ul><li>from site client reporting/prometheus metrics</li></ul></li>
@@ -34,12 +34,12 @@ title: Usage Metrics
     <ul><li>based on step information in the user database</li></ul></li>
 </ul></td></tr>
 
-<tr><td><b>Tool usage (webservices, jbrowse, enrichment, SRT, downloads, etc)</b></td></tr>
+<tr><td><b>Tool usage (webservices, jbrowse, site search, enrichment, SRT, downloads, etc)</b></td></tr>
 <tr><td><ul>
   <li><a href="/a/app/search/metrics/ToolMetrics">Tool usage</a>:
-    <ul><li>from w* access_log and user database</li></ul></li>
+    <ul><li>from access_log (<b>count endpoint: jbrowse and ss</b> or other) and user database</li></ul></li>
   <li><a href="/a/app/search/metrics/UserDatasets">User Datasets usage</a>: 
-    <ul><li>from the vdi service endpoint</li></ul></li>
+    <ul><li>from the production vdi service endpoint list-all-datasets</li></ul></li>
 </ul></td></tr>
 
 
