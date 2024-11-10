@@ -20,9 +20,7 @@ div.UserDatasetHelp img {
   <h3>Overview</h3>
     <ul>
       <li>My Data Sets are your files or sets of files that are private unless you choose to share them with colleagues.</li>
-      <li>My Data Sets originate as:  
-          exports from <a href="http://veupathdb.globusgenomics.org">VEuPathDB Galaxy</a>,
-          uploads from your computer or a URL, and imports from a search strategy result.
+      <li>My Data Sets originate as uploads from your computer or a URL, and imports from a search strategy result.
           (in the past some also originated as exports from our VEuPathDB Galaxy.)  </li>
       <li>My Data Sets persist between sessions so your files are always accessible.</li>
     </ul>
