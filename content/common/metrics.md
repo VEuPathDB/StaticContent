@@ -36,10 +36,16 @@ title: Usage Metrics
 
 <tr><td><b>Tool usage (webservices, jbrowse, site search, enrichment, SRT, downloads, etc)</b></td></tr>
 <tr><td><ul>
-  <li><a href="/a/app/search/metrics/ToolMetrics">Tool usage</a>:
-    <ul><li>from access_log (<b>count endpoint: jbrowse and ss</b> or other) and user database</li></ul></li>
   <li><a href="/a/app/search/metrics/UserDatasets">User Datasets usage</a>: 
     <ul><li>from the production vdi service endpoint list-all-datasets</li></ul></li>
+  <li><a href="/a/app/search/metrics/ToolMetrics">Other Tool usage</a>:
+    <ul><li>from access_log (<b>count endpoint: jbrowse and ss</b> or other) and user database</li>
+    <li>Search result downloads, file downloads<li>
+    <li>Step analysis: enrichment (pathway, go, word)</li>
+    <li>Programmmatic access to searches downloads: webservices </li>
+    <li>Other Services: Site search, JBrowse, Multiblast, Sequence retrieval, MapVEu, User Comments</li>
+    </ul></li>
+  
 </ul></td></tr>
 
 
