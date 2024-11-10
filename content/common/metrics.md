@@ -13,15 +13,18 @@ title: Usage Metrics
 <ul>
   <li><a href="/a/app/search/metrics/LoginStats"># Logins and registrations</a>: 
     <ul><li><span class="small">from oauth logins.log and the user database</span></li></ul></li>
-  <li><a href="/a/app/search/metrics/PageViewStats"><b># Page views (by guest vs. registered)</b></a>: 
+  <li><a href="/a/app/search/metrics/Awstats">Awstats</a></li>
+
+  <p><b>Available only starting October 2024:</b></p>
+  <li><a href="/a/app/search/metrics/PageViewStats"># Page views (by guest vs. registered)</a>: 
     <ul><li><span class="small">from webapp page-views.log; bookmarked access not included</span></li></ul></li>
-  <li><a href="/a/app/search/metrics/RecordPageViewStats"><b># Record page views</b></a>: 
+  <li><a href="/a/app/search/metrics/RecordPageViewStats"># Record page views</a>: 
     <ul><li><span class="small">from access_log (count-page endpoint); bookmarked access not included</span></li></ul></li>
-  <li><a href="/a/app/search/metrics/OrgPageViewMetrics"><b># Organism-related record pages views</b></a>: 
+
+  <li><a href="/a/app/search/metrics/OrgPageViewMetrics"># Organism-related record pages views</a>: 
     <ul><li><span class="small">from site client reporting/prometheus metrics</span></li></ul></li>
   <li><a href="/a/app/search/metrics/GenePageTableMetrics">Gene page: # Table requests</a>: 
     <ul><li><span class="small">from site client reporting/prometheus metrics</span></li></ul></li>
-  <li><a href="/a/app/search/metrics/Awstats">Awstats</a></li>
 </ul>
 
 <h2>Searches</h2>
@@ -38,12 +41,16 @@ title: Usage Metrics
 <ul>
   <li><a href="/a/app/search/metrics/UserDatasets">User Datasets usage</a>: 
     <ul><li><span class="small">from the production vdi service endpoint list-all-datasets</span></li></ul></li>
+
   <li><a href="/a/app/search/metrics/ToolMetrics">Other Tools</a>:
-    <ul><li><span class="small">from access_log (<b>count-page endpoint (jbrowse and ss</b>, bookmarked access not included)or other) and user database</span></li>
-    <li>Alignment requests (Clustal) in gene page or results</li>li>
+    <ul><li><span class="small">from user database and access_log (jbrowse and ss use the count-page endpoint, so bookmarked access not included)</span></li>
+   <br> 
+   <li>Alignment requests (Clustal) in gene page and popset results</li>
     <li>Search result downloads, file downloads</li>
     <li>Step analysis: enrichment (pathway, go, word)</li>
-    <li>Programmmatic access to searches: webservices </li>
+    <li>Programmmatic access to searches (webservices) </li>
+
+    <p><b>Available only starting October 2024:</b></p>
     <li>Other Services: Site search, JBrowse, Multiblast, Sequence retrieval, MapVEu, Add a User Comment</li>
     </ul></li>  
 </ul>
