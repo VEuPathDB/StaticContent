@@ -39,7 +39,7 @@ title: Usage Metrics
   <li><a href="/a/app/search/metrics/UserDatasets">User Datasets usage</a>: 
     <ul><li><span class="small">from the production vdi service endpoint list-all-datasets</span></li></ul></li>
   <li><a href="/a/app/search/metrics/ToolMetrics">Other Tools</a>:
-    <ul><li><span class="small">from access_log (<b>count-page endpoint (jbrowse and ss, bookmarked access not included)</b> or other) and user database</span></li>
+    <ul><li><span class="small">from access_log (<b>count-page endpoint (jbrowse and ss</b>, bookmarked access not included)or other) and user database</span></li>
     <li>Alignment requests (Clustal) in gene page or results</li>li>
     <li>Search result downloads, file downloads</li>
     <li>Step analysis: enrichment (pathway, go, word)</li>
