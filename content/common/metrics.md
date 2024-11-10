@@ -27,7 +27,7 @@ title: Usage Metrics
     <ul><li><span class="small">from site client reporting/prometheus metrics</span></li></ul></li>
 </ul>
 
-<h2>Searches</h2>
+<h2>Search runs</h2>
 <ul>
   <li><a href="/a/app/search/metrics/SearchMetrics">Search popularity</a>: 
     <ul><li><span class="small">based on step information in the user database</span></li></ul></li>
@@ -46,12 +46,12 @@ title: Usage Metrics
     <ul><li><span class="small">from user database and access_log (jbrowse and ss use the count-page endpoint, so bookmarked access not included)</span></li>
       <br> 
       <li>Alignment requests (Clustal) in gene page and popset results</li>
-      <li>Add a User Comment</li>
-      <li>Access the VectorBase Map (MapVEu)</li>
-      <li>Sequence retrieval</li>
+      <li>New User comments</li>
+      <li>VectorBase Map (MapVEu) analyses</li>
+      <li>Sequence retrieval runs</li>
       <li>Search result downloads, file downloads</li>
       <li>Step analysis: enrichment (pathway, go, word)</li>
-      <li>Programmmatic access to searches (webservices) </li>
+      <li>Programmmatic access to search results (webservices) </li>
 
       <p><b>Available only starting October 2024:</b></p>
       <li>Site search, JBrowse, Multiblast</li>
