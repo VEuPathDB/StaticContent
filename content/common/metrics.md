@@ -44,14 +44,17 @@ title: Usage Metrics
 
   <li><a href="/a/app/search/metrics/ToolMetrics">Other Tools</a>:
     <ul><li><span class="small">from user database and access_log (jbrowse and ss use the count-page endpoint, so bookmarked access not included)</span></li>
-   <br> 
-   <li>Alignment requests (Clustal) in gene page and popset results</li>
-    <li>Search result downloads, file downloads</li>
-    <li>Step analysis: enrichment (pathway, go, word)</li>
-    <li>Programmmatic access to searches (webservices) </li>
+      <br> 
+      <li>Alignment requests (Clustal) in gene page and popset results</li>
+      <li>Add a User Comment</li>
+      <li>Access the VectorBase Map (MapVEu)</li>
+      <li>Sequence retrieval</li>
+      <li>Search result downloads, file downloads</li>
+      <li>Step analysis: enrichment (pathway, go, word)</li>
+      <li>Programmmatic access to searches (webservices) </li>
 
-    <p><b>Available only starting October 2024:</b></p>
-    <li>Other Services: Site search, JBrowse, Multiblast, Sequence retrieval, MapVEu, Add a User Comment</li>
+      <p><b>Available only starting October 2024:</b></p>
+      <li>Site search, JBrowse, Multiblast</li>
     </ul></li>  
 </ul>
 
