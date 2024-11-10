@@ -20,11 +20,8 @@ div.UserDatasetHelp img {
   <h3>Overview</h3>
     <ul>
       <li>My Data Sets are your files or sets of files that are private unless you choose to share them with colleagues.</li>
-      <li>My Data Sets originate as:  exports from <a href="http://veupathdb.globusgenomics.org">VEuPathDB Galaxy</a>, uploads from your computer or a URL, and imports from a search strategy result. </li>
-      <ul>
-        <li>RNASeq expression values, BigWig files, and gene lists can be imported from <a href="http://veupathdb.globusgenomics.org">VEuPathDB Galaxy</a></li>
-        <li>Gene lists can also be uploaded from a local file, uploaded from a remote URL, and imported from search strategy result.</li>
-      </ul>
+      <li>My Data Sets originate as uploads from your computer or a URL, and imports from a search strategy result.
+          (in the past some also originated as exports from our VEuPathDB Galaxy.)  </li>
       <li>My Data Sets persist between sessions so your files are always accessible.</li>
     </ul>
   <br><hr>
@@ -39,31 +36,6 @@ div.UserDatasetHelp img {
       <li>Each Data Set has its own record page (linked in the Name column) with more details and options to download.</li>
     </ul>
   <br><hr>
-
-  <h3>Export files from VEuPathDB Galaxy to My Data Sets</h3>
-    <img src="{{'/assets/images/MyDataSets/GalaxyExport.png' | absolute_url}}" />
-    <ul>
-      <li>Use the <b>VEuPathDB Export Tools</b> on the left-side navigation, at <a class="wdk-ReactRouterLink" href="/plasmo/app/galaxy-orientation">VEuPathDB Galaxy</a>.  Options for exporting Gene Lists, Bigwig Files and RNA-Seq values are available. </li>
-      <li>Prepare your export data set by selecting the files in your Galaxy history.</li>
-      <li>The data set name, summary and description can be edited later in the My Data Sets page. </li>
-      <li>When you’re ready, <code>Execute</code> the export. The process of exporting to VEuPathDB may take some time. Progress can be monitored from the right-side history panel in Galaxy.</li>
-      <li>When the export is complete, the Galaxy history tile will turn green and the data set will appear in the {{project}} My Data Sets page. </li>
-    </ul>
-  <br><hr>
-
-
-  <h3>Example: Send BigWig files from Galaxy to My Data Sets</h3>
-    <iframe src="https://www.youtube-nocookie.com/embed/igQZHjRBqV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="560" height="315">
-    </iframe>
-    <br>
-    <ul>
-      <li>Open the VEuPathDB Export Tools menu in Galaxy Tools panel and choose Bigwig Files to VEuPathDB.</li>
-      <li>The tools will open in the center panel. Complete the form. </li>
-      <li>When you are ready, <code>Execute</code> the export.  The process of exporting to VEuPathDB may take some time. Progress can be monitored from the right-side history panel in Galaxy.</li>
-      <li>When the export is complete, go to {{project}} My Data Sets page to access your files.</li>
-      <li>Open the data set record and use the options there to view the bigwig file in JBrowse.</li>
-    </ul>
-   <br><br><hr>
 
 
   <h3>Send gene lists from search results to My Data Sets</h3>
