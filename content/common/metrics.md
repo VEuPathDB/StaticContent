@@ -23,7 +23,7 @@ title: Usage Metrics
 
   <li><a href="/a/app/search/metrics/OrgPageViewMetrics"># Organism-related record pages views</a>: 
     <ul><li><span class="small">from site client reporting/prometheus metrics</span></li></ul></li>
-  <li><a href="/a/app/search/metrics/GenePageTableMetrics">Gene page: # Table requests</a>: 
+  <li><a href="/a/app/search/metrics/GenePageTableMetrics"># Gene page table (section) requests</a>: 
     <ul><li><span class="small">from site client reporting/prometheus metrics</span></li></ul></li>
 </ul>
 
