@@ -40,10 +40,11 @@ title: Usage Metrics
     <ul><li><span class="small">from the production vdi service endpoint list-all-datasets</span></li></ul></li>
   <li><a href="/a/app/search/metrics/ToolMetrics">Other Tools</a>:
     <ul><li><span class="small">from access_log (<b>count-page endpoint (jbrowse and ss, bookmarked access not included)</b> or other) and user database</span></li>
+    <li>Alignment requests (Clustal) in gene page or results</li>li>
     <li>Search result downloads, file downloads</li>
     <li>Step analysis: enrichment (pathway, go, word)</li>
-    <li>Programmmatic access to searches downloads: webservices </li>
-    <li>Other Services: Site search, JBrowse, Multiblast, Sequence retrieval, MapVEu, User Comments</li>
+    <li>Programmmatic access to searches: webservices </li>
+    <li>Other Services: Site search, JBrowse, Multiblast, Sequence retrieval, MapVEu, Add a User Comment</li>
     </ul></li>  
 </ul>
 
