@@ -49,6 +49,7 @@ div.UserDatasetHelp img {
    <br><hr>
 
   <h3>Upload gene lists to My Data Sets</h3>
+    <img src="{{'/assets/images/MyDataSets/GeneListUpload.png' | absolute_url}}" />
     <br>
     This feature is offered in preparation to provide gene set functionality such as gene set enrichment analysis. 
     <ul>
