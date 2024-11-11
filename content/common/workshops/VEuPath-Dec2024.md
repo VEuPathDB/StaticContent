@@ -118,15 +118,15 @@ div.instructor-table {
    <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> 
    <a href="/a/app/static-content/workshops.html">Workshops</a></p>
 
-<h1>VEuPathDB Virtual Workshop December 11-13, 2024</h1>
+<h1>VEuPathDB Virtual Workshop, December 11-13, 2024</h1>
 <div class="static-content">
 
 
   <div class="centered-title">
-      <h4>Registration deadline is Monday December 4, 2024. Register by completing the <a href="LINK" target="_blank">registration form</a>. Once registration closes, participants will receive an email asking to confirm the availability for the workshop. After you have confirmed your participation, Zoom details will be provide in an email.</h4>
+      <h4>Registration deadline is Friday, December 6, 2024. Register by completing the <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_cGhOGjNTREF8JQq" target="_blank">registration form</a>. Once registration closes, participants will receive an email with zoom details.</h4>
       <!--<h4>Registration is closed.  Please <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us</a> for further information. </h4>-->
       <h4>Workshop times: 10 AM - 1 PM (EST) daily with optional Q/A until 1:30 PM - <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
-      <h4><a href="#Schedule">Schedule</a> &ndash; find PDF exercises, lecture recordings, and lecture slides linked here.</h4>
+      <h4><a href="#Schedule">Schedule</a> &ndash; PDF exercises, lecture recordings, and lecture slides will be linked here.</h4>
       <img style="width: 35em; margin-top: 0.5em; display: block; margin-left: auto; margin-right: auto;" src="{{ "/assets/images/workshops/VEuPathDB_workshop.png" | absolute_url }}" alt="2024VEuPathDB"/>
 
   </div>
@@ -138,7 +138,7 @@ div.instructor-table {
   <div class="workshop">
   
   <p><h2>About the workshop</h2></p>
-  <p>In this workshop, instructors will introduce and demonstrate the powerful tools and features of VEuPathDB to support hypothesis-driven research. Brief lectures will lead into hands-on exercises conducted through informal Zoom sessions that encourage discussion and interaction. The goal is for participants to gain a clear understanding of the extensive data available, learn how to navigate and utilize VEuPathDB resources for data mining, and apply preconfigured workflows to analyze standalone data. VEuPathDB workshop exercises are easily transferable across all component sites, including AmoebaDB, CryptoDB, FungiDB, GiardiaDB, HostDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB, and VectorBase. If you have any further questions, please <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us</a> for further information.</p>
+  <p>In this workshop, instructors will introduce and demonstrate the powerful tools and features of VEuPathDB to support hypothesis-driven research. Brief lectures will lead into hands-on exercises conducted through informal Zoom sessions that encourage discussion and interaction. The goal is for participants to gain a clear understanding of the extensive data available, learn how to navigate and utilize VEuPathDB resources for data mining. VEuPathDB workshop exercises are easily transferable across all component sites, including AmoebaDB, CryptoDB, FungiDB, GiardiaDB, HostDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB, TriTrypDB, and VectorBase. If you have any further questions, please <a href="https://veupathdb.org/veupathdb/app/contact-us">contact us</a> for further information.</p>
 
   <p>Expected learning objectives:</p>
     <ul>
@@ -175,15 +175,11 @@ div.instructor-table {
       </thead>
       <tbody>
         <tr>
-          <td>Nupur Kittur, PhD</td>
-          <td>University of Georgia, USA</td>
-        </tr>
-        <tr>
-          <td>Ulrike Boehme, PhD</td>
+          <td>Evelina Basenko, PhD</td>
           <td>University of Liverpool, UK</td>
         </tr>
         <tr>
-          <td>Evelina Basenko, PhD</td>
+          <td>Ulrike Boehme, PhD</td>
           <td>University of Liverpool, UK</td>
         </tr>
         <tr>
@@ -203,6 +199,10 @@ div.instructor-table {
           <td>University of Pennsylvania, USA</td>
         </tr>
         <tr>
+        <tr>
+          <td>Nupur Kittur, PhD</td>
+          <td>University of Georgia, USA</td>
+        </tr>
           <td>Jessica Kissinger, PhD</td>
           <td>University of Georgia, USA</td>
         </tr>
@@ -218,7 +218,7 @@ div.instructor-table {
   <div class="anchor"><a name="Schedule"></a></div>
   <details open>
     <summary><b>Schedule</b> </summary>
-    <p> Zoom channel will open 15 min prior to the workshop start and will remain open for 30 min after the workshop ended for any additional questions from the audience.</p> 
+    <p> Zoom channel will open 15 min prior to the workshop start and will remain open for 30 min after the workshop ends each day for any additional questions from the participants.</p> 
     <br>
     <table class="hor-minimalist-a">
         <thead>
