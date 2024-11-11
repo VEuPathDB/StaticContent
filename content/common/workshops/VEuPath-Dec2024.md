@@ -199,11 +199,11 @@ div.instructor-table {
           <td>University of Pennsylvania, USA</td>
         </tr>
         <tr>
-        <tr>
-          <td>Nupur Kittur, PhD</td>
+          <td>Jessica Kissinger, PhD</td>
           <td>University of Georgia, USA</td>
         </tr>
-          <td>Jessica Kissinger, PhD</td>
+        <tr>
+          <td>Nupur Kittur, PhD</td>
           <td>University of Georgia, USA</td>
         </tr>
         <tr>
@@ -233,23 +233,28 @@ div.instructor-table {
         </thead>
         <tbody>         
           <tr>
-            <td>10:00 - 10:10 AM <br>
-                Zoom</td>
-            <td>General welcome, workshop overview, instructor introductions</td>
+            <td>10:00 - 10:10 AM <br></td>
+            <td>Welcome, overview, instructor introductions</td>
             <td></td>
           </tr>
           <tr>
             <td>10:10 - 10:45 AM<br></td>
-            <td>Introduction into VEuPathDB resources</td>
+            <td>Introduction to VEuPathDB resources</td>
            <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
           </tr>    
           <tr>
             <td>10:45 - 11:30 AM<br></td>
-            <td>Site search & Gene pages</td>
+            <td>Site search exercise & Gene pages exercise</td>
             <td><br>
               <!--<a  target="_blank" href="{{'/documents/ACE2023/Main_page.pdf' | absolute_url}}">FungiDB main page tutorial</a>--><br><br>
               <!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
           </tr> 
+           <tr>
+            <td>11:30 - 11:50 AM<br></td>
+            <td>BREAK</td>
+           <td><br>
+           <br></td>
+          </tr>
           <tr>
             <td>11:50 AM - 12:05 PM<br></td>
             <td>Introduction to search strategies</td>
@@ -257,7 +262,7 @@ div.instructor-table {
           </tr>       
           <tr>
             <td>12:05 - 12:50 PM<br></td>
-            <td>Search strategies</td>
+            <td>Search strategies exercise</td>
             <td><br>
               <!--<a  target="_blank" href="{{'/documents/ACE2023/Site_search_org_pref.pdf' | absolute_url}}">Site Search and Organism Preferences</a>--><br><br></td>
           </tr>
@@ -296,7 +301,7 @@ div.instructor-table {
           </tr>
           <tr>
             <td>10:15 - 10:45 AM<br></td>
-            <td>Genome browser basics</td>
+            <td>Genome browser basics exercise</td>
            <td></td>
           </tr>
           <tr>
@@ -309,7 +314,7 @@ div.instructor-table {
             <td>11:00 - 11:20 AM<br></td>
             <td>BREAK</td>
            <td><br>
-              <br></td>
+           <br></td>
           </tr>
           <tr>
             <td>11:20 AM - 12:10 PM<br></td>
@@ -318,7 +323,7 @@ div.instructor-table {
           </tr>
           <tr>
             <td>12:10 - 12:40 PM<br></td>
-            <td>Gene models discussion. RNA Seq and other data in the genome browser</td>
+            <td>Gene models discussion; RNA Seq and other data in the genome browser</td>
             <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
           </tr>
           <tr>
