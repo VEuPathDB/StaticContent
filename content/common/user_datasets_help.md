@@ -49,12 +49,15 @@ div.UserDatasetHelp img {
    <br><hr>
 
   <h3>Upload gene lists to My Data Sets</h3>
-    <img src="{{'/assets/images/MyDataSets/UploadListMyDataSets.gif' | absolute_url}}" />
     <br>
     This feature is offered in preparation to provide gene set functionality such as gene set enrichment analysis. 
     <ul>
       <li>Open the New Upload tab in your My Data Sets workspace. </li>
-      <li>Choose file:  the file containing gene IDs needs to contain valid IDs separated by valid delimiters. 
+      <li>Choose <b>Gene List: Integrate your gene list</b></li>
+      <li>Complete the Upload a Gene List form</li>
+      <ul>
+        <li>Name, Summary and Upload File or URL are required</li>
+        <li>The file containing gene IDs needs to contain valid IDs separated by valid delimiters. </li>
           <br>Valid gene IDs: 
           <ul>
             <li>each gene ID includes only these charatacers : regex: [a-zA-Z0-9().:_-]*$</li>
@@ -67,9 +70,10 @@ div.UserDatasetHelp img {
             <li>comma</li>
             <li>semi-colon</li>
          </ul>
+        </ul>
       </li>
       <li>Upload My Data Set.  This initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.</li>
-      <li>Open the new data set record for more details about the files and options to download the gene list.  </li>
+      <li>Open the new data set record for more details about the files and options to download the gene list. Your new data set will appear in the table on your My Data Sets page. </li>
     </ul>
    <br><hr>
     
