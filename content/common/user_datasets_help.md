@@ -54,7 +54,7 @@ div.UserDatasetHelp img {
     This feature is offered in preparation to provide gene set functionality such as gene set enrichment analysis. 
     <ol type="1">
       <li>Open the New Upload tab in your My Data Sets workspace. Choose <b>Gene List: Integrate your gene list</b></li>
-      <li>Complete the Upload a Gene List form. Name, Summary and Upload File or URL are required. The file containing gene IDs needs to contain valid IDs separated by valid delimiters. Upload My Data Set initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.
+      <li>Complete the Upload a Gene List form. Name, Summary and Upload File or URL are required. The file containing gene IDs needs to contain valid IDs separated by valid delimiters. Upload Data Set initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.
         <br>Valid gene IDs: 
           <ul>
             <li>each gene ID includes only these charatacers : regex: [a-zA-Z0-9().:_-]*$</li>
@@ -69,8 +69,6 @@ div.UserDatasetHelp img {
          </ul></li>
       <li>The record page for your new data set opens automatically and contains details such as status of the file installation and options for downloading.</li>
     </ol>
-      
-
     <!-- <ul>
       <li>Open the New Upload tab in your My Data Sets workspace. </li>
       <li>Choose <b>Gene List: Integrate your gene list</b></li>
@@ -95,6 +93,16 @@ div.UserDatasetHelp img {
       <li>Open the new data set record for more details about the files and options to download the gene list. Your new data set will appear in the table on your My Data Sets page. </li>
     </ul>-->
    <br><hr>
+
+   <h3>Upload a BigWig file to your My Data Sets</h3>
+   <img src="{{'/assets/images/MyDataSets/bigWigUpload.png' | absolute_url}}" />
+    <br>
+    <ol type="1">
+      <li>Open the New Upload tab in your My Data Sets workspace. Choose <b>bigWig List: Integrate your bigWig file</b></li>
+      <li>Complete the Upload a BigWig form. Name, Summary and Upload File or URL are required. The bigWig file must contain data mapped to the current version of the {{project}} file. Upload Data Set initiates the transfer and will add the bigWig file as a data set in table on your My Data Sets page.</li>
+      <li>The record page for your new data set opens immediately but the file installation may take some time. When the Status changes to 'This data set is installed...', navigate to the browser with View in Genome Browser.</li>
+    </ol>
+
     
 
   </div>
