@@ -105,12 +105,12 @@ div.UserDatasetHelp img {
     <br><hr>
 
   <h3>Upload an RNA-Seq data to My Data Sets</h3>
-  <img src="{{'/assets/images/MyDataSets/RNA_Seq.png' | absolute_url}}" />
+  <img src="{{'/assets/images/MyDataSets/RNAseqUpload.png' | absolute_url}}" />
     <br>
     <ol type="1">
       <li>Open the New Upload tab in your My Data Sets workspace. Choose <b>RNA-Seq: Integrate your RNA-Seq data.</b></li>
-      <li>Complete the Upload My RNA-Seq form. Name, Summary and Upload File/URL are required. The zip file with your RNASeq results should three types of files: bigWig, counts and index. The counts files of FPKM/TPM files should be a tab-delimited file with two columns: gene IDs, and normalized counts. The first line must have column headings 'gene_id' and either 'FPKM' or 'TMP'.. Upload Data Set initiates the transfer and will add the bigWig file as a data set in table on your My Data Sets page.     FPKM/TPM  processed reads (counts), manifest </li>
-      <li>The record page for your new data set opens immediately but the file installation may take some time. blah </li>
+      <li>Complete the Upload My Normalized RNA-Seq form. Name, Summary and Upload File/URL are required. Three types of files &ndash; bigWig, counts and index &ndash; are supported in the uploaded zip file. BigWig files are not required but will allow visualization in the genome browser if included. The counts (FPKM/TPM) files should be tab-delimited and contain two columns with column headers: 'gene_id', and either 'FPKM' or 'TMP'. The index file should be named manifest.txt and consist of a tab delimited txt file with three columns (no column headers): sample name, filename, and strandedness (unstranded/stranded). Upload Data Set initiates the transfer and will create a record page for your data set that contains links to the fold change search, and bigWig files if included. </li>
+      <li>The record page for your new data set opens immediately but the file installation may take some time. When the Status changes to 'This data set is installed...', navigation to the fold change search and the bigWig data (if included).</li>
     </ol>
     <br><hr>
 
