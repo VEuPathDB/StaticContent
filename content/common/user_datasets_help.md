@@ -5,7 +5,7 @@ title: User Data Sets Help
 <style>
 
 div.UserDatasetHelp img {
-    width: 50%;
+    width: 75%;
     margin-bottom: 20px;
 }
 
