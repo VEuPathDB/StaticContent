@@ -15,7 +15,7 @@ title: Usage Metrics
     <ul><li><span class="small">from oauth logins.log and the user database</span></li></ul></li>
   <li><a href="/a/app/search/metrics/Awstats">Awstats</a></li>
 
-  <p><b>Available only starting October 2024:</b></p>
+  <p><b>Data available starting October 2024:</b></p>
   <li><a href="/a/app/search/metrics/PageViewStats"># Page views (by guest vs. registered)</a>: 
     <ul><li><span class="small">from webapp page-views.log; bookmarked access not included</span></li></ul></li>
   <li><a href="/a/app/search/metrics/RecordPageViewStats"># Record page views</a>: 
@@ -49,12 +49,13 @@ title: Usage Metrics
       <li>New User comments</li>
       <li>VectorBase Map (MapVEu) analyses</li>
       <li>Sequence retrieval runs</li>
+      <li>MulltiBlast runs</li>
       <li>Search result downloads, file downloads</li>
-      <li>Step analysis: enrichment (pathway, go, word)</li>
-      <li>Programmmatic access to search results (webservices) </li>
+      <li>Step analyses on enrichment (pathway, go, word)</li>
+      <li>Programmmatic access to search results (webservices)</li>
 
-      <p><b>Available only starting October 2024:</b></p>
-      <li>Site search, JBrowse, Multiblast</li>
+      <p><b>Data available starting October 2024:</b></p>
+      <li>Site search, JBrowse</li>
     </ul></li>  
 </ul>
 
