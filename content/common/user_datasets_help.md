@@ -94,14 +94,27 @@ div.UserDatasetHelp img {
     </ul>-->
    <br><hr>
 
-   <h3>Upload a BigWig file to your My Data Sets</h3>
-   <img src="{{'/assets/images/MyDataSets/bigWigUpload.png' | absolute_url}}" />
+  <h3>Upload a BigWig file to My Data Sets</h3>
+  <img src="{{'/assets/images/MyDataSets/bigWigUpload.png' | absolute_url}}" />
     <br>
     <ol type="1">
-      <li>Open the New Upload tab in your My Data Sets workspace. Choose <b>bigWig List: Integrate your bigWig file</b></li>
-      <li>Complete the Upload a BigWig form. Name, Summary and Upload File or URL are required. The bigWig file must contain data mapped to the current version of the {{project}} file. Upload Data Set initiates the transfer and will add the bigWig file as a data set in table on your My Data Sets page.</li>
+      <li>Open the New Upload tab in your My Data Sets workspace. Choose <b>bigWig: Integrate your bigWig file</b></li>
+      <li>Complete the Upload a BigWig form. Name, Summary and Upload File or URL are required. The bigWig file must contain data mapped to the current VEuPathDB reference genome for that organism. Upload Data Set initiates the transfer and will add the bigWig file as a data set in table on your My Data Sets page.</li>
       <li>The record page for your new data set opens immediately but the file installation may take some time. When the Status changes to 'This data set is installed...', navigate to the browser with View in Genome Browser.</li>
     </ol>
+    <br><hr>
+
+  <h3>Upload an RNA-Seq data to My Data Sets</h3>
+  <img src="{{'/assets/images/MyDataSets/bigWigUpload.png' | absolute_url}}" />
+    <br>
+    <ol type="1">
+      <li>Open the New Upload tab in your My Data Sets workspace. Choose <b>RNA-Seq: Integrate your RNA-Seq data.</b></li>
+      <li>Complete the Upload My RNA-Seq form. Name, Summary and Upload File or URL are required. upload a zip file with your RNASeq results: your bigWig and fpkm fastq files containing your processed reads. ..... (susanne stopped here) Each file in the collection of FPKM or TPM files should be a two column tab-delimited file where the first column contains gene ids, and the second column contains normalized counts for each gene, either FPKM or TPM. The first line must have column headings 'gene_id' and either 'FPKM' or 'TMP'.. Upload Data Set initiates the transfer and will add the bigWig file as a data set in table on your My Data Sets page.</li>
+      <li>The record page for your new data set opens immediately but the file installation may take some time. blah </li>
+    </ol>
+    <br><hr>
+
+
 
     
 
