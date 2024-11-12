@@ -54,7 +54,7 @@ div.UserDatasetHelp img {
     This feature is offered in preparation to provide gene set functionality such as gene set enrichment analysis. 
     <ol type="1">
       <li>Open the New Upload tab in your My Data Sets workspace. Choose <b>Gene List: Integrate your gene list</b></li>
-      <li>Complete the Upload a Gene List form. Name, Summary and Upload File or URL are required. The file containing gene IDs needs to contain valid IDs separated by valid delimiters. Upload Data Set initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.
+      <li>Complete the Upload a Gene List form. Name, Summary and Upload File/URL are required. The file containing gene IDs needs to contain valid IDs separated by valid delimiters. Upload Data Set initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.
         <br>Valid gene IDs: 
           <ul>
             <li>each gene ID includes only these charatacers : regex: [a-zA-Z0-9().:_-]*$</li>
@@ -74,7 +74,7 @@ div.UserDatasetHelp img {
       <li>Choose <b>Gene List: Integrate your gene list</b></li>
       <li>Complete the Upload a Gene List form</li>
       <ul>
-        <li>Name, Summary and Upload File or URL are required</li>
+        <li>Name, Summary and Upload File/URL are required</li>
         <li>The file containing gene IDs needs to contain valid IDs separated by valid delimiters. </li>
           <br>Valid gene IDs: 
           <ul>
@@ -99,17 +99,17 @@ div.UserDatasetHelp img {
     <br>
     <ol type="1">
       <li>Open the New Upload tab in your My Data Sets workspace. Choose <b>bigWig: Integrate your bigWig file</b></li>
-      <li>Complete the Upload a BigWig form. Name, Summary and Upload File or URL are required. The bigWig file must contain data mapped to the current VEuPathDB reference genome for that organism. Upload Data Set initiates the transfer and will add the bigWig file as a data set in table on your My Data Sets page.</li>
+      <li>Complete the Upload a BigWig form. Name, Summary and Upload File/URL are required. The bigWig file must contain data mapped to the current VEuPathDB reference genome for that organism. Upload Data Set initiates the transfer and will add the bigWig file as a data set in table on your My Data Sets page.</li>
       <li>The record page for your new data set opens immediately but the file installation may take some time. When the Status changes to 'This data set is installed...', navigate to the browser with View in Genome Browser.</li>
     </ol>
     <br><hr>
 
   <h3>Upload an RNA-Seq data to My Data Sets</h3>
-  <img src="{{'/assets/images/MyDataSets/bigWigUpload.png' | absolute_url}}" />
+  <img src="{{'/assets/images/MyDataSets/RNA_Seq.png' | absolute_url}}" />
     <br>
     <ol type="1">
       <li>Open the New Upload tab in your My Data Sets workspace. Choose <b>RNA-Seq: Integrate your RNA-Seq data.</b></li>
-      <li>Complete the Upload My RNA-Seq form. Name, Summary and Upload File or URL are required. upload a zip file with your RNASeq results: your bigWig and fpkm fastq files containing your processed reads. ..... (susanne stopped here) Each file in the collection of FPKM or TPM files should be a two column tab-delimited file where the first column contains gene ids, and the second column contains normalized counts for each gene, either FPKM or TPM. The first line must have column headings 'gene_id' and either 'FPKM' or 'TMP'.. Upload Data Set initiates the transfer and will add the bigWig file as a data set in table on your My Data Sets page.</li>
+      <li>Complete the Upload My RNA-Seq form. Name, Summary and Upload File/URL are required. The zip file with your RNASeq results should three types of files: bigWig, counts and index. The counts files of FPKM/TPM files should be a tab-delimited file with two columns: gene IDs, and normalized counts. The first line must have column headings 'gene_id' and either 'FPKM' or 'TMP'.. Upload Data Set initiates the transfer and will add the bigWig file as a data set in table on your My Data Sets page.     FPKM/TPM  processed reads (counts), manifest </li>
       <li>The record page for your new data set opens immediately but the file installation may take some time. blah </li>
     </ol>
     <br><hr>
