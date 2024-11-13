@@ -118,7 +118,8 @@ div.instructor-table {
    <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> 
    <a href="/a/app/static-content/workshops.html">Workshops</a></p>
 
-<h1>VEuPathDB Virtual Workshop, December 11-13, 2024</h1>
+<h1>VEuPathDB Virtual Workshop, December 11-13, 2024<br>
+<a href="https://upenn.co1.qualtrics.com/jfe/form/SV_cGhOGjNTREF8JQq" target="_blank">Registration is open!</a></h1>
 <div class="static-content">
 
 
