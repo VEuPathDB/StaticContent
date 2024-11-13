@@ -18,12 +18,7 @@ div.UserDatasetHelp img {
 
 
   <h3>Overview</h3>
-    <ul>
-      <li>My Data Sets are your files or sets of files that are private unless you choose to share them with colleagues.</li>
-      <li>My Data Sets originate as uploads from your computer or a URL, and imports from a search strategy result.
-          (in the past some also originated as exports from our VEuPathDB Galaxy.)  </li>
-      <li>My Data Sets persist between sessions so your files are always accessible.</li>
-    </ul>
+  <b>My Data Sets</b> are your files or sets of files that are private unless you choose to share them with colleagues. Populated with files uploaded from your computer or URL, or with data imported from a search strategy, your data sets are preserved across sessions, ensuring they are always accessible whenever you log in.
   <br><hr>
 
   <h3>My Data Sets workspace</h3>
@@ -69,29 +64,6 @@ div.UserDatasetHelp img {
          </ul></li>
       <li>The record page for your new data set opens automatically and contains details such as status of the file installation and options for downloading.</li>
     </ol>
-    <!-- <ul>
-      <li>Open the New Upload tab in your My Data Sets workspace. </li>
-      <li>Choose <b>Gene List: Integrate your gene list</b></li>
-      <li>Complete the Upload a Gene List form</li>
-      <ul>
-        <li>Name, Summary and Upload File/URL are required</li>
-        <li>The file containing gene IDs needs to contain valid IDs separated by valid delimiters. </li>
-          <br>Valid gene IDs: 
-          <ul>
-            <li>each gene ID includes only these charatacers : regex: [a-zA-Z0-9().:_-]*$</li>
-            <li>each gene ID has at least one alphabetical character.</li>
-            <li>each gene ID is at most 40 characters</li>
-          </ul>
-         Valid delimiters:
-         <ul>
-            <li>white space (newline, space, tab)</li>
-            <li>comma</li>
-            <li>semi-colon</li>
-         </ul>
-        </ul>
-      <li>Upload My Data Set.  This initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.</li>
-      <li>Open the new data set record for more details about the files and options to download the gene list. Your new data set will appear in the table on your My Data Sets page. </li>
-    </ul>-->
    <br><hr>
 
   <h3>Upload a BigWig file to My Data Sets</h3>
@@ -109,8 +81,8 @@ div.UserDatasetHelp img {
     <br>
     <ol type="1">
       <li>Open the New Upload tab in your My Data Sets workspace. Choose <b>RNA-Seq: Integrate your RNA-Seq data.</b></li>
-      <li>Complete the Upload My Normalized RNA-Seq form. Name, Summary and Upload File/URL are required. Three types of files &ndash; bigWig, counts and index &ndash; are supported in the uploaded zip file. BigWig files are not required but will allow visualization in the genome browser if included. The counts (FPKM/TPM) files should be tab-delimited and contain two columns with column headers: 'gene_id', and either 'FPKM' or 'TMP'. The index file should be named manifest.txt and consist of a tab delimited txt file with three columns (no column headers): sample name, filename, and strandedness (unstranded/stranded). Upload Data Set initiates the transfer and will create a record page for your data set that contains links to the fold change search, and bigWig files if included. </li>
-      <li>The record page for your new data set opens immediately but the file installation may take some time. When the Status changes to 'This data set is installed...', navigation to the fold change search and the bigWig data (if included).</li>
+      <li>Complete the Upload My Normalized RNA-Seq form. Name, Summary and Upload File/URL are required. Three types of files &ndash; bigWig, counts and index &ndash; are supported in the uploaded zip file. BigWig files are not required but will allow data visualization in the genome browser if included. The counts (FPKM/TPM) files should be tab-delimited and contain two columns with column headers: 'gene_id', and either 'FPKM' or 'TMP'. The index file should be named manifest.txt and consist of a tab delimited txt file with three columns (no column headers): sample name, filename, and strandedness (unstranded/stranded). Upload Data Set initiates the transfer and will create a record page for your data set that contains links to the fold change search, and bigWig files if included. </li>
+      <li>The record page for your new data set opens immediately but the file installation may take some time. When the Status changes to 'This data set is installed...', navigation to the fold change search and the installed bigWig genome browser track(s) are available from the record page.</li>
     </ol>
     <br><hr>
 
