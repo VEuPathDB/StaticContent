@@ -80,7 +80,7 @@ div.UserDatasetHelp img {
   <img src="{{'/assets/images/MyDataSets/RNAseqUpload.png' | absolute_url}}" />
     <br>
     <ol type="1">
-      <li>Open the New Upload tab in your My Data Sets workspace. Choose <b>RNA-Seq: Integrate your RNA-Seq data.</b></li>
+      <li>Open the New Upload tab in your My Data Sets workspace. Choose <b>RNA-Seq: Integrate your Normalized RNA-Seq data.</b></li>
       <li>Complete the Upload My Normalized RNA-Seq form. Name, Summary and Upload File/URL are required. Three types of files &ndash; bigWig, counts and index &ndash; are supported in the uploaded zip file. BigWig files are not required but will allow data visualization in the genome browser if included. The counts (FPKM/TPM) files should be tab-delimited and contain two columns with column headers: 'gene_id', and either 'FPKM' or 'TMP'. The index file should be named manifest.txt and consist of a tab delimited txt file with three columns (no column headers): sample name, filename, and strandedness (unstranded/stranded). Upload Data Set initiates the transfer and will create a record page for your data set that contains links to the fold change search, and bigWig files if included. </li>
       <li>The record page for your new data set opens immediately but the file installation may take some time. When the Status changes to 'This data set is installed...', navigation to the fold change search and the installed bigWig genome browser track(s) are available from the record page.</li>
     </ol>
