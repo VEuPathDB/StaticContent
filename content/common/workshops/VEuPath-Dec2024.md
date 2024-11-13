@@ -118,8 +118,7 @@ div.instructor-table {
    <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> 
    <a href="/a/app/static-content/workshops.html">Workshops</a></p>
 
-<h1>VEuPathDB Virtual Workshop, December 11-13, 2024<br>
-<a href="https://upenn.co1.qualtrics.com/jfe/form/SV_cGhOGjNTREF8JQq" target="_blank">Registration is open!</a></h1>
+<h1>VEuPathDB Virtual Workshop, December 11-13, 2024</h1>
 <div class="static-content">
 
 
@@ -127,6 +126,7 @@ div.instructor-table {
       <h4>Registration deadline is Friday, December 6, 2024. Register by completing the <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_cGhOGjNTREF8JQq" target="_blank">registration form</a>. Once registration closes, participants will receive an email with zoom details.</h4>
       <!--<h4>Registration is closed.  Please <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us</a> for further information. </h4>-->
       <h4>Workshop times: 10 AM - 1 PM (EST) daily with optional Q/A until 1:30 PM - <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
+      <h4><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_cGhOGjNTREF8JQq" target="_blank">Register here</a></h4>
       <h4><a href="#Schedule">Schedule</a> &ndash; PDF exercises, lecture recordings, and lecture slides will be linked here.</h4>
       <img style="width: 35em; margin-top: 0.5em; display: block; margin-left: auto; margin-right: auto;" src="{{ "/assets/images/workshops/VEuPathDB_workshop.png" | absolute_url }}" alt="2024VEuPathDB"/>
 
