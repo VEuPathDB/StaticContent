@@ -53,12 +53,6 @@ Release webinar dates are subject to change due to production issues that may ar
   <hr style="width:30%; margin-left:0">  </div>
   <div class="anchor"><a name="vectorbase_comm_nov24"></a></div>
   <div class="webinar">
-  <b>Topic:</b> FungiDB Community Meeting<br>
-  <b>Date:</b> Tuesday, November 12, 2024<br>
-  <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJUud-6urz8qEtzfIT-X5axAXz7fTJmhj5_A#/registration">Click here to register now</a> <br>
-  <b>Details:</b> This VEuPathDB community meeting will focus on FungiDB users and include a short introduction about where we stand and our plans. Ample time will be given for discussion and questions from attendees.  
-  <br><br>
   <b>Topic:</b> Protozoan Researcher Community Meeting<br>
   <b>Date:</b> Tuesday, November 19, 2024<br>
   <b>Time:</b> 10AM US Eastern Time<br>
@@ -74,11 +68,14 @@ Release webinar dates are subject to change due to production issues that may ar
 <details open>
 <summary><h3>Community Meetings</h3></summary>
 <ul>
+<li><b>FungiDB Community Meeting</b> (12 November 2024): <a href="https://youtu.be/Jnmhvj5H4MA?si=Y9qDPmtumBokhGYq" target="_blank">https://youtu.be/Jnmhvj5H4MA?si=Y9qDPmtumBokhGYq</a></li>
 <li><b>VectorBase Community Meeting</b> (4 November 2024): <a href="https://www.youtube.com/watch?v=9BW93PQBxH8" target="_blank">https://www.youtube.com/watch?v=9BW93PQBxH8</a></li>
 </ul><br>
 </details>
 </div>   
  <br><br>
+
+
 
 <div class="anchor"><a name="release"></a></div>
 <div class="contents">
