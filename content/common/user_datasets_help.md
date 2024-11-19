@@ -21,6 +21,7 @@ div.UserDatasetHelp img {
   <br><hr>
 
   <h3>My Data Sets workspace</h3>
+  <div style="margin-left: 3em;">
     <ul>
       <li>View, manage, share, and utilize your data set in <b>{{project}}</b> My Data Sets workspace. </li>
       <li>My Data Sets you’ve created contribute to a per-user upload limit of <b>10.00</b> GB. </li>
@@ -29,21 +30,20 @@ div.UserDatasetHelp img {
       <li>Each Data Set has its own record page (linked in the Name column) with more details and options to download.</li>
     </ul>
     <br>
-    <div style="margin-left: 3em;">
     <img src="{{'/assets/images/MyDataSets/MyDataSets.png' | absolute_url}}" />
-    </div>
+  </div>
   <br><hr>
 
   <h3>Send gene lists from search results to My Data Sets</h3>
+  <div style="margin-left: 3em;">
     <ul>
       <li>From the gene strategy result page, open the Send To menu. </li>
       <li>Choose My Data Sets.  This initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.</li>
       <li>Open the new data set record for more details about the files and options to download the gene list.  </li>
     </ul>
     <br>
-    <div style="margin-left: 3em;">
     <img src="{{'/assets/images/MyDataSets/SaveListMyDataSets.gif' | absolute_url}}" />
-    </div>
+  </div>
    <br><hr>
 
   <h3>Upload gene lists to My Data Sets</h3>
