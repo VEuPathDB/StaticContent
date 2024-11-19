@@ -115,8 +115,6 @@ tags: [general]
             OrthoMCL-7 has been re-engineered by Stuart Brown, Rich Demko, John Brestelli, Robert MacCallum, and David Falke with contributions from Steve Fischer, Cristina Aurrecoechea, Bindu Gajria, Nupur Kittur, and Elizabeth Harper.
             </p>
             We'd also like to thank students and postdocs from the Roos lab for valuable suggestions, specifically Lucia Peixoto, and Dhanasekaran Shanmugam.
-            
-          </p>
         </div>
 
   </div>
