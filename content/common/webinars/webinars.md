@@ -47,7 +47,6 @@ Release webinar dates are subject to change due to production issues that may ar
   </div>
 
 </div>-->
-<h3>Upcoming Webinars & Community Meetings</h3>
 
   </div> <!--closing div contents for Upcoming Webinars -->
 
