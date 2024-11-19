@@ -48,18 +48,6 @@ Release webinar dates are subject to change due to production issues that may ar
 
 </div>-->
 
-  <h3>Upcoming Webinars & Community Meetings</h3>
-  <div class="contents">   
-  <hr style="width:30%; margin-left:0">  </div>
-  <div class="anchor"><a name="vectorbase_comm_nov24"></a></div>
-  <div class="webinar">
-  <b>Topic:</b> Protozoan Researcher Community Meeting<br>
-  <b>Date:</b> Tuesday, November 19, 2024<br>
-  <b>Time:</b> 10AM US Eastern Time<br>
-  <b>Registration:</b> <a href="https://upenn.zoom.us/meeting/register/tJ0ufu6hrjgrG9wbEr4v0godHw9x4Mf6OWsx#/registration">Click here to register now</a><br>
-  <b>Details:</b> This community meeting will focus on researchers who work on protozoa and use VEuPathDB resources like AmoebaDB, CryptoDB, GiardiaDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB, TrichDB or TriTrypDB to discuss plans for the future and answer your questions.
-  <br><br>
-
   </div> <!--closing div contents for Upcoming Webinars -->
 
 
@@ -68,6 +56,7 @@ Release webinar dates are subject to change due to production issues that may ar
 <details open>
 <summary><h3>Community Meetings</h3></summary>
 <ul>
+<li><b>Parasitology Community Meeting</b> (19 November 2024): <a href="https://www.youtube.com/watch?v=aSS6fiGVBG4" target="_blank">https://www.youtube.com/watch?v=aSS6fiGVBG4</a></li>
 <li><b>FungiDB Community Meeting</b> (12 November 2024): <a href="https://youtu.be/Jnmhvj5H4MA?si=Y9qDPmtumBokhGYq" target="_blank">https://youtu.be/Jnmhvj5H4MA?si=Y9qDPmtumBokhGYq</a></li>
 <li><b>VectorBase Community Meeting</b> (4 November 2024): <a href="https://www.youtube.com/watch?v=9BW93PQBxH8" target="_blank">https://www.youtube.com/watch?v=9BW93PQBxH8</a></li>
 </ul><br>
