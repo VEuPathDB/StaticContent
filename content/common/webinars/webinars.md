@@ -31,7 +31,7 @@ tags: [general]
 <!--<hr>  ==== UPCOMING WEBINARS =============================== -->
  
 <!-- ======use this space for upcoming Webinars details and registrations ======
-<h3>Upcoming Webinars Details and Registration</h3>
+<h3>Upcoming Webinars & Community Meetings</h3>
 Release webinar dates are subject to change due to production issues that may arise during a release.  Registration links will be available 7-10 days prior to a release webinar.
   
 <div class="contents">
@@ -47,9 +47,6 @@ Release webinar dates are subject to change due to production issues that may ar
   </div>
 
 </div>-->
-<h3>Upcoming Webinars & Community Meetings</h3>
-<div class="contents">   
-<hr style="width:30%; margin-left:0">  </div>
 
   </div> <!--closing div contents for Upcoming Webinars -->
 
