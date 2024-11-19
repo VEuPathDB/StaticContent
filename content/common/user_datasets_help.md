@@ -75,16 +75,17 @@ div.UserDatasetHelp img {
   <img src="{{'/assets/images/MyDataSets/bigWigUpload.png' | absolute_url}}" />
     <br><hr>
 
-  <h3>Upload RNA-Seq data to My Data Sets</h3>
+  <h3>Upload Normalized RNA-Seq data to My Data Sets</h3>
     <br>
     <ol type="1">
-      <li><b>Access the My Gene List upload form:</b> Open the New Upload tab in your My Data Sets workspace. Choose <b>RNA-Seq: Integrate your Normalized RNA-Seq data.</b></li>
-      <li><b>Complete the Upload a Upload My Normalized RNA-Seq form:</b> Name, Summary and Upload File/URL are required. Three types of files &ndash; bigWig, counts and index &ndash; are supported in the uploaded zip file. 
+      <li><b>Access the Normalized RNA-Seq upload form:</b> Open the New Upload tab in your My Data Sets workspace. Choose <b>Normalized RNA-Seq: Integrate your Normalized RNA-Seq data.</b></li>
+      <li><b>Complete the Upload My Normalized RNA-Seq form:</b> Name, Summary and Upload File/URL are required. Three types of files &ndash; bigWig, counts and index &ndash; are supported in the uploaded zip file. 
         <ul>
           <li>BigWig files are not required but will allow data visualization in the genome browser if included.</li>
           <li>The counts (FPKM/TPM) files should be tab-delimited and contain two columns with column headers: 'gene_id', and either 'FPKM' or 'TMP'.</li>
           <li>The index file should be named manifest.txt and consist of a tab delimited txt file with three columns (no column headers): sample name, filename, and strandedness (unstranded/stranded).</li> 
           <li>Upload Data Set initiates the transfer and will create a record page for your data set that contains links to the fold change search, and bigWig files if included. </li>
+        </ul>
       <li><b>View and access your new data set:</b> The record page for your new data set opens immediately but the file installation may take some time. When the Status changes to 'This data set is installed...', navigation to the fold change search and the installed bigWig genome browser track(s) are available from the record page.</li>
     </ol>
     <br>
