@@ -79,7 +79,7 @@ div.UserDatasetHelp img {
     <br>
     <ol type="1">
       <li><b>Access the Normalized RNA-Seq upload form:</b> Open the New Upload tab in your My Data Sets workspace. Choose <b>Normalized RNA-Seq: Integrate your Normalized RNA-Seq data.</b></li>
-      <li><b>Complete the Upload My Normalized RNA-Seq form:</b> Name, Summary and Upload File/URL are required. Three types of files &ndash; bigWig, counts and index &ndash; are supported in the uploaded zip file. 
+      <li><b>Complete the Upload My Normalized RNA-Seq form:</b> Name, Summary and Upload File/URL are required. Three types of files &ndash; bigWig, counts and index &ndash; are supported in the uploaded zip file. </li>
         <ul>
           <li>BigWig files are not required but will allow data visualization in the genome browser if included.</li>
           <li>The counts (FPKM/TPM) files should be tab-delimited and contain two columns with column headers: 'gene_id', and either 'FPKM' or 'TMP'.</li>
@@ -91,10 +91,6 @@ div.UserDatasetHelp img {
     <br>
     <img src="{{'/assets/images/MyDataSets/RNAseqUpload.png' | absolute_url}}" />
     <br><hr>
-
-
-
-    
 
   </div>
 
