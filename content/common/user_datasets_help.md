@@ -29,7 +29,9 @@ div.UserDatasetHelp img {
       <li>Each Data Set has its own record page (linked in the Name column) with more details and options to download.</li>
     </ul>
     <br>
+    <div style="margin-left: 3em;">
     <img src="{{'/assets/images/MyDataSets/MyDataSets.png' | absolute_url}}" />
+    </div>
   <br><hr>
 
   <h3>Send gene lists from search results to My Data Sets</h3>
@@ -39,7 +41,9 @@ div.UserDatasetHelp img {
       <li>Open the new data set record for more details about the files and options to download the gene list.  </li>
     </ul>
     <br>
+    <div style="margin-left: 3em;">
     <img src="{{'/assets/images/MyDataSets/SaveListMyDataSets.gif' | absolute_url}}" />
+    </div>
    <br><hr>
 
   <h3>Upload gene lists to My Data Sets</h3>
@@ -61,7 +65,9 @@ div.UserDatasetHelp img {
       <li><b>View and access your new data set:</b> The record page for your new data set opens automatically and contains details such as status of the file installation and options for downloading.</li>
     </ol>
     <br>
+    <div style="margin-left: 3em;">
     <img src="{{'/assets/images/MyDataSets/GeneListUpload.png' | absolute_url}}" />
+    </div>
    <br><hr>
 
   <h3>Upload a BigWig file to My Data Sets</h3>
@@ -72,7 +78,9 @@ div.UserDatasetHelp img {
       <li><b>View and access your new data set:</b> The record page for your new data set opens immediately but the file installation may take some time. When the Status changes to 'This data set is installed...', navigate to the browser with View in Genome Browser.</li>
     </ol>
     <br>
-  <img src="{{'/assets/images/MyDataSets/bigWigUpload.png' | absolute_url}}" />
+    <div style="margin-left: 3em;">
+    <img src="{{'/assets/images/MyDataSets/bigWigUpload.png' | absolute_url}}" />
+    </div>
     <br><hr>
 
   <h3>Upload Normalized RNA-Seq data to My Data Sets</h3>
@@ -89,7 +97,9 @@ div.UserDatasetHelp img {
       <li><b>View and access your new data set:</b> The record page for your new data set opens immediately but the file installation may take some time. When the Status changes to 'This data set is installed...', navigation to the fold change search and the installed bigWig genome browser track(s) are available from the record page.</li>
     </ol>
     <br>
+    <div style="margin-left: 3em;">
     <img src="{{'/assets/images/MyDataSets/RNAseqUpload.png' | absolute_url}}" />
+    </div>
     <br><hr>
 
   </div>
