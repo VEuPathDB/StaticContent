@@ -1,4 +1,29 @@
 --- # genomics faq page
+- type: about
+  question: "What is VEuPathDB– the Pathogen, Host & Vector Bioinformatics Resource Center?"
+  answer: |
+           VEuPathDB is an online resource providing FAIR (Findable, Accessible, Interoperable, Reusable) access to genomic Big Data relating to eukaryotic microbes (protozoa & fungi), as well as the hosts and arthropod vectors of pathogenic species. Supported datatypes include:
+           1. Genome sequences & population-level diversity data on many hundreds of microbial eukaryotes (fungi & protozoa), including pathogenic & non-pathogenic species, along with the host species & arthropod disease vectors they infect.
+           2. Diverse functional genomics information (generated on multiple platforms): chromatin marks, transcriptomes, proteomes, metabolomes, genome-wide phenotypic information, etc.
+           3. Information on subcellular localization, structure, molecular interactions, metabolic pathways & signaling networks, immunogenicity, reagents, publications, etc.
+           4. Automated analyses and summaries, including experimental metadata, integrated with the above, along with annotations available from professional curators or contributed by community experts.
+           
+           VEuPathDB also supports:
+           1. Sophisticated queries for interrogating these diverse datatypes and integrating & sharing the results obtained – effectively, in silico experiments expediting hypothesis generation, discovery research & translational application.
+           2. Tools for assessing and improving the quality and accuracy of available annotation – capturing expert knowledge from the community
+           3. Tools for analyzing and disseminating users’ own datasets – in compliance with emerging global data-sharing standards and requirements.
+  uid: whatisveupathdb
+  projects: ""
+- type: about
+  question: "Who uses VEuPathDB resources, and why?"
+  answer: |
+           In 2023, VEuPathDB resources were visited by an average of >45K unique users per month, from >150 countries, with the typical user returning several times each month.  >7 Tb of data is downloaded annually, and VEuPathDB resources have been cited >30K times in the scientific literature to date.   Numerous publications, reviews, and independent assessments attest that by providing convenient access to genomic-scale datasets and allowing users to interrogate these data and integrate the results obtained, VEuPathDB resources greatly facilitate discovery research and translational application, including the identification of therapeutic targets.
+           
+           Extensive outreach & training activities focus on ensuring that researchers can access and use available information effectively.  These efforts have been particularly effective in engaging the global community, including those in LMICs that often bear the brunt of infectious disease (for example: African scientists account for ~5% of the global usage of the PlasmoDB and VectorBase databases supporting research on malaria and their Anopheles mosquito vectors, and 10% of global usage for PiroplasmaDB, supporting Theileria and Babesia pathogens of cattle).
+           
+           VEuPathDB also provides a platform for the dissemination of new genomic-scale datasets, ensuring compliance with  NIH data-sharing requirements and other emerging global standards for FAIR data-sharing, and permitting integration with other relevant information.
+  uid: whouses
+  projects: ""
 - type: general
   question: "My gene ID has gone missing, how do I find it again?"
   answer: |
