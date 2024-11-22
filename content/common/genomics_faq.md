@@ -48,7 +48,7 @@ div.static-content img {
 <div id="funding">
     <h2>Funding Status & Prospects for the Future</h2> 
     {% for item in site.data.genomics_faq %}
-    {% if item.type == "general" %}
+    {% if item.type == "funding" %}
       <details id="{{ item.uid }}">
         <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
         {{ item.answer | markdownify }}
@@ -61,7 +61,7 @@ div.static-content img {
 <div id="fees">
     <h2>Fees for Website Access and Data-sharing/Dissemination</h2> 
     {% for item in site.data.genomics_faq %}
-    {% if item.type == "about" %}
+    {% if item.type == "fees" %}
       <details id="{{ item.uid }}">
         <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
         {{ item.answer | markdownify }}
@@ -74,7 +74,7 @@ div.static-content img {
 <div id="operations">
     <h2>VEuPathDB Operations</h2> 
     {% for item in site.data.genomics_faq %}
-    {% if item.type == "about" %}
+    {% if item.type == "operations" %}
       <details id="{{ item.uid }}">
         <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
         {{ item.answer | markdownify }}
