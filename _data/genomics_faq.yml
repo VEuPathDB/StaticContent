@@ -36,19 +36,6 @@
             
             For more detailed methods see the following worksheet: [Where's my gene ID?](https://static-content.veupathdb.org/documents/Finding_old_gene_IDs.pdf)
   uid: findgeneids
-  projects: "" 
-- type: general
-  question: "My gene ID has gone missing, how do I find it again?"
-  answer: |
-            Genomes are updated as assemblies improve, which can lead to old gene IDs being replaced by new ones. Alternatively, a gene may not be annotated on a new reference genome, and you want to find it.
-            There are several ways to find old gene IDs:
-            1.	Site search – if your old gene ID has a new alias, searching for it will bring up the current ID
-            2.	Orthology and Synteny –  Ortholog transformation in search strategies and synteny tables on gene pages can be used to find alternate versions of the gene on different genomes. This is useful when trying to find an old annotation on a new reference genome.
-            3.	Sequence searches – BLAST and BLAT tools are available on VEuPathDB sites and can help you locate similar sequences to your gene on other genomes.
-            4.	Liftoff track – in some cases, a tool called liftoff has been used to help preserve old gene models between old and new reference genomes. It's results can be displayed as a track in JBrowse or Apollo and used alongside other evidence to annotate the new reference. 
-            
-            For more detailed methods see the following worksheet: [Where's my gene ID?](https://static-content.veupathdb.org/documents/Finding_old_gene_IDs.pdf)
-  uid: findgeneids
   projects: ""          
 - type: mining
   question: "How do I populate a strategy with my existing list of genes of interest?"
