@@ -24,7 +24,7 @@
            In a recent VEuPathDB survey, respondents were asked to rate the impact of the loss of VEuPathDB on lab productivity, >75% of >2000 respondents indicated an impact >50%.  Previous cost-efficacy estimates by the Wellcome Trust suggested an average impact of VEuPathDB on research productivity in individual labs of 20-30%.  There is no universally accepted metric for assessing impact, and database usage is highly variable from group to group … but it is clear that the value of VEuPathDB to the global research community is substantial.
   uid: whouses
   projects: ""
-  - type: funding
+- type: funding
   question: "What is the cost of VEuPathDB resources, who provides this support, and how is it allocated?"
   answer: |
            VEuPathDB resources have benefitted from >$150M investment over the past 25 years, from the US NIH, UK Wellcome Trust, Bill & Melinda Gates Foundation, Burroughs Wellcome Fund, US Dept Agriculture, and others.  Over the past decade, the annual operating budget for VEuPathDB has averaged ~$6M in direct costs; ~60% provided by an NIAID Bioinformatics Resource Center contract, plus additional funding from the Wellcome Trust Resource Grants program and others.  (Note that production quality resources are considerably more expensive to operate than individual computers, requiring careful attention to cybersecurity, redundancy, up-time, automated data-loading and analysis pipelines, software robustness, testing, quality control, and sustainability over the long-term.)
@@ -33,6 +33,16 @@
            
            Since cessation of the VEuPathDB BRC contract in Sept 2024, stop-gap funding has been provided by The Foundation for the Advancement of Science & Medicine, Open Philanthropy, the Chan Zuckerberg Initiative, and the University of Pennsylvania; Penn and the University of Georgia have also agreed to waive institutional overhead for the duration of this transitional period.  This funding supports the maintenance of existing resources in static form, and provides partial funding to implement infrastructure that will allow resumption of regular database releases (with new genomes, functional datasets & analytical tools) in 2025, and plan for financial sustainability over the longer term.
   uid: cost
+  projects: ""
+- type: funding
+  question: "How and why has the VEuPathDB funding environment changed in 2024?"
+  answer: |
+           NIAID has decided to take the BRC Program in a different direction for further information, see:
+           https://www.science.org/doi/epdf/10.1126/science.adt2250
+	         https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00241-6/fulltext
+           https://youtu.be/zyF4dUnSG5Q
+	         https://www.niaid.nih.gov/research/bioinformatics-resource-centers
+  uid: change
   projects: ""
 - type: general
   question: "My gene ID has gone missing, how do I find it again?"
