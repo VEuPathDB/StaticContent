@@ -88,6 +88,12 @@
            One can envision a “Freemium” model that charges extra for various services, such as help desk support, or access to the latest data, specific datatypes, or data analysis services.  This strategy has the disadvantage of disproportionately affecting those who require these resources the most, including researchers in low income countries most heavily affected by VEuPathDB-supported pathogen species.  Moreover, restricting access to certain services to paying customers would likely preclude grant or philanthropic support, and might prevent certification as a core bioinformatics resource.
   uid: tiered
   projects: ""
+- type: fees
+  question: "Are user fees or subscriptions a viable mechanism for support?"
+  answer: |  
+           What would supporting VEuPathDB cost individual teams or institutions – my lab, for example?  Financial models based on user surveys suggest that an allocation of 0.5-2% of relevant lab budgets would be sufficient to cover expenses, if the majority of current users are willing to contribute voluntarily, for their own benefit that that of the global community.  This would typically translate to an annual fee of ~$1-20K, depending on the size of the lab, and degree of engagement with VEuPathDB (larger operations would not pay more because they are better funded per se, but because usage of VEuPathDB resources (and dissemination of genomic-scale datasets they produce) is typically proportionate to lab budgets and database usage.)  Although substantial, these fees are well below estimated value (see above) or institutional rates proposed for data-sharing services.
+  uid: subscription
+  projects: ""
 - type: general
   question: "My gene ID has gone missing, how do I find it again?"
   answer: |
