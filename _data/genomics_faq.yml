@@ -76,6 +76,18 @@
            We are exploring various avenues and methods to equitably charge users.  At present charging per visit, or per page hit (database query) is unworkable, for a variety of logistical reasons.  Billing would be organizationally complex and expensive.  Furthermore, design of the underlying relational database means that individual inquiries can spawn widely-varying numbers of database queries.
   uid: usagecharge
   projects: ""
+- type: funding
+  question: "Is it possible to fund VEuPathDB through ad revenue, or industrial support?"
+  answer: |  
+           We are keeping all options open, but based on actual site usage, these strategies are unlikely to yield a substantial revenue stream.  45K unique users per month represents a substantial number of research scientists, but relatively few when compared to websites supported by advertising (FaceBook, TikTok & YouTube have billions of unique users per month).  Industrial usage is modest, especially as many of the diseases caused by VEuPathDB-supported pathogens are most relevant to low-income countries.  Industry users indicate that they are willing to contribute their fair share based on usage … but this is unlikely to cover more than a fraction of annual costs.
+  uid: otherrevenue
+  projects: ""
+- type: funding
+  question: "What about tiered access (charging more for certain services)?"
+  answer: |  
+           One can envision a “Freemium” model that charges extra for various services, such as help desk support, or access to the latest data, specific datatypes, or data analysis services.  This strategy has the disadvantage of disproportionately affecting those who require these resources the most, including researchers in low income countries most heavily affected by VEuPathDB-supported pathogen species.  Moreover, restricting access to certain services to paying customers would likely preclude grant or philanthropic support, and might prevent certification as a core bioinformatics resource.
+  uid: tiered
+  projects: ""
 - type: general
   question: "My gene ID has gone missing, how do I find it again?"
   answer: |
