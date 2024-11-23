@@ -48,6 +48,22 @@
            [https://www.niaid.nih.gov/research/bioinformatics-resource-centers](https://www.niaid.nih.gov/research/bioinformatics-resource-centers)
   uid: change
   projects: ""
+- type: funding
+  question: "What other sources or grant and philanthropic support might replace the loss of BRC funding for VEuPathDB?"
+  answer: |
+           Various funding agencies – including (but not limited to) those that have previously supported VEuPathDB (see above) – are concerned about the impact of defunding this resource but are unable to fill the gap, at least on short notice.  These groups are very interested in determining if a model can be established to provide sustainable support for essential core resources, and may be willing to fund this experiment, but they will not be able to commit to indefinite support.
+           
+           Concerned about the importance of VEuPathDB for global public health, and the impact that its disappearance would have on tens of thousands of mycology, parasitology & vector biology researchers who depend on VEuPathDB for their work on a daily basis, several philanthropic groups have provided short-term funds allowing this resource to stay online while we develop a model for user-based support.  Thanks to the Foundation for the Advancement of Science & Medicine, Open Philanthropy, The Chan Zuckerberg Initiative, Univ Pennsylvania & Univ Georgia!  With strong community support, additional funding may be possible in the form of matching donations and research grants for the development of innovative new informatics tools.
+  uid: otherfundingsource
+  projects: ""
+- type: funding
+  question: "What strategies might help in reducing the cost of VEuPathDB resources?"
+  answer: |  
+           As a production quality resource with regularly scheduled releases to integrate new data, tools and functionality, VEuPathDB employs a professional staff of software engineers, systems & database administrators, and subject matter experts.  Engaging students and volunteers is sometimes suggested as a cost-saving measure, and while such contributions have sometimes been useful for focused activities such as initial annotation of new genomes, data curation is a highly-specialized activity, and data processing/loading is highly sensitive to error, making oversight and QC a challenge.  Similarly, software developed by students and post-docs is typically designed for specific short-term applications, rather than generalizability and robustness over the longer term.
+           
+           Reducing services could also cut costs, but surveys have shown that while most users employ certain tools and datasets regularly and others not at all, these individual preferences are non-overlapping: virtually all VEuPathDB functionality is heavily relied upon by a significant subset of users.  Moreover, once pipelines for data processing & loading have been developed, and tools or services implemented, the marginal cost of application to new species or functional genomics datasets is usually minimal.  Eliminating support for specific taxa or datatypes would therefore have little impact on the overall VEuPathDB budget.  Development or implementation of new tools can be expensive, however, and we therefore anticipate that future development effort will be greatly reduced … and typically pursued only when supported by research grants rather than through user fees.
+  uid: reducingcosts
+  projects: ""
 - type: general
   question: "My gene ID has gone missing, how do I find it again?"
   answer: |
