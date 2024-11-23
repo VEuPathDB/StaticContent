@@ -64,6 +64,18 @@
            Reducing services could also cut costs, but surveys have shown that while most users employ certain tools and datasets regularly and others not at all, these individual preferences are non-overlapping: virtually all VEuPathDB functionality is heavily relied upon by a significant subset of users.  Moreover, once pipelines for data processing & loading have been developed, and tools or services implemented, the marginal cost of application to new species or functional genomics datasets is usually minimal.  Eliminating support for specific taxa or datatypes would therefore have little impact on the overall VEuPathDB budget.  Development or implementation of new tools can be expensive, however, and we therefore anticipate that future development effort will be greatly reduced … and typically pursued only when supported by research grants rather than through user fees.
   uid: reducingcosts
   projects: ""
+- type: funding
+  question: "Would it help to host VEuPathDB database resources elsewhere?"
+  answer: |  
+           Unfortunately, no.  Computational resources (hardware, high-performance computing, storage, servers) constitute a small fraction (<10%) of the VEuPathDB budget.
+  uid: hosting
+  projects: ""
+- type: funding
+  question: "Is it possible to fund VEuPathDB through charges based on actual usage, e.g. per site visit, or per database query?"
+  answer: |  
+           We are exploring various avenues and methods to equitably charge users.  At present charging per visit, or per page hit (database query) is unworkable, for a variety of logistical reasons.  Billing would be organizationally complex and expensive.  Furthermore, design of the underlying relational database means that individual inquiries can spawn widely-varying numbers of database queries.
+  uid: usagecharge
+  projects: ""
 - type: general
   question: "My gene ID has gone missing, how do I find it again?"
   answer: |
