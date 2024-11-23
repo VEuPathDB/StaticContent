@@ -34,7 +34,7 @@
            Since cessation of the VEuPathDB BRC contract in Sept 2024, stop-gap funding has been provided by The Foundation for the Advancement of Science & Medicine, Open Philanthropy, the Chan Zuckerberg Initiative, and the University of Pennsylvania; Penn and the University of Georgia have also agreed to waive institutional overhead for the duration of this transitional period.  This funding supports the maintenance of existing resources in static form, and provides partial funding to implement infrastructure that will allow resumption of regular database releases (with new genomes, functional datasets & analytical tools) in 2025, and plan for financial sustainability over the longer term.
   uid: cost
   projects: ""
-- type: funding
+- type: fees
   question: "How and why has the VEuPathDB funding environment changed in 2024?"
   answer: |
            NIAID has decided to take the BRC Program in a different direction for further information, see:
