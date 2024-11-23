@@ -154,6 +154,44 @@
            The global budget for parasitology, vector biology & mycology research exceeds $3B/yr.
   uid: globalbudget
   projects: ""
+- type: operations
+  question: "Why is registration now required for accessing VEuPathDB?"
+  answer: |  
+           Registration permits us to provide lab heads with accurate usage statistics for their group, to assist in assessing appropriate fees.  Registration also allows you to set preferences (e.g. species of interest, gene page and browser configurations, etc), save Query Strategies, privately process your own data for analysis in the context of publicly-available data, and publicly disseminate these datasets when appropriate.
+  uid: registration
+  projects: ""
+- type: operations
+  question: "Why did VEuPathDB have to shut down in September, and when will it be possible to resume regular updates, incorporating new genomes, functional genomics datasets, etc?"
+  answer: |  
+           The termination of NIAID funding required infrastructure reorganization to support existing databases and queries despite the loss of staff and partners, and site reconfiguration to accurately acknowledge sources of support.  With new data-processing infrastructure in place, we anticipate being able to resume regular releases in mid-2025.
+  uid: shutdown
+  projects: ""
+- type: operations
+  question: "What changes or new services & functionalities are anticipated?"
+  answer: |  
+           Current priorities include:
+            - ensuring ongoing, reliable access to existing information and data-mining resources, i.e. making certain that existing resources remain available in static form, pending our ability to resume database builds (probably in 2025)
+            - obtaining support for the 2nd year of the proposed two-year transition to financial sustainability
+            - working with end users to define appropriate fees, scaled to lab budgets so as to accommodate diverse situations and provide invoices compatible w/ institutional & funder requirements
+            - constructing new data mapping and loading infrastructure enabling resumption of regular database releases, while reviewing usage and cost-efficacy for all supported services
+            - reinvigorating community advisory groups, working with end users to prioritize, source and release new genomes, functional genomics, and genome-scale phenotypic datasets (our NIH contract required shutting down community oversight of VEuPathDB(!); we look forward to re-establishing these advisory groups)
+            - developing and/or implementing new/updated tools to keep up with the times, e.g. improved orthology algorithms, generic platform for representing scRNAseq atlases, etc
+            - facilitating analysis & dissemination of user datasets, in keeping with emerging data-sharing requirements, along with AI-based methods to facilitate metadata collection and QC
+            - improved automation of genome annotation, exploiting machine learning approaches for information extraction from the literature
+  uid: priorities
+  projects: ""
+- type: operations
+  question: "Can VEuPathDB help to analyze user-provided data (in addition to offering resources for mining public data)?"
+  answer: |  
+           Yes … details to follow.
+  uid: priorities
+  projects: ""
+- type: operations
+  question: "How do VEuPathDB resources address NIH data-sharing requirements, and other emerging global standards for FAIR data-sharing?"
+  answer: |  
+           VEuPathDB databases are recognized as core data resources by the Global Biodata Coalition, Elixir, and the NIAID Data Ecosystem, and inclusion of genomic-scale datasets in VEuPathDB databases has long been recognized as a model for FAIR data access, satisfying NIH (and other) data-sharing requirements.  We are also developing new tools enabling users to privately process, upload & QC their own data (sequence variants, RNA & protein expression, phenotypic results, etc), enabling public release whenever this is deemed appropriate (note that approval for any data release always rests with the data provider, rather than being imposed by VEuPathDB).  Stay tuned for further details!
+  uid: priorities
+  projects: ""
 - type: general
   question: "My gene ID has gone missing, how do I find it again?"
   answer: |
