@@ -24,7 +24,7 @@
            In a recent VEuPathDB survey, respondents were asked to rate the impact of the loss of VEuPathDB on lab productivity, >75% of >2000 respondents indicated an impact >50%.  Previous cost-efficacy estimates by the Wellcome Trust suggested an average impact of VEuPathDB on research productivity in individual labs of 20-30%.  There is no universally accepted metric for assessing impact, and database usage is highly variable from group to group … but it is clear that the value of VEuPathDB to the global research community is substantial.
   uid: whouses
   projects: ""
-- type: funding
+- type: about
   question: "What is the cost of VEuPathDB resources, who provides this support, and how is it allocated?"
   answer: |
            VEuPathDB resources have benefitted from >$150M investment over the past 25 years, from the US NIH, UK Wellcome Trust, Bill & Melinda Gates Foundation, Burroughs Wellcome Fund, US Dept Agriculture, and others.  Over the past decade, the annual operating budget for VEuPathDB has averaged ~$6M in direct costs; ~60% provided by an NIAID Bioinformatics Resource Center contract, plus additional funding from the Wellcome Trust Resource Grants program and others.  (Note that production quality resources are considerably more expensive to operate than individual computers, requiring careful attention to cybersecurity, redundancy, up-time, automated data-loading and analysis pipelines, software robustness, testing, quality control, and sustainability over the long-term.)
