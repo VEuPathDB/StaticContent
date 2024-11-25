@@ -19,9 +19,9 @@
   answer: |
            In 2023, VEuPathDB resources were visited by an average of >45K unique users per month, from >150 countries, with the typical user returning several times each month.  >7 Tb of data is downloaded annually, and VEuPathDB resources have been cited >30K times in the scientific literature to date.  Numerous publications, reviews, and independent assessments attest that by providing convenient access to genomic-scale datasets and allowing users to interrogate these data and integrate the results obtained, VEuPathDB resources greatly facilitate discovery research and translational application, including the identification of therapeutic targets.
             
-           Extensive outreach & training activities focus on ensuring that researchers can access and use available information effectively.  These efforts have been particularly effective in engaging the global community, including those in LMICs that often bear the brunt of infectious disease (for example: African scientists account for ~5% of the global usage of the PlasmoDB and VectorBase databases supporting research on malaria and their Anopheles mosquito vectors, and 10% of global usage for PiroplasmaDB, supporting Theileria and Babesia pathogens of cattle).  VEuPathDB also provides a platform for the dissemination of new genomic-scale datasets, ensuring compliance with NIH data-sharing requirements and other emerging global standards for FAIR data-sharing, and permitting integration with other relevant information.
+           Extensive outreach & training activities focus on ensuring that researchers can access and use available information effectively.  These efforts have been particularly effective in engaging the global community, including those in LMICs that often bear the brunt of infectious disease.  For example: African scientists account for ~5% of the global usage of the PlasmoDB and VectorBase databases supporting research on malaria and their Anopheles mosquito vectors, and 10% of global usage for PiroplasmaDB, supporting Theileria and Babesia pathogens of cattle.  VEuPathDB also provides a platform for the dissemination of new genomic-scale datasets, ensuring compliance with NIH data-sharing requirements and other emerging global standards for FAIR data-sharing, and permitting integration with other relevant information.
             
-           In a recent VEuPathDB survey, respondents were asked to rate the impact of the loss of VEuPathDB on lab productivity, >75% of >2000 respondents indicated an impact >50%.  Previous cost-efficacy estimates by the Wellcome Trust suggested an average impact of VEuPathDB on research productivity in individual labs of 20-30%.  There is no universally accepted metric for assessing impact, and database usage is highly variable from group to group … but it is clear that the value of VEuPathDB to the global research community is substantial.
+           In a recent survey asking VEuPathDB users to estimate the impact that the loss of this resource would have on lab productivity, >75% of >2000 respondents indicated an impact >50%.  Previous cost-efficacy estimates by the Wellcome Trust suggested an average impact of VEuPathDB on research productivity in individual labs of 20-30%.  There is no universally accepted metric for assessing impact, and database usage is highly variable from group to group … but it is clear that the value of VEuPathDB to the global research community is substantial.
   uid: whouses
   projects: ""
 - type: funding
@@ -37,7 +37,7 @@
 - type: funding
   question: "How and why has the VEuPathDB funding environment changed in 2024?"
   answer: |
-           NIAID has decided to take the BRC Program in a different direction for further information, see:
+           NIAID has decided to take the BRC Program in a different direction.  For further information, see:
 
            [https://www.science.org/doi/epdf/10.1126/science.adt2250](https://www.science.org/doi/epdf/10.1126/science.adt2250)
 
@@ -49,7 +49,7 @@
   uid: change
   projects: ""
 - type: funding
-  question: "What other sources or grant and philanthropic support might replace the loss of BRC funding for VEuPathDB?"
+  question: "What other sources of grant and philanthropic support might replace the loss of BRC funding for VEuPathDB?"
   answer: |
            Various funding agencies – including (but not limited to) those that have previously supported VEuPathDB (see above) – are concerned about the impact of defunding this resource but are unable to fill the gap, at least on short notice.  These groups are very interested in determining if a model can be established to provide sustainable support for essential core resources, and may be willing to fund this experiment, but they will not be able to commit to indefinite support.
            
@@ -59,7 +59,7 @@
 - type: funding
   question: "What strategies might help in reducing the cost of VEuPathDB resources?"
   answer: |  
-           As a production quality resource with regularly scheduled releases to integrate new data, tools and functionality, VEuPathDB employs a professional staff of software engineers, systems & database administrators, and subject matter experts.  Engaging students and volunteers is sometimes suggested as a cost-saving measure, and while such contributions have sometimes been useful for focused activities such as initial annotation of new genomes, data curation is a highly-specialized activity, and data processing/loading is highly sensitive to error, making oversight and QC a challenge.  Similarly, software developed by students and post-docs is typically designed for specific short-term applications, rather than generalizability and robustness over the longer term.
+           As a production resource with regularly scheduled releases to integrate new data, tools and functionality, VEuPathDB employs a professional staff of software engineers, systems & database administrators, and subject matter experts.  Engaging students and volunteers is sometimes suggested as a cost-saving measure, and while such contributions have sometimes been useful for focused activities (such as initial annotation of new genomes), data curation is a highly-specialized activity, and data processing/loading is highly sensitive to error, making oversight and QC a challenge.  Similarly, software developed by students and post-docs is typically designed for specific short-term applications, rather than generalizability and robustness over the longer term.
            
            Reducing services could also cut costs, but surveys have shown that while most users employ certain tools and datasets regularly and others not at all, these individual preferences are non-overlapping: virtually all VEuPathDB functionality is heavily relied upon by a significant subset of users.  Moreover, once pipelines for data processing & loading have been developed, and tools or services implemented, the marginal cost of application to new species or functional genomics datasets is usually minimal.  Eliminating support for specific taxa or datatypes would therefore have little impact on the overall VEuPathDB budget.  Development or implementation of new tools can be expensive, however, and we therefore anticipate that future development effort will be greatly reduced … and typically pursued only when supported by research grants rather than through user fees.
   uid: reducingcosts
@@ -73,7 +73,7 @@
 - type: funding
   question: "Is it possible to fund VEuPathDB through charges based on actual usage, e.g. per site visit, or per database query?"
   answer: |  
-           We are exploring various avenues and methods to equitably charge users.  At present charging per visit, or per page hit (database query) is unworkable, for a variety of logistical reasons.  Billing would be organizationally complex and expensive.  Furthermore, design of the underlying relational database means that individual inquiries can spawn widely-varying numbers of database queries.
+           We are exploring various strategies for equitable assessment of user charges.  At present, charging per visit or per page hit (database query) appears unworkable, for a variety of logistical reasons: billing would be organizationally complex and expensive, and the design of our underlying relational databases means that individual inquiries can spawn widely-varying numbers of database queries.
   uid: usagecharge
   projects: ""
 - type: funding
@@ -85,7 +85,7 @@
 - type: funding
   question: "What about tiered access (charging more for certain services)?"
   answer: |  
-           One can envision a “Freemium” model that charges extra for various services, such as help desk support, or access to the latest data, specific datatypes, or data analysis services.  This strategy has the disadvantage of disproportionately affecting those who require these resources the most, including researchers in low income countries most heavily affected by VEuPathDB-supported pathogen species.  Moreover, restricting access to certain services to paying customers would likely preclude grant or philanthropic support, and might prevent certification as a core bioinformatics resource.
+           One can envision a “freemium” model that charges extra for various services, such as help desk support, or access to the latest data, specific datatypes, or data analysis services.  This strategy has the disadvantage of disproportionately affecting those who require these resources the most, including researchers in low income countries most heavily affected by VEuPathDB-supported pathogen species.  Moreover, restricting access to certain services to paying customers would likely preclude grant or philanthropic support, and might prevent certification as a core bioinformatics resource.
   uid: tiered
   projects: ""
 - type: fees
