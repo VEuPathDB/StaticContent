@@ -3,15 +3,15 @@
   question: "What is VEuPathDB– the Pathogen, Host & Vector Bioinformatics Resource Center?"
   answer: |
            VEuPathDB is an online resource providing FAIR (Findable, Accessible, Interoperable, Reusable) access to genomic Big Data relating to eukaryotic microbes (protozoa & fungi), as well as the hosts and arthropod vectors of pathogenic species. Supported datatypes include:
-           1. Genome sequences & population-level diversity data on many hundreds of microbial eukaryotes (fungi & protozoa), including pathogenic & non-pathogenic species, along with the host species & arthropod disease vectors they infect.
-           2. Diverse functional genomics information (generated on multiple platforms): chromatin marks, transcriptomes, proteomes, metabolomes, genome-wide phenotypic information, etc.
-           3. Information on subcellular localization, structure, molecular interactions, metabolic pathways & signaling networks, immunogenicity, reagents, publications, etc.
-           4. Automated analyses and summaries, including experimental metadata, integrated with the above, along with annotations available from professional curators or contributed by community experts.
+           * Genome sequences & population-level diversity data on many hundreds of microbial eukaryotes (protists & fungi), including pathogenic & non-pathogenic species, along with the host species & arthropod disease vectors they infect.
+           * Diverse functional genomics information (generated on multiple platforms): chromatin marks, transcriptomes, proteomes, metabolomes, genome-wide phenotypic information, etc.
+           * Information on subcellular localization, structure, molecular interactions, metabolic pathways & signaling networks, immunogenicity, reagents, publications, etc.
+           * Automated analyses and summaries (including experimental metadata) integrated with the above, along with annotations available from professional curators or contributed by community experts.
            
-           VEuPathDB also supports:
-           1. Sophisticated queries for interrogating these diverse datatypes and integrating & sharing the results obtained – effectively, in silico experiments expediting hypothesis generation, discovery research & translational application.
-           2. Tools for assessing and improving the quality and accuracy of available annotation – capturing expert knowledge from the community
-           3. Tools for analyzing and disseminating users’ own datasets – in compliance with emerging global data-sharing standards and requirements.
+           A unique suite of data-mining tools allows users to rapidly explore and integrate multiple lines of evidence to uncover biological relationships, expediting hypothesis generation, discovery research & translational application.  VEuPathDB supports:
+           * Sophisticated queries for interrogating diverse datatypes, and integrating & sharing the results obtained – enabling users to effectively conduct experiments in silico.
+           * Tools for assessing and improving the quality and accuracy of available annotation – capturing expert knowledge from the community
+           * Tools for analyzing and disseminating users’ own datasets – in compliance with emerging global data-sharing standards and requirements.
   uid: whatisveupathdb
   projects: ""
 - type: about
