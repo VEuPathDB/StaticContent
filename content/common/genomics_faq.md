@@ -37,7 +37,7 @@ div.static-content img {
 <br>
 <div class="static-content"> 
 
-<h2 id="transparency">We strive to be fully transparent about all aspects of VEuPathDB operations, activities and plans, and are happy to set up individual or group discussions on any aspect of our work.  Please address any questions to [help@VEuPathDB.org](mailto:help@VEuPathDB.org)</h2>
+<h4 id="transparency">We strive to be fully transparent about all aspects of VEuPathDB operations, activities and plans, and are happy to set up individual or group discussions on any aspect of our work.  Please address any questions to <a href="help@VEuPathDB.org">help@VEuPathDB.org</a></h4>
 <br>
 <div class="static-content"> 
 
