@@ -1,0 +1,6 @@
+<details id="{{include.item.uid}}">
+  <summary onclick="location.assign('#{{include.item.uid}}')">
+    {{ include.item.question }}
+  </summary>
+  {{ include.item.answer | markdownify }}
+</details>

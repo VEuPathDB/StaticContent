@@ -4,10 +4,16 @@ title: VEuPathDB Frequently Asked Questions
 permalink: faq
 ---
 <style>
+div.static-content details {
+  margin-bottom: 1em;
+  padding-top: 110px;
+  margin-top: -110px;
+}
 div.static-content summary {
     font-size: 130%;
     margin: 0.25em 1.5em 1em;
     color: #069;
+    cursor: pointer;
 }
 div.static-content li {
     margin: 1em 2em;
@@ -36,11 +42,7 @@ div.static-content img {
     <h2>About VEuPathDB</h2> 
     {% for item in site.data.genomics_faq %}
     {% if item.type == "about" %}
-      <details id="{{ item.uid }}">
-        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
-        {{ item.answer | markdownify }}
-        <br>
-      </details>
+      {% include faq_item.html item=item %}
     {% endif %}
     {% unless forloop.last %}{% endunless %}{% endfor %}
 </div>
@@ -49,11 +51,7 @@ div.static-content img {
     <h2>Funding Status & Prospects for the Future</h2> 
     {% for item in site.data.genomics_faq %}
     {% if item.type == "funding" %}
-      <details id="{{ item.uid }}">
-        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
-        {{ item.answer | markdownify }}
-        <br>
-      </details>
+      {% include faq_item.html item=item %}
     {% endif %}
     {% unless forloop.last %}{% endunless %}{% endfor %}
 </div>
@@ -62,11 +60,7 @@ div.static-content img {
     <h2>Fees for Website Access and Data-sharing/Dissemination</h2> 
     {% for item in site.data.genomics_faq %}
     {% if item.type == "fees" %}
-      <details id="{{ item.uid }}">
-        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
-        {{ item.answer | markdownify }}
-        <br>
-      </details>
+      {% include faq_item.html item=item %}
     {% endif %}
     {% unless forloop.last %}{% endunless %}{% endfor %}
 </div>
@@ -75,11 +69,7 @@ div.static-content img {
     <h2>VEuPathDB Operations</h2> 
     {% for item in site.data.genomics_faq %}
     {% if item.type == "operations" %}
-      <details id="{{ item.uid }}">
-        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
-        {{ item.answer | markdownify }}
-        <br>
-      </details>
+      {% include faq_item.html item=item %}
     {% endif %}
     {% unless forloop.last %}{% endunless %}{% endfor %}
 </div>
@@ -88,11 +78,7 @@ div.static-content img {
     <h2>General site usage</h2> 
     {% for item in site.data.genomics_faq %}
     {% if item.type == "general" %}
-      <details id="{{ item.uid }}">
-        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
-        {{ item.answer | markdownify }}
-        <br>
-      </details>
+      {% include faq_item.html item=item %}
     {% endif %}
     {% unless forloop.last %}{% endunless %}{% endfor %}
 </div>
@@ -102,11 +88,7 @@ div.static-content img {
     <h2>How to cite or reference</h2>
     {% for item in site.data.genomics_faq %}
     {% if item.type == "citing" %}
-      <details id="{{ item.uid }}">
-        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
-        {{ item.answer | markdownify }}
-        <br>
-      </details>
+      {% include faq_item.html item=item %}
     {% endif %}
     {% unless forloop.last %}{% endunless %}{% endfor %}
 </div>
@@ -116,11 +98,7 @@ div.static-content img {
     <h2>In silico experiments, data mining and hypothesis testing</h2>
     {% for item in site.data.genomics_faq %}
     {% if item.type == "mining" %}
-      <details id="{{ item.uid }}">
-        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
-        {{ item.answer | markdownify }}
-        <br>
-      </details>
+      {% include faq_item.html item=item %}
     {% endif %}
     {% unless forloop.last %}{% endunless %}{% endfor %}
 </div>
@@ -130,11 +108,7 @@ div.static-content img {
     <h2>Programmatic access to VEuPathDB sites</h2>
     {% for item in site.data.genomics_faq %}
     {% if item.type == "commandline" %}
-      <details id="{{ item.uid }}">
-        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
-        {{ item.answer | markdownify }}
-        <br>
-      </details>
+      {% include faq_item.html item=item %}
     {% endif %}
     {% unless forloop.last %}{% endunless %}{% endfor %}
 </div>
@@ -144,11 +118,7 @@ div.static-content img {
     <h2>Manual gene annotation using Apollo</h2>
     {% for item in site.data.genomics_faq %}
     {% if item.type == "apollo" %}
-      <details id="{{ item.uid }}">
-        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
-        {{ item.answer | markdownify }}
-        <br>
-      </details>
+      {% include faq_item.html item=item %}
     {% endif %}
     {% unless forloop.last %}{% endunless %}{% endfor %}
 </div>
@@ -158,11 +128,7 @@ div.static-content img {
     <h2>Other website tools</h2>
     {% for item in site.data.genomics_faq %}
     {% if item.type == "others" %}
-      <details id="{{ item.uid }}">
-        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
-        {{ item.answer | markdownify }}
-        <br>
-      </details>
+      {% include faq_item.html item=item %}
     {% endif %}
     {% unless forloop.last %}{% endunless %}{% endfor %}
 </div>
@@ -172,11 +138,7 @@ div.static-content img {
     <h2>Data download</h2>
     {% for item in site.data.genomics_faq %}
     {% if item.type == "download" %}
-      <details id="{{ item.uid }}">
-        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
-        {{ item.answer | markdownify }}
-        <br>
-      </details>
+      {% include faq_item.html item=item %}
     {% endif %}
     {% unless forloop.last %}{% endunless %}{% endfor %}
 </div>
@@ -186,11 +148,7 @@ div.static-content img {
     <h2>Data submission</h2>
     {% for item in site.data.genomics_faq %}
     {% if item.type == "submit" %}
-      <details id="{{ item.uid }}">
-        <summary><a href="#{{ item.uid }}">{{ item.question }}</a></summary>
-        {{ item.answer | markdownify }}
-        <br>
-      </details>
+      {% include faq_item.html item=item %}
     {% endif %}
     {% unless forloop.last %}{% endunless %}{% endfor %}
 </div>
