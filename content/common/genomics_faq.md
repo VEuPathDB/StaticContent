@@ -4,39 +4,39 @@ title: VEuPathDB Frequently Asked Questions
 permalink: faq
 ---
 <style>
-.static-content {
-  details {
-    padding-top: 110px;
-    margin-top: -110px;
-    margin-bottom: 1rem;
-    margin-left: 2rem;
+  .static-content {
+    details {
+      padding-top: 110px;
+      margin-top: -110px;
+      margin-bottom: 1rem;
+      margin-left: 2rem;
+    }
+    summary {
+      color: #069;
+      cursor: pointer;
+    }
+    .answer {
+      margin-left: 2.25ex;
+      margin-bottom: 3cap;
+    }
+    #transparency {
+      font-weight: 500;
+      font-size: 1.2em;
+      font-style: italic;
+    }
+    img {
+      margin-top: .5em; 
+      margin-left: 6em;
+      width: 30em;
+    }
   }
-  summary {
-    color: #069;
-    cursor: pointer;
-  }
-  .answer {
-    margin-left: 2.25ex;
-    margin-bottom: 3cap;
-  }
-  img {
-    margin-top: .5em; 
-    margin-left: 6em;
-    width: 30em;
-  }
-}
-
 </style>
 
+
+<div class="static-content"> 
 <p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> FAQs</p>
-
 <h1 id="FAQ">Frequently Asked Questions</h1>
-<br>
-<div class="static-content"> 
-
-<h4 id="transparency"><i>We strive to be fully transparent about all aspects of VEuPathDB operations, activities and plans, and are happy to set up individual or group discussions on any aspect of our work.  Please address any questions to <a href="help@VEuPathDB.org">help@VEuPathDB.org</a></i></h4>
-<br>
-<div class="static-content"> 
+<p id="transparency">We strive to be fully transparent about all aspects of VEuPathDB operations, activities and plans, and are happy to set up individual or group discussions on any aspect of our work.  Please address any questions to <a href="help@VEuPathDB.org">help@VEuPathDB.org</a></p>
 
 <div id="about">
     <h2>About VEuPathDB</h2> 
