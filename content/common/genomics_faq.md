@@ -1,12 +1,12 @@
 ---
 layout: plain
-title: VEuPathDB Frequently Asked Questions
+title: **VEuPathDB Frequently Asked Questions**
 permalink: faq
 ---
 <style>
 div.static-content details {
   margin-bottom: 1em;
-  padding-top: 110px;
+  padding-top: 110px;z
   margin-top: -110px;
 }
 div.static-content summary {
