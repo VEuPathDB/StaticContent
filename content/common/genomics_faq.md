@@ -8,8 +8,8 @@ permalink: faq
     details {
       padding-top: 110px;
       margin-top: -110px;
-      margin-bottom: 1rem;
-      margin-left: 2rem;
+      margin-bottom: .5cap;
+      margin-left: 2em;
     }
     summary {
       color: #069;
