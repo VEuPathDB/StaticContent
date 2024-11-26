@@ -1,6 +1,6 @@
 ---
 layout: plain
-title: **VEuPathDB Frequently Asked Questions**
+title: VEuPathDB Frequently Asked Questions
 permalink: faq
 ---
 <style>
