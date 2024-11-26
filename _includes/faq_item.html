@@ -1,8 +1,11 @@
 <details id="{{include.item.uid}}">
-  <summary onclick="location.assign('#{{include.item.uid}}')">
+  <summary>
     {{ include.item.question }}
   </summary>
   <div class="answer">
     {{ include.item.answer | markdownify }}
+    <div class="section-link">
+      [<a href="#{{include.item.uid}}">link to this section</a>]
+    </div>
   </div>
 </details>

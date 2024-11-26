@@ -17,6 +17,10 @@ permalink: faq
     }
     .answer {
       margin-left: 2.25ex;
+    }
+    .section-link {
+      font-size: .8em;
+      margin-top: 2cap;
       margin-bottom: 3cap;
     }
     #transparency {
