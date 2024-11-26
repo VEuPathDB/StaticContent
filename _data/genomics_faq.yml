@@ -11,7 +11,7 @@
            </ul>
            <p>A unique suite of data-mining tools allows users to rapidly explore and integrate multiple lines of evidence to uncover biological relationships, expediting hypothesis generation, discovery research & translational application.  VEuPathDB supports:</p>
             <ul>
-            <li>Sophisticated queries for interrogating diverse datatypes, and integrating & sharing the results obtained – enabling users to effectively conduct experiments in silico.</li>
+            <li>Sophisticated queries for interrogating diverse datatypes, and integrating & sharing the results obtained – enabling users to effectively conduct experiments *in silico*.</li>
             <li>Tools for assessing and improving the quality and accuracy of available annotation – capturing expert knowledge from the community.</li>
             <li>Tools for analyzing and disseminating users’ own datasets – in compliance with emerging global data-sharing standards and requirements.</li>
             </ul>
@@ -142,7 +142,7 @@
 - type: fees
   question: "Are there precedents for supporting genome database resources through user fees?"
   answer: |  
-           There are many examples of online resources funded by voluntary user fees: Wikimedia receives >90% of its support from individual donations, and public broadcasting stations in the US typically receive >50% of their support from individual donations.  There are fewer examples of bioinformatics database resources supported by user fees, but the Arabidopsis Information Resource ([TAIR](https://www.arabidopsis.org/)) has been supported by a combination of grants and user subscriptions for a decade (although this resource differs from VEuPathDB in focusing more on manual curation, and provides fewer tools for data-mining and integrating diverse functional genomics data).  TAIR financing is managed by [Phoenix Bioinformatics](https://phoenixbioinfo.org/), which also supports other informatics resources, including CIPRES, CyVerse, MorphoBank & Repbase.  Other model organism databases, such as [FlyBase](https://flybase.org/), have solicited optional website access fees with modest success.  Such efforts are likely to become increasingly common, as funders are increasingly reluctant to make long-term commitments for the maintenance of essential core resources.
+           There are many examples of online resources funded by voluntary user fees: Wikimedia receives >90% of its support from individual donations, and public broadcasting stations in the US typically receive >50% of their support from individual donations.  There are fewer examples of bioinformatics database resources supported by user fees, but the *Arabidopsis* Information Resource ([TAIR](https://www.arabidopsis.org/)) has been supported by a combination of grants and user subscriptions for a decade (although this resource differs from VEuPathDB in focusing more on manual curation, and provides fewer tools for data-mining and integrating diverse functional genomics data).  TAIR financing is managed by [Phoenix Bioinformatics](https://phoenixbioinfo.org/), which also supports other informatics resources, including CIPRES, CyVerse, MorphoBank & Repbase.  Other model organism databases, such as [FlyBase](https://flybase.org/), have solicited optional website access fees with modest success.  Such efforts are likely to become increasingly common, as funders are increasingly reluctant to make long-term commitments for the maintenance of essential core resources.
   uid: precedents
   projects: ""
 - type: fees
