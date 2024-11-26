@@ -2,7 +2,7 @@
 - type: about
   question: "What is VEuPathDB– the Pathogen, Host & Vector Bioinformatics Resource Center?"
   answer: |
-           VEuPathDB is an online resource providing FAIR (Findable, Accessible, Interoperable, Reusable) access to genomic Big Data relating to eukaryotic microbes (protozoa & fungi), as well as the hosts and arthropod vectors of pathogenic species. Supported datatypes include:
+           VEuPathDB is an online resource providing FAIR (Findable, Accessible, Interoperable, Reusable) access to genomic Big Data relating to eukaryotic microbes (protists & fungi), as well as the hosts and arthropod vectors of pathogenic species. Supported datatypes include:
             * Genome sequences & population-level diversity data on many hundreds of microbial eukaryotes (protists & fungi), including pathogenic & non-pathogenic species, along with the host species & arthropod disease vectors they infect.
             * Diverse functional genomics information (generated on multiple platforms): chromatin marks, transcriptomes, proteomes, metabolomes, genome-wide phenotypic information, etc.
             * Information on subcellular localization, structure, molecular interactions, metabolic pathways & signaling networks, immunogenicity, reagents, publications, etc.
@@ -145,7 +145,7 @@
 - type: fees
   question: "How and when will it become clear if community investment is sufficient to support VEuPathDB?  What happens if more or less funds are available than required?"
   answer: |  
-           VEuPathDB is not a profit-making operation, so if we are successful in obtaining more support than required – through a combination of individual laboratory fees, grants, contracts and philanthropic contributions – fees will be reduced in future years.  If we are able to replace 2/3 of our current budget, it may be possible to remain in operation by reducing staff and scaling back services.  If we are only able to obtain 1/3 of our current budget, this will likely mean an end to VEuPathDB, as it is unclear that this will support functionality more valuable than resources provided by NCBI and others at no cost to the end-user.  Note that it costs ~$1M/yr to simply maintain existing resources in static form – but and without the addition of new data such resources would rapidly become outdated.
+           VEuPathDB is not a profit-making operation, so if we are successful in obtaining more support than required – through a combination of individual laboratory fees, grants, contracts and philanthropic contributions – fees will be reduced in future years.  If we are able to replace 2/3 of our current budget, it may be possible to remain in operation by reducing staff and scaling back services.  If we are only able to obtain 1/3 of our current budget, this will likely mean an end to VEuPathDB, as it is unclear that this will support functionality more valuable than resources provided by NCBI and others at no cost to the end-user.  Note that it costs ~$1M/yr to simply maintain existing resources in static form – but without the addition of new data such resources would rapidly become outdated.
   uid: whatif
   projects: ""
 - type: fees
