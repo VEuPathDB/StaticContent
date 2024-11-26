@@ -4,29 +4,26 @@ title: VEuPathDB Frequently Asked Questions
 permalink: faq
 ---
 <style>
-div.static-content details {
-  margin-bottom: 1em;
-  padding-top: 110px;z
-  margin-top: -110px;
-}
-div.static-content summary {
-    font-size: 130%;
-    margin: 0.25em 1.5em 1em;
+.static-content {
+  details {
+    padding-top: 110px;
+    margin-top: -110px;
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+  }
+  summary {
     color: #069;
     cursor: pointer;
-}
-div.static-content li {
-    margin: 1em 2em;
-    font-size: 110%;
-}
-div.static-content p {
-    margin: 1em 3.25em;
-    font-size: 110%;
-}
-div.static-content img {
-  margin-top: .5em; 
-  margin-left: 6em;
-  width: 30em;
+  }
+  .answer {
+    margin-left: 2.25ex;
+    margin-bottom: 3cap;
+  }
+  img {
+    margin-top: .5em; 
+    margin-left: 6em;
+    width: 30em;
+  }
 }
 
 </style>
