@@ -2,6 +2,7 @@
 layout: plain
 title: VEuPathDB Frequently Asked Questions
 permalink: faq
+tags: [general]
 ---
 <style>
   .static-content {
