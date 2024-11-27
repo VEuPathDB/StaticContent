@@ -166,6 +166,7 @@ permalink: faq
 </div>
 
 <script>
+console.log('Script from markdown is running');
 let allExpanded = false;
 function toggleAllDetails() {
   const detailsElements = document.querySelectorAll('details');
@@ -188,5 +189,8 @@ function openEntry(myanchor) {
   console.log("My Anchor: ", myanchor);
   document.getElementById(myanchor).open = true;
 }
-document.onload = openEntry(getHashFromUrl(window.location.href));
+document.addEventListener('DOMContentLoaded', () => {
+  // openEntry(getHashFromUrl(window.location.href));
+});
+// document.onload = openEntry(getHashFromUrl(window.location.href));
 </script>
