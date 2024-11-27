@@ -42,10 +42,6 @@ permalink: faq
 <h1 id="FAQ">Frequently Asked Questions</h1>
 <p id="transparency">We strive to be fully transparent about all aspects of VEuPathDB operations, activities and plans, and are happy to set up individual or group discussions on any aspect of our work.  Please address any questions to <a href="help@VEuPathDB.org">help@VEuPathDB.org</a></p>
 
-<div style="margin-bottom: 1em;">
-  <button id="toggle-all" onclick="toggleAllDetails()">Expand All</button>
-</div>
-
 <div id="about">
     <h2>About VEuPathDB</h2> 
     {% for item in site.data.genomics_faq %}
@@ -166,19 +162,6 @@ permalink: faq
 </div>
 
 <script>
-console.log('Script from markdown is running');
-let allExpanded = false;
-function toggleAllDetails() {
-  const detailsElements = document.querySelectorAll('details');
-  allExpanded = !allExpanded;
-  detailsElements.forEach((detail) => {
-    detail.open = allExpanded;
-  });
-
-  const toggleButton = document.getElementById('toggle-all');
-  toggleButton.textContent = allExpanded ? 'Collapse All' : 'Expand All';
-}
-
 function getHashFromUrl(url){
     console.log("My url: ", url);
     var a = document.createElement("a");
@@ -189,8 +172,5 @@ function openEntry(myanchor) {
   console.log("My Anchor: ", myanchor);
   document.getElementById(myanchor).open = true;
 }
-document.addEventListener('DOMContentLoaded', () => {
-  // openEntry(getHashFromUrl(window.location.href));
-});
-// document.onload = openEntry(getHashFromUrl(window.location.href));
+document.onload = openEntry(getHashFromUrl(window.location.href));
 </script>
