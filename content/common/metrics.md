@@ -11,7 +11,7 @@ title: Usage Metrics
 
 <h2>Users, Page views, Awstats</h2>
 <ul>
-  <li><a href="/a/app/search/metrics/LoginStats">Logins and registrations</a> 
+  <li><a href="/a/app/search/metrics/LoginStats">Logins and registrations</a></li>
   <li><a href="/a/app/search/metrics/Awstats">Awstats</a></li>
 
   <p><b>Data available starting October 2024:</b></p>
@@ -36,8 +36,7 @@ title: Usage Metrics
   <li><a href="/a/app/search/metrics/ToolMetrics">Other Tools</a></li>
    
 <p><b>Data available starting October 2024:</b></p>
-      <li>Site search, JBrowse</li>
-    </ul></li>  
+  <li>Site search, JBrowse</li> 
 </ul>
 
 </div>
