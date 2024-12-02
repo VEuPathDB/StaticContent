@@ -41,7 +41,7 @@ tags: [general]
 <div class="static-content"> 
 <p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> FAQs</p>
 <h1 id="FAQ">Frequently Asked Questions</h1>
-<p id="transparency">We strive to be fully transparent about all aspects of VEuPathDB operations, activities and plans, and are happy to set up individual or group discussions on any aspect of our work.  Please address any questions to <a href="help@VEuPathDB.org">help@VEuPathDB.org</a></p>
+<p id="transparency">We strive to be fully transparent about all aspects of VEuPathDB operations, activities and plans, and are happy to set up individual or group discussions on any aspect of our work.  Please address any questions to <a href="mailto: help@VEuPathDB.org">help@VEuPathDB.org</a></p>
 
 <div id="about">
     <h2>About VEuPathDB</h2> 
