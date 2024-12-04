@@ -13,13 +13,10 @@ title: Usage Metrics
 <ul>
   <li><a href="/a/app/search/metrics/LoginStats">Logins and registrations</a></li>
   <li><a href="/a/app/search/metrics/Awstats">Awstats</a></li>
-
-  <p><b>Data available starting October 2024:</b></p>
-  <li><a href="/a/app/search/metrics/PageViewStats">Page views (by guest vs. registered)</a></li>
-  <li><a href="/a/app/search/metrics/RecordPageViewStats">Record page views</a></li>
-
-  <li><a href="/a/app/search/metrics/OrgPageViewMetrics">Organism-related record pages views</a></li>
-  <li><a href="/a/app/search/metrics/GenePageTableMetrics">Gene page table (section) requests</a></li>
+  <li><a href="/a/app/search/metrics/PageViewStats">Page views (by guest vs. registered)</a> (starting 10/2024)</li>
+  <li><a href="/a/app/search/metrics/RecordPageViewStats">Record page views</a> (starting 10/2024)</li>
+  <li><a href="/a/app/search/metrics/OrgPageViewMetrics">Record page views per organism</a> (starting 10/2024)</li>
+  <li><a href="/a/app/search/metrics/GenePageTableMetrics">Gene page table (section) requests</a> (starting 10/2024)</li>
 </ul>
 
 <h2>Search runs</h2>
@@ -32,11 +29,7 @@ title: Usage Metrics
 <h2>Tool usage</h2>
 <ul>
   <li><a href="/a/app/search/metrics/UserDatasets">User Datasets usage</a> </li>
-
-  <li><a href="/a/app/search/metrics/ToolMetrics">Other Tools</a></li>
-   
-<p><b>Data available starting October 2024:</b></p>
-  <li>Site search, JBrowse</li> 
+  <li><a href="/a/app/search/metrics/ToolMetrics">Other Tools</a> (Site search and Jbrowse only available starting 10/2024)</li>
 </ul>
 
 </div>
