@@ -1,5 +1,0 @@
----
-layout: null
-permalink: UniDB/news.json
----
-{% include news.json %}
