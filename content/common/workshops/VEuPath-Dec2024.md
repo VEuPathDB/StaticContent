@@ -192,16 +192,8 @@ div.instructor-table {
           <td>University of Liverpool, UK</td>
         </tr>
         <tr>
-          <td>Kathryn Crouch, PhD</td>
-          <td>University of Glasgow, UK</td>
-        </tr>
-        <tr>
           <td>Omar S. Harb, PhD</td>
           <td>University of Pennsylvania, USA</td>
-        </tr>
-        <tr>
-          <td>Jessica Kissinger, PhD</td>
-          <td>University of Georgia, USA</td>
         </tr>
         <tr>
           <td>Nupur Kittur, PhD</td>
@@ -219,7 +211,7 @@ div.instructor-table {
   <div class="anchor"><a name="Schedule"></a></div>
   <details open>
     <summary><b>Schedule</b> </summary>
-    <p> Zoom channel will open 15 min prior to the workshop start and will remain open for 30 min after the workshop ends each day for any additional questions from the participants.</p> 
+    <p> Zoom channel will open 5 min prior to the workshop start and will remain open for 30 min after the workshop ends each day for any additional questions from the participants.</p> 
     <br>
     <table class="hor-minimalist-a">
         <thead>
@@ -245,7 +237,7 @@ div.instructor-table {
           </tr>    
           <tr>
             <td>10:45 - 11:30 AM<br></td>
-            <td>Site search exercise & Gene pages exercise</td>
+            <td>Exercises- Site Search and Gene Pages</td>
             <td><br>
               <!--<a  target="_blank" href="{{'/documents/ACE2023/Main_page.pdf' | absolute_url}}">FungiDB main page tutorial</a>--><br><br>
               <!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
@@ -263,7 +255,7 @@ div.instructor-table {
           </tr>       
           <tr>
             <td>12:05 - 12:50 PM<br></td>
-            <td>Search strategies exercise</td>
+            <td>Exercise- Search strategies</td>
             <td><br>
               <!--<a  target="_blank" href="{{'/documents/ACE2023/Site_search_org_pref.pdf' | absolute_url}}">Site Search and Organism Preferences</a>--><br><br></td>
           </tr>
@@ -274,7 +266,7 @@ div.instructor-table {
           </tr>
           <tr>
             <td>1:00 - 1:30 PM<br></td>
-            <td>Discussion & Q&A (optional)</td>
+            <td>Discussion, Q&A (optional)</td>
            <td></td><br>
           </tr>
         </tbody>
@@ -294,15 +286,15 @@ div.instructor-table {
         </thead>
         <tbody>         
           <tr>
-            <td>10:00 - 10:15 AM<br></td>
+            <td>10:00 - 10:10 AM<br></td>
             <td> Introduction to the genome browser</td>
             <td><br>
               <!--<a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies II, cont.</a>--><br>
               <!--<a  target="_blank" href="{{'/documents/ACE2023/FungiDB_SNPs.pdf' | absolute_url}}">Advanced search strategies III</a>--><br><br></td>
           </tr>
           <tr>
-            <td>10:15 - 10:45 AM<br></td>
-            <td>Genome browser basics exercise</td>
+            <td>10:10 - 10:45 AM<br></td>
+            <td>Exercise- Genome browser basics</td>
            <td></td>
           </tr>
           <tr>
@@ -319,7 +311,7 @@ div.instructor-table {
           </tr>
           <tr>
             <td>11:20 AM - 12:10 PM<br></td>
-            <td>Exploring gene models in the genome browser</td>
+            <td>Exercise- Exploring gene models in the genome browser</td>
             <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
           </tr>
           <tr>
@@ -339,7 +331,12 @@ div.instructor-table {
           </tr>
           <tr>
             <td>1:00 - 1:30 PM<br></td>
-            <td>Discussion & Q&A (optional)</td>
+            <td>Upload your own data into VEuPathDB (optional demo session)</td>
+           <td></td><br>
+          </tr>
+          <tr>
+            <td>1:30 - 2:00 PM<br></td>
+            <td>Discussion, Q&A (optional)</td>
            <td></td><br>
           </tr>
         </tbody>
@@ -359,46 +356,46 @@ div.instructor-table {
         </thead>
         <tbody>         
           <tr>
-            <td>10:00 - 10:10 AM<br></td>
-            <td>Transcriptomics and Proteomics data</td>
+            <td>10:00 - 10:15 AM<br></td>
+            <td>Transcriptomics and Proteomics data; Enrichment analysis</td>
             <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
           </tr>
           <tr>
-            <td>10:10 - 10:40 AM<br></td>
-            <td>Expression searches exercise</td>
+            <td>10:15 - 10:45 AM<br></td>
+            <td>Exercises- transcriptomics, proteomics, GO enrichment</td>
             <td><br>
                 <!--<a  target="_blank" href="{{'/documents/ACE2023/GO_Enrichment.pdf' | absolute_url}}">GO enrichment analysis</a>--><br><br></td>
           </tr>
          <tr>
-            <td>10:40 - 10:50 AM<br></td>
+            <td>10:45 - 10:55 AM<br></td>
             <td>BREAK</td>
           <td></td>
           </tr>
           <tr>
-            <td>10:50 - 11:10 AM<br></td>
-            <td>scRNA-Seq</td>
+            <td>10:55 - 11:10 AM<br></td>
+            <td>Single Cell RNAseq analysis (scRNA-Seq)</td>
            <td><br>
               <!--<a  target="_blank" href="{{'/documents/ACE2023/Orthology_Phyletic_patterns.pdf' | absolute_url}}">Orthology & Phyletic patterns</a>--><br><br>
               </td>
           </tr>
           <tr>
-            <td>11:10 - 11:30 AM<br></td>
-            <td>scRNA-Seq Exercise</td>
+            <td>11:10 - 11:35 AM<br></td>
+            <td>Exercise- scRNA-Seq</td>
            <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
           </tr>
           <tr>
-            <td>11:30 - 11:40 AM<br></td>
+            <td>11:35 - 11:45 AM<br></td>
             <td>BREAK</td>
            <td></td>
           </tr>
           <tr>
-            <td>11:40 AM - 12:20 PM<br></td>
-            <td>Orthology, Ontologies and Enrichment analysis</td>
+            <td>11:45 AM - 12:20 PM<br></td>
+            <td>Orthology & Cross-species Functional Inference</td>
            <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
           </tr>
           <tr>
             <td>12:20 - 12:50 PM<br></td>
-            <td>Orthology exercise</td>
+            <td>Exercise- Orthology</td>
            <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
           </tr>
           <tr>
@@ -408,7 +405,7 @@ div.instructor-table {
           </tr>
           <tr>
             <td>1:00 - 1:30 PM<br></td>
-            <td>Discussion & Q&A (optional)</td>
+            <td>Discussion, Q&A (optional)</td>
            <td></td><br>
           </tr>
         </tbody>
@@ -417,11 +414,11 @@ div.instructor-table {
       <br>
     
    <h2>Questions</h2>
-  Please direct inquiries or questions to <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>
+  Please direct questions and feedback to <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>
   <br><br>
 
   <h2>More about VEuPathDB</h2>
-  We invite you to read our latest publication on VEuPathDB, <a href="https://pubmed.ncbi.nlm.nih.gov/34718728/" target="_blank">Amos et al 2022</a> and to explore our resources on the <a href="https://www.youtube.com/user/EuPathDB" target="_blank">You Tube Channel</a> and our library of <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">recorded webinars and workshops</a>. Our aim is to foster an ongoing, productive dialogue with you to find more efficient ways to support your research goals. Whether or not you attend the workshop, please feel free to reach out with questions, feature suggestions, or new data at <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>.  
+  We invite you to read our latest publication on VEuPathDB, <a href="https://academic.oup.com/nar/article/52/D1/D808/7416377" target="_blank">Alvarez-Jarreta et al 2024</a> and to explore our video resources on the <a href="https://www.youtube.com/user/EuPathDB" target="_blank">YouTube Channel</a> and our library of <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">recorded webinars and workshops</a>. Our aim is to foster an ongoing, productive dialogue with you to find more efficient ways to support your research goals. Whether or not you attend the workshop, please feel free to reach out with questions, feature suggestions, or new data at <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>.  
   <br><br>
       <br>
       <br>
