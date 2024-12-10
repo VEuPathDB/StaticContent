@@ -176,11 +176,23 @@ div.instructor-table {
       </thead>
       <tbody>
         <tr>
+          <td>David Roos, PhD</td>
+          <td>University of Pennsylvania, USA</td>
+        </tr>
+        <tr>
           <td>Evelina Basenko, PhD</td>
           <td>University of Liverpool, UK</td>
         </tr>
         <tr>
-          <td>Ulrike Boehme, PhD</td>
+          <td>Nupur Kittur, PhD</td>
+          <td>University of Georgia, USA</td>
+        </tr>
+        <tr>
+          <td>Omar S. Harb, PhD</td>
+          <td>University of Pennsylvania, USA</td>
+        </tr>
+        <tr>
+          <td>Paul Wilkinson, PhD</td>
           <td>University of Liverpool, UK</td>
         </tr>
         <tr>
@@ -188,21 +200,13 @@ div.instructor-table {
           <td>University of Pennsylvania, USA</td>
         </tr>
         <tr>
-          <td>Helen Davison, PhD</td>
-          <td>University of Liverpool, UK</td>
-        </tr>
-        <tr>
-          <td>Omar S. Harb, PhD</td>
-          <td>University of Pennsylvania, USA</td>
-        </tr>
-        <tr>
-          <td>Nupur Kittur, PhD</td>
-          <td>University of Georgia, USA</td>
-        </tr>
-        <tr>
           <td>Susanne Warrenfeltz, PhD</td>
           <td>University of Georgia, USA</td>
         </tr>  
+        <tr>
+          <td>Ulrike Boehme, PhD</td>
+          <td>University of Liverpool, UK</td>
+        </tr>
       </tbody>
     </table>
     </div>
