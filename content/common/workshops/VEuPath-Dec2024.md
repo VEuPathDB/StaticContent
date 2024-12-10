@@ -243,7 +243,7 @@ div.instructor-table {
             <td>10:45 - 11:30 AM<br></td>
             <td>Exercises- Site Search and Gene Pages</td>
             <td><br>
-              <a  target="_blank" href="{{'/documents/2024Virtual/SiteSearch_Dec2024.pdf' | absolute_url}}">Site Search Exercise</a>
+              <a  target="_blank" href="{{'/documents/2024Virtual/SiteSearch_Dec2024.pdf' | absolute_url}}">Site Search Exercise</a><br>
               <a  target="_blank" href="{{'/documents/2024Virtual/GenePage_Dec2024.pdf' | absolute_url}}">Gene Pages Exercise</a>
               <br><br>
               </td>
