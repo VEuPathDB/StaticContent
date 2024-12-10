@@ -243,8 +243,10 @@ div.instructor-table {
             <td>10:45 - 11:30 AM<br></td>
             <td>Exercises- Site Search and Gene Pages</td>
             <td><br>
-              <!--<a  target="_blank" href="{{'/documents/ACE2023/Main_page.pdf' | absolute_url}}">FungiDB main page tutorial</a>--><br><br>
-              <!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
+              <a  target="_blank" href="{{'/documents/2024Virtual/SiteSearch_Dec2024.pdf' | absolute_url}}">Site Search Exercise</a>
+              <a  target="_blank" href="{{'/documents/2024Virtual/GenePage_Dec2024.pdf' | absolute_url}}">Gene Pages Exercise</a>
+              <br><br>
+              </td>
           </tr> 
            <tr>
             <td>11:30 - 11:50 AM<br></td>
@@ -261,7 +263,8 @@ div.instructor-table {
             <td>12:05 - 12:50 PM<br></td>
             <td>Exercise- Search strategies</td>
             <td><br>
-              <!--<a  target="_blank" href="{{'/documents/ACE2023/Site_search_org_pref.pdf' | absolute_url}}">Site Search and Organism Preferences</a>--><br><br></td>
+            <a  target="_blank" href="{{'/documents/2024Virtual/SearchStrategies.pdf' | absolute_url}}">Search Strategies Exercise</a>
+            <br><br></td>
           </tr>
           <tr>
             <td>12:50 - 1:00 PM<br></td>
