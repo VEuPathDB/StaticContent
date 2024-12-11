@@ -302,13 +302,12 @@ div.instructor-table {
           <tr>
             <td>10:10 - 10:45 AM<br></td>
             <td>Exercise- Genome browser basics</td>
-           <td></td>
+           <td><br><a  target="_blank" href="{{'/documents/2024Virtual/Genome_browser_basics.pdf' | absolute_url}}">Genome Browser Basics Exercise</a><br><br></td>
           </tr>
           <tr>
             <td>10:45 - 11:00 AM<br></td>
             <td>Exploring gene models in the genome browser</td>
-           <td><br>
-              <!--<a  target="_blank" href="{{'/documents/ACE2023/Gene_pages_JBrowse.pdf' | absolute_url}}">Gene pages and JBrowse</a>--><br><br></td>
+           <td><br><a  target="_blank" href="{{'/documents/ACE2023/Explore_gene_models_Dec2024.pdf' | absolute_url}}">Exploring gene models in the genome browser- Exercise</a><br><br></td>
           </tr>
           <tr>
             <td>11:00 - 11:20 AM<br></td>
@@ -329,7 +328,10 @@ div.instructor-table {
           <tr>
             <td>12:40 - 12:50 PM<br></td>
             <td>Correcting Gene models in Apollo</td>
-            <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
+            <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br>
+            <br><a  target="_blank" href="{{'/documents/2024Virtual/Apollo_optional_exercise.pdf' | absolute_url}}">Apollo exercise- optional</a><br>
+            <a  target="_blank" href="{{'/documents/2024Virtual/Apollo_optional_exercise_answer_key.pdf' | absolute_url}}">Apollo exercise- answer key</a><br><br>
+            </td>
           </tr>
           <tr>
             <td>12:50 - 1:00 PM<br></td>
