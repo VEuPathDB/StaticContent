@@ -231,14 +231,13 @@ div.instructor-table {
         <tbody>         
           <tr>
             <td>10:00 - 10:10 AM <br></td>
-            <td>Welcome, overview, instructor introductions</td>
-            <td><iframe width="180" height="115" src="https://www.youtube.com/embed/jl4lOMQB9rI?si=i219fo4LZUqlUzaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <td>
             </td>
           </tr>
           <tr>
             <td>10:10 - 10:45 AM<br></td>
             <td>Introduction to VEuPathDB resources</td>
-           <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/jl4lOMQB9rI?si=i219fo4LZUqlUzaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>    
           <tr>
             <td>10:45 - 11:30 AM<br></td>
