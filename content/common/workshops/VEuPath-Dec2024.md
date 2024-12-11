@@ -257,7 +257,7 @@ div.instructor-table {
           <tr>
             <td>11:50 AM - 12:05 PM<br></td>
             <td>Introduction to search strategies</td>
-            <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
+            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/L9E44ojsEKk?si=dWCUKqCPzZ7XuadV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>       
           <tr>
             <td>12:05 - 12:50 PM<br></td>
@@ -269,7 +269,7 @@ div.instructor-table {
           <tr>
             <td>12:50 - 1:00 PM<br></td>
             <td>Summary of DAY 1</td>
-            <td><br><br></td>
+            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/l2gl4SEoFJs?si=CnjTLiVYveAnCGmT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>1:00 - 1:30 PM<br></td>
