@@ -296,8 +296,7 @@ div.instructor-table {
             <td>10:00 - 10:10 AM<br></td>
             <td> Introduction to the genome browser</td>
             <td><br>
-              <!--<a  target="_blank" href="{{'/documents/ACE2023/FungiDB_Transcriptomics.pdf' | absolute_url}}">Advanced search strategies II, cont.</a>--><br>
-              <!--<a  target="_blank" href="{{'/documents/ACE2023/FungiDB_SNPs.pdf' | absolute_url}}">Advanced search strategies III</a>--><br><br></td>
+              <iframe width="280" height="157" src="https://www.youtube.com/embed/nlZbPkw2ImI?si=V-Afb4St_7cTvV8p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td>
           </tr>
           <tr>
             <td>10:10 - 10:45 AM<br></td>
