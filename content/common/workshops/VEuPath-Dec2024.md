@@ -307,7 +307,6 @@ div.instructor-table {
           <tr>
             <td>10:45 - 11:00 AM<br></td>
             <td>Exploring gene models in the genome browser</td>
-           <td><br><a  target="_blank" href="{{'/documents/2024Virtual/Explore_gene_models_Dec2024.pdf' | absolute_url}}">Exploring gene models in the genome browser- Exercise</a><br><br></td>
           </tr>
           <tr>
             <td>11:00 - 11:20 AM<br></td>
@@ -318,7 +317,7 @@ div.instructor-table {
           <tr>
             <td>11:20 AM - 12:10 PM<br></td>
             <td>Exercise- Exploring gene models in the genome browser</td>
-            <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
+            <td><br><a  target="_blank" href="{{'/documents/2024Virtual/Explore_gene_models_Dec2024.pdf' | absolute_url}}">Exploring gene models in the genome browser- Exercise</a><br><br></td>
           </tr>
           <tr>
             <td>12:10 - 12:40 PM<br></td>
