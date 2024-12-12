@@ -306,6 +306,8 @@ div.instructor-table {
           <tr>
             <td>10:45 - 11:00 AM<br></td>
             <td>Exploring gene models in the genome browser</td>
+            <td><br>
+              <iframe width="280" height="157" src="https://www.youtube.com/embed/lh12_UfnNKQ?si=8udZRLwEjR_bYhPS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td>
           </tr>
           <tr>
             <td>11:00 - 11:20 AM<br></td>
@@ -321,12 +323,12 @@ div.instructor-table {
           <tr>
             <td>12:10 - 12:40 PM<br></td>
             <td>Gene models discussion; RNA Seq and other data in the genome browser</td>
-            <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
+            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/UehojfeJnz8?si=5dV1i51MkvUGdO8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>12:40 - 12:50 PM<br></td>
             <td>Correcting Gene models in Apollo</td>
-            <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br>
+            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/TqXZWTIoxwE?si=ftiIAkdF0VlIQLdi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
             <br><a  target="_blank" href="{{'/documents/2024Virtual/Apollo_optional_exercise.pdf' | absolute_url}}">Apollo exercise- optional</a><br>
             <a  target="_blank" href="{{'/documents/2024Virtual/Apollo_optional_exercise_answer_key.pdf' | absolute_url}}">Apollo exercise- answer key</a><br><br>
             </td>
@@ -339,12 +341,15 @@ div.instructor-table {
           <tr>
             <td>1:00 - 1:30 PM<br></td>
             <td>Upload your own data into VEuPathDB (optional demo session)</td>
-           <td></td><br>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/e60gC-J__9U?si=VrGEcMms36CheiGW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td><br>
           </tr>
           <tr>
             <td>1:30 - 2:00 PM<br></td>
             <td>Discussion, Q&A (optional)</td>
-           <td></td><br>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/3d2odR3yzFc?si=6nG5n4hO-yq2nzvR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+           <iframe width="280" height="157" src="https://www.youtube.com/embed/9vnjdDPtaEw?si=yYfrQOswhmGpn6wl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+           <iframe width="280" height="157" src="https://www.youtube.com/embed/wMSFmlOw51E?si=H2H0RcSorZ8WYNxz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+           </td><br>
           </tr>
         </tbody>
       </table>
