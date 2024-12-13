@@ -374,7 +374,7 @@ div.instructor-table {
           </tr>
           <tr>
             <td>10:15 - 10:45 AM<br></td>
-            <td>Exercises- transcriptomics, proteomics, GO enrichment</td>
+            <td>Exercises- Transcriptomics, Proteomics, GO Enrichment</td>
             <td><br>
               <a  target="_blank" href="{{'/documents/2024Virtual/Transcriptomics1_GenesUpReg_Plasmodium_exercise.pdf' | absolute_url}}">Transcriptomics- Exercise 1</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Transcriptomics2_GenesUpReg_Wolbachia_exercise.pdf' | absolute_url}}">Exercise 2</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Transcriptomics3_CoExpress_Aspergillus_exercise.pdf' | absolute_url}}">Exercise 3</a><br>
               <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics1_MassSpec_Leishmania_exercise.pdf' | absolute_url}}">Proteomics- Exercise 1</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics2_Quant_MassSpec_Cryptococcus_exercise.pdf' | absolute_url}}">Exercise 2</a>, , <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics3_Quant_MassSpec_P_falciparum_exercise.pdf' | absolute_url}}">Exercise 3</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics4_PostTranslMod_Toxoplasma_exercise.pdf' | absolute_url}}">Exercise 4</a><br>
@@ -413,7 +413,7 @@ div.instructor-table {
             <td>12:20 - 12:50 PM<br></td>
             <td>Exercise- Orthology</td>
            <td><br><a  target="_blank" href="{{'/documents/2024Virtual/Orthology_genePage_OrthoMCL_exercise.pdf' | absolute_url}}">Orthology OrthoMCL exercise</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Phyletic_pattern_expressions_exercise.pdf' | absolute_url}}">Orthology Phyletic Patterns Exercise</a><br><br>
-           br><a  target="_blank" href="{{'/documents/2024Virtual/Orthology_complex_search_exercise.pdf' | absolute_url}}">Orthology Complex Search Exercise</a><br><br></td>
+           <a  target="_blank" href="{{'/documents/2024Virtual/Orthology_complex_search_exercise.pdf' | absolute_url}}">Orthology Complex Search Exercise (optional)</a><br><br></td>
           </tr>
           <tr>
             <td>12:50 - 1:00 PM<br></td>
