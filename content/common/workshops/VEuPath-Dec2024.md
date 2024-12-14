@@ -353,9 +353,8 @@ div.instructor-table {
           </tr>
         </tbody>
       </table>
-      <br>
-      <br>    
-      <table class="hor-minimalist-a">
+
+       <table class="hor-minimalist-a">
         <thead>
           <tr>
             <th colspan="4" class="break"><b>Friday, 13 December 2024</b></th>
@@ -366,8 +365,8 @@ div.instructor-table {
             <th class="recording">Exercise pdf or recording</th>
           </tr>
         </thead>
-        <tbody>         
-          <tr>
+        <tbody>
+           <tr>
             <td>10:00 - 10:15 AM<br></td>
             <td>Transcriptomics and Proteomics data; Enrichment analysis</td>
             <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/RyFvD7tTNXE?si=h8V8OEfz9WJoxMgJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
@@ -392,15 +391,17 @@ div.instructor-table {
             <td>10:55 - 11:10 AM<br></td>
             <td>Single Cell RNAseq analysis (scRNA-Seq)</td>
            <td><br>
-              <iframe width="280" height="157" src="https://www.youtube.com/embed/cGsR_-BZWsk?si=itwInCrFb147kYHl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen><br><br>
+              <iframe width="280" height="157" src="https://www.youtube.com/embed/cGsR_-BZWsk?si=itwInCrFb147kYHl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br>
               </td>
           </tr>
           <tr>
             <td>11:10 - 11:35 AM<br></td>
             <td>Exercise- scRNA-Seq</td>
-            <td><br><a  target="_blank" href="{{'/documents/2024Virtual/scRNAseq_Dec2024.pdf' | absolute_url}}">Single-Cell RNA-seq- Exercise</a><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/dkxNp4clZ3k?si=w1opokrSZIdm_-bH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen><br><br></td>
+            <td><br><a  target="_blank" href="{{'/documents/2024Virtual/scRNAseq_Dec2024.pdf' | absolute_url}}">Single-Cell RNA-seq- Exercise</a><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/dkxNp4clZ3k?si=w1opokrSZIdm_-bH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td>
           </tr>
-          <tr>
+
+
+       <tr>
             <td>11:35 - 11:45 AM<br></td>
             <td>BREAK</td>
            <td></td>
@@ -428,8 +429,15 @@ div.instructor-table {
             <td>Discussion, Q&A (optional)</td>
            <td></td><br>
           </tr>
-        </tbody>
+
+
+
+
+       </tbody>
       </table>
+</details>
+      <br>
+      <br>    
       <br>
       <br>
     
@@ -442,7 +450,6 @@ div.instructor-table {
   <br><br>
       <br>
       <br>
-    </details>        
 
 
   </div>  <!-- class workshop -->
