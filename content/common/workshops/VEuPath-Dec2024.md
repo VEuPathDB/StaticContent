@@ -370,7 +370,7 @@ div.instructor-table {
           <tr>
             <td>10:00 - 10:15 AM<br></td>
             <td>Transcriptomics and Proteomics data; Enrichment analysis</td>
-            <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
+            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/RyFvD7tTNXE?si=h8V8OEfz9WJoxMgJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>10:15 - 10:45 AM<br></td>
@@ -379,7 +379,8 @@ div.instructor-table {
               <a  target="_blank" href="{{'/documents/2024Virtual/Transcriptomics1_GenesUpReg_Plasmodium_exercise.pdf' | absolute_url}}">Transcriptomics- Exercise 1</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Transcriptomics2_GenesUpReg_Wolbachia_exercise.pdf' | absolute_url}}">Exercise 2</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Transcriptomics3_CoExpress_Aspergillus_exercise.pdf' | absolute_url}}">Exercise 3</a><br>
               <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics1_MassSpec_Leishmania_exercise.pdf' | absolute_url}}">Proteomics- Exercise 1</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics2_Quant_MassSpec_Cryptococcus_exercise.pdf' | absolute_url}}">Exercise 2</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics3_Quant_MassSpec_P_falciparum_exercise.pdf' | absolute_url}}">Exercise 3</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics4_PostTranslMod_Toxoplasma_exercise.pdf' | absolute_url}}">Exercise 4</a><br>
               <a  target="_blank" href="{{'/documents/2024Virtual/GO_Enrichment_Dicty-2024.pdf' | absolute_url}}">GO Enrichment Exercise</a><br>
-              <br><br>
+              <br><iframe width="280" height="157" src="https://www.youtube.com/embed/OQHVj6-ZzEI?si=6VRtAolfli98rL6V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              <br>
               </td>
           </tr>
          <tr>
@@ -391,13 +392,13 @@ div.instructor-table {
             <td>10:55 - 11:10 AM<br></td>
             <td>Single Cell RNAseq analysis (scRNA-Seq)</td>
            <td><br>
-              <!--<a  target="_blank" href="{{'/documents/ACE2023/Orthology_Phyletic_patterns.pdf' | absolute_url}}">Orthology & Phyletic patterns</a>--><br><br>
+              <iframe width="280" height="157" src="https://www.youtube.com/embed/cGsR_-BZWsk?si=itwInCrFb147kYHl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen><br><br>
               </td>
           </tr>
           <tr>
             <td>11:10 - 11:35 AM<br></td>
             <td>Exercise- scRNA-Seq</td>
-            <td><br><a  target="_blank" href="{{'/documents/2024Virtual/scRNAseq_Dec2024.pdf' | absolute_url}}">Single-Cell RNA-seq- Exercise</a><br><br></td>
+            <td><br><a  target="_blank" href="{{'/documents/2024Virtual/scRNAseq_Dec2024.pdf' | absolute_url}}">Single-Cell RNA-seq- Exercise</a><br><iframe width="280" height="157" src="https://www.youtube.com/embed/dkxNp4clZ3k?si=w1opokrSZIdm_-bH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen><br></td>
           </tr>
           <tr>
             <td>11:35 - 11:45 AM<br></td>
@@ -407,18 +408,20 @@ div.instructor-table {
           <tr>
             <td>11:45 AM - 12:20 PM<br></td>
             <td>Orthology & Cross-species Functional Inference</td>
-           <td><br><!--<iframe width="280" height="157" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>--><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/ni1QzqIIlsU?si=iqY_-54DbiYKAAWD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>12:20 - 12:50 PM<br></td>
             <td>Exercise- Orthology</td>
            <td><br><a  target="_blank" href="{{'/documents/2024Virtual/Orthology_genePage_OrthoMCL_exercise.pdf' | absolute_url}}">Orthology OrthoMCL exercise</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Phyletic_pattern_expressions_exercise.pdf' | absolute_url}}">Orthology Phyletic Patterns Exercise</a><br><br>
-           <a  target="_blank" href="{{'/documents/2024Virtual/Orthology_complex_search_exercise.pdf' | absolute_url}}">Orthology Complex Search Exercise (optional)</a><br><br></td>
+           <a  target="_blank" href="{{'/documents/2024Virtual/Orthology_complex_search_exercise.pdf' | absolute_url}}">Orthology Complex Search Exercise (optional)</a><br>
+           <iframe width="280" height="157" src="https://www.youtube.com/embed/fBFGg-TThv0?si=HIbpd3644nGrQCB_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+           <br></td>
           </tr>
           <tr>
             <td>12:50 - 1:00 PM<br></td>
             <td>Summary of DAY 3</td>
-           <td></td>
+           <td><iframe width="280" height="157" src="https://www.youtube.com/embed/5zoF1W21C-U?si=pbEuliGNv6rIPLn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>1:00 - 1:30 PM<br></td>
