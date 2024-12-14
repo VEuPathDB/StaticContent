@@ -398,7 +398,7 @@ div.instructor-table {
           <tr>
             <td>11:10 - 11:35 AM<br></td>
             <td>Exercise- scRNA-Seq</td>
-            <td><br><a  target="_blank" href="{{'/documents/2024Virtual/scRNAseq_Dec2024.pdf' | absolute_url}}">Single-Cell RNA-seq- Exercise</a><br><iframe width="280" height="157" src="https://www.youtube.com/embed/dkxNp4clZ3k?si=w1opokrSZIdm_-bH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen><br></td>
+            <td><br><a  target="_blank" href="{{'/documents/2024Virtual/scRNAseq_Dec2024.pdf' | absolute_url}}">Single-Cell RNA-seq- Exercise</a><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/dkxNp4clZ3k?si=w1opokrSZIdm_-bH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen><br><br></td>
           </tr>
           <tr>
             <td>11:35 - 11:45 AM<br></td>
@@ -408,20 +408,20 @@ div.instructor-table {
           <tr>
             <td>11:45 AM - 12:20 PM<br></td>
             <td>Orthology & Cross-species Functional Inference</td>
-           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/ni1QzqIIlsU?si=iqY_-54DbiYKAAWD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <td><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/ni1QzqIIlsU?si=iqY_-54DbiYKAAWD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td>
           </tr>
           <tr>
             <td>12:20 - 12:50 PM<br></td>
             <td>Exercise- Orthology</td>
            <td><br><a  target="_blank" href="{{'/documents/2024Virtual/Orthology_genePage_OrthoMCL_exercise.pdf' | absolute_url}}">Orthology OrthoMCL exercise</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Phyletic_pattern_expressions_exercise.pdf' | absolute_url}}">Orthology Phyletic Patterns Exercise</a><br><br>
-           <a  target="_blank" href="{{'/documents/2024Virtual/Orthology_complex_search_exercise.pdf' | absolute_url}}">Orthology Complex Search Exercise (optional)</a><br>
-           <iframe width="280" height="157" src="https://www.youtube.com/embed/fBFGg-TThv0?si=HIbpd3644nGrQCB_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+           <a  target="_blank" href="{{'/documents/2024Virtual/Orthology_complex_search_exercise.pdf' | absolute_url}}">Orthology Complex Search Exercise (optional)</a><br><br>
+           <iframe width="280" height="157" src="https://www.youtube.com/embed/fBFGg-TThv0?si=HIbpd3644nGrQCB_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen><br></iframe>
            <br></td>
           </tr>
           <tr>
             <td>12:50 - 1:00 PM<br></td>
             <td>Summary of DAY 3</td>
-           <td><iframe width="280" height="157" src="https://www.youtube.com/embed/5zoF1W21C-U?si=pbEuliGNv6rIPLn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+           <td><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/5zoF1W21C-U?si=pbEuliGNv6rIPLn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen><br><br></iframe></td>
           </tr>
           <tr>
             <td>1:00 - 1:30 PM<br></td>
