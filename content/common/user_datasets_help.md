@@ -70,11 +70,11 @@ div.UserDatasetHelp img {
     </div>
    <br><hr>
 
-  <h3>Upload a BigWig file to My Data Sets</h3>
+  <h3>Upload a bigWig file to My Data Sets</h3>
     <br>
     <ol type="1">
       <li><b>Access the My Gene List upload form:</b> Open the New Upload tab in your My Data Sets workspace. Choose <b>bigWig: Integrate your bigWig file</b></li>
-      <li><b>Complete the Upload a BigWig form:</b> Name, Summary and Upload File/URL are required. The bigWig file must contain data mapped to the current VEuPathDB reference genome for that organism. Upload Data Set initiates the transfer and will add the bigWig file as a data set in table on your My Data Sets page.</li>
+      <li><b>Complete the Upload a bigWig form:</b> Name, Summary and Upload File/URL are required. The bigWig file must contain data mapped to the current VEuPathDB reference genome for that organism. Upload Data Set initiates the transfer and will add the bigWig file as a data set in table on your My Data Sets page.</li>
       <li><b>View and access your new data set:</b> The record page for your new data set opens immediately but the file installation may take some time. When the Status changes to 'This data set is installed...', navigate to the browser with View in Genome Browser.</li>
     </ol>
     <br>
@@ -89,7 +89,7 @@ div.UserDatasetHelp img {
       <li><b>Access the Normalized RNA-Seq upload form:</b> Open the New Upload tab in your My Data Sets workspace. Choose <b>Normalized RNA-Seq: Integrate your Normalized RNA-Seq data.</b></li>
       <li><b>Complete the Upload My Normalized RNA-Seq form:</b> Name, Summary and Upload File/URL are required. Three types of files &ndash; bigWig, counts and index &ndash; are supported in the uploaded zip file. </li>
         <ul>
-          <li>BigWig files are not required but will allow data visualization in the genome browser if included.</li>
+          <li>bigWig files are not required but will allow data visualization in the genome browser if included.</li>
           <li>The counts (FPKM/TPM) files should be tab-delimited and contain two columns with column headers: 'gene_id', and either 'FPKM' or 'TMP'.</li>
           <li>The index file should be named manifest.txt and consist of a tab delimited txt file with three columns (no column headers): sample name, filename, and strandedness (unstranded/stranded).</li> 
           <li>Upload Data Set initiates the transfer and will create a record page for your data set that contains links to the fold change search, and bigWig files if included. </li>
