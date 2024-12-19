@@ -127,7 +127,7 @@ div.instructor-table {
      <!--<h4>Registration for this workshop is closed. If you missed the registration deadline, please stay tuned for more virtual workshops coming soon. Please <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us</a> for further information. </h4>
       <h4>Workshop times: 10 AM - 1 PM (EST) daily with optional Q/A until 1:30 PM - <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>>-->
       <!--<h4><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_cGhOGjNTREF8JQq" target="_blank">Register here</a></h4>>-->
-      <h4>All materials from this workshop are available to the VEuPathDB community for asynchronous use. Please see the right-most column of the <a href="#Schedule">Schedule</a> &ndash; for links to PDF exercises and lecture recordings.</h4>
+      <h4>All materials from this workshop are now available to the VEuPathDB community for asynchronous learning. Please see the right-most column of the <a href="#Schedule">schedule</a> below for links to PDF exercises and lecture recordings.</h4>
       <img style="width: 35em; margin-top: 0.5em; display: block; margin-left: auto; margin-right: auto;" src="{{ "/assets/images/workshops/VEuPathDB_workshop.png" | absolute_url }}" alt="2024VEuPathDB"/>
 
   </div>
