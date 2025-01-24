@@ -431,6 +431,7 @@ Release webinar dates are subject to change due to production issues that may ar
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/YprhSDTvsEE?si=H9ngtwxwGYhibXmS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>  
 
+        </tbody>
       </table>
 
     </details>
