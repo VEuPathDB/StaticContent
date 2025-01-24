@@ -8,7 +8,6 @@ tags: [general]
   div.contents {
     margin-left: 0;
     margin-bottom: 1em;
-    font-size: 1.1em;
   }
   div.contents p {
     line-height: 90%;
@@ -24,11 +23,11 @@ tags: [general]
   }
 </style>
 
+<div class="static-content">
 <p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> Webinars</p>
 
 <h1 id="resources">VEuPathDB Webinars</h1>
 
-<div class="static-content">
 <!--<hr>  ==== UPCOMING WEBINARS =============================== -->
  
 <!-- ======use this space for upcoming Webinars details and registrations ======
