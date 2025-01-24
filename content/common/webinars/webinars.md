@@ -242,6 +242,7 @@ Release webinar dates are subject to change due to production issues that may ar
            <li>Available tools and searches</li>
            <li>The genome browser</li></ul><br></td>
            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/Ba4IUnrPOE0?si=kxti_rM12swVDEZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           </tr>
            <tr>
            <td><b>The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR</b> (March 16, 2021)<br>
            <b>Description:</b> This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.<br></td>
