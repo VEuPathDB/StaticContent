@@ -46,9 +46,8 @@ Release webinar dates are subject to change due to production issues that may ar
   <b>Details:</b> This webinar will focus on what is new in Release 62 of the VEuPathDB projects.  We will discuss new data sets, demonstrate searches and features, and answer questions.
   </div>
 
-</div>-->
-
-  </div> <!--closing div contents for Upcoming Webinars -->
+  </div>
+  -->
 
 
 <div class="anchor"><a name="community meetings"></a></div>
