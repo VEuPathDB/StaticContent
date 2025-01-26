@@ -89,3 +89,6 @@ touch with us</a> for details:</h2></p>
 on industry size).</li>
 
 <li>Teaching subscriptions.</li>
+</ul>
+<br>
+<h2>Do you have additional questions? <a href="/a/app/static-content/faq.html">Check out our frequently asked questions page</a></h2>
