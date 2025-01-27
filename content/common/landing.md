@@ -11,7 +11,7 @@ title: VEuPathDB landing
   font-size: 95%;
 }
 .flex-container div {
-  font-size: 75%;
+  font-size: 90%;
   border: 0.2em solid lightblue;
   border-radius: 0.5em;
   margin: 0 1em 1em 0;
