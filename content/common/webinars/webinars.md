@@ -13,11 +13,16 @@ tags: [general]
       margin-left: 2em;
     }
     summary {
-      color: #069;
       cursor: pointer;
     }
     details summary > * {
       display: inline;
+    }
+    details li {
+      margin: 0.5em 0;
+    }
+    details p {
+      margin: 0 0.5em;
     }
   }
 </style>
@@ -44,7 +49,7 @@ tags: [general]
   <div class="anchor"><a name="release"></a></div>
   <details closed>
     <summary><h3>Releases</h3></summary>
-    <p><b>Release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session.</b></p> 
+    <p>Release webinars focus on what is new in each release of the VEuPathDB project, including new datasets, demonstrations of searches and features, and a question-answer session.</p> 
 
 <br>
     <ul>
@@ -76,7 +81,7 @@ tags: [general]
 <br>
  
   <div class="anchor"><a name="On-Demand Webinars"></a></div>
-  <details open>
+  <details closed>
     <summary><h3>On-Demand Training</h3> </summary>
     <br>
     <table class="hor-minimalist-a">
