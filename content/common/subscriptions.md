@@ -23,10 +23,6 @@ tags: [general]
 
   <h2>Research Groups Subscriptions</h2>
 
-  <p>Here you may <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">generate an invoice</a> to be completed by the Research group head or authorized person.</p>
-
-  <p>Here you have access to a <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">Private Fee Calculator</a>.</p>
-
   <h3>Subscription Tiers</h3>
   <table>
   <thead><tr>
@@ -91,6 +87,11 @@ tags: [general]
   </tr></tbody>
   </table>
 
+  <p>Here you may <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">generate an invoice</a> to be completed by the Research group head or authorized person.</p>
+
+  <p>Here you have access to a <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">Private Fee Calculator</a>.</p>
+
+<br>
 
   <h2>Additional subscription types</h2>
   <p>Please <a href="mailto:subscriptions@veupathdb.org">get in touch with us</a> for details on other types of organizations, such as:</p>
@@ -100,6 +101,8 @@ tags: [general]
     <li>Industry subscriptions (based on industry size)</li>
     <li>Teaching subscriptions</li>
   </ul>
+
+<br>
 
   <h2>Do you have additional questions?</h2>
   <p> <a href="/a/app/static-content/faq.html">Check out our frequently asked questions page</a></p>
