@@ -21,7 +21,8 @@ tags: [general]
 
   <p>VEuPathDB is an open-source resource providing access to omics data and the necessary tools to make sense of such data. Login is required for free access to the tools that enable data integration and discovery. While VEuPathDB is freely accessible to anyone, maintenance and updating the resource are not free. The changing funding landscape has made it difficult to support resources like VEuPathDB solely based on grants, necessitating the implementation of a mandatory subscription service even if the subscription fee is $0.</p>
 
-  <h2>Research Groups -  Subscription Tiers</h2>
+  <h2>Research Groups Subscription</h2>
+  <p>Please, select a Tier and <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">generate an invoice</a> to be completed by the Research group head or authorized person. You may make a copy of this <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">Private Fee Calculator</a>.</p>
 
   <table>
   <thead><tr>
@@ -85,8 +86,6 @@ tags: [general]
     <td>$25,000.00</td>
   </tr></tbody>
   </table>
-
-  <p>Please, <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">generate an invoice</a> to be completed by the Research group head or authorized person. You may make a copy of this <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">Private Fee Calculator</a>.</p>
 
 <br>
 
