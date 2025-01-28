@@ -1,6 +1,6 @@
 ---
-title: VEuPathDB methods
-permalink: /methods
+title: Cryptosporidium gp60 Resource Page
+permalink: /gp60_resource_page
 tags: [general]
 ---
 <style>
@@ -11,11 +11,11 @@ div.method-details {
 
 </style>
 
-<h1>VEuPathDB Data Analysis Methods </h1>
+<h1>Cryptosporidium gp60 Resource Page</h1>
 
 <div class="static-content"> 
 
-<p>VEuPathDB draws data from many sources.  To facilitate comparisons across data sets, we analyze all data with standardized, data type-specific analyses.  All data of one type are analyzed with the same workflow.  Although our results may show some differences from an author’s publication, our re-analysis of the data makes it feasible to compare data sets from very different sources and to update the data analysis with contemporary methods.  For transparency, the methods we use to analyze data are presented here.  </p>
+<p>What is gp60? The gp60 gene encodes the 60-kDa glycoprotein (GP60), also known as GP40/15 due to proteolytic cleavage. This glycoprotein is highly polymorphic, making it an ideal marker for genetic subtyping of Cryptosporidium species. gp60 subtyping is commonly used to study the diversity, transmission, and zoonotic potential of Cryptosporidium species, especially C. hominis (mainly infecting humans) and C. parvum (infecting humans and other mammals).</p>
 
 <h4>Contents</h4>
 <ul>
