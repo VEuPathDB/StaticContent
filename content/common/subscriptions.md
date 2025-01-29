@@ -36,8 +36,8 @@ tags: [general]
       margin-left: 6em;
     }
 
-    table {i
-      font-size: 90%;
+    table {
+      font-size: smaller;
       margin: 1em 0em 2em;
       padding: 1em 1em;
     }
