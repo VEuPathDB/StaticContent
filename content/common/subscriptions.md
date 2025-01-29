@@ -28,7 +28,7 @@ tags: [general]
     div.column2 {
       position:relative;
       flex: 0 0 auto;
-      width: 30%;
+      width: 36%;
       border-radius: .5em;
       border: 1px solid #dbb667a6;
       background: #fdf9e696;
