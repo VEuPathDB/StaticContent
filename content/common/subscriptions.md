@@ -12,6 +12,7 @@ tags: [general]
     div.column {
       flex: 40%;
       margin: 1em 3em;
+      line-height: 1.6em;
     }
     div.column2 {
       flex: 60%;
@@ -29,6 +30,7 @@ tags: [general]
     }
     thead td {
       font-weight: bold;
+      padding: 0.3em 1em;
     }
   }
 </style>
@@ -125,7 +127,8 @@ subscription service:</b> While VEuPathDB is freely accessible to anyone, mainte
         <li>OR use this <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">private fee calculator</a> to determine your subscription amount.</li>
       </ol>
       </p>
-      <p> <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">Generate an invoice</a> based on your determined fee <span style="font-size:85%;font-style:italic;">(to be completed by the Research group head or authorized person)</span>.
+<br>
+      <p>Then, please <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">generate an invoice</a> based on your determined fee <span style="font-size:85%;font-style:italic;">(to be completed by the Research group head or authorized person)</span>.
       </p>
     </li>
 
