@@ -53,7 +53,7 @@ tags: [general]
       box-sizing: border-box;
       color: white;
       cursor: pointer;
-      font-weight: 500;
+      font-weight: 400;
       padding: 0.7em 0.7em;
       transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
       touch-action: manipulation;
