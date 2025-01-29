@@ -1,0 +1,44 @@
+---
+layout: post
+title: MicrobiomeDB 33 Released
+category: [MicrobiomeDB]
+---
+<div style="font-size:130%"><i>We are pleased to announce the release of MicrobiomeDB 33</i></div>
+      <section>
+        <h3><b>New data in this release</b></h3>
+        <ul>
+        <li>There are no new datasets in this release.
+        </li></ul>
+      </section>
+
+      <section>
+        <h3><b>New features in this release</b></h3>
+        <ul>
+        <li>Completely redesigned query tools - our previous site required users to choose between taxon abundance and sample metadata to identify samples of interest.  We have now redesigned the site to integrate all data into a single, simple interface that allows users to identify samples based on any available data or metadata.
+        </li><li>Data viz page with preconfigured apps - we have migrated away from R/Shiny apps and developed new apps from the ground up. The new vizualization page provides a much more powerful and diverse array of analysis apps.
+        </li><li>Compute and caching service - Our shiny apps were slow and easy to break, in part because they had no way of queueing or caching jobs.  We developed a sophisticated compute service that allows users to carry out complex analyses and return the results directly in the browser.  It's lightning fast!
+        </li><li>Beta diversity app - The new compute service described above allows us to carry out more complex computations.  Thus, we rebuilt our beta diversity app to deliver a smooth and sleek interface for analysis of very large studies.
+        </li><li>Mosaic plots and contingency tables - A mosaic plot is a special type of stacked bar chart which provides a useful way to explore the relationship between two categorical variables. The size of each tile is proportional to the number of observations in that category. You can view the underlying contingency table and chi square statistics on the Table and Statistics tabs, respectively.
+        </li><li>Notes tab - This simple but useful new feature lets users jot down notes about their analyses.  These are automatically saved and easily shared with collaboratorsa as part of your analysis.
+        </li><li>Starred variables - With large studies that have a lot of metadata and data for one or more microbiome assays (e.g. 16S or metagenomic), it can be frustrating to constantly have to search for an select variables of interest.  Well, no longer!  Now you can star an variable.  All starred variables are easily accessible with a single click on the search page.
+        </li><li>Featured variables - Starred variables are great, but what if you don't even know which variables might be the most interestign to explore.  For several of the public studies we have identified 'featured' variables that either we feel are critical to the study or that were important aspects of previous publciations that used these datasets.  We hope to add featured variables for more studies soon!
+        </li><li>Improved download page - Prevously, users were only able to download flat files from our FTP site.  Now we allow users to customize their download in order to access full or subsetted data.
+        </li><li>Functional data! - For metagenomic studies, we previously only loaded taxonomic data because our site didn't have the infrastructure to support the more complex functional data produced by metagenomic sequencing (e.g., microbial gene and pathway content).  We now load MetaCyc/BioCyc Pathway abundance and coverage data, as well as abundance data for predicted enzymes (EC genes).  These data are now available for all public metagenomic studies (HMP phase I, BONUS-CF, DIABIMMUNE, ECO-CF, FARMM, Malaysia Helminth, MORDOR Phase I, NICU NEC, Preterm Infant Resistome I, and Preterm Infant Resistome II).
+        </li><li>Microbial eukaryotes detection and quantification - Who doesn't love fungi, protozoa, and worms?!  These important classes of organisms are often ignored in the analyses of metagenomic data. To help address this important knowledge gap, we implemented our Clustering of Related Reference ALignments (CORRAL) method in our automated data loading workflow.  As a result, all curated metagenomic studies currently loaded on the site now have microbial eukaryote data availabe for query and visualization.  You can learn more about CORRAL and see its performance on simulated and real metagenomic datasets in our recent publication (https://pubmed.ncbi.nlm.nih.gov/37032329/)
+        </li>
+        </ul>
+      </section>
+
+      <section>
+        <h3><b>Recent events</b></h3>
+        <ul>
+        <li>The MicrobiomeDB team recently pressented as part of the Bill and Melinda Gates Foundation's Institute for Disease Modelling (IDM) in Seattle.
+        </li></ul>
+      </section>
+
+      <section>
+        <aside>
+           <br><br>Note: Our bimonthly database releases incorporate new data and correct errors in old data when necessary. Changes in annotation and new experimental data may slightly alter your search results by increasing or decreasing the number of hits. When search parameters change with a new release, we invalidate (Ø) the search and ask you to rerun it. When sample IDs are updated or removed, we map the old IDs to the new ones, remove the old IDs from your Basket, and leave your Favorites page alone.
+        </aside>
+      </section>
+
