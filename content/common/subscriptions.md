@@ -5,17 +5,11 @@ permalink: subscriptions
 tags: [general]
 ---
 <style>
-  h1 {
-    font-weight:500;
-  }
   div.static-content {
     font-size: 1.5em;
-    line-height: 1.35;
-    margin-bottom: 2em;
-    padding: 0 1em;
  
     h2 {
-      font-weight:500;
+      font-weight:400;
     }
     div.top {
       line-height: 1.6em;
