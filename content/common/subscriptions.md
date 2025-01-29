@@ -17,7 +17,7 @@ tags: [general]
       flex: 60%;
       margin: 1em 3em;
       background: lightblue;
-      padding: 0em 1em;
+      padding: 0em 1em 2em;
     }
     table {
       background: white;
@@ -29,10 +29,6 @@ tags: [general]
     }
     thead td {
       font-weight: bold;
-      font-size: 150%;
-    }
-    tbody td {
-      font-size: 130%;
     }
   }
 </style>
