@@ -48,13 +48,13 @@ tags: [general]
       font-size: 120%;
       background-color: green;
       border: 0.15em solid darkgreen;
-      border-radius: 15px;
+      border-radius: 8px;
       box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
       box-sizing: border-box;
       color: white;
       cursor: pointer;
       font-weight: 400;
-      padding: 0.7em 0.7em;
+      padding: 0.4em 0.7em;
       transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
       touch-action: manipulation;
       vertical-align: middle;
