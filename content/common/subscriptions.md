@@ -6,11 +6,33 @@ tags: [general]
 ---
 <style>
   div.static-content {
+    display: flex;
+    font-size: 1.5em;
+    
+    div.column {
+      flex: 40%;
+      margin: 1em 3em;
+    }
+    div.column2 {
+      flex: 60%;
+      margin: 1em 3em;
+      background: lightblue;
+      padding: 0em 1em;
+    }
+    table {
+      background: white;
+      margin: 2em 0em;
+      padding: 1em 1em;
+    }
     td {
-      padding: 0 1em;
+      padding: 0.15em 1em;
     }
     thead td {
       font-weight: bold;
+      font-size: 150%;
+    }
+    tbody td {
+      font-size: 130%;
     }
   }
 </style>
@@ -19,10 +41,26 @@ tags: [general]
 
 <div class="static-content">
 
-  <p>VEuPathDB is an open-source resource providing access to omics data and the necessary tools to make sense of such data. Login is required for free access to the tools that enable data integration and discovery. While VEuPathDB is freely accessible to anyone, maintenance and updating the resource are not free. The changing funding landscape has made it difficult to support resources like VEuPathDB solely based on grants, necessitating the implementation of a mandatory subscription service even if the subscription fee is $0.</p>
+<div class="column">
+  <p><b>What is VEuPathDB?</b> VEuPathDB is an open-source resource providing access to omics data and the necessary tools to make sense of such data. Login is required for free access to the tools that enable data integration and discovery. </p>
 
-  <h2>Research Groups Subscription</h2>
-  <p>Please, select a Tier and <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">generate an invoice</a> to be completed by the Research group head or authorized person. You may make a copy of this <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">Private Fee Calculator</a>.</p>
+  <p><b>Why we are implementing a
+subscription service:</b> While VEuPathDB is freely accessible to anyone, maintenance and updating the resource are not free. The changing funding landscape has made it difficult to support resources like VEuPathDB solely based on grants, necessitating the implementation of a mandatory subscription service even if the subscription fee is $0.</p>
+
+<br><br>
+
+  <h2>Do you have additional questions?</h2>
+  <p><b>Check out our</b>  <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> <b>page.</b></p>
+
+</div>
+
+<div class="column2">
+  <h3>Subscription types:</h3>
+  <ul>
+    <li><h2>Research Groups</h2>
+      <p>To determine the fair subscription fee for your research group, you can either:
+      <ol>
+        <li>Select a tier based on lab budget (see table below).
 
   <table>
   <thead><tr>
@@ -87,20 +125,24 @@ tags: [general]
   </tr></tbody>
   </table>
 
-<br>
+        </li>
+        <li>OR use this <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">private fee calculator</a> to determine your subscription amount.</li>
+      </ol>
+      </p>
+      <p> <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">Generate an invoice</a> based on your determined fee <span style="font-size:85%;font-style:italic;">(to be completed by the Research group head or authorized person)</span>.
+      </p>
+    </li>
 
-  <h2>Additional subscription types</h2>
-  <p>Please <a href="mailto:subscriptions@veupathdb.org">get in touch with us</a> for details on other types of organizations, such as:</p>
-
-  <ul>
-    <li>Institutional non-profit</li>
-    <li>Industry (based on industry size)</li>
-    <li>Educational</li>
+    <li><h2>All other subscription types, please <a href="mailto:subscriptions@veupathdb.org">contact us</a></h2>
+      <ul>
+        <li>Institutional non-profits</li>
+        <li>Industry (based on size)</li>
+        <li>Teaching based</li>
+      </ul>
+    </li>
   </ul>
 
-<br>
-
-  <h2>Do you have additional questions?</h2>
-  <p>Check out our  <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> page.</p>
+</div>
 
 </div>
+
