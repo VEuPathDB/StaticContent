@@ -22,7 +22,7 @@ tags: [general]
     }
     table {
       background: white;
-      margin: 2em 0em;
+      margin: 1em 0em 2em;
       padding: 1em 1em;
     }
     td {
@@ -41,6 +41,8 @@ tags: [general]
 
 <div class="column">
   <p><b>What is VEuPathDB?</b> VEuPathDB is an open-source resource providing access to omics data and the necessary tools to make sense of such data. Login is required for free access to the tools that enable data integration and discovery. </p>
+
+<br>
 
   <p><b>Why we are implementing a
 subscription service:</b> While VEuPathDB is freely accessible to anyone, maintenance and updating the resource are not free. The changing funding landscape has made it difficult to support resources like VEuPathDB solely based on grants, necessitating the implementation of a mandatory subscription service even if the subscription fee is $0.</p>
@@ -127,7 +129,6 @@ subscription service:</b> While VEuPathDB is freely accessible to anyone, mainte
         <li>OR use this <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">private fee calculator</a> to determine your subscription amount.</li>
       </ol>
       </p>
-<br>
       <p>Then, please <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">generate an invoice</a> based on your determined fee <span style="font-size:85%;font-style:italic;">(to be completed by the Research group head or authorized person)</span>.
       </p>
     </li>
