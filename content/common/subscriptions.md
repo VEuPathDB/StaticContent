@@ -5,8 +5,11 @@ permalink: subscriptions
 tags: [general]
 ---
 <style>
+  h1 {
+    margin-bottom:0;
+    padding-bottom: 0;
+  }
   div.static-content {
-    font-size: 1.5em;
  
     h2 {
       font-weight:400;
@@ -33,7 +36,8 @@ tags: [general]
       margin-left: 6em;
     }
 
-    table {
+    table {i
+      font-size: 90%;
       margin: 1em 0em 2em;
       padding: 1em 1em;
     }
