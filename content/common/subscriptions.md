@@ -34,12 +34,11 @@ tags: [general]
     }
 
     table {
-      background: white;
       margin: 1em 0em 2em;
       padding: 1em 1em;
     }
     td {
-      padding: 0.15em 1em;
+      padding: 0.10em 1em;
     }
     thead td {
       font-weight: bold;
