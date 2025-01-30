@@ -13,6 +13,7 @@ tags: [general]
  
     h2 {
       font-weight:400;
+      margin-bottom: 0.4em;
     }
     div.top {
       line-height: 1.6em;
