@@ -28,7 +28,7 @@ tags: [general]
       border-radius: .5em;
       border: 1px solid lightblue;
       background: #e6f7fd78;
-      padding: 0 1em 1em;
+      padding: 0 1em 0;
       margin-left: 2em;
     }
     div.column2 {
@@ -38,7 +38,7 @@ tags: [general]
       border-radius: .5em;
       border: 1px solid #dbb667a6;
       background: #fdf9e696;
-      padding: 0 1em 1em;
+      padding: 0 1em 0;
       margin-left: 6em;
     }
 
