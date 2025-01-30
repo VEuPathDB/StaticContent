@@ -78,7 +78,7 @@ tags: [general]
 
 
     .button-3 {
-      font-size: 120%;
+      font-size: 140%;
       background-color: green;
       border: 0.15em solid darkgreen;
       border-radius: 8px;
