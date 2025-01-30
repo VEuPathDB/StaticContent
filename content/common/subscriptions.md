@@ -13,6 +13,9 @@ tags: [general]
  
     h2 {
       font-weight:400;
+      padding-bottom: 0.5em;
+    }
+    h3 {
       margin-bottom: 0.4em;
     }
     div.top {
