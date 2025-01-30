@@ -191,7 +191,7 @@ tags: [general]
       </li>
       <li>OR use this <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">private fee calculator</a> to determine your subscription amount.</li>
     </ol>
-      <div style="display: flex;justify-content: center;align-items: center;"><button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
+      <div style="display: flex;justify-content: center;align-items: center;"><button class="button-3"><a href="/a/app/static-content/invoice.html" target="_blank" rel="noopener noreferrer">
         Generate an invoice</a></button></div>
       <div class="small">(to be completed by the Research group head or authorized person)</div>
   </div>
