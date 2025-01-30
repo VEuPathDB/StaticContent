@@ -60,7 +60,7 @@ tags: [general]
       border-radius: .5em;
       border: 1px solid lightblue;
       background: lightblue;
-      padding: 0 1em 1em;
+      padding: 0 1em 0;
       margin-left: 2em;
       margin-top: 1em;
     }
@@ -71,7 +71,7 @@ tags: [general]
       border-radius: .5em;
       border: 1px solid #dbb667a6;
       background: wheat;
-      padding: 0 1em 1em;
+      padding: 0 1em 0;
       margin-left: 6em;
       margin-top: 1em;
     }
