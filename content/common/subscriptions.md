@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Subscription Information
-permalink: subscriptions
+permalink: subscriptions-new
 tags: [general]
 ---
 <style>
@@ -9,8 +9,8 @@ tags: [general]
     margin-bottom:0;
     padding-bottom: 0;
   }
-  div.static-content {
- 
+
+  div.static-content { 
     h2 {
       font-weight:400;
       padding-bottom: 0.5em;
@@ -18,15 +18,17 @@ tags: [general]
     h3 {
       margin-bottom: 0.4em;
     }
+
     div.top {
       line-height: 1.6em;
-    }    
+    }
+    
     div.column {
       flex: 0 0 40%; 
       border-radius: .5em;
       border: 1px solid lightblue;
       background: #e6f7fd78;
-      padding: 0 1em 1em;
+      padding: 0 1em 0;
       margin-left: 2em;
     }
     div.column2 {
@@ -36,7 +38,7 @@ tags: [general]
       border-radius: .5em;
       border: 1px solid #dbb667a6;
       background: #fdf9e696;
-      padding: 0 1em 1em;
+      padding: 0 1em 0;
       margin-left: 6em;
     }
 
@@ -52,8 +54,31 @@ tags: [general]
       font-weight: bold;
       padding: 0.3em 1em;
     }
+
+    div.column3 {
+      flex: 0 0 40%;
+      border-radius: .5em;
+      border: 1px solid lightblue;
+      background: lightblue;
+      padding: 0 1em 0;
+      margin-left: 2em;
+      margin-top: 1em;
+    }
+    div.column4 {
+      position:relative;
+      flex: 0 0 auto;
+      width: 36%;
+      border-radius: .5em;
+      border: 1px solid #dbb667a6;
+      background: wheat;
+      padding: 0 1em 0;
+      margin-left: 6em;
+      margin-top: 1em;
+    }
+
+
     .button-3 {
-      font-size: 120%;
+      font-size: 140%;
       background-color: green;
       border: 0.15em solid darkgreen;
       border-radius: 8px;
@@ -62,6 +87,7 @@ tags: [general]
       color: white;
       cursor: pointer;
       font-weight: 400;
+      margin-top: 1em;
       padding: 0.4em 0.7em;
       transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
       touch-action: manipulation;
@@ -191,9 +217,7 @@ tags: [general]
       </li>
       <li>OR use this <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">private fee calculator</a> to determine your subscription amount.</li>
     </ol>
-      <div style="display: flex;justify-content: center;align-items: center;"><button class="button-3"><a href="/a/app/static-content/invoice.html" rel="noopener noreferrer">
-        Generate an invoice</a></button></div>
-      <div class="small">(to be completed by the Research group head or authorized person)</div>
+
   </div>
 
   <div class="column2">     
@@ -206,9 +230,22 @@ tags: [general]
         <li>Teaching based</li>
       </ul>
 
-    <div style="position:absolute;bottom:0"><h2>Do you have additional questions?</h2>
+  </div>
+
+  </div>
+
+
+  <div style="display:flex">
+
+  <div class="column3">
+      <div style="display: flex;justify-content: center;align-items: center;"><button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
+        Generate an invoice</a></button></div>
+      <div class="small">(to be completed by the Research group head or authorized person)</div>
+  </div>
+
+  <div class="column4">
+    <h2>Do you have additional questions?</h2>
     <p>Check out our  <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a>  or please <a href="/a/app/contact-us">Contact Us</a>.</p>
-    </div>
   </div>
 
   </div>
