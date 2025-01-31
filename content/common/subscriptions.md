@@ -25,9 +25,6 @@ tags: [general]
       padding-top:0.25em;
     }
 
-    div.top {
-      line-height:1.6em;
-    }
     ul {
       list-style-type: square;
     }
@@ -63,10 +60,6 @@ tags: [general]
         padding-top: 0.5em;
         padding-bottom: 0.5em;
       }
-      div ul li {
-        padding-top: 0.5em;
-        padding-bottom: 0.5em; 
-      } 
     }
    
     div.column11 {
@@ -76,18 +69,18 @@ tags: [general]
       flex: 0 0 auto;
       margin-left: 1em;
     }
+
+    .column11 ul {
+      padding-left: 0;
+      margin-top: 0;
+    }
  
     .column11 li {
       padding-top: 1.5em;
       padding-bottom: 0.5em;
     }
-    .column11 ul {
-      padding-left: 0;
-      margin-top: 0;
-    }
-
-    .column2 li {
-      padding-top: 0.7em;
+    .column2 > ul > li {
+      padding-top: 0.4em;
       padding-bottom: 0.5em;
     }
 
@@ -123,7 +116,7 @@ tags: [general]
         justify-content: center;
         align-items: center;
       }
-     min-width: 26em;
+     min-width: 33em;
     }
     div.column4 {
       position:relative;
