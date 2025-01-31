@@ -140,7 +140,7 @@ tags: [general]
       color: white;
       cursor: pointer;
       font-weight: 400;
-      margin-top: 1em;
+      margin-top: 0.6em;
       padding: 0.4em 0.7em;
       transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
       touch-action: manipulation;
@@ -293,7 +293,7 @@ tags: [general]
   <div class="column3">
       <div><button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
         Generate an invoice</a></button></div>
-      <div class="small">(to be completed by the Research group head or authorized person)</div>
+      <div class="small">(to be completed by the Research group Head or authorized person)</div>
   </div>
   <div class="column4">
     <h2>Additional questions?</h2>
