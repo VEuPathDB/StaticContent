@@ -21,7 +21,7 @@ tags: [general]
       padding-bottom:0.5em;
     }
     h3 {
-      margin-bottom:0.4em;
+      margin-bottom:0.1em;
       padding-top:0.25em;
     }
 
