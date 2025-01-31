@@ -271,8 +271,8 @@ tags: [general]
     <p>If your organization falls into one of the following categories, please
       <a href="mailto:subscriptions@veupathdb.org">contact us</a> for more options.</p>
     <ul>
-        <li style="padding:top:1em">Institutional non-profits <span class="small">(based on aggregate institutional users)</span></li>
-        <li>Industry rates <span class="small">(revenue-based)</span>
+        <li style="padding-top:1em">Institutional non-profits <span class="small">(based on aggregate institutional users)</span></li>
+        <li style="padding-bottom:0">Industry rates <span class="small">(revenue-based)</span>
           <ul>
             <li>small</li>
             <li>medium</li>
