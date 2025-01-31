@@ -209,57 +209,57 @@ tags: [general]
   <tbody><tr>
     <td>1</td>
     <td class="center"><i>no funding at present</i></td>
-    <td>$0.00</td>
+    <td>$0</td>
   </tr>
   <tr class="alt">
     <td>2</td>
     <td class="center">&lt;$20K</td>
-    <td>$200.00</td>
+    <td>$200</td>
   </tr>
   <tr>
     <td>3</td>
     <td class="center">$20 - 50K</td>
-    <td>$500.00</td>
+    <td>$500</td>
   </tr>
   <tr class="alt">
     <td>4</td>
     <td class="center">$50 - 125K</td>
-    <td>$1,000.00</td>
+    <td>$1,000</td>
   </tr>
   <tr>
     <td>5</td>
     <td class="center">$125 - 250K</td>
-    <td>$2,500.00</td>
+    <td>$2,500</td>
   </tr>
   <tr class="alt">
     <td>6</td>
     <td class="center">$250 - 500K</td>
-    <td>$5,000.00</td>
+    <td>$5,000</td>
   </tr>
   <tr>
     <td>7</td>
     <td class="center">$375 - 750K</td>
-    <td>$7,500.00</td>
+    <td>$7,500</td>
   </tr>
   <tr class="alt">
     <td>8</td>
     <td class="center">$500K - $1M</td>
-    <td>$10,000.00</td>
+    <td>$10,000</td>
   </tr>
   <tr>
     <td>9</td>
     <td class="center">$750K - $1.5M</td>
-    <td>$15,000.00</td>
+    <td>$15,000</td>
   </tr>
   <tr class="alt">
     <td>10</td>
     <td class="center">$1M - $2M</td>
-    <td>$20,000.00</td>
+    <td>$20,000</td>
   </tr>
   <tr>
     <td>11</td>
     <td class="center">&gt;$2M</td>
-    <td>$25,000.00</td>
+    <td>$25,000</td>
   </tr></tbody>
   </table>
     </div>
