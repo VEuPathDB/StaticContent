@@ -36,9 +36,13 @@ tags: [general]
       border-radius: .5em;
       border: 1px solid lightblue;
       background: #e6f7fd78;
-      padding: 0 1em 0;
+      padding: 0 1em 0.5em;
       margin-left: 2em;
       min-width: 30em;
+
+      p {
+        margin-bottom:0;
+      }
     }
     div.column2 {
       position:relative;
