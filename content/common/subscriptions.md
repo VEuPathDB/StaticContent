@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Subscription Information
-permalink: subscriptions-new
+permalink: subscriptions
 tags: [general]
 ---
 <style>
