@@ -112,7 +112,7 @@ tags: [general]
       border-radius: .5em;
       border: 1px solid lightblue;
       background: lightblue;
-      padding: 0 1em 0;
+      padding: 0 1em 0.8em;
       margin-left: 2em;
       margin-top: 1em;
       div {
@@ -132,6 +132,9 @@ tags: [general]
       padding: 0 1em 0;
       margin-left: 4em;
       margin-top: 1em;
+      p {
+        margin: 0.5em 0 0.5em;;
+      }
     }
 
     .button-3 {
