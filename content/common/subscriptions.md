@@ -39,7 +39,7 @@ tags: [general]
       background: #e6f7fd78;
       padding: 0 1em 0.5em;
       margin-left: 2em;
-      min-width: 30em;
+      min-width: 33em;
 
       p {
         margin-bottom:0;
@@ -91,6 +91,9 @@ tags: [general]
       padding-bottom: 0.5em;
     }
 
+    table {
+      font-size: 85%;
+    }
     td {
       text-align: right;
       padding: 0.10em 0.4em;
