@@ -6,6 +6,7 @@ tags: [general]
 ---
 <style>
   h1 {
+    font-size: 2.5em;
     margin-bottom:0;
     padding-bottom:0;
     padding-top:0;
@@ -37,6 +38,7 @@ tags: [general]
       background: #e6f7fd78;
       padding: 0 1em 0;
       margin-left: 2em;
+      min-width: 26em;
     }
     div.column2 {
       position:relative;
@@ -85,7 +87,7 @@ tags: [general]
 
     td {
       text-align: right;
-      padding: 0.10em 1em;
+      padding: 0.10em 0.4em;
     }
     thead td {
       font-weight: bold;
@@ -112,6 +114,7 @@ tags: [general]
         justify-content: center;
         align-items: center;
       }
+     min-width: 26em;
     }
     div.column4 {
       position:relative;
