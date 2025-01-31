@@ -37,10 +37,7 @@ tags: [general]
       padding: 0 1em 0.5em;
       margin-left: 2em;
       min-width: 33em;
-
-      p {
-        margin-bottom:0;
-      }
+      p {margin:0;}
     }
     div.column2 {
       position:relative;
@@ -51,7 +48,7 @@ tags: [general]
       background: #fdf9e696;
       padding: 0 1em 0;
       margin-left: 4em;
-
+      p {margin:0;}
       li li {
         font-size: smaller;
         padding: 0;
@@ -274,8 +271,7 @@ tags: [general]
     <p>If your organization falls into one of the following categories, please
       <a href="mailto:subscriptions@veupathdb.org">contact us</a> for more options.</p>
     <ul>
-        <li>Institutional non-profits <span class="small">(based on aggregate institutional users)</span>
-        </li>
+        <li style="padding:top:1em">Institutional non-profits <span class="small">(based on aggregate institutional users)</span></li>
         <li>Industry rates <span class="small">(revenue-based)</span>
           <ul>
             <li>small</li>
