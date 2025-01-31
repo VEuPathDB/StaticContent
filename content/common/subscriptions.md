@@ -38,7 +38,7 @@ tags: [general]
       background: #e6f7fd78;
       padding: 0 1em 0;
       margin-left: 2em;
-      min-width: 26em;
+      min-width: 30em;
     }
     div.column2 {
       position:relative;
@@ -63,7 +63,15 @@ tags: [general]
         padding-bottom: 0.5em; 
       } 
     }
-    
+   
+    div.column11 {
+      flex: 0 0 50%;
+    }
+    div.column12 {
+      flex: 0 0 auto;
+      margin-left: 1em;
+    }
+ 
     .column11 li {
       padding-top: 1.5em;
       padding-bottom: 0.5em;
@@ -76,13 +84,6 @@ tags: [general]
     .column2 li {
       padding-top: 0.7em;
       padding-bottom: 0.5em;
-    }
-
-    div.column11 {
-      flex: 0 0 40%;
-    }
-    div.column12 {
-      flex: 0 0 auto;
     }
 
     td {
