@@ -194,7 +194,7 @@ tags: [general]
     <div class="column11">
     <ul>
       <li>Select a tier - <span class="small">based on your total lab budget, including all grants, salaries, studentships, etc</span> </li>
-      <li>... or use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">private fee calculator</a> to determine your subscription rate, based on lab budget and resource usage
+      <li>... or use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> to privately determine your subscription rate, based on lab budget and resource usage
         <span class="small">(privately; lab & budget details are not stored or transmitted to VEuPathDB)</span></li>
     </ul>
     </div>
