@@ -16,7 +16,7 @@ tags: [general]
     font-size:150%;
  
     h2 {
-      font-size: 90%;
+      font-size: 1.5em;
       font-weight:400;
       padding-bottom:0.5em;
     }
@@ -135,7 +135,7 @@ tags: [general]
     }
 
     .button-3 {
-      font-size: 140%;
+      font-size: 130%;
       background-color: green;
       border: 0.15em solid green;
       border-radius: 8px;
