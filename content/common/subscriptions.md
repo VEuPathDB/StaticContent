@@ -13,9 +13,10 @@ tags: [general]
   }
 
   div.static-content {
-    font-size:110%;
+    font-size:150%;
  
     h2 {
+      font-size: 90%;
       font-weight:400;
       padding-bottom:0.5em;
     }
@@ -81,7 +82,7 @@ tags: [general]
       padding-bottom: 0.5em;
     }
     .column11 ul {
-      padding-left: 1em;
+      padding-left: 0;
       margin-top: 0;
     }
 
