@@ -213,7 +213,7 @@ tags: [general]
   <table>
   <thead><tr>
     <td>Tier</td>
-    <td>Lab budget</td>
+    <td class="center">Lab budget</td>
     <td>Invoice</td>
   </tr></thead>
   <tbody><tr>
