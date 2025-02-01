@@ -69,13 +69,10 @@ tags: [general]
       margin: 1em 2em 1em;
     }
 
-    table {
+    table { margin-left: 2em; }
+    tbody td {
       font-size: smaller;
-      font-weight:400;
-      padding: 0 2em;
-      margin-left: 2em;
-    }
-    td {
+      text-align: right;
       padding: 0.10em 1em;
     }
     thead td {
