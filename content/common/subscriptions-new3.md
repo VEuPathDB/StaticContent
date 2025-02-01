@@ -155,7 +155,7 @@ tags: [general]
     <div class="column11">
       <div><div class="number" style="display:inline-block">1</div><div style="display:inline-block"><h4>Determine costs</h4></div></div>
       <ol type="A">
-        <li>Select a tier based on your lab's budget and resource usage: 
+        <li>Select a tier based on your lab's budget: 
 
   <table>
   <thead><tr>
