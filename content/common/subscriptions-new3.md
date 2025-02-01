@@ -31,10 +31,6 @@ tags: [general]
       border-radius: .5em;
       border: 1px solid lightblue;
       background: #e6f7fd78;
-      padding: 1em;
-      margin: 1em 2em 2em;   
-      min-width: 52em;
- 
       div.column11 {
         flex: 0 0 50%;
         ol { list-style:none; }
@@ -48,18 +44,16 @@ tags: [general]
         max-width: 26em;
       }
     }
-
     div.column2 {
-      width: 50%;
-    }
-    div.column21 {
       border-radius: .5em;
       border: 1px solid #dbb667a6;
       background: #fdf9e696;
+    }
+    div.column1, div.column2 {
+      min-width: 52em;
       padding: 1em;
       margin: 1em 2em 2em;
     }
-
 
     table {
       font-size: smaller;
@@ -150,7 +144,7 @@ tags: [general]
 
   <div class="column1">
 
-    <div style="display:flex;min-width:fit-content">
+    <div style="display:flex">
     <div class="column11">
       <div><div class="number" style="display:inline-block">1</div><div style="display:inline-block"><h4>Determine costs</h4></div></div>
       <ol type="A">
@@ -243,10 +237,8 @@ tags: [general]
   </div>
 
 
-  <div class="column2">
   <h3>If you are not part of a research group,</h3>
-
-  <div class="column21">     
+  <div class="column2">     
     <p>If your organization falls into one of the following categories, please <a href="mailto:subscriptions@veupathdb.org">contact us</a>
       for more options.</p>
       <ul>
@@ -255,10 +247,10 @@ tags: [general]
         <li>Teaching based</li>
       </ul>
   </div>
-  </div>
 
-    <h3>Additional questions?</h3>
-    <p>Please see <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> or <a href="/a/app/contact-us">Contact Us</a>.</p>
+
+  <h3>Additional questions?</h3>
+  <p>Please see <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> or <a href="/a/app/contact-us">Contact Us</a>.</p>
 
 
 </div>
