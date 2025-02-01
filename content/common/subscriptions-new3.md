@@ -39,6 +39,10 @@ tags: [general]
           font-weight: 600;
         }
       }
+      div.column112 {
+        flex: 0 0 2px%;
+        background: lightblue;
+      }
       div.column12 {
         flex: 0 0 auto;
         margin-left: 2em;
@@ -223,6 +227,8 @@ tags: [general]
     </ol>
 
     </div>
+
+    <div class="column112"></div>    
 
     <div class="column12">
       <div><div class="number" style="display:inline-block">2</div><div style="display:inline-block"><h4>Generate invoice</h4></div></div>
