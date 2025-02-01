@@ -66,7 +66,7 @@ tags: [general]
     }
     div.column1, div.column2 {
       min-width: 64em;
-      margin: 1em 2em 2em;
+      margin: 1em 2em 1em;
     }
 
     table {
