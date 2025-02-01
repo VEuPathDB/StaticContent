@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Subscription Information
-permalink: subscriptions-new3
+permalink: subscriptions-new4
 tags: [general]
 ---
 <style>
@@ -57,9 +57,18 @@ tags: [general]
       border: 1px solid #dbb667a6;
       background: #fdf9e696;
       padding: 1em;
-      margin: 1em 2em 2em;
+      margin: 1em 2em 1em;
     }
 
+    div.column3 {
+     flex: 0 0 auto;
+     margin-left: 2em;
+     border-radius: .5em;
+     border: 4px solid #dbb667a6;
+     padding: 1em;
+     position: relative;
+     left: 9em;
+    }
 
     table {
       font-size: smaller;
@@ -243,6 +252,8 @@ tags: [general]
   </div>
 
 
+  <div style="display: flex">
+
   <div class="column2">
   <h3>If you are not part of a research group,</h3>
 
@@ -257,8 +268,12 @@ tags: [general]
   </div>
   </div>
 
-    <h3>Additional questions?</h3>
-    <p>Please see <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> or <a href="/a/app/contact-us">Contact Us</a>.</p>
+  <div class="column3">
+    <h2>Additional questions?</h2>
+    <br><p><i>Please see <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> or <a href="/a/app/contact-us">Contact Us</a>.
+      </i></p>
+    </div>
+  </div>
 
 
 </div>
