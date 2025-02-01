@@ -32,7 +32,7 @@ tags: [general]
       border: 1px solid lightblue;
       background: #e6f7fd78;
       padding: 1em;
-      margin: 2em;   
+      margin: 1em 2em 2em;   
       min-width: 52em;
  
       div.column11 {
@@ -57,7 +57,7 @@ tags: [general]
       border: 1px solid #dbb667a6;
       background: #fdf9e696;
       padding: 1em;
-      margin: 2em 2em 1em;
+      margin: 1em 2em 1em;
     }
 
     div.column3 {
