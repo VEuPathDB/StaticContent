@@ -40,7 +40,7 @@ tags: [general]
         }
       }
       div.column112 {
-        flex: 0 0 2px%;
+        flex: 0 0 1px;
         background: lightblue;
       }
       div.column12 {
@@ -222,8 +222,10 @@ tags: [general]
 
       <li style="font-size:150%;font-weight:400;padding-bottom:1em">OR</li> 
 
-      <li>Calculate fees:<br><span style="font-weight:400;padding-top:1em">Use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> to privately determine your subscription rate, based on your lab's budget and resource usage.
-      </span></li>
+      <li>Calculate fees:
+        <div style="font-weight:400;padding-top:1em;padding-right:1em">
+          Use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> to privately determine your subscription rate, based on your lab's budget and resource usage.
+        </div></li>
     </ol>
 
     </div>
@@ -232,6 +234,8 @@ tags: [general]
 
     <div class="column12">
       <div><div class="number" style="display:inline-block">2</div><div style="display:inline-block"><h4>Generate invoice</h4></div></div>
+
+      <div style="margin-left:2em">
       <p>Click the button below and provide your information along with the value determined in step 1.</p>
 
       <div style="display: flex;justify-content: center;align-items: center;"><button class="button-3"><a href="/a/app/static-content/invoice.html" rel="noopener noreferrer">
@@ -240,6 +244,7 @@ tags: [general]
 <br>
       <p>That's it! An email will be on its way with your generated invoice.</p>
       <p>Thank you for your support of VEuPathDB.</p>
+      </div>
     </div>
 
     </div>
