@@ -64,7 +64,7 @@ tags: [general]
       background: #fdf9e696;
     }
     div.column1, div.column2 {
-      min-width: 57em;
+      min-width: 64em;
       margin: 1em 2em 2em;
     }
 
