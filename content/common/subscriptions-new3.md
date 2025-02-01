@@ -14,7 +14,6 @@ tags: [general]
  
     h2 {
       font-weight:500;
-      padding-bottom: 0.5em;
     }
     h3 {
       font-weight:500;
@@ -40,7 +39,7 @@ tags: [general]
         flex: 0 0 50%;
         ol { list-style:none; }
         ol li {
-          font-weight: 800;
+          font-weight: 600;
         }
       }
       div.column12 {
@@ -58,7 +57,7 @@ tags: [general]
       border: 1px solid #dbb667a6;
       background: #fdf9e696;
       padding: 1em;
-      margin: 2em;
+      margin: 2em 2em 1em;
     }
 
     div.column3 {
@@ -68,6 +67,7 @@ tags: [general]
 
     table {
       font-size: smaller;
+      font-weight:400;
       margin: 1em 0em 2em;
       padding: 1em 1em;
     }
@@ -225,7 +225,7 @@ tags: [general]
 
       </li>
       <li style="padding-bottom:1em">OR</li> 
-      <li>Calculate fees:<br><span style="font-weight:300;padding-top:1em">Use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> to privately determine your subscription rate, based on lab budget and resource usage.
+      <li>Calculate fees:<br><span style="font-weight:400;padding-top:1em">Use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> to privately determine your subscription rate, based on lab budget and resource usage.
       </span></li>
     </ol>
 
@@ -265,7 +265,7 @@ tags: [general]
 
   <div class="column3">
     <h2>Additional questions?</h2>
-    <p><i>Please see <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> or <a href="/a/app/contact-us">Contact Us</a>.
+    <br><p><i>Please see <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> or <a href="/a/app/contact-us">Contact Us</a>.
       </i></p>
     </div>
   </div>
