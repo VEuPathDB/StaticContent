@@ -6,8 +6,10 @@ tags: [general]
 ---
 <style>
   h1 {
+    font-size: 2.5em;
     margin-bottom:0;
-    padding-bottom: 0;
+    padding-bottom:0;
+    padding-top:0;
   }
   div.static-content {
     font-size:120%;
@@ -78,7 +80,7 @@ tags: [general]
       background-color: green;
       border: 0.15em solid green;
       border-radius: 8px;
-      box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
+      /* box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset; */
       box-sizing: border-box;
       color: white;
       cursor: pointer;
@@ -145,7 +147,7 @@ tags: [general]
 
 
   <h2>Begin your subscription</h2>
-  <h3>If you are part of a <span style="color:#5593bf">research group</span>, follow these steps:</h3>
+  <h3 style="padding-top: 0.25em">If you are part of a <span style="color:#5593bf">research group</span>, follow these steps:</h3>
 
   <div class="column1">
 
