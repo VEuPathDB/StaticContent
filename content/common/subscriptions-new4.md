@@ -36,6 +36,7 @@ tags: [general]
       background: #e6f7fd78;
       div.column11 {
         flex: 0 0 30%;
+        margin-bottom: 1em;
       }
       div.column112 {
         flex: 0 0 5%;
