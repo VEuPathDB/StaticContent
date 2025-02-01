@@ -6,8 +6,10 @@ tags: [general]
 ---
 <style>
   h1 {
+    font-size: 2.5em;
     margin-bottom:0;
-    padding-bottom: 0;
+    padding-bottom:0;
+    padding-top:0;
   }
   div.static-content {
     font-size:120%;
@@ -20,27 +22,34 @@ tags: [general]
       margin-bottom: 0.4em;
     }
     h4 {
-      font-size: 120%;
+      font-size: 130%;
       color: #5593bf;
-      margin: 0 0 1em;
+      margin: 0;
     }
     div.top {
       line-height: 1.6em;
     }    
     div.column1 {
+      padding: 1em;
       border-radius: .5em;
       border: 1px solid lightblue;
       background: #e6f7fd78;
-      padding: 1em;
-      margin: 1em 2em 2em;   
-      min-width: 52em;
- 
       div.column11 {
-        flex: 0 0 50%;
-        ol { list-style:none; }
-        ol li {
-          font-weight: 600;
-        }
+        flex: 0 0 30%;
+      }
+      div.column112 {
+        flex: 0 0 5%;
+        margin-top: 0.8em;
+        margin-right: 1em;
+        text-align: center;
+      }
+      div.column113 {
+        flex: 0 0 20%;
+        margin-top: 1.7em;
+      }
+      div.column114 {
+        flex: 0 0 1px;
+        background: lightblue;
       }
       div.column12 {
         flex: 0 0 auto;
@@ -48,33 +57,21 @@ tags: [general]
         max-width: 26em;
       }
     }
-
     div.column2 {
-      width: 50%;
-    }
-    div.column21 {
+      padding: 0 1em 2em;
       border-radius: .5em;
       border: 1px solid #dbb667a6;
       background: #fdf9e696;
-      padding: 1em;
-      margin: 1em 2em 1em;
     }
-
-    div.column3 {
-     flex: 0 0 auto;
-     margin-left: 2em;
-     border-radius: .5em;
-     border: 4px solid #dbb667a6;
-     padding: 1em;
-     position: relative;
-     left: 9em;
+    div.column1, div.column2 {
+      min-width: 57em;
+      margin: 1em 2em 2em;
     }
 
     table {
       font-size: smaller;
       font-weight:400;
-      margin: 1em 0em 2em;
-      padding: 1em 1em;
+      padding: 0 2em;
     }
     td {
       padding: 0.10em 1em;
@@ -88,7 +85,7 @@ tags: [general]
       background-color: green;
       border: 0.15em solid green;
       border-radius: 8px;
-      box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
+      /* box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset; */
       box-sizing: border-box;
       color: white;
       cursor: pointer;
@@ -143,7 +140,7 @@ tags: [general]
   }
 </style>
 
-<h1>VEuPathDB Subscription Pricing</h1>
+<h1>VEuPathDB Subscription Service</h1>
 
 <div class="static-content">
 
@@ -155,15 +152,14 @@ tags: [general]
 
 
   <h2>Begin your subscription</h2>
-  <h3>If you are part of a <span style="color:#5593bf">research group</span>, follow these steps:</h3>
+  <h3 style="padding-top: 0.25em">If you are part of a <span style="color:#5593bf">research group</span>, follow these steps:</h3>
 
   <div class="column1">
 
-    <div style="display:flex;min-width:fit-content">
+    <div style="display:flex">
     <div class="column11">
       <div><div class="number" style="display:inline-block">1</div><div style="display:inline-block"><h4>Determine costs</h4></div></div>
-      <ol type="A">
-        <li>Select a tier based on your lab's budget and resource usage: 
+      <p style="font-weight:600;margin-left:2em">Select a tier based on your lab's budget:</p> 
 
   <table>
   <thead><tr>
@@ -228,16 +224,25 @@ tags: [general]
   </tr></tbody>
   </table>
 
-      </li>
-      <li style="padding-bottom:1em">OR</li> 
-      <li>Calculate fees:<br><span style="font-weight:400;padding-top:1em">Use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> to privately determine your subscription rate, based on lab budget and resource usage.
-      </span></li>
-    </ol>
-
     </div>
+
+    <div class="column112">
+      <p style="font-size:150%">OR</p>
+    </div>
+
+    <div class="column113">
+      <p style="font-weight:600">Calculate fees:</p>
+      <div style="font-weight:400;padding-right:1em">
+        Use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> to privately determine your subscription rate, based on your lab's budget and resource usage.
+      </div>
+    </div>
+
+    <div class="column114"></div>    
 
     <div class="column12">
       <div><div class="number" style="display:inline-block">2</div><div style="display:inline-block"><h4>Generate invoice</h4></div></div>
+
+      <div style="margin-left:2em">
       <p>Click the button below and provide your information along with the value determined in step 1.</p>
 
       <div style="display: flex;justify-content: center;align-items: center;"><button class="button-3"><a href="/a/app/static-content/invoice.html" rel="noopener noreferrer">
@@ -246,18 +251,15 @@ tags: [general]
 <br>
       <p>That's it! An email will be on its way with your generated invoice.</p>
       <p>Thank you for your support of VEuPathDB.</p>
+      </div>
     </div>
 
     </div>
   </div>
 
 
-  <div style="display: flex">
-
-  <div class="column2">
   <h3>If you are not part of a research group,</h3>
-
-  <div class="column21">     
+  <div class="column2">     
     <p>If your organization falls into one of the following categories, please <a href="mailto:subscriptions@veupathdb.org">contact us</a>
       for more options.</p>
       <ul>
@@ -266,14 +268,10 @@ tags: [general]
         <li>Teaching based</li>
       </ul>
   </div>
-  </div>
 
-  <div class="column3">
-    <h2>Additional questions?</h2>
-    <br><p><i>Please see <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> or <a href="/a/app/contact-us">Contact Us</a>.
-      </i></p>
-    </div>
-  </div>
+
+  <h3>Additional questions?</h3>
+  <p>Please see <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> or <a href="/a/app/contact-us">Contact Us</a>.</p>
 
 
 </div>
