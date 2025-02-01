@@ -133,7 +133,7 @@ tags: [general]
   }
 </style>
 
-<h1>VEuPathDB Subscription Pricing</h1>
+<h1>VEuPathDB Subscription Service</h1>
 
 <div class="static-content">
 
