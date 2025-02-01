@@ -39,13 +39,13 @@ tags: [general]
       }
       div.column112 {
         flex: 0 0 5%;
-        margin-top: 0.8em;
+        margin-top: 2.2em;
         margin-right: 1em;
         text-align: center;
       }
       div.column113 {
         flex: 0 0 20%;
-        margin-top: 1.7em;
+        margin-top: 3em;
       }
       div.column114 {
         flex: 0 0 1px;
@@ -72,6 +72,7 @@ tags: [general]
       font-size: smaller;
       font-weight:400;
       padding: 0 2em;
+      margin-left: 2em;
     }
     td {
       padding: 0.10em 1em;
@@ -233,7 +234,7 @@ tags: [general]
     <div class="column113">
       <p style="font-weight:600">Calculate fees:</p>
       <div style="font-weight:400;padding-right:1em">
-        Use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> to privately determine your subscription rate, based on your lab's budget and resource usage.
+        Use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer"><b>fee calculator</b></a> to privately determine your subscription rate, based on your lab's budget and resource usage.
       </div>
     </div>
 
