@@ -28,6 +28,7 @@ tags: [general]
       line-height: 1.6em;
     }    
     div.column1 {
+      padding: 1em;
       border-radius: .5em;
       border: 1px solid lightblue;
       background: #e6f7fd78;
@@ -45,13 +46,13 @@ tags: [general]
       }
     }
     div.column2 {
+      padding: 0 1em 2em;
       border-radius: .5em;
       border: 1px solid #dbb667a6;
       background: #fdf9e696;
     }
     div.column1, div.column2 {
       min-width: 57em;
-      padding: 1em;
       margin: 1em 2em 2em;
     }
 
