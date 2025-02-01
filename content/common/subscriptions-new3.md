@@ -22,7 +22,7 @@ tags: [general]
       margin-bottom: 0.4em;
     }
     h4 {
-      font-size: 120%;
+      font-size: 130%;
       color: #5593bf;
       margin: 0;
     }
