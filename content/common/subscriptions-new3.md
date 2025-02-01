@@ -22,7 +22,7 @@ tags: [general]
     h4 {
       font-size: 120%;
       color: #5593bf;
-      margin: 0 0 1em;
+      margin: 0;
     }
     div.top {
       line-height: 1.6em;
@@ -215,8 +215,10 @@ tags: [general]
   </table>
 
       </li>
+
       <li style="font-size:150%;font-weight:400;padding-bottom:1em">OR</li> 
-      <li>Calculate fees:<br><span style="font-weight:400;padding-top:1em">Use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> to privately determine your subscription rate, based on lab budget and resource usage.
+
+      <li>Calculate fees:<br><span style="font-weight:400;padding-top:1em">Use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> to privately determine your subscription rate, based on your lab's budget and resource usage.
       </span></li>
     </ol>
 
