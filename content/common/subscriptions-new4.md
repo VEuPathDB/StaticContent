@@ -29,12 +29,28 @@ tags: [general]
     div.top {
       line-height: 1.6em;
     }    
-    div.column1 {
+    div.column1 {              /* blue div for research groups */
       padding: 1em;
       border-radius: .5em;
       border: 1px solid lightblue;
       background: #e6f7fd78;
-      div.column11 {
+      div.number {             /* steps 1 and 2 in column11 and column12*/
+        margin-right: 1em;
+        display: inline-block;
+        width: 25px;
+        height: 25px;
+        line-height: 25px;
+        color: rgb(64, 138, 191);
+        border: 2px solid rgb(64, 138, 191);
+        border-radius: 25px;
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+        box-sizing: content-box;
+        user-select: none;
+      }
+
+      div.column11 {           /* pricing */
         flex: 0 0 30%;
         margin-bottom: 1em;
       }
@@ -48,17 +64,18 @@ tags: [general]
         flex: 0 0 20%;
         margin-top: 3em;
       }
-      div.column114 {
+      div.column114 {          /* separator */
         flex: 0 0 1px;
         background: lightblue;
       }
-      div.column12 {
+      div.column12 {           /* green button */
         flex: 0 0 auto;
         margin-left: 2em;
         max-width: 26em;
       }
     }
-    div.column2 {
+
+    div.column2 {              /* yellow div for other groups with no clear pricing */
       padding: 0 1em 2em;
       border-radius: .5em;
       border: 1px solid #dbb667a6;
@@ -69,11 +86,11 @@ tags: [general]
       margin: 1em 2em 1em;
     }
 
-    table { margin-left: 2em; }
+    table { margin-left: 2em; }   /* in column11 */
     tbody td {
       font-size: smaller;
       text-align: right;
-      padding: 0.10em 1em;
+      padding: 0.10em 2em 0.10em 0;
     }
     thead td {
       font-weight: bold;
@@ -83,7 +100,8 @@ tags: [general]
     td.center {
       text-align: center;
     }
-    .button-3 {
+
+    .button-3 {                   /* in column12 */
       font-size: 120%;
       background-color: green;
       border: 0.15em solid green;
@@ -99,46 +117,30 @@ tags: [general]
       touch-action: manipulation;
       vertical-align: middle;
     }
-
-.button-3:focus:not(:focus-visible):not(.focus-visible) {
-  box-shadow: none;
-  outline: none;
-}
-
-.button-3:hover {
-  background-color: #2c974b;
-}
-
-.button-3:focus {
-  box-shadow: rgba(46, 164, 79, .4) 0 0 0 3px;
-  outline: none;
-}
-
-.button-3:disabled {
-  background-color: #94d3a2;
-  border-color: rgba(27, 31, 35, .1);
-  color: rgba(255, 255, 255, .8);
-  cursor: default;
-}
-
-.button-3:active {
-  background-color: #298e46;
-  box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
-}
-
+    .button-3:focus:not(:focus-visible):not(.focus-visible) {
+      box-shadow: none;
+      outline: none;
+    }
+    .button-3:hover {
+      background-color: #2c974b;
+    }
+    .button-3:focus {
+      box-shadow: rgba(46, 164, 79, .4) 0 0 0 3px;
+      outline: none;
+    }
+    .button-3:disabled {
+      background-color: #94d3a2;
+      border-color: rgba(27, 31, 35, .1);
+      color: rgba(255, 255, 255, .8);
+      cursor: default;
+    }
+    .button-3:active {
+      background-color: #298e46;
+      box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+    }
     .button-3 a {
       text-decoration: none;
       color: white;
-    }
-    div.small {
-      text-align: center;
-      font-size:85%;
-      font-style:italic;
-      padding-top: 0.5em;
-    }
-    div.number {
-      margin-right: 1em;
-      display: inline-block;width: 25px;height: 25px;line-height: 25px;color: rgb(64, 138, 191);border: 2px solid rgb(64, 138, 191);border-radius: 25px;font-size: 18px;font-weight: bold;text-align: center;box-sizing: content-box;user-select: none;
     }
   }
 </style>
