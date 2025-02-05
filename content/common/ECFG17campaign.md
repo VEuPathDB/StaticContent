@@ -98,7 +98,7 @@ tags: [workshop-exercise]
         <li>Enhance searchability and visibility of gene data.</li>
         <li>Benefit the research community by keeping information up to date.</li>
       </ul>
-      <img class="image-frame right-image" src="{{ "/assets/images/fungidb/2024fgc_mug_shirt.png" | absolute_url }}" alt="2024FGCmug"/>
+      <img class="image-frame right-image" src="{{ "/assets/images/fungidb/ecfg17ucc.png" | absolute_url }}" alt="ECFG17UCC"/>
 
       <h4>How to Participate:</h4>
       <ol>
