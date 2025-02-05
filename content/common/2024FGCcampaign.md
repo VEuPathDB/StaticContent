@@ -78,8 +78,6 @@ tags: [workshop-exercise]
     float: right;
     margin-left: 1.5em;
     width: 40%;
-    display: inline-block;
-    clear: both;
   }
   .wide-left-image {
     display: block;
@@ -97,7 +95,7 @@ tags: [workshop-exercise]
 
   <div class="contents">
     <div class="workshop">
-      <p style="color: maroon;">We’re thrilled to invite you to the FungiDB User Comments and Gene Annotation Campaign! This initiative coincides with the 32nd Fungal Genetics Conference (FGC) in Asilomar, USA.</p>
+      <p>We’re thrilled to invite you to the FungiDB User Comments and Gene Annotation Campaign! This initiative coincides with the 32nd Fungal Genetics Conference (FGC) in Asilomar, USA.</p>
       
       <h4>Your Contributions Matter! They:</h4>
       <ul>

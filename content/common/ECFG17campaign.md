@@ -74,9 +74,16 @@ tags: [workshop-exercise]
     margin: 1em auto;
     max-width: 100%;
   }
-  .wide-image {
+  .right-image {
+    float: right;
+    margin-left: 1.5em;
+    width: 45%;
     display: block;
-    margin: 1.5em auto;
+    clear: none;
+  }
+  .wide-left-image {
+    display: block;
+    margin: 1.5em 0;
     width: 80%;
   }
 </style>
@@ -90,7 +97,7 @@ tags: [workshop-exercise]
 
   <div class="contents">
     <div class="workshop">
-      <p>We’re thrilled to invite you to the FungiDB User Comments and Gene Annotation Campaign, which coincides with the 17th European Conference on Fungal Genetics (ECFG17) in Dublin, Ireland.</p>
+      <p style="color: maroon;">We’re thrilled to invite you to the FungiDB User Comments and Gene Annotation Campaign! This initiative coincides with the 32nd Fungal Genetics Conference (FGC) in Asilomar, USA.</p>
       
       <h4>Your Contributions Matter! They:</h4>
       <ul>
@@ -98,7 +105,7 @@ tags: [workshop-exercise]
         <li>Increase the accessibility and visibility of gene data for researchers worldwide.</li>
         <li>Support the scientific community by ensuring gene information remains current and reliable.</li>
       </ul>
-      <img class="image-frame wide-image" src="{{ "/assets/images/fungidb/ecfg17ucc.png" | absolute_url }}" alt="ECFG17UCC"/>
+      <img class="image-frame right-image" src="{{ "/assets/images/fungidb/ecfg17ucc.png" | absolute_url }}" alt="ECFG17UCC"/>
 
       <h4>How to Participate:</h4>
       <ol>
@@ -113,7 +120,7 @@ tags: [workshop-exercise]
         <li>Navigate to the relevant gene record page.</li>
         <li>Click "Add a user comment" and fill out the form.</li>
       </ul>
-      <img class="image-frame" src="{{ "/assets/images/fungidb/ECFG17uc.png" | absolute_url }}" alt="User Comment Form"/>
+      <img class="image-frame wide-left-image" src="{{ "/assets/images/fungidb/ECFG17uc.png" | absolute_url }}" alt="User Comment Form"/>
 
       <h4>How to Modify Gene Models in Apollo</h4>
       <ul>
@@ -121,7 +128,7 @@ tags: [workshop-exercise]
         <li>Go to the gene record page.</li>
         <li>Click "View & update community annotation in Apollo" and make changes.</li>
       </ul>
-      <img class="image-frame" src="{{ "/assets/images/fungidb/apollo1ecfg16.png" | absolute_url }}" alt="Apollo Editing Example"/>
+      <img class="image-frame" style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo1ecfg16.png" | absolute_url }}" alt="Apollo Editing Example"/>
       <img class="image-frame" src="{{ "/assets/images/fungidb/apollo2ecfg16.png" | absolute_url }}" alt="Apollo Editing Example 2"/>
 
       <h4>Bulk Submissions</h4>
