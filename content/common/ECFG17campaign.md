@@ -79,6 +79,11 @@ tags: [workshop-exercise]
     margin-left: 1.5em;
     width: 40%;
   }
+  .left-image {
+    float: left;
+    margin-right: 1.5em;
+    width: 30%;
+  }
 </style>
 
 <p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a></p>
@@ -113,7 +118,7 @@ tags: [workshop-exercise]
         <li>Navigate to the relevant gene record page.</li>
         <li>Click "Add a user comment" and fill out the form.</li>
       </ul>
-      <img class="image-frame" src="{{ "/assets/images/fungidb/ECFG17uc.png" | absolute_url }}" alt="User Comment Form"/>
+      <img class="image-frame left-image" src="{{ "/assets/images/fungidb/ECFG17uc.png" | absolute_url }}" alt="User Comment Form"/>
 
       <h4>How to Modify Gene Models in Apollo</h4>
       <ul>
@@ -129,7 +134,6 @@ tags: [workshop-exercise]
       
      <h4>Join the Challenge!</h4>
       <p>Which fungal community will contribute the most? <a href="https://twitter.com/fungidb">Tweet your progress</a> and see who gets featured!</p>
-
 
       <p><b>Need Help?</b> Visit our <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> or <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a>.</p>
     </div>
