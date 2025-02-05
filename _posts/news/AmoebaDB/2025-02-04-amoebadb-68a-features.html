@@ -7,25 +7,39 @@ category: [AmoebaDB,VEuPathDB]
 
 <style>
 
-
-.newswrapper {
-  font-size: 120%;
-  align-items: center;
-
-  display: grid;
-  grid-template-columns: 50%;
-  gap: 10px;
-  grid-auto-rows: minmax(5em, auto);
-  grid-row-gap: 2em;
-
-   div.center {
-     text-align: center;
-     vertical-align: center;
-   }
-
-  img { 
-    width: 23em;
+.static-content {
+  h3 {
+    font-size: 200%;
   }
+
+  .newswrapper {
+  
+    font-size: 120%;
+
+    display: grid;
+    grid-template-columns: 50%;
+    gap: 10px;
+    grid-auto-rows: minmax(5em, auto);
+    grid-row-gap: 2em;
+
+    div.center {
+      text-align: center;
+    }
+    div.imgleft {
+      text-align: left;
+    }
+    div.imgright {
+      text-align: right;
+    }
+    div.greyback {
+      background: #eeeeee;
+      padding: 1em 2em;
+      border-radius: 1em;
+    }
+
+    img { 
+      width: 23em;
+    }
 
 .one {
   grid-column: 1;
@@ -52,13 +66,16 @@ category: [AmoebaDB,VEuPathDB]
   grid-row: 3;
 }   
 
-}
+}  /* .newswrapper */
+
+} /* .static-content */
+
 </style>
 
 <h3>New Features</h3>
 <div class="newswrapper">
 
-  <div class="one">
+  <div class="one greyback">
     <p><b>Gene Pages</b>: Improvements have been made to the appearance and navigation of gene record pages:</p>
     <ul>
       <li>Gene summary at the top of the page is now left-aligned for clarity.</li>
@@ -69,15 +86,15 @@ category: [AmoebaDB,VEuPathDB]
     </ul>
   </div>
 
-  <div class="two center">
+  <div class="two imgleft">
     <img src="{{'/assets/images/news/genepagenew.png' | absolute_url}}" />
   </div>
 
-  <div class="three center">
-    <img src="{{'/assets/images/news/mydataset.png' | absolute_url}}" />
+  <div class="three imgright">
+    <img width:"50%" src="{{'/assets/images/news/mydataset.png' | absolute_url}}" />
   </div>
 
-  <div class="four">
+  <div class="four greyback">
     <p><b>My Data Sets</b>: New data types supported in My Data Sets, your private data integration component of VEuPathDB. 
       Your <b>BigWig</b> and <b>normalized RNA-Seq</b> data can now be directly uploaded and integrated. 
       See this page for <a href="/a/app/workspace/datasets/help">help with this feature</a> and try it for yourself 
@@ -85,7 +102,7 @@ category: [AmoebaDB,VEuPathDB]
     </p>
   </div>
 
-  <div class="five">
+  <div class="five greyback">
     <p><b>OrthoMCL 7 Beta site release: </b>: 
     </p>
 
@@ -93,7 +110,7 @@ category: [AmoebaDB,VEuPathDB]
     </ul>
   </div>
 
-  <div class="six center">
+  <div class="six imgleft">
     <img src="{{'/assets/images/news/genepagenew.png' | absolute_url}}" />
   </div>
 
