@@ -74,15 +74,10 @@ tags: [workshop-exercise]
     margin: 1em auto;
     max-width: 100%;
   }
-  .right-image {
-    float: right;
-    margin-left: 1.5em;
-    width: 40%;
-  }
-  .left-image {
-    float: left;
-    margin-right: 1.5em;
-    width: 30%;
+  .wide-image {
+    display: block;
+    margin: 1.5em auto;
+    width: 80%;
   }
 </style>
 
@@ -103,7 +98,7 @@ tags: [workshop-exercise]
         <li>Increase the accessibility and visibility of gene data for researchers worldwide.</li>
         <li>Support the scientific community by ensuring gene information remains current and reliable.</li>
       </ul>
-      <img class="image-frame right-image" src="{{ "/assets/images/fungidb/ecfg17ucc.png" | absolute_url }}" alt="ECFG17UCC"/>
+      <img class="image-frame wide-image" src="{{ "/assets/images/fungidb/ecfg17ucc.png" | absolute_url }}" alt="ECFG17UCC"/>
 
       <h4>How to Participate:</h4>
       <ol>
@@ -118,7 +113,7 @@ tags: [workshop-exercise]
         <li>Navigate to the relevant gene record page.</li>
         <li>Click "Add a user comment" and fill out the form.</li>
       </ul>
-      <img class="image-frame left-image" src="{{ "/assets/images/fungidb/ECFG17uc.png" | absolute_url }}" alt="User Comment Form"/>
+      <img class="image-frame" src="{{ "/assets/images/fungidb/ECFG17uc.png" | absolute_url }}" alt="User Comment Form"/>
 
       <h4>How to Modify Gene Models in Apollo</h4>
       <ul>
