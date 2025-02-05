@@ -7,12 +7,25 @@ category: [AmoebaDB,VEuPathDB]
 
 <style>
 
+
 .newswrapper {
   display: grid;
   grid-template-columns: 50%;
   gap: 10px;
   grid-auto-rows: minmax(5em, auto);
   grid-row-gap: 4em;
+
+    div.border {
+      border-radius: .5em;
+      border: 1px solid lightblue;
+      padding: 1em;
+      margin: 1em;
+    }
+
+   div.center {
+     text-align: center;
+     vertical-align: center;
+   }
 
   img { 
     width: 23em;
@@ -25,31 +38,18 @@ category: [AmoebaDB,VEuPathDB]
 .two {
   grid-column: 2;
   grid-row: 1;
-  
-  text-align: center;
-  vertical-align: middle;
-
 }
 .three {
   grid-column: 1;
   grid-row: 2;
-
-  text-align: center;
-  vertical-align: center;
-
 }
 .four {
   grid-column: 2;
   grid-row: 2;
 }
-
 .five {
   grid-column: 1;
   grid-row: 3;
-
-  text-align: center;
-  vertical-align: center;
-
 } 
 .six {
   grid-column: 2;
@@ -62,7 +62,7 @@ category: [AmoebaDB,VEuPathDB]
 <h3>New Features</h3>
 <div class="newswrapper">
 
-  <div class="one">
+  <div class="one border">
     <p><b>Gene Pages</b>: Improvements have been made to the appearance and navigation of gene record pages:</p>
     <ul>
       <li>Gene summary at the top of the page is now left-aligned for clarity.</li>
@@ -73,15 +73,15 @@ category: [AmoebaDB,VEuPathDB]
     </ul>
   </div>
 
-  <div class="two">
+  <div class="two center">
     <img src="{{'/assets/images/news/genepagenew.png' | absolute_url}}" />
   </div>
 
-  <div class="three">
+  <div class="three center">
     <img src="{{'/assets/images/news/mydataset.png' | absolute_url}}" />
   </div>
 
-  <div class="four">
+  <div class="four border">
     <p><b>My Data Sets</b>: New data types supported in My Data Sets, your private data integration component of VEuPathDB. 
       Your <b>BigWig</b> and <b>normalized RNA-Seq</b> data can now be directly uploaded and integrated. 
       See this page for <a href="/a/app/workspace/datasets/help">help with this feature</a> and try it for yourself 
@@ -89,7 +89,7 @@ category: [AmoebaDB,VEuPathDB]
     </p>
   </div>
 
-  <div class="five">
+  <div class="five border">
     <p><b>OrthoMCL 7 Beta site release: </b>: 
     </p>
 
@@ -97,7 +97,7 @@ category: [AmoebaDB,VEuPathDB]
     </ul>
   </div>
 
-  <div class="six">
+  <div class="six center">
     <img src="{{'/assets/images/news/genepagenew.png' | absolute_url}}" />
   </div>
 
@@ -110,11 +110,11 @@ category: [AmoebaDB,VEuPathDB]
 <h3>New Content</h3>
 <div class="newswrapper">
 
-  <div class="one">
+  <div class="one center">
     <img src="{{'/assets/images/news/genepagenew.png' | absolute_url}}" />
   </div>
 
-  <div class="two">
+  <div class="two border">
     <p><b>Updated FAQ:</b>
     </p>
 
