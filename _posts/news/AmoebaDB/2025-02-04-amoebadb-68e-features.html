@@ -31,12 +31,21 @@ category: [AmoebaDB,VEuPathDB]
       text-align: right;
     }
     div.greyback {
-      background: #eeeeee;
+      background: #f5f5f6;
       padding: 1em 2em;
       border-radius: 0.3em;
     }
-
-    img { 
+    div.lightgreyback {
+      background: #f9fafc;
+      padding: 1em 2em;
+      border-radius: 0.3em;
+    }
+    div.title {
+      font-size:165%;
+      font-weight:600;
+      font-style:italic
+    }
+    img {
       width: 23em;
     }
 
@@ -49,8 +58,8 @@ category: [AmoebaDB,VEuPathDB]
 <div style="display:flex">
   
   <div class="column1 greyback">
-
-    <p><b>Gene Pages</b>: Improvements have been made to the appearance and navigation of gene record pages:</p>
+    <div class="title imgright">GENE PAGES</div>
+    <p>We have made improvements to the appearance and navigation of gene record pages:</p>
     <ul>
       <li>Gene summary at the top of the page is now left-aligned for clarity.</li>
       <li>Contents menu on the left of the page: Click on a category to expand and reveal subcategories. 
@@ -72,8 +81,9 @@ category: [AmoebaDB,VEuPathDB]
     <img style="width:50%" src="{{'/assets/images/news/mydataset.png' | absolute_url}}" />
   </div>
 
-  <div class="column1 greyback">
-    <p><b>My Data Sets</b>: New data types supported in My Data Sets, your private data integration component of VEuPathDB. 
+  <div class="column1 lightgreyback">
+    <div class="title imgleft">MY DATA SETS</div>
+    <p>New data types supported in "My Data Sets", your private data integration component of VEuPathDB. 
       Your <b>BigWig</b> and <b>normalized RNA-Seq</b> data can now be directly uploaded and integrated. 
       See this page for <a href="/a/app/workspace/datasets/help">help with this feature</a> and try it for yourself 
       <a href="/a/app/workspace/datasets/new">here</a>.
