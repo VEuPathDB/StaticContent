@@ -85,27 +85,12 @@ tags: [workshop-exercise]
 
 <div class="static-content">
   <div class="centered-title">     
-    <h4><a href="https://fungidb.org">FungiDB</a> User Comments and Gene Annotation Campaign - Now through March 16, 2024</h4>
+    <h4><a href="https://fungidb.org">FungiDB</a> User Comments and Gene Annotation Campaign - Now through March 5, 2025</h4>
   </div>
 
   <div class="contents">
     <div class="workshop">
       <p>We’re thrilled to invite you to the FungiDB User Comments and Gene Annotation Campaign! This initiative coincides with the 32nd Fungal Genetics Conference (FGC) in Asilomar, USA.</p>
-
-      <img class="image-frame right-image" src="{{ "/assets/images/fungidb/2024fgc_mug_shirt.png" | absolute_url }}" alt="2024FGCmug"/>
-
-      <h4>How to Participate:</h4>
-      <ol>
-        <li>Leave a user comment on a gene record page OR enhance structural/functional gene annotation via the Apollo genome editor.</li>
-        <li>Visit the FungiDB help desk during FGC poster sessions to claim your "Got Fungus?" mug. The top 10 contributors will also receive a T-shirt!</li>
-      </ol>
-      <p>Not attending FGC? No worries! Submit a user comment remotely, and have a colleague pick up your mug.</p>
-
-      <h4>Join the Challenge!</h4>
-      <p>Which fungal community will contribute the most? <a href="https://twitter.com/fungidb">Tweet your progress</a> and see who gets featured!</p>
-
-      <h4>Bulk Submissions</h4>
-      <p>Too many comments? Use our <a href="https://tinyurl.com/commentsfungi">bulk submission form</a> and send it via the <a href="https://fungidb.org/fungidb/app/contact-us">FungiDB contact form</a>.</p>
       
       <h4>Why Your Contributions Matter</h4>
       <ul>
@@ -113,7 +98,15 @@ tags: [workshop-exercise]
         <li>Enhance searchability and visibility of gene data.</li>
         <li>Benefit the research community by keeping information up to date.</li>
       </ul>
-      
+      <img class="image-frame right-image" src="{{ "/assets/images/fungidb/2024fgc_mug_shirt.png" | absolute_url }}" alt="2024FGCmug"/>
+
+      <h4>How to Participate:</h4>
+      <ol>
+        <li>Leave a user comment on a gene record page OR enhance structural/functional gene annotation via the Apollo genome editor.</li>
+        <li>Visit the FungiDB help desk during the ECFG17 poster sessions to claim your <b>free "Got Fungus?"</b> mug. The top 10 contributors will also receive a T-shirt!</li>
+      </ol>
+      <p>Not attending FGC? No worries! Submit a user comment remotely, and have a colleague pick up your mug.</p>
+
       <h4>How to Submit a Comment</h4>
       <ul>
         <li>Sign in or register at <a href="https://fungidb.org/fungidb/app/user/registration">FungiDB.org</a>.</li>
@@ -130,6 +123,13 @@ tags: [workshop-exercise]
       </ul>
       <img class="image-frame" src="{{ "/assets/images/fungidb/apollo1ecfg16.png" | absolute_url }}" alt="Apollo Editing Example"/>
       <img class="image-frame" src="{{ "/assets/images/fungidb/apollo2ecfg16.png" | absolute_url }}" alt="Apollo Editing Example 2"/>
+
+      <h4>Bulk Submissions</h4>
+      <p>Have too many comments? Not a problem - use our <a href="https://tinyurl.com/commentsfungi">bulk submission form</a> and send it via the <a href="https://fungidb.org/fungidb/app/contact-us">FungiDB contact form</a>.</p>
+      
+     <h4>Join the Challenge!</h4>
+      <p>Which fungal community will contribute the most? <a href="https://twitter.com/fungidb">Tweet your progress</a> and see who gets featured!</p>
+
 
       <p><b>Need Help?</b> Visit our <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> or <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a>.</p>
     </div>
