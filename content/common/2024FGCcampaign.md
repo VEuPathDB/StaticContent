@@ -93,9 +93,9 @@ tags: [workshop-exercise]
     <h4><a href="https://fungidb.org">FungiDB</a> User Comments and Gene Annotation Campaign - Now through March 5, 2025</h4>
   </div>
 
-<div class="contents">
+  <div class="contents">
     <div class="workshop">
-      <p style="color: maroon;">We’re thrilled to invite you to the FungiDB User Comments and Gene Annotation Campaign! This initiative coincides with the 32nd Fungal Genetics Conference (FGC) in Asilomar, USA.</p>
+      <p>We’re thrilled to invite you to the FungiDB User Comments and Gene Annotation Campaign! This initiative coincides with the 32nd Fungal Genetics Conference (FGC) in Asilomar, USA.</p>
       
       <h4>Your Contributions Matter! They:</h4>
       <ul>
