@@ -12,6 +12,11 @@ category: [AmoebaDB,VEuPathDB]
   grid-template-columns: 50%;
   gap: 10px;
   grid-auto-rows: minmax(5em, auto);
+  grid-row-gap: 4em;
+
+  img { 
+    width: 23em;
+  }
 
 .one {
   grid-column: 1;
@@ -22,11 +27,8 @@ category: [AmoebaDB,VEuPathDB]
   grid-row: 1;
   
   text-align: center;
-  vertical-align: center;
+  vertical-align: middle;
 
-  img {
-
-  }
 }
 .three {
   grid-column: 1;
@@ -40,6 +42,19 @@ category: [AmoebaDB,VEuPathDB]
   grid-column: 2;
   grid-row: 2;
 }
+
+.five {
+  grid-column: 1;
+  grid-row: 3;
+
+  text-align: center;
+  vertical-align: center;
+
+} 
+.six {
+  grid-column: 2;
+  grid-row: 3;
+}   
 
 }
 </style>
@@ -56,30 +71,59 @@ category: [AmoebaDB,VEuPathDB]
       <li>Central navigation pane: Subcategories are now shaded in grey, with visual indicators to show expandable sections.</li>
       <li>Font size and padding have been adjusted for better readability.</li>
     </ul>
-
   </div>
 
   <div class="two">
-
-    <img style="width:15em" src="{{'/assets/images/news/genepagenew.png' | absolute_url}}" />
-
+    <img src="{{'/assets/images/news/genepagenew.png' | absolute_url}}" />
   </div>
 
   <div class="three">
-
-    <img style="width:15em" src="{{'/assets/images/news/mydataset.png' | absolute_url}}" />
-
+    <img src="{{'/assets/images/news/mydataset.png' | absolute_url}}" />
   </div>
 
   <div class="four">
-
     <p><b>My Data Sets</b>: New data types supported in My Data Sets, your private data integration component of VEuPathDB. 
       Your <b>BigWig</b> and <b>normalized RNA-Seq</b> data can now be directly uploaded and integrated. 
       See this page for <a href="/a/app/workspace/datasets/help">help with this feature</a> and try it for yourself 
       <a href="/a/app/workspace/datasets/new">here</a>.
     </p>
+  </div>
 
+  <div class="five">
+    <p><b>OrthoMCL 7 Beta site release: </b>: 
+    </p>
+
+    <ul>
+    </ul>
+  </div>
+
+  <div class="six">
+    <img src="{{'/assets/images/news/genepagenew.png' | absolute_url}}" />
   </div>
 
 </div>
+
+
+<!-- ========================== -->
+
+<br><br>
+<h3>New Content</h3>
+<div class="newswrapper">
+
+  <div class="one">
+    <img src="{{'/assets/images/news/genepagenew.png' | absolute_url}}" />
+  </div>
+
+  <div class="two">
+    <p><b>Updated FAQ:</b>
+    </p>
+
+    <ul>
+    </ul>
+  </div>
+
+</div>
+
+<!-- ========================== -->
+
 
