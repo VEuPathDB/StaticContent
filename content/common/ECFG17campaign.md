@@ -90,7 +90,7 @@ tags: [workshop-exercise]
 
   <div class="contents">
     <div class="workshop">
-      <p>We’re thrilled to invite you to the FungiDB User Comments and Gene Annotation Campaign! This initiative coincides with the 32nd Fungal Genetics Conference (FGC) in Asilomar, USA.</p>
+      <p>We’re thrilled to invite you to the FungiDB User Comments and Gene Annotation Campaign, which coincides with the 17th European Conference on Fungal Genetics (ECFG17) in Dublin, Ireland.</p>
       
       <h4>Your Contributions Matter! They:</h4>
       <ul>
