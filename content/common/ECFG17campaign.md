@@ -92,11 +92,11 @@ tags: [workshop-exercise]
     <div class="workshop">
       <p>We’re thrilled to invite you to the FungiDB User Comments and Gene Annotation Campaign! This initiative coincides with the 32nd Fungal Genetics Conference (FGC) in Asilomar, USA.</p>
       
-      <h4>Why Your Contributions Matter</h4>
+      <h4>Your Contributions Matter! They:</h4>
       <ul>
-        <li>Improve genome annotations with additional evidence (alternative gene models, knockout phenotypes, subcellular localization, PubMed IDs, etc.).</li>
-        <li>Enhance searchability and visibility of gene data.</li>
-        <li>Benefit the research community by keeping information up to date.</li>
+        <li>Strengthen genome annotations by providing key evidence, such as alternative gene models, knockout phenotypes, subcellular localization, and relevant PubMed IDs.</li>
+        <li>Increase the accessibility and visibility of gene data for researchers worldwide.</li>
+        <li>Support the scientific community by ensuring gene information remains current and reliable.</li>
       </ul>
       <img class="image-frame right-image" src="{{ "/assets/images/fungidb/ecfg17ucc.png" | absolute_url }}" alt="ECFG17UCC"/>
 
