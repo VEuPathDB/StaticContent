@@ -1,39 +1,85 @@
 ---
 layout: post
-title: New in AmoebaDB
+title: What is New in AmoebaDB
 category: [AmoebaDB,VEuPathDB]
 ---
 {% assign project = page.category[0] %}
 
-<body>
-    <table>
-        <tr>
-            <th>New Features</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th><b>Gene Pages</b>: Improvements have been made to the appearance and navigation of gene record pages:
-                <ul>
-                    <li>Gene summary at the top of the page is now left-aligned for clarity.</li>
-                    <li>Contents menu on the left of the page: Click on a category to expand and reveal subcategories. Selected categories are shaded for enhanced visibility.</li>
-                    <li>Central navigation pane: Subcategories are now shaded in grey, with visual indicators to show expandable sections.</li>
-                    <li>Font size and padding have been adjusted for better readability.</li>
-                </ul>
-                </th>
-            <th><img style="width:15em" src="{{'/assets/images/news/genepagenew.png' | absolute_url}}" /></th>
-        </tr>
-        <tr>
-            <td><img style="width:15em" src="{{'/assets/images/news/mydataset.png' | absolute_url}}" /></td>
-            <td><p><b>My Data Sets</b>: New data types supported in My Data Sets, your private data integration component of VEuPathDB. Your <b>BigWig</b> and <b>normalized RNA-Seq</b> data can now be directly uploaded and integrated. See this page for <a href="/a/app/workspace/datasets/help">help with this feature</a> and try it for yourself <a href="/a/app/workspace/datasets/new">here</a>.
-            </p></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-    </table>
-</body>
+<style>
+
+.newswrapper {
+  display: grid;
+  grid-template-columns: 50%;
+  gap: 10px;
+  grid-auto-rows: minmax(5em, auto);
+
+.one {
+  grid-column: 1;
+  grid-row: 1;
+}
+.two {
+  grid-column: 2;
+  grid-row: 1;
+  
+  text-align: center;
+  vertical-align: center;
+
+  img {
+
+  }
+}
+.three {
+  grid-column: 1;
+  grid-row: 2;
+
+  text-align: center;
+  vertical-align: center;
+
+}
+.four {
+  grid-column: 2;
+  grid-row: 2;
+}
+
+}
+</style>
+
+<h3>New Features</h3>
+<div class="newswrapper">
+
+  <div class="one">
+    <p><b>Gene Pages</b>: Improvements have been made to the appearance and navigation of gene record pages:</p>
+    <ul>
+      <li>Gene summary at the top of the page is now left-aligned for clarity.</li>
+      <li>Contents menu on the left of the page: Click on a category to expand and reveal subcategories. 
+          Selected categories are shaded for enhanced visibility.</li>
+      <li>Central navigation pane: Subcategories are now shaded in grey, with visual indicators to show expandable sections.</li>
+      <li>Font size and padding have been adjusted for better readability.</li>
+    </ul>
+
+  </div>
+
+  <div class="two">
+
+    <img style="width:15em" src="{{'/assets/images/news/genepagenew.png' | absolute_url}}" />
+
+  </div>
+
+  <div class="three">
+
+    <img style="width:15em" src="{{'/assets/images/news/mydataset.png' | absolute_url}}" />
+
+  </div>
+
+  <div class="four">
+
+    <p><b>My Data Sets</b>: New data types supported in My Data Sets, your private data integration component of VEuPathDB. 
+      Your <b>BigWig</b> and <b>normalized RNA-Seq</b> data can now be directly uploaded and integrated. 
+      See this page for <a href="/a/app/workspace/datasets/help">help with this feature</a> and try it for yourself 
+      <a href="/a/app/workspace/datasets/new">here</a>.
+    </p>
+
+  </div>
+
+</div>
+
