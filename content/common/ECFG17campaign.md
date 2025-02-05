@@ -128,7 +128,7 @@ tags: [workshop-exercise]
         <li>Go to the gene record page.</li>
         <li>Click "View & update community annotation in Apollo" and make changes.</li>
       </ul>
-      <img class="image-frame" src="{{ "/assets/images/fungidb/apollo1ecfg16.png" | absolute_url }}" alt="Apollo Editing Example"/>
+      <img class="image-frame" style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/apollo1ecfg16.png" | absolute_url }}" alt="Apollo Editing Example"/>
       <img class="image-frame" src="{{ "/assets/images/fungidb/apollo2ecfg16.png" | absolute_url }}" alt="Apollo Editing Example 2"/>
 
       <h4>Bulk Submissions</h4>
