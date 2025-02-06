@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: FungiDB User Comments and Gene Annotation Campaign
-permalink: /ECFG17
+permalink: /2024FGC
 tags: [workshop-exercise]
 ---
 <style>
