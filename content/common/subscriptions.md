@@ -54,14 +54,6 @@ tags: [general]
       margin-left: 2em;
       max-width: 20em;
       p {margin:0;}
-      li li {
-        font-size: smaller;
-        padding: 0;
-      }
-      li ul {
-        padding-top: 0.5em;
-        padding-bottom: 0.5em;
-      }
     }
    
     div.column11 {
@@ -199,11 +191,11 @@ tags: [general]
 
   <thead>
     <tr>
-      <td style="border:0;background:#e6f7fd78;"></td>
-      <td colspan="3" class="center">Usage</td>
+      <td style="border-right-color:white"></td>
+      <td colspan="3" class="center">Database usage</td>
     </tr>
     <tr>
-      <td class="center">Lab budget</td>
+      <td class="center" style="border-right-color:white">Lab budget</td>
       <td>Weekly</td>
       <td>Monthly</td>
       <td>Infrequent</td>
