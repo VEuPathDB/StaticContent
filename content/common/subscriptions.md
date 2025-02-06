@@ -166,7 +166,7 @@ tags: [general]
   <div style="display:flex">
   <div class="column1">
     <h3>for Academic Research Groups:</h3>
-    <p>To determine your group's fair share of VEuPathDB costs:</p>
+    <p>To determine your group's fair share of VEuPathDB annual costs:</p>
 
     <div style="display:flex">
     <div class="column11">
