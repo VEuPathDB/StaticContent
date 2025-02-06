@@ -30,7 +30,7 @@ tags: [general]
     }
     @media (min-width: 700px) {
       .flex-container {
-        flex-wrap:wrap
+        flex-wrap:wrap;
       }
       .button-3 {
         margin-bottom:1em;
