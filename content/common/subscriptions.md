@@ -36,7 +36,7 @@ tags: [general]
       background: #e6f7fd78;
       padding: 0 1em 0.5em;
       margin-left: 2em;
-      min-width: 40em;
+      min-width: 42em;
       p {margin:0;}
     }
     div.column2 {
@@ -47,7 +47,7 @@ tags: [general]
       background: #fdf9e696;
       padding: 0 1em 0;
       margin-left: 2em;
-      max-width: 17em;
+      max-width: 20em;
       p {margin:0;}
       li li {
         font-size: smaller;
@@ -108,35 +108,6 @@ tags: [general]
       text-align: center;
     }
 
-    div.column3 {
-      flex: 0 0 50%;
-      border-radius: .5em;
-      border: 1px solid lightblue;
-      background: lightblue;
-      padding: 0 1em 0.8em;
-      margin-left: 2em;
-      margin-top: 1em;
-      div {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      }
-     min-width: 33em;
-    }
-    div.column4 {
-      position:relative;
-      flex: 0 0 auto;
-      width: 36%;
-      border-radius: .5em;
-      border: 1px solid #dbb667a6;
-      background: wheat;
-      padding: 0 1em 0;
-      margin-left: 4em;
-      margin-top: 1em;
-      p {
-        margin: 0.5em 0 0.5em;;
-      }
-    }
 
     .button-3 {
       font-size: 130%;
