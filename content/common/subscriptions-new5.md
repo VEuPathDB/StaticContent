@@ -29,7 +29,7 @@ tags: [general]
       display: flex;
     }
     @media only screen and (max-width: 600px) {
-      .flex-container {
+      div.flex-container {
         flex-wrap:wrap;
       }
       .button-3 {
