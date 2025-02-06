@@ -28,9 +28,12 @@ tags: [general]
     div.container {
       display: flex;
     }
-    @media only screen and (max-width: 40em) {
+    @media only screen and (max-width: 50em) {
       div.container {
         flex-wrap:wrap;
+      }
+      div.column1 {
+        margin-bottom: 1em;
       }
     }
 
