@@ -120,7 +120,7 @@ tags: [workshop-exercise]
         <li>Navigate to the relevant gene record page.</li>
         <li>Click "Add a user comment" and fill out the form.</li>
       </ul>
-      <img class="image-frame" style="width: 30%;" src="{{ "/assets/images/fungidb/ECFG17uc.png" | absolute_url }}" alt="User Comment Form"/>
+      <img class="image-frame" style="width: 30%; margin-left: 4em;"  src="{{ "/assets/images/fungidb/ECFG17uc.png" | absolute_url }}" alt="User Comment Form"/>
 
       <h4>How to Modify Gene Models in Apollo</h4>
       <ul>
