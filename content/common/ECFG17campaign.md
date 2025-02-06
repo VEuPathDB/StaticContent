@@ -130,7 +130,7 @@ tags: [workshop-exercise]
       <img class="image-frame" style="width: 30em; margin-left: 4em;" src="{{ "/assets/images/fungidb/ECFGApollo.png" | absolute_url }}" alt="Apollo Editing Example"/>
     
     <h4>Bulk Submissions</h4>
-      <p>Have too many comments? Not a problem - use our <a href="https://tinyurl.com/commentsfungi">bulk submission form</a> and send it back to us via the <a href="https://fungidb.org/fungidb/app/contact-us"Contact Us form</a>.</p>
+      <p>Have too many comments? Not a problem - use our <a href="https://tinyurl.com/commentsfungi">bulk submission form</a> and send it back to us via the <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us form</a>.</p>
       
       <p><b>Need Help?</b> - <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a>.</p>
     </div>
