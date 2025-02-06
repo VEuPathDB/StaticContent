@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Subscription Information
-permalink: subscriptions
+permalink: subscriptions-old3
 tags: [general]
 ---
 <style>
@@ -21,7 +21,7 @@ tags: [general]
       padding-bottom:0.5em;
     }
     h3 {
-      margin-bottom:1em;
+      margin-bottom:0.1em;
       padding-top:0.25em;
     }
 
@@ -30,24 +30,24 @@ tags: [general]
     }
  
     div.column1 {
-      flex: 0 0 60%; 
+      flex: 0 0 50%; 
       border-radius: .5em;
       border: 1px solid lightblue;
       background: #e6f7fd78;
       padding: 0 1em 0.5em;
       margin-left: 2em;
-      min-width: 40em;
+      min-width: 33em;
       p {margin:0;}
     }
     div.column2 {
       position:relative;
       flex: 0 0 auto;
+      width: 36%;
       border-radius: .5em;
       border: 1px solid #dbb667a6;
       background: #fdf9e696;
       padding: 0 1em 0;
-      margin-left: 2em;
-      max-width: 17em;
+      margin-left: 4em;
       p {margin:0;}
       li li {
         font-size: smaller;
@@ -60,19 +60,11 @@ tags: [general]
     }
    
     div.column11 {
-      flex: 0 0 45%;
+      flex: 0 0 50%;
     }
     div.column12 {
       flex: 0 0 auto;
       margin-left: 1em;
-      p {
-        font-size: 85%;
-        font-weight: bold;
-        background: lightblue;
-        text-align: right;
-        position: relative;
-        right: 6em;
-      }
     }
 
     .column11 ul {
@@ -192,118 +184,122 @@ tags: [general]
     <p><b style="font-size:110%">Why are we implementing a subscription service?</b> While VEuPathDB is freely accessible to anyone, maintaining and updating database resources is not free. The changing funding landscape has made it difficult to sustain essential infrastructure like VEuPathDB through grants, necessitating the implementation of a mandatory subscription service. Fees have been determined through consultation with our user communities, and are based on the scale of your operations and frequency of usage for data-mining and dissemination.</p>
   </div>
 
+  <h2>Please choose a plan and generate an invoice</h2>
+
   <div style="display:flex">
   <div class="column1">
-    <h3>for Academic Research Groups:</h3>
+    <h3>Research Groups</h3>
     <p>To determine your group's fair share of VEuPathDB costs:</p>
-
     <div style="display:flex">
     <div class="column11">
     <ul>
-      <li>Select a tier based on your <span style="text-decoration: underline;">total</span> lab budget <i>(including all grants, salaries, studentships, etc.)</i> and fequency of usage</li>
-      <li>... <span style="text-decoration: underline;">OR</span> use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> to privately determine your subscription rate, based on lab budget and resource usage
-        <span class="small">(lab & budget details are not stored or transmitted to VEuPathDB)</span>
-      </li>
+      <li>Select a tier - <span class="small">based on your total lab budget, including all grants, salaries, studentships, etc.</span> </li>
+      <li>... or use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> to privately determine your subscription rate, based on lab budget and resource usage
+        <span class="small">(lab & budget details are not stored or transmitted to VEuPathDB)</span></li>
     </ul>
-    <div style="text-align:center"><button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
-        Generate an invoice</a></button></div>
     </div>
 
     <div class="column12">
-
   <table>
-
-  <thead>
-    <tr>
-      <td style="border:0;background:#e6f7fd78;"></td>
-      <td colspan="3" class="center">Usage</td>
-    </tr>
-    <tr>
-      <td class="center">Lab budget</td>
-      <td>Weekly</td>
-      <td>Monthly</td>
-      <td>Infrequent</td>
-    </tr>
-  </thead>
-
+  <thead><tr>
+    <td>Tier</td>
+    <td class="center">Lab budget</td>
+    <td>Invoice</td>
+  </tr></thead>
   <tbody><tr>
-    <td><i>no funding at present</i></td>
-    <td>$0</td>
-    <td>$0</td>
+    <td>1</td>
+    <td class="center"><i>no funding at present</i></td>
     <td>$0</td>
   </tr>
   <tr class="alt">
-    <td class="center">&lt; $20K</td>
-    <td>$300</td>
-    <td>$200</td>
-    <td>$100</td>
-  </tr>
-  <tr>
-    <td class="center">$20K - 50K</td>
-    <td>$600</td>
-    <td>$400</td>
+    <td>2</td>
+    <td class="center">&lt;$20K</td>
     <td>$200</td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td class="center">$20 - 50K</td>
+    <td>$500</td>
+  </tr>
   <tr class="alt">
-    <td class="center">$50K - 150K</td>
-    <td>$1800</td>
-    <td>$1200</td>
-    <td>$600</td>
+    <td>4</td>
+    <td class="center">$50 - 125K</td>
+    <td>$1,000</td>
   </tr>
   <tr>
-    <td class="center">$150K - 250K</td>
-    <td>$4000</td>
-    <td>$2000</td>
-    <td>$1000</td>
+    <td>5</td>
+    <td class="center">$125 - 250K</td>
+    <td>$2,500</td>
   </tr>
   <tr class="alt">
-    <td class="center">$250K - 500K</td>
-    <td>$8000</td>
-    <td>$4000</td>
-    <td>$2000</td>
+    <td>6</td>
+    <td class="center">$250 - 500K</td>
+    <td>$5,000</td>
   </tr>
   <tr>
-    <td class="center">$500K - 1M</td>
-    <td>$12000</td>
-    <td>$8000</td>
-    <td>$4000</td>
+    <td>7</td>
+    <td class="center">$375 - 750K</td>
+    <td>$7,500</td>
   </tr>
   <tr class="alt">
-    <td class="center">$1M - $1.5M</td>
-    <td>$16000</td>
-    <td>$10000</td>
-    <td>$6000</td>
+    <td>8</td>
+    <td class="center">$500K - $1M</td>
+    <td>$10,000</td>
   </tr>
   <tr>
-    <td class="center">$1.5M - $2M</td>
-    <td>$20000</td>
-    <td>$12000</td>
-    <td>$8000</td>
+    <td>9</td>
+    <td class="center">$750K - $1.5M</td>
+    <td>$15,000</td>
   </tr>
   <tr class="alt">
-    <td class="center">&gt; $2M</td>
-    <td>$25000</td>
-    <td>$15000</td>
-    <td>$10000</td>
+    <td>10</td>
+    <td class="center">$1M - $2M</td>
+    <td>$20,000</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td class="center">&gt;$2M</td>
+    <td>$25,000</td>
   </tr></tbody>
-
   </table>
     </div>
     </div>
   </div>  <!-- end of column1 -->
 
   <div class="column2">     
-    <h3>Other Subscription Types</h3>
+    <h3>Other subscription types</h3>
     <p>If your organization falls into one of the following categories, please
       <a href="mailto:subscriptions@veupathdb.org">contact us</a> for more options.</p>
     <ul>
-        <li style="padding-top:1em">Institutional rates (non-profit) <br><span class="small">based on aggregate number of users</span></li>
-        <li style="padding-bottom:0">Industry/biotech rates (for profit) <br><span class="small">based on revenue</span>
+        <li style="padding-top:1em">Institutional non-profits <span class="small">(based on aggregate institutional users)</span></li>
+        <li style="padding-bottom:0">Industry rates <span class="small">(revenue-based)</span>
+          <ul>
+            <li>small</li>
+            <li>medium</li>
+            <li>large</li>
+          </ul>
         </li>
-        <li>Educational usage (non-profit) <br><span class="small">based on # student hours</span> 
+        <li>Teaching applications <span class="small">(based on # student hours)</span> 
+          <ul>
+            <li>small classes or intermittent usage</li>
+            <li>large classes or intensive usage</li>
+          </ul>
         </li>
     </ul>
   </div>  <!-- end of column2 -->
+  </div>
+
+  <div style="display:flex">
+  <div class="column3">
+      <div><button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
+        Generate an invoice</a></button></div>
+      <div class="small">(to be completed by the Research group Head or authorized person)</div>
+  </div>
+  <div class="column4">
+    <h2>Additional questions?</h2>
+    <p><i>Please see <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> or <a href="/a/app/contact-us">Contact Us</a>.
+      </i></p>
+  </div>
   </div>
 
 <br>
