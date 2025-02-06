@@ -25,10 +25,15 @@ tags: [general]
       padding-top:0.25em;
     }
 
-    ul {
-      list-style-type: square;
+    div.container {
+      display: flex;
     }
- 
+    @media only screen and (max-width: 600px) {
+      div.container {
+        flex-wrap:wrap;
+      }
+    }
+
     div.column1 {
       flex: 0 0 60%; 
       border-radius: .5em;
@@ -75,16 +80,18 @@ tags: [general]
       }
     }
 
+    ul {
+      list-style-type: square;
+    }
     .column11 ul {
       padding-left: 0;
       margin-top: 0;
     }
- 
     .column11 li {
       padding-top: 1.5em;
       padding-bottom: 0.5em;
     }
-    .column2 > ul > li {
+    .column2 li {
       padding-top: 0.4em;
       padding-bottom: 0.5em;
     }
@@ -163,13 +170,13 @@ tags: [general]
     <p><b style="font-size:110%">Why are we implementing a subscription service?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating the implementation of a mandatory subscription service ... even if your applicable subscription fee is $0. Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination.</p>
   </div>
 
-  <div style="display:flex;flex-wrap:wrap">
+  <div class="container">
 
   <div class="column1">
     <h3>for Academic Research Groups:</h3>
     <p>To determine your group's fair share of VEuPathDB annual costs:</p>
 
-    <div style="display:flex;flex-wrap:wrap">
+    <div class="container">
 
     <div class="column11">
     <ul>
