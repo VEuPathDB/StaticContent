@@ -112,7 +112,7 @@ tags: [workshop-exercise]
         <li>Leave a user comment on a gene record page OR enhance structural/functional gene annotation via the Apollo genome editor.</li>
         <li>Visit the FungiDB help desk during the ECFG17 poster sessions to claim your <b>free "Got Fungus?"</b> mug. The top 10 contributors will also receive a T-shirt!</li>
       </ol>
-      <p>Not attending FGC? No worries! Submit a user comment remotely, and have a colleague pick up your mug.</p>
+      <p>Not attending ECFG17? No worries! Submit a user comment remotely, and have a colleague pick up your mug.</p>
 
       <h4>How to Submit a Comment</h4>
       <ul>
