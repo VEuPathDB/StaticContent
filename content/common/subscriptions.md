@@ -199,9 +199,9 @@ tags: [general]
     </tr>
     <tr>
       <td class="center" style="border-right-color:white">Lab budget</td>
-      <td>Weekly</td>
-      <td>Monthly</td>
-      <td>Infrequent</td>
+      <td style="font-weight:400">Weekly</td>
+      <td style="font-weight:400">Monthly</td>
+      <td style="font-weight:400">Infrequent</td>
     </tr>
   </thead>
 
