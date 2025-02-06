@@ -160,28 +160,34 @@ tags: [general]
 <div class="static-content">
 
   <div class="top">
-    <p><b style="font-size:110%">Why are we implementing a subscription service?</b> While VEuPathDB is freely accessible to anyone, maintaining and updating database resources is not free. The changing funding landscape has made it difficult to sustain essential infrastructure like VEuPathDB through grants, necessitating the implementation of a mandatory subscription service. Fees have been determined through consultation with our user communities, and are based on the scale of your operations and frequency of usage for data-mining and dissemination.</p>
+    <p><b style="font-size:110%">Why are we implementing a subscription service?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating the implementation of a mandatory subscription service ... even if your applicable subscription fee is $0. Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination.</p>
   </div>
 
-  <div style="display:flex">
+  <div style="display:flex;flex-wrap:wrap">
+
   <div class="column1">
     <h3>for Academic Research Groups:</h3>
     <p>To determine your group's fair share of VEuPathDB annual costs:</p>
 
-    <div style="display:flex">
+    <div style="display:flex;flex-wrap:wrap">
+
     <div class="column11">
     <ul>
-      <li>Select a tier based on your <span style="text-decoration: underline;">total</span> lab budget <i>(including all grants, salaries, studentships, etc.)</i> and fequency of usage</li>
-      <li>... <span style="text-decoration: underline;">OR</span> use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> to privately determine your subscription rate, based on lab budget and resource usage
-        <span class="small">(lab & budget details are not stored or transmitted to VEuPathDB)</span>
-      </li>
+      <li>Select a tier from the table, based on your 
+          <span style="text-decoration: underline;">total</span> lab budget 
+          <span class="small">(including all grants, salaries, studentships, etc.)</span> and fequency of usage.</li>
+      <li>... <span style="text-decoration: underline;">or</span> 
+          use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> 
+          to determine your fair share of expenses, based on lab budget and resource usage
+          <span class="small">(details are not stored or transmitted to VEuPathDB.)</span></li>
     </ul>
-    <div style="text-align:center"><button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
+    <div style="text-align:center">
+      <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
         Generate an invoice</a></button></div>
+
     </div>
 
     <div class="column12">
-
   <table>
 
   <thead>
@@ -211,15 +217,15 @@ tags: [general]
   </tr>
   <tr>
     <td class="center">$20K - 50K</td>
-    <td>$600</td>
-    <td>$400</td>
-    <td>$200</td>
+    <td>$1000</td>
+    <td>$500</td>
+    <td>$250</td>
   </tr>
   <tr class="alt">
     <td class="center">$50K - 150K</td>
-    <td>$1800</td>
-    <td>$1200</td>
-    <td>$600</td>
+    <td>$2000</td>
+    <td>$1000</td>
+    <td>$500</td>
   </tr>
   <tr>
     <td class="center">$150K - 250K</td>
@@ -235,49 +241,53 @@ tags: [general]
   </tr>
   <tr>
     <td class="center">$500K - 1M</td>
-    <td>$12000</td>
+    <td>$15000</td>
     <td>$8000</td>
     <td>$4000</td>
   </tr>
   <tr class="alt">
     <td class="center">$1M - $1.5M</td>
-    <td>$16000</td>
-    <td>$10000</td>
+    <td>$20000</td>
+    <td>$12000</td>
     <td>$6000</td>
   </tr>
   <tr>
     <td class="center">$1.5M - $2M</td>
-    <td>$20000</td>
-    <td>$12000</td>
+    <td>$24000</td>
+    <td>$16000</td>
     <td>$8000</td>
   </tr>
   <tr class="alt">
     <td class="center">&gt; $2M</td>
-    <td>$25000</td>
-    <td>$15000</td>
+    <td>$30000</td>
+    <td>$20000</td>
     <td>$10000</td>
   </tr></tbody>
 
   </table>
     </div>
     </div>
+
   </div>  <!-- end of column1 -->
 
   <div class="column2">     
     <h3>Other Subscription Types</h3>
-    <p>If your organization falls into one of the following categories, please
-      <a href="mailto:subscriptions@veupathdb.org">contact us</a> for more options.</p>
+    <p>If you are interested in the following, please
+      <a href="mailto:subscriptions@veupathdb.org">contact us</a> for additional options:</p>
     <ul>
-        <li style="padding-top:1em">Institutional rates (non-profit) <br><span class="small">based on aggregate number of users</span></li>
-        <li style="padding-bottom:0">Industry/biotech rates (for profit) <br><span class="small">based on revenue</span>
-        </li>
-        <li>Educational usage (non-profit) <br><span class="small">based on # student hours</span> 
-        </li>
+        <li style="padding-top:1em">Multiyear subscriptions</li>
+        <li style="padding-bottom:0">Institutional rates (non-profit) <br><span class="small">based on aggregate number of users</span></li>
+        <li style="padding-bottom:0">Industry/biotech rates (for profit) <br><span class="small">based on revenue</span></li>
+        <li style="padding-bottom:0">Educational usage (non-profit) <br><span class="small">based on # student hours</span></li>
+        <li>Charitable contributions<br><span class="small">advancing globally open data access</span></li>
     </ul>
   </div>  <!-- end of column2 -->
   </div>
 
-<br>
+  <div style="margin:2em 2em;font-size: 110%">
+    <h3 style="display:inline">Additional Questions?</h3><p style="padding-left:2em;display:inline"><i>Please see 
+      <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> or <a href="/a/app/contact-us">Contact Us</a>.</i></p>
+  </div>
 
 </div>
 
