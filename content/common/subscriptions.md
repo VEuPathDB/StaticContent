@@ -13,7 +13,7 @@ tags: [general]
   }
 
   div.static-content {
-    font-size:120%;
+    font-size:130%;
  
     h2 {
       font-size: 1.5em;
