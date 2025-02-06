@@ -28,7 +28,7 @@ tags: [general]
     div.container {
       display: flex;
     }
-    @media only screen and (max-width: 600px) {
+    @media only screen and (max-width: 40em) {
       div.container {
         flex-wrap:wrap;
       }
