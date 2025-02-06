@@ -128,9 +128,9 @@ tags: [workshop-exercise]
         <li>Go to the gene record page.</li>
         <li>Click "View & update community annotation in Apollo" and make changes.</li>
       </ul>
-      <img class="image-frame" style="width: 25em; margin-top: .5em; margin-right: 4em;" src="{{ "/assets/images/fungidb/ECFGApollo.png" | absolute_url }}" alt="Apollo Editing Example"/>
-
-      <h4>Bulk Submissions</h4>
+      <img class="image-frame" style="width: 25em; margin-left: 4em;" src="{{ "/assets/images/fungidb/ECFGApollo.png" | absolute_url }}" alt="Apollo Editing Example"/>
+    
+    <h4>Bulk Submissions</h4>
       <p>Have too many comments? Not a problem - use our <a href="https://tinyurl.com/commentsfungi">bulk submission form</a> and send it via the <a href="https://fungidb.org/fungidb/app/contact-us">FungiDB contact form</a>.</p>
       
       <p><b>Need Help?</b> - <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a>.</p>
