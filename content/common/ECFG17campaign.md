@@ -133,10 +133,7 @@ tags: [workshop-exercise]
       <h4>Bulk Submissions</h4>
       <p>Have too many comments? Not a problem - use our <a href="https://tinyurl.com/commentsfungi">bulk submission form</a> and send it via the <a href="https://fungidb.org/fungidb/app/contact-us">FungiDB contact form</a>.</p>
       
-     <h4>Join the Challenge!</h4>
-      <p>Which fungal community will contribute the most? <a href="https://twitter.com/fungidb">Tweet your progress</a> and see who gets featured!</p>
-
-      <p><b>Need Help?</b> Visit our <a href="https://fungidb.org/fungidb/app/static-content/apollo_help.html">Apollo tutorials</a> or <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a>.</p>
+      <p><b>Need Help?</b> - <a href="https://fungidb.org/fungidb/app/contact-us">Contact Us</a>.</p>
     </div>
   </div>
 </div>
