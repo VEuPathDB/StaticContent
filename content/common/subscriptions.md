@@ -107,6 +107,8 @@ tags: [general]
     }
     td.center {
       text-align: center;
+      vertical-align: middle;
+      border-right-color: white;
     }
 
     .button-3 {
