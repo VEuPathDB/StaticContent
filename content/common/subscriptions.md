@@ -92,6 +92,7 @@ tags: [general]
 
     table {
       font-size: 85%;
+      border: 1px solid lightblue;
     }
     td {
       text-align: right;
