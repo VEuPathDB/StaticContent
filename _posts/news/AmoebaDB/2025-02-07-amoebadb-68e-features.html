@@ -7,9 +7,16 @@ category: [AmoebaDB,VEuPathDB]
 
 <style>
 
+
+div.static-content {
+  h2 {
+    font-size: 200%
+  }
+  font-size: 120%;
+}
 div.newswrapper-68e-Feb7-2025 {
     h3 {
-      font-size: 200%;
+      font-size: 170%;
       margin: 1em 0 0.5em;
     }
     font-size: 110%;
@@ -18,11 +25,6 @@ div.newswrapper-68e-Feb7-2025 {
       display: flex;
       align-items: stretch;
       margin-bottom: 1em;
-    }
-    @media only screen and (max-width: 800px) {
-      div.container {
-        flex-wrap:wrap;
-      }
     }
     img {
       width: 15em;
@@ -52,6 +54,15 @@ div.newswrapper-68e-Feb7-2025 {
       text-align: right;
     }
 
+    @media only screen and (max-width: 800px) {
+      div.container {
+        flex-wrap:wrap;
+      }
+      div.newswrapper-68e-Feb7-2025 > div.text {
+        margin-left: 0;
+      }
+    }
+
 } /* .newswrapper  */
 
 </style>
@@ -62,7 +73,7 @@ div.newswrapper-68e-Feb7-2025 {
 
   <div class="container">
 
-  <img src="{{'/assets/images/news/genepagenew2.png' | absolute_url}}" />
+  <img style="box-shadow: 2px 2px lightblue;" src="{{'/assets/images/news/genepagenew2.png' | absolute_url}}" />
 
   <div class="text greyback">
     <div class="title left">GENE PAGES</div>
