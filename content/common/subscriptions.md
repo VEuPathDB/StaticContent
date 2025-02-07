@@ -108,6 +108,8 @@ tags: [general]
     td.center {
       text-align: center;
       vertical-align: middle;
+    }
+    td.sidewhite {
       border-right-color: white;
     }
 
@@ -194,7 +196,7 @@ tags: [general]
 
   <thead>
     <tr>
-      <td rowspan="2" class="center">Lab budget</td>
+      <td rowspan="2" class="center sidewhite">Lab budget</td>
       <td colspan="3" class="center">Database usage</td>
     </tr>
     <tr>
@@ -205,13 +207,13 @@ tags: [general]
   </thead>
 
   <tbody><tr>
-    <td><i>no funding at present</i></td>
+    <td class="sidewhite"><i>no funding at present</i></td>
     <td>$0</td>
     <td>$0</td>
     <td>$0</td>
   </tr>
   <tr class="alt">
-    <td class="center">&lt; $20K</td>
+    <td class="center sidewhite">&lt; $20K</td>
     <td>$300</td>
     <td>$200</td>
     <td>$100</td>
