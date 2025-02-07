@@ -111,7 +111,7 @@ tags: [general]
       vertical-align: middle;
     }
     td.sidewhite {
-      border-right-color: white;
+      border-right: 1px solid white;
     }
 
     .button-3 {
@@ -220,49 +220,49 @@ tags: [general]
     <td>$100</td>
   </tr>
   <tr>
-    <td class="center">$20K - 50K</td>
+    <td class="center sidewhite">$20K - 50K</td>
     <td>$1000</td>
     <td>$500</td>
     <td>$250</td>
   </tr>
   <tr class="alt">
-    <td class="center">$50K - 150K</td>
+    <td class="center sidewhite">$50K - 150K</td>
     <td>$2000</td>
     <td>$1000</td>
     <td>$500</td>
   </tr>
   <tr>
-    <td class="center">$150K - 250K</td>
+    <td class="center sidewhite">$150K - 250K</td>
     <td>$4000</td>
     <td>$2000</td>
     <td>$1000</td>
   </tr>
   <tr class="alt">
-    <td class="center">$250K - 500K</td>
+    <td class="center sidewhite">$250K - 500K</td>
     <td>$8000</td>
     <td>$4000</td>
     <td>$2000</td>
   </tr>
   <tr>
-    <td class="center">$500K - 1M</td>
+    <td class="center sidewhite">$500K - 1M</td>
     <td>$15000</td>
     <td>$8000</td>
     <td>$4000</td>
   </tr>
   <tr class="alt">
-    <td class="center">$1M - $1.5M</td>
+    <td class="center sidewhite">$1M - $1.5M</td>
     <td>$20000</td>
     <td>$12000</td>
     <td>$6000</td>
   </tr>
   <tr>
-    <td class="center">$1.5M - $2M</td>
+    <td class="center sidewhite">$1.5M - $2M</td>
     <td>$24000</td>
     <td>$16000</td>
     <td>$8000</td>
   </tr>
   <tr class="alt">
-    <td class="center">&gt; $2M</td>
+    <td class="center sidewhite">&gt; $2M</td>
     <td>$30000</td>
     <td>$20000</td>
     <td>$10000</td>
