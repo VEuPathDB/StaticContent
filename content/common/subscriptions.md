@@ -109,7 +109,6 @@ tags: [general]
       text-align: center;
     }
 
-
     .button-3 {
       font-size: 130%;
       background-color: green;
@@ -193,11 +192,10 @@ tags: [general]
 
   <thead>
     <tr>
-      <td style="border-right-color:white"></td>
+      <td rowspan="2" class="center">Lab budget</td>
       <td colspan="3" class="center">Database usage</td>
     </tr>
     <tr>
-      <td class="center" style="border-right-color:white">Lab budget</td>
       <td style="font-weight:400">Weekly</td>
       <td style="font-weight:400">Monthly</td>
       <td style="font-weight:400">Infrequent</td>
@@ -276,10 +274,10 @@ tags: [general]
     <p>If you are interested in the following, please
       <a href="mailto:subscriptions@veupathdb.org">contact us</a> for additional options:</p>
     <ul>
-        <li style="padding-top:1em">Multiyear subscriptions</li>
-        <li style="padding-bottom:0">Institutional rates (non-profit) <br><span class="small">based on aggregate number of users</span></li>
-        <li style="padding-bottom:0">Industry/biotech rates (for profit) <br><span class="small">based on revenue</span></li>
-        <li style="padding-bottom:0">Educational usage (non-profit) <br><span class="small">based on # student hours</span></li>
+        <li>Multiyear subscriptions</li>
+        <li>Institutional rates (non-profit) <br><span class="small">based on aggregate number of users</span></li>
+        <li>Industry/biotech rates (for profit) <br><span class="small">based on revenue</span></li>
+        <li>Educational usage (non-profit) <br><span class="small">based on # student hours</span></li>
         <li>Charitable contributions<br><span class="small">advancing globally open data access</span></li>
     </ul>
   </div>  <!-- end of column2 -->
