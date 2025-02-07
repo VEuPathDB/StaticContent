@@ -21,7 +21,6 @@ tags: [general]
       padding-bottom:0.5em;
     }
     h3 {
-      margin-bottom:1em;
       padding-top:0.25em;
     }
 
@@ -169,7 +168,7 @@ tags: [general]
 
   <div class="column1">
     <h3>for Academic Research Groups:</h3>
-    <p>To determine your group's fair share of VEuPathDB annual costs:</p>
+    <p style="padding-bottom:1em">To determine your group's fair share of VEuPathDB annual costs:</p>
 
     <div class="container">
 
