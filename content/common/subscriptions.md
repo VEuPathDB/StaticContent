@@ -256,13 +256,13 @@ tags: [general]
     <td class="pad-r-halfem">0</td>
   </tr>
   <tr class="alt">
-    <td class="pad-l-2em nopad-r">$</td>
+    <td class="pad-l-2em nopad-r">$</td>  <!-- this affects all subsequent rows -->
     <td class="pad-r-1em sidewhite">&lt; 20K</td>
-    <td class="pad-l-1em nopad-r">$</td>
+    <td class="pad-l-1em nopad-r">$</td>  <!-- this affects all subsequent rows -->
     <td class="sidewhite">300</td>
-    <td class="pad-l-1em nopad-r">$</td>
+    <td class="pad-l-1em nopad-r">$</td>  <!-- this affects all subsequent rows -->
     <td class="sidewhite">200</td>
-    <td class="pad-l-1em nopad-r">$</td>
+    <td class="pad-l-1em nopad-r">$</td>  <!-- this affects all subsequent rows -->
     <td class="pad-r-halfem">100</td>
   </tr>
   <tr>
