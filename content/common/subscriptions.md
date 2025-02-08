@@ -73,7 +73,7 @@ tags: [general]
       margin-top: 0;
     }
     .column11 li {
-      padding-top: 1.5em;
+      padding-top: 0.8em;
       padding-bottom: 0.5em;
     }
     .column2 li {
@@ -214,13 +214,14 @@ tags: [general]
 
     <div class="column11">
     <ul>
-      <li>Select a tier from the table, based on your 
+      <li>Use our table to determine your annual fee, based on your 
           <span style="text-decoration: underline;">total</span> lab budget 
-          <span class="small">(including all grants, salaries, studentships, etc.)</span> and frequency of usage.</li>
-      <li>... <span style="text-decoration: underline;">or</span> 
-          use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> 
-          to determine your fair share of expenses, based on lab budget and resource usage
-          <span class="small">(details are not stored or transmitted to VEuPathDB.)</span></li>
+          <span class="small">(including all grants, salaries, studentships, etc.)</span> and frequency of usage.
+          <p style="text-decoration: underline;margin-top: 1em;">OR</p></li>
+      <li>Use our 
+        <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> 
+        to determine your fair share of expenses, based on lab budget and resource usage
+        <span class="small">(details are not stored or transmitted to VEuPathDB.)</span></li>
     </ul>
     <div class="center">
       <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
