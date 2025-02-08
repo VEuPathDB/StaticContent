@@ -109,6 +109,9 @@ tags: [general]
     td.nopad-r {
       padding-right: 0;
     }
+    td.pad-r-halfem {
+      padding-right: 0.5em
+    }
     td.pad-r-1em {
       padding-right: 1em
     }
@@ -183,7 +186,7 @@ tags: [general]
       div.container {
         flex-wrap:wrap;
       }
-      div.column1, div.column2, .button-3, .addquest, .addquest p {
+      div.column1, div.column2, .button-3, div.addquest, div.addquest p {
         margin-bottom: 1em;
         margin-left: 0;
         padding-left: 0
@@ -247,8 +250,8 @@ tags: [general]
     <td class="sidewhite">0</td>
     <td class="pad-l-1em nopad-r">$</td>
     <td class="sidewhite">0</td>
-    <td class="nopad-r">$</td>
-    <td class="pad-r-1em">0</td>
+    <td class="pad-l-1em nopad-r">$</td>
+    <td class="pad-r-halfem">0</td>
   </tr>
   <tr class="alt">
     <td class="pad-l-2em nopad-r">$</td>
@@ -257,8 +260,8 @@ tags: [general]
     <td class="sidewhite">300</td>
     <td class="pad-l-1em nopad-r">$</td>
     <td class="sidewhite">200</td>
-    <td class="nopad-r">$</td>
-    <td class="pad-r-1em">100</td>
+    <td class="pad-l-1em nopad-r">$</td>
+    <td class="pad-r-halfem">100</td>
   </tr>
   <tr>
     <td class="nopad-r">$</td>
@@ -268,7 +271,7 @@ tags: [general]
     <td class="nopad-r">$</td>
     <td class="sidewhite">500</td>
     <td class="nopad-r">$</td>
-    <td class="pad-r-1em">250</td>
+    <td class="pad-r-halfem">250</td>
   </tr>
   <tr class="alt">
     <td class="nopad-r">$</td>
@@ -278,7 +281,7 @@ tags: [general]
     <td class="nopad-r">$</td>
     <td class="sidewhite">1,000</td>
     <td class="nopad-r">$</td>
-    <td class="pad-r-1em">500</td>
+    <td class="pad-r-halfem">500</td>
   </tr>
   <tr>
     <td class="nopad-r">$</td>
@@ -288,7 +291,7 @@ tags: [general]
     <td class="nopad-r">$</td>
     <td class="sidewhite">2,000</td>
     <td class="nopad-r">$</td>
-    <td class="pad-r-1em">1,000</td>
+    <td class="pad-r-halfem">1,000</td>
   </tr>
   <tr class="alt">
     <td class="nopad-r">$</td>
@@ -298,7 +301,7 @@ tags: [general]
     <td class="nopad-r">$</td>
     <td class="sidewhite">4,000</td>
     <td class="nopad-r">$</td>
-    <td class="pad-r-1em">2,000</td>
+    <td class="pad-r-halfem">2,000</td>
   </tr>
   <tr>
     <td class="nopad-r">$</td>
@@ -308,7 +311,7 @@ tags: [general]
     <td class="nopad-r">$</td>
     <td class="sidewhite">8,000</td>
     <td class="nopad-r">$</td>
-    <td class="pad-r-1em">4,000</td>
+    <td class="pad-r-halfem">4,000</td>
   </tr>
   <tr class="alt">
     <td class="nopad-r">$</td>
@@ -318,7 +321,7 @@ tags: [general]
     <td class="nopad-r">$</td>
     <td class="sidewhite">12,000</td>
     <td class="nopad-r">$</td>
-    <td class="pad-r-1em">6,000</td>
+    <td class="pad-r-halfem">6,000</td>
   </tr>
   <tr>
     <td class="nopad-r">$</td>
@@ -328,7 +331,7 @@ tags: [general]
     <td class="nopad-r">$</td>
     <td class="sidewhite">16,000</td>
     <td class="nopad-r">$</td>
-    <td class="pad-r-1em">8,000</td>
+    <td class="pad-r-halfem">8,000</td>
   </tr>
   <tr class="alt">
     <td class="nopad-r">$</td>
@@ -338,7 +341,7 @@ tags: [general]
     <td class="nopad-r">$</td>
     <td class="sidewhite">20,000</td>
     <td class="nopad-r">$</td>
-    <td class="pad-r-1em">10,000</td>
+    <td class="pad-r-halfem">10,000</td>
   </tr></tbody>
 
   </table>
