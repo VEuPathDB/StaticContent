@@ -28,15 +28,6 @@ tags: [general]
     div.container {
       display: flex;
     }
-    @media only screen and (max-width: 50em) {
-      div.container {
-        flex-wrap:wrap;
-      }
-      div.column1, div.column2 {
-        margin-bottom: 1em;
-        margin-left: 0;
-      }
-    }
 
     div.column1 {
       flex: 0 0 60%; 
@@ -168,6 +159,17 @@ tags: [general]
     .center {
       text-align: center;
     }
+
+    @media only screen and (max-width: 50em) {
+      div.container {
+        flex-wrap:wrap;
+      }
+      div.column1, div.column2, .button-3 {
+        margin-bottom: 1em;
+        margin-left: 0;
+      }
+    }
+
   }
 </style>
 
@@ -221,101 +223,101 @@ tags: [general]
   <tbody><tr>
     <td colspan="2" class="center sidewhite"><i>no funding at present</i></td>
     <td class="nopad">$</td>
-    <td>0</td>
+    <td class="sidewhite">0</td>
     <td class="nopad">$</td>
-    <td>0</td>
+    <td class="sidewhite">0</td>
     <td class="nopad">$</td>
-    <td>0</td>
+    <td class="sidewhite">0</td>
   </tr>
   <tr class="alt">
     <td class="nopad">$</td>
     <td class="pad-r-1em sidewhite">&lt; 20K</td>
     <td class="nopad">$</td>
-    <td>300</td>
+    <td class="sidewhite">300</td>
     <td class="nopad">$</td>
-    <td>200</td>
+    <td class="sidewhite">200</td>
     <td class="nopad">$</td>
-    <td>100</td>
+    <td class="sidewhite">100</td>
   </tr>
   <tr>
     <td class="nopad">$</td>
     <td class="pad-r-1em sidewhite">20K - 50K</td>
     <td class="nopad">$</td>
-    <td>1000</td>
+    <td class="sidewhite">1000</td>
     <td class="nopad">$</td>
-    <td>500</td>
+    <td class="sidewhite">500</td>
     <td class="nopad">$</td>
-    <td>250</td>
+    <td class="sidewhite">250</td>
   </tr>
   <tr class="alt">
     <td class="nopad">$</td>
     <td class="pad-r-1em sidewhite">50K - 150K</td>
     <td class="nopad">$</td>
-    <td>2,000</td>
+    <td class="sidewhite">2,000</td>
     <td class="nopad">$</td>
     <td>1,000</td>
     <td class="nopad">$</td>
-    <td>500</td>
+    <td class="sidewhite">500</td>
   </tr>
   <tr>
     <td class="nopad">$</td>
     <td class="pad-r-1em sidewhite">150K - 250K</td>
     <td class="nopad">$</td>
-    <td>4,000</td>
+    <td class="sidewhite">4,000</td>
     <td class="nopad">$</td>
-    <td>2,000</td>
+    <td class="sidewhite">2,000</td>
     <td class="nopad">$</td>
-    <td>1,000</td>
+    <td class="sidewhite">1,000</td>
   </tr>
   <tr class="alt">
     <td class="nopad">$</td>
     <td class="pad-r-1em sidewhite">250K - 500K</td>
     <td class="nopad">$</td>
-    <td>8,000</td>
+    <td class="sidewhite">8,000</td>
     <td class="nopad">$</td>
-    <td>4,000</td>
+    <td class="sidewhite">4,000</td>
     <td class="nopad">$</td>
-    <td>2,000</td>
+    <td class="sidewhite">2,000</td>
   </tr>
   <tr>
     <td class="nopad">$</td>
     <td class="pad-r-1em sidewhite">500K - 1M</td>
     <td class="nopad">$</td>
-    <td>15,000</td>
+    <td class="sidewhite">15,000</td>
     <td class="nopad">$</td>
-    <td>8,000</td>
+    <td class="sidewhite">8,000</td>
     <td class="nopad">$</td>
-    <td>4,000</td>
+    <td class="sidewhite">4,000</td>
   </tr>
   <tr class="alt">
     <td class="nopad">$</td>
     <td class="pad-r-1em sidewhite">1M - 1.5M</td>
     <td class="nopad">$</td>
-    <td>20,000</td>
+    <td class="sidewhite">20,000</td>
     <td class="nopad">$</td>
-    <td>12,000</td>
+    <td class="sidewhite">12,000</td>
     <td class="nopad">$</td>
-    <td>6,000</td>
+    <td class="sidewhite">6,000</td>
   </tr>
   <tr>
     <td class="nopad">$</td>
     <td class="pad-r-1em sidewhite">1.5M - 2M</td>
     <td class="nopad">$</td>
-    <td>24,000</td>
+    <td class="sidewhite">24,000</td>
     <td class="nopad">$</td>
-    <td>16,000</td>
+    <td class="sidewhite">16,000</td>
     <td class="nopad">$</td>
-    <td>8,000</td>
+    <td class="sidewhite">8,000</td>
   </tr>
   <tr class="alt">
     <td class="nopad">$</td>
     <td class="pad-r-1em sidewhite">&gt; 2M</td>
     <td class="nopad">$</td>
-    <td>30,000</td>
+    <td class="sidewhite">30,000</td>
     <td class="nopad">$</td>
-    <td>20,000</td>
+    <td class="sidewhite">20,000</td>
     <td class="nopad">$</td>
-    <td>10,000</td>
+    <td class="sidewhite">10,000</td>
   </tr></tbody>
 
   </table>
