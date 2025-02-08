@@ -106,13 +106,15 @@ tags: [general]
     tbody tr.alt td {
       background: #d6eaf8;
     }
-    td.nopad {
+    td.nopad-r {
       padding-right: 0;
     }
     td.pad-r-1em {
       padding-right: 1em
     }
-
+    td.pad-l-1em {
+      padding-left: 1em
+    }
 
     .button-3 {
       font-size: 130%;
@@ -222,102 +224,102 @@ tags: [general]
 
   <tbody><tr>
     <td colspan="2" class="center sidewhite"><i>no funding at present</i></td>
-    <td class="nopad">$</td>
+    <td class="pad-l-1em nopad-r">$</td>
     <td class="sidewhite">0</td>
-    <td class="nopad">$</td>
+    <td class="pad-l-1em nopad-r">$</td>
     <td class="sidewhite">0</td>
-    <td class="nopad">$</td>
-    <td>0</td>
+    <td class="nopad-r">$</td>
+    <td class="pad-r-1em">0</td>
   </tr>
   <tr class="alt">
-    <td class="nopad">$</td>
+    <td class="pad-l-1em nopad-r">$</td>
     <td class="pad-r-1em sidewhite">&lt; 20K</td>
-    <td class="nopad">$</td>
+    <td class="pad-l-1em nopad-r">$</td>
     <td class="sidewhite">300</td>
-    <td class="nopad">$</td>
+    <td class="pad-l-1em nopad-r">$</td>
     <td class="sidewhite">200</td>
-    <td class="nopad">$</td>
-    <td>100</td>
+    <td class="nopad-r">$</td>
+    <td class="pad-r-1em">100</td>
   </tr>
   <tr>
-    <td class="nopad">$</td>
+    <td class="pad-l-1em nopad-r">$</td>
     <td class="pad-r-1em sidewhite">20K - 50K</td>
-    <td class="nopad">$</td>
+    <td class="pad-l-1em nopad-r">$</td>
     <td class="sidewhite">1000</td>
-    <td class="nopad">$</td>
+    <td class="pad-l-1em nopad-r">$</td>
     <td class="sidewhite">500</td>
-    <td class="nopad">$</td>
-    <td>250</td>
+    <td class="nopad-r">$</td>
+    <td class="pad-r-1em">250</td>
   </tr>
   <tr class="alt">
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="pad-r-1em sidewhite">50K - 150K</td>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="sidewhite">2,000</td>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td>1,000</td>
-    <td class="nopad">$</td>
-    <td>500</td>
+    <td class="nopad-r">$</td>
+    <td class="pad-r-1em">500</td>
   </tr>
   <tr>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="pad-r-1em sidewhite">150K - 250K</td>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="sidewhite">4,000</td>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="sidewhite">2,000</td>
-    <td class="nopad">$</td>
-    <td>1,000</td>
+    <td class="nopad-r">$</td>
+    <td class="pad-r-1em">1,000</td>
   </tr>
   <tr class="alt">
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="pad-r-1em sidewhite">250K - 500K</td>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="sidewhite">8,000</td>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="sidewhite">4,000</td>
-    <td class="nopad">$</td>
-    <td>2,000</td>
+    <td class="nopad-r">$</td>
+    <td class="pad-r-1em">2,000</td>
   </tr>
   <tr>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="pad-r-1em sidewhite">500K - 1M</td>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="sidewhite">15,000</td>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="sidewhite">8,000</td>
-    <td class="nopad">$</td>
-    <td>4,000</td>
+    <td class="nopad-r">$</td>
+    <td class="pad-r-1em">4,000</td>
   </tr>
   <tr class="alt">
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="pad-r-1em sidewhite">1M - 1.5M</td>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="sidewhite">20,000</td>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="sidewhite">12,000</td>
-    <td class="nopad">$</td>
-    <td>6,000</td>
+    <td class="nopad-r">$</td>
+    <td class="pad-r-1em">6,000</td>
   </tr>
   <tr>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="pad-r-1em sidewhite">1.5M - 2M</td>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="sidewhite">24,000</td>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="sidewhite">16,000</td>
-    <td class="nopad">$</td>
-    <td>8,000</td>
+    <td class="nopad-r">$</td>
+    <td class="pad-r-1em">8,000</td>
   </tr>
   <tr class="alt">
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="pad-r-1em sidewhite">&gt; 2M</td>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="sidewhite">30,000</td>
-    <td class="nopad">$</td>
+    <td class="nopad-r">$</td>
     <td class="sidewhite">20,000</td>
-    <td class="nopad">$</td>
-    <td>10,000</td>
+    <td class="nopad-r">$</td>
+    <td class="pad-r-1em">10,000</td>
   </tr></tbody>
 
   </table>
