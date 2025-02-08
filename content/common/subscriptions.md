@@ -171,13 +171,23 @@ tags: [general]
       text-align: center;
     }
 
+    div.addquest {
+      margin: 2em 2em;
+      p {
+       padding-left: 2em;
+       display: inline;
+      } 
+    }
+
     @media only screen and (max-width: 50em) {
       div.container {
         flex-wrap:wrap;
       }
-      div.column1, div.column2, .button-3 {
+      div.column1, div.column2, .button-3, .addquest, .addquest p {
         margin-bottom: 1em;
         margin-left: 0;
+        padding-left: 0
+        display: block;
       }
     }
 
@@ -351,9 +361,10 @@ tags: [general]
   </div>  <!-- end of column2 -->
   </div>
 
-  <div style="margin:2em 2em;font-size: 110%">
-    <h3 style="display:inline">Additional Questions?</h3><p style="padding-left:2em;display:inline"><i>Please see 
-      <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> or <a href="/a/app/contact-us">Contact Us</a>.</i></p>
+  <div class="addquest">
+    <h3 style="display:inline">Additional Questions?</h3>
+    <p><i>Please see <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> 
+      or <a href="/a/app/contact-us">Contact Us</a>.</i></p>
   </div>
 
 </div>
