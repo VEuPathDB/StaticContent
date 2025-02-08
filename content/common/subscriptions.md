@@ -153,7 +153,7 @@ tags: [general]
       font-style:italic;
     }
     .small {
-      font-size:85%;
+      font-size:90%;
       font-style:italic;
     }
   }
@@ -179,11 +179,11 @@ tags: [general]
     <ul>
       <li>Select a tier from the table, based on your 
           <span style="text-decoration: underline;">total</span> lab budget 
-          <span class="italics">(including all grants, salaries, studentships, etc.)</span> and frequency of usage.</li>
+          <span class="small">(including all grants, salaries, studentships, etc.)</span> and frequency of usage.</li>
       <li>... <span style="text-decoration: underline;">or</span> 
           use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> 
           to determine your fair share of expenses, based on lab budget and resource usage
-          <span class="italics">(details are not stored or transmitted to VEuPathDB.)</span></li>
+          <span class="small">(details are not stored or transmitted to VEuPathDB.)</span></li>
     </ul>
     <div style="text-align:center">
       <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
@@ -207,61 +207,61 @@ tags: [general]
   </thead>
 
   <tbody><tr>
-    <td class="sidewhite"><i>no funding at present</i></td>
+    <td class="center sidewhite"><i>no funding at present</i></td>
     <td>$0</td>
     <td>$0</td>
     <td>$0</td>
   </tr>
   <tr class="alt">
-    <td class="center sidewhite">&lt; $20K</td>
+    <td class="sidewhite">&lt; $20K</td>
     <td>$300</td>
     <td>$200</td>
     <td>$100</td>
   </tr>
   <tr>
-    <td class="center sidewhite">$20K - 50K</td>
+    <td class="sidewhite">$20K - 50K</td>
     <td>$1000</td>
     <td>$500</td>
     <td>$250</td>
   </tr>
   <tr class="alt">
-    <td class="center sidewhite">$50K - 150K</td>
+    <td class="sidewhite">$50K - 150K</td>
     <td>$2,000</td>
     <td>$1,000</td>
     <td>$500</td>
   </tr>
   <tr>
-    <td class="center sidewhite">$150K - 250K</td>
+    <td class="sidewhite">$150K - 250K</td>
     <td>$4,000</td>
     <td>$2,000</td>
     <td>$1,000</td>
   </tr>
   <tr class="alt">
-    <td class="center sidewhite">$250K - 500K</td>
+    <td class="sidewhite">$250K - 500K</td>
     <td>$8,000</td>
     <td>$4,000</td>
     <td>$2,000</td>
   </tr>
   <tr>
-    <td class="center sidewhite">$500K - 1M</td>
+    <td class="sidewhite">$500K - 1M</td>
     <td>$15,000</td>
     <td>$8,000</td>
     <td>$4,000</td>
   </tr>
   <tr class="alt">
-    <td class="center sidewhite">$1M - $1.5M</td>
+    <td class="sidewhite">$1M - $1.5M</td>
     <td>$20,000</td>
     <td>$12,000</td>
     <td>$6,000</td>
   </tr>
   <tr>
-    <td class="center sidewhite">$1.5M - $2M</td>
+    <td class="sidewhite">$1.5M - $2M</td>
     <td>$24,000</td>
     <td>$16,000</td>
     <td>$8,000</td>
   </tr>
   <tr class="alt">
-    <td class="center sidewhite">&gt; $2M</td>
+    <td class="sidewhite">&gt; $2M</td>
     <td>$30,000</td>
     <td>$20,000</td>
     <td>$10,000</td>
