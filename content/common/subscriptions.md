@@ -22,6 +22,7 @@ tags: [general]
     }
     h3 {
       padding-top:0.25em;
+      font-style: italic;
     }
 
     div.container {
