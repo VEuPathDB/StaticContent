@@ -47,7 +47,7 @@ tags: [general]
       background: #fdf9e696;
       padding: 0 1em 0;
       margin-left: 2em;
-      max-width: 20em;
+      max-width: 21em;
       p {margin:0;}
     }
    

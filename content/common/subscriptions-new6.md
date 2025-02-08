@@ -47,7 +47,7 @@ tags: [general]
       background: #fdf9e696;
       padding: 0 1em 0;
       margin-left: 2em;
-      max-width: 20em;
+      max-width: 21em;
       p {margin:0;}
     }
    
@@ -347,7 +347,7 @@ tags: [general]
     </div>
     </div>
 
-   <div style="position:relative;bottom:3em;left:2em">
+   <div style="position:relative;left:2em">
       <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
         Generate an invoice</a></button></div>
 
