@@ -149,13 +149,12 @@ tags: [general]
       text-decoration: none;
       color: white;
     }
+    .italics {
+      font-style:italic;
+    }
     .small {
       font-size:85%;
       font-style:italic;
-    }
-    div.small {
-      text-align: center;
-      padding-top: 0.5em;
     }
   }
 </style>
@@ -165,13 +164,13 @@ tags: [general]
 <div class="static-content">
 
   <div class="top">
-    <p><b style="font-size:110%">Why are we implementing a subscription service?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating the implementation of a mandatory subscription service ... even if your applicable subscription fee is $0. Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination.</p>
+    <p><b style="font-size:110%">Why are we implementing a subscription service?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating a mandatory subscription service ... even if your applicable subscription fee is $0. Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination.</p>
   </div>
 
   <div class="container">
 
   <div class="column1">
-    <h3>for Academic Research Groups:</h3>
+    <h3>for Academic Research Groups</h3>
     <p style="padding-bottom:1em">To determine your group's fair share of VEuPathDB annual costs:</p>
 
     <div class="container">
@@ -180,11 +179,11 @@ tags: [general]
     <ul>
       <li>Select a tier from the table, based on your 
           <span style="text-decoration: underline;">total</span> lab budget 
-          <span class="small">(including all grants, salaries, studentships, etc.)</span> and fequency of usage.</li>
+          <span class="italics">(including all grants, salaries, studentships, etc.)</span> and frequency of usage.</li>
       <li>... <span style="text-decoration: underline;">or</span> 
           use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> 
           to determine your fair share of expenses, based on lab budget and resource usage
-          <span class="small">(details are not stored or transmitted to VEuPathDB.)</span></li>
+          <span class="italics">(details are not stored or transmitted to VEuPathDB.)</span></li>
     </ul>
     <div style="text-align:center">
       <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
@@ -201,8 +200,8 @@ tags: [general]
       <td colspan="3" class="center">Database usage</td>
     </tr>
     <tr>
+      <td style="font-weight:400">Daily</td>
       <td style="font-weight:400">Weekly</td>
-      <td style="font-weight:400">Monthly</td>
       <td style="font-weight:400">Infrequent</td>
     </tr>
   </thead>
