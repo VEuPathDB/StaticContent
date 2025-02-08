@@ -214,8 +214,8 @@ tags: [general]
       <td colspan="6" class="center">Database usage</td>
     </tr>
     <tr>
-      <td colspan="2" class="center" style="font-weight:400">Daily</td>
-      <td colspan="2" class="center" style="font-weight:400">Weekly</td>
+      <td colspan="2" class="center sidewhite" style="font-weight:400">Daily</td>
+      <td colspan="2" class="center sidewhite" style="font-weight:400">Weekly</td>
       <td colspan="2" class="center" style="font-weight:400">Infrequent</td>
     </tr>
   </thead>
@@ -227,7 +227,7 @@ tags: [general]
     <td class="nopad">$</td>
     <td class="sidewhite">0</td>
     <td class="nopad">$</td>
-    <td class="sidewhite">0</td>
+    <td>0</td>
   </tr>
   <tr class="alt">
     <td class="nopad">$</td>
@@ -237,7 +237,7 @@ tags: [general]
     <td class="nopad">$</td>
     <td class="sidewhite">200</td>
     <td class="nopad">$</td>
-    <td class="sidewhite">100</td>
+    <td>100</td>
   </tr>
   <tr>
     <td class="nopad">$</td>
@@ -247,7 +247,7 @@ tags: [general]
     <td class="nopad">$</td>
     <td class="sidewhite">500</td>
     <td class="nopad">$</td>
-    <td class="sidewhite">250</td>
+    <td>250</td>
   </tr>
   <tr class="alt">
     <td class="nopad">$</td>
@@ -257,7 +257,7 @@ tags: [general]
     <td class="nopad">$</td>
     <td>1,000</td>
     <td class="nopad">$</td>
-    <td class="sidewhite">500</td>
+    <td>500</td>
   </tr>
   <tr>
     <td class="nopad">$</td>
@@ -267,7 +267,7 @@ tags: [general]
     <td class="nopad">$</td>
     <td class="sidewhite">2,000</td>
     <td class="nopad">$</td>
-    <td class="sidewhite">1,000</td>
+    <td>1,000</td>
   </tr>
   <tr class="alt">
     <td class="nopad">$</td>
@@ -277,7 +277,7 @@ tags: [general]
     <td class="nopad">$</td>
     <td class="sidewhite">4,000</td>
     <td class="nopad">$</td>
-    <td class="sidewhite">2,000</td>
+    <td>2,000</td>
   </tr>
   <tr>
     <td class="nopad">$</td>
@@ -287,7 +287,7 @@ tags: [general]
     <td class="nopad">$</td>
     <td class="sidewhite">8,000</td>
     <td class="nopad">$</td>
-    <td class="sidewhite">4,000</td>
+    <td>4,000</td>
   </tr>
   <tr class="alt">
     <td class="nopad">$</td>
@@ -297,7 +297,7 @@ tags: [general]
     <td class="nopad">$</td>
     <td class="sidewhite">12,000</td>
     <td class="nopad">$</td>
-    <td class="sidewhite">6,000</td>
+    <td>6,000</td>
   </tr>
   <tr>
     <td class="nopad">$</td>
@@ -307,7 +307,7 @@ tags: [general]
     <td class="nopad">$</td>
     <td class="sidewhite">16,000</td>
     <td class="nopad">$</td>
-    <td class="sidewhite">8,000</td>
+    <td>8,000</td>
   </tr>
   <tr class="alt">
     <td class="nopad">$</td>
@@ -317,7 +317,7 @@ tags: [general]
     <td class="nopad">$</td>
     <td class="sidewhite">20,000</td>
     <td class="nopad">$</td>
-    <td class="sidewhite">10,000</td>
+    <td>10,000</td>
   </tr></tbody>
 
   </table>
