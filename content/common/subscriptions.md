@@ -36,7 +36,7 @@ tags: [general]
       background: #e6f7fd78;
       padding: 0 1em 0.5em;
       margin-left: 2em;
-      min-width: 42em;
+      min-width: 45em;
       p {margin:0;}
     }
     div.column2 {
