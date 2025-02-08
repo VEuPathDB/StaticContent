@@ -32,8 +32,9 @@ tags: [general]
       div.container {
         flex-wrap:wrap;
       }
-      div.column1 {
+      div.column1, div.column2 {
         margin-bottom: 1em;
+        margin-left: 0;
       }
     }
 
@@ -114,11 +115,14 @@ tags: [general]
     tbody tr.alt td {
       background: #d6eaf8;
     }
-  /*  td.nopad {
-      padding: 0;
-      margin: 0;
+    td.nopad {
+      padding-right: 0;
     }
-*/
+    td.pad-r-1em {
+      padding-right: 1em
+    }
+
+
     .button-3 {
       font-size: 130%;
       background-color: green;
@@ -225,7 +229,7 @@ tags: [general]
   </tr>
   <tr class="alt">
     <td class="nopad">$</td>
-    <td class="sidewhite">&lt; 20K</td>
+    <td class="pad-r-1em sidewhite">&lt; 20K</td>
     <td class="nopad">$</td>
     <td>300</td>
     <td class="nopad">$</td>
@@ -235,7 +239,7 @@ tags: [general]
   </tr>
   <tr>
     <td class="nopad">$</td>
-    <td class="sidewhite">20K - 50K</td>
+    <td class="pad-r-1em sidewhite">20K - 50K</td>
     <td class="nopad">$</td>
     <td>1000</td>
     <td class="nopad">$</td>
@@ -245,7 +249,7 @@ tags: [general]
   </tr>
   <tr class="alt">
     <td class="nopad">$</td>
-    <td class="sidewhite">50K - 150K</td>
+    <td class="pad-r-1em sidewhite">50K - 150K</td>
     <td class="nopad">$</td>
     <td>2,000</td>
     <td class="nopad">$</td>
@@ -255,7 +259,7 @@ tags: [general]
   </tr>
   <tr>
     <td class="nopad">$</td>
-    <td class="sidewhite">150K - 250K</td>
+    <td class="pad-r-1em sidewhite">150K - 250K</td>
     <td class="nopad">$</td>
     <td>4,000</td>
     <td class="nopad">$</td>
@@ -265,7 +269,7 @@ tags: [general]
   </tr>
   <tr class="alt">
     <td class="nopad">$</td>
-    <td class="sidewhite">250K - 500K</td>
+    <td class="pad-r-1em sidewhite">250K - 500K</td>
     <td class="nopad">$</td>
     <td>8,000</td>
     <td class="nopad">$</td>
@@ -275,7 +279,7 @@ tags: [general]
   </tr>
   <tr>
     <td class="nopad">$</td>
-    <td class="sidewhite">500K - 1M</td>
+    <td class="pad-r-1em sidewhite">500K - 1M</td>
     <td class="nopad">$</td>
     <td>15,000</td>
     <td class="nopad">$</td>
@@ -285,7 +289,7 @@ tags: [general]
   </tr>
   <tr class="alt">
     <td class="nopad">$</td>
-    <td class="sidewhite">1M - 1.5M</td>
+    <td class="pad-r-1em sidewhite">1M - 1.5M</td>
     <td class="nopad">$</td>
     <td>20,000</td>
     <td class="nopad">$</td>
@@ -295,7 +299,7 @@ tags: [general]
   </tr>
   <tr>
     <td class="nopad">$</td>
-    <td class="sidewhite">1.5M - 2M</td>
+    <td class="pad-r-1em sidewhite">1.5M - 2M</td>
     <td class="nopad">$</td>
     <td>24,000</td>
     <td class="nopad">$</td>
@@ -305,7 +309,7 @@ tags: [general]
   </tr>
   <tr class="alt">
     <td class="nopad">$</td>
-    <td class="sidewhite">&gt; 2M</td>
+    <td class="pad-r-1em sidewhite">&gt; 2M</td>
     <td class="nopad">$</td>
     <td>30,000</td>
     <td class="nopad">$</td>
