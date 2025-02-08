@@ -189,7 +189,7 @@ tags: [general]
       div.column1, div.column2, .button-3, div.addquest, div.addquest p {
         margin-bottom: 1em;
         margin-left: 0;
-        padding-left: 0
+        padding-left: 0;
         display: block;
       }
     }
