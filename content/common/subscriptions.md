@@ -14,7 +14,9 @@ tags: [general]
 
   div.static-content {
     font-size:130%;
- 
+    a {
+      text-decoration: underline;
+    } 
     h2 {
       font-size: 1.5em;
       font-weight:400;
@@ -24,11 +26,9 @@ tags: [general]
       padding-top:0.25em;
       font-style: italic;
     }
-
     div.container {
       display: flex;
     }
-
     div.column1 {
       flex: 0 0 60%; 
       border-radius: .5em;
@@ -50,7 +50,6 @@ tags: [general]
       max-width: 21em;
       p {margin:0;}
     }
-   
     div.column11 {
       flex: 0 0 45%;
     }
@@ -66,7 +65,6 @@ tags: [general]
         right: 6em;
       }
     }
-
     ul {
       list-style-type: square;
     }
@@ -82,7 +80,6 @@ tags: [general]
       padding-top: 0.4em;
       padding-bottom: 0.5em;
     }
-
     table {
       font-size: 85%;
       border: 1px solid lightblue;
@@ -125,7 +122,7 @@ tags: [general]
       padding-left: 2em
     }
     td.pad-r-4em {
-      padding-right: 4em
+      padding-right: 4.3em
     }
 
     .button-3 {
@@ -240,9 +237,9 @@ tags: [general]
       <td colspan="6" class="center">Database usage</td>
     </tr>
     <tr>
-      <td colspan="2" class="center sidewhite" style="font-weight:400">Daily</td>
-      <td colspan="2" class="center sidewhite" style="font-weight:400">Weekly</td>
-      <td colspan="2" class="center" style="font-weight:400">Infrequent</td>
+      <td colspan="2" class="center sidewhite" style="font-weight:400;font-style:italic">Daily</td>
+      <td colspan="2" class="center sidewhite" style="font-weight:400;font-style:italic">Weekly</td>
+      <td colspan="2" class="center" style="font-weight:400;font-style:italic">Infrequent</td>
     </tr>
   </thead>
 
@@ -269,7 +266,7 @@ tags: [general]
     <td class="nopad-r">$</td>
     <td class="pad-r-1em sidewhite">20K - 50K</td>
     <td class="nopad-r">$</td>
-    <td class="sidewhite">1000</td>
+    <td class="sidewhite">1,000</td>
     <td class="nopad-r">$</td>
     <td class="sidewhite">500</td>
     <td class="nopad-r">$</td>
