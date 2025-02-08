@@ -218,7 +218,7 @@ tags: [general]
           <span style="text-decoration: underline;">total</span> lab budget 
           <span class="small">(including all grants, salaries, studentships, etc.)</span> and frequency of usage.</li>
       <li>... <span style="text-decoration: underline;">or</span> 
-          use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> 
+          use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> 
           to determine your fair share of expenses, based on lab budget and resource usage
           <span class="small">(details are not stored or transmitted to VEuPathDB.)</span></li>
     </ul>
