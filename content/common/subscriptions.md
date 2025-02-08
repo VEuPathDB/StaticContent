@@ -161,6 +161,9 @@ tags: [general]
       font-size:90%;
       font-style:italic;
     }
+    .center {
+      text-align: center;
+    }
   }
 </style>
 
