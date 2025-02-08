@@ -77,7 +77,7 @@ tags: [general]
       text-decoration: underline;
       margin-top: 1em;
       position: relative;
-      right: 2em;
+      right: 1em;
     }
     .column2 li {
       padding-top: 0.4em;
