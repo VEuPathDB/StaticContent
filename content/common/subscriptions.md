@@ -37,7 +37,9 @@ tags: [general]
       padding: 0 1em 0.5em;
       margin-left: 2em;
       min-width: 45em;
-      p {margin:0;}
+      p {
+        margin:0;
+      }
     }
     div.column2 {
       position:relative;
@@ -48,7 +50,9 @@ tags: [general]
       padding: 0 1em 0;
       margin-left: 2em;
       max-width: 21em;
-      p {margin:0;}
+      p {
+        margin:0;
+      }
     }
     div.column11 {
       flex: 0 0 45%;
@@ -56,15 +60,8 @@ tags: [general]
     div.column12 {
       flex: 0 0 auto;
       margin-left: 1em;
-      p {
-        font-size: 85%;
-        font-weight: bold;
-        background: lightblue;
-        text-align: right;
-        position: relative;
-        right: 6em;
-      }
     }
+
     ul {
       list-style-type: square;
     }
@@ -76,10 +73,17 @@ tags: [general]
       padding-top: 0.8em;
       padding-bottom: 0.5em;
     }
+    .column11 li p {
+      text-decoration: underline;
+      margin-top: 1em;
+      position: relative;
+      right: 2em;
+    }
     .column2 li {
       padding-top: 0.4em;
       padding-bottom: 0.5em;
     }
+
     table {
       font-size: 85%;
       border: 1px solid lightblue;
@@ -160,6 +164,7 @@ tags: [general]
       text-decoration: none;
       color: white;
     }
+
     .italics {
       font-style:italic;
     }
