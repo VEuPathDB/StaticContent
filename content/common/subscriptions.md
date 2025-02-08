@@ -98,6 +98,13 @@ tags: [general]
       text-align: right;
       padding: 0.10em 0.4em;
     }
+    td.center {
+      text-align: center;
+      vertical-align: middle;
+    }
+    td.sidewhite {
+      border-right: 1px solid white;
+    }
     thead td {
       font-weight: bold;
       border: 1px solid lightblue;
@@ -106,14 +113,11 @@ tags: [general]
     tbody tr.alt td {
       background: #d6eaf8;
     }
-    td.center {
-      text-align: center;
-      vertical-align: middle;
+  /*  td.nopad {
+      padding: 0;
+      margin: 0;
     }
-    td.sidewhite {
-      border-right: 1px solid white;
-    }
-
+*/
     .button-3 {
       font-size: 130%;
       background-color: green;
@@ -185,7 +189,7 @@ tags: [general]
           to determine your fair share of expenses, based on lab budget and resource usage
           <span class="small">(details are not stored or transmitted to VEuPathDB.)</span></li>
     </ul>
-    <div style="text-align:center">
+    <div class="center">
       <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
         Generate an invoice</a></button></div>
 
@@ -196,75 +200,114 @@ tags: [general]
 
   <thead>
     <tr>
-      <td rowspan="2" class="center sidewhite">Lab budget</td>
-      <td colspan="3" class="center">Database usage</td>
+      <td colspan="2" rowspan="2" class="center sidewhite">Lab budget</td>
+      <td colspan="6" class="center">Database usage</td>
     </tr>
     <tr>
-      <td style="font-weight:400">Daily</td>
-      <td style="font-weight:400">Weekly</td>
-      <td style="font-weight:400">Infrequent</td>
+      <td colspan="2" class="center" style="font-weight:400">Daily</td>
+      <td colspan="2" class="center" style="font-weight:400">Weekly</td>
+      <td colspan="2" class="center" style="font-weight:400">Infrequent</td>
     </tr>
   </thead>
 
   <tbody><tr>
-    <td class="center sidewhite"><i>no funding at present</i></td>
-    <td>$0</td>
-    <td>$0</td>
-    <td>$0</td>
+    <td colspan="2" class="center sidewhite"><i>no funding at present</i></td>
+    <td class="nopad">$</td>
+    <td>0</td>
+    <td class="nopad">$</td>
+    <td>0</td>
+    <td class="nopad">$</td>
+    <td>0</td>
   </tr>
   <tr class="alt">
-    <td class="sidewhite">&lt; $20K</td>
-    <td>$300</td>
-    <td>$200</td>
-    <td>$100</td>
+    <td class="nopad">$</td>
+    <td class="sidewhite">&lt; 20K</td>
+    <td class="nopad">$</td>
+    <td>300</td>
+    <td class="nopad">$</td>
+    <td>200</td>
+    <td class="nopad">$</td>
+    <td>100</td>
   </tr>
   <tr>
-    <td class="sidewhite">$20K - 50K</td>
-    <td>$1000</td>
-    <td>$500</td>
-    <td>$250</td>
+    <td class="nopad">$</td>
+    <td class="sidewhite">20K - 50K</td>
+    <td class="nopad">$</td>
+    <td>1000</td>
+    <td class="nopad">$</td>
+    <td>500</td>
+    <td class="nopad">$</td>
+    <td>250</td>
   </tr>
   <tr class="alt">
-    <td class="sidewhite">$50K - 150K</td>
-    <td>$2,000</td>
-    <td>$1,000</td>
-    <td>$500</td>
+    <td class="nopad">$</td>
+    <td class="sidewhite">50K - 150K</td>
+    <td class="nopad">$</td>
+    <td>2,000</td>
+    <td class="nopad">$</td>
+    <td>1,000</td>
+    <td class="nopad">$</td>
+    <td>500</td>
   </tr>
   <tr>
-    <td class="sidewhite">$150K - 250K</td>
-    <td>$4,000</td>
-    <td>$2,000</td>
-    <td>$1,000</td>
+    <td class="nopad">$</td>
+    <td class="sidewhite">150K - 250K</td>
+    <td class="nopad">$</td>
+    <td>4,000</td>
+    <td class="nopad">$</td>
+    <td>2,000</td>
+    <td class="nopad">$</td>
+    <td>1,000</td>
   </tr>
   <tr class="alt">
-    <td class="sidewhite">$250K - 500K</td>
-    <td>$8,000</td>
-    <td>$4,000</td>
-    <td>$2,000</td>
+    <td class="nopad">$</td>
+    <td class="sidewhite">250K - 500K</td>
+    <td class="nopad">$</td>
+    <td>8,000</td>
+    <td class="nopad">$</td>
+    <td>4,000</td>
+    <td class="nopad">$</td>
+    <td>2,000</td>
   </tr>
   <tr>
-    <td class="sidewhite">$500K - 1M</td>
-    <td>$15,000</td>
-    <td>$8,000</td>
-    <td>$4,000</td>
+    <td class="nopad">$</td>
+    <td class="sidewhite">500K - 1M</td>
+    <td class="nopad">$</td>
+    <td>15,000</td>
+    <td class="nopad">$</td>
+    <td>8,000</td>
+    <td class="nopad">$</td>
+    <td>4,000</td>
   </tr>
   <tr class="alt">
-    <td class="sidewhite">$1M - $1.5M</td>
-    <td>$20,000</td>
-    <td>$12,000</td>
-    <td>$6,000</td>
+    <td class="nopad">$</td>
+    <td class="sidewhite">1M - 1.5M</td>
+    <td class="nopad">$</td>
+    <td>20,000</td>
+    <td class="nopad">$</td>
+    <td>12,000</td>
+    <td class="nopad">$</td>
+    <td>6,000</td>
   </tr>
   <tr>
-    <td class="sidewhite">$1.5M - $2M</td>
-    <td>$24,000</td>
-    <td>$16,000</td>
-    <td>$8,000</td>
+    <td class="nopad">$</td>
+    <td class="sidewhite">1.5M - 2M</td>
+    <td class="nopad">$</td>
+    <td>24,000</td>
+    <td class="nopad">$</td>
+    <td>16,000</td>
+    <td class="nopad">$</td>
+    <td>8,000</td>
   </tr>
   <tr class="alt">
-    <td class="sidewhite">&gt; $2M</td>
-    <td>$30,000</td>
-    <td>$20,000</td>
-    <td>$10,000</td>
+    <td class="nopad">$</td>
+    <td class="sidewhite">&gt; 2M</td>
+    <td class="nopad">$</td>
+    <td>30,000</td>
+    <td class="nopad">$</td>
+    <td>20,000</td>
+    <td class="nopad">$</td>
+    <td>10,000</td>
   </tr></tbody>
 
   </table>
