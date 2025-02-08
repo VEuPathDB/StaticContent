@@ -226,45 +226,45 @@ tags: [general]
   </tr>
   <tr class="alt">
     <td class="center sidewhite">$50K - 150K</td>
-    <td>$2000</td>
-    <td>$1000</td>
+    <td>$2,000</td>
+    <td>$1,000</td>
     <td>$500</td>
   </tr>
   <tr>
     <td class="center sidewhite">$150K - 250K</td>
-    <td>$4000</td>
-    <td>$2000</td>
-    <td>$1000</td>
+    <td>$4,000</td>
+    <td>$2,000</td>
+    <td>$1,000</td>
   </tr>
   <tr class="alt">
     <td class="center sidewhite">$250K - 500K</td>
-    <td>$8000</td>
-    <td>$4000</td>
-    <td>$2000</td>
+    <td>$8,000</td>
+    <td>$4,000</td>
+    <td>$2,000</td>
   </tr>
   <tr>
     <td class="center sidewhite">$500K - 1M</td>
-    <td>$15000</td>
-    <td>$8000</td>
-    <td>$4000</td>
+    <td>$15,000</td>
+    <td>$8,000</td>
+    <td>$4,000</td>
   </tr>
   <tr class="alt">
     <td class="center sidewhite">$1M - $1.5M</td>
-    <td>$20000</td>
-    <td>$12000</td>
-    <td>$6000</td>
+    <td>$20,000</td>
+    <td>$12,000</td>
+    <td>$6,000</td>
   </tr>
   <tr>
     <td class="center sidewhite">$1.5M - $2M</td>
-    <td>$24000</td>
-    <td>$16000</td>
-    <td>$8000</td>
+    <td>$24,000</td>
+    <td>$16,000</td>
+    <td>$8,000</td>
   </tr>
   <tr class="alt">
     <td class="center sidewhite">&gt; $2M</td>
-    <td>$30000</td>
-    <td>$20000</td>
-    <td>$10000</td>
+    <td>$30,000</td>
+    <td>$20,000</td>
+    <td>$10,000</td>
   </tr></tbody>
 
   </table>
