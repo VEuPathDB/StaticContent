@@ -42,7 +42,6 @@ tags: [general]
       }
     }
     div.column2 {
-      position:relative;
       flex: 0 0 auto;
       border-radius: .5em;
       border: 1px solid #dbb667a6;
@@ -222,7 +221,7 @@ tags: [general]
       <li>Select your annual fee from the table, based on your 
         <span style="text-decoration: underline;">total</span> lab budget 
         <span class="small">(including all grants, salaries, studentships, etc.)</span> and frequency of usage.
-        <p style="text-decoration: underline;margin-top: 1em;">OR</p></li>
+        <p>OR</p></li>
       <li>Use our 
         <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> 
         to determine your fair share of expenses, based on lab budget and resource usage
