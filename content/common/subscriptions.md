@@ -229,7 +229,7 @@ tags: [general]
     </ul>
     <div class="center">
       <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
-        Generate an invoice</a></button></div>
+        Go to Invoice Form</a></button></div>
 
     </div>
 
