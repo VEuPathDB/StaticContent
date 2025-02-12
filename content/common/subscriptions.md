@@ -223,7 +223,8 @@ tags: [general]
         <span class="small">(including all grants, salaries, studentships, etc.)</span> and frequency of usage.
         <p>OR</p></li>
       <li>Use our 
-        <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> (also available as an <a href="/a/app/static-content/Subscription_Fee_Calculator_2025.xlsx">Excel file</a>) 
+        <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> 
+        (also available as an <a target="_blank" href="/documents/Subscription_Fee_Calculator_2025.xlsx">Excel file</a>) 
         to determine your fair share of expenses, based on lab budget and resource usage
         <span class="small">(details are not stored or transmitted to VEuPathDB.)</span></li>
     </ul>
