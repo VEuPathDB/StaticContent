@@ -357,7 +357,7 @@ tags: [general]
   <div class="column2">     
     <h3>Other Subscription Types</h3>
     <p>If you are interested in the following, please
-      <a href="mailto:subscriptions@veupathdb.org">Contact Us</a> for additional options:</p>
+      <a href="mailto:subscriptions@veupathdb.org">Contact Us</a> for additional options:</p><br>
     <ul>
         
         <li>Institutional rates (non-profit) <br><span class="small">based on aggregate number of users</span></li>
