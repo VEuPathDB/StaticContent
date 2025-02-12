@@ -359,7 +359,7 @@ tags: [general]
     <p>If you are interested in the following, please
       <a href="mailto:subscriptions@veupathdb.org">Contact Us</a> for additional options:</p>
     <ul>
-        <li style="margin-top:1em">Multiyear subscriptions</li>
+        
         <li>Institutional rates (non-profit) <br><span class="small">based on aggregate number of users</span></li>
         <li>Industry/biotech rates (for profit) <br><span class="small">based on revenue</span></li>
         <li>Educational usage (non-profit) <br><span class="small">based on # student hours</span></li>
