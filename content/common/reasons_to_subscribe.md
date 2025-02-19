@@ -25,8 +25,22 @@ tags: [general]
       font-size: 120%;        
     }
 
+    blockquote {
+      border-left: 4px solid #eaecf0;
+      font-style: italic;
+      margin: 1rem auto;
+      max-width: 40rem;
+      padding-left: 1.375rem;
+    }
 
-
+    blockquote cite {
+      display: block;
+      font-style: normal;
+      font-family: var(--font-family-sans);
+      font-size: .75rem;
+      line-height: 1.75;
+      margin-top: 1.25rem;
+    }
 
   }
 </style>
