@@ -1,0 +1,13 @@
+--- # indicates te begining of the document
+- type: question
+  question: Blablabla?
+  answer: |
+      <p>BlabLablBla</p>
+- type: question
+  question: Blablabla number 2?
+  answer: |
+      <p>BlabLablBla number 2</p>
+- type: quote
+  username: User from India
+  quote: |
+      <p>quote number 1</p>
