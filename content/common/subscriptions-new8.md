@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Subscription Information
-permalink: subscriptions
+permalink: subscriptions-new8
 tags: [general]
 ---
 <style>
@@ -164,6 +164,9 @@ tags: [general]
       color: white;
     }
 
+    .bluebkg {
+     /* background: lightblue;*/
+    }
     .italics {
       font-style:italic;
     }
@@ -224,13 +227,12 @@ tags: [general]
         <p>OR</p></li>
       <li>Use our 
         <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> 
-        (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) 
         to determine your fair share of expenses, based on lab budget and resource usage
         <span class="small">(details are not stored or transmitted to VEuPathDB.)</span></li>
     </ul>
     <div class="center">
       <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
-        Go to Invoice Form</a></button></div>
+        Generate an invoice</a></button></div>
 
     </div>
 
@@ -250,8 +252,8 @@ tags: [general]
   </thead>
 
   <tbody><tr>
-    <td colspan="2" class="center sidewhite"><i>no funding at present</i></td>
-    <td class="pad-l-1em nopad-r">$</td>
+    <td colspan="2" class="italics center sidewhite">no funding at present</td>
+    <td class="italics pad-l-1em nopad-r">$</td>
     <td class="sidewhite">0</td>
     <td class="pad-l-1em nopad-r">$</td>
     <td class="sidewhite">0</td>
@@ -259,8 +261,8 @@ tags: [general]
     <td class="pad-r-halfem">0</td>
   </tr>
   <tr class="alt">
-    <td class="pad-l-2em nopad-r">$</td>  <!-- this affects all subsequent rows -->
-    <td class="pad-r-1em sidewhite">&lt; 20K</td>
+    <td class="italics bluebkg pad-l-2em nopad-r">$</td>  <!-- this affects all subsequent rows -->
+    <td class="italics bluebkg pad-r-1em sidewhite">&lt; 20K</td>
     <td class="pad-l-1em nopad-r">$</td>  <!-- this affects all subsequent rows -->
     <td class="sidewhite">300</td>
     <td class="pad-l-1em nopad-r">$</td>  <!-- this affects all subsequent rows -->
@@ -269,8 +271,8 @@ tags: [general]
     <td class="pad-r-halfem">100</td>
   </tr>
   <tr>
-    <td class="nopad-r">$</td>
-    <td class="pad-r-1em sidewhite">20K - 50K</td>
+    <td class="italics nopad-r">$</td>
+    <td class="italics pad-r-1em sidewhite">20K - 50K</td>
     <td class="nopad-r">$</td>
     <td class="sidewhite">1,000</td>
     <td class="nopad-r">$</td>
@@ -279,8 +281,8 @@ tags: [general]
     <td class="pad-r-halfem">250</td>
   </tr>
   <tr class="alt">
-    <td class="nopad-r">$</td>
-    <td class="pad-r-1em sidewhite">50K - 150K</td>
+    <td class="italics bluebkg nopad-r">$</td>
+    <td class="italics bluebkg pad-r-1em sidewhite">50K - 150K</td>
     <td class="nopad-r">$</td>
     <td class="sidewhite">2,000</td>
     <td class="nopad-r">$</td>
@@ -289,8 +291,8 @@ tags: [general]
     <td class="pad-r-halfem">500</td>
   </tr>
   <tr>
-    <td class="nopad-r">$</td>
-    <td class="pad-r-1em sidewhite">150K - 250K</td>
+    <td class="italics nopad-r">$</td>
+    <td class="italics pad-r-1em sidewhite">150K - 250K</td>
     <td class="nopad-r">$</td>
     <td class="sidewhite">4,000</td>
     <td class="nopad-r">$</td>
@@ -299,8 +301,8 @@ tags: [general]
     <td class="pad-r-halfem">1,000</td>
   </tr>
   <tr class="alt">
-    <td class="nopad-r">$</td>
-    <td class="pad-r-1em sidewhite">250K - 500K</td>
+    <td class="italics bluebkg nopad-r">$</td>
+    <td class="italics bluebkg pad-r-1em sidewhite">250K - 500K</td>
     <td class="nopad-r">$</td>
     <td class="sidewhite">8,000</td>
     <td class="nopad-r">$</td>
@@ -309,8 +311,8 @@ tags: [general]
     <td class="pad-r-halfem">2,000</td>
   </tr>
   <tr>
-    <td class="nopad-r">$</td>
-    <td class="pad-r-2em sidewhite">500K - 1M</td>
+    <td class="italics nopad-r">$</td>
+    <td class="italics pad-r-2em sidewhite">500K - 1M</td>
     <td class="nopad-r">$</td>
     <td class="sidewhite">15,000</td>
     <td class="nopad-r">$</td>
@@ -319,8 +321,8 @@ tags: [general]
     <td class="pad-r-halfem">4,000</td>
   </tr>
   <tr class="alt">
-    <td class="nopad-r">$</td>
-    <td class="pad-r-2em sidewhite">1M - 1.5M</td>
+    <td class="italics bluebkg nopad-r">$</td>
+    <td class="italics bluebkg pad-r-2em sidewhite">1M - 1.5M</td>
     <td class="nopad-r">$</td>
     <td class="sidewhite">20,000</td>
     <td class="nopad-r">$</td>
@@ -329,8 +331,8 @@ tags: [general]
     <td class="pad-r-halfem">6,000</td>
   </tr>
   <tr>
-    <td class="nopad-r">$</td>
-    <td class="pad-r-2em sidewhite">1.5M - 2M</td>
+    <td class="italics nopad-r">$</td>
+    <td class="italics pad-r-2em sidewhite">1.5M - 2M</td>
     <td class="nopad-r">$</td>
     <td class="sidewhite">24,000</td>
     <td class="nopad-r">$</td>
@@ -339,8 +341,8 @@ tags: [general]
     <td class="pad-r-halfem">8,000</td>
   </tr>
   <tr class="alt">
-    <td class="nopad-r">$</td>
-    <td class="pad-r-4em sidewhite">&gt; 2M</td>
+    <td class="italics bluebkg nopad-r">$</td>
+    <td class="italics bluebkg pad-r-4em sidewhite">&gt; 2M</td>
     <td class="nopad-r">$</td>
     <td class="sidewhite">30,000</td>
     <td class="nopad-r">$</td>
@@ -358,9 +360,9 @@ tags: [general]
   <div class="column2">     
     <h3>Other Subscription Types</h3>
     <p>If you are interested in the following, please
-      <a href="mailto:subscriptions@veupathdb.org">Contact Us</a> for additional options:</p><br>
+      <a href="mailto:subscriptions@veupathdb.org">Contact Us</a> for additional options:</p>
     <ul>
-        
+        <li style="margin-top:1em">Multiyear subscriptions</li>
         <li>Institutional rates (non-profit) <br><span class="small">based on aggregate number of users</span></li>
         <li>Industry/biotech rates (for profit) <br><span class="small">based on revenue</span></li>
         <li>Educational usage (non-profit) <br><span class="small">based on # student hours</span></li>

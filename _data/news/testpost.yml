@@ -1,0 +1,32 @@
+- type: feature 
+  title: GENE PAGES
+  img: /assets/images/news/genepagenew2.png
+  content: |
+    <p>We have made improvements to the appearance and navigation of gene record pages:</p>
+    <ul>
+      <li>Gene summary at the top of the page is now left-aligned for clarity.</li>
+      <li>Contents menu on the left of the page: Click on a category to expand and reveal subcategories.
+          Selected categories are shaded for enhanced visibility.</li>
+      <li>Central navigation pane: Subcategories are now shaded in grey, with visual indicators to show expandable sections.</li>
+      <li>Font size and padding have been adjusted for better readability.</li>
+    </ul>
+- type: feature
+  title: ORTHOMCL 7.0
+  img: /assets/images/news/orthophylotree2.png
+  content: |
+    <p>
+      A major update of our popular OrthoMCL resource is now available as a beta release, <a href="https://beta.orthomcl.org/orthomcl.b7/app/">OrthoMCL 7</a>. It is packed with new
+      features, including:</p>
+    <ul>
+      <li>OrthoFinder clustering.</li>
+      <li>Similar Groups.</li>
+      <li>Customizable Phylogenetic Trees!</li>
+      <li>New BLAST-based protein mapping tool.</li>
+    </ul>
+    <p style="margin-bottom:0"><a href="https://static-content.veupathdb.org/documents/Read_more_Ortho7_new.pdf">Read more about the new features</a>, and explore the <a href="https://static-content.veupathdb.org/documents/Ortho7_basic_functionality_tutorial.pdf">full tutorial</a>.  </p>
+- type: outreach
+  title: UPDATED FAQ
+  img: /assets/images/news/faqimg2.png
+  content: |
+    <p>As always we strive to be fully transparent about all aspects of VEuPathDB operations, activities and plans. Towards that end, we have updated our <a href="/a/app/static-content/faq.html">frequently asked questions (FAQ) page</a> with questions related to funding status and prospects for the future, VEuPathDB operations, and more.
+    </p>

@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Subscription Information
-permalink: subscriptions
+permalink: subscriptions-new6
 tags: [general]
 ---
 <style>
@@ -14,9 +14,7 @@ tags: [general]
 
   div.static-content {
     font-size:130%;
-    a {
-      text-decoration: underline;
-    } 
+ 
     h2 {
       font-size: 1.5em;
       font-weight:400;
@@ -26,9 +24,11 @@ tags: [general]
       padding-top:0.25em;
       font-style: italic;
     }
+
     div.container {
       display: flex;
     }
+
     div.column1 {
       flex: 0 0 60%; 
       border-radius: .5em;
@@ -37,11 +37,10 @@ tags: [general]
       padding: 0 1em 0.5em;
       margin-left: 2em;
       min-width: 45em;
-      p {
-        margin:0;
-      }
+      p {margin:0;}
     }
     div.column2 {
+      position:relative;
       flex: 0 0 auto;
       border-radius: .5em;
       border: 1px solid #dbb667a6;
@@ -49,16 +48,23 @@ tags: [general]
       padding: 0 1em 0;
       margin-left: 2em;
       max-width: 21em;
-      p {
-        margin:0;
-      }
+      p {margin:0;}
     }
+   
     div.column11 {
       flex: 0 0 45%;
     }
     div.column12 {
       flex: 0 0 auto;
       margin-left: 1em;
+      p {
+        font-size: 85%;
+        font-weight: bold;
+        background: lightblue;
+        text-align: right;
+        position: relative;
+        right: 6em;
+      }
     }
 
     ul {
@@ -69,14 +75,8 @@ tags: [general]
       margin-top: 0;
     }
     .column11 li {
-      padding-top: 0.8em;
+      padding-top: 1.5em;
       padding-bottom: 0.5em;
-    }
-    .column11 li p {
-      text-decoration: underline;
-      margin-top: 1em;
-      position: relative;
-      right: 1em;
     }
     .column2 li {
       padding-top: 0.4em;
@@ -125,7 +125,7 @@ tags: [general]
       padding-left: 2em
     }
     td.pad-r-4em {
-      padding-right: 4.3em
+      padding-right: 4em
     }
 
     .button-3 {
@@ -163,7 +163,6 @@ tags: [general]
       text-decoration: none;
       color: white;
     }
-
     .italics {
       font-style:italic;
     }
@@ -218,19 +217,14 @@ tags: [general]
 
     <div class="column11">
     <ul>
-      <li>Select your annual fee from the table, based on your 
-        <span style="text-decoration: underline;">total</span> lab budget 
-        <span class="small">(including all grants, salaries, studentships, etc.)</span> and frequency of usage.
-        <p>OR</p></li>
-      <li>Use our 
-        <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> 
-        (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) 
-        to determine your fair share of expenses, based on lab budget and resource usage
-        <span class="small">(details are not stored or transmitted to VEuPathDB.)</span></li>
+      <li>Select a tier from the table, based on your 
+          <span style="text-decoration: underline;">total</span> lab budget 
+          <span class="small">(including all grants, salaries, studentships, etc.)</span> and frequency of usage.</li>
+      <li>... <span style="text-decoration: underline;">or</span> 
+          use our <a href="https://docs.google.com/spreadsheets/d/1nvfeTIqPszfKyElrfAiW1KnB9bL5BSqmVeux_7u9XEo/copy?gid=790763898#gid=790763898" target="_blank" rel="noopener noreferrer">fee calculator</a> 
+          to determine your fair share of expenses, based on lab budget and resource usage
+          <span class="small">(details are not stored or transmitted to VEuPathDB.)</span></li>
     </ul>
-    <div class="center">
-      <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
-        Go to Invoice Form</a></button></div>
 
     </div>
 
@@ -243,9 +237,9 @@ tags: [general]
       <td colspan="6" class="center">Database usage</td>
     </tr>
     <tr>
-      <td colspan="2" class="center sidewhite" style="font-weight:400;font-style:italic">Daily</td>
-      <td colspan="2" class="center sidewhite" style="font-weight:400;font-style:italic">Weekly</td>
-      <td colspan="2" class="center" style="font-weight:400;font-style:italic">Infrequent</td>
+      <td colspan="2" class="center sidewhite" style="font-weight:400">Daily</td>
+      <td colspan="2" class="center sidewhite" style="font-weight:400">Weekly</td>
+      <td colspan="2" class="center" style="font-weight:400">Infrequent</td>
     </tr>
   </thead>
 
@@ -259,20 +253,20 @@ tags: [general]
     <td class="pad-r-halfem">0</td>
   </tr>
   <tr class="alt">
-    <td class="pad-l-2em nopad-r">$</td>  <!-- this affects all subsequent rows -->
+    <td class="pad-l-2em nopad-r">$</td>
     <td class="pad-r-1em sidewhite">&lt; 20K</td>
-    <td class="pad-l-1em nopad-r">$</td>  <!-- this affects all subsequent rows -->
+    <td class="pad-l-1em nopad-r">$</td>
     <td class="sidewhite">300</td>
-    <td class="pad-l-1em nopad-r">$</td>  <!-- this affects all subsequent rows -->
+    <td class="pad-l-1em nopad-r">$</td>
     <td class="sidewhite">200</td>
-    <td class="pad-l-1em nopad-r">$</td>  <!-- this affects all subsequent rows -->
+    <td class="pad-l-1em nopad-r">$</td>
     <td class="pad-r-halfem">100</td>
   </tr>
   <tr>
     <td class="nopad-r">$</td>
     <td class="pad-r-1em sidewhite">20K - 50K</td>
     <td class="nopad-r">$</td>
-    <td class="sidewhite">1,000</td>
+    <td class="sidewhite">1000</td>
     <td class="nopad-r">$</td>
     <td class="sidewhite">500</td>
     <td class="nopad-r">$</td>
@@ -353,14 +347,19 @@ tags: [general]
     </div>
     </div>
 
+   <div style="position:relative;left:2em">
+      <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
+        Generate an invoice</a></button></div>
+
+
   </div>  <!-- end of column1 -->
 
   <div class="column2">     
     <h3>Other Subscription Types</h3>
     <p>If you are interested in the following, please
-      <a href="mailto:subscriptions@veupathdb.org">Contact Us</a> for additional options:</p><br>
+      <a href="mailto:subscriptions@veupathdb.org">Contact Us</a> for additional options:</p>
     <ul>
-        
+        <li>Multiyear subscriptions</li>
         <li>Institutional rates (non-profit) <br><span class="small">based on aggregate number of users</span></li>
         <li>Industry/biotech rates (for profit) <br><span class="small">based on revenue</span></li>
         <li>Educational usage (non-profit) <br><span class="small">based on # student hours</span></li>
