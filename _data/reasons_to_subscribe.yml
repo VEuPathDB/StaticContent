@@ -1,10 +1,10 @@
---- # indicates te begining of the document
+--- # indicates the begining of the document
 - type: question
-  question: Blablabla?
+  question: 1- Blablabla?
   answer: |
       <p>BlabLablBla</p>
 - type: question
-  question: Blablabla number 2?
+  question: 2- Blablabla number 2?
   answer: |
       <p>BlabLablBla number 2</p>
 - type: quote
