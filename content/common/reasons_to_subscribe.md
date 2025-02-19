@@ -54,9 +54,9 @@ tags: [general]
 </style>
 
 <div class="static-content">
-  <div class="centered">
 
-    <h1 style="text-align:center">7 reasons to subscribe to VEuPathDB</h1>
+  <h1 style="text-align:center">7 reasons to subscribe to VEuPathDB</h1>
+  <div class="centered">
 
     <img src="{{'/assets/images/news/commtg2.png' | absolute_url}}" />
 
