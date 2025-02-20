@@ -1,41 +1,53 @@
 --- # indicates the begining of the document
 - type: quote
+  questionnum: 1
   username: anonymous user, post- BRC survey
   quote: |
-      <p><i>VEupathDB is the rare biological database that got it right in terms of UI, content and community involvement.</i></p>
-  username: anonymous user, post- BRC survey
-  quote: |
-      <p><i>The VEuPathDB system has been an outstanding democratizer of access to data and analysis tools for scientists worldwide. It is a necessary, powerful, and perfectly functional tool.</i></p>
-      
-- type: question
-  question: 1- Empowering Research Communities
-  answer: |
-      <p>VEuPathDB serves both established research communities and new users, providing essential bioinformatics tools for model organisms and infectious disease and vector-borne pathogen research.</p>
-- type: question
-  question: 2 - Cutting-Edge Data Integration & FAIR Compliance
-  answer: |
-      <p>The platform follows FAIR principles (Findable, Accessible, Interoperable, Reusable) to ensure seamless data integration, analysis, and visualization.</p>
-- type: question
-  question: 3 - Accessible Bioinformatics for All
-  answer: |
-      <p>Designed for researchers without computational expertise, VEuPathDB lowers the barrier to advanced bioinformatics analysis.</p>
-- type: question
-  question: 4 - Customizable & Scalable
-  answer: |
-      <p>The platform adapts to diverse research needs, from small-scale studies to large-scale, high-throughput analyses.</p>
-- type: question
-  question: 5 - Dedicated Support & Training
-  answer: |
-      <p>Comprehensive support, documentation, and training resources help users maximize the platform’s capabilities.</p>
-- type: question
-  question: 6 - Open Science
-  answer: |
-      <p>VEuPathDB promotes transparency, reproducibility, and accessibility of scientific data</p>
-- type: question
-  question: 7 - Open Science
-  answer: |
-      <p>VEuPathDB promotes transparency, reproducibility, and accessibility of scientific data</p>
+      VEupathDB is the rare biological database that got it right in terms of UI, content and community involvement.
 - type: quote
+  questionnum: 1
+  username: another anonymous user
+  quote: |
+      The VEuPathDB system has been an outstanding democratizer of access to data and analysis tools for scientists worldwide.
+      It is a necessary, powerful, and perfectly functional tool.
+- type: question
+  number: 1
+  question: Empowering Research Communities
+  answer: |
+      VEuPathDB serves both established research communities and new users, providing essential bioinformatics tools for model organisms and infectious disease and vector-borne pathogen research.
+- type: question
+  number: 2
+  question: Cutting-Edge Data Integration & FAIR Compliance
+  answer: |
+      The platform follows FAIR principles (Findable, Accessible, Interoperable, Reusable) to ensure seamless data integration, analysis, and visualization.
+- type: question
+  number: 3
+  question: Accessible Bioinformatics for All
+  answer: |
+      Designed for researchers without computational expertise, VEuPathDB lowers the barrier to advanced bioinformatics analysis.
+- type: question
+  number: 4
+  question: Customizable & Scalable
+  answer: |
+      The platform adapts to diverse research needs, from small-scale studies to large-scale, high-throughput analyses.
+- type: question
+  number: 5
+  question: Dedicated Support & Training
+  answer: |
+      Comprehensive support, documentation, and training resources help users maximize the platform’s capabilities.
+- type: question
+  number: 6
+  question: Open Science
+  answer: |
+      VEuPathDB promotes transparency, reproducibility, and accessibility of scientific data.
+- type: question
+  number: 7
+  question: Open Science
+  answer: |
+      VEuPathDB promotes transparency, reproducibility, and accessibility of scientific data.
+- type: quote
+  questionnum: 7
   username: User from India
   quote: |
-      <p>quote number 1</p>
+      quote number 1
+

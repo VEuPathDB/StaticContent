@@ -1,6 +1,19 @@
+  {% assign my_question_number = include.item.number %}
   <div class="question">
-    {{ include.item.question }}
+    <p>{{ my_question_number }} - {{ include.item.question }}</p>
   </div>
   <div class="answer">
-    {{ include.item.answer | markdownify }}
+    <p>{{ include.item.answer | markdownify }}</p>
+  </div>
+  <div class="quote">      
+      {% for item2 in site.data.reasons_to_subscribe %}
+      {% if item2.type == "quote" and item2.questionnum ==  my_question_number%}
+        <blockquote>
+          {{ item2.quote | markdownify  }}
+          <cite>
+            {{ item2.username  }}
+          </cite>
+        </blockquote>
+      {% endif %}
+      {% unless forloop.last %}{% endunless %}{% endfor %}
   </div>
