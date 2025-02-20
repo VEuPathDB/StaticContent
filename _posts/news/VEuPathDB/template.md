@@ -1,14 +1,15 @@
 ---
 layout: post
-title: testpost title
+title: post title
 category: [AmoebaDB,CryptoDB,FungiDB,GiardiaDB,HostDB,MicrosporidiaDB,PiroplasmaDB,PlasmoDB,ToxoDB,TriTrypDB,TrichDB,VectorBase,VEuPathDB]
+nameyml: testpost
 ---
 
 <div class="newswrapper">
 
     <h3 style="margin-top:0">New Features</h3>
 
-    {%- for item in site.data.news.testpost -%}
+    {% for item in site.data.news[page.nameyml]  %}
     {% if item.type == "feature" %}
       {% include news_item.html item=item %}
     {% endif %}
@@ -18,7 +19,7 @@ category: [AmoebaDB,CryptoDB,FungiDB,GiardiaDB,HostDB,MicrosporidiaDB,Piroplasma
 
     <h3>Outreach and Other Highlights</h3>
 
-    {% for item in site.data.news.testpost %}
+    {% for item in site.data.news[page.nameyml] %}
     {% if item.type == "outreach" %}
       {% include news_item.html item=item %}
     {% endif %}
