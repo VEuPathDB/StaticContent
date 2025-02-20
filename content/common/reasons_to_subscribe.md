@@ -9,15 +9,18 @@ tags: [general]
    
     div.centered {
       margin: 0 auto;
-      max-width: 40rem;
+      max-width: 46rem;
       text-align: center;
     }
-
     p {    
       margin: 1rem auto 1rem;
       text-align: left;
     }
-
+    hr {
+      height: 0.5rem;
+      background-color: black;
+      margin-top: 4rem;
+    }
     img {
       margin: 0 auto 2rem;
       border: 1px solid lightgrey;
@@ -26,7 +29,7 @@ tags: [general]
     }
 
     div.question {
-      margin: 0 auto;
+      margin: 2rem auto 1rem;
       font-weight: 600;
       font-size: 120%;
       text-align: left;        
@@ -75,7 +78,7 @@ tags: [general]
       {% unless forloop.last %}{% endunless %}{% endfor %}
     </div>
 
-    <hr>
+    <hr style="margin-top:4rem">
     <div class="final">
       <p>We hope that we helped to deepen your understanding about how important reader donations are to Wikipedia. 
          If you have any questions, please check out our FAQ.</p>
