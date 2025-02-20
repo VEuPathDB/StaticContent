@@ -1,12 +1,32 @@
 --- # indicates the begining of the document
 - type: question
-  question: 1- Blablabla?
+  question: 1- Empowering Research Communities
   answer: |
-      <p>BlabLablBla</p>
+      <p>VEuPathDB serves both established research communities and new users, providing essential bioinformatics tools for model organisms and infectious disease and vector-borne pathogen research.</p>
 - type: question
-  question: 2- Blablabla number 2?
+  question: 2- Cutting-Edge Data Integration & FAIR Compliance
   answer: |
-      <p>BlabLablBla number 2</p>
+      <p>The platform follows FAIR principles (Findable, Accessible, Interoperable, Reusable) to ensure seamless data integration, analysis, and visualization.</p>
+- type: question
+  question: 3- Accessible Bioinformatics for Al
+  answer: |
+      <p>Designed for researchers without computational expertise, VEuPathDB lowers the barrier to advanced bioinformatics analysis.</p>
+- type: question
+  question: 4- Customizable & Scalable
+  answer: |
+      <p>The platform adapts to diverse research needs, from small-scale studies to large-scale, high-throughput analyses.</p>
+- type: question
+  question: 5- Dedicated Support & Training
+  answer: |
+      <p>Comprehensive support, documentation, and training resources help users maximize the platform’s capabilities.</p>
+- type: question
+  question: 6- Open Science
+  answer: |
+      <p>VEuPathDB promotes transparency, reproducibility, and accessibility of scientific data</p>
+- type: question
+  question: 7- Open Science
+  answer: |
+      <p>VEuPathDB promotes transparency, reproducibility, and accessibility of scientific data</p>
 - type: quote
   username: User from India
   quote: |
