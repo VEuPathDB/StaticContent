@@ -61,7 +61,11 @@ tags: [general]
     <img src="{{'/assets/images/news/commtg2.png' | absolute_url}}" />
 
     <div class="intro"><p>
-      People give to Wikipedia for many different reasons. The Wikimedia Foundation, the nonprofit that operates Wikipedia,
+      The <b>Eukaryotic Pathogen, Host & Vector Bioinformatics Resource Center (VEuPathDB.org)</b> is a premier knowledgebase and data mining platform that provides interactive access to research data on <b>eukaryotic microbes (protists and fungi), their hosts, and arthropod vectors</b>. These pathogens and vectors contribute to devastating diseases worldwide, including </b>malaria, Lyme disease, dengue fever, West Nile virus, and Zika virus</b>, affecting millions across both developed and developing regions. 
+      <br><br>
+      VEuPathDB is <b>indispensable</b> to tens of thousands of researchers worldwide, powering <b>scientific discoveries that improve human, animal, and plant health</b>. However, with the <b>NIH discontinuing support</b>, its future is at risk. <b>Without sustainable funding, these resources—and the vital research they enable—will disappear</b>.
+      <br><br>
+      To ensure the continued availability of this critical resource, we have introduced a <b>subscription model</b> to support <b>database updates, expert staff, and bioinformatics tool development</b>. 
       </p>
     </div>
 
