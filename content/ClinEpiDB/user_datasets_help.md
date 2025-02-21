@@ -62,6 +62,7 @@ img {
               <li>All other date formats will be stored as strings and displayed as categorical data</li>
               </ul></li>
           <li>Values cannot contain commas (e.g. “1000”, not “1,000"). Commas are only allowed as delimiters within .csv files.</li>
+          <li>Values cannot contain newline characters.</li>
         </ul>
       </li>
       <li><b>If geospatial data is present</b>
