@@ -6,20 +6,27 @@
       VEupathDB is the rare biological database that got it right in terms of UI, content and community involvement.
 - type: quote
   questionnum: 1
-  username: another anonymous user
+  username: anonymous user, post- BRC survey
   quote: |
       The VEuPathDB system has been an outstanding democratizer of access to data and analysis tools for scientists worldwide.
       It is a necessary, powerful, and perfectly functional tool.
 - type: question
   number: 1
-  question: Empowering Research Communities
+  question: Empowering Research Communities Globally
   answer: |
       VEuPathDB serves both established research communities and new users, providing essential bioinformatics tools for model organisms and infectious disease and vector-borne pathogen research.
+- type: quote
+  questionnum: 2
+  username: anonymous user, post- BRC survey
+  quote: |
+      Thank you for providing this high-quality data in such a fantastic, queryable way for all these years.
 - type: question
   number: 2
   question: Cutting-Edge Data Integration & FAIR Compliance
   answer: |
-      The platform follows FAIR principles (Findable, Accessible, Interoperable, Reusable) to ensure seamless data integration, analysis, and visualization.
+      VEuPathDB integrates <b>diverse research findings</b> with <b>advanced tools for mining and visualization</b>, making it a <b>unique and powerful</b> bioinformatics resource. The platform follows FAIR principles (Findable, Accessible, Interoperable, Reusable) to ensure seamless data integration, analysis, and visualization.
+      <br><br>
+      Researchers can generate and test hypotheses <b>in silico</b>, leveraging tools like <b>*JBrowse, Cytoscape.js, and Search Strategies</b> for deep data exploration. We also provide <b>curated, high-quality datasets</b>, ensuring that researchers have access to the most relevant genomic and functional data. 
 - type: question
   number: 3
   question: Accessible Bioinformatics for All
