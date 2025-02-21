@@ -18,7 +18,7 @@ tags: [general]
     }
     hr {
       height: 0.5rem;
-      background-color: black;
+      background-color: #07304c;
       margin-top: 4rem;
     }
     img {
