@@ -47,16 +47,43 @@
   question: Customizable & Scalable
   answer: |
       The platform adapts to diverse research needs, from small-scale studies to large-scale, high-throughput analyses.
+- type: quote
+  questionnum: 4
+  username: anonymous user, post- BRC survey
+  quote: |
+      Thank you for providing this high-quality data served in such a fantastic queryable way for all these years.
+- type: quote
+  questionnum: 4
+  username: anonymous user, post- BRC survey
+  quote: |
+      absolutely essential service, not just for pathogenic diseases causing organisms but to allow comparative analysis to evolutionary distinct but related species.
 - type: question
   number: 5
   question: Dedicated Support & Training
   answer: |
-      Comprehensive support, documentation, and training resources help users maximize the platform’s capabilities.
+      Comprehensive support, documentation, and training resources help users maximize the platform’s capabilities. The VEuPathDB team dedicates significant effort to <b>training and supporting the user community</b> in utilizing bioinformatics tools. We offer <b>webinars, workshops, tutorials, and videos</b>, and provide quick assistance through our email help desk.
+      <br><br>
+      VEuPathDB's publicly available real-world bioinformatics data creates valuable <b>opportunities for both undergraduate and graduate-level teaching</b>. It serves as an excellent resource for teaching bioinformatics techniques and functional genomics.
+- type: quote
+  questionnum: 5
+  username: anonymous user, post- BRC survey
+  quote: |
+      The educational resources offered by VEuPathDB are important for the training of students and new researchers.
+- type: quote
+  questionnum: 5
+  username: anonymous user, post- BRC survey
+  quote: |
+      I train a wide range of students and junior scientists, many with very mixed computational backgrounds and skills. VEUPathDB is a very easy entry point for all trainees to start to explore a very wide range of data types and sets.
+- type: quote
+  questionnum: 5
+  username: anonymous user, post- BRC survey
+  quote: |
+      I use the databases as an accessible way to teach my undergraduates about bioinformatics. It gives students and other researchers an accessible entry point for engaging with these types of data and analyses.
 - type: question
   number: 6
   question: Open Science
   answer: |
-      VEuPathDB promotes transparency, reproducibility, and accessibility of scientific data.
+      VEuPathDB promotes transparency, reproducibility, and accessibility of scientific data.  Your contribution ensures that high-quality, curated genomic and functional data remain freely available to the scientific community.
 - type: question
   number: 7
   question: Open Science
