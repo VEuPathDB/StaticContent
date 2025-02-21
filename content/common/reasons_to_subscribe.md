@@ -60,7 +60,7 @@ tags: [general]
 
   <h1 style="text-align:center">7 reasons to subscribe to VEuPathDB</h1>
   <div class="centered">
-    <img src="{{'/assets/images/news/commtg2.png' | absolute_url}}" />
+    <img src="{{'/assets/images/reasons_to_subscribe.png' | absolute_url}}" />
 
     <div class="intro">
       <p>The <b>Eukaryotic Pathogen, Host & Vector Bioinformatics Resource Center (VEuPathDB.org)</b> is a premier knowledgebase and data mining platform that provides interactive access to research data on <b>eukaryotic microbes (protists and fungi), their hosts, and arthropod vectors</b>. These pathogens and vectors contribute to devastating diseases worldwide, including <b>malaria, Lyme disease, dengue fever, West Nile virus, and Zika virus</b>, affecting millions across both developed and developing regions.</p> 
