@@ -80,9 +80,10 @@ tags: [general]
 
     <hr style="margin-top:4rem">
     <div class="final">
-      <p>We hope that we helped to deepen your understanding about how important reader donations are to Wikipedia. 
-         If you have any questions, please check out our FAQ.</p>
-      <p>If you are in a position to give, you can make a donation to Wikipedia at donate.wikimedia.org.</p>
+      <p>VEuPathDB has been a <b>cornerstone of global infectious disease research</b> for over a decade. <b>With your support, we can continue driving scientific discoveries that improve global health</b>. </p>
+      <p>Your contributions will directly impact <b>researchers, educators, and scientists worldwide<b>—and the breakthroughs they achieve. </p>
+     <p><b>Subscribe today and help sustain this invaluable resource (LINK)</b>.<p>
+     <p>If you have any questions, please check out our FAQ.</p>
     </div>
 
   </div>
