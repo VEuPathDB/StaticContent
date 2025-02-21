@@ -81,9 +81,9 @@ tags: [general]
     <hr style="margin-top:4rem">
     <div class="final">
       <p>VEuPathDB has been a <b>cornerstone of global infectious disease research</b> for over a decade. <b>With your support, we can continue driving scientific discoveries that improve global health</b>. </p>
-      <br><br>Your contributions will directly impact <b>researchers, educators, and scientists worldwide</b>—and the breakthroughs they achieve.
-      <br><br><b>Subscribe today and help sustain this invaluable resource (LINK)</b>.
-     <br><br>If you have any questions, please check out our <a href="https://qa.plasmodb.org/plasmo.b69/app/static-content/faq.html">FAQs.</a></p>
+      <br>Your contributions will directly impact <b>researchers, educators, and scientists worldwide</b>—and the breakthroughs they achieve.
+      <br><b>Subscribe today and help sustain this invaluable resource (LINK)</b>.
+     <br>If you have any questions, please check out our <a href="https://qa.plasmodb.org/plasmo.b69/app/static-content/faq.html">FAQs.</a></p>
     </div>
 
   </div>
