@@ -37,18 +37,18 @@ tags: [general]
     div.quotes {
       display: flex;
     }
-    div.quotes div#openquote::before {
-      content: open-quote;
+    div.quotes div {
       font-size: 800%;
       color: lightgrey;
       position: relative;
+      font-family: Times;
+    }
+    div.quotes div#openquote::before {
+      content: open-quote;
       left: 0.2em;
     }
     div.quotes div#closequote::after {
       content: close-quote;
-      font-size: 800%;
-      color: lightgrey;
-      position: relative;
       right: 0.2em;
     }
     blockquote {
