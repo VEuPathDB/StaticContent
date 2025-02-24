@@ -101,6 +101,7 @@ tags: [workshop-exercise]
       
       <h4>Your Contributions Matter! They:</h4>
       <ul>
+        <li><b>Helps us to prioritize publications for functional gene characterisation using machine learning approaches</b>.</li>
         <li>Strengthen genome annotations by providing key evidence, such as alternative gene models, knockout phenotypes, subcellular localization, and relevant PubMed IDs.</li>
         <li>Increase the accessibility and visibility of gene data for researchers worldwide.</li>
         <li>Support the scientific community by ensuring gene information remains current and reliable.</li>
