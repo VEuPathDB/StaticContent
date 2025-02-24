@@ -5,15 +5,19 @@
   <div class="answer">
     <p>{{ include.item.answer | markdownify }}</p>
   </div>
-  <div class="quotes">      
+  <div>      
       {% for item2 in site.data.reasons_to_subscribe %}
       {% if item2.type == "quote" and item2.questionnum ==  my_question_number%}
-        <blockquote>
-          {{ item2.quote | markdownify  }}
-          <cite>
-            --{{ item2.username  }}
-          </cite>
-        </blockquote>
+        <div class="quotes">
+          <div id="openquote"></div>
+          <blockquote>
+            {{ item2.quote | markdownify  }}
+            <cite>
+              --{{ item2.username  }}
+            </cite>
+          </blockquote>
+          <div id="closequote"></div>
+        </div>
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
   </div>

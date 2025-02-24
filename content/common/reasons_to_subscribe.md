@@ -34,14 +34,30 @@ tags: [general]
       font-size: 120%;
       text-align: left;        
     }
-
+    div.quotes {
+      display: flex;
+    }
+    div.quotes div#openquote::before {
+      content: open-quote;
+      font-size: 800%;
+      color: lightgrey;
+      position: relative;
+      left: 0.2em;
+    }
+    div.quotes div#closequote::after {
+      content: close-quote;
+      font-size: 800%;
+      color: lightgrey;
+      position: relative;
+      right: 0.2em;
+    }
     blockquote {
       font-style: italic;
       max-width: 40rem;
       text-align: left;
-      border-left: 4px solid #eaecf0;
+/*      border-left: 4px solid #eaecf0;
       padding-left: 1.375rem;
-    }
+ */   }
     blockquote p {
       margin: 0;
     }
