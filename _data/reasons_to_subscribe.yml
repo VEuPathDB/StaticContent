@@ -1,7 +1,7 @@
 --- # indicates the begining of the document
 - type: quote
   questionnum: 1
-  username: anonymous user, post- BRC survey
+  username: anonymous user, <i>post- BRC survey</i>
   quote: |
       VEupathDB is the rare biological database that got it right in terms of UI, content and community involvement.
 - type: quote

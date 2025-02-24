@@ -5,13 +5,13 @@
   <div class="answer">
     <p>{{ include.item.answer | markdownify }}</p>
   </div>
-  <div class="quote">      
+  <div class="quotes">      
       {% for item2 in site.data.reasons_to_subscribe %}
       {% if item2.type == "quote" and item2.questionnum ==  my_question_number%}
         <blockquote>
           {{ item2.quote | markdownify  }}
           <cite>
-            {{ item2.username  }}
+            --{{ item2.username  }}
           </cite>
         </blockquote>
       {% endif %}

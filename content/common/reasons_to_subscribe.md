@@ -36,23 +36,28 @@ tags: [general]
     }
 
     blockquote {
-      border-left: 4px solid #eaecf0;
       font-style: italic;
       max-width: 40rem;
+      text-align: left;
+      border-left: 4px solid #eaecf0;
       padding-left: 1.375rem;
-      text-align: left;
     }
-
+    blockquote p {
+      margin: 0;
+    }
+    blockquote p::before {
+      content: open-quote;
+    }
+    blockquote p::after {
+      content: close-quote;
+    }
+    blockquote p {
+      quotes: "“" "”" "‘" "’";
+    }
     blockquote cite {
-      display: block;
       font-style: normal;
-      font-family: var(--font-family-sans);
-      font-size: .75rem;
       line-height: 1.75;
-      margin-top: 1.25rem;
-      text-align: left;
     }
-
   }
 </style>
 
