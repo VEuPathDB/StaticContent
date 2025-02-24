@@ -12,7 +12,7 @@
       It is a necessary, powerful, and perfectly functional tool.
 - type: question
   number: 1
-  question: Empowering Research Communities Globally
+  question: We Empowering Research Communities Globally
   answer: |
       VEuPathDB serves both established research communities and new users, providing essential bioinformatics tools for model organisms and infectious disease and vector-borne pathogen research.
 - type: quote
@@ -22,7 +22,7 @@
       Thank you for providing this high-quality data in such a fantastic, queryable way for all these years.
 - type: question
   number: 2
-  question: Cutting-Edge Data Integration & FAIR Compliance
+  question: VEuPathDB Provides Cutting-Edge Data Integration & FAIR Compliance
   answer: |
       VEuPathDB integrates <b>diverse research findings</b> with <b>advanced tools for mining and visualization</b>, making it a <b>unique and powerful</b> bioinformatics resource. The platform follows FAIR principles (Findable, Accessible, Interoperable, Reusable) to ensure seamless data integration, analysis, and visualization.
       <br><br>
@@ -39,7 +39,7 @@
       what I liked about VB was making large datasets available to someone who may not be able to shift through large datasets or know how to write line code to automate it. It really equalized the access.
 - type: question
   number: 3
-  question: Accessible Bioinformatics for All
+  question: We Make Bioinformatics Tools Accessible for All
   answer: |
       Designed for researchers without computational expertise, VEuPathDB lowers the barrier to advanced bioinformatics analysis. The VEuPathDB sites are <b>accessible from any browser worldwide</b> in a point and lick manner, with <b>no coding skills required</b>.
 - type: question
@@ -59,7 +59,7 @@
       absolutely essential service, not just for pathogenic diseases causing organisms but to allow comparative analysis to evolutionary distinct but related species.
 - type: question
   number: 5
-  question: Dedicated Support & Training
+  question: VEuPathDB Provides Dedicated Expert Support & Capacity Training
   answer: |
       Comprehensive support, documentation, and training resources help users maximize the platform’s capabilities. The VEuPathDB team dedicates significant effort to <b>training and supporting the user community</b> in utilizing bioinformatics tools. We offer <b>webinars, workshops, tutorials, and videos</b>, and provide quick assistance through our email help desk.
       <br><br>
@@ -81,7 +81,7 @@
       I use the databases as an accessible way to teach my undergraduates about bioinformatics. It gives students and other researchers an accessible entry point for engaging with these types of data and analyses.
 - type: question
   number: 6
-  question: Open Science
+  question: We Promote Open Science
   answer: |
       VEuPathDB promotes transparency, reproducibility, and accessibility of scientific data, aligning with the core values of open science. By making data publicly available and easy to access, VEuPathDB encourages collaboration across research communities and supports the advancement of knowledge. 
       <br><br>
