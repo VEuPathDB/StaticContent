@@ -101,7 +101,6 @@ tags: [workshop-exercise]
       
       <h4>Your Contributions Matter! They:</h4>
       <ul>
-        <li><b>Helps us to prioritize publications for functional gene characterisation using machine learning approaches</b>.</li>
         <li>Strengthen genome annotations by providing key evidence, such as alternative gene models, knockout phenotypes, subcellular localization, and relevant PubMed IDs.</li>
         <li>Increase the accessibility and visibility of gene data for researchers worldwide.</li>
         <li>Support the scientific community by ensuring gene information remains current and reliable.</li>
@@ -121,6 +120,9 @@ tags: [workshop-exercise]
         <li>Click "Add a user comment" and fill out the form.</li>
       </ul>
       <img class="image-frame" style="width: 30%; margin-left: 4em;"  src="{{ "/assets/images/fungidb/ECFG17uc.png" | absolute_url }}" alt="User Comment Form"/>
+
+      <h4>What to inlcude in a suer comment?</h4>
+      Add new gene information. It can include names or synonym (e.g. "Purine Phosphoribosyl Transferase, is also known as HPRT, HGPRT), PubMed IDs, functional characterization, corrections of gene model predictions & annotations, phenotype data, etc.
 
       <h4>How to Modify Gene Models in Apollo</h4>
       <ul>
