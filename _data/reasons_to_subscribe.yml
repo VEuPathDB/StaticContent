@@ -17,11 +17,9 @@
       It is a necessary, powerful, and perfectly functional tool.
 - type: question
   number: 2
-  question: Cutting-Edge Data Integration & FAIR Compliance
+  question: VEuPathDB Provides Advanced Data Mining & Vizualisation Tools
   answer: |
-      VEuPathDB integrates <b>diverse research findings</b> with <b>advanced tools for mining and visualization</b>, making it a <b>unique and powerful</b> bioinformatics resource. The platform follows FAIR principles (Findable, Accessible, Interoperable, Reusable) to ensure seamless data integration, analysis, and visualization.
-      <br><br>
-      Researchers can generate and test hypotheses <b>in silico</b>, leveraging tools like <b>*JBrowse, Cytoscape.js, and Search Strategies</b> for deep data exploration. We also provide <b>curated, high-quality datasets</b>, ensuring that researchers have access to the most relevant genomic and functional data. 
+      VEuPathDB integrates <b>diverse research findings</b> with <b>advanced tools for mining and visualization</b>, making it a <b>unique and powerful</b> bioinformatics resource. Researchers can generate and test hypotheses <b>in silico</b>, leveraging tools like <b>*JBrowse, Cytoscape.js, and Search Strategies</b> for deep data exploration. We also provide <b>curated, high-quality datasets</b>, ensuring that researchers have access to the most relevant genomic and functional data. 
 - type: quote
   questionnum: 2
   username: anonymous user, post- BRC survey
@@ -29,7 +27,7 @@
       Thank you for providing this high-quality data in such a fantastic, queryable way for all these years.
 - type: question
   number: 3
-  question: Accessible Bioinformatics for All
+  question: We Provide Accessible Bioinformatics Tools for Everyone
   answer: |
       Designed for researchers without computational expertise, VEuPathDB lowers the barrier to advanced bioinformatics analysis. The VEuPathDB sites are <b>accessible from any browser worldwide</b> in a point and lick manner, with <b>no coding skills required</b>.
 - type: quote
@@ -44,9 +42,9 @@
       what I liked about VB was making large datasets available to someone who may not be able to shift through large datasets or know how to write line code to automate it. It really equalized the access.
 - type: question
   number: 4
-  question: Customizable & Scalable
+  question: VEuPathDB Platform is Customizable & Scalable 
   answer: |
-      The platform adapts to diverse research needs, from small-scale studies to large-scale, high-throughput analyses.
+      The platform accommodates a wide range of research needs, catering to both small-scale studies and extensive high-throughput analyses. Additionally, it features a robust query system for exploring various data types across different species.
 - type: quote
   questionnum: 4
   username: anonymous user, post- BRC survey
@@ -59,7 +57,7 @@
       absolutely essential service, not just for pathogenic diseases causing organisms but to allow comparative analysis to evolutionary distinct but related species.
 - type: question
   number: 5
-  question: Dedicated Support & Training
+  question: We Provider Dedicated Support & Training
   answer: |
       Comprehensive support, documentation, and training resources help users maximize the platform’s capabilities. The VEuPathDB team dedicates significant effort to <b>training and supporting the user community</b> in utilizing bioinformatics tools. We offer <b>webinars, workshops, tutorials, and videos</b>, and provide quick assistance through our email help desk.
       <br><br>
@@ -81,11 +79,11 @@
       I use the databases as an accessible way to teach my undergraduates about bioinformatics. It gives students and other researchers an accessible entry point for engaging with these types of data and analyses.
 - type: question
   number: 6
-  question: Open Science
+  question: VEuPathDB Promotes Open Science
   answer: |
       VEuPathDB promotes transparency, reproducibility, and accessibility of scientific data, aligning with the core values of open science. By making data publicly available and easy to access, VEuPathDB encourages collaboration across research communities and supports the advancement of knowledge. 
       <br><br>
-      Your contribution ensures that high-quality, curated genomic and functional data remain freely accessible, enabling researchers to build upon existing work and accelerate scientific discovery. Additionally, this open approach fosters innovation and allows for more diverse and inclusive contributions to the scientific process.
+      The platform follows FAIR principles (Findable, Accessible, Interoperable, Reusable) to ensure seamless data integration, analysis, and visualization.Your contribution ensures that high-quality, curated genomic and functional data remain freely accessible, enabling researchers to build upon existing work and accelerate scientific discovery. Additionally, this open approach fosters innovation and allows for more diverse and inclusive contributions to the scientific process.
 - type: question
   number: 7
   question: VEuPathDB supports efficiency and reproducibility in science.
