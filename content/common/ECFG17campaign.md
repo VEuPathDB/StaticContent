@@ -122,7 +122,7 @@ tags: [workshop-exercise]
       <img class="image-frame" style="width: 30%; margin-left: 4em;"  src="{{ "/assets/images/fungidb/ECFG17uc.png" | absolute_url }}" alt="User Comment Form"/>
 
       <h4>What to inlcude in a user comment?</h4>
-      Add new gene information. It can include names or synonym (e.g. "Purine Phosphoribosyl Transferase, is also known as HPRT, HGPRT),        PubMed IDs, functional characterization, corrections of gene model predictions & annotations, phenotype data, etc.
+      Add new gene information. It can include names or synonyms (e.g. "Purine Phosphoribosyl Transferase, is also known as HPRT, HGPRT),        PubMed IDs, functional characterization, corrections of gene model predictions & annotations, phenotype data, etc.
 
       <h4>How to Modify Gene Models in Apollo</h4>
       <ul>
