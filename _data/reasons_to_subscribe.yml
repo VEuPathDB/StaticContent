@@ -15,11 +15,6 @@
   quote: |
       The VEuPathDB system has been an outstanding democratizer of access to data and analysis tools for scientists worldwide.
       It is a necessary, powerful, and perfectly functional tool.
-- type: quote
-  questionnum: 2
-  username: anonymous user, post- BRC survey
-  quote: |
-      Thank you for providing this high-quality data in such a fantastic, queryable way for all these years.
 - type: question
   number: 2
   question: Cutting-Edge Data Integration & FAIR Compliance
@@ -27,6 +22,16 @@
       VEuPathDB integrates <b>diverse research findings</b> with <b>advanced tools for mining and visualization</b>, making it a <b>unique and powerful</b> bioinformatics resource. The platform follows FAIR principles (Findable, Accessible, Interoperable, Reusable) to ensure seamless data integration, analysis, and visualization.
       <br><br>
       Researchers can generate and test hypotheses <b>in silico</b>, leveraging tools like <b>*JBrowse, Cytoscape.js, and Search Strategies</b> for deep data exploration. We also provide <b>curated, high-quality datasets</b>, ensuring that researchers have access to the most relevant genomic and functional data. 
+- type: quote
+  questionnum: 2
+  username: anonymous user, post- BRC survey
+  quote: |
+      Thank you for providing this high-quality data in such a fantastic, queryable way for all these years.
+- type: question
+  number: 3
+  question: Accessible Bioinformatics for All
+  answer: |
+      Designed for researchers without computational expertise, VEuPathDB lowers the barrier to advanced bioinformatics analysis. The VEuPathDB sites are <b>accessible from any browser worldwide</b> in a point and lick manner, with <b>no coding skills required</b>.
 - type: quote
   questionnum: 3
   username: anonymous user, post- BRC survey
@@ -37,11 +42,6 @@
   username: anonymous user, post- BRC survey
   quote: |
       what I liked about VB was making large datasets available to someone who may not be able to shift through large datasets or know how to write line code to automate it. It really equalized the access.
-- type: question
-  number: 3
-  question: Accessible Bioinformatics for All
-  answer: |
-      Designed for researchers without computational expertise, VEuPathDB lowers the barrier to advanced bioinformatics analysis. The VEuPathDB sites are <b>accessible from any browser worldwide</b> in a point and lick manner, with <b>no coding skills required</b>.
 - type: question
   number: 4
   question: Customizable & Scalable
