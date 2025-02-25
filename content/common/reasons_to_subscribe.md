@@ -84,11 +84,10 @@ tags: [general]
     <img src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" />
 
     <div class="intro">
-      <p>The <b>Eukaryotic Pathogen, Host & Vector Bioinformatics Resource Center (VEuPathDB.org)</b> is a premier knowledgebase and data mining platform that provides interactive access to research data on <b>eukaryotic microbes (protists and fungi), their hosts, and arthropod vectors</b>. These pathogens and vectors contribute to devastating diseases worldwide, including <b>malaria, Lyme disease, dengue fever, West Nile virus, and Zika virus</b>, affecting millions across both developed and developing regions.</p> 
+      <p>The <b>The Eukaryotic Pathogen, Host & Vector Bioinformatics Resource Center</b>(<a href="https://veupathdb.org/veupathdb/app">VEuPathDB.org</a>) is an online knowledgebase and data-mining platform, offering interactive access to extensive data on eukaryotic microbes (protists and fungi).  Because many of these species are responsible for <b>globally important diseases</b> (malaria, amebiasis, sleeping sickness, candidiasis, aspergillosis, valley fever, wheat blast, etc), we also provide information on their human, animal and plant hosts, as well as arthropod vectors responsible for transmission of Lyme disease, malaria, dengue fever, West Nile fever, Zika virus disease, etc.</p> 
       
-      <p>VEuPathDB is <b>indispensable</b> to tens of thousands of researchers worldwide, powering <b>scientific discoveries that improve human, animal, and plant health</b>. However, with the <b>NIH discontinuing support</b>, its future is at risk. <b>Without sustainable funding, these resources—and the vital research they enable—will disappear</b>.</p>
+      <p>V<b>EuPathDB has been certified as a Global Core Biodata Resource</b>, and is indispensable for the daily work of tens of thousands of researchers worldwide, but funding agencies are increasingly unable to provide sustained support for core infrastructure resources.  <b>Here’s why your support is crucial.</b></p>
 
-      <p>To ensure the continued availability of this critical resource, we have introduced a <b>subscription model</b> to support <b>database updates, expert staff, and bioinformatics tool development</b>.</p>
     </div>
 
     <div id="questions">
