@@ -61,6 +61,32 @@ tags: [general]
       font-style: normal;
       line-height: 1.75;
     }
+    button {
+      cursor: pointer;
+      outline: 0;
+      color: #fff;
+      background-color: #0d6efd;
+      border-color: #0d6efd;
+      display: inline-block;
+      font-weight: 400;
+      line-height: 1.5;
+      text-align: center;
+      border: 1px solid transparent;
+      padding: 6px 12px;
+      font-size: 16px;
+      border-radius: .25rem;
+      transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    }
+    button:hover {
+      color: #fff;
+      background-color: #0b5ed7;
+      border-color: #0a58ca;
+    }
+    button a {
+      text-decoration: none;
+      color: #fff;
+      font-size: 16px;
+    }
   }
 </style>
 
@@ -87,9 +113,11 @@ tags: [general]
 
     <hr style="margin-top:4rem">
     <div class="final">
-      <p>VEuPathDB has been a <b>cornerstone of global infectious disease research</b> for over a decade. <b>With your support, we can continue driving scientific discoveries that improve global health</b>. Your contributions will directly impact <b>researchers, educators, and scientists worldwide</b>—and the breakthroughs they achieve.
-      <br><br><b><a href="https://qa.plasmodb.org/plasmo.b69/app/static-content/subscriptions.html">Subscribe today</a> and help sustain this invaluable resource</b>.
-     <br><br>If you have any questions, please check out our <a href="https://qa.plasmodb.org/plasmo.b69/app/static-content/faq.html">FAQs.</a></p>
+      <p>VEuPathDB has been a <b>cornerstone of global infectious disease research</b> for over a decade. <b>With your support, we can continue driving scientific discoveries that improve global health</b>. Your contributions will directly impact <b>researchers, educators, and scientists worldwide</b>—and the breakthroughs they achieve.</p>
+      <button><a target="_blank" href="https://qa.plasmodb.org/plasmo.b69/app/static-content/subscriptions.html">Subscribe today</a>
+      </button>
+      <p style="text-align:center;font-style:italic">Help sustain this invaluable resource.</p>
+      <p style="text-align:center">If you have any questions, please check out our <a href="https://qa.plasmodb.org/plasmo.b69/app/static-content/faq.html">FAQs.</a></p>
     </div>
 
   </div>
