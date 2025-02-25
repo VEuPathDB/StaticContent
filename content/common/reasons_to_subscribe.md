@@ -97,15 +97,11 @@ tags: [general]
   <h1 style="text-align:center">7 reasons to subscribe to VEuPathDB</h1>
   <div class="centered">
     <img id="main" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" />
-
-      <button><a target="_blank" href="https://qa.plasmodb.org/plasmo.b69/app/static-content/subscriptions.html">Subscribe today</a>
-      </button>
+    <button><a target="_blank" href="https://qa.plasmodb.org/plasmo.b69/app/static-content/subscriptions.html">Subscribe today</a></button>
 
     <div class="intro">
-      <p>The <b>The Eukaryotic Pathogen, Host & Vector Bioinformatics Resource Center</b> (<a href="https://veupathdb.org/veupathdb/app">VEuPathDB.org</a>) is an online knowledgebase and data-mining platform, offering interactive access to extensive data on eukaryotic microbes (protists and fungi).  Because many of these species are responsible for <b>globally important diseases</b> (malaria, amebiasis, sleeping sickness, candidiasis, aspergillosis, valley fever, wheat blast, etc), we also provide information on their human, animal and plant hosts, as well as arthropod vectors responsible for transmission of Lyme disease, malaria, dengue fever, West Nile fever, Zika virus disease, etc.</p> 
-      
-      <p>V<b>EuPathDB has been certified as a Global Core Biodata Resource</b>, and is indispensable for the daily work of tens of thousands of researchers worldwide, but funding agencies are increasingly unable to provide sustained support for core infrastructure resources.  <b>Here’s why your support is crucial.</b></p>
-
+      <p>The <b>Eukaryotic Pathogen, Host & Vector Bioinformatics Resource Center</b> (<a href="https://veupathdb.org/veupathdb/app">VEuPathDB.org</a>) is an online knowledgebase and data-mining platform, offering interactive access to extensive data on eukaryotic microbes (protists and fungi).  Because many of these species are responsible for <b>globally important diseases</b> (malaria, amebiasis, sleeping sickness, candidiasis, aspergillosis, valley fever, wheat blast, etc), we also provide information on their human, animal and plant hosts, as well as arthropod vectors responsible for transmission of Lyme disease, malaria, dengue fever, West Nile fever, Zika virus disease, etc.</p> 
+      <p><b>VEuPathDB has been certified as a Global Core Biodata Resource</b>, and is indispensable for the daily work of tens of thousands of researchers worldwide, but funding agencies are increasingly unable to provide sustained support for core infrastructure resources.  <b>Here’s why your support is crucial.</b></p>
     </div>
 
     <div id="questions">
