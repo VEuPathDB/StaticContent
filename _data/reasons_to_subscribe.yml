@@ -79,16 +79,16 @@
       I use the databases as an accessible way to teach my undergraduates about bioinformatics. It gives students and other researchers an accessible entry point for engaging with these types of data and analyses.
 - type: question
   number: 6
-  question: VEuPathDB Promotes Open Science
+  question: VEuPathDB Has Over 20 years Of Experience In Delivering Robust Production Level Resources
   answer: |
-      <b>The platform follows FAIR principles</b> (Findable, Accessible, Interoperable, Reusable) to ensure seamless data integration, analysis, and visualization.Your contribution ensures that high-quality, curated genomic and functional data remain freely accessible, enabling researchers to build upon existing work and accelerate scientific discovery. Additionally, this open approach fosters innovation and allows for more diverse and inclusive contributions to the scientific process.
+      Efficiency and reproducibility are essential for high-quality research, ensuring credibility, reliability, and impact. Through consistent, production-level workflows, VEuPathDB delivers high-quality data, facilitating comparisons across experiments and organisms.
 - type: question
   number: 7
-  question: VEuPathDB supports efficiency and reproducibility in science.
+  question: VEuPathDB Supports Open Science & Efficiency & Reproducibility in Science.
   answer: |
-      VEuPathDB promotes <b>transparency, reproducibility, and accessibility of scientific data</b>. Data is the core output of scientific research, and VEuPathDB provides researchers with the platform to share their data beyond traditional publications. By integrating datasets into VEuPathDB, scientists can meet the data-sharing requirements set by journals and funding organizations. We adhere to the FAIR principles of data stewardship, ensuring data is Findable, Accessible, Interoperable, and Reusable.
-      <br><br>
-      Efficiency and reproducibility are essential for high-quality research, ensuring credibility, reliability, and impact. Through consistent, production-level workflows, VEuPathDB delivers high-quality data, facilitating comparisons across experiments and organisms.
+      <b>The platform follows FAIR principles</b> (Findable, Accessible, Interoperable, Reusable) to ensure seamless data integration, analysis, and visualization.Your contribution ensures that high-quality, curated genomic and functional data remain freely accessible, enabling researchers to build upon existing work and accelerate scientific discovery. Additionally, this open approach fosters innovation and allows for more diverse and inclusive contributions to the scientific process.
+            
+      <br>VEuPathDB promotes <b>transparency, reproducibility, and accessibility of scientific data</b>. Data is the core output of scientific research, and VEuPathDB provides researchers with the platform to share their data beyond traditional publications. By integrating datasets into VEuPathDB, scientists can meet the data-sharing requirements set by journals and funding organizations. We adhere to the FAIR principles of data stewardship, ensuring data is Findable, Accessible, Interoperable, and Reusable.
 - type: quote
   questionnum: 7
   username: anonymous user, post- BRC survey
