@@ -15,17 +15,16 @@ tags: [general]
     p {    
       margin: 1rem auto 1rem;
       text-align: left;
+      font-size: 110%;
     }
     hr {
       height: 0.5rem;
       background-color: #07304c;
       margin-top: 4rem;
     }
-    img {
+    img#main {
       margin: 0 auto 2rem;
-      border: 1px solid lightgrey;
-      height: auto;
-      max-width: 50%;
+      max-width: 60%;
     }
 
     div.question {
@@ -37,38 +36,26 @@ tags: [general]
     div.quotes {
       display: flex;
     }
+    div.quotes img {
+      align-self: center;
+      width: 3em;
+    }
+    div.quotes img#closequote {
+      position: relative;
+      right: 1.5em;
+    }
     div.quotes div {
       font-size: 800%;
       color: lightgrey;
-      position: relative;
-      font-family: Times;
-    }
-    div.quotes div#openquote::before {
-      content: open-quote;
-      left: 0.2em;
-    }
-    div.quotes div#closequote::after {
-      content: close-quote;
-      right: 0.2em;
+      font-family: math;
     }
     blockquote {
       font-style: italic;
       max-width: 40rem;
       text-align: left;
-/*      border-left: 4px solid #eaecf0;
-      padding-left: 1.375rem;
- */   }
+    }
     blockquote p {
       margin: 0;
-    }
-    blockquote p::before {
-      content: open-quote;
-    }
-    blockquote p::after {
-      content: close-quote;
-    }
-    blockquote p {
-      quotes: "“" "”" "‘" "’";
     }
     blockquote cite {
       font-style: normal;
@@ -81,7 +68,7 @@ tags: [general]
 
   <h1 style="text-align:center">7 reasons to subscribe to VEuPathDB</h1>
   <div class="centered">
-    <img src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" />
+    <img id="main" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" />
 
     <div class="intro">
       <p>The <b>Eukaryotic Pathogen, Host & Vector Bioinformatics Resource Center (VEuPathDB.org)</b> is a premier knowledgebase and data mining platform that provides interactive access to research data on <b>eukaryotic microbes (protists and fungi), their hosts, and arthropod vectors</b>. These pathogens and vectors contribute to devastating diseases worldwide, including <b>malaria, Lyme disease, dengue fever, West Nile virus, and Zika virus</b>, affecting millions across both developed and developing regions.</p> 
