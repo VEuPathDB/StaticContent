@@ -86,7 +86,7 @@
   number: 7
   question: VEuPathDB supports efficiency and reproducibility in science.
   answer: |
-      VEuPathDB promotes transparency, reproducibility, and accessibility of scientific data. Data is the core output of scientific research, and VEuPathDB provides researchers with the platform to share their data beyond traditional publications. By integrating datasets into VEuPathDB, scientists can meet the data-sharing requirements set by journals and funding organizations. We adhere to the FAIR principles of data stewardship, ensuring data is Findable, Accessible, Interoperable, and Reusable.
+      VEuPathDB promotes <b>transparency, reproducibility, and accessibility of scientific data</b>. Data is the core output of scientific research, and VEuPathDB provides researchers with the platform to share their data beyond traditional publications. By integrating datasets into VEuPathDB, scientists can meet the data-sharing requirements set by journals and funding organizations. We adhere to the FAIR principles of data stewardship, ensuring data is Findable, Accessible, Interoperable, and Reusable.
       <br><br>
       Efficiency and reproducibility are essential for high-quality research, ensuring credibility, reliability, and impact. Through consistent, production-level workflows, VEuPathDB delivers high-quality data, facilitating comparisons across experiments and organisms.
 - type: quote
