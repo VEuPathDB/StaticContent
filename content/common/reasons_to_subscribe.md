@@ -25,8 +25,11 @@ tags: [general]
     img#main {
       margin: 0 auto 2rem;
       max-width: 60%;
+      display: block;
     }
-
+    div.intro {
+      margin-top: 3em;
+    }
     div.question {
       margin: 2rem auto 1rem;
       font-weight: 600;
@@ -94,6 +97,9 @@ tags: [general]
   <h1 style="text-align:center">7 reasons to subscribe to VEuPathDB</h1>
   <div class="centered">
     <img id="main" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" />
+
+      <button><a target="_blank" href="https://qa.plasmodb.org/plasmo.b69/app/static-content/subscriptions.html">Subscribe today</a>
+      </button>
 
     <div class="intro">
       <p>The <b>The Eukaryotic Pathogen, Host & Vector Bioinformatics Resource Center</b> (<a href="https://veupathdb.org/veupathdb/app">VEuPathDB.org</a>) is an online knowledgebase and data-mining platform, offering interactive access to extensive data on eukaryotic microbes (protists and fungi).  Because many of these species are responsible for <b>globally important diseases</b> (malaria, amebiasis, sleeping sickness, candidiasis, aspergillosis, valley fever, wheat blast, etc), we also provide information on their human, animal and plant hosts, as well as arthropod vectors responsible for transmission of Lyme disease, malaria, dengue fever, West Nile fever, Zika virus disease, etc.</p> 
