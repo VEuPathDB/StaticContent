@@ -81,9 +81,7 @@
   number: 6
   question: VEuPathDB Promotes Open Science
   answer: |
-      VEuPathDB promotes transparency, reproducibility, and accessibility of scientific data, aligning with the core values of open science. By making data publicly available and easy to access, VEuPathDB encourages collaboration across research communities and supports the advancement of knowledge. 
-      <br><br>
-      The platform follows FAIR principles (Findable, Accessible, Interoperable, Reusable) to ensure seamless data integration, analysis, and visualization.Your contribution ensures that high-quality, curated genomic and functional data remain freely accessible, enabling researchers to build upon existing work and accelerate scientific discovery. Additionally, this open approach fosters innovation and allows for more diverse and inclusive contributions to the scientific process.
+      <b>The platform follows FAIR principles</b> (Findable, Accessible, Interoperable, Reusable) to ensure seamless data integration, analysis, and visualization.Your contribution ensures that high-quality, curated genomic and functional data remain freely accessible, enabling researchers to build upon existing work and accelerate scientific discovery. Additionally, this open approach fosters innovation and allows for more diverse and inclusive contributions to the scientific process.
 - type: question
   number: 7
   question: VEuPathDB supports efficiency and reproducibility in science.
