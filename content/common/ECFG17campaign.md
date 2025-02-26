@@ -88,8 +88,6 @@ tags: [workshop-exercise]
   }
 </style>
 
-<p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a></p>
-
 <div class="static-content">
   <div class="centered-title">     
     <h4><a href="https://fungidb.org">FungiDB</a> User Comments and Gene Annotation Campaign - Now through March 5, 2025</h4>
