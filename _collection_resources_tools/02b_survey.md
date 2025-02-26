@@ -2,7 +2,7 @@
 identifier: survey
 listTitle: VEuPathDB User Survey 
 descriptionTitle: VEuPathDB User Survey
-listIconKey: comments
+listIconKey: line-chart
 tags: [tutorial]
 title: VEuPathDB User Survey
 permalink: '#survey'
