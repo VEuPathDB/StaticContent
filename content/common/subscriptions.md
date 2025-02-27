@@ -218,15 +218,14 @@ tags: [general]
 
     <div class="column11">
     <ul>
-      <li>Select your annual fee from the table, based on your 
+      <li>Use the table at right to define appropriate annual fees, based on your 
         <span style="text-decoration: underline;">total</span> lab budget 
         <span class="small">(including all grants, salaries, studentships, etc.)</span> and frequency of usage.
         <p>OR</p></li>
       <li>Use our 
         <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> 
         (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) 
-        to determine your fair share of expenses, based on lab budget and resource usage
-        <span class="small">(details are not stored or transmitted to VEuPathDB.)</span></li>
+        to determine your subscription fee, based on lab budget & resource usage, while also considering the differing needs of your lab members/projects <span class="small">(details are not stored or transmitted to VEuPathDB.)</span></li>
     </ul>
     <div class="center">
       <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_eKVRjzgyS05uwNU" target="_blank" rel="noopener noreferrer">
@@ -252,11 +251,11 @@ tags: [general]
   <tbody><tr>
     <td colspan="2" class="center sidewhite"><i>no funding at present</i></td>
     <td class="pad-l-1em nopad-r">$</td>
-    <td class="sidewhite">0</td>
+    <td class="sidewhite">300*</td>
     <td class="pad-l-1em nopad-r">$</td>
-    <td class="sidewhite">0</td>
+    <td class="sidewhite">200*</td>
     <td class="pad-l-1em nopad-r">$</td>
-    <td class="pad-r-halfem">0</td>
+    <td class="pad-r-halfem">100*</td>
   </tr>
   <tr class="alt">
     <td class="pad-l-2em nopad-r">$</td>  <!-- this affects all subsequent rows -->
