@@ -36,7 +36,7 @@ tags: [general]
       background: #e6f7fd78;
       padding: 0 1em 0.5em;
       margin-left: 2em;
-      min-width: 45em;
+      min-width: 46em;
       p {
         margin:0;
       }
@@ -349,6 +349,7 @@ tags: [general]
   </tr></tbody>
 
   </table>
+  <span style="font-size:85%">* Subsidized by generous philanthropic contributions (pending)</span>
     </div>
     </div>
 
