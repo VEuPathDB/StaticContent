@@ -251,11 +251,11 @@ tags: [general]
   <tbody><tr>
     <td colspan="2" class="center sidewhite"><i>no funding at present</i></td>
     <td class="pad-l-1em nopad-r">$</td>
-    <td class="sidewhite">300*</td>
+    <td class="sidewhite">***</td>
     <td class="pad-l-1em nopad-r">$</td>
-    <td class="sidewhite">200*</td>
+    <td class="sidewhite">***</td>
     <td class="pad-l-1em nopad-r">$</td>
-    <td class="pad-r-halfem">100*</td>
+    <td class="pad-r-halfem">***</td>
   </tr>
   <tr class="alt">
     <td class="pad-l-2em nopad-r">$</td>  <!-- this affects all subsequent rows -->
@@ -349,7 +349,7 @@ tags: [general]
   </tr></tbody>
 
   </table>
-  <span style="font-size:85%">* Subsidized by generous philanthropic contributions (pending)</span>
+  <span style="font-size:85%;font-style:italic">***Subsidized by generous philanthropic contributions (pending)</span>
     </div>
     </div>
 
