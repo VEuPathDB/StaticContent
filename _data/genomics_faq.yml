@@ -98,16 +98,40 @@
   uid: subscription
   projects: ""
 - type: fees
-  question: "How can I determine appropriate fees for my individual or academic group’s access to VEuPathDB resources?  Is payment mandatory?"
+  question: "How do I determine appropriate fees for my individual or academic group’s access to VEuPathDB resources?"
   answer: |  
-           We will provide users with a fee calculator for (privately) determining their fair share of VEuPathDB expenses, based on the size of their operation and engagement of staff with these resources.  Recognizing that individual laboratories differ greatly in their funding, number of personnel, and usage of VEuPathDB, users can use these figures as a guide to specify an appropriate fee for their group, providing the basis for an invoice.  We will also be available to discuss any considerations not recognized by the fee calculator, but do not propose to establish a mandatory pay-wall, and will not attempt to impose specific fees or question payments deemed appropriate by individual labs.
+           Please see our [subscrintion page](/a/app/static-content/subscriptions.html) to (privately) determine your fair subscription fee based on the size of your operation and engagement of staff with these resources. Recognizing that individuals differ greatly in the extent to which they use these databases, we recommend a fee of ~2% lab budgets for those who use these resources daily, 1% for weekly/monthly users, and 0.5% for irregular users. (<i>Note that this assessment is <10% the value estimated by our users in surveys see above!</i>).
   uid: determinefees
+  projects: ""
+- type: fees
+  question: "What if only a portion of my laboratory uses VEuPathDB resources?"
+  answer: |  
+           The [subscrintion page](/a/app/static-content/subscriptions.html) links to a fee calculator for use by labs where only a fraction of the group works on topics supported by VEuPathDB.
+  uid: whatifportion
+  projects: ""
+- type: fees
+  question: "What if the recommended subscription rate seems inappropriate?"
+  answer: |  
+           TBD.
+  uid: inappropriate
+  projects: ""
+- type: fees
+  question: "Is payment mandatory?"
+  answer: |  
+           TBD.
+  uid: mandatory
   projects: ""
 - type: fees
   question: "Does this model accommodate those with limited financial resources, e.g. new or unfunded laboratories, low-income countries, educational applications, etc?"
   answer: |  
-           Calculating invoices based on budget and database usage scales to accommodate considerable variability between laboratories, including those with limited budgets, educational applications, etc: 1% of a million dollar budget is $10K; 1% of a $10K budget is $100; 1% of a $0 budget is $0.
+           Calculating invoices based on budget and database usage scales to accommodate considerable variability between laboratories, including those with limited budgets, educational applications, etc: 1% of a million dollar budget is $10K; 1% of a $10K budget is $100. Some agencies are will not permit payment for services that are available for other users for free, but philanthropic contributions make it possible for us to subsidize subscriptions for underfunded laboratories. 
   uid: determinefees
+  projects: ""
+- type: fees
+  question: "What if I have no funding to cover my subscription costs?"
+  answer: |  
+           We are fortunate that philanthropic organizations are open to subsidizing subscriptions for underfunded laboratories, including new investigators, educators, researchers in low income countries <i>etc</i>.
+  uid: mandatory
   projects: ""
 - type: fees
   question: "Is it permissible to charge user fees to research grants?"

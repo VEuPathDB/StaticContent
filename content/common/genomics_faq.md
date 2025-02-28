@@ -62,7 +62,7 @@ tags: [general]
   </div>
 
   <div id="fees">
-    <h2>Fees for Website Access and Data-sharing/Dissemination</h2> 
+    <h2>Subscription Fees for Website Access and Data-sharing/Dissemination</h2> 
     {% for item in site.data.genomics_faq %}
     {% if item.type == "fees" %}
       {% include faq_item.html item=item %}
