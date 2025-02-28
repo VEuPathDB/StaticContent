@@ -134,7 +134,7 @@
 - type: fees
   question: "Is it permissible to charge user fees to research grants?"
   answer: |  
-           Yes.  This has been a topic of discussion with multiple funders, in various countries, and we will provide specific language describing fees for “website access and data sharing & dissemination” that is compatible with institutional, funder and auditor requirements.
+           Yes. This has been a topic of discussion with multiple funders, in various countries, and we have been advised that it is permissible to include “Fees for website access and data sharing & dissemination” as a line item on grant proposals. We are also happy to provide language detailing the anticipated dissemination of datasets via VEuPathDB, for inclusion in required Data-sharing Plans.
   uid: grantcharge
   projects: ""
 - type: fees
