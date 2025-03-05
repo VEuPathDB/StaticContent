@@ -35,6 +35,8 @@ From 14 September, 2024 to 7 January, 2025, VEuPathDB conducted a <b>User Impact
   <a  target="_blank" href="{{'/documents/PUBLIC_REPORT_VEuPathDB_User_Impact_Sustainability_Survey.pdf' | absolute_url}}">Read the Report</a>
 </div>
 
+<br><br>
+
 <div class="survey-link">
   <a  target="_blank" href="{{'/documents/Survey_Summary.pdf' | absolute_url}}">See the Summary</a>
 </div>
