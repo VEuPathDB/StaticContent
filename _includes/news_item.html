@@ -1,9 +1,8 @@
 <div class="container">
-  <img src="{{include.item.img | absolute_url}}" />
+  <img src="{{ include.item.img | absolute_url }}" alt="Survey Image" />
   <div class="text greyback">
-    <div class="title left">{{include.item.title}}</div>
-    {{include.item.img}}
-    {{include.item.content | markdownify}}
+    <div class="title left">{{ include.item.title }}</div>
+    {{ include.item.content | markdownify }}
   </div>
 </div>
 
