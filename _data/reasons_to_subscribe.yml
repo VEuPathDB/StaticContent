@@ -37,7 +37,7 @@
       Without access to the kinds of resources provided by VEuPathDB, the mycology, parasitology and vector biology fields will be entirely marginalized.  If I were a new investigator, I would not even consider working in a field where genomic-scale datasets - including not just sequence & annotation, but also functional & phenotypic data - were not readily and practically accessible to me on a daily basis (without having to turn myself into a technogeek)
 - type: question
   number: 2
-  question: VWe make bioinformatics accessible to all researchers
+  question: We make bioinformatics accessible to all researchers
   answer: |
       VEuPathDB removes technical barriers in bioinformatics by offering powerful tools that are easily accessible without the need for specialized computational or coding skills. The online platform uses intuitive, point-and-click interfaces, making complex data exploration easier for all researchers. Built-in analysis and visualization tools for established and emerging data types support various functionalities: genome browsing; functional enrichment analysis; comparative genomics; protein structure, function, and localization, etc. Providing deep insights while reducing financial and technological barriers levels the playing field by empowering scientists - including those in low-resource settings - to focus on discovery rather than data processing.
 - type: quote
