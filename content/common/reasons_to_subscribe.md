@@ -1,6 +1,6 @@
 ---
 layout: plain
-title: 7 Reasons to Subscribe to VEuPathDB 
+title: 5 Reasons to Subscribe to VEuPathDB 
 permalink: why-subscribe
 tags: [general]
 ---
