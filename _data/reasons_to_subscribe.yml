@@ -3,7 +3,7 @@
   number: 1
   question: VEuPathDB unlocks the power of research data
   answer: |
-      Scientific data is the most valuable product of research, yet it is often difficult to share, find, access, interpret, and put to effective use. VEuPathDB provides a platform for researchers worldwide to contribute high-quality, genomic and functional datasets, thereby fulfilling data-sharing mandates from funders and publishers - while also making this information available for reuse in advancing new discoveries. VEuPathDB follows <b>FAIR</b> principles - making data <b>Findable</b>, <b>Accessible</b>, <b>Interoperable</b>, and <b>Reusable</b> - to transform research data into a user-friendly, reusable, curated, searchable resource, supporting open science and innovation. We are building new tools to expedite users' analysis and QC of their own data, deposition in archival repositories, and public release.
+      Scientific data is the most valuable product of research, yet it is often difficult to share, find, access, interpret, and put to effective use. VEuPathDB provides a platform for researchers worldwide to contribute high-quality, genomic and functional datasets, thereby fulfilling data-sharing mandates from funders and publishers - while also making this information available for reuse in advancing new discoveries. VEuPathDB follows <b>FAIR</b> principles - making data <b>F</b>indable<, <b>A</b>ccessible, <b>I</b>nteroperable, and <b>R</b>eusable - to transform research data into a user-friendly, reusable, curated, searchable resource, supporting open science and innovation. We are building new tools to expedite users' analysis and QC of their own data, deposition in archival repositories, and public release.
 
 - type: quote
   questionnum: 1
