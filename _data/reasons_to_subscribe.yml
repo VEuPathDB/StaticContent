@@ -1,102 +1,128 @@
 --- # indicates the begining of the document
 - type: question
   number: 1
-  question: We Are Empowering Research Communities Globally
+  question: VEuPathDB unlocks the power of research data
   answer: |
-      VEuPathDB serves both established research communities and new users, providing essential bioinformatics tools for model organisms and infectious disease and vector-borne pathogen research. <b>Accessed by ~46K unique users per month</b>, VEuPathDB provides data resources to mycology, parasitology & vector biology <b>researchers from >150 countries</b>, including many disease-endemic regions.  Latin American countries dominate interest in the trypanosome parasites responsible for Chagas Disease.  India is the second heaviest user (after the US) of the PlasmoDB component focusing on malaria, and African countries are responsible for 5-10% of global PlasmoDB usage.  Mexico is the leading user of AmoebaDB.  Mosquito resources are widely used in India, Africa & Brazil.
+      Scientific data is the most valuable product of research, yet it is often difficult to share, find, access, interpret, and put to effective use. VEuPathDB provides a platform for researchers worldwide to contribute high-quality, genomic and functional datasets, thereby fulfilling data-sharing mandates from funders and publishers - while also making this information available for reuse in advancing new discoveries. VEuPathDB follows <b>FAIR</b> principles - making data <b>Findable</b>, <b>Accessible</b>, <b>Interoperable</b>, and <b>Reusable</b> - to transform research data into a user-friendly, reusable, curated, searchable resource, supporting open science and innovation. We are building new tools to expedite users' analysis and QC of their own data, deposition in archival repositories, and public release.
+
 - type: quote
   questionnum: 1
   username: anonymous user, post- BRC survey
   quote: |
-      VEupathDB is the rare biological database that got it right in terms of UI, content and community involvement.
+      The user-friendly availability of so much data at my fingertips has been invaluable.
 - type: quote
   questionnum: 1
   username: anonymous user, post- BRC survey
   quote: |
-      The VEuPathDB system has been an outstanding democratizer of access to data and analysis tools for scientists worldwide.
-      It is a necessary, powerful, and perfectly functional tool.
+      [Funding agencies like] NIH wants data to be accessible, shared, and managed -- VEuPathDB does all of that!!
+- type: quote
+  questionnum: 1
+  username: anonymous user, post- BRC survey
+  quote: |
+      All the data I need in one place is represented and aggregated in a very nice way that I got used to over the 20 years I have been using it.
+- type: quote
+  questionnum: 1
+  username: anonymous user, post- BRC survey
+  quote: |
+      The databases allow our lab to benefit from investments made by other labs and vice versa, increasing output from every investment made into research on eukaryotic pathogens.
+- type: quote
+  questionnum: 1
+  username: anonymous user, post- BRC survey
+  quote: |
+      As anyone who works with public databases knows, the level of *combined, integrated* high-quality data and added curation in the VEuPathDB is not replicated anywhere at the same level.
+- type: quote
+  questionnum: 1
+  username: anonymous user, post- BRC survey
+  quote: |
+      Without access to the kinds of resources provided by VEuPathDB, the mycology, parasitology and vector biology fields will be entirely marginalized.  If I were a new investigator, I would not even consider working in a field where genomic-scale datasets - including not just sequence & annotation, but also functional & phenotypic data - were not readily and practically accessible to me on a daily basis (without having to turn myself into a technogeek)
 - type: question
   number: 2
-  question: VEuPathDB Provides Advanced Data Mining & Vizualisation Tools
+  question: VWe make bioinformatics accessible to all researchers
   answer: |
-      VEuPathDB integrates <b>diverse research findings</b> with <b>advanced tools for mining and visualization</b>, making it a <b>unique and powerful</b> bioinformatics resource. Researchers can generate and test hypotheses <b>in silico</b>, leveraging tools like <b>*JBrowse, Cytoscape.js, and Search Strategies</b> for deep data exploration. We also provide <b>curated, high-quality datasets</b>, ensuring that researchers have access to the most relevant genomic and functional data. 
+      VEuPathDB removes technical barriers in bioinformatics by offering powerful tools that are easily accessible without the need for specialized computational or coding skills. The online platform uses intuitive, point-and-click interfaces, making complex data exploration easier for all researchers. Built-in analysis and visualization tools for established and emerging data types support various functionalities: genome browsing; functional enrichment analysis; comparative genomics; protein structure, function, and localization, etc. Providing deep insights while reducing financial and technological barriers levels the playing field by empowering scientists - including those in low-resource settings - to focus on discovery rather than data processing.
 - type: quote
   questionnum: 2
   username: anonymous user, post- BRC survey
   quote: |
       Thank you for providing this high-quality data in such a fantastic, queryable way for all these years.
-- type: question
-  number: 3
-  question: We Provide Accessible Bioinformatics Tools for Everyone
-  answer: |
-      Designed for researchers without computational expertise, VEuPathDB lowers the barrier to advanced bioinformatics analysis. The VEuPathDB sites are <b>accessible from any browser worldwide</b> in a point and lick manner, with <b>no coding skills required</b>.
 - type: quote
-  questionnum: 3
+  questionnum: 2
   username: anonymous user, post- BRC survey
   quote: |
+      The format of data presentation in the website allows easy and quick access, and it is extremely user-friendly, which is an extraordinary quality to support non-expert users.
+- type: quote
+  questionnum: 2
+  username: anonymous user, post- BRC survey
+  quote: |
+      In general I like that VEuPathDB is very usable by biologists who aren't bioinformatics experts. Nobody goes into infectious disease research because they love computers.
+- type: question
+  number: 3
+  question: VEuPathDB is a one-stop shop for data-driven discovery
+  answer: |
       VEuPathDB is an indispensable tool that scientists require when combining their wet and dry lab skills to investigate new avenues.
 - type: quote
   questionnum: 3
   username: anonymous user, post- BRC survey
   quote: |
-      what I liked about VB was making large datasets available to someone who may not be able to shift through large datasets or know how to write line code to automate it. It really equalized the access.
+      VEuPathDB brings diverse research data and powerful analysis tools together on a common platform, making it easier for scientists to explore, compare, and interpret integrated biological data. Using customizable queries and Search Strategies as in silico experiments, researchers can efficiently generate and test their own hypotheses. Robust data-mining capabilities allow users to analyze their own data in the context of prior work, enhancing discovery and reproducibility. By standardizing data in a production-quality resource, VEuPathDB offers reliable insights, helping scientists work smarter and faster, with greater impact. Consistent, high-quality data and an engaged user base also permit the application of modern AI tools to facilitate annotation and data cleaning, help recognize patterns, and develop hypotheses for testing in the lab, field and clinic.
+
+- type: quote
+  questionnum: 3
+  username: anonymous user, post- BRC survey
+  quote: |
+      Without this resource, members of our lab would spend 2-5x greater amount of time investigating feasibility and gathering rationale for ideas, and in designing new experiments.
+- type: quote
+  questionnum: 3
+  username: anonymous user, post- BRC survey
+  quote: |
+      [VEuPathDB]It is an irreplaceable resource for our work. It bundles many resources that would otherwise be difficult to access in a very convenient and user-friendly way.
+- type: quote
+  questionnum: 3
+  username: anonymous user, post- BRC survey
+  quote: |
+      VEuPathDB has the ease-of-use where I can find everything together all at once.
+- type: quote
+  questionnum: 3
+  username: anonymous user, post- BRC survey
+  quote: |
+      VEuPathDB is not just a static resource. It’s the lifeblood of new data and new tools and support expertise that drives the innovation and creativity in our scientific communities.
 - type: question
   number: 4
-  question: VEuPathDB Platform is Customizable & Scalable 
+  question: We empower researchers with training and dedicated support 
   answer: |
-      The platform accommodates a wide range of research needs, catering to both small-scale studies and extensive high-throughput analyses. Additionally, it features a robust query system for exploring various data types across different species.
+      VEuPathDB is more than just a bioinformatics platform: it’s a learning resource that supports researchers at all stages of their careers. Webinars, workshops, tutorials, and videos provide comprehensive training to help end-users maximize their research potential. A dedicated help desk ensures prompt assistance, making advanced bioinformatics tools more accessible. VEuPathDB is widely used as a teaching resource, providing real-world data and cutting-edge tools for education in bioinformatics and functional genomics. By equipping the next generation with essential skills, we foster a more knowledgeable & empowered research community.
 - type: quote
   questionnum: 4
-  username: anonymous user, post- BRC survey
-  quote: |
-      Thank you for providing this high-quality data served in such a fantastic queryable way for all these years.
-- type: quote
-  questionnum: 4
-  username: anonymous user, post- BRC survey
-  quote: |
-      absolutely essential service, not just for pathogenic diseases causing organisms but to allow comparative analysis to evolutionary distinct but related species.
-- type: question
-  number: 5
-  question: We Provider Dedicated Support & Training
-  answer: |
-      Comprehensive support, documentation, and training resources help users maximize the platform’s capabilities. The VEuPathDB team dedicates significant effort to <b>training and supporting the user community</b> in utilizing bioinformatics tools. We offer <b>webinars, workshops, tutorials, and videos</b>, and provide quick assistance through our email help desk.
-      <br><br>
-      VEuPathDB's publicly available real-world bioinformatics data creates valuable <b>opportunities for both undergraduate and graduate-level teaching</b>. It serves as an excellent resource for teaching bioinformatics techniques and functional genomics.
-- type: quote
-  questionnum: 5
-  username: anonymous user, post- BRC survey
-  quote: |
-      The educational resources offered by VEuPathDB are important for the training of students and new researchers.
-- type: quote
-  questionnum: 5
   username: anonymous user, post- BRC survey
   quote: |
       I train a wide range of students and junior scientists, many with very mixed computational backgrounds and skills. VEUPathDB is a very easy entry point for all trainees to start to explore a very wide range of data types and sets.
 - type: quote
+  questionnum: 4
+  username: anonymous user, post- BRC survey
+  quote: |
+      [VEuPathDB]It is designed well so it is easily accessible by first time students yet extensive enough to continue to be [used] through their careers.
+- type: quote
+  questionnum: 4
+  username: anonymous user, post- BRC survey
+  quote: |
+      I had the chance to participate in one of your workshops more than 10 years ago, and I still remember your passion.
+- type: question
+  number: 5
+  question: VEuPathDB promotes worldwide community and collaboration
+  answer: |
+      Over 25+ years, VEuPathDB has grown into a research hub, trusted by the worldwide community of researchers working on infectious diseases, vector biology, eukaryotic microbes, and model organism species. With ~46,000 unique users per month from more than 150 countries (including many from disease-endemic regions) this platform has emerged as a vital tool for scientific research. Scientists from Latin America, Africa, Asia, and beyond rely on VEuPathDB to access specialized data, connect with others, and advance their work. By facilitating data dissemination, fostering open science, and enabling researchers to build on existing discoveries, VEuPathDB champions global collaboration to accelerate innovation and drive the future of infectious disease research.
+- type: quote
   questionnum: 5
   username: anonymous user, post- BRC survey
   quote: |
-      I use the databases as an accessible way to teach my undergraduates about bioinformatics. It gives students and other researchers an accessible entry point for engaging with these types of data and analyses.
-- type: question
-  number: 6
-  question: VEuPathDB Has Over 20 years Of Experience In Delivering Robust Production Level Resources
-  answer: |
-      Efficiency and reproducibility are essential for high-quality research, ensuring credibility, reliability, and impact. Through consistent, production-level workflows, VEuPathDB delivers high-quality data, facilitating comparisons across experiments and organisms.
-- type: question
-  number: 7
-  question: VEuPathDB Supports Open Science & Efficiency & Reproducibility in Science.
-  answer: |
-      <b>The platform follows FAIR principles</b> (Findable, Accessible, Interoperable, Reusable) to ensure seamless data integration, analysis, and visualization.Your contribution ensures that high-quality, curated genomic and functional data remain freely accessible, enabling researchers to build upon existing work and accelerate scientific discovery. Additionally, this open approach fosters innovation and allows for more diverse and inclusive contributions to the scientific process.
-            
-      <br>VEuPathDB promotes <b>transparency, reproducibility, and accessibility of scientific data</b>. Data is the core output of scientific research, and VEuPathDB provides researchers with the platform to share their data beyond traditional publications. By integrating datasets into VEuPathDB, scientists can meet the data-sharing requirements set by journals and funding organizations. We adhere to the FAIR principles of data stewardship, ensuring data is Findable, Accessible, Interoperable, and Reusable.
+      VEuPathDB is the rare biological database that got it right in terms of UI, content and community involvement.
 - type: quote
-  questionnum: 7
+  questionnum: 5
   username: anonymous user, post- BRC survey
   quote: |
-      So many young researchers use it to inform their research questions, which allows labs to better focus on key questions.
+      It's not that it's a great resource for Eukaryotic pathogens, it's a great resource. Other fields would do well to set up their own.
 - type: quote
-  questionnum: 7
+  questionnum: 5
   username: anonymous user, post- BRC survey
   quote: |
-      Without this resource, members of our lab would spend 2-5x greater amount of time investigating feasibility and gathering rationale for ideas, and in designing new experiments.
-
+      The VEuPathDB system has been an outstanding democratizer of access to data and analysis tools for scientists worldwide. It is a necessary, powerful, and perfectly functional tool.
