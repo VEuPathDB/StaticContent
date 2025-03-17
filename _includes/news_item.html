@@ -1,0 +1,9 @@
+<div class="container">
+  <img src="{{include.item.img | absolute_url}}" alt="{{include.item.title}}"/>
+  <div class="text greyback">
+    <div class="title left">{{include.item.title}}</div>
+    {{include.item.content | markdownify}}
+  </div>
+</div>
+
+
