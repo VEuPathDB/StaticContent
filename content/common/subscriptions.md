@@ -219,7 +219,7 @@ tags: [general]
     <div class="column11">
     <ul>
       <li>Use the table at right to define appropriate annual fees, based on your 
-        <span style="text-decoration: underline;">total</span> lab budget 
+        <span style="text-decoration: underline;">total annual</span> lab budget 
         <span class="small">(including all grants, salaries, studentships, etc.)</span> and frequency of usage.
         <p>OR</p></li>
       <li>Use our 
