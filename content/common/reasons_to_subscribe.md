@@ -110,6 +110,8 @@ tags: [general]
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
     </div>
+    
+    <p> Note: The quoted text originates from the “VEuPathDB User Impact and Sustainability Survey” v2.0. </p>
 
     <hr style="margin-top:4rem">
     <div class="final">
