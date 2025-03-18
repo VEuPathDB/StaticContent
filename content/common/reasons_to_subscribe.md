@@ -110,7 +110,7 @@ tags: [general]
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
     </div>
-    <p> Note: The quoted text originates from the href="https://static-content.veupathdb.org/documents/PUBLIC_REPORT_VEuPathDB_User_Impact_Sustainability_Survey.pdf">VEuPathDB User Impact and Sustainability Survey</a> v2.0. </p>
+    <p> Note: The quoted text originates from the <a href="https://static-content.veupathdb.org/documents/PUBLIC_REPORT_VEuPathDB_User_Impact_Sustainability_Survey.pdf">VEuPathDB User Impact and Sustainability Survey</a> v2.0. </p>
     <hr style="margin-top:4rem">
     <div class="final">
       <p>VEuPathDB has been a <b>cornerstone of global infectious disease research</b> for over a decade. <b>With your support, we can continue driving scientific discoveries that improve global health</b>. Your contributions will directly impact <b>researchers, educators, and scientists worldwide</b>-and the breakthroughs they achieve.</p>
