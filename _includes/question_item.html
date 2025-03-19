@@ -5,19 +5,19 @@
   <div class="answer">
     <p>{{ include.item.answer | markdownify }}</p>
   </div>
-  <div>      
+  <div>   
+        <img id="openquote" src="{{'/assets/images/openquote.png' | absolute_url}}" />   
       {% for item2 in site.data.reasons_to_subscribe %}
       {% if item2.type == "quote" and item2.questionnum ==  my_question_number%}
         <div class="quotes">
-          <img id="openquote" src="{{'/assets/images/openquote.png' | absolute_url}}" />
           <blockquote>
             {{ item2.quote | markdownify  }}
             <cite>
               --{{ item2.username  }}
             </cite>
           </blockquote>
-          <img id="closequote" src="{{'/assets/images/closequote.png' | absolute_url}}" /> 
         </div>
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
+        <img id="closequote" src="{{'/assets/images/closequote.png' | absolute_url}}" />
   </div>

@@ -89,6 +89,18 @@ tags: [general]
       font-size: 1.3em;
       font-weight: 400;
     }
+    img#openquote {
+      width: 3em;
+      position: relative;
+      right: 24em;
+      top: 3em;
+    }
+    img#closequote {
+      width: 3em;
+      position: relative;
+      left: 23em;
+      bottom: 3em;
+    }
   }
 </style>
 
