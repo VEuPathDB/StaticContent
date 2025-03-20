@@ -56,6 +56,8 @@ tags: [general]
       font-style: italic;
       max-width: 40rem;
       text-align: left;
+      font-size: 90%;  /* Adjust size (smaller than questions) */
+      color: grey;     /* Change text color */
     }
     blockquote p {
       margin: 0;
