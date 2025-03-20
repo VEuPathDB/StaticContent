@@ -56,8 +56,6 @@ tags: [general]
       font-style: italic;
       max-width: 40rem;
       text-align: left;
-      font-size: 90%;  /* Adjust size (smaller than questions) */
-      color: grey;     /* Change text color */
     }
     blockquote p {
       margin: 0;
@@ -65,6 +63,8 @@ tags: [general]
     blockquote cite {
       font-style: normal;
       line-height: 1.75;
+      font-size: 90%;  /* Adjust size (smaller than questions) */
+      color: grey;     /* Change text color */
     }
     button {
       cursor: pointer;
