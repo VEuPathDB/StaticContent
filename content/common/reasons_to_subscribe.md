@@ -23,12 +23,12 @@ tags: [general]
       margin-top: 4rem;
     }
     img#main {
-      margin: 0 auto 2rem;
+      margin: 0 auto 1rem;
       max-width: 60%;
       display: block;
     }
     div.intro {
-      margin-top: 3em;
+      margin-top: 1.5em;
     }
     div.question {
       margin: 2rem auto 1rem;
