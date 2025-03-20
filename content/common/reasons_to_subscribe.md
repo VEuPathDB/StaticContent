@@ -94,13 +94,13 @@ tags: [general]
     img#openquote {
       width: 3em;
       position: relative;
-      right: 26em;
+      right: 29em;
       top: 3em;
     }
     img#closequote {
       width: 3em;
       position: relative;
-      left: 23em;
+      left: 21em;
       bottom: 3em;
     }
   }
@@ -108,7 +108,7 @@ tags: [general]
 
 <div class="static-content">
 
-  <h1 style="text-align:center">7 reasons to subscribe to VEuPathDB</h1>
+  <h1 style="text-align:center">5 reasons to subscribe to VEuPathDB</h1>
   <div class="centered">
     <img id="main" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" />
     <button><a target="_blank" href="https://qa.plasmodb.org/plasmo.b69/app/static-content/subscriptions.html">Subscribe today</a></button>
