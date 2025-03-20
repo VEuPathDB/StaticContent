@@ -56,6 +56,7 @@ tags: [general]
       font-style: italic;
       max-width: 40rem;
       text-align: left;
+      margin: 0.5rem 0;
     }
     blockquote p {
       margin: 0;
