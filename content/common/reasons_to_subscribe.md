@@ -13,7 +13,7 @@ tags: [general]
       text-align: center;
     }
     p {    
-      margin: 1rem auto 1rem;
+      margin: 0.5rem auto 0.5rem;
       text-align: left;
       font-size: 110%;
     }
