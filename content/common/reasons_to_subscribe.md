@@ -89,7 +89,7 @@ tags: [general]
     img#openquote {
       width: 3em;
       position: relative;
-      right: 29em;
+      right: 26em;
       top: 3em;
     }
     img#closequote {
