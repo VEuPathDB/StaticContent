@@ -16,20 +16,11 @@
 - type: quote
   questionnum: 1
   quote: |
-      All the data I need in one place is represented and aggregated in a very nice way that I got used to over the 20 years I have been using it.
-- type: quote
-  questionnum: 1
-  quote: |
       The databases allow our lab to benefit from investments made by other labs and vice versa, increasing output from every investment made into research on eukaryotic pathogens.
 - type: quote
   questionnum: 1
   quote: |
       As anyone who works with public databases knows, the level of *combined, integrated* high-quality data and added curation in the VEuPathDB is not replicated anywhere at the same level.
-- type: quote
-  questionnum: 1
-  username: VEuPathDB user, China (Asia)
-  quote: |
-      Without access to the kinds of resources provided by VEuPathDB, the mycology, parasitology and vector biology fields will be entirely marginalized.  If I were a new investigator, I would not even consider working in a field where genomic-scale datasets - including not just sequence & annotation, but also functional & phenotypic data - were not readily and practically accessible to me on a daily basis (without having to turn myself into a technogeek)
 - type: question
   number: 2
   question: We make bioinformatics accessible to all researchers
@@ -42,11 +33,6 @@
       Thank you for providing this high-quality data in such a fantastic, queryable way for all these years.
 - type: quote
   questionnum: 2
-  username: VEuPathDB user, Saudi Arabia (Middle East)
-  quote: |
-      The format of data presentation in the website allows easy and quick access, and it is extremely user-friendly, which is an extraordinary quality to support non-expert users.
-- type: quote
-  questionnum: 2
   username: VEuPathDB user, Israel (Middle East)
   quote: |
       In general I like that VEuPathDB is very usable by biologists who aren't bioinformatics experts. Nobody goes into infectious disease research because they love computers.
@@ -57,12 +43,6 @@
       VEuPathDB is an indispensable tool that scientists require when combining their wet and dry lab skills to investigate new avenues.
 - type: quote
   questionnum: 3
-  username: VEuPathDB user, South Africa (Africa) 
-  quote: |
-      VEuPathDB brings diverse research data and powerful analysis tools together on a common platform, making it easier for scientists to explore, compare, and interpret integrated biological data. Using customizable queries and Search Strategies as in silico experiments, researchers can efficiently generate and test their own hypotheses. Robust data-mining capabilities allow users to analyze their own data in the context of prior work, enhancing discovery and reproducibility. By standardizing data in a production-quality resource, VEuPathDB offers reliable insights, helping scientists work smarter and faster, with greater impact. Consistent, high-quality data and an engaged user base also permit the application of modern AI tools to facilitate annotation and data cleaning, help recognize patterns, and develop hypotheses for testing in the lab, field and clinic.
-
-- type: quote
-  questionnum: 3
   username: VEuPathDB user, Egypt (Africa)
   quote: |
       Without this resource, members of our lab would spend 2-5x greater amount of time investigating feasibility and gathering rationale for ideas, and in designing new experiments.
@@ -71,11 +51,6 @@
   username: VEuPathDB user, Nigeria (Africa)
   quote: |
       [VEuPathDB]It is an irreplaceable resource for our work. It bundles many resources that would otherwise be difficult to access in a very convenient and user-friendly way.
-- type: quote
-  questionnum: 3
-  username: VEuPathDB user, Australia (Oceania)
-  quote: |
-      VEuPathDB has the ease-of-use where I can find everything together all at once.
 - type: quote
   questionnum: 3
   username: VEuPathDB user, New Zeland (Oceania)
@@ -96,11 +71,6 @@
   username: VEuPathDB user, France (Europe)
   quote: |
       [VEuPathDB]It is designed well so it is easily accessible by first time students yet extensive enough to continue to be [used] through their careers.
-- type: quote
-  questionnum: 4
-  username: VEuPathDB user, Chile (South America)
-  quote: |
-      I had the chance to participate in one of your workshops more than 10 years ago, and I still remember your passion.
 - type: question
   number: 5
   question: VEuPathDB promotes worldwide community and collaboration
@@ -111,13 +81,3 @@
   username: VEuPathDB user, Ireland (Europe)
   quote: |
       VEuPathDB is the rare biological database that got it right in terms of UI, content and community involvement.
-- type: quote
-  questionnum: 5
-  username: VEuPathDB user, Madagascar (Africa)
-  quote: |
-      It's not that it's a great resource for Eukaryotic pathogens, it's a great resource. Other fields would do well to set up their own.
-- type: quote
-  questionnum: 5
-  username: VEuPathDB user, Brazil (South America)
-  quote: |
-      The VEuPathDB system has been an outstanding democratizer of access to data and analysis tools for scientists worldwide. It is a necessary, powerful, and perfectly functional tool.
