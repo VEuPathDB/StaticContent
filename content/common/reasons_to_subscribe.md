@@ -58,7 +58,7 @@ tags: [general]
     blockquote cite {
       font-style: normal;
       line-height: 1.75;
-      font-size: 90%;  /* Adjust size (smaller than questions) */
+      font-size: 120%;  /* Adjust size (smaller than questions) */
       color: grey;     /* Change text color */
     }
     button {
