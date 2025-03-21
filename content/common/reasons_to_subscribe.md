@@ -30,6 +30,12 @@ tags: [general]
       font-size: 120%;
       text-align: left;        
     }
+    div.question p {
+      margin-top: 0;
+    }
+    div.answer p {
+      margin-bottom: 0;
+    }
     div.quotes {
       display: flex;
     }
@@ -95,7 +101,7 @@ tags: [general]
     img#closequote {
       width: 3em;
       position: relative;
-      left: 21em;
+      left: 24em;
       bottom: 3em;
     }
   }
@@ -111,6 +117,8 @@ tags: [general]
     <div class="intro">
       <p>The <b>The Eukaryotic Pathogen, Host, and Vector Bioinformatics Resource Center </b> (<a href="https://veupathdb.org/veupathdb/app">VEuPathDB.org</a>) is an online knowledgebase and data mining platform that provides interactive access to extensive data on eukaryotic microbes (protists and fungi). These pathogens are responsible for many <b>globally important diseases</b>, such as malaria, toxoplasmosis, amebiasis, sleeping sickness, Chagas disease, candidiasis, aspergillosis, valley fever, and wheat blast. Additionally, the resource offers information on the insects, such as mosquitoes and ticks, that transmit diseases like Lyme disease, malaria, dengue fever, West Nile virus, and Zika virus, as well as their human, animal, and plant hosts.</p> 
       <p>As a Global Core Biodata Resource, VEuPathDB is relied upon by thousands of scientists daily. Unfortunately, funding agencies are increasingly unable to provide ongoing support for such infrastructure, placing the future of this critical resource in doubt. Sustainable financial support is vital to ensure that this valuable asset remains available to the scientific community. <b>Your support is crucial!</b></p>
+      <br>
+    </div>
 
     <div id="questions">
       {% for item in site.data.reasons_to_subscribe %}
