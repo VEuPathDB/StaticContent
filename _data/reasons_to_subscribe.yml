@@ -13,14 +13,6 @@
   questionnum: 1
   quote: |
       [Funding agencies like] NIH wants data to be accessible, shared, and managed -- VEuPathDB does all of that!!
-- type: quote
-  questionnum: 1
-  quote: |
-      The databases allow our lab to benefit from investments made by other labs and vice versa, increasing output from every investment made into research on eukaryotic pathogens.
-- type: quote
-  questionnum: 1
-  quote: |
-      As anyone who works with public databases knows, the level of *combined, integrated* high-quality data and added curation in the VEuPathDB is not replicated anywhere at the same level.
 - type: question
   number: 2
   question: We make bioinformatics accessible to all researchers
