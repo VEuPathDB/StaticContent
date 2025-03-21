@@ -16,11 +16,6 @@ tags: [general]
       text-align: left;
       font-size: 110%;
     }
-    hr {
-      height: 0.5rem;
-      background-color: #07304c;
-      margin-top: 4rem;
-    }
     img#main {
       margin: 0 auto 2rem;
       max-width: 60%;
