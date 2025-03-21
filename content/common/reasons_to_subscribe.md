@@ -25,7 +25,7 @@ tags: [general]
       margin-top: 3em;
     }
     div.question {
-      margin: 2rem auto 1rem;
+      margin: 0 auto 1rem;
       font-weight: 600;
       font-size: 120%;
       text-align: left;        
