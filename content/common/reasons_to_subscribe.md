@@ -50,6 +50,7 @@ tags: [general]
       font-style: italic;
       max-width: 40rem;
       text-align: left;
+      color: #696969;  /* Makes the quote text grey */
     }
     blockquote p {
       margin: 0;
