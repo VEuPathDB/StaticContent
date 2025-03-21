@@ -22,12 +22,12 @@ tags: [general]
       margin-top: 4rem;
     }
     img#main {
-      margin: 0 auto 1rem;
+      margin: 0 auto 2rem;
       max-width: 60%;
       display: block;
     }
     div.intro {
-      margin-top: 1.5em;
+      margin-top: 3em;
     }
     div.question {
       margin: 2rem auto 1rem;
@@ -55,7 +55,6 @@ tags: [general]
       font-style: italic;
       max-width: 40rem;
       text-align: left;
-      margin: 0.5rem 0;
     }
     blockquote p {
       margin: 0;
