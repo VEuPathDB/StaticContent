@@ -6,7 +6,7 @@ tags: [workshop-exercise]
 ---
 <style>
   h1 {
-    font-size: 2.5em;
+    font-size: 2.3em;
   }
   div.contents {
     margin-left: 1em;
@@ -46,7 +46,7 @@ tr.break td {
 }
 
 table.hor-minimalist-a {
-  text-align: left;
+  text-align: center;
 }
 table.hor-minimalist-a th {
   font-size: 110%;
@@ -156,4 +156,5 @@ div.logowrapper {
 <li><b>11:30AM:</b> Exploring the gene page</li>
 </ul>
 
+<p>All exdercise material may be downlaoded by clicking <b><a target="_blank" href="{{'/documents/2024toxo/SiteSearch_toxo2024.pdf' | absolute_url}}" >here</a></b>.</p>
 
