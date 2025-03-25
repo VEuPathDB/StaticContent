@@ -147,7 +147,7 @@ div.logowrapper {
 <h2>March 25-26, 2025</h2>
 <h2>This workshop will focus on VEuPathDB resources useful for Babesia researchers. The core workshop will utilize <a href="https://piroplasmadb.org">PiroplasmaDB</a> in the hands-on exercises, although demonstrations of <a href="https://vectorbase.org">VectorBase</a> and <a href="https://hostdb.org">HostDB</a> will be provided as needed</h2>
 
-<p><b>Workshop schedule:</b></p>
+<h3><p><b>Workshop schedule:</b></p>
 <p>Wednesday March 26, 2025</p>
 <ul>
 <li><b>10:00AM:</b> Welcome and general introduction to VEuPathDB</li>
@@ -157,4 +157,4 @@ div.logowrapper {
 </ul>
 
 <p>All exdercise material may be downlaoded by clicking <b><a target="_blank" href="{{'/documents/ibmv/Babesia_meeting.pdf' | absolute_url}}" >here</a></b>.</p>
-
+</h3>
