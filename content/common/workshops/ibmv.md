@@ -156,5 +156,5 @@ div.logowrapper {
 <li><b>11:30AM:</b> Exploring the gene page</li>
 </ul>
 
-<p>All exdercise material may be downlaoded by clicking <b><a target="_blank" href="{{'/documents/2024toxo/SiteSearch_toxo2024.pdf' | absolute_url}}" >here</a></b>.</p>
+<p>All exdercise material may be downlaoded by clicking <b><a target="_blank" href="{{'/documents/ibmv/Babesia_meeting.pdf' | absolute_url}}" >here</a></b>.</p>
 
