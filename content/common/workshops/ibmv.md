@@ -92,7 +92,7 @@ tags: [workshop-exercise]
 <div class="static-content">
 <center><h1>VEuPathDB workshop - held in association with the Fifth International Babesiosis Meeting 2025 (IBMV)</h1></center>
 <h2>March 25-26, 2025</h2>
-<h2>This workshop will focus on VEuPathDB resources that are useful for <i>Babesia</i> researchers. The core workshop will utilize <a href="https://piroplasmadb.org">PiroplasmaDB</a> in the hands-on exercises, although demonstrations of <a href="https://vectorbase.org">VectorBase</a> and <a href="https://hostdb.org">HostDB</a> will be provided as needed</h2>
+<p>This workshop will focus on VEuPathDB resources that are useful for <i>Babesia</i> researchers. The core workshop will utilize <a href="https://piroplasmadb.org">PiroplasmaDB</a> in the hands-on exercises, although demonstrations of <a href="https://vectorbase.org">VectorBase</a> and <a href="https://hostdb.org">HostDB</a> will be provided as needed</p>
 
 <p><b>Workshop schedule:</b></p>
 <p>Wednesday, March 26, 2025</p>
