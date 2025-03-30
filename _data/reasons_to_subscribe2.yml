@@ -5,17 +5,16 @@
   image: question1.png
   answer: |
       Scientific data is the most valuable product of research, yet it is often difficult to share, find, access, interpret, and put to effective use. VEuPathDB provides a platform for researchers worldwide to contribute high-quality, genomic and functional datasets, thereby fulfilling data-sharing mandates from funders and publishers - while also making this information available for reuse in advancing new discoveries. VEuPathDB follows <b>FAIR</b> principles - making data <b>F</b>indable, <b>A</b>ccessible, <b>I</b>nteroperable, and <b>R</b>eusable - to transform research data into a user-friendly, reusable, curated, searchable resource, supporting open science and innovation. We are building new tools to expedite users' analysis and QC of their own data, deposition in archival repositories, and public release.
-
 - type: quote
   questionnum: 1
   username: 
   quote: |
-      The user-friendly availability of so much data at my fingertips has been invaluable.
+      "The user-friendly availability of so much data at my fingertips has been invaluable."
 - type: quote
   questionnum: 1
   username: 
   quote: |
-      [Funding agencies like] NIH wants data to be accessible, shared, and managed -- VEuPathDB does all of that!!
+      "[Funding agencies like] NIH wants data to be accessible, shared, and managed -- VEuPathDB does all of that!!"
 - type: question
   number: 2
   question: We make bioinformatics accessible to all researchers
@@ -26,12 +25,12 @@
   questionnum: 2
   username: 
   quote: |
-      Thank you for providing this high-quality data in such a fantastic, queryable way for all these years.
+      "Thank you for providing this high-quality data in such a fantastic, queryable way for all these years."
 - type: quote
   questionnum: 2
   username: 
   quote: |
-      In general I like that VEuPathDB is very usable by biologists who aren't bioinformatics experts. Nobody goes into infectious disease research because they love computers.
+      "In general I like that VEuPathDB is very usable by biologists who aren't bioinformatics experts. Nobody goes into infectious disease research because they love computers."
 - type: question
   number: 3
   question: VEuPathDB is a one-stop shop for data-driven discovery
@@ -42,17 +41,17 @@
   questionnum: 3
   username: VEuPathDB user, Egypt (Africa)
   quote: |
-      Without this resource, members of our lab would spend 2-5x greater amount of time investigating feasibility and gathering rationale for ideas, and in designing new experiments.
+      "Without this resource, members of our lab would spend 2-5x greater amount of time investigating feasibility and gathering rationale for ideas, and in designing new experiments."
 - type: quote
   questionnum: 3
   username: 
   quote: |
-      [VEuPathDB]It is an irreplaceable resource for our work. It bundles many resources that would otherwise be difficult to access in a very convenient and user-friendly way.
+      "[VEuPathDB]It is an irreplaceable resource for our work. It bundles many resources that would otherwise be difficult to access in a very convenient and user-friendly way."
 - type: quote
   questionnum: 3
   username: 
   quote: |
-      VEuPathDB is not just a static resource. It’s the lifeblood of new data and new tools and support expertise that drives the innovation and creativity in our scientific communities.
+      "VEuPathDB is not just a static resource. It’s the lifeblood of new data and new tools and support expertise that drives the innovation and creativity in our scientific communities."
 - type: question
   number: 4
   question: We empower researchers with training and dedicated support 
@@ -63,12 +62,12 @@
   questionnum: 4
   username: ""
   quote: |
-      I train a wide range of students and junior scientists, many with very mixed computational backgrounds and skills. VEUPathDB is a very easy entry point for all trainees to start to explore a very wide range of data types and sets.
+      "I train a wide range of students and junior scientists, many with very mixed computational backgrounds and skills. VEUPathDB is a very easy entry point for all trainees to start to explore a very wide range of data types and sets."
 - type: quote
   questionnum: 4
   username: null
   quote: |
-      [VEuPathDB]It is designed well so it is easily accessible by first time students yet extensive enough to continue to be [used] through their careers.
+      "[VEuPathDB]It is designed well so it is easily accessible by first time students yet extensive enough to continue to be [used] through their careers."
 - type: question
   number: 5
   question: VEuPathDB promotes worldwide community and collaboration
@@ -79,5 +78,5 @@
   questionnum: 5
   username: 
   quote: |
-      VEuPathDB is the rare biological database that got it right in terms of UI, content and community involvement.
+      "VEuPathDB is the rare biological database that got it right in terms of UI, content and community involvement."
 
