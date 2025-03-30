@@ -32,6 +32,9 @@
       text-align: left; 
       color: #007acc;       
     }
+    div.answer {
+      margin-bottom: 2em;
+    }
     div.answer img {
       float: left;
       width: 5em;

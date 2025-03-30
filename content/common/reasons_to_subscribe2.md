@@ -25,7 +25,7 @@ tags: [general]
       {% if item.type == "question" %}
         <div class="question"><p>{{ item.question }}</p></div>
         <div class="answer">
-          <img src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" /> 
+          <img src="{{'/assets/images/reasons-to-subscribe/veupathdb_sub.png' | absolute_url}}" /> 
           {{ item.answer | markdownify }}
         </div>
       {% endif %}
