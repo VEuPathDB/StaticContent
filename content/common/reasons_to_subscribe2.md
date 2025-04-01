@@ -11,7 +11,7 @@ tags: [general]
 
   <h2 style="text-align:center">5 reasons to subscribe to VEuPathDB</h2>
   <div class="centered">
-    <img id="main" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" />
+    <img id="top" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" />
     <button><a target="_blank" href="https://qa.plasmodb.org/plasmo.b69/app/static-content/subscriptions.html">Subscribe today</a></button>
 
     <div class="intro">
@@ -44,15 +44,15 @@ tags: [general]
       </div>
     </div>
   
-        <div class="final">
+    <div class="final">
       <p>VEuPathDB has been a cornerstone of global infectious disease research for > 25 years. Your contributions will directly impact researchers, educators, and scientists worldwide -- and the breakthroughs they achieve.</p>
 
       <button><a target="_blank" href="/a/app/static-content/subscriptions.html">Subscribe today</a></button>
       <br><br>
 
       <div class="map">
-    <img id="main" src="{{'/assets/images/reasons-to-subscribe/veupathdb_map.png' | absolute_url}}" />
-      
+        <img id="bottom" src="{{'/assets/images/reasons-to-subscribe/veupathdb_map.png' | absolute_url}}" />
+      </div>
     </div>
 
   </div>
