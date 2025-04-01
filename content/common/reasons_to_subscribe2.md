@@ -50,7 +50,7 @@ tags: [general]
       <button><a target="_blank" href="/a/app/static-content/subscriptions.html">Subscribe today</a></button>
 
       <div class="centered">
-    <img id="main" src="{{'/assets/images/veupathdb_map.png' | absolute_url}}" />
+    <img id="main" src="{{'/assets/images/reasons-to-subscribe/veupathdb_map.png' | absolute_url}}" />
       
     </div>
 
