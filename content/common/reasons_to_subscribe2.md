@@ -45,7 +45,7 @@ tags: [general]
     </div>
   
     <div class="centered">
-    <img id="main" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" />
+    <img id="main" src="{{'/assets/images/veupathdb_map.png' | absolute_url}}" />
 
     <div class="final">
       <p>VEuPathDB has been a cornerstone of global infectious disease research for > 25 years. Your contributions will directly impact researchers, educators, and scientists worldwide -- and the breakthroughs they achieve.</p>
