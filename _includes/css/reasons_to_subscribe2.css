@@ -6,6 +6,11 @@
       max-width: 60rem;
       text-align: center;
     }
+    div.map {
+      margin: 0 auto;
+      max-width: 150rem;
+      text-align: center;
+    }
     p {    
       text-align: left;
       font-size: 110%;
