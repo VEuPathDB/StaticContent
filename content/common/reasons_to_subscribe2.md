@@ -46,7 +46,6 @@ tags: [general]
   
     <div class="final">
       <p>VEuPathDB has been a cornerstone of global infectious disease research for > 25 years.</p>
-      <p>With your support, we can continue driving scientific discoveries that improve public health.</p>
       <p>Your contributions will directly impact researchers, educators, and scientists worldwide -- and the breakthroughs they achieve.</p>
 
       <button><a target="_blank" href="/a/app/static-content/subscriptions.html">Subscribe today</a></button>
