@@ -36,7 +36,8 @@
   question: VEuPathDB is a one-stop shop for data-driven discovery
   image: question3.png
   answer: |
-      VEuPathDB is an indispensable tool that scientists require when combining their wet and dry lab skills to investigate new avenues.
+      VEuPathDB brings diverse research data and powerful analysis tools together on a common platform, making it easier for scientists to explore, compare and interpret integrated biological data.  Using customizable queries and Search Strategies as <i>in silico</i> experiments, researchers can efficiently generate and test their own hypotheses.  Robust data-mining capabilities allow users to analyze their own data in the context of prior work, enhancing discovery and reproducibility.  By standardizing data in a production-quality resource, VEuPathDB offers reliable insights, helping scientists work smarter and faster, with greater impact.  Consistent, high-quality data and engaged users also permits the application of modern AI tools to facilitate annotation and data cleaning, help recognize patterns, and develop hypotheses for testing in the lab, field and clinic.
+
 - type: quote
   questionnum: 3
   username: VEuPathDB user, Egypt (Africa)
