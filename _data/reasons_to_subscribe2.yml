@@ -20,7 +20,7 @@
   question: We make bioinformatics accessible to all researchers
   image: question2.png
   answer: |
-      VEuPathDB removes technical barriers in bioinformatics by offering powerful tools that are easily accessible without the need for specialized computational or coding skills. The online platform uses intuitive, point-and-click interfaces, making complex data exploration easier for all researchers. Built-in analysis and visualization tools for established and emerging data types support various functionalities: genome browsing; functional enrichment analysis; comparative genomics; protein structure, function, and localization, etc. Providing deep insights while reducing financial and technological barriers levels the playing field by empowering scientists - including those in low-resource settings - to focus on discovery rather than data processing.
+      VEuPathDB offers data mining solutions requiring no specialized computational or coding expertise. The online platform features user-friendly, point-and-click interfaces, facilitating complex data exploration for researchers of all backgrounds. It includes built-in analysis and visualization tools tailored for various data types, supporting functions such as genome browsing, functional enrichment analysis, comparative genomics, and protein structure, function, and localization. By delivering profound insights while lowering financial and technological barriers, it empowers scientists - especially those in low-resource environments - to prioritize discovery over data processing.
 - type: quote
   questionnum: 2
   username: 
