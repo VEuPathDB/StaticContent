@@ -9,7 +9,7 @@ tags: [general]
 
 <div class="static-content">
 
-  <h1 style="text-align:center">5 reasons to Subscribe to VEuPathDB</h1>
+  <h1 style="text-align:center">5 reasons to subscribe to VEuPathDB</h1>
   <div class="centered">
     <img id="top" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" />
     <button><a target="_blank" href="https://qa.plasmodb.org/plasmo.b69/app/static-content/subscriptions.html">Subscribe today</a></button>
@@ -38,7 +38,7 @@ tags: [general]
         <div class="quotes"><p>{{ item2.quote | markdownify  }}</p></div>
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
-        <br><p>--Quotes from <a href="https://static-content.veupathdb.org/documents/PUBLIC_REPORT_VEuPathDB_User_Impact_Sustainability_Survey.pdf">
+        <br4><p>--Quotes from <a href="https://static-content.veupathdb.org/documents/PUBLIC_REPORT_VEuPathDB_User_Impact_Sustainability_Survey.pdf">
              user surveys</a> conducted Sept-Dec 2024.
         </p>
       </div>
