@@ -51,9 +51,10 @@ tags: [general]
       <br><br>
 Thousands of groups around the world rely on VEuPathDB resources for research and training
 
-      <div class="map">
-        <img id="bottom" src="{{'/assets/images/reasons-to-subscribe/veupathdb_map.png' | absolute_url}}" />
-      </div>
+     <div class="map">
+      <div class="map-text">Thousands of groups around the world rely on VEuPathDB resources for research and training</div>
+      <img id="bottom" src="{{'/assets/images/reasons-to-subscribe/veupathdb_map.png' | absolute_url}}" />
+    </div>
 Colors represent different user communities supporting the VEuPathDB family of databases
     </div>
 

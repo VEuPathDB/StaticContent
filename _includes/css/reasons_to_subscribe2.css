@@ -94,10 +94,23 @@
     }
 
     div.map {
-      margin: 0 auto;
-      max-width: 300rem;
+      position: relative;
       text-align: center;
     }
+
+    div.map-text {
+      position: absolute;
+      top: 5mm;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: rgba(255, 255, 255, 0.7);
+      padding: 5px 10px;
+      font-weight: bold;
+      font-size: 1.2em;
+      color: #007acc;
+      border-radius: 5px;
+    }
+    
     img#bottom {
       margin: 0 auto 2rem;
       max-width: 100%;
