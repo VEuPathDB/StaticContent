@@ -9,7 +9,7 @@ tags: [general]
 
 <div class="static-content">
 
-  <h2 style="text-align:center">5 Reasons To Subscribe To VEuPathDB</h2>
+  <h1 style="text-align:center">5 reasons to Subscribe to VEuPathDB</h1>
   <div class="centered">
     <img id="top" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" />
     <button><a target="_blank" href="https://qa.plasmodb.org/plasmo.b69/app/static-content/subscriptions.html">Subscribe today</a></button>
