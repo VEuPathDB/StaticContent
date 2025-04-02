@@ -109,6 +109,7 @@
       font-size: 1.2em;
       color: #007acc;
       border-radius: 5px;
+      white-space: nowrap;
     }
     
     img#bottom {
