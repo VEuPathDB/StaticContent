@@ -107,17 +107,17 @@
       padding: 5px 10px;
       font-weight: bold;
       font-size: 1.2em;
-      color: #007acc;
+      color: #2b2c2c;
       border-radius: 5px;
       white-space: nowrap;
     }
 
     div.map-caption {
       position: absolute;
-      bottom: 5mm; /* Positioning slightly above the bottom edge */
-      right: 10px; /* Distance from the right edge */
-      font-size: 0.9em; /* Smaller font */
-      color: #696969; /* Dark grey color */
+      bottom: 5mm; 
+      right: 10px; 
+      font-size: 0.9em; 
+      color: #696969; 
       background-color: rgba(255, 255, 255, 0.6); /* Light background for readability */
       padding: 3px 6px;
       border-radius: 5px;
