@@ -36,7 +36,7 @@
   question: VEuPathDB is a one-stop shop for data-driven discovery
   image: question3.png
   answer: |
-      VEuPathDB integrates research data with analysis tools on a unified platform, simplifying exploration, comparison, and interpretation of biological data. Researchers can create <i>in silico</i> experiments via customizable queries. Robust data-mining features allow users to analyze their datasets alongside existing research, fostering discovery and reproducibility. By standardizing data through production quality workflows, VEuPathDB  offers  reliable  insights,  helping scientists work faster and with greater impact. High-quality data and AI tools enable data cleaning, annotation, pattern recognition, and hypothesis development and testing anytime and anywhere.
+      VEuPathDB integrates research data with analysis tools on a unified platform, simplifying exploration, comparison, and interpretation of biological data. Researchers can mine the data by creating <i>in silico</i> experiments via customizable queries. Robust data-mining features allow users to analyze their datasets alongside existing research, fostering discovery and reproducibility. By standardizing data through production quality workflows, VEuPathDB  offers  reliable  insights,  helping scientists work faster and with greater impact. High-quality data and AI tools enable data cleaning, annotation, pattern recognition, and hypothesis development and testing anytime and anywhere.
 - type: quote
   questionnum: 3
   username: VEuPathDB user, Egypt (Africa)
