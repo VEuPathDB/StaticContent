@@ -55,8 +55,8 @@ tags: [general]
       <img id="bottom" src="{{'/assets/images/reasons-to-subscribe/veupathdb_map.png' | absolute_url}}" />
       <div class="map-caption">Colors represent different user communities supporting the VEuPathDB family of databases</div>
     </div>
-Colors represent different user communities supporting the VEuPathDB family of databases
-    </div>
+
+   </div>
 
   </div>
 </div>
