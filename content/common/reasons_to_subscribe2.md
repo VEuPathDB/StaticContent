@@ -14,7 +14,7 @@ tags: [general]
     <img id="top" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" />
     <button>
       <a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate</a>
-     <span>Donations go to VEuPathDB general operations</span>
+     <span>VEuPathDB general operations</span>
     </button>
 
     <div class="intro">
@@ -52,7 +52,7 @@ tags: [general]
 
     <button>
       <a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate</a>
-     <span>Donations go to VEuPathDB general operations</span>
+     <span>VEuPathDB general operations</span>
     </button>
       <br><br>
       
