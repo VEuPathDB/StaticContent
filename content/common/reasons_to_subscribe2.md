@@ -12,7 +12,10 @@ tags: [general]
   <h1 style="text-align:center">5 reasons to support VEuPathDB</h1>
   <div class="centered">
     <img id="top" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" />
-    <button><a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate</a></button>
+    <button>
+      <a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate</a>
+     <span>VEuPathDB general operations</span>
+    </button>
 
     <div class="intro">
       <p>The <b>The Eukaryotic Pathogen, Host, and Vector Bioinformatics Resource Center </b> (<a href="https://veupathdb.org/veupathdb/app"><b>VEuPathDB.org</b></a>) is an online knowledgebase and data-mining platform offering interactive access to diverse geomic-scale datasets relating to eukaryotic microbes. Pathogenic protists and fungi are responsible for many <b>globally important diseases</b>, including malaria, toxoplasmosis, amebiasis, sleeping sickness, Chagas disease, candidiasis, aspergillosis, valley fever, wheat blast, <i>etc.</i> VEuPathDB also provides data on infected human, animal & plant hosts, as well as mosquitoes & ticks that transmit Lyme disease, malaria, dengue, West Nile, Zika, <i>etc.</i></p> 
@@ -47,7 +50,10 @@ tags: [general]
     <div class="final">
       <p>VEuPathDB has been a cornerstone of global infectious disease research for > 25 years. Your contributions will directly impact researchers, educators, and scientists worldwide -- and the breakthroughs they achieve.</p>
 
-      <button><a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate</a></button>
+    <button>
+      <a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate</a>
+     <span>VEuPathDB general operations</span>
+    </button>
       <br><br>
       
      <div class="map">
