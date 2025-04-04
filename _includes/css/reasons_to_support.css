@@ -112,7 +112,7 @@
 
     div.map-text {
       position: absolute;
-      top: 3mm;
+      top: 2mm;
       left: 50%;
       transform: translateX(-50%);
       background-color: rgba(255, 255, 255, 0.7);
