@@ -12,7 +12,7 @@ tags: [general]
   <h1 style="text-align:center">5 reasons to support VEuPathDB</h1>
   <div class="centered">
     <img id="top" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" />
-    <button><a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate</a>
+    <button><a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate Now</a>
     </button>
 
     <div class="intro">
@@ -48,7 +48,7 @@ tags: [general]
     <div class="final">
       <p>VEuPathDB has been a cornerstone of global infectious disease research for > 25 years. Your contributions will directly impact researchers, educators, and scientists worldwide -- and the breakthroughs they achieve.</p>
 
-    <button><a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate</a>
+    <button><a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate Now</a>
     </button>
       <br><br>
       
