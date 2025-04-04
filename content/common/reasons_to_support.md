@@ -46,7 +46,7 @@ tags: [general]
     </div>
   
     <div class="final">
-      <p>VEuPathDB has been a cornerstone of global infectious disease research for > 25 years. Your contributions will directly impact researchers, educators, and scientists worldwide -- and the breakthroughs they achieve.</p>
+      <p>VEuPathDB has been a cornerstone of global infectious disease research for >25 years. Your contributions will directly impact researchers, educators, and scientists worldwide -- and the breakthroughs they achieve.</p>
 
     <button><a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate Now</a>
     </button>
