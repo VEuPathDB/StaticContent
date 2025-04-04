@@ -112,7 +112,7 @@
 
     div.map-text {
       position: absolute;
-      top: 5mm;
+      top: 3mm;
       left: 50%;
       transform: translateX(-50%);
       font-weight: bold;
@@ -124,7 +124,7 @@
 
     div.map-caption {
       position: absolute;
-      bottom: 5mm; 
+      bottom: 3mm; 
       right: 10px; 
       font-size: 0.9em; 
       color: #696969; 
