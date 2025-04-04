@@ -5,7 +5,7 @@ permalink: why-support
 tags: [general]
 ---
 
-{% include css/reasons_to_subscribe.css  %}
+{% include css/reasons_to_support.css  %}
 
 <div class="static-content">
 
@@ -22,11 +22,11 @@ tags: [general]
 
     <div id="questions">
       <div class="column1">
-      {% for item in site.data.reasons_to_subscribe %}
+      {% for item in site.data.reasons_to_support %}
       {% if item.type == "question" %}
         <div class="question"><p>{{ item.question }}</p></div>
         <div class="answer">
-          <img src="{{'/assets/images/reasons-to-subscribe/' | append: item.image | absolute_url}}" /> 
+          <img src="{{'/assets/images/reasons-to-support/' | append: item.image | absolute_url}}" /> 
           {{ item.answer | markdownify }}
         </div>
       {% endif %}
@@ -34,7 +34,7 @@ tags: [general]
       </div>
 
       <div class="column2">
-      {% for item2 in site.data.reasons_to_subscribe %}
+      {% for item2 in site.data.reasons_to_support %}
       {% if item2.type == "quote" %}
         <div class="quotes"><p>{{ item2.quote | markdownify  }}</p></div>
       {% endif %}
@@ -54,7 +54,7 @@ tags: [general]
       
      <div class="map">
       <div class="map-text">Thousands of groups around the world rely on VEuPathDB resources for research and training</div>
-      <img id="bottom" src="{{'/assets/images/reasons-to-subscribe/veupathdb_map.png' | absolute_url}}" />
+      <img id="bottom" src="{{'/assets/images/reasons-to-support/veupathdb_map.png' | absolute_url}}" />
       <div class="map-caption">Colors represent different user communities supporting the VEuPathDB family of databases</div>
     </div>
 
