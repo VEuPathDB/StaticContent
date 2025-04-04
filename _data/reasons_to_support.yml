@@ -4,7 +4,7 @@
   question: VEuPathDB unlocks the power of research data
   image: question1.png
   answer: |
-      Scientific data is the most valuable product of research, yet it is often difficult to share, find, access, interpret, and put to effective use. VEuPathDB provides a platform for researchers worldwide to contribute high-quality datasets, thereby fulfilling data-sharing mandates from funders and publishers. VEuPathDB follows <b>FAIR</b> principles - making data <b>F</b>indable, <b>A</b>ccessible, <b>I</b>nteroperable, and <b>R</b>eusable - to transform research data into a user-friendly, reusable, curated, searchable resource, supporting open science and innovation. We are building new tools to expedite users' analysis and QC of their own data, deposition in archival repositories, and public release.
+      Scientific data is the most valuable product of research, yet it is often difficult to share, find, access, interpret, and put to effective use.  VEuPathDB provides a platform for researchers worldwide to contribute high-quality datasets, thereby fulfilling data-sharing mandates from funders and publishers.  <b>FAIR principles</b> ensure this information is <b>F</b>indable, <b>A</b>ccessible, <b>I</b>nteroperable, and <b>R</b>eusable, transforming research data into a user-friendly resource, supporting Open Science, innovation, and practical applications in global public health.  We are building new tools to expedite users' analysis and QC of their own data, deposition in archival repositories, and public release.
 - type: quote
   questionnum: 1
   username: 
@@ -20,7 +20,7 @@
   question: We make bioinformatics accessible to all researchers
   image: question2.png
   answer: |
-      VEuPathDB offers data mining solutions requiring no specialized computational or coding expertise. The online platform features user-friendly, point-and-click interfaces, facilitating complex data exploration for researchers of all backgrounds. It includes built-in analysis and visualization tools tailored for various data types, supporting functions such as genome browsing, functional enrichment analysis, comparative genomics, and protein structure, function, and localization. By delivering profound insights while lowering financial and technological barriers, it empowers scientists to prioritize discovery over data processing.
+      VEuPathDB offers data mining solutions requiring no specialized computational or coding expertise.  The online platform features intuitive, point-and-click interfaces, facilitating complex data exploration for researchers of all backgrounds.  It includes built-in analysis and visualization tools tailored for various data types, supporting functions such as genome browsing, functional enrichment analysis, comparative genomics, and protein structure, function, and localization.  By delivering profound insights while lowering financial and technological barriers, it empowers scientists to prioritize discovery over data processing.
 - type: quote
   questionnum: 2
   username: 
@@ -36,7 +36,7 @@
   question: VEuPathDB is a one-stop shop for data-driven discovery
   image: question3.png
   answer: |
-      VEuPathDB integrates research data with analysis tools on a unified platform, simplifying exploration, comparison, and interpretation of biological data. Researchers can mine the data by creating <i>in silico</i> experiments via customizable queries. Robust data-mining features allow users to analyze their datasets alongside existing research, fostering discovery and reproducibility. By standardizing data through production quality workflows, VEuPathDB  offers  reliable  insights,  helping scientists work faster and with greater impact. High-quality data and AI tools enable data cleaning, annotation, pattern recognition, and hypothesis development and testing anytime and anywhere.
+      VEuPathDB integrates research data with analysis tools on a unified platform, simplifying the exploration, comparison, and interpretation of biological data.  Using production quality workflows to standardize data, VEuPathDB offers reliable insights, helping scientists work faster and with greater impact.  High-quality data, tools and AI methodology facilitates data cleaning, annotation, summarization and pattern recognition.  Robust data-mining features allow users to analyze their datasets in the context of existing research, fostering discovery and reproducibility.  Using customizable queries as in silico experiments, researchers can efficiently generate and test their own hypotheses anytime and anywhere.
 - type: quote
   questionnum: 3
   username: VEuPathDB user, Egypt (Africa)
@@ -57,7 +57,7 @@
   question: We empower researchers with training and dedicated support 
   image: question4.png
   answer: |
-      VEuPathDB is more than just a bioinformatics platform: it’s a learning resource that supports researchers at all stages of their careers. Webinars, workshops, tutorials, and videos provide comprehensive training to help end-users maximize their research potential. A dedicated help desk ensures prompt assistance, making advanced bioinformatics tools more accessible. VEuPathDB is widely used as a teaching resource, providing real-world data and cutting-edge tools for education in bioinformatics and functional genomics. By equipping the next generation with essential skills, we foster a more knowledgeable & empowered research community.
+      VEuPathDB is more than just a bioinformatics platform: it’s a learning resource that supports researchers at all stages of their careers.  Webinars, workshops, tutorials, and videos provide comprehensive training to help end-users maximize their research potential.  A dedicated help desk ensures prompt assistance, making advanced bioinformatics tools more accessible.  VEuPathDB is widely used as a teaching resource, providing real-world data and cutting-edge tools for education in bioinformatics and functional genomics.  By equipping the next generation with essential skills, we foster a more knowledgeable & empowered research community.
 - type: quote
   questionnum: 4
   username: ""
@@ -73,7 +73,7 @@
   question: VEuPathDB promotes worldwide community and collaboration
   image: question5.png
   answer: |
-      For over 25 years, VEuPathDB has become a trusted research hub for scientists investigating infectious diseases, vector biology, eukaryotic microbes, and model organisms. With about 46,000 users monthly from over 150 countries, many in disease-endemic areas, it serves as a vital resource for inquiry. Researchers in Latin America, Africa, Asia, and beyond rely on VEuPathDB for specialized data, networking, and enhancing research. By promoting data sharing and fostering collaboration, VEuPathDB drives innovation and shapes the future of infectious disease research.
+      Over 25 years, VEuPathDB has become a trusted research hub for scientists investigating infectious diseases, vector biology, eukaryotic microbes, and model organisms.  With about ~46,000 users monthly from more than 150 countries, many in disease-endemic areas, it serves as a vital resource for inquiry.  Researchers in Latin America, Africa, Asia, and beyond rely on VEuPathDB for specialized data, networking, and enhancing research.  By promoting data sharing and fostering collaboration, VEuPathDB drives innovation and shapes the future of infectious disease research.
 - type: quote
   questionnum: 5
   username: 
