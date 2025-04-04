@@ -102,7 +102,7 @@
     margin-top: 3px;
     white-space: nowrap;
     text-align: center;
-    display: block; /* Ensures "Support Open Science" appears below */
+    display: block;
   }  
   
     div.map {
