@@ -234,6 +234,7 @@ tags: [general]
         Go to Invoice Form</a></button></div>
 
     </div>
+    </div>
 
     <div class="column12">
   <table>
