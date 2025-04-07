@@ -40,7 +40,7 @@ Starting March 2025, VEuPathDB is implementing a subscription service that will 
 
 <b>How is the subscription fee determined?</b> Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination.
 
-Please visit the <a href="/a/app/static-content/subscriptions.html">Subscription Page</a> to determine your subscription fee and to generate an invoice.
+Please visit the <a href="/a/app/static-content/subscriptions.html">Subscription Page</a> to determine your subscription fee and to generate an invoice.  For further information, see <a href="/a/app/static-content/faq.html">FAQ</a>.
 
 <!-- Your support is invaluable for keeping the VEuPathDB resources alive. Please <a href="https://qa.plasmodb.org/plasmo.b69/app/static-content/why-subscribe.html">visit this page</a> to learn more about how VEuPathDB contributes to the biomedical community and why your support is crucial! -->
 

@@ -205,31 +205,29 @@ tags: [general]
 <div class="static-content">
 
   <div class="top">
-    <p><b style="font-size:110%">Why are we implementing a subscription service?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating a mandatory subscription service ... even if your applicable subscription fee is $0 (subsidized). Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination.</p>
+    <p><b style="font-size:110%">Why are we implementing a subscription service?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating a mandatory subscription service ... even if your applicable subscription fee is $0 (subsidized). Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination. For further information, see <a href="/a/app/static-content/faq.html">FAQ</a>.</p>
   </div>
 
   <div class="container">
 
   <div class="column1">
     <h3>for Academic Research Groups</h3>
-    <p style="padding-bottom:1em">To determine your group's fair share of VEuPathDB annual costs:</p>
+    <p style="padding-bottom:1em">To determine your fair share of VEuPathDB annual costs, for a specific grant, your entire lab, or a larger group:</p>
 
     <div class="container">
 
     <div class="column11">
-    <ul>
-      <li>Use the table at right to define appropriate annual fees, based on your 
-        <span style="text-decoration: underline;">total annual</span> lab budget 
-        <span class="small">(including all grants, salaries, studentships, etc.)</span> and frequency of usage.
-        <p>OR</p></li>
-      <li>Use our 
-        <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> 
-        (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) 
-        to determine your subscription fee, based on lab budget & resource usage, while also considering the differing needs of your lab members/projects <span class="small">(details are not stored or transmitted to VEuPathDB.)</span></li>
-    </ul>
-    <div class="center">
-      <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
-        Go to Invoice Form</a></button></div>
+    <p>Use the table at right to define appropriate annual fees, based on relevant budget details associated with:</p>
+<ul>
+<li>individual grant(s)</li>
+<li>your entire lab’s research program, or</li>
+<li>a larger group (e.g. your department)</li>
+</ul>
+<p><i>This assessment should be based on the frequency of database usage and the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB.  Please be sure to consider salaries for all participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</i></p>
+        <p>OR</p>
+<p>Use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) to determine subscription fees based on budget & resource usage, while also considering differing usage by various individuals or projects.</p>
+
+<p><b><i>Note:  Financial and personnel details are not stored or transmitted to VEuPathDB.</b></i></p>
 
     </div>
 
@@ -238,7 +236,7 @@ tags: [general]
 
   <thead>
     <tr>
-      <td colspan="2" rowspan="2" class="center sidewhite">Lab budget</td>
+      <td colspan="2" rowspan="2" class="center sidewhite">Total Project Budget(s)</td>
       <td colspan="6" class="center">Database usage</td>
     </tr>
     <tr>
@@ -351,6 +349,9 @@ tags: [general]
   </table>
   <span style="font-size:85%;font-style:italic">***Subsidized by generous philanthropic contributions (pending)</span>
     </div>
+    <div class="center">
+      <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
+        Go to Invoice Form</a></button></div>
     </div>
 
   </div>  <!-- end of column1 -->
