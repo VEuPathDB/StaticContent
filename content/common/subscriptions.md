@@ -217,10 +217,13 @@ tags: [general]
     <div class="container">
 
     <div class="column11">
-    <ul>
-      <li>Use the table at right to define appropriate annual fees, based on your 
-        <span style="text-decoration: underline;">total annual</span> lab budget 
-        <span class="small">(including all grants, salaries, studentships, etc.)</span> and frequency of usage.
+    <p>Use the table at right to define appropriate annual fees, based on relevant budget details associated with:</p>
+<ul>
+<li>individual grant(s)</li>
+<li>your entire lab’s research program, or</li>
+<li>a larger group (e.g. your department)</li>
+</ul>
+<p><i>This assessment should be based on the frequency of database usage and the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB.  Please be sure to consider salaries for all participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</i></p>
         <p>OR</p></li>
       <li>Use our 
         <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> 
