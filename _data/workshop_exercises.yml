@@ -117,14 +117,14 @@ cards:
       - name: Orthology and Phyletic Patterns
         path: Orthology-Phyletic-Patterns.pdf
         description:
-  - card: OrthoMCL tutorial
+  - card: OrthoMCL7 tutorials
     description: Learn basic functionality of OrthoMCL 7, including ortholog group searches and protein searches, orthogroup pages and phylogenetic trees 
     date: 2020/12/17
     links:
-      - name: OrthoMCL 7 tutorial
+      - name: OrthoMCL7 Basic Functionality
         path: Ortho7_basic_functionality_tutorial.pdf
         description:
-      - name: OrthoMCL 7 search strategies
+      - name: OrthoMCL7 Search Strategies
         path: OrthoMCL7_search_strategies.pdf
         description:
   - card: Regular expressions & colocation
