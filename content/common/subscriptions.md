@@ -16,7 +16,7 @@ tags: [general]
     font-size:130%;
     a {
       text-decoration: underline;
-    }
+    } 
     h2 {
       font-size: 1.5em;
       font-weight:400;
@@ -30,7 +30,7 @@ tags: [general]
       display: flex;
     }
     div.column1 {
-      flex: 0 0 60%;
+      flex: 0 0 60%; 
       border-radius: .5em;
       border: 1px solid lightblue;
       background: #e6f7fd78;
@@ -180,7 +180,7 @@ tags: [general]
       p {
        padding-left: 2em;
        display: inline;
-      }
+      } 
     }
 
     @media only screen and (max-width: 50em) {
@@ -205,35 +205,32 @@ tags: [general]
 <div class="static-content">
 
   <div class="top">
-    <p><b style="font-size:110%">Why are we implementing a subscription service?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating a mandatory subscription service ... even if your applicable subscription fee is $0 (subsidized). Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination. For further information, see <a href="/a/app/static-content/faq.html">FAQ</a>.</p>
+    <p><b style="font-size:110%">Why are we implementing a subscription service?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating a mandatory subscription service ... even if your applicable subscription fee is $0 (subsidized). Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination.</p>
   </div>
 
   <div class="container">
 
   <div class="column1">
     <h3>for Academic Research Groups</h3>
-    <p style="padding-bottom:1em">To determine your fair share of VEuPathDB annual costs, for a specific grant, your entire lab, or a larger group:</p>
+    <p style="padding-bottom:1em">To determine your group's fair share of VEuPathDB annual costs:</p>
 
     <div class="container">
 
     <div class="column11">
-    <p>Use the table at right to define appropriate annual fees, based on relevant budget details associated with:</p>
-<ul>
-<li>individual grant(s)</li>
-<li>your entire lab’s research program, or</li>
-<li>a larger group (e.g. your department)</li>
-</ul>
-<p><i>This assessment should be based on the frequency of database usage and the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB.  Please be sure to consider salaries for all participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</i></p>
-        <br><p>OR</p><br>
-<p>Use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) to determine subscription fees based on budget & resource usage, while also considering differing usage by various individuals or projects.</p><br>
-
-<p><b><i>Note:  Financial and personnel details are not stored or transmitted to VEuPathDB.</b></i></p>
-
+    <ul>
+      <li>Use the table at right to define appropriate annual fees, based on your 
+        <span style="text-decoration: underline;">total annual</span> lab budget 
+        <span class="small">(including all grants, salaries, studentships, etc.)</span> and frequency of usage.
+        <p>OR</p></li>
+      <li>Use our 
+        <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> 
+        (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) 
+        to determine your subscription fee, based on lab budget & resource usage, while also considering the differing needs of your lab members/projects <span class="small">(details are not stored or transmitted to VEuPathDB.)</span></li>
+    </ul>
     <div class="center">
       <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
         Go to Invoice Form</a></button></div>
 
-    </div>
     </div>
 
     <div class="column12">
@@ -241,7 +238,7 @@ tags: [general]
 
   <thead>
     <tr>
-      <td colspan="2" rowspan="2" class="center sidewhite">Total Project Budget(s)</td>
+      <td colspan="2" rowspan="2" class="center sidewhite">Lab budget</td>
       <td colspan="6" class="center">Database usage</td>
     </tr>
     <tr>
@@ -354,15 +351,16 @@ tags: [general]
   </table>
   <span style="font-size:85%;font-style:italic">***Subsidized by generous philanthropic contributions (pending)</span>
     </div>
+    </div>
 
   </div>  <!-- end of column1 -->
 
-  <div class="column2">
+  <div class="column2">     
     <h3>Other Subscription Types</h3>
     <p>If you are interested in the following, please
       <a href="mailto:subscriptions@veupathdb.org">Contact Us</a> for additional options:</p><br>
     <ul>
-
+        
         <li>Institutional rates (non-profit) <br><span class="small">based on aggregate number of users</span></li>
         <li>Industry/biotech rates (for profit) <br><span class="small">based on revenue</span></li>
         <li>Educational usage (non-profit) <br><span class="small">based on # student hours</span></li>
@@ -373,8 +371,9 @@ tags: [general]
 
   <div class="addquest">
     <h3 style="display:inline">Additional Questions?</h3>
-    <p><i>Please see <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a>
+    <p><i>Please see <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> 
       or <a href="/a/app/contact-us">Contact Us</a>.</i></p>
   </div>
 
 </div>
+
