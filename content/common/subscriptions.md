@@ -354,7 +354,7 @@ tags: [general]
       <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
         Go to Invoice Form</a></button></div>
 
-   <span style="font-style:italic;font-style:bold">Note:  Financial and personnel details are not stored or transmitted to VEuPathDB</span>
+   <span style="font-style:italic;font-weight:bold">Note:  Financial and personnel details are not stored or transmitted to VEuPathDB</span>
     </div>
     
     </div>
