@@ -212,7 +212,7 @@ tags: [general]
 
   <div class="column1">
     <h3>for Academic Research Groups</h3>
-    <p style="padding-bottom:1em">To determine your group's fair share of VEuPathDB annual costs:</p>
+    <p style="padding-bottom:1em">To determine your fair share of VEuPathDB annual costs, for a specific grant, your entire lab, or a larger group:</p>
 
     <div class="container">
 
