@@ -224,10 +224,14 @@ tags: [general]
 <li>a larger group (e.g. your department)</li>
 </ul>
 <p><i>This assessment should be based on the frequency of database usage and the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB.  Please be sure to consider salaries for all participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</i></p>
-        <p>OR</p>
-<p>Use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) to determine subscription fees based on budget & resource usage, while also considering differing usage by various individuals or projects.</p>
+        <br><p>OR</p><br>
+<p>Use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) to determine subscription fees based on budget & resource usage, while also considering differing usage by various individuals or projects.</p><br>
 
 <p><b><i>Note:  Financial and personnel details are not stored or transmitted to VEuPathDB.</b></i></p>
+
+    <div class="center">
+      <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
+        Go to Invoice Form</a></button></div>
 
     </div>
 
@@ -349,9 +353,6 @@ tags: [general]
   </table>
   <span style="font-size:85%;font-style:italic">***Subsidized by generous philanthropic contributions (pending)</span>
     </div>
-    <div class="center">
-      <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
-        Go to Invoice Form</a></button></div>
     </div>
 
   </div>  <!-- end of column1 -->
