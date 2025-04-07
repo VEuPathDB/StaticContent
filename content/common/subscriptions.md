@@ -238,7 +238,7 @@ tags: [general]
 
   <thead>
     <tr>
-      <td colspan="2" rowspan="2" class="center sidewhite">Lab budget</td>
+      <td colspan="2" rowspan="2" class="center sidewhite">Total Project Budget(s)</td>
       <td colspan="6" class="center">Database usage</td>
     </tr>
     <tr>
@@ -354,7 +354,7 @@ tags: [general]
       <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
         Go to Invoice Form</a></button></div>
 
-        <p><b><i>Note:  Financial and personnel details are not stored or transmitted to VEuPathDB</b></i></p>
+        <p>Note:  Financial and personnel details are not stored or transmitted to VEuPathDB</p>
     </div>
     
     </div>
