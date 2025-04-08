@@ -68,16 +68,6 @@ tags: [general]
       padding-left: 0;
       margin-top: 0;
     }
-    .column11 li {
-      padding-top: 0.8em;
-      padding-bottom: 0.5em;
-    }
-    .column11 li p {
-      text-decoration: underline;
-      margin-top: 1em;
-      position: relative;
-      right: 1em;
-    }
     .column2 li {
       padding-top: 0.4em;
       padding-bottom: 0.5em;
@@ -217,20 +207,17 @@ tags: [general]
     <div class="container">
 
     <div class="column11">
-    <p>Use the table at right to define appropriate annual fees, based on relevant budget details associated with:</p>
-<ul>
-<li>individual grant(s)</li>
-<li>your entire lab’s research program, or</li>
-<li>a larger group (e.g. your department)</li>
-</ul>
-<p><i>This assessment should be based on the frequency of database usage and the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB.  Please be sure to consider salaries for <b>all</b> participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</i></p><br>
-        <p><b>OR</b></p><br>
+      <p>Use the table at right to define appropriate annual fees, based on relevant budget details associated with:</p>
+      <ul>
+        <li>individual grant(s)</li>
+        <li>your entire lab’s research program, or</li>
+        <li>a larger group (e.g. your department)</li>
+      </ul>
+      <p class="small">This assessment should be based on the frequency of database usage and the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB.  Please be sure to consider salaries for <b>all</b> participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</p>
+      <p style="text-align:center;font-weight:bold;margin:0.5em 0">OR</p>
       <p>Use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> 
         (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) 
         to determine subscription fees based on budget & resource usage, while also considering differing usage by various individuals or projects.</p>
-    
-    
-
     </div>
 
     <div class="column12">
@@ -349,15 +336,16 @@ tags: [general]
   </tr></tbody>
 
   </table>
-  <span style="font-size:85%;font-style:italic">***Subsidized by generous philanthropic contributions (pending)</span>
-   <div class="center">
-      <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
-        Go to Invoice Form</a></button></div>
+      <span style="font-size:85%;font-style:italic">***Subsidized by generous philanthropic contributions (pending)</span>
+      <div class="center" style="margin-top:2em">
+        <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
+        Go to Invoice Form</a></button>
+      </div>
 
-   <span style="font-style:italic;font-weight:bold">Note:  Financial and personnel details are not stored or transmitted to VEuPathDB</span>
-    </div>
-    
-    </div>
+    </div>   <!-- end of column12 -->    
+    </div>    <!-- end of container flex -->
+
+    <p style="font-style:italic;font-weight:bold;margin-top:2em">Note:  Financial and personnel details are not stored or transmitted to VEuPathDB</p>
 
   </div>  <!-- end of column1 -->
 
@@ -366,14 +354,13 @@ tags: [general]
     <p>If you are interested in the following, please
       <a href="mailto:subscriptions@veupathdb.org">Contact Us</a> for additional options:</p><br>
     <ul>
-        
-        <li>Institutional rates (non-profit) <br><span class="small">based on aggregate number of users</span></li>
-        <li>Industry/biotech rates (for profit) <br><span class="small">based on revenue</span></li>
-        <li>Educational usage (non-profit) <br><span class="small">based on # student hours</span></li>
-        <li>Charitable contributions<br><span class="small">advancing globally open data access</span></li>
+      <li>Institutional rates (non-profit) <br><span class="small">based on aggregate number of users</span></li>
+      <li>Industry/biotech rates (for profit) <br><span class="small">based on revenue</span></li>
+      <li>Educational usage (non-profit) <br><span class="small">based on # student hours</span></li>
+      <li>Charitable contributions<br><span class="small">advancing globally open data access</span></li>
     </ul>
   </div>  <!-- end of column2 -->
-  </div>
+  </div>  <!-- end of container flex -->
 
   <div class="addquest">
     <h3 style="display:inline">Additional Questions?</h3>
@@ -381,5 +368,5 @@ tags: [general]
       or <a href="/a/app/contact-us">Contact Us</a>.</i></p>
   </div>
 
-</div>
+</div> <!-- end of sttaic-content -->
 
