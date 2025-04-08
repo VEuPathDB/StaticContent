@@ -36,7 +36,7 @@ tags: [general]
       background: #e6f7fd78;
       padding: 0 1em 0.5em;
       margin-left: 2em;
-      min-width: 46em;
+      min-width: 49em;
       p {
         margin:0;
       }
@@ -185,6 +185,16 @@ tags: [general]
         padding-left: 0;
         display: block;
       }
+      div.column1 {
+        min-width: 30em;
+      }
+      div.column12 {
+        margin-left: 0;
+      }
+      table {
+        margin-top 2em;
+      }
+      
     }
 
   }
