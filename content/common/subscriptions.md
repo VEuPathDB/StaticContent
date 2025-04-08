@@ -192,7 +192,7 @@ tags: [general]
         margin-left: 0;
       }
       table {
-        margin-top 2em;
+        margin-top: 2em;
       }
       
     }
