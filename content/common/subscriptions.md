@@ -30,7 +30,7 @@ tags: [general]
       display: flex;
     }
     div.column1 {
-      flex: 0 0 60%; 
+      flex: 0 0 63%; 
       border-radius: .5em;
       border: 1px solid lightblue;
       background: #e6f7fd78;
@@ -54,7 +54,7 @@ tags: [general]
       }
     }
     div.column11 {
-      flex: 0 0 45%;
+      flex: 0 0 47%;
     }
     div.column12 {
       flex: 0 0 auto;
@@ -213,7 +213,7 @@ tags: [general]
         <li>your entire lab’s research program, or</li>
         <li>a larger group (e.g. your department)</li>
       </ul>
-      <p class="small">This assessment should be based on the frequency of database usage and the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB.  Please be sure to consider salaries for <b>all</b> participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</p>
+      <p class="small" style="margin-top:0.5em">This assessment should be based on the frequency of database usage and the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB.  Please be sure to consider salaries for <b>all</b> participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</p>
       <p style="text-align:center;font-weight:bold;margin:0.5em 0">OR</p>
       <p>Use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> 
         (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) 
