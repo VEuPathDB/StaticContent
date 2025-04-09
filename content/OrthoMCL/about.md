@@ -10,11 +10,11 @@ tags: [general]
   <div class="about-body">
 
         <div id="release" class="section-title">
-          <h2>Current Release</h2>
+          <h2>This Release 6.21</h2>
         </div>
         <div class="section-content">
           <p>
-	    See <a href="/a/app/static-content/OrthoMCL/news.html">news about the Current Release</a>.
+	    See <a href="/a/app/static-content/OrthoMCL/news.html">news about this Release 6.21</a>.
 	  </p>
 	  <p>
 	    To see the current set of organisms as well as their proteome sources and orthology statistics, go to 
