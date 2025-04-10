@@ -20,11 +20,6 @@
   questionnum: 2
   username: 
   quote: |
-      "Thank you for providing this high-quality data in such a fantastic, queryable way for all these years."
-- type: quote
-  questionnum: 2
-  username: 
-  quote: |
       "In general I like that VEuPathDB is very usable by biologists who aren't bioinformatics experts. Nobody goes into infectious disease research because they love computers."
 - type: question
   number: 3
