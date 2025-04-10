@@ -61,32 +61,21 @@
     }
 
     div.quote-bubble {
-      float: right;
-      width: 40%;
-      margin: 0.5em 0 1em 1.5em;
-      padding: 1em 1.2em;
-      background-color: #f0f8ff;
+      background-color: #f4faff;
       border: 1px solid #cce5ff;
       border-radius: 1em;
-      font-style: italic;
-      color: #333;
-      box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+      padding: 1em 1.5em;
+      margin-bottom: 1.5em;
+      box-shadow: 2px 2px 6px rgba(0,0,0,0.05);
     }
     
     div.quote-bubble p {
-      margin-bottom: 0.75em;
+      font-style: italic;
+      color: #555;
+      margin: 0.75em 0;
+      text-align: left;
     }
     
-    div.quote-bubble p:last-child {
-      margin-bottom: 0;
-    }
-    
-    div.clearfix::after {
-      content: "";
-      display: table;
-      clear: both;
-    }
-
    div.final p {
      color: #007acc;
      font-weight: bold;
