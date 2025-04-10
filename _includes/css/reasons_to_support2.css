@@ -60,6 +60,19 @@
       margin: 0.74em 0;
     }
 
+    div.quote-bubble {
+      float: right;
+      width: 40%;
+      margin: 0 0 1em 1.5em;
+      padding: 1em;
+      background-color: #f0f8ff;
+      border: 1px solid #cce5ff;
+      border-radius: 1em;
+      font-style: italic;
+      color: #333;
+      box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+    }
+
    div.final p {
      color: #007acc;
      font-weight: bold;
