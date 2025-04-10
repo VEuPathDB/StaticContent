@@ -10,11 +10,6 @@
   username: 
   quote: |
       "The user-friendly availability of so much data at my fingertips has been invaluable."
-- type: quote
-  questionnum: 1
-  username: 
-  quote: |
-      "[Funding agencies like] NIH wants data to be accessible, shared, and managed -- VEuPathDB does all of that!!"
 - type: question
   number: 2
   question: Bioinformatics Made Simple
@@ -42,16 +37,6 @@
   username: VEuPathDB user, Egypt (Africa)
   quote: |
       "Without this resource, members of our lab would spend 2-5x greater amount of time investigating feasibility and gathering rationale for ideas, and in designing new experiments."
-- type: quote
-  questionnum: 3
-  username: 
-  quote: |
-      "[VEuPathDB]It is an irreplaceable resource for our work. It bundles many resources that would otherwise be difficult to access in a very convenient and user-friendly way."
-- type: quote
-  questionnum: 3
-  username: 
-  quote: |
-      "VEuPathDB is not just a static resource. It’s the lifeblood of new data and new tools and support expertise that drives the innovation and creativity in our scientific communities."
 - type: question
   number: 4
   question: Training and Support for Everyone 
@@ -67,24 +52,13 @@
   questionnum: 4
   username: null
   quote: |
-      "[VEuPathDB]It is designed well so it is easily accessible by first time students yet extensive enough to continue to be [used] through their careers."
+      "It’s not just that VEuPathDB is a great resource for eukaryotic pathogens, it’s a great resource, period. Other fields would do well to set up their own."
 - type: question
   number: 5
   question: A Global User Research Community
   image: question5.png
   answer: |
       For over 25 years, VEuPathDB has been at the heart of research on infectious diseases and microbe biology.  Today, it supports more than 46,000 users each month from over 150 countries—including many where these diseases are most common.  By encouraging data sharing and collaboration, it helps researchers everywhere do more, together.
-- type: quote
-  questionnum: 5
-  username: 
-  quote: |
-      "VEuPathDB is the rare biological database that got it right in terms of UI, content and community involvement."
-- type: quote
-  questionnum: 5
-  username: 
-  quote: |
-      "Not just a great resource for eukaryotic pathogens, VEuPathDB is a great 
-      resource period, which others would do well to emulate”
 - type: quote
   questionnum: 5
   username: 
