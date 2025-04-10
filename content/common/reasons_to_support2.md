@@ -19,9 +19,7 @@ tags: [general]
       <p><b>VEuPathDB: Making Infectious Disease Research Easier and More Powerful</b></p>
       
       <p><b>What is VEuPathDB?</b>  The Eukaryotic Pathogen, Host, and Vector Bioinformatics Resource Center (<a href="https://veupathdb.org/veupathdb/app"><b>VEuPathDB.org</b></a>)  is a free, online resource that helps scientists study disease-causing microbes like malaria parasites, fungi, and other organisms. It also includes data on the humans, animals, and plants these microbes infect, as well as the insects and ticks that spread diseases like Lyme, Zika, and dengue.</p>
-    <div class="quote-bubble">  
-      "This resource has revolutionized how I work with pathogen data. It's a game changer for global health research."
-    </div>
+    
       <p><b>Why It Matters</b>. Diseases caused by these microbes affect millions of people, animals, and plants worldwide. VEuPathDB provides critical data and tools that researchers use every day to study these organisms and find better ways to treat and prevent disease.</p>
 
       <p><b> A Vital but At-Risk Resource</b>. Thousands of scientists rely on VEuPathDB every day, but funding for this essential tool is at risk. Without ongoing financial support, the future of this open-access, global research platform is uncertain. <span class="highlight"><b>Your support helps keep this vital resource available to all</b></span></p>
