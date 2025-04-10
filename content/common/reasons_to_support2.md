@@ -32,7 +32,7 @@ tags: [general]
       {% if item.type == "question" %}
         <div class="question"><p>{{ item.question }}</p></div>
         <div class="answer">
-          <img src="{{'/assets/images/reasons-to-support2/' | append: item.image | absolute_url}}" /> 
+          <img src="{{'/assets/images/reasons-to-support/' | append: item.image | absolute_url}}" /> 
           {{ item.answer | markdownify }}
         </div>
       {% endif %}
