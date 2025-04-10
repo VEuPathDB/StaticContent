@@ -205,14 +205,14 @@ tags: [general]
 <div class="static-content">
 
   <div class="top">
-    <p><b style="font-size:110%">Why are we implementing a subscription service?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating a mandatory subscription service ... even if your applicable subscription fee is $0 (subsidized). Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination.  For further information, see <a href="/a/app/static-content/faq.html">FAQ</a>.</p>
+    <p><b style="font-size:110%">Why are we implementing a subscription service?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating a mandatory subscription service ... <b><i>even if your applicable subscription fee is $0 (subsidized).</b></i> Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination.  For further information, see <a href="/a/app/static-content/faq.html">FAQ</a>.</p>
   </div>
 
   <div class="container">
 
   <div class="column1">
     <h3>for Academic Research Groups</h3>
-    <p style="padding-bottom:1em">To determine your fair share of VEuPathDB annual costs, for a specific grant, your entire lab, or a larger group:</p>
+    <p style="padding-bottom:1em">To determine your fair share of VEuPathDB annual costs for a specific grant, your entire lab, or a larger group:</p>
 
     <div class="container">
 
@@ -223,7 +223,7 @@ tags: [general]
         <li>your entire lab’s research program, or</li>
         <li>a larger group (e.g. your department)</li>
       </ul>
-      <p class="small" style="margin-top:0.5em">This assessment should be based on the frequency of database usage and the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB.  Please be sure to consider salaries for <b>all</b> participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</p>
+      <p style="font-style:italic;margin-top:0.5em">This assessment should be based on your frequency of database usage and the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB.  Please be sure to consider salaries for <b>all</b> participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</p>
       <p style="text-align:center;font-weight:bold;margin:0.5em 0">OR</p>
       <p>Use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> 
         (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) 
