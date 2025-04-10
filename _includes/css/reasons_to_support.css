@@ -75,20 +75,6 @@
       margin: 0.75em 0;
       text-align: left;
     }
-
-    div.quote-bubble p::before {
-      content: "“";
-      font-size: 1.3em;
-      color: #007acc;
-      vertical-align: top;
-    }
-    
-    div.quote-bubble p::after {
-      content: "”";
-      font-size: 1.3em;
-      color: #007acc;
-      vertical-align: bottom;
-    }
     
    div.final p {
      color: #007acc;
