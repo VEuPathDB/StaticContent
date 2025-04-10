@@ -22,7 +22,7 @@ tags: [general]
     
       <p><b>Why It Matters</b>. Diseases caused by these microbes affect millions of people, animals, and plants worldwide. VEuPathDB provides critical data and tools that researchers use every day to study these organisms and find better ways to treat and prevent disease.</p>
 
-      <p><b> A Vital but At-Risk Resource</b>. Thousands of scientists rely on VEuPathDB every day, but funding for this essential tool is at risk. Without ongoing financial support, the future of this open-access, global research platform is uncertain. <span class="highlight"><b>Your support helps keep this vital resource available to all</b></span></p>
+      <p><b> A Vital but At-Risk Resource</b>. Thousands of scientists rely on VEuPathDB every day, but funding for this essential tool is at risk. Without ongoing financial support, the future of this open-access, global research platform is uncertain. <span class="highlight"><b>Your support helps keep this vital resource available to all!</b></span></p>
       
     </div>
 
@@ -41,6 +41,7 @@ tags: [general]
 
       <div class="column2">
         <div class="quote-bubble">
+        <p class="quote-title"><b>What Users Are Saying</b></p>
         {% for item2 in site.data.reasons_to_support %}
         {% if item2.type == "quote" %}
         <p>{{ item2.quote | markdownify }}</p>
