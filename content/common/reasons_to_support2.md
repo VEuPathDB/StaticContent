@@ -30,7 +30,7 @@ tags: [general]
 
     <div id="questions">
       <div class="column1">
-      {% for item in site.data.reasons_to_support2 %}
+      {% for item in site.data.reasons_to_support %}
       {% if item.type == "question" %}
         <div class="question"><p>{{ item.question }}</p></div>
         <div class="answer">
@@ -42,13 +42,15 @@ tags: [general]
       </div>
 
       <div class="column2">
-      {% for item2 in site.data.reasons_to_support2 %}
-      {% if item2.type == "quote" %}
-        <div class="quotes"><p>{{ item2.quote | markdownify  }}</p></div>
-      {% endif %}
-      {% unless forloop.last %}{% endunless %}{% endfor %}
+        <div class="quote-bubble">
+        {% for item2 in site.data.reasons_to_support %}
+        {% if item2.type == "quote" %}
+        <p>{{ item2.quote | markdownify }}</p>
+        {% endif %}
+      {% endfor %}
+      </div>
         <p>--<b>Quotes from <a href="https://static-content.veupathdb.org/documents/PUBLIC_REPORT_VEuPathDB_User_Impact_Sustainability_Survey.pdf">
-             user surveys</a> conducted Sept-Dec 2024</b>.
+       user surveys</a> conducted Sept-Dec 2024</b>.
         </p>
       </div>
     </div>
