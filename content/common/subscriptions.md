@@ -205,7 +205,7 @@ tags: [general]
 <div class="static-content">
 
   <div class="top">
-    <p><b style="font-size:110%">Why are we implementing a subscription service?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating a mandatory subscription service ... <b><i>even if your applicable subscription fee is $0 (subsidized).</b></i> Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination.  For further information, see <a href="/a/app/static-content/faq.html">FAQ</a>.</p>
+    <p><b style="font-size:110%">Why are we implementing a subscription service?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating a mandatory subscription service ... even if your applicable subscription fee is $0 (subsidized). Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination.  For further information, see <a href="/a/app/static-content/faq.html">FAQ</a>.</p>
   </div>
 
   <div class="container">
@@ -346,7 +346,7 @@ tags: [general]
   </tr></tbody>
 
   </table>
-      <span style="font-size:85%;font-style:italic">***Subsidized by generous philanthropic contributions (pending)</span>
+      <span style="font-size:85%;font-style:italic">*** Subsidized by generous philanthropic contributions (pending)</span>
       <div class="center" style="margin-top:2em">
         <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
         Go to Invoice Form</a></button>
