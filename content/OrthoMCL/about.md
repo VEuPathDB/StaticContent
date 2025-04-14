@@ -9,7 +9,7 @@ tags: [general]
 <div class="static-content">
   <div class="about-body">
 
-        <div id="release" class="section-title">
+  <div id="release" class="section-title">
           <h2>Current Release</h2>
         </div>
         <div class="section-content">
@@ -27,7 +27,7 @@ tags: [general]
           </p>
         </div>
 
-        <div id="forming_groups" class="section-title">
+  <div id="forming_groups" class="section-title">
           <h2>Method for Building Ortholog Groups</h2>
         </div>
         <div class="section-content">
@@ -40,17 +40,17 @@ tags: [general]
 	  </ol>
 	  </p>
 	  
-        <div id="background" class="section-title">
+  <div id="background" class="section-title">
           <h2>Background on Orthology and Prediction</h2>
         </div>
         <div class="section-content">
           <p>
-            Orthologs are homologs separated by speciation events. Paralogs are homologs separated by duplication events. OrthoMCL is a genome-scale algorithm for grouping orthologous protein sequences. It provides not only groups shared by two or more species, but also groups representing species-specific gene expansion families. An analysis using Enzyme Class (EC) numbers suggests a high degree of functional consistency among members of OrthoMCL orthogroups (<a href="https://genome.cshlp.org/content/13/9/2178.abstract">Li et al. 2003</a>). Thus, it serves as an important utility for automated eukaryotic genome annotation.  OrthoMCL can be used to predict function for the entire set of proteins predicted from a newly sequence genome in a single step using the Map proteins to <a href="https://orthomcl.org/orthomcl/app/workspace/map-proteins/new">OrthoMCL with DIAMOND blastp</a> Tool.
+            Orthologs are homologs separated by speciation events. Paralogs are homologs separated by duplication events. OrthoMCL is a genome-scale algorithm for grouping orthologous protein sequences. It provides not only groups shared by two or more species, but also groups representing species-specific gene expansion families. An analysis using Enzyme Class (EC) numbers suggests a high degree of functional consistency among members of OrthoMCL orthogroups (<a href="https://genome.cshlp.org/content/13/9/2178.abstract">Li et al. 2003</a>). Thus, it serves as an important utility for automated eukaryotic genome annotation.  OrthoMCL can be used to predict function for the entire set of proteins predicted from a newly sequence genome in a single step using the Map proteins to <a href="/a/app/app/workspace/map-proteins/new">OrthoMCL with DIAMOND blastp</a> Tool.
           </p>
         </div>
 
 
-        <div id="software" class="section-title">
+  <div id="software" class="section-title">
           <h2>Software</h2>
         </div>
         <div class="section-content">
@@ -66,7 +66,7 @@ tags: [general]
         </div>
 
 
-        <div id="pubs" class="section-title">
+  <div id="pubs" class="section-title">
           <h2>Publications</h2>
         </div>
         <div class="section-content">
@@ -102,7 +102,7 @@ tags: [general]
         </div>
 
 
-        <div id="acknowledge" class="section-title">
+  <div id="acknowledge" class="section-title">
           <h2>Acknowledgements</h2>
         </div>
         <div class="section-content">

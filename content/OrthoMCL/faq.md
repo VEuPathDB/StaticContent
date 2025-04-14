@@ -8,7 +8,7 @@ tags: [general]
 
 <div class="static-content">
 
-        <div class="section-content">
+  <div class="section-content">
           <ol>
             <li>
               <span class="question">What is the difference between a Core group and a Residual group?</span>
@@ -19,10 +19,9 @@ tags: [general]
                   <li>All proteins from Peripheral species that are not significantly similar to any Core orthogroup are compared against each other by sequence similarity and clustered into <b>Residual</b> groups with OrthoFinder. Residual groups contain proteins only from Peripheral species. The Residual group names have the format OG7r1_xxxxxx.</li>
                 </ul>
               </p>
-            </li>
-
-            <li>
-              <span class="question">What group information is provided?</span>
+             </li>
+                 <li>
+                 <span class="question">What group information is provided?</span>
               <p>
                 For each ortholog group, the following information and analyses are provided:
                 <ul>
@@ -35,8 +34,7 @@ tags: [general]
                 </ul>
               </p>
             </li>
-
-            <li>
+              <li>
               <span class="question">How are the Group Statistics calculated?</span>
               <p>
 		             <ul>
@@ -46,13 +44,11 @@ tags: [general]
 		             </ul>
               </p>
             </li>
-
-            <li>
+             <li>
               <span class="question">I recently sequenced a genome and want to use OrthoMCL to assign the proteins to ortholog groups. Can I do this?</span>
-              <p>You can map your set of proteins to <b>OrthoMCL Groups with the Map proteins to OrthoMCL with DIAMOND blastp</b> command under the <b>Tools</b> menu. Just upload your proteins in a single FASTA file. Results will be provided in a tab delimited text file that shows the most similar OrthoMCL protein and the assigned orthogroup for each query protein.</a>.
+              <p>You can map your set of proteins to <b>OrthoMCL Groups with the Map proteins to OrthoMCL with DIAMOND blastp</b> command under the <b>Tools</b> menu. Just upload your proteins in a single FASTA file. Results will be provided in a tab delimited text file that shows the most similar OrthoMCL protein and the assigned orthogroup for each query protein.
               </p>
             </li>
-
             <li>
               <span class="question">How can I find all <i>E. coli</i> genes (protein sequences) which have human orthologs?</span>
               <p>
