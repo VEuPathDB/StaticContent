@@ -6,7 +6,7 @@ listIconKey: user-circle-o
 tags: [tutorial]
 title: Subscription
 permalink: '#subscription'
-exclude: [OrthoMCL]
+category: [OrthoMCL]
 ---
 <style>
 
