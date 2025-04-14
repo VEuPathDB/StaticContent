@@ -51,7 +51,7 @@ category: [OrthoMCL]
   }
 </style>
 <div class="search-strategies-feature">
-  <p>The OrthoMCL website contains two types of data: (1) OrthoMCL groups and (2) protein sequences. You can search for groups or proteins in three general ways:</p>
+  <p>The OrthoMCL website contains two types of data: (1) OrthoMCL groups and (2) Protein sequences. You can search for groups or proteins in three general ways:</p>
   <div class="search-strategies-feature--panels">
     <div>
       <div>Site search, located at the top center of the page in the banner, allows you to identify groups or proteins based on keywords. A wild card (asterisk *) may be used in combination with words or IDs. For example, *choline, would identify results with the word 'choline' and any compound words ending in choline like 'acetylcholine'. </div>
@@ -59,7 +59,7 @@ category: [OrthoMCL]
     </div>
     <div>
       <div>OrthoMCL groups may be identified using any of the specific searches available at the left of the home page or from the "Searches" drop-down menu at the top of the page.   </div>
-      <img style="width: 20em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/orthoMCL7GroupSearches.png" | absolute_url }}" alt="phyletic tree"/><br/><br/>
+      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/orthoMCL7GroupSearches.png" | absolute_url }}" alt="phyletic tree"/><br/><br/>
       <div>Proteins in OrthoMCL may be identified using any of the specific searches available at the left of the home page or from the "Searches" drop-down menu at the top of the page.    </div>
-      <img style="width: 20em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/orthoMCL7ProteinSearches.png" | absolute_url }}" alt="phyletic tree"/><br/><br/>
+      <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/orthoMCL7ProteinSearches.png" | absolute_url }}" alt="phyletic tree"/><br/><br/>
     </div>
