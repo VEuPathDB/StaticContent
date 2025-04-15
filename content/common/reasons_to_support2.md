@@ -31,8 +31,8 @@ tags: [general]
       {% if item.type == "question" %}
         <div class="question"><p>{{ item.question }}</p></div>
         <div class="answer">
-          <img src="{{'/assets/images/reasons-to-support/' | append: item.image | absolute_url}}" /> 
-          {{ item.answer | markdownify }}
+          <div class="answer1"><img src="{{'/assets/images/reasons-to-support/' | append: item.image | absolute_url}}" /></div> 
+          <div class="answer2">{{ item.answer | markdownify }}</div>
         </div>
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
