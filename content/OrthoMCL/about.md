@@ -10,7 +10,7 @@ tags: [general]
   <div class="about-body">
 
         <div id="release" class="section-title">
-          <h2>This Release 6.21</h2>
+          <h2>This Release 6.21test</h2>
         </div>
         <div class="section-content">
           <p>
