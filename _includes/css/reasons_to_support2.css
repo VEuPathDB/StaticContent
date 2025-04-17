@@ -41,23 +41,15 @@
       flex: 10%;
     }
     div.answer1 img {
-      width: 5em;
+      width: 5.525em;
       padding: 0;
       margin-right: 1em;
       border-radius: 0.5em;
     }
     div.answer2 {
       flex: 90%;
-      p { margin-top:0;}
+      p { margin:0;}
     }
-/*    div.answer img {
-      float: left;
-      width: 5em;
-      padding: 0;
-      margin-right: 1em;
-      border-radius: 0.5em;
-    }
-*/
     div.column2 {
       flex: 32%;
       margin-left: 1em;
@@ -139,6 +131,7 @@
     div.map {
       position: relative;
       text-align: center;
+      margin-top: 2em;
     }
 
     div.map-text {
@@ -179,6 +172,7 @@
 
     p.support-highlight {
       font-size: 130%;
+      margin-bottom: 0;
     }
 
   }
