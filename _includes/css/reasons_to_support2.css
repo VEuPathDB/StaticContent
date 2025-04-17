@@ -39,9 +39,6 @@
     }
     div.answer1 {
       flex: 10%;
-        display: flex;
-        justify-content: center;
-        align-self: center;
     }
     div.answer1 img {
       width: 5em;
@@ -51,6 +48,7 @@
     }
     div.answer2 {
       flex: 90%;
+      p { margin-top:0;}
     }
 /*    div.answer img {
       float: left;
