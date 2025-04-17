@@ -48,11 +48,12 @@ tags: [general]
         <p>{{ item2.quote | markdownify }}</p>
         {% endif %}
       {% endfor %}
-      </div>
-        <p>--<b>Quotes from <a href="https://static-content.veupathdb.org/documents/PUBLIC_REPORT_VEuPathDB_User_Impact_Sustainability_Survey.pdf">
-       user surveys</a> conducted Sept-Dec 2024</b>.
-        </p>
-      </div>
+      
+      <p class="quote-attribution">
+    --<b>Quotes from 
+    <a href="https://static-content.veupathdb.org/documents/PUBLIC_REPORT_VEuPathDB_User_Impact_Sustainability_Survey.pdf">
+      user surveys</a> conducted Sept-Dec 2024</b>.
+      </p>
     </div>
   
     <div class="final">
