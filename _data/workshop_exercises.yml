@@ -117,9 +117,9 @@ cards:
       - name: Orthology and Phyletic Patterns
         path: Orthology-Phyletic-Patterns.pdf
         description:
-  - card: OrthoMCL7 tutorials
+  - card: OrthoMCL7
     description: Learn basic functionality of OrthoMCL 7, including ortholog group searches and protein searches, orthogroup pages and phylogenetic trees 
-    date: 2020/12/17
+    date: 2025/04/17
     links:
       - name: OrthoMCL7 Basic Functionality
         path: Ortho7_basic_functionality_tutorial.pdf
