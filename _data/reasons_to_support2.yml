@@ -9,7 +9,7 @@
   questionnum: 1
   username: 
   quote: |
-      "The user-friendly availability of so much data at my fingertips has been invaluable."
+      "User-friendly availability of so much data at my fingertips has been invaluable."
 - type: question
   number: 2
   question: Bioinformatics Made Simple
@@ -20,7 +20,7 @@
   questionnum: 2
   username: 
   quote: |
-      "In general I like that VEuPathDB is very usable by biologists who aren't bioinformatics experts. Nobody goes into infectious disease research because they love computers."
+      "I like that VEuPathDB is very usable by biologists who aren't bioinformatics experts. Nobody goes into infectious disease research because they love computers."
 - type: question
   number: 3
   question: A One-Stop Shop for Scientific Discovery
@@ -42,7 +42,7 @@
   questionnum: 4
   username: ""
   quote: |
-      "I train a wide range of students and junior scientists, many with very mixed computational backgrounds and skills. VEUPathDB is a very easy entry point for all trainees to start to explore a very wide range of data types and sets."
+      "I train a wide range of students and junior scientists, many with very mixed computational backgrounds and skills. VEuPathDB is a very easy entry point for all trainees to start to explore a very wide range of data types and sets."
 - type: quote
   questionnum: 4
   username: null
