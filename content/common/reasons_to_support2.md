@@ -24,8 +24,8 @@ tags: [general]
 
   <p><b>A Vital but At-Risk Resource</b>. Thousands of scientists rely on VEuPathDB every day, but funding for this essential tool is at risk. Without ongoing financial support, the future of this open-access, global research platform is uncertain.</p>
 
-  <p><b><span class="highlight"><b>Your support helps keep this vital resource available to all!</span></b></p>
-    </div>
+  <p><b><span class="highlight">Your support helps keep this vital resource available to all!</span></b></p>
+      </div>
 
     <div id="questions">
       <div class="column1">
