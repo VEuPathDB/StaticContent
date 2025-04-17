@@ -175,6 +175,10 @@
     .highlight {
       color: #c63210; 
     }
+    
+    p.support-highlight {
+      font-size: 120%;
+    }
 
   }
 </style>
