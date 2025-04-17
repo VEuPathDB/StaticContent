@@ -3,7 +3,7 @@
    
     div.centered {
       margin: 0 auto;
-      max-width: 60rem;
+      max-width: 72rem;
       text-align: center;
     }
     p {    
@@ -175,7 +175,7 @@
     .highlight {
       color: #c63210; 
     }
-    
+
     p.support-highlight {
       font-size: 120%;
     }
