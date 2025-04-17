@@ -55,22 +55,21 @@ tags: [general]
       user surveys</a> conducted Sept-Dec 2024</b>.
       </p>
     </div>
+  </div>
+</div>
   
-    <div class="final">
-      <p><b>VEuPathDB Has Powered Discovery for Over 25 Years</b>.With your help, we can ensure it continues to serve scientists, educators, and students around the world — and support the breakthroughs that change lives.</p>
+<div class="final">
+      <p><b>VEuPathDB Has Powered Discovery for Over 25 Years</b>. With your help, we can ensure it continues to serve scientists, educators, and students around the world — and support the breakthroughs that change lives.</p>
+      <button><a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate Now</a></button>
 
-    <button><a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate Now</a>
-    </button>
-      <br><br>
-      
-     <div class="map">
-      <div class="map-text">Thousands of groups around the world rely on VEuPathDB resources for research and training</div>
-      <img id="bottom" src="{{'/assets/images/reasons-to-support/veupathdb_map.png' | absolute_url}}" />
-      <div class="map-caption">Colors represent different user communities supporting the VEuPathDB family of databases</div>
+      <div class="map">
+        <div class="map-text">Thousands of groups around the world rely on VEuPathDB resources for research and training</div>
+        <img id="bottom" src="{{'/assets/images/reasons-to-support/veupathdb_map.png' | absolute_url}}" />
+        <div class="map-caption">Colors represent different user communities supporting the VEuPathDB family of databases</div>
+      </div>
     </div>
-
-   </div>
 
   </div>
 </div>
+
 
