@@ -165,13 +165,25 @@
 - type: fees
   question: "Can VEuPathDB accept additional contributions, and are such contributions tax-deductible?"
   answer: |  
-           Yes. Please email [subscriptions@VEuPathDB.org](mailto:subscriptions@veupathdb.org).
+           Yes. Please see [Charitable Contributions](https://giving.aws.cloud.upenn.edu/fund?program=SAS&fund=605878) in support of VEuPathDB.  Email inquiries may be directed to [subscriptions@VEuPathDB.org](mailto:subscriptions@veupathdb.org).
   uid: donation
   projects: ""
 - type: fees
-  question: "Are departmental/institutional rates or corporate rates/services available?"
+  question: "Can I be invoiced separately for individual grants, rather than using a single invoice to cover my entire group?"
   answer: |  
-           Yes.  Please email [subscriptions@VEuPathDB.org](mailto:subscriptions@veupathdb.org) for assistance in determining appropriate departmental/institutional/library rates based on usage, or to discuss appropriate subscription fees applicable to for-profit companies, including options for private in-house database instances (if desired).
+           Yes, this option is now supported … select the appropriate option on the [Invoice Form](https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK).  Please do be certain to include all affiliated costs, e.g. PI and trainee effort dedicated to this grant, even if salaries are supported by another source.  Additional inquiries may be directed to [subscriptions@VEuPathDB.org](mailto:subscriptions@veupathdb.org).
+  uid: rates
+  projects: ""
+- type: fees
+  question: "Are departmental/institutional rates available?"
+  answer: |
+           Yes, this option is now supported … select the appropriate option on the [Invoice Form](https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK). Please be sure to include the name of the organization (e.g. “Department of Microbiology”, or “My University”), and provide the names of individual labs/groups covered by this invoice. Additional inquiries may be directed to [subscriptions@VEuPathDB.org](mailto:subscriptions@veupathdb.org).
+  uid: rates
+  projects: ""
+- type: fees
+  question: "Are corporate rates/services available?"
+  answer: |
+           Yes. Please email [subscriptions@VEuPathDB.org](mailto:subscriptions@veupathdb.org) to discuss appropriate subscription fees applicable to non-profit or for-profit organizations, including options for private in-house database instances (if desired).
   uid: rates
   projects: ""
 - type: fees
