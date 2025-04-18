@@ -1,11 +1,11 @@
 ---
 layout: plain
 title: 5 Reasons to Support VEuPathDB 
-permalink: why-support
+permalink: why-support2
 tags: [general]
 ---
 
-{% include css/reasons_to_support.css  %}
+{% include css/reasons_to_support2.css  %}
 
 <div class="static-content">
 
@@ -16,18 +16,25 @@ tags: [general]
     </button>
 
     <div class="intro">
-      <p><b>The Eukaryotic Pathogen, Host, and Vector Bioinformatics Resource Center </b> (<a href="https://veupathdb.org/veupathdb/app"><b>VEuPathDB.org</b></a>) is an online knowledgebase and data-mining platform offering interactive access to diverse genomic-scale datasets relating to eukaryotic microbes.  Pathogenic protists and fungi are responsible for many <b>globally important diseases</b>, including malaria, toxoplasmosis, amebiasis and other diarrheal diseases, sleeping sickness, Chagas disease, candidiasis, aspergillosis, valley fever and other mycoses, wheat and rice blast, potato blight, <i>etc.</i>  VEuPathDB also provides data on infected human, animal & plant hosts, as well as mosquitoes & ticks that transmit Lyme disease, malaria, dengue, West Nile, Zika virus, <i>etc.</i></p> 
-      <p>As a Global Core Biodata Resource, VEuPathDB is relied upon by many thousands of scientists daily, but funding agencies are increasingly unable to provide ongoing support for such essential infrastructure, placing the future of this critical Open Science resource in doubt.  Sustainable financial support is vital to ensure that this valuable asset remains available to the scientific community. <span class="highlight"><b>Your support is crucial!</b></span></p>
-    </div>
+  <h2 style="text-align: center;"><b>VEuPathDB: Making Infectious Disease Research Easier and More Powerful</b></h2>
+
+  <p><b>What is VEuPathDB?</b> The Eukaryotic Pathogen, Host, and Vector Bioinformatics Resource Center (<a href="https://veupathdb.org/veupathdb/app"><b>VEuPathDB.org</b></a>) is a free, online resource that helps scientists study disease-causing microbes like malaria parasites, fungi, and other organisms. It also includes data on the humans, animals, and plants these microbes infect, as well as the insects and ticks that spread diseases like Lyme, Zika, and dengue.</p>
+
+  <p><b>Why It Matters</b>. Diseases caused by these microbes affect millions of people, animals, and plants worldwide. VEuPathDB provides critical data and tools that researchers use every day to study these organisms and find better ways to treat and prevent disease.</p>
+
+  <p><b>A Vital but At-Risk Resource</b>. Thousands of scientists rely on VEuPathDB every day, but funding for this essential tool is at risk. Without ongoing financial support, the future of this open-access, global research platform is uncertain.</p>
+
+  <p class="support-highlight"><b><span class="highlight">Your support helps keep this vital resource available to all!</span></b></p>
+      </div>
 
     <div id="questions">
       <div class="column1">
-      {% for item in site.data.reasons_to_support %}
+      {% for item in site.data.reasons_to_support2 %}
       {% if item.type == "question" %}
         <div class="question"><p>{{ item.question }}</p></div>
         <div class="answer">
-          <img src="{{'/assets/images/reasons-to-support/' | append: item.image | absolute_url}}" /> 
-          {{ item.answer | markdownify }}
+          <div class="answer1"><img src="{{'/assets/images/reasons-to-support/' | append: item.image | absolute_url}}" /></div> 
+          <div class="answer2">{{ item.answer | markdownify }}</div>
         </div>
       {% endif %}
       {% unless forloop.last %}{% endunless %}{% endfor %}
@@ -35,33 +42,34 @@ tags: [general]
 
       <div class="column2">
         <div class="quote-bubble">
-        {% for item2 in site.data.reasons_to_support %}
+        <p class="quote-title"><b>What Users Are Saying</b></p>
+        {% for item2 in site.data.reasons_to_support2 %}
         {% if item2.type == "quote" %}
         <p>{{ item2.quote | markdownify }}</p>
         {% endif %}
       {% endfor %}
-      </div>
-        <p>--<b>Quotes from <a href="https://static-content.veupathdb.org/documents/PUBLIC_REPORT_VEuPathDB_User_Impact_Sustainability_Survey.pdf">
-       user surveys</a> conducted Sept-Dec 2024</b>.
-        </p>
-      </div>
-    </div>
-  
-    <div class="final">
-      <p>VEuPathDB has been a cornerstone of global infectious disease research for >25 years. Your contributions will directly impact researchers, educators, and scientists worldwide -- and the breakthroughs they achieve.</p>
-
-    <button><a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate Now</a>
-    </button>
-      <br><br>
       
-     <div class="map">
-      <div class="map-text">Thousands of groups around the world rely on VEuPathDB resources for research and training</div>
-      <img id="bottom" src="{{'/assets/images/reasons-to-support/veupathdb_map.png' | absolute_url}}" />
-      <div class="map-caption">Colors represent different user communities supporting the VEuPathDB family of databases</div>
+      <p class="quote-attribution">
+    --<b>Quotes from 
+    <a href="https://static-content.veupathdb.org/documents/PUBLIC_REPORT_VEuPathDB_User_Impact_Sustainability_Survey.pdf">
+      user surveys</a> conducted Sept-Dec 2024</b>.
+      </p>
     </div>
+  </div>
+</div>
+  
+<div class="final">
+      <p><b>VEuPathDB Has Powered Discovery for Over 25 Years</b>. With your help, we can ensure it continues to serve scientists, educators, and students around the world — and support the breakthroughs that change lives.</p>
+      <button><a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate Now</a></button>
 
-   </div>
+      <div class="map">
+        <div class="map-text">Thousands of groups around the world rely on VEuPathDB resources for research and training</div>
+        <img id="bottom" src="{{'/assets/images/reasons-to-support/veupathdb_map.png' | absolute_url}}" />
+        <div class="map-caption">Colors represent different user communities supporting the VEuPathDB family of databases</div>
+      </div>
+    </div>
 
   </div>
 </div>
+
 
