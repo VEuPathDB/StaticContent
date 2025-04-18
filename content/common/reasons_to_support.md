@@ -1,11 +1,11 @@
 ---
 layout: plain
 title: 5 Reasons to Support VEuPathDB 
-permalink: why-support2
+permalink: why-support
 tags: [general]
 ---
 
-{% include css/reasons_to_support2.css  %}
+{% include css/reasons_to_support.css  %}
 
 <div class="static-content">
 
@@ -29,7 +29,7 @@ tags: [general]
 
     <div id="questions">
       <div class="column1">
-      {% for item in site.data.reasons_to_support2 %}
+      {% for item in site.data.reasons_to_support %}
       {% if item.type == "question" %}
         <div class="question"><p>{{ item.question }}</p></div>
         <div class="answer">
@@ -43,7 +43,7 @@ tags: [general]
       <div class="column2">
         <div class="quote-bubble">
         <p class="quote-title"><b>What Users Are Saying</b></p>
-        {% for item2 in site.data.reasons_to_support2 %}
+        {% for item2 in site.data.reasons_to_support %}
         {% if item2.type == "quote" %}
         <p>{{ item2.quote | markdownify }}</p>
         {% endif %}
