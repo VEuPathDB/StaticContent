@@ -375,7 +375,7 @@ tags: [general]
   <div class="addquest">
     <h3 style="display:inline">Additional Questions?</h3>
     <p><i>Please see <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> 
-      or <a href="/a/app/contact-us">Contact Us</a>.</i></p>
+      or <a href="mailto:subscriptions@veupathdb.org">Contact Us</a>.</i></p>
   </div>
 
 </div> <!-- end of sttaic-content -->
