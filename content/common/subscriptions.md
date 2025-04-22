@@ -367,7 +367,7 @@ tags: [general]
       <li>Institutional rates (non-profit) <br><span class="small">based on aggregate number of users</span></li>
       <li>Industry/biotech rates (for profit) <br><span class="small">based on revenue</span></li>
       <li>Educational usage (non-profit) <br><span class="small">based on # student hours</span></li>
-      <li>Charitable contributions<br><span class="small">advancing globally open data access</span></li>
+      <li><a href="https://giving.aws.cloud.upenn.edu/fund?program=SAS&fund=605878">Charitable contributions</a><br><span class="small">advancing globally open data access</span></li>
     </ul>
   </div>  <!-- end of column2 -->
   </div>  <!-- end of container flex -->
