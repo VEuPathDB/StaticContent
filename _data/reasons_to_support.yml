@@ -1,0 +1,63 @@
+--- # indicates the begining of the document
+- type: question
+  number: 1
+  question: Helping Researchers Unlock the Power of Data
+  image: question1.png
+  answer: |
+      Research generates tons of valuable data, but making sense of it is often difficult.  VEuPathDB helps scientists share, find, and use this data more easily.  It follows the FAIR principles — making data <b>Findable</b>, <b>Accessible</b>, <b>Interoperable</b>, and <b>Reusable</b> — which supports open science, innovation, and real-world health solutions.  New tools are being added to make it even easier for researchers to analyze and publish their own data
+- type: quote
+  questionnum: 1
+  username: 
+  quote: |
+      "User-friendly availability of so much data at my fingertips has been invaluable."
+- type: question
+  number: 2
+  question: Bioinformatics Made Simple
+  image: question2.png
+  answer: |
+      VEuPathDB is built for scientists of all backgrounds, not just computer experts.  Its easy-to-use website lets users explore complex biological data with simple, click-based tools.  Whether you’re studying genomes, proteins, or how different microbes compare, VEuPathDB makes it possible—no coding is required.
+- type: quote
+  questionnum: 2
+  username: 
+  quote: |
+      "I like that VEuPathDB is very usable by biologists who aren't bioinformatics experts. Nobody goes into infectious disease research because they love computers."
+- type: question
+  number: 3
+  question: A One-Stop Shop for Scientific Discovery
+  image: question3.png
+  answer: |
+      Everything is in one place: data, tools, and analysis features.  VEuPathDB organizes complex research data in a consistent way, making it easier and faster for scientists to discover patterns, form hypotheses, and test ideas.  Whether you’re cleaning up raw data or running in-depth comparisons, it helps you get to results that matter.
+- type: quote
+  questionnum: 3
+  username: VEuPathDB user, Egypt (Africa)
+  quote: |
+      "Without this resource, members of our lab would spend 2-5x greater amount of time investigating feasibility and gathering rationale for ideas, and in designing new experiments."
+- type: question
+  number: 4
+  question: Training and Support for Everyone 
+  image: question4.png
+  answer: |
+      VEuPathDB isn’t just a tool—it’s also a learning hub.  It offers tutorials, videos, webinars, and workshops to help scientists get the most from their research.  A responsive help desk is always available for questions.  It’s widely used in classrooms and labs, helping to train the next generation of researchers in real-world bioinformatics.
+- type: quote
+  questionnum: 4
+  username: ""
+  quote: |
+      "I train a wide range of students and junior scientists, many with very mixed computational backgrounds and skills. VEuPathDB is a very easy entry point for all trainees to start to explore a very wide range of data types and sets."
+- type: quote
+  questionnum: 4
+  username: null
+  quote: |
+      "It’s not just that VEuPathDB is a great resource for eukaryotic pathogens, it’s a great resource, period. Other fields would do well to set up their own."
+- type: question
+  number: 5
+  question: A Global User Research Community
+  image: question5.png
+  answer: |
+      For over 25 years, VEuPathDB has been at the heart of research on infectious diseases and microbe biology.  Today, it supports more than 46,000 users each month from over 150 countries—including many where these diseases are most common.  By encouraging data sharing and collaboration, it helps researchers everywhere do more, together.
+- type: quote
+  questionnum: 5
+  username: 
+  quote: |
+      “An outstanding democratizer of access to data and analysis tools for 
+      scientists world-wide.  A necessary, powerful, and highly functional tool”
+
