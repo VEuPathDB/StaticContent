@@ -1,8 +1,8 @@
 ---
 identifier: support
-listTitle: Support 
-descriptionTitle: Support
-listIconKey: fa-gift
+listTitle: Why Support Us
+descriptionTitle: Why Support Us
+listIconKey: gift
 tags: [tutorial]
 title: Why Support Us
 permalink: '#support'
@@ -29,7 +29,7 @@ p.indent {
 </style>
 
 
-VEuPathDB has a 20+ year track record in making infectious disease research easier and more powerful. Our free, online resources help scientists study disease-causing microbes like malaria parasites, fungi and oomycetes, and other organisms. VEuPathDB also includes data on the humans, animals, and plants these microbes infect, as well as the insects and ticks that spread diseases like Lyme, Zika, and dengue.
+<b>VEuPathDB has a 20+ year track record in making infectious disease research easier and more powerful</b>. Our free, online resources help scientists study disease-causing microbes like malaria parasites, fungi and oomycetes, and other organisms. VEuPathDB also includes data on the humans, animals, and plants these microbes infect, as well as the insects and ticks that spread diseases like Lyme, Zika, and dengue.
 
 <b>Why It Matters</b>. Diseases caused by these microbes affect millions of people, animals, and plants worldwide. VEuPathDB provides critical data and tools that researchers use every day to study these organisms and find better ways to treat and prevent disease.
 
@@ -41,7 +41,7 @@ VEuPathDB has a 20+ year track record in making infectious disease research easi
 
 <b>5 Reasons to Support VEuPathDB</b> 
 <ol>
- <li><b>Helping Researchers Unlock the Power of Data</b>: VEuPathDB helps scientists share, find, and use this data more easily while following the FAIR principles — making data Findable, Accessible, Interoperable, and Reusable.</li>
+ <li><b>Helping Researchers Unlock the Power of Data</b>: VEuPathDB helps scientists share, find, and use this data more easily while making data Findable, Accessible, Interoperable, and Reusable (FAIR).</li>
  <li><b>Bioinformatics Made Simple</b>: With simple, click-based tools, VEuPathDB is built for scientists of all backgrounds, not just computer experts.</li>
  <li><b>A One-Stop Shop for Scientific Discovery</b>: Everything is organized in one place- data, tools, and analysis features.</li>
  <li><b>Training and Support for Everyone</b>: VEuPathDB isn’t just a tool—it’s also a learning hub, with tutorials, videos, webinars, workshops, and a responsive help desk.</li>
