@@ -97,9 +97,9 @@ tags: [workshop-exercise]
 <p><b>Workshop schedule:</b></p>
 <p>Thursday, May 22, 2025</p>
 <ul>
-<li><b>12:00 AM:</b> Welcome and general introduction to VEuPathDB</li>
-<li><b>12:20 AM:</b> Site search</li>
-<li><b>12:45 AM:</b> Building a search strategy</li>
+<li><b>12:00 PM:</b> Welcome and general introduction to VEuPathDB</li>
+<li><b>12:20 PM:</b> Site search</li>
+<li><b>12:45 PM:</b> Building a search strategy</li>
 <li><b>1:15 PM:</b> Exploring the gene page</li>
 </ul>
 
