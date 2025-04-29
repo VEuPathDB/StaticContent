@@ -92,7 +92,7 @@ tags: [workshop-exercise]
 <div class="static-content">
 <center><h1>VEuPathDB workshop - held in association with BioMalPar XXI Meeting 2025 </h1></center>
 <h2>May 20-22, 2025</h2>
-<p>This workshop will focus on VEuPathDB resources that are useful for <i>Plasmodium</i> researchers. The core workshop will utilize <a href="https://plasmodb.org">PlasmoDB</a> in the hands-on exercises, although demonstrations of <a href="https://vectorbase.org">VectorBase</a> will be provided as needed</p>
+<p>This workshop will focus on VEuPathDB resources that are useful for <i>Plasmodium</i> researchers. The core workshop will utilize <a href="https://plasmodb.org">PlasmoDB</a> in the hands-on exercises, although demonstrations of <a href="https://vectorbase.org">VectorBase</a> will be provided as needed.</p>
 
 <p><b>Workshop schedule:</b></p>
 <p>Thursday, May 22, 2025</p>
