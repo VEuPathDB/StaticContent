@@ -38,7 +38,7 @@ tags: [general]
   <details open>
     <summary><h3>Upcoming Webinars</h3></summary>
     <ul>
-      <li><b>OrthoMCL-7 Webinar</b>: This webinar will provide a live demonstration of exciting new tools and features in the newly released OrthoMCL-7 platform, VEuPathDB's data resource for ortholog groups of protein sequences. Learn how to gain insights from phylogenetic trees, how to use specialized searches to mine orthology resources, find orthologs between two species, and find orthologs for your list of proteins.</li>
+      <li><b>OrthoMCL-7 Webinar</b>: This webinar will feature a live demonstration of the exciting new tools and features in the newly released OrthoMCL-7 platform, VEuPathDB's data resource for ortholog groups of protein sequences. Learn how to gain insights from phylogenetic trees, how to use specialized searches to mine orthology resources, find orthologs between two species, and find orthologs for your list of proteins.</li>
         <ul>
         <li><b>Date & Time</b>: Tuesday, May 6, 2025, 11 AM ET</li>
         <li><b>Registration</b> for this free webinar is open (zoom link will be emailed upon registration): <a href="https://upenn.zoom.us/meeting/register/sZcFPyTMTVmjRJYLZULexw#/registration" target="_blank">Register Now!</a></li>
