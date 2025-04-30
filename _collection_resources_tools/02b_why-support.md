@@ -50,7 +50,7 @@ p.indent {
 
 Please visit <a href="/a/app/static-content/why-support.html">this page</a> for a more detailed description of why your support matters, and to read what users are saying about our resources! 
 
-<img src="{{'/assets/images/reasons-to-support/veupathdb_map.png' | absolute_url}}" width="400px" height="180px" class="center">>
+<img src="{{'/assets/images/reasons-to-support/veupathdb_map.png' | absolute_url}}" width="600px" height="270px">
 
 
 
