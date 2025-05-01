@@ -52,6 +52,7 @@ Please visit <a href="/a/app/static-content/why-support.html">this page</a> for 
       <img style="width: 20em; margin-top: 3em; margin-left: 3em;" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" alt="VEuPathDB support"/>
     </div>
   </div>  
+ </section>
 
 <div class="survey-link">
   <a href="/a/app/static-content/subscriptions.html" target="_blank">Donate Now</a>
