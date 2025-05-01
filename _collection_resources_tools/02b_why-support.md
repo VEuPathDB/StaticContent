@@ -16,7 +16,6 @@ p.indent {
 .survey-link {
     display: block;
     text-align: center;
-    margin-top: 5px;
     align-items: center;
 }
 .survey-link a {
