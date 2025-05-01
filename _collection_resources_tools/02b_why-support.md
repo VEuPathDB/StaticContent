@@ -33,9 +33,12 @@ p.indent {
   display: flex;
 }
 #col-1 {
-  flex: 2; margin-left: 1em;
+  flex: 1; margin-left: 1em;
 }
 #col-2 {
+  flex: 1; margin-left: 1em;
+}
+#col-3 {
   flex: 1; margin-left: 1em;
 }
 </style>
@@ -48,14 +51,13 @@ Visit <a href="/a/app/static-content/why-support.html">this page</a> to learn wh
       <p><b>VEuPathDB has a 20+ year track record in making infectious disease research easier and more powerful</b>. Our free, online resources help scientists study disease-causing microbes like malaria parasites, fungi and oomycetes, and other organisms. VEuPathDB also includes data on the humans, animals, and plants these microbes infect, as well as the insects and ticks that spread diseases like Lyme, Zika, and dengue.
       </p>
     </div>
-    <div id="col-2">
+    <div id="col-2" class="survey-link">
+      <a href="/a/app/static-content/subscriptions.html" target="_blank">Donate Now</a>
+    </div>
+   <div id="col-3">
       <img style="width: 15em; margin-top: 1em; margin-left: 1em;" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" alt="VEuPathDB support"/>
     </div>
  </section>
-
-<div class="survey-link">
-  <a href="/a/app/static-content/subscriptions.html" target="_blank">Donate Now</a>
-</div> <br>
 
 <b>Why It Matters</b>. Diseases caused by these microbes affect millions of people, animals, and plants worldwide. VEuPathDB provides critical data and tools that researchers use every day to study these organisms and find better ways to treat and prevent disease.<br>
 
