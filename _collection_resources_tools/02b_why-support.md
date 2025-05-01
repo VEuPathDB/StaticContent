@@ -26,18 +26,29 @@ p.indent {
     border-radius: 5px;
     font-size: 16px;
 }
+.search-strategies-feature {
+    margin: auto;
+  }
 </style>
 
-
-<b>VEuPathDB has a 20+ year track record in making infectious disease research easier and more powerful</b>. Our free, online resources help scientists study disease-causing microbes like malaria parasites, fungi and oomycetes, and other organisms. VEuPathDB also includes data on the humans, animals, and plants these microbes infect, as well as the insects and ticks that spread diseases like Lyme, Zika, and dengue.
-
-<b>Why It Matters</b>. Diseases caused by these microbes affect millions of people, animals, and plants worldwide. VEuPathDB provides critical data and tools that researchers use every day to study these organisms and find better ways to treat and prevent disease.
-
-<b>A Vital but At-Risk Resource</b>. Thousands of scientists rely on VEuPathDB every day, but funding for this essential tool is at risk. Without ongoing financial support, the future of this open-access, global research platform is uncertain. <b>Your support helps keep this vital resource available to all!</b>
+<div class="search-strategies-feature">
+  <section class="container">
+    <div id="col-1">
+      <p><br><br><b>VEuPathDB has a 20+ year track record in making infectious disease research easier and more powerful</b>. Our free, online resources help scientists study disease-causing microbes like malaria parasites, fungi and oomycetes, and other organisms. VEuPathDB also includes data on the humans, animals, and plants these microbes infect, as well as the insects and ticks that spread diseases like Lyme, Zika, and dengue.
+      </p>
+    </div>
+    <div id="col-2">
+      <img style="width: 20em; margin-top: 3em; margin-left: 3em;" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" alt="VEuPathDB support"/>
+    </div>
+  </div>  
 
 <div class="survey-link">
   <a href="/a/app/static-content/subscriptions.html" target="_blank">Donate Now</a>
 </div>
+
+<b>Why It Matters</b>. Diseases caused by these microbes affect millions of people, animals, and plants worldwide. VEuPathDB provides critical data and tools that researchers use every day to study these organisms and find better ways to treat and prevent disease.
+
+<b>A Vital but At-Risk Resource</b>. Thousands of scientists rely on VEuPathDB every day, but funding for this essential tool is at risk. Without ongoing financial support, the future of this open-access, global research platform is uncertain. <b>Your support helps keep this vital resource available to all!</b>
 
 <b>5 Reasons to Support VEuPathDB</b> 
 <ol>
