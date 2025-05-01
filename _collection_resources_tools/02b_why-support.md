@@ -33,14 +33,14 @@ p.indent {
   display: flex;
 }
 #col-1 {
-  flex: 1; margin-left: 2em;
+  flex: 1; margin-left: 1em;
 }
 #col-2 {
-  flex: 3; margin-left: 2em;
+  flex: 3; margin-left: 1em;
 }
 </style>
 
-Please visit <a href="/a/app/static-content/why-support.html">this page</a> for a detailed description of why your support matters, and to read what users are saying about VEuPathDB! 
+Visit <a href="/a/app/static-content/why-support.html">this page</a> to learn why your support matters, and to read what users are saying about VEuPathDB! 
 
 <div class="search-strategies-feature">
   <section class="container">
@@ -49,14 +49,13 @@ Please visit <a href="/a/app/static-content/why-support.html">this page</a> for 
       </p>
     </div>
     <div id="col-2">
-      <img style="width: 20em; margin-top: 3em; margin-left: 3em;" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" alt="VEuPathDB support"/>
+      <img style="width: 10em; margin-top: 1em; margin-left: 1em;" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" alt="VEuPathDB support"/>
     </div>
-  </div>  
  </section>
 
 <div class="survey-link">
   <a href="/a/app/static-content/subscriptions.html" target="_blank">Donate Now</a>
-</div>
+</div> <br>
 
 <b>Why It Matters</b>. Diseases caused by these microbes affect millions of people, animals, and plants worldwide. VEuPathDB provides critical data and tools that researchers use every day to study these organisms and find better ways to treat and prevent disease.
 
