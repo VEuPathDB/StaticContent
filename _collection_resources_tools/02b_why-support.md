@@ -56,7 +56,7 @@ Visit <a href="/a/app/static-content/why-support.html">this page</a> to learn wh
       <a href="/a/app/static-content/subscriptions.html" target="_blank">Donate Now</a>
     </div>
    <div id="col-3">
-      <img style="width: 15em; margin-top: 1em; margin-left: 1em;" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" alt="VEuPathDB support"/>
+      <img style="width: 12em; margin-top: 1em; margin-left: 1em;" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" alt="VEuPathDB support"/>
     </div>
  </section>
 
