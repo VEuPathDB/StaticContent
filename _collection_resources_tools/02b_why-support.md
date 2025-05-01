@@ -14,7 +14,7 @@ p.indent {
     margin-left: 3em
 }
 .survey-link {
-    display: block;
+    display: flex;
     text-align: center;
     align-items: center;
 }
