@@ -29,7 +29,18 @@ p.indent {
 .search-strategies-feature {
     margin: auto;
   }
+.container {
+  display: flex;
+}
+#col-1 {
+  flex: 1; margin-left: 2em;
+}
+#col-2 {
+  flex: 3; margin-left: 2em;
+}
 </style>
+
+Please visit <a href="/a/app/static-content/why-support.html">this page</a> for a detailed description of why your support matters, and to read what users are saying about VEuPathDB! 
 
 <div class="search-strategies-feature">
   <section class="container">
@@ -59,9 +70,7 @@ p.indent {
  <li><b>A Global User Research Community</b>: Today, VEuPathDB supports more than 46,000 users each month from over 150 countries!</li>
 </ol>
 
-Please visit <a href="/a/app/static-content/why-support.html">this page</a> for a more detailed description of why your support matters, and to read what users are saying about our resources! 
-
-<img src="{{'/assets/images/reasons-to-support/veupathdb_map.png' | absolute_url}}" width="600px" height="270px">
+ 
 
 
 
