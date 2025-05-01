@@ -17,6 +17,7 @@ p.indent {
     display: block;
     text-align: center;
     margin-top: 5px;
+    align-items: center;
 }
 .survey-link a {
     background-color: #007BFF;
