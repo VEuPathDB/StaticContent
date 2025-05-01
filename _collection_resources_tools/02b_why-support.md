@@ -53,7 +53,7 @@ Visit <a href="/a/app/static-content/why-support.html">this page</a> to learn wh
       <p><b>A Vital but At-Risk Resource</b>. Thousands of scientists rely on VEuPathDB every day, but funding for this essential tool is at risk. Without ongoing financial support, the future of this open-access, global research platform is uncertain. <b>Your support helps keep this vital resource available to all!</b></p>
     </div>
     <div id="col-2" class="survey-link">
-      <a href="/a/app/static-content/subscriptions.html" target="_blank">Donate Now</a>
+      <a href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878" target="_blank">Donate Now</a>
     </div>
    <div id="col-3">
       <img style="width: 12em; margin-top: 1em; margin-left: 1em;" src="{{'/assets/images/veupathdb_sub.png' | absolute_url}}" alt="VEuPathDB support"/>
