@@ -93,7 +93,7 @@ tags: [workshop-exercise]
   <h3>Upcoming Workshops</h3>
   <br>
   <div class="contents">
-  <h4><a href="/a/app/static-content/BioMalPar2025.html">VEuPathDB workshop - held in association with BioMalPar XXI: biology and pathology of the malaria parasite conference</a></h4>
+  <h4><a href="/a/app/static-content/BioMalPar2025.html">VEuPathDB workshop - held in association with BioMalPar XXI: biology and pathology of the malaria parasite conference 2025</a></h4>
   <p>Time: Thursday, May 22, 2025, 12 PM - 1:30 PM.<p>
   <p>Location: This workshop will be held in person at EMBL Heidelberg.</p>
 
