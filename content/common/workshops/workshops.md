@@ -93,7 +93,7 @@ tags: [workshop-exercise]
   <h3>Upcoming Workshops</h3>
   <br>
   <div class="contents">
-  <h4><a href="/a/app/static-content/ibmv.html">VEuPathDB workshop - held in association with BioMalPar XXI: biology and pathology of the malaria parasite conference</a></h4>
+  <h4><a href="/a/app/static-content/BioMalPar2025.html">VEuPathDB workshop - held in association with BioMalPar XXI: biology and pathology of the malaria parasite conference</a></h4>
   <p>Time: Thursday, May 22, 2025, 12 PM - 1:30 PM.<p>
   <p>Location: This workshop will be held in person at EMBL Heidelberg.</p>
 
@@ -104,7 +104,7 @@ tags: [workshop-exercise]
   <h4><a href="/a/app/static-content/ibmv.html">VEuPathDB workshop - held in association with the Fifth International Babesiosis Meeting 2025 (IBMV)</a></h4>
   <p>Time: Wednesday, March 26th, 2025, 10 AM - 11:40 AM.<p>
   <p>Location: This workshop will be held in person at the IBMV location.</p>
-  </div>
+  
 
   <div class="contents">
   <h4><a href="/a/app/static-content/workshopDec2024.html">VEuPathDB Virtual Workshop, Dec 11-13, 2024</a></h4>
