@@ -219,11 +219,11 @@ tags: [general]
     <div class="column11">
       <p>Use the table at right to define appropriate annual fees, based on relevant budget details associated with:</p>
       <ul>
-        <li>individual grant(s)</li>
-        <li>your entire lab’s research program, or</li>
-        <li>a larger group (e.g. your department)</li>
+        <li>individual grant(s) ... <i>OK to separate invoices for multiple grants, if this is helpful</i></li>
+        <li>your entire lab’s research program, <i>or</i></li>
+        <li>a larger group (e.g. your department) ... <i>sum fees for multiple labs in your organization, less a 5% group discount</i></li>
       </ul>
-      <p style="font-style:italic;margin-top:0.5em">This assessment should be based on your frequency of database usage and the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB.  Please be sure to consider salaries for <b>all</b> participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</p>
+      <p style="font-style:italic;margin-top:0.5em">Calculate applicable subscription rates based on (1) your frequency of database usage and (2) the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB.  <b>Please be sure to consider salaries for all participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</b></p>
       <p style="text-align:center;font-weight:bold;margin:0.5em 0">OR</p>
       <p>Use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> 
         (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) 
