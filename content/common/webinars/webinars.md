@@ -109,7 +109,7 @@ tags: [general]
           <tr>
            <td><b>OrthoMCL-7 New Features & Functionality</b> (May 6, 2025)<br>
            <b>Webinar goals:</b> This webinar features a live demonstration of the exciting new tools and features in the newly released OrthoMCL-7 platform, VEuPathDB's data resource for ortholog groups of protein sequences. Learn how to gain insights from phylogenetic trees, how to use specialized searches to mine orthology resources, find orthologs between two species, and find orthologs for your list of proteins. <br></td>
-           <td><br><iframe width="280" height="157" vertical-align="top" src="https://www.youtube.com/watch?v=htZqbbIlBjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <td><br><iframe width="280" height="157" vertical-align="top" src="https://www.youtube.com/embed/htZqbbIlBjU?si=bCPy6YFx9tfnmvoa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr> 
           <tr>
            <td><b>2023 Ticks and Mites Community Webinar</b> (June 22, 2023)<br>
