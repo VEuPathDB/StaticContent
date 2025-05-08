@@ -10,9 +10,6 @@ exclude: [OrthoMCL]
 ---
 <style>
 
-.indent-uniform {
-  margin-left: 1em;
-}
 
 .survey-link {
     display: flex;
