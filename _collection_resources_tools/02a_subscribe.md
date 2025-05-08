@@ -1,10 +1,10 @@
 ---
 identifier: subscription
-listTitle: Subscription 
-descriptionTitle: Subscription
+listTitle: Subscribe
+descriptionTitle: Subscribe
 listIconKey: user-circle-o
 tags: [tutorial]
-title: Subscription
+title: Subscribe
 permalink: '#subscription'
 exclude: [OrthoMCL]
 ---
