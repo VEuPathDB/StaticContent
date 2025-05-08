@@ -35,7 +35,7 @@ exclude: [OrthoMCL]
   display: flex;
 }
 #col-1 {
-  flex: 1;
+  flex: 1; margin-left: 1em;
 }
 #col-2 {
   flex: 1; margin-left: 1em;
@@ -43,9 +43,6 @@ exclude: [OrthoMCL]
 }
 #col-3 {
   flex: 1; margin-left: 1em;
-}
-ol {
-  margin-left: 1em;
 }
 </style>
 
