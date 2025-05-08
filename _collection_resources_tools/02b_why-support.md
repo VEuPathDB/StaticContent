@@ -11,10 +11,10 @@ exclude: [OrthoMCL]
 <style>
 
 .indent-uniform {
-  margin-left: 3em;
+  margin-left: 1em;
 }
 p.indent {
-    margin-left: 3em
+    margin-left: 1em
 }
 .survey-link {
     display: flex;
@@ -37,7 +37,7 @@ p.indent {
   display: flex;
 }
 #col-1 p{
-  flex: 1; margin-left: 3em;
+  flex: 1; margin-left: 1em;
 }
 #col-2 {
   flex: 1; margin-left: 1em;
@@ -47,7 +47,7 @@ p.indent {
   flex: 1; margin-left: 1em;
 }
 ol {
-  margin-left: 3em;
+  margin-left: 1em;
 }
 </style>
 
