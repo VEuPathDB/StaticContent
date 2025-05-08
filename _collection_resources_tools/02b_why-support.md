@@ -13,9 +13,7 @@ exclude: [OrthoMCL]
 .indent-uniform {
   margin-left: 1em;
 }
-p.indent {
-    margin-left: 1em
-}
+
 .survey-link {
     display: flex;
     text-align: center;
@@ -36,7 +34,7 @@ p.indent {
 .container {
   display: flex;
 }
-#col-1 p{
+#col-1 {
   flex: 1; margin-left: 1em;
 }
 #col-2 {
