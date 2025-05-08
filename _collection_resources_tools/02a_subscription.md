@@ -1,6 +1,6 @@
 ---
 identifier: subscription
-listTitle: Subscription 
+listTitle: Subscribe
 descriptionTitle: Subscribe
 listIconKey: user-circle-o
 tags: [tutorial]
