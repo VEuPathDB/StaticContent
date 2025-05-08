@@ -4,7 +4,7 @@ listTitle: Subscription
 descriptionTitle: Subscription
 listIconKey: user-circle-o
 tags: [tutorial]
-title: Subscription
+title: Subscribe
 permalink: '#subscription'
 exclude: [OrthoMCL]
 ---
