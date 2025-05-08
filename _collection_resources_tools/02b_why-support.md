@@ -35,7 +35,7 @@ exclude: [OrthoMCL]
   display: flex;
 }
 #col-1 {
-  flex: 1; margin-left: 1em;
+  flex: 1;
 }
 #col-2 {
   flex: 1; margin-left: 1em;
