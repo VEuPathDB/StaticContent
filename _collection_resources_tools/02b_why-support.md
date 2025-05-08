@@ -1,7 +1,7 @@
 ---
 identifier: support
 listTitle: Why Support Us
-descriptionTitle: Why Support Us
+descriptionTitle: Donate Now
 listIconKey: gift
 tags: [tutorial]
 title: Donate Now
