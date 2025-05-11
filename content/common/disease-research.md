@@ -30,7 +30,7 @@ div.static-content {
       padding: 0.5rem;
     }
     .col1 {
-      background: #be95be;
+      background: #ead1dd;
     }
     .col3 {
       background: #fff2cc;
