@@ -9,15 +9,6 @@ div.static-content {
   table.diseases {
     border-collapse: collapse;
 
-    tr > :first-child {
-      position: -webkit-sticky;
-      position: sticky; 
-      left: 0; 
-    }
-    thead th:first-child {
-      left: 0;
-      z-index: 3;
-    }
     thead th {
       background: #d9ead3;
       position: -webkit-sticky;
@@ -36,8 +27,11 @@ div.static-content {
     .col3 {
       background: #fff2cc;
     }
-
-
+  }
+  @media only screen and (max-width: 50em) {
+    table.diseases thead th {
+      top: 0;
+    }
   }
 }
 
