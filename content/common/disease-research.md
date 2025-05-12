@@ -22,8 +22,9 @@ div.static-content {
       background: #d9ead3;
       position: -webkit-sticky;
       position: sticky;
-      top: 0;
+      top: 7em;
       z-index: 2;
+      box-shadow: inset 0 1px 0 #999, inset 0 -1px 0 #999;
     }
     td, th {
       border: 1px solid #999;
