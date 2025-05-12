@@ -95,7 +95,7 @@ tags: [general]
 <br>
  
   <div class="anchor"><a name="On-Demand Webinars"></a></div>
-  <details closed>
+  <details open>
     <summary><h3>On-Demand Training</h3> </summary>
     <br>
     <table class="hor-minimalist-a">
