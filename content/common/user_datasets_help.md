@@ -7,7 +7,7 @@ title: User Data Sets Help
   div.static-content {
 
     details {
-      margin-bottom: 1em;
+      margin-top: 2em;
     }
     summary {
       cursor: pointer;
