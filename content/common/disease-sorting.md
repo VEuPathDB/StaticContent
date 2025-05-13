@@ -241,14 +241,12 @@ class SortableTable {
 }
 
 // Initialize sortable table buttons
-function makeTableSortable() {
-  console.log("My Table is not sortable."); 
+window.onload = function () {
   var sortableTables = document.querySelectorAll('table.sortable');
   for (var i = 0; i < sortableTables.length; i++) {
     new SortableTable(sortableTables[i]);
   }
-
-document.onload = makeTableSortable();
+};
 
 
 </script>
