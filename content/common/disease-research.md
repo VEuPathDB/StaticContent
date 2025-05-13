@@ -5,6 +5,8 @@ tags: [general]
 ---
 <style>
 
+h1 { padding-bottom: 0; }
+
 div.static-content {
 
   table.diseases {
@@ -41,7 +43,7 @@ div.static-content {
 
 <h1>Disease Research Supported by VEuPathDB</h1>
 <i>Last updated on May 13, 2025</i>
-<br>
+<br><br><br>
 
 <div class="static-content">
 
