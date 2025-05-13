@@ -54,7 +54,7 @@ div.static-content {
 <div class="static-content">
 
 
-<table class="diseases sortable">
+<table id="mytable" class="diseases sortable">
   {% for row in site.data.disease_research_supported %}
     {% if forloop.first %}
     <thead>
