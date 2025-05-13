@@ -1,5 +1,5 @@
 layout: plain
-title: VEuPathDB Workshops
+title: Thumbs up and down
 permalink: /thumbs
 tags: [general]
 ---
