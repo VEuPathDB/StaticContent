@@ -249,12 +249,6 @@ class SortableTable {
   } 
   function openEntry(myanchor) {
     console.log("My Anchor: ", myanchor);
-    console.log("pepe1");
-    var sortableTables = document.querySelectorAll('table.sortable');
-    for (var i = 0; i < sortableTables.length; i++) {
-      new SortableTable(sortableTables[i]);
-    }
-    console.log("pepe2");
     document.getElementById(myanchor).open = true;
   } 
   document.onload = openEntry(getHashFromUrl(window.location.href));
