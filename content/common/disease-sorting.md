@@ -1,5 +1,5 @@
 ---
-permalink: disease-research
+permalink: disease-sorting
 title: Disease Research Supported by VEuPathDB
 tags: [general]
 ---
