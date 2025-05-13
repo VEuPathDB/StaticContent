@@ -1,7 +1,7 @@
 layout: plain
 title: VEuPathDB Workshops
 permalink: /thumbs
-tags: [workshop-exercise]
+tags: [general]
 ---
 <style>
   div.static-content {
