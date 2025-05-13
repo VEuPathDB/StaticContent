@@ -241,13 +241,23 @@ class SortableTable {
 }
 
 // Initialize sortable table buttons
-document.addEventListener('DOMContentLoaded', function () {
-  console.log("pepe");
-  var sortableTables = document.querySelectorAll('table.sortable');
-  for (var i = 0; i < sortableTables.length; i++) {
-    new SortableTable(sortableTables[i]);
-  }
-});
+  function getHashFromUrl(url){
+    console.log("My url: ", url);
+    var a = document.createElement("a");
+    a.href = url; 
+    return a.hash.replace(/^#/, "");
+  } 
+  function openEntry(myanchor) {
+    console.log("My Anchor: ", myanchor);
+    console.log("pepe1");
+    var sortableTables = document.querySelectorAll('table.sortable');
+    for (var i = 0; i < sortableTables.length; i++) {
+      new SortableTable(sortableTables[i]);
+    }
+    console.log("pepe2");
+    document.getElementById(myanchor).open = true;
+  } 
+  document.onload = openEntry(getHashFromUrl(window.location.href));
 
 
 </script>
