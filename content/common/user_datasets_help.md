@@ -33,16 +33,15 @@ title: User Data Sets Help
 
 <div class="static-content user-dataset-help">
 
-  <p><b>My Data Sets</b> are your files or sets of files that are private unless you choose to share them with colleagues. Populated with files uploaded from your computer, a URL, or with data imported from a search strategy, your data sets are preserved across sessions, ensuring they are always accessible whenever you log in.</p>
-
   <details open>
     <summary><h4>My Data Sets workspace</h4></summary>
     <ul>
-      <li>View, manage, share, and utilize your data set in <b>{{project}}</b> My Data Sets workspace. </li>
-      <li>My Data Sets you’ve created contribute to a per-user upload limit of <b>10.00</b> GB. </li>
-      <li>Access the My Data Sets page from the My Workspace menu in the {{project}} banner.</li>
-      <li>The My Data Sets page tabulates your files and provides associated information.</li>
-      <li>Each Data Set has its own record page (linked in the Name column) with more details and options to download.</li>
+      <li>This is your workspace where to upload data sets. They are private and you may share them with colleagues.
+          Access this page from <i>My Workspace</i> in the header menu.</li>
+      <li>Your workspace is populated with files uploaded from your computer, a URL, or with data imported from a search strategy.
+          There is a per-user upload limit of <b>10.00</b> GB. </li>
+      <li>The <i>All My Data Sets</i> page tabulates your files and provides associated information.</li>
+      <li>Each Data Set has its own page (linked in the Name column) where to view, manage, share, utilize and download your data set.</li>
     </ul>
     <br>
     <img src="{{'/assets/images/MyDataSets/MyDataSets.png' | absolute_url}}" />
@@ -86,7 +85,7 @@ title: User Data Sets Help
 
 
   <details closed>
-    <summary><h4>Upload a bigWig file to My Data Sets</h4></summary>
+    <summary><h4>Upload bigWig files to My Data Sets</h4></summary>
     <ol type="1">
       <li><b>Access the My Gene List upload form:</b> Open the New Upload tab in your My Data Sets workspace. Choose <b>bigWig: Integrate your bigWig file</b></li>
       <li><b>Complete the Upload a bigWig form:</b> Name, Summary and Upload File/URL are required. The bigWig file must contain data mapped to the current VEuPathDB reference genome for that organism. Upload Data Set initiates the transfer and will add the bigWig file as a data set in table on your My Data Sets page.</li>
