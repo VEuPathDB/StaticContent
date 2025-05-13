@@ -241,12 +241,13 @@ class SortableTable {
 }
 
 // Initialize sortable table buttons
-window.onload = function () {
+document.addEventListener('DOMContentLoaded', function () {
+  console.log("pepe");
   var sortableTables = document.querySelectorAll('table.sortable');
   for (var i = 0; i < sortableTables.length; i++) {
     new SortableTable(sortableTables[i]);
   }
-};
+});
 
 
 </script>
