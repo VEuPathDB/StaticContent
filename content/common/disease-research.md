@@ -7,18 +7,6 @@ tags: [general]
 
 div.static-content {
 
-/*
-  table.sortable th button {
-    background: transparent;
-    border: none;
-    font-size: 100%;
-    font-weight: bold;
-    outline: none;
-    cursor: pointer;
-    text-align: left;
-  }
-*/
-
   table.diseases {
     border-collapse: collapse;
 
@@ -52,9 +40,10 @@ div.static-content {
 </style>
 
 <h1>Disease Research Supported by VEuPathDB</h1>
+<i>Last updated on May 13, 2025</i>
+<br>
 
 <div class="static-content">
-
 
 <table class="diseases sortable">
   {% for row in site.data.disease_research_supported %}
@@ -77,10 +66,4 @@ div.static-content {
 
 
 </div>
-
-// this will only work locally; the window.addEventListener('load', function () {}); 
-// doesnt get executed when we include the script inline, within our website.
-// need to check if the div "ExternalContentController" could check for such as a request inline.
-// <script src="{{ '/assets/js/table-sorting.js' | relative_url }}"></script>
-
 
