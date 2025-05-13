@@ -6,6 +6,17 @@ tags: [general]
 <style>
 
 div.static-content {
+
+  table.sortable th button {
+    background: transparent;
+    border: none;
+    font-size: 100%;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+    text-align: left;
+  }
+
   table.diseases {
     border-collapse: collapse;
 
@@ -43,13 +54,13 @@ div.static-content {
 <div class="static-content">
 
 
-<table class="diseases">
+<table class="diseases sortable">
   {% for row in site.data.disease_research_supported %}
     {% if forloop.first %}
     <thead>
     <tr>
       {% for pair in row %}
-        <th>{{ pair[0] }}</th>
+        <th><button>{{ pair[0] }}<span aria-hidden="true"></span></button></th>
       {% endfor %}
     </tr>
     </thead>
@@ -64,4 +75,6 @@ div.static-content {
 
 
 </div>
+
+<script src="{{ '/assets/js/table-sorting.js' | relative_url }}"></script>
 
