@@ -1,6 +1,6 @@
 layout: plain
 title: VEuPathDB Workshops
-permalink: /ibmv
+permalink: /thumbs
 tags: [workshop-exercise]
 ---
 <style>
