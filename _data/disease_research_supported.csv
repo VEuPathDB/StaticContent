@@ -1,13 +1,13 @@
 Organism,Disease,VEuPathDB Database,Disease affects Humans,Disease affects Animals,Disease affects Plants,WHO Priority Pathogen,External links
-Acanthamoeba,"Acanthamoeba keratitis- rare but serious eye infection, Granulomatous Amoebic Encephalitis (GAE)- rare, often fatal infection of brain and spinal cord",AmoebaDB,Yes,,,,<a href='https://www.cdc.gov/'>CDC- Free living amebic infections</a>
-Aedes aegypti,"Mosquito that transmits Dengue, Zika, Chikungunya, Yellow Fever",Vectorbase,,,,,European CDC fact sheet
+Acanthamoeba,"Acanthamoeba keratitis- rare but serious eye infection, Granulomatous Amoebic Encephalitis (GAE)- rare, often fatal infection of brain and spinal cord",AmoebaDB,Yes,,,,<a href='https://www.cdc.gov/dpdx/freelivingamebic/index.html'>CDC- Free living amebic infections</a>
+Aedes aegypti,"Mosquito that transmits Dengue, Zika, Chikungunya, Yellow Fever",Vectorbase,,,,,<a href='https://www.ecdc.europa.eu/en/disease-vectors/facts/mosquito-factsheets/aedes-aegypti'>CDC-European CDC fact sheet</a>
 Aedes albopictus,"Mosquito that transmits Dengue, Zika, Chikungunya",Vectorbase,,,,,
 Albugo,"White rust disease on various plants, particularly those in the Brassicaceae family",FungiDB,,,Yes,,
 Allomyces macrogynus,"Not a pathogen, saprotrophic chytrid fungus that plays a role in decomposing organic matter",FungiDB,,,,,
 Alternaria alternata,Leaf spot disease,FungiDB,,,Yes,,
 Amauroascus,Keritinophilic but not known to cause disease,FungiDB,,,,,
-Amblyomma maculatum (Gulf Coast tick),Transmits bacterium Rickettsia parkeri that causes Rickettsiosis (spotted fever),Vectorbase,,,,,CDC- ticks
-Anncaliia algerae,Microsporidiosis- diarrhea and keratitis or corneal infection,MicrosporidiaDB,Yes,,,,"Emerging infectious diseases article , on NIAID Biodefense Pathogens list"
+Amblyomma maculatum (Gulf Coast tick),Transmits bacterium Rickettsia parkeri that causes Rickettsiosis (spotted fever),Vectorbase,,,,,<a href='https://www.cdc.gov/dpdx/ticks/'>CDC- ticks</a>
+Anncaliia algerae,Microsporidiosis- diarrhea and keratitis or corneal infection,MicrosporidiaDB,Yes,,,,"<a href='https://wwwnc.cdc.gov/eid/article/28/7/21-2315_article'>Emerging infectious diseases article</a>, on <a href='https://www.niaid.nih.gov/research/niaid-biodefense-pathogens'>NIAID Biodefense Pathogens list</a>"
 Anopheles,"Mosquito that transmits malaria (i.e., vector for Plasmodium)",Vectorbase,,,,,
 Aphanomyces astaci,Crayfish plague,FungiDB,,Yes,,,
 Aphanomyces euteiches,Root rot,FungiDB,,,Yes,,
@@ -27,7 +27,7 @@ Aspergillus eucalypticola,Rare environmental infections,FungiDB,Yes,,,,
 Aspergillus fijiensis,Rare environmental infections,FungiDB,Yes,,,,
 Aspergillus fischeri,Opportunistic infections,FungiDB,Yes,,,,
 Aspergillus flavus,"Aspergillosis (primarily a lung disease), aflatoxin contamination",FungiDB,Yes,,Yes,,
-Aspergillus fumigatus,"Aspergillosis, primarily a lung disease",FungiDB,Yes,,,WHO Fungal Priority Pathogen- Critical group,CDC- Aspergillosis
+Aspergillus fumigatus,"Aspergillosis, primarily a lung disease",FungiDB,Yes,,,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- Critical group</a>,<a href='https://www.cdc.gov/aspergillosis/'>CDC- Aspergillosis</a>
 Aspergillus glaucus,Food spoilage,FungiDB,,,Yes,,
 Aspergillus heteromorphus,Rare environmental infections,FungiDB,Yes,,,,
 Aspergillus homomorphus,Rare environmental infections,FungiDB,Yes,,,,
@@ -50,45 +50,45 @@ Aspergillus tubingensis,Food spoilage,FungiDB,,,Yes,,
 Aspergillus uvarum,Grape spoilage,FungiDB,,,Yes,,
 Aspergillus versicolor,"Opportunistic infections, ochratoxin A",FungiDB,Yes,,Yes,,
 Aspergillus wentii,Rarely pathogenic,FungiDB,Yes,,,,
-Babesia,"Babesiosis, a malaria-like disease with flu-like symptoms",PiroplasmaDB,Yes,,,,CDC- Babesiosis
-Balamuthia,"Granulomatous Amoebic Encephalitis (GAE)- rare, often fatal infection of brain and spinal cord",AmoebaDB,Yes,,,,"CDC- Free living amebic infections, on NIAID Biodefense Pathogens list"
+Babesia,"Babesiosis, a malaria-like disease with flu-like symptoms",PiroplasmaDB,Yes,,,,<a href='https://www.cdc.gov/dpdx/babesiosis/'>CDC- Babesiosis</a>
+Balamuthia,"Granulomatous Amoebic Encephalitis (GAE)- rare, often fatal infection of brain and spinal cord",AmoebaDB,Yes,,,,"<a href='https://www.niaid.nih.gov/research/niaid-biodefense-pathogens'>CDC- Free living amebic infections</a>, on <a href='https://www.niaid.nih.gov/research/niaid-biodefense-pathogens'>NIAID Biodefense Pathogens list</a>"
 Batrachochytrium,"Chytridiomycosis, a highly contagious fungal disease in amphibians",FungiDB,,Yes,,,
 Beauveria bassiana,"Biological control agent, insect infections",FungiDB,,Yes,,,
 Besnoitia besnoiti,"Besnoitiosis or ""elephant skin disease"" in cattle",ToxoDB,,Yes,,,
-Biomphalaria glabrata,Intermediate host for Schistosomiasis or snail fever,Vectorbase,,,,WHO Neglected Tropical Disease,CDC- Schistosomiasis
-Blastomyces,"Blastomycosis, also known as Gilchrist's disease, typically affects the lungs ",FungiDB,Yes,,,,CDC- Blastomycosis
+Biomphalaria glabrata,Intermediate host for Schistosomiasis or snail fever,Vectorbase,,,,<a href='https://www.who.int/health-topics/neglected-tropical-diseases#tab=tab_1'>WHO Neglected Tropical Disease</a>,<a href='https://www.cdc.gov/dpdx/schistosomiasis/'>CDC- Schistosomiasis</a>
+Blastomyces,"Blastomycosis, also known as Gilchrist's disease, typically affects the lungs ",FungiDB,Yes,,,,<a href='https://www.cdc.gov/blastomycosis/index.html'>CDC- Blastomycosis</a>
 Blumeria,Powdery mildew,FungiDB,,,Yes,,
 Botrytis cinerea,Grey mold,FungiDB,,,Yes,,
 Bremia lactucae,Downy mildew of lettuce,FungiDB,,,Yes,,
 Byssoonygena ceratinophila,Keratin degradation,FungiDB,Yes,,,,
-Candida,Candidiasis,FungiDB,Yes,,,WHO Fungal Priority Pathogen- Critical group,"CDC- C. auris, Candidiasis"
+Candida,Candidiasis,FungiDB,Yes,,,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- Critical group</a>,"CDC- <a href='https://www.cdc.gov/candida-auris/'> C. auris</a>, <a href='https://www.cdc.gov/candidiasis/index.html'>Candidiasis</a>"
 Cenococcum geophilum,Mycorrhizal fungus,FungiDB,,,Yes,,
 Chaetomium globosum,"Allergic reactions, rare opportunistic infections",FungiDB,Yes,,,,
 Chaetothyriales sp.,Black yeast-like infections,FungiDB,Yes,,,,
 Chrysosporium queenslandicum,"Keratin degradation, rare infections",FungiDB,Yes,,,,
-Cimex lectularius (Bed bug),Bites can cause itching and allergic reactions,Vectorbase,,,,,CDC- Bed bugs
+Cimex lectularius (Bed bug),Bites can cause itching and allergic reactions,Vectorbase,,,,,<a href='https://www.cdc.gov/dpdx/bedbugs/'>CDC- Bed bugs</a>
 "Cladophialophora (carrionii, yegresii)",Chromoblastomycosis,FungiDB,Yes,,,,
 "Cladophialophora (immunda, psammophila)",Rare opportunistic infections,FungiDB,Yes,,,,
 Cladophialophora bantiana,Cerebral phaeohyphomycosis,FungiDB,Yes,,,,
 Claviceps purpurea,Ergotism,FungiDB,,,Yes,,
 Clavispora lusitaniae,Opportunistic infections,FungiDB,Yes,,,,
-Coccidioides,Coccidioidomycosis (Valley fever),FungiDB,Yes,,,WHO Fungal Priority Pathogen- Medium priority group,"CDC- Valley fever, on NIAID Biodefense Pathogens list"
+Coccidioides,Coccidioidomycosis (Valley fever),FungiDB,Yes,,,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- Medium priority group</a>,"<a href='https://www.cdc.gov/valley-fever/hcp/clinical-overview/'>CDC- Valley fever</a>, on <a href='https://www.niaid.nih.gov/research/niaid-biodefense-pathogens'>NIAID Biodefense Pathogens list</a> "
 Colletotrichum,Anthracnose disease,FungiDB,,,Yes,,
 Coprinopsis cinerea,Rarely pathogenic,FungiDB,Yes,,,,
 Cordyceps militaris,Parasitic infections in insects,FungiDB,,Yes,,,
 Crithidia fasciculata,Infects mosquitoes- some related species are important parasites of bees,TriTrypDB,,Yes,,,
-Cryptococcus,Cryptococcosis,FungiDB,Yes,,,WHO Fungal Priority Pathogen- Critical group,CDC: Cryptococcosis
-Cryptosporidium,Cryptosporidiosis- gastrointestinal illness,CryptoDB,Yes,Yes,,,"CDC: Cryptosporidiosis, European CDC: Cryptosporidiosis, on NIAID Biodefense Pathogens list "
+Cryptococcus,Cryptococcosis,FungiDB,Yes,,,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- Critical group</a>,<a href='https://www.cdc.gov/cryptococcosis/'>CDC: Cryptococcosis</a>
+Cryptosporidium,Cryptosporidiosis- gastrointestinal illness,CryptoDB,Yes,Yes,,,"<a href='https://www.cdc.gov/dpdx/cryptosporidiosis/'>CDC: Cryptosporidiosis</a>, <a href='https://www.ecdc.europa.eu/en/cryptosporidiosis'>European CDC: Cryptosporidiosis</a>, on <a href='https://www.niaid.nih.gov/research/niaid-biodefense-pathogens'>NIAID Biodefense Pathogens list</a> "
 Culex quinquefasciatus (Southern house mosquito),"Transmits parasites Plasmodium relictum, Wuchereria bancrofti that cause lymphatic Filariasis, avian malaria, St. Louis encephalitis, West Nile virus",Vectorbase,,,,,
 Culicoides sonorensis (biting midges),Transmits virus that causes Bluetongue disease,Vectorbase,,,,,
 Curvularia clavata,Fungal sinusitis,FungiDB,Yes,,,,
 Cyberlindnera fabianii,Rare opportunistic infections,FungiDB,Yes,,,,
-Cyclospora,Cyclosporiasis- gastrointestinal illness,ToxoDB,Yes,,,,On NIAID Biodefense Pathogens list 
+Cyclospora,Cyclosporiasis- gastrointestinal illness,ToxoDB,Yes,,,,On <a href='https://www.niaid.nih.gov/research/niaid-biodefense-pathogens'>NIAID Biodefense Pathogens list</a> 
 Cyphellophora europaea,Rare opportunistic infections,FungiDB,Yes,,,,
 Cystoisospora suis,"Porcine coccidiosis, a diarrheal disease primarily affecting suckling piglets",ToxoDB,,Yes,,,
 Cytauxzoon,"Cytauxzoonosis, life-threatening infectious disease of domestic cats",PiroplasmaDB,,Yes,,,
 Debaryomyces,Rare opportunistic infections,FungiDB,Yes,,,,
-Dermacentor andersoni (Rocky Mountain wood tick),Transmits Rickettsia rickettsii which causes Rocky Mountain Spotted Fever,Vectorbase,,,,,CDC: Ticks
+Dermacentor andersoni (Rocky Mountain wood tick),Transmits Rickettsia rickettsii which causes Rocky Mountain Spotted Fever,Vectorbase,,,,,<a href='https://www.cdc.gov/dpdx/ticks/'>CDC: Ticks</a>
 Dermacentor silvarum,Transmits Tick-borne encephalitis virus that causes tick-borne encephalitis,Vectorbase,,,,,
 Dictyocoela,"Infect amphipods, causing ecological effects",MicrosporidiaDB,,Yes,,,
 Diutina rugosa,Rare opportunistic infections,FungiDB,Yes,,,,
@@ -96,15 +96,15 @@ Edhazardia aedis,"Infects Aedes aegypti mosquitoes, causing mortality and reduce
 Eimeria,"Coccidiosis in cattle, poultry leading to economic losses and animal welfare issues",ToxoDB,,Yes,,,
 Emergomyces,Emergomycosis,FungiDB,Yes,,,,
 Emmonsia crescens,Adiaspiromycosis,FungiDB,Yes,,,,
-Encephalitozoon,"Encephalitozoonosis- infects kidneys, eyes, and nervous systems of rabbits",MicrosporidiaDB,,Yes,,,CDC: Microsporidiosis
-Entamoeba,Amoebiasis/ Amoebic Dysentery- gastrointestinal illness,AmoebaDB,Yes,Yes,,,"CDCL Amebiasis, on NIAID Biodefense Pathogens list "
-Enterocytozoon bieneusi,"Intestinal microsporidiosis- chronic diarrhea, malabsorption, and wasting, particularly in immunocompromised individuals",MicrosporidiaDB,Yes,,,,CDC: Microsporidiosis
+Encephalitozoon,"Encephalitozoonosis- infects kidneys, eyes, and nervous systems of rabbits",MicrosporidiaDB,,Yes,,,<a href='https://www.cdc.gov/dpdx/microsporidiosis/index.html'>CDC: Microsporidiosis</a>
+Entamoeba,Amoebiasis/ Amoebic Dysentery- gastrointestinal illness,AmoebaDB,Yes,Yes,,,"<a href='https://www.cdc.gov/dpdx/amebiasis/'>CDCL Amebiasis</a>, on <a href='https://www.niaid.nih.gov/research/niaid-biodefense-pathogens'>NIAID Biodefense Pathogens list</a> "
+Enterocytozoon bieneusi,"Intestinal microsporidiosis- chronic diarrhea, malabsorption, and wasting, particularly in immunocompromised individuals",MicrosporidiaDB,Yes,,,,<a href='https://www.cdc.gov/dpdx/microsporidiosis/'>CDC: Microsporidiosis</a>
 Epichloe,Endophytic infections in grasses,FungiDB,,,Yes,,
 Exophiala,Phaeohyphomycosis,FungiDB,Yes,,,,
 Fonsecaea,Chromoblastomycosis,FungiDB,Yes,,,,
 Fusarium circinatum,Pine pitch canker,FungiDB,,,Yes,,
 Fusarium fujikuroi,Bakanae disease of rice,FungiDB,,,Yes,,
-Fusarium graminearum,Fusarium head blight,FungiDB,,,Yes,WHO Fungal Priority Pathogen- High priority group,
+Fusarium graminearum,Fusarium head blight,FungiDB,,,Yes,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- High priority group</a>,
 Fusarium mangiferae,Mango malformation disease,FungiDB,,,Yes,,
 Fusarium odoratissimum,Panama disease (TR4 in bananas),FungiDB,,,Yes,,
 Fusarium oxysporum,Fusarium wilt,FungiDB,,,Yes,,
@@ -113,7 +113,7 @@ Fusarium solani,"Fusarium wilt, keratitis",FungiDB,Yes,,Yes,,
 Fusarium vanettenii,Fusarium wilt,FungiDB,,,Yes,,
 Fusarium verticillioides,"Mycotoxin contamination, root rot",FungiDB,,,Yes,,
 Gaeumannomyces tritici,Take-all disease,FungiDB,,,Yes,,
-Giardia,Giardiasis- gastrointestinal illness,GiardiaDB,Yes,,,,"CDC: Giardiasis, European CDC: Giardiasis, on NIAID Biodefense Pathogens list"
+Giardia,Giardiasis- gastrointestinal illness,GiardiaDB,Yes,,,,"<a href='https://www.cdc.gov/dpdx/giardiasis/'>CDC: Giardiasis</a>, <a href='https://www.ecdc.europa.eu/en/giardiasis'>European CDC: Giardiasis</a>, on <a href='https://www.niaid.nih.gov/research/niaid-biodefense-pathogens'>NIAID Biodefense Pathogens list</a>"
 Globisporangium,Root rot,FungiDB,,,Yes,,
 Glossina,Transmits Trypanosoma brucei that causes African trypanosomiasis (sleeping sickness),Vectorbase,,,,,
 Haemaphysalis longicornis (Asian longhorned tick),"Transmits Theileria, Babesia, SFTS virus, and bacterium Anaplasma causing Severe Fever with Thrombocytopenia Syndrome (SFTS), Theileriosis, Babesiosis, Anaplasmosis",Vectorbase,,,,,
@@ -123,19 +123,19 @@ Hanseniaspora,Rare opportunistic infections,FungiDB,Yes,,Yes,,
 Hemileia vastatrix,Coffee leaf rust,FungiDB,,,Yes,,
 Hepatocystis,"Malaria-like illness in primates, bats, squirrels",PlasmoDB,,Yes,,,
 Histomonas meleagridis,"Histomoniasis, also known as blackhead disease, affects poultry, particularly turkeys",TrichDB,,Yes,,,
-Histoplasma capsulatum,Histoplasmosis,FungiDB,Yes,,,WHO Fungal Priority Pathogen- High priority group,CDC: Histoplasmosis
+Histoplasma capsulatum,Histoplasmosis,FungiDB,Yes,,,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- High priority group</a>,<a href='https://www.cdc.gov/histoplasmosis/'>CDC: Histoplasmosis</a>
 Hortaea werneckii,Tinea nigra,FungiDB,Yes,,,,
 Hyalomma asiaticum,"Transmits Theileria annulata that transmits Crimean-Congo hemorrhagic fever virus causing Crimean-Congo Hemorrhagic Fever, Theileriosis",Vectorbase,,,,,
 Hyaloperonospora arabidopsidis,Downy mildew,FungiDB,,,Yes,,
-Ixodes,"Transmits Tick-borne encephalitis virus (TBEV) and Borrelia, Anaplasma, causing Lyme disease, Babesiosis, Anaplasmosis, Tick-Borne Encephalitis (TBE)",Vectorbase,,,,,CDC: Ticks
+Ixodes,"Transmits Tick-borne encephalitis virus (TBEV) and Borrelia, Anaplasma, causing Lyme disease, Babesiosis, Anaplasmosis, Tick-Borne Encephalitis (TBE)",Vectorbase,,,,,<a href='https://www.cdc.gov/dpdx/ticks/'>CDC: Ticks</a>
 Kluyveromyces,Rare opportunistic infections,FungiDB,Yes,,,,
 Kwoniella,Rare opportunistic infections,FungiDB,Yes,,,,
-Leishmania,"Leishmaniasis, with cutaneous, visceral (most severe form), and mucocutaneous forms affecting skin, internal organs, and mucous membranes, respectively",TriTrypDB,Yes,Yes,,WHO Neglected Tropical Disease,"CDC: Leishmaniasis, European CDC: Leishmaniasis"
+Leishmania,"Leishmaniasis, with cutaneous, visceral (most severe form), and mucocutaneous forms affecting skin, internal organs, and mucous membranes, respectively",TriTrypDB,Yes,Yes,,<a href='https://www.who.int/health-topics/neglected-tropical-diseases#tab=tab_1'>WHO Neglected Tropical Disease</a>,"<a href='https://www.cdc.gov/dpdx/leishmaniasis'>CDC: Leishmaniasis</a>, <a href='https://www.ecdc.europa.eu/en/leishmaniasis/facts'>European CDC: Leishmaniasis</a>"
 Lentinus tigrinus,Rarely pathogenic,FungiDB,Yes,,,,
 Leptotrombidium deliense (Asian rodent chigger),Transmits bacterium Orientia tsutsugamushi causing Scrub Typhus,Vectorbase,,,,,
-Lichtheimia,Mucormycosis,FungiDB,Yes,,,,CDC: Mucormycosis
+Lichtheimia,Mucormycosis,FungiDB,Yes,,,,<a href='https://www.cdc.gov/mucormycosis/'>CDC: Mucormycosis</a>
 Lodderomyces elongisporus,Fungemia,FungiDB,Yes,,,,
-Lomentospora prolificans,Opportunistic infections,FungiDB,Yes,,,WHO Fungal Priority Pathogen- Medium priority group,
+Lomentospora prolificans,Opportunistic infections,FungiDB,Yes,,,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- Medium priority group</a>,
 Lutzomyia longipalpis,Transmits Leishmania spp. causing visceral Leishmaniasis,Vectorbase,,,,,
 Macrophomina phaseolina,Charcoal rot,FungiDB,,,Yes,,
 Madurella mycetomatis,Mycetoma,FungiDB,Yes,,,,
@@ -149,11 +149,11 @@ Metarhizium anisopliae,Insect infections,FungiDB,,Yes,,,
 Meyerozyma guilliermondii,Rare opportunistic infections,FungiDB,Yes,,,,
 Microsporum canis,Dermatophytosis,FungiDB,Yes,Yes,,,
 Monilinia fructicola,Brown rot,FungiDB,,,Yes,,
-Mucor,Mucormycosis,FungiDB,Yes,,,WHO Fungal Priority Pathogen- High priority group,On NIAID Biodefense Pathogens list 
+Mucor,Mucormycosis,FungiDB,Yes,,,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- High priority group</a>,On <a href='https://www.niaid.nih.gov/research/niaid-biodefense-pathogens'>NIAID Biodefense Pathogens list</a> 
 Musca domestica (housefly),Mechanical transmission of various pathogens,Vectorbase,,,,,
-Naegleria,Primary amoebic meningoencephalitis (PAM)- rare but almost inevitably fatal brain infection,AmoebaDB,Yes,,,,"CDC- Free living amebic infections, on NIAID Biodefense Pathogens list"
+Naegleria,Primary amoebic meningoencephalitis (PAM)- rare but almost inevitably fatal brain infection,AmoebaDB,Yes,,,,"<a href='https://www.cdc.gov/dpdx/freelivingamebic/index.html'>CDC- Free living amebic infections</a>, On <a href='https://www.niaid.nih.gov/research/niaid-biodefense-pathogens'>NIAID Biodefense Pathogens list</a>"
 Naganishia albida,Rare opportunistic infections,FungiDB,Yes,,,,
-Nakaseomyces glabratus,Opportunistic infections,FungiDB,Yes,,,WHO Fungal Priority Pathogen- High priority group,
+Nakaseomyces glabratus,Opportunistic infections,FungiDB,Yes,,,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- High priority group</a>,
 Nannizzia gypsea,Dermatophytosis,FungiDB,Yes,Yes,,,
 Nematocida,Infects worm Caenorhabditis elegans,MicrosporidiaDB,,Yes,,,
 Neospora caninum,"Neosporosis, causes reproductive problems in cattle and neurological disorders in dogs",ToxoDB,,Yes,,,
@@ -162,7 +162,7 @@ Neurospora discreta,Rarely pathogenic,FungiDB,Yes,,,,
 Neurospora tetrasperma,Rarely pathogenic,FungiDB,Yes,,,,
 Ophiostoma piceae,Sapstain in wood,FungiDB,,,Yes,,
 Paecilomyces variotii,Opportunistic infections,FungiDB,Yes,,,,
-Paracoccidioides,Paracoccidioidomycosis,FungiDB,Yes,,,WHO Fungal Priority Pathogen- Medium priority group,
+Paracoccidioides,Paracoccidioidomycosis,FungiDB,Yes,,,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- Medium priority group</a>,
 Parastagonospora nodorum,Septoria nodorum blotch,FungiDB,,,Yes,,
 Pediculus humanus (body louse),Transmits Rickettsia prowazekii causing body lice diseases,Vectorbase,,,,,
 Penicilliopsis zonata,Rarely pathogenic,FungiDB,Yes,,,,
@@ -172,8 +172,8 @@ Penicillium rubens,"Rare opportunistic infections, antibiotic production (Penici
 Peronospora effusa,Downy mildew,FungiDB,,,Yes,,
 Phanerochaete chrysosporium,Rarely pathogenic,FungiDB,Yes,,,,
 Phialophora attinorum,Rare opportunistic infections,FungiDB,Yes,,,,
-Phlebotomus argentipes (sand fly),Transmits Leishmania donovani causing visceral leishmaniasis,Vectorbase,,,,,European CDC: Sand flies
-Phlebotomus papatasi (sand flies),Transmits Leishmania tropica causing Cutaneous Leishmaniasis,Vectorbase,,,,,European CDC: Sand flies
+Phlebotomus argentipes (sand fly),Transmits Leishmania donovani causing visceral leishmaniasis,Vectorbase,,,,,<a href='https://www.ecdc.europa.eu/en/disease-vectors/facts/phlebotomine-sand-flies'>European CDC: Sand flies</a>
+Phlebotomus papatasi (sand flies),Transmits Leishmania tropica causing Cutaneous Leishmaniasis,Vectorbase,,,,,<a href='https://www.ecdc.europa.eu/en/disease-vectors/facts/phlebotomine-sand-flies'>European CDC: Sand flies</a>
 Phycomyces blakesleeanus,Rare opportunistic infections,FungiDB,Yes,,,,
 Phytophthora cactorum,Root and crown rot,FungiDB,,,,,
 Phytophthora capsici,"Blight, root rot",FungiDB,,,,,
@@ -185,11 +185,11 @@ Phytophthora plurivora,Root rot,FungiDB,,,,,
 Phytophthora ramorum,Sudden oak death,FungiDB,,,,,
 Phytophthora sojae,Soybean root and stem rot,FungiDB,,,,,
 Phytopythium vexans,Root rot,FungiDB,,,,,
-Pichia kudriavzevii,Rare opportunistic infections,FungiDB,Yes,,,WHO Fungal Priority Pathogen- Medium priority group,
-Plasmodium,"Malaria, a life threatening disease with an estimated 263 million cases and 597,000 deaths worldwide in 2023",PlasmoDB,Yes,Yes,,,"CDC: Malaria, WHO: Malaria, European CDC: Malaria"
+Pichia kudriavzevii,Rare opportunistic infections,FungiDB,Yes,,,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- Medium priority group</a>,
+Plasmodium,"Malaria, a life threatening disease with an estimated 263 million cases and 597,000 deaths worldwide in 2023",PlasmoDB,Yes,Yes,,,"<a href='https://www.cdc.gov/dpdx/malaria/'>CDC: Malaria</a>, <a href='https://www.who.int/news-room/fact-sheets/detail/malaria'>WHO: Malaria</a>, <a href='https://www.ecdc.europa.eu/en/malaria'>European CDC: Malaria</a>"
 Plenodomus lingam,Blackleg disease,FungiDB,,,,,
 Pleurotus ostreatus,Rarely pathogenic,FungiDB,Yes,,,,
-Pneumocystis,Pneumocystis pneumonia,FungiDB,,Yes,,WHO Fungal Priority Pathogen- Medium priority group,CDC: Pneumocystis pneumonia
+Pneumocystis,Pneumocystis pneumonia,FungiDB,,Yes,,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- Medium priority group</a>,<a href='https://www.cdc.gov/pneumocystis-pneumonia'>CDC: Pneumocystis pneumonia</a>
 Podosphaera aphanis,Powdery mildew,FungiDB,,,Yes,,
 Podospora anserina,Rarely pathogenic,FungiDB,Yes,,,,
 Podospora comata,Rarely pathogenic,FungiDB,Yes,,,,
@@ -209,7 +209,7 @@ Pythium insidiosum,Pythiosis,FungiDB,Yes,Yes,,,
 Raffaelea lauricola,Laurel wilt,FungiDB,,,Yes,,
 Rhinocladiella mackenziei,Cerebral phaeohyphomycosis,FungiDB,Yes,,,,
 Rhipicephalus,"Transmits Babesia spp. causing Babesiosis, Theileriosis (East Coast fever in cattle)",Vectorbase,,,,,
-Rhipicephalus sanguineus,Transmits bacteria of Ehrlichia spp. causing Ehrlichiosis,Vectorbase,,,,,CDC: Ticks
+Rhipicephalus sanguineus,Transmits bacteria of Ehrlichia spp. causing Ehrlichiosis,Vectorbase,,,,,<a href='https://www.cdc.gov/dpdx/ticks'>CDC: Ticks</a>
 Rhizophagus irregularis,Beneficial (arbuscular mycorrhizal symbiosis),FungiDB,,,Yes,,
 Rhizopus,Mucormycosis,FungiDB,Yes,,,,
 Rhodnius prolixus,Transmits Trypanosoma cruzi causing Chagas Disease,Vectorbase,,,,,
@@ -220,8 +220,8 @@ Saccharomyces paradoxus,Rarely pathogenic,FungiDB,Yes,,,,
 Saccharomycodes ludwigii,Rarely pathogenic,FungiDB,Yes,,,,
 Saprolegnia,Saprolegniasis,FungiDB,,Yes,,,
 Sarcocystis neurona,"Equine protozoal myeloencephalitis (EPM), a serious neurological disease in horses",ToxoDB,,Yes,,,
-Sarcoptes scabiei (Itch mite),Scabies- skin disease,Vectorbase,,,,WHO Neglected Tropical Disease,CDC: Scabies
-Scedosporium apiospermum,Opportunistic infections,FungiDB,Yes,,,WHO Fungal Priority Pathogen- Medium priority group,
+Sarcoptes scabiei (Itch mite),Scabies- skin disease,Vectorbase,,,,<a href='https://www.who.int/health-topics/neglected-tropical-diseases#tab=tab_1'>WHO Neglected Tropical Disease</a>,<a href='https://www.cdc.gov/dpdx/scabies/index.html'>CDC: Scabies</a>
+Scedosporium apiospermum,Opportunistic infections,FungiDB,Yes,,,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- Medium priority group</a>,
 Schizophyllum commune,"Allergic reactions, sinus infections",FungiDB,Yes,,,,
 Schizosaccharomyces japonicus,Rarely pathogenic,FungiDB,Yes,,,,
 Schizosaccharomyces octosporus,Rarely pathogenic,FungiDB,Yes,,,,
@@ -231,30 +231,30 @@ Sordaria macrospora,Rarely pathogenic,FungiDB,Yes,,,,
 Spironucleus salmonicida,Causes systemic infection in salmonid fish,GiardiaDB,,Yes,,,
 Spizellomyces punctatus,Rarely pathogenic,FungiDB,Yes,,,,
 Sporisorium reilianum,Head smut,FungiDB,,,Yes,,
-Sporothrix,Sporotrichosis,FungiDB,Yes,Yes,,,CDC: Sporotrichosis
+Sporothrix,Sporotrichosis,FungiDB,Yes,Yes,,,<a href='https://www.cdc.gov/sporotrichosis/'>CDC: Sporotrichosis</a>
 Spraguea lophii,Infects the nervous system of monkfish and related fish species,MicrosporidiaDB,,Yes,,,
 Stachybotrys chartarum,Sick building syndrome (mycotoxicosis),FungiDB,Yes,,,,
 Stomoxys calcitrans (stable fly),Mechanical transmission of various pathogens,Vectorbase,,,,,
 Synchytrium endobioticum,Potato wart disease,FungiDB,,,Yes,,
-Talaromyces,Talaromycosis,FungiDB,Yes,,,WHO Fungal Priority Pathogen- Medium priority group,CDC: Talaromycosis
+Talaromyces,Talaromycosis,FungiDB,Yes,,,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- Medium priority group</a>,<a href='https://www.cdc.gov/talaromycosis'>CDC: Talaromycosis</a>
 Taphrina deformans,Peach leaf curl,FungiDB,,,Yes,,
 Theileria,"Theileriosis, a bovine disease that adversely affects the livestock industry",PiroplasmaDB,,Yes,,,
 Thelohania contejeani,Implicated in mass mortality of endangered crayfish,MicrosporidiaDB,,Yes,,,
 Thermothelomyces thermophilus,Rarely pathogenic,FungiDB,Yes,,,,
-Toxoplasma,"Toxoplasmosis, can be dangerous for pregnant women and individuals with weakened immune systems",ToxoDB,Yes,Yes,,,"CDC: Toxoplasmosis, European CDC: toxoplasmosis, on NIAID Biodefense Pathogens list"
-Trachipleistophora hominis,"Myositis (muscle inflammation) and, in some cases, encephalitis (brain inflammation)",MicrosporidiaDB,Yes,,,,CDC: Microsporidiosis
+Toxoplasma,"Toxoplasmosis, can be dangerous for pregnant women and individuals with weakened immune systems",ToxoDB,Yes,Yes,,,"<a href='https://www.cdc.gov/dpdx/toxoplasmosis/'>CDC: Toxoplasmosis</a>, <a href='https://www.ecdc.europa.eu/en/toxoplasmosis'>European CDC: toxoplasmosis</a>, On <a href='https://www.niaid.nih.gov/research/niaid-biodefense-pathogens'>NIAID Biodefense Pathogens list</a>"
+Trachipleistophora hominis,"Myositis (muscle inflammation) and, in some cases, encephalitis (brain inflammation)",MicrosporidiaDB,Yes,,,,<a href='https://www.cdc.gov/dpdx/microsporidiosis/'>CDC: Microsporidiosis</a>
 Tremella mesenterica,Rarely pathogenic,FungiDB,Yes,,,,
 Triatoma infestans,Transmits Trypanosoma cruzi causing American trypanosomiasis (Chagas disease),Vectorbase,,,,,
 Trichoderma atroviride,Beneficial (biocontrol of plant pathogens),FungiDB,,,Yes,,
 Trichoderma reesei,"Rarely pathogenic, enzyme production",FungiDB,Yes,,,,
 Trichoderma virens,Beneficial (biocontrol of plant pathogens),FungiDB,,,Yes,,
-Trichomonas,Trichomoniasis- sexually transmitted infection ,TrichDB,Yes,Yes,,,CDC: Trichomoniasis
-Trichophyton,Dermatophytosis,FungiDB,Yes,Yes,,WHO Fungal Priority Pathogen- Medium priority group,
+Trichomonas,Trichomoniasis- sexually transmitted infection ,TrichDB,Yes,Yes,,,<a href='https://www.cdc.gov/dpdx/trichomoniasis'>CDC: Trichomoniasis</a>
+Trichophyton,Dermatophytosis,FungiDB,Yes,Yes,,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- Medium priority group</a>,
 Trichosporon asahii,Opportunistic infections,FungiDB,Yes,,,,
 Tritrichomonas foetus,Chronic large bowel diarrhea in cats,TrichDB,,Yes,,,
-Trypanosoma brucei,African trypanosomiasis (sleeping sickness)- fever and neurological symptoms,TriTrypDB,Yes,,,WHO Neglected Tropical Disease,CDC: African trypanosomiasis
+Trypanosoma brucei,African trypanosomiasis (sleeping sickness)- fever and neurological symptoms,TriTrypDB,Yes,,,<a href='https://www.who.int/health-topics/neglected-tropical-diseases#tab=tab_1'>WHO Neglected Tropical Disease</a>,<a href='https://www.cdc.gov/dpdx/trypanosomiasisafrican/'>CDC: African trypanosomiasis</a>
 Trypanosoma congolense,"Animal Trypanosomiasis, debilitating disease in livestock",TriTrypDB,,Yes,,,
-Trypanosoma cruzi,"American trypanosomiasis (Chagas disease)- fever, with complications- heart and neurologial problems",TriTrypDB,Yes,,,WHO Neglected Tropical Disease,CDC: American trypanosomiasis
+Trypanosoma cruzi,"American trypanosomiasis (Chagas disease)- fever, with complications- heart and neurologial problems",TriTrypDB,Yes,,,<a href='https://www.who.int/health-topics/neglected-tropical-diseases#tab=tab_1'>WHO Neglected Tropical Disease</a>,<a href='https://www.cdc.gov/dpdx/trypanosomiasisamerican/'>CDC: American trypanosomiasis</a>
 Trypanosoma equiperdum,"Trypanosomiasis/ dourine- sexually transmitted disease in equids (horses, mules, and donkeys)",TriTrypDB,,Yes,,,
 Trypanosoma evansi,"Trypanosomiasis/ surra in horses and camels- fever, anemia",TriTrypDB,,Yes,,,
 Trypanosoma grayi ,Trypanosomiasis in crocodiles,TriTrypDB,,Yes,,,
@@ -265,7 +265,7 @@ Uncinocarpus reesii,Rarely pathogenic,FungiDB,Yes,,,,
 Ustilago maydis,Corn smut,FungiDB,,,Yes,,
 Verruconis gallopava,Phaeohyphomycosis,FungiDB,Yes,,,,
 Verticillium dahliae,Wilt disease,FungiDB,,,Yes,,
-Vittaforma corneae,"Ocular microsporidiosis, a form of eye infection",MicrosporidiaDB,Yes,,,,CDC: Microsporidiosis
+Vittaforma corneae,"Ocular microsporidiosis, a form of eye infection",MicrosporidiaDB,Yes,,,,<a href='https://www.cdc.gov/dpdx/microsporidiosis/'>CDC: Microsporidiosis</a>
 Xylaria arbuscula,Rarely pathogenic,FungiDB,Yes,,,,
 Yarrowia lipolytica,"Opportunistic pathogen, particularly in immunocompromised individuals",FungiDB,Yes,,,,
 Zymoseptoria tritici,Septoria tritici blotch (affects wheat and other cereal crops),FungiDB,,,Yes,,
