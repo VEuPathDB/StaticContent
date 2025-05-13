@@ -4,24 +4,43 @@ title: User Data Sets Help
 ---
 <style>
 
-div.UserDatasetHelp img {
+  div.static-content {
+    details {
+      padding-top: 110px;
+      margin-top: -110px;
+      margin-bottom: .5cap;
+      margin-left: 2em;
+    }
+    summary {
+      cursor: pointer;
+    }
+    details summary > * {
+      display: inline;
+    }
+    details li {
+      margin: 0.5em 0;
+    }
+    details p {
+      margin: 0 0.5em;
+    }
+  }
+
+
+  div.user-dataset-help img {
     width: 75%;
     margin-bottom: 20px;
-}
+  }
 
 </style>
 
 
-<div class="static-content">
-
-  <div class="UserDatasetHelp">
+<div class="static-content user-dataset-help">
 
   <h3>Overview</h3>
   <b>My Data Sets</b> are your files or sets of files that are private unless you choose to share them with colleagues. Populated with files uploaded from your computer, a URL, or with data imported from a search strategy, your data sets are preserved across sessions, ensuring they are always accessible whenever you log in.
-  <br><hr>
 
-  <h3>My Data Sets workspace</h3>
-  <div style="margin-left: 3em;">
+  <details open>
+    <summary><h3>My Data Sets workspace</h3></summary>
     <ul>
       <li>View, manage, share, and utilize your data set in <b>{{project}}</b> My Data Sets workspace. </li>
       <li>My Data Sets you’ve created contribute to a per-user upload limit of <b>10.00</b> GB. </li>
@@ -31,11 +50,10 @@ div.UserDatasetHelp img {
     </ul>
     <br>
     <img src="{{'/assets/images/MyDataSets/MyDataSets.png' | absolute_url}}" />
-  </div>
-  <br><hr>
+  </details>
 
-  <h3>Send gene lists from search results to My Data Sets</h3>
-  <div style="margin-left: 3em;">
+  <details closed>
+    <summary><h3>Send gene lists from search results to My Data Sets</h3></summary>
     <ul>
       <li>From the gene strategy result page, open the Send To menu. </li>
       <li>Choose My Data Sets.  This initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.</li>
@@ -43,10 +61,10 @@ div.UserDatasetHelp img {
     </ul>
     <br>
     <img src="{{'/assets/images/MyDataSets/SaveListMyDataSets.gif' | absolute_url}}" />
-  </div>
-   <br><hr>
+  </details>
 
-  <h3>Upload gene lists to My Data Sets</h3>
+  <details closed>
+    <summary><h3>Upload gene lists to My Data Sets</h3></summary>
     <ol type="1">
       <li><b>Access the My Gene List upload form:</b> Open the New Upload tab in your My Data Sets workspace. Choose <b>Gene List: Integrate your gene list</b>.</li>
       <li><b>Complete the Upload My Gene List form:</b> Name, Summary and Upload File/URL are required. The file containing gene IDs needs to contain valid IDs separated by valid delimiters. Upload Data Set initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.
@@ -63,15 +81,16 @@ div.UserDatasetHelp img {
             <li>semi-colon</li>
          </ul></li>
       <li><b>View and access your new data set:</b> The record page for your new data set opens automatically and contains details such as status of the file installation and options for downloading.</li>
-    </ol>
+    </ol>  
     <br>
     <div style="margin-left: 3em;">
-    <img src="{{'/assets/images/MyDataSets/GeneListUpload.png' | absolute_url}}" />
+      <img src="{{'/assets/images/MyDataSets/GeneListUpload.png' | absolute_url}}" />
     </div>
-   <br><hr>
+  </details>
 
-  <h3>Upload a bigWig file to My Data Sets</h3>
-    <br>
+
+  <details closed>
+    <summary><h3>Upload a bigWig file to My Data Sets</h3></summary>
     <ol type="1">
       <li><b>Access the My Gene List upload form:</b> Open the New Upload tab in your My Data Sets workspace. Choose <b>bigWig: Integrate your bigWig file</b></li>
       <li><b>Complete the Upload a bigWig form:</b> Name, Summary and Upload File/URL are required. The bigWig file must contain data mapped to the current VEuPathDB reference genome for that organism. Upload Data Set initiates the transfer and will add the bigWig file as a data set in table on your My Data Sets page.</li>
@@ -79,12 +98,13 @@ div.UserDatasetHelp img {
     </ol>
     <br>
     <div style="margin-left: 3em;">
-    <img src="{{'/assets/images/MyDataSets/bigWigUpload.png' | absolute_url}}" />
+      <img src="{{'/assets/images/MyDataSets/bigWigUpload.png' | absolute_url}}" />
     </div>
-    <br><hr>
+  </details>
 
-  <h3>Upload Normalized RNA-Seq data to My Data Sets</h3>
-    <br>
+  
+  <details closed>
+    <summary><h3>Upload Normalized RNA-Seq data to My Data Sets</h3></summary>
     <ol type="1">
       <li><b>Access the Normalized RNA-Seq upload form:</b> Open the New Upload tab in your My Data Sets workspace. Choose <b>Normalized RNA-Seq: Integrate your Normalized RNA-Seq data.</b></li>
       <li><b>Complete the Upload My Normalized RNA-Seq form:</b> Name, Summary and Upload File/URL are required. Three types of files &ndash; bigWig, counts and index &ndash; are supported in the uploaded zip file. </li>
@@ -98,10 +118,8 @@ div.UserDatasetHelp img {
     </ol>
     <br>
     <div style="margin-left: 3em;">
-    <img src="{{'/assets/images/MyDataSets/RNAseqUpload.png' | absolute_url}}" />
+      <img src="{{'/assets/images/MyDataSets/RNAseqUpload.png' | absolute_url}}" />
     </div>
-    <br><hr>
-
-  </div>
+  </details>
 
 </div>
