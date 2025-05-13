@@ -36,11 +36,12 @@ title: User Data Sets Help
   <details open>
     <summary><h4>My Data Sets workspace</h4></summary>
     <ul>
-      <li>This is your workspace where to upload data sets. They are private and you may share them with colleagues.
-          Access this page from <i>My Workspace</i> in the header menu.</li>
-      <li>Your workspace is populated with files uploaded from your computer, a URL, or with data imported from a search strategy.
-          There is a per-user upload limit of <b>10.00</b> GB. </li>
-      <li>The <i>All My Data Sets</i> page tabulates your files and provides associated information.</li>
+      <li>This is your workspace where to upload Data Sets. A Data Set is a collection of files. 
+          They are private and you may share them with colleagues.</li>
+      <li>Access this page from <i>My Workspace</i> in the header menu. Your workspace is populated with Data Sets, 
+          with a per-user upload limit of <b>10.00</b> GB.</li>
+      <li>Your Data Set is uploaded from your computer, or a URL, as a compressed file, or with data imported from a search strategy.</li>
+      <li>The <i>All</i> tab above tabulates your Data Sets and provides associated information.</li>
       <li>Each Data Set has its own page (linked in the Name column) where to view, manage, share, utilize and download your data set.</li>
     </ul>
     <br>
