@@ -62,7 +62,7 @@ div.static-content {
     <thead>
     <tr>
       {% for pair in row %}
-        <th><button>{{ pair[0] }}<span aria-hidden="true"></span></button></th>
+        <th>{{ pair[0] }}</th>
       {% endfor %}
     </tr>
     </thead>
