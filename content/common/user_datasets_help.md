@@ -5,11 +5,9 @@ title: User Data Sets Help
 <style>
 
   div.static-content {
+
     details {
-      padding-top: 110px;
-      margin-top: -110px;
-      margin-bottom: .5cap;
-      margin-left: 2em;
+      margin-bottom: 1em;
     }
     summary {
       cursor: pointer;
@@ -25,7 +23,6 @@ title: User Data Sets Help
     }
   }
 
-
   div.user-dataset-help img {
     width: 75%;
     margin-bottom: 20px;
@@ -36,11 +33,10 @@ title: User Data Sets Help
 
 <div class="static-content user-dataset-help">
 
-  <h3>Overview</h3>
-  <b>My Data Sets</b> are your files or sets of files that are private unless you choose to share them with colleagues. Populated with files uploaded from your computer, a URL, or with data imported from a search strategy, your data sets are preserved across sessions, ensuring they are always accessible whenever you log in.
+  <p><b>My Data Sets</b> are your files or sets of files that are private unless you choose to share them with colleagues. Populated with files uploaded from your computer, a URL, or with data imported from a search strategy, your data sets are preserved across sessions, ensuring they are always accessible whenever you log in.</p>
 
   <details open>
-    <summary><h3>My Data Sets workspace</h3></summary>
+    <summary><h4>My Data Sets workspace</h4></summary>
     <ul>
       <li>View, manage, share, and utilize your data set in <b>{{project}}</b> My Data Sets workspace. </li>
       <li>My Data Sets you’ve created contribute to a per-user upload limit of <b>10.00</b> GB. </li>
@@ -53,7 +49,7 @@ title: User Data Sets Help
   </details>
 
   <details closed>
-    <summary><h3>Send gene lists from search results to My Data Sets</h3></summary>
+    <summary><h4>Send gene lists from search results to My Data Sets</h4></summary>
     <ul>
       <li>From the gene strategy result page, open the Send To menu. </li>
       <li>Choose My Data Sets.  This initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.</li>
@@ -64,7 +60,7 @@ title: User Data Sets Help
   </details>
 
   <details closed>
-    <summary><h3>Upload gene lists to My Data Sets</h3></summary>
+    <summary><h4>Upload gene lists to My Data Sets</h4></summary>
     <ol type="1">
       <li><b>Access the My Gene List upload form:</b> Open the New Upload tab in your My Data Sets workspace. Choose <b>Gene List: Integrate your gene list</b>.</li>
       <li><b>Complete the Upload My Gene List form:</b> Name, Summary and Upload File/URL are required. The file containing gene IDs needs to contain valid IDs separated by valid delimiters. Upload Data Set initiates the transfer and will add the gene list as a data set in table on your My Data Sets page.
@@ -90,7 +86,7 @@ title: User Data Sets Help
 
 
   <details closed>
-    <summary><h3>Upload a bigWig file to My Data Sets</h3></summary>
+    <summary><h4>Upload a bigWig file to My Data Sets</h4></summary>
     <ol type="1">
       <li><b>Access the My Gene List upload form:</b> Open the New Upload tab in your My Data Sets workspace. Choose <b>bigWig: Integrate your bigWig file</b></li>
       <li><b>Complete the Upload a bigWig form:</b> Name, Summary and Upload File/URL are required. The bigWig file must contain data mapped to the current VEuPathDB reference genome for that organism. Upload Data Set initiates the transfer and will add the bigWig file as a data set in table on your My Data Sets page.</li>
@@ -104,7 +100,7 @@ title: User Data Sets Help
 
   
   <details closed>
-    <summary><h3>Upload Normalized RNA-Seq data to My Data Sets</h3></summary>
+    <summary><h4>Upload Normalized RNA-Seq data to My Data Sets</h4></summary>
     <ol type="1">
       <li><b>Access the Normalized RNA-Seq upload form:</b> Open the New Upload tab in your My Data Sets workspace. Choose <b>Normalized RNA-Seq: Integrate your Normalized RNA-Seq data.</b></li>
       <li><b>Complete the Upload My Normalized RNA-Seq form:</b> Name, Summary and Upload File/URL are required. Three types of files &ndash; bigWig, counts and index &ndash; are supported in the uploaded zip file. </li>
