@@ -98,9 +98,9 @@ tags: [workshop-exercise]
 <p>Thursday, May 22, 2025</p>
 <ul>
 <li><b>12:00 PM:</b> Welcome and general introduction to VEuPathDB</li>
-<li><b>12:10 PM:</b> Site search</li>
-<li><b>12:30 PM:</b> Building a search strategy</li>
-<li><b>1:15 PM:</b> Exploring the gene page (optional)</li>
+<li><b>12:30 PM:</b> Site search</li>
+<li><b>12:50 PM:</b> Building a search strategy</li>
+<li><b>1:10 PM:</b> Questions</li>
 </ul>
 
 <p>All exercise material may be downloaded by clicking <b><a target="_blank" href="{{'/documents/BioMalPar2025/BioMalPar_meeting.pdf' | absolute_url}}" >here</a></b>.</p>
