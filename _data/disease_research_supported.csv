@@ -3,7 +3,7 @@ Organism,Disease,VEuPathDB Database,Disease affects humans,Disease affects anima
 <i>Aedes aegypti</i>,"Mosquito that transmits Dengue, Zika, Chikungunya, Yellow Fever",Vectorbase,,,,Yes,,<a href='https://www.ecdc.europa.eu/en/disease-vectors/facts/mosquito-factsheets/aedes-aegypti'>CDC-European CDC fact sheet</a>
 <i>Aedes albopictus</i>,"Mosquito that transmits Dengue, Zika, Chikungunya",Vectorbase,,,,Yes,,
 <i>Albugo</i>,"<b>White rust disease</b> on various plants, particularly those in the Brassicaceae family",FungiDB,,,Yes,,,
-<i>Allomyces macrogynus</i>,Not a pathogen; saprotrophic chytrid fungus that plays a role in decomposing organic matter,FungiDB,,,,,,
+<i>Allomyces macrogynus</i>,"Not a pathogen, saprotrophic chytrid fungus that plays a role in decomposing organic matter",FungiDB,,,,,,
 <i>Alternaria alternata</i>,<b>Leaf spot disease</b>,FungiDB,,,Yes,,,
 <i>Amauroascus</i>,Keritinophilic but not known to cause disease,FungiDB,,,,,,
 <i>Amblyomma maculatum</i> (Gulf Coast tick),Transmits bacterium <i>Rickettsia parkeri</i> that causes Rickettsiosis (spotted fever),Vectorbase,,,,Yes,,<a href='https://www.cdc.gov/dpdx/ticks/'>CDC- ticks</a>
