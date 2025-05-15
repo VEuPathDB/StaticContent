@@ -1,15 +1,15 @@
 ---
-title: VEuPathDB Promotion
-permalink: promotion
+title: VEuPathDB 
+permalink: marketing
 tags: [general]
 category: [general]
 ---
 
-<h2>Quick links to VEuPathDB promotional materials</h2>
+<h2>Quick links to VEuPathDB promotional/marketing materials</h2>
 
 <table>
   <tr>
-    <th>Promotional material</th>
+    <th>Material</th>
     <th>Description</th>
     <th>Link</th>
   </tr>
