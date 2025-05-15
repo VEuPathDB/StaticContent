@@ -63,7 +63,7 @@ Organism,Disease,VEuPathDB Database,Disease affects humans,Disease affects anima
 <i>Byssoonygena ceratinophila</i>,Keratin degradation,FungiDB,Yes,,,,,
 <i>Candida</i>,<b>Candidiasis</b>,FungiDB,Yes,,,,<a href='https://iris.who.int/bitstream/handle/10665/363682/9789240060241-eng.pdf'>WHO Fungal Priority Pathogen- Critical group</a>,"CDC- <a href='https://www.cdc.gov/candida-auris/'> C. auris</a>, <a href='https://www.cdc.gov/candidiasis/index.html'>Candidiasis</a>"
 <i>Cenococcum geophilum</i>,Mycorrhizal fungus,FungiDB,,,Yes,,,
-<i>Chaetomium globosum,"Allergic reactions, rare opportunistic infections",FungiDB,Yes,,,,,
+<i>Chaetomium globosum</i>,"Allergic reactions, rare opportunistic infections",FungiDB,Yes,,,,,
 <i>Chaetothyriales sp.</i>,Black yeast-like infections,FungiDB,Yes,,,,,
 <i>Chrysosporium queenslandicum</i>,"Keratin degradation, rare infections",FungiDB,Yes,,,,,
 <i>Cimex lectularius</i> (Bed bug),Bites can cause itching and allergic reactions,Vectorbase,,,,,,<a href='https://www.cdc.gov/dpdx/bedbugs/'>CDC- Bed bugs</a>
