@@ -35,29 +35,39 @@ category: [general]
   <table>
     <thead>
       <tr>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th>Link to material</th>
+        <th>Description</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Reasons to support</td>
-        <td>Webpage with 5 reasons to support VEuPathDB, quotes, links to donation page</td>
-        <td><a target="_blank" href="https://veupathdb.org/veupathdb/app/static-content/why-support.html">Reasons to Support page</a></td>
+        <td><a target="_blank" href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html">Subscription page</a></td>
+        <td>Webpage with subscription pricing table and link to invoice form</td>
       </tr>
       <tr>
-        <td>Donation page</td>
-        <td>Webpage with 5 reasons to support VEuPathDB, quotes, links to donation page</td>
-        <td><a target="_blank" href="https://veupathdb.org/veupathdb/app/static-content/why-support.html">Donate now</a></td>
+        <td><a target="_blank" href="https://veupathdb.org/veupathdb/app/static-content/why-support.html">5 reasons to support VEuPathDB</a></td>
+        <td>Webpage with text for potential donors, user quotes, links to donate</td>
       </tr>
       <tr>
-        <td>FAQ</td>
-        <td>Frequently asked questions about funding, subscription, general questions, etc.</td>
+        <td><a target="_blank" href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donation page</a></td>
+        <td>Giving to Penn: VEuPathDB Fund</td>
+      </tr>
+      <tr>
         <td><a target="_blank" href="https://veupathdb.org/veupathdb/app/static-content/faq.html">FAQ page</a></td>
+        <td>Frequently asked questions about funding, subscription, general questions, etc.</td>
+      </tr>
+      <tr>
+        <td><a target="_blank" href="https://www.youtube.com/watch?v=aSS6fiGVBG4&list=PLWzQB3i5sYAJPNE0fhag6Dm0TKwwMsQjE">3 Community meetings</a></td>
+        <td>Fungal, vector, parasitology community meetings in late 2024</td>
       </tr>
     </tbody>
   </table>
+
+ <h3>QR code for Subscriptions Page</h3>
+  <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/qr_code_subscription.png" | absolute_url }}" alt="JBrowse select tracks"/>
+
+  <h3>QR code for donation page (Giving to Penn: VEuPathDB Fund)</h3>
+  <img style="width: 15em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/qr_code_donation.png" | absolute_url }}" alt="JBrowse select tracks"/>
 
 </body>
 </html>
