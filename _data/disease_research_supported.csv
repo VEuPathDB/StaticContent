@@ -1,6 +1,6 @@
 Organism,Disease,VEuPathDB Database,Disease affects Humans,Disease affects Animals,Disease affects Plants,WHO Priority Pathogen,External links
-Acanthamoeba,"Acanthamoeba keratitis- rare but serious eye infection, Granulomatous Amoebic Encephalitis (GAE)- rare, often fatal infection of brain and spinal cord",AmoebaDB,Yes,,,,<a href='https://www.cdc.gov/dpdx/freelivingamebic/index.html'>CDC- Free living amebic infections</a>
-Aedes aegypti,"Mosquito that transmits Dengue, Zika, Chikungunya, Yellow Fever",Vectorbase,,,,,<a href='https://www.ecdc.europa.eu/en/disease-vectors/facts/mosquito-factsheets/aedes-aegypti'>CDC-European CDC fact sheet</a>
+<i>Acanthamoeba</i>,"Acanthamoeba keratitis- rare but serious eye infection, Granulomatous Amoebic Encephalitis (GAE)- rare, often fatal infection of brain and spinal cord",AmoebaDB,Yes,,,,<a href='https://www.cdc.gov/dpdx/freelivingamebic/index.html'>CDC- Free living amebic infections</a>
+<i>Aedes aegypti</i>,"Mosquito that transmits Dengue, Zika, Chikungunya, Yellow Fever",Vectorbase,,,,,<a href='https://www.ecdc.europa.eu/en/disease-vectors/facts/mosquito-factsheets/aedes-aegypti'>CDC-European CDC fact sheet</a>
 Aedes albopictus,"Mosquito that transmits Dengue, Zika, Chikungunya",Vectorbase,,,,,
 Albugo,"White rust disease on various plants, particularly those in the Brassicaceae family",FungiDB,,,Yes,,
 Allomyces macrogynus,"Not a pathogen, saprotrophic chytrid fungus that plays a role in decomposing organic matter",FungiDB,,,,,
