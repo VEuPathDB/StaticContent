@@ -71,7 +71,6 @@ tags: [general]
 
      <div class="map">
         <img id="bottom" src="{{'/assets/images/reasons-to-support/veupathdb_disease_research.png' | absolute_url}}" />
-        <div class="map-caption">VEuPathDB supports critical disease research</div>
       </div>
     </div>
 
