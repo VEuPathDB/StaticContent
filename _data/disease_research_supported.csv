@@ -1,4 +1,4 @@
-Organism,Disease,VEuPathDB Database,Disease affects humans,Disease affects animals,Disease affects plants,Disease vector,WHO Priority Pathogen,External links
+Organism,Disease,VEuPathDB Database,Significant Human Pathogen,Significant Veterinary Pathogen,Significant Plant Pathogen,Disease Vector,WHO Priority Pathogen,External links
 <i>Acanthamoeba</i>,"<b>Acanthamoeba keratitis</b>- rare but serious eye infection, <b>Granulomatous Amoebic Encephalitis (GAE)</b>- rare, often fatal infection of brain and spinal cord",AmoebaDB,Yes,,,,,<a href='https://www.cdc.gov/dpdx/freelivingamebic/index.html'>CDC- Free living amebic infections</a>
 <i>Aedes aegypti</i>,"Mosquito that transmits Dengue, Zika, Chikungunya, Yellow Fever",Vectorbase,,,,Yes,,<a href='https://www.ecdc.europa.eu/en/disease-vectors/facts/mosquito-factsheets/aedes-aegypti'>CDC-European CDC fact sheet</a>
 <i>Aedes albopictus</i>,"Mosquito that transmits Dengue, Zika, Chikungunya",Vectorbase,,,,Yes,,
