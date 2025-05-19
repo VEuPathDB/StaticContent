@@ -18,7 +18,7 @@ tags: [general]
     <div class="intro">
   <h2 style="text-align: center;"><b>VEuPathDB: Making Infectious Disease Research Easier and More Powerful</b></h2>
 
-  <p><b>What is VEuPathDB?</b> The Eukaryotic Pathogen, Host, and Vector Bioinformatics Resource Center (<a href="https://veupathdb.org/veupathdb/app"><b>VEuPathDB.org</b></a>) is a free, online resource that helps scientists study disease-causing microbes like malaria parasites, fungi and oomycetes, and other organisms. It also includes data on the humans, animals, and plants these microbes infect, as well as the insects and ticks that spread diseases like Lyme, Zika, and dengue.</p>
+  <p><b>What is VEuPathDB?</b> The Eukaryotic Pathogen, Host, and Vector Bioinformatics Resource Center (<a href="https://veupathdb.org/veupathdb/app"><b>VEuPathDB.org</b></a>) is a free, online resource that helps scientists study disease-causing microbes like malaria parasites, fungi and oomycetes, and other organisms. It also includes data on the humans, animals, and plants these microbes infect, as well as the insects and ticks that spread diseases like Lyme, Zika, and dengue. For a complete list of disease research supported by VEuPathDB, please see <a href="https://veupathdb.org/veupathdb/app/static-content/disease-research.html"><b>this table</b></a>.</p>
 
   <p><b>Why It Matters</b>. Diseases caused by these microbes affect millions of people, animals, and plants worldwide. VEuPathDB provides critical data and tools that researchers use every day to study these organisms and find better ways to treat and prevent disease.</p>
 
@@ -66,6 +66,12 @@ tags: [general]
         <div class="map-text">Thousands of groups around the world rely on VEuPathDB resources for research and training</div>
         <img id="bottom" src="{{'/assets/images/reasons-to-support/veupathdb_map.png' | absolute_url}}" />
         <div class="map-caption">Colors represent different user communities supporting the VEuPathDB family of databases</div>
+      </div>
+    </div>
+
+     <div class="map">
+        <img id="bottom" src="{{'/assets/images/reasons-to-support/veupathdb_disease_research.png' | absolute_url}}" />
+        <div class="map-caption">VEuPathDB supports critical disease research</div>
       </div>
     </div>
 
