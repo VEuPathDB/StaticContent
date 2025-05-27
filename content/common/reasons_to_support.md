@@ -69,10 +69,7 @@ tags: [general]
       </div>
     </div>
 
-     <div class="map">
-        <img id="bottom" src="{{'/assets/images/reasons-to-support/veupathdb_disease_research.png' | absolute_url}}" />
-      </div>
-    </div>
+    <img id="bottom" src="{{'/assets/images/reasons-to-support/veupathdb_disease_research.png' | absolute_url}}" />
 
   </div>
 </div>
