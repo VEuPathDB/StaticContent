@@ -115,20 +115,20 @@ category: [general]
       </tr>
       <tr>
         <td><a target="_blank" href="https://www.science.org/content/article/parasitologists-arms-nih-ends-funding-key-database">Media- Science article</a></td>
-        <td><i>Parasitologists up in arms as NIH ends funding for key database<br>
-        https://www.science.org/content/article/parasitologists-arms-nih-ends-funding-key-database</i></td>
+        <td><i>Parasitologists up in arms as NIH ends funding for key database</i><br>
+        https://www.science.org/content/article/parasitologists-arms-nih-ends-funding-key-database</td>
         <td></td>
       </tr>
       <tr>
         <td><a target="_blank" href="https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00241-6/fulltext">Media- Lancet article</a></td>
-        <td><i>Critical loss: the effects of VEuPathDB defunding on global health<br>
-        https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00241-6/fulltext</i></td>
+        <td><i>Critical loss: the effects of VEuPathDB defunding on global health/i><br>
+        https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00241-6/fulltext<</td>
         <td></td>
       </tr>
       <tr>
         <td><a target="_blank" href="https://blogs.biomedcentral.com/bugbitten/2024/09/20/will-a-backbone-of-pathogen-research-be-rescued-after-funders-pull-the-plug/">Media- BugBitten blog</a></td>
-        <td><i>Will a backbone of pathogen research be rescued after funders pull the plug?<br>
-        https://blogs.biomedcentral.com/bugbitten/2024/09/20/will-a-backbone-of-pathogen-research-be-rescued-after-funders-pull-the-plug/</i></td>
+        <td><i>Will a backbone of pathogen research be rescued after funders pull the plug?</i><br>
+        https://blogs.biomedcentral.com/bugbitten/2024/09/20/will-a-backbone-of-pathogen-research-be-rescued-after-funders-pull-the-plug/</td>
         <td></td>
       </tr>
     </tbody>
