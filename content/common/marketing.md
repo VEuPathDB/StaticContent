@@ -121,8 +121,8 @@ category: [general]
       </tr>
       <tr>
         <td><a target="_blank" href="https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00241-6/fulltext">Media- Lancet article</a></td>
-        <td><i>Critical loss: the effects of VEuPathDB defunding on global health/i><br>
-        https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00241-6/fulltext<</td>
+        <td><i>Critical loss: the effects of VEuPathDB defunding on global health</i><br>
+        https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00241-6/fulltext</td>
         <td></td>
       </tr>
       <tr>
