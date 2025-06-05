@@ -45,6 +45,10 @@ div.method-details {
    <li><a href="#Microarray">Microarray Data</a></li>
    <li><a href="#Protein-Array">Protein Array Data</a></li>
    <li><a href="#Metabolic-Pathways">Metabolic Pathways</a></li>
+   <li><a href="#Artificial-Intelligence">Artificial Intelligence</a></li>
+      <ul>
+      <li><a href="#Gene-expression-summaries">Gene expression data summarization</a></li>
+      </ul>
 </ul>
 
 
@@ -302,3 +306,12 @@ div.method-details {
    <p>VEuPathDB integrates metabolic pathways from <a href="https://www.genome.jp/kegg/" target="_blank">KEGG</a> and <a href="https://metacyc.org/" target="_blank">MetaCyc</a>. For TriTrypDB, pathways are also integrated from <a href="http://vm-trypanocyc.toulouse.inra.fr/LEISH/organism-summary" target="_blank">LeishCyc</a> and <a href="http://vm-trypanocyc.toulouse.inra.fr/" target="_blank">TrypanoCyc</a>. Metabolic pathways are associated with genes via Enzyme Commission annotations. </p>
 </div> 
 
+<div class="anchor"><a name="Artificial-Intelligence"></a></div>
+<h2>Artificial Intelligence</h2>
+
+<p>We are exploring AI-driven approaches to elevate VEuPathDB capabilities and derive insights from the data we integrate.</p>
+
+  <div class="anchor"><a name="Gene-expression-summaries"></a></div>
+  <h4>Gene expression data summarization</h4>
+  <div class="method-details">
+   <p>The AI Expression Summary feature is available for genes with >= 5 transcriptomics datasets. The AI gene expression summary feature analyzes numeric expression data and associated metadata from each experiment for a given gene. For each experiment, a recent flagship OpenAI model (used without any biomedical domain-specific fine-tuning) generates a concise, one-sentence summary of the gene’s expression pattern, along with estimated biological relevance and confidence scores. These summaries are then grouped by topic to highlight common patterns, and a final AI-generated paragraph synthesizes overall expression trends across all available experiments. To ensure speed and consistency, summaries are temporarily stored and reused—as long as the input data, AI model, and prompt remain the same. From time to time, we may update or improve the underlying data, model, or prompting approach, which can lead to refreshed summaries when you revisit. </p>
