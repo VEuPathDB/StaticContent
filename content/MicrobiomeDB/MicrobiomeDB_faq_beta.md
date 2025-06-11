@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: MicrobiomeDB Frequently Asked Questions
-permalink: /MicrobiomeDB/faq
+permalink: /MicrobiomeDB/faq_beta
 ---
 <div id="ce-static-content">
 
