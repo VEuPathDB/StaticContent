@@ -205,28 +205,23 @@
   uid: a4
   projects: "MicrobiomeDB"
 
-
-
-
-
-
 - type: viz
   question: "Can I download plots and data visualizations from MicrobiomeDB?"
   answer: |
            Yes. All plots and visualizations generated on MicrobiomeDB can be downloaded as .png or .svg files.  Simply click the 'Export plot' button on the bottom right of the plot or visualization you're interested in (see screenshot below).
-           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/exportPlotButton_mbio.png" alt="Export plot button">
 
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/exportPlotButton_mbio.png" alt="Export plot button" />
   uid: v1
   projects: "MicrobiomeDB"
 
 - type: viz
   question: "How do you identify eukaryotes in metagenomic data on your site?"
-  answer:
+  answer: |
            Detection of eukaryotes in shotgun studies on our site is based on the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database.
            Methods and software describing how we map reads to this reference database and call taxa can be found [here](https://github.com/wbazant/marker_alignments), and our nextflow workflow used to implement this approach on all samples on our database can be found [here](https://github.com/wbazant/marker-alignments-nextflow).
            You can read about our method for eukaryote detection - called CORRAL (clustering of related read alignments) - in **[our manuscript here](https://doi.org/10.1186/s40168-023-01505-1)**.
-           <img src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/CORRALworkflow_mbio.png" alt="CORRAL workflow">
 
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/CORRALworkflow_mbio.png" alt="CORRAL workflow" />
   uid: v2
   projects: "MicrobiomeDB"
 
