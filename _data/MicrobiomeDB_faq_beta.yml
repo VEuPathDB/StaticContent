@@ -61,9 +61,10 @@
            * Code for our **[DADA2-based automated data loading workflow](https://github.com/VEuPathDB/DJob/tree/master/DistribJobTasks/bin/dada2)**, which processes fastq files for all the *curated* studies on MicrobiomeDB and produces taxonomy tables that are represented on the site.
            * Code for our **[MetaPhlAn3 and HUMAnN3 workflow](https://github.com/VEuPathDB/humann-nextflow)** for loading shotgun metagenomic data for *curated* metagenomic studies.
            * Code for our **[eukaryotic detection](https://github.com/wbazant/marker_alignments)** and a [nextflow implementaton of this workflow](https://github.com/wbazant/marker-alignments-nextflow) are used for identifying eukaryotic microbes in shotgun metagenomic data using the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database.
-           * Code for all [backend components of our data viz platform](https://github.com/VEuPathDB/service-eda).
-           * Code for all [frontend components of our data viz platform](https://github.com/VEuPathDB/web-monorepo)
-           * Code for our R packages for [computations](https://github.com/microbiomeDB/microbiomeComputations) and [visualizations](https://github.com/microbiomeDB/MicrobiomeDB) that parallel those available on this website, but which allow integration with the extensive R/bioconductor ecosystem.
+           * We've also bundled together all three of our data loading workflows above into **[a single unified nextflow pipeline for processing microbiome data](https://github.com/VEuPathDB/MicrobiomeDB)**
+           * Code for all **[backend components of our data viz platform](https://github.com/VEuPathDB/service-eda)**
+           * Code for all **[frontend components of our data viz platform](https://github.com/VEuPathDB/web-monorepo)**
+           * Our [MicrobiomeDB R package](https://microbiomedb.github.io/MicrobiomeDB/) is packed with functions that parallel those available on this website, but which also allow integration with the extensive R/bioconductor ecosystem.
   uid: g6
   projects: "MicrobiomeDB"
 
