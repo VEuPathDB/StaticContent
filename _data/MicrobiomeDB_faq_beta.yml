@@ -186,12 +186,16 @@
   projects: "MicrobiomeDB"
 
 - type: analysis
-  question: "What if I don't have a .biom file, but still want help analyzing raw sequence data?"
+  question: "Can I analyze raw sequencing data (e.g. fastq files) using MicrobiomeDB?"
   answer: |
-           We can help with that too!
-           If you are interested in analyzing your own raw sequence data from 16S, ITS or shotgun metagenomic studies, check out **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource, or [CZID](https://czid.org/) from the folks at the Chan-Zuckerberg Biohub in San Francisco, CA.
-           You can run complete workflows on Nephele and produce a 'magic link' to your results.  This link is an authenticated URL that can be copied/pasted into the 'My Data Sets' page of MicrobiomeDB,
-           thus allowing direct transfer of results from Nephele to MicrobiomeDB for filtering, querying and visualizing your results.
+           You cannot upload raw sequence files directly to our site, *however* we have partnered with two fantastic organizations that have developed *free* resources which allow you to analyze your raw sequence data but carry out downstream analysis and visualization on MicrobiomeDB. You have two options, but the first option is the most straightforward.
+           1. **[Nephele resource from NIH-NIAID](https://nephele.niaid.nih.gov/)** - Through the Nephele website, you can upload your own raw sequence data from 16S, ITS or shotgun metagenomic studies.  You then select from a range of different standard computational workflows.  Once a workflow run is complete, you'll be notified by email and the results page will contain a 'magic link' that **allows you to directly import your results to MicrobiomeDB for analysis and visualization**.
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/NepheleMagicLink.png" alt="Nephele Magic Link" />
+
+           2. **[CZID resource from Chan-Zuckerberg Initiative](https://czid.org/)** - CZID provides access to detailed assembly-based workflows for shotgun metagenomic data, and is particularly well-suited for pathogen discovery in complex samples.  Upload your raw data and choose which workflow you wish to run.  Once complete, select all your samples and click the download button.  You'll be presented with a few different options for the types of results you can download.  Choose the option for MicrobiomeDB, navigate to the 'My Studies' page on MicrobiomeDB (make sure you're logged in), and upload these files to our site.
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/CZID_to_MicrobiomeDB.png" alt="CZID download for MicrobiomeDB" />
+
+
   uid: a3
   projects: "MicrobiomeDB"
 
