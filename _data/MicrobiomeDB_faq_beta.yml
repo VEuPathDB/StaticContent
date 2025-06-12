@@ -64,7 +64,7 @@
            * We've also bundled together all three of our data loading workflows above into **[a single unified nextflow pipeline for processing microbiome data](https://github.com/VEuPathDB/MicrobiomeDB)**
            * Code for all **[backend components of our data viz platform](https://github.com/VEuPathDB/service-eda)**
            * Code for all **[frontend components of our data viz platform](https://github.com/VEuPathDB/web-monorepo)**
-           * Our [MicrobiomeDB R package](https://microbiomedb.github.io/MicrobiomeDB/) is packed with functions that parallel those available on this website, but which also allow integration with the extensive R/bioconductor ecosystem.
+           * Our **[MicrobiomeDB R package](https://microbiomedb.github.io/MicrobiomeDB/)** is packed with functions that parallel those available on this website, but which also allow integration with the extensive R/bioconductor ecosystem.
   uid: g6
   projects: "MicrobiomeDB"
 
@@ -79,13 +79,11 @@
 
 
 - type: datasets
-  question: "What's the difference between private, community, and curated datasets?"
+  question: "What's the difference between curated, private, and community studies?"
   answer: |
-           Curated datasets are uploaded by our staff for convenient public access and are represented on the homepage as study cards.
-           Any data uploaded by a user through the 'My studies' page is private by default.  Only you and people that you choose to share with can view this data.
-           When/if the owner of a private dataset decides they are ready to share this data with all users of our site, they can convert a private dataset to a community dataset with the click of a button.
-           At any time, the original owner of community dataset can choose to revoke community access, which will revert the dataset back to private status.
-           Community datasets can be queried and visualized in the same way as curated datsets, but are not represented on the homepage as study cards.
+           * **Curated studies** - these datasets are manually curated by our staff and uploaded to the site for convenient public access.  Each curated study is represented on the homepage as as a study 'card'.  One major strength of Curated Studies is that the study metadata has been harmonized by our staff for convenient web display and study exploration.
+           * **Private studies** - Any data uploaded by a user through the 'My studies' page is private by default.  Only you and people that you choose to share with can view this data.
+           * **Community studies** - When/if the owner of a private dataset decides they are ready to share this data with all users of our site, they can convert a private dataset to a community dataset with the click of a button.  Importantly, unlike Curated Studies, Community Studies are not checked by our staff for data quality or metadata usage, thus it is up to the person sharing the Community Study to provide context and appropriate study and sample annotations so that other users can understand the value of their study. At any time, the original owner of community dataset can choose to revoke community access, which will revert the dataset back to private status. Community Studies can be queried and visualized in the same way as Curated Studies, but are not represented on the homepage as study cards.
   uid: d1
   projects: "MicrobiomeDB"
 
