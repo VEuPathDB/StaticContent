@@ -11,11 +11,15 @@
 - type: general
   question: "Why was MicrobiomeDB created?"
   answer: |
-           High-throughput sequencing has revolutionized microbiology by allowing scientists to complement culture-based approaches with culture-independent profiling
-           of complex microbial communities. Whether studying these communities in soil, on plants, or in animals, the collection of community composition data is often
-           accompanied with rich metadata that describes the source from which the sample was derived, how samples were treated prior to collection, and how they were processed after collection.
-           Increasingly, the goal of microbiome experiments is to understand how these various attributes represented by the metadata, influence the microbial community.
-           **MicrobiomeDB was developed as a discovery tool that empowers researchers to fully leverage their experimental metadata to construct queries that interrogate microbiome datasets.**
+           MicrobiomeDB was developed as a discovery tool that empowers researchers to analyze and visualize microbiome studies *without* requiring any programming skills.
+
+           There are **five key strenghts of MicrobiomeDB** that set it apart from other microbiome resources:
+           1. **A rich collection of curated microbiome studies** -  MicrobiomeDB hosts some of the largest microbiome studies ever conducted in human participants and is home to the largest curated collection of gut microbiome data from participants in lower- and middle-income countries (LMICs), which have traditionally been under-represented in microbiome databases.  For example, MicrobiomeDB hosts data from the Global Enteric Multicenter Study (GEMS), the Malnutrition and Enteric Disease study (MAL-ED), THe Pneumonia Etiology Research for Child Health study (PERCH), The DIABIMMUNE study, and the Human Microbiome Project (HMP) phase 1 and 2.  In addition, MicrobiomeDB hosts some of the largest and most detailed longitudinal studies of gut microbiome development in early life.
+           2. **Integration of multi-omic microbiome studies** - Most microbiome database resources host only taxonomic data.  MicrobiomeDB is unique in that our platform is flexible enough to handle any 'omic datatype, which allows integration of multi-omic datasets.  For example, metagenomic studies on our site include both taxonomic *and* functioanl data at the pathway and gene level, thus allowing users to quickly gain insight into functional potential of microbial communities.  However, our site is not limited to supporting sequence-based datatypes, and we currently host studies (e.g. FARRM) that include both sequence and metabolite data.  This integration enables researchers to gain a more comprehensive understanding of microbial communities and their functions.
+           3. **Ability to analyze your own data** - MicrobiomeDB allows users to upload their own microbiome data, which can be analyzed using the same tools and visualizations available for curated studies. This means that researchers can easily compare their own results with those from large, well-curated datasets.
+           4. **A suite of point-and-click compute and visualization tools built from the ground up for microbiome data** - MicrobiomeDB allows users to carry out alpha- and beta-diversity analyses, ranked abundance testing, differential abundance analyses, correlation and network analysis, and much more!
+           5. **Easily transition from web to coding tools** - The [MicrobiomeDB R package](https://microbiomedb.github.io/MicrobiomeDB/) provides a consistent set of functions to access all data and analytic tools on the site, allowing users to easily transition from web-based analyses to coding-based analyses. This is particularly useful for researchers who want to perform more advanced analyses or integrate MicrobiomeDB data with other datasets in their own code.
+           Taken together, these features make MicrobiomeDB a powerful resource for microbiome research, enabling researchers to easily access and analyze large-scale microbiome datasets.
   uid: g2
   projects: "MicrobiomeDB"
 
@@ -58,9 +62,9 @@
   question: "Can I access the code used for MicrobiomeDB?"
   answer: |
            Yes! Our code can be found at the repos listed below and we welcome input from the community.
-           * Code for our **[DADA2-based automated data loading workflow](https://github.com/VEuPathDB/DJob/tree/master/DistribJobTasks/bin/dada2)**, which processes fastq files for all the *curated* studies on MicrobiomeDB and produces taxonomy tables that are represented on the site.
+           * Code for our **[DADA2-based automated data loading workflow](https://github.com/VEuPathDB/marker-gene-analysis-16s-DADA2-nextflow)**, which processes fastq files for all the *curated* studies on MicrobiomeDB and produces taxonomy tables that are represented on the site.
            * Code for our **[MetaPhlAn3 and HUMAnN3 workflow](https://github.com/VEuPathDB/humann-nextflow)** for loading shotgun metagenomic data for *curated* metagenomic studies.
-           * Code for our **[eukaryotic detection](https://github.com/wbazant/marker_alignments)** and a [nextflow implementaton of this workflow](https://github.com/wbazant/marker-alignments-nextflow) are used for identifying eukaryotic microbes in shotgun metagenomic data using the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database.
+           * Code for our **[eukaryotic detection](https://github.com/VEuPathDB/corral-nextflow) is used for identifying eukaryotic microbes in shotgun metagenomic data using the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database.
            * We've also bundled together all three of our data loading workflows above into **[a single unified nextflow pipeline for processing microbiome data](https://github.com/VEuPathDB/MicrobiomeDB)**
            * Code for all **[backend components of our data viz platform](https://github.com/VEuPathDB/service-eda)**
            * Code for all **[frontend components of our data viz platform](https://github.com/VEuPathDB/web-monorepo)**
@@ -221,7 +225,7 @@
   question: "How do you identify eukaryotes in metagenomic data on your site?"
   answer: |
            Detection of eukaryotes in shotgun studies on our site is based on the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database.
-           Methods and software describing how we map reads to this reference database and call taxa can be found [here](https://github.com/wbazant/marker_alignments), and our nextflow workflow used to implement this approach on all samples on our database can be found [here](https://github.com/wbazant/marker-alignments-nextflow).
+           Methods and software describing how we map reads to this reference database and call taxa can be found [here](https://github.com/VEuPathDB/corral-nextflow).
            You can read about our method for eukaryote detection - called CORRAL (clustering of related read alignments) - in **[our manuscript here](https://doi.org/10.1186/s40168-023-01505-1)**.
 
            <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/CORRALworkflow_mbio.png" alt="CORRAL workflow" />
