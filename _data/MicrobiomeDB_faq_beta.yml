@@ -96,7 +96,7 @@
   question: "What's up with all the cards on the homepage?"
   answer: |
            Each curated study hosted on our site is represented by a single study 'card' on the homepage.  The card provides a succinct summary of the study, including the name and goals of the study, the number and type of samples collected, and the types of assay data available (e.g. 16S, metagenomic, metabolomic).  To explore or analyze a study, simply click on the 'Explore the Data' button on the bottom of the card.
-           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/studyCard.png" alt="The anatomy of a MicrobiomeDB study card" />
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/studyCard.png align="left"" alt="The anatomy of a MicrobiomeDB study card" align="left" />
 
   uid: d2
   projects: "MicrobiomeDB"
@@ -206,10 +206,10 @@
   answer: |
            You cannot upload raw sequence files directly to our site, *however* we have partnered with two fantastic organizations that have developed *free* resources which allow you to analyze your raw sequence data on their site but carry out downstream analysis and visualization on MicrobiomeDB. You have two options, but the first option is the most straightforward.
            1. **[Nephele resource from NIH-NIAID](https://nephele.niaid.nih.gov/)** - Through the Nephele website, you can upload your own raw sequence data from 16S, ITS or shotgun metagenomic studies.  You then select from a range of different standard computational workflows.  Once a workflow run is complete, you'll be notified by email and the results page will contain a 'magic link' that **allows you to directly import your results to MicrobiomeDB for analysis and visualization**.
-           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/NepheleMagicLink.png" alt="Nephele Magic Link" />
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/NepheleMagicLink.png" alt="Nephele Magic Link" align="left" />
 
            2. **[CZID resource from Chan-Zuckerberg Initiative](https://czid.org/)** - CZID provides access to detailed assembly-based workflows for shotgun metagenomic data, and is particularly well-suited for pathogen discovery in complex samples.  Upload your raw data and choose which workflow you wish to run.  Once complete, select all your samples and click the download button.  You'll be presented with a few different options for the types of results you can download.  Choose the option for MicrobiomeDB, navigate to the 'My Studies' page on MicrobiomeDB (make sure you're logged in), and upload these files to our site.
-           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/CZID_to_MicrobiomeDB.png" alt="CZID download for MicrobiomeDB" />
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/CZID_to_MicrobiomeDB.png" alt="CZID download for MicrobiomeDB" align="left" />
   uid: a3
   projects: "MicrobiomeDB"
 
@@ -220,7 +220,7 @@
            Methods and software describing how we map reads to this reference database and call taxa can be found [here](https://github.com/VEuPathDB/corral-nextflow).
            You can read about our method for eukaryote detection - called CORRAL (clustering of related read alignments) - in **[our manuscript here](https://doi.org/10.1186/s40168-023-01505-1)**.
 
-           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/CORRALworkflow_mbio.png" alt="CORRAL workflow" />
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/CORRALworkflow_mbio.png" alt="CORRAL workflow" align="left" />
   uid: v4
   projects: "MicrobiomeDB"
 
@@ -229,7 +229,7 @@
   answer: |
            We do!
            Check out our **[MicrobiomeDB R package](https://microbiomedb.github.io/MicrobiomeDB/)** that provides a consistent set of functions to access all data and analytic tools on the site.  The R package is a great way to take your analyses and visualizations to the next level both in terms of customized plotting options, but also by connecting with the large ecosystem of R/Bioconductor tools.
-           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/MicrobiomeDB_package.png" alt="An R package companion to the MicrobiomeDB web resource" />
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/MicrobiomeDB_package.png" alt="An R package companion to the MicrobiomeDB web resource" align="left" />
 
   uid: a5
   projects: "MicrobiomeDB"
@@ -242,7 +242,7 @@
   answer: |
            Yes. All plots and visualizations generated on MicrobiomeDB can be downloaded as .png or .svg files.  Simply click the 'Export plot' button on the bottom right of the plot or visualization you're interested in (see screenshot below).
 
-           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/exportPlotButton_mbio.png" alt="Export plot button" />
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/exportPlotButton_mbio.png" alt="Export plot button" align="left" />
   uid: v1
   projects: "MicrobiomeDB"
 
