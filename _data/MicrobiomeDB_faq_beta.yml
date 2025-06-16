@@ -4,6 +4,7 @@
   answer: |
            The video below provides a 5 minute overview that highlights the main features of MicrobiomeDB. You can
            find additional video tutorials that dive into to specific features of the site by checking out **[our Vimeo page](https://vimeo.com/showcase/5598563)**.
+
            <iframe src="https://player.vimeo.com/video/307120623" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   uid: g1
   projects: "MicrobiomeDB"
@@ -13,12 +14,13 @@
   answer: |
            MicrobiomeDB was developed as a discovery tool that empowers researchers to analyze and visualize microbiome studies *without* requiring any programming skills.
 
-           There are **five key strenghts of MicrobiomeDB** that set it apart from other microbiome resources:
-           1. **A rich collection of curated microbiome studies** -  MicrobiomeDB hosts some of the largest microbiome studies ever conducted in human participants and is home to the largest curated collection of gut microbiome data from participants in lower- and middle-income countries (LMICs), which have traditionally been under-represented in microbiome databases.  For example, MicrobiomeDB hosts data from the Global Enteric Multicenter Study (GEMS), the Malnutrition and Enteric Disease study (MAL-ED), THe Pneumonia Etiology Research for Child Health study (PERCH), The DIABIMMUNE study, and the Human Microbiome Project (HMP) phase 1 and 2.  In addition, MicrobiomeDB hosts some of the largest and most detailed longitudinal studies of gut microbiome development in early life.
-           2. **Integration of multi-omic microbiome studies** - Most microbiome database resources host only taxonomic data.  MicrobiomeDB is unique in that our platform is flexible enough to handle any 'omic datatype, which allows integration of multi-omic datasets.  For example, metagenomic studies on our site include both taxonomic *and* functioanl data at the pathway and gene level, thus allowing users to quickly gain insight into functional potential of microbial communities.  However, our site is not limited to supporting sequence-based datatypes, and we currently host studies (e.g. FARRM) that include both sequence and metabolite data.  This integration enables researchers to gain a more comprehensive understanding of microbial communities and their functions.
-           3. **Ability to analyze your own data** - MicrobiomeDB allows users to upload their own microbiome data, which can be analyzed using the same tools and visualizations available for curated studies. This means that researchers can easily compare their own results with those from large, well-curated datasets.
-           4. **A suite of point-and-click compute and visualization tools built from the ground up for microbiome data** - MicrobiomeDB allows users to carry out alpha- and beta-diversity analyses, ranked abundance testing, differential abundance analyses, correlation and network analysis, and much more!
-           5. **Easily transition from web to coding tools** - The MicrobiomeDB R package provides a consistent set of functions to access all data and analytic tools on the site, allowing users to easily transition from web-based analyses to coding-based analyses. This is particularly useful for researchers who want to perform more advanced analyses or integrate MicrobiomeDB data with other datasets in their own code.
+           There are **six key strenghts of MicrobiomeDB** that set it apart from other microbiome resources:
+           1. **A rich collection of curated microbiome studies** -  MicrobiomeDB hosts some of the largest microbiome studies ever conducted in human participants and is home to the largest curated collection of gut microbiome data from participants in lower- and middle-income countries (LMICs), which have traditionally been under-represented in microbiome databases.  For example, MicrobiomeDB hosts data from the Global Enteric Multicenter Study (GEMS), the Malnutrition and Enteric Disease study (MAL-ED), THe Pneumonia Etiology Research for Child Health study (PERCH), The DIABIMMUNE study, the Human Microbiome Project (HMP) phase 1 and 2, and more.  In addition, MicrobiomeDB hosts some of the largest and most detailed longitudinal studies of gut microbiome development in early life.
+           2. **Integration of multi-omic microbiome studies** - Most microbiome database resources host only taxonomic data.  MicrobiomeDB is unique in that our platform is flexible enough to handle any 'omic datatype, which allows us to host multi-omic datasets on the site.  For example, metagenomic studies on our site include both taxonomic *and* functioanl data at the pathway and gene level, thus allowing users to quickly gain insight into functional potential of microbial communities.  However, our site is not limited to supporting sequence-based datatypes, and we currently host studies (e.g. [FARMM](https://microbiomedb.org/mbio/app/workspace/analyses/DS_4dfda49064/new)) that include both sequence and mass spec. metabolite data.  This integration enables researchers to gain a more comprehensive understanding of microbial communities and their functions.
+           3. **A sophisticated interface for exploring and subsetting studies** - MicrobiomeDB's 'Browse and Subset' tool allows users to quickly subset any study, no matter the size or complexity, based on any available metadata variables.  This is particularly useful for large studies with many samples and complex clinical or epidemiological metadata, as it allows users to focus on specific groups of samples that are relevant to their research questions.  For example, users can easily filter a study to only include samples from a specific age group, geographic location, or disease state.
+           4. **Ability to analyze your own data** - MicrobiomeDB allows users to upload their own microbiome data, which can be analyzed using the same tools and visualizations available for curated studies. This means that researchers can easily compare their own results with those from large, well-curated datasets.
+           5. **A suite of point-and-click compute and visualization tools built from the ground up for microbiome data** - MicrobiomeDB allows users to carry out alpha- and beta-diversity analyses, ranked abundance testing, differential abundance analyses, correlation and network analyses, and much more!
+           6. **Easily transition from web to coding tools** - The [MicrobiomeDB R package](https://microbiomedb.github.io/MicrobiomeDB/) provides a consistent set of functions to access all data and analytic tools on the site, allowing users to easily transition from web-based analyses to coding-based analyses. This is particularly useful for researchers who want to perform more advanced analyses or integrate MicrobiomeDB data with other datasets in their own code.
            Taken together, these features make MicrobiomeDB a powerful resource for microbiome research, enabling researchers to easily access and analyze large-scale microbiome datasets.
   uid: g2
   projects: "MicrobiomeDB"
@@ -62,12 +64,13 @@
   question: "Can I access the code used for MicrobiomeDB?"
   answer: |
            Yes! Our code can be found at the repos listed below and we welcome input from the community.
-           * Code for our **[DADA2-based automated data loading workflow](https://github.com/VEuPathDB/DJob/tree/master/DistribJobTasks/bin/dada2)**, which processes fastq files for all the *curated* studies on MicrobiomeDB and produces taxonomy tables that are represented on the site.
+           * Code for our **[DADA2-based automated data loading workflow](https://github.com/VEuPathDB/marker-gene-analysis-16s-DADA2-nextflow)**, which processes fastq files for all the *curated* studies on MicrobiomeDB and produces taxonomy tables that are represented on the site.
            * Code for our **[MetaPhlAn3 and HUMAnN3 workflow](https://github.com/VEuPathDB/humann-nextflow)** for loading shotgun metagenomic data for *curated* metagenomic studies.
-           * Code for our **[eukaryotic detection](https://github.com/wbazant/marker_alignments)** and a [nextflow implementaton of this workflow](https://github.com/wbazant/marker-alignments-nextflow) are used for identifying eukaryotic microbes in shotgun metagenomic data using the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database.
-           * Code for all [backend components of our data viz platform](https://github.com/VEuPathDB/service-eda).
-           * Code for all [frontend components of our data viz platform](https://github.com/VEuPathDB/web-monorepo)
-           * Code for our R packages for [computations](https://github.com/microbiomeDB/microbiomeComputations) and [visualizations](https://github.com/microbiomeDB/MicrobiomeDB) that parallel those available on this website, but which allow integration with the extensive R/bioconductor ecosystem.
+           * Code for our **[eukaryotic detection](https://github.com/VEuPathDB/corral-nextflow) is used for identifying eukaryotic microbes in shotgun metagenomic data using the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database.
+           * We've also bundled together all three of our data loading workflows above into **[a single unified nextflow pipeline for processing microbiome data](https://github.com/VEuPathDB/MicrobiomeDB)**
+           * Code for all **[backend components of our data viz platform](https://github.com/VEuPathDB/service-eda)**
+           * Code for all **[frontend components of our data viz platform](https://github.com/VEuPathDB/web-monorepo)**
+           * Our **[MicrobiomeDB R package](https://microbiomedb.github.io/MicrobiomeDB/)** is packed with functions that parallel those available on this website, but which also allow integration with the extensive R/bioconductor ecosystem.
   uid: g6
   projects: "MicrobiomeDB"
 
@@ -82,14 +85,22 @@
 
 
 - type: datasets
-  question: "What's the difference between private, community, and curated datasets?"
+  question: "What's the difference between curated, private, and community studies?"
   answer: |
-           Curated datasets are uploaded by our staff for convenient public access and are represented on the homepage as study cards.
-           Any data uploaded by a user through the 'My studies' page is private by default.  Only you and people that you choose to share with can view this data.
-           When/if the owner of a private dataset decides they are ready to share this data with all users of our site, they can convert a private dataset to a community dataset with the click of a button.
-           At any time, the original owner of community dataset can choose to revoke community access, which will revert the dataset back to private status.
-           Community datasets can be queried and visualized in the same way as curated datsets, but are not represented on the homepage as study cards.
+           * **Curated studies** - these datasets are manually curated by our staff and uploaded to the site for convenient public access.  Each curated study is represented on the homepage as as a study 'card'.  One major strength of Curated Studies is that the study metadata has been harmonized by our staff for convenient web display and study exploration.
+           * **Private studies** - Any data uploaded by a user through the 'My studies' page is private by default.  Only you and people that you choose to share with can view this data.
+           * **Community studies** - When/if the owner of a private dataset decides they are ready to share this data with all users of our site, they can convert a private dataset to a community dataset with the click of a button.  Importantly, unlike Curated Studies, Community Studies are not checked by our staff for data quality or metadata usage, thus it is up to the person sharing the Community Study to provide context and appropriate study and sample annotations so that other users can understand the value of their study. At any time, the original owner of community dataset can choose to revoke community access, which will revert the dataset back to private status. Community Studies can be queried and visualized in the same way as Curated Studies, but are not represented on the homepage as study cards.
   uid: d1
+  projects: "MicrobiomeDB"
+
+- type: datasets
+  question: "What's up with all the cards on the homepage?"
+  answer: |
+           Each curated study hosted on our site is represented by a single study 'card' on the homepage.  The card provides a succinct summary of the study, including the name and goals of the study, the number and type of samples collected, and the types of assay data available (e.g. 16S, metagenomic, metabolomic).  To explore or analyze a study, simply click on the 'Explore the Data' button on the bottom of the card.
+
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/studyCard.png" alt="The anatomy of a MicrobiomeDB study card" width="760" height="400" style="display: block;" />
+
+  uid: d2
   projects: "MicrobiomeDB"
 
 - type: datasets
@@ -104,7 +115,7 @@
            When combined with the extensive web toolkit and infrastructure developed by VEuPathDB,
            the user is provided with an web interface to interrogate complex, even massive-scale, microbiome studies using metadata queries.
            The resulting queries are then visualized using a suite of Shiny apps available directly in the browser.
-  uid: d2
+  uid: d3
   projects: "MicrobiomeDB"
 
 - type: datasets
@@ -113,7 +124,7 @@
            Yes!  As of release 21 (March 2021) we started loading shotgun metagenomic data.  In addition, if you have have your own metagenomic data that you're interested in analyzing on MicrobiomeDB, you can take advantage of our collaboration with [Nephele](https://nephele.niaid.nih.gov/) and [CZID](https://czid.org/)
            to generate a .biom file from your metagenomic study, then you can upload this directly to MicrobiomeDB under the Workspace menu (see next FAQ below).  You're not limited to taxonomic data either - our curated public metagenomic studies also have pathway-level and gene-level functional data, all of which can be mined using the same analyis and visualization tools on our site!
            Taken together, our goal is to develop a full-featured, open-source platform for a systems biology view of microbial communities.
-  uid: d3
+  uid: d4
   projects: "MicrobiomeDB"
 
 
@@ -125,7 +136,7 @@
            Second, we're also interested in understanding how different animal models (mice, dogs, pigs, etc) might help us understand the role of the microbiome during health and disease.
            Finally, we're interested in multifactorial and longitudinal datasets, since these qualities of datasets provide a unique opportunity to employ data mining and visualization to reveal interesting associations.
            If you have a dataset you would like us to consider loading into MicrobiomeDB, please get in touch with our team via the [Contact Us](https://microbiomedb.org/mbio/app/contact-us) link at the top of our home page.  We'd love to hear from you!
-  uid: d4
+  uid: d5
   projects: "MicrobiomeDB"
 
 - type: datasets
@@ -135,8 +146,9 @@
            Once you've identified a study to query, **click on the graph icon below 'Explore the Data'**,
            located on the bottom right of the card.  This will take you to our exploration and visualzation page.
            For more details on carrying out this type of query, take a look at the short video below.
+
            <iframe src="https://player.vimeo.com/video/307535216" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  uid: d5
+  uid: d6
   projects: "MicrobiomeDB"
 
 
@@ -148,17 +160,19 @@
            For each of these studies, only a subset of participants had samples collected and processed for microbiome analysis.  Moreover, the sample metadata available on MicrobiomeDB for these studies includes only
            what was made available in the publication describing the results from the microbiome study.  Additional sample- and participant-level clinical and epidemiological data (often times extensive)
            are available for these participants and many more participants at our partner site, [ClinEpiDB.org](https://clinepidb.org/ce/app/).
-  uid: d6
+  uid: d7
   projects: "MicrobiomeDB"
 
 
 - type: datasets
-  question: "Can I download raw data from MicrobiomeDB?"
+  question: "Can I download data from MicrobiomeDB?"
   answer: |
-           * For 16S studies, taxonomic data (counts and abundance) and sample metadata are available for download from MicrobiomeDB as separate text files or wrapped up into a single .biom file (see 'Download Data' link at the bottom of each study card).
-           * For shotgun metagenomic studies, we offer the same file types mentioned above for 16S as well as both text and .biom options for pathway-level data and gene-level (Enzyme Commission number) data
+           MicrobiomeDB provides a variety of options for downloading data from our site, depending on the type of study and the data you're interested in.
+           * For all studies, you can download the taxonomy tables and study metadata in a tab-delimited text file format for either the entire dataset or your selected subset of samples.
+           * For shotgun metagenomic studies, in addition to taxonomy tables and sample metadata, you can also download pathway-level and gene-level functional data in tab-delimited text file format.
            * What about raw sequence data?  We do not host raw sequence data for download.  For published studies the raw data is available on the [SRA](https://www.ncbi.nlm.nih.gov/sra/) or [ENA](https://www.ebi.ac.uk/ena).  If you're interested in accessing raw data for unpublished studies, we can faciliate contact with the data providers.
-  uid: d7
+           * All data downloads are available from the 'Download' tab on the study page (see screenshot below).
+  uid: d8
   projects: "MicrobiomeDB"
 
 
@@ -186,30 +200,45 @@
            4. Once the upload has completed, it will appear under the 'All' tab on the 'My Studies' page, but will take additional time to install in the database.
            5. Once installed, clicking on the dataset displays a dataset description page, with links to search the dataset using microbiomeDB tools.
            For more details on how to upload your own data to the site, take a look at the short video below.
+
            <iframe src="https://player.vimeo.com/video/901346706" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   uid: a2
   projects: "MicrobiomeDB"
 
 - type: analysis
-  question: "What if I don't have a .biom file, but still want help analyzing raw sequence data?"
+  question: "Can I analyze raw sequencing data (e.g. fastq files) using MicrobiomeDB?"
   answer: |
-           We can help with that too!
-           If you are interested in analyzing your own raw sequence data from 16S, ITS or shotgun metagenomic studies, check out **[NIAID's Nephele](https://nephele.niaid.nih.gov/index)** resource, or [CZID](https://czid.org/) from the folks at the Chan-Zuckerberg Biohub in San Francisco, CA.
-           You can run complete workflows on Nephele and produce a 'magic link' to your results.  This link is an authenticated URL that can be copied/pasted into the 'My Data Sets' page of MicrobiomeDB,
-           thus allowing direct transfer of results from Nephele to MicrobiomeDB for filtering, querying and visualizing your results.
+           You cannot upload raw sequence files directly to our site, *however* we have partnered with two fantastic organizations that have developed *free* resources which allow you to analyze your raw sequence data on their site but carry out downstream analysis and visualization on MicrobiomeDB. You have two options, but the first option is the most straightforward.
+           1. **[Nephele resource from NIH-NIAID](https://nephele.niaid.nih.gov/)** - Through the Nephele website, you can upload your own raw sequence data from 16S, ITS or shotgun metagenomic studies.  You then select from a range of different standard computational workflows.  Once a workflow run is complete, you'll be notified by email and the results page will contain a 'magic link' that **allows you to directly import your results to MicrobiomeDB for analysis and visualization**.
+
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/NepheleMagicLink.png" alt="Nephele Magic Link" width="768" height="400" style="display: block;" />
+
+           2. **[CZID resource from Chan-Zuckerberg Initiative](https://czid.org/)** - CZID provides access to detailed assembly-based workflows for shotgun metagenomic data, and is particularly well-suited for pathogen discovery in complex samples.  Upload your raw data and choose which workflow you wish to run.  Once complete, select all your samples and click the download button.  You'll be presented with a few different options for the types of results you can download.  Choose the option for MicrobiomeDB, navigate to the 'My Studies' page on MicrobiomeDB (make sure you're logged in), and upload these files to our site.
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/CZID_to_MicrobiomeDB.png" alt="CZID download for MicrobiomeDB" width="500" height="500" style="display: block;" />
   uid: a3
+  projects: "MicrobiomeDB"
+
+- type: analysis
+  question: "How do you identify eukaryotes in metagenomic data on your site?"
+  answer: |
+           Detection of eukaryotes in shotgun studies on our site is based on the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database.
+           Methods and software describing how we map reads to this reference database and call taxa can be found [here](https://github.com/VEuPathDB/corral-nextflow).
+           You can read about our method for eukaryote detection - called CORRAL (clustering of related read alignments) - in **[our manuscript here](https://doi.org/10.1186/s40168-023-01505-1)**.
+
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/CORRALworkflow_mbio.png" alt="CORRAL workflow" width="500" height="560" style="display: block;"/>
+  uid: v4
   projects: "MicrobiomeDB"
 
 - type: analysis
   question: "The website is great, but I prefer to analyze data using command line tools.  Do you offer a way to programmatically access the tools and datasets on your site?"
   answer: |
            We do!
-           We built a MicrobiomeDB R package that provides a consistent set of functions to access all data and analytic tools on the site.
-           You can access this software on Github **[here](https://microbiomedb.github.io/MicrobiomeDB/)**
-  uid: a4
+           Check out our **[MicrobiomeDB R package](https://microbiomedb.github.io/MicrobiomeDB/)** that provides a consistent set of functions to access all data and analytic tools on the site.  The R package is a great way to take your analyses and visualizations to the next level both in terms of customized plotting options, but also by connecting with the large ecosystem of R/Bioconductor tools.
+
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/MicrobiomeDB_package.png" alt="An R package companion to the MicrobiomeDB web resource" width="562" height="500" style="display: block;" />
+
+  uid: a5
   projects: "MicrobiomeDB"
-
-
 
 
 
@@ -218,27 +247,40 @@
   question: "Can I download plots and data visualizations from MicrobiomeDB?"
   answer: |
            Yes. All plots and visualizations generated on MicrobiomeDB can be downloaded as .png or .svg files.  Simply click the 'Export plot' button on the bottom right of the plot or visualization you're interested in (see screenshot below).
-           <img src="https://github.com/VEuPathDB/StaticContent/tree/master/assets/images/MicrobiomeDB/exportPlotButton_mbio.png" alt="Export plot button">
 
+           <img style="width:40em" src="https://static-content.veupathdb.org/assets/images/MicrobiomeDB/exportPlotButton_mbio.png" alt="Export plot button" width="650" height="500" style="display: block;"/>
   uid: v1
   projects: "MicrobiomeDB"
 
 - type: viz
-  question: "How do you identify eukaryotes in metagenomic data on your site?"
-  answer:
-           Detection of eukaryotes in shotgun studies on our site is based on the [EukDetect](https://doi.org/10.1186/s40168-021-01015-y) marker gene database.
-           Methods and software describing how we map reads to this reference database and call taxa can be found [here](https://github.com/wbazant/marker_alignments), and our nextflow workflow used to implement this approach on all samples on our database can be found [here](https://github.com/wbazant/marker-alignments-nextflow).
-           You can read about our method for eukaryote detection - called CORRAL (clustering of related read alignments) - in **[our manuscript here](https://doi.org/10.1186/s40168-023-01505-1)**.
-           <img src="https://github.com/VEuPathDB/StaticContent/tree/master/assets/images/MicrobiomeDB/CORRALworkflow_mbio.png" alt="CORRAL workflow">
-
+  question: "Where can I explore the microbial eukaryote data on the site?"
+  answer: |
+           1. Choose the study of interest from the homepage, then click on the 'Explore the Data' button on the bottom of the study card.
+           2. This will take you to the *'Browse and Subset'* page for that study.  If there's a specific eukaryote you're looking for, search for it using the text box.
+           3. If you want to see all the microbial eukaryotes detected in your samples, open the *"Metagenomic sequencing assay"* parent node in the navigation tree.
+           4. Open the *"CORRAL eukaryote detection and abundance analysis"* child node.
+           5. *"Taxon dtected by sequence match"* gives you a yes/no result for which microbial eukaryotes were detected in each sample in your study.  *"Normalized number of taxon-specific sequence matches"* gives you the normalized counts of reads that were mapped to each microbial eukaryote in each sample.
+           6. The *"Normalized number of taxon-specific sequence matches"* data can be used to generate visualizations of the microbial eukaryotes in your study using the 'Visualize' tab (e.g. calculating alpha diversity using only microbial eukaryotes).
   uid: v2
+  projects: "MicrobiomeDB"
+
+- type: viz
+  question: "Where can I explore the functional data from a metagenomic study on the site?"
+  answer: |
+           1. Choose the study of interest from the homepage, then click on the 'Explore the Data' button on the bottom of the study card.
+           2. This will take you to the 'Browse and Subset' page for that study.  If you're looking for a specific pathway or gene, search for it using the text box.
+           3. If you want to see all the pathway-level or gene-level data, open the *"Metagenomic sequencing assay"* parent node in the navigation tree.
+           4. Open the *"Metagenome pathway and function analysis"* child node.
+           5. Choose whether you want to see data at the pathway-level (*"Metagenome enzyme pathway abundance data"*) or gene-level (*"Metagenome gene abundance data"*).  You can also view pathway coverage (*"Metagenome enzyme pathway coverage data"*) since you may not care about an highly abundant pathway if only 10% of that pathway was covered by reads in a sample.
+           6. The *"Normalized number of taxon-specific sequence matches"* data can be used to generate visualizations of the microbial eukaryotes in your study using the 'Visualize' tab (e.g. calculating alpha diversity using only microbial eukaryotes).
+  uid: v3
   projects: "MicrobiomeDB"
 
 - type: viz
   question: "Why do some apps in the 'Visualize' tab appear ghosted or greyed out?"
   answer:
            Apps are only available when they are compatible with the data you have selected.  For example, if you have selected a study or a subset of samples that do not have a continuous metadata variable (e.g., age), you will not be able to use the bipartie app that correlates taxa with continuous metadata variables.
-  uid: v3
+  uid: v4
   projects: "MicrobiomeDB"
 
 
@@ -250,6 +292,10 @@
            If you use MicrobiomeDB for your research, please cite us:
 
            > [Oliveira FS, Brestelli J, Cade S, *et al.*; MicrobiomeDB: A Systems Biology Platform for Integrating, Mining and Analyzing Microbiome Experiments. *Nucleic Acids Research* 2018](https://doi.org/10.1093/nar/gkx1027).
+
+           If you use microbial eukaryote data on MicrobiomeDB, or our stand-alone CORRAL workflow for detecting eukaryotes in metagenomic data, please also cite:
+
+           > [Bazant W, Blevins AS, Crouch K, Beiting DP. Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes. *Microbiome* 2023](https://doi.org/10.1186/s40168-023-01505-1)
   uid: c1
   projects: "MicrobiomeDB"
 
