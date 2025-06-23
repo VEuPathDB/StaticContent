@@ -10,7 +10,7 @@ permalink: /MicrobiomeDB/faq
 <div id="microbiome-general">
   <h2>General</h2>
   <ul>
-    {% for item in site.data.MicrobiomeDB_faq%}
+    {% for item in site.data.MicrobiomeDB_faq %}
     {% if item.type == "general" %}
     <li>
       <details id="{{ item.uid }}">
