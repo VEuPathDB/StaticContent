@@ -5,199 +5,47 @@ permalink: subscribers
 tags: [general]
 ---
 <style>
-  h1 {
-    font-size: 2.5em;
-    margin-bottom:0;
-    padding-bottom:0;
-    padding-top:0;
+ div.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em; /* Optional: space between columns */
+}
+
+div.column1, div.column2, div.column3, div.column4 {
+  flex: 1 1 22%;  /* Each takes about 22% width + gap space */
+  border-radius: .5em;
+  border: 1px solid lightblue;
+  background: #e6f7fd78;
+  padding: 0 1em 0.5em;
+  min-width: 12em;  /* Prevents the columns from shrinking too small on narrow screens */
+}
+
+div.column2 {
+  border: 1px solid #dbb667a6;
+  background: #fdf9e696;
+}
+
+div.column3 {
+  border: 1px solid #b6d7a8a6;
+  background: #eafaf1;
+}
+
+div.column4 {
+  border: 1px solid #d6a8d7a6;
+  background: #f9e6fd;
+}
+
+@media only screen and (max-width: 50em) {
+  div.container {
+    flex-direction: column;
   }
-
-  div.static-content {
-    font-size:130%;
-    a {
-      text-decoration: underline;
-    } 
-    h2 {
-      font-size: 1.5em;
-      font-weight:400;
-      padding-bottom:0.5em;
-    }
-    h3 {
-      padding-top:0.25em;
-      font-style: italic;
-    }
-    div.container {
-      display: flex;
-    }
-    div.column1 {
-      flex: 0 0 63%; 
-      border-radius: .5em;
-      border: 1px solid lightblue;
-      background: #e6f7fd78;
-      padding: 0 1em 0.5em;
-      margin-left: 2em;
-      min-width: 49em;
-      p {
-        margin:0;
-      }
-    }
-    div.column2 {
-      flex: 0 0 auto;
-      border-radius: .5em;
-      border: 1px solid #dbb667a6;
-      background: #fdf9e696;
-      padding: 0 1em 0;
-      margin-left: 2em;
-      max-width: 21em;
-      p {
-        margin:0;
-      }
-    }
-    div.column11 {
-      flex: 0 0 47%;
-    }
-    div.column12 {
-      flex: 0 0 auto;
-      margin-left: 1em;
-    }
-
-    ul {
-      list-style-type: square;
-    }
-    .column11 ul {
-      padding-left: 0;
-      margin-top: 0;
-    }
-    .column2 li {
-      padding-top: 0.4em;
-      padding-bottom: 0.5em;
-    }
-
-    table {
-      font-size: 85%;
-      border: 1px solid lightblue;
-    }
-    td {
-      text-align: right;
-      padding: 0.10em 0.4em;
-    }
-    td.center {
-      text-align: center;
-      vertical-align: middle;
-    }
-    td.sidewhite {
-      border-right: 1px solid white;
-    }
-    thead td {
-      font-weight: bold;
-      border: 1px solid lightblue;
-      background: lightblue;
-    }
-    tbody tr.alt td {
-      background: #d6eaf8;
-    }
-    td.nopad-r {
-      padding-right: 0;
-    }
-    td.pad-r-halfem {
-      padding-right: 0.5em
-    }
-    td.pad-r-1em {
-      padding-right: 1em
-    }
-    td.pad-l-1em {
-      padding-left: 1em
-    }
-    td.pad-r-2em {
-      padding-right: 2em
-    }
-    td.pad-l-2em {
-      padding-left: 2em
-    }
-    td.pad-r-4em {
-      padding-right: 4.3em
-    }
-
-    .button-3 {
-      font-size: 130%;
-      background-color: green;
-      border: 0.15em solid green;
-      border-radius: 8px;
-      box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
-      box-sizing: border-box;
-      color: white;
-      cursor: pointer;
-      font-weight: 400;
-      margin-top: 0.6em;
-      padding: 0.4em 0.7em;
-      transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
-      touch-action: manipulation;
-      vertical-align: middle;
-    }
-    .button-3:focus:not(:focus-visible):not(.focus-visible) {
-      box-shadow: none;
-      outline: none;
-    }
-    .button-3:hover {
-      background-color: #2c974b;
-    }
-    .button-3:focus {
-      box-shadow: rgba(46, 164, 79, .4) 0 0 0 3px;
-      outline: none;
-    }
-    .button-3:active {
-      background-color: #298e46;
-      box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
-    }
-    .button-3 a {
-      text-decoration: none;
-      color: white;
-    }
-
-    .italics {
-      font-style:italic;
-    }
-    .small {
-      font-size:90%;
-      font-style:italic;
-    }
-    .center {
-      text-align: center;
-    }
-
-    div.addquest {
-      margin: 2em 2em;
-      p {
-       padding-left: 2em;
-       display: inline;
-      } 
-    }
-
-    @media only screen and (max-width: 50em) {
-      div.container {
-        flex-wrap:wrap;
-      }
-      div.column1, div.column2, .button-3, div.addquest, div.addquest p {
-        margin-bottom: 1em;
-        margin-left: 0;
-      }
-      div.addquest, div.addquest p {
-        padding-left: 0;
-        display: block;
-      }
-      div.column1 {
-        min-width: 30em;
-      }
-      div.column12 {
-        margin-left: 0;
-      }
-      table {
-        margin-top: 2em;
-      }
-      
-    }
-
+  div.column1, div.column2, div.column3, div.column4 {
+    flex: 1 1 100%;
+    min-width: auto;
+    margin-left: 0;
+    margin-bottom: 1em;
   }
+}
 </style>
 
 <p>VEuPathDB acknowledges all its subscribers who make keeping this resource open access for all possible. We encourage you to subscribe your lab or talk to your colleagues to remind them of the importance of subscribing to VEuPathDB.</P><br><br>
@@ -205,369 +53,200 @@ tags: [general]
 2024 subscribers - this list includes individuals representing themselves or their labs, and institutional subscriptions.<br><br>
 
 <div class="container">
-
   <div class="column1">
-  Abhinay Ramaprasad
-Achim Schnaufer
-Adam Sateriale
-Ademir de Jesus Martins Junior
-Agnes Murk
-Akhil Vaidya
-Alan Fairlamb
-Aleeza Gerstein
-Alex Rowe
-Alexander Paredez
-Alexie Papanicolaou
-Alicia Martín Pavón
-Amit Sharma
-An Xie
-Ana Cecilia Ramon Pacheco
-Ana María Cevallos Gaos
-Ana Tomás
-André Ricardo de Lima Damasio
-Andrew D. Klocko
-Andrew Jackson
-Andrew Maclean
-Andrew Osborne
-Andy Waters
-Angela Kaysel Cruz
-Ángela López gil 
-Anita Koshy
-Anthony A. James
-Antje Labes
-Antonio M Estévez
-Antonio Mauro Rezende
-Aoife Heaslip
-Arnab Pain
-Arnaldo Lopes Colombo
-Arthur Gunzl
-Arthur J Lustig
-Aspergillus gambii
-Assoc Danny Wilson
-Audrey John
-Augusto Simoes-Barbosa
-Bang Shen
-Berl R. Oakley
-Bibo Li
-Bill Sullivan
-Bill Wickstead
-Bjorn Kafsack
-Bob Testing
-Mélanie Bonhivers
-Boris Striepen
-Brooke Clemons
-Bruno Martorelli Di Genova
-Bungo Akiyoshi
-Camila Queiroz
-Carlos Jhonfreider Vargas Torres
-Carmen Faso
-Carol A GIlchrist 
-Caroline Dewar
-Caroline Ng
-Carolyn McBride
-Catherine Bourgouin
-Catherine Lavazec
-Chaoyang Xue
-Chet Joyner
-Chi-Min Ho
-Chiara Curra
-Choukri Ben Mamoun
-Christian Schmitz-Linneweber
-Christina Hull
-Christine Clayton 
-Christopher Luis de Graffenried
-Clare Harding
-Clemens Kocken
-Colin James Sutherland
-Cora Dee
-Craig A. Bingman
-Cristian Koepfli
-Damer Blake
-Damian Ekiert
-Damian Krysan
-Danae Schulz
-Dandan Hu
-Daniel Goldberg
-Daniel Youssef Bargieri
-Dave Richard
-David Canovas Lopez
-David Horn
-David Majerowicz 
-David Sibley
-DAVID WILLIAMS
-Debopam Chakrabarti
-Deborah Bell-Pedersen
-Deborah Telahun
-Derek Gatherer
-Deshmukh GOPAUL
-Deveney Dasilva
-Dinkorma Ouologuem
-Dolores González-Pacanowska
-Domenico Modaffari
-Dominique Soldati-Favre
-Donald Ross
-Dong Xia
-Doug Brackney
-Vera Meyer
-Dyann Wirth
-Elizabeth Ballou
-Elizabeth Egan
-Elizabeth McGraw
-Elizabeth Winzeler
-ellen bushell
-Ellen Knuepfer
-Isabel Roditi
-Emily Kindon
-Emma Wilson
-Erich Loza Telleria
-Erin McClelland
-Eva Gluentz
-Evelien Bunnik
-Fátima Durán Manzaneque
-Felipe Santiago-Tirado
-Fiyinfoluwa Ojeniyi
-Flaminia Catteruccia
+    Abhinay Ramaprasad<br>
+    Achim Schnaufer<br>
+    Adam Sateriale<br>
+    Ademir de Jesus Martins Junior<br>
+    Agnes Murk<br>
+    Akhil Vaidya<br>
+    Alan Fairlamb<br>
+    Aleeza Gerstein<br>
+    Alex Rowe<br>
+    Alexander Paredez<br>
+    Alexie Papanicolaou<br>
+    Alicia Martín Pavón<br>
+    Amit Sharma<br>
+    An Xie<br>
+    Ana Cecilia Ramon Pacheco<br>
+    Ana María Cevallos Gaos<br>
+    Ana Tomás<br>
+    André Ricardo de Lima Damasio<br>
+    Andrew D. Klocko<br>
+    Andrew Jackson<br>
+    Andrew Maclean<br>
+    Andrew Osborne<br>
+    Andy Waters<br>
+    Angela Kaysel Cruz<br>
+    Ángela López gil<br>
+    Anita Koshy<br>
+    Anthony A. James<br>
+    Antje Labes<br>
+    Antonio M Estévez<br>
+    Antonio Mauro Rezende<br>
+    Aoife Heaslip<br>
+    Arnab Pain<br>
+    Arnaldo Lopes Colombo<br>
+    Arthur Gunzl<br>
+    Arthur J Lustig<br>
+    Aspergillus gambii<br>
+    Assoc Danny Wilson<br>
+    Audrey John<br>
+    Augusto Simoes-Barbosa<br>
+    Bang Shen<br>
+    Berl R. Oakley<br>
+    Bibo Li<br>
+    Bill Sullivan<br>
+    Bill Wickstead<br>
+    Bjorn Kafsack<br>
+    Bob Testing<br>
+    Mélanie Bonhivers<br>
+    Boris Striepen<br>
   </div>
+
   <div class="column2">
-  Franck Dumetz
-Frédéric Bringaud
-Fundação GIMM
-Gabriella Freitas Ferreira
-Galadriel Hovel-Miner
-Gary Ward
-Geoffrey Ian McFadden
-George Diallinas
-Gerhard Wunderlich
-Guus Bakkeren
-Hagai Ginsburg
-Heather Bradley
-Heng Zhang
-Howard Judelson
-Ira Blader
-Isabelle Coppens
-J. Philipp Benz 
-Jack Sunter
-Jair Siqueira-Neto
-James Davis
-Jane Usher
-Janet Yee
-Jason Stajich
-Jean-Philippe David
-Jeffrey Dvorin
-Jennifer L Small-Saunders
-Jessica C Kissinger
-Jesús Valdés
-Jigang Yin
-Joana Carneiro da Silva
-Joana Santos
-Joanna C Young
-Johanna Rhodes
-John Crawford Samuelson
-John Gillespie
-John H Adams
-John Panepinto
-John Xu
-Jonathan D. Herman
-Jonathan Daniel Ip
-Jonathan Kurtis
-Jorge Diaz Rodriguez
-Jorge Enrique  Gomez-Marin
-Jory Brinkerhoff
-José Sánchez Arribas
-Joseph T. Smith Jr.
-Josh Beck
-Joshua B Benoit
-Jude Marek Przyborski
-Julia Pinheiro Chagas da Cunha
-Julian Rayner
-Juliane Lippmann
-Juliette Surleve-Bazeille
-Junya Yamagishi
-Kai Zhang
-Karen Shapiro
-Karine Le Roch
-Katarzyna Modrzynska
-Katerina Artavanis-Tsakonas
-Katherine Borkovich
-Kathy Barker
-Ke Hu
-Keith Gull
-Keith Matthews
-Kelly Tatchell
-Kevin Vogel
-Kim Williamson
-Kirk Deitsch
-Klaus Ersfeld
-Kojo Mensa-Wilmot
-Koon Ho Wong
-Kourosh Zarringhalam
-Krisbel Daniela Escalante Rodríguez  
-Kristin Lane
-Krithika Rajaram
-Kwangwon Lee
-Laijiaying
-Laila P. Partida-Martínez
-Laura Cuesta Carazo
-Laura Knoll
-Laura Vanagas
-Lilach Sheiner
-Linda Anagu
-Lizbeth Hedstrom
-LJ Zwiebel
-Lori Huberman
-Louis Martin Weiss
-Lowri Williams
-Luis Alberto Rivera Rivas
-Luis F. Larrondo
-Luisa Figueiredo
-Majeed Bakari Soale
-Manoj Duraisingh
-Manuel Llinas
-Marc-Jan Gubbels
-Marcell Crispim
-Marcus Lee
-Margaret Phillips
-Maria E Francia
-Maria Martha Corvi
-Marine Petit
-Mariusz Nowacki
-Mark Carrington
-Mark Field
-Mark R. Marten
-Markus Engstler
-Markus Meissner
-Marta MIlla Ciriano
-Martin A Winkler
-Martin Wiese
-Martina Paoletta
-Marvin J Meyers
-Maryse Lebrun
-Masahito Asada
-Masayuki Nakanishi
-Matthew Berriman
-Matthew DeGennaro
-Matthew S. Sachs
-Matthias Garten
-Matthias Marti
+    Brooke Clemons<br>
+    Bruno Martorelli Di Genova<br>
+    Bungo Akiyoshi<br>
+    Camila Queiroz<br>
+    Carlos Jhonfreider Vargas Torres<br>
+    Carmen Faso<br>
+    Carol A GIlchrist<br>
+    Caroline Dewar<br>
+    Caroline Ng<br>
+    Carolyn McBride<br>
+    Catherine Bourgouin<br>
+    Catherine Lavazec<br>
+    Chaoyang Xue<br>
+    Chet Joyner<br>
+    Chi-Min Ho<br>
+    Chiara Curra<br>
+    Choukri Ben Mamoun<br>
+    Christian Schmitz-Linneweber<br>
+    Christina Hull<br>
+    Christine Clayton<br>
+    Christopher Luis de Graffenried<br>
+    Clare Harding<br>
+    Clemens Kocken<br>
+    Colin James Sutherland<br>
+    Cora Dee<br>
+    Craig A. Bingman<br>
+    Cristian Koepfli<br>
+    Damer Blake<br>
+    Damian Ekiert<br>
+    Damian Krysan<br>
+    Danae Schulz<br>
+    Dandan Hu<br>
+    Daniel Goldberg<br>
+    Daniel Youssef Bargieri<br>
+    Dave Richard<br>
+    David Canovas Lopez<br>
+    David Horn<br>
+    David Majerowicz<br>
+    David Sibley<br>
+    DAVID WILLIAMS<br>
+    Debopam Chakrabarti<br>
+    Deborah Bell-Pedersen<br>
+    Deborah Telahun<br>
+    Derek Gatherer<br>
+    Deshmukh GOPAUL<br>
+    Deveney Dasilva<br>
   </div>
+
   <div class="column3">
-  Mattie Christine Pawlowic
-Meetali Singh
-Megan Povelones
-Melissa Leger-Abraham
-Michael Boshart
-Michael Ferdig
-Mick Urbaniak
-Miguel Chiurillo
-Mike Osta
-Minou Nowrousian
-Mira Zelle
-Miriam Griesheimer
-Mohammad Ali-Hakimi
-Molly Duman Scheel
-Monica Mugnier
-Moritz Treeck
-Nadia PONTS
-Naimi Eya
-Nancy GUILLEN
-Nancy P. Keller
-Naomi Morrissette
-Natalia de Miguel
-Nicolai Siegel
-Nicolas Buchler
-Noah Rose
-Noelia Lander
-Nuno Carmo
-Oded Yarden
-Oier Etxebeste
-Oliver Billker
-Omar Hamarsheh
-Osama Zahid
-Osamu Kaneko
-Patricia Cuellar
-Patricia Lakin-Thomas
-Patricia V. Pietrantonio
-Patricia Y. Scaraffia
-Paul Denny
-Paul Magwene
-Paul Sigala
-Pegine Walrad
-Pekka Lappalainen
-Peter Bradley
-Philipp Olias
-Prem Prakash
-Purnima Bhanot
-Rahul Pasupureddy
-Raina Fichorova
-Richard Burchmore
-Richard C Binari
-Richard McCulloch
-Richard Todd
-Richard Wheeler
-Rita Tewari
-Robert W. Moon
-Roberto Docampo
-Rogerio Amino
-Ron Dzikowski
-Ronald van Rij
-Ross Waller
-Sabrina Absalon
-Sam Alsford
-Samuel Dean
-Sara Zimmer
-Sarah Beattie
-Sassan Asgari
-Sean Prigge
-Sebastian Lourido
-Serap Aksoy
-Sharon Hill
-SheinerLab Member
-Shin Hatakeyama
-Shiroh Iwanaga
-Shobha Sanjeewani Gunathilaka
-Shruthi Sridhar Vembar
-Shulamit Michaeli
-Souvik Sen Gupta
-Stephanie BLANDIN
-Stephen J Free
-Steven James
-Steven Rafferty
-Steven Singer
-Steven Sinkins
-Stuart Ralph
-Sujal Phadke
-Sumit Mukherjee
-Susanne Kramer
-Tamara Doering
-Tan laboratory
-Tania de Koning-Ward
-Tansy Hammarton
-teresa cruz bustos
-Terry Smith
-Terry W. Hill
-Thais Lemos Da Silva
-Thomas Lavstsen
-Tiago Wilson Patriarca Mineo
-Tomoyoshi Nozaki
-Toshihiro Mita
-Utpal Tatu
-V. Arun Nagaraj
-Valentin Greigert
-Valeria Tekiel
-Vasant Muralidharan
-Victoria Jeffers
-Virginia Howick
-Volker Heussler
-Xiaorong Lin
-Xin Xiang
-Yi-Wei Chang
-Yifan Wang
-Yonggen Jia
-Yuko Takagi
-Yumiko Nakano
-Yvon Sterkers
-Zach Adelman
-Zachary Lewis
-Zhicheng Dou
-Ziyin Li
+    Dinkorma Ouologuem<br>
+    Dolores González-Pacanowska<br>
+    Domenico Modaffari<br>
+    Dominique Soldati-Favre<br>
+    Donald Ross<br>
+    Dong Xia<br>
+    Doug Brackney<br>
+    Vera Meyer<br>
+    Dyann Wirth<br>
+    Elizabeth Ballou<br>
+    Elizabeth Egan<br>
+    Elizabeth McGraw<br>
+    Elizabeth Winzeler<br>
+    ellen bushell<br>
+    Ellen Knuepfer<br>
+    Isabel Roditi<br>
+    Emily Kindon<br>
+    Emma Wilson<br>
+    Erich Loza Telleria<br>
+    Erin McClelland<br>
+    Eva Gluentz<br>
+    Evelien Bunnik<br>
+    Fátima Durán Manzaneque<br>
+    Felipe Santiago-Tirado<br>
+    Fiyinfoluwa Ojeniyi<br>
+    Flaminia Catteruccia<br>
+    Franck Dumetz<br>
+    Frédéric Bringaud<br>
+    Fundação GIMM<br>
+    Gabriella Freitas Ferreira<br>
+    Galadriel Hovel-Miner<br>
+    Gary Ward<br>
+    Geoffrey Ian McFadden<br>
+    George Diallinas<br>
+    Gerhard Wunderlich<br>
+    Guus Bakkeren<br>
+    Hagai Ginsburg<br>
+    Heather Bradley<br>
+    Heng Zhang<br>
+    Howard Judelson<br>
+    Ira Blader<br>
+    Isabelle Coppens<br>
+    J. Philipp Benz<br>
+    Jack Sunter<br>
+    Jair Siqueira-Neto<br>
+    James Davis<br>
   </div>
+
+  <div class="column4">
+    Jane Usher<br>
+    Janet Yee<br>
+    Jason Stajich<br>
+    Jean-Philippe David<br>
+    Jeffrey Dvorin<br>
+    Jennifer L Small-Saunders<br>
+    Jessica C Kissinger<br>
+    Jesús Valdés<br>
+    Jigang Yin<br>
+    Joana Carneiro da Silva<br>
+    Joana Santos<br>
+    Joanna C Young<br>
+    Johanna Rhodes<br>
+    John Crawford Samuelson<br>
+    John Gillespie<br>
+    John H Adams<br>
+    John Panepinto<br>
+    John Xu<br>
+    Jonathan D. Herman<br>
+    Jonathan Daniel Ip<br>
+    Jonathan Kurtis<br>
+    Jorge Diaz Rodriguez<br>
+    Jorge Enrique  Gomez-Marin<br>
+    Jory Brinkerhoff<br>
+    José Sánchez Arribas<br>
+    Joseph T. Smith Jr.<br>
+    Josh Beck<br>
+    Joshua B Benoit<br>
+    Jude Marek Przyborski<br>
+    Julia Pinheiro Chagas da Cunha<br>
+    Julian Rayner<br>
+    Juliane Lippmann<br>
+    Juliette Surleve-Bazeille<br>
+    Junya Yamagishi<br>
+    Kai Zhang<br>
+    Karen Shapiro<br>
+    Karine Le Roch<br>
+    Katarzyna Modrzynska<br>
+    Katerina Artavanis-Tsakonas<br>
+    Katherine Borkovich<br>
+    Kathy Barker<br>
+    Ke Hu<br>
+    Keith Gull<br>
+    Keith Matthews<br>
+    Kelly Tatchell<br>
+  </div>
+</div>
