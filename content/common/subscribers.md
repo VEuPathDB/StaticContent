@@ -205,12 +205,12 @@ h1, h2 {
         David Horn<br>
         David Majerowicz<br>
         David Sibley<br>
-        DAVID WILLIAMS<br>
+        David Williams<br>
         Debopam Chakrabarti<br>
         Deborah Bell-Pedersen<br>
         Deborah Telahun<br>
         Derek Gatherer<br>
-        Deshmukh GOPAUL<br>
+        Deshmukh Gopaul<br>
         Deveney Dasilva<br>
         Dinkorma Ouologuem<br>
         Dolores González-Pacanowska<br>
