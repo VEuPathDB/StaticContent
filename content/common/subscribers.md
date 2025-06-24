@@ -8,31 +8,24 @@ tags: [general]
  div.container {
   display: flex;
   flex-wrap: wrap;
-  gap: 1em; /* Optional: space between columns */
+  gap: 1em; /* space between columns */
 }
 
 div.column1, div.column2, div.column3, div.column4 {
-  flex: 1 1 22%;  /* Each takes about 22% width + gap space */
+  flex: 1 1 22%;
   border-radius: .5em;
   border: 1px solid lightblue;
-  background: #e6f7fd78;
   padding: 0 1em 0.5em;
-  min-width: 12em;  /* Prevents the columns from shrinking too small on narrow screens */
+  min-width: 12em;
 }
 
-div.column2 {
-  border: 1px solid #dbb667a6;
-  background: #fdf9e696;
+/* Two-tone backgrounds */
+div.column1, div.column3 {
+  background: #f9f9f9; /* light grey */
 }
 
-div.column3 {
-  border: 1px solid #b6d7a8a6;
-  background: #eafaf1;
-}
-
-div.column4 {
-  border: 1px solid #d6a8d7a6;
-  background: #f9e6fd;
+div.column2, div.column4 {
+  background: #ffffff; /* white */
 }
 
 @media only screen and (max-width: 50em) {
@@ -111,7 +104,7 @@ div.column4 {
     Camila Queiroz<br>
     Carlos Jhonfreider Vargas Torres<br>
     Carmen Faso<br>
-    Carol A GIlchrist<br>
+    Carol A Gilchrist<br>
     Caroline Dewar<br>
     Caroline Ng<br>
     Carolyn McBride<br>
