@@ -106,7 +106,7 @@ h1, h2 {
 </head>
 <body>
   <div class="container">
-    <h1>VEuPathDB acknowledges all its subscribers who make keeping this resource open access for all possible. We encourage you to subscribe your lab or talk to your colleagues to remind them of the importance of subscribing to VEuPathDB.</h1>
+    <h2>VEuPathDB acknowledges all its subscribers who make keeping this resource open access for all possible. We encourage you to subscribe your lab or talk to your colleagues to remind them of the importance of subscribing to VEuPathDB.</h2>
     <h2>2024 subscribers</h2>
 
     <h2>Individuals/Labs</h2>
