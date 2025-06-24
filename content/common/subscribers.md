@@ -147,7 +147,6 @@ h1, h2 {
         Arnaldo Lopes Colombo<br>
         Arthur Gunzl<br>
         Arthur J Lustig<br>
-        Aspergillus gambii<br>
         Assoc Danny Wilson<br>
         Audrey John<br>
         Augusto Simoes-Barbosa<br>
@@ -225,7 +224,7 @@ h1, h2 {
         Elizabeth Egan<br>
         Elizabeth McGraw<br>
         Elizabeth Winzeler<br>
-        ellen bushell<br>
+        Ellen Bushell<br>
         Ellen Knuepfer<br>
         Isabel Roditi<br>
         Emily Kindon<br>
