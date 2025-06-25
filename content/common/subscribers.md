@@ -236,7 +236,6 @@ Fiyinfoluwa Ojeniyi<br>
 Flaminia Catteruccia<br>
 Franck Dumetz<br>
 Frédéric Bringaud<br>
-Fundação GIMM<br>
 Gabriella Freitas Ferreira<br>
 Galadriel Hovel-Miner<br>
 Gary Ward<br>
@@ -337,6 +336,7 @@ Marcus Lee<br>
 Margaret Phillips<br>
 Maria E Francia<br>
 Maria Martha Corvi<br>
+Maria Mota<br>
 Marine Petit<br>
 Mariusz Nowacki<br>
 Mark Carrington<br>
@@ -375,7 +375,7 @@ Monica Mugnier<br>
 Moritz Treeck<br>
 Nadia PONTS<br>
 Naimi Eya<br>
-Nancy GUILLEN<br>
+Nancy Guillen<br>
 Nancy P. Keller<br>
 Naomi Morrissette<br>
 Natalia de Miguel<br>
@@ -430,7 +430,6 @@ Sean Prigge<br>
 Sebastian Lourido<br>
 Serap Aksoy<br>
 Sharon Hill<br>
-SheinerLab Member<br>
 Shin Hatakeyama<br>
 Shiroh Iwanaga<br>
 Shobha Sanjeewani Gunathilaka<br>
@@ -451,7 +450,7 @@ Tamara Doering<br>
 Tan laboratory<br>
 Tania de Koning-Ward<br>
 Tansy Hammarton<br>
-teresa cruz bustos<br>
+Teresa Cruz Bustos<br>
 Terry Smith<br>
 Terry W. Hill<br>
 Thais Lemos Da Silva<br>
