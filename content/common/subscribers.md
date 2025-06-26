@@ -112,7 +112,7 @@ h1, h2 {
     <h2>Individuals/Labs</h2>
     <div class="columns">
       <div class="column">
-        Abhinay Ramaprasad<br>
+Abhinay Ramaprasad<br>
 Achim Schnaufer<br>
 Adam Sateriale<br>
 Ademir de Jesus Martins Junior<br>
@@ -120,6 +120,7 @@ Agnes Murk<br>
 Akhil Vaidya<br>
 Alan Fairlamb<br>
 Aleeza Gerstein<br>
+Alex Rowe<br>
 Alexander Paredez<br>
 Alexie Papanicolaou<br>
 Alicia Martín Pavón<br>
@@ -133,6 +134,7 @@ Andrew D. Klocko<br>
 Andrew Jackson<br>
 Andrew Maclean<br>
 Andrew Osborne<br>
+Andy Waters<br>
 Angela Kaysel Cruz<br>
 Ángela López gil <br>
 Anita Koshy<br>
@@ -141,10 +143,10 @@ Antje Labes<br>
 Antonio M Estévez<br>
 Antonio Mauro Rezende<br>
 Aoife Heaslip<br>
+Arnab Pain<br>
 Arnaldo Lopes Colombo<br>
 Arthur Gunzl<br>
 Arthur J Lustig<br>
-Danny Wilson<br>
 Audrey John<br>
 Augusto Simoes-Barbosa<br>
 Bang Shen<br>
@@ -154,7 +156,6 @@ Bill Sullivan<br>
 Bill Wickstead<br>
 Bjorn Kafsack<br>
 Bob Testing<br>
-Mélanie Bonhivers <br>
 Boris Striepen<br>
 Brooke Clemons<br>
 Bruno Martorelli Di Genova<br>
@@ -173,6 +174,7 @@ Chet Joyner<br>
 Chi-Min Ho<br>
 Chiara Curra<br>
 Choukri Ben Mamoun<br>
+Christian Schmitz-Linneweber<br>
 Christina Hull<br>
 Christine Clayton <br>
 Christopher Luis de Graffenried<br>
@@ -189,6 +191,7 @@ Danae Schulz<br>
 Dandan Hu<br>
 Daniel Goldberg<br>
 Daniel Youssef Bargieri<br>
+Danny Wilson<br>
 Dave Richard<br>
 David Canovas Lopez<br>
 David Horn<br>
@@ -199,20 +202,18 @@ Debopam Chakrabarti<br>
 Deborah Bell-Pedersen<br>
 Deborah Telahun<br>
 Derek Gatherer<br>
-Deshmukh Gopaul<br>
-Deveney Dasilva<br>
-Dinkorma Ouologuem<br>
       </div>
 
       <div class="column">
+Deshmukh Gopaul<br>
+Deveney Dasilva<br>
+Dinkorma Ouologuem<br>
 Dolores González-Pacanowska<br>
 Domenico Modaffari<br>
 Dominique Soldati-Favre<br>
 Donald Ross<br>
 Dong Xia<br>
 Doug Brackney<br>
-Tansy Hammarton<br>
-Mattie Christine Pawlowic<br>
 Dyann Wirth<br>
 Elizabeth Ballou<br>
 Elizabeth Egan<br>
@@ -224,16 +225,14 @@ Emily Kindon<br>
 Emma Wilson<br>
 Erich Loza Telleria<br>
 Erin McClelland<br>
+Eva Gluentz<br>
 Evelien Bunnik<br>
 Fátima Durán Manzaneque<br>
 Felipe Santiago-Tirado<br>
 Fiyinfoluwa Ojeniyi<br>
 Flaminia Catteruccia<br>
-Mohamed Ali Hakimi<br>
 Franck Dumetz<br>
 Frédéric Bringaud<br>
-Maria Mota<br>
-Natalia de Miguel<br>
 Gabriella Freitas Ferreira<br>
 Galadriel Hovel-Miner<br>
 Gary Ward<br>
@@ -241,10 +240,13 @@ Geoffrey Ian McFadden<br>
 George Diallinas<br>
 Gerhard Wunderlich<br>
 Guus Bakkeren<br>
+Hagai Ginsburg<br>
 Heather Bradley<br>
 Heng Zhang<br>
 Howard Judelson<br>
 Ira Blader<br>
+Isabel Roditi<br>
+J. Philipp Benz <br>
 Jack Sunter<br>
 Jair Siqueira-Neto<br>
 James Davis<br>
@@ -276,6 +278,7 @@ José Sánchez Arribas<br>
 Joseph T. Smith Jr.<br>
 Josh Beck<br>
 Joshua B Benoit<br>
+Jude Marek Przyborski<br>
 Julia Pinheiro Chagas da Cunha<br>
 Julian Rayner<br>
 Juliane Lippmann<br>
@@ -292,12 +295,12 @@ Ke Hu<br>
 Keith Gull<br>
 Keith Matthews<br>
 Kelly Tatchell<br>
-Kevin Vogel<br>
-Kim Williamson<br>
-Kirk Deitsch<br>
       </div>
 
       <div class="column">
+Kevin Vogel<br>
+Kim Williamson<br>
+Kirk Deitsch<br>
 Klaus Ersfeld<br>
 Kojo Mensa-Wilmot<br>
 Koon Ho Wong<br>
@@ -311,7 +314,6 @@ Laila P. Partida-Martínez<br>
 Laura Cuesta Carazo<br>
 Laura Knoll<br>
 Laura Vanagas<br>
-Maryse Lebrun<br>
 Lilach Sheiner<br>
 Linda Anagu<br>
 Lizbeth Hedstrom<br>
@@ -319,7 +321,6 @@ LJ Zwiebel<br>
 Lori Huberman<br>
 Louis Martin Weiss<br>
 Lowri Williams<br>
-Nicolai Siegel<br>
 Luis Alberto Rivera Rivas<br>
 Luis F. Larrondo<br>
 Luisa Figueiredo<br>
@@ -332,16 +333,20 @@ Marcus Lee<br>
 Margaret Phillips<br>
 Maria E Francia<br>
 Maria Martha Corvi<br>
+Maria Mota<br>
 Marine Petit<br>
+Mariusz Nowacki<br>
 Mark Carrington<br>
 Mark Field<br>
 Mark R. Marten<br>
 Markus Engstler<br>
+Markus Meissner<br>
 Marta MIlla Ciriano<br>
 Martin A Winkler<br>
 Martin Wiese<br>
 Martina Paoletta<br>
 Marvin J Meyers<br>
+Maryse Lebrun<br>
 Masahito Asada<br>
 Masayuki Nakanishi<br>
 Matthew Berriman<br>
@@ -349,8 +354,10 @@ Matthew DeGennaro<br>
 Matthew S. Sachs<br>
 Matthias Garten<br>
 Matthias Marti<br>
+Mattie Christine Pawlowic<br>
 Meetali Singh<br>
 Megan Povelones<br>
+Mélanie Bonhivers <br>
 Melissa Leger-Abraham<br>
 Michael Boshart<br>
 Michael Ferdig<br>
@@ -360,6 +367,7 @@ Mike Osta<br>
 Minou Nowrousian<br>
 Mira Zelle<br>
 Miriam Griesheimer<br>
+Mohamed Ali Hakimi<br>
 Molly Duman Scheel<br>
 Monica Mugnier<br>
 Moritz Treeck<br>
@@ -368,6 +376,8 @@ Naimi Eya<br>
 Nancy Guillen<br>
 Nancy P. Keller<br>
 Naomi Morrissette<br>
+Natalia de Miguel<br>
+Nicolai Siegel<br>
 Nicolas Buchler<br>
 Noah Rose<br>
 Noelia Lander<br>
@@ -377,30 +387,18 @@ Oier Etxebeste<br>
 Oliver Billker<br>
 Omar Hamarsheh<br>
 Osama Zahid<br>
-Osamu Kaneko<br>
-Patricia Cuellar<br>
+Osamu Kaneko<br>Patricia Cuellar<br>
 Patricia Lakin-Thomas<br>
 Patricia V. Pietrantonio<br>
 Patricia Y. Scaraffia<br>
 Paul Denny<br>
 Paul Magwene<br>
 Paul Sigala<br>
+Pegine Walrad<br>
 Pekka Lappalainen<br>
 Peter Bradley<br>
-Prem Prakash<br>
-      </div>
-
-      <div class="column">
-Alex Rowe<br>
-Hagai Ginsburg<br>
-Arnab Pain<br>
-Christian Schmitz-Linneweber<br>
-Jude Marek Przyborski<br>
-Vera Meyer<br>
-Isabel Roditi<br>
-Markus Meissner<br>
 Philipp Olias<br>
-Utpal Tatu<br>
+Prem Prakash<br>
 Purnima Bhanot<br>
 Rahul Pasupureddy<br>
 Raina Fichorova<br>
@@ -443,6 +441,7 @@ Sumit Mukherjee<br>
 Susanne Kramer<br>
 Tamara Doering<br>
 Tania de Koning-Ward<br>
+Tansy Hammarton<br>
 Teresa Cruz Bustos<br>
 Terry Smith<br>
 Terry W. Hill<br>
@@ -451,19 +450,18 @@ Thomas Lavstsen<br>
 Tiago Wilson Patriarca Mineo<br>
 Tomoyoshi Nozaki<br>
 Toshihiro Mita<br>
-J. Philipp Benz <br>
-Andy Waters<br>
+Utpal Tatu<br>
 V. Arun Nagaraj<br>
 Valentin Greigert<br>
 Valeria Tekiel<br>
 Vasant Muralidharan<br>
+Vera Meyer<br>
 Victoria Jeffers<br>
 Virginia Howick<br>
 Volker Heussler<br>
 Wenzhou Medical University<br>
 Xiaorong Lin<br>
 Xin Xiang<br>
-Pegine Walrad<br>
 Yi-Wei Chang<br>
 Yifan Wang<br>
 Yonggen Jia<br>
@@ -472,8 +470,6 @@ Yumiko Nakano<br>
 Yvon Sterkers<br>
 Zach Adelman<br>
 Zachary Lewis<br>
-Eva Gluentz<br>
-Mariusz Nowacki<br>
 Zhicheng Dou<br>
 Ziyin Li<br>
       </div>
