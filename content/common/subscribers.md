@@ -393,7 +393,10 @@ Oier Etxebeste<br>
 Oliver Billker<br>
 Omar Hamarsheh<br>
 Osama Zahid<br>
-Osamu Kaneko<br>Patricia Cuellar<br>
+Osamu Kaneko<br>
+</div>
+<div class="column">
+Patricia Cuellar<br>
 Patricia Lakin-Thomas<br>
 Patricia V. Pietrantonio<br>
 Patricia Y. Scaraffia<br>
