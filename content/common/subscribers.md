@@ -136,7 +136,7 @@ Andrew Maclean<br>
 Andrew Osborne<br>
 Andy Waters<br>
 Angela Kaysel Cruz<br>
-Ángela López gil <br>
+Ángela López Gil <br>
 Anita Koshy<br>
 Anthony A. James<br>
 Antje Labes<br>
@@ -219,7 +219,7 @@ Elizabeth Ballou<br>
 Elizabeth Egan<br>
 Elizabeth McGraw<br>
 Elizabeth Winzeler<br>
-ellen bushell<br>
+Ellen Bushell<br>
 Ellen Knuepfer<br>
 Emily Kindon<br>
 Emma Wilson<br>
