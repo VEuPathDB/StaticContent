@@ -114,7 +114,7 @@ h1, h2 {
     <ul>
     <li>to respect the privacy of our subscribers, this list only cites those who have approproved inclusion of their name</li>
 <li>note that some labs are covered by pooled institutional subscriptions (see below)</li>
-</ul>
+</ul><br>
 
     <div class="columns">
       <div class="column">
