@@ -106,10 +106,16 @@ h1, h2 {
 </head>
 <body>
   <div class="container">
-    <h2>VEuPathDB acknowledges all its subscribers who make keeping this resource open access for all possible. We encourage you to subscribe your lab or talk to your colleagues to remind them of the importance of subscribing to VEuPathDB.</h2>
-    <h2>2024 subscribers</h2>
+  <h2>2024 Subscribers – invoices received as of 25 June 2025, even if the financial transfer is still in process</h2>
+    <h2>VEuPathDB acknowledges all subscribers for doing their part to keep essential informatics resources accessible to all!</h2>
+<h3>Please be sure that your lab has subscribed … and feel free to remind colleagues about the importance of subscribing to VEuPathDB.</h3>
+<h3><i>How will we continue to attract the best and the brightest to work in these areas unless essential research data is readily accessible?</i></h3>
+    <h2>Individuals / Laboratories</h2>
+    <ul>
+    <li>to respect the privacy of our subscribers, this list only cites those who have approproved inclusion of their name</li>
+<li>note that some labs are covered by pooled institutional subscriptions (see below)</li>
+</ul>
 
-    <h2>Individuals/Labs</h2>
     <div class="columns">
       <div class="column">
 Abhinay Ramaprasad<br>
