@@ -484,7 +484,7 @@ Ziyin Li<br>
       </div>
     </div>
 <br>
-    <h2>Institutions</h2>
+    <h2>Institutional Subscriptions</h2>
     <div class="institutions">
       Robert Koch-Institute (Unit 16)<br>
       Institute of Parasitology<br>
