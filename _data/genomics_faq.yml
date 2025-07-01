@@ -151,6 +151,12 @@
   uid: invoice
   projects: ""
 - type: fees
+  question: "How should I access VEuPathDB after paying my subscription fee?"
+  answer: |  
+           Subscribed users should continue using the databases using their registered login name/email and password. We expect to soon roll out modifications to the VEuPathDB web site clearly indicating that you are a database subscriber.
+  uid: accessdb
+  projects: ""
+- type: fees
   question: "Will I be billed annually?"
   answer: |  
            Subscriptions cover the January-December calendar year.  Current subscribers will be contacted each December for the coming year.
