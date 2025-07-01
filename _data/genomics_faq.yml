@@ -153,7 +153,7 @@
 - type: fees
   question: "How should I access VEuPathDB after paying my subscription fee?"
   answer: |  
-           Subscribed users should continue using the databases using their registered login name/email and password. We expect to soon roll out modifications to the VEuPathDB web site clearly indicating that you are a database subscriber.
+           Subscribed users should continue using the databases using their registered login name/email and password. [Register here](https://veupathdb.org/veupathdb/app/user/registration) if you don't already have an account. Your account will work across all VEuPathDB component sites. We expect to soon roll out modifications to the VEuPathDB web site clearly indicating that you are a database subscriber.
   uid: accessdb
   projects: ""
 - type: fees
