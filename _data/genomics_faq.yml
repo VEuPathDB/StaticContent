@@ -116,7 +116,7 @@
 - type: fees
   question: "What if only a portion of my laboratory uses VEuPathDB resources?"
   answer: |  
-           The [subscription page](/a/app/static-content/subscriptions.html) links to a fee calculator to (privately) facilitate calculations when only a subset of the group works on topics supported by VEuPathDB.  Please do consider, however, that even users not directly engaged in genomics research (<i>e.g.</i> immunologists, chemists, field biologists) often use these databases regularly for sequences & primer/guide design, assessing exposed epitopes, determining parameters associated with gene expression, essentiality data, gene set enrichment analysis, <i>etc</i>. 
+           The [subscription page](/a/app/static-content/subscriptions.html) links to a fee calculator to (privately) facilitate calculations when only a subset of your group works on topics supported by VEuPathDB.  For example, if your total lab budget (including all salaries, institutional overhead, etc) is $500K, and this supports 6 people, all of whom use VEuPathDB regularly, the recommended assessment of 1-2% = $5-10K. But if this budget supports 8 people, 4 of whom who use VEuPathDB regularly and 4 not at all because they work on an unrelated topic, only half of the budget would be relevant, leading to an assessment of $2.5-5K.  Please do consider, however, that even users not directly engaged in genomics research (immunologists, chemists, field biologists, etc) often use these databases occasionally – for sequences & primer/guide design, assessing exposed epitopes, determining parameters associated with gene expression, essentiality data, gene set enrichment analysis, <i>etc</i>. 
   uid: whatifportion
   projects: ""
 - type: fees
