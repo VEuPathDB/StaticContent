@@ -75,7 +75,14 @@ title: VEuPathDB landing
 <div align="center">
 <p>
 <h4>VEuPathDB Calendar of Events</h4>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=YnJjZ2F0ZXdheUBnbWFpbC5jb20&amp;src=Y19xbG9ncGFwYnViZmh1M2c3cmgzZWsyODlhY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=YnZicmMxQGdtYWlsLmNvbQ&amp;color=%23039BE5&amp;color=%23F09300&amp;color=%23E4C441&amp;showTz=1&amp;showCalendars=0&amp;showTabs=1&amp;showPrint=0&amp;showDate=1&amp;showNav=1&amp;showTitle=0" style="border-width:0" width="1000" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe
+  src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=c_qlogpapbubfhu3g7rh3ek289ac@group.calendar.google.com&color=%23039BE5&showTz=1&showCalendars=0&showTabs=0&showPrint=0&showDate=1&showNav=1&showTitle=0"
+  style="border-width:0"
+  width="1000"
+  height="500"
+  frameborder="0"
+  scrolling="no">
+</iframe>
 </p>
 </div>
 
