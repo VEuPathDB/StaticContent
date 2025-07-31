@@ -106,7 +106,7 @@ h1, h2 {
 </head>
 <body>
   <div class="container">
-  <h2>2024 Subscribers – invoices received as of 25 June 2025, even if the financial transfer is still in process</h2>
+  <h2>2025 Subscribers – invoices received as of 25 June 2025, even if the financial transfer is still in process</h2>
     <h2>VEuPathDB acknowledges all subscribers for doing their part to keep essential informatics resources accessible to all!</h2>
 <h3>Please be sure that your lab has subscribed … and feel free to remind colleagues about the importance of subscribing to VEuPathDB.</h3>
 <h3><i>How will we continue to attract the best and the brightest to work in these areas unless essential research data is readily accessible?</i></h3>
@@ -188,9 +188,6 @@ DeGennaro group, Florida Intl Univ US<br>
 Deitsch group, Weill Cornell Med US<br>
 Denny group, Durham Univ UK<br>
 Dewar group, Lancaster Univ UK<br>
-      </div>
-
-      <div class="column">
 Docampo group, Univ GA US<br>
 Doering group, Washington Univ US<br>
 Dvorin group, Boston Children's Hosp US<br>
@@ -213,6 +210,9 @@ Gluenz group, Univ Bern CH<br>
 Goldberg group, Washington Univ US<br>
 Gomez-Marin group /GEPAMOL, Univ Quindio  CO<br>
 González-Pacanowska group, Natl Research Council (CSIC) ES<br>
+      </div>
+
+      <div class="column">
 Gopaul group, Inst Pasteur FR<br>
 Graffenried group, Brown Univ US<br>
 Gubbels group, Boston College US<br>
@@ -261,9 +261,6 @@ Lander group, Univ Cincinnati US<br>
 Lane group, Idaho State Univ US<br>
 Lavazec group, Inst Cochin FR<br>
 Lavstsen group, Univ Copenhagen DK<br>
-      </div>
-
-      <div class="column">
 Le Roch group, Univ California Riverside US<br>
 Lebrun group, Univ Montpellier FR<br>
 Lee group, Rutgers Univ, US<br>
@@ -308,6 +305,9 @@ Navarro group, Natl Research Council (CSIC) ES<br>
 Ng group, Univ Nebraska US<br>
 Nowacki group, Univ Bern CH<br>
 Nowrousian group, Ruhr Univ Bochum DE<br>
+      </div>
+
+      <div class="column">
 Nozaki group, Univ Tokyo JP<br>
 Oakley group, Univ Kansas US<br>
 Odom John group / Children's Hosp Philadelphia, Univ Pennsylvania US<br>
@@ -334,8 +334,6 @@ Richard group, Univ Laval CA<br>
 Rijo-Ferreira group, UC Berkeley US<br>
 Roditi group, Univ Bern CH<br>
 Rose group, Univ California San Diego US<br>
-</div>
-<div class="column">
 Rowe group, Univ Edinburgh UK<br>
 Sachs group, Texas A&M Univ US<br>
 Samuelson group, Boston Univ US<br>
@@ -401,7 +399,8 @@ Zhu group, Jilin Univ CN<br>
 Zhu group, Jilin Univ CN<br>
 Zimmer group, Univ Minnesota US<br>
 Zwiebel group, Vanderbilt Univ US<br>
-      </div>
+</div>
+
     </div>
 <br>
     <h2>Institutional Subscriptions</h2>
