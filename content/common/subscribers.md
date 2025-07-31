@@ -118,389 +118,307 @@ h1, h2 {
 
     <div class="columns">
       <div class="column">
-Abhinay Ramaprasad<br>
-Achim Schnaufer<br>
-Adam Sateriale<br>
-Ademir de Jesus Martins Junior<br>
-Agnes Murk<br>
-Akhil Vaidya<br>
-Alan Fairlamb<br>
-Aleeza Gerstein<br>
-Alex Rowe<br>
-Alexander Paredez<br>
-Alexie Papanicolaou<br>
-Alicia Martín Pavón<br>
-Amit Sharma<br>
-An Xie<br>
-Ana Cecilia Ramon Pacheco<br>
-Ana María Cevallos Gaos<br>
-Ana Tomás<br>
-André Ricardo de Lima Damasio<br>
-Andrew D. Klocko<br>
-Andrew Jackson<br>
-Andrew Maclean<br>
-Andrew Osborne<br>
-Andy Waters<br>
-Angela Kaysel Cruz<br>
-Ángela López Gil <br>
-Anita Koshy<br>
-Anthony A. James<br>
-Antje Labes<br>
-Antonio M Estévez<br>
-Antonio Mauro Rezende<br>
-Aoife Heaslip<br>
-Arnab Pain<br>
-Arnaldo Lopes Colombo<br>
-Arthur Gunzl<br>
-Arthur J Lustig<br>
-Audrey John<br>
-Augusto Simoes-Barbosa<br>
-Bang Shen<br>
-Berl R. Oakley<br>
-Bibo Li<br>
-Bill Sullivan<br>
-Bill Wickstead<br>
-Bjorn Kafsack<br>
-Bob Testing<br>
-Boris Striepen<br>
-Brooke Clemons<br>
-Bruno Martorelli Di Genova<br>
-Bungo Akiyoshi<br>
-Camila Queiroz<br>
-Carlos Jhonfreider Vargas Torres<br>
-Carmen Faso<br>
-Carol A Gilchrist <br>
-Caroline Dewar<br>
-Caroline Ng<br>
-Carolyn McBride<br>
-Catherine Bourgouin<br>
-Catherine Lavazec<br>
-Chaoyang Xue<br>
-Chet Joyner<br>
-Chi-Min Ho<br>
-Chiara Curra<br>
-Choukri Ben Mamoun<br>
-Christian Schmitz-Linneweber<br>
-Christina Hull<br>
-Christine Clayton <br>
-Christopher Luis de Graffenried<br>
-Clare Harding<br>
-Clemens Kocken, PhD<br>
-Colin James Sutherland<br>
-Cora Dee<br>
-Craig A. Bingman<br>
-Cristian Koepfli<br>
-Damer Blake<br>
-Damian Ekiert<br>
-Damian Krysan<br>
-Danae Schulz<br>
-Dandan Hu<br>
-Daniel Goldberg<br>
-Daniel Youssef Bargieri<br>
-Danny Wilson<br>
-Dave Richard<br>
-David Canovas Lopez<br>
-David Horn<br>
-David Majerowicz <br>
-David Sibley<br>
-David Williams<br>
-Debopam Chakrabarti<br>
-Deborah Bell-Pedersen<br>
-Deborah Telahun<br>
-Derek Gatherer<br>
+Abbas group, Mansoura Univ EG<br>
+Absalon group, Indiana Univ Sch Med US<br>
+Adams group, Univ South Florida US<br>
+Adelman group, Texas A&M Univ US<br>
+Akiyoshi group, Univ Edinburgh UK<br>
+Aksoy group, Yale Univ US<br>
+Alout group, Natl Research Inst Agriculture, Food & Environment (INRAE) FR<br>
+Alphey group, Univ York UK<br>
+Alsford group, London Sch Hygiene Tropical Med (LSHTM) UK<br>
+Amino group, Inst Pasteur FR<br>
+Ana Ramón, Univ Republica UY<br>
+Artavanis-Tsakonas group, Univ Cambridge UK<br>
+Asada group, Obihiro Univ Agriculture & Vet Med JP<br>
+Asgari group, Univ Queensland AU<br>
+Baker group, London Sch Hygiene & Tropical Med (LSHTM) UK<br>
+Bakkeren group, Agriculture & Agri-Food CA<br>
+Ballou group, Univ Exeter UK<br>
+Barbosa group, Univ Auckland NZ<br>
+Bargieri group, Univ Sao Paulo BR<br>
+Barrett group, Univ Glasgow UK<br>
+Beck group, Iowa State Univ US<br>
+Bell-Pedersen group, Texas A&M Univ US<br>
+Ben Mamoun group, Yale Univ US<br>
+Benoit group, Univ Cincinnati US<br>
+Benz group, Technical Univ Munich DE<br>
+Berriman group, Univ Glasgow UK<br>
+Bhabha & Ekiert groups, Johns Hopkins Univ US<br>
+Bhanot group, Rutgers NJMS US<br>
+Biggs group, New York State Dept Health US<br>
+Billker group, Umeå Univ SE<br>
+Biotech-advisor.com US<br>
+Björn Kafsack US<br>
+Blader group, Virginia Tech US<br>
+Blake group, Royal Veterinary College UK<br>
+Blandin group (Mosquito Immune Responses / IBMC) Univ Strasbourg FR<br>
+Bonhivers group, CNRS/Univ Bordeaux FR<br>
+Borkovich group, Univ California Riverside US<br>
+Boshart group, LMU Munich DE<br>
+Bourgouin group, Inst Pasteur FR<br>
+Boyle group, Univ Pittsburgh US<br>
+Brackney group, Connecticut Agricultural Experiment Stn US<br>
+Bradley group, Univ California Los Angeles US<br>
+Bringaud group, Univ Bordeaux FR<br>
+Buchler group, North Carolina State Univ US<br>
+Bunnik group, Univ Texas Health San Antonio US<br>
+Burchmore group, Univ Glasgow UK<br>
+Bushell group, Umeå Univ SE<br>
+Bustos group, Univ Veterinary Medicine AT<br>
+Carrington group, Univ Cambridge UK<br>
+Catteruccia group, Harvard Univ US<br>
+Cevallos group, Natl Autonomous Univ México MX<br>
+Chakrabarti group, Univ Central Florida US<br>
+Chiurillo group, Univ Cincinnati US<br>
+Christine Clayton DE<br>
+Corvi group, Chascomús Technol Inst (INTECH) AR<br>
+Crispim group, Fed Univ Alfenas BR<br>
+Cruz group, Univ São Paulo BR<br>
+Curra group, Inst Superiore di Sanità IT<br>
+D Hu group, Guangxi Univ CN<br>
+Damasio group / LEBIMO, State Univ Campinas BR<br>
+Danae Schulz, Harvey Mudd College US<br>
+Davis group, Univ Iowa US<br>
+de Koning-Ward group, Deakin Univ AU<br>
+de Miguel group, Chascomús Technol Inst (INTECH) AR<br>
+De Rucker group / Pathogen Biology, Univ Dundee UK<br>
+Dean group, Univ Warwick UK<br>
+DeGennaro group, Florida Intl Univ US<br>
+Deitsch group, Weill Cornell Med US<br>
+Denny group, Durham Univ UK<br>
+Dewar group, Lancaster Univ UK<br>
       </div>
 
       <div class="column">
-Deshmukh Gopaul<br>
-Deveney Dasilva<br>
-Dinkorma Ouologuem<br>
-Dolores González-Pacanowska<br>
-Domenico Modaffari<br>
-Dominique Soldati-Favre<br>
-Donald Ross<br>
-Dong Xia<br>
-Doug Brackney<br>
-Dyann Wirth<br>
-Elizabeth Ballou<br>
-Elizabeth Egan<br>
-Elizabeth McGraw<br>
-Elizabeth Winzeler<br>
-Ellen Bushell<br>
-Ellen Knuepfer<br>
-Emily Kindon<br>
-Emma Wilson<br>
-Erich Loza Telleria<br>
-Erin McClelland<br>
-Eva Gluentz<br>
-Evelien Bunnik<br>
-Fátima Durán Manzaneque<br>
-Felipe Santiago-Tirado<br>
-Fiyinfoluwa Ojeniyi<br>
-Flaminia Catteruccia<br>
-Franck Dumetz<br>
-Frédéric Bringaud<br>
-Gabriella Freitas Ferreira<br>
-Galadriel Hovel-Miner<br>
-Gary Ward<br>
-Geoffrey Ian McFadden<br>
-George Diallinas<br>
-Gerhard Wunderlich<br>
-Guus Bakkeren<br>
-Hagai Ginsburg<br>
-Heather Bradley<br>
-Heng Zhang<br>
-Howard Judelson<br>
-Ira Blader<br>
-Isabel Roditi<br>
-J. Philipp Benz <br>
-Jack Sunter<br>
-Jair Siqueira-Neto<br>
-James Davis<br>
-Jane Usher<br>
-Janet Yee<br>
-Jason Stajich<br>
-Jean-Philippe David<br>
-Jeffrey Dvorin<br>
-Jennifer L Small-Saunders<br>
-Jessica C Kissinger<br>
-Jesús Valdés<br>
-Jigang Yin<br>
-Joana Carneiro da Silva<br>
-Joana Santos<br>
-Joanna C Young<br>
-Johanna Rhodes<br>
-John Crawford Samuelson<br>
-John Gillespie<br>
-John H Adams<br>
-John Panepinto<br>
-John Xu<br>
-Jonathan D. Herman<br>
-Jonathan Daniel Ip<br>
-Jonathan Kurtis<br>
-Jorge Diaz Rodriguez<br>
-Jorge Enrique  Gomez-Marin<br>
-Jory Brinkerhoff<br>
-José Sánchez Arribas<br>
-Joseph T. Smith Jr.<br>
-Josh Beck<br>
-Joshua B Benoit<br>
-Jude Marek Przyborski<br>
-Julia Pinheiro Chagas da Cunha<br>
-Julian Rayner<br>
-Juliane Lippmann<br>
-Juliette Surleve-Bazeille<br>
-Junya Yamagishi<br>
-Kai Zhang<br>
-Karen Shapiro<br>
-Karine Le Roch<br>
-Katarzyna Modrzynska<br>
-Katerina Artavanis-Tsakonas<br>
-Katherine Borkovich<br>
-Kathy Barker<br>
-Ke Hu<br>
-Keith Gull<br>
-Keith Matthews<br>
-Kelly Tatchell<br>
+Docampo group, Univ GA US<br>
+Doering group, Washington Univ US<br>
+Dvorin group, Boston Children's Hosp US<br>
+Dzikowski group, Hebrew Univ IL<br>
+Egan group, Stanford Univ US<br>
+Ersfeld group, Univ Bayreuth DE<br>
+Estevez group, Natl Research Council (CSIC) ES<br>
+Etxebeste group, Univ Basque Country ES<br>
+Faso Group, Univ Bern CH<br>
+Ferdig group / Malaria Crosses Collaboration, Univ Notre Dame US<br>
+Fichorova, Brigham & Women's Hospital, Harvard Univ US<br>
+Field group, Univ Dundee UK<br>
+Francia group, Inst Pasteur Montevideo UY<br>
+Free group, Univ Buffalo US<br>
+Gadelha group, Univ Nottingham UK<br>
+Ghedin group, Natl Inst Health US<br>
+Gilchrist & Petri groups, Univ Virginia US<br>
+Gilleard group, Univ Calgary CA<br>
+Gluenz group, Univ Bern CH<br>
+Goldberg group, Washington Univ US<br>
+Gomez-Marin group /GEPAMOL, Univ Quindio  CO<br>
+González-Pacanowska group, Natl Research Council (CSIC) ES<br>
+Gopaul group, Inst Pasteur FR<br>
+Graffenried group, Brown Univ US<br>
+Gubbels group, Boston College US<br>
+Günzl group, Univ Connecticut Health US<br>
+Hagai Ginsburg / Malaria Parasite Metabolic Pathways, Hebrew Univ IL<br>
+Hakimi group, Univ Grenoble Alpes FR<br>
+Hammarton group, Univ Glasgow UK<br>
+Harding group, Univ Glasgow UK<br>
+Hatakeyama group, Saitama Univ JP<br>
+Heaslip group, Univ Connecticut US<br>
+Hedstrom group, Brandeis Univ US<br>
+Heise group, Federal Univ of Rio de Janeiro BR<br>
+Herman group, Univ California Los Angeles US<br>
+Hill & Jackson-Hayes groups, Rhodes College US<br>
+Hill group, Swedish Univ Agricultural Sci SE<br>
+Ho group, Columbia Univ US<br>
+Horn group, Univ Dundee UK<br>
+Hovel-Miner group, Stony Brook Univ US<br>
+Howick group, Univ Glasgow UK<br>
+Huberman group, Cornell Univ US<br>
+Huet group, Univ Georgia US<br>
+Hull group, Univ Wisconsin US<br>
+Jackson group, Univ Liverpool UK<br>
+James group, Gettysburg College US<br>
+James group, UC Irvine US<br>
+Jeffers group, Univ New Hampshire US<br>
+Jia group, Beijing Inst Tropical Med CN<br>
+Jimenez group, California State Univ, Fullerton US<br>
+Joyner group, Univ Georgia US<br>
+Judelson group, Univ California Riverside US<br>
+K Hu group, Arizona State Univ US<br>
+Kaneko group, Nagasaki Univ JP<br>
+Keith Gull, Univ Oxford UK<br>
+Keller group, Univ Wisconsin US<br>
+Klocko group, Univ Colorado Springs (UCCS) US<br>
+Knoll group, Univ Wisconsin Madison US<br>
+Knuepfer group, Royal Veterinary College UK<br>
+Kocken group, Biomedical Primate Research Centre NL<br>
+Koepfli group, Univ Notre Dame US<br>
+Koshy group, Univ Arizona US<br>
+Kramer group, Univ Wuerzburg DE<br>
+Krysan group, Univ Iowa US<br>
+Kurtis group, Brown Univ US<br>
+Lakin-Thomas group, York Univ UK<br>
+Lander group, Univ Cincinnati US<br>
+Lane group, Idaho State Univ US<br>
+Lavazec group, Inst Cochin FR<br>
+Lavstsen group, Univ Copenhagen DK<br>
       </div>
 
       <div class="column">
-Kevin Vogel<br>
-Kim Williamson<br>
-Kirk Deitsch<br>
-Klaus Ersfeld<br>
-Kojo Mensa-Wilmot<br>
-Koon Ho Wong<br>
-Kourosh Zarringhalam<br>
-Krisbel Daniela Escalante Rodríguez  <br>
-Kristin Lane<br>
-Krithika Rajaram<br>
-Kwangwon Lee<br>
-Lai Jiaying<br>
-Laila P. Partida-Martínez<br>
-Laura Cuesta Carazo<br>
-Laura Knoll<br>
-Laura Vanagas<br>
-Lilach Sheiner<br>
-Linda Anagu<br>
-Lizbeth Hedstrom<br>
-LJ Zwiebel<br>
-Lori Huberman<br>
-Louis Martin Weiss<br>
-Lowri Williams<br>
-Luis Alberto Rivera Rivas<br>
-Luis F. Larrondo<br>
-Luisa Figueiredo<br>
-Majeed Bakari Soale<br>
-Manoj Duraisingh<br>
-Manuel Llinas<br>
-Marc-Jan Gubbels<br>
-Marcell Crispim<br>
-Marcus Lee<br>
-Margaret Phillips<br>
-Maria E Francia<br>
-Maria Martha Corvi<br>
-Maria Mota<br>
-Marine Petit<br>
-Mariusz Nowacki<br>
-Mark Carrington<br>
-Mark Field<br>
-Mark R. Marten<br>
-Markus Engstler<br>
-Markus Meissner<br>
-Marta MIlla Ciriano<br>
-Martin A Winkler<br>
-Martin Wiese<br>
-Martina Paoletta<br>
-Marvin J Meyers<br>
-Maryse Lebrun<br>
-Masahito Asada<br>
-Masayuki Nakanishi<br>
-Matthew Berriman<br>
-Matthew DeGennaro<br>
-Matthew S. Sachs<br>
-Matthias Garten<br>
-Matthias Marti<br>
-Mattie Christine Pawlowic<br>
-Meetali Singh<br>
-Megan Povelones<br>
-Mélanie Bonhivers <br>
-Melissa Leger-Abraham<br>
-Michael Boshart<br>
-Michael Ferdig<br>
-Mick Urbaniak<br>
-Miguel Chiurillo<br>
-Mike Osta<br>
-Minou Nowrousian<br>
-Mira Zelle<br>
-Miriam Griesheimer<br>
-Mohamed Ali Hakimi<br>
-Molly Duman Scheel<br>
-Monica Mugnier<br>
-Moritz Treeck<br>
-Nadia Ponts<br>
-Naimi Eya<br>
-Nancy Guillen<br>
-Nancy P. Keller<br>
-Naomi Morrissette<br>
-Natalia de Miguel<br>
-Nicolai Siegel<br>
-Nicolas Buchler<br>
-Noah Rose<br>
-Noelia Lander<br>
-Nuno Carmo<br>
-Oded Yarden<br>
-Oier Etxebeste<br>
-Oliver Billker<br>
-Omar Hamarsheh<br>
-Osama Zahid<br>
-Osamu Kaneko<br>
+Le Roch group, Univ California Riverside US<br>
+Lebrun group, Univ Montpellier FR<br>
+Lee group, Rutgers Univ, US<br>
+Lee group, Univ Dundee UK<br>
+Leger-Abraham group, Harvard Univ US<br>
+Lewis group, Univ Georgia US<br>
+Li group, Cleveland State Univ US<br>
+Li group, Univ Texas Houston US<br>
+Limon Maron lab, Univ Seville ES<br>
+Lin group, Univ Georgia US<br>
+Llinás group, Penn State Univ US<br>
+Lourido group, Whitehead Inst US<br>
+Maclean group, Univ Edinburgh UK<br>
+MacLeod group, Univ Glasgow UK<br>
+Magwene group, Duke Univ US<br>
+Majerowicz group, Univ Fed Rio de Janeiro BR<br>
+Maringer group, Pirbright Inst UK<br>
+Marten group, Univ Maryland US<br>
+Marti group, Univ Glasgow UK<br>
+Martins group (LBCVIV), Inst Oswaldo Cruz (Fiocruz) BR<br>
+Martorelli Di Genova group, Univ Vermont US<br>
+Matthews group, Univ Edinburgh UK<br>
+McBride group, Princeton Univ US<br>
+McClelland group, Wood College Osteopathic Med, Marian Univ US<br>
+McCulloch group, Univ Glasgow UK<br>
+McGraw group, Penn State Univ US<br>
+Meetali group, Indian Inst Science IN<br>
+Meissner group, Ludwig Maximilians Univ DE<br>
+Mensa-Wilmot group, Kennesaw State Univ US<br>
+Merrick group, Univ Cambridge UK<br>
+Meyers group, Saint Louis Univ US<br>
+Mineo group, Federal Univ Uberlândia BR<br>
+Moon group, London Sch Hygiene & Tropical Med (LSHTM) UK<br>
+Mugnier group, Johns Hopkins US<br>
+Mukherjee group, Texas State Univ US<br>
+Muralidharan group, Univ Georgia US<br>
+Nagaraj group, Inst Life Sciences IN<br>
+Nakanishi group, Matsuyama Univ JP<br>
+Nancy Guillen, Inst Pasteur FR<br>
+Natl Inst Health Security (JIHS) JP<br>
+Navarro group, Natl Research Council (CSIC) ES<br>
+Ng group, Univ Nebraska US<br>
+Nowacki group, Univ Bern CH<br>
+Nowrousian group, Ruhr Univ Bochum DE<br>
+Nozaki group, Univ Tokyo JP<br>
+Oakley group, Univ Kansas US<br>
+Odom John group / Children's Hosp Philadelphia, Univ Pennsylvania US<br>
+Olias group, Justus Liebig Univ DE<br>
+Osborne group, University College London UK<br>
+Osta group, American Univ Beirut LB<br>
+Pain group, King Abdullah Univ Sciences & Technology (KAUST) SA<br>
+Paluzzi group, York Univ CA<br>
+Pandey group, ICMR Natl Inst Malaria Research IN<br>
+Paoletta group, Natl Inst Agricultural Technology AR<br>
+Papanicolaou group, Hawkesbury Inst, W Sydney Univ AU<br>
+Paredez group, Univ Washington US<br>
+Pawlowic group, Univ Dundee UK<br>
+Pietrantonio group, Texas A&M Univ US<br>
+Ponts group, Natl Res Inst Agriculture, Food & Environment (INRAE UR1264-MycSA) FR<br>
+Povelones group, Villanova Univ US<br>
+Przyborski group, Justus-Liebig Univ Gießen DE<br>
+Rafferty group, Trent Univ CA<br>
+Rajaram group, Ohio State Univ US<br>
+Ramaprasad group, Univ Glasgow UK<br>
+Rayner group, Univ Cambridge UK<br>
+Rhodes group, Univ Birmingham UK<br>
+Richard group, Univ Laval CA<br>
+Rijo-Ferreira group, UC Berkeley US<br>
+Roditi group, Univ Bern CH<br>
+Rose group, Univ California San Diego US<br>
 </div>
 <div class="column">
-Patricia Cuellar<br>
-Patricia Lakin-Thomas<br>
-Patricia V. Pietrantonio<br>
-Patricia Y. Scaraffia<br>
-Paul Denny<br>
-Paul Magwene<br>
-Paul Sigala<br>
-Pegine Walrad<br>
-Pekka Lappalainen<br>
-Peter Bradley<br>
-Philipp Olias<br>
-Prem Prakash<br>
-Purnima Bhanot<br>
-Rahul Pasupureddy<br>
-Raina Fichorova<br>
-Richard Burchmore<br>
-Richard C Binari<br>
-Richard McCulloch<br>
-Richard Todd<br>
-Richard Wheeler<br>
-Rita Tewari<br>
-Robert W. Moon<br>
-Roberto Docampo<br>
-Rogerio Amino<br>
-Ron Dzikowski<br>
-Ronald van Rij<br>
-Ross Waller<br>
-Sabrina Absalon<br>
-Sam Alsford<br>
-Samuel Dean<br>
-Sara Zimmer<br>
-Sarah Beattie<br>
-Sassan Asgari<br>
-Sebastian Lourido<br>
-Serap Aksoy<br>
-Sharon Hill<br>
-Shin Hatakeyama<br>
-Shiroh Iwanaga<br>
-Shobha Sanjeewani Gunathilaka<br>
-Shruthi Sridhar Vembar<br>
-Shulamit Michaeli<br>
-Souvik Sen Gupta<br>
-Stephanie Blandin<br>
-Stephen J Free<br>
-Steven James<br>
-Steven Rafferty<br>
-Steven Singer<br>
-Steven Sinkins<br>
-Stuart Ralph<br>
-Sujal Phadke<br>
-Sumit Mukherjee<br>
-Susanne Kramer<br>
-Tamara Doering<br>
-Tania de Koning-Ward<br>
-Tansy Hammarton<br>
-Teresa Cruz Bustos<br>
-Terry Smith<br>
-Terry W. Hill<br>
-Thais Lemos Da Silva<br>
-Thomas Lavstsen<br>
-Tiago Wilson Patriarca Mineo<br>
-Tomoyoshi Nozaki<br>
-Toshihiro Mita<br>
-Utpal Tatu<br>
-V. Arun Nagaraj<br>
-Valentin Greigert<br>
-Valeria Tekiel<br>
-Vasant Muralidharan<br>
-Vera Meyer<br>
-Victoria Jeffers<br>
-Virginia Howick<br>
-Volker Heussler<br>
-Wenzhou Medical University<br>
-Xiaorong Lin<br>
-Xin Xiang<br>
-Yi-Wei Chang<br>
-Yifan Wang<br>
-Yonggen Jia<br>
-Yuko Takagi<br>
-Yumiko Nakano<br>
-Yvon Sterkers<br>
-Zach Adelman<br>
-Zachary Lewis<br>
-Zhicheng Dou<br>
-Ziyin Li<br>
+Rowe group, Univ Edinburgh UK<br>
+Sachs group, Texas A&M Univ US<br>
+Samuelson group, Boston Univ US<br>
+Santiago-Tirado group, Univ Notre Dame US<br>
+Santos group, Univ Paris-Saclay FR<br>
+Sateriale group, Crick Inst UK<br>
+Scaraffia group, Tulane Univ US<br>
+Scheel group, Indiana Univ US<br>
+Schenkman group, Federal Univ São Paulo BR<br>
+Schnaufer group, Univ Edinburgh UK<br>
+Sengupta group, Ahmedabad Univ IN<br>
+Sheiner group, Univ Glasgow UK<br>
+Sibley group, Washington Univ US<br>
+Siegel group, Ludwig Maximilians Univ DE<br>
+Sigala group, Univ Utah US<br>
+Simoes group, Inst Tropical Med BE<br>
+Singer group, Georgetown Univ US<br>
+Small-Saunders group, Columbia Univ US<br>
+Soale group, Univ Nottingham UK<br>
+Soldati-Favre group, Univ Genève CH<br>
+Stajich group, Univ California Riverside US<br>
+Striepen group, Univ Pennsylvania US<br>
+Sullivan group, Indiana Univ US<br>
+Sunter group, Oxford Brookes Univ UK<br>
+Sutherland group, London Sch Hygiene & Tropical Med (LSHTM) UK<br>
+Takagi group, National Institute of Advanced Industrial Science and Technology JP<br>
+Tatchell group, Louisiana State Univ US<br>
+Todd group, Kansas State Univ US<br>
+Treeck group, Gulbenkian Inst Molecular Med PT<br>
+Univ California Irvine US<br>
+Urbaniak group, Lancaster Univ UK<br>
+Vaidya group, Drexel Univ US<br>
+Valdés group, Cinvestav MX<br>
+Van Rij group, Radboud Univ NL<br>
+Vembar group, Inst Bioinformatics & Applied Biotechnology IN<br>
+Vogel group, Univ Georgia US<br>
+Waller group, Univ Cambridge UK<br>
+Wang group, Univ Michigan US<br>
+Ward group, Univ Vermont US<br>
+Waters group, Glasgow Univ UK<br>
+Weiss group, Albert Einstein Cell Med US<br>
+Wickstead group, Univ Nottingham UK<br>
+Wiese group, Univ Strathclyde UK<br>
+Williams group, Rush Univ US<br>
+Williamson group, Uniformed Services Univ US<br>
+Wilson group, Univ Adelaide AU<br>
+Wilson group, Univ California Riverside US<br>
+Winzeler group, Univ California, San Diego US<br>
+Wirth group, Harvard Univ US<br>
+Wong group, Univ Macau MO<br>
+Wunderlich group, Univ São Paulo BR<br>
+Xia group, Royal Veterinary College UK<br>
+Xiang group, Uniformed Services Univ US<br>
+Xu group, New Mexico State Univ US<br>
+Xue group, Rutgers Univ US<br>
+Yarden group, Hebrew Univ IL<br>
+Yee group, Trent Univ CA<br>
+Yi-Wei Chang group, Univ Pennsylvania US<br>
+Young group, Univ Edinburgh UK<br>
+Zarringhalam group, Univ Massachusetts US<br>
+Zhang group, Texas Tech Univ US<br>
+Zhu group, Jilin Univ CN<br>
+Zhu group, Jilin Univ CN<br>
+Zimmer group, Univ Minnesota US<br>
+Zwiebel group, Vanderbilt Univ US<br>
       </div>
     </div>
 <br>
     <h2>Institutional Subscriptions</h2>
     <div class="institutions">
-      Robert Koch-Institute (Unit 16)<br>
-      Institute of Parasitology<br>
-      Laboratory of Parasitic Diseases labs: Intracellular Parasite Biology Section and Molecular Parasitilogy Section, NIH<br>
-      Microbiology and Immunology, University at Buffalo<br>
-      CSIR-Central Drug Research Institute<br>
-      Universidad Autónoma de la Ciudad de México<br>
-      Companion Animal Infectious Diseases Division, Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences<br>
-      Henry M Jackson Foundation for the Advancement of Military Medicine<br>
-      Malaria Research Institute<br>
-      Eukaryotic Pathogens Innovation Center, Clemson University<br>
-      York Biomedical Research Institute<br>
-      RWTH Aachen Zelluäre und Angewandte Infektionsbiologie<br>
-      Plant Disease Biology Laboratory, Rajiv Gandhi Centre for Biotechnology<br>
-      Department of Parasitology, Charles University<br>
-      Laboratory of Malaria and Vector Research<br>
+      Autonomous Univ México MX / Genome Sciences – Álvarez Sánchez, Azuara Liceaga & Camacho Nuez groups<br>
+Univ Buffalo US / Dept Microbiol & Immunol – Arrizabalaga, Bangs, Panepinto & Smith groups<br>
+Central Drug Research Inst (CDRI), Lucknow IN – Habib, Kumar, Mishra, Prakash & Zeeshan groups<br>
+Charles Univ CZ / Dept Parasitology  – Doležal, Hampl, Horák, Šuťák, Svobodová, Tachezy, Volf, Votýpka & Zoltner groups<br>
+Clemson Univ US / Eukaryotic Pathogens Innovation Center (EPIC) – Dhingra, Dolan, Dou, Fierro, Ingram-Smith, J Morris, M Morris, Kozubowski, Jezewski, Rosowski, Seekatz, Smith, Temesvari & Walzer groups<br>
+Czech Acad Zci CZ / Inst Parasitology, Biology Centre – Lukeš, Obornik, Paris, Perner & Zikova groups<br>
+Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups<br>
+Inst Superiore Sanité IT / Foodborne & Neglected Parasitic Diseases (PAN) – Cacciò, Currà, Lalle; Spano; Tosini & Vectorborne Diseases (MTV) – Alano, Lepiscopia, Olivieri, Siciliano, & Silvestrini groups<br>
+Johns Hopkins Malaria Research Inst – multiple groups<br>
+Robert Koch Inst DE / Unit 16 – Aebischer, Blume, Klotz & Seeber groups<br>
+Univ Montpellier FR – Claessens, Gomes & Hollin groups<br>
+Novartis – multiple groups<br>
+York Biomedical Research Inst UK – multiple groups<br>
     </div>
   </div>
 </body>
