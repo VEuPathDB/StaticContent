@@ -402,7 +402,6 @@ Young group, Univ Edinburgh UK<br>
 Zarringhalam group, Univ Massachusetts US<br>
 Zhang group, Texas Tech Univ US<br>
 Zhu group, Jilin Univ CN<br>
-Zhu group, Jilin Univ CN<br>
 Zimmer group, Univ Minnesota US<br>
 Zwiebel group, Vanderbilt Univ US<br>
 </div>
