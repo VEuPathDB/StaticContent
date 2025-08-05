@@ -107,22 +107,25 @@ h1, h2 {
 <body>
   <div class="container">
   <h1>Thank You to Our 2025 Subscribers</h1>
-  
-  <h2>2025 Subscribers – invoices received as of 25 June 2025 (regardless of payment status)</h2>
-  
-  <h2><i>VEuPathDB gratefully acknowledges the individuals and labs who have subscribed in 2025, helping ensure that essential informatics resources remain accessible to the entire research community. How will we continue to attract the best and the brightest to work in these areas unless essential research data is readily accessible?</i></h2>
 
- <h3>Don't see your name listed? Subscribe here… and feel free to remind colleagues about the importance of subscribing to VEuPathDB.</h3>
- <ul>
+  <h2>2025 Subscribers – invoices received as of 25 June 2025 (regardless of payment status)</h2>
+
+  <p><em>
+    VEuPathDB gratefully acknowledges the individuals and labs who have subscribed in 2025, helping ensure that essential informatics resources remain accessible to the entire research community. How will we continue to attract the best and the brightest to work in these areas unless essential research data is readily accessible?
+  </em></p>
+
+  <h3>Don't see your name listed? Subscribe here&hellip; and feel free to remind colleagues about the importance of subscribing to VEuPathDB.</h3>
+
+  <ul>
     <li>This list includes only those who have given permission to be publicly acknowledged</li>
     <li>This list is based on invoices received as of 25 June 2025 (regardless of payment status), and will be regularly updated</li>
     <li>Some individuals/labs may be covered under pooled institutional subscriptions (see below)</li>
-    </ul><br>
+  </ul>
 
  <h2>Individual / Laboratory Subscriptions</h2>
     
 
-    <div class="columns">
+  <div class="columns">
       <div class="column">
 Abbas group, Mansoura Univ EG<br>
 Absalon group, Indiana Univ Sch Med US<br>
@@ -218,7 +221,7 @@ Gomez-Marin group /GEPAMOL, Univ Quindio  CO<br>
 González-Pacanowska group, Natl Research Council (CSIC) ES<br>
       </div>
 
-      <div class="column">
+  <div class="column">
 Gopaul group, Inst Pasteur FR<br>
 Graffenried group, Brown Univ US<br>
 Gubbels group, Boston College US<br>
@@ -313,7 +316,7 @@ Nowacki group, Univ Bern CH<br>
 Nowrousian group, Ruhr Univ Bochum DE<br>
       </div>
 
-      <div class="column">
+ <div class="column">
 Nozaki group, Univ Tokyo JP<br>
 Oakley group, Univ Kansas US<br>
 Odom John group / Children's Hosp Philadelphia, Univ Pennsylvania US<br>
@@ -407,7 +410,8 @@ Zimmer group, Univ Minnesota US<br>
 Zwiebel group, Vanderbilt Univ US<br>
 </div>
 
-    </div>
+</div>
+
 <br>
     <h2>Institutional Subscriptions</h2>
     <div class="institutions">
@@ -425,6 +429,7 @@ Univ Montpellier FR – Claessens, Gomes & Hollin groups<br>
 Novartis – multiple groups<br>
 York Biomedical Research Inst UK – multiple groups<br>
     </div>
-  </div>
+
+</div>
 </body>
 </html>
