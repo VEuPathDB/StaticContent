@@ -94,7 +94,7 @@ h1, h2 {
       background: #f0f0f0;
     }
 
-    .institutions {
+   .institutions {
       margin-top: 40px;
       background: #e9f7ef;
       padding: 15px;
@@ -106,15 +106,13 @@ h1, h2 {
 </head>
 <body>
   <div class="container">
-  <h1>Thank You to Our 2025 Subscribers</h1>
+  <h1>Thank You to Our 2025 Subscribers!</h1>
 
-  <h2>2025 Subscribers – invoices received as of 25 June 2025 (regardless of payment status)</h2>
+  <p><h3>
+    VEuPathDB gratefully acknowledges the individuals and labs who have subscribed in 2025, helping ensure that essential informatics resources remain accessible to the entire research community. <i>How will we continue to attract the best and the brightest to work in these areas unless essential research data is readily accessible?</i>
+  </h3></p>
 
-  <p><em>
-    VEuPathDB gratefully acknowledges the individuals and labs who have subscribed in 2025, helping ensure that essential informatics resources remain accessible to the entire research community. How will we continue to attract the best and the brightest to work in these areas unless essential research data is readily accessible?
-  </em></p>
-
-  <h3>Don't see your name listed? Subscribe here&hellip; and feel free to remind colleagues about the importance of subscribing to VEuPathDB.</h3>
+  <h3>Don't see your name listed? Subscribe <a href="/a/app/static-content/subscriptions.html">here</a> &hellip; and feel free to remind colleagues about the importance of subscribing to VEuPathDB.</h3>
 
   <ul>
     <li>This list includes only those who have given permission to be publicly acknowledged</li>
