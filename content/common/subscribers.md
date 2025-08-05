@@ -106,15 +106,21 @@ h1, h2 {
 </head>
 <body>
   <div class="container">
+  <h1>Thank You to Our 2025 Subscribers</h1>
+  
   <h2>2025 Subscribers – invoices received as of 25 June 2025 (regardless of payment status)</h2>
-    <h2><i>VEuPathDB acknowledges all subscribers for doing their part to keep essential informatics resources accessible to all!</i></h2>
-<h3>Please be sure that your lab has subscribed … and feel free to remind colleagues about the importance of subscribing to VEuPathDB.</h3>
-<h3><i>How will we continue to attract the best and the brightest to work in these areas unless essential research data is readily accessible?</i></h3>
-    <h2>Individuals / Laboratories</h2>
-    <ul>
-    <li>to respect the privacy of our subscribers, this list only cites those who have approved inclusion of their name</li>
-<li>note that some labs are covered by pooled institutional subscriptions (see below)</li>
-</ul><br>
+  
+  <h2><i>VEuPathDB gratefully acknowledges the individuals and labs who have subscribed in 2025, helping ensure that essential informatics resources remain accessible to the entire research community. How will we continue to attract the best and the brightest to work in these areas unless essential research data is readily accessible?</i></h2>
+
+ <h3>Don't see your name listed? Subscribe here… and feel free to remind colleagues about the importance of subscribing to VEuPathDB.</h3>
+ <ul>
+    <li>This list includes only those who have given permission to be publicly acknowledged</li>
+    <li>This list is based on invoices received as of 25 June 2025 (regardless of payment status), and will be regularly updated</li>
+    <li>Some individuals/labs may be covered under pooled institutional subscriptions (see below)</li>
+    </ul><br>
+
+ <h2>Individual / Laboratory Subscriptions</h2>
+    
 
     <div class="columns">
       <div class="column">
