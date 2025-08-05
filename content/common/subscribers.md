@@ -119,6 +119,7 @@ h1, h2 {
     <li>This list is based on invoices received as of 25 June 2025 (regardless of payment status), and will be regularly updated</li>
     <li>Some individuals/labs may be covered under pooled institutional subscriptions (see below)</li>
   </ul>
+  <br>
 
  <h2>Individual / Laboratory Subscriptions</h2>
     
@@ -300,7 +301,7 @@ Mensa-Wilmot group, Kennesaw State Univ US<br>
 Merrick group, Univ Cambridge UK<br>
 Meyers group, Saint Louis Univ US<br>
 Mineo group, Federal Univ Uberlândia BR<br>
-Moon group, London Sch Hygiene & Tropical Med (LSHTM) UK<br>
+Moon group, London Sch Hygiene & Tropical Med UK<br>
 Mugnier group, Johns Hopkins US<br>
 Mukherjee group, Texas State Univ US<br>
 Muralidharan group, Univ Georgia US<br>
