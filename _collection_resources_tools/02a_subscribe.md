@@ -33,6 +33,7 @@ Starting March 2025, VEuPathDB is implementing a subscription service that will 
 
 <div class="survey-link">
   <a href="/a/app/static-content/subscriptions.html" target="_blank">Subscribe Now</a>
+  <a href="/a/app/static-content/subscribers.html" target="_blank">See Who's Subscribed</a>
 </div>
 
 
