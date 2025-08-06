@@ -130,13 +130,13 @@ h1, h2 {
 
   <div class="columns">
       <div class="column">
-<div>Abbas group, Mansoura Univ EG</div><br>
-<div>Absalon group, Indiana Univ Sch Med US</div><br>
-<div>Adams group, Univ South Florida US</div><br>
-<div>Adelman group, Texas A&M Univ US</div><br>
-<div>Akiyoshi group, Univ Edinburgh UK</div><br>
-<div>Aksoy group, Yale Univ US</div><br>
-<div>Alout group, Natl Research Inst Agriculture, Food & Environment (INRAE) FR</div><br>
+<div>Abbas group, Mansoura Univ EG</div>
+<div>Absalon group, Indiana Univ Sch Med US</div>
+<div>Adams group, Univ South Florida US</div>
+<div>Adelman group, Texas A&M Univ US</div>
+<div>Akiyoshi group, Univ Edinburgh UK</div>
+<div>Aksoy group, Yale Univ US</div>
+<div>Alout group, Natl Research Inst Agriculture, Food & Environment (INRAE) FR</div>
 Alphey group, Univ York UK<br>
 Alsford group, London Sch Hygiene Tropical Med (LSHTM) UK<br>
 Amino group, Inst Pasteur FR<br>
