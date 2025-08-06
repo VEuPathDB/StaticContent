@@ -90,6 +90,12 @@ h1, h2 {
       border-radius: 5px;
     }
 
+    .column {
+      padding-left: 1.5em;        /* creates space for indent */
+      text-indent: -1.5em;        /* pulls first line back to the left */
+    }
+
+
     .column:nth-child(even) {
       background: #f0f0f0;
     }
