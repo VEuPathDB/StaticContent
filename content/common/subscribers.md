@@ -90,7 +90,7 @@ h1, h2 {
       border-radius: 5px;
     }
 
-    .column {
+    .column div {
       padding-left: 1.5em;        /* creates space for indent */
       text-indent: -1.5em;        /* pulls first line back to the left */
     }
@@ -130,13 +130,13 @@ h1, h2 {
 
   <div class="columns">
       <div class="column">
-Abbas group, Mansoura Univ EG<br>
-Absalon group, Indiana Univ Sch Med US<br>
-Adams group, Univ South Florida US<br>
-Adelman group, Texas A&M Univ US<br>
-Akiyoshi group, Univ Edinburgh UK<br>
-Aksoy group, Yale Univ US<br>
-Alout group, Natl Research Inst Agriculture, Food & Environment (INRAE) FR<br>
+<div>Abbas group, Mansoura Univ EG</div><br>
+<div>Absalon group, Indiana Univ Sch Med US</div><br>
+<div>Adams group, Univ South Florida US</div><br>
+<div>Adelman group, Texas A&M Univ US</div><br>
+<div>Akiyoshi group, Univ Edinburgh UK</div><br>
+<div>Aksoy group, Yale Univ US</div><br>
+<div>Alout group, Natl Research Inst Agriculture, Food & Environment (INRAE) FR</div><br>
 Alphey group, Univ York UK<br>
 Alsford group, London Sch Hygiene Tropical Med (LSHTM) UK<br>
 Amino group, Inst Pasteur FR<br>
