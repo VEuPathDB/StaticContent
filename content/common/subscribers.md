@@ -48,20 +48,22 @@ h1, h2 {
   text-indent: -1.5em;
 }
 
-/* ⬇️ Alternate shading for even items */
-.columns-balanced div:nth-child(even) {
+/* ⬇️ Alternate shading for even columns */
+.columns-balanced:nth-child(even) {
   background: #f0f0f0;
 }
 
 /* ⬇️ Institutions block */
-.institutions div {
+.institutions {
   margin-top: 40px;
   background: #e9f7ef;
   padding: 15px;
   border-radius: 5px;
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
   line-height: 1.6;
+}
 
+.institutions div {
   padding-left: 1.5em;
   text-indent: -1.5em; 
   margin-bottom: 0.5em;
@@ -99,6 +101,8 @@ h1, h2 {
     <li>Some individuals/labs may be covered under pooled institutional subscriptions (see below)</li>
   </ul>
   </div>
+  <br>
+  <br>
 
   <div class="container">
     
