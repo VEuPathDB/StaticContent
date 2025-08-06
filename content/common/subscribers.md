@@ -36,16 +36,19 @@ h1, h2 {
 }
 
 /* ⬇️ Styling for each name block */
-.columns-balanced div {
+.columns-balanced {
   break-inside: avoid;
   padding: 10px 15px;
   margin-bottom: 0.5em;
   background: #fff;
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
   border-radius: 5px;
+  margin-bottom: 0.5em;
+}
 
+.columns-balanced div {
   padding-left: 1.5em;
-  text-indent: -1.5em;
+  text-indent: -1.5em; 
 }
 
 /* ⬇️ Alternate shading for even columns */
@@ -61,12 +64,12 @@ h1, h2 {
   border-radius: 5px;
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
   line-height: 1.6;
+  margin-bottom: 0.5em;
 }
 
 .institutions div {
   padding-left: 1.5em;
   text-indent: -1.5em; 
-  margin-bottom: 0.5em;
 }
 
 /* ⬇️ Responsive breakpoints */
@@ -391,7 +394,7 @@ h1, h2 {
    <div>Univ Buffalo US / Dept Microbiol & Immunol – Arrizabalaga, Bangs, Panepinto & Smith groups</div>
    <div>Central Drug Research Inst (CDRI), Lucknow IN – Habib, Kumar, Mishra, Prakash & Zeeshan groups</div>
    <div>Charles Univ CZ / Dept Parasitology  – Doležal, Hampl, Horák, Šuťák, Svobodová, Tachezy, Volf, Votýpka & Zoltner groups</div>
-   <div>Clemson Univ US / Eukaryotic Pathogens Innovation Center (EPIC) – Dhingra, Dolan, Dou, Fierro, Ingram-Smith, J Morris, M Morris, Kozubowski, <div>Jezewski, Rosowski, Seekatz, Smith, Temesvari & Walzer groups</div>
+   <div>Clemson Univ US / Eukaryotic Pathogens Innovation Center (EPIC) – Dhingra, Dolan, Dou, Fierro, Ingram-Smith, J Morris, M Morris, Kozubowski,Jezewski, Rosowski, Seekatz, Smith, Temesvari & Walzer groups</div>
    <div>Czech Acad Zci CZ / Inst Parasitology, Biology Centre – Lukeš, Obornik, Paris, Perner & Zikova groups</div>
    <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
    <div>Inst Superiore Sanité IT / Foodborne & Neglected Parasitic Diseases (PAN) – Cacciò, Currà, Lalle; Spano; Tosini & Vectorborne Diseases (MTV) – Alano, Lepiscopia, Olivieri, Siciliano, & Silvestrini groups</div>
