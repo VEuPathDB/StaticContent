@@ -81,7 +81,7 @@ Organism,Disease,VEuPathDB Database,Significant Human Pathogen,Significant Veter
 <i>Cryptosporidium</i>,<b>Cryptosporidiosis</b>- gastrointestinal illness,CryptoDB,Yes,Yes,,,,"<a href='https://www.cdc.gov/dpdx/cryptosporidiosis/'>CDC: Cryptosporidiosis</a>, <a href='https://www.ecdc.europa.eu/en/cryptosporidiosis'>European CDC: Cryptosporidiosis</a>, on <a href='https://www.niaid.nih.gov/research/niaid-biodefense-pathogens'>NIAID Biodefense Pathogens list</a> "
 <i>Culex quinquefasciatus</i> (Southern house mosquito),"Transmits parasites <i>Plasmodium relictum</i>, <i>Wuchereria bancrofti</i> that cause lymphatic Filariasis, avian malaria, St. Louis encephalitis, West Nile virus",Vectorbase,,,,Yes,,
 <i>Culicoides sonorensis</i> (biting midges),Transmits virus that causes Bluetongue disease,Vectorbase,,,,Yes,,
-<i>Curvularia clavata</i>,Fungal sinusitis,FungiDB,Yes,,,,,
+<i>Curvularia clavata</i>,Leaf spot disease,FungiDB,,,Yes,,,
 <i>Cyberlindnera fabianii</i>,Rare opportunistic infections,FungiDB,Yes,,,,,
 <i>Cyclospora</i>,<b>Cyclosporiasis</b>- gastrointestinal illness,ToxoDB,Yes,,,,,On <a href='https://www.niaid.nih.gov/research/niaid-biodefense-pathogens'>NIAID Biodefense Pathogens list</a> 
 <i>Cyphellophora europaea</i>,Rare opportunistic infections,FungiDB,Yes,,,,,
@@ -99,7 +99,7 @@ Organism,Disease,VEuPathDB Database,Significant Human Pathogen,Significant Veter
 <i>Encephalitozoon</i>,"<b>Encephalitozoonosis</b>- infects kidneys, eyes, and nervous systems of rabbits",MicrosporidiaDB,,Yes,,,,<a href='https://www.cdc.gov/dpdx/microsporidiosis/index.html'>CDC: Microsporidiosis</a>
 <i>Entamoeba</i>,<b>Amoebiasis/ Amoebic Dysentery</b>- gastrointestinal illness,AmoebaDB,Yes,Yes,,,,"<a href='https://www.cdc.gov/dpdx/amebiasis/'>CDCL Amebiasis</a>, on <a href='https://www.niaid.nih.gov/research/niaid-biodefense-pathogens'>NIAID Biodefense Pathogens list</a> "
 <i>Enterocytozoon bieneusi</i>,"<b>Intestinal microsporidiosis</b>- chronic diarrhea, malabsorption, and wasting, particularly in immunocompromised individuals",MicrosporidiaDB,Yes,,,,,<a href='https://www.cdc.gov/dpdx/microsporidiosis/'>CDC: Microsporidiosis</a>
-<i>Epichloe</i>,Endophytic infections in grasses,FungiDB,,,Yes,,,
+<i>Epichloe</i>,Grass choke disease,FungiDB,,,,,,
 <i>Exophiala</i>,<b>Phaeohyphomycosis</b>,FungiDB,Yes,,,,,
 <i>Fonsecaea</i>,<b>Chromoblastomycosis</b>,FungiDB,Yes,,,,,
 <i>Fusarium circinatum</i>,<b>Pine pitch canker</b>,FungiDB,,,Yes,,,
