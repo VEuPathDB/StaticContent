@@ -17,7 +17,6 @@ p.indent {
     display: block;
     text-align: center;
     margin-top: 5px;
-    margin-right: 20px; /* space between buttons */
 }
 .survey-link a {
     background-color: #007BFF;
@@ -26,6 +25,7 @@ p.indent {
     text-decoration: none;
     border-radius: 5px;
     font-size: 16px;
+    margin-right: 20px; /* space between buttons */
 }
 </style>
 
