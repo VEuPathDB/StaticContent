@@ -14,26 +14,19 @@ p.indent {
     margin-left: 3em
 }
 .survey-link {
+    display: block;
     text-align: center;
     margin-top: 5px;
+    margin-right: 20px; /* space between buttons */
 }
-
 .survey-link a {
-    display: block; /* make each button take full width & stack */
     background-color: #007BFF;
     color: white;
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
     font-size: 16px;
-    margin-bottom: 10px; /* space between buttons */
 }
-
-/* Optional: remove bottom margin from the last button */
-.survey-link a:last-child {
-    margin-bottom: 0;
-}
-
 </style>
 
 
