@@ -14,26 +14,34 @@ p.indent {
     margin-left: 3em
 }
 .survey-link {
-    display: block;
     text-align: center;
     margin-top: 5px;
 }
+
 .survey-link a {
+    display: block; /* make each button take full width & stack */
     background-color: #007BFF;
     color: white;
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
     font-size: 16px;
+    margin-bottom: 10px; /* space between buttons */
 }
+
+/* Optional: remove bottom margin from the last button */
+.survey-link a:last-child {
+    margin-bottom: 0;
+}
+
 </style>
 
 
 Starting March 2025, VEuPathDB is implementing a subscription service that will keep our resources open and accessible to everyone while sustaining our operations.
 
 <div class="survey-link">
+  <a href="/a/app/static-content/subscribers.html" target="_blank">2025 Subscribers</a>
   <a href="/a/app/static-content/subscriptions.html" target="_blank">Subscribe Now</a>
-  <a href="/a/app/static-content/subscribers.html" target="_blank">See Who's Subscribed</a>
 </div>
 
 
