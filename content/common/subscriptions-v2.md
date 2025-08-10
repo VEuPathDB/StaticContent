@@ -204,7 +204,7 @@ title: VEuPathDB subscriptions
       div.container {
         flex-wrap:wrap;
       }
-      div.column1, div.column2, .button-3, div.addquest, div.addquest p {
+      div#research, div#other, .button-3, div.addquest, div.addquest p {
         margin-bottom: 1em;
         margin-left: 0;
       }
@@ -212,7 +212,7 @@ title: VEuPathDB subscriptions
         padding-left: 0;
         display: block;
       }
-      div.column1 {
+      div#research {
         min-width: 30em;
       }
       div.column12 {
@@ -229,27 +229,28 @@ title: VEuPathDB subscriptions
 
 <h1>VEuPathDB subscription pricing</h1>
 
+<div class="static-content">
+
   <div class="top">
     <p><b style="font-size:110%">Why are we implementing a subscription service?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating a mandatory subscription service ... even if your applicable subscription fee is $0 (subsidized). Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination.  For further information, see <a href="/a/app/static-content/faq.html">FAQ</a>.</p>
   </div>
 
-<div class="static-content">
 
   <div class="flex-container">
   <div>
     <h3>Research</h3>
     <p>blablabla</p>
-    <button><a href="research">Explore</a></button>
+    <button><a href="#research">Explore</a></button>
   </div>
   <div>
     <h3>Industry</h3>
     <p>blablabla</p>
-    <button><a href="academics">Explore</a></button>
+    <button><a href="#industry">Explore</a></button>
   </div>
   <div>
     <h3>Other</h3>
     <p>blablabla</p>
-    <button><a href="industry">Explore</a></button>
+    <button><a href="#other">Explore</a></button>
   </div>
   </div>
 
