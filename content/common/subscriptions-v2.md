@@ -38,6 +38,7 @@ title: VEuPathDB subscriptions
   }
 
   div.static-content {
+
     font-size:130%;
     a {
       text-decoration: underline;
@@ -52,7 +53,7 @@ title: VEuPathDB subscriptions
       font-style: italic;
     }
 
-    div#research {
+    div#research, div#biotech {
       border-radius: .5em;
       border: 1px solid lightblue;
       background: #e6f7fd78;
@@ -64,14 +65,14 @@ title: VEuPathDB subscriptions
         margin:0;
       }
     }
-
-    div#other {
+    div#institution, div#teaching {
       border-radius: .5em;
       border: 1px solid #dbb667a6;
       background: #fdf9e696;
       padding: 0 1em 0;
       margin-left: 2em;
-      max-width: 21em;
+      margin-bottom: 2em;
+      max-width: 49em;
       p {
         margin:0;
       }
@@ -94,10 +95,6 @@ title: VEuPathDB subscriptions
     .column11 ul {
       padding-left: 0;
       margin-top: 0;
-    }
-    .column2 li {
-      padding-top: 0.4em;
-      padding-bottom: 0.5em;
     }
 
     table {
@@ -204,16 +201,13 @@ title: VEuPathDB subscriptions
       div.container {
         flex-wrap:wrap;
       }
-      div#research, div#other, .button-3, div.addquest, div.addquest p {
+      div#research, div#institution, div#biotech, div#teaching, .button-3, div.addquest, div.addquest p {
         margin-bottom: 1em;
         margin-left: 0;
       }
       div.addquest, div.addquest p {
         padding-left: 0;
         display: block;
-      }
-      div#research {
-        min-width: 30em;
       }
       div.column12 {
         margin-left: 0;
@@ -238,24 +232,30 @@ title: VEuPathDB subscriptions
 
   <div class="flex-container">
   <div>
-    <h3>Research</h3>
-    <p>blablabla</p>
-    <button><a href="#research">Explore</a></button>
+    <h3>Academic research groups</h3>
+    <button><a href="#research">See pricing</a></button>
   </div>
   <div>
-    <h3>Industry</h3>
-    <p>blablabla</p>
-    <button><a href="#industry">Explore</a></button>
+    <h3>Institutional/Library rates (non-profit)</h3>
+    <button><a href="#institution">See pricing</a></button>
   </div>
   <div>
-    <h3>Other</h3>
-    <p>blablabla</p>
-    <button><a href="#other">Explore</a></button>
+    <h3>Industry/Biotech rates (for profit)</h3>
+    <button><a href="#biotech">See pricing</a></button>
+  </div>
+  <div>
+    <h3>Teaching (non- profit)</h3>
+    <button><a href="#teaching">See pricing</a></button>
+  </div>
+  <div>
+    <h3>Charitable contributions</h3>
+    <button><a href="https://giving.aws.cloud.upenn.edu/fund?program=SAS&fund=605878">Donate</a></button>
   </div>
   </div>
 
+
   <div id="research"> 
-    <h3>for Academic Research Groups</h3>
+    <h3>for Academic research groups</h3>
     <p style="padding-bottom:1em">To determine your fair share of VEuPathDB annual costs for a specific grant, your entire lab, or a larger group:</p>
 
     <div class="container">
@@ -390,6 +390,7 @@ title: VEuPathDB subscriptions
   </tr></tbody>
 
   </table>
+
       <span style="font-size:85%;font-style:italic">*** Subsidized by generous philanthropic contributions (pending)</span>
       <div class="center" style="margin-top:2em">
         <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
@@ -404,23 +405,63 @@ title: VEuPathDB subscriptions
   </div>  <!-- end of id=research -->
 
 
-  <div id="industry">
+  <div id="institution">
+   <h3>for Institutional/Library rates (non-profit)</h3>
  
   </div>
 
+  <div id="biotech">
+   <h3>for Industry/Biotech rates (for profit)</h3>
 
-  <div id="other">
-    <h3>Other Subscription Types</h3>
-    <p>If you are interested in the following, please
-      <a href="mailto:subscriptions@veupathdb.org">Contact Us</a> for additional options:</p><br>
-    <ul>
-      <li>Institutional rates (non-profit) <br><span class="small">based on aggregate number of users</span></li>
-      <li>Industry/biotech rates (for profit) <br><span class="small">based on revenue</span></li>
-      <li>Educational usage (non-profit) <br><span class="small">based on # student hours</span></li>
-      <li><a href="https://giving.aws.cloud.upenn.edu/fund?program=SAS&fund=605878">Charitable contributions</a><br><span class="small">advancing globally open data access</span></li>
-    </ul>
-  </div>  <!-- end of other -->
+    <div class="container">
 
+    <div class="column11">
+
+    <p>Subscription rates are based on company size.</p>
+    <p>For an invoice please <a href="mailto:subscriptions@veupathdb.org">Contact Us</a></p><br>
+
+    </div>
+
+    <div class="column12"> 
+  <table>
+
+  <thead>
+    <tr>
+      <td class="center sidewhite">Size</td>
+      <td class="center">Suggested subscription</td>
+    </tr>
+  </thead>
+
+  <tbody>
+  <tr>
+    <td class="center sidewhite">Large Cap Pharma >$10B</td>
+    <td class="sidewhite">80K</td>
+  </tr>
+  <tr class="alt">
+    <td class="center sidewhite">Mid Cap/Biotech >$1B</td>
+    <td class="sidewhite">40K</td>
+  </tr>
+  <tr>
+    <td class="center sidewhite">Small Cap/Clinical stage >$100M</td>
+    <td class="sidewhite">20K</td>
+  </tr>
+  <tr class="alt">
+    <td class="center sidewhite">Micro Cap/Startup <$100M</td>
+    <td class="sidewhite">10K</td>
+  </tr>
+  </tbody>
+
+  </table>
+     </div>
+   </div>
+
+
+  </div>
+
+  <div id="teaching">
+   <h3>for Teaching (non- profit)</h3>
+
+  </div>
 
 
   <div class="addquest">
