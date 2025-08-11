@@ -122,6 +122,10 @@ title: VEuPathDB subscriptions
     td.sidewhite {
       border-right: 1px solid white;
     }
+    td.left {
+      text-align: left;
+      vertical-align: middle;
+    }
     thead td {
       font-weight: bold;
       border: 1px solid lightblue;
@@ -440,20 +444,20 @@ title: VEuPathDB subscriptions
 
   <tbody>
   <tr>
-    <td class="center sidewhite">Large Cap Pharma >$10B</td>
-    <td class="sidewhite">80K</td>
+    <td class="left sidewhite">Large Cap Pharma >$10B</td>
+    <td class="center sidewhite">$ 80K</td>
   </tr>
   <tr class="alt">
-    <td class="center sidewhite">Mid Cap/Biotech >$1B</td>
-    <td class="sidewhite">40K</td>
+    <td class="left sidewhite">Mid Cap/Biotech >$1B</td>
+    <td class="center sidewhite">$ 40K</td>
   </tr>
   <tr>
-    <td class="center sidewhite">Small Cap/Clinical stage >$100M</td>
-    <td class="sidewhite">20K</td>
+    <td class="left sidewhite">Small Cap/Clinical stage >$100M</td>
+    <td class="center sidewhite">$ 20K</td>
   </tr>
   <tr class="alt">
-    <td class="center sidewhite">Micro Cap/Startup <$100M</td>
-    <td class="sidewhite">10K</td>
+    <td class="left sidewhite">Micro Cap/Startup <$100M</td>
+    <td class="center sidewhite">$ 10K</td>
   </tr>
   </tbody>
 
