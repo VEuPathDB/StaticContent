@@ -28,7 +28,18 @@ title: VEuPathDB subscriptions
 .flex-container div h3 {
   text-align: center;
 }
-
+.flex-container div button.donate {
+  border: 0;
+  background: 0;
+}
+.flex-container div button a#donate {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
 
   h1 {
     font-size: 2.5em;
@@ -58,8 +69,7 @@ title: VEuPathDB subscriptions
       border: 1px solid lightblue;
       background: #e6f7fd78;
       padding: 0 1em 0.5em;
-      margin-left: 2em;
-      margin-bottom: 2em;
+      margin: 0 2em 2em;
       min-width: 49em;
       p {
         margin:0;
@@ -201,16 +211,12 @@ title: VEuPathDB subscriptions
       div.container {
         flex-wrap:wrap;
       }
-      div#research, div#institution, div#biotech, div#teaching, .button-3, div.addquest, div.addquest p {
-        margin-bottom: 1em;
+      div#research, div#institution, div#biotech, div#teaching, div.column12, .button-3, div.addquest, div.addquest p {
         margin-left: 0;
       }
       div.addquest, div.addquest p {
         padding-left: 0;
         display: block;
-      }
-      div.column12 {
-        margin-left: 0;
       }
       table {
         margin-top: 2em;
@@ -249,7 +255,7 @@ title: VEuPathDB subscriptions
   </div>
   <div>
     <h3>Charitable contributions</h3>
-    <button><a href="https://giving.aws.cloud.upenn.edu/fund?program=SAS&fund=605878">Donate</a></button>
+    <button class="donate"><a id="donate" href="https://giving.aws.cloud.upenn.edu/fund?program=SAS&fund=605878">Donate now</a></button>
   </div>
   </div>
 
