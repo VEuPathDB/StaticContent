@@ -64,7 +64,7 @@ title: VEuPathDB subscriptions
       font-style: italic;
     }
 
-    div#research, div#biotech {
+    div#research, div#institution {
       border-radius: .5em;
       border: 1px solid lightblue;
       background: #e6f7fd78;
@@ -75,7 +75,7 @@ title: VEuPathDB subscriptions
         margin:0;
       }
     }
-    div#institution, div#teaching {
+    div#biotech, div#teaching {
       border-radius: .5em;
       border: 1px solid #dbb667a6;
       background: #fdf9e696;
