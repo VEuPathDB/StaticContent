@@ -70,7 +70,6 @@ title: VEuPathDB subscriptions
       background: #e6f7fd78;
       padding: 0 1em 0.5em;
       margin: 0 2em 2em;
-      min-width: 49em;
       p {
         margin:0;
       }
@@ -82,7 +81,6 @@ title: VEuPathDB subscriptions
       padding: 0 1em 0;
       margin-left: 2em;
       margin-bottom: 2em;
-      max-width: 49em;
       p {
         margin:0;
       }
