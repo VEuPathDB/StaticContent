@@ -246,12 +246,12 @@ title: VEuPathDB subscriptions
     <button><a href="#research">See pricing</a></button>
   </div>
   <div>
-    <h3>Institutional/Library rates (non-profit)</h3>
-    <button><a href="#institution">See pricing</a></button>
+    <h3>Industry/Biotech (for profit)</h3>
+    <button><a href="#biotech">See pricing</a></button>
   </div>
   <div>
-    <h3>Industry/Biotech rates (for profit)</h3>
-    <button><a href="#biotech">See pricing</a></button>
+    <h3>Institutional/Library (non-profit)</h3>
+    <button><a href="#institution">See pricing</a></button>
   </div>
   <div>
     <h3>Teaching (non- profit)</h3>
@@ -415,11 +415,6 @@ title: VEuPathDB subscriptions
   </div>  <!-- end of id=research -->
 
 
-  <div id="institution">
-   <h3>for Institutional/Library rates (non-profit)</h3>
- 
-  </div>
-
   <div id="biotech">
    <h3>for Industry/Biotech rates (for profit)</h3>
 
@@ -466,6 +461,11 @@ title: VEuPathDB subscriptions
    </div>
 
 
+  </div>
+
+  <div id="institution">
+   <h3>for Institutional/Library rates (non-profit)</h3>
+ 
   </div>
 
   <div id="teaching">
