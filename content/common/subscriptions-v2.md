@@ -63,27 +63,21 @@ title: VEuPathDB subscriptions
       padding-top:0.25em;
       font-style: italic;
     }
-
-    div#research, div#institution {
+    div#research, div#institution, div#biotech, div#teaching {
       border-radius: .5em;
-      border: 1px solid lightblue;
-      background: #e6f7fd78;
       padding: 0 1em 0.5em;
       margin: 0 2em 2em;
       p {
         margin:0;
       }
     }
+    div#research, div#institution {
+      border: 1px solid lightblue;
+      background: #e6f7fd78;
+    }
     div#biotech, div#teaching {
-      border-radius: .5em;
       border: 1px solid #dbb667a6;
       background: #fdf9e696;
-      padding: 0 1em 0;
-      margin-left: 2em;
-      margin-bottom: 2em;
-      p {
-        margin:0;
-      }
     }
 
     div.container {
