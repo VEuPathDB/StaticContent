@@ -92,11 +92,11 @@ title: VEuPathDB subscriptions
       display: flex;
     }
     div.column11 {
-      flex: 0 0 47%;
+      flex: 1;
     }
     div.column12 {
       flex: 0 0 auto;
-      margin-left: 1em;
+      margin: 0 1em 1em 1em;
     }
 
     ul {
@@ -109,6 +109,7 @@ title: VEuPathDB subscriptions
 
     table {
       font-size: 85%;
+      border-collapse: initial;
       border: 1px solid lightblue;
     }
     td {
