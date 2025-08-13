@@ -1,3 +1,8 @@
+---
+permalink: /subscriptions-v3
+title: VEuPathDB subscriptions
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
