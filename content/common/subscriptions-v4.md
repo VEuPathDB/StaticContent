@@ -402,7 +402,7 @@ div.flex-container {
         Go to Invoice Form</a></button>
       </div>
 
-    <p style="font-style:italic;font-weight:bold">Note:  Financial and personnel details are not stored or transmitted to VEuPathDB</p>
+    <p style="text-align:center;font-style:italic;font-weight:bold">Note:  Financial and personnel details are not stored or transmitted to VEuPathDB</p>
 
   </div>  <!-- end of id=research -->
 
