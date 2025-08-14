@@ -244,7 +244,7 @@ div.flex-container {
     <div><a href="#biotech"><h4>Industry/Biotech (for profit)</h4></a></div>
     <div><a href="#institution"><h4>Institutional/Library (non-profit)</h4></a></div>
     <div><a href="#teaching"><h4>Teaching (non- profit)</h4></a></div>
-    <div id="donate"><a href="https://giving.aws.cloud.upenn.edu/fund?program=SAS&fund=605878"><h4>Charitable contributions - Donate now</h4></a></div>
+    <div id="donate"><a target="_blank" href="https://giving.aws.cloud.upenn.edu/fund?program=SAS&fund=605878"><h4>Charitable contributions - Donate now</h4></a></div>
   </div>
 
 
