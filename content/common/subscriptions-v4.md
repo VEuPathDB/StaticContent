@@ -35,15 +35,15 @@ div.flex-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  div {
+  button {
     font-size: 90%;
-    border: 2px solid #dbb667;
+    border: 3px solid #dbb667;
     background: #FDF9E7;
     border-radius: 0.7em;
     margin: 0 1em 1em 0;
-    padding: 0 1em;
+    padding: 1em;
     text-align: center;
-
+    font-size: 110%;
     box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
     box-sizing: border-box;
     cursor: pointer;
@@ -54,24 +54,19 @@ div.flex-container {
     
     a {
       text-decoration: none;
-      color: black;
-    }
-    h4 {
+      color: #805c4b;
       text-align: center;
       font-style: italic;
-      font-size: 150%;
       margin: 0.5em;
     }
   }
 
-  div:focus:not(:focus-visible):not(.focus-visible) {
+  button:focus:not(:focus-visible):not(.focus-visible) {
     box-shadow: none;
     outline: none;
   }
-  div:hover {
+  button:hover {
     background-color: rgb(253, 249, 190);
-    border-left: 4px solid #dbb667;
-    border-right: 4px solid #dbb667;
   }
 }
 
@@ -252,11 +247,11 @@ div.flex-container {
 
 
   <div class="flex-container">
-    <div><a href="#research"><h4>Academic research groups</h4></a></div>
-    <div><a href="#biotech"><h4>Industry/Biotech (for profit)</h4></a></div>
-    <div><a href="#institution"><h4>Institutional/Library (non-profit)</h4></a></div>
-    <div><a href="#teaching"><h4>Teaching (non- profit)</h4></a></div>
-    <div id="donate"><a target="_blank" href="https://giving.aws.cloud.upenn.edu/fund?program=SAS&fund=605878"><h4>Charitable contributions - Donate now</h4></a></div>
+    <button><a href="#research">Academic research groups</a></button>
+    <button><a href="#biotech">Industry/Biotech (for profit)</a></button>
+    <button><a href="#institution">Institutional/Library (non-profit)</a></button>
+    <button><a href="#teaching">Teaching (non- profit)</a></button>
+    <button id="donate"><a target="_blank" href="https://giving.aws.cloud.upenn.edu/fund?program=SAS&fund=605878">Charitable contributions - Donate now</a></button>
   </div>
 
 
