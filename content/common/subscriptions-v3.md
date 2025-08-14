@@ -444,6 +444,12 @@ title: VEuPathDB subscriptions
                         <div class="disclaimer">
                     <strong>Note:</strong> Financial and personnel details are not stored or transmitted to VEuPathDB
                 </div>
+                <div style="text-align: center; margin-top: 1.5rem;">
+                            <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" 
+                               class="btn btn-success" 
+                               target="_blank" 
+                               rel="noopener noreferrer">Go to Invoice Form</a>
+                        </div>
                     </div>
 
                     <div class="pricing-table-container">
@@ -522,12 +528,7 @@ title: VEuPathDB subscriptions
                         </table>
                         <p class="table-note">*** Subsidized by generous philanthropic contributions (pending)</p>
                         
-                        <div style="text-align: center; margin-top: 1.5rem;">
-                            <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" 
-                               class="btn btn-success" 
-                               target="_blank" 
-                               rel="noopener noreferrer">Go to Invoice Form</a>
-                        </div>
+                        
                     </div>
                 </div>
 
