@@ -403,7 +403,7 @@ title: VEuPathDB subscriptions
     </div>   <!-- end of column12 -->    
     </div>    <!-- end of container flex -->
 
-    <p style="font-style:italic;font-weight:bold;margin-top:2em">Note:  Financial and personnel details are not stored or transmitted to VEuPathDB</p>
+    <p style="font-style:italic;font-weight:bold">Note:  Financial and personnel details are not stored or transmitted to VEuPathDB</p>
 
   </div>  <!-- end of id=research -->
 
