@@ -66,7 +66,7 @@ title: VEuPathDB subscriptions
     div#research, div#institution, div#biotech, div#teaching {
       border-radius: .5em;
       padding: 0 1em 0.5em;
-      margin: 0 2em 2em;
+      margin: 2em;
       p {
         margin:0;
       }
@@ -264,7 +264,7 @@ title: VEuPathDB subscriptions
 
 
   <div id="research"> 
-    <h3>for Academic research groups</h3>
+    <h3>Academic research groups</h3>
     <p style="padding-bottom:1em">To determine your fair share of VEuPathDB annual costs for a specific grant, your entire lab, or a larger group:</p>
 
     <div class="container">
@@ -415,7 +415,7 @@ title: VEuPathDB subscriptions
 
 
   <div id="biotech">
-   <h3>for Industry/Biotech rates (for profit)</h3>
+   <h3>Industry/Biotech rates (for profit)</h3>
 
     <div class="container">
 
@@ -463,12 +463,12 @@ title: VEuPathDB subscriptions
   </div>
 
   <div id="institution">
-   <h3>for Institutional/Library rates (non-profit)</h3>
+   <h3>Institutional/Library rates (non-profit)</h3>
  
   </div>
 
   <div id="teaching">
-   <h3>for Teaching (non- profit)</h3>
+   <h3>Teaching rates (non- profit)</h3>
 
   </div>
 
