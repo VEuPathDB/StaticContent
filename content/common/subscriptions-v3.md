@@ -449,6 +449,9 @@ title: VEuPathDB subscriptions
                         <div class="calculator-links">
                             <p><strong>Alternative:</strong> Use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> (also downloadable as an <a href="/documents/Subscription_Fee_Calculator_2025.xlsx" target="_blank">Excel file</a>) to determine subscription fees based on budget & resource usage, while also considering differing usage by various individuals or projects.</p>
                         </div>
+                        <div class="disclaimer">
+                    <strong>Note:</strong> Financial and personnel details are not stored or transmitted to VEuPathDB
+                </div>
                     </div>
 
                     <div class="pricing-table-container">
@@ -536,9 +539,7 @@ title: VEuPathDB subscriptions
                     </div>
                 </div>
 
-                <div class="disclaimer">
-                    <strong>Note:</strong> Financial and personnel details are not stored or transmitted to VEuPathDB
-                </div>
+                
             </section>
 
             <section id="biotech" class="pricing-section biotech">
