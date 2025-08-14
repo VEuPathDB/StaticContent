@@ -464,11 +464,13 @@ title: VEuPathDB subscriptions
 
   <div id="institution">
    <h3>Institutional/Library rates (non-profit)</h3>
+   <p>Please <a href="mailto:subscriptions@veupathdb.org">contact us</a> if your institution is interested in a institution-wide library subscription.</p>
  
   </div>
 
   <div id="teaching">
    <h3>Teaching rates (non- profit)</h3>
+   <p>Usage of VEuPathDB for classroom teaching purposes is free. We request that the instructor provide information on the class they are teaching [link].</p>
 
   </div>
 
