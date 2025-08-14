@@ -54,7 +54,7 @@ div.flex-container {
     h4 {
       text-align: center;
       font-style: italic;
-      font-size: 1.17em;
+      font-size: 150%;
       margin: 0.5em 0 0;
     }
   }
@@ -166,7 +166,6 @@ div.flex-container {
       color: white;
       cursor: pointer;
       font-weight: 400;
-      margin-top: 0.6em;
       padding: 0.4em 0.7em;
       transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
       touch-action: manipulation;
@@ -251,8 +250,8 @@ div.flex-container {
 
   <div id="research"> 
     <h3>Academic research groups</h3>
-    <p style="padding-bottom:1em">To determine your fair share of VEuPathDB annual costs for a specific grant, your entire lab, or a larger group:</p>
-
+<!--    <p style="padding-bottom:1em">To determine your fair share of VEuPathDB annual costs for a specific grant, your entire lab, or a larger group:</p>
+-->
     <div class="container">
 
     <div class="column11">
@@ -387,13 +386,21 @@ div.flex-container {
   </table>
 
       <span style="font-size:85%;font-style:italic">*** Subsidized by generous philanthropic contributions (pending)</span>
+
+<!--
       <div class="center" style="margin-top:2em">
         <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
         Go to Invoice Form</a></button>
       </div>
-
+-->
     </div>   <!-- end of column12 -->    
+
     </div>    <!-- end of container flex -->
+
+      <div class="center" style="margin:1em 0;">
+        <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
+        Go to Invoice Form</a></button>
+      </div>
 
     <p style="font-style:italic;font-weight:bold">Note:  Financial and personnel details are not stored or transmitted to VEuPathDB</p>
 
