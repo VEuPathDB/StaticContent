@@ -385,13 +385,7 @@ title: VEuPathDB subscriptions
     </style>
 </head>
 <body>
-    <a href="#main-content" class="skip-link">Skip to main content</a>
     
-    <header class="page-header">
-        <div class="container">
-            <h1>VEuPathDB Subscription Pricing</h1>
-        </div>
-    </header>
 
     <main id="main-content" class="main-content">
         <div class="container">
