@@ -470,7 +470,7 @@ title: VEuPathDB subscriptions
 
   <div id="teaching">
    <h3>Teaching rates (non- profit)</h3>
-   <p>Usage of VEuPathDB for classroom teaching purposes is free. We request that the instructor provide information on the class they are teaching [link].</p>
+   <p>We recognize that many institutions operate with limited course budgets, and therefore, VEuPathDB is available for free use in teaching contexts. However, if your course/program has funding available, we kindly ask that you <a href="mailto:subscriptions@veupathdb.org">contact us</a> to discuss a suitable classroom usage fee.<br><br> We request that the instructor provide information on the class they are teaching using this <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_b3DZYzonx8DM1MO">form</a>.</p>
 
   </div>
 
