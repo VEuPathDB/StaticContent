@@ -79,6 +79,12 @@ title: VEuPathDB subscriptions
       border: 1px solid #dbb667a6;
       background: #fdf9e696;
     }
+    div#research table {
+      font-size: 105%;
+    }
+    div#biotech table {
+      font-size: 110%;
+    }
 
     div.container {
       display: flex;
