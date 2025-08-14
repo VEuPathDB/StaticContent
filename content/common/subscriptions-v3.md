@@ -2,8 +2,6 @@
 permalink: /subscriptions-v3
 title: VEuPathDB subscriptions
 ---
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
