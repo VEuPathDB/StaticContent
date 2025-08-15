@@ -97,11 +97,17 @@ div.flex-container {
       align-items: center; /* vertical centering */
     }
     div.column11 {
-      flex: 1; /* it expands to fill leftover space */
+      flex: 1; /* text column fills available space */
     }
     div.column12 {
       flex: 0 0 auto; /* it keeps the table at its natural width*/
       margin: 0 1em 1em 1em;
+      overflow-x: auto; /* scroll if table too wide */
+    }
+
+    .column12 table {
+      border-collapse: collapse;
+      max-width: 100%; /* prevent table from exceeding container */
     }
 
     ul {
@@ -216,21 +222,50 @@ div.flex-container {
       } 
     }
 
-    @media only screen and (max-width: 50em) {
-      div.container {
-        flex-wrap:wrap;
-      }
-      div#research, div#institution, div#biotech, div#teaching, div.column12, .button-3, div.addquest, div.addquest p {
-        margin-left: 0;
-      }
-      div.addquest, div.addquest p {
-        padding-left: 0;
-        display: block;
-      }
-      table {
-        margin-top: 2em;
-      }      
-    }
+
+@media only screen and (max-width: 50em) {
+  div.container {
+    flex-wrap: wrap; 
+  }
+
+  div#research,
+  div#institution,
+  div#biotech,
+  div#teaching,
+  div.column12,
+  .button-3,
+  div.addquest,
+  div.addquest p {
+    margin-left: 0;
+  }
+
+  div.addquest,
+  div.addquest p {
+    padding-left: 0;
+    display: block;
+  }
+
+  table {
+    margin-top: 2em;
+    font-size: 0.9rem; /* shrink table font on small screens */
+  }
+
+  .column12 {
+    overflow-x: auto; /* allow table scroll inside column */
+  }
+
+  .column12 table {
+    max-width: 100%; /* prevent overflow past container */
+  }
+}
+
+/* Extra small screens (phones) */
+@media only screen and (max-width: 30em) {
+  table {
+    font-size: 0.8rem; /* shrink table font further */
+  }
+}
+
 
   }
 
