@@ -36,13 +36,12 @@ div.flex-container {
   flex-wrap: wrap;
   justify-content: center;
   button {
-    border: 3px solid #dbb667;
-    background: #FDF9E7;
+    background: #002f4b;
     border-radius: 0.7em;
     margin: 0 1em 1em 0;
     padding: 1em;
     text-align: center;
-    font-size: 150%;
+    font-size: 80%;
     box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
     box-sizing: border-box;
     cursor: pointer;
@@ -53,7 +52,7 @@ div.flex-container {
     
     a {
       text-decoration: none;
-      color: #805c4b;
+      color: #ffffff;
       text-align: center;
       font-style: italic;
       margin: 0.5em;
@@ -65,7 +64,7 @@ div.flex-container {
     outline: none;
   }
   button:hover {
-    background-color: rgb(253, 249, 190);
+    background-color: #007bff;
   }
 }
 
