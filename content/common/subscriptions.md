@@ -5,6 +5,7 @@ permalink: subscriptions
 tags: [general]
 ---
 <style>
+
   h1 {
     font-size: 2.5em;
     margin-bottom:0;
@@ -13,6 +14,7 @@ tags: [general]
   }
 
   div.static-content {
+
     font-size:130%;
     a {
       text-decoration: underline;
@@ -26,39 +28,88 @@ tags: [general]
       padding-top:0.25em;
       font-style: italic;
     }
-    div.container {
-      display: flex;
+    div.top {
+      font-size: 90%;
+      margin-bottom: 2em;
     }
-    div.column1 {
-      flex: 0 0 63%; 
+
+div.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  button {
+    background: #002f4b;
+    border-radius: 0.7em;
+    margin: 0 1em 1em 0;
+    padding: 1em;
+    text-align: center;
+    font-size: 80%;
+    box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: 400;
+    transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+    touch-action: manipulation;
+    vertical-align: middle;
+    
+    a {
+      text-decoration: none;
+      color: #ffffff;
+      text-align: center;
+      font-style: italic;
+      margin: 0.5em;
+    }
+  }
+
+  button:focus:not(:focus-visible):not(.focus-visible) {
+    box-shadow: none;
+    outline: none;
+  }
+  button:hover {
+    background-color: #007bff;
+  }
+}
+
+
+    div#research, div#institution, div#biotech, div#teaching {
       border-radius: .5em;
+      padding: 0 1em 0.5em;
+      margin: 2em;
+      p {
+        margin:0;
+      }
+    }
+    div#research, div#institution {
       border: 1px solid lightblue;
       background: #e6f7fd78;
-      padding: 0 1em 0.5em;
-      margin-left: 2em;
-      min-width: 49em;
-      p {
-        margin:0;
-      }
     }
-    div.column2 {
-      flex: 0 0 auto;
-      border-radius: .5em;
+    div#biotech, div#teaching {
       border: 1px solid #dbb667a6;
       background: #fdf9e696;
-      padding: 0 1em 0;
-      margin-left: 2em;
-      max-width: 21em;
-      p {
-        margin:0;
-      }
+    }
+    div#research table {
+      font-size: 105%;
+    }
+    div#biotech table {
+      font-size: 110%;
+    }
+
+    div.container {
+      display: flex;
+      align-items: center; /* vertical centering */
     }
     div.column11 {
-      flex: 0 0 47%;
+      flex: 1; /* text column fills available space */
     }
     div.column12 {
-      flex: 0 0 auto;
-      margin-left: 1em;
+      flex: 0 0 auto; /* it keeps the table at its natural width*/
+      margin: 0 1em 1em 1em;
+      overflow-x: auto; /* scroll if table too wide */
+    }
+
+    .column12 table {
+      border-collapse: collapse;
+      max-width: 100%; /* prevent table from exceeding container */
     }
 
     ul {
@@ -68,13 +119,10 @@ tags: [general]
       padding-left: 0;
       margin-top: 0;
     }
-    .column2 li {
-      padding-top: 0.4em;
-      padding-bottom: 0.5em;
-    }
 
     table {
       font-size: 85%;
+      border-collapse: initial;
       border: 1px solid lightblue;
     }
     td {
@@ -87,6 +135,10 @@ tags: [general]
     }
     td.sidewhite {
       border-right: 1px solid white;
+    }
+    td.left {
+      text-align: left;
+      vertical-align: middle;
     }
     thead td {
       font-weight: bold;
@@ -128,7 +180,6 @@ tags: [general]
       color: white;
       cursor: pointer;
       font-weight: 400;
-      margin-top: 0.6em;
       padding: 0.4em 0.7em;
       transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
       touch-action: manipulation;
@@ -173,34 +224,67 @@ tags: [general]
       } 
     }
 
-    @media only screen and (max-width: 50em) {
-      div.container {
-        flex-wrap:wrap;
-      }
-      div.column1, div.column2, .button-3, div.addquest, div.addquest p {
-        margin-bottom: 1em;
-        margin-left: 0;
-      }
-      div.addquest, div.addquest p {
-        padding-left: 0;
-        display: block;
-      }
-      div.column1 {
-        min-width: 30em;
-      }
-      div.column12 {
-        margin-left: 0;
-      }
-      table {
-        margin-top: 2em;
-      }
-      
-    }
+
+@media only screen and (max-width: 50em) {
+  div.container {
+    flex-wrap: wrap; 
+  }
+
+  div#research,
+  div#institution,
+  div#biotech,
+  div#teaching,
+  div.column12,
+  .button-3,
+  div.addquest,
+  div.addquest p {
+    margin-left: 0;
+  }
+
+  div.addquest,
+  div.addquest p {
+    padding-left: 0;
+    display: block;
+  }
+
+  table {
+    margin-top: 2em;
+    font-size: 0.9rem; /* shrink table font on small screens */
+  }
+
+  .column12 {
+  flex: 1 1 100%;       /* allow column to shrink on small screens */
+  width: 100%;
+  margin-left: 0;
+  min-width: 0;         /* necessary for flex items to shrink */
+} 
+
+ .table-scroll {
+  overflow-x: auto;     /* scroll only inside this wrapper */
+  max-width: 100%;
+  -webkit-overflow-scrolling: touch; /* smooth scroll on mobile */
+}
+
+ .table-scroll table {
+  width: max-content;   /* keep table natural width */
+  white-space: nowrap;  /* prevent cell content from wrapping */
+}
+
+}
+
+/* Extra small screens (phones) */
+@media only screen and (max-width: 30em) {
+  table {
+    font-size: 0.8rem; /* shrink table font further */
+  }
+}
+
 
   }
+
 </style>
 
-<h1>VEuPathDB Subscription Pricing</h1>
+<h1>VEuPathDB subscription pricing</h1>
 
 <div class="static-content">
 
@@ -208,15 +292,23 @@ tags: [general]
     <p><b style="font-size:110%">Why are we implementing a subscription service?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating a mandatory subscription service ... even if your applicable subscription fee is $0 (subsidized). Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination.  For further information, see <a href="/a/app/static-content/faq.html">FAQ</a>.</p>
   </div>
 
+
+  <div class="flex-container">
+    <button><a href="#research">Academic research groups</a></button>
+    <button><a href="#biotech">Industry/Biotech (for profit)</a></button>
+    <button><a href="#institution">Institutional/Library (non-profit)</a></button>
+    <button><a href="#teaching">Teaching (non- profit)</a></button>
+    <button id="donate"><a target="_blank" href="https://giving.aws.cloud.upenn.edu/fund?program=SAS&fund=605878">Charitable contributions - Donate now</a></button>
+  </div>
+
+
+  <div id="research"> 
+    <h3>Academic research groups</h3>
+<!--    <p style="padding-bottom:1em">To determine your fair share of VEuPathDB annual costs for a specific grant, your entire lab, or a larger group:</p>
+-->
   <div class="container">
 
-  <div class="column1">
-    <h3>for Academic Research Groups</h3>
-    <p style="padding-bottom:1em">To determine your fair share of VEuPathDB annual costs for a specific grant, your entire lab, or a larger group:</p>
-
-    <div class="container">
-
-    <div class="column11">
+  <div class="column11">
       <p>Use the table at right to define appropriate annual fees, based on relevant budget details associated with:</p>
       <ul>
         <li>individual grant(s) ... <i>OK to separate invoices for multiple grants, if this is helpful</i></li>
@@ -225,12 +317,11 @@ tags: [general]
       </ul>
       <p style="font-style:italic;margin-top:0.5em">Calculate applicable subscription rates based on (1) your frequency of database usage and (2) the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB.  <b>Please be sure to consider salaries for all participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</b></p>
       <p style="text-align:center;font-weight:bold;margin:0.5em 0">OR</p>
-      <p>Use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> 
-        (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) 
-        to determine subscription fees based on budget & resource usage, while also considering differing usage by various individuals or projects.</p>
+      <p>Use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) to determine subscription fees based on budget & resource usage, while also considering differing usage by various individuals or projects.</p>
     </div>
 
-    <div class="column12">
+  <div class="column12">
+  <div class="table-scroll">
   <table>
 
   <thead>
@@ -346,37 +437,112 @@ tags: [general]
   </tr></tbody>
 
   </table>
-      <span style="font-size:85%;font-style:italic">*** Subsidized by generous philanthropic contributions (pending)</span>
+  </div>
+  <span style="font-size:85%;font-style:italic">*** Subsidized by generous philanthropic contributions (pending)</span>
+
+<!--
       <div class="center" style="margin-top:2em">
         <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
         Go to Invoice Form</a></button>
       </div>
+-->
+  </div>   <!-- end of column12 -->    
 
-    </div>   <!-- end of column12 -->    
-    </div>    <!-- end of container flex -->
+  </div>    <!-- end of container flex -->
 
-    <p style="font-style:italic;font-weight:bold;margin-top:2em">Note:  Financial and personnel details are not stored or transmitted to VEuPathDB</p>
+  <div class="center" style="margin:1em 0;">
+        <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
+        Go to Invoice Form</a></button>
+  </div>
 
-  </div>  <!-- end of column1 -->
+  <p style="text-align:center;font-style:italic;font-weight:bold">Note:  Financial and personnel details are not stored or transmitted to VEuPathDB</p>
 
-  <div class="column2">     
-    <h3>Other Subscription Types</h3>
-    <p>If you are interested in the following, please
-      <a href="mailto:subscriptions@veupathdb.org">Contact Us</a> for additional options:</p><br>
-    <ul>
-      <li>Institutional rates (non-profit) <br><span class="small">based on aggregate number of users</span></li>
-      <li>Industry/biotech rates (for profit) <br><span class="small">based on revenue</span></li>
-      <li>Educational usage (non-profit) <br><span class="small">based on # student hours</span></li>
-      <li><a href="https://giving.aws.cloud.upenn.edu/fund?program=SAS&fund=605878">Charitable contributions</a><br><span class="small">advancing globally open data access</span></li>
-    </ul>
-  </div>  <!-- end of column2 -->
-  </div>  <!-- end of container flex -->
+  </div>  <!-- end of id=research -->
+
+
+  <div id="biotech">
+   <h3>Industry/Biotech rates (for profit)</h3>
+
+  <div class="container">
+
+  <div class="column11">
+
+  <p>Subscription rates are based on company size.</p>
+  <p>For an invoice please <a href="mailto:subscriptions@veupathdb.org">Contact Us</a></p><br>
+
+  </div>
+
+  <div class="column12"> 
+    <div class="table-scroll">
+  <table>
+
+  <thead>
+    <tr>
+      <td class="center sidewhite">Size</td>
+      <td class="center">Suggested subscription</td>
+    </tr>
+  </thead>
+
+  <tbody>
+  <tr>
+    <td class="left sidewhite">Large Cap Pharma >$10B</td>
+    <td class="center sidewhite">$ 80K</td>
+  </tr>
+  <tr class="alt">
+    <td class="left sidewhite">Mid Cap/Biotech >$1B</td>
+    <td class="center sidewhite">$ 40K</td>
+  </tr>
+  <tr>
+    <td class="left sidewhite">Small Cap/Clinical stage >$100M</td>
+    <td class="center sidewhite">$ 20K</td>
+  </tr>
+  <tr class="alt">
+    <td class="left sidewhite">Micro Cap/Startup <$100M</td>
+    <td class="center sidewhite">$ 10K</td>
+  </tr>
+  </tbody>
+
+  </table>
+      </div>
+     </div>
+   </div>
+
+
+  </div>
+
+  <div id="institution">
+   <h3>Institutional/Library rates (non-profit)</h3>
+   <p>Please <a href="mailto:subscriptions@veupathdb.org">contact us</a> if your institution is interested in a institution-wide library subscription.</p>
+ 
+  </div>
+
+  <div id="teaching">
+   <h3>Teaching rates (non- profit)</h3>
+   <p>We recognize that many institutions operate with limited course budgets, and therefore, VEuPathDB is available for free use in teaching contexts. However, if your course/program has funding available, we kindly ask that you <a href="mailto:subscriptions@veupathdb.org">contact us</a> to discuss a suitable classroom usage fee.<br><br> We request that the instructor provide information on the class they are teaching using this <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_b3DZYzonx8DM1MO">form</a>.</p>
+
+  </div>
+
 
   <div class="addquest">
     <h3 style="display:inline">Additional Questions?</h3>
-    <p><i>Please see <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a> 
+    <p><i>Please see <a href="/a/app/static-content/faq.html">Frequently Asked Questions</a>
       or <a href="mailto:subscriptions@veupathdb.org">Contact Us</a>.</i></p>
   </div>
 
-</div> <!-- end of sttaic-content -->
 
+
+</div>
+
+<script>
+  function getHashFromUrl(url){
+    console.log("My url: ", url);
+    var a = document.createElement("a");
+    a.href = url;
+    return a.hash.replace(/^#/, "");
+  }
+  function openEntry(myanchor) {
+    console.log("My Anchor: ", myanchor);
+    document.getElementById(myanchor).open = true;
+  }
+  document.onload = openEntry(getHashFromUrl(window.location.href));
+</script>
