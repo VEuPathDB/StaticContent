@@ -36,14 +36,13 @@ div.flex-container {
   flex-wrap: wrap;
   justify-content: center;
   button {
-    font-size: 90%;
     border: 3px solid #dbb667;
     background: #FDF9E7;
     border-radius: 0.7em;
     margin: 0 1em 1em 0;
     padding: 1em;
     text-align: center;
-    font-size: 110%;
+    font-size: 150%;
     box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
     box-sizing: border-box;
     cursor: pointer;
