@@ -251,12 +251,23 @@ div.flex-container {
   }
 
   .column12 {
-    overflow-x: auto; /* allow table scroll inside column */
-  }
+  flex: 1 1 100%;       /* allow column to shrink on small screens */
+  width: 100%;
+  margin-left: 0;
+  min-width: 0;         /* necessary for flex items to shrink */
+} 
 
-  .column12 table {
-    max-width: 100%; /* prevent overflow past container */
-  }
+ .table-scroll {
+  overflow-x: auto;     /* scroll only inside this wrapper */
+  max-width: 100%;
+  -webkit-overflow-scrolling: touch; /* smooth scroll on mobile */
+}
+
+ .table-scroll table {
+  width: max-content;   /* keep table natural width */
+  white-space: nowrap;  /* prevent cell content from wrapping */
+}
+
 }
 
 /* Extra small screens (phones) */
@@ -308,6 +319,7 @@ div.flex-container {
     </div>
 
   <div class="column12">
+  <div class="table-scroll">
   <table>
 
   <thead>
@@ -423,7 +435,7 @@ div.flex-container {
   </tr></tbody>
 
   </table>
-
+  </div>
   <span style="font-size:85%;font-style:italic">*** Subsidized by generous philanthropic contributions (pending)</span>
 
 <!--
@@ -459,6 +471,7 @@ div.flex-container {
   </div>
 
   <div class="column12"> 
+    <div class="table-scroll">
   <table>
 
   <thead>
@@ -488,6 +501,7 @@ div.flex-container {
   </tbody>
 
   </table>
+      </div>
      </div>
    </div>
 
