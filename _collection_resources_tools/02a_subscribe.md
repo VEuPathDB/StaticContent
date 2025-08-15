@@ -9,15 +9,18 @@ permalink: '#subscription'
 exclude: [OrthoMCL]
 ---
 <style>
-
 p.indent {
-    margin-left: 3em
+    margin-left: 3em;
 }
+
 .survey-link {
-    display: block;
-    text-align: center;
+    display: flex;            /* use flex for alignment */
+    flex-wrap: wrap;          /* allow buttons to wrap on small screens */
+    justify-content: center;  /* center buttons horizontally */
+    gap: 10px;                /* spacing between buttons */
     margin-top: 5px;
 }
+
 .survey-link a {
     background-color: #007BFF;
     color: white;
@@ -25,9 +28,18 @@ p.indent {
     text-decoration: none;
     border-radius: 5px;
     font-size: 16px;
-    margin-right: 20px; /* space between buttons */
+    display: inline-block;    /* ensure padding works correctly */
+}
+
+/* Optional: slightly smaller buttons on very small screens */
+@media (max-width: 480px) {
+    .survey-link a {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
 }
 </style>
+
 
 
 Starting March 2025, VEuPathDB is implementing a subscription service that will keep our resources open and accessible to everyone while sustaining our operations.
