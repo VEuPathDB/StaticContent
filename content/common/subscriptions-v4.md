@@ -94,12 +94,13 @@ div.flex-container {
 
     div.container {
       display: flex;
+      align-items: center; /* vertical centering */
     }
     div.column11 {
-      flex: 1;
+      flex: 1; /* it expands to fill leftover space */
     }
     div.column12 {
-      flex: 0 0 auto;
+      flex: 0 0 auto; /* it keeps the table at its natural width*/
       margin: 0 1em 1em 1em;
     }
 
@@ -257,9 +258,9 @@ div.flex-container {
     <h3>Academic research groups</h3>
 <!--    <p style="padding-bottom:1em">To determine your fair share of VEuPathDB annual costs for a specific grant, your entire lab, or a larger group:</p>
 -->
-    <div class="container">
+  <div class="container">
 
-    <div class="column11">
+  <div class="column11">
       <p>Use the table at right to define appropriate annual fees, based on relevant budget details associated with:</p>
       <ul>
         <li>individual grant(s) ... <i>OK to separate invoices for multiple grants, if this is helpful</i></li>
@@ -268,12 +269,10 @@ div.flex-container {
       </ul>
       <p style="font-style:italic;margin-top:0.5em">Calculate applicable subscription rates based on (1) your frequency of database usage and (2) the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB.  <b>Please be sure to consider salaries for all participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</b></p>
       <p style="text-align:center;font-weight:bold;margin:0.5em 0">OR</p>
-      <p>Use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> 
-        (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) 
-        to determine subscription fees based on budget & resource usage, while also considering differing usage by various individuals or projects.</p>
+      <p>Use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) to determine subscription fees based on budget & resource usage, while also considering differing usage by various individuals or projects.</p>
     </div>
 
-    <div class="column12">
+  <div class="column12">
   <table>
 
   <thead>
@@ -390,7 +389,7 @@ div.flex-container {
 
   </table>
 
-      <span style="font-size:85%;font-style:italic">*** Subsidized by generous philanthropic contributions (pending)</span>
+  <span style="font-size:85%;font-style:italic">*** Subsidized by generous philanthropic contributions (pending)</span>
 
 <!--
       <div class="center" style="margin-top:2em">
@@ -398,16 +397,16 @@ div.flex-container {
         Go to Invoice Form</a></button>
       </div>
 -->
-    </div>   <!-- end of column12 -->    
+  </div>   <!-- end of column12 -->    
 
-    </div>    <!-- end of container flex -->
+  </div>    <!-- end of container flex -->
 
-      <div class="center" style="margin:1em 0;">
+  <div class="center" style="margin:1em 0;">
         <button class="button-3"><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_56yc5QpxL0IfWkK" target="_blank" rel="noopener noreferrer">
         Go to Invoice Form</a></button>
-      </div>
+  </div>
 
-    <p style="text-align:center;font-style:italic;font-weight:bold">Note:  Financial and personnel details are not stored or transmitted to VEuPathDB</p>
+  <p style="text-align:center;font-style:italic;font-weight:bold">Note:  Financial and personnel details are not stored or transmitted to VEuPathDB</p>
 
   </div>  <!-- end of id=research -->
 
@@ -415,16 +414,16 @@ div.flex-container {
   <div id="biotech">
    <h3>Industry/Biotech rates (for profit)</h3>
 
-    <div class="container">
+  <div class="container">
 
-    <div class="column11">
+  <div class="column11">
 
-    <p>Subscription rates are based on company size.</p>
-    <p>For an invoice please <a href="mailto:subscriptions@veupathdb.org">Contact Us</a></p><br>
+  <p>Subscription rates are based on company size.</p>
+  <p>For an invoice please <a href="mailto:subscriptions@veupathdb.org">Contact Us</a></p><br>
 
-    </div>
+  </div>
 
-    <div class="column12"> 
+  <div class="column12"> 
   <table>
 
   <thead>
