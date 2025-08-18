@@ -2,16 +2,16 @@
 - type: about
   question: "What is VEuPathDB– the Pathogen, Host & Vector Bioinformatics Resource Center?"
   answer: |
-           <p>VEuPathDB is an online resource providing FAIR (Findable, Accessible, Interoperable, Reusable) access to genomic Big Data relating to eukaryotic microbes (protists & fungi), as well as the hosts and arthropod vectors of pathogenic species. Supported datatypes include:</p>
+           <p style="margin-bottom:0">VEuPathDB is an online resource providing <b>FAIR</b> (<b>F</b>indable, <b>A</b>ccessible, <b>I</b>nteroperable, <b>R</b>eusable) access to genomic Big Data relating to eukaryotic microbes (protists & fungi), as well as the hosts and arthropod vectors of pathogenic species. Supported datatypes include:</p>
             <ul>
             <li>Genome sequences & population-level diversity data on many hundreds of microbial eukaryotes (protists & fungi), including pathogenic & non-pathogenic species, along with the host species & arthropod disease vectors they infect.</li>
-            <li>Diverse functional genomics information (generated on multiple platforms): chromatin marks, transcriptomes, proteomes, metabolomes, genome-wide phenotypic information, etc.</li>
-            <li>Information on subcellular localization, structure, molecular interactions, metabolic pathways & signaling networks, immunogenicity, reagents, publications, etc.</li>
+            <li>Diverse functional genomics information (generated on multiple platforms): chromatin marks, transcriptomes, proteomes, metabolomes, genome-wide phenotypic information, <i>etc.</i></li>
+            <li>Information on subcellular localization, structure, molecular interactions, metabolic pathways & signaling networks, immunogenicity, reagents, publications, <i>etc.</i></li>
             <li>Automated analyses and summaries (including experimental metadata) integrated with the above, along with annotations available from professional curators or contributed by community experts.</li>
            </ul>
-           <p>A unique suite of data-mining tools allows users to rapidly explore and integrate multiple lines of evidence to uncover biological relationships, expediting hypothesis generation, discovery research & translational application.  VEuPathDB supports:</p>
+           <p style="margin-bottom:0">A unique suite of data-mining tools allows users to rapidly explore and integrate multiple lines of evidence to uncover biological relationships, expediting hypothesis generation, discovery research & translational application.  VEuPathDB supports:</p>
             <ul>
-            <li>Sophisticated queries for interrogating diverse datatypes, and integrating & sharing the results obtained – enabling users to effectively conduct experiments *in silico*.</li>
+            <li>Sophisticated queries for interrogating diverse datatypes, and integrating & sharing the results obtained – enabling users to effectively conduct experiments <i>in silico.</i></li>
             <li>Tools for assessing and improving the quality and accuracy of available annotation – capturing expert knowledge from the community.</li>
             <li>Tools for analyzing and disseminating users’ own datasets – in compliance with emerging global data-sharing standards and requirements.</li>
             </ul>
@@ -20,25 +20,27 @@
 - type: about
   question: "Who uses VEuPathDB resources, and why?"
   answer: |
-           In 2023, VEuPathDB resources were visited by an average of >45K unique users per month, from >150 countries, with the typical user returning several times each month.  >7 Tb of data is downloaded annually, and VEuPathDB resources have been cited >30K times in the scientific literature to date.  Numerous publications, reviews, and independent assessments attest that by providing convenient access to genomic-scale datasets and allowing users to interrogate these data and integrate the results obtained, VEuPathDB resources greatly facilitate discovery research and translational application, including the identification of therapeutic targets.
+           In 2022-24, VEuPathDB resources were visited by an average of >51K unique users per month, from >135 countries, with the typical user returning several times each month. >13 Tb of data is downloaded annually, and VEuPathDB resources have been cited >32K times in the scientific literature to date.  Numerous publications, reviews, and independent assessments attest that by providing convenient access to genomic-scale datasets and allowing users to interrogate these data and integrate the results obtained, VEuPathDB resources greatly facilitate discovery research and translational application, including the identification of therapeutic targets.
             
-           Extensive outreach & training activities focus on ensuring that researchers can access and use available information effectively.  These efforts have been particularly effective in engaging the global community, including those in LMICs that often bear the brunt of infectious disease.  For example: African scientists account for ~5% of the global usage of the PlasmoDB and VectorBase databases supporting research on malaria and their Anopheles mosquito vectors, and 10% of global usage for PiroplasmaDB, supporting Theileria and Babesia pathogens of cattle.  VEuPathDB also provides a platform for the dissemination of new genomic-scale datasets, ensuring compliance with NIH data-sharing requirements and other emerging global standards for FAIR data-sharing, and permitting integration with other relevant information.
+           Extensive outreach & training activities focus on ensuring that researchers can access and use available information effectively.  These efforts have been particularly effective in engaging the global community, including those in LMICs that often bear the brunt of infectious disease.  For example: African scientists account for ~5% of the global usage of the PlasmoDB and VectorBase databases supporting research on malaria and their <i>Anopheles</i> mosquito vectors, and 10% of global usage for PiroplasmaDB, supporting <i>Theileria</i> and <i>Babesia</i> pathogens of cattle.  VEuPathDB also provides a platform for the dissemination of new genomic-scale datasets, ensuring compliance with NIH data-sharing requirements and other emerging global standards for FAIR data-sharing, and permitting integration with other relevant information.
             
-           In a 2024 survey asking VEuPathDB users to estimate the impact that the loss of this resource would have on lab productivity, >75% of >2000 respondents indicated an impact >50%.  Previous cost-efficacy estimates by the Wellcome Trust suggested an average impact of VEuPathDB on research productivity in individual labs of 20-30%.  There is no universally accepted metric for assessing impact, and database usage is highly variable from group to group … but it is clear that the value of VEuPathDB to the global research community is substantial.
+           In a 2024 <a href="https://veupathdb.org/veupathdb/app#survey" target="_blank">survey</a> asking VEuPathDB users to estimate the impact that the loss of this resource would have on lab productivity, >75% of ~2000 respondents indicated an impact >50%.  Previous cost-efficacy estimates by the Wellcome Trust suggested an average impact of VEuPathDB on research productivity in individual labs of 20-30%.  There is no universally accepted metric for assessing impact, and database usage is highly variable from group to group … but it is clear that the value of VEuPathDB to the global research community is substantial.
   uid: whouses
   projects: ""
 - type: funding
   question: "What is the cost of VEuPathDB resources, who provides this support, and how is it allocated?"
   answer: |
-           VEuPathDB resources have benefitted from >$150M investment since 1996 from the US NIH, UK Wellcome Trust, Bill & Melinda Gates Foundation, Burroughs Wellcome Fund, US Dept Agriculture, and others.  From 2014-2024, the annual operating budget for VEuPathDB has averaged ~$8.5M in total costs; 6M in direct costs, of which ~60% has been provided by an NIAID Bioinformatics Resource Center contract, plus additional funding from the Wellcome Trust Resource Grants program and others.  This seems like a lot of money (and it is!), but production quality resources are considerably more expensive to operate than individual research projects, requiring professional staff for reliability & cybersecurity; data-loading, analysis & quality control; development of robust & performant software; database testing & quality control; community support, <i>etc</i>.
+           VEuPathDB resources have benefitted from >$150M investment since 1996 from the US NIH, UK Wellcome Trust, Bill & Melinda Gates Foundation, Burroughs Wellcome Fund, US Dept Agriculture, and others.  From 2014-2024, the annual operating budget for VEuPathDB has averaged ~$8.5M in total costs ($6M in direct costs), of which ~70% has been provided by an NIAID Bioinformatics Resource Center contract, plus additional funding from the Wellcome Trust Resource Grants program and others.  This seems like a lot of money (and it is!), but production quality resources are considerably more expensive to operate than individual research projects, requiring professional staff for reliability & cybersecurity; data-loading, analysis & quality control; development of robust & performant software; database testing & quality control; community support, <i>etc</i>.
            
            Only ~10% of the VEuPathDB operating budget is required for maintenance of the live database as a static resource: ~$400K for hardware / compute / storage, plus minimal effort for systems/database administration, bug fixes, user support & institutional overhead … but without new data loading and the development of tools & queries to accommodate new datatypes, this information quickly goes stale.
 
            For new database releases, ~5% of the budget is required for compute costs associated with data processing.  >70% of the budget is allocated to personnel, including: project management and requirement definition & prioritization; computer & database administration associated with networking, cybersecurity, and the preparation & QC of new releases; cleaning, curation, processing, loading & QC of new data; developing the infrastructure necessary for loading, analyzing, presenting and mining new datatypes; and outreach activities to ensure effective utilization and dissemination of these resources.
 
-           Since the cessation of the VEuPathDB BRC contract in Sept 2024, stop-gap funding has been provided by The Foundation for the Advancement of Science & Medicine, Open Philanthropy, the Chan Zuckerberg Initiative, and the University of Pennsylvania; Penn and the University of Georgia have also agreed to waive institutional overhead for the duration of this transitional period.  This funding supports the maintenance of existing resources in static form and provides partial funding to implement infrastructure that will allow the resumption of regular database releases (with new genomes, functional datasets & analytical tools) in 2025 and plan for financial sustainability over the longer term.
+           Since cessation of the VEuPathDB BRC contract in Sept 2024, stop-gap funding has been provided by The Foundation for the Advancement of Science & Medicine, Open Philanthropy, the Chan Zuckerberg Initiative, and the University of Pennsylvania and other sources; Penn and the University of Georgia have also agreed to waive institutional overhead for the duration of this transitional period.  This funding supports the maintenance of existing resources and provides partial funding to implement infrastructure that will allow the resumption of regular database releases (with new genomes, functional datasets & analytical tools) in 2025-26 and plan for financial sustainability over the longer term.
 
-           We are in the midst of re-engineering data processing & loading pipelines to improve efficiency & scalability, implementing AI tools to automate QC, data summarization, and other processes, renegotiating infrastructure subsidies, and reprioritizing development efforts.  These changes are projected to reduce total costs for 2025-26 to $5.3M/yr (a 38% reduction) without reducing support for new datasets or community engagement. 
+           The current VEuPathDB budget of $3.9M (<50% of our 2023-24 budget) has been achieved through a variety of belt-tightening measures, including staff reductions, elimination of certain relatively expensive services, deferred hardware upgrades, and institutional overhead waivers. 
+
+           We are in the midst of re-engineering data processing & loading pipelines to improve efficiency & scalability, implementing AI tools to automate QC, data summarization, and other processes, renegotiating infrastructure subsidies, and reprioritizing development efforts.  We anticipate that this new infrastructure will permit continued support for the ever-increasing volume and diversity of new datasets, with no reduction in community engagement.  For 2026-27 and beyond, we project steady-state budgets of $5.3M/yr (a 38% reduction relative to 2023-24), to accommodate equipment upgrades, staff replacement, and appropriate institutional overhead. 
 
            VEuPathDB is a non-profit operation; all funds are used for database development & support rather than research or other activities.
   uid: cost
@@ -47,76 +49,91 @@
   question: "How and why has the VEuPathDB funding environment changed?"
   answer: |
            NIAID has decided to take the BRC Program in a different direction.  For further information, see:
+           
+           - [https://www.science.org/doi/epdf/10.1126/science.adt2250](https://www.science.org/doi/epdf/10.1126/science.adt2250)
 
-           [https://www.science.org/doi/epdf/10.1126/science.adt2250](https://www.science.org/doi/epdf/10.1126/science.adt2250)
+           - [https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00241-6/fulltext](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00241-6/fulltext)
 
-           [https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00241-6/fulltext](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00241-6/fulltext)
+           - [https://youtu.be/zyF4dUnSG5Q](https://youtu.be/zyF4dUnSG5Q)
 
-           [https://youtu.be/zyF4dUnSG5Q](https://youtu.be/zyF4dUnSG5Q)
-
-           [https://www.niaid.nih.gov/research/bioinformatics-resource-centers](https://www.niaid.nih.gov/research/bioinformatics-resource-centers)
+           - [https://www.niaid.nih.gov/research/bioinformatics-resource-centers](https://www.niaid.nih.gov/research/bioinformatics-resource-centers)
   uid: change
   projects: ""
 - type: funding
   question: "What other sources of grant and philanthropic support might replace the loss of BRC funding for VEuPathDB?"
   answer: |
-           Various funding agencies – including (but not limited to) those that have previously supported VEuPathDB (see above) – are concerned about the impact of defunding this resource but cannot fill the gap, at least on short notice.  These groups are very interested in determining if a community-based financial model can be established to provide sustainable support for essential core resources and may be willing to help fund such an experiment.
+           Various funding agencies – including (but not limited to) those that have previously supported VEuPathDB (<i>see above</i>) – are concerned about the impact of defunding this resource but cannot fill the gap, at least on short notice.  These groups are very interested in determining if a community-based financial model can be established to provide sustainable support for essential core resources and may be willing to help fund such an experiment.
 
            Concerned about the importance of VEuPathDB for global public health and the impact that its disappearance would have on tens of thousands of mycology, parasitology & vector biology researchers who depend on these databases for their work on a daily basis, several philanthropic groups have provided short-term funds allowing VEuPathDB to stay online while we develop a model for user-based support.  Many thanks to the Foundation for the Advancement of Science & Medicine, Open Philanthropy, The Chan Zuckerberg Initiative, Univ Pennsylvania & Univ Georgia!
 
-           The bottom line, however, is that long-term support for bioinformatics resources is increasingly challenging (<i>cf</i>: the loss of funding for the Arabidopsis, Aspergillus & Neurospora databases and projected reductions in support for model organism databases).  There is no realistic world in which VEuPathDB will remain available unless users are willing to help pay for resources they used to get for free … but with strong community buy-in, matching funds from granting agencies and philanthropic groups may be possible, to be supplemented by research grants for the development of innovative new informatics tools.
+           The bottom line, however, is that long-term support for bioinformatics resources is increasingly challenging (<i>cf</i>: the loss of funding for the <i>Arabidopsis</i>, <i>Aspergillus</i> & <i>Neurospora</i> databases and projected reductions in support for model organism databases).  There is no realistic world in which VEuPathDB will remain available unless users are willing to help pay for resources previously provided for free … but with strong community buy-in, matching funds from granting agencies and philanthropic groups may be possible, to be supplemented by research grants for the development of innovative new informatics tools.
   uid: otherfundingsource
   projects: ""
 - type: funding
   question: "What strategies might help in reducing the cost of VEuPathDB resources?"
   answer: |  
-           We are in the midst of re-engineering data processing & loading pipelines to improve efficiency & scalability, implementing AI tools to automate QC, data summarization, and other processes, renegotiating infrastructure subsidies, and reprioritizing development efforts.  These changes are projected to reduce total costs by 38% without any reduction in the release of new datasets or outreach support. 
+           We are in the midst of re-engineering data processing & loading pipelines to improve efficiency & scalability, implementing AI tools to automate QC, data summarization, and other processes, renegotiating infrastructure subsidies, and reprioritizing development efforts.  These changes are projected to reduce steady-state costs by 38% without any reduction in the release of new datasets or outreach support. 
 
-           As a production resource with regularly scheduled releases to integrate new data, tools, and functionality, VEuPathDB employs a professional staff of software engineers, systems & database administrators, and subject matter experts.  Engaging students and volunteers is sometimes suggested as a cost-saving measure, and while such contributions have sometimes been useful for focused activities (such as initial annotation of new genomes), data curation is a highly specialized activity, and data processing/loading is highly sensitive to error, making oversight and QC a challenge.  Similarly, software developed by students and post-docs is typically designed for specific short-term applications rather than generalizability and robustness over the longer term.
+           As a production resource with regularly scheduled releases to integrate new data, tools, and functionality, VEuPathDB employs a professional staff of software engineers, systems & database administrators, and subject matter experts.  Engaging students and volunteers is sometimes suggested as a cost-saving measure, and while such contributions have occasionally been useful for focused activities (such as initial annotation of new genomes), data curation is a highly specialized activity, and data processing/loading is highly sensitive to error, making oversight and QC a challenge.  Similarly, software developed by students and post-docs is typically designed for specific short-term applications rather than generalizability and robustness over the longer term.
 
-           Reducing services could also cut costs, but surveys have shown that while most users employ certain tools and datasets regularly and others not at all, these individual preferences are non-overlapping: virtually all VEuPathDB functionality is heavily relied upon by a significant subset of users.  Moreover, once pipelines for data processing & loading have been developed and tools or services implemented, the marginal cost of application to new species or functional genomics datasets is usually minimal.  Eliminating support for specific taxa or datatypes would, therefore, have little impact on the overall VEuPathDB budget.  However, development or implementation of new tools can be expensive, and we anticipate that future development efforts will likely be pursued with support from research grants rather than user fees.
+           Reducing services could also cut costs, but <a href="https://veupathdb.org/veupathdb/app#survey">surveys</a> have shown that while most users employ certain tools and datasets regularly and others not at all, these individual preferences are non-overlapping: virtually all VEuPathDB functionality is heavily relied upon by a significant subset of users.  Moreover, once pipelines for data processing & loading have been developed and tools or services are in place, the marginal cost of application to new species or functional genomics datasets is typically minimal. Thus, eliminating support for specific taxa, datatypes or research communities would have little impact on the overall VEuPathDB budget. Development or implementation of new tools can be expensive, however, and we anticipate that future tool development will be supported by research grants rather than user fees.
   uid: reducingcosts
   projects: ""
 - type: funding
-  question: "Would it help to host VEuPathDB database resources elsewhere?"
+  question: "Would it help to host VEuPathDB database resources elsewhere, or hire staff based in less expensive countries?"
   answer: |  
-           Unfortunately, no.  Computational resources (hardware, high-performance computing, storage, servers) constitute a small fraction (<10%) of the VEuPathDB budget.
+           Computational resources (hardware, high-performance computing, storage, servers) constitute only a small fraction (<10%) of the VEuPathDB budget, so hosting these resources elsewhere would not reduce costs substantially, and coordinating systems & database administration would be a serious challenge.
+           
+           Over the past 25 years, VEuPathDB has engaged staff in Asia, Africa, Europe, and North & South America, and we are committed to continued and expanded global engagement (subject to the constraint that all staff operate as a single team, wherever they are based).  This does not always translate into cost reductions, however, as the IT market is increasingly global.
+
   uid: hosting
   projects: ""
 - type: funding
-  question: "Is it possible to fund VEuPathDB through charges based on actual usage, e.g. per site visit, or per database query?"
+  question: "Is it possible to fund VEuPathDB through charges based on actual usage, <i>e.g.</i> <i>per</i> site visit, or <i>per</i> database query?"
   answer: |  
-           We are exploring various strategies for equitable assessment of user charges.  At present, charging per visit or per page hit (database query) appears unworkable, for a variety of logistical reasons: billing would be organizationally complex and expensive, and the design of our underlying relational databases means that individual inquiries can spawn widely-varying numbers of database queries.
+           We are exploring various strategies for equitable assessment of user charges.  At present, charging <i>per</i> visit or <i>per</i> page hit (database query) appears unworkable, for a variety of logistical reasons: billing would be organizationally complex and expensive, and the design of our underlying relational databases means that individual inquiries can spawn widely-varying numbers of database queries.
   uid: usagecharge
   projects: ""
 - type: funding
-  question: "Is it possible to fund VEuPathDB through ad revenue, or industrial support?"
+  question: "Is it possible to fund VEuPathDB through ad revenue, or industry support?"
   answer: |  
-           We are keeping all options open, but based on actual site usage, these strategies are unlikely to yield a substantial revenue stream.  45K unique users per month represents a substantial number of research scientists, but relatively few when compared to websites supported by advertising (FaceBook, TikTok & YouTube have billions of unique users per month).  Industrial usage is modest, especially as many of the diseases caused by VEuPathDB-supported pathogens are most relevant to low-income countries.  Industry users indicate that they are willing to contribute their fair share based on usage … but this is unlikely to cover more than a fraction of annual costs.
+           We are keeping all options open, but based on actual site usage, these strategies are unlikely to yield a substantial revenue stream.  51K unique users <i>per</i> month represents a substantial number of research scientists, but relatively few when compared to websites supported by advertising (FaceBook, TikTok & YouTube have billions of unique users <i>per</i> month).  Industry-based usage is modest, especially as many of the diseases caused by VEuPathDB-supported pathogens are most relevant to low-income countries.  Industry users indicate that they are willing to contribute their fair share based on usage … but this is unlikely to cover more than a fraction of annual costs.
   uid: otherrevenue
   projects: ""
 - type: funding
   question: "What about tiered access (charging more for certain services)?"
   answer: |  
-           One can envision a “freemium” model that charges extra for various services, such as help desk support, or access to the latest data, specific datatypes, or data analysis services.  This strategy has the disadvantage of disproportionately affecting those who require these resources the most, including researchers in low income countries most heavily affected by VEuPathDB-supported pathogen species.  Moreover, restricting access to certain services to paying customers would likely preclude grant or philanthropic support, and might compromise our certification as a core bioinformatics resource.
+           One can envision a “freemium” model that charges extra for various services, such as help desk support, or access to the latest data, specific datatypes, or data analysis services.  This strategy has the disadvantage of disproportionately affecting those who require these resources the most, including new investigators and researchers in low-income countries most heavily affected by VEuPathDB-supported pathogens. Moreover, restricting access to certain services to paying customers could compromise eligibility for grant or philanthropic support, and might preclude certification as a core bioinformatics resource.
   uid: tiered
   projects: ""
 - type: fees
-  question: "Are user fees or subscriptions a viable mechanism for support?  What would supporting VEuPathDB cost individual teams or institutions – my lab, for example?"
+  question: "Why are user fees needed in 2025, if philanthropic groups have provided one year of bridge funding?"
   answer: |  
-           Financial models based on user surveys suggest that an allocation of 0.5-2% of relevant lab budgets would be sufficient to cover expenses, if the majority of current users are willing to contribute voluntarily, for their own benefit and that of the global community.  This would typically translate to an annual fee of ~$500-20K, depending on the size of the lab, and degree of engagement with VEuPathDB.  Larger operations would be expected to pay more because their usage of VEuPathDB resources – and their need to disseminate the genomic-scale datasets they produce – is greater, and typically scales in proportion to lab budgets.  Although substantial, these fees are well below estimated value (see above) or institutional rates proposed for data-sharing services.
+           We are immensely grateful to our funders and home institutions for making it possible to avoid shutting down the VEuPathDB project in Sept 2024, but we rely on subscription income to guarantee staff salaries.  Attempting to extend employment on a month-by-month basis would make it impossible to retain the experienced IT staff necessary for VEuPathDB operations.
+  uid: bridge
+  projects: ""
+- type: fees
+  question: "Are user fees or subscriptions a viable mechanism for support?"
+  answer: |  
+           User <a  target="_blank" href="{{'/documents/PUBLIC_REPORT_VEuPathDB_User_Impact_Sustainability_Survey.pdf' | absolute_url}}">surveys</a> suggest that VEuPathDB provides value to the research communities that is >10x the cost of these resources, but this is ultimately up to the community to decide. It may be useful to consider how the projected cost of a subscription for informatics resources compares to other lab expenses (<i>e.g.</i> meeting participation, service contracts, animal & tissue culture costs, bioinformatics services, publication charges, software licenses, student/postdoc stipends, <i>etc</i>). It is also worth considering how the <i>loss</i> of convenient access to high-value datasets would impact the recruitment of new investigators into our field, affecting all aspects of research on these important species (not just genomics studies), and the neglected diseases they cause.
   uid: subscription
+  projects: ""
+- type: fees
+  question: "What would supporting VEuPathDB cost individual groups – my lab, for example?"
+  answer: |  
+           Financial models based on user surveys suggest that an allocation of 0.5-2% of relevant lab budgets would be sufficient to cover expenses, if the majority of current users are willing to contribute voluntarily, for their own benefit and that of the global community. This would typically translate to an annual fee of ~300 (0.5% of a $60K operation) - $30K (2% of a $1.5M operation), depending on the size of the lab, and degree of engagement with VEuPathDB. Larger operations would be expected to pay more because their usage of VEuPathDB resources – and their need to disseminate the genomic-scale datasets they produce – is greater, and typically scales in proportion to lab budgets. Although substantial, these fees are well below estimated value (see above) or institutional rates for data-sharing services.
+  uid: cost
   projects: ""
 - type: fees
   question: "How do I determine appropriate fees for my individual or academic group’s access to VEuPathDB resources?"
   answer: |  
-           Please see our [subscription page](/a/app/static-content/subscriptions.html) to (privately) determine your fair share of VEuPathDB expenses based on the size of your operation and the degree of staff engagement with these resources.  Recognizing that labs differ greatly in size, scale of operations, and degree of database usage, and lab members also differ in the extent to which they use VEuPathDB, we recommend a fee based on ~2% of lab budgets for those who use these resources daily, 1% for weekly/monthly users, and 0.5% for irregular users.  <i>Note that this assessment is <10% of the value estimated by our users in surveys (see above)</i>.  Calculating invoices based on budget and database usage scales to accommodate considerable variability between laboratories: 1% of a $1M budget is $10K; 1% of a $10K budget is $100.
+           Please see our [subscription page](/a/app/static-content/subscriptions.html) to (privately) determine your fair share of VEuPathDB expenses based on the size of your operation and the degree of staff engagement with these resources.  Recognizing that labs differ greatly in size, scale of operations, and degree of database usage, and lab members also differ in the extent to which they use VEuPathDB, we recommend a fee based on ~2% of lab budgets for those who use these resources daily, 1% for weekly/monthly users, and 0.5% for irregular users.  <i>Note that this assessment is <10% of the value estimated by our users in surveys (<i>see above</i>).  Calculating invoices based on budget and database usage scales to accommodate considerable variability between laboratories: 1% of a $1M budget is $10K; 1% of a $10K budget is $100.
   uid: determinefees
   projects: ""
 - type: fees
   question: "What if only a portion of my laboratory uses VEuPathDB resources?"
   answer: |  
-           The [subscription page](/a/app/static-content/subscriptions.html) links to a fee calculator to (privately) facilitate calculations when only a subset of your group works on topics supported by VEuPathDB.  For example, if your total lab budget (including all salaries, institutional overhead, etc) is $500K, and this supports 6 people, all of whom use VEuPathDB regularly, the recommended assessment of 1-2% = $5-10K. But if this budget supports 8 people, 4 of whom who use VEuPathDB regularly and 4 not at all because they work on an unrelated topic, only half of the budget would be relevant, leading to an assessment of $2.5-5K.  Please do consider, however, that even users not directly engaged in genomics research (immunologists, chemists, field biologists, etc) often use these databases occasionally – for sequences & primer/guide design, assessing exposed epitopes, determining parameters associated with gene expression, essentiality data, gene set enrichment analysis, <i>etc</i>. 
+           The [subscription page](/a/app/static-content/subscriptions.html) links to a fee calculator to (privately) facilitate calculations when only a subset of your group works on topics supported by VEuPathDB.  For example, if your total lab budget (including all salaries, institutional overhead, etc) is $500K, and this supports 6 people, all of whom use VEuPathDB regularly, the recommended assessment of 1-2% = $5-10K. But if this budget supports 8 people, 4 of whom who use VEuPathDB regularly and 4 not at all because they work on an unrelated topic, only <i>half</i> of the budget would be relevant, leading to an assessment of $2.5-5K.  Please do consider, however, that even users not directly engaged in genomics research (immunologists, chemists, field biologists, <i>etc.</i>) often use these databases occasionally – for sequences & primer/guide design, assessing exposed epitopes, determining parameters associated with gene expression, essentiality data, gene set enrichment analysis, <i>etc</i>. 
   uid: whatifportion
   projects: ""
 - type: fees
@@ -128,20 +145,44 @@
 - type: fees
   question: "What if I have no funding to cover my subscription costs?"
   answer: |  
-           While we will not impose a mandatory paywall or question payments deemed appropriate by individual labs, the costs required to support database resources are real.  Without some means of covering these expenses, VEuPathDB will disappear.  We are fortunate that philanthropic contributions allow us to subsidize subscriptions for those with severely limited financial resources, including unfunded laboratories and individuals, educators, and researchers in low-income countries.  To track usage, we require that all laboratory heads (not individual users) use the [subscription page](/a/app/static-content/subscriptions.html) to generate an invoice, even if the amount owed is $0.
+           While we have no desire to impose a mandatory paywall or question payments deemed appropriate by individual labs, the costs required to support database resources are real.  Without some means of covering these expenses, VEuPathDB will disappear.  We are fortunate that philanthropic contributions allow us to subsidize subscriptions for those with severely limited financial resources, including unfunded laboratories and individuals, educators, and researchers in low-income countries.  To track usage, we require that all laboratory heads (not individual users) use the [subscription page](/a/app/static-content/subscriptions.html) to generate an invoice, even if the amount owed is $0.
   uid: mandatory
   projects: ""
 - type: fees
   question: "Is it permissible to charge user fees to research grants?"
   answer: |  
-           Yes. This has been a topic of discussion with multiple funders, in various countries, and we have been advised that it is permissible to include “Fees for website access and data sharing & dissemination” as a line item on grant proposals. We are also happy to provide language detailing the anticipated dissemination of datasets via VEuPathDB, for inclusion in required Data-sharing Plans.
+           Yes. This has been a topic of discussion with multiple funders, in various countries, and we have been advised that it is permissible to include “Fees for website access, data-mining, and open access data-sharing” as a line item on grant proposals. We are also happy to provide language detailing the anticipated dissemination of datasets <i>via</i> VEuPathDB, for inclusion in required Data-sharing Plans.
   uid: grantcharge
+  projects: ""
+- type: fees
+  question: "What if I need to distribute charges amongst multiple grants?"
+  answer: |  
+           As indicated on the subscription page separate invoices can be generated for individual grants, for your entire lab’s research program, or for larger groups, <i>e.g.</i> your department or organization. Please contact us with any questions.
+  uid: multiplecharges
+  projects: ""
+- type: fees
+  question: "Are departmental/institutional rates, library subscriptions, or corporate rates/services available?"
+  answer: |  
+           Yes. Please email [subscriptions@VEuPathDB.org](mailto:subscriptions@VEuPathDB.org) for assistance in determining appropriate departmental/institutional/library rates based on usage, or to discuss appropriate subscription fees applicable to for-profit companies, including options for private in-house database instances (if desired).
+  uid: otherrates
   projects: ""
 - type: fees
   question: "When/how will I receive my invoice?  How do I pay?"
   answer: |  
-           The [subscription page](/a/app/static-content/subscriptions.html) links to a form for providing information and generating an invoice, including information on how to submit payment via wire transfer (preferred), bank check, or credit card.  Please [contact us](mailto:subscriptions@veupathdb.org) if your institution requires additional information to establish the University of Pennsylvania as a vendor.  Institutional payments are strongly preferred to avoid tax liability.
+           The [subscription page](/a/app/static-content/subscriptions.html) links to a form for providing information and generating an invoice, including information on how to submit payment <i>via</i> wire transfer (preferred), bank check, or credit card.  Please [contact us](mailto:subscriptions@veupathdb.org) if your institution requires additional information to establish the University of Pennsylvania as a vendor.  Institutional payments are strongly preferred to avoid tax liability.
   uid: invoice
+  projects: ""
+- type: fees
+  question: "What time-frame is covered by my subscription?"
+  answer: |  
+           As specified on the invoice, subscriptions are for the calendar year, from January through December, covering usage by your group retroactive to the beginning of the year.  New labs that only began using VEuPathDB mid-year are welcome to pro-rate their annual fee accordingly.
+  uid: timeframe
+  projects: ""
+- type: fees
+  question: "How should I access VEuPathDB after paying my subscription fee?"
+  answer: |  
+           Subscribed users should continue using the databases using their registered login name/email and password. [Register here](https://veupathdb.org/veupathdb/app/user/registration) if you don't already have an account. Your account will work across all VEuPathDB component sites. We expect to soon roll out modifications to the VEuPathDB web site clearly indicating that you are a database subscriber.
+  uid: accessdb
   projects: ""
 - type: fees
   question: "Will I be billed annually? Can I make advance payments?"
@@ -152,53 +193,47 @@
 - type: fees
   question: "Can VEuPathDB accept additional contributions, and are such contributions tax-deductible?"
   answer: |  
-           Yes. Please see [Charitable Contributions](https://giving.aws.cloud.upenn.edu/fund?program=SAS&fund=605878) in support of VEuPathDB. Email inquiries may be directed to [subscriptions@VEuPathDB.org](mailto:subscriptions@veupathdb.org).
+           Yes. Please see [Charitable Contributions](https://giving.aws.cloud.upenn.edu/fund?program=SAS&fund=605878) in support of VEuPathDB.  Email inquiries may be directed to [subscriptions@VEuPathDB.org](mailto:subscriptions@veupathdb.org).
   uid: donation
-  projects: ""
-- type: fees
-  question: "Are departmental/institutional rates or corporate rates/services available?"
-  answer: |  
-           Yes.  Please email [subscriptions@VEuPathDB.org](mailto:subscriptions@veupathdb.org) for assistance in determining appropriate departmental/institutional/library rates based on usage, or to discuss appropriate subscription fees applicable to for-profit companies, including options for private in-house database instances (if desired).
-  uid: rates
   projects: ""
 - type: fees
   question: "Are there precedents for supporting genome database resources through user fees?"
   answer: |  
-           There are many examples of online resources funded by voluntary user fees: Wikimedia receives >90% of its support from individual donations, and public broadcasting stations in the US typically receive a significant fraction of their support from individual donations.  There are fewer examples of bioinformatics database resources supported by user fees, but the *Arabidopsis* Information Resource ([TAIR](https://www.arabidopsis.org/)) has been supported by a combination of grants and user subscriptions for a decade (although this resource differs from VEuPathDB in focusing more on manual curation, and provides fewer tools for data-mining and integrating diverse functional genomics data).  TAIR financing is managed by [Phoenix Bioinformatics](https://phoenixbioinfo.org/), which also supports other informatics resources, including CIPRES, CyVerse, MorphoBank & Repbase.  Other model organism databases, such as [FlyBase](https://flybase.org/) and [SGD](https://www.yeastgenome.org), have solicited optional website access fees with modest success.  Such efforts are likely to become increasingly common, as funders are increasingly reluctant to make long-term commitments for the maintenance of essential core resources.
+           There are many examples of online resources funded by voluntary user fees: Wikimedia receives >90% of its support from individual donations, and public broadcasting stations in the US typically receive a significant fraction of their support from individual donations.  There are fewer examples of bioinformatics database resources supported by user fees, but the *Arabidopsis* Information Resource ([TAIR](https://www.arabidopsis.org/)) has been supported by a combination of grants and user subscriptions for a decade (although this resource differs from VEuPathDB in focusing more on manual curation, and provides fewer tools for data-mining and integrating diverse functional genomics data).  TAIR financing is managed by [Phoenix Bioinformatics](https://phoenixbioinfo.org/), which also supports other informatics resources, including CIPRES, CyVerse, MorphoBank & Repbase.  Other model organism databases, such as [FlyBase](https://flybase.org/) and [SGD](https://www.yeastgenome.org), have solicited optional website access fees.  Such efforts are likely to become increasingly common, as funders are increasingly reluctant to make long-term commitments for the maintenance of essential core resources.
   uid: precedents
   projects: ""
 - type: fees
   question: "How and when will it become clear if community investment is sufficient to support VEuPathDB?  What happens if more or less funds are available than required?"
   answer: |  
-           VEuPathDB is not a profit-making operation, so if we successfully obtain more support than required – through a combination of user fees, grants/contracts, and philanthropic contributions – subscription rates will be reduced in future years.  We are currently budgeting for total costs of $5.3M/yr in 2025-26 (a 38% reduction achieved through team restructuring and various efficiency measures; see above).  If we can only obtain 50% of this amount, it will likely mean an end to VEuPathDB, as it is unclear that this can support functionality more valuable than resources provided by NCBI and others at no cost to the end-user.  Note that it costs ~$1M/yr to simply maintain existing resources in static form – but without adding new data, such resources would rapidly become outdated.
-
-           User surveys suggest that VEuPathDB provides value to the research communities that is >10x the cost of these resources, but this is ultimately up to the community to decide.  It may be useful to consider how the projected cost of a subscription for informatics resources compares to other lab expenses (e.g. meeting participation, service contracts, animal & tissue culture costs, bioinformatics services, publication charges, software licenses, student/postdoc stipends, etc).  It is also worth considering how the loss of convenient access to high-value datasets would impact the recruitment of new investigators into the field, affecting all aspects of research on these important species (not just genomics studies), and the neglected diseases they cause.  
+           VEuPathDB is not a profit-making operation, so if we obtain more support than required – through a combination of user fees, grants/contracts, and philanthropic contributions – subscription rates will be reduced in future years (see above for budget details). If we are unable to raise the funds necessary for continued operation of VEuPathDB as an actively updated resource, any remaining funds (from grants, philanthropic contributions and/or subscription fees) will be used to ensure that existing resources remain accessible in static form (without the addition of new data) for as long as possible.  The cost of maintaining VEuPathDB as a static resource is ~$800K/yr. 
+           
+           <b><i>15 August 2025 Update</i></b>: Based on subscription payments received to date, grants & philanthropic contributions, and support from our host institutions, sustainable support for VEuPathDB resources looks increasingly feasible … but not yet proven: 2025-26 will be a critical period!  We urgently need all relevant labs / PIs worldwide to submit invoices, follow through on payment, discuss with colleagues to build a culture where this is expected, and budget future grants accordingly.
   uid: whatif
   projects: ""
 - type: operations
   question: "Why is registration now required for accessing VEuPathDB?"
   answer: |  
-           Registration permits us to provide lab heads with accurate usage statistics for their group, to assist in assessing appropriate fees.  Registration also allows you to set preferences (e.g. species of interest, gene page and browser configurations, etc), save Query Strategies, privately process your own data for analysis in the context of publicly-available data, and publicly disseminate these datasets when appropriate.
+           Registration permits us to provide lab heads with accurate usage statistics for their group, to assist in assessing appropriate fees.  Registration also allows you to set preferences (<i>e.g.</i> species of interest, gene page and browser configurations, <i>etc</i>)., save Query Strategies, privately process your own data for analysis in the context of publicly-available data, and publicly disseminate these datasets when appropriate.
   uid: registration
   projects: ""
 - type: operations
-  question: "Why did VEuPathDB have to shut down in September, and when will it be possible to resume regular updates, incorporating new genomes, functional genomics datasets, etc?"
+  question: "Why did VEuPathDB have to shut down in September 2024, and when will it be possible to resume regular updates, incorporating new genomes, functional genomics datasets, <i>etc</i>.?"
   answer: |  
-           The termination of NIAID funding required infrastructure reorganization to support existing databases and queries despite the loss of staff and partners, and site reconfiguration to accurately acknowledge sources of support.  With new data-processing infrastructure in place, we anticipate being able to resume regular releases in mid-2025.
+           The termination of NIAID funding required infrastructure reorganization to support existing databases and queries despite the loss of staff and partners, and site reconfiguration to accurately acknowledge sources of support.  With new data-processing infrastructure in place, we anticipate being able to resume regular releases in 2025-26.
   uid: shutdown
   projects: ""
 - type: operations
   question: "What changes or new services & functionalities are anticipated?"
   answer: |  
            Current priorities include:
-            - ensuring ongoing, reliable access to existing information and data-mining resources, i.e. making certain that existing resources remain available in static form, pending our ability to resume database builds (probably in 2025)
-            - obtaining support for the 2nd year of the proposed two-year transition to financial sustainability
-            - working with end users to define appropriate fees, scaled to lab budgets so as to accommodate diverse situations and provide invoices compatible w/ institutional & funder requirements
-            - constructing new data mapping and loading infrastructure enabling resumption of regular database releases, while reviewing usage and cost-efficacy for all supported services
-            - reinvigorating community advisory groups, working with end users to prioritize, source and release new genomes, functional genomics, and genome-scale phenotypic datasets (our NIH contract required shutting down community oversight of VEuPathDB(!); we look forward to re-establishing these advisory groups)
-            - developing and/or implementing new/updated tools to keep up with the times, e.g. improved orthology algorithms, generic platform for representing scRNAseq atlases, etc
-            - facilitating analysis & dissemination of user datasets, in keeping with emerging data-sharing requirements, along with AI-based methods to facilitate metadata collection and QC
-            - improved automation of genome annotation, exploiting machine learning approaches for information extraction from the literature
+            - Ensuring ongoing, reliable access to existing information and data-mining resources, i.e. making certain that existing resources remain available in static form, pending our ability to resume database builds (currently projected for late 2025)
+            - Obtaining support for the 2nd year of our proposed two-year transition to financial sustainability
+            - Working with end users to define appropriate fees, scaled to lab budgets so as to accommodate diverse situations and provide invoices compatible w/ institutional & funder requirements
+            - Constructing new data mapping and loading infrastructure enabling resumption of regular database releases, while reviewing usage and cost-efficacy for all supported services
+            - Reinvigorating community advisory groups and working with end users to prioritize, source and release new genomes, functional genomics, and genome-scale phenotypic datasets.  Our previous NIH contract required shutting down community oversight of VEuPathDB(!); we look forward to re-establishing these advisory groups)
+            - Developing and/or implementing new/updated tools to keep up with the times, <i>e.g.</i> improved orthology algorithms, generic platform for representing scRNAseq atlases, AI-based summarization of expression datasets, <i>etc</i>. 
+            - Facilitating analysis & dissemination of user datasets, in keeping with emerging data-sharing requirements, along with AI-based methods to facilitate metadata collection and QC
+            - Improved automation of genome annotation, exploiting machine learning approaches for information extraction from the literature
   uid: priorities
   projects: ""
 - type: operations
@@ -210,7 +245,7 @@
 - type: operations
   question: "How do VEuPathDB resources address NIH data-sharing requirements, and other emerging global standards for FAIR data-sharing?"
   answer: |  
-           VEuPathDB databases are recognized as core data resources by the Global Biodata Coalition, Elixir, and the NIAID Data Ecosystem, and inclusion of genomic-scale datasets in VEuPathDB databases has long been recognized as a model for FAIR data access, satisfying NIH (and other) data-sharing requirements.  We are also developing new tools enabling users to privately process, upload & QC their own data (sequence variants, RNA & protein expression, phenotypic results, etc), enabling public release whenever this is deemed appropriate (note that approval for any data release always rests with the data provider, rather than being imposed by VEuPathDB).  Stay tuned for further details!
+           VEuPathDB databases are recognized as core data resources by the Global Biodata Coalition, Elixir, and the NIAID Data Ecosystem, and inclusion of genomic-scale datasets in VEuPathDB databases has long been recognized as a model for FAIR data access, satisfying NIH (and other) data-sharing requirements.  We are also developing new tools enabling users to privately process, upload & QC their own data (sequence variants, RNA & protein expression, phenotypic results, <i>etc</i>.), enabling public release whenever this is deemed appropriate (note that approval for any data release always rests with the data provider, rather than being imposed by VEuPathDB).  Stay tuned for further details!
   uid: priorities
   projects: ""
 - type: general
@@ -313,7 +348,7 @@
   uid: sequenceslotsgenes
   projects: ""
 - type: download
-  question: "How do I download a table with a list of genes including any field(s) from our gene pages (e.g., gene names and symbols)?"
+  question: "How do I download a table with a list of genes including any field(s) from our gene pages (<i>e.g.</i>, gene names and symbols)?"
   answer: |
            Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
            1. Click "Add Columns"
@@ -387,7 +422,7 @@
 - type: citing
   question: "How to cite a gene? (We recommend gene stable ID, metadata and location)"
   answer: |
-           Gene metadata are the gene name or symbol, e.g., GPROP1, and the gene functional description, e.g., long wavelength sensitive opsin. The gene stable IDs, e.g., AGAP013149, are not only stable (as implied by their name) but are provided as a unique identifier for each gene in each genome. The use of gene IDs allows for a better strategy when looking for genes using VEuPathDB Site Search or any other tool. A gene location can be in the format of supercontig/scaffold or chromosome and base pair range, e.g., 2R:735,912-737,457. We recommend you use gene stable ID, metadata and location, or at least gene ID and metadata in your thesis, paper, talk, poster or any other scientific publication.
+           Gene metadata are the gene name or symbol, <i>e.g.</i>, GPROP1, and the gene functional description, <i>e.g.</i>, long wavelength sensitive opsin. The gene stable IDs, <i>e.g.</i>, AGAP013149, are not only stable (as implied by their name) but are provided as a unique identifier for each gene in each genome. The use of gene IDs allows for a better strategy when looking for genes using VEuPathDB Site Search or any other tool. A gene location can be in the format of supercontig/scaffold or chromosome and base pair range, <i>e.g.</i>, 2R:735,912-737,457. We recommend you use gene stable ID, metadata and location, or at least gene ID and metadata in your thesis, paper, talk, poster or any other scientific publication.
   uid: g14
   projects: "donotshow"
 - type: download
@@ -469,7 +504,7 @@
   uid: apollo3
   projects: ""
 - type: apollo
-  question: "How do I update functional annotation in Apollo (e.g., gene name, product description)?"
+  question: "How do I update functional annotation in Apollo (<i>e.g.</i>, gene name, product description)?"
   answer: |
            1. Log into VEuPathDB 
            2. From the gene record page select “View and update community annotations in Apollo”. 
@@ -567,7 +602,7 @@
   uid: apollo12
   projects: ""
 - type: download
-  question: "How do I download a pre-configured table (e.g. Link outs or alternate IDs) of multiple genes?"
+  question: "How do I download a pre-configured table (<i>e.g.</i> Link outs or alternate IDs) of multiple genes?"
   answer: |
           Start with a list of genes using an existing strategy: [a list of genes you submit](/a/app/static-content/faq.html#listgenesinterest) or [all the genes in a given organism](/a/app/static-content/faq.html#allgenesorganism)
            1. Click "Download" 
@@ -582,7 +617,7 @@
   answer: |
           Presented below are two options to programmatic (command line) access and download genome files from our servers. Examples below are for the FungiDB genome, <a href="https://fungidb.org/common/downloads/Current_Release/Spombe972h/">Spombe972h.</a>.  Genome files from every organism and release are available in the Downloads section.  To find the URL for your preferred organism and see our directory structure, go to the header and choose >Data > Download data file. <br>
           <img style="width:30em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/programaticallydownloadgenomefile.png"  />
-          or to get a list of GFF, genome fasta, and protein fasta file names (from a component site, e.g. FungiDB.org) go to the header and choose searches > Organisms  > Organisms: Genome Info & Stats <br>
+          or to get a list of GFF, genome fasta, and protein fasta file names (from a component site, <i>e.g.</i> FungiDB.org) go to the header and choose searches > Organisms  > Organisms: Genome Info & Stats <br>
           <img style="width:30em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/genome_info_stats.png"  />
           Then click Download, then choose a report output to download, and add the columns for the file location of the file  types you want (options are, as shown “GFF Download Link, Genome Fasta Download Link, and Protein Fasta Download link)<br>
           <img style="width:30em" src="https://static-content.veupathdb.org/assets/images/genomics_faq_images/info_stats_2.png"  />
@@ -603,7 +638,7 @@
   question: "How can I convert GFF downloads to GTF format?"
   answer: |
           <b>Why doesn't VEuPathDB offer GTF downloads?</b>
-          <p>GTF and GFF formats contain broadly the same type of data; a table of features in a genome referencing the chromosome or contig the feature is found on, the coordinates of the feature and some metadata about the feature. GTF is a tightly structured format which only supports genes and sub-features of genes (UTRs, exons, CDS etc.). GFF is more flexible. We have chosen to use GFF because it allows us to include other types of features where it is relevant to do so, for example centromeres or repeat regions. It also allows us to provide more information about certain kinds of features, for example to differentiate protein-coding genes from non-coding genes.</p>
+          <p>GTF and GFF formats contain broadly the same type of data; a table of features in a genome referencing the chromosome or contig the feature is found on, the coordinates of the feature and some metadata about the feature. GTF is a tightly structured format which only supports genes and sub-features of genes (UTRs, exons, CDS <i>etc</i>.). GFF is more flexible. We have chosen to use GFF because it allows us to include other types of features where it is relevant to do so, for example centromeres or repeat regions. It also allows us to provide more information about certain kinds of features, for example to differentiate protein-coding genes from non-coding genes.</p>
           <br>
 
           <b>What are the differences between GFF and GTF files?</b>
@@ -611,7 +646,7 @@
               <ol>
                   <li>Sequence identifier: the chromosome or contig containing this feature</li>
                   <li>Source: the source of this annotation</li>
-                  <li>Feature: the type of feature (gene, transcript, exon, CDS etc.)</li>
+                  <li>Feature: the type of feature (gene, transcript, exon, CDS <i>etc</i>.)</li>
                   <li>Start: the start coordinate for this feature</li>
                   <li>End: the end coordinate for this feature</li>
                   <li>Score: If relevant a score for this feature. (empty if no score)</li>
@@ -679,7 +714,7 @@
 - type: download
   question: "Why are genome annotation files at VEuPathDB different from NCBI, ENA, EMBL-EBI, DDBJ, or other repositories?"
   answer: |
-          If you use the annotation files from other repositories and come back to VEuPathDB for downstream analyses, you might find that some of your genes of interest are missing or have a different gene ID, due to structural or functional annotation changes. To download the file, go to the header of the site under the “Data” menu and click on “Download data files”, e.g., https://vectorbase.org/vectorbase/app/downloads.learn and to learn why there is a difference between the INSDC archival databases and VEuPathDB <a href="https://veupathdb.org/veupathdb/app/static-content/apollo_help.html" target="_blank" title="Apollo landing page">follow this link to Apollo</a> to learn about our genome update workflow. 
+          If you use the annotation files from other repositories and come back to VEuPathDB for downstream analyses, you might find that some of your genes of interest are missing or have a different gene ID, due to structural or functional annotation changes. To download the file, go to the header of the site under the “Data” menu and click on “Download data files”, <i>e.g.</i>, https://vectorbase.org/vectorbase/app/downloads.learn and to learn why there is a difference between the INSDC archival databases and VEuPathDB <a href="https://veupathdb.org/veupathdb/app/static-content/apollo_help.html" target="_blank" title="Apollo landing page">follow this link to Apollo</a> to learn about our genome update workflow. 
 
   uid: uptodate
   projects: ""
