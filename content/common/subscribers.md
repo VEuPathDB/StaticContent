@@ -184,6 +184,7 @@ h1, h2 {
     <div>Dewar group, Lancaster Univ UK</div>
     <div>Docampo group, Univ GA US</div>
     <div>Doering group, Washington Univ US</div>
+    <div>Dunlap group, Dartmouth College US</div>
     <div>Dvorin group, Boston Children's Hosp US</div>
     <div>Dzikowski group, Hebrew Univ IL</div>
     <div>Egan group, Stanford Univ US</div>
@@ -194,6 +195,7 @@ h1, h2 {
     <div>Ferdig group / Malaria Crosses Collaboration, Univ Notre Dame US</div>
     <div>Fichorova, Brigham & Women's Hospital, Harvard Univ US</div>
     <div>Field group, Univ Dundee UK</div>
+    <div>Florentin group, Hebrew Univ IL</div>
     <div>Francia group, Inst Pasteur Montevideo UY</div>
     <div>Free group, Univ Buffalo US</div>
     <div>Gadelha group, Univ Nottingham UK</div>
@@ -226,6 +228,7 @@ h1, h2 {
     <div>Huberman group, Cornell Univ US</div>
     <div>Huet group, Univ Georgia US</div>
     <div>Hull group, Univ Wisconsin US</div>
+    <div>Isabelle Phan, Seattle Children’s Research Inst US</div>
     <div>Jackson group, Univ Liverpool UK</div>
     <div>James group, Gettysburg College US</div>
     <div>James group, UC Irvine US</div>
@@ -260,7 +263,7 @@ h1, h2 {
     <div>Lewis group, Univ Georgia US</div>
     <div>Li group, Cleveland State Univ US</div>
     <div>Li group, Univ Texas Houston US</div>
-    <div>Limon Maron lab, Univ Seville ES</div>
+    <div>Limon Maron group, Univ Seville ES</div>
     <div>Lin group, Univ Georgia US</div>
     <div>Lourido group, Whitehead Inst US</div>
     <div>Maclean group, Univ Edinburgh UK</div>
