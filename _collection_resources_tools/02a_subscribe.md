@@ -41,17 +41,31 @@ p.indent {
 </style>
 
 
+<div style="display: flex; align-items: flex-start; gap: 16px;">
+  <!-- Thermometer image -->
+  <img 
+    src="{{ "/assets/images/resources_tools/thermometer.png" | absolute_url }}" 
+    alt="Funding Goal" 
+    style="width:80px; height:auto;"
+  >
 
-Starting March 2025, VEuPathDB is implementing a subscription service that will keep our resources open and accessible to everyone while sustaining our operations.
+  <!-- Content beside thermometer -->
+  <div>
+    <p>
+      Starting March 2025, VEuPathDB is implementing a subscription service that will keep our resources open and accessible to everyone while sustaining our operations.
+    </p>
 
-<div class="survey-link" style="display: flex; align-items: center; gap: 12px;">
-  <img src="{{ "/assets/images/resources_tools/thermometer.png" | absolute_url }}" alt="FundingGoal" style="width:40px; height:auto;">
-  <a href="/a/app/static-content/subscribers.html" target="_blank">2025 Subscribers</a>
-  <a href="/a/app/static-content/subscriptions.html" target="_blank">Subscribe Now</a>
+ <div class="survey-link" style="margin: 8px 0;">
+      <a href="/a/app/static-content/subscribers.html" target="_blank">2025 Subscribers</a> |
+      <a href="/a/app/static-content/subscriptions.html" target="_blank">Subscribe Now</a>
+ </div>
+
+ <p>
+      <b>Why have we moved to a subscription model?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating a mandatory subscription service, even if your applicable subscription fee is $0 (subsidized).
+ </p>
+  </div>
 </div>
 
-
-<b>Why have we moved to a subscription model?</b> VEuPathDB is freely accessible to anyone, but maintaining and updating database resources is not free. The changing funding landscape makes it difficult to sustain essential infrastructure through grants, necessitating a mandatory subscription service, even if your applicable subscription fee is $0 (subsidized).
 
 <b>How is the subscription fee determined?</b> Fees have been established through consultation with our user communities, and are based on the scale of your group's operation and frequency of usage for data-mining and dissemination.
 
