@@ -45,7 +45,7 @@ p.indent {
 Starting March 2025, VEuPathDB is implementing a subscription service that will keep our resources open and accessible to everyone while sustaining our operations.
 
 <div class="survey-link" style="display: flex; align-items: center; gap: 12px;">
-  <img src="{{ "/assets/images/resources_tools/thermometer.png" | absolute_url }}" alt="FundingGoal" style="width:20px; height:auto;">
+  <img src="{{ "/assets/images/resources_tools/thermometer.png" | absolute_url }}" alt="FundingGoal" style="width:40px; height:auto;">
   <a href="/a/app/static-content/subscribers.html" target="_blank">2025 Subscribers</a>
   <a href="/a/app/static-content/subscriptions.html" target="_blank">Subscribe Now</a>
 </div>
