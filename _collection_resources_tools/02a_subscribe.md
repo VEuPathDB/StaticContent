@@ -56,7 +56,7 @@ p.indent {
     </p>
 
  <div class="survey-link" style="margin: 8px 0;">
-      <a href="/a/app/static-content/subscribers.html" target="_blank">2025 Subscribers</a> |
+      <a href="/a/app/static-content/subscribers.html" target="_blank">2025 Subscribers</a>
       <a href="/a/app/static-content/subscriptions.html" target="_blank">Subscribe Now</a>
  </div>
 
