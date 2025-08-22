@@ -250,7 +250,7 @@ h1, h2 {
     <div>Kramer group, Univ Wuerzburg DE</div>
     <div>Krysan group, Univ Iowa US</div>
     <div>Kurtis group, Brown Univ US</div>
-    <div>Lakin-Thomas group, York Univ UK</div>
+    <div>Lakin-Thomas group, York Univ CA</div>
     <div>Lander group, Univ Cincinnati US</div>
     <div>Lane group, Idaho State Univ US</div>
     <div>Lavazec group, Inst Cochin FR</div>
@@ -398,7 +398,7 @@ h1, h2 {
    <div>Central Drug Research Inst (CDRI), Lucknow IN – Habib, Kumar, Mishra, Prakash & Zeeshan groups</div>
    <div>Charles Univ CZ / Dept Parasitology  – Doležal, Hampl, Horák, Šuťák, Svobodová, Tachezy, Volf, Votýpka & Zoltner groups</div>
    <div>Clemson Univ US / Eukaryotic Pathogens Innovation Center (EPIC) – Dhingra, Dolan, Dou, Fierro, Ingram-Smith, J Morris, M Morris, Kozubowski,Jezewski, Rosowski, Seekatz, Smith, Temesvari & Walzer groups</div>
-   <div>Czech Acad Zci CZ / Inst Parasitology, Biology Centre – Lukeš, Obornik, Paris, Perner & Zikova groups</div>
+   <div>Czech Acad Sci CZ / Inst Parasitology, Biology Centre – Lukeš, Obornik, Paris, Perner & Zikova groups</div>
    <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
    <div>Inst Superiore Sanité IT / Foodborne & Neglected Parasitic Diseases (PAN) – Cacciò, Currà, Lalle; Spano; Tosini & Vectorborne Diseases (MTV) – Alano, Lepiscopia, Olivieri, Siciliano, & Silvestrini groups</div>
    <div>Johns Hopkins Malaria Research Inst – multiple groups</div>
