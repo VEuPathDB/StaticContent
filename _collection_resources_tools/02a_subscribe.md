@@ -70,9 +70,6 @@ p.indent {
   </div>
 </div>
 
-
-
-
 <!-- Your support is invaluable for keeping the VEuPathDB resources alive. Please <a href="https://qa.plasmodb.org/plasmo.b69/app/static-content/why-subscribe.html">visit this page</a> to learn more about how VEuPathDB contributes to the biomedical community and why your support is crucial! -->
 
 
