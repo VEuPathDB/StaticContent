@@ -199,7 +199,6 @@ h1, h2 {
     <div>De Rucker group / Pathogen Biology, Univ Dundee UK</div>
     <div>Dean group, Univ Warwick UK</div>
     <div>DeGennaro group, Florida Intl Univ US</div>
-    <div>Deitsch group, Weill Cornell Med US</div>
     <div>Denny group, Durham Univ UK</div>
     <div>Dewar group, Lancaster Univ UK</div>
     <div>Djordjevic group, Univ Sydney AU</div>
