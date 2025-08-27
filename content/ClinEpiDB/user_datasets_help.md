@@ -16,7 +16,7 @@ img {
   <h3>Overview</h3>
     <ul>
       <li>You must be logged into your ClinEpiDB account to upload your own data</li>
-      <li>Your account can accommodate up to 10.0 GB of data, either as a single study or as multiple separate studies</li>
+      <li>Your account can accommodate a total of 10.0 GB of data as multiple separate studies. Each uploaded dataset can be a maximum of 1.0 GB</li>
       <li><b>My Studies</b> remain private unless you choose to share them with colleagues</li>
       <li><b>My Studies</b> persist between sessions, so your datasets are always accessible when you are signed into your account, unless you remove them</li>
        <li>You must format your file correctly in order to upload it successfully, as described below</li>
@@ -27,7 +27,7 @@ img {
     <ul>
       <li><b>Files and file names</b>
          <ul>
-         <li>Max file size 1GB bytes</li>
+         <li>Max file size 1 GB</li>
          <li>Data must be in a single flat file</li>
          <li>Data must have variable names as column headers and observations as rows</li>
          <li>The file must be a .csv or tab-delimited .txt file</li>
