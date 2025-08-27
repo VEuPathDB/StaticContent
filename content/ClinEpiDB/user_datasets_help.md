@@ -27,6 +27,7 @@ img {
     <ul>
       <li><b>Files and file names</b>
          <ul>
+         <li>Max file size 1GB bytes</li>
          <li>Data must be in a single flat file</li>
          <li>Data must have variable names as column headers and observations as rows</li>
          <li>The file must be a .csv or tab-delimited .txt file</li>
