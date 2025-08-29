@@ -120,6 +120,7 @@ h1, h2 {
     <div>Afasizhev group, Boston Univ US</div>
     <div>Akiyoshi group, Univ Edinburgh UK</div>
     <div>Aksoy group, Yale Univ US</div>
+    <div>Alday group, Oregon Health & Science Univ US</div>
     <div>Alout group, Natl Research Inst Agriculture, Food & Environment (INRAE) FR</div>
     <div>Alphey group, Univ York UK</div>
     <div>Alsford group, London Sch Hygiene Tropical Med (LSHTM) UK</div>
@@ -128,6 +129,7 @@ h1, h2 {
     <div>Anandakrishnan group, Edward Via Coll Osteopathic Medicine US</div>
     <div>Ana Ramón, Univ Republica UY</div>
     <div>Andrianopoulos group, Univ Melbourne AU</div>
+    <div>Arroyo group, CINVESTAV MX</div>
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
     <div>Asada group, Obihiro Univ Agriculture & Vet Med JP</div>
     <div>Asgari group, Univ Queensland AU</div>
@@ -135,11 +137,14 @@ h1, h2 {
     <div>Baker group, London Sch Hygiene & Tropical Med (LSHTM) UK</div>
     <div>Bakkeren group, Agriculture & Agri-Food CA</div>
     <div>Ballou group, Univ Exeter UK</div>
+    <div>Barber group, Friedrich Schiller Univ Jena DE</div>
     <div>Barbosa group, Univ Auckland NZ</div>
     <div>Bargieri group, Univ Sao Paulo BR</div>
     <div>Barrett group, Univ Glasgow UK</div>
+    <div>Bartholomeu group, Federal Univ of Minas Gerais BR</div>
     <div>Baum group, Univ New South Wales AU</div>
     <div>Beck group, Iowa State Univ US</div>
+    <div>Bei group, Yale Univ US</div>
     <div>Bell-Pedersen group, Texas A&M Univ US</div>
     <div>Ben Mamoun group, Yale Univ US</div>
     <div>Benoit group, Univ Cincinnati US</div>
@@ -147,6 +152,7 @@ h1, h2 {
     <div>Berriman group, Univ Glasgow UK</div>
     <div>Bhabha & Ekiert groups, Johns Hopkins Univ US</div>
     <div>Bhanot group, Rutgers NJMS US</div>
+    <div>Bhattacharjee group, Jawaharlal Nehru Univ IN</div>
     <div>Biggs group, New York State Dept Health US</div>
     <div>Billker group, Umeå Univ SE</div>
     <div>Biotech-advisor.com US</div>
@@ -182,16 +188,23 @@ h1, h2 {
     <div>Chakrabarti group, Univ Central Florida US</div>
     <div>Chang group, Chicago Medical School US</div>
     <div>Charvat group, High Point Univ US</div>
+    <div>Chaudhuri group, Meharry Medical College US</div>
     <div>Chiurillo group, Univ Cincinnati US</div>
     <div>Christine Clayton DE</div>
+    <div>Coelho group, Univ Campinas, UNICAMP BR</div>
     <div>Cogan group, Univ Southern California US</div>
+    <div>Cordy group, Wake Forest Univ US</div>
     <div>Corvi group, Chascomús Technol Inst (INTECH) AR</div>
+    <div>Cribb group, National Univ of Rosario AR</div>
+    <div>Cricco group, National Univ of Rosario AR</div>
     <div>Crispim group, Fed Univ Alfenas BR</div>
     <div>Cruz group, Univ São Paulo BR</div>
     <div>Curra group, Inst Superiore di Sanità IT</div>
     <div>D Hu group, Guangxi Univ CN</div>
+    <div>Daily group, Albert Einstein College of Medicine US</div>
     <div>Damasio group / LEBIMO, State Univ Campinas BR</div>
     <div>Danae Schulz, Harvey Mudd College US</div>
+    <div>Da Rocha group, Federal Univ of Paraná BR</div>
     <div>Davis group, Univ Iowa US</div>
     <div>de Koning-Ward group, Deakin Univ AU</div>
     <div>de Miguel group, Chascomús Technol Inst (INTECH) AR</div>
@@ -204,9 +217,11 @@ h1, h2 {
     <div>Djordjevic group, Univ Sydney AU</div>
     <div>Docampo group, Univ GA US</div>
     <div>Doering group, Washington Univ US</div>
+    <div>Doggett group, Oregon Health & Science Univ US</div>
     <div>Dunlap group, Dartmouth College US</div>
     <div>Dvorin group, Boston Children's Hosp US</div>
     <div>Dzikowski group, Hebrew Univ IL</div>
+    <div>Echeverry group, National Univ of Colombia INRS CO</div>
     <div>Edreira group, Univ Buenos Aires AR</div>
     <div>Egan group, Stanford Univ US</div>
     <div>Ellis group, Univ of Technology Sydney AU</div>
@@ -219,6 +234,7 @@ h1, h2 {
     <div>Ferdig group / Malaria Crosses Collaboration, Univ Notre Dame US</div>
     <div>Fichorova, Brigham & Women's Hospital, Harvard Univ US</div>
     <div>Field group, Univ Dundee UK</div>
+    <div>Filler group, Harbor-UCLA Medical Center US</div>
     <div>Fischer group, Univ British Columbia CA</div>
     <div>Florentin group, Hebrew Univ IL</div>
     <div>Francia group, Inst Pasteur Montevideo UY</div>
@@ -230,11 +246,14 @@ h1, h2 {
     <div>Ghedin group, Natl Inst Health US</div>
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
     <div>Gilleard group, Univ Calgary CA</div>
+    <div>Glass group, Univ of Vermont US</div>
     <div>Gluenz group, Univ Bern CH</div>
     <div>Goldberg group, Washington Univ US</div>
+    <div>Goldring group, Univ of KwaZulu-Natal ZA</div>
     <div>Gomez-Marin group /GEPAMOL, Univ Quindio CO</div>
     <div>González-Pacanowska group, Natl Research Council (CSIC) ES</div>
     <div>Gopaul group, Inst Pasteur FR</div>
+    <div>Goto group, The Univ of Tokyo JP</div>
     <div>Gowri group, Auxilium College IN</div>
     <div>Graffenried group, Brown Univ US</div>
     <div>Gubbels group, Boston College US</div>
@@ -261,6 +280,7 @@ h1, h2 {
     <div>Huet group, Univ Georgia US</div>
     <div>Hull group, Univ Wisconsin US</div>
     <div>Ichiishi group, Toyo Univ JP</div>
+    <div>Iriko group, Kobe Univ JP</div>
     <div>Isabelle Phan, Seattle Children’s Research Inst US</div>
     <div>Ito group, Tottori Univ JP</div>
     <div>Jackson group, Univ Liverpool UK</div>
@@ -273,11 +293,15 @@ h1, h2 {
     <div>Judelson group, Univ California Riverside US</div>
     <div>Jung group, Chung-Ang Univ KR</div>
     <div>K Hu group, Arizona State Univ US</div>
+    <div>Kading group, Colorado State Univ US</div>
     <div>Kamaliddin group, Univ Alberta CA</div>
     <div>Kaneko group, Nagasaki Univ JP</div>
+    <div>Kanzok group, Loyola Univ Chicago US</div>
     <div>Keith Gull, Univ Oxford UK</div>
     <div>Keller group, Univ Wisconsin US</div>
+    <div>Kelly group, Louisiana State Univ HSC US</div>
     <div>Kent group, Univ Oklahoma Health Sciences Center US</div>
+    <div>Khater group, Ain Shams Univ EG</div>
     <div>Klocko group, Univ Colorado Springs (UCCS) US</div>
     <div>Kirkland group, Univ of California, San Diego US</div>
     <div>Klingbeil group, Univ Massachusetts Amherst US</div>
@@ -287,6 +311,7 @@ h1, h2 {
     <div>Koepfli group, Univ Notre Dame US</div>
     <div>Kopacek group, Czech Academy of Sciences CZ</div>
     <div>Koshy group, Univ Arizona US</div>
+    <div>Kowalinski group, EMBL Grenoble FR</div>
     <div>Kramer group, Univ Wuerzburg DE</div>
     <div>Krysan group, Univ Iowa US</div>
     <div>Kurtis group, Brown Univ US</div>
@@ -305,11 +330,13 @@ h1, h2 {
     <div>Lewis group, Univ Georgia US</div>
     <div>Li group, Cleveland State Univ US</div>
     <div>Li group, Univ Texas Houston US</div>
+    <div>Lima group, Federal Univ of Rio de Janeiro BR</div>
     <div>Liu group, China Agricultural Univ CN</div>
     <div>Limon Maron group, Univ Seville ES</div>
     <div>Lin group, Univ Georgia US</div>
     <div>Lorenzo group, COCINET INBIOTEC AR</div>
     <div>Lourido group, Whitehead Inst US</div>
+    <div>Lu group, Nanjing Agricultural Univ CN</div>
     <div>Lüder group, Univ Göttingen DE</div>
     <div>Maclean group, Univ Edinburgh UK</div>
     <div>MacLeod group, Univ Glasgow UK</div>
@@ -319,7 +346,9 @@ h1, h2 {
     <div>Maringer group, Pirbright Inst UK</div>
     <div>Marten group, Univ Maryland US</div>
     <div>Marti group, Univ Glasgow UK</div>
+    <div>Martínez-Calvillo group, National Autonomous Univ of Mexico MX</div>
     <div>Martins group (LBCVIV), Inst Oswaldo Cruz (Fiocruz) BR</div>
+    <div>Martins group, Univ of Brasília BR</div>
     <div>Martorelli Di Genova group, Univ Vermont US</div>
     <div>Maruyama group, Univ São Paulo BR</div>
     <div>Matthews group, Univ Edinburgh UK</div>
@@ -335,6 +364,8 @@ h1, h2 {
     <div>Mineo group, Federal Univ Uberlândia BR</div>
     <div>Molestina group, American Type Culture Collection US</div>
     <div>Moon group, London Sch Hygiene & Tropical Med UK</div>
+    <div>Moraes Barros group, Federal Univ of São Paulo BR</div>
+    <div>Mordue group, New York Medical College US</div>
     <div>Mugnier group, Johns Hopkins US</div>
     <div>Mukherjee group, Texas State Univ US</div>
     <div>Muralidharan group, Univ Georgia US</div>
@@ -352,25 +383,31 @@ h1, h2 {
     <div>Oakley group, Univ Kansas US</div>
     <div>Odom John group, Children's Hosp Philadelphia/ Univ Pennsylvania US</div>
     <div>Olias group, Justus Liebig Univ DE</div>
+    <div>Orbach group, Univ of Arizona US</div>
     <div>Osborne group, University College London UK</div>
     <div>Osta group, American Univ Beirut LB</div>
     <div>Pain group, King Abdullah Univ Sciences & Technology (KAUST) SA</div>
     <div>Paluzzi group, York Univ CA</div>
     <div>Pandey group, ICMR Natl Inst Malaria Research IN</div>
     <div>Paoletta group, Natl Inst Agricultural Technology AR</div>
+    <div>Pavlovic-Djuranovic group, Washington Univ US</div>
     <div>Papanicolaou group, Hawkesbury Inst, W Sydney Univ AU</div>
     <div>Paredez group, Univ Washington US</div>
     <div>Paton group, Univ Georgia US</div>
     <div>Pawlowic group, Univ Dundee UK</div>
+    <div>Pena group, Colorado College US</div>
     <div>Pietrantonio group, Texas A&M Univ US</div>
+    <div>Pitts group, Baylor Univ US</div>
     <div>Pompon group, IRD FR</div>
     <div>Ponts group, Natl Res Inst Agriculture, Food & Environment (INRAE UR1264-MycSA) FR</div>
     <div>Povelones group, Villanova Univ US</div>
     <div>Przyborski group, Justus-Liebig Univ Gießen DE</div>
     <div>Rafferty group, Trent Univ CA</div>
+    <div>Rajapandi group, Coppin State Univ US</div>
     <div>Rajaram group, Ohio State Univ US</div>
     <div>Ramaprasad group, Univ Glasgow UK</div>
     <div>Ramesh group, Roanoke College US</div>
+    <div>Ray group, Univ Nottingham GB</div>
     <div>Rayner group, Univ Cambridge UK</div>
     <div>Rhodes group, Univ Birmingham UK</div>
     <div>Richard group, Univ Laval CA</div>
@@ -386,6 +423,7 @@ h1, h2 {
     <div>Samuelson group, Boston Univ US</div>
     <div>Sanchez-Flores group, National Autonomous Univ of Mexico MX</div>
     <div>Sangare group, Texas A&M Univ US</div>
+    <div>Sanglard group, Univ of Lausanne CH</div>
     <div>Santiago-Tirado group, Univ Notre Dame US</div>
     <div>Santos group, Univ Paris-Saclay FR</div>
     <div>Sateriale group, Crick Inst UK</div>
@@ -394,6 +432,7 @@ h1, h2 {
     <div>Schenkman group, Federal Univ São Paulo BR</div>
     <div>Schnaufer group, Univ Edinburgh UK</div>
     <div>Sengupta group, Ahmedabad Univ IN</div>
+    <div>Shameer group, IISER Thiruvananthapuram IN</div>
     <div>Sheiner group, Univ Glasgow UK</div>
     <div>Sibley group, Washington Univ US</div>
     <div>Siegel group, Ludwig Maximilians Univ DE</div>
@@ -436,6 +475,7 @@ h1, h2 {
     <div>Ward group, Univ Vermont US</div>
     <div>Waters group, Glasgow Univ UK</div>
     <div>Weiss group, Albert Einstein Cell Med US</div>
+    <div>Wheeler group, University of Wisconsin-Eau Claire</div>
     <div>Wickstead group, Univ Nottingham UK</div>
     <div>Wiese group, Univ Strathclyde UK</div>
     <div>Williams group, Rush Univ US</div>
@@ -456,6 +496,7 @@ h1, h2 {
     <div>Yee group, Trent Univ CA</div>
     <div>Yi-Wei Chang group, Univ Pennsylvania US</div>
     <div>Young group, Univ Edinburgh UK</div>
+    <div>Yuan group, Xiamen Univ CN</div>
     <div>Zarringhalam group, Univ Massachusetts US</div>
     <div>Zhang group, Texas Tech Univ US</div>
     <div>Zhang group, Washington Univ in St. Louis US</div>
