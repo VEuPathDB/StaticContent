@@ -135,6 +135,7 @@ h1, h2 {
     <div>Asada group, Obihiro Univ Agriculture & Vet Med JP</div>
     <div>Asgari group, Univ Queensland AU</div>
     <div>Avila group, Univ Antioquia CO</div>
+    <div>Bakari-Soale group, Univ Nottingham UK</div>
     <div>Baker group, London Sch Hygiene & Tropical Med (LSHTM) UK</div>
     <div>Bakkeren group, Agriculture & Agri-Food CA</div>
     <div>Ballou group, Univ Exeter UK</div>
@@ -356,7 +357,7 @@ h1, h2 {
     <div>Martins group (LBCVIV), Inst Oswaldo Cruz (Fiocruz) BR</div>
     <div>Martins group, Univ of Brasília BR</div>
     <div>Martorelli Di Genova group, Univ Vermont US</div>
-    <div>Marugan-Hernandez group, Royal Veterinary College GB</div>
+    <div>Marugan-Hernandez group, Royal Veterinary College UK</div>
     <div>Maruyama group, Univ São Paulo BR</div>
     <div>Matthews group, Univ Edinburgh UK</div>
     <div>McBride group, Princeton Univ US</div>
@@ -416,7 +417,7 @@ h1, h2 {
     <div>Rajaram group, Ohio State Univ US</div>
     <div>Ramaprasad group, Univ Glasgow UK</div>
     <div>Ramesh group, Roanoke College US</div>
-    <div>Ray group, Univ Nottingham GB</div>
+    <div>Ray group, Univ Nottingham UK</div>
     <div>Rayner group, Univ Cambridge UK</div>
     <div>Rhodes group, Univ Birmingham UK</div>
     <div>Richard group, Univ Laval CA</div>
@@ -451,7 +452,6 @@ h1, h2 {
     <div>Singer group, Georgetown Univ US</div>
     <div>Small-Saunders group, Columbia Univ US</div>
     <div>Snell group, Univ Maryland, College Park US</div>
-    <div>Soale group, Univ Nottingham UK</div>
     <div>Soldati-Favre group, Univ Genève CH</div>
     <div>Stajich group, Univ California Riverside US</div>
     <div>Striepen group, Univ Pennsylvania US</div>
@@ -463,7 +463,7 @@ h1, h2 {
     <div>Takagi group, National Institute of Advanced Industrial Science and Technology JP</div>
     <div>Tang group, Chinese Acad Agricultural Sciences CN</div>
     <div>Tatchell group, Louisiana State Univ US</div>
-    <div>Tiengwe group, Imperial College London GB</div>
+    <div>Tiengwe group, Imperial College London UK</div>
     <div>Tilley group, Univ Melbourne AU</div>
     <div>Todd group, Kansas State Univ US</div>
     <div>Treeck group, Gulbenkian Inst Molecular Med PT</div>
