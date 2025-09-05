@@ -2,7 +2,7 @@
 layout: plain
 title: VEuPathDB User Comments and Gene Annotation Campaign
 permalink: MPMcomments
-tags: [workshop-exercise]
+tags: [general]
 ---
 <style>
   h1 {
