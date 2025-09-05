@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB User Comments and Gene Annotation Campaign
-permalink: /MPMcomments
+permalink: MPMcomments
 tags: [workshop-exercise]
 ---
 <style>
