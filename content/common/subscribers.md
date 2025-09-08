@@ -341,6 +341,7 @@ h1, h2 {
     <div>Liu group, China Agricultural Univ CN</div>
     <div>Limon Maron group, Univ Seville ES</div>
     <div>Lin group, Univ Georgia US</div>
+    <div>Llinás group, Penn State Univ US</div>
     <div>Lorenzo group, COCINET INBIOTEC AR</div>
     <div>Lourido group, Whitehead Inst US</div>
     <div>Lu group, Nanjing Agricultural Univ CN</div>
