@@ -99,7 +99,7 @@ tags: [general]
   }
 
   .static-content .side-by-side img {
-    max-width: 40%;
+    max-width: 50%;
     flex-shrink: 0;
   }
 
