@@ -151,13 +151,12 @@ tags: [general]
         <li>Navigate to the relevant gene page.</li>
         <li>Click <i>"Add a user comment"</i> and fill out the form.</li>
       </ul>
-      <img class="image-frame" src="{{ "/assets/other_static_content/vdbuc1.png" | absolute_url }}" 
-           alt="User Comment Form"/>
-
-    <h4>What to Include in a Comment</h4>
+      <h4>What to Include in a Comment</h4>
     <p>
       Any useful information for other researchers: synonyms (e.g. “Purine Phosphoribosyl Transferase” is also known as HPRT/HGPRT), PubMed IDs, functional characterization, corrections to gene model predictions, phenotype data, and more.
     </p>
+      <img class="image-frame" src="{{ "/assets/other_static_content/vdbuc1.png" | absolute_url }}" 
+           alt="User Comment Form"/>
     </div>
 
 
