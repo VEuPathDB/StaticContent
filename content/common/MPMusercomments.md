@@ -4,279 +4,160 @@ title: VEuPathDB User Comments and Gene Annotation Campaign
 permalink: MPMcomments
 tags: [general]
 ---
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VEuPathDB User Comments Campaign</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<style>
+  /* Typography & Base Styles */
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    line-height: 1.6;
+    color: #222;
+    background: #fafafa;
+    margin: 0;
+    padding: 0;
+  }
 
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            background-color: #f8f9fa;
-            padding: 2rem 1rem;
-        }
+  h1, h2, h3, h4 {
+    font-weight: 600;
+    color: #023e8a;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+  }
 
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            overflow: hidden;
-        }
+  p {
+    margin: 1em 0;
+  }
 
-        .header {
-            background: #2c5aa0;
-            color: white;
-            padding: 2rem;
-            text-align: center;
-        }
+  a {
+    color: #0077b6;
+    text-decoration: none;
+  }
 
-        .header h1 {
-            font-size: 1.8rem;
-            font-weight: 600;
-            margin-bottom: 0.5rem;
-        }
+  a:hover, a:focus {
+    text-decoration: underline;
+  }
 
-        .header .subtitle {
-            font-size: 1rem;
-            opacity: 0.9;
-        }
+  /* Layout Containers */
+  .static-content {
+    max-width: 900px;
+    margin: 2em auto;
+    padding: 0 1em;
+  }
 
-        .content {
-            padding: 2rem;
-        }
+  .centered-title {
+    border: 2px solid #0077b6;
+    border-radius: 1em;
+    text-align: center;
+    background: #eaf4ff;
+    padding: 1.5em;
+    margin-bottom: 2em;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  }
 
-        .announcement {
-            background: #e8f4f8;
-            border-left: 4px solid #2c5aa0;
-            padding: 1.5rem;
-            margin-bottom: 2rem;
-            border-radius: 4px;
-        }
+  .contents {
+    margin-bottom: 3em;
+  }
 
-        .announcement p {
-            color: #2c5aa0;
-            font-weight: 500;
-            margin: 0;
-        }
+  .workshop {
+    background: #fff;
+    padding: 2em;
+    border-radius: 1em;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  }
 
-        h2 {
-            color: #2c5aa0;
-            font-size: 1.4rem;
-            margin: 2rem 0 1rem 0;
-            padding-bottom: 0.5rem;
-            border-bottom: 2px solid #e9ecef;
-        }
+  /* Lists */
+  ul, ol {
+    margin-left: 1.5em;
+    padding-left: 0.5em;
+  }
 
-        h3 {
-            color: #333;
-            font-size: 1.2rem;
-            margin: 1.5rem 0 0.8rem 0;
-        }
+  li {
+    margin: 0.5em 0;
+  }
 
-        p {
-            margin-bottom: 1rem;
-            line-height: 1.6;
-        }
+  /* Highlighted Paragraph */
+  .highlight {
+    color: #a60000;
+    font-weight: 600;
+  }
 
-        ul, ol {
-            margin: 1rem 0;
-            padding-left: 2rem;
-        }
+  /* Images */
+  .image-frame {
+    border: 2px solid #ddd;
+    border-radius: 0.5em;
+    padding: 6px;
+    background: #fff;
+    display: block;
+    margin: 1.5em auto;
+    max-width: 100%;
+  }
 
-        li {
-            margin-bottom: 0.5rem;
-            line-height: 1.5;
-        }
+  /* Accessibility: Larger clickable areas */
+  button, summary, a {
+    cursor: pointer;
+  }
+</style>
 
-        .highlight {
-            background: #f8f9fa;
-            border: 1px solid #e9ecef;
-            padding: 1.5rem;
-            margin: 1.5rem 0;
-            border-radius: 4px;
-        }
+<div class="static-content">
+  <div class="centered-title">     
+    <h4>
+      <a href="https://veupathdb.org">VEuPathDB</a> User Comments and Gene Annotation Campaign  
+      <br><small>Now through September 18, 2025</small>
+    </h4>
+  </div>
 
-        .highlight h3 {
-            margin-top: 0;
-            color: #2c5aa0;
-        }
+  <div class="contents">
+    <div class="workshop">
+      <p class="highlight">
+        We are excited to announce that, coinciding with MPM XXXVI, VEuPathDB will be running a user comment campaign starting now and running throughout the meeting, which ends on September 18, 2025.
+      </p>
+      
+      <h4>Your Contributions Matter!</h4>
+      <ul>
+        <li>Strengthen genome annotations by providing key evidence (alternative gene models, knockout phenotypes, subcellular localization, PubMed IDs).</li>
+        <li>Increase accessibility and visibility of gene data for researchers worldwide.</li>
+        <li>Support the community by keeping gene information current and reliable.</li>
+      </ul>
+   
+      <h4>How to Participate</h4>
+      <ol>
+        <li>Leave a user comment on a gene page OR enhance gene annotation via the Apollo genome editor.</li>
+        <li>Visit the VEuPathDB help desk during MPM poster sessions to claim your <b>free "Got Parasites?" mug</b>.  
+            The top 10 contributors will also receive a T-shirt!</li>
+      </ol>
+      <p><b>Not attending MPM?</b> Submit a comment remotely, and a colleague can pick up your mug.</p>
 
-        .steps {
-            background: #f0f8ff;
-            border: 1px solid #b3d9ff;
-            padding: 1.5rem;
-            margin: 1.5rem 0;
-            border-radius: 4px;
-        }
+      <h4>How to Submit a Comment</h4>
+      <ul>
+        <li>Sign in or register at <a href="https://veupathdb.org/veupathdbdb/app/user/registration">VEuPathDB.org</a>.</li>
+        <li>Navigate to the relevant gene page.</li>
+        <li>Click <i>"Add a user comment"</i> and fill out the form.</li>
+      </ul>
+      <img class="image-frame" style="width: 40%;"  
+           src="{{ "/assets/other_static_content/vdbuc1.png" | absolute_url }}" 
+           alt="User Comment Form"/>
 
-        .note {
-            background: #fff3cd;
-            border: 1px solid #ffeaa7;
-            padding: 1rem;
-            margin: 1rem 0;
-            border-radius: 4px;
-            font-style: italic;
-        }
+      <h4>What to Include in a Comment</h4>
+      <p>
+        Any useful information for other researchers: synonyms (e.g. “Purine Phosphoribosyl Transferase” is also known as HPRT/HGPRT), PubMed IDs, functional characterization, corrections to gene model predictions, phenotype data, and more.
+      </p>
 
-        .image-container {
-            text-align: center;
-            margin: 1.5rem 0;
-            padding: 1rem;
-            background: #f8f9fa;
-            border: 1px solid #e9ecef;
-            border-radius: 4px;
-        }
-
-        .image-container img {
-            max-width: 300px;
-            height: auto;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-        }
-
-        .image-container p {
-            margin: 0.5rem 0 0 0;
-            font-size: 0.9rem;
-            color: #666;
-        }
-
-        a {
-            color: #2c5aa0;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        .link-button {
-            display: inline-block;
-            background: #2c5aa0;
-            color: white;
-            padding: 0.5rem 1rem;
-            border-radius: 4px;
-            text-decoration: none;
-            font-weight: 500;
-            margin: 0.2rem;
-        }
-
-        .link-button:hover {
-            background: #1e3a5f;
-            color: white;
-            text-decoration: none;
-        }
-
-        .contact {
-            background: #2c5aa0;
-            color: white;
-            padding: 1.5rem;
-            margin-top: 2rem;
-            text-align: center;
-            border-radius: 4px;
-        }
-
-        .contact a {
-            color: #b3d9ff;
-            font-weight: 500;
-        }
-
-        .contact a:hover {
-            color: white;
-        }
-
-        @media (max-width: 768px) {
-            body {
-                padding: 1rem 0.5rem;
-            }
-            
-            .header, .content {
-                padding: 1.5rem;
-            }
-            
-            .header h1 {
-                font-size: 1.5rem;
-            }
-            
-            h2 {
-                font-size: 1.3rem;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <h1>VEuPathDB User Comments & Gene Annotation Campaign</h1>
-            <p class="subtitle">Now through September 18, 2025</p>
-        </div>
-
-        <div class="content">
-            <div class="announcement">
-                <p><strong>Coinciding with MPM XXXVI,</strong> VEuPathDB is running a user comment campaign starting now and running throughout the meeting, which ends on September 18, 2025.</p>
-            </div>
-
-            <div class="highlight">
-                <h3>Your Contributions Matter! They:</h3>
-                <ul>
-                    <li>Strengthen genome annotations by providing key evidence, such as alternative gene models, knockout phenotypes, subcellular localization, and relevant PubMed IDs</li>
-                    <li>Increase the accessibility and visibility of gene data for researchers worldwide</li>
-                    <li>Support the scientific community by ensuring gene information remains current and reliable</li>
-                </ul>
-            </div>
-
-            <h2>How to Participate</h2>
-            <div class="steps">
-                <ol>
-                    <li>Leave a user comment on a gene page OR enhance structural/functional gene annotation via the Apollo genome editor</li>
-                    <li>Visit the VEuPathDB help desk during MPM poster sessions to claim your <strong>free "Got Parasites?" mug</strong>. The top 10 contributors will also receive a T-shirt!</li>
-                </ol>
-            </div>
-            
-            <div class="note">
-                <strong>Not attending MPM this year?</strong> No worries! Submit a user comment remotely, and have a colleague pick up your mug.
-            </div>
-
-            <h2>How to Submit a Comment</h2>
-            <ul>
-                <li>Sign in or register at <a href="https://veupathdb.org/veupathdbdb/app/user/registration" class="link-button">VEuPathDB.org</a></li>
-                <li>Navigate to the relevant gene page</li>
-                <li>Click "Add a user comment" and fill out the form</li>
-            </ul>
-            
-            <div class="image-container">
-                <img src="{{ '/assets/other_static_content/vdbuc1.png' | absolute_url }}" alt="User Comment Form" />
-                <p>User Comment Form</p>
-            </div>
-
-            <h3>What to Include in a User Comment?</h3>
-            <p>Really any information that you think would be useful for others to know about the gene. This can include names or synonyms (e.g. "Purine Phosphoribosyl Transferase, is also known as HPRT, HGPRT"), PubMed IDs, functional characterization, corrections of gene model predictions & annotations, phenotype data, etc.</p>
-
-            <h2>How to Modify Gene Models in Apollo</h2>
-            <ul>
-                <li>Sign in or register at <a href="https://veupathdb.org/veupathdbdb/app/user/registration" class="link-button">VEuPathDB.org</a></li>
-                <li>Go to the gene record page</li>
-                <li>Click "View / Update in Apollo editor" and make changes</li>
-            </ul>
-            
-            <div class="image-container">
-                <img src="{{ '/assets/other_static_content/vdbuc2.png' | absolute_url }}" alt="Apollo Editor" />
-                <p>Apollo Editing Example</p>
-            </div>
-
-            <h2>Bulk Submissions</h2>
-            <p>Have too many comments? Not a problem - use our <a href="https://docs.google.com/spreadsheets/d/17Uu_KvfpU6FYvL0ftA7zSt1fK7OinDRZp6Dng_RPH7Y/edit?usp=sharing" class="link-button">bulk submission form</a> and send it back to us via the <a href="https://veupathdb.org/veupathdb/app/contact-us" class="link-button">Contact Us form</a>.</p>
-
-            <div class="contact">
-                <p><strong>Need Help?</strong> - <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us</a></p>
-            </div>
-        </div>
+      <h4>How to Modify Gene Models in Apollo</h4>
+      <ul>
+        <li>Sign in or register at <a href="https://veupathdb.org/veupathdbdb/app/user/registration">VEuPathDB.org</a>.</li>
+        <li>Go to the gene record page.</li>
+        <li>Click <i>"View / Update in Apollo editor"</i> and make changes.</li>
+      </ul>
+      <img class="image-frame" style="width: 80%;"  
+           src="{{ "/assets/other_static_content/vdbuc2.png" | absolute_url }}" 
+           alt="Apollo Editing Example"/>
+    
+      <h4>Bulk Submissions</h4>
+      <p>
+        Have too many comments? Use our 
+        <a href="https://docs.google.com/spreadsheets/d/17Uu_KvfpU6FYvL0ftA7zSt1fK7OinDRZp6Dng_RPH7Y/edit?usp=sharing">bulk submission form</a>  
+        and send it via the <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us form</a>.
+      </p>
+      
+      <p><b>Need Help?</b> <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us</a>.</p>
     </div>
+  </div>
+</div>
