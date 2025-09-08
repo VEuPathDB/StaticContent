@@ -84,7 +84,7 @@ tags: [general]
   }
   .side-by-side .text-block {
   flex: 1;
-  max-width: 700px; /* keep text readable */
+  max-width: 500px; /* keep text readable */
 }
   .side-by-side .image-block {
     flex-shrink: 0;
@@ -129,9 +129,10 @@ tags: [general]
       <p><b>Not attending MPM this year?</b> No worries! Submit a user comment remotely, and have a colleague pick up your mug.</p>
 
       <!-- Side by side block 1 -->
-      <h4>How to Submit a Comment</h4>
+      
       <div class="side-by-side">
         <div class="text-block">
+        <h4>How to Submit a Comment</h4>
           <ul>
             <li>Sign in or register at 
               <a href="https://veupathdb.org/veupathdbdb/app/user/registration">VEuPathDB.org</a>.
