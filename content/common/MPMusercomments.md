@@ -83,13 +83,14 @@ tags: [general]
     margin: 1.5em 0;
   }
   .side-by-side .text-block {
-    flex: 1; /* take remaining width */
-  }
+  flex: 1;
+  max-width: 700px; /* keep text readable */
+}
   .side-by-side .image-block {
     flex-shrink: 0;
   }
   .side-by-side img {
-    max-width: 350px; /* adjust size here */
+    max-width: 40%; /* adjust size here */
     height: auto;
   }
   @media (max-width: 700px) {
@@ -155,17 +156,24 @@ tags: [general]
       </div>
 
       <!-- Side by side block 2 -->
-      <h4>How to Modify Gene Models in Apollo</h4>
-      <div class="side-by-side">
-        <div class="text-block">
-          <ul>
-            <li>Sign in or register at 
-              <a href="https://veupathdb.org/veupathdbdb/app/user/registration">VEuPathDB.org</a>.
-            </li>
-            <li>Go to the gene record page.</li>
-            <li>Click "View / Update in Apollo editor" and make changes.</li>
-          </ul>
-        </div>
+<div class="side-by-side">
+  <div class="text-block">
+    <h4>How to Modify Gene Models in Apollo</h4>
+    <ul>
+      <li>Sign in or register at 
+        <a href="https://veupathdb.org/veupathdbdb/app/user/registration">VEuPathDB.org</a>.
+      </li>
+      <li>Go to the gene record page.</li>
+      <li>Click "View / Update in Apollo editor" and make changes.</li>
+    </ul>
+  </div>
+
+  <div class="image-block">
+    <img class="image-frame" 
+         src="{{ "/assets/other_static_content/vdbuc2.png" | absolute_url }}" 
+         alt="Apollo Editing Example"/>
+  </div>
+</div>
 
         <div class="image-block">
           <img class="image-frame" 
