@@ -117,7 +117,7 @@ tags: [general]
         <li>Navigate to the relevant gene page.</li>
         <li>Click "Add a user comment" and fill out the form.</li>
       </ul>
-      <img class="image-frame" style="width: 30%; margin-left: 4em;"  src="{{ "/assets/images/other_static_content/vdbuc1.png" | absolute_url }}" alt="User Comment Form"/>
+      <img class="image-frame" style="width: 30%; margin-left: 4em;"  src="{{ "/assets/other_static_content/vdbuc1.png" | absolute_url }}" alt="User Comment Form"/>
 
       <h4>What to inlcude in a user comment?</h4>
       Really any information that you think would be useful for others to know about the gene. This can include names or synonyms (e.g. "Purine Phosphoribosyl Transferase, is also known as HPRT, HGPRT), PubMed IDs, functional characterization, corrections of gene model predictions & annotations, phenotype data, etc.
@@ -128,7 +128,7 @@ tags: [general]
         <li>Go to the gene record page.</li>
         <li>Click "View / Update in Apollo editor" and make changes.</li>
       </ul>
-      <img class="image-frame" style="width: 30em; margin-left: 4em;" src="{{ "/assets/images/other_static_content/vdbuc2.png" | absolute_url }}" alt="Apollo Editing Example"/>
+      <img class="image-frame" style="width: 30em; margin-left: 4em;" src="{{ "/assets/other_static_content/vdbuc2.png" | absolute_url }}" alt="Apollo Editing Example"/>
     
     <h4>Bulk Submissions</h4>
       <p>Have too many comments? Not a problem - use our <a href="https://docs.google.com/spreadsheets/d/17Uu_KvfpU6FYvL0ftA7zSt1fK7OinDRZp6Dng_RPH7Y/edit?usp=sharing">bulk submission form</a> and send it back to us via the <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us form</a>.</p>
