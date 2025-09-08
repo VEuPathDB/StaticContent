@@ -186,6 +186,7 @@ tags: [general]
 
     
     <div class="side-by-side">
+    <div class="text-block">
     <h4>How to Modify Gene Models in Apollo</h4>
       <ul>
         <li>Sign in or register at <a href="https://veupathdb.org/veupathdbdb/app/user/registration">VEuPathDB.org</a>.</li>
@@ -194,6 +195,7 @@ tags: [general]
       </ul>
       <img class="image-frame" src="{{ "/assets/other_static_content/vdbuc2.png" | absolute_url }}" 
            alt="Apollo Editing Example"/>
+    </div>
     </div>
   
     <h4>Bulk Submissions</h4>
