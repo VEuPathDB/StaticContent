@@ -88,7 +88,7 @@ tags: [general]
   /* Flex side-by-side layout */
   .static-content .side-by-side {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 2em;
   margin: 1.5em 0;
 }
@@ -157,9 +157,10 @@ tags: [general]
     </ol>
     <p><b>Not attending MPM?</b> Submit a comment remotely, and a colleague can pick up your mug.</p>
 
-    <h4>How to Submit a Comment</h4>
+    
 <div class="side-by-side">
   <div class="text-block">
+  <h4>How to Submit a Comment</h4>
     <ul>
       <li>Sign in or register at 
         <a href="https://veupathdb.org/veupathdbdb/app/user/registration">VEuPathDB.org</a>.
