@@ -110,15 +110,20 @@ tags: [general]
         <li>Visit the VEuPathDB help desk during MPM poster sessions to claim your <b>free "Got Parasites?"</b> mug. The top 10 contributors will also receive a T-shirt!</li>
       </ol>
       <p><b>Not attending MPM this year?</b> No worries! Submit a user comment remotely, and have a colleague pick up your mug.</p>
-
+      
       <h4>How to Submit a Comment</h4>
-      <ul>
-        <li>Sign in or register at <a href="https://veupathdb.org/veupathdbdb/app/user/registration">VEuPathDB.org</a>.</li>
-        <li>Navigate to the relevant gene page.</li>
-        <li>Click "Add a user comment" and fill out the form.</li>
-      </ul>
-      <img class="image-frame" style="width: 30%; margin-left: 4em;"  src="{{ "/assets/other_static_content/vdbuc1.png" | absolute_url }}" alt="User Comment Form"/>
+<div class="side-by-side">
+  <ul>
+    <li>Sign in or register at 
+      <a href="https://veupathdb.org/veupathdbdb/app/user/registration">VEuPathDB.org</a>.
+    </li>
+    <li>Navigate to the relevant gene page.</li>
+    <li>Click "Add a user comment" and fill out the form.</li>
+  </ul>
 
+  <img class="image-frame" src="{{ "/assets/other_static_content/vdbuc1.png" | absolute_url }}" 
+       alt="User Comment Form"/>
+</div>
       <h4>What to inlcude in a user comment?</h4>
       Really any information that you think would be useful for others to know about the gene. This can include names or synonyms (e.g. "Purine Phosphoribosyl Transferase, is also known as HPRT, HGPRT), PubMed IDs, functional characterization, corrections of gene model predictions & annotations, phenotype data, etc.
 
