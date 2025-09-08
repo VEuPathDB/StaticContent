@@ -90,7 +90,7 @@ tags: [general]
     flex-shrink: 0;
   }
   .side-by-side img {
-    max-width: 40%; /* adjust size here */
+    max-width: 350px; /* adjust size here */
     height: auto;
   }
   @media (max-width: 700px) {
@@ -174,13 +174,6 @@ tags: [general]
          alt="Apollo Editing Example"/>
   </div>
 </div>
-
-        <div class="image-block">
-          <img class="image-frame" 
-               src="{{ "/assets/other_static_content/vdbuc2.png" | absolute_url }}" 
-               alt="Apollo Editing Example"/>
-        </div>
-      </div>
     
       <h4>Bulk Submissions</h4>
       <p>Have too many comments? Not a problem - use our <a href="https://docs.google.com/spreadsheets/d/17Uu_KvfpU6FYvL0ftA7zSt1fK7OinDRZp6Dng_RPH7Y/edit?usp=sharing">bulk submission form</a> and send it back to us via the <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us form</a>.</p>
