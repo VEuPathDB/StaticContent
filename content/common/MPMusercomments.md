@@ -143,8 +143,9 @@ tags: [general]
     </ol>
     <p><b>Not attending MPM?</b> Submit a comment remotely, and a colleague can pick up your mug.</p>
 
-    <h4>How to Submit a Comment</h4>
+    
     <div class="side-by-side">
+    <h4>How to Submit a Comment</h4>
       <ul>
         <li>Sign in or register at <a href="https://veupathdb.org/veupathdbdb/app/user/registration">VEuPathDB.org</a>.</li>
         <li>Navigate to the relevant gene page.</li>
@@ -152,12 +153,14 @@ tags: [general]
       </ul>
       <img class="image-frame" src="{{ "/assets/other_static_content/vdbuc1.png" | absolute_url }}" 
            alt="User Comment Form"/>
-    </div>
 
     <h4>What to Include in a Comment</h4>
     <p>
       Any useful information for other researchers: synonyms (e.g. “Purine Phosphoribosyl Transferase” is also known as HPRT/HGPRT), PubMed IDs, functional characterization, corrections to gene model predictions, phenotype data, and more.
     </p>
+    </div>
+
+
 
     <h4>How to Modify Gene Models in Apollo</h4>
     <div class="side-by-side">
