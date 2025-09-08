@@ -87,21 +87,35 @@ tags: [general]
 
   /* Flex side-by-side layout */
   .static-content .side-by-side {
-    display: flex;
-    align-items: flex-start;
-    gap: 2em;
-    margin: 1.5em 0;
-  }
+  display: flex;
+  align-items: flex-start;
+  gap: 2em;
+  margin: 1.5em 0;
+}
 
-  .static-content .side-by-side ul {
-    flex: 1;
-    margin: 0;
-  }
+.static-content .side-by-side .text-block {
+  flex: 1; /* take all available space */
+}
 
+.static-content .side-by-side .image-block {
+  flex-shrink: 0;
+}
+
+.static-content .side-by-side img {
+  max-width: 350px;  /* adjust size here */
+  height: auto;
+}
+
+/* Responsive: stack on mobile */
+@media (max-width: 700px) {
+  .static-content .side-by-side {
+    flex-direction: column;
+  }
   .static-content .side-by-side img {
-    max-width: 50%;
-    flex-shrink: 0;
+    max-width: 100%;
+    margin: 1em auto;
   }
+}
 
   /* Responsive stacking */
   @media (max-width: 700px) {
@@ -144,20 +158,30 @@ tags: [general]
     <p><b>Not attending MPM?</b> Submit a comment remotely, and a colleague can pick up your mug.</p>
 
     <h4>How to Submit a Comment</h4>
-    <div class="side-by-side">
-      <ul>
-        <li>Sign in or register at <a href="https://veupathdb.org/veupathdbdb/app/user/registration">VEuPathDB.org</a>.</li>
-        <li>Navigate to the relevant gene page.</li>
-        <li>Click <i>"Add a user comment"</i> and fill out the form.</li>
-      </ul>
-      <img class="image-frame" src="{{ "/assets/other_static_content/vdbuc1.png" | absolute_url }}" 
-           alt="User Comment Form"/>
-    </div>
+<div class="side-by-side">
+  <div class="text-block">
+    <ul>
+      <li>Sign in or register at 
+        <a href="https://veupathdb.org/veupathdbdb/app/user/registration">VEuPathDB.org</a>.
+      </li>
+      <li>Navigate to the relevant gene page.</li>
+      <li>Click <i>"Add a user comment"</i> and fill out the form.</li>
+    </ul>
 
     <h4>What to Include in a Comment</h4>
     <p>
-      Any useful information for other researchers: synonyms (e.g. “Purine Phosphoribosyl Transferase” is also known as HPRT/HGPRT), PubMed IDs, functional characterization, corrections to gene model predictions, phenotype data, and more.
+      Any useful information for other researchers: synonyms (e.g. “Purine Phosphoribosyl Transferase” 
+      is also known as HPRT/HGPRT), PubMed IDs, functional characterization, corrections to gene model 
+      predictions, phenotype data, and more.
     </p>
+  </div>
+
+  <div class="image-block">
+    <img class="image-frame" 
+         src="{{ "/assets/other_static_content/vdbuc1.png" | absolute_url }}" 
+         alt="User Comment Form"/>
+  </div>
+</div>
 
     <h4>How to Modify Gene Models in Apollo</h4>
     <div class="side-by-side">
