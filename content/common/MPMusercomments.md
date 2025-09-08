@@ -184,8 +184,9 @@ tags: [general]
   </div>
 </div>
 
-    <h4>How to Modify Gene Models in Apollo</h4>
+    
     <div class="side-by-side">
+    <h4>How to Modify Gene Models in Apollo</h4>
       <ul>
         <li>Sign in or register at <a href="https://veupathdb.org/veupathdbdb/app/user/registration">VEuPathDB.org</a>.</li>
         <li>Go to the gene record page.</li>
