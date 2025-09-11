@@ -208,6 +208,7 @@ h1, h2 {
     <div>Danae Schulz, Harvey Mudd College US</div>
     <div>Dangoudoubiyam group, Purdue Univ US</div>
     <div>Da Rocha group, Federal Univ of Paraná BR</div>
+    <div>Das lab, Birla Institute of Technology and Science, Pilani IN</div>
     <div>Davis group, Univ Iowa US</div>
     <div>de Koning-Ward group, Deakin Univ AU</div>
     <div>de Miguel group, Chascomús Technol Inst (INTECH) AR</div>
