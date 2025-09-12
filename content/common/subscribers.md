@@ -288,7 +288,6 @@ h1, h2 {
     <div>Hull group, Univ Wisconsin US</div>
     <div>Ichiishi group, Toyo Univ JP</div>
     <div>Iriko group, Kobe Univ JP</div>
-    <div>Isabelle Phan, Seattle Children’s Research Inst US</div>
     <div>Ito group, Tottori Univ JP</div>
     <div>Jackson group, Univ Liverpool UK</div>
     <div>James group, Gettysburg College US</div>
@@ -408,6 +407,7 @@ h1, h2 {
     <div>Paton group, Univ Georgia US</div>
     <div>Pawlowic group, Univ Dundee UK</div>
     <div>Pena group, Colorado College US</div>
+    <div>Phan group, Seattle Children’s Research Inst US</div>
     <div>Pietrantonio group, Texas A&M Univ US</div>
     <div>Pitts group, Baylor Univ US</div>
     <div>Pompon group, IRD FR</div>
