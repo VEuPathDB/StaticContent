@@ -124,6 +124,7 @@ h1, h2 {
     <div>Alday group, Oregon Health & Science Univ US</div>
     <div>Alout group, Natl Research Inst Agriculture, Food & Environment (INRAE) FR</div>
     <div>Alphey group, Univ York UK</div>
+    <div>Alfonzo group, Brown Univ US</div>
     <div>Alsford group, London Sch Hygiene Tropical Med (LSHTM) UK</div>
     <div>Alspaugh group, Duke Univ US</div>
     <div>Amino group, Inst Pasteur FR</div>
@@ -174,6 +175,7 @@ h1, h2 {
     <div>Briggs group, Newcastle Univ UK</div>
     <div>Bringaud group, Univ Bordeaux FR</div>
     <div>Brown group, Univ Oklahoma Health Sciences Center US</div>
+    <div>Brown group, Univ of Utah US</div>
     <div>Buchler group, North Carolina State Univ US</div>
     <div>Bunnik group, Univ Texas Health San Antonio US</div>
     <div>Burchmore group, Univ Glasgow UK</div>
@@ -278,6 +280,7 @@ h1, h2 {
     <div>Hammond group, Illinois State Univ US</div>
     <div>Harding group, Univ Glasgow UK</div>
     <div>Hatakeyama group, Saitama Univ JP</div>
+    <div>Hayman group, Massey Univ NZ</div>
     <div>He group, National Univ Singapore SG</div>
     <div>Heaslip group, Univ Connecticut US</div>
     <div>Hedstrom group, Brandeis Univ US</div>
@@ -310,6 +313,7 @@ h1, h2 {
     <div>Kamaliddin group, Univ Alberta CA</div>
     <div>Kaneko group, Nagasaki Univ JP</div>
     <div>Kanzok group, Loyola Univ Chicago US</div>
+    <div>Ke group, Drexel Univ US</div>
     <div>Keith Gull, Univ Oxford UK</div>
     <div>Keller group, Univ Wisconsin US</div>
     <div>Kelly group, Louisiana State Univ HSC US</div>
@@ -451,6 +455,7 @@ h1, h2 {
     <div>Sachs group, Texas A&M Univ US</div>
     <div>Saeij group, Univ of California, Davis US</div>
     <div>Samuelson group, Boston Univ US</div>
+    <div>Sam-Yellowe group, Cleveland State Univ US</div>
     <div>Sanchez-Flores group, National Autonomous Univ of Mexico MX</div>
     <div>Sangare group, Texas A&M Univ US</div>
     <div>Sanglard group, Univ of Lausanne CH</div>
@@ -473,9 +478,11 @@ h1, h2 {
     <div>Small-Saunders group, Columbia Univ US</div>
     <div>Snell group, Univ Maryland, College Park US</div>
     <div>Soldati-Favre group, Univ Genève CH</div>
+    <div>Springer group, Univ of Massachusetts Amherst US</div>
     <div>Stajich group, Univ California Riverside US</div>
     <div>Striepen group, Univ Pennsylvania US</div>
     <div>Sullivan group, Indiana Univ US</div>
+    <div>Sun group, Univ of Pittsburgh US</div>
     <div>Sunter group, Oxford Brookes Univ UK</div>
     <div>Sutherland group, London Sch Hygiene & Tropical Med (LSHTM) UK</div>
     <div>Suvorova group, Univ South Florida US</div>
@@ -498,6 +505,7 @@ h1, h2 {
     <div>Vembar group, Inst Bioinformatics & Applied Biotechnology IN</div>
     <div>Verjovski-Almeida group, Univ São Paulo BR</div>
     <div>Vidilaseris group, Univ of Helsinki FI</div>
+    <div>Vinayak Alam group, Univ of Illinois at Urbana-Champaign US</div>
     <div>Vogel group, Univ Georgia US</div>
     <div>Voss group, Swiss Tropical and Public Health Inst CH</div>
     <div>Waller group, Univ Cambridge UK</div>
@@ -508,6 +516,7 @@ h1, h2 {
     <div>Ward group, Univ Vermont US</div>
     <div>Waters group, Glasgow Univ UK</div>
     <div>Weiss group, Albert Einstein Cell Med US</div>
+    <div>Wetzel group, Univ of Texas Southwestern Medical Center US</div>
     <div>Wheeler group, University of Wisconsin-Eau Claire</div>
     <div>Wickstead group, Univ Nottingham UK</div>
     <div>Wiese group, Univ Strathclyde UK</div>
@@ -552,12 +561,13 @@ h1, h2 {
    <div>Czech Acad Sci CZ / Inst Parasitology, Biology Centre – Lukeš, Obornik, Paris, Perner & Zikova groups</div>
    <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
    <div>Inst Superiore Sanité IT / Foodborne & Neglected Parasitic Diseases (PAN) – Cacciò, Currà, Lalle; Spano; Tosini & Vectorborne Diseases (MTV) – Alano, Lepiscopia, Olivieri, Siciliano, & Silvestrini groups</div>
-   <div>ITM - DBS - parasitology units</div>
-   <div>Johns Hopkins Malaria Research Inst – multiple groups</div>
+   <div>Institute of Tropical Medicine Antwerp BE- Department of Biomedical Sciences - Parasitology Units</div>
+   <div>Johns Hopkins Malaria Research Inst US– multiple groups</div>
+   <div>Leibniz-HKI Aspergillus researchers DE</div>
+   <div>Novartis – multiple groups</div>
    <div>Robert Koch Inst DE / Unit 16 – Aebischer, Blume, Klotz & Seeber groups</div>
    <div>Univ Montpellier FR – Claessens, Gomes & Hollin groups</div>
-   <div>Novartis – multiple groups</div>
-   <div>Weill Cornell Sch Medicine – Deitsch & Kirkman groups</div>
+   <div>Weill Cornell Sch Medicine US– Deitsch & Kirkman groups</div>
    <div>York Biomedical Research Inst UK – multiple groups</div>
   </div>
 </div>
