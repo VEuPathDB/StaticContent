@@ -175,6 +175,7 @@ h1, h2 {
     <div>Bradley group, Univ California Los Angeles US</div>
     <div>Briggs group, Newcastle Univ UK</div>
     <div>Bringaud group, Univ Bordeaux FR</div>
+    <div>Brochet grouo, Univ of Geneva CH</div>
     <div>Brown group, Univ Oklahoma Health Sciences Center US</div>
     <div>Brown group, Univ of Utah US</div>
     <div>Buchler group, North Carolina State Univ US</div>
@@ -230,6 +231,7 @@ h1, h2 {
     <div>Docampo group, Univ GA US</div>
     <div>Doering group, Washington Univ US</div>
     <div>Doggett group, Oregon Health & Science Univ US</div>
+    <div>Douglas group, Justus Liebig Univ Giessen DE</div>
     <div>Duchene group, Medical Univ of Vienna AT</div>
     <div>Dunlap group, Dartmouth College US</div>
     <div>Dvorin group, Boston Children's Hosp US</div>
@@ -264,6 +266,7 @@ h1, h2 {
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
     <div>Gilleard group, Univ Calgary CA</div>
     <div>Glass group, Univ of Vermont US</div>
+    <div>Glover group, Institut Pasteur FR</div>
     <div>Gluenz group, Univ Bern CH</div>
     <div>Goldberg group, Washington Univ US</div>
     <div>Goldring group, Univ of KwaZulu-Natal ZA</div>
@@ -277,6 +280,7 @@ h1, h2 {
     <div>Gras group, Ludwig Maximilian Univ of Munich DE</div>
     <div>Grossman Haham group, Ben-Gurion Univ of the Negev IL</div>
     <div>Gubbels group, Boston College US</div>
+    <div>Guérin group, Univ of Geneva CH</div>
     <div>Günzl group, Univ Connecticut Health US</div>
     <div>Gupta group, BITS Pilani IN</div>
     <div>Hagai Ginsburg / Malaria Parasite Metabolic Pathways, Hebrew Univ IL</div>
@@ -290,11 +294,13 @@ h1, h2 {
     <div>He group, National Univ Singapore SG</div>
     <div>Heaslip group, Univ Connecticut US</div>
     <div>Hedstrom group, Brandeis Univ US</div>
+    <div>Hehl group, Univ of Zurich CH</div>
     <div>Heise group, Federal Univ of Rio de Janeiro BR</div>
     <div>Herman group, Univ California Los Angeles US</div>
     <div>Heussler group, Univ Bern CH</div>
     <div>Hill & Jackson-Hayes groups, Rhodes College US</div>
     <div>Hill group, Swedish Univ Agricultural Sci SE</div>
+    <div>Hill group, Univ of California, Los Angeles US</div>
     <div>Ho group, Columbia Univ US</div>
     <div>Horn group, Univ Dundee UK</div>
     <div>Hovel-Miner group, Stony Brook Univ US</div>
@@ -343,6 +349,7 @@ h1, h2 {
     <div>Kurtis group, Brown Univ US</div>
     <div>Lakin-Thomas group, York Univ CA</div>
     <div>Lander group, Univ Cincinnati US</div>
+    <div>Landfear group, Oregon Health & Science Univ US</div>
     <div>Lane group, Idaho State Univ US</div>
     <div>Laranjeira-Silva group, Univ São Paulo BR</div>
     <div>Lavazec group, Inst Cochin FR</div>
@@ -465,6 +472,7 @@ h1, h2 {
     <div>Saarman group, Utah State Univ US</div>
     <div>Sachs group, Texas A&M Univ US</div>
     <div>Saeij group, Univ of California, Davis US</div>
+    <div>Sailen Barik, Independent researcher</div>
     <div>Salogiannis group, Univ of Vermont US</div>
     <div>Samuelson group, Boston Univ US</div>
     <div>Sam-Yellowe group, Cleveland State Univ US</div>
@@ -503,6 +511,7 @@ h1, h2 {
     <div>Takagi group, National Institute of Advanced Industrial Science and Technology JP</div>
     <div>Talman group, IRD FR</div>
     <div>Tang group, Chinese Acad Agricultural Sciences CN</div>
+    <div>Taniguchi group, Univ of the Ryukyus JP</div>
     <div>Tatchell group, Louisiana State Univ US</div>
     <div>Tiengwe group, Imperial College London UK</div>
     <div>Tilley group, Univ Melbourne AU</div>
@@ -544,11 +553,13 @@ h1, h2 {
     <div>Wong group, Univ Macau MO</div>
     <div>Wunderlich group, Univ São Paulo BR</div>
     <div>Xia group, Royal Veterinary College UK</div>
+    <div>Xia group, South China Agricultural Univ CN</div>
     <div>Xiang group, Uniformed Services Univ US</div>
     <div>Xu group, New Mexico State Univ US</div>
     <div>Xue group, Rutgers Univ US</div>
     <div>Yapa group, Univ Southern Queensland AU</div>
     <div>Yarden group, Hebrew Univ IL</div>
+    <div>Yatsuda group, Univ Sao Paulo BR</div>
     <div>Yee group, Trent Univ CA</div>
     <div>Yi-Wei Chang group, Univ Pennsylvania US</div>
     <div>Young group, Univ Edinburgh UK</div>
@@ -578,6 +589,7 @@ h1, h2 {
    <div>Institute of Tropical Medicine Antwerp BE- Department of Biomedical Sciences - Parasitology Units</div>
    <div>Johns Hopkins Malaria Research Inst US– multiple groups</div>
    <div>Leibniz-HKI DE- Brakhage & Blango groups</div>
+   <div>Malaria groups, Burnet Institute AU</div>
    <div>Novartis – multiple groups</div>
    <div>Robert Koch Inst DE / Unit 16 – Aebischer, Blume, Klotz & Seeber groups</div>
    <div>Univ Montpellier FR – Claessens, Gomes & Hollin groups</div>
