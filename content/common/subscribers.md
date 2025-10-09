@@ -207,6 +207,8 @@ h1, h2 {
     <div>Cricco group, National Univ of Rosario AR</div>
     <div>Crispim group, Fed Univ Alfenas BR</div>
     <div>Cruz group, Univ São Paulo BR</div>
+    <div>Cui group, Univ of South Florida US</div>
+    <div>Cull group, Univ of Minnesota US</div>
     <div>Curra group, Inst Superiore di Sanità IT</div>
     <div>D Hu group, Guangxi Univ CN</div>
     <div>Daily group, Albert Einstein College of Medicine US</div>
@@ -224,6 +226,7 @@ h1, h2 {
     <div>Debler group, Thomas Jefferson Univ US</div>
     <div>DeGennaro group, Florida Intl Univ US</div>
     <div>Denny group, Durham Univ UK</div>
+    <div>de Pablos group, Univ Granada ES</div>
     <div>Deshmukh group, National Institute of Animal Biotech IN</div>
     <div>Dessens group, LSHTM UK</div>
     <div>Dewar group, Lancaster Univ UK</div>
@@ -426,6 +429,7 @@ h1, h2 {
     <div>Oakley group, Univ Kansas US</div>
     <div>Odom John group, Children's Hosp Philadelphia/ Univ Pennsylvania US</div>
     <div>Olias group, Justus Liebig Univ DE</div>
+    <div>Oliveira group, Federal Univ of Rio de Janeiro BR</div>
     <div>Orbach group, Univ of Arizona US</div>
     <div>Ortega-Lopez group, CINVESTAV MX</div>
     <div>Osborne group, University College London UK</div>
@@ -441,6 +445,7 @@ h1, h2 {
     <div>Paton group, Univ Georgia US</div>
     <div>Pawlowic group, Univ Dundee UK</div>
     <div>Pena group, Colorado College US</div>
+    <div>Peraza Reyes group, National Autonomous Univ of Mexico MX</div>
     <div>Pereira group, Catholic Univ of Portugal PT</div>
     <div>Peterson group, Univ of Georgia US</div>
     <div>Phan group, Seattle Children’s Research Inst US</div>
@@ -494,6 +499,7 @@ h1, h2 {
     <div>Sibley group, Washington Univ US</div>
     <div>Siegel group, Ludwig Maximilians Univ DE</div>
     <div>Sigala group, Univ Utah US</div>
+    <div>Simoes group, Federal Inst Santa Catarina BR</div>
     <div>Simoes group, Inst Tropical Med BE</div>
     <div>Singer group, Georgetown Univ US</div>
     <div>Small-Saunders group, Columbia Univ US</div>
