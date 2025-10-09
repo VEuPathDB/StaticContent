@@ -265,6 +265,7 @@ h1, h2 {
     <div>Gabrieli group, Univ Milan IT</div>
     <div>Gadelha group, Univ Nottingham UK</div>
     <div>Garlapati group, Univ of Louisiana at Monroe US</div>
+    <div>Genta group, FIOCRUZ BR</div>
     <div>Ghedin group, Natl Inst Health US</div>
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
     <div>Gilleard group, Univ Calgary CA</div>
