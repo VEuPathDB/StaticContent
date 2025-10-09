@@ -113,6 +113,7 @@ h1, h2 {
 
   <div class="columns-balanced">
     <div>Abbas group, Mansoura Univ EG</div>
+    <div>Test group, Mansoura Univ EG</div>
     <div>Absalon group, Indiana Univ Sch Med US</div>
     <div>Adams group, Univ South Florida US</div>
     <div>Adelman group, Texas A&M Univ US</div>
