@@ -215,6 +215,7 @@ h1, h2 {
     <div>Damasio group / LEBIMO, State Univ Campinas BR</div>
     <div>Danae Schulz, Harvey Mudd College US</div>
     <div>Dangoudoubiyam group, Purdue Univ US</div>
+    <div>Dara group, Univ of Sciences, Techniques and Technologies of Bamako ML</div>
     <div>Da Rocha group, Federal Univ of Paraná BR</div>
     <div>Das lab, Birla Institute of Technology and Science, Pilani IN</div>
     <div>Davis group, Univ Iowa US</div>
@@ -258,6 +259,7 @@ h1, h2 {
     <div>Fischer group, Univ British Columbia CA</div>
     <div>Florentin group, Hebrew Univ IL</div>
     <div>Francia group, Inst Pasteur Montevideo UY</div>
+    <div>Franke-Fayard group, Leiden Univ Medical Center NL</div>
     <div>Frantom group, Univ Alabama US</div>
     <div>Free group, Univ Buffalo US</div>
     <div>Freitag group, Oregon State Univ US</div>
