@@ -100,7 +100,7 @@ h1, h2 {
 
   <ul>
     <li>This list includes only those who have given permission to be publicly acknowledged</li>
-    <li>This list is based on invoices received as of 25 June 2025 (regardless of payment status), and will be regularly updated</li>
+    <li>This list is updated on a weekly basis as new subscriptions come in</li>
     <li>Some individuals/labs may be covered under pooled institutional subscriptions (see below)</li>
   </ul>
   </div>
