@@ -597,7 +597,7 @@ h1, h2 {
    <div>Charles Univ CZ / Dept Parasitology  – Doležal, Hampl, Horák, Šuťák, Svobodová, Tachezy, Volf, Votýpka & Zoltner groups</div>
    <div>Clemson Univ US / Eukaryotic Pathogens Innovation Center (EPIC) – Dhingra, Dolan, Dou, Fierro, Ingram-Smith, J Morris, M Morris, Kozubowski,Jezewski, Rosowski, Seekatz, Smith, Temesvari & Walzer groups</div>
    <div>Czech Acad Sci CZ / Inst Parasitology, Biology Centre – Lukeš, Obornik, Paris, Perner & Zikova groups</div>
-   <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
+   <div>Infection and Global Health Division (WEHI)</div>
    <div>Inst Superiore Sanité IT / Foodborne & Neglected Parasitic Diseases (PAN) – Cacciò, Currà, Lalle; Spano; Tosini & Vectorborne Diseases (MTV) – Alano, Lepiscopia, Olivieri, Siciliano, & Silvestrini groups</div>
    <div>Institute of Tropical Medicine Antwerp BE- Department of Biomedical Sciences - Parasitology Units</div>
    <div>Johns Hopkins Malaria Research Inst US– multiple groups</div>
@@ -605,6 +605,7 @@ h1, h2 {
    <div>Malaria groups, Burnet Institute AU</div>
    <div>Novartis – multiple groups</div>
    <div>Robert Koch Inst DE / Unit 16 – Aebischer, Blume, Klotz & Seeber groups</div>
+   <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
    <div>Univ Montpellier FR – Claessens, Gomes & Hollin groups</div>
    <div>Weill Cornell Sch Medicine US– Deitsch & Kirkman groups</div>
    <div>York Biomedical Research Inst UK – multiple groups</div>
