@@ -256,6 +256,7 @@ h1, h2 {
     <div>Fichorova group, Brigham & Women's Hospital, Harvard Univ US</div>
     <div>Fidock group, Columbia Univ US</div>
     <div>Field group, Univ Dundee UK</div>
+    <div>Figueiredo group, Gulbenkian Institute for Molecular Medicine PT</div>
     <div>Filler group, Harbor-UCLA Medical Center US</div>
     <div>Fischer group, Univ British Columbia CA</div>
     <div>Florentin group, Hebrew Univ IL</div>
@@ -416,6 +417,7 @@ h1, h2 {
     <div>Moon group, London Sch Hygiene & Tropical Med UK</div>
     <div>Moraes Barros group, Federal Univ of São Paulo BR</div>
     <div>Mordue group, New York Medical College US</div>
+    <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
     <div>Mugnier group, Johns Hopkins US</div>
     <div>Mukherjee group, Texas State Univ US</div>
     <div>Muralidharan group, Univ Georgia US</div>
