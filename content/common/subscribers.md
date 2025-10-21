@@ -109,7 +109,8 @@ h1, h2 {
 
   <div class="container">
     
-  <h2>Individual / Laboratory Subscriptions</h2>
+  <h2>Individual / Laboratory Subscriptions<sup>*</sup></h2>
+  <p style="text-align: center;"><i>We list only those who consented to be publicly listed.</i></p>
 
   <div class="columns-balanced">
     <div>Abbas group, Mansoura Univ EG</div>
@@ -588,7 +589,8 @@ h1, h2 {
     <div>Zwiebel group, Vanderbilt Univ US</div>
   </div>
 
-  <h2>Institutional Subscriptions</h2>
+  <h2>Institutional Subscriptions<sup>*</sup></h2>
+  <p style="text-align: center;"><i>We list only those who consented to be publicly listed.</i></p>
 
   <div class="institutions">
    <div>Autonomous Univ México MX / Genome Sciences – Álvarez Sánchez, Azuara Liceaga & Camacho Nuez groups</div>
