@@ -187,6 +187,7 @@ h1, h2 {
     <div>Bushell group, Umeå Univ SE</div>
     <div>Bustos group, Univ Veterinary Medicine AT</div>
     <div>Bzik group, Dartmouth College US</div>
+    <div>Campbell group, AdventHealth Univ US</div>
     <div>Canessa group, Andrés Bello Univ CL</div>
     <div>Carrington group, Univ Cambridge UK</div>
     <div>Carruthers group, Univ Michigan US</div>
@@ -292,6 +293,7 @@ h1, h2 {
     <div>Guérin group, Univ of Geneva CH</div>
     <div>Günzl group, Univ Connecticut Health US</div>
     <div>Gupta group, BITS Pilani IN</div>
+    <div>Guy group, Public Health Agency of Canada CA</div>
     <div>Hagai Ginsburg / Malaria Parasite Metabolic Pathways, Hebrew Univ IL</div>
     <div>Hakimi group, Univ Grenoble Alpes FR</div>
     <div>Halfon group, Univ Buffalo US</div>
@@ -530,6 +532,7 @@ h1, h2 {
     <div>Tiengwe group, Imperial College London UK</div>
     <div>Tilley group, Univ Melbourne AU</div>
     <div>Todd group, Kansas State Univ US</div>
+    <div>Tran group, Indiana Univ US</div>
     <div>Treeck group, Gulbenkian Inst Molecular Med PT</div>
     <div>Tschudi group, Yale Univ US</div>
     <div>Univ California Irvine US</div>
@@ -583,6 +586,7 @@ h1, h2 {
     <div>Zhang group, Texas Tech Univ US</div>
     <div>Zhang group, Washington Univ in St. Louis US</div>
     <div>Zheng group, Nanchang Univ CN</div>
+    <div>Zhenkui Li group, Univ of South China CN</div>
     <div>Zhu group, Jilin Univ CN</div>
     <div>Zimmer group, Univ Minnesota US</div>
     <div>Zininga group, Stellenbosch Univ ZA</div>
