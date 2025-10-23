@@ -476,6 +476,7 @@ h1, h2 {
     <div>Rayner group, Univ Cambridge UK</div>
     <div>Rhodes group, Univ Birmingham UK</div>
     <div>Richard group, Univ Laval CA</div>
+    <div>Riestra group, San Diego State Univ US</div>
     <div>Rijo-Ferreira group, UC Berkeley US</div>
     <div>Robledo group, Bigelow Laboratory for Ocean Sciences US</div>
     <div>Roditi group, Univ Bern CH</div>
@@ -531,6 +532,7 @@ h1, h2 {
     <div>Tatchell group, Louisiana State Univ US</div>
     <div>Tiengwe group, Imperial College London UK</div>
     <div>Tilley group, Univ Melbourne AU</div>
+    <div>Tiwari group, Jawaharlal Nehru Univ IN</div>
     <div>Todd group, Kansas State Univ US</div>
     <div>Tran group, Indiana Univ US</div>
     <div>Treeck group, Gulbenkian Inst Molecular Med PT</div>
