@@ -315,6 +315,7 @@ h1, h2 {
     <div>Ho group, Columbia Univ US</div>
     <div>Horn group, Univ Dundee UK</div>
     <div>Hovel-Miner group, Stony Brook Univ US</div>
+    <div>Howe group, Univ of Kentucky US</div>
     <div>Howick group, Univ Glasgow UK</div>
     <div>Huberman group, Cornell Univ US</div>
     <div>Huet group, Univ Georgia US</div>
