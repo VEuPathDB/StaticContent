@@ -481,6 +481,7 @@ h1, h2 {
     <div>Rijo-Ferreira group, UC Berkeley US</div>
     <div>Robledo group, Bigelow Laboratory for Ocean Sciences US</div>
     <div>Roditi group, Univ Bern CH</div>
+    <div>Rojas group, Lancaster Univ GB</div>
     <div>Rosales-Encina group, CINESTAV MX</div>
     <div>Rose group, Univ California San Diego US</div>
     <div>Rouhier group, Kenyon College US</div>
