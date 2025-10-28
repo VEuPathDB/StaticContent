@@ -526,6 +526,7 @@ h1, h2 {
     <div>Sunter group, Oxford Brookes Univ UK</div>
     <div>Sutherland group, London Sch Hygiene & Tropical Med (LSHTM) UK</div>
     <div>Suvorova group, Univ South Florida US</div>
+    <div>Suzuki group, Univ of Kentucky US</div>
     <div>Svärd group, Uppsala Univ SE</div>
     <div>Takagi group, National Institute of Advanced Industrial Science and Technology JP</div>
     <div>Talman group, IRD FR</div>
@@ -617,7 +618,8 @@ h1, h2 {
    <div>Robert Koch Inst DE / Unit 16 – Aebischer, Blume, Klotz & Seeber groups</div>
    <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
    <div>Univ Montpellier FR – Claessens, Gomes & Hollin groups</div>
-   <div>Weill Cornell Sch Medicine US– Deitsch & Kirkman groups</div>
+   <div>Viruses and RNA Interference Unit, Institut Pasteur FR – Koh & Saleh groups</div>
+   <div>Weill Cornell Sch Medicine US – Deitsch & Kirkman groups</div>
    <div>York Biomedical Research Inst UK – multiple groups</div>
   </div>
 </div>
