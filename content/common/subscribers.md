@@ -611,6 +611,7 @@ h1, h2 {
    <div>Czech Acad Sci CZ / Inst Parasitology, Biology Centre – Lukeš, Obornik, Paris, Perner & Zikova groups</div>
    <div>Infection and Global Health Division (WEHI)</div>
    <div>Inst Superiore Sanité IT / Foodborne & Neglected Parasitic Diseases (PAN) – Cacciò, Currà, Lalle; Spano; Tosini & Vectorborne Diseases (MTV) – Alano, Lepiscopia, Olivieri, Siciliano, & Silvestrini groups</div>
+   <div>Institute of Hygiene and Tropical Medicine, NOVA Univ Lisbon PT- multiple groups</div>
    <div>Institute of Tropical Medicine Antwerp BE- Department of Biomedical Sciences - Parasitology Units</div>
    <div>Johns Hopkins Malaria Research Inst US– multiple groups</div>
    <div>Leibniz-HKI DE- Brakhage & Blango groups</div>
