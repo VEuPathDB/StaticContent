@@ -92,7 +92,7 @@ h1, h2 {
 
 <body>
   <div class="container">
-  <h1>Thank You to Our 2025 Subscribers!</h1>
+  <h1>Thank You to Our 2025 Supporters!</h1>
 
   <h3>VEuPathDB gratefully acknowledges the individuals and labs who have subscribed in 2025, helping ensure that essential informatics resources remain accessible to the entire research community. <i>How will we continue to attract the best and the brightest to work in these areas unless essential research data is readily accessible?</i></h3>
 
