@@ -262,6 +262,7 @@ h1, h2 {
     <div>Field group, Univ Dundee UK</div>
     <div>Figueiredo group, Gulbenkian Institute for Molecular Medicine PT</div>
     <div>Filler group, Harbor-UCLA Medical Center US</div>
+    <div>Fiorini group, Instituto Biológico APTA BR</div>
     <div>Fischer group, Univ British Columbia CA</div>
     <div>Florentin group, Hebrew Univ IL</div>
     <div>Francia group, Inst Pasteur Montevideo UY</div>
@@ -570,6 +571,7 @@ h1, h2 {
     <div>Vogel group, Univ Georgia US</div>
     <div>Voss group, Swiss Tropical and Public Health Inst CH</div>
     <div>Waller group, Univ Cambridge UK</div>
+    <div>Wang group, Academia Sinica TW</div>
     <div>Wang group, Chinese Univ Hong Kong HK</div>
     <div>Wang group, Univ Michigan US</div>
     <div>Wang group, Univ Southern California US</div>
