@@ -276,6 +276,7 @@ h1, h2 {
     <div>Genta group, FIOCRUZ BR</div>
     <div>George Cross, US</div>
     <div>Ghedin group, Natl Inst Health US</div>
+    <div>Gilberger group, Bernhard Nocht Institute for Tropical Medicine DE</div>
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
     <div>Gilleard group, Univ Calgary CA</div>
     <div>Glass group, Univ of Vermont US</div>
