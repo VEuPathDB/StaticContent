@@ -222,6 +222,7 @@ h1, h2 {
     <div>Dara group, Univ of Sciences, Techniques and Technologies of Bamako ML</div>
     <div>Da Rocha group, Federal Univ of Paraná BR</div>
     <div>Das lab, Birla Institute of Technology and Science, Pilani IN</div>
+    <div>David lab, CNRS FR</div>
     <div>Davis group, Univ Iowa US</div>
     <div>de Koning-Ward group, Deakin Univ AU</div>
     <div>de Miguel group, Chascomús Technol Inst (INTECH) AR</div>
