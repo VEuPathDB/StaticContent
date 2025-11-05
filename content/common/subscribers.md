@@ -481,6 +481,7 @@ h1, h2 {
     <div>Ray group, Univ Nottingham UK</div>
     <div>Ray group, Bowie State Univ US</div>
     <div>Rayner group, Univ Cambridge UK</div>
+    <div>Rentsch group, Univ Bern CH</div>
     <div>Rhodes group, Univ Birmingham UK</div>
     <div>Richard group, Univ Laval CA</div>
     <div>Riestra group, San Diego State Univ US</div>
