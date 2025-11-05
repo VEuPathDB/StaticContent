@@ -269,6 +269,7 @@ h1, h2 {
     <div>Frantom group, Univ Alabama US</div>
     <div>Free group, Univ Buffalo US</div>
     <div>Freitag group, Oregon State Univ US</div>
+    <div>Frischknecht group, Heidelberg Univ DE</div>
     <div>Fritz group, Univ Maryland, College Park US</div>
     <div>Gabrieli group, Univ Milan IT</div>
     <div>Gadelha group, Univ Nottingham UK</div>
@@ -321,6 +322,7 @@ h1, h2 {
     <div>Hovel-Miner group, Stony Brook Univ US</div>
     <div>Howe group, Univ of Kentucky US</div>
     <div>Howick group, Univ Glasgow UK</div>
+    <div>Huang group, The Univ of Hong Kong HK</div>
     <div>Huberman group, Cornell Univ US</div>
     <div>Huet group, Univ Georgia US</div>
     <div>Hull group, Univ Wisconsin US</div>
@@ -395,6 +397,7 @@ h1, h2 {
     <div>MacLeod group, Univ Glasgow UK</div>
     <div>Magwene group, Duke Univ US</div>
     <div>Majerowicz group, Univ Fed Rio de Janeiro BR</div>
+    <div>Manna group, Ramakrishna Mission Vivekananda Educational and Research Institute IN</div>
     <div>Maree group, Stellenbosch Univ ZA</div>
     <div>Maringer group, Pirbright Inst UK</div>
     <div>Marten group, Univ Maryland US</div>
@@ -428,6 +431,7 @@ h1, h2 {
     <div>Moraes Barros group, Federal Univ of São Paulo BR</div>
     <div>Mordue group, New York Medical College US</div>
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
+    <div>Moye-Rowley group, Univ of Iowa US</div>
     <div>Mugnier group, Johns Hopkins US</div>
     <div>Mukherjee group, Texas State Univ US</div>
     <div>Muralidharan group, Univ Georgia US</div>
@@ -443,6 +447,7 @@ h1, h2 {
     <div>Nowrousian group, Ruhr Univ Bochum DE</div>
     <div>Nozaki group, Univ Tokyo JP</div>
     <div>Oakley group, Univ Kansas US</div>
+    <div>O'Connor group, Univ of Minnesota US</div>
     <div>Odom John group, Children's Hosp Philadelphia/ Univ Pennsylvania US</div>
     <div>Olias group, Justus Liebig Univ DE</div>
     <div>Oliveira group, Federal Univ of Rio de Janeiro BR</div>
@@ -526,6 +531,7 @@ h1, h2 {
     <div>Small-Saunders group, Columbia Univ US</div>
     <div>Snell group, Univ Maryland, College Park US</div>
     <div>Soldati-Favre group, Univ Genève CH</div>
+    <div>Spielmann group, Bernhard Nocht Institute for Tropical Medicine DE</div>
     <div>Springer group, Univ of Massachusetts Amherst US</div>
     <div>Stajich group, Univ California Riverside US</div>
     <div>Striepen group, Univ Pennsylvania US</div>
@@ -555,10 +561,12 @@ h1, h2 {
     <div>van Dooren group, Australian National Univ AU</div>
     <div>van Hellemond group, Erasmus Univ Medical Center NL</div>
     <div>van Rij group, Radboud Univ NL</div>
+    <div>Varga group, Czech Academy of Sciences (Institute of Molecular Genetics) CZ</div>
     <div>Vembar group, Inst Bioinformatics & Applied Biotechnology IN</div>
     <div>Verjovski-Almeida group, Univ São Paulo BR</div>
     <div>Vidilaseris group, Univ of Helsinki FI</div>
     <div>Vinayak Alam group, Univ of Illinois at Urbana-Champaign US</div>
+    <div>Vogan group, Uppsala Univ SE </div>
     <div>Vogel group, Univ Georgia US</div>
     <div>Voss group, Swiss Tropical and Public Health Inst CH</div>
     <div>Waller group, Univ Cambridge UK</div>
@@ -617,6 +625,7 @@ h1, h2 {
    <div>Clemson Univ US / Eukaryotic Pathogens Innovation Center (EPIC) – Dhingra, Dolan, Dou, Fierro, Ingram-Smith, J Morris, M Morris, Kozubowski,Jezewski, Rosowski, Seekatz, Smith, Temesvari & Walzer groups</div>
    <div>Czech Acad Sci CZ / Inst Parasitology, Biology Centre – Lukeš, Obornik, Paris, Perner & Zikova groups</div>
    <div>Infection and Global Health Division (WEHI)</div>
+   <div>Institut Pasteur FR – Scherf, Baumgarten, Bryant & Bourgouin groups</div>
    <div>Inst Superiore Sanité IT / Foodborne & Neglected Parasitic Diseases (PAN) – Cacciò, Currà, Lalle; Spano; Tosini & Vectorborne Diseases (MTV) – Alano, Lepiscopia, Olivieri, Siciliano, & Silvestrini groups</div>
    <div>Institute of Hygiene and Tropical Medicine, NOVA Univ Lisbon PT- multiple groups</div>
    <div>Institute of Tropical Medicine Antwerp BE- Department of Biomedical Sciences - Parasitology Units</div>
