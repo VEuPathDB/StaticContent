@@ -475,6 +475,7 @@ h1, h2 {
     <div>Philip group, Univ Edinburgh UK</div>
     <div>Pietrantonio group, Texas A&M Univ US</div>
     <div>Pitts group, Baylor Univ US</div>
+    <div>Pöggeler group, Univ of Göttingen DE</div>
     <div>Pompon group, IRD FR</div>
     <div>Ponts group, Natl Res Inst Agriculture, Food & Environment (INRAE UR1264-MycSA) FR</div>
     <div>Povelones group, Villanova Univ US</div>
@@ -517,6 +518,7 @@ h1, h2 {
     <div>Scheel group, Indiana Univ US</div>
     <div>Schenkman group, Federal Univ São Paulo BR</div>
     <div>Schnaufer group, Univ Edinburgh UK</div>
+    <div>Schnettler group, Bernhard Nocht Institute for Tropical Medicine DE</div>
     <div>Schruefer group, Ludwig Maximilian Univ of Munich, LMU DE</div>
     <div>Segev-Zarko group, Univ of Texas Medical Branch US</div>
     <div>Sengupta group, Ahmedabad Univ IN</div>
@@ -532,6 +534,7 @@ h1, h2 {
     <div>Small-Saunders group, Columbia Univ US</div>
     <div>Snell group, Univ Maryland, College Park US</div>
     <div>Soldati-Favre group, Univ Genève CH</div>
+    <div>Spaccapelo group, Univ of Perugia IT</div>
     <div>Spielmann group, Bernhard Nocht Institute for Tropical Medicine DE</div>
     <div>Springer group, Univ of Massachusetts Amherst US</div>
     <div>Stajich group, Univ California Riverside US</div>
