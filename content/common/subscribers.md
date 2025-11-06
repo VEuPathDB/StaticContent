@@ -249,6 +249,7 @@ h1, h2 {
     <div>Edreira group, Univ Buenos Aires AR</div>
     <div>Egan group, Stanford Univ US</div>
     <div>Ellis group, Univ of Technology Sydney AU</div>
+    <div>Elsenpeter group, Rockhurst Univ US</div>
     <div>Engstler lab, Julius-Maximilians-Universität Würzburg DE</div>
     <div>Epstein group, Univ California, Davis US</div>
     <div>Ersfeld group, Univ Bayreuth DE</div>
@@ -476,6 +477,7 @@ h1, h2 {
     <div>Pietrantonio group, Texas A&M Univ US</div>
     <div>Pitts group, Baylor Univ US</div>
     <div>Pöggeler group, Univ of Göttingen DE</div>
+    <div>Polycarpo group, Federal Univ of Rio de Janeiro BR</div>
     <div>Pompon group, IRD FR</div>
     <div>Ponts group, Natl Res Inst Agriculture, Food & Environment (INRAE UR1264-MycSA) FR</div>
     <div>Povelones group, Villanova Univ US</div>
