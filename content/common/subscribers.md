@@ -272,7 +272,6 @@ h1, h2 {
     <div>Frantom group, Univ Alabama US</div>
     <div>Free group, Univ Buffalo US</div>
     <div>Freitag group, Oregon State Univ US</div>
-    <div>Frischknecht group, Heidelberg Univ DE</div>
     <div>Fritz group, Univ Maryland, College Park US</div>
     <div>Gabrieli group, Univ Milan IT</div>
     <div>Gadelha group, Univ Nottingham UK</div>
