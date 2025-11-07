@@ -109,7 +109,7 @@ h1, h2 {
 
   <div class="container">
     
-  <h2>Individual / Laboratory Subscriptions<sup>*</sup></h2>
+  <h2>Individual / Laboratory Subscriptions & Contributions<sup>*</sup></h2>
   <p style="text-align: center;"><i><sup>*</sup>We list only those who consented to be publicly listed.</i></p>
 
   <div class="columns-balanced">
@@ -375,7 +375,7 @@ h1, h2 {
     <div>Kurtis group, Brown Univ US</div>
     <div>Lakin-Thomas group, York Univ CA</div>
     <div>Lander group, Univ Cincinnati US</div>
-    <div>Lambrechts lab, Institut Pasteur FR</div>
+    <div>Lambrechts group, Institut Pasteur FR</div>
     <div>Landfear group, Oregon Health & Science Univ US</div>
     <div>Lane group, Idaho State Univ US</div>
     <div>Laranjeira-Silva group, Univ São Paulo BR</div>
