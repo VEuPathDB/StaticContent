@@ -211,6 +211,7 @@ h1, h2 {
     <div>Cribb group, National Univ of Rosario AR</div>
     <div>Cricco group, National Univ of Rosario AR</div>
     <div>Crispim group, Fed Univ Alfenas BR</div>
+    <div>Crouch group, Univ Glasgow UK</div>
     <div>Cruz group, Univ São Paulo BR</div>
     <div>Cui group, Univ of South Florida US</div>
     <div>Cull group, Univ of Minnesota US</div>
@@ -237,6 +238,7 @@ h1, h2 {
     <div>Deshmukh group, National Institute of Animal Biotech IN</div>
     <div>Dessens group, LSHTM UK</div>
     <div>Dewar group, Lancaster Univ UK</div>
+    <div>Diane McMahon-Pratt, US</div>
     <div>Djordjevic group, Univ Sydney AU</div>
     <div>Docampo group, Univ GA US</div>
     <div>Doering group, Washington Univ US</div>
@@ -314,6 +316,7 @@ h1, h2 {
     <div>Hedstrom group, Brandeis Univ US</div>
     <div>Hehl group, Univ of Zurich CH</div>
     <div>Heise group, Federal Univ of Rio de Janeiro BR</div>
+    <div>Heitman group, Duke Univ US</div>
     <div>Herman group, Univ California Los Angeles US</div>
     <div>Heussler group, Univ Bern CH</div>
     <div>Hill & Jackson-Hayes groups, Rhodes College US</div>
@@ -338,6 +341,7 @@ h1, h2 {
     <div>Jeffers group, Univ New Hampshire US</div>
     <div>Jia group, Beijing Inst Tropical Med CN</div>
     <div>Jimenez group, California State Univ, Fullerton US</div>
+    <div>Jones group, Univ Liverpool UK</div>
     <div>Joyner group, Univ Georgia US</div>
     <div>Judelson group, Univ California Riverside US</div>
     <div>Jung group, Chung-Ang Univ KR</div>
@@ -354,6 +358,7 @@ h1, h2 {
     <div>Khater group, Ain Shams Univ EG</div>
     <div>Klocko group, Univ Colorado Springs (UCCS) US</div>
     <div>Kirkland group, Univ of California, San Diego US</div>
+    <div>Kissinger group, Univ Georgia US</div>
     <div>Klingbeil group, Univ Massachusetts Amherst US</div>
     <div>Knoll group, Univ Wisconsin Madison US</div>
     <div>Knuepfer group, Royal Veterinary College UK</div>
@@ -370,6 +375,7 @@ h1, h2 {
     <div>Kurtis group, Brown Univ US</div>
     <div>Lakin-Thomas group, York Univ CA</div>
     <div>Lander group, Univ Cincinnati US</div>
+    <div>Lambrechts lab, Institut Pasteur FR</div>
     <div>Landfear group, Oregon Health & Science Univ US</div>
     <div>Lane group, Idaho State Univ US</div>
     <div>Laranjeira-Silva group, Univ São Paulo BR</div>
@@ -424,6 +430,7 @@ h1, h2 {
     <div>Mensa-Wilmot group, Kennesaw State Univ US</div>
     <div>Merrick group, Univ Cambridge UK</div>
     <div>Meyers group, Saint Louis Univ US</div>
+    <div>Miklos Müller & Jan Keithly, US</div>
     <div>Militello group, State Univ of New York at Geneseo US</div>
     <div>Mineo group, Federal Univ Uberlândia BR</div>
     <div>Molestina group, American Type Culture Collection US</div>
@@ -498,6 +505,7 @@ h1, h2 {
     <div>Robledo group, Bigelow Laboratory for Ocean Sciences US</div>
     <div>Roditi group, Univ Bern CH</div>
     <div>Rojas group, Lancaster Univ GB</div>
+    <div>Roos group, Univ Pennsylvania US</div>
     <div>Rosales-Encina group, CINESTAV MX</div>
     <div>Rose group, Univ California San Diego US</div>
     <div>Rouhier group, Kenyon College US</div>
