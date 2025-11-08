@@ -541,6 +541,7 @@ h1, h2 {
     <div>Simoes group, Federal Inst Santa Catarina BR</div>
     <div>Simoes group, Inst Tropical Med BE</div>
     <div>Singer group, Georgetown Univ US</div>
+    <div>Sinha group, Jhargram Raj College IN</div>
     <div>Small-Saunders group, Columbia Univ US</div>
     <div>Snell group, Univ Maryland, College Park US</div>
     <div>Soldati-Favre group, Univ Genève CH</div>
@@ -565,6 +566,7 @@ h1, h2 {
     <div>Tilley group, Univ Melbourne AU</div>
     <div>Tiwari group, Jawaharlal Nehru Univ IN</div>
     <div>Todd group, Kansas State Univ US</div>
+    <div>Tomas group, IBMC PT</div>
     <div>Tran group, Indiana Univ US</div>
     <div>Treeck group, Gulbenkian Inst Molecular Med PT</div>
     <div>Tschudi group, Yale Univ US</div>
