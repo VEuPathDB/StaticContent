@@ -281,6 +281,7 @@ h1, h2 {
     <div>Genta group, FIOCRUZ BR</div>
     <div>George Cross, US</div>
     <div>Ghedin group, Natl Inst Health US</div>
+    <div>Ghosh group, Maulana Azad College IN</div>
     <div>Gilberger group, Bernhard Nocht Institute for Tropical Medicine DE</div>
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
     <div>Gilleard group, Univ Calgary CA</div>
@@ -293,7 +294,6 @@ h1, h2 {
     <div>Gomez-Marin group /GEPAMOL, Univ Quindio CO</div>
     <div>González-Pacanowska group, Natl Research Council (CSIC) ES</div>
     <div>Gopaul group, Inst Pasteur FR</div>
-    <div>Ghosh group, Maulana Azad College IN</div>
     <div>Goto group, The Univ of Tokyo JP</div>
     <div>Gowri group, Auxilium College IN</div>
     <div>Graffenried group, Brown Univ US</div>
