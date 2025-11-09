@@ -293,6 +293,7 @@ h1, h2 {
     <div>Gomez-Marin group /GEPAMOL, Univ Quindio CO</div>
     <div>González-Pacanowska group, Natl Research Council (CSIC) ES</div>
     <div>Gopaul group, Inst Pasteur FR</div>
+    <div>Ghosh group, Maulana Azad College IN</div>
     <div>Goto group, The Univ of Tokyo JP</div>
     <div>Gowri group, Auxilium College IN</div>
     <div>Graffenried group, Brown Univ US</div>
