@@ -208,6 +208,7 @@ h1, h2 {
     <div>Cogan group, Univ Southern California US</div>
     <div>Cordy group, Wake Forest Univ US</div>
     <div>Corvi group, Chascomús Technol Inst (INTECH) AR</div>
+    <div>Creek group, Monash Univ AU</div>
     <div>Cribb group, National Univ of Rosario AR</div>
     <div>Cricco group, National Univ of Rosario AR</div>
     <div>Crispim group, Fed Univ Alfenas BR</div>
@@ -223,7 +224,7 @@ h1, h2 {
     <div>Dangoudoubiyam group, Purdue Univ US</div>
     <div>Dara group, Univ of Sciences, Techniques and Technologies of Bamako ML</div>
     <div>Da Rocha group, Federal Univ of Paraná BR</div>
-    <div>Das lab, Birla Institute of Technology and Science, Pilani IN</div>
+    <div>Das group, Birla Institute of Technology and Science, Pilani IN</div>
     <div>David group, CNRS FR</div>
     <div>Davis group, Univ Iowa US</div>
     <div>de Koning-Ward group, Deakin Univ AU</div>
@@ -235,6 +236,7 @@ h1, h2 {
     <div>DeGennaro group, Florida Intl Univ US</div>
     <div>Denny group, Durham Univ UK</div>
     <div>de Pablos group, Univ Granada ES</div>
+    <div>Derbyshire group, Duke Univ US</div>
     <div>Deshmukh group, National Institute of Animal Biotech IN</div>
     <div>Dessens group, LSHTM UK</div>
     <div>Dewar group, Lancaster Univ UK</div>
@@ -253,7 +255,7 @@ h1, h2 {
     <div>Egan group, Stanford Univ US</div>
     <div>Ellis group, Univ of Technology Sydney AU</div>
     <div>Elsenpeter group, Rockhurst Univ US</div>
-    <div>Engstler lab, Julius-Maximilians-Universität Würzburg DE</div>
+    <div>Engstler group, Julius-Maximilians-Universität Würzburg DE</div>
     <div>Epstein group, Univ California, Davis US</div>
     <div>Ersfeld group, Univ Bayreuth DE</div>
     <div>Estevez group, Natl Research Council (CSIC) ES</div>
