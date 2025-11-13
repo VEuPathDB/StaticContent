@@ -129,6 +129,10 @@ h1, h2 {
     <div>Alfonzo group, Brown Univ US</div>
     <div>Alsford group, London Sch Hygiene Tropical Med (LSHTM) UK</div>
     <div>Alspaugh group, Duke Univ US</div>
+<<<<<<< HEAD
+=======
+    <div>Ambrosio group, Federal Univ of Bahia BR</div>
+>>>>>>> df671f8a (Update subscribers.md)
     <div>Amino group, Inst Pasteur FR</div>
     <div>Anandakrishnan group, Edward Via Coll Osteopathic Medicine US</div>
     <div>Ana Ramón, Univ Republica UY</div>
