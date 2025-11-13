@@ -149,6 +149,7 @@ h1, h2 {
     <div>Bargieri group, Univ Sao Paulo BR</div>
     <div>Barrett group, Univ Glasgow UK</div>
     <div>Bartholomeu group, Federal Univ of Minas Gerais BR</div>
+    <div>Bastin group, Institut Pasteur FR</div>
     <div>Baum group, Univ New South Wales AU</div>
     <div>Beck group, Iowa State Univ US</div>
     <div>Bei group, Yale Univ US</div>
@@ -342,6 +343,7 @@ h1, h2 {
     <div>Jackson group, Univ Liverpool UK</div>
     <div>James group, Gettysburg College US</div>
     <div>James group, UC Irvine US</div>
+    <div>Janbon group, Institut Pasteur FR</div>
     <div>Jeffers group, Univ New Hampshire US</div>
     <div>Jia group, Beijing Inst Tropical Med CN</div>
     <div>Jimenez group, California State Univ, Fullerton US</div>
