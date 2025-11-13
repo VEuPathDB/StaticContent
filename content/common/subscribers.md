@@ -392,7 +392,6 @@ h1, h2 {
     <div>Leffler group, Univ of Utah US</div>
     <div>Leger-Abraham group, Harvard Univ US</div>
     <div>León Avila group, National Sch Biological Sciences MX</div>
-    <div>Levin group, Univ of Pittsburgh US</div>
     <div>Lewis group, Univ Georgia US</div>
     <div>Li group, Cleveland State Univ US</div>
     <div>Li group, Univ Texas Houston US</div>
