@@ -128,8 +128,6 @@ h1, h2 {
     <div>Alphey group, Univ York UK</div>
     <div>Alfonzo group, Brown Univ US</div>
     <div>Alsford group, London Sch Hygiene Tropical Med (LSHTM) UK</div>
-    <div>Alspaugh group, Duke Univ US</div>
-    <div>Ambrosio group, Federal Univ of Bahia BR</div>
     <div>Amino group, Inst Pasteur FR</div>
     <div>Anandakrishnan group, Edward Via Coll Osteopathic Medicine US</div>
     <div>Ana Ramón, Univ Republica UY</div>
