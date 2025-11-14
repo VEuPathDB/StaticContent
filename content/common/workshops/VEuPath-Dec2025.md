@@ -215,7 +215,7 @@ div.instructor-table {
     </div>
   <br>
    
-  <div class="anchor"><a name="Schedule Coming Soon!"></a></div>
+  <h2>Schedule Coming Soon!</h2>
 
   <h2>Questions</h2>
   Please direct questions and feedback to <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>
@@ -225,7 +225,8 @@ div.instructor-table {
   We invite you to read our latest publication on VEuPathDB, <a href="https://academic.oup.com/nar/article/52/D1/D808/7416377" target="_blank">Alvarez-Jarreta et al 2024</a> and to explore our video resources on the <a href="https://www.youtube.com/user/EuPathDB" target="_blank">YouTube Channel</a> and our library of <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">recorded webinars and workshops</a>. Our aim is to foster an ongoing, productive dialogue with you to find more efficient ways to support your research goals. Whether or not you attend the workshop, please feel free to reach out with questions, feature suggestions, or new data at <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>.  
   <br><br>
 
-  <!--<details open>
+  <!--<div class="anchor"><a name="Schedule"></a></div>
+  <details open>
     <summary><b>Schedule</b> </summary>
     <p> Zoom channel will open 5 min prior to the workshop start and will remain open for 30 min after the workshop ends each day for any additional questions from the participants.</p> 
     <br>
