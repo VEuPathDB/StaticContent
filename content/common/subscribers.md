@@ -364,7 +364,6 @@ h1, h2 {
     <div>Khater group, Ain Shams Univ EG</div>
     <div>Klocko group, Univ Colorado Springs (UCCS) US</div>
     <div>Kirkland group, Univ of California, San Diego US</div>
-    <div>Kissinger group, Univ Georgia US</div>
     <div>Klingbeil group, Univ Massachusetts Amherst US</div>
     <div>Knoll group, Univ Wisconsin Madison US</div>
     <div>Knuepfer group, Royal Veterinary College UK</div>
