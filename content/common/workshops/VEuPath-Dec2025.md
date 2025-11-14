@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: VEuPathDB Workshops
-permalink: /workshopDec2024
+permalink: /workshopDec2025
 tags: [workshop-exercise]
 ---
 <style>
