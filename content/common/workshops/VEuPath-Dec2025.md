@@ -166,54 +166,54 @@ div.instructor-table {
   <br><br>
 
   <h2>Instructors</h2>
-  
-  <div class="instructor-table">
-    <table>
-      <thead>
-        <tr>
-          <th>Instructor</th>
-          <th>Institution</th>
-        </tr>
-      </thead>
-      <tbody>
+
+<div class="instructor-table">
+  <table>
+    <thead>
       <tr>
-          <td>Evelina Basenko, PhD</td>
-          <td>University of Liverpool, UK</td>
-        </tr>
-       <tr>
-          <td>Ulrike Boehme, PhD</td>
-          <td>University of Liverpool, UK</td>
-        </tr>
-        <tr>
-        <tr>
-          <td>Stuart Brown, PhD</td>
-          <td>University of Pennsylvania, USA</td>
-        </tr>
-        <tr>
-        <tr>
-          <td>Kathryn Crouch, PhD</td>
-          <td>University of Glasgow, UK</td>
-        </tr>
-        <tr>
-          <td>Omar S. Harb, PhD</td>
-          <td>University of Pennsylvania, USA</td>
-        </tr>
-        <tr>
-          <td>Nupur Kittur, PhD</td>
-          <td>University of Georgia, USA</td>
-        </tr>
-        <tr>
-          <td>David Roos, PhD</td>
-          <td>University of Pennsylvania, USA</td>
-        </tr>
-        <tr>
-          <td>Paul Wilkinson, PhD</td>
-          <td>University of Liverpool, UK</td>
-        </tr>
-      </tbody>
-    </table>
-    </div>
-  <br>
+        <th>Instructor</th>
+        <th>Institution</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Evelina Basenko, PhD</td>
+        <td>University of Liverpool, UK</td>
+      </tr>
+      <tr>
+        <td>Ulrike Boehme, PhD</td>
+        <td>University of Liverpool, UK</td>
+      </tr>
+      <tr>
+        <td>Stuart Brown, PhD</td>
+        <td>University of Pennsylvania, USA</td>
+      </tr>
+      <tr>
+        <td>Kathryn Crouch, PhD</td>
+        <td>University of Glasgow, UK</td>
+      </tr>
+      <tr>
+        <td>Omar S. Harb, PhD</td>
+        <td>University of Pennsylvania, USA</td>
+      </tr>
+      <tr>
+        <td>Nupur Kittur, PhD</td>
+        <td>University of Georgia, USA</td>
+      </tr>
+      <tr>
+        <td>David Roos, PhD</td>
+        <td>University of Pennsylvania, USA</td>
+      </tr>
+      <tr>
+        <td>Paul Wilkinson, PhD</td>
+        <td>University of Liverpool, UK</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br>
+
    
   <h2>Schedule Coming Soon!</h2>
 
