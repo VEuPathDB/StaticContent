@@ -125,10 +125,10 @@ div.instructor-table {
   <div class="centered-title">
      <h4>Registration deadline is Friday, December 5, 2025. Register by completing the <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_bjTmG0rCJfKADfU" target="_blank">registration form</a>. Once registration closes, participants will receive an email with zoom details.</h4>
      <h4>Workshop times: 10 AM - 1 PM (EST) daily- <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
-      <h4><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_bjTmG0rCJfKADfU" target="_blank">Register here</a></h4>
+      <h4><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_bjTmG0rCJfKADfU" target="_blank">Register here.</a></h4>
      <!--<h4>Registration for this workshop is closed. If you missed the registration deadline, please stay tuned for more virtual workshops coming soon. Please <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us</a> for further information. </h4>>-->
       <!--<h4>All materials from this workshop are now available to the VEuPathDB community for asynchronous learning. Please see the right-most column of the <a href="#Schedule">schedule</a> below for links to PDF exercises and lecture recordings.</h4>>-->
-      <img style="width: 35em; margin-top: 0.5em; display: block; margin-left: auto; margin-right: auto;" src="{{ "/assets/images/workshops/VEuPathDB_workshop2025.png" | absolute_url }}" alt="2025VEuPathDBworkshop"/>
+      <img style="width: 35em; margin-top: 0.5em; display: block; margin-left: auto; margin-right: auto; border:1px solid #000000" src="{{ "/assets/images/workshops/VEuPathDB_workshop2025.png" | absolute_url }}" alt="2025VEuPathDBworkshop"/>
 
   </div>
 
@@ -215,8 +215,8 @@ div.instructor-table {
     </div>
   <br>
    
-  <!--<div class="anchor"><a name="Schedule"></a></div>
-  <details open>
+  <div class="anchor"><a name="Schedule Coming Soon!"></a></div>
+  <!--<details open>
     <summary><b>Schedule</b> </summary>
     <p> Zoom channel will open 5 min prior to the workshop start and will remain open for 30 min after the workshop ends each day for any additional questions from the participants.</p> 
     <br>
@@ -356,8 +356,7 @@ div.instructor-table {
           </tr>
         </tbody>
       </table>
-
-       <table class="hor-minimalist-a">
+      <table class="hor-minimalist-a">
         <thead>
           <tr>
             <th colspan="4" class="break"><b>Friday, 13 December 2024</b></th>
@@ -402,9 +401,7 @@ div.instructor-table {
             <td>Exercise- scRNA-Seq</td>
             <td><br><a  target="_blank" href="{{'/documents/2024Virtual/scRNAseq_Dec2024.pdf' | absolute_url}}">Single-Cell RNA-seq- Exercise</a><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/dkxNp4clZ3k?si=w1opokrSZIdm_-bH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td>
           </tr>
-
-
-       <tr>
+          <tr>
             <td>11:35 - 11:45 AM<br></td>
             <td>BREAK</td>
            <td></td>
@@ -432,13 +429,9 @@ div.instructor-table {
             <td>Discussion, Q&A (optional)</td>
            <td></td><br>
           </tr>
-
-
-
-
-       </tbody>
+          </tbody>
       </table>
-</details>
+      </details>
       <br>
       <br>    
       <br>
