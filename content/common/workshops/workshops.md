@@ -92,6 +92,12 @@ tags: [workshop-exercise]
 
   <h3>Upcoming Workshops</h3>
   <br>
+  <div class="contents">
+  <h4><a href="/a/app/static-content/workshopDec2025.html">VEuPathDB Virtual Workshop, Dec 9-11, 2025</a></h4>
+  <p>Times: Tuesday, Dec 9 &ndash; Thursday, Dec 11, 10:00 AM - 1:00 PM US Eastern time every day</p>
+  <p>Location: This workshop is virtual via Zoom.</p>
+  <p>More Information: <a href="/a/app/static-content/workshopDec2025.html">Workshop information and schedule</a></p>
+  </div>
   
   <h3>Previous Workshops</h3>
   <br>
