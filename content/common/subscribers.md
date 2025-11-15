@@ -372,6 +372,7 @@ h1, h2 {
     <div>Kooij group, Radboud Univ NL</div>
     <div>Kopacek group, Czech Academy of Sciences CZ</div>
     <div>Koshy group, Univ Arizona US</div>
+    <div>Kothera group, Centers for Disease Control and Prevention US</div>
     <div>Kowalinski group, EMBL Grenoble FR</div>
     <div>Kramer group, Univ Wuerzburg DE</div>
     <div>Kroon Campos group, Cornell Univ US</div>
@@ -480,6 +481,7 @@ h1, h2 {
     <div>Papanicolaou group, Hawkesbury Inst, W Sydney Univ AU</div>
     <div>Paredez group, Univ Washington US</div>
     <div>Paton group, Univ Georgia US</div>
+    <div>Pawar group, Institute of Bioinformatics (IOB), Bangalore IN</div>
     <div>Pawlowic group, Univ Dundee UK</div>
     <div>Pena group, Colorado College US</div>
     <div>Peraza Reyes group, National Autonomous Univ of Mexico MX</div>
