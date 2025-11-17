@@ -449,6 +449,7 @@ h1, h2 {
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
     <div>Moye-Rowley group, Univ of Iowa US</div>
     <div>Mugnier group, Johns Hopkins US</div>
+    <div>Mukherjee group, Indian Institute of Technology Kharagpur IN</div>
     <div>Mukherjee group, Texas State Univ US</div>
     <div>Muralidharan group, Univ Georgia US</div>
     <div>Nagaraj group, Inst Life Sciences IN</div>
