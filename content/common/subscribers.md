@@ -555,6 +555,7 @@ h1, h2 {
     <div>Snell group, Univ Maryland, College Park US</div>
     <div>Soldati-Favre group, Univ Genève CH</div>
     <div>Spaccapelo group, Univ of Perugia IT</div>
+    <div>Spaeth group, Institut Pasteur FR</div>
     <div>Spielmann group, Bernhard Nocht Institute for Tropical Medicine DE</div>
     <div>Springer group, Univ of Massachusetts Amherst US</div>
     <div>Stajich group, Univ California Riverside US</div>
