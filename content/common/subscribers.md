@@ -149,7 +149,7 @@ h1, h2 {
     <div>Bargieri group, Univ Sao Paulo BR</div>
     <div>Barrett group, Univ Glasgow UK</div>
     <div>Bartholomeu group, Federal Univ of Minas Gerais BR</div>
-    <div>Bastin group, Institut Pasteur FR</div>
+    <div>Bastin group, Institut Pasteur & Inserm, Paris FR</div>
     <div>Baum group, Univ New South Wales AU</div>
     <div>Beck group, Iowa State Univ US</div>
     <div>Bei group, Yale Univ US</div>
