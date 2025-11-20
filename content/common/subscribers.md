@@ -478,6 +478,7 @@ h1, h2 {
     <div>Paluzzi group, York Univ CA</div>
     <div>Pandey group, ICMR Natl Inst Malaria Research IN</div>
     <div>Paoletta group, Natl Inst Agricultural Technology AR</div>
+    <div>Patankar group, Indian Institute of Technology Bombay IN</div>
     <div>Pavlovic-Djuranovic group, Washington Univ US</div>
     <div>Papanicolaou group, Hawkesbury Inst, W Sydney Univ AU</div>
     <div>Paredez group, Univ Washington US</div>
@@ -552,6 +553,7 @@ h1, h2 {
     <div>Singer group, Georgetown Univ US</div>
     <div>Sinha group, Jhargram Raj College IN</div>
     <div>Small-Saunders group, Columbia Univ US</div>
+    <div>Smith group, Iowa State Univ US</div>
     <div>Snell group, Univ Maryland, College Park US</div>
     <div>Soldati-Favre group, Univ Genève CH</div>
     <div>Spaccapelo group, Univ of Perugia IT</div>
