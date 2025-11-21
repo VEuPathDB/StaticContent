@@ -159,6 +159,7 @@ h1, h2 {
     <div>Benz group, Technical Univ Munich DE</div>
     <div>Berriman group, Univ Glasgow UK</div>
     <div>Besteiro lab, Univ of Montpellier FR</div>
+    <div>Beverley group, Washington Univ in St. Louis US</div>
     <div>Bhabha & Ekiert groups, Johns Hopkins Univ US</div>
     <div>Bhanot group, Rutgers NJMS US</div>
     <div>Bhattacharjee group, Jawaharlal Nehru Univ IN</div>
