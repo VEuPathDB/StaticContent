@@ -534,6 +534,7 @@ h1, h2 {
     <div>Sanglard group, Univ of Lausanne CH</div>
     <div>Santiago-Tirado group, Univ Notre Dame US</div>
     <div>Santos group, Univ Paris-Saclay FR</div>
+    <div>Sasaki group, National Institute of Infectious Diseases JP</div>
     <div>Sateriale group, Crick Inst UK</div>
     <div>Scaraffia group, Tulane Univ US</div>
     <div>Scheel group, Indiana Univ US</div>
@@ -552,6 +553,7 @@ h1, h2 {
     <div>Simoes group, Federal Inst Santa Catarina BR</div>
     <div>Simoes group, Inst Tropical Med BE</div>
     <div>Singer group, Georgetown Univ US</div>
+    <div>Singh group, The Lundquist Institute at Harbor-UCLA Medical Center US</div>
     <div>Sinha group, Jhargram Raj College IN</div>
     <div>Small-Saunders group, Columbia Univ US</div>
     <div>Smith group, Iowa State Univ US</div>
