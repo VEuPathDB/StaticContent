@@ -290,6 +290,7 @@ h1, h2 {
     <div>Gilberger group, Bernhard Nocht Institute for Tropical Medicine DE</div>
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
     <div>Gilleard group, Univ Calgary CA</div>
+    <div>Gissot group, Institut Pasteur de Lille FR</div>
     <div>Glass group, Univ of Vermont US</div>
     <div>Glover group, Institut Pasteur FR</div>
     <div>Gluenz group, Univ Bern CH</div>
