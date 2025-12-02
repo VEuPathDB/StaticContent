@@ -148,6 +148,7 @@ h1, h2 {
     <div>Barbosa group, Univ Auckland NZ</div>
     <div>Bargieri group, Univ Sao Paulo BR</div>
     <div>Barrett group, Univ Glasgow UK</div>
+    <div>Bartfai group, Radboud Univ NL</div>
     <div>Bartholomeu group, Federal Univ of Minas Gerais BR</div>
     <div>Bastin group, Institut Pasteur & Inserm, Paris FR</div>
     <div>Baum group, Univ New South Wales AU</div>
@@ -249,6 +250,7 @@ h1, h2 {
     <div>Doering group, Washington Univ US</div>
     <div>Doggett group, Oregon Health & Science Univ US</div>
     <div>Douglas group, Justus Liebig Univ Giessen DE</div>
+    <div>Drummond group, Univ Birmingham UK</div>
     <div>Duchene group, Medical Univ of Vienna AT</div>
     <div>Dunlap group, Dartmouth College US</div>
     <div>Dvorin group, Boston Children's Hosp US</div>
@@ -283,6 +285,7 @@ h1, h2 {
     <div>Gabrieli group, Univ Milan IT</div>
     <div>Gadelha group, Univ Nottingham UK</div>
     <div>Garlapati group, Univ of Louisiana at Monroe US</div>
+    <div>Gendrin group, Institut Pasteur de la Guyane GF</div>
     <div>Genta group, FIOCRUZ BR</div>
     <div>George Cross, US</div>
     <div>Ghedin group, Natl Inst Health US</div>
@@ -455,6 +458,7 @@ h1, h2 {
     <div>Mukherjee group, Indian Institute of Technology Kharagpur IN</div>
     <div>Mukherjee group, Texas State Univ US</div>
     <div>Muralidharan group, Univ Georgia US</div>
+    <div>Murphy group, Univ of Washington US</div>
     <div>Nagaraj group, Inst Life Sciences IN</div>
     <div>Nakanishi group, Matsuyama Univ JP</div>
     <div>Nancy Guillen, Inst Pasteur FR</div>
