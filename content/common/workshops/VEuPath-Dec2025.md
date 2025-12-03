@@ -226,7 +226,7 @@ div.instructor-table {
           <tr>
             <th class="time">Time (US Eastern)</th>
             <th class="event">Topic </th>
-            <th class="recording">Exercise pdf or recording</th>
+            <th class="recording">Exercise PDF or lecture recording</th>
           </tr>
         </thead>
         <tbody>         
