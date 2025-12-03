@@ -232,8 +232,7 @@ div.instructor-table {
         <tbody>         
           <tr>
             <td>10:00 - 10:10 AM <br></td>
-            <td>
-            </td>
+            <td>Welcome & Workshop Overview</td>
           </tr>
           <tr>
             <td>10:10 - 10:45 AM<br></td>
@@ -252,25 +251,24 @@ div.instructor-table {
            <tr>
             <td>11:30 - 11:50 AM<br></td>
             <td>BREAK</td>
-           <td><br>
-           <br></td>
+           <td><br><br></td>
           </tr>
           <tr>
             <td>11:50 AM - 12:05 PM<br></td>
             <td>Introduction to search strategies</td>
-            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/L9E44ojsEKk?si=dWCUKqCPzZ7XuadV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/L9E44ojsEKk?si=dWCUKqCPzZ7XuadV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td> -->
           </tr>       
           <tr>
             <td>12:05 - 12:50 PM<br></td>
-            <td>Exercise- Search strategies</td>
+            <td>Breakout session- Search strategies</td>
             <td><br>
-            <a  target="_blank" href="{{'/documents/2024Virtual/SearchStrategies.pdf' | absolute_url}}">Search Strategies Exercise</a>
+           <!-- <a  target="_blank" href="{{'/documents/2024Virtual/SearchStrategies.pdf' | absolute_url}}">Search Strategies Exercise</a> -->
             <br><br></td>
           </tr>
           <tr>
             <td>12:50 - 1:00 PM<br></td>
             <td>Summary of DAY 1</td>
-            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/l2gl4SEoFJs?si=CnjTLiVYveAnCGmT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/l2gl4SEoFJs?si=CnjTLiVYveAnCGmT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td> -->
           </tr>
           <tr>
             <td>1:00 - 1:30 PM<br></td>
@@ -284,7 +282,7 @@ div.instructor-table {
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th colspan="4" class="break"><b>Thursday, 12 December 2024</b></th>
+            <th colspan="4" class="break"><b>Wednesday, 10 December 2025</b></th>
           </tr>
           <tr>
             <th class="time">Time (US Eastern)</th>
@@ -296,19 +294,19 @@ div.instructor-table {
           <tr>
             <td>10:00 - 10:10 AM<br></td>
             <td> Introduction to the genome browser</td>
-            <td><br>
-              <iframe width="280" height="157" src="https://www.youtube.com/embed/nlZbPkw2ImI?si=V-Afb4St_7cTvV8p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td>
+           <!-- <td><br>
+              <iframe width="280" height="157" src="https://www.youtube.com/embed/nlZbPkw2ImI?si=V-Afb4St_7cTvV8p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td> -->
           </tr>
           <tr>
             <td>10:10 - 10:45 AM<br></td>
-            <td>Exercise- Genome browser basics</td>
-           <td><br><a  target="_blank" href="{{'/documents/2024Virtual/Genome_browser_basics.pdf' | absolute_url}}">Genome Browser Basics Exercise</a><br><br></td>
+            <td>Breakout session- Genome browser basics</td>
+          <!-- <td><br><a  target="_blank" href="{{'/documents/2024Virtual/Genome_browser_basics.pdf' | absolute_url}}">Genome Browser Basics Exercise</a><br><br></td> -->
           </tr>
           <tr>
             <td>10:45 - 11:00 AM<br></td>
             <td>Exploring gene models in the genome browser</td>
-            <td><br>
-              <iframe width="280" height="157" src="https://www.youtube.com/embed/lh12_UfnNKQ?si=8udZRLwEjR_bYhPS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td>
+           <!-- <td><br>
+              <iframe width="280" height="157" src="https://www.youtube.com/embed/lh12_UfnNKQ?si=8udZRLwEjR_bYhPS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td> -->
           </tr>
           <tr>
             <td>11:00 - 11:20 AM<br></td>
@@ -318,21 +316,21 @@ div.instructor-table {
           </tr>
           <tr>
             <td>11:20 AM - 12:10 PM<br></td>
-            <td>Exercise- Exploring gene models in the genome browser</td>
-            <td><br><a  target="_blank" href="{{'/documents/2024Virtual/Explore_gene_models_Dec2024.pdf' | absolute_url}}">Exploring gene models in the genome browser- Exercise</a><br><br></td>
+            <td>Breakout session- Exploring gene models in the genome browser</td>
+           <!-- <td><br><a  target="_blank" href="{{'/documents/2024Virtual/Explore_gene_models_Dec2024.pdf' | absolute_url}}">Exploring gene models in the genome browser- Exercise</a><br><br></td> -->
           </tr>
           <tr>
             <td>12:10 - 12:40 PM<br></td>
             <td>Gene models discussion; RNA Seq and other data in the genome browser</td>
-            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/UehojfeJnz8?si=5dV1i51MkvUGdO8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/UehojfeJnz8?si=5dV1i51MkvUGdO8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td> -->
           </tr>
           <tr>
             <td>12:40 - 12:50 PM<br></td>
             <td>Correcting Gene models in Apollo</td>
-            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/TqXZWTIoxwE?si=ftiIAkdF0VlIQLdi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+           <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/TqXZWTIoxwE?si=ftiIAkdF0VlIQLdi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
             <br><a  target="_blank" href="{{'/documents/2024Virtual/Apollo_optional_exercise.pdf' | absolute_url}}">Apollo exercise- optional</a><br>
             <a  target="_blank" href="{{'/documents/2024Virtual/Apollo_optional_exercise_answer_key.pdf' | absolute_url}}">Apollo exercise- answer key</a><br><br>
-            </td>
+            </td> -->
           </tr>
           <tr>
             <td>12:50 - 1:00 PM<br></td>
@@ -342,22 +340,20 @@ div.instructor-table {
           <tr>
             <td>1:00 - 1:30 PM<br></td>
             <td>Upload your own data into VEuPathDB (optional demo session)</td>
-           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/e60gC-J__9U?si=VrGEcMms36CheiGW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td><br>
+          <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/e60gC-J__9U?si=VrGEcMms36CheiGW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td><br>  -->
           </tr>
           <tr>
             <td>1:30 - 2:00 PM<br></td>
             <td>Discussion, Q&A (optional)</td>
-           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/3d2odR3yzFc?si=6nG5n4hO-yq2nzvR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
-           <iframe width="280" height="157" src="https://www.youtube.com/embed/9vnjdDPtaEw?si=yYfrQOswhmGpn6wl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
-           <iframe width="280" height="157" src="https://www.youtube.com/embed/wMSFmlOw51E?si=H2H0RcSorZ8WYNxz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
-           </td><br>
+          <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/3d2odR3yzFc?si=6nG5n4hO-yq2nzvR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+           </td><br> -->
           </tr>
         </tbody>
       </table>
       <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th colspan="4" class="break"><b>Friday, 13 December 2024</b></th>
+            <th colspan="4" class="break"><b>Thursday, 11 December 2025</b></th>
           </tr>
           <tr>
             <th class="time">Time (US Eastern)</th>
@@ -369,18 +365,15 @@ div.instructor-table {
            <tr>
             <td>10:00 - 10:15 AM<br></td>
             <td>Transcriptomics and Proteomics data; Enrichment analysis</td>
-            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/RyFvD7tTNXE?si=h8V8OEfz9WJoxMgJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+            <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/RyFvD7tTNXE?si=h8V8OEfz9WJoxMgJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td> -->
           </tr>
           <tr>
             <td>10:15 - 10:45 AM<br></td>
-            <td>Exercises- Transcriptomics, Proteomics, GO Enrichment</td>
-            <td><br>
+            <td>Breakout session- Transcriptomics, Proteomics, GO Enrichment</td>
+           <!-- <td><br>
               <a  target="_blank" href="{{'/documents/2024Virtual/Transcriptomics1_GenesUpReg_Plasmodium_exercise.pdf' | absolute_url}}">Transcriptomics- Exercise 1</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Transcriptomics2_GenesUpReg_Wolbachia_exercise.pdf' | absolute_url}}">Exercise 2</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Transcriptomics3_CoExpress_Aspergillus_exercise.pdf' | absolute_url}}">Exercise 3</a><br>
               <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics1_MassSpec_Leishmania_exercise.pdf' | absolute_url}}">Proteomics- Exercise 1</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics2_Quant_MassSpec_Cryptococcus_exercise.pdf' | absolute_url}}">Exercise 2</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics3_Quant_MassSpec_P_falciparum_exercise.pdf' | absolute_url}}">Exercise 3</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics4_PostTranslMod_Toxoplasma_exercise.pdf' | absolute_url}}">Exercise 4</a><br>
-              <a  target="_blank" href="{{'/documents/2024Virtual/GO_Enrichment_Dicty-2024.pdf' | absolute_url}}">GO Enrichment Exercise</a><br>
-              <br><iframe width="280" height="157" src="https://www.youtube.com/embed/OQHVj6-ZzEI?si=6VRtAolfli98rL6V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-              <br>
-              </td>
+              <a  target="_blank" href="{{'/documents/2024Virtual/GO_Enrichment_Dicty-2024.pdf' | absolute_url}}">GO Enrichment Exercise</a><br></td> -->
           </tr>
          <tr>
             <td>10:45 - 10:55 AM<br></td>
@@ -390,14 +383,14 @@ div.instructor-table {
           <tr>
             <td>10:55 - 11:10 AM<br></td>
             <td>Single Cell RNAseq analysis (scRNA-Seq)</td>
-           <td><br>
+           <!-- <td><br>
               <iframe width="280" height="157" src="https://www.youtube.com/embed/cGsR_-BZWsk?si=itwInCrFb147kYHl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br>
-              </td>
+              </td> -->
           </tr>
           <tr>
             <td>11:10 - 11:35 AM<br></td>
-            <td>Exercise- scRNA-Seq</td>
-            <td><br><a  target="_blank" href="{{'/documents/2024Virtual/scRNAseq_Dec2024.pdf' | absolute_url}}">Single-Cell RNA-seq- Exercise</a><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/dkxNp4clZ3k?si=w1opokrSZIdm_-bH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td>
+            <td>Breakout session- scRNA-Seq</td>
+           <!-- <td><br><a  target="_blank" href="{{'/documents/2024Virtual/scRNAseq_Dec2024.pdf' | absolute_url}}">Single-Cell RNA-seq- Exercise</a><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/dkxNp4clZ3k?si=w1opokrSZIdm_-bH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td> -->
           </tr>
           <tr>
             <td>11:35 - 11:45 AM<br></td>
@@ -407,20 +400,18 @@ div.instructor-table {
           <tr>
             <td>11:45 AM - 12:20 PM<br></td>
             <td>Orthology & Cross-species Functional Inference</td>
-           <td><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/ni1QzqIIlsU?si=iqY_-54DbiYKAAWD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td>
+          <!-- <td><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/ni1QzqIIlsU?si=iqY_-54DbiYKAAWD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td> -->
           </tr>
           <tr>
             <td>12:20 - 12:50 PM<br></td>
-            <td>Exercise- Orthology</td>
-           <td><br><a  target="_blank" href="{{'/documents/2024Virtual/Orthology_genePage_OrthoMCL_exercise.pdf' | absolute_url}}">Orthology OrthoMCL exercise</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Phyletic_pattern_expressions_exercise.pdf' | absolute_url}}">Orthology Phyletic Patterns Exercise</a><br><br>
-           <a  target="_blank" href="{{'/documents/2024Virtual/Orthology_complex_search_exercise.pdf' | absolute_url}}">Orthology Complex Search Exercise (optional)</a><br><br>
-           <iframe width="280" height="157" src="https://www.youtube.com/embed/fBFGg-TThv0?si=HIbpd3644nGrQCB_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen><br></iframe>
-           <br></td>
+            <td>Breakout session- Orthology</td>
+          <!-- <td><br><a  target="_blank" href="{{'/documents/2024Virtual/Orthology_genePage_OrthoMCL_exercise.pdf' | absolute_url}}">Orthology OrthoMCL exercise</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Phyletic_pattern_expressions_exercise.pdf' | absolute_url}}">Orthology Phyletic Patterns Exercise</a><br><br>
+           <a  target="_blank" href="{{'/documents/2024Virtual/Orthology_complex_search_exercise.pdf' | absolute_url}}">Orthology Complex Search Exercise (optional)</a><br><br></td> -->
           </tr>
           <tr>
             <td>12:50 - 1:00 PM<br></td>
             <td>Summary of DAY 3</td>
-           <td><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/5zoF1W21C-U?si=pbEuliGNv6rIPLn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen><br><br></iframe></td>
+          <!-- <td><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/5zoF1W21C-U?si=pbEuliGNv6rIPLn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen><br><br></iframe></td> -->
           </tr>
           <tr>
             <td>1:00 - 1:30 PM<br></td>
