@@ -236,7 +236,7 @@ div.instructor-table {
           </tr>
           <tr>
             <td>10:10 - 10:45 AM<br></td>
-            <td>Introduction to VEuPathDB resources</td>
+            <td>Lecture- Introduction to VEuPathDB resources</td>
             <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/jl4lOMQB9rI?si=i219fo4LZUqlUzaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td> -->
           </tr>    
          <tr>
@@ -250,20 +250,17 @@ div.instructor-table {
           </tr> 
            <tr>
             <td>11:30 - 11:50 AM<br></td>
-            <td>BREAK</td>
-           <td><br><br></td>
+            <td>*** BREAK ***</td>
           </tr>
           <tr>
             <td>11:50 AM - 12:05 PM<br></td>
-            <td>Introduction to search strategies</td>
+            <td>Lecture- Introduction to search strategies</td>
            <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/L9E44ojsEKk?si=dWCUKqCPzZ7XuadV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td> -->
           </tr>       
           <tr>
             <td>12:05 - 12:50 PM<br></td>
             <td>Breakout session- Search strategies</td>
-            <td><br>
-           <!-- <a  target="_blank" href="{{'/documents/2024Virtual/SearchStrategies.pdf' | absolute_url}}">Search Strategies Exercise</a> -->
-            <br><br></td>
+           <!-- <td><br> <a  target="_blank" href="{{'/documents/2024Virtual/SearchStrategies.pdf' | absolute_url}}">Search Strategies Exercise</a> <br></td> -->
           </tr>
           <tr>
             <td>12:50 - 1:00 PM<br></td>
@@ -293,7 +290,7 @@ div.instructor-table {
         <tbody>         
           <tr>
             <td>10:00 - 10:10 AM<br></td>
-            <td> Introduction to the genome browser</td>
+            <td>Lecture- Introduction to the genome browser</td>
            <!-- <td><br>
               <iframe width="280" height="157" src="https://www.youtube.com/embed/nlZbPkw2ImI?si=V-Afb4St_7cTvV8p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td> -->
           </tr>
@@ -304,13 +301,13 @@ div.instructor-table {
           </tr>
           <tr>
             <td>10:45 - 11:00 AM<br></td>
-            <td>Exploring gene models in the genome browser</td>
+            <td>Lecture- How to explore gene models in the genome browser</td>
            <!-- <td><br>
               <iframe width="280" height="157" src="https://www.youtube.com/embed/lh12_UfnNKQ?si=8udZRLwEjR_bYhPS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td> -->
           </tr>
           <tr>
             <td>11:00 - 11:20 AM<br></td>
-            <td>BREAK</td>
+            <td>*** BREAK ***</td>
            <td><br>
            <br></td>
           </tr>
@@ -326,7 +323,7 @@ div.instructor-table {
           </tr>
           <tr>
             <td>12:40 - 12:50 PM<br></td>
-            <td>Correcting Gene models in Apollo</td>
+            <td>Lecture- Correcting Gene models in Apollo</td>
            <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/TqXZWTIoxwE?si=ftiIAkdF0VlIQLdi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
             <br><a  target="_blank" href="{{'/documents/2024Virtual/Apollo_optional_exercise.pdf' | absolute_url}}">Apollo exercise- optional</a><br>
             <a  target="_blank" href="{{'/documents/2024Virtual/Apollo_optional_exercise_answer_key.pdf' | absolute_url}}">Apollo exercise- answer key</a><br><br>
@@ -339,7 +336,7 @@ div.instructor-table {
           </tr>
           <tr>
             <td>1:00 - 1:30 PM<br></td>
-            <td>Upload your own data into VEuPathDB (optional demo session)</td>
+            <td>Optional demo session- Upload your own data into VEuPathDB</td>
           <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/e60gC-J__9U?si=VrGEcMms36CheiGW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td><br>  -->
           </tr>
           <tr>
@@ -364,7 +361,7 @@ div.instructor-table {
         <tbody>
            <tr>
             <td>10:00 - 10:15 AM<br></td>
-            <td>Transcriptomics and Proteomics data; Enrichment analysis</td>
+            <td>Lecture- Transcriptomics and Proteomics data; Enrichment analysis</td>
             <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/RyFvD7tTNXE?si=h8V8OEfz9WJoxMgJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td> -->
           </tr>
           <tr>
@@ -377,12 +374,12 @@ div.instructor-table {
           </tr>
          <tr>
             <td>10:45 - 10:55 AM<br></td>
-            <td>BREAK</td>
+            <td>*** BREAK ***</td>
           <td></td>
           </tr>
           <tr>
             <td>10:55 - 11:10 AM<br></td>
-            <td>Single Cell RNAseq analysis (scRNA-Seq)</td>
+            <td>Lecture- Single Cell RNAseq analysis (scRNA-Seq)</td>
            <!-- <td><br>
               <iframe width="280" height="157" src="https://www.youtube.com/embed/cGsR_-BZWsk?si=itwInCrFb147kYHl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br>
               </td> -->
@@ -394,12 +391,12 @@ div.instructor-table {
           </tr>
           <tr>
             <td>11:35 - 11:45 AM<br></td>
-            <td>BREAK</td>
+            <td>*** BREAK ***</td>
            <td></td>
           </tr>
           <tr>
             <td>11:45 AM - 12:20 PM<br></td>
-            <td>Orthology & Cross-species Functional Inference</td>
+            <td>Lecture- Orthology & Cross-species Functional Inference</td>
           <!-- <td><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/ni1QzqIIlsU?si=iqY_-54DbiYKAAWD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td> -->
           </tr>
           <tr>
