@@ -238,16 +238,16 @@ div.instructor-table {
           <tr>
             <td>10:10 - 10:45 AM<br></td>
             <td>Introduction to VEuPathDB resources</td>
-            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/jl4lOMQB9rI?si=i219fo4LZUqlUzaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+            <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/jl4lOMQB9rI?si=i219fo4LZUqlUzaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td> -->
           </tr>    
-          <tr>
+         <tr>
             <td>10:45 - 11:30 AM<br></td>
-            <td>Exercises- Site Search and Gene Pages</td>
-            <td><br>
+            <td>Breakout session- Site Search and Gene Pages</td>
+            <!-- <td><br>
               <a  target="_blank" href="{{'/documents/2024Virtual/SiteSearch_Dec2024.pdf' | absolute_url}}">Site Search Exercise</a><br>
               <a  target="_blank" href="{{'/documents/2024Virtual/GenePage_Dec2024.pdf' | absolute_url}}">Gene Pages Exercise</a>
               <br><br>
-              </td>
+              </td> -->
           </tr> 
            <tr>
             <td>11:30 - 11:50 AM<br></td>
