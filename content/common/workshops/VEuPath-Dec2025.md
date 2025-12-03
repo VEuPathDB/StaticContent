@@ -213,27 +213,15 @@ div.instructor-table {
 </div>
 
 <br>
-
-   
-  <h2>Schedule Coming Soon!</h2>
-
-  <h2>Questions</h2>
-  Please direct questions and feedback to <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>
-  <br><br>
-
-  <h2>More about VEuPathDB</h2>
-  We invite you to read our latest publication on VEuPathDB, <a href="https://academic.oup.com/nar/article/52/D1/D808/7416377" target="_blank">Alvarez-Jarreta et al 2024</a> and to explore our video resources on the <a href="https://www.youtube.com/user/EuPathDB" target="_blank">YouTube Channel</a> and our library of <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">recorded webinars and workshops</a>. Our aim is to foster an ongoing, productive dialogue with you to find more efficient ways to support your research goals. Whether or not you attend the workshop, please feel free to reach out with questions, feature suggestions, or new data at <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>.  
-  <br><br>
-
-  <!--<div class="anchor"><a name="Schedule"></a></div>
+  <div class="anchor"><a name="Schedule"></a></div>
   <details open>
     <summary><b>Schedule</b> </summary>
-    <p> Zoom channel will open 5 min prior to the workshop start and will remain open for 30 min after the workshop ends each day for any additional questions from the participants.</p> 
+    <p> Zoom channel will open 5 min prior to the workshop start and will remain open for 30 min after the workshop ends each day for any additional questions from the participants. We are happy to use the Optional discussion time at the end of the day to discuss any topics of interest, including further background information related to that day’s exercises, questions about using VEuPathDB to address user-specific research challenges, questions about the financial status and future of VEuPathDB and other database resources. We are also happy to extend this discussion period beyond 30 min if needed.</p> 
     <br>
     <table class="hor-minimalist-a">
         <thead>
           <tr>
-            <th colspan="4" class="break"><b>Wednesday, 11 December 2024</b></th>
+            <th colspan="4" class="break"><b>Tuesday, 9 December 2025</b></th>
           </tr>
           <tr>
             <th class="time">Time (US Eastern)</th>
@@ -250,7 +238,7 @@ div.instructor-table {
           <tr>
             <td>10:10 - 10:45 AM<br></td>
             <td>Introduction to VEuPathDB resources</td>
-           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/jl4lOMQB9rI?si=i219fo4LZUqlUzaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/jl4lOMQB9rI?si=i219fo4LZUqlUzaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
           </tr>    
           <tr>
             <td>10:45 - 11:30 AM<br></td>
@@ -443,14 +431,17 @@ div.instructor-table {
       </table>
       </details>
       <br>
-      <br>    
-      <br>
-      <br>>-->
+      
+  <h2>Questions</h2>
+  Please direct questions and feedback to <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>
+  <br><br>
+
+  <h2>More about VEuPathDB</h2>
+  We invite you to read our latest publication on VEuPathDB, <a href="https://academic.oup.com/nar/article/52/D1/D808/7416377" target="_blank">Alvarez-Jarreta et al 2024</a> and to explore our video resources on the <a href="https://www.youtube.com/user/EuPathDB" target="_blank">YouTube Channel</a> and our library of <a href="https://veupathdb.org/veupathdb/app/static-content/landing.html" target="_blank">recorded webinars and workshops</a>. Our aim is to foster an ongoing, productive dialogue with you to find more efficient ways to support your research goals. Whether or not you attend the workshop, please feel free to reach out with questions, feature suggestions, or new data at <a href="https://veupathdb.org/veupathdb/app/contact-us">help@veupathdb.org</a>.  
+  <br><br>
     
-
-
-  </div>  <!-- class workshop -->
-   <!-- </div> class contents -->
-  </div>  <!-- class static-content -->
+ </div>  <!-- class workshop -->
+ </div> <!-- class contents -->
+ </div>  <!-- class static-content -->
 
 
