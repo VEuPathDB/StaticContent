@@ -242,11 +242,11 @@ div.instructor-table {
          <tr>
             <td>10:45 - 11:30 AM<br></td>
             <td>Breakout session- Site Search and Gene Pages</td>
-            <!-- <td><br>
-              <a  target="_blank" href="{{'/documents/2024Virtual/SiteSearch_Dec2024.pdf' | absolute_url}}">Site Search Exercise</a><br>
-              <a  target="_blank" href="{{'/documents/2024Virtual/GenePage_Dec2024.pdf' | absolute_url}}">Gene Pages Exercise</a>
+            <td><br>
+              <a  target="_blank" href="{{'/documents/2025Virtual/SiteSearch_worksheet.pdf' | absolute_url}}">Site Search Exercise</a><br>
+              <a  target="_blank" href="{{'/documents/2025Virtual/Gene_Pages.pdf' | absolute_url}}">Gene Page Exercise</a>
               <br><br>
-              </td> -->
+              </td>
           </tr> 
            <tr>
             <td>11:30 - 11:50 AM<br></td>
@@ -260,7 +260,7 @@ div.instructor-table {
           <tr>
             <td>12:05 - 12:50 PM<br></td>
             <td>Breakout session- Search strategies</td>
-           <!-- <td><br> <a  target="_blank" href="{{'/documents/2024Virtual/SearchStrategies.pdf' | absolute_url}}">Search Strategies Exercise</a> <br></td> -->
+           <td><br> <a  target="_blank" href="{{'/documents/2025Virtual/Search_Strategies.pdf' | absolute_url}}">Search Strategies Exercise</a> <br></td>
           </tr>
           <tr>
             <td>12:50 - 1:00 PM<br></td>
