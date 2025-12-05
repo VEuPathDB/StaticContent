@@ -324,8 +324,7 @@ div.instructor-table {
           <tr>
             <td>12:40 - 12:50 PM<br></td>
             <td>Lecture- Correcting Gene models in Apollo</td>
-           <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/TqXZWTIoxwE?si=ftiIAkdF0VlIQLdi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>-->
-            <a  target="_blank" href="{{'/documents/2025Virtual/Apollo_optional_exercise.pdf' | absolute_url}}">Apollo exercise- optional</a><br>
+           <td><a  target="_blank" href="{{'/documents/2025Virtual/Apollo_optional_exercise.pdf' | absolute_url}}">Apollo exercise- optional</a><br>
             <a  target="_blank" href="{{'/documents/2025Virtual/Apollo_optional_exercise_answer_key.pdf' | absolute_url}}">Apollo exercise- answer key</a><br><br>
             </td> 
           </tr>
@@ -370,7 +369,7 @@ div.instructor-table {
             <td><br>
               <a  target="_blank" href="{{'/documents/2025Virtual/Transcriptomics.pdf' | absolute_url}}">Transcriptomics Exercise</a><br>
               <a  target="_blank" href="{{'/documents/2025Virtual/Proteomics.pdf' | absolute_url}}">Proteomics Exercise</a><br>
-              <a  target="_blank" href="{{'/documents/2025Virtual/GO_Enrichment.pdf' | absolute_url}}">GO Enrichment Exercise</a><br>
+              <a  target="_blank" href="{{'/documents/2025Virtual/GO_Enrichment.pdf' | absolute_url}}">GO Enrichment Exercise</a><br><br>
               BONUS exercises: <a  target="_blank" href="{{'/documents/2025Virtual/Transcriptomics_bonus_fungidb.pdf' | absolute_url}}">Transcriptomics- FungiDB</a>, <a  target="_blank" href="{{'/documents/2025Virtual/Transcriptomics_bonus_vectorbase.pdf' | absolute_url}}">Transcriptomics- VectorBase</a>, <a  target="_blank" href="{{'/documents/2025Virtual/Proteomics_bonus_fungidb.pdf' | absolute_url}}">Proteomics- FungiDB</a>, <a  target="_blank" href="{{'/documents/2025Virtual/Proteomics_bonus_plasmodb.pdf' | absolute_url}}">Proteomics- PlasmoDB</a><br>
               <a  target="_blank" href="{{'/documents/2025Virtual/Proteomics_bonus_toxodb.pdf' | absolute_url}}">Proteomics- ToxoDB</a><br></td>
           </tr>
