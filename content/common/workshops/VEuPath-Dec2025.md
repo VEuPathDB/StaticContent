@@ -370,7 +370,8 @@ div.instructor-table {
               <a  target="_blank" href="{{'/documents/2025Virtual/Transcriptomics.pdf' | absolute_url}}">Transcriptomics Exercise</a><br>
               <a  target="_blank" href="{{'/documents/2025Virtual/Proteomics.pdf' | absolute_url}}">Proteomics Exercise</a><br>
               <a  target="_blank" href="{{'/documents/2025Virtual/GO_Enrichment.pdf' | absolute_url}}">GO Enrichment Exercise</a><br><br>
-              BONUS exercises: <a  target="_blank" href="{{'/documents/2025Virtual/Transcriptomics_bonus_fungidb.pdf' | absolute_url}}">Transcriptomics- FungiDB</a><br> 
+              BONUS exercises:<br>
+              <a  target="_blank" href="{{'/documents/2025Virtual/Transcriptomics_bonus_fungidb.pdf' | absolute_url}}">Transcriptomics- FungiDB</a><br> 
               <a  target="_blank" href="{{'/documents/2025Virtual/Transcriptomics_bonus_vectorbase.pdf' | absolute_url}}">Transcriptomics- VectorBase</a><br> 
               <a  target="_blank" href="{{'/documents/2025Virtual/Proteomics_bonus_fungidb.pdf' | absolute_url}}">Proteomics- FungiDB</a><br> 
               <a  target="_blank" href="{{'/documents/2025Virtual/Proteomics_bonus_plasmodb.pdf' | absolute_url}}">Proteomics- PlasmoDB</a><br>
