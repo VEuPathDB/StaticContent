@@ -229,6 +229,7 @@ h1, h2 {
     <div>Dara group, Univ of Sciences, Techniques and Technologies of Bamako ML</div>
     <div>Da Rocha group, Federal Univ of Paraná BR</div>
     <div>Das group, Birla Institute of Technology and Science, Pilani IN</div>
+    <div>Dave Anderson US</div>
     <div>David group, CNRS FR</div>
     <div>Davis group, Univ Iowa US</div>
     <div>de Koning-Ward group, Deakin Univ AU</div>
@@ -671,7 +672,6 @@ h1, h2 {
    <div>Institute of Tropical Medicine Antwerp BE- Department of Biomedical Sciences - Parasitology Units</div>
    <div>Johns Hopkins Malaria Research Inst US– multiple groups</div>
    <div>Leibniz-HKI DE- Brakhage & Blango groups</div>
-   <div>Liverpool School of Tropical Medicine</div>
    <div>Malaria groups, Burnet Institute AU</div>
    <div>Novartis – multiple groups</div>
    <div>Robert Koch Inst DE / Unit 16 – Aebischer, Blume, Klotz & Seeber groups</div>
