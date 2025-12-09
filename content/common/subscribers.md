@@ -113,7 +113,7 @@ h1, h2 {
   <p style="text-align: center;"><i><sup>*</sup>We list only those who consented to be publicly listed.</i></p>
 
   <div class="columns-balanced">
-    <div>Abbas group, Case Western Reserve Univ US</div></div>
+    <div>Abbas group, Case Western Reserve Univ US</div>
     <div>Abbas group, Mansoura Univ EG</div>
     <div>Absalon group, Indiana Univ Sch Med US</div>
     <div>Adams group, Univ South Florida US</div>
