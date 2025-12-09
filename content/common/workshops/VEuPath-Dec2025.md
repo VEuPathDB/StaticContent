@@ -241,11 +241,11 @@ div.instructor-table {
          <tr>
             <td>10:45 - 11:30 AM<br></td>
             <td>Breakout session- Site Search and Gene Pages</td>
-            <!-- <td><br>
-              <a  target="_blank" href="{{'/documents/2024Virtual/SiteSearch_Dec2024.pdf' | absolute_url}}">Site Search Exercise</a><br>
-              <a  target="_blank" href="{{'/documents/2024Virtual/GenePage_Dec2024.pdf' | absolute_url}}">Gene Pages Exercise</a>
+            <td><br>
+              <a  target="_blank" href="{{'/documents/2025Virtual/SiteSearch_worksheet.pdf' | absolute_url}}">Site Search Exercise</a><br>
+              <a  target="_blank" href="{{'/documents/2025Virtual/Gene_Pages.pdf' | absolute_url}}">Gene Page Exercise</a>
               <br><br>
-              </td> -->
+              </td>
           </tr> 
            <tr>
             <td>11:30 - 11:50 AM<br></td>
@@ -259,7 +259,7 @@ div.instructor-table {
           <tr>
             <td>12:05 - 12:50 PM<br></td>
             <td>Breakout session- Search strategies</td>
-           <!-- <td><br> <a  target="_blank" href="{{'/documents/2024Virtual/SearchStrategies.pdf' | absolute_url}}">Search Strategies Exercise</a> <br></td> -->
+           <td><br> <a  target="_blank" href="{{'/documents/2025Virtual/Search_Strategies.pdf' | absolute_url}}">Search Strategies Exercise</a> <br></td>
           </tr>
           <tr>
             <td>12:50 - 1:00 PM<br></td>
@@ -296,7 +296,7 @@ div.instructor-table {
           <tr>
             <td>10:10 - 10:45 AM<br></td>
             <td>Breakout session- Genome browser basics</td>
-          <!-- <td><br><a  target="_blank" href="{{'/documents/2024Virtual/Genome_browser_basics.pdf' | absolute_url}}">Genome Browser Basics Exercise</a><br><br></td> -->
+            <td><br><a  target="_blank" href="{{'/documents/2025Virtual/Genome_browser_basics.pdf' | absolute_url}}">Genome Browser Basics Exercise</a><br><br></td>
           </tr>
           <tr>
             <td>10:45 - 11:00 AM<br></td>
@@ -313,7 +313,7 @@ div.instructor-table {
           <tr>
             <td>11:20 AM - 12:10 PM<br></td>
             <td>Breakout session- Exploring gene models in the genome browser</td>
-           <!-- <td><br><a  target="_blank" href="{{'/documents/2024Virtual/Explore_gene_models_Dec2024.pdf' | absolute_url}}">Exploring gene models in the genome browser- Exercise</a><br><br></td> -->
+            <td><br><a  target="_blank" href="{{'/documents/2025Virtual/Explore_gene_models.pdf' | absolute_url}}">Exploring gene models in the genome browser- Exercise</a><br><br></td>
           </tr>
           <tr>
             <td>12:10 - 12:40 PM<br></td>
@@ -323,10 +323,9 @@ div.instructor-table {
           <tr>
             <td>12:40 - 12:50 PM<br></td>
             <td>Lecture- Correcting Gene models in Apollo</td>
-           <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/TqXZWTIoxwE?si=ftiIAkdF0VlIQLdi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
-            <br><a  target="_blank" href="{{'/documents/2024Virtual/Apollo_optional_exercise.pdf' | absolute_url}}">Apollo exercise- optional</a><br>
-            <a  target="_blank" href="{{'/documents/2024Virtual/Apollo_optional_exercise_answer_key.pdf' | absolute_url}}">Apollo exercise- answer key</a><br><br>
-            </td> -->
+           <td><a  target="_blank" href="{{'/documents/2025Virtual/Apollo_optional_exercise.pdf' | absolute_url}}">Apollo exercise- optional</a><br>
+            <a  target="_blank" href="{{'/documents/2025Virtual/Apollo_optional_exercise_answer_key.pdf' | absolute_url}}">Apollo exercise- answer key</a><br><br>
+            </td> 
           </tr>
           <tr>
             <td>12:50 - 1:00 PM<br></td>
@@ -366,10 +365,16 @@ div.instructor-table {
           <tr>
             <td>10:15 - 10:45 AM<br></td>
             <td>Breakout session- Transcriptomics, Proteomics, GO Enrichment</td>
-           <!-- <td><br>
-              <a  target="_blank" href="{{'/documents/2024Virtual/Transcriptomics1_GenesUpReg_Plasmodium_exercise.pdf' | absolute_url}}">Transcriptomics- Exercise 1</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Transcriptomics2_GenesUpReg_Wolbachia_exercise.pdf' | absolute_url}}">Exercise 2</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Transcriptomics3_CoExpress_Aspergillus_exercise.pdf' | absolute_url}}">Exercise 3</a><br>
-              <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics1_MassSpec_Leishmania_exercise.pdf' | absolute_url}}">Proteomics- Exercise 1</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics2_Quant_MassSpec_Cryptococcus_exercise.pdf' | absolute_url}}">Exercise 2</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics3_Quant_MassSpec_P_falciparum_exercise.pdf' | absolute_url}}">Exercise 3</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Proteomics4_PostTranslMod_Toxoplasma_exercise.pdf' | absolute_url}}">Exercise 4</a><br>
-              <a  target="_blank" href="{{'/documents/2024Virtual/GO_Enrichment_Dicty-2024.pdf' | absolute_url}}">GO Enrichment Exercise</a><br></td> -->
+            <td><br>
+              <a  target="_blank" href="{{'/documents/2025Virtual/Transcriptomics.pdf' | absolute_url}}">Transcriptomics Exercise</a><br>
+              <a  target="_blank" href="{{'/documents/2025Virtual/Proteomics.pdf' | absolute_url}}">Proteomics Exercise</a><br>
+              <a  target="_blank" href="{{'/documents/2025Virtual/GO_Enrichment.pdf' | absolute_url}}">GO Enrichment Exercise</a><br><br>
+              BONUS exercises:<br>
+              <a  target="_blank" href="{{'/documents/2025Virtual/Transcriptomics_bonus_fungidb.pdf' | absolute_url}}">Transcriptomics- FungiDB</a><br> 
+              <a  target="_blank" href="{{'/documents/2025Virtual/Transcriptomics_bonus_vectorbase.pdf' | absolute_url}}">Transcriptomics- VectorBase</a><br> 
+              <a  target="_blank" href="{{'/documents/2025Virtual/Proteomics_bonus_fungidb.pdf' | absolute_url}}">Proteomics- FungiDB</a><br> 
+              <a  target="_blank" href="{{'/documents/2025Virtual/Proteomics_bonus_plasmodb.pdf' | absolute_url}}">Proteomics- PlasmoDB</a><br>
+              <a  target="_blank" href="{{'/documents/2025Virtual/Proteomics_bonus_toxodb.pdf' | absolute_url}}">Proteomics- ToxoDB</a><br></td>
           </tr>
          <tr>
             <td>10:45 - 10:55 AM<br></td>
@@ -386,7 +391,7 @@ div.instructor-table {
           <tr>
             <td>11:10 - 11:35 AM<br></td>
             <td>Breakout session- scRNA-Seq</td>
-           <!-- <td><br><a  target="_blank" href="{{'/documents/2024Virtual/scRNAseq_Dec2024.pdf' | absolute_url}}">Single-Cell RNA-seq- Exercise</a><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/dkxNp4clZ3k?si=w1opokrSZIdm_-bH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td> -->
+           <td><br><a  target="_blank" href="{{'/documents/2025Virtual/scRNAseq.pdf' | absolute_url}}">Single-Cell RNA-seq Exercise</a><br></td>
           </tr>
           <tr>
             <td>11:35 - 11:45 AM<br></td>
@@ -401,8 +406,9 @@ div.instructor-table {
           <tr>
             <td>12:20 - 12:50 PM<br></td>
             <td>Breakout session- Orthology</td>
-          <!-- <td><br><a  target="_blank" href="{{'/documents/2024Virtual/Orthology_genePage_OrthoMCL_exercise.pdf' | absolute_url}}">Orthology OrthoMCL exercise</a>, <a  target="_blank" href="{{'/documents/2024Virtual/Phyletic_pattern_expressions_exercise.pdf' | absolute_url}}">Orthology Phyletic Patterns Exercise</a><br><br>
-           <a  target="_blank" href="{{'/documents/2024Virtual/Orthology_complex_search_exercise.pdf' | absolute_url}}">Orthology Complex Search Exercise (optional)</a><br><br></td> -->
+          <td><br><a  target="_blank" href="{{'/documents/2025Virtual/Orthology_OrthoMCL.pdf' | absolute_url}}">Orthology OrthoMCL exercise</a><br>
+          <a  target="_blank" href="{{'/documents/2025Virtual/Orthology_phyletic.pdf' | absolute_url}}">Orthology Phyletic Patterns Exercise</a><br>
+           <a  target="_blank" href="{{'/documents/2025Virtual/Orthology_complexSearch.pdf' | absolute_url}}">Orthology Complex Search Exercise (optional)</a><br></td>
           </tr>
           <tr>
             <td>12:50 - 1:00 PM<br></td>
