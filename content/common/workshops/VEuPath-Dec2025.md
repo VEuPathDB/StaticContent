@@ -293,8 +293,9 @@ div.instructor-table {
           <tr>
             <td>10:00 - 10:10 AM<br></td>
             <td>Lecture- Introduction to the genome browser</td>
-           <!-- <td><br>
-              <iframe width="280" height="157" src="https://www.youtube.com/embed/nlZbPkw2ImI?si=V-Afb4St_7cTvV8p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td> -->
+            <td><br>
+              <iframe width="280" height="157" src="https://www.youtube.com/embed/I9pNrblR7Jo?si=R4ugzk3Lv3T4Ymmu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br></td>
+              <iframe width="280" height="157" src="https://www.youtube.com/embed/ZS7mZTQdZu0?si=Q9I_gsqW0yFn7yur" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </tr>
           <tr>
             <td>10:10 - 10:45 AM<br></td>
@@ -304,8 +305,8 @@ div.instructor-table {
           <tr>
             <td>10:45 - 11:00 AM<br></td>
             <td>Lecture- How to explore gene models in the genome browser</td>
-           <!-- <td><br>
-              <iframe width="280" height="157" src="https://www.youtube.com/embed/lh12_UfnNKQ?si=8udZRLwEjR_bYhPS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td> -->
+            <td><br>
+            <iframe width="280" height="157" src="https://www.youtube.com/embed/NXZCaY7BymE?si=WSesQytrd8wt_H0j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br></td>
           </tr>
           <tr>
             <td>11:00 - 11:20 AM<br></td>
@@ -321,12 +322,13 @@ div.instructor-table {
           <tr>
             <td>12:10 - 12:40 PM<br></td>
             <td>Gene models discussion; RNA Seq and other data in the genome browser</td>
-           <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/UehojfeJnz8?si=5dV1i51MkvUGdO8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td> -->
+            <td><br><<iframe width="280" height="157" src="https://www.youtube.com/embed/eSIdMAgECl8?si=WMe_l36VROLBdTOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>12:40 - 12:50 PM<br></td>
             <td>Lecture- Correcting Gene models in Apollo</td>
-           <td><a  target="_blank" href="{{'/documents/2025Virtual/Apollo_optional_exercise.pdf' | absolute_url}}">Apollo exercise- optional</a><br>
+            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/_2zb-GYbI1Y?si=Id8EAb-DsLUJoNCD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+            <a  target="_blank" href="{{'/documents/2025Virtual/Apollo_optional_exercise.pdf' | absolute_url}}">Apollo exercise- optional</a><br>
             <a  target="_blank" href="{{'/documents/2025Virtual/Apollo_optional_exercise_answer_key.pdf' | absolute_url}}">Apollo exercise- answer key</a><br><br>
             </td> 
           </tr>
@@ -337,8 +339,8 @@ div.instructor-table {
           </tr>
           <tr>
             <td>1:00 - 1:30 PM<br></td>
-            <td>Optional demo session- Upload your own data into VEuPathDB</td>
-          <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/e60gC-J__9U?si=VrGEcMms36CheiGW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td><br>  -->
+            <td>Wrap-up + Upload your own data into VEuPathDB</td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/BgwNHARszCA?si=JKvIO2OBynoLFjyi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></td><br>
           </tr>
           <tr>
             <td>1:30 - 2:00 PM<br></td>
