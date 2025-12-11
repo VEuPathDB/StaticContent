@@ -232,12 +232,12 @@ div.instructor-table {
           <tr>
             <td>10:00 - 10:10 AM <br></td>
             <td>Welcome & Workshop Overview</td>
-            <td><br><iframe width="560" height="315" src="https://www.youtube.com/embed/44ZJB4hVw_Q?si=P4_BI_NuhzzKiWBS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></td>
+            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/44ZJB4hVw_Q?si=P4_BI_NuhzzKiWBS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></td>
           </tr>
           <tr>
             <td>10:10 - 10:45 AM<br></td>
             <td>Lecture- Introduction to VEuPathDB resources</td>
-            <td><br><iframe width="560" height="315" src="https://www.youtube.com/embed/U5CHgJFJS8w?si=KpJxVN4Nv6MW1Xnp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></td>
+            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/U5CHgJFJS8w?si=KpJxVN4Nv6MW1Xnp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></td>
           </tr>    
          <tr>
             <td>10:45 - 11:30 AM<br></td>
@@ -255,7 +255,7 @@ div.instructor-table {
           <tr>
             <td>11:50 AM - 12:05 PM<br></td>
             <td>Lecture- Introduction to search strategies</td>
-           <td><br><iframe width="560" height="315" src="https://www.youtube.com/embed/gwCsplkm6AE?si=BggUpbuYhvxbmoKe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/gwCsplkm6AE?si=BggUpbuYhvxbmoKe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></td>
           </tr>       
           <tr>
             <td>12:05 - 12:50 PM<br></td>
@@ -270,9 +270,9 @@ div.instructor-table {
           <tr>
             <td>1:00 - 1:30 PM<br></td>
             <td>Discussion, Q&A (optional)</td>
-           <td><br><iframe width="560" height="315" src="https://www.youtube.com/embed/oEEIdr5Ricc?si=j_mt69OPqZ-ZlO6y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-           <iframe width="560" height="315" src="https://www.youtube.com/embed/3npLOfo-FOQ?si=i4cV94Tx_32GXuWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-           <iframe width="560" height="315" src="https://www.youtube.com/embed/hl2JXa8s8mY?si=V9yDs33iBR1Q1KS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></td>
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/oEEIdr5Ricc?si=j_mt69OPqZ-ZlO6y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+           <iframe width="280" height="157" src="https://www.youtube.com/embed/3npLOfo-FOQ?si=i4cV94Tx_32GXuWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+           <iframe width="280" height="157" src="https://www.youtube.com/embed/hl2JXa8s8mY?si=V9yDs33iBR1Q1KS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></td>
           </tr>
         </tbody>
       </table>
