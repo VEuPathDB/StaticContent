@@ -126,9 +126,9 @@ div.instructor-table {
      <!--<h4>Registration deadline is Friday, December 5, 2025. Register by completing the <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_bjTmG0rCJfKADfU" target="_blank">registration form</a>. Once registration closes, participants will receive an email with zoom details.</h4>
      <h4>Workshop times: 10 AM - 1 PM (EST) daily- <a href="https://dateful.com/time-zone-converter" target="_blank">https://dateful.com/time-zone-converter</a></h4>
       <h4><a href="https://upenn.co1.qualtrics.com/jfe/form/SV_bjTmG0rCJfKADfU" target="_blank">Register here.</a></h4>>-->
-     <h4>Registration for this workshop is closed. If you missed the registration deadline, please stay tuned for more virtual workshops coming soon. Materials from this workshop will be available to the VEuPathDB community for asynchronous learning after the workshop ends.</h4>
-      <!--<h4>All materials from this workshop are now available to the VEuPathDB community for asynchronous learning. Please see the right-most column of the <a href="#Schedule">schedule</a> below for links to PDF exercises and lecture recordings.</h4>
-      <img style="width: 35em; margin-top: 0.5em; display: block; margin-left: auto; margin-right: auto; border:1px solid #000000" src="{{ "/assets/images/workshops/VEuPathDB_workshop2025.png" | absolute_url }}" alt="2025VEuPathDBworkshop"/>>-->
+     <!--<h4>Registration for this workshop is closed. If you missed the registration deadline, please stay tuned for more virtual workshops coming soon. Materials from this workshop will be available to the VEuPathDB community for asynchronous learning after the workshop ends.</h4>>-->
+      <h4>All materials from this workshop are now available to the VEuPathDB community for asynchronous learning. Please see the right-most column of the <a href="#Schedule">schedule</a> below for links to PDF exercises and lecture recordings.</h4>
+      <img style="width: 35em; margin-top: 0.5em; display: block; margin-left: auto; margin-right: auto; border:1px solid #000000" src="{{ "/assets/images/workshops/VEuPathDB_workshop2025.png" | absolute_url }}" alt="2025VEuPathDBworkshop"/>
   </div>
 
 
