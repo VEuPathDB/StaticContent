@@ -321,6 +321,7 @@ h1, h2 {
     <div>Hammarton group, Univ Glasgow UK</div>
     <div>Hammond group, Illinois State Univ US</div>
     <div>Harding group, Univ Glasgow UK</div>
+    <div>Haslam group, Cincinnati Children's Hospital US</div>
     <div>Hatakeyama group, Saitama Univ JP</div>
     <div>Hayman group, Massey Univ NZ</div>
     <div>He group, National Univ Singapore SG</div>
