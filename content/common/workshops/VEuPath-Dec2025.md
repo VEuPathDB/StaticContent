@@ -364,7 +364,8 @@ div.instructor-table {
            <tr>
             <td>10:00 - 10:15 AM<br></td>
             <td>Lecture- Transcriptomics and Proteomics data; Enrichment analysis</td>
-            <!-- <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/RyFvD7tTNXE?si=h8V8OEfz9WJoxMgJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td> -->
+            <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/61iUa37b8EM?si=YCPMwQ3uDEAKonlp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+            <iframe width="280" height="157" src="https://www.youtube.com/embed/hYEusquW_Qc?si=S7E8coOenPfYp-k1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>10:15 - 10:45 AM<br></td>
@@ -388,9 +389,7 @@ div.instructor-table {
           <tr>
             <td>10:55 - 11:10 AM<br></td>
             <td>Lecture- Single Cell RNAseq analysis (scRNA-Seq)</td>
-           <!-- <td><br>
-              <iframe width="280" height="157" src="https://www.youtube.com/embed/cGsR_-BZWsk?si=itwInCrFb147kYHl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br>
-              </td> -->
+           <td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/4jSN66AMRPI?si=0egEfwvoxo33sMD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br></td>
           </tr>
           <tr>
             <td>11:10 - 11:35 AM<br></td>
@@ -405,7 +404,7 @@ div.instructor-table {
           <tr>
             <td>11:45 AM - 12:20 PM<br></td>
             <td>Lecture- Orthology & Cross-species Functional Inference</td>
-          <!-- <td><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/ni1QzqIIlsU?si=iqY_-54DbiYKAAWD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br></td> -->
+          <td><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/vtmcmX73YGs?si=BHiX62lfOEZz4ORC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br></td> -->
           </tr>
           <tr>
             <td>12:20 - 12:50 PM<br></td>
@@ -417,7 +416,7 @@ div.instructor-table {
           <tr>
             <td>12:50 - 1:00 PM<br></td>
             <td>Summary of DAY 3</td>
-          <!-- <td><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/5zoF1W21C-U?si=pbEuliGNv6rIPLn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen><br><br></iframe></td> -->
+            <td><br><br><iframe width="280" height="157" src="https://www.youtube.com/embed/omVOa9l6WUo?si=CI_DvCNOxBB8vFj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
           </tr>
           <tr>
             <td>1:00 - 1:30 PM<br></td>
