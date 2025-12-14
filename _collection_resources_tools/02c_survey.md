@@ -6,7 +6,7 @@ listIconKey: line-chart
 tags: [tutorial]
 title: User Survey Results
 permalink: '#survey'
-exclude: [OrthoMCL]
+exclude: [ClinEpiDB,OrthoMCL]
 ---
 <style>
 

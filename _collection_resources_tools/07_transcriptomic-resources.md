@@ -6,7 +6,7 @@ descriptionTitle: "Transcriptomic Resources"
 tags: [tutorial]
 title: "Transcriptomic Resources"
 permalink: '#transcriptomic-resources'
-exclude: [OrthoMCL]
+exclude: [ClinEpiDB,OrthoMCL]
 ---
 <style>
   .transcriptomic-resources-feature {
