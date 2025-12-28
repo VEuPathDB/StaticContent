@@ -579,6 +579,7 @@ h1, h2 {
     <div>Stajich group, Univ California Riverside US</div>
     <div>Striepen group, Univ Pennsylvania US</div>
     <div>Sullivan group, Indiana Univ US</div>
+    <div>Sun group, National Taiwan Univ (College of Medicine) TW</div>
     <div>Sun group, Univ of Pittsburgh US</div>
     <div>Sunter group, Oxford Brookes Univ UK</div>
     <div>Sutherland group, London Sch Hygiene & Tropical Med (LSHTM) UK</div>
