@@ -94,9 +94,9 @@ h1, h2 {
   <div class="container">
   <h1>Thank You to Our 2026 Supporters!</h1>
 
-  <h3>VEuPathDB gratefully acknowledges the individuals and labs who have subscribed in 2026, helping ensure that essential informatics resources remain accessible to the entire research community. We launched our subscription system in 2025 with the goal of long-term financial sustainability. With your contributions, we are continuing to support tens of thousands of mycology, parasitology, and vector biology researchers worldwide in 2026.</i></h3>
+  <h3>VEuPathDB gratefully acknowledges the individuals and labs who have subscribed in 2026, helping ensure that essential informatics resources remain accessible to the entire research community. We launched our subscription system in 2025 with the goal of long-term financial sustainability. With your contributions, we are continuing to support tens of thousands of mycology, parasitology, and vector biology researchers worldwide in 2026.</h3>
 
-  <h3>Don't see your name listed? <a href="/a/app/static-content/subscriptions.html">Subscribe here for 2026 and beyond</a>. If you’ve already subscribed, thank you, and feel free to remind colleagues about the importance of supporting VEuPathDB to keep these resources open for all.</h3>
+  <h3>Don't see your name listed? <a href="/a/app/static-content/subscriptions.html">Subscribe here for 2026</a>. If you’ve already subscribed, thank you, and feel free to remind colleagues about the importance of supporting VEuPathDB to keep these resources open for all.</h3>
 
   <ul>
     <li>This list includes only those who have given permission to be publicly acknowledged</li>
