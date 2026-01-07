@@ -16,7 +16,7 @@ p.indent {
 </style>
 <p>VEuPathDB is pioneering a novel funding approach aimed at securing the long-term financial sustainability of our globally relied-upon biomedical data resources. We gratefully acknowledge our funders and supporters. </p>
 
-<img style="width: 40em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/funderLogos.png" | absolute_url }}" alt="funding logos"/><br/>
+<img style="width: 40em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/funderLogos.jpg" | absolute_url }}" alt="funding logos"/><br/>
 
 Currently, our funding comes from-
 <p> 
