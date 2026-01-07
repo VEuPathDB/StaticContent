@@ -120,13 +120,9 @@ h1, h2 {
     <div>Barbosa group, Univ Auckland NZ</div>
     <div>Bargieri group, Univ Sao Paulo BR</div>
     <div>Bartfai group, Radboud Univ NL</div>
-    <div>Besteiro lab, Univ of Montpellier FR</div>
     <div>Bourgouin group, Inst Pasteur FR</div>
     <div>Cevallos group, Natl Autonomous Univ México MX</div>
-    <div>Cordy group, Wake Forest Univ US</div>
     <div>Crouch group, Univ Glasgow UK</div>
-    <div>Cull group, Univ of Minnesota US</div>
-    <div>David group, CNRS FR</div>
     <div>Debler group, Thomas Jefferson Univ US</div>
     <div>Denny group, Durham Univ UK</div>
     <div>Deshmukh group, National Institute of Animal Biotech IN</div>
