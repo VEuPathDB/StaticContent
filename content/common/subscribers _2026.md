@@ -155,8 +155,10 @@ h1, h2 {
     <div>Lin group, Univ Georgia US</div>
     <div>Luckhart group, Univ of Idaho US</div>
     <div>Meissner group, Ludwig Maximilians Univ DE</div>
+    <div>Michaeli group, Bar-Ilan University IL</div>
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
     <div>Moye-Rowley group, Univ of Iowa US</div>
+    <div>Osorio group, Univ Alejandro de Humboldt CO</div>
     <div>Outten group, Univ of South Carolina US</div>
     <div>Overy group, Agriculture and Agri-Food Canada CA</div>
     <div>Phan group, Seattle Children’s Research Inst US</div>
@@ -166,6 +168,7 @@ h1, h2 {
     <div>Riestra group, San Diego State Univ US</div>
     <div>Roos group, Univ Pennsylvania US</div>
     <div>Rosales-Encina group, CINESTAV MX</div>
+    <div>Rottenberg group, Univ Bern CH</div>
     <div>Ruiz group, Univ of Alcalá ES</div>
     <div>Sachs group, Texas A&M Univ US</div>
     <div>Scaraffia group, Tulane Univ US</div>
