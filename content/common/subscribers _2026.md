@@ -137,10 +137,12 @@ h1, h2 {
     <div>Gissot group, Institut Pasteur de Lille FR</div>
     <div>Gubbels group, Boston College US</div>
     <div>Hatakeyama group, Saitama Univ JP</div>
+    <div>Hernández Hernández group, Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV) MX</div>
     <div>Hill & Jackson-Hayes groups, Rhodes College US</div>
     <div>Hill group, Swedish Univ Agricultural Sci SE</div>
     <div>Hill group, Univ of California, Los Angeles US</div>
     <div>Huberman group, Cornell Univ US</div>
+    <div>Ishino group, Tokyo Institute of Science JP</div>
     <div>James group, Gettysburg College US</div>
     <div>James group, UC Irvine US</div>
     <div>Jones group, Univ Liverpool UK</div>
@@ -149,11 +151,13 @@ h1, h2 {
     <div>Koshy group, Univ Arizona US</div>
     <div>Kowalinski group, EMBL Grenoble FR</div>
     <div>Lavstsen group, Univ Copenhagen DK</div>
+    <div>Lima group, Federal Univ of Rio de Janeiro BR</div>
     <div>Lin group, Univ Georgia US</div>
     <div>Luckhart group, Univ of Idaho US</div>
     <div>Meissner group, Ludwig Maximilians Univ DE</div>
     <div>Miklos Müller & Jan Keithly, US</div>
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
+    <div>Moye-Rowley group, Univ of Iowa US</div>
     <div>Outten group, Univ of South Carolina US</div>
     <div>Overy group, Agriculture and Agri-Food Canada CA</div>
     <div>Phan group, Seattle Children’s Research Inst US</div>
@@ -177,6 +181,7 @@ h1, h2 {
     <div>Verjovski-Almeida group, Univ São Paulo BR</div>
     <div>Vidilaseris group, Univ of Helsinki FI</div>
     <div>Wang group, Yale Univ US</div>
+    <div>Xu group, New Mexico State Univ US</div>
     <div>Young group, Univ Edinburgh UK</div>
     <div>Zhang group, Texas Tech Univ US</div>
     <div>Zhang group, Washington Univ in St. Louis US</div>
@@ -191,6 +196,7 @@ h1, h2 {
    <div>Central Drug Research Inst (CDRI), Lucknow IN – Habib, Kumar, Mishra, Prakash & Zeeshan groups</div>
    <div>Inst Superiore Sanité IT / Foodborne & Neglected Parasitic Diseases (PAN) – Cacciò, Currà, Lalle; Spano; Tosini & Vectorborne Diseases (MTV) – Alano, Lepiscopia, Olivieri, Siciliano, & Silvestrini groups</div>
    <div>Liverpool School of Tropical Medicine</div>
+   <div>Leibniz-HKI DE- Brakhage & Blango labs</div>
    <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
    <div>Weill Cornell Sch Medicine US – Deitsch & Kirkman groups</div>
   </div>
