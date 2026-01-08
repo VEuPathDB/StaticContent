@@ -155,7 +155,6 @@ h1, h2 {
     <div>Lin group, Univ Georgia US</div>
     <div>Luckhart group, Univ of Idaho US</div>
     <div>Meissner group, Ludwig Maximilians Univ DE</div>
-    <div>Miklos Müller & Jan Keithly, US</div>
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
     <div>Moye-Rowley group, Univ of Iowa US</div>
     <div>Outten group, Univ of South Carolina US</div>
