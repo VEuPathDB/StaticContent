@@ -36,13 +36,10 @@ p.indent {
 
   <!-- Content beside thermometer -->
   <div>
-    <b>Funding Sources & Outlook</b>
-    <p>
-      <b>dataExplorer</b> is part of the <a href="https://veupathdb.org/veupathdb/app">VEuPathDB</a> family of data resources. VEuPathDB is pioneering a novel funding approach aimed at securing the long-term financial sustainability of our globally relied-upon biomedical data resource. Funding for VEuPathDB resources comes from voluntary subscriptions by users, donor contributions, bridge funding, and grants.
-    </p>
+    <b>Funding Sources & Outlook: dataExplorer</b> is part of the <a href="https://veupathdb.org/veupathdb/app">VEuPathDB</a> family of data resources. VEuPathDB is pioneering a novel funding approach aimed at securing the long-term financial sustainability of our globally relied-upon biomedical data resource. Funding for VEuPathDB resources comes from voluntary subscriptions by users, donor contributions, bridge funding, and grants.
 
  <p>
-      <b>Subscriptions</b> Starting March 2025, VEuPathDB is implementing a subscription service that will keep our resources open and accessible to everyone while sustaining our operations. Please visit the <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html">Subscription Page</a> to determine your subscription fee and to generate an invoice. For further information, see <a href="https://veupathdb.org/veupathdb/app/static-content/faq.html">FAQ</a>.
+      <b>Subscriptions</b> Starting March 2025, VEuPathDB is implementing a subscription service that will keep our resources open and accessible to everyone while sustaining our operations. For information, see the <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html">Subscription Page</a> and <a href="https://veupathdb.org/veupathdb/app/static-content/faq.html">FAQ</a>.
  </p>
 
  <div class="survey-link">
