@@ -2,7 +2,7 @@
 identifier: support
 listTitle: Support 
 descriptionTitle: Support dataExplorer
-listIconKey: fa-circle-dollar
+listIconKey: circle-dollar
 tags: [tutorial]
 title: Support
 permalink: '#support'

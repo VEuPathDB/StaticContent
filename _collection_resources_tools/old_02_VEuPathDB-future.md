@@ -6,7 +6,7 @@ listIconKey: forward
 tags: [tutorial]
 title: Sustainability and Future Directions
 permalink: '#future'
-exclude: [OrthoMCL]
+exclude: [ClinEpiDB,OrthoMCL]
 ---
 <style>
 
