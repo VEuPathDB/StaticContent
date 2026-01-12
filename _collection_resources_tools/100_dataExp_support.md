@@ -32,8 +32,7 @@ p.indent {
   <img 
     src="{{ "/assets/images/resources_tools/thermometer.png" | absolute_url }}" 
     alt="Funding Goal" 
-    style="width:160px; height:auto;"
-  >
+    style="width:160px; height:auto;">
 
   <!-- Content beside thermometer -->
   <div>
@@ -56,5 +55,6 @@ p.indent {
 
  <div class="survey-link">
   <a href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate Now</a>
+</div>
 </div>
 
