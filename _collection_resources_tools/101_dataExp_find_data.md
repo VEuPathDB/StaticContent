@@ -1,11 +1,11 @@
 ---
-identifier: support
-listTitle: Support 
-descriptionTitle: Support dataExplorer
-listIconKey: usd
+identifier: finddata
+listTitle: Find data
+descriptionTitle: Find, Explore, and Download Datasets
+listIconKey: file
 tags: [tutorial]
-title: Support
-permalink: '#support'
+title: Find data
+permalink: '#finddata'
 category: [ClinEpiDB]
 ---
 <style>

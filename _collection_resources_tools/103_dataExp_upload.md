@@ -1,11 +1,11 @@
 ---
-identifier: support
-listTitle: Support 
-descriptionTitle: Support dataExplorer
-listIconKey: usd
+identifier: upload
+listTitle: Upload Data
+descriptionTitle: Upload Data
+listIconKey: upload
 tags: [tutorial]
-title: Support
-permalink: '#support'
+title: Upload Data
+permalink: '#upload'
 category: [ClinEpiDB]
 ---
 <style>

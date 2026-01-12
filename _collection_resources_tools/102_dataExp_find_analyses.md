@@ -1,11 +1,11 @@
 ---
-identifier: support
-listTitle: Support 
-descriptionTitle: Support dataExplorer
-listIconKey: usd
+identifier: findanalyses
+listTitle: Find Analyses
+descriptionTitle: Find Analyses
+listIconKey: magnifying-glass
 tags: [tutorial]
-title: Support
-permalink: '#support'
+title: Find Analyses
+permalink: '#findanalyses'
 category: [ClinEpiDB]
 ---
 <style>

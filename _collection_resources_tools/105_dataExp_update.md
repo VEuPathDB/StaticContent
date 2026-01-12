@@ -1,11 +1,11 @@
 ---
-identifier: support
-listTitle: Support 
-descriptionTitle: Support dataExplorer
-listIconKey: usd
+identifier: update
+listTitle: Update Data
+descriptionTitle: Update Data
+listIconKey: file-pen
 tags: [tutorial]
-title: Support
-permalink: '#support'
+title: Update Data
+permalink: '#update'
 category: [ClinEpiDB]
 ---
 <style>

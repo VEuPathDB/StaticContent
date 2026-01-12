@@ -1,11 +1,11 @@
 ---
-identifier: support
-listTitle: Support 
-descriptionTitle: Support dataExplorer
-listIconKey: usd
+identifier: start
+listTitle: Get started 
+descriptionTitle: Get Started with dataExplorer
+listIconKey: play
 tags: [tutorial]
-title: Support
-permalink: '#support'
+title: Get Started with dataExplorer
+permalink: '#start'
 category: [ClinEpiDB]
 ---
 <style>

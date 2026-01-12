@@ -1,11 +1,11 @@
 ---
-identifier: support
-listTitle: Support 
-descriptionTitle: Support dataExplorer
-listIconKey: usd
+identifier: share
+listTitle: Share
+descriptionTitle: Share Data
+listIconKey: share
 tags: [tutorial]
-title: Support
-permalink: '#support'
+title: Share Data
+permalink: '#share'
 category: [ClinEpiDB]
 ---
 <style>
