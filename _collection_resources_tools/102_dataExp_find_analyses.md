@@ -2,7 +2,7 @@
 identifier: findanalyses
 listTitle: Find Analyses
 descriptionTitle: Find Analyses
-listIconKey: "magnifying-glass"
+listIconKey: search
 tags: [tutorial]
 title: Find Analyses
 permalink: '#findanalyses'

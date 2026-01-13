@@ -2,7 +2,7 @@
 identifier: update
 listTitle: Update Data
 descriptionTitle: Update Data
-listIconKey: "file-pen"
+listIconKey: edit
 tags: [tutorial]
 title: Update Data
 permalink: '#update'
