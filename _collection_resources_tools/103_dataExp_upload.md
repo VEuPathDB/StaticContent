@@ -28,8 +28,8 @@ p.indent {
 </style>
 
 <p>
-      <h3>Unlock the full power of dataExplorer’s interactive analysis tools for your own dataset.
-</h3>
+      <h4>Unlock the full power of dataExplorer’s interactive analysis tools for your own dataset.
+</h4>
  </p>
 
 <p>

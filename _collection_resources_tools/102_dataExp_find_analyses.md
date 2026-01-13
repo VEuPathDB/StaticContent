@@ -28,7 +28,7 @@ p.indent {
 </style>
 
  <p>
-      <h3>dataExplorer has interactive tools for secondary analysis of data.</h3>
+      <h4>dataExplorer has interactive tools for secondary analysis of data.</h4>
  </p>
 
  <p>

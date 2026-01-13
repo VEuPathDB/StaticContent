@@ -28,7 +28,7 @@ p.indent {
 </style>
 
  <p>
-  <h3>dataExplorer can help you to find, explore, and download datasets shared by others.</h3> 
+  <h4>dataExplorer can help you to find, explore, and download datasets shared by others.</h4> 
  </p>
 
  <p>

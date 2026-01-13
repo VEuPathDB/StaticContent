@@ -28,7 +28,7 @@ p.indent {
 </style>
 
 <p>
-      <h3>All datasets begin as private data, but you can update their access settings at any time.</h3>
+      <h4>All datasets begin as private data, but you can update their access settings at any time.</h4>
  </p>
 
  You always maintain full control over how your data is shared—privately, selectively with specific collaborators, or openly with the entire community.

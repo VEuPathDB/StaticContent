@@ -28,7 +28,7 @@ p.indent {
 </style>
 
 <p>
-      <h3>Keep your dataset current and accurately documented with the <i>Update My Dataset</i> workflow.</h3>
+      <h4>Keep your dataset current and accurately documented with the <i>Update My Dataset</i> workflow.</h4>
  </p>
 
 <p>
