@@ -117,6 +117,7 @@ h1, h2 {
     <div>Alfonzo group, Brown Univ US</div>
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
     <div>Cevallos group, Natl Autonomous Univ México MX</div>
+    <div>Christensen group, Northwestern Univ US</div>
     <div>Crouch group, Univ Glasgow UK</div>
     <div>Denny group, Durham Univ UK</div>
     <div>Diane McMahon-Pratt, US</div>
@@ -125,7 +126,7 @@ h1, h2 {
     <div>Figueiredo group, Gulbenkian Institute for Molecular Medicine PT</div>
     <div>Gubbels group, Boston College US</div>
     <div>Hatakeyama group, Saitama Univ JP</div>
-    <div>Hernández Hernández group, Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV) MX</div>
+    <div>Hernández Hernández group, CINVESTAV MX</div>
     <div>Hill & Jackson-Hayes groups, Rhodes College US</div>
     <div>Hill group, Univ of California, Los Angeles US</div>
     <div>Holmes group, Univ of Missouri‚ Kansas City US</div>
