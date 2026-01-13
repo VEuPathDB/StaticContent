@@ -18,4 +18,4 @@ p.indent {
 
 <p>Built on the proven interactive bioinformatic tools of VEuPathDB and ClinEpiDB, dataExplorer extends these capabilities to support <b>flexible, do-it-yourself data upload and sharing</b>.</p>
 
-<img style="width: 50em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/dataExplorer_overview.png" | absolute_url }}" alt="Searches"/>
+<img style="width: 50em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/dataExplorer_overview.jpg" | absolute_url }}" alt="Searches"/>

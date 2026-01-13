@@ -1,7 +1,7 @@
 ---
 identifier: share
 listTitle: Share
-descriptionTitle: Share Data
+descriptionTitle: Share My Dataset
 listIconKey: share
 tags: [tutorial]
 title: Share Data
@@ -27,36 +27,21 @@ p.indent {
 }
 </style>
 
-<div style="display: flex; align-items: flex-start; gap: 16px;">
-  <!-- Thermometer image -->
-  <img 
-    src="{{ "/assets/images/resources_tools/thermometer.png" | absolute_url }}" 
-    alt="Funding Goal" 
-    style="width:160px; height:auto;">
-
-  <!-- Content beside thermometer -->
-  <div>
-    <b>Funding Sources & Outlook: dataExplorer</b> is part of the <a href="https://veupathdb.org/veupathdb/app">VEuPathDB</a> family of data resources. VEuPathDB is pioneering a novel funding approach aimed at securing the long-term financial sustainability of our globally relied-upon biomedical data resource. Funding for VEuPathDB resources comes from voluntary subscriptions by users, donor contributions, bridge funding, and grants.
-
- <p>
-      <b>Subscriptions</b> Starting March 2025, VEuPathDB is implementing a subscription service that will keep our resources open and accessible to everyone while sustaining our operations. For more information, see the <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html">Subscription Page</a> and <a href="https://veupathdb.org/veupathdb/app/static-content/faq.html">FAQ</a>.
+<p>
+      <h3>All datasets begin as private data, but you can update their access settings at any time.</h3>
  </p>
+
+ You always maintain full control over how your data is shared—privately, selectively with specific collaborators, or openly with the entire community.
+
 
 <p>
  <div class="survey-link">
-  <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html">Subscribe Now</a>
+  <a href="https://clinepidb.org/ce/app/workspace/datasets">Share My Dataset</a>
 </div>
  </p>
 
- <p>
-      <b>Donations</b> Visit <a href="https://veupathdb.org/veupathdb/app/static-content/why-support.html">this page</a> to learn why your support matters. Your contributions help keep vital data resources open for all. 
- </p>
-
-<p>
- <div class="survey-link">
-  <a href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate Now</a>
-</div>
- </p>
- 
-</div>
-
+<b>To begin, click the “Share my dataset” button and select one or more datasets from the table. Click the “Manage Access” button (on the top right side of the table). From there, you can adjust two types of access:</b>
+<li>
+<ul>Community Access — Granting community access makes it a community-contributed dataset, allowing all users to view and download it without restriction. Removing community access returns the dataset to a private state.</ul>
+<ul>Individual Access — Share your dataset directly with specific colleagues by entering their email addresses associated with their dataExplorer accounts. Only you and the individuals you explicitly grant access to will be able to view or download these private datasets.  You can revoke access at any time by removing email addresses from the list of individuals with access to the dataset.</ul>
+</li>

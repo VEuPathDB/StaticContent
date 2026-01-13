@@ -28,13 +28,13 @@ p.indent {
 </style>
 
  <p>
-  <b>dataExplorer can help you to find, explore, and download datasets shared by others.</b> 
+  <h3>dataExplorer can help you to find, explore, and download datasets shared by others.</h3> 
  </p>
 
  <p>
   To explore datasets of interest, click on the “Find datasets” button to navigate to the <b>Dataset Summaries table</b>. Use the table to scan key dataset-level metadata; search or sort the table to identify the datasets you want to examine further. 
-
  </p>
+
 
 <p>
  <div class="survey-link">

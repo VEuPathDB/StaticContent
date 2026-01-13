@@ -28,7 +28,7 @@ p.indent {
 </style>
 
  <p>
-      <b>dataExplorer has interactive tools for secondary analysis pf data.</b>
+      <h3>dataExplorer has interactive tools for secondary analysis of data.</h3>
  </p>
 
  <p>
@@ -41,6 +41,7 @@ p.indent {
 </div>
  </p>
 
+<br>
  <p>
       All of your analyses are saved to your account, so they’re always available -- from any device -- when you’re logged in.
  </p>
