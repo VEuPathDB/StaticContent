@@ -168,12 +168,13 @@ h1, h2 {
     <div>Zhu group, Jilin Univ CN</div>
   </div>
 
-  <h2>Institutional Subscriptions<sup>*</sup></h2>
+  <h2>Multi-lab or Institutional Subscriptions<sup>*</sup></h2>
   <p style="text-align: center;"><i><sup>*</sup>We list only those who consented to be publicly listed.</i></p>
 
   <div class="institutions">
    <div>Central Drug Research Inst (CDRI), Lucknow IN – Habib, Kumar, Mishra, Prakash & Zeeshan groups</div>
    <div>Leibniz-HKI DE- Brakhage & Blango labs</div>
+   <div>TMRC India- CMC Vellore and IIPH Shillong</div>
    <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
   </div>
 </div>
