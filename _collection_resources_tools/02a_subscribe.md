@@ -41,15 +41,15 @@ p.indent {
 </style>
 
 
-<div style="display: flex; align-items: flex-start; gap: 16px;">
-  <!-- Thermometer image -->
+<!--<div style="display: flex; align-items: flex-start; gap: 16px;">
+  Thermometer image
   <img 
     src="{{ "/assets/images/resources_tools/thermometer.png" | absolute_url }}" 
     alt="Funding Goal" 
     style="width:160px; height:auto;"
   >
 
-  <!-- Content beside thermometer -->
+   Content beside thermometer -->
   <div>
     <p>
       Starting March 2025, VEuPathDB is implementing a subscription service that will keep our resources open and accessible to everyone while sustaining our operations.
@@ -68,9 +68,10 @@ p.indent {
 
  Please visit the <a href="/a/app/static-content/subscriptions.html">Subscription Page</a> to determine your subscription fee and to generate an invoice.  For further information, see <a href="/a/app/static-content/faq.html">FAQ</a>.
   </div>
-</div>
 
-<!-- Your support is invaluable for keeping the VEuPathDB resources alive. Please <a href="https://qa.plasmodb.org/plasmo.b69/app/static-content/why-subscribe.html">visit this page</a> to learn more about how VEuPathDB contributes to the biomedical community and why your support is crucial! -->
+<!--</div>
+
+ Your support is invaluable for keeping the VEuPathDB resources alive. Please <a href="https://qa.plasmodb.org/plasmo.b69/app/static-content/why-subscribe.html">visit this page</a> to learn more about how VEuPathDB contributes to the biomedical community and why your support is crucial! -->
 
 
 
