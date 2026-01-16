@@ -6,7 +6,7 @@ listIconKey: user-circle-o
 tags: [tutorial]
 title: Subscribe
 permalink: '#subscription'
-exclude: [OrthoMCL]
+exclude: [ClinEpiDB,OrthoMCL]
 ---
 <style>
 p.indent {
@@ -56,8 +56,9 @@ p.indent {
     </p>
 
  <div class="survey-link" style="margin: 8px 0;">
-      <a href="/a/app/static-content/subscribers.html" target="_blank">2025 Subscribers</a>
       <a href="/a/app/static-content/subscriptions.html" target="_blank">Subscribe Now</a>
+      <a href="/a/app/static-content/subscribers_2026.html" target="_blank">2026 Subscribers</a>
+      <a href="/a/app/static-content/subscribers.html" target="_blank">2025 Subscribers</a>
  </div>
 
  <p>
