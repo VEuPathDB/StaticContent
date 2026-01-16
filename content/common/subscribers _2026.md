@@ -117,6 +117,7 @@ h1, h2 {
     <div>Alfonzo group, Brown Univ US</div>
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
     <div>Cevallos group, Natl Autonomous Univ México MX</div>
+    <div>Chasen group, Univ South Alabama US</div>
     <div>Christensen group, Northwestern Univ US</div>
     <div>Crouch group, Univ Glasgow UK</div>
     <div>Denny group, Durham Univ UK</div>
@@ -136,12 +137,14 @@ h1, h2 {
     <div>James group, UC Irvine US</div>
     <div>Jones group, Univ Liverpool UK</div>
     <div>Keith Gull, Univ Oxford UK</div>
+    <div>Kelliher group, Univ of Massachusetts US</div>
     <div>Kooij group, Radboud Univ NL</div>
     <div>Kowalinski group, EMBL Grenoble FR</div>
     <div>Lima group, Federal Univ of Rio de Janeiro BR</div>
     <div>Lin group, Univ Georgia US</div>
     <div>Meissner group, Ludwig Maximilians Univ DE</div>
     <div>Michaeli group, Bar-Ilan University IL</div>
+    <div>Mok group, Columbia Univ US</div>
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
     <div>Moye-Rowley group, Univ of Iowa US</div>
     <div>Osorio group, Univ Alejandro de Humboldt CO</div>
