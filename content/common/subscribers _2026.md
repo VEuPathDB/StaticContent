@@ -116,6 +116,7 @@ h1, h2 {
     <div>Adelman group, Texas A&M Univ US</div>
     <div>Alfonzo group, Brown Univ US</div>
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
+    <div>Bastin group, Institut Pasteur FR</div>
     <div>Cevallos group, Natl Autonomous Univ México MX</div>
     <div>Chasen group, Univ South Alabama US</div>
     <div>Christensen group, Northwestern Univ US</div>
@@ -166,6 +167,7 @@ h1, h2 {
     <div>Wang group, Yale Univ US</div>
     <div>Xu group, New Mexico State Univ US</div>
     <div>Young group, Univ Edinburgh UK</div>
+    <div>Zhang group, Univ of Nebraska–Lincoln US</div>
     <div>Zhang group, Washington Univ in St. Louis US</div>
     <div>Zheng group, Nanchang Univ CN</div>
     <div>Zhu group, Jilin Univ CN</div>
