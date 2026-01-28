@@ -126,6 +126,7 @@ h1, h2 {
     <div>Engstler group, Julius-Maximilians-Universität Würzburg DE</div>
     <div>Ersfeld group, Univ Bayreuth DE</div>
     <div>Figueiredo group, Gulbenkian Institute for Molecular Medicine PT</div>
+    <div>Greigert group, Univ de Reims Champagne-Ardenne FR</div>
     <div>Gubbels group, Boston College US</div>
     <div>Hatakeyama group, Saitama Univ JP</div>
     <div>Hernández Hernández group, CINVESTAV MX</div>
@@ -165,6 +166,7 @@ h1, h2 {
     <div>Verjovski-Almeida group, Univ São Paulo BR</div>
     <div>Vidilaseris group, Univ of Helsinki FI</div>
     <div>Wang group, Yale Univ US</div>
+    <div>Wilson group, Univ Adelaide AU</div>
     <div>Xu group, New Mexico State Univ US</div>
     <div>Young group, Univ Edinburgh UK</div>
     <div>Zhang group, Univ of Nebraska–Lincoln US</div>
