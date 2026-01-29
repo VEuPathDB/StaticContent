@@ -126,6 +126,7 @@ h1, h2 {
     <div>Diane McMahon-Pratt, US</div>
     <div>Engstler group, Julius-Maximilians-Universität Würzburg DE</div>
     <div>Ersfeld group, Univ Bayreuth DE</div>
+    <div>Fidock group, Columbia Univ US</div>
     <div>Figueiredo group, Gulbenkian Institute for Molecular Medicine PT</div>
     <div>Greigert group, Univ de Reims Champagne-Ardenne FR</div>
     <div>Gubbels group, Boston College US</div>
