@@ -130,6 +130,7 @@ h1, h2 {
     <div>Figueiredo group, Gulbenkian Institute for Molecular Medicine PT</div>
     <div>Greigert group, Univ de Reims Champagne-Ardenne FR</div>
     <div>Gubbels group, Boston College US</div>
+    <div>Harun group, Univ Sains Malaysia MY</div>
     <div>Hatakeyama group, Saitama Univ JP</div>
     <div>Hernández Hernández group, CINVESTAV MX</div>
     <div>Hill & Jackson-Hayes groups, Rhodes College US</div>
@@ -140,6 +141,7 @@ h1, h2 {
     <div>James group, Gettysburg College US</div>
     <div>James group, UC Irvine US</div>
     <div>Jones group, Univ Liverpool UK</div>
+    <div>Kanzok group, Loyola Univ Chicago US</div>
     <div>Keith Gull, Univ Oxford UK</div>
     <div>Kelliher group, Univ of Massachusetts US</div>
     <div>Kooij group, Radboud Univ NL</div>
@@ -153,6 +155,7 @@ h1, h2 {
     <div>Moye-Rowley group, Univ of Iowa US</div>
     <div>Osorio group, Univ Alejandro de Humboldt CO</div>
     <div>Outten group, Univ of South Carolina US</div>
+    <div>Pauling group, Univ Central Missouri US</div>
     <div>Phan group, Seattle Children’s Research Inst US</div>
     <div>Rentsch group, Univ Bern CH</div>
     <div>Roos group, Univ Pennsylvania US</div>
