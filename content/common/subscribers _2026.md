@@ -117,7 +117,9 @@ h1, h2 {
     <div>Alfonzo group, Brown Univ US</div>
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
     <div>Bastin group, Institut Pasteur FR</div>
+    <div>Biotech-advisor.com US</div>
     <div>Cevallos group, Natl Autonomous Univ México MX</div>
+    <div>Chakrabarti group, Univ of North Carolina at Chapel Hill US</div>
     <div>Chasen group, Univ South Alabama US</div>
     <div>Christensen group, Northwestern Univ US</div>
     <div>Crouch group, Univ Glasgow UK</div>
@@ -171,6 +173,7 @@ h1, h2 {
     <div>Verjovski-Almeida group, Univ São Paulo BR</div>
     <div>Vidilaseris group, Univ of Helsinki FI</div>
     <div>Wang group, Yale Univ US</div>
+    <div>Welch group, Univ of California, Berkeley US</div>
     <div>Wilson group, Univ Adelaide AU</div>
     <div>Xu group, New Mexico State Univ US</div>
     <div>Young group, Univ Edinburgh UK</div>
