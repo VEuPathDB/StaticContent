@@ -6,7 +6,7 @@ listIconKey: search
 tags: [tutorial]
 title: Find Analyses
 permalink: '#findanalyses'
-category: [ClinEpiDB]
+category: [DataExplorer,ClinEpiDB]
 ---
 <style>
 p.indent {

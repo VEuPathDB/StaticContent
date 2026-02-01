@@ -6,7 +6,7 @@ listIconKey: usd
 tags: [tutorial]
 title: Support
 permalink: '#support'
-category: [ClinEpiDB]
+category: [DataExplorer,ClinEpiDB]
 ---
 <style>
 p.indent {

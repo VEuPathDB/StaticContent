@@ -6,7 +6,7 @@ listIconKey: upload
 tags: [tutorial]
 title: Upload Data
 permalink: '#upload'
-category: [ClinEpiDB]
+category: [DataExplorer,ClinEpiDB]
 ---
 <style>
 p.indent {

@@ -6,7 +6,7 @@ listIconKey: share
 tags: [tutorial]
 title: Share Data
 permalink: '#share'
-category: [ClinEpiDB]
+category: [DataExplorer,ClinEpiDB]
 ---
 <style>
 p.indent {

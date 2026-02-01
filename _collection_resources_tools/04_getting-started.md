@@ -6,7 +6,7 @@ listIconKey: hourglass-start
 tags: [tutorial]
 title: Getting Started
 permalink: '#getting-started'
-exclude: [ClinEpiDB,OrthoMCL]
+exclude: [DataExplorer,ClinEpiDB,OrthoMCL]
 ---
 <style>
 p.indent {

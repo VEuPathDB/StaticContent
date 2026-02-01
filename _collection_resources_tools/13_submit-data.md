@@ -6,7 +6,7 @@ descriptionTitle: How to Submit Data
 tags: [tutorial]
 title: How to Submit Data
 permalink: '#submit-data'
-exclude: [ClinEpiDB,OrthoMCL]
+exclude: [DataExplorer,ClinEpiDB,OrthoMCL]
 ---
 <style>
   .submit-data-feature {

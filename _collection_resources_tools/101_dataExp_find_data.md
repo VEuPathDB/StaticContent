@@ -6,7 +6,7 @@ listIconKey: file
 tags: [tutorial]
 title: Find data
 permalink: '#finddata'
-category: [ClinEpiDB]
+category: [DataExplorer,ClinEpiDB]
 ---
 <style>
 p.indent {

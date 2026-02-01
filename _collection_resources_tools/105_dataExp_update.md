@@ -6,7 +6,7 @@ listIconKey: edit
 tags: [tutorial]
 title: Update Data
 permalink: '#update'
-category: [ClinEpiDB]
+category: [DataExplorer,ClinEpiDB]
 ---
 <style>
 p.indent {

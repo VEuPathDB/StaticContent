@@ -6,7 +6,7 @@ listIconKey: usd
 tags: [tutorial]
 title: Funding
 permalink: '#funding'
-exclude: [ClinEpiDB,OrthoMCL]
+exclude: [DataExplorer,ClinEpiDB,OrthoMCL]
 ---
 <style>
 p.indent {

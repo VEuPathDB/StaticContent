@@ -6,7 +6,7 @@ listIconKey: code-fork fa-rotate-270
 tags: [tutorial]
 title: Search Strategies
 permalink: '#search-strategies'
-exclude: [ClinEpiDB,OrthoMCL]
+exclude: [DataExplorer,ClinEpiDB,OrthoMCL]
 ---
 <style>
   .search-strategies-feature {
