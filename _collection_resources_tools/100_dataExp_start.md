@@ -6,7 +6,7 @@ listIconKey: play
 tags: [tutorial]
 title: Get Started with dataExplorer
 permalink: '#start'
-category: [ClinEpiDB]
+category: [ClinEpiDB,DataExplorer]
 ---
 <style>
 p.indent {

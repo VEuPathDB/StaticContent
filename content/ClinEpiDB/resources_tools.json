@@ -1,5 +1,5 @@
 ---
 layout: null
-permalink: ClinEpiDB/resources_tools.json
+permalink: DataExplorer/resources_tools.json
 ---
 {% include resources_tools.json %}
