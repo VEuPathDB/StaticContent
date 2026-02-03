@@ -118,6 +118,7 @@ h1, h2 {
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
     <div>Bastin group, Institut Pasteur FR</div>
     <div>Biotech-advisor.com US</div>
+    <div>Blair group, Earlham College US</div>
     <div>Cevallos group, Natl Autonomous Univ México MX</div>
     <div>Chakrabarti group, Univ of North Carolina at Chapel Hill US</div>
     <div>Chasen group, Univ South Alabama US</div>
@@ -148,15 +149,19 @@ h1, h2 {
     <div>Kelliher group, Univ of Massachusetts US</div>
     <div>Kooij group, Radboud Univ NL</div>
     <div>Kowalinski group, EMBL Grenoble FR</div>
+    <div>Krysan group, Univ Iowa US</div>
     <div>Lima group, Federal Univ of Rio de Janeiro BR</div>
     <div>Lin group, Univ Georgia US</div>
+    <div>Lipovsek group, Univ College London GB</div>
     <div>Meissner group, Ludwig Maximilians Univ DE</div>
     <div>Michaeli group, Bar-Ilan University IL</div>
     <div>Mok group, Columbia Univ US</div>
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
     <div>Moye-Rowley group, Univ of Iowa US</div>
+    <div>Ohira group, Nazareth Univ US</div>
     <div>Osorio group, Univ Alejandro de Humboldt CO</div>
     <div>Outten group, Univ of South Carolina US</div>
+    <div>Pain group, KAUST SA</div>
     <div>Pauling group, Univ Central Missouri US</div>
     <div>Phan group, Seattle Children’s Research Inst US</div>
     <div>Rentsch group, Univ Bern CH</div>
@@ -189,6 +194,7 @@ h1, h2 {
   <div class="institutions">
    <div>Central Drug Research Inst (CDRI), Lucknow IN – Habib, Kumar, Mishra, Prakash & Zeeshan groups</div>
    <div>Leibniz-HKI DE- Brakhage & Blango labs</div>
+   <div>Malaria and Neglected Parasitic Diseases Program, ISGLOBAL, Barcelona- Cortés, Mayor, Dobaño, Fernandez-Becerra, Moncunill, Padilla, Izquierdo, Fernandez-Busquets, del Portillo groups</div>
    <div>TMRC India- CMC Vellore and IIPH Shillong</div>
    <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
   </div>
