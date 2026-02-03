@@ -1,5 +1,5 @@
 ---
-permalink: license
+permalink: data_license
 title: VEuPathDB Data License
 tags: [general]
 ---
