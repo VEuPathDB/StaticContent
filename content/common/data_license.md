@@ -4,6 +4,8 @@ title: VEuPathDB Data License
 tags: [general]
 ---
 
+<div class="static-content">
+
 <h3>About this page</h3>
 
 The high-level summary of the VEuPathDB Data License is provided below for informational purposes only and is intended to outline key concepts under consideration. It does not constitute a binding agreement, does not grant any rights, and does not replace or supersede the final VEuPathDB data license. Any use of VEuPathDB data will be governed solely by the terms of the final executed licensing agreement.
@@ -12,10 +14,8 @@ We welcome feedback as we finalize the full licensing agreement. Please send you
 
 <h1>VEuPathDB Data License – High-Level Summary for Commercial Users</h1>
 
-<b>Purpose</b>
+<b>Purpose</b><br>
 VEuPathDB is a publicly funded, open-access scientific resource that integrates, curates, and provides tools to analyze pathogen genomics and related datasets. This summary explains how commercial entities can use the database while respecting data provenance, community norms, and your rights as a subscriber.
-
-<div class="static-content">
 
 <h3>1. Who This Applies To</h3>
 <ul>
@@ -57,7 +57,7 @@ Note: Original raw data usually resides in external repositories (e.g., NCBI SRA
 <ul>
 <li>Training models using VEuPathDB is <b>permitted</b>, including for commercial products.</li>
 <li>AI outputs must <b>not enable reconstruction</b> of the database.</li>
-<li>AI-generated results should <b>not be presented as VEuPathDB data<b>.</li>
+<li>AI-generated results should <b>not be presented as VEuPathDB data</b>.</li>
 <li>High-level disclosure of AI training is requested but proprietary algorithms and model weights remain confidential.</li>
 </ul>
 <br>
