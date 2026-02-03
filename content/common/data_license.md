@@ -10,11 +10,11 @@ tags: [general]
 
 The high-level summary of the VEuPathDB Data License is provided below for informational purposes only and is intended to outline key concepts under consideration. It does not constitute a binding agreement, does not grant any rights, and does not replace or supersede the final VEuPathDB data license. Any use of VEuPathDB data will be governed solely by the terms of the final executed licensing agreement.
 
-We welcome feedback as we finalize the full licensing agreement. Please send your comments via the <a href="/a/app/contact-us">Contact Form</a>
+We welcome feedback as we finalize the full licensing agreement. Please send your comments using the <a href="/a/app/contact-us">Contact Form</a>.
 
-<h1>VEuPathDB Data License – High-Level Summary for Commercial Users</h1>
+<h2>VEuPathDB Data License – High-Level Summary for Commercial Users</h2>
 
-<b>Purpose</b><br>
+<h3>Purpose</h3><br>
 VEuPathDB is a publicly funded, open-access scientific resource that integrates, curates, and provides tools to analyze pathogen genomics and related datasets. This summary explains how commercial entities can use the database while respecting data provenance, community norms, and your rights as a subscriber.
 
 <h3>1. Who This Applies To</h3>
