@@ -8,7 +8,7 @@ tags: [general]
 
 <h3>About this page</h3>
 
-The high-level summary of the VEuPathDB Data License is provided below for informational purposes only and is intended to outline key concepts under consideration. It does not constitute a binding agreement, does not grant any rights, and does not replace or supersede the final VEuPathDB data license. Any use of VEuPathDB data will be governed solely by the terms of the final executed licensing agreement. We welcome feedback the <a href="/a/app/contact-us">Contact Form</a> as we finalize the full licensing agreement.<br><br>
+The high-level summary of the VEuPathDB Data License is provided below for informational purposes only and is intended to outline key concepts under consideration. It does not constitute a binding agreement, does not grant any rights, and does not replace or supersede the final VEuPathDB data license. Any use of VEuPathDB data will be governed solely by the terms of the final executed licensing agreement. We welcome feedback via the <a href="/a/app/contact-us">Contact Form</a> as we finalize the full licensing agreement.<br><br>
 
 <h2>VEuPathDB Data License – High-Level Summary for Commercial Users</h2>
 
