@@ -33,6 +33,59 @@ VEuPathDB is a publicly funded, open-access scientific resource that integrates,
 </ul>
 <br>
 
+<h3>3. Restrictions</h3>
+<ul>
+<li>Do <b>not</b> redistribute or resell the database as a competing product.</li>
+<li>Do <b>not</b> create a substitute service or “mirror” VEuPathDB.</li>
+<li>Do <b>not</b> use the database to train AI models that primarily replicate or replace the database itself.</li>
+<li>Respect original data source restrictions — primary raw data may be governed by external repositories, consent, or publication terms.</li>
+</ul>
+<br>
 
+<h3>4. Value Added by VEuPathDB</h3>
+The license governs VEuPathDB’s <b>value-added content</b>, including:
+<ul>
+<li>Aggregated and curated datasets.</li>
+<li>Metadata and standardized annotations.</li>
+<li>Analytical and visualization tools.</li>
+<li>Cross-species comparisons leveraging orthology.</li>
+</ul>
+Note: Original raw data usually resides in external repositories (e.g., NCBI SRA).
+<br>
+
+<h3>5. Machine Learning & AI</h3>
+<ul>
+<li>Training models using VEuPathDB is <b>permitted</b>, including for commercial products.</li>
+<li>AI outputs must <b>not enable reconstruction</b> of the database.</li>
+<li>AI-generated results should <b>not be presented as VEuPathDB data<b>.</li>
+<li>High-level disclosure of AI training is requested but proprietary algorithms and model weights remain confidential.</li>
+</ul>
+<br>
+
+<h3>6. Attribution</h3>
+<ul>
+<li>Cite VEuPathDB and the original data sources in publications and products.</li>
+<li>Include dataset accession IDs and version or date of access.</li>
+<li>Use the statement: “This work used data from VEuPathDB.”</li>
+</ul>
+<br>
+
+<h3>7. Institutional and Legal Notes</h3>
+<ul>
+<li>Developed and maintained primarily at the <b>University of Pennsylvania</b>.</li>
+<li>Penn does <b>not</b> claim ownership over the primary data or endorse specific uses or products.</li>
+<li>Governing law: <b>U.S. federal law and Pennsylvania state law</b>.</li>
+</ul>
+<br>
+
+<h3>8. Key Takeaways</h3>
+<ol>
+<li><b>Open and safe to use</b>: You can use VEuPathDB data for research and commercial innovation.</li>
+<li><b>Value-added protection</b>: The license protects the database as a curated, integrated resource.</li>
+<li><b>AI-friendly</b>: ML and AI applications are explicitly supported, with safeguards to prevent misuse.</li>
+<li><b>Commercial clarity</b>: Companies can build products, train models, and publish results, as long as they do not redistribute or replicate the database itself.</li>
+<li><b>Transparent and responsible</b>: Attribution and respect for upstream data rights are required.</li>
+</ol>
+<br>
 
 </div>
