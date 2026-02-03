@@ -468,8 +468,10 @@ div.flex-container {
   <div class="column11">
 
   <p>Subscription rates are based on company size.</p>
-  <p>For an invoice please <a href="mailto:subscriptions@veupathdb.org">Contact Us</a></p>.
-  <p>A high level summary of the <b>VEuPathDB data license for commercial users</b> can be found <a href="/a/app/static-content/data_license.html">on this page</a>.</p><br>
+  <p>A high level summary of the <b>VEuPathDB data license for commercial users</b> can be found <a href="/a/app/static-content/data_license.html">on this page</a>.</p>
+  <br>
+  <p>For an invoice please <a href="mailto:subscriptions@veupathdb.org">Contact Us.</a></p>
+  <br>
 
   </div>
 
