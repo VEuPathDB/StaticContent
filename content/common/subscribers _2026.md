@@ -119,11 +119,13 @@ h1, h2 {
     <div>Bastin group, Institut Pasteur FR</div>
     <div>Biotech-advisor.com US</div>
     <div>Blair group, Earlham College US</div>
+    <div>Canovas Lopez group, Univ of Seville ES</div>
     <div>Cevallos group, Natl Autonomous Univ México MX</div>
     <div>Chakrabarti group, Univ of North Carolina at Chapel Hill US</div>
     <div>Chasen group, Univ South Alabama US</div>
     <div>Christensen group, Northwestern Univ US</div>
     <div>Crouch group, Univ Glasgow UK</div>
+    <div>Culleton group, Ehime Univ JP</div>
     <div>Denny group, Durham Univ UK</div>
     <div>Dewar group, Lancaster Univ UK</div>
     <div>Diane McMahon-Pratt, US</div>
@@ -131,6 +133,7 @@ h1, h2 {
     <div>Ersfeld group, Univ Bayreuth DE</div>
     <div>Fidock group, Columbia Univ US</div>
     <div>Figueiredo group, Gulbenkian Institute for Molecular Medicine PT</div>
+    <div>Filler group, Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center US</div>
     <div>Greigert group, Univ de Reims Champagne-Ardenne FR</div>
     <div>Gubbels group, Boston College US</div>
     <div>Harun group, Univ Sains Malaysia MY</div>
@@ -140,6 +143,7 @@ h1, h2 {
     <div>Hill group, Univ of California, Los Angeles US</div>
     <div>Holmes group, Univ of Missouri‚ Kansas City US</div>
     <div>Huberman group, Cornell Univ US</div>
+    <div>Inaoka group, Nagasaki Univ JP</div>
     <div>Ishino group, Tokyo Institute of Science JP</div>
     <div>James group, Gettysburg College US</div>
     <div>James group, UC Irvine US</div>
@@ -158,11 +162,13 @@ h1, h2 {
     <div>Mok group, Columbia Univ US</div>
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
     <div>Moye-Rowley group, Univ of Iowa US</div>
+    <div>Offmann group, Univ of Nantes FR</div>
     <div>Ohira group, Nazareth Univ US</div>
     <div>Osorio group, Univ Alejandro de Humboldt CO</div>
     <div>Outten group, Univ of South Carolina US</div>
     <div>Pain group, KAUST SA</div>
     <div>Pauling group, Univ Central Missouri US</div>
+    <div>Pavlovic-Djuranovic group, Washington Univ US</div>
     <div>Phan group, Seattle Children’s Research Inst US</div>
     <div>Rentsch group, Univ Bern CH</div>
     <div>Roos group, Univ Pennsylvania US</div>
