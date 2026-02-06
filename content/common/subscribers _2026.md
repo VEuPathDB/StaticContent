@@ -116,6 +116,7 @@ h1, h2 {
     <div>Adelman group, Texas A&M Univ US</div>
     <div>Alfonzo group, Brown Univ US</div>
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
+    <div>Bartfai group, Radboud Univ NL</div>
     <div>Bastin group, Institut Pasteur FR</div>
     <div>Biotech-advisor.com US</div>
     <div>Blair group, Earlham College US</div>
@@ -134,6 +135,7 @@ h1, h2 {
     <div>Fidock group, Columbia Univ US</div>
     <div>Figueiredo group, Gulbenkian Institute for Molecular Medicine PT</div>
     <div>Filler group, Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center US</div>
+    <div>Gissot group, Institut Pasteur de Lille FR</div>
     <div>Greigert group, Univ de Reims Champagne-Ardenne FR</div>
     <div>Gubbels group, Boston College US</div>
     <div>Harun group, Univ Sains Malaysia MY</div>
@@ -166,6 +168,7 @@ h1, h2 {
     <div>Ohira group, Nazareth Univ US</div>
     <div>Osorio group, Univ Alejandro de Humboldt CO</div>
     <div>Outten group, Univ of South Carolina US</div>
+    <div>Overy group, Agriculture and Agri-Food Canada CA</div>
     <div>Pain group, KAUST SA</div>
     <div>Pauling group, Univ Central Missouri US</div>
     <div>Pavlovic-Djuranovic group, Washington Univ US</div>
@@ -200,6 +203,7 @@ h1, h2 {
   <div class="institutions">
    <div>Central Drug Research Inst (CDRI), Lucknow IN – Habib, Kumar, Mishra, Prakash & Zeeshan groups</div>
    <div>Leibniz-HKI DE- Brakhage & Blango labs</div>
+   <div>Liverpool School of Tropical Medicine</div>
    <div>Malaria and Neglected Parasitic Diseases Program, ISGLOBAL, Barcelona- Cortés, Mayor, Dobaño, Fernandez-Becerra, Moncunill, Padilla, Izquierdo, Fernandez-Busquets, del Portillo groups</div>
    <div>TMRC India- CMC Vellore and IIPH Shillong</div>
    <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
