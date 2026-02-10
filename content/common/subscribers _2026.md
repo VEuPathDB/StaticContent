@@ -120,7 +120,6 @@ h1, h2 {
     <div>Bastin group, Institut Pasteur FR</div>
     <div>Biotech-advisor.com US</div>
     <div>Blair group, Earlham College US</div>
-    <div>Canovas Lopez group, Univ of Seville ES</div>
     <div>Cevallos group, Natl Autonomous Univ México MX</div>
     <div>Chakrabarti group, Univ of North Carolina at Chapel Hill US</div>
     <div>Chasen group, Univ South Alabama US</div>
@@ -185,6 +184,7 @@ h1, h2 {
     <div>Treeck group, Gulbenkian Inst Molecular Med PT</div>
     <div>Valdés group, Cinvestav MX</div>
     <div>Verjovski-Almeida group, Univ São Paulo BR</div>
+    <div>Vidal group, Oswaldo Cruz Foundation BR</div>
     <div>Vidilaseris group, Univ of Helsinki FI</div>
     <div>Wang group, Yale Univ US</div>
     <div>Welch group, Univ of California, Berkeley US</div>
@@ -207,6 +207,7 @@ h1, h2 {
    <div>Malaria and Neglected Parasitic Diseases Program, ISGLOBAL, Barcelona- Cortés, Mayor, Dobaño, Fernandez-Becerra, Moncunill, Padilla, Izquierdo, Fernandez-Busquets, del Portillo groups</div>
    <div>TMRC India- CMC Vellore and IIPH Shillong</div>
    <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
+   <div>Univ of Sevilla ES- Corrochano and Canovas groups</div>
   </div>
 </div>
 
