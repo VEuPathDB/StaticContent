@@ -317,8 +317,8 @@ div.flex-container {
       </ul>
       <p style="font-style:italic;margin-top:0.5em">Calculate applicable subscription rates based on (1) your frequency of database usage and (2) the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB.  <b>Please be sure to consider salaries for all participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</b></p>
       <p style="text-align:center;font-weight:bold;margin:0.5em 0">OR</p>
-      <p>Use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) to determine subscription fees based on budget & resource usage, while also considering differing usage by various individuals or projects.</p>
-      <p>Guidance for filling out the invoice form can be found <a href="https://veupathdb.org/veupathdb/app/static-content/invoice_help.html" target="_blank">on this page: Invoice Help</a>.</p>
+      <p>Use our <a href="https://docs.google.com/spreadsheets/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank" rel="noopener noreferrer">fee calculator</a> (also downloadable as an <a target="_blank" href="{{ '/documents/Subscription_Fee_Calculator_2025.xlsx' | absolute_url }}">Excel file</a>) to determine subscription fees based on budget & resource usage, while also considering differing usage by various individuals or projects.</p><br>
+      <p>Samples of invoice forms + helpful tips and instructions for filling out the invoice form can be found <a href="https://veupathdb.org/veupathdb/app/static-content/invoice_help.html" target="_blank">on this page</a>.</p>
     </div>
 
   <div class="column12">
