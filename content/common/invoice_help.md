@@ -34,7 +34,7 @@ tags: [general]
 
 This page provides instructions and guidance for filling out the <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_dd9qC4SU0SU343A" target="_blank">VEuPathDB invoice form</a>. 
 <ul>
-<li>To look at a sample invoice, <a href="/a/app/static-content/documents/sample_invoice.pdf" target="_blank">click here</a>.</li>
+<li>To look at a sample invoice, <a href="{{ "/a/app/static-content/documents/sample_invoice.pdf" | absolute_url }}" target="_blank">click here</a>.</li>
 <li>To look at a sample invoice with explanatory notes, <a href="/a/app/static-content/documents/sample_invoice_annotated.pdf" target="_blank">click here</a>.</li>
 </ul>
 
