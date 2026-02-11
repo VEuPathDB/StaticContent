@@ -44,8 +44,7 @@ VEuPathDB invoices can be generated for individual labs/research groups. They ca
 
 First, select one of these options to indicate whether this invoice covers an individual lab or a larger unit.
 
-<img src="/assets/images/invoice/invoice1_lab_group.png" alt="invoice">
-
+<img src="{{ "/assets/images/invoice/invoice1_lab_group.png" | absolute_url }}" alt="invoice">
 
 
 </div>
