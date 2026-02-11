@@ -36,8 +36,18 @@ tags: [general]
 <h2>How to Complete the Invoice Form</h2>
 
 <p>This page provides instructions and guidance for filling out the <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_dd9qC4SU0SU343A" target="_blank">VEuPathDB invoice form</a>. 
+
+Sample invoice <a href="https://static-content.veupathdb.org/documents/sample_invoice.pdf" target="_blank">
+ <img src="{{ "/assets/images/invoice/sample_invoice_thumbnail.jpeg" | absolute_url }}" alt="Invoice Form">
+</a>
+
+Sample invoice with explanatory notes <a href="ttps://static-content.veupathdb.org/documents/sample_invoice_annotated.pdf" target="_blank">
+ <img src="{{ "/assets/images/invoice/sample_anno_invoice_thumbnail.jpeg" | absolute_url }}" alt="Invoice Form">
+</a>
+
 <ul>
 <li>To look at a sample invoice, <a href="https://static-content.veupathdb.org/documents/sample_invoice.pdf" target="_blank">click here</a>.</li>
+
 <li>To look at a sample invoice with explanatory notes, <a href="https://static-content.veupathdb.org/documents/sample_invoice_annotated.pdf" target="_blank">click here</a>.</li>
 </ul></p>
 
@@ -101,10 +111,10 @@ We recognize that some groups will be unable to pay a subscription fee. If you a
 
 <img src="{{ "/assets/images/invoice/invoice6_explain.png" | absolute_url }}" class="img-large" alt="invoice">
 
-<b>Subscription duration</b>: We offer the option for paying for up to five subscription years. 
+<b>Subscription duration</b>: We offer the option to pay for up to five subscription years. 
 <ul>
 <li>VEuPathDB subscriptions are for the duration of a calendar year</li>
-<li>$0 invoices should choose the 1 year option only as they will need to be filled every year</li>  
+<li>$0 invoices should choose the 1 year option only, as they will need to be filled every year</li>  
 </ul><br><br>
 
 <b>How we use this information</b>: Your choice will be printed on the invoice as “number of years” along with the expiration date. 
