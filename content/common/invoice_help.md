@@ -17,6 +17,7 @@ tags: [general]
   margin: 16px 0 24px 0;
 }
 
+.help-page .img-tiny  { width: 100px; }
 .help-page .img-small  { width: 300px; }
 .help-page .img-medium { width: 400px; }
 .help-page .img-large  { width: 550px; }
@@ -39,19 +40,13 @@ tags: [general]
 
 Click the image to view a <b>sample invoice</b>
  <a href="https://static-content.veupathdb.org/documents/sample_invoice.pdf" target="_blank">
- <img src="{{ "/assets/images/invoice/sample_invoice_thumbnail.jpeg" | absolute_url }}" class="img-small" alt="Invoice Form">
+ <img src="{{ "/assets/images/invoice/sample_invoice_thumbnail.jpeg" | absolute_url }}" class="img-tiny" alt="Invoice Form">
  </a>
 
 Click the image to view a <b>sample invoice with explanatory notes</b>
  <a href="ttps://static-content.veupathdb.org/documents/sample_invoice_annotated.pdf" target="_blank">
- <img src="{{ "/assets/images/invoice/sample_anno_invoice_thumbnail.jpeg" | absolute_url }}" class="img-small" alt="Invoice Form">
+ <img src="{{ "/assets/images/invoice/sample_anno_invoice_thumbnail.jpeg" | absolute_url }}" class="img-tiny" alt="Invoice Form">
  </a>
-
-<ul>
-<li>To look at a sample invoice, <a href="https://static-content.veupathdb.org/documents/sample_invoice.pdf" target="_blank">click here</a>.</li>
-
-<li>To look at a sample invoice with explanatory notes, <a href="https://static-content.veupathdb.org/documents/sample_invoice_annotated.pdf" target="_blank">click here</a>.</li>
-</ul></p>
 
 <h3>Part 1: What labs/ groups are covered by this invoice?</h3><br>
 <p><b>Who are the subscribers?</b> VEuPathDB invoices can be generated for individual labs/research groups. They can also cover larger units, such as subscriptions for two or more labs, a department, an institution, etc. </p>
