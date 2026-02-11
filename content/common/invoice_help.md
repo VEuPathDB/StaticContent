@@ -18,7 +18,7 @@ tags: [general]
 }
 
 .help-page .img-tiny  { width: 100px; }
-.help-page .img-small  { width: 300px; }
+.help-page .img-small  { width: 200px; }
 .help-page .img-medium { width: 400px; }
 .help-page .img-large  { width: 550px; }
 
@@ -44,7 +44,7 @@ Click the image to view a <b>sample invoice</b>
  </a>
 
 Click the image to view a <b>sample invoice with explanatory notes</b>
- <a href="ttps://static-content.veupathdb.org/documents/sample_invoice_annotated.pdf" target="_blank">
+ <a href="https://static-content.veupathdb.org/documents/sample_invoice_annotated.pdf" target="_blank">
  <img src="{{ "/assets/images/invoice/sample_anno_invoice_thumbnail.jpeg" | absolute_url }}" class="img-tiny" alt="Invoice Form">
  </a>
 
