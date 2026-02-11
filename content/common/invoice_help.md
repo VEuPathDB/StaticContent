@@ -144,7 +144,7 @@ We recognize that some groups will be unable to pay a subscription fee. If you a
 
 <h3>Part 5: Consent for acknowledgement on our supporter page</h3>
 
-<p>We have created an acknowledgement page on VEuPathDB sites to recognize the financial support from subscribers and donors. We never display amounts on the page; only names of subscribers are noted (labs or larger units, as applicable). This last question asks whether you would like to be listed on this page.</p>
+<p>We have created an <a href="https://veupathdb.org/veupathdb/app/static-content/subscribers_2026.html" target="_blank">acknowledgement page</a> on VEuPathDB sites to recognize the financial support from subscribers and donors. We never display amounts on the page; only names of subscribers are noted (labs or larger units, as applicable). This last question asks whether you would like to be listed on this page.</p>
 
 <b>How we use this information</b>: If you click “yes”, we list your name on our subscribers page. 
 <ul>
