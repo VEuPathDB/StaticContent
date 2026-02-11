@@ -35,15 +35,17 @@ tags: [general]
 
 <h2>How to Complete the Invoice Form</h2>
 
-<p>This page provides instructions and guidance for filling out the <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_dd9qC4SU0SU343A" target="_blank">VEuPathDB invoice form</a>. 
+<p>This page provides instructions and guidance for filling out the <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_dd9qC4SU0SU343A" target="_blank">VEuPathDB invoice form</a>. </p>
 
-Sample invoice <a href="https://static-content.veupathdb.org/documents/sample_invoice.pdf" target="_blank">
- <img src="{{ "/assets/images/invoice/sample_invoice_thumbnail.jpeg" | absolute_url }}" alt="Invoice Form">
-</a>
+Click the image to view a <b>sample invoice</b>
+ <a href="https://static-content.veupathdb.org/documents/sample_invoice.pdf" target="_blank">
+ <img src="{{ "/assets/images/invoice/sample_invoice_thumbnail.jpeg" | absolute_url }}" class="img-small" alt="Invoice Form">
+ </a>
 
-Sample invoice with explanatory notes <a href="ttps://static-content.veupathdb.org/documents/sample_invoice_annotated.pdf" target="_blank">
- <img src="{{ "/assets/images/invoice/sample_anno_invoice_thumbnail.jpeg" | absolute_url }}" alt="Invoice Form">
-</a>
+Click the image to view a <b>sample invoice with explanatory notes</b>
+ <a href="ttps://static-content.veupathdb.org/documents/sample_invoice_annotated.pdf" target="_blank">
+ <img src="{{ "/assets/images/invoice/sample_anno_invoice_thumbnail.jpeg" | absolute_url }}" class="img-small" alt="Invoice Form">
+ </a>
 
 <ul>
 <li>To look at a sample invoice, <a href="https://static-content.veupathdb.org/documents/sample_invoice.pdf" target="_blank">click here</a>.</li>
