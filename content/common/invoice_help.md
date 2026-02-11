@@ -6,7 +6,6 @@ tags: [general]
 <style>
 .help-page img {
   display: block;
-  width: 400px;
   max-width: 100%;
   height: auto;
 
@@ -17,6 +16,10 @@ tags: [general]
 
   margin: 16px 0 24px 0;
 }
+
+.help-page .img-small  { width: 300px; }
+.help-page .img-medium { width: 400px; }
+.help-page .img-large  { width: 550px; }
 
 .help-page .tip {
   border-left: 4px solid #e0a800;
@@ -45,11 +48,11 @@ VEuPathDB invoices can be generated for individual labs/research groups. They ca
 
 First, select one of these options to indicate whether this invoice covers an individual lab or a larger unit.
 
-<img src="{{ "/assets/images/invoice/invoice1_lab_group.png" | absolute_url }}" alt="invoice">
+<img src="{{ "/assets/images/invoice/invoice1_lab_group.png" | absolute_url }}" class="img-medium" alt="invoice">
 
 If you check “an individual laboratory”, it will open the following field. Here, please enter the name of the lab head/ principal investigator. <i>(example, Jane Doe)</i>
 
-<img src="{{ "/assets/images/invoice/invoice2_individual.png" | absolute_url }}" alt="invoice">
+<img src="{{ "/assets/images/invoice/invoice2_individual.png" | absolute_url }}" class="img-large" alt="invoice">
 
 If you check “a larger unit”, it will open the following field. Here, please enter the names of the labs covered by this invoice, as well as the name of the department/institution/unit. <br>
 <i>(Examples:
@@ -58,7 +61,7 @@ If you check “a larger unit”, it will open the following field. Here, please
 <li>Jane Doe, John Smith, Alex Lee; Malaria Research Group at Example University)</li></ul></i><br>
 The unit name, such as <i>“Malaria Research Group at Example University”</i> will be assigned to the subscription.
 
-<img src="{{ "/assets/images/invoice/invoice3_unit.png" | absolute_url }}" alt="invoice">
+<img src="{{ "/assets/images/invoice/invoice3_unit.png" | absolute_url }}" class="img-large" alt="invoice">
 
 <h3>Part 2: Who should the invoice be addressed to?</h3>
 The name entered here is usually the name of the lab head or principal investigator. It could also be the name of the business manager, lab manager, or other representative who will handle invoicing and payments for your group.<br><br>
@@ -68,7 +71,7 @@ The name entered here is usually the name of the lab head or principal investiga
 <li>The email address entered here will get an email confirming that the invoice has been received, and an email link to revise this invoice if necessary. They will also get a PDF copy of the invoice.</li>
 <li>The name and address entered here will be printed on the invoice.</li></ul>
 
-<img src="{{ "/assets/images/invoice/invoice4_contact.png" | absolute_url }}" alt="invoice">
+<img src="{{ "/assets/images/invoice/invoice4_contact.png" | absolute_url }}" class="img-medium" alt="invoice">
 
 <h3>Part 3: Subscription amount and duration</h3>
 
@@ -85,13 +88,13 @@ In this field, please enter your annual payment amount in US dollars.
 
 <b>How we use this information</b>: The amount you enter here will be printed on the invoice as “price per year”
 
-<img src="{{ "/assets/images/invoice/invoice5_amt.png" | absolute_url }}" alt="invoice">
+<img src="{{ "/assets/images/invoice/invoice5_amt.png" | absolute_url }}" class="img-large" alt="invoice">
 
 We recognize that some groups will be unable to pay a subscription fee. If you are filling out an invoice for $0, please enter a brief note in this field explaining your reason for doing so. 
 
 <b>How we use this information</b>: This information helps us understand the needs and barriers of our user community. This is confidential, for <b>internal use only</b>, and will not be printed on the invoice. 
 
-<img src="{{ "/assets/images/invoice/invoice6_explain.png" | absolute_url }}" alt="invoice">
+<img src="{{ "/assets/images/invoice/invoice6_explain.png" | absolute_url }}" class="img-large" alt="invoice">
 
 We offer the option for paying for up to five subscription years. 
 <ul>
@@ -101,7 +104,7 @@ We offer the option for paying for up to five subscription years.
 
 <b>How we use this information</b>: Your choice will be printed on the invoice as “number of years” along with the expiration date. 
 
-<img src="{{ "/assets/images/invoice/invoice7_years.png" | absolute_url }}" alt="invoice">
+<img src="{{ "/assets/images/invoice/invoice7_years.png" | absolute_url }}" class="img-large" alt="invoice">
 
 <h3>Part 4: Additional payment-related information</h3>
 
@@ -109,19 +112,19 @@ If you are planning to pay via a Purchase Order, please let us know by indicatin
 
 <b>How we use this information</b>: The PO number will be printed at the top of the invoice.
 
-<img src="{{ "/assets/images/invoice/invoice8_po.png" | absolute_url }}" alt="invoice">
+<img src="{{ "/assets/images/invoice/invoice8_po.png" | absolute_url }}" class="img-large" alt="invoice">
 
 Many subscribers opt to use credit cards as a convenient mode of payment. You can choose that option here. Note that the charge will show up as “VEUPATHDB DATABASE” on the billing statement.<br><br>
 
 <b>How we use this information</b>: We calculate a 3% fee and add it to your payment amount to cover credit card transaction fees. 
 
-<img src="{{ "/assets/images/invoice/invoice9_cc.png" | absolute_url }}" alt="invoice">
+<img src="{{ "/assets/images/invoice/invoice9_cc.png" | absolute_url }}" class="img-large" alt="invoice">
 
 Subscribers may wish to add additional notes to the invoice. Examples are grant numbers to be charged for this invoice, internal accounting numbers, VAT numbers, etc.<br><br>
 
 <b>How we use this information</b>: Information added here will be printed on the invoice for your convenience.
 
-<img src="{{ "/assets/images/invoice/invoice10_optional.png" | absolute_url }}" alt="invoice">
+<img src="{{ "/assets/images/invoice/invoice10_optional.png" | absolute_url }}" class="img-large" alt="invoice">
 
 <h3>Part 5: Consent for acknowledgement on our supporter page</h3>
 
@@ -132,13 +135,13 @@ We have created an acknowledgement page on VEuPathDB sites to recognize the fina
 <li>Clicking “no” will not affect your subscription in any way.</li>
 <li>This is not printed on the invoice.</li></ul>
 
-<img src="{{ "/assets/images/invoice/invoice11_ack.png" | absolute_url }}" alt="invoice">
+<img src="{{ "/assets/images/invoice/invoice11_ack.png" | absolute_url }}" class="img-large" alt="invoice">
 
 Finally, <b>click the button to generate an invoice immediately</b>. It will appear in your browser and can be downloaded as a PDF. 
 
 The email addresses you entered on this form will also get an immediate acknowledgement of the invoice being received as well as a copy of the invoice. 
 
-<img src="{{ "/assets/images/invoice/invoice12_generate.png" | absolute_url }}" alt="invoice">
+<img src="{{ "/assets/images/invoice/invoice12_generate.png" | absolute_url }}" class="img-small" alt="invoice">
 
 If you have further questions about VEuPathDB invoicing, please contact us:
 <ul>
