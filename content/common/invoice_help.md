@@ -23,8 +23,7 @@ tags: [general]
 .help-page .img-large  { width: 550px; }
 
 .help-page {
-  font-size: 16px;       /* base font size */
-  line-height: 1.6;      /* optional: improves readability */
+  font-size: 14px;       /* base font size */
 }
 
 .help-page .tip {
