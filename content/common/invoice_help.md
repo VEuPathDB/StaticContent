@@ -35,14 +35,14 @@ tags: [general]
 
 <h2>How to Complete the Invoice Form</h2>
 
-This page provides instructions and guidance for filling out the <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_dd9qC4SU0SU343A" target="_blank">VEuPathDB invoice form</a>. 
+<p>This page provides instructions and guidance for filling out the <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_dd9qC4SU0SU343A" target="_blank">VEuPathDB invoice form</a>. 
 <ul>
 <li>To look at a sample invoice, <a href="https://static-content.veupathdb.org/documents/sample_invoice.pdf" target="_blank">click here</a>.</li>
 <li>To look at a sample invoice with explanatory notes, <a href="https://static-content.veupathdb.org/documents/sample_invoice_annotated.pdf" target="_blank">click here</a>.</li>
-</ul>
+</ul></p>
 
 <h3>Part 1: What labs/ groups are covered by this invoice?</h3><br>
-VEuPathDB invoices can be generated for individual labs/research groups. They can also cover larger units, such as subscriptions for two or more labs, a department, an institution, etc. <br><br>
+<p><b>Who are the subscribers?</b> VEuPathDB invoices can be generated for individual labs/research groups. They can also cover larger units, such as subscriptions for two or more labs, a department, an institution, etc. </p><br><br>
 
 <b>How we use this information</b>: When we process your invoice, we add the group name (either the name of the lab or the larger unit, as applicable) to our subscriber database. This allows VEuPathDB users to find and join their subscribed group in the <a href="https://veupathdb.org/veupathdb/app/user/profile#subscription" target="_blank">subscription tab of their user accounts</a>.<br><br>
 
@@ -75,7 +75,7 @@ The name entered here is usually the name of the lab head or principal investiga
 
 <h3>Part 3: Subscription amount and duration</h3>
 
-In this field, please enter your annual payment amount in US dollars.
+<b>Subscription amount</b>: In this field, please enter your annual payment amount in US dollars.
 <ul>
 <li>It is important to only enter numbers, without other characters such as commas or dollar signs. (Example, 1505, and not $1505 or 1,505)</li>
 <li>We provide guidance to determine the amount of payment: 
@@ -96,7 +96,7 @@ We recognize that some groups will be unable to pay a subscription fee. If you a
 
 <img src="{{ "/assets/images/invoice/invoice6_explain.png" | absolute_url }}" class="img-large" alt="invoice">
 
-We offer the option for paying for up to five subscription years. 
+<b>Subscription duration</b>: We offer the option for paying for up to five subscription years. 
 <ul>
 <li>VEuPathDB subscriptions are for the duration of a calendar year</li>
 <li>$0 invoices should choose the 1 year option only as they will need to be filled every year</li>  
@@ -108,19 +108,19 @@ We offer the option for paying for up to five subscription years.
 
 <h3>Part 4: Additional payment-related information</h3>
 
-If you are planning to pay via a Purchase Order, please let us know by indicating the number (if known) or indicating TBD (to be decided). Regardless, the Purchase Order # will need to be added to the invoice before you or your representative submits the invoice to your accounts payable department in order to process the payment. <br><br>
+<b>Purchase order</b>: If you are planning to pay via a Purchase Order, please let us know by indicating the number (if known) or indicating TBD (to be decided). Regardless, the Purchase Order # will need to be added to the invoice before you or your representative submits the invoice to your accounts payable department in order to process the payment. <br><br>
 
 <b>How we use this information</b>: The PO number will be printed at the top of the invoice.
 
 <img src="{{ "/assets/images/invoice/invoice8_po.png" | absolute_url }}" class="img-large" alt="invoice">
 
-Many subscribers opt to use credit cards as a convenient mode of payment. You can choose that option here. Note that the charge will show up as “VEUPATHDB DATABASE” on the billing statement.<br><br>
+<b>Credit card payment</b>: Many subscribers opt to use credit cards as a convenient mode of payment. You can choose that option here. Note that the charge will show up as “VEUPATHDB DATABASE” on the billing statement.<br><br>
 
 <b>How we use this information</b>: We calculate a 3% fee and add it to your payment amount to cover credit card transaction fees. 
 
 <img src="{{ "/assets/images/invoice/invoice9_cc.png" | absolute_url }}" class="img-large" alt="invoice">
 
-Subscribers may wish to add additional notes to the invoice. Examples are grant numbers to be charged for this invoice, internal accounting numbers, VAT numbers, etc.<br><br>
+<b>Additional notes</b>: Subscribers may wish to add additional notes to the invoice. Examples are grant numbers to be charged for this invoice, internal accounting numbers, VAT numbers, etc.<br><br>
 
 <b>How we use this information</b>: Information added here will be printed on the invoice for your convenience.
 
@@ -143,7 +143,7 @@ The email addresses you entered on this form will also get an immediate acknowle
 
 <img src="{{ "/assets/images/invoice/invoice12_generate.png" | absolute_url }}" class="img-small" alt="invoice">
 
-If you have further questions about VEuPathDB invoicing, please contact us:
+<p>If you have further questions about VEuPathDB invoicing, please contact us:</p>
 <ul>
 <li>subscriptions@VEuPathDB.org</li>
 <li>help@VEuPathDB.org</li>
