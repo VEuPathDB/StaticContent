@@ -42,7 +42,7 @@ tags: [general]
 </ul></p>
 
 <h3>Part 1: What labs/ groups are covered by this invoice?</h3><br>
-<p><b>Who are the subscribers?</b> VEuPathDB invoices can be generated for individual labs/research groups. They can also cover larger units, such as subscriptions for two or more labs, a department, an institution, etc. </p><br><br>
+<p><b>Who are the subscribers?</b> VEuPathDB invoices can be generated for individual labs/research groups. They can also cover larger units, such as subscriptions for two or more labs, a department, an institution, etc. </p>
 
 <b>How we use this information</b>: When we process your invoice, we add the group name (either the name of the lab or the larger unit, as applicable) to our subscriber database. This allows VEuPathDB users to find and join their subscribed group in the <a href="https://veupathdb.org/veupathdb/app/user/profile#subscription" target="_blank">subscription tab of their user accounts</a>.<br><br>
 
@@ -55,11 +55,11 @@ If you check “an individual laboratory”, it will open the following field. H
 <img src="{{ "/assets/images/invoice/invoice2_individual.png" | absolute_url }}" class="img-large" alt="invoice">
 
 If you check “a larger unit”, it will open the following field. Here, please enter the names of the labs covered by this invoice, as well as the name of the department/institution/unit. <br>
-<i>(Examples:
+<i>(examples:
 <ul>
-<li>Jane Doe, John Smith; Doe and Smith labs at Example University</li>
-<li>Jane Doe, John Smith, Alex Lee; Malaria Research Group at Example University)</li></ul></i><br>
-The unit name, such as <i>“Malaria Research Group at Example University”</i> will be assigned to the subscription.
+<li>Jane Doe, John Smith; Doe and Smith labs at ABC University</li>
+<li>Jane Doe, John Smith, Alex Lee; Malaria Research Group at ABC University)</li></ul></i><br>
+The unit name, such as <i>“Malaria Research Group at ABC University”</i> will be assigned to the subscription.
 
 <img src="{{ "/assets/images/invoice/invoice3_unit.png" | absolute_url }}" class="img-large" alt="invoice">
 
@@ -76,17 +76,22 @@ The name entered here is usually the name of the lab head or principal investiga
 <h3>Part 3: Subscription amount and duration</h3>
 
 <b>Subscription amount</b>: In this field, please enter your annual payment amount in US dollars.
-<ul>
-<li>It is important to only enter numbers, without other characters such as commas or dollar signs. (Example, 1505, and not $1505 or 1,505)</li>
-<li>We provide guidance to determine the amount of payment: 
-<ul>
-<li>Calculate applicable subscription rates based on (1) your frequency of database usage and (2) the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB. Please be sure to consider salaries for all participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</li>
-<li>Use the table on our <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html" target="_blank">subscriptions page</a></li>
-<li>Use our <a href="https://docs.google.com/spreadsheets/u/1/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank">fee calculator</a> to privately determine your fee</li>
-<li>For a larger unit (e.g., multiple labs or departments): sum fees for multiple labs in the unit, less a 5% group discount</li>
-</ul><br><br>
 
-<b>How we use this information</b>: The amount you enter here will be printed on the invoice as “price per year”
+<ul>
+  <li>It is important to only enter numbers, without other characters such as commas or dollar signs. (Example, 1505, and not $1505 or 1,505)</li>
+
+  <li>We provide guidance to determine the amount of payment:
+    <ul>
+      <li>Calculate applicable subscription rates based on (1) your frequency of database usage and (2) the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB. Please be sure to consider salaries for all participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</li>
+      <li>Use the table on our <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html" target="_blank">subscriptions page</a></li>
+      <li>Use our <a href="https://docs.google.com/spreadsheets/u/1/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank">fee calculator</a> to privately determine your fee</li>
+      <li>For a larger unit (e.g., multiple labs or departments): sum fees for multiple labs in the unit, less a 5% group discount</li>
+    </ul>
+  </li>
+</ul>
+
+<p><b>How we use this information</b>: The amount you enter here will be printed on the invoice as “price per year”.</p>
+
 
 <img src="{{ "/assets/images/invoice/invoice5_amt.png" | absolute_url }}" class="img-large" alt="invoice">
 
@@ -128,7 +133,7 @@ We recognize that some groups will be unable to pay a subscription fee. If you a
 
 <h3>Part 5: Consent for acknowledgement on our supporter page</h3>
 
-We have created an acknowledgement page on VEuPathDB sites to recognize the financial support from subscribers and donors. We never display amounts on the page; only names of subscribers are noted (labs or larger units, as applicable). This last question asks whether you would like to be listed on this page.<br><br>
+<p>We have created an acknowledgement page on VEuPathDB sites to recognize the financial support from subscribers and donors. We never display amounts on the page; only names of subscribers are noted (labs or larger units, as applicable). This last question asks whether you would like to be listed on this page.</p>
 
 <b>How we use this information</b>: If you click “yes”, we list your name on our subscribers page. 
 <ul>
@@ -137,9 +142,9 @@ We have created an acknowledgement page on VEuPathDB sites to recognize the fina
 
 <img src="{{ "/assets/images/invoice/invoice11_ack.png" | absolute_url }}" class="img-large" alt="invoice">
 
-Finally, <b>click the button to generate an invoice immediately</b>. It will appear in your browser and can be downloaded as a PDF. 
+<p>Finally, <b>click the button to generate an invoice immediately</b>. It will appear in your browser and can be downloaded as a PDF. </p>
 
-The email addresses you entered on this form will also get an immediate acknowledgement of the invoice being received as well as a copy of the invoice. 
+<p>The email addresses you entered on this form will also get an immediate acknowledgement of the invoice being received as well as a copy of the invoice. </p>
 
 <img src="{{ "/assets/images/invoice/invoice12_generate.png" | absolute_url }}" class="img-small" alt="invoice">
 
