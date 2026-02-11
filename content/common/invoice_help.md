@@ -37,6 +37,15 @@ This page provides instructions and guidance for filling out the <a href="https:
 <li>To look at a sample invoice with explanatory notes, <a href="/a/app/static-content/documents/sample_invoice_annotated.pdf" target="_blank">click here</a>.</li>
 </ul>
 
+<h3>Part 1: What labs/ groups are covered by this invoice?</h3><br>
+VEuPathDB invoices can be generated for individual labs/research groups. They can also cover larger units, such as subscriptions for two or more labs, a department, an institution, etc. <br>
+
+<b>How we use this information</b>: When we process your invoice, we add the group name (either the name of the lab or the larger unit, as applicable) to our subscriber database. This allows VEuPathDB users to find and join their subscribed group in the <a href="https://veupathdb.org/veupathdb/app/user/profile#subscription" target="_blank">subscription tab of their user accounts</a>.
+
+First, select one of these options to indicate whether this invoice covers an individual lab or a larger unit.
+
+<img src="/assets/images/invoice/invoice1_lab_group" alt="invoice">
+
 
 
 </div>
