@@ -22,6 +22,11 @@ tags: [general]
 .help-page .img-medium { width: 400px; }
 .help-page .img-large  { width: 550px; }
 
+.help-page {
+  font-size: 16px;       /* base font size */
+  line-height: 1.6;      /* optional: improves readability */
+}
+
 .help-page .tip {
   border-left: 4px solid #e0a800;
   background: #fff8e1;
