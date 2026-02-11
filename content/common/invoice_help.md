@@ -34,14 +34,14 @@ tags: [general]
 
 This page provides instructions and guidance for filling out the <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_dd9qC4SU0SU343A" target="_blank">VEuPathDB invoice form</a>. 
 <ul>
-<li>To look at a sample invoice, <a href="{{ "/a/app/static-content/documents/sample_invoice.pdf" | absolute_url }}" target="_blank">click here</a>.</li>
-<li>To look at a sample invoice with explanatory notes, <a href="/a/app/static-content/documents/sample_invoice_annotated.pdf" target="_blank">click here</a>.</li>
+<li>To look at a sample invoice, <a href="https://static-content.veupathdb.org/documents/sample_invoice.pdf" target="_blank">click here</a>.</li>
+<li>To look at a sample invoice with explanatory notes, <a href="https://static-content.veupathdb.org/documents/sample_invoice_annotated.pdf" target="_blank">click here</a>.</li>
 </ul>
 
 <h3>Part 1: What labs/ groups are covered by this invoice?</h3><br>
-VEuPathDB invoices can be generated for individual labs/research groups. They can also cover larger units, such as subscriptions for two or more labs, a department, an institution, etc. <br>
+VEuPathDB invoices can be generated for individual labs/research groups. They can also cover larger units, such as subscriptions for two or more labs, a department, an institution, etc. <br><br>
 
-<b>How we use this information</b>: When we process your invoice, we add the group name (either the name of the lab or the larger unit, as applicable) to our subscriber database. This allows VEuPathDB users to find and join their subscribed group in the <a href="https://veupathdb.org/veupathdb/app/user/profile#subscription" target="_blank">subscription tab of their user accounts</a>.
+<b>How we use this information</b>: When we process your invoice, we add the group name (either the name of the lab or the larger unit, as applicable) to our subscriber database. This allows VEuPathDB users to find and join their subscribed group in the <a href="https://veupathdb.org/veupathdb/app/user/profile#subscription" target="_blank">subscription tab of their user accounts</a>.<br><br>
 
 First, select one of these options to indicate whether this invoice covers an individual lab or a larger unit.
 
@@ -61,7 +61,7 @@ The unit name, such as <i>“Malaria Research Group at Example University”</i>
 <img src="{{ "/assets/images/invoice/invoice3_unit.png" | absolute_url }}" alt="invoice">
 
 <h3>Part 2: Who should the invoice be addressed to?</h3>
-The name entered here is usually the name of the lab head or principal investigator. It could also be the name of the business manager, lab manager, or other representative who will handle invoicing and payments for your group.
+The name entered here is usually the name of the lab head or principal investigator. It could also be the name of the business manager, lab manager, or other representative who will handle invoicing and payments for your group.<br><br>
 
 <b>How we use this information</b>:
 <ul>
@@ -80,8 +80,8 @@ In this field, please enter your annual payment amount in US dollars.
 <li>Calculate applicable subscription rates based on (1) your frequency of database usage and (2) the scale of your operations, including both data-mining and the production of data to be shared via VEuPathDB. Please be sure to consider salaries for all participating personnel, in addition to total grant budget(s), including indirect costs (overhead).</li>
 <li>Use the table on our <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html" target="_blank">subscriptions page</a></li>
 <li>Use our <a href="https://docs.google.com/spreadsheets/u/1/d/1ldBS8u2Afu9DDPaSvHEp9k1_E5U3u6QEOQMt_ehIYgw/copy?usp=sharing" target="_blank">fee calculator</a> to privately determine your fee</li>
-<li>For a larger unit (e.g., multiple labs or departments): sum fees for multiple labs in the unit, less a 5% group discount</li></li>
-</ul></ul>
+<li>For a larger unit (e.g., multiple labs or departments): sum fees for multiple labs in the unit, less a 5% group discount</li>
+</ul><br><br>
 
 <b>How we use this information</b>: The amount you enter here will be printed on the invoice as “price per year”
 
@@ -89,7 +89,7 @@ In this field, please enter your annual payment amount in US dollars.
 
 We recognize that some groups will be unable to pay a subscription fee. If you are filling out an invoice for $0, please enter a brief note in this field explaining your reason for doing so. 
 
-<b>How we use this information</b>: This information helps us understand the needs and barriers of our user community. This is strictly confidential and for <b>internal use only</b> and will not be printed on the invoice. 
+<b>How we use this information</b>: This information helps us understand the needs and barriers of our user community. This is confidential, for <b>internal use only</b>, and will not be printed on the invoice. 
 
 <img src="{{ "/assets/images/invoice/invoice6_explain.png" | absolute_url }}" alt="invoice">
 
@@ -97,7 +97,7 @@ We offer the option for paying for up to five subscription years.
 <ul>
 <li>VEuPathDB subscriptions are for the duration of a calendar year</li>
 <li>$0 invoices should choose the 1 year option only as they will need to be filled every year</li>  
-</ul>
+</ul><br><br>
 
 <b>How we use this information</b>: Your choice will be printed on the invoice as “number of years” along with the expiration date. 
 
@@ -105,19 +105,19 @@ We offer the option for paying for up to five subscription years.
 
 <h3>Part 4: Additional payment-related information</h3>
 
-If you are planning to pay via a Purchase Order, please let us know by indicating the number (if known) or indicating TBD (to be decided). Regardless, the Purchase Order # will need to be added to the invoice before you or your representative submits the invoice to your accounts payable department in order to process the payment. 
+If you are planning to pay via a Purchase Order, please let us know by indicating the number (if known) or indicating TBD (to be decided). Regardless, the Purchase Order # will need to be added to the invoice before you or your representative submits the invoice to your accounts payable department in order to process the payment. <br><br>
 
 <b>How we use this information</b>: The PO number will be printed at the top of the invoice.
 
 <img src="{{ "/assets/images/invoice/invoice8_po.png" | absolute_url }}" alt="invoice">
 
-Many subscribers opt to use credit cards as a convenient mode of payment. You can choose that option here. Note that the charge will show up as “VEUPATHDB DATABASE” on the billing statement.
+Many subscribers opt to use credit cards as a convenient mode of payment. You can choose that option here. Note that the charge will show up as “VEUPATHDB DATABASE” on the billing statement.<br><br>
 
 <b>How we use this information</b>: We calculate a 3% fee and add it to your payment amount to cover credit card transaction fees. 
 
 <img src="{{ "/assets/images/invoice/invoice9_cc.png" | absolute_url }}" alt="invoice">
 
-Subscribers may wish to add additional notes to the invoice. Examples are grant numbers to be charged for this invoice, internal accounting numbers, VAT numbers, etc.
+Subscribers may wish to add additional notes to the invoice. Examples are grant numbers to be charged for this invoice, internal accounting numbers, VAT numbers, etc.<br><br>
 
 <b>How we use this information</b>: Information added here will be printed on the invoice for your convenience.
 
@@ -125,7 +125,7 @@ Subscribers may wish to add additional notes to the invoice. Examples are grant 
 
 <h3>Part 5: Consent for acknowledgement on our supporter page</h3>
 
-We have created an acknowledgement page on VEuPathDB sites to recognize the financial support from subscribers and donors. We never display amounts on the page; only names of subscribers are noted (labs or larger units, as applicable). This last question asks whether you would like to be listed on this page.
+We have created an acknowledgement page on VEuPathDB sites to recognize the financial support from subscribers and donors. We never display amounts on the page; only names of subscribers are noted (labs or larger units, as applicable). This last question asks whether you would like to be listed on this page.<br><br>
 
 <b>How we use this information</b>: If you click “yes”, we list your name on our subscribers page. 
 <ul>
