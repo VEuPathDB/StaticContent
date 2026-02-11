@@ -29,9 +29,9 @@ tags: [general]
 }
 </style>
 
----
 
 <div class="help-page">
+
 
 <h2>How to Complete the Invoice Form</h2>
 
@@ -90,7 +90,7 @@ In this field, please enter your annual payment amount in US dollars.
 
 <img src="{{ "/assets/images/invoice/invoice5_amt.png" | absolute_url }}" class="img-large" alt="invoice">
 
-We recognize that some groups will be unable to pay a subscription fee. If you are filling out an invoice for $0, please enter a brief note in this field explaining your reason for doing so. 
+We recognize that some groups will be unable to pay a subscription fee. If you are filling out an invoice for $0, please enter a brief note in this field explaining your reason for doing so. <br><br>
 
 <b>How we use this information</b>: This information helps us understand the needs and barriers of our user community. This is confidential, for <b>internal use only</b>, and will not be printed on the invoice. 
 
@@ -148,5 +148,6 @@ If you have further questions about VEuPathDB invoicing, please contact us:
 <li>subscriptions@VEuPathDB.org</li>
 <li>help@VEuPathDB.org</li>
 </ul>
+
 
 </div>
