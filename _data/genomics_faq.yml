@@ -169,7 +169,7 @@
 - type: fees
   question: "When/how will I receive my invoice?  How do I pay?"
   answer: |  
-           The [subscription page](/a/app/static-content/subscriptions.html) links to a form for providing information and generating an invoice, including information on how to submit payment <i>via</i> wire transfer (preferred), bank check, or credit card.  Please [contact us](mailto:subscriptions@veupathdb.org) if your institution requires additional information to establish the University of Pennsylvania as a vendor.  Institutional payments are strongly preferred to avoid tax liability.
+           The [subscription page](/a/app/static-content/subscriptions.html) links to an [invoice form](https://upenn.co1.qualtrics.com/jfe/form/SV_dd9qC4SU0SU343A). Samples of invoice forms and helpful instructions for filling out the invoice form can be found on [this page](https://veupathdb.org/veupathdb/app/static-content/invoice_help.html). The invoice you generate will contain information on how to submit payment <i>via</i> wire transfer (preferred), bank check, or credit card.  Please [contact us](mailto:subscriptions@veupathdb.org) if your institution requires additional information to establish the University of Pennsylvania as a vendor.  Institutional payments are strongly preferred to avoid tax liability.
   uid: invoice
   projects: ""
 - type: fees
