@@ -149,6 +149,7 @@ h1, h2 {
     <div>James group, Gettysburg College US</div>
     <div>James group, UC Irvine US</div>
     <div>Jones group, Univ Liverpool UK</div>
+    <div>Kamaliddin group, Univ Alberta CA</div>
     <div>Kanzok group, Loyola Univ Chicago US</div>
     <div>Keith Gull, Univ Oxford UK</div>
     <div>Kelliher group, Univ of Massachusetts US</div>
