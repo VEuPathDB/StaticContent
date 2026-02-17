@@ -116,6 +116,7 @@ h1, h2 {
     <div>Adelman group, Texas A&M Univ US</div>
     <div>Alfonzo group, Brown Univ US</div>
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
+    <div>Asgari group, Univ Queensland AU</div>
     <div>Bartfai group, Radboud Univ NL</div>
     <div>Bastin group, Institut Pasteur FR</div>
     <div>Biotech-advisor.com US</div>
@@ -138,8 +139,12 @@ h1, h2 {
     <div>Gissot group, Institut Pasteur de Lille FR</div>
     <div>Greigert group, Univ de Reims Champagne-Ardenne FR</div>
     <div>Gubbels group, Boston College US</div>
+    <div>Guérin group, Univ of Geneva CH</div>
+    <div>Hammarton group, Univ Glasgow UK</div>
+    <div>Harding group, Univ Glasgow GB</div>
     <div>Harun group, Univ Sains Malaysia MY</div>
     <div>Hatakeyama group, Saitama Univ JP</div>
+    <div>Hemphill group, Univ Bern CH</div>
     <div>Hernández Hernández group, CINVESTAV MX</div>
     <div>Hill & Jackson-Hayes groups, Rhodes College US</div>
     <div>Hill group, Univ of California, Los Angeles US</div>
@@ -154,6 +159,7 @@ h1, h2 {
     <div>Kanzok group, Loyola Univ Chicago US</div>
     <div>Keith Gull, Univ Oxford UK</div>
     <div>Kelliher group, Univ of Massachusetts US</div>
+    <div>Knuepfer group, Royal Veterinary College UK</div>
     <div>Kooij group, Radboud Univ NL</div>
     <div>Kowalinski group, EMBL Grenoble FR</div>
     <div>Krysan group, Univ Iowa US</div>
@@ -172,6 +178,7 @@ h1, h2 {
     <div>Outten group, Univ of South Carolina US</div>
     <div>Overy group, Agriculture and Agri-Food Canada CA</div>
     <div>Pain group, KAUST SA</div>
+    <div>Pathak group, Univ Georgia US</div>
     <div>Pauling group, Univ Central Missouri US</div>
     <div>Pavlovic-Djuranovic group, Washington Univ US</div>
     <div>Phan group, Seattle Children’s Research Inst US</div>
@@ -183,6 +190,7 @@ h1, h2 {
     <div>Scaraffia group, Tulane Univ US</div>
     <div>Schenkman group, Federal Univ São Paulo BR</div>
     <div>Stajich group, Univ California Riverside US</div>
+    <div>Takashima group, Ehime Univ JP</div>
     <div>Tilley group, Univ Melbourne AU</div>
     <div>Treeck group, Gulbenkian Inst Molecular Med PT</div>
     <div>Valdés group, Cinvestav MX</div>
@@ -192,7 +200,9 @@ h1, h2 {
     <div>Welch group, Univ of California, Berkeley US</div>
     <div>Wilson group, Univ Adelaide AU</div>
     <div>Xu group, New Mexico State Univ US</div>
+    <div>Yapa group, Univ of Southern Queensland AU</div>
     <div>Young group, Univ Edinburgh UK</div>
+    <div>Zappulla group, Lehigh Univ US</div>
     <div>Zhang group, Univ of Nebraska–Lincoln US</div>
     <div>Zhang group, Washington Univ in St. Louis US</div>
     <div>Zheng group, Nanchang Univ CN</div>
