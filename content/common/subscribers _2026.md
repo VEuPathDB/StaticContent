@@ -135,6 +135,7 @@ h1, h2 {
     <div>Ersfeld group, Univ Bayreuth DE</div>
     <div>Fidock group, Columbia Univ US</div>
     <div>Figueiredo group, Gulbenkian Institute for Molecular Medicine PT</div>
+    <div>Franke-Fayard group, Leiden Univ Medical Center NL</div>
     <div>Filler group, Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center US</div>
     <div>Gissot group, Institut Pasteur de Lille FR</div>
     <div>Greigert group, Univ de Reims Champagne-Ardenne FR</div>
@@ -150,6 +151,7 @@ h1, h2 {
     <div>Hill group, Univ of California, Los Angeles US</div>
     <div>Holmes group, Univ of Missouri‚ Kansas City US</div>
     <div>Huberman group, Cornell Univ US</div>
+    <div>Hull group, Univ Wisconsin Madison US</div>
     <div>Inaoka group, Nagasaki Univ JP</div>
     <div>Ishino group, Tokyo Institute of Science JP</div>
     <div>James group, Gettysburg College US</div>
@@ -163,6 +165,7 @@ h1, h2 {
     <div>Kooij group, Radboud Univ NL</div>
     <div>Kowalinski group, EMBL Grenoble FR</div>
     <div>Krysan group, Univ Iowa US</div>
+    <div>Licon group, Univ of Utah US</div>
     <div>Lima group, Federal Univ of Rio de Janeiro BR</div>
     <div>Lin group, Univ Georgia US</div>
     <div>Lipovsek group, Univ College London GB</div>
@@ -182,6 +185,7 @@ h1, h2 {
     <div>Pauling group, Univ Central Missouri US</div>
     <div>Pavlovic-Djuranovic group, Washington Univ US</div>
     <div>Phan group, Seattle Children’s Research Inst US</div>
+    <div>Rajaram group, Ohio State Univ US</div>
     <div>Rentsch group, Univ Bern CH</div>
     <div>Roos group, Univ Pennsylvania US</div>
     <div>Rosales-Encina group, CINESTAV MX</div>
@@ -189,6 +193,7 @@ h1, h2 {
     <div>Sachs group, Texas A&M Univ US</div>
     <div>Scaraffia group, Tulane Univ US</div>
     <div>Schenkman group, Federal Univ São Paulo BR</div>
+    <div>Sinha group, Jhargram Raj College IN</div>
     <div>Stajich group, Univ California Riverside US</div>
     <div>Takashima group, Ehime Univ JP</div>
     <div>Tilley group, Univ Melbourne AU</div>
