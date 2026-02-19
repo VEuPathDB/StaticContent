@@ -142,6 +142,7 @@ h1, h2 {
     <div>Gubbels group, Boston College US</div>
     <div>Guérin group, Univ of Geneva CH</div>
     <div>Hammarton group, Univ Glasgow UK</div>
+    <div>Hammond group, Illinois State Univ US</div>
     <div>Harding group, Univ Glasgow GB</div>
     <div>Harun group, Univ Sains Malaysia MY</div>
     <div>Hatakeyama group, Saitama Univ JP</div>
@@ -169,6 +170,7 @@ h1, h2 {
     <div>Lima group, Federal Univ of Rio de Janeiro BR</div>
     <div>Lin group, Univ Georgia US</div>
     <div>Lipovsek group, Univ College London GB</div>
+    <div>McGraw group, Penn State Univ US</div>
     <div>Meissner group, Ludwig Maximilians Univ DE</div>
     <div>Michaeli group, Bar-Ilan University IL</div>
     <div>Mok group, Columbia Univ US</div>
@@ -193,6 +195,8 @@ h1, h2 {
     <div>Sachs group, Texas A&M Univ US</div>
     <div>Scaraffia group, Tulane Univ US</div>
     <div>Schenkman group, Federal Univ São Paulo BR</div>
+    <div>Serre group, Univ Maryland School of Medicine US</div>
+    <div>Sigala group, Univ Utah US</div>
     <div>Sinha group, Jhargram Raj College IN</div>
     <div>Stajich group, Univ California Riverside US</div>
     <div>Takashima group, Ehime Univ JP</div>
