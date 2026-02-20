@@ -121,13 +121,19 @@ h1, h2 {
     <div>Bastin group, Institut Pasteur FR</div>
     <div>Biotech-advisor.com US</div>
     <div>Blair group, Earlham College US</div>
+<<<<<<< HEAD
     <div>Canovas Lopez group, Univ of Seville ES</div>
+=======
+    <div>Casadevall group, Johns Hopkins Univ US</div>
+>>>>>>> 67ac59ff (Update subscribers_2026.md)
     <div>Cevallos group, Natl Autonomous Univ México MX</div>
     <div>Chakrabarti group, Univ of North Carolina at Chapel Hill US</div>
     <div>Chasen group, Univ South Alabama US</div>
     <div>Christensen group, Northwestern Univ US</div>
     <div>Crouch group, Univ Glasgow UK</div>
     <div>Culleton group, Ehime Univ JP</div>
+    <div>de Miguel group, Chascomús Technol Inst (INTECH) AR</div>
+    <div>de Koning-Ward group, Deakin Univ AU</div>
     <div>Denny group, Durham Univ UK</div>
     <div>Dewar group, Lancaster Univ UK</div>
     <div>Diane McMahon-Pratt, US</div>
@@ -170,6 +176,8 @@ h1, h2 {
     <div>Lima group, Federal Univ of Rio de Janeiro BR</div>
     <div>Lin group, Univ Georgia US</div>
     <div>Lipovsek group, Univ College London GB</div>
+    <div>Llinás group, Penn State Univ US</div>
+    <div>Lourido group, Whitehead Inst US</div>
     <div>McGraw group, Penn State Univ US</div>
     <div>Meissner group, Ludwig Maximilians Univ DE</div>
     <div>Michaeli group, Bar-Ilan University IL</div>
@@ -177,6 +185,7 @@ h1, h2 {
     <div>Morrissette group, Univ California Irvine US</div>
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
     <div>Moye-Rowley group, Univ of Iowa US</div>
+    <div>Muralidharan group, Univ Georgia US</div>
     <div>Offmann group, Univ of Nantes FR</div>
     <div>Ohira group, Nazareth Univ US</div>
     <div>Osorio group, Univ Alejandro de Humboldt CO</div>
@@ -189,6 +198,7 @@ h1, h2 {
     <div>Phan group, Seattle Children’s Research Inst US</div>
     <div>Rajaram group, Ohio State Univ US</div>
     <div>Rentsch group, Univ Bern CH</div>
+    <div>Richard group, Univ Laval CA</div>
     <div>Roos group, Univ Pennsylvania US</div>
     <div>Rosales-Encina group, CINESTAV MX</div>
     <div>Rottenberg group, Univ Bern CH</div>
