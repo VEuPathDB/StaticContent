@@ -121,11 +121,8 @@ h1, h2 {
     <div>Bastin group, Institut Pasteur FR</div>
     <div>Biotech-advisor.com US</div>
     <div>Blair group, Earlham College US</div>
-<<<<<<< HEAD
     <div>Canovas Lopez group, Univ of Seville ES</div>
-=======
     <div>Casadevall group, Johns Hopkins Univ US</div>
->>>>>>> 67ac59ff (Update subscribers_2026.md)
     <div>Cevallos group, Natl Autonomous Univ México MX</div>
     <div>Chakrabarti group, Univ of North Carolina at Chapel Hill US</div>
     <div>Chasen group, Univ South Alabama US</div>
