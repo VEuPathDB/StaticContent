@@ -119,8 +119,11 @@ h1, h2 {
     <div>Asgari group, Univ Queensland AU</div>
     <div>Bartfai group, Radboud Univ NL</div>
     <div>Bastin group, Institut Pasteur FR</div>
+    <div>Bei group, Yale Univ</div>
     <div>Biotech-advisor.com US</div>
     <div>Blair group, Earlham College US</div>
+    <div>Buchler group, North Carolina State Univ US</div>
+    <div>Burchmore group, Univ Glasgow UK</div>
     <div>Casadevall group, Johns Hopkins Univ US</div>
     <div>Cevallos group, Natl Autonomous Univ México MX</div>
     <div>Chakrabarti group, Univ of North Carolina at Chapel Hill US</div>
@@ -199,25 +202,31 @@ h1, h2 {
     <div>Rosales-Encina group, CINESTAV MX</div>
     <div>Rottenberg group, Univ Bern CH</div>
     <div>Sachs group, Texas A&M Univ US</div>
+    <div>Santos group, Univ Paris-Saclay FR</div>
     <div>Scaraffia group, Tulane Univ US</div>
     <div>Schenkman group, Federal Univ São Paulo BR</div>
     <div>Serre group, Univ Maryland School of Medicine US</div>
     <div>Sigala group, Univ Utah US</div>
     <div>Sinha group, Jhargram Raj College IN</div>
+    <div>Smith group, Univ Buffalo US</div>
     <div>Stajich group, Univ California Riverside US</div>
     <div>Takashima group, Ehime Univ JP</div>
     <div>Tilley group, Univ Melbourne AU</div>
     <div>Touz group, Instituto de Investigación Médica Mercedes y Martín Ferreyra (INIMEC-CONICET-UNC) AR</div>
     <div>Treeck group, Gulbenkian Inst Molecular Med PT</div>
+    <div>Urbaniak group, Lancaster Univ UK</div>
     <div>Valdés group, Cinvestav MX</div>
     <div>Verjovski-Almeida group, Univ São Paulo BR</div>
     <div>Vidal group, Oswaldo Cruz Foundation BR</div>
     <div>Vidilaseris group, Univ of Helsinki FI</div>
     <div>Wang group, Yale Univ US</div>
+    <div>Waters group, Glasgow Univ UK</div>
     <div>Welch group, Univ of California, Berkeley US</div>
+    <div>Wiese group, Univ Strathclyde UK</div>
     <div>Wilson group, Univ Adelaide AU</div>
     <div>Xu group, New Mexico State Univ US</div>
     <div>Yapa group, Univ of Southern Queensland AU</div>
+    <div>Yee group, Trent Univ CA</div>
     <div>Young group, Univ Edinburgh UK</div>
     <div>Zappulla group, Lehigh Univ US</div>
     <div>Zhang group, Univ of Nebraska–Lincoln US</div>
