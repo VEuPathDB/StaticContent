@@ -1,10 +1,10 @@
 ---
 identifier: finddata
 listTitle: Find data
-descriptionTitle: Find, Explore, and Download Datasets
+descriptionTitle: Find Datasets
 listIconKey: file
 tags: [tutorial]
-title: Find data
+title: Find Datasets
 permalink: '#finddata'
 category: [DataExplorer,ClinEpiDB]
 ---
@@ -12,12 +12,12 @@ category: [DataExplorer,ClinEpiDB]
 p.indent {
     margin-left: 3em
 }
-.survey-link {
+.button {
     display: block;
     text-align: center;
     margin-top: 5px;
 }
-.survey-link a {
+.button {
     background-color: #007BFF;
     color: white;
     padding: 10px 20px;
@@ -27,17 +27,23 @@ p.indent {
 }
 </style>
 
- <p>
-  <h4>dataExplorer can help you to find, explore, and download datasets shared by others.</h4> 
- </p>
+ <p><h4>dataExplorer can help you to find datasets shared by others.</h4></p>
 
- <p>
-  To explore datasets of interest, click on the “Find datasets” button to navigate to the <b>Dataset Summaries table</b>. Use the table to scan key dataset-level metadata; search or sort the table to identify the datasets you want to examine further. 
- </p>
 
+<img style="width: 50em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/dataExplorer_homepage/dataExp_find.png" | absolute_url }}" alt="Searches"/>
+
+<p>To <b>identify datasets of interest</b> for deeper exploration:</p>
+<ul>
+  <li>
+  Enter relevant keywords in the header search bar <i>(coming soon!)</i>, or
+    </li>
+  <li>
+  Review key dataset metadata in the <b><em>Dataset Summaries</b></em> table
+    </li>
+</ul>
 
 <p>
- <div class="survey-link">
-  <a href="https://clinepidb.org/ce/app/search/dataset/Studies/result">Find Datasets</a>
+ <div class="button">
+  <a href="https://clinepidb.org/ce/app/search/dataset/Studies/result">Review Dataset Summaries</a>
 </div>
  </p>
