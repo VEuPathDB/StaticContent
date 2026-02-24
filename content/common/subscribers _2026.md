@@ -115,6 +115,7 @@ h1, h2 {
   <div class="columns-balanced">
     <div>Adelman group, Texas A&M Univ US</div>
     <div>Alfonzo group, Brown Univ US</div>
+    <div>Alsford group, LSHTM UK</div>
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
     <div>Asgari group, Univ Queensland AU</div>
     <div>Bartfai group, Radboud Univ NL</div>
@@ -143,6 +144,7 @@ h1, h2 {
     <div>Franke-Fayard group, Leiden Univ Medical Center NL</div>
     <div>Filler group, Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center US</div>
     <div>Gissot group, Institut Pasteur de Lille FR</div>
+    <div>Goto group, Univ Tokyo JP</div>
     <div>Greigert group, Univ de Reims Champagne-Ardenne FR</div>
     <div>Gubbels group, Boston College US</div>
     <div>Guérin group, Univ of Geneva CH</div>
@@ -178,6 +180,7 @@ h1, h2 {
     <div>Llinás group, Penn State Univ US</div>
     <div>Lourido group, Whitehead Inst US</div>
     <div>McGraw group, Penn State Univ US</div>
+    <div>McLeod group, Univ of Chicago US</div>
     <div>Meissner group, Ludwig Maximilians Univ DE</div>
     <div>Michaeli group, Bar-Ilan University IL</div>
     <div>Mok group, Columbia Univ US</div>
@@ -195,6 +198,7 @@ h1, h2 {
     <div>Pauling group, Univ Central Missouri US</div>
     <div>Pavlovic-Djuranovic group, Washington Univ US</div>
     <div>Phan group, Seattle Children’s Research Inst US</div>
+    <div>Pitts group, Baylor Univ US</div>
     <div>Rajaram group, Ohio State Univ US</div>
     <div>Rentsch group, Univ Bern CH</div>
     <div>Richard group, Univ Laval CA</div>
@@ -223,6 +227,7 @@ h1, h2 {
     <div>Waters group, Glasgow Univ UK</div>
     <div>Welch group, Univ of California, Berkeley US</div>
     <div>Wiese group, Univ Strathclyde UK</div>
+    <div>Williamson group, Uniformed Services University US</div>
     <div>Wilson group, Univ Adelaide AU</div>
     <div>Xu group, New Mexico State Univ US</div>
     <div>Yapa group, Univ of Southern Queensland AU</div>
