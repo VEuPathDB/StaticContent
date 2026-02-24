@@ -15,11 +15,13 @@ p.indent {
 </style>
 
 <p>
-  <h4><b>dataExplorer</b> is a <b>self-service data platform</b> that helps you move from curiosity to insight.</h4> 
+  <h4><b>dataExplorer</b> is a <b>self-service data platform</b> that moves you from curiosity to insight.</h4> 
  </p>
 
-<p>Using intuitive, browser-based tools, you can upload, explore, visualize, and analyze your own datasets, without specialized infrastructure or software. You control access to your data, share it with collaborators or the wider community in a FAIR-aligned manner, and discover datasets shared by others. </p>
+<p>Powered by the interactive bioinformatics infrastructure of VEuPathDB and ClinEpiDB, dataExplorer expands flexible, <b><em>do-it-yourself capabilities for dataset upload, exploration, and FAIR-aligned data sharing</em></b>.</p>
 
-<p>Built on the proven interactive bioinformatic tools of VEuPathDB and ClinEpiDB, dataExplorer extends these capabilities to support <b>flexible, do-it-yourself data upload and sharing</b>.</p>
+<p>Upload your own datasets or discover those shared by the community, then use intuitive, browser-based tools to explore and visualize the data.</p>
 
-<img style="width: 50em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/dataExplorer_overview.jpg" | absolute_url }}" alt="Searches"/>
+<p><b><em>You remain in control of who can access your datasets:</em></b> keep your datasets private, share them with selected collaborators, or release them to the broader research community.</p>
+
+<img style="width: 50em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/dataExplorer_homepage/dataExp_get_started.png" | absolute_url }}" alt="Searches"/>
