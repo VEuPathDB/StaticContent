@@ -17,8 +17,8 @@ p.indent {
     text-align: center;
     margin-top: 5px;
 }
-.button {
-    background-color: #007BFF;
+.button a {
+    background-color: #0F5970;
     color: white;
     padding: 10px 20px;
     text-decoration: none;
