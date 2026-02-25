@@ -25,6 +25,19 @@ p.indent {
     border-radius: 5px;
     font-size: 16px;
 }
+.survey-link {
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+}
+.survey-link a {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
 </style>
 
  <p><h4>dataExplorer can help you to find datasets shared by others.</h4></p>
@@ -38,12 +51,18 @@ p.indent {
   Enter relevant keywords in the header search bar <i>(coming soon!)</i>, or
     </li>
   <li>
-  Review key dataset metadata in the <b><em>Dataset Summaries</b></em> table
+  Review key dataset metadata in the <b><em>Dataset Summaries</em></b> table
     </li>
 </ul>
 
 <p>
  <div class="button">
   <a href="https://clinepidb.org/ce/app/search/dataset/Studies/result">Review Dataset Summaries</a>
+</div>
+ </p>
+
+<p>
+ <div class="survey-link">
+  <a href="https://clinepidb.org/ce/app/workspace/analyses">My Analyses</a>
 </div>
  </p>
