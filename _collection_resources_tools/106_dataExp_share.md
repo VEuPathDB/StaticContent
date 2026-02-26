@@ -1,10 +1,10 @@
 ---
 identifier: share
-listTitle: Share
-descriptionTitle: Share My Dataset
+listTitle: Share my dataset
+descriptionTitle: Share your dataset
 listIconKey: share
 tags: [tutorial]
-title: Share Data
+title: Share your dataset
 permalink: '#share'
 category: [DataExplorer,ClinEpiDB]
 ---
@@ -12,13 +12,13 @@ category: [DataExplorer,ClinEpiDB]
 p.indent {
     margin-left: 3em
 }
-.survey-link {
+.button {
     display: block;
     text-align: center;
     margin-top: 5px;
 }
-.survey-link a {
-    background-color: #007BFF;
+.button a {
+    background-color: #0F5970;
     color: white;
     padding: 10px 20px;
     text-decoration: none;
@@ -27,21 +27,18 @@ p.indent {
 }
 </style>
 
+ <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_share.png' | absolute_url }}" alt="Searches" style="display:block; width:35em; margin: 0.5em auto;">
+
+
+<p><b>When you’re ready, dataExplorer gives you full control of how your dataset is shared.</b></p>
+
+<p>Datasets are private by default, so you can explore and refine your data freely while keeping sensitive or unpublished work visible only to you. When shared, datasets become discoverable and explorable within dataExplorer to the audiences you specify.</p>
+
+<p>You decide if, when, and with whom to share your dataset. You can adjust sharing and access settings at any time, including making your dataset private again.</p>
+
 <p>
-      <h4>All datasets begin as private data, but you can update their access settings at any time.</h4>
- </p>
-
- You always maintain full control over how your data is shared—privately, selectively with specific collaborators, or openly with the entire community.
-
-
-<p>
- <div class="survey-link">
-  <a href="https://clinepidb.org/ce/app/workspace/datasets">Share My Dataset</a>
+ <div class="button">
+  <a href="https://clinepidb.org/ce/app/workspace/datasets">Share my dataset</a>
 </div>
  </p>
-
-<b>To begin, click the “Share my dataset” button and select one or more datasets from the table. Click the “Manage Access” button (on the top right side of the table). From there, you can adjust two types of access:</b>
-<li>
-<ul>Community Access — Granting community access makes it a community-contributed dataset, allowing all users to view and download it without restriction. Removing community access returns the dataset to a private state.</ul>
-<ul>Individual Access — Share your dataset directly with specific colleagues by entering their email addresses associated with their dataExplorer accounts. Only you and the individuals you explicitly grant access to will be able to view or download these private datasets.  You can revoke access at any time by removing email addresses from the list of individuals with access to the dataset.</ul>
-</li>
+<br>

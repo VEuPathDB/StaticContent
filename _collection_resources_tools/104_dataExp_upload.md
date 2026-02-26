@@ -1,6 +1,6 @@
 ---
 identifier: upload
-listTitle: Upload a dataset
+listTitle: Upload my dataset
 descriptionTitle: Upload and curate your dataset
 listIconKey: upload
 tags: [tutorial]
