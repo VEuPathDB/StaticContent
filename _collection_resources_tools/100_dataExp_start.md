@@ -24,4 +24,4 @@ p.indent {
 
 <p><b><em>You remain in control of who can access your datasets:</em></b> keep your datasets private, share them with selected collaborators, or release them to the broader research community.</p>
 
- <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_get_started.png' | absolute_url }}" alt="Searches" style="display:block; width:40em; margin: 0.5em auto;">
+ <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_get_started.png' | absolute_url }}" alt="Searches" style="display:block; width:65em; margin: 0.5em auto;">
