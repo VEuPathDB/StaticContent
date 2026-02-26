@@ -32,7 +32,7 @@ p.indent {
 </h4>
  </p>
 
- <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_upload.png' | absolute_url }}" alt="Searches" style="display:block; width:60em; margin: 0.5em auto;">
+ <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_upload.png' | absolute_url }}" alt="Searches" style="display:block; width:75em; margin: 0.5em auto;">
 
  <br>
  <p>dataExplorer empowers researchers to upload and curate their own datasets directly within the platform. Datasets remain private by default, allowing you to work iteratively and refine your data over time as you prepare it for exploration and reuse.</p>
@@ -40,6 +40,6 @@ p.indent {
 <br>
 <p>
  <div class="button">
-  <a href="https://clinepidb.org/ce/app/workspace/datasets/new">Upload a dataset</a>
+  <a href="https://clinepidb.org/ce/app/workspace/datasets/new">Upload my dataset</a>
 </div>
  </p>
