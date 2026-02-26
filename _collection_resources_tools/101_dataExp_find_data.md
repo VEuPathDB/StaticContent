@@ -2,7 +2,7 @@
 identifier: finddata
 listTitle: Find datasets
 descriptionTitle: Find datasets
-listIconKey: file
+listIconKey: file-spreadsheet
 tags: [tutorial]
 title: Find Datasets
 permalink: '#finddata'
