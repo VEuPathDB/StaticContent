@@ -1,10 +1,10 @@
 ---
 identifier: upload
-listTitle: Upload Data
-descriptionTitle: Upload Data
-listIconKey: upload
+listTitle: Upload a dataset
+descriptionTitle: Upload and curate your dataset
+listIconKey: file-arrow-up
 tags: [tutorial]
-title: Upload Data
+title: Upload and curate your dataset
 permalink: '#upload'
 category: [DataExplorer,ClinEpiDB]
 ---
@@ -12,13 +12,13 @@ category: [DataExplorer,ClinEpiDB]
 p.indent {
     margin-left: 3em
 }
-.survey-link {
+.button {
     display: block;
     text-align: center;
     margin-top: 5px;
 }
-.survey-link a {
-    background-color: #007BFF;
+.button a {
+    background-color: #0F5970;
     color: white;
     padding: 10px 20px;
     text-decoration: none;
@@ -32,15 +32,15 @@ p.indent {
 </h4>
  </p>
 
+ <br>
+ <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_upload.png' | absolute_url }}" alt="Searches" style="display:block; width:35em; margin: 0.5em auto;">
+
+ <br>
+ <p>dataExplorer empowers researchers to upload and curate their own datasets directly within the platform. Datasets remain private by default, allowing you to work iteratively and refine your data over time as you prepare it for exploration and reuse.</p>
+
+<br>
 <p>
- <div class="survey-link">
-  <a href="https://clinepidb.org/ce/app/workspace/datasets/new">Upload My Dataset</a>
+ <div class="button">
+  <a href="https://clinepidb.org/ce/app/workspace/datasets/new">Upload a dataset</a>
 </div>
  </p>
-
-<b>How to upload and explore data</b>
-<li>
-<ul>Prepare dataset according to simple instructions</ul>
-<ul>Click on the “Upload My Dataset” button above and follow the guided upload steps</ul>
-<ul>You will be prompted to enter key dataset-level metadata, and attach your data file and optional variable properties file</ul>
-</li>
