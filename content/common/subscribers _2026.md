@@ -117,6 +117,7 @@ h1, h2 {
     <div>Alfonzo group, Brown Univ US</div>
     <div>Alsford group, LSHTM UK</div>
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
+    <div>Arthropod Sensory Biology Lab, Baylor Univ US</div>
     <div>Asgari group, Univ Queensland AU</div>
     <div>Bartfai group, Radboud Univ NL</div>
     <div>Bastin group, Institut Pasteur FR</div>
@@ -198,7 +199,6 @@ h1, h2 {
     <div>Pauling group, Univ Central Missouri US</div>
     <div>Pavlovic-Djuranovic group, Washington Univ US</div>
     <div>Phan group, Seattle Children’s Research Inst US</div>
-    <div>Pitts group, Baylor Univ US</div>
     <div>Rajaram group, Ohio State Univ US</div>
     <div>Rentsch group, Univ Bern CH</div>
     <div>Richard group, Univ Laval CA</div>
