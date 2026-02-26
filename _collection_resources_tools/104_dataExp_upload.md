@@ -2,7 +2,7 @@
 identifier: upload
 listTitle: Upload a dataset
 descriptionTitle: Upload and curate your dataset
-listIconKey: file-arrow-up
+listIconKey: upload
 tags: [tutorial]
 title: Upload and curate your dataset
 permalink: '#upload'
@@ -32,8 +32,7 @@ p.indent {
 </h4>
  </p>
 
- <br>
- <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_upload.png' | absolute_url }}" alt="Searches" style="display:block; width:35em; margin: 0.5em auto;">
+ <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_upload.png' | absolute_url }}" alt="Searches" style="display:block; width:60em; margin: 0.5em auto;">
 
  <br>
  <p>dataExplorer empowers researchers to upload and curate their own datasets directly within the platform. Datasets remain private by default, allowing you to work iteratively and refine your data over time as you prepare it for exploration and reuse.</p>
