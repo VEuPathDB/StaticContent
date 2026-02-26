@@ -15,7 +15,7 @@ p.indent {
 .button {
     display: block;
     text-align: center;
-    margin-top: 5px;
+    margin-top: 4;
 }
 .button a {
     background-color: #0F5970;
@@ -33,8 +33,9 @@ p.indent {
 
 <p>Download the data for deeper analysis, integration with your own datasets, or reuse in downstream workflows.</p>
 
-
 <img style="width: 50em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/dataExplorer_homepage/dataExp_explore.png" | absolute_url }}" alt="Searches"/>
+
+<img src="{{ '/assets/images/dataExplorer_homepage/dataExp_find.png' | absolute_url }}" alt="Searches" style="display:block; width:50em; margin:0.5em auto;">
 
 <p>
  <div class="button">
