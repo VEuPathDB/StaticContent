@@ -1,7 +1,7 @@
 ---
 identifier: finddata
-listTitle: Find data
-descriptionTitle: Find Datasets
+listTitle: Find datasets
+descriptionTitle: Find datasets
 listIconKey: file
 tags: [tutorial]
 title: Find Datasets
@@ -15,7 +15,7 @@ p.indent {
 .button {
     display: block;
     text-align: center;
-    margin-top: 5px;
+    margin-top: 1.5em;
 }
 .button a {
     background-color: #0F5970;
@@ -45,6 +45,12 @@ p.indent {
 
 <img style="width: 50em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/dataExplorer_homepage/dataExp_find.png" | absolute_url }}" alt="Searches"/>
 
+<img
+  src="{{ "/assets/images/dataExplorer_homepage/dataExp_find.png" | absolute_url }}"
+  alt="Searches"
+  style="display: block; width: 50em; margin: 0.5em auto;"
+>
+
 <p>To <b>identify datasets of interest</b> for deeper exploration:</p>
 <ul>
   <li>
@@ -58,11 +64,5 @@ p.indent {
 <p>
  <div class="button">
   <a href="https://clinepidb.org/ce/app/search/dataset/Studies/result">Review Dataset Summaries</a>
-</div>
- </p>
-
-<p>
- <div class="survey-link">
-  <a href="https://clinepidb.org/ce/app/workspace/analyses">My Analyses</a>
 </div>
  </p>
