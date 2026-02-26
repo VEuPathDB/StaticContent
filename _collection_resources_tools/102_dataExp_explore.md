@@ -2,7 +2,7 @@
 identifier: exploredata
 listTitle: Explore a dataset
 descriptionTitle: Explore and download a dataset
-listIconKey: file
+listIconKey: search
 tags: [tutorial]
 title: Explore and download a dataset
 permalink: '#exploredata'

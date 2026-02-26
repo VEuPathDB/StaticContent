@@ -2,7 +2,7 @@
 identifier: finddata
 listTitle: Find datasets
 descriptionTitle: Find datasets
-listIconKey: file-spreadsheet
+listIconKey: database
 tags: [tutorial]
 title: Find Datasets
 permalink: '#finddata'
@@ -15,23 +15,10 @@ p.indent {
 .button {
     display: block;
     text-align: center;
-    margin-top: 1.5em;
+    margin-top: 2;
 }
 .button a {
     background-color: #0F5970;
-    color: white;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
-    font-size: 16px;
-}
-.survey-link {
-    display: block;
-    text-align: center;
-    margin-top: 5px;
-}
-.survey-link a {
-    background-color: #007BFF;
     color: white;
     padding: 10px 20px;
     text-decoration: none;
@@ -46,7 +33,7 @@ p.indent {
 <img style="width: 50em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/dataExplorer_homepage/dataExp_find.png" | absolute_url }}" alt="Searches"/>
 
 <img
-  src="{{ "/assets/images/dataExplorer_homepage/dataExp_find.png" | absolute_url }}"
+  src="{{ '/assets/images/dataExplorer_homepage/dataExp_find.png' | absolute_url }}"
   alt="Searches"
   style="display: block; width: 50em; margin: 0.5em auto;"
 >
