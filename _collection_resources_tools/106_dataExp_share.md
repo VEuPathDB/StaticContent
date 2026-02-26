@@ -27,7 +27,7 @@ p.indent {
 }
 </style>
 
- <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_share.png' | absolute_url }}" alt="Searches" style="display:block; width:35em; margin: 0.5em auto;">
+ <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_share.png' | absolute_url }}" alt="Searches" style="display:block; width:45em; margin: 0.5em auto;">
 
 
 <p><b>When you’re ready, dataExplorer gives you full control of how your dataset is shared.</b></p>
