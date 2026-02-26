@@ -33,10 +33,11 @@ p.indent {
 
 <p>Download the data for deeper analysis, integration with your own datasets, or reuse in downstream workflows.</p>
 
-<img src="{{ '/assets/images/dataExplorer_homepage/dataExp_explore.png' | absolute_url }}" alt="Searches" style="display:block; width:30em; margin:0.5em auto;">
-
 <p>
  <div class="button">
   <a href="https://clinepidb.org/ce/app/search/dataset/Studies/result">Select a dataset to explore</a>
 </div>
  </p>
+
+ <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_explore.png' | absolute_url }}" alt="Searches" style="display:block; width:30em; 2em auto 0.5em;">
+
