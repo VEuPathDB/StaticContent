@@ -29,7 +29,7 @@ p.indent {
 
  <p><h4>dataExplorer can help you to find datasets shared by others.</h4></p>
 
- <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_find.png' | absolute_url }}" alt="Searches" style="display:block; width:30em; 0.5em auto;">
+ <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_find.png' | absolute_url }}" alt="Searches" style="display:block; width:30em; margin: 0.5em auto;">
 
 <p>To <b>identify datasets of interest</b> for deeper exploration:</p>
 <ul>
@@ -40,7 +40,7 @@ p.indent {
   Review key dataset metadata in the <b><em>Dataset Summaries</em></b> table
     </li>
 </ul>
-
+<br>
 <p>
  <div class="button">
   <a href="https://clinepidb.org/ce/app/search/dataset/Studies/result">Review Dataset Summaries</a>
