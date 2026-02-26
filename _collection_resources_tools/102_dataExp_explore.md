@@ -40,6 +40,6 @@ p.indent {
   <a href="https://clinepidb.org/ce/app/search/dataset/Studies/result">Select a dataset to explore</a>
 </div>
  </p>
-
+<br>
  <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_explore.png' | absolute_url }}" alt="Searches" style="display:block; width:30em; margin: 0.5em auto;">
 
