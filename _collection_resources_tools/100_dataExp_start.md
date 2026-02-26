@@ -1,10 +1,10 @@
 ---
 identifier: start
 listTitle: Get started 
-descriptionTitle: Get Started with dataExplorer
+descriptionTitle: Get started with dataExplorer
 listIconKey: play
 tags: [tutorial]
-title: Get Started with dataExplorer
+title: Get started with dataExplorer
 permalink: '#start'
 category: [ClinEpiDB,DataExplorer]
 ---
@@ -24,4 +24,4 @@ p.indent {
 
 <p><b><em>You remain in control of who can access your datasets:</em></b> keep your datasets private, share them with selected collaborators, or release them to the broader research community.</p>
 
-<img style="width: 50em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/dataExplorer_homepage/dataExp_get_started.png" | absolute_url }}" alt="Searches"/>
+ <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_get_started.png' | absolute_url }}" alt="Searches" style="display:block; width:40em; margin: 0.5em auto;">

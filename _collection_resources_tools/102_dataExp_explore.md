@@ -41,5 +41,5 @@ p.indent {
 </div>
  </p>
 <br>
- <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_explore.png' | absolute_url }}" alt="Searches" style="display:block; width:30em; margin: 0.5em auto;">
+ <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_explore.png' | absolute_url }}" alt="Searches" style="display:block; width:35em; margin: 0.5em auto;">
 

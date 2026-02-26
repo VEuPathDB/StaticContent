@@ -1,10 +1,10 @@
 ---
 identifier: findanalyses
-listTitle: Find Analyses
-descriptionTitle: Find Analyses
-listIconKey: search
+listTitle: Find analyses
+descriptionTitle: Find analyses
+listIconKey: chart-line
 tags: [tutorial]
-title: Find Analyses
+title: Find analyses
 permalink: '#findanalyses'
 category: [DataExplorer,ClinEpiDB]
 ---
@@ -12,13 +12,13 @@ category: [DataExplorer,ClinEpiDB]
 p.indent {
     margin-left: 3em
 }
-.survey-link {
+.button {
     display: block;
     text-align: center;
     margin-top: 5px;
 }
-.survey-link a {
-    background-color: #007BFF;
+.button a {
+    background-color: #0F5970;
     color: white;
     padding: 10px 20px;
     text-decoration: none;
@@ -27,28 +27,26 @@ p.indent {
 }
 </style>
 
- <p>
-      <h4>dataExplorer has interactive tools for secondary analysis of data.</h4>
- </p>
-
- <p>
-      Explore key findings of community-contributed datasets using <b>public analyses</b>. You can further edit these analyses in your own account.
- </p>
-
-<p>
- <div class="survey-link">
-  <a href="https://clinepidb.org/ce/app/workspace/analyses/public">Public Analyses</a>
-</div>
- </p>
-
+ <p>Whenever you use dataExplorer’s interactive tools to filter, visualize, or map data, your analysis is automatically saved to your account and available across devices whenever you’re logged in. Click the button below to access your private analyses. </p>
 <br>
- <p>
-      All of your analyses are saved to your account, so they’re always available -- from any device -- when you’re logged in.
- </p>
 
 <p>
- <div class="survey-link">
-  <a href="https://clinepidb.org/ce/app/workspace/analyses">My Analyses</a>
+ <div class="button">
+  <a href="https://clinepidb.org/ce/app/workspace/analyses">My analyses/a>
 </div>
  </p>
+<br>
+
+ <p>You can choose to make your analysis public to share key findings with the community.</p>
+ <br>
+
+ <p>You can also explore public analyses from community-contributed datasets to see how others are interrogating the data, and build on that work by editing the analyses further. Any changes you make are automatically saved to your own account as a new analysis. Click the button below to get started.</p>
+ <br>
+
+<p>
+ <div class="button">
+  <a href="https://clinepidb.org/ce/app/workspace/analyses/public">Public analyses/a>
+</div>
+ </p>
+<br>
 
