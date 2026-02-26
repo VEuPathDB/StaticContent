@@ -4,7 +4,7 @@ listTitle: Support
 descriptionTitle: Support dataExplorer
 listIconKey: usd
 tags: [tutorial]
-title: Support
+title: Support dataExplorer
 permalink: '#support'
 category: [DataExplorer,ClinEpiDB]
 ---
@@ -12,13 +12,13 @@ category: [DataExplorer,ClinEpiDB]
 p.indent {
     margin-left: 3em
 }
-.survey-link {
+.button {
     display: block;
     text-align: center;
     margin-top: 5px;
 }
-.survey-link a {
-    background-color: #007BFF;
+.button a {
+    background-color: #0F5970;
     color: white;
     padding: 10px 20px;
     text-decoration: none;
@@ -26,6 +26,9 @@ p.indent {
     font-size: 16px;
 }
 </style>
+
+
+
 
 <div style="display: flex; align-items: flex-start; gap: 16px;">
   <!-- Thermometer image -->
