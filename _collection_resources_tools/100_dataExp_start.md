@@ -2,7 +2,7 @@
 identifier: start
 listTitle: Get started 
 descriptionTitle: Get started with dataExplorer
-listIconKey: play
+listIconKey: compass
 tags: [tutorial]
 title: Get started with dataExplorer
 permalink: '#start'
