@@ -2,7 +2,7 @@
 identifier: future
 listTitle: Sustainability and Future 
 descriptionTitle: Sustainability and Future Directions
-listIconKey: forward
+listIconKey: leaf
 tags: [tutorial]
 title: Sustainability and Future Directions
 permalink: '#future'
