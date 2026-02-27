@@ -34,7 +34,7 @@ Our current funding sources are:
 <p> 
 <ul>
   <li style="margin-bottom: 0.5em;"><b>Voluntary subscriptions from users</b></li>
- </p>
+  <br>
   <li style="margin-bottom: 0.5em;"><b>Bridge funding:</b></li>
      <ul>
      <li style="margin-bottom: 0.5em;">Coefficient Giving</li>
