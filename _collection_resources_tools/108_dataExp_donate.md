@@ -1,11 +1,11 @@
 ---
-identifier: support
+identifier: donate
 listTitle: Donate Now
 descriptionTitle: Donate Now
 listIconKey: gift
 tags: [tutorial]
 title: Donate Now
-permalink: '#support'
+permalink: '#donate'
 category: [DataExplorer,ClinEpiDB]
 ---
 <style>
