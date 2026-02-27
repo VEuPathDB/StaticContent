@@ -30,6 +30,8 @@ p.indent {
 <p>VEuPathDB is pioneering a novel funding approach aimed at securing the long-term financial sustainability of our globally relied-upon biomedical data resources. We gratefully acknowledge our funders and supporters. </p>
 
 <img style="width: 40em; margin-top: .5em; margin-left: 2em;" src="{{ "/assets/images/resources_tools/funderLogos.jpg" | absolute_url }}" alt="funding logos"/><br/>
+<img src="{{ '/assets/images/resources_tools/funderLogos.jpg' | absolute_url }}" alt="Searches" style="display:block; width:50em; margin: 0.5em auto;">
+
 
 Our current funding sources are:
 <p> 
@@ -37,9 +39,9 @@ Our current funding sources are:
   <li><b>Voluntary subscriptions from users</b></li>
   <br>
     <ul>
-    <li>Starting March 2025, VEuPathDB is implementing a subscription service that will keep our resources open and accessible to everyone while sustaining our operations. For more information, see the <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html">Subscription Page</a> and <a href="https://veupathdb.org/veupathdb/app/static-content/faq.html">FAQ</a>.</li>
+    <li>Starting March 2025, VEuPathDB implemented a subscription service that will keep our resources open and accessible to everyone while sustaining our operations. For more information, see the <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html">Subscription Page</a> and <a href="https://veupathdb.org/veupathdb/app/static-content/faq.html">FAQ</a>.</li>
     </ul>
-    </br>
+    <br>
     <p>
  <div class="button">
   <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html">Subscribe Now</a>
@@ -68,7 +70,7 @@ Our current funding sources are:
     <ul>
     <li>Visit <a href="https://veupathdb.org/veupathdb/app/static-content/why-support.html">this page</a> to learn why your support matters. Your contributions help keep vital data resources open for all. </li>
     </ul>
-    </br>
+    <br>
     <p>
  <div class="button">
   <a href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate Now</a>
