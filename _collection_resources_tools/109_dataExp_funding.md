@@ -45,18 +45,18 @@ Our current funding sources are:
   <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html">Subscribe Now</a>
 </div>
  </p>
-  <li><b>Bridge funding:</b></li>
+  <li style="margin-bottom: 0.5em;"><b>Bridge funding:</b></li>
      <ul>
      <li style="margin-bottom: 0.5em;">Coefficient Giving</li>
-     <li style="margin-bottom: 0.5em;">Wellcome Trust discretionary award: <em>“Pioneering a User-Supported Financial Sustainability Model for Essential Database Resources”</em></li>
+     <li style="margin-bottom: 0.25em;">Wellcome Trust discretionary award: <em>“Pioneering a User-Supported Financial Sustainability Model for Essential Database Resources”</em></li>
         <ul>
-        <li>This grant provides bridge funding as we transition to financially sustainable subscription-based operations, establishing a model potentially applicable to other high-value, cost-effective informatics resources, and subsidies covering subscriptions for underfunded groups, including LMIC researchers, early-career investigators, and instructors.</li>
+        <li style="margin-bottom: 0.5em;">This grant provides bridge funding as we transition to financially sustainable subscription-based operations, establishing a model potentially applicable to other high-value, cost-effective informatics resources, and subsidies covering subscriptions for underfunded groups, including LMIC researchers, early-career investigators, and instructors.</li>
         </ul>
      <li style="margin-bottom: 0.5em;">University of Georgia</li>
      <li style="margin-bottom: 0.5em;">University of Pennsylvania</li>
      </ul>
      <br>
- <li><b>Collaborative research grants:</b></li>
+<li style="margin-bottom: 0.5em;"><b>Collaborative research grants:</b></li>
      <ul>
      <li style="margin-bottom: 0.5em;">Wellcome Trust Discovery Award: Next generation genome annotation for eukaryotic pathogens and vectors, using artificial intelligence.</li>
      <li style="margin-bottom: 0.5em;">BBR24: A three-year initiative by a new FungiDB/VEuPathDB & Ensembl partnership to expand resources for fungal and oomycete plant pathogens, supported by the Bioinformatics and Biological Resources Fund.</li>
