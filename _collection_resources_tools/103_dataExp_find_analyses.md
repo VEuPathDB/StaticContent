@@ -2,7 +2,7 @@
 identifier: findanalyses
 listTitle: Find analyses
 descriptionTitle: Find analyses
-listIconKey: chart-line
+listIconKey: <i class="fa-solid fa-chart-line"></i>
 tags: [tutorial]
 title: Find analyses
 permalink: '#findanalyses'
