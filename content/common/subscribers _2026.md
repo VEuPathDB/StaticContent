@@ -189,6 +189,7 @@ h1, h2 {
     <div>McLeod group, Univ of Chicago US</div>
     <div>Meissner group, Ludwig Maximilians Univ DE</div>
     <div>Michaeli group, Bar-Ilan University IL</div>
+    <div>Mineo group, Federal Univ Uberlândia BR</div>
     <div>Mok group, Columbia Univ US</div>
     <div>Morrissette group, Univ California Irvine US</div>
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
