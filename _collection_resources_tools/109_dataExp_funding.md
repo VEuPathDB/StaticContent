@@ -27,7 +27,7 @@ p.indent {
 }
 </style>
 
-<p>VEuPathDB is pioneering a novel funding approach aimed at securing the long-term financial sustainability of our globally relied-upon biomedical data resources. We gratefully acknowledge our funders and supporters. </p>
+<p><b>dataExplorer</b> is part of the VEuPathDB family of data resources. VEuPathDB is pioneering a new funding model to ensure the long-term sustainability of this globally relied-upon biomedical data resource.</p>
 
 <img src="{{ '/assets/images/resources_tools/funderLogos.jpg' | absolute_url }}" alt="Searches" style="display:block; width:50em; margin: 0.5em auto;">
 
@@ -65,7 +65,7 @@ Our current funding sources are:
      <br>
   <li><b>Charitable donations</b></li>
     <ul>
-    <p>Visit <a href="https://veupathdb.org/veupathdb/app/static-content/why-support.html">this page</a> to learn why your support matters. Your contributions help keep vital data resources open for all. </p>
+    <p>Visit <a href="https://clinepidb.org/clinepidb/app/static-content/why-support.html">this page</a> to learn why your support matters. Your contributions help keep vital data resources open for all. </p>
     </ul>
     <br>
     <p>
