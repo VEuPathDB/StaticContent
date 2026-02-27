@@ -2,7 +2,7 @@
 identifier: findanalyses
 listTitle: Find analyses
 descriptionTitle: Find analyses
-listIconKey: chart-simple
+listIconKey: bar-chart
 tags: [tutorial]
 title: Find analyses
 permalink: '#findanalyses'
