@@ -22,6 +22,7 @@ Our current funding sources are-
 <p> 
 <ul>
   <li><b>Voluntary subscriptions from users</b></li>
+  <br>
   <li><b>Bridge funding</b></li>
      <ul>
      <li>Coefficient Giving</li>
@@ -29,12 +30,14 @@ Our current funding sources are-
      <li>University of Georgia</li>
      <li>University of Pennsylvania</li>
      </ul>
+     <br>
  <li><b>Collaborative research grants</b></li>
      <ul>
      <li>Wellcome Trust Discovery Award: Next generation genome annotation for eukaryotic pathogens and vectors, using artificial intelligence.</li>
      <li>BBR24: A three-year initiative by a new FungiDB/VEuPathDB & Ensembl partnership to expand resources for fungal and oomycete plant pathogens, supported by the Bioinformatics and Biological Resources Fund.</li>
      <li>AccelNet design: Integrating global networks to advance parasite ecology and transmission research at the human-animal-environment interface, supported by the NSF.</li>
      </ul>
+     <br>
   <li><b>Charitable donations</b></li>
 </ul>
 </p><br>
