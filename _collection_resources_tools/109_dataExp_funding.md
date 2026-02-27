@@ -45,19 +45,6 @@ Our current funding sources are:
   <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html">Subscribe Now</a>
 </div>
  </p>
- </br>
-  <li><b>Donations</b></li>
-  <br>
-    <ul>
-    <li>Visit <a href="https://veupathdb.org/veupathdb/app/static-content/why-support.html">this page</a> to learn why your support matters. Your contributions help keep vital data resources open for all. </li>
-    </ul>
-    </br>
-    <p>
- <div class="button">
-  <a href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate Now</a>
-</div>
- </p>
- </br>
   <li><b>Bridge funding:</b></li>
      <ul>
      <li>Coefficient Giving</li>
@@ -77,6 +64,16 @@ Our current funding sources are:
      </ul>
      <br>
   <li><b>Charitable donations</b></li>
+  <br>
+    <ul>
+    <li>Visit <a href="https://veupathdb.org/veupathdb/app/static-content/why-support.html">this page</a> to learn why your support matters. Your contributions help keep vital data resources open for all. </li>
+    </ul>
+    </br>
+    <p>
+ <div class="button">
+  <a href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate Now</a>
+</div>
+ </p>
 </ul>
 </p><br>
 
