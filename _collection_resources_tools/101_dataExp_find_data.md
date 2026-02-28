@@ -27,7 +27,8 @@ p.indent {
 }
 </style>
 
-<h4><p>dataExplorer can help you to find datasets shared by others.</h4>
+<h4>dataExplorer can help you to find datasets shared by others.</h4>
+<br>
 
  <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_find.png' | absolute_url }}" alt="Searches" style="display:block; width:40em; margin: 0.5em auto;">
 
