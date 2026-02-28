@@ -27,10 +27,9 @@ p.indent {
 }
 </style>
 
+<h4>When you’re ready, dataExplorer gives you full control of how your dataset is shared.</h4>
+
  <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_share.png' | absolute_url }}" alt="Searches" style="display:block; width:45em; margin: 0.5em auto;">
-
-
-<p><b>When you’re ready, dataExplorer gives you full control of how your dataset is shared.</b></p>
 
 <p>Datasets are private by default, so you can explore and refine your data freely while keeping sensitive or unpublished work visible only to you. When shared, datasets become discoverable and explorable within dataExplorer to the audiences you specify.</p>
 
