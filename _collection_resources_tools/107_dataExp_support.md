@@ -50,7 +50,9 @@ p.indent {
 
 <p>Changes in the funding landscape have made it difficult to sustain essential infrastructure through grants.</p>
 
-<p>Beginning in March 2025, VEuPathDB has implemented a subscription service designed to keep our resources open and accessible to everyone while sustaining the infrastructure required to maintain and improve them. A subscription model allows us to distribute costs more equitably across our user community and ensure long-term stability—even if your applicable subscription fee is <b>$0 (fully subsidized).</b> For more information, see the <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html">Subscription Page</a> and <a href="https://veupathdb.org/veupathdb/app/static-content/faq.html">FAQ</a>.</p>
+<p>Beginning in March 2025, VEuPathDB has implemented a subscription service designed to keep our resources open and accessible to everyone while sustaining the infrastructure required to maintain and improve them. A subscription model--<em>even if your applicable subscription fee is <b>$0 (fully subsidized)</b></em>--allows us to distribute costs more equitably across our user community and ensure long-term stability.</p> 
+
+<p>For more information, see the <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html">Subscription Page</a> and <a href="https://veupathdb.org/veupathdb/app/static-content/faq.html">FAQ</a>.</p>
 
 <b>Donations</b>
 
