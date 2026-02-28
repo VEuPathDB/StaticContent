@@ -27,6 +27,8 @@ p.indent {
 }
 </style>
 
+<h4>Turn exploration into shareable analyses, and build on insights from the broader research community.</h4>
+
  <p>Whenever you use dataExplorer’s interactive tools to filter, visualize, or map data, your analysis is automatically saved to your account and available across devices whenever you’re logged in. Click the button below to access your private analyses. </p>
 <br>
 
