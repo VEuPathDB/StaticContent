@@ -27,7 +27,9 @@ p.indent {
 }
 </style>
 
-<p>Open a dataset in dataExplorer’s interactive workspace to quickly understand its structure, content, and potential for reuse, and use built-in visualizations and maps to assess relevance and generate insights.</p>
+<h4>Dive into datasets with interactive exploration, rich context, and flexible download options.</h4>
+
+<p>Open a dataset in dataExplorer’s workspace to quickly understand its structure, content, and potential for reuse, and use built-in visualizations and maps to assess relevance and generate insights.</p>
 
 <p>Review supporting documentation such as study protocols, to understand study design, data collection methods, and context.</p>
 
