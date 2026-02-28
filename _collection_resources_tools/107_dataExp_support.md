@@ -31,7 +31,7 @@ p.indent {
 
 <b>Subscribe now to support ongoing operations:</b>
 
-<p>The sustainability of VEuPathDB’s family of data resources (including dataExplorer) depends on <b>voluntary subscriptions</b>. By subscribing, you are directly supporting the continued availability, reliability, and growth of VEuPathDB resources (including dataExplorer) for the global research community.</p>
+<p>The sustainability of VEuPathDB’s family of data resources (including dataExplorer) depends on <b>voluntary subscriptions</b>. By subscribing, you are directly supporting the continued availability, reliability, and growth of VEuPathDB resources for the global research community.</p>
 <br>
 
 <p>
