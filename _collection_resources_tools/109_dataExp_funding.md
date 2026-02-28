@@ -1,11 +1,11 @@
 ---
-identifier: funding
+identifier: test
 listTitle: Funding 
 descriptionTitle: Funding sources and outlook
 listIconKey: usd
 tags: [tutorial]
 title: Funding
-permalink: '#funding'
+permalink: '#test'
 category: [DataExplorer,ClinEpiDB]
 ---
 <style>
