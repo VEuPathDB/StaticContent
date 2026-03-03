@@ -217,6 +217,7 @@ h1, h2 {
     <div>Rosales-Encina group, CINESTAV MX</div>
     <div>Rottenberg group, Univ Bern CH</div>
     <div>Sachs group, Texas A&M Univ US</div>
+    <div>Samuelson group, Boston Univ US</div>
     <div>Santos group, Univ Paris-Saclay FR</div>
     <div>Scaraffia group, Tulane Univ US</div>
     <div>Schenkman group, Federal Univ São Paulo BR</div>
@@ -226,6 +227,7 @@ h1, h2 {
     <div>Sigala group, Univ Utah US</div>
     <div>Sinha group, Jhargram Raj College IN</div>
     <div>Smith group, Univ Buffalo US</div>
+    <div>Spaeth group, Institut Pasteur FR</div>
     <div>Stajich group, Univ California Riverside US</div>
     <div>Takashima group, Ehime Univ JP</div>
     <div>Tilley group, Univ Melbourne AU</div>
