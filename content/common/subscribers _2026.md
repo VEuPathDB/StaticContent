@@ -205,6 +205,7 @@ h1, h2 {
     <div>Moye-Rowley group, Univ of Iowa US</div>
     <div>Muralidharan group, Univ Georgia US</div>
     <div>Nakanishi group, Matsuyama Univ JP</div>
+    <div>Ochsenreiter group, Univ Bern CH</div>
     <div>Offmann group, Univ of Nantes FR</div>
     <div>Ohira group, Nazareth Univ US</div>
     <div>Osorio group, Univ Alejandro de Humboldt CO</div>
@@ -226,12 +227,14 @@ h1, h2 {
     <div>Rosales-Encina group, CINESTAV MX</div>
     <div>Rottenberg group, Univ Bern CH</div>
     <div>Sachs group, Texas A&M Univ US</div>
+    <div>Sullivan group, Indiana Univ US</div>
     <div>Samuelson group, Boston Univ US</div>
     <div>Santos group, Univ Paris-Saclay FR</div>
     <div>Scaraffia group, Tulane Univ US</div>
     <div>Schenkman group, Federal Univ São Paulo BR</div>
     <div>Schnaufer group, Univ Edinburgh UK</div>
     <div>Segev-Zarko group, Univ of Texas Medical Branch US</div>
+    <div>Sengupta group, Ahmedabad Univ IN</div>
     <div>Serre group, Univ Maryland School of Medicine US</div>
     <div>Sigala group, Univ Utah US</div>
     <div>Sinha group, Jhargram Raj College IN</div>
