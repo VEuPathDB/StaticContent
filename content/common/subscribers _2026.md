@@ -168,6 +168,7 @@ h1, h2 {
     <div>Hill & Jackson-Hayes groups, Rhodes College US</div>
     <div>Hill group, Univ of California, Los Angeles US</div>
     <div>Holmes group, Univ of Missouri‚ Kansas City US</div>
+    <div>Hovel-Miner group, Stony Brook Univ US</div>
     <div>Huberman group, Cornell Univ US</div>
     <div>Hull group, Univ Wisconsin Madison US</div>
     <div>Inaoka group, Nagasaki Univ JP</div>
