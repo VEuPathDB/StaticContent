@@ -117,6 +117,7 @@ h1, h2 {
     <div>Alfonzo group, Brown Univ US</div>
     <div>Alsford group, LSHTM UK</div>
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
+    <div>Arthropod Sensory Biology group, Baylor Univ US</div>
     <div>Asgari group, Univ Queensland AU</div>
     <div>Azuara group, Autonomous Univ of Mexico City MX</div>
     <div>Bartfai group, Radboud Univ NL</div>
