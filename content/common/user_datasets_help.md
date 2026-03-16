@@ -68,7 +68,7 @@ title: User Data Sets Help
     <ul>
       <li>Each bigWig file must be mapped to the genome that you selected above</li>
       <li>Each individual file cannot be > 500MB</li>
-      <li>Please restrict the .bw file names to < 100 chars and use only letters, numbers, spaces and dashes</li>
+      <li>Values can be no longer than 1000 characters and should not contain newlines</li>
   </details>
 
   <details closed>
@@ -78,6 +78,7 @@ title: User Data Sets Help
     <li>compress the files into a .tar.gz, .tgz or .zip file</li>
     <li>compress the set of files, not a folder containing them</li>
     <li>make sure there are no empty files</li>
+    <li>values can be no longer than 1000 characters and should not contain newlines</li>
     </ul>
     
     The upload requires:
@@ -93,7 +94,7 @@ title: User Data Sets Help
       <li>file name (must match a counts file)</li>
       <li>strandedness ('unstranded' or 'stranded') - Only 'unstranded' is currently supported</li>
     </ul></li>
-  <li>Optionally, you may include bigWig files (.bw extension) in your comprresed file:
+  <li>Optionally, you may include bigWig files (.bw extension) in your compressed file:
     <ul>
       <li>they are not required but will allow visualization in the genome browser</li>
       <li>add these file names in the manifest file</li>
@@ -107,14 +108,15 @@ title: User Data Sets Help
     <summary><h4>Upload your phenotype data</h4></summary>
     <ul>
     <li>Upload your phenotype data in a tab delimited .tsv or .txt file</li>
-    <li>The file name should be < 100 chars and use only letters, numbers, spaces and dashes</li>
     <li>The file should contain a gene ID column with header "geneID"</li>
+    <li>The file should contain at least one column with numeric data</li>
     <li>Each row must have a unique geneID</li>
+    <li>Values no longer than 1000 characters and should not contain newlines</li>
     <li> Valid gene IDs should
      <ul>
-      <li>include only these charatacers [a-zA-Z0-9().:_-]*$</li>
+      <li>include only these characters [a-zA-Z0-9().:_-]</li>
       <li>have at least one alphabetical character</li>
-      <li>be at most 40 characters</li></ul>
+      <li>be at most 80 characters</li></ul>
       </li>
     <li>Rows with invalid gene IDs will be discarded</li>
    </ul>
