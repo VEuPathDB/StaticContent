@@ -155,8 +155,10 @@ h1, h2 {
     <div>Franke-Fayard group, Leiden Univ Medical Center NL</div>
     <div>Free group, Univ Buffalo US</div>
     <div>Filler group, Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center US</div>
+    <div>Ghosh group, Maulana Azad College IN</div>
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
     <div>Gissot group, Institut Pasteur de Lille FR</div>
+    <div>Gomez-Marin group, Univ del Quindio GEPAMOL CO</div>
     <div>Goto group, Univ Tokyo JP</div>
     <div>Greigert group, Univ de Reims Champagne-Ardenne FR</div>
     <div>Gubbels group, Boston College US</div>
@@ -199,6 +201,7 @@ h1, h2 {
     <div>Lipovsek group, Univ College London GB</div>
     <div>Llinás group, Penn State Univ US</div>
     <div>Lourido group, Whitehead Inst US</div>
+    <div>MacLeod group, Univ Glasgow GB</div>
     <div>Marten group, Univ Maryland US</div>
     <div>Martins lab, Univ of Brasília BR</div>
     <div>McClelland group, Wood College Osteopathic Med, Marian Univ US</div>
@@ -229,6 +232,7 @@ h1, h2 {
     <div>Peraza Reyes group, National Autonomous Univ of Mexico MX</div>
     <div>Phan group, Seattle Children’s Research Inst US</div>
     <div>Ponts group, INRAE FR</div>
+    <div>Price group, Liberty Univ US</div>
     <div>Rajaram group, Ohio State Univ US</div>
     <div>Ramaprasad group, Univ Glasgow UK</div>
     <div>Rentsch group, Univ Bern CH</div>
@@ -239,6 +243,7 @@ h1, h2 {
     <div>Sachs group, Texas A&M Univ US</div>
     <div>Saeij group, Univ of California, Davis US</div>
     <div>Samuelson group, Boston Univ US</div>
+    <div>Santiago-Tirado group, Univ Notre Dame US</div>
     <div>Santos group, Univ Paris-Saclay FR</div>
     <div>Scaraffia group, Tulane Univ US</div>
     <div>Schenkman group, Federal Univ São Paulo BR</div>
@@ -279,11 +284,13 @@ h1, h2 {
     <div>Yapa group, Univ of Southern Queensland AU</div>
     <div>Yee group, Trent Univ CA</div>
     <div>Young group, Univ Edinburgh UK</div>
+    <div>Yuan group, Xiamen Univ CN</div>
     <div>Zappulla group, Lehigh Univ US</div>
     <div>Zhang group, Univ of Nebraska–Lincoln US</div>
     <div>Zhang group, Washington Univ in St. Louis US</div>
     <div>Zheng group, Nanchang Univ CN</div>
     <div>Zhu group, Jilin Univ CN</div>
+    <div>Zininga group, Stellenbosch Univ ZA</div>
   </div>
 
   <h2>Multi-lab or Institutional Subscriptions<sup>*</sup></h2>
