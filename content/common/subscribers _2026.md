@@ -114,12 +114,17 @@ h1, h2 {
 
   <div class="columns-balanced">
     <div>Adelman group, Texas A&M Univ US</div>
+    <div>Akiyoshi group, Univ Edinburgh UK</div>
+    <div>Alday group, Oregon Health & Science Univ US</div>
     <div>Alfonzo group, Brown Univ US</div>
     <div>Alsford group, LSHTM UK</div>
+    <div>ANU Parasitology group, Australian National Univ AU</div>
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
     <div>Arthropod Sensory Biology group, Baylor Univ US</div>
     <div>Asgari group, Univ Queensland AU</div>
     <div>Azuara group, Autonomous Univ of Mexico City MX</div>
+    <div>Balbino group, Federal Univ Pernambuco BR</div>
+    <div>Bangs group, Univ Buffalo US</div>
     <div>Barrett group, Univ Glasgow UK</div>
     <div>Bartfai group, Radboud Univ NL</div>
     <div>Bastin group, Institut Pasteur FR</div>
@@ -131,27 +136,34 @@ h1, h2 {
     <div>Blake group, Fort Lewis College US</div>
     <div>Blatch group, Univ of Notre Dame Australia AU</div>
     <div>Bonhivers group, CNRS/Univ Bordeaux FR</div>
+    <div>Boyle group, Univ Pittsburgh US</div>
     <div>Brackney group, Connecticut Agricultural Experiment Station US</div>
     <div>Bryant group, Institut Pasteur FR</div>
     <div>Buchanan group, JMP Securities</div>
     <div>Buchler group, North Carolina State Univ US</div>
     <div>Bunnik group, Univ Texas Health San Antonio US</div>
     <div>Burchmore group, Univ Glasgow UK</div>
+    <div>Bushell group, Umeå Univ SE</div>
     <div>Casadevall group, Johns Hopkins Univ US</div>
+    <div>Catteruccia group, Harvard Univ US</div>
     <div>Cevallos group, Natl Autonomous Univ México MX</div>
     <div>Chakrabarti group, Univ of North Carolina at Chapel Hill US</div>
     <div>Charvat group, High Point Univ US</div>
     <div>Chasen group, Univ South Alabama US</div>
+    <div>Chiurillo group, Univ Cincinnati US</div>
     <div>Christensen group, Northwestern Univ US</div>
     <div>Cramer group, Dartmouth College US</div>
     <div>Crouch group, Univ Glasgow UK</div>
     <div>Culleton group, Ehime Univ JP</div>
+    <div>Daily group, Albert Einstein College of Medicine US</div>
+    <div>Davis group, Univ of Nebraska at Omaha US</div>
     <div>Diallinas group, National and Kapodistrian University of Athens GR</div>
     <div>de Miguel group, Chascomús Technol Inst (INTECH) AR</div>
     <div>de Koning-Ward group, Deakin Univ AU</div>
     <div>Denny group, Durham Univ UK</div>
     <div>Dewar group, Lancaster Univ UK</div>
     <div>Diane McMahon-Pratt, US</div>
+    <div>Elias group, Butantan Institute BR</div>
     <div>Engstler group, Julius-Maximilians-Universität Würzburg DE</div>
     <div>Ersfeld group, Univ Bayreuth DE</div>
     <div>Estevez group, CSIC ES</div>
@@ -171,6 +183,7 @@ h1, h2 {
     <div>Guérin group, Univ of Geneva CH</div>
     <div>Guillen group, Institut Pasteur FR</div>
     <div>Günzl group, Univ Connecticut Health US</div>
+    <div>Halfon group, Univ Buffalo US</div>
     <div>Hammarton group, Univ Glasgow UK</div>
     <div>Hammond group, Illinois State Univ US</div>
     <div>Harding group, Univ Glasgow GB</div>
@@ -178,6 +191,7 @@ h1, h2 {
     <div>Hatakeyama group, Saitama Univ JP</div>
     <div>Hedstrom group, Brandeis Univ US</div>
     <div>Hemphill group, Univ Bern CH</div>
+    <div>Herman group, Univ California Los Angeles US</div>
     <div>Hernández Hernández group, CINVESTAV MX</div>
     <div>Hill & Jackson-Hayes groups, Rhodes College US</div>
     <div>Hill group, Univ of California, Los Angeles US</div>
@@ -187,16 +201,19 @@ h1, h2 {
     <div>Hull group, Univ Wisconsin Madison US</div>
     <div>Inaoka group, Nagasaki Univ JP</div>
     <div>Ishino group, Tokyo Institute of Science JP</div>
+    <div>Jacobson group, Grinnell College US</div>
     <div>James group, Gettysburg College US</div>
     <div>James group, UC Irvine US</div>
     <div>Jimenez group, California State Univ, Fullerton US</div>
     <div>Jones group, Univ Liverpool UK</div>
+    <div>Judelson group, Univ California Riverside US</div>
     <div>Juvvadi group, Univ of Arkansas for Medical Sciences US</div>
     <div>K Hu group, Arizona State Univ US</div>
     <div>Kamaliddin group, Univ Alberta CA</div>
     <div>Kanzok group, Loyola Univ Chicago US</div>
     <div>Ke group, Drexel Univ US</div>
     <div>Keith Gull, Univ Oxford UK</div>
+    <div>Keller group, Univ Wisconsin Madison US</div>
     <div>Kelliher group, Univ of Massachusetts US</div>
     <div>Kelly group, Louisiana State Univ HSC US</div>
     <div>Klemba group, Virginia Polytechnic Institute and State Univ US</div>
@@ -204,13 +221,18 @@ h1, h2 {
     <div>Kooij group, Radboud Univ NL</div>
     <div>Kowalinski group, EMBL Grenoble FR</div>
     <div>Krysan group, Univ Iowa US</div>
+    <div>Lakin-Thomas group, York Univ CA</div>
     <div>Lander group, Univ Cincinnati US</div>
+    <div>Landfear group, Oregon Health & Science Univ US</div>
+    <div>Leger-Abraham group, Harvard Medical School US</div>
     <div>Licon group, Univ of Utah US</div>
     <div>Lima group, Federal Univ of Rio de Janeiro BR</div>
     <div>Lin group, Univ Georgia US</div>
     <div>Lipovsek group, Univ College London GB</div>
+    <div>Liu group, Southwest Univ CN</div>
     <div>Llinás group, Penn State Univ US</div>
     <div>Lourido group, Whitehead Inst US</div>
+    <div>Maclean group, Univ Edinburgh UK</div>
     <div>MacLeod group, Univ Glasgow GB</div>
     <div>Marten group, Univ Maryland US</div>
     <div>Martins lab, Univ of Brasília BR</div>
@@ -231,6 +253,8 @@ h1, h2 {
     <div>Muralidharan group, Univ Georgia US</div>
     <div>Myles group, Texas A&M Univ US</div>
     <div>Nakanishi group, Matsuyama Univ JP</div>
+    <div>Natl Inst Health Security (JIHS) JP</div>
+    <div>Ng group, Univ Nebraska US</div>
     <div>Nowrousian group, Ruhr Univ Bochum DE</div>
     <div>Ochsenreiter group, Univ Bern CH</div>
     <div>Offmann group, Univ of Nantes FR</div>
@@ -245,12 +269,15 @@ h1, h2 {
     <div>Pauling group, Univ Central Missouri US</div>
     <div>Pavlovic-Djuranovic group, Washington Univ US</div>
     <div>Peraza Reyes group, National Autonomous Univ of Mexico MX</div>
+    <div>Pereira group, Catholic Univ of Portugal PT</div>
     <div>Phan group, Seattle Children’s Research Inst US</div>
+    <div>Phillips group, UT Southwestern US</div>
     <div>Pöggeler group, Univ of Göttingen DE</div>
     <div>Ponts group, INRAE FR</div>
     <div>Price group, Liberty Univ US</div>
     <div>Rajaram group, Ohio State Univ US</div>
     <div>Ramaprasad group, Univ Glasgow UK</div>
+    <div>Rogers group, St. Jude Children's Research Hospital US</div>
     <div>Rentsch group, Univ Bern CH</div>
     <div>Richard group, Univ Laval CA</div>
     <div>Roos group, Univ Pennsylvania US</div>
@@ -285,10 +312,12 @@ h1, h2 {
     <div>Urbaniak group, Lancaster Univ UK</div>
     <div>Valdés group, Cinvestav MX</div>
     <div>van Hellemond group, Erasmus Univ Medical Center NL</div>
+    <div>Veiga group, Univ of Minho PT</div>
     <div>Vembar group, Inst Bioinformatics & Applied Biotechnology IN</div>
     <div>Verjovski-Almeida group, Univ São Paulo BR</div>
     <div>Vidal group, Oswaldo Cruz Foundation BR</div>
     <div>Vidilaseris group, Univ of Helsinki FI</div>
+    <div>Voss group, Swiss Tropical and Public Health Inst CH</div>
     <div>Wang group, Univ Michigan US</div>
     <div>Wang group, Yale Univ US</div>
     <div>Waters group, Glasgow Univ UK</div>
@@ -309,6 +338,7 @@ h1, h2 {
     <div>Zhang group, Washington Univ in St. Louis US</div>
     <div>Zheng group, Nanchang Univ CN</div>
     <div>Zhu group, Jilin Univ CN</div>
+    <div>Zimmer group, Univ Minnesota US</div>
     <div>Zininga group, Stellenbosch Univ ZA</div>
   </div>
 
@@ -317,6 +347,7 @@ h1, h2 {
 
   <div class="institutions">
    <div>Central Drug Research Inst (CDRI), Lucknow IN – Habib, Kumar, Mishra, Prakash & Zeeshan groups</div>
+   <div>Clemson Univ US / Eukaryotic Pathogens Innovation Center (EPIC) – Dhingra, Dolan, Dou, Fierro, Ingram-Smith, J Morris, M Morris, Jezewski, Smith, Temesvari & Walzer groups</div>
    <div>Leibniz-HKI DE- Brakhage & Blango labs</div>
    <div>Liverpool School of Tropical Medicine</div>
    <div>Malaria and Neglected Parasitic Diseases Program, ISGLOBAL, Barcelona- Cortés, Mayor, Dobaño, Fernandez-Becerra, Moncunill, Padilla, Izquierdo, Fernandez-Busquets, del Portillo groups</div>
@@ -324,6 +355,7 @@ h1, h2 {
    <div>TMRC India- CMC Vellore and IIPH Shillong</div>
    <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
    <div>Univ of Sevilla ES- Corrochano and Canovas groups</div>
+   <div>Viruses and RNA Interference Unit, Institut Pasteur FR- Koh & Saleh groups</div>
   </div>
 </div>
 
