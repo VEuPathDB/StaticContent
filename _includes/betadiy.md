@@ -1,9 +1,7 @@
----
-layout: plain
-title: My Datasets on beta sites
-permalink: /diy
-tags: [diy_beta]
----
+{% assign project  = include.project %}
+{% assign webapp  = site.data.projects[project].webapp %}
+
+
 <style>
 p.indent {
     margin-left: 3em;
@@ -36,7 +34,7 @@ p.indent {
 }
 </style>
 
-<h1>My Datasets have been moved to VEuPathDB beta sites.</h1>
+<h1>My Data Sets have been moved to VEuPathDB beta sites.</h1>
 
 <div class="static-content">
     
@@ -44,7 +42,7 @@ p.indent {
   </p>
   
  <div class="button" style="margin: 8px 0;">
-      <a href="https://beta.veupathdb.org/veupathdb.beta/app/workspace/datasets/new" target="_blank">Go To My Datasets</a>
+      <a href="https://beta.{{project}}.org/{{webapp}}/app/workspace/datasets/new" target="_blank">Go To My Data Sets</a>
  </div>
  
 
