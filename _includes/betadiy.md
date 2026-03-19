@@ -38,7 +38,7 @@ p.indent {
 
 <div class="static-content">
     
-  <p>The My Data Sets feature is now available on VEuPathDB Beta Sites. You have the option to integrate gene lists, normalized RNA-Seq data, bigWig files, or phenotype data. Follow the link below to upload, view and manage your datasets.
+  <p>The My Data Sets feature is now available on our new VEuPathDB beta sites. There, you have the option to integrate your gene lists, normalized RNA-Seq data, bigWig files, or phenotype data with our data. Follow the link below to upload, view and manage your datasets.
   </p>
   
  <div class="button" style="margin: 8px 0;">
