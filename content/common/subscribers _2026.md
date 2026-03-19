@@ -118,6 +118,7 @@ h1, h2 {
     <div>Alday group, Oregon Health & Science Univ US</div>
     <div>Alfonzo group, Brown Univ US</div>
     <div>Alsford group, LSHTM UK</div>
+    <div>ANU Parasitology group, Australian National Univ AU</div>
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
     <div>Arthropod Sensory Biology group, Baylor Univ US</div>
     <div>Asgari group, Univ Queensland AU</div>
@@ -153,6 +154,7 @@ h1, h2 {
     <div>Christensen group, Northwestern Univ US</div>
     <div>Cramer group, Dartmouth College US</div>
     <div>Crouch group, Univ Glasgow UK</div>
+    <div>Culleton group, Ehime Univ JP</div>
     <div>Daily group, Albert Einstein College of Medicine US</div>
     <div>Davis group, Univ of Nebraska at Omaha US</div>
     <div>Diallinas group, National and Kapodistrian University of Athens GR</div>
@@ -251,6 +253,7 @@ h1, h2 {
     <div>Muralidharan group, Univ Georgia US</div>
     <div>Myles group, Texas A&M Univ US</div>
     <div>Nakanishi group, Matsuyama Univ JP</div>
+    <div>Natl Inst Health Security (JIHS) JP</div>
     <div>Ng group, Univ Nebraska US</div>
     <div>Nowrousian group, Ruhr Univ Bochum DE</div>
     <div>Ochsenreiter group, Univ Bern CH</div>
@@ -344,6 +347,7 @@ h1, h2 {
 
   <div class="institutions">
    <div>Central Drug Research Inst (CDRI), Lucknow IN – Habib, Kumar, Mishra, Prakash & Zeeshan groups</div>
+   <div>Clemson Univ US / Eukaryotic Pathogens Innovation Center (EPIC) – Dhingra, Dolan, Dou, Fierro, Ingram-Smith, J Morris, M Morris, Jezewski, Smith, Temesvari & Walzer groups</div>
    <div>Leibniz-HKI DE- Brakhage & Blango labs</div>
    <div>Liverpool School of Tropical Medicine</div>
    <div>Malaria and Neglected Parasitic Diseases Program, ISGLOBAL, Barcelona- Cortés, Mayor, Dobaño, Fernandez-Becerra, Moncunill, Padilla, Izquierdo, Fernandez-Busquets, del Portillo groups</div>
@@ -351,6 +355,7 @@ h1, h2 {
    <div>TMRC India- CMC Vellore and IIPH Shillong</div>
    <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
    <div>Univ of Sevilla ES- Corrochano and Canovas groups</div>
+   <div>Viruses and RNA Interference Unit, Institut Pasteur FR- Koh & Saleh groups</div>
   </div>
 </div>
 
