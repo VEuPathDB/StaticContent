@@ -49,16 +49,18 @@ title: User Data Sets Help
     <summary><h4>Upload your gene list</h4></summary>
     <ul>
       <li>You can upload a file from your computer. The file containing gene IDs needs to contain valid IDs separated by valid delimiters.
-      <ul><b>Valid gene IDs:</b>
-      <li>each gene ID includes only these characters: [a-zA-Z0-9().:_-]*$</li>
-      <li>each gene ID has at least one alphabetical character</li>
-      <li>each gene ID is at most 40 characters</li></ul>
-      <ul><b>Valid delimiters:</b>
-      <li>white space (newline, space, tab)</li>
-      <li>comma</li>
-      <li>semi-colon</li></ul>
+         <ul><b>Valid gene IDs:</b>
+         <li>each gene ID includes only these characters: [a-zA-Z0-9().:_-]*$</li>
+         <li>each gene ID has at least one alphabetical character</li>
+         <li>each gene ID is at most 40 characters</li>
+         </ul>
+         <ul><b>Valid delimiters:</b>
+         <li>white space (newline, space, tab)</li>
+         <li>comma</li>
+         <li>semi-colon</li>
+         </ul>
       </li>
-      <li>Gene lists can also be added from search strategy result pages. Simply click on the "Send to" menu and choose the "My Data Sets" option to install the gene list in My Data Sets.</li>
+      <li>Gene lists can also be added from search strategy result pages. Simply click on the "Send to" menu and choose the "My Data Sets" option to install the gene list in My Datasets.</li>
     </ul>
   </details>
 
@@ -82,25 +84,28 @@ title: User Data Sets Help
     <li>values can be no longer than 1000 characters and should not contain newlines</li>
     </ul>
     The upload requires:
-  <ol>
-  <li>a counts file per sample - each sample must have only one tab-delimited file (use extension .txt) containing two columns with these headers:
-    <ul>
-      <li>'gene_id'</li>
-      <li>'FPKM' or 'TPM'</li>
-    </ul></li>
-  <li>a manifest file - a tab-delimited file named 'manifest.txt', containing three columns without headers:
-    <ul>
-      <li>sample name</li>
-      <li>file name (must match a counts file)</li>
-      <li>strandedness ('unstranded' or 'stranded') - Only 'unstranded' is currently supported</li>
-    </ul></li>
-  <li>Optionally, you may include bigWig files (.bw extension) in your compressed file:
-    <ul>
-      <li>they are not required but will allow visualization in the genome browser</li>
-      <li>add these file names in the manifest file</li>
-      <li>make sure there are no empty files</li>
-    </ul></li>
-</ol>
+    <ol>
+    <li>A counts file per sample - each sample must have only one tab-delimited file (use extension .txt) containing two columns with these headers:
+       <ul>
+       <li>'gene_id'</li>
+       <li>'FPKM' or 'TPM'</li>
+       </ul>
+    </li>
+    <li>A manifest file - a tab-delimited file named 'manifest.txt', containing three columns without headers:
+       <ul>
+       <li>sample name</li>
+       <li>file name (must match a counts file)</li>
+       <li>strandedness ('unstranded' or 'stranded')- Only 'unstranded' is currently supported</li>
+       </ul>
+    </li>
+    <li>Optionally, you may include bigWig files (.bw extension) in your compressed file:
+       <ul>
+       <li>they are not required but will allow visualization in the genome browser</li>
+       <li>add these file names in the manifest file</li>
+       <li>make sure there are no empty files</li>
+       </ul>
+    </li>
+    </ol>
   </details>
 
   <details closed>
@@ -112,11 +117,12 @@ title: User Data Sets Help
     <li>Each row must have a unique geneID</li>
     <li>Values no longer than 1000 characters and should not contain newlines</li>
     <li> Valid gene IDs should
-     <ul>
+      <ul>
       <li>include only these characters [a-zA-Z0-9().:_-]</li>
       <li>have at least one alphabetical character</li>
       <li>be at most 80 characters</li>
-    </ul></li>
+      </ul>
+    </li>
    <li>Rows with invalid gene IDs will be discarded</li>
    </ul>
   </details>
