@@ -37,7 +37,7 @@ p.indent {
 
 <p>
  <div class="button">
-  <a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/datasets">Share my dataset</a>
+  <a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/datasets">Select a dataset to share</a>
 </div>
  </p>
 <br>
