@@ -7,7 +7,7 @@ tags: [tutorial]
 title: "Metabolic Pathways"
 published: false
 permalink: '#pathways'
-exclude: [DataExplorer,ClinEpiDB,OrthoMCL]
+exclude: [dataExplorer,ClinEpiDB,OrthoMCL]
 ---
 <div style="display: flex; justify-content: center; align-items: center; max-width: 600px; margin-auto;">  
   <ul>

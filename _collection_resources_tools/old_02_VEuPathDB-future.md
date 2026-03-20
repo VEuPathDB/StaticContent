@@ -6,7 +6,7 @@ listIconKey: leaf
 tags: [tutorial]
 title: Sustainability and Future Directions
 permalink: '#future'
-exclude: [ClinEpiDB, DataExplorer, OrthoMCL]
+exclude: [ClinEpiDB, dataExplorer, OrthoMCL]
 ---
 <style>
 

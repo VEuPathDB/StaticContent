@@ -6,7 +6,7 @@ descriptionTitle: "Analyze My Data"
 tags: [tutorial]
 title: "Analyze My Data"
 permalink: '#analyze'
-exclude: [DataExplorer,ClinEpiDB,OrthoMCL]
+exclude: [dataExplorer,ClinEpiDB,OrthoMCL]
 published: false
 ---
 <div style="margin: auto; max-width: 51em;">

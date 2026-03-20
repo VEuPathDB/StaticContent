@@ -6,7 +6,7 @@ listIconKey: user-circle-o
 tags: [tutorial]
 title: Subscribe
 permalink: '#subscription'
-exclude: [DataExplorer,ClinEpiDB,OrthoMCL]
+exclude: [dataExplorer,ClinEpiDB,OrthoMCL]
 ---
 <style>
 p.indent {

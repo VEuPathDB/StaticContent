@@ -6,7 +6,7 @@ listIconKey: gift
 tags: [tutorial]
 title: Donate Now
 permalink: '#donate'
-exclude: [DataExplorer,ClinEpiDB,OrthoMCL]
+exclude: [dataExplorer,ClinEpiDB,OrthoMCL]
 ---
 <style>
 
