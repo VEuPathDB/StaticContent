@@ -6,7 +6,7 @@ listIconKey: compass
 tags: [tutorial]
 title: Get started with dataExplorer
 permalink: '#start'
-category: [ClinEpiDB,DataExplorer]
+category: [ClinEpiDB,dataExplorer]
 ---
 <style>
 p.indent {

@@ -6,7 +6,7 @@ listIconKey: pencil
 tags: [tutorial]
 title: Edit your dataset
 permalink: '#edit'
-category: [DataExplorer,ClinEpiDB]
+category: [dataExplorer,ClinEpiDB]
 ---
 <style>
 p.indent {

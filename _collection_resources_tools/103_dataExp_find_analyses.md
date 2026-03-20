@@ -6,7 +6,7 @@ listIconKey: bar-chart
 tags: [tutorial]
 title: Find analyses
 permalink: '#findanalyses'
-category: [DataExplorer,ClinEpiDB]
+category: [dataExplorer,ClinEpiDB]
 ---
 <style>
 p.indent {

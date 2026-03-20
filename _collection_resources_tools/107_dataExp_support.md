@@ -6,7 +6,7 @@ listIconKey: heartbeat
 tags: [tutorial]
 title: Support dataExplorer
 permalink: '#support'
-category: [DataExplorer,ClinEpiDB]
+category: [dataExplorer,ClinEpiDB]
 ---
 <style>
 p.indent {
