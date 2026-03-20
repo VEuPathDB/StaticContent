@@ -1,0 +1,47 @@
+---
+identifier: exploredata
+listTitle: Explore a dataset
+descriptionTitle: Explore and download a dataset
+listIconKey: search
+tags: [tutorial]
+title: Explore and download a dataset
+permalink: '#exploredata'
+category: [DataExplorer,ClinEpiDB]
+---
+<style>
+p.indent {
+    margin-left: 3em
+}
+.button {
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+}
+.button a {
+    background-color: #0F5970;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+</style>
+
+<h4>Dive into datasets with interactive exploration, rich context, and flexible download options.</h4>
+
+<p>Open a dataset in dataExplorer’s workspace to quickly understand its structure, content, and potential for reuse, and use built-in visualizations and maps to assess relevance and generate insights.</p>
+
+<p>Review supporting documentation such as study protocols, to understand study design, data collection methods, and context.</p>
+
+<p>Download the data for deeper analysis, integration with your own datasets, or reuse in downstream workflows.</p>
+
+<br>
+
+<p>
+ <div class="button">
+  <a href="https://beta.dataexplorer.org/dexp.beta/app/search/dataset/Studies/result">Select a dataset to explore</a>
+</div>
+ </p>
+<br>
+ <img src="{{ '/assets/images/dataExplorer_homepage/dataExp_explore.png' | absolute_url }}" alt="Searches" style="display:block; width:35em; margin: 0.5em auto;">
+
