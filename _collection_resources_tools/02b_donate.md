@@ -1,12 +1,12 @@
 ---
-identifier: support
+identifier: donate
 listTitle: Donate Now
 descriptionTitle: Donate Now
 listIconKey: gift
 tags: [tutorial]
 title: Donate Now
-permalink: '#support'
-exclude: [OrthoMCL]
+permalink: '#donate'
+exclude: [dataExplorer,ClinEpiDB,OrthoMCL]
 ---
 <style>
 
