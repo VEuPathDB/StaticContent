@@ -40,6 +40,6 @@ p.indent {
 <br>
 <p>
  <div class="button">
-  <a href="https://clinepidb.org/ce/app/workspace/datasets/new">Upload my dataset</a>
+  <a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/datasets/new">Upload my dataset</a>
 </div>
  </p>

@@ -34,7 +34,7 @@ p.indent {
 
 <p>
  <div class="button">
-  <a href="https://clinepidb.org/ce/app/workspace/analyses">My analyses</a>
+  <a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses">My analyses</a>
 </div>
  </p>
 <br>
@@ -46,7 +46,7 @@ p.indent {
 
 <p>
  <div class="button">
-  <a href="https://clinepidb.org/ce/app/workspace/analyses/public">Public analyses</a>
+  <a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses/public">Public analyses</a>
 </div>
  </p>
 <br>
