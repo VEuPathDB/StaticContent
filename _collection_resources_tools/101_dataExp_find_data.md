@@ -6,7 +6,7 @@ listIconKey: database
 tags: [tutorial]
 title: Find Datasets
 permalink: '#finddata'
-category: [DataExplorer,ClinEpiDB]
+category: [dataExplorer,ClinEpiDB]
 ---
 <style>
 p.indent {

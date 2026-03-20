@@ -6,7 +6,7 @@ listIconKey: search
 tags: [tutorial]
 title: Explore and download a dataset
 permalink: '#exploredata'
-category: [DataExplorer,ClinEpiDB]
+category: [dataExplorer,ClinEpiDB]
 ---
 <style>
 p.indent {
