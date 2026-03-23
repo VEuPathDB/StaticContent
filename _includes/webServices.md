@@ -30,8 +30,8 @@ For example, this URL:
 <br>
 <span style="position:relative;left:15px;font-size:110%">
 {% if project == 'OrthoMCL' %}
-<a href='/a/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue_min=-100&evalue_max=-98&reportConfig={"attributes":["primary_key","number_of_members","evalue"]}
-'>https://{{project}}.org/{{webapp}}/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue_min=-100&evalue_max=-98&reportConfig={"attributes":["primary_key","number_of_members","evalue"]}</a>
+<a href='/a/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue_min=-200&evalue_max=-50&reportConfig={"attributes":["primary_key","number_of_members","evalue"]}
+'>https://{{project}}.org/{{webapp}}/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue_min=-200&evalue_max=-50&reportConfig={"attributes":["primary_key","number_of_members","evalue"]}</a>
 {% else %}
 <a href='/a/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"]}'>https://{{project}}.org/{{webapp}}/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"]}</a>
 {% endif %}
@@ -63,6 +63,26 @@ Find all ({{organism}}) genes that have molecular weight between 10,000 and 10,5
     <img style="width: 18em; margin-top: 1.5em;" src="{{ "/assets/images/webservices-linkto.png" | absolute_url }}" alt="Link to generated GET/POST "  />
   </div>
 </div>
+
+<h3>Authorization for Programmatic Access</h3>
+<p>
+  The instructions above provide basic access to a single search as a HTTP GET request via a browser.  This type of
+  request is authorized because you are already logged into the site and the browser appends your personal API Key
+  to the request automatically.  However, if you are writing a script or otherwise automating or testing requests
+  via an HTTP library or tool (e.g. curl or Postman), you need to manually add your API Key to requests.  To do this:
+  <ol>
+    <li>Find your API Key by logging in and visiting the <a href="/a/app/user/profile#serviceAccess">Web Service Access tab in your profile</a>.</li>
+    <li markdown="1">Add your API Key to requests via the "Authorization" HTTP header.  The API Key is a bearer token, so the header value will be "Bearer {your_api_key}" </li>
+  </ol>
+  For example, to run the search above using curl, your command line would be the following (Note: URL encoding is applied to these commands):
+  <blockquote>
+    {% if project == 'OrthoMCL' %}
+      curl -g -H "Authorization: Bearer {your_api_key}" 'https://orthomcl.org/orthomcl/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue_min=-200&evalue_max=-50&reportConfig={%22attributes%22:[%22primary_key%22,%22number_of_members%22,%22evalue%22]}'  
+    {% else %}
+    curl -g -H "Authorization: Bearer {your_api_key}" 'https://{{project]].org/{{webapp}}/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={%22attributes%22:[%22gene_source_id%22,%22source_id%22,%22organism%22,%22gene_type%22]}'
+    {% endif %}
+  </blockquote>
+</p>
 
 <h3>The Full {{project}} Web Services API</h3>
 <p>Advanced users might want to view the <a href="/service-api.html">{{project}} Web Services API</a>.</p>
