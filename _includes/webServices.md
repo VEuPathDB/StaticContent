@@ -70,17 +70,21 @@ Find all ({{organism}}) genes that have molecular weight between 10,000 and 10,5
   request is authorized because you are already logged into the site and the browser appends your personal API Key
   to the request automatically.  However, if you are writing a script or otherwise automating or testing requests
   via an HTTP library or tool (e.g. curl or Postman), you need to manually add your API Key to requests.  To do this:
-  <ol>
-    <li>Find your API Key by logging in and visiting the <a href="/a/app/user/profile#serviceAccess">Web Service Access tab in your profile</a>.</li>
-    <li markdown="1">Add your API Key to requests via the "Authorization" HTTP header.  The API Key is a bearer token, so the header value will be "Bearer {your_api_key}" </li>
-  </ol>
+</p>
+<ol>
+  <li>Find your API Key by logging in and visiting the <a href="/a/app/user/profile#serviceAccess">Web Service Access tab in your profile</a>.</li>
+  <li markdown="1">Add your API Key to requests via the "Authorization" HTTP header.  The API Key is a bearer token, so the header value will be "Bearer {your_api_key}" </li>
+</ol>
+<p>
   For example, to run the search above using curl, your command line would be the following (Note: URL encoding is applied to this command):
 </p>
-<pre><code>{% if project == 'OrthoMCL' %}
-    curl -g -H "Authorization: Bearer {your_api_key}" 'https://orthomcl.org/orthomcl/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue_min=-200&evalue_max=-50&reportConfig={&#37;22attributes&#37;22:[&#37;22primary_key&#37;22,&#37;22number_of_members&#37;22,&#37;22evalue&#37;22]}'  
-  {% else %}
-    curl -g -H "Authorization: Bearer {your_api_key}" 'https://{{project]].org/{{webapp}}/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={&#37;22attributes&#37;22:[&#37;22gene_source_id&#37;22,&#37;22source_id&#37;22,&#37;22organism&#37;22,&#37;22gene_type&#37;22]}'
-  {% endif %}</code></pre>
+<pre><code>
+{% if project == 'OrthoMCL' %}
+curl -g -H "Authorization: Bearer {your_api_key}" 'https://orthomcl.org/orthomcl/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue_min=-200&evalue_max=-50&reportConfig={&#37;22attributes&#37;22:[&#37;22primary_key&#37;22,&#37;22number_of_members&#37;22,&#37;22evalue&#37;22]}'  
+{% else %}
+curl -g -H "Authorization: Bearer {your_api_key}" 'https://{{project]].org/{{webapp}}/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={&#37;22attributes&#37;22:[&#37;22gene_source_id&#37;22,&#37;22source_id&#37;22,&#37;22organism&#37;22,&#37;22gene_type&#37;22]}'
+{% endif %}
+</code></pre>
 
 <h3>The Full {{project}} Web Services API</h3>
 <p>Advanced users might want to view the <a href="/service-api.html">{{project}} Web Services API</a>.</p>
