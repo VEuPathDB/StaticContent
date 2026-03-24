@@ -20,7 +20,7 @@
 <div class="static-content">
 
 <p>
-VEuPathDB websites provide programmatic access to their searches, via <a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm"><b>REST</b></a> Web Services. 
+VEuPathDB websites provide programmatic access to their searches, via <a href="https://restfulapi.net"><b>REST</b></a> Web Services. 
 The result of a web service request is a list of records (genes, compounds, etc.) in one of various formats (json, csv, etc.).
 REST services can be executed in a browser by typing a specific URL. 
 </p>
@@ -30,19 +30,25 @@ For example, this URL:
 <br>
 <span style="position:relative;left:15px;font-size:110%">
 {% if project == 'OrthoMCL' %}
-<a href='/a/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue_min=-200&evalue_max=-50&reportConfig={"attributes":["primary_key","number_of_members","evalue"]}
-'>https://{{project}}.org/{{webapp}}/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue_min=-200&evalue_max=-50&reportConfig={"attributes":["primary_key","number_of_members","evalue"]}</a>
+<a href='/a/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue={"min":"-200","max":"-50"}&"reportConfig":{"attributes": ["primary_key","number_of_members","keywords","descriptions","ec_numbers"],"attributeFormat":"text"}'>https://{{project}}.org/{{webapp}}/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue={"min":"-200","max":"-50"}&"reportConfig":{"attributes": ["primary_key","number_of_members","keywords","descriptions","ec_numbers"],"attributeFormat":"text"}
+</a>
 {% else %}
-<a href='/a/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"]}'>https://{{project}}.org/{{webapp}}/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"]}</a>
+<a href='/a/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"],"attributeFormat":"text"}'>https://{{project}}.org/{{webapp}}/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={"attributes":["gene_source_id","source_id","organism","gene_type"],"attributeFormat":"text"}</a>
 {% endif %}
 </span>
 </p>
 
 <p>Corresponds to this request: 
 <br><span style="font-style:italic;position:relative;left:15px;">
+{% if project == 'OrthoMCL' %}
+Find all groups having an E-Value between -200 and -50 (inclusive)
+<br/>For each group ID in the result, return number-of-members, keywords, descriptions, and EC numbers
+<br/>Provide the result in standard (json) format
+{% else %}
 Find all ({{organism}}) genes that have molecular weight between 10,000 and 10,500. 
-<br>For each gene ID in the result, return its gene type and organism.
-<br>Provide the result in standard (json) format.
+<br/>For each gene ID in the result, return its gene type and organism.
+<br/>Provide the result in standard (json) format.
+{% endif %}
 </span>
 </p>
 
@@ -79,9 +85,9 @@ Find all ({{organism}}) genes that have molecular weight between 10,000 and 10,5
   For example, to run the search above using curl, your command line would be the following (Note: URL encoding is applied to this command):
 </p>
 <pre><code>{% if project == 'OrthoMCL' %}
-curl -g -H "Authorization: Bearer {your_api_key}" 'https://orthomcl.org/orthomcl/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue_min=-200&evalue_max=-50&reportConfig={&#37;22attributes&#37;22:[&#37;22primary_key&#37;22,&#37;22number_of_members&#37;22,&#37;22evalue&#37;22]}'  
+curl -g -H "Authorization: Bearer {your_api_key}" 'https://orthomcl.org/orthomcl/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue=&#37;7B&#37;22min&#37;22&#37;3A&#37;22-200&#37;22&#37;2C&#37;22max&#37;22&#37;3A&#37;22-50&#37;22&#37;7D&reportConfig=&#37;7B&#37;22attributes&#37;22&#37;3A&#37;5B&#37;22primary_key&#37;22&#37;2C&#37;22number_of_members&#37;22&#37;2C&#37;22keywords&#37;22&#37;2C&#37;22descriptions&#37;22&#37;2C&#37;22ec_numbers&#37;22&#37;5D&#37;2C&#37;22attributeFormat&#37;22&#37;3A&#37;22text&#37;22&#37;7D'  
 {% else %}
-curl -g -H "Authorization: Bearer {your_api_key}" 'https://{{project}}.org/{{webapp}}/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism | uri_escape }}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={&#37;22attributes&#37;22:[&#37;22gene_source_id&#37;22,&#37;22source_id&#37;22,&#37;22organism&#37;22,&#37;22gene_type&#37;22]}'
+curl -g -H "Authorization: Bearer {your_api_key}" 'https://{{project}}.org/{{webapp}}/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism | uri_escape }}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={&#37;22attributes&#37;22:[&#37;22gene_source_id&#37;22,&#37;22source_id&#37;22,&#37;22organism&#37;22,&#37;22gene_type&#37;22&#37;5D&#37;2C&#37;22attributeFormat&#37;22&#37;3A&#37;22text&#37;22&#37;7D'
 {% endif %}
 </code></pre>
 
