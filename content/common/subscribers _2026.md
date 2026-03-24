@@ -324,6 +324,7 @@ h1, h2 {
     <div>Waters group, Glasgow Univ UK</div>
     <div>Weiss group, Albert Einstein College of Medicine US</div>
     <div>Welch group, Univ of California, Berkeley US</div>
+    <div>West group, University of Georgia US<div>
     <div>Wiese group, Univ Strathclyde UK</div>
     <div>Williamson group, Uniformed Services University US</div>
     <div>Wilson group, Univ Adelaide AU</div>
