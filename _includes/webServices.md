@@ -81,7 +81,7 @@ Find all ({{organism}}) genes that have molecular weight between 10,000 and 10,5
 <pre><code>{% if project == 'OrthoMCL' %}
 curl -g -H "Authorization: Bearer {your_api_key}" 'https://orthomcl.org/orthomcl/service/record-types/group/searches/GroupsByEValue/reports/standard?evalue_min=-200&evalue_max=-50&reportConfig={&#37;22attributes&#37;22:[&#37;22primary_key&#37;22,&#37;22number_of_members&#37;22,&#37;22evalue&#37;22]}'  
 {% else %}
-curl -g -H "Authorization: Bearer {your_api_key}" 'https://{{project]].org/{{webapp}}/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={&#37;22attributes&#37;22:[&#37;22gene_source_id&#37;22,&#37;22source_id&#37;22,&#37;22organism&#37;22,&#37;22gene_type&#37;22]}'
+curl -g -H "Authorization: Bearer {your_api_key}" 'https://{{project}}.org/{{webapp}}/service/record-types/transcript/searches/GenesByMolecularWeight/reports/standard?organism={{organism}}&min_molecular_weight=10000&max_molecular_weight=10500&reportConfig={&#37;22attributes&#37;22:[&#37;22gene_source_id&#37;22,&#37;22source_id&#37;22,&#37;22organism&#37;22,&#37;22gene_type&#37;22]}'
 {% endif %}
 </code></pre>
 
