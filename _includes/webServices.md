@@ -73,7 +73,7 @@ Find all ({{organism}}) genes that have molecular weight between 10,000 and 10,5
 </p>
 <ol>
   <li>Find your API Key by logging in and visiting the <a href="/a/app/user/profile#serviceAccess">Web Service Access tab in your profile</a>.</li>
-  <li markdown="1">Add your API Key to requests via the "Authorization" HTTP header.  The API Key is a bearer token, so the header value will be "Bearer {your_api_key}" </li>
+  <li>Add your API Key to requests via the "Authorization" HTTP header.  The API Key is a bearer token, so the header value will be "Bearer {your_api_key}".</li>
 </ol>
 <p>
   For example, to run the search above using curl, your command line would be the following (Note: URL encoding is applied to this command):
