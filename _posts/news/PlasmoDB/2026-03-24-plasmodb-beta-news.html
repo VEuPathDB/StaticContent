@@ -1,0 +1,115 @@
+z---
+layout: post
+title: March 2026- PlasmoDB 69 Released
+category: [PlasmoDB]
+---
+
+<style>
+
+div.newswrapper-68e-Feb7-2025 {
+    h3 {
+      font-size: 160%;
+      margin: 1em 0 0.5em;
+    }
+
+    div.container {
+      display: flex;
+      align-items: stretch;
+      margin-bottom: 1em;
+    }
+    img {
+      width: 15em;
+    }
+    div.text {
+      padding: 1em 2em;
+      border-radius: 0.3em;
+      margin-left: 0.5em;
+    }
+    div.greyback {
+      background: #f9f9f9;
+    }
+
+    div.title {
+      font-family: system-ui;
+      font-size:1.0em;
+      font-weight:600;
+      font-style:italic
+    }
+    div.center {
+      text-align: stretch;
+    }
+    div.left {
+      text-align: left;
+    }
+    div.right {
+      text-align: right;
+    }
+
+    @media only screen and (max-width: 800px) {
+      div.container {
+        flex-wrap:wrap;
+      }
+      div.text {
+        margin-left: 0;
+      }
+    }
+
+} /* .newswrapper  */
+
+</style>
+
+<!-- ================================================= -->
+
+<div class="newswrapper-68e-Feb7-2025">
+
+  <h3 style="margin-top:0">PlasmoDB Beta Release</h3>
+
+  <div class="container">
+  <img src="{{'/assets/images/news/69_release.png' | absolute_url}}" />
+   <div class="text greyback">
+     <div class="title left">WE ARE PLEASED TO ANNOUNCE THE RELEASE OF PlasmoDB 69 on BETA SITES</div>
+     <p>This marks our return to regular releases following a period of strategic transition, during which we restructured our operations and launched a new, community-supported funding model to ensure long-term sustainability.</p>
+     <p>You may have noticed that updates on PlasmoDB 69 are available on a new beta site rather than through our usual live platform. This marks <b>an exciting step forward</b>.</p>
+     <p>Over the past several months, our team has been hard at work <b>modernizing the underlying infrastructure</b> to create a faster, more flexible, and more sustainable platform for our community. These beta sites offer an early look at what’s ahead. We’ll continue refining and enhancing them based on your feedback, and in the coming months they will fully replace our current live sites. Please see the end of this news announcement for a list of major updates.</p>
+   </div>
+  </div>
+
+<!-- ================ -->
+
+  <h3 style="margin-top:0">New data in PlasmoDB 69</h3>  
+
+  <div class="container">
+   <img src="{{'/assets/images/news/69_data_square.png' | absolute_url}}" />
+   <div class="text greyback">
+    <div class="title left">List of data updates</div>
+     <p>Transcriptomics: <a href="https://beta.plasmodb.org/plasmo.beta/app/record/dataset/DS_319056a7f7" target="_blank"><i>P. yoelii</i> zygote and female gametocyte transcriptome</a> (<a href="https://pubmed.ncbi.nlm.nih.gov/39777415/" target="_blank">Rios et al. 2025</a>)</p> 
+    <p>Proteomics: <a href="https://beta.plasmodb.org/plasmo.beta/app/record/dataset/DS_0a5ca31312" target="_blank">Meta-analysis of phosphorylation in the <i>P. falciparum</i> proteome</a> (<a href="https://pubmed.ncbi.nlm.nih.gov/39475123/">Camacho et al. 2024</a>)</p>
+    <p>Phenotype: <a href="https://beta.plasmodb.org/plasmo.beta/app/record/dataset/DS_aeb05016ba" target="_blank">Whole-cell spatial hyperLOPIT proteome of the <i>P. falciparum</i> 3D7 schizont</a> (<a href="https://www.biorxiv.org/content/10.1101/2025.11.27.690946v1.full" target="_blank">Chisholm et al. 2025</a>)</p>
+    <p>Functional annotations in PlasmoDB have been updated for <i>P. falciparum</i> 3D7, <i>P. berghei</i> ANKA, <i>P. chabaudi</i> AS, <i>P. gallinaceum</i> 8A, <i>P. knowlesi</i> H, <i>P. malariae</i> UG01, <i>P. ovale curtisi</i> GH01, <i>P. reichenowi</i> CDC, <i>P. relictum</i> SGS1, <i>P. vivax</i> P01, <i>P. yoelii yoelii</i> 17X. For details please see this <a href="https://docs.google.com/spreadsheets/d/1VetlaWn18n8NIEAO9p2TJYTAnF8nrYN03R3hbmpMZ5s" target="_blank">summary of annotation updates</a> which include products, GO terms, gene names, synonyms and PMID.</p>
+   </div>
+  </div>
+
+<!-- ================ -->
+ <h3 style="margin-top:0">New features in PlasmoDB 69</h3>  
+
+  <div class="container">
+   <img  src="{{'/assets/images/news/69_features.png' | absolute_url}}" />
+   <div class="text greyback">
+    <div class="title left">MAJOR UPDATES IN PlasmoDB 69</div>
+  <ul>
+  <li>Migrating from multiple siloed Oracle databases for all our component sites to a single <b>PostgreSQL database</b>, reducing licensing costs while gaining the flexibility, innovation, and scalability of an open-source platform</li>
+  <li>Streamlining <b>data-loading workflows</b> for faster and more efficient dataset ingestion</li>
+  <li>Introducing new search forms (RNA-Seq WGCNA, RNA-Seq differential expression, Phenotype, Cellular localization, and Antibody Array) using our <b>new exploratory data analysis tools</b> with computation and visualizations</li>
+  <li><b>AI gene expression summaries</b> have been upgraded to Claude, which our preliminary evaluation found produces summaries that are more specific, insightful, and accessible than the previous version</li>
+  <li>Orthologs on b69 gene pages are now shown from OrthoMCL v8.0, which uses OrthoFinder 2.0 to build more <b>accurate and more inclusive orthogroups</b></li>
+  <li>Searches to <b>identify genes based on predicted signal peptides</b> now include three different versions of the algorithm SignalP- 4.1, 5.0 and 6.0</li>
+  <li>New “My Datasets” upload service offering <b>upload for Phenotype datasets</b>, with richer metadata upload options coming soon</li>
+  <li>Please send us your feedback and bug reports using our <a href="/a/app/contact-us">Contact Us Form</a> or by emailing us at <b>help@veupathdb.org</b></li>
+  </ul>
+  </div>
+  </div>
+
+
+
+</div>  <!--  .newswrapper   -->
+

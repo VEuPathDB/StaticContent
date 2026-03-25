@@ -1,0 +1,112 @@
+---
+layout: post
+title: March 2026- TriTrypDB 69 Released
+category: [TriTrypDB]
+---
+
+<style>
+
+div.newswrapper-68e-Feb7-2025 {
+    h3 {
+      font-size: 160%;
+      margin: 1em 0 0.5em;
+    }
+
+    div.container {
+      display: flex;
+      align-items: stretch;
+      margin-bottom: 1em;
+    }
+    img {
+      width: 15em;
+    }
+    div.text {
+      padding: 1em 2em;
+      border-radius: 0.3em;
+      margin-left: 0.5em;
+    }
+    div.greyback {
+      background: #f9f9f9;
+    }
+
+    div.title {
+      font-family: system-ui;
+      font-size:1.0em;
+      font-weight:600;
+      font-style:italic
+    }
+    div.center {
+      text-align: stretch;
+    }
+    div.left {
+      text-align: left;
+    }
+    div.right {
+      text-align: right;
+    }
+
+    @media only screen and (max-width: 800px) {
+      div.container {
+        flex-wrap:wrap;
+      }
+      div.text {
+        margin-left: 0;
+      }
+    }
+
+} /* .newswrapper  */
+
+</style>
+
+<!-- ================================================= -->
+
+<div class="newswrapper-68e-Feb7-2025">
+
+  <h3 style="margin-top:0">TriTrypDB Beta Release</h3>
+
+  <div class="container">
+  <img src="{{'/assets/images/news/69_release.png' | absolute_url}}" />
+   <div class="text greyback">
+     <div class="title left">WE ARE PLEASED TO ANNOUNCE THE RELEASE OF TriTrypDB 69 on BETA SITES</div>
+     <p>This marks our return to regular releases following a period of strategic transition, during which we restructured our operations and launched a new, community-supported funding model to ensure long-term sustainability.</p>
+     <p>You may have noticed that new datasets on TriTrypDB 69 are now available on new beta sites rather than through our usual live platforms. This marks <b>an exciting step forward</b>.</p>
+     <p>Over the past several months, our team has been hard at work <b>modernizing the underlying infrastructure</b> to create a faster, more flexible, and more sustainable platform for our community. These beta sites offer an early look at what’s ahead. We’ll continue refining and enhancing them based on your feedback, and in the coming months they will fully replace our current live sites. Please see the end of this news announcement for a list of major updates.</p>
+   </div>
+  </div>
+
+<!-- ================ -->
+
+  <h3 style="margin-top:0">Updates in TriTrypDB 69</h3>  
+
+  <div class="container">
+   <img src="{{'/assets/images/news/69_data_square.png' | absolute_url}}" />
+   <div class="text greyback">
+    <div class="title left">Structural Annotation</div>
+  <p><i>Trypanosoma brucei brucei</i> TREU927 <a href="https://docs.google.com/spreadsheets/d/1oINAQJouRi93k7qcvYdiTe1OI07jaHogL7Ln7qC55GQ" target="_blank">structural annotation updates</a> (UTR annotation updated using the <a href="https://veupathdb.org/veupathdb/app/static-content/apollo_help.html" target="_blank">Apollo tool</a> and further analyzed in <a href="https://pubmed.ncbi.nlm.nih.gov/39285175/">Trenaman et al. 2024</a>; IncRNAs based on <a href="https://pubmed.ncbi.nlm.nih.gov/35704590/" target="_blank">Guegan et al. 2022</a>)</p>
+   </div>
+  </div>
+
+<!-- ================ -->
+ <h3 style="margin-top:0">New features in TriTrypDB 69</h3>  
+
+  <div class="container">
+   <img  src="{{'/assets/images/news/69_features.png' | absolute_url}}" />
+   <div class="text greyback">
+    <div class="title left">MAJOR UPDATES IN TriTrypDB 69</div>
+  <ul>
+  <li>Migrating from multiple siloed Oracle databases for all our component sites to a single <b>PostgreSQL database</b>, reducing licensing costs while gaining the flexibility, innovation, and scalability of an open-source platform</li>
+  <li>Streamlining <b>data-loading workflows</b> for faster and more efficient dataset ingestion</li>
+  <li>Introducing new search forms (RNA-Seq WGCNA, RNA-Seq differential expression, Phenotype, Cellular localization, and Antibody Array) using our <b>new exploratory data analysis tools</b> with computation and visualizations</li>
+  <li><b>AI gene expression summaries</b> have been upgraded to Claude, which our preliminary evaluation found produces summaries that are more specific, insightful, and accessible than the previous version</li>
+  <li>Orthologs on b69 gene pages are now shown from OrthoMCL v8.0, which uses OrthoFinder 2.0 to build more <b>accurate and more inclusive orthogroups</b></li>
+  <li>Searches to <b>identify genes based on predicted signal peptides</b> now include three different versions of the algorithm SignalP- 4.1, 5.0 and 6.0</li>
+  <li>New “My Datasets” upload service offering <b>upload for Phenotype datasets</b>, with richer metadata upload options coming soon</li>
+  <li>Please send us your feedback and bug reports using our <a href="/a/app/contact-us">Contact Us Form</a> or by emailing us at <b>help@veupathdb.org</b></li>
+  </ul>
+  </div>
+  </div>
+
+
+
+</div>  <!--  .newswrapper   -->
+
