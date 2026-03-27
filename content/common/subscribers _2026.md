@@ -139,6 +139,7 @@ h1, h2 {
     <div>Bonhivers group, CNRS/Univ Bordeaux FR</div>
     <div>Boyle group, Univ Pittsburgh US</div>
     <div>Brackney group, Connecticut Agricultural Experiment Station US</div>
+    <div>Bringaud group, Univ Bordeaux FR</div>
     <div>Bryant group, Institut Pasteur FR</div>
     <div>Buchanan group, JMP Securities</div>
     <div>Buchler group, North Carolina State Univ US</div>
@@ -186,6 +187,7 @@ h1, h2 {
     <div>Gubbels group, Boston College US</div>
     <div>Guérin group, Univ of Geneva CH</div>
     <div>Guillen group, Institut Pasteur FR</div>
+    <div>Guiton group, Santa Clara Univ US</div>
     <div>Günzl group, Univ Connecticut Health US</div>
     <div>Halfon group, Univ Buffalo US</div>
     <div>Hammarton group, Univ Glasgow UK</div>
@@ -254,6 +256,7 @@ h1, h2 {
     <div>Michel group, Kansas State Univ US</div>
     <div>Miklos Müller & Jan Keithly, US</div>
     <div>Mineo group, Federal Univ Uberlândia BR</div>
+    <div>Mita group, Juntendo University JP</div>
     <div>Mok group, Columbia Univ US</div>
     <div>Morrissette group, Univ California Irvine US</div>
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
