@@ -190,6 +190,7 @@ h1, h2 {
     <div>Guiton group, Santa Clara Univ US</div>
     <div>Günzl group, Univ Connecticut Health US</div>
     <div>Halfon group, Univ Buffalo US</div>
+    <div>Hallen-Adams group, Univ Nebraska US</div>
     <div>Hammarton group, Univ Glasgow UK</div>
     <div>Hammond group, Illinois State Univ US</div>
     <div>Harding group, Univ Glasgow GB</div>
@@ -211,11 +212,13 @@ h1, h2 {
     <div>James group, Gettysburg College US</div>
     <div>James group, UC Irvine US</div>
     <div>Jimenez group, California State Univ, Fullerton US</div>
+    <div>Johnston group, Johns Hopkins Univ US</div>
     <div>Jones group, Univ Liverpool UK</div>
     <div>Judelson group, Univ California Riverside US</div>
     <div>Juvvadi group, Univ of Arkansas for Medical Sciences US</div>
     <div>K Hu group, Arizona State Univ US</div>
     <div>Kamaliddin group, Univ Alberta CA</div>
+    <div>Kaneko group, Nagasaki Univ JP</div>
     <div>Kanzok group, Loyola Univ Chicago US</div>
     <div>Ke group, Drexel Univ US</div>
     <div>Keith Gull, Univ Oxford UK</div>
@@ -347,6 +350,7 @@ h1, h2 {
     <div>Xiao lab, South China Agricultural Univ CN</div>
     <div>Xu group, New Mexico State Univ US</div>
     <div>Yapa group, Univ of Southern Queensland AU</div>
+    <div>Yarden group, Hebrew Univ IL</div>
     <div>Yee group, Trent Univ CA</div>
     <div>Young group, Univ Edinburgh UK</div>
     <div>Yuan group, Xiamen Univ CN</div>
