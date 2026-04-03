@@ -239,6 +239,7 @@ h1, h2 {
     <div>Lakin-Thomas group, York Univ CA</div>
     <div>Lander group, Univ Cincinnati US</div>
     <div>Landfear group, Oregon Health & Science Univ US</div>
+    <div>Lavazec group, Inst Cochin FR</div>
     <div>Leger-Abraham group, Harvard Medical School US</div>
     <div>Licon group, Univ of Utah US</div>
     <div>Lima group, Federal Univ of Rio de Janeiro BR</div>
