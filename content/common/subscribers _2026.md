@@ -137,6 +137,7 @@ h1, h2 {
     <div>Blake group, Fort Lewis College US</div>
     <div>Blatch group, Univ of Notre Dame Australia AU</div>
     <div>Bonhivers group, CNRS/Univ Bordeaux FR</div>
+    <div>Boshart group, LMU Munich DE</div>
     <div>Boyle group, Univ Pittsburgh US</div>
     <div>Brackney group, Connecticut Agricultural Experiment Station US</div>
     <div>Bringaud group, Univ Bordeaux FR</div>
@@ -156,6 +157,7 @@ h1, h2 {
     <div>Christensen group, Northwestern Univ US</div>
     <div>Corvi group, Chascomús Technol Inst (INTECH) AR</div>
     <div>Cramer group, Dartmouth College US</div>
+    <div>Crispim group, Fed Univ Alfenas BR</div>
     <div>Crouch group, Univ Glasgow UK</div>
     <div>Culleton group, Ehime Univ JP</div>
     <div>Daily group, Albert Einstein College of Medicine US</div>
@@ -171,10 +173,12 @@ h1, h2 {
     <div>Engstler group, Julius-Maximilians-Universität Würzburg DE</div>
     <div>Ersfeld group, Univ Bayreuth DE</div>
     <div>Estevez group, CSIC ES</div>
+    <div>Faso Group, Univ Bern CH</div>
     <div>Fidock group, Columbia Univ US</div>
     <div>Field group, Univ Dundee UK</div>
     <div>Figueiredo group, Gulbenkian Institute for Molecular Medicine PT</div>
     <div>Franke-Fayard group, Leiden Univ Medical Center NL</div>
+    <div>Francia group, Inst Pasteur Montevideo UY</div>
     <div>Free group, Univ Buffalo US</div>
     <div>Filler group, Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center US</div>
     <div>Ghosh group, Maulana Azad College IN</div>
@@ -270,6 +274,7 @@ h1, h2 {
     <div>Nakanishi group, Matsuyama Univ JP</div>
     <div>Natl Inst Health Security (JIHS) JP</div>
     <div>Ng group, Univ Nebraska US</div>
+    <div>Niikura group, Azabu Univ JP</div>
     <div>Nowrousian group, Ruhr Univ Bochum DE</div>
     <div>Ochsenreiter group, Univ Bern CH</div>
     <div>Offmann group, Univ of Nantes FR</div>
@@ -286,6 +291,7 @@ h1, h2 {
     <div>Pavlovic-Djuranovic group, Washington Univ US</div>
     <div>Peraza Reyes group, National Autonomous Univ of Mexico MX</div>
     <div>Pereira group, Catholic Univ of Portugal PT</div>
+    <div>Pesquisa ICC, FIOCRUZ BR</div>
     <div>Phadke group, California State Univ US</div>
     <div>Phan group, Seattle Children’s Research Inst US</div>
     <div>Phillips group, UT Southwestern US</div>
@@ -294,6 +300,7 @@ h1, h2 {
     <div>Price group, Liberty Univ US</div>
     <div>Rajaram group, Ohio State Univ US</div>
     <div>Ramaprasad group, Univ Glasgow UK</div>
+    <div>Roditi group, Univ Bern CH</div>
     <div>Rogers group, St. Jude Children's Research Hospital US</div>
     <div>Rentsch group, Univ Bern CH</div>
     <div>Richard group, Univ Laval CA</div>
@@ -309,10 +316,12 @@ h1, h2 {
     <div>Scheel group, Indiana Univ US</div>
     <div>Schenkman group, Federal Univ São Paulo BR</div>
     <div>Schnaufer group, Univ Edinburgh UK</div>
+    <div>Schruefer group, Ludwig Maximilian Univ of Munich, LMU DE</div>
     <div>Segev-Zarko group, Univ of Texas Medical Branch US</div>
     <div>Sengupta group, Ahmedabad Univ IN</div>
     <div>Serre group, Univ Maryland School of Medicine US</div>
     <div>Sibley group, Washington Univ US</div>
+    <div>Siddiki group, Chittagong Veterinary and Animal Sciences Univ BD</div>
     <div>Sigala group, Univ Utah US</div>
     <div>Sinha group, Jhargram Raj College IN</div>
     <div>Smith group, Univ Buffalo US</div>
@@ -321,6 +330,7 @@ h1, h2 {
     <div>Striepen group, Univ Pennsylvania US</div>
     <div>Sullivan group, Indiana Univ US</div>
     <div>Sun group, Univ of Pittsburgh US</div>
+    <div>Sundararaman group, CHOP/Univ Pennsylvania US</div>
     <div>Sunter group, Oxford Brookes Univ UK</div>
     <div>Takashima group, Ehime Univ JP</div>
     <div>Tilley group, Univ Melbourne AU</div>
@@ -329,6 +339,7 @@ h1, h2 {
     <div>Urbaniak group, Lancaster Univ UK</div>
     <div>Valdés group, Cinvestav MX</div>
     <div>van Hellemond group, Erasmus Univ Medical Center NL</div>
+    <div>Vargas-Muniz group, Virginia Polytechnic Institute and State Univ US</div>
     <div>Veiga group, Univ of Minho PT</div>
     <div>Vembar group, Inst Bioinformatics & Applied Biotechnology IN</div>
     <div>Verjovski-Almeida group, Univ São Paulo BR</div>
