@@ -144,6 +144,7 @@ h1, h2 {
     <div>Bryant group, Institut Pasteur FR</div>
     <div>Buchanan group, JMP Securities</div>
     <div>Buchler group, North Carolina State Univ US</div>
+    <div>Buckner group, Univ Washington US</div>
     <div>Bunnik group, Univ Texas Health San Antonio US</div>
     <div>Burchmore group, Univ Glasgow UK</div>
     <div>Bushell group, Umeå Univ SE</div>
@@ -200,7 +201,9 @@ h1, h2 {
     <div>Harding group, Univ Glasgow GB</div>
     <div>Harun group, Univ Sains Malaysia MY</div>
     <div>Hatakeyama group, Saitama Univ JP</div>
+    <div>Heaslip group, Univ Connecticut US</div>
     <div>Hedstrom group, Brandeis Univ US</div>
+    <div>Heise group, Federal Univ of Rio de Janeiro BR</div>
     <div>Hemphill group, Univ Bern CH</div>
     <div>Herman group, Univ California Los Angeles US</div>
     <div>Hernández Hernández group, CINVESTAV MX</div>
@@ -286,6 +289,7 @@ h1, h2 {
     <div>Outten group, Univ of South Carolina US</div>
     <div>Overy group, Agriculture and Agri-Food Canada CA</div>
     <div>Pain group, KAUST SA</div>
+    <div>Paluzzi group, York Univ CA</div>
     <div>Paredez group, Univ Washington US</div>
     <div>Pathak group, Univ Georgia US</div>
     <div>Pauling group, Univ Central Missouri US</div>
@@ -313,6 +317,7 @@ h1, h2 {
     <div>Samuelson group, Boston Univ US</div>
     <div>Santiago-Tirado group, Univ Notre Dame US</div>
     <div>Santos group, Univ Paris-Saclay FR</div>
+    <div>Saxena group, Birla Institute of Technology and Science, Pilani IN</div>
     <div>Scaraffia group, Tulane Univ US</div>
     <div>Scheel group, Indiana Univ US</div>
     <div>Schenkman group, Federal Univ São Paulo BR</div>
