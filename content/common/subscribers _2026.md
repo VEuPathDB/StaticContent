@@ -279,6 +279,7 @@ h1, h2 {
     <div>Natl Inst Health Security (JIHS) JP</div>
     <div>Ng group, Univ Nebraska US</div>
     <div>Niikura group, Azabu Univ JP</div>
+    <div>Nowacki group, Univ Bern CH</div>
     <div>Nowrousian group, Ruhr Univ Bochum DE</div>
     <div>Ochsenreiter group, Univ Bern CH</div>
     <div>Offmann group, Univ of Nantes FR</div>
