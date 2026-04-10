@@ -113,6 +113,7 @@ h1, h2 {
   <p style="text-align: center;"><i><sup>*</sup>We list only those who consented to be publicly listed.</i></p>
 
   <div class="columns-balanced">
+    <div>Adams group, Univ South Florida US</div>
     <div>Adelman group, Texas A&M Univ US</div>
     <div>Akiyoshi group, Univ Edinburgh UK</div>
     <div>Alday group, Oregon Health & Science Univ US</div>
@@ -124,6 +125,7 @@ h1, h2 {
     <div>Arthropod Sensory Biology group, Baylor Univ US</div>
     <div>Asgari group, Univ Queensland AU</div>
     <div>Azuara group, Autonomous Univ of Mexico City MX</div>
+    <div>Bakari-Soale group, Univ Nottingham UK</div>
     <div>Balbino group, Federal Univ Pernambuco BR</div>
     <div>Bangs group, Univ Buffalo US</div>
     <div>Barrett group, Univ Glasgow UK</div>
@@ -148,6 +150,7 @@ h1, h2 {
     <div>Bunnik group, Univ Texas Health San Antonio US</div>
     <div>Burchmore group, Univ Glasgow UK</div>
     <div>Bushell group, Umeå Univ SE</div>
+    <div>Bzik group, Dartmouth College US</div>
     <div>Casadevall group, Johns Hopkins Univ US</div>
     <div>Catteruccia group, Harvard Univ US</div>
     <div>Cevallos group, Natl Autonomous Univ México MX</div>
@@ -186,6 +189,7 @@ h1, h2 {
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
     <div>Gissot group, Institut Pasteur de Lille FR</div>
     <div>Glover group, Institut Pasteur FR</div>
+    <div>Goldring group, Univ of KwaZulu-Natal ZA</div>
     <div>Gomez-Marin group, Univ del Quindio GEPAMOL CO</div>
     <div>Goto group, Univ Tokyo JP</div>
     <div>Greigert group, Univ de Reims Champagne-Ardenne FR</div>
@@ -298,6 +302,7 @@ h1, h2 {
     <div>Peraza Reyes group, National Autonomous Univ of Mexico MX</div>
     <div>Pereira group, Catholic Univ of Portugal PT</div>
     <div>Pesquisa ICC, FIOCRUZ BR</div>
+    <div>Peterson group, Univ of Georgia US</div>
     <div>Phadke group, California State Univ US</div>
     <div>Phan group, Seattle Children’s Research Inst US</div>
     <div>Phillips group, UT Southwestern US</div>
@@ -339,6 +344,7 @@ h1, h2 {
     <div>Sun group, Univ of Pittsburgh US</div>
     <div>Sundararaman group, CHOP/Univ Pennsylvania US</div>
     <div>Sunter group, Oxford Brookes Univ UK</div>
+    <div>Suvorova group, Univ South Florida US</div>
     <div>Takashima group, Ehime Univ JP</div>
     <div>Tilley group, Univ Melbourne AU</div>
     <div>Touz group, Instituto de Investigación Médica Mercedes y Martín Ferreyra (INIMEC-CONICET-UNC) AR</div>
@@ -363,6 +369,7 @@ h1, h2 {
     <div>Wiese group, Univ Strathclyde UK</div>
     <div>Williamson group, Uniformed Services University US</div>
     <div>Wilson group, Univ Adelaide AU</div>
+    <div>Wilson group, Univ of Iowa US</div>
     <div>Winzeler group, Univ California, San Diego US</div>
     <div>Wunderlich group, Univ de São Paulo BR</div>
     <div>Xiao lab, South China Agricultural Univ CN</div>
