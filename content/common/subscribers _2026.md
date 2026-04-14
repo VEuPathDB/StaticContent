@@ -214,6 +214,7 @@ h1, h2 {
     <div>Hill & Jackson-Hayes groups, Rhodes College US</div>
     <div>Hill group, Univ of California, Los Angeles US</div>
     <div>Holmes group, Univ of Missouri‚ Kansas City US</div>
+    <div>Horn group, Univ Dundee UK</div>
     <div>Hovel-Miner group, Stony Brook Univ US</div>
     <div>Huberman group, Cornell Univ US</div>
     <div>Hull group, Univ Wisconsin Madison US</div>
@@ -289,6 +290,7 @@ h1, h2 {
     <div>Offmann group, Univ of Nantes FR</div>
     <div>Oliveira group, Federal Univ of Rio de Janeiro BR</div>
     <div>Ohira group, Nazareth Univ US</div>
+    <div>Orbach group, Univ of Arizona US</div>
     <div>Osorio group, Univ Alejandro de Humboldt CO</div>
     <div>Otsuki group, Tottori Univ JP</div>
     <div>Outten group, Univ of South Carolina US</div>
@@ -360,6 +362,7 @@ h1, h2 {
     <div>Vidilaseris group, Univ of Helsinki FI</div>
     <div>Voss group, Swiss Tropical and Public Health Inst CH</div>
     <div>Wang group, Univ Michigan US</div>
+    <div>Wang group, Univ Southern California US</div>
     <div>Wang group, Yale Univ US</div>
     <div>Waters group, Glasgow Univ UK</div>
     <div>Weiss group, Albert Einstein College of Medicine US</div>
