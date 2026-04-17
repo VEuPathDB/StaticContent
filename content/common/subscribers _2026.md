@@ -113,6 +113,7 @@ h1, h2 {
   <p style="text-align: center;"><i><sup>*</sup>We list only those who consented to be publicly listed.</i></p>
 
   <div class="columns-balanced">
+    <div>Absalon group, Indiana Univ US</div>
     <div>Adams group, Univ South Florida US</div>
     <div>Adelman group, Texas A&M Univ US</div>
     <div>Akiyoshi group, Univ Edinburgh UK</div>
@@ -216,6 +217,7 @@ h1, h2 {
     <div>Holmes group, Univ of Missouri‚ Kansas City US</div>
     <div>Horn group, Univ Dundee UK</div>
     <div>Hovel-Miner group, Stony Brook Univ US</div>
+    <div>Howick group, Univ Glasgow UK</div>
     <div>Huberman group, Cornell Univ US</div>
     <div>Hull group, Univ Wisconsin Madison US</div>
     <div>Inaoka group, Nagasaki Univ JP</div>
@@ -347,6 +349,7 @@ h1, h2 {
     <div>Sundararaman group, CHOP/Univ Pennsylvania US</div>
     <div>Sunter group, Oxford Brookes Univ UK</div>
     <div>Suvorova group, Univ South Florida US</div>
+    <div>Svärd group, Uppsala Univ SE</div>
     <div>Takashima group, Ehime Univ JP</div>
     <div>Tilley group, Univ Melbourne AU</div>
     <div>Touz group, Instituto de Investigación Médica Mercedes y Martín Ferreyra (INIMEC-CONICET-UNC) AR</div>
@@ -397,6 +400,8 @@ h1, h2 {
   <div class="institutions">
    <div>Central Drug Research Inst (CDRI), Lucknow IN – Habib, Kumar, Mishra, Prakash & Zeeshan groups</div>
    <div>Clemson Univ US / Eukaryotic Pathogens Innovation Center (EPIC) – Dhingra, Dolan, Dou, Fierro, Ingram-Smith, J Morris, M Morris, Jezewski, Smith, Temesvari & Walzer groups</div>
+   <div>Czech Acad Sci CZ / Inst Parasitology, Biology Centre – Zikova, Lukes, Gahura, Paris, Obornik, Sojka, Kolisko, Perner groups</div>
+   <div>Infection and Global Health Division, WEHI AU- Tonkin, Cowman, Boddey, Longley, Mueller, Jex, Doerflinger, Hill, Tham, McCarthy groups</div>
    <div>Institute of Hygiene and Tropical Medicine, NOVA Univ Lisbon PT- multiple groups</div>
    <div>Leibniz-HKI DE- Brakhage & Blango labs</div>
    <div>Liverpool School of Tropical Medicine</div>
