@@ -143,6 +143,7 @@ h1, h2 {
     <div>Boshart group, LMU Munich DE</div>
     <div>Boyle group, Univ Pittsburgh US</div>
     <div>Brackney group, Connecticut Agricultural Experiment Station US</div>
+    <div>Briggs group, Newcastle Univ UK</div>
     <div>Bringaud group, Univ Bordeaux FR</div>
     <div>Bryant group, Institut Pasteur FR</div>
     <div>Buchanan group, JMP Securities</div>
@@ -168,7 +169,7 @@ h1, h2 {
     <div>Daily group, Albert Einstein College of Medicine US</div>
     <div>Danae Schulz, Harvey Mudd College US</div>
     <div>Davis group, Univ of Nebraska at Omaha US</div>
-    <div>Diallinas group, National and Kapodistrian University of Athens GR</div>
+    <div>Diallinas group, National and Kapodistrian Univ Athens GR</div>
     <div>de Miguel group, Chascomús Technol Inst (INTECH) AR</div>
     <div>de Koning-Ward group, Deakin Univ AU</div>
     <div>Denny group, Durham Univ UK</div>
@@ -182,10 +183,11 @@ h1, h2 {
     <div>Fidock group, Columbia Univ US</div>
     <div>Field group, Univ Dundee UK</div>
     <div>Figueiredo group, Gulbenkian Institute for Molecular Medicine PT</div>
+    <div>Filler group, Lundquist Inst Harbor-UCLA Medical Center US</div>
     <div>Franke-Fayard group, Leiden Univ Medical Center NL</div>
     <div>Francia group, Inst Pasteur Montevideo UY</div>
     <div>Free group, Univ Buffalo US</div>
-    <div>Filler group, Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center US</div>
+    <div>Freitag group, Oregon State US</div>
     <div>Ghosh group, Maulana Azad College IN</div>
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
     <div>Gissot group, Institut Pasteur de Lille FR</div>
@@ -270,6 +272,7 @@ h1, h2 {
     <div>McLeod group, Univ of Chicago US</div>
     <div>Meetali group, Indian Inst Science IN</div>
     <div>Meissner group, Ludwig Maximilians Univ DE</div>
+    <div>Meyers group, Saint Louis Univ US</div>
     <div>Michaeli group, Bar-Ilan University IL</div>
     <div>Michel group, Kansas State Univ US</div>
     <div>Miklos Müller & Jan Keithly, US</div>
