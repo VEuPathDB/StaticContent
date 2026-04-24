@@ -129,6 +129,7 @@ h1, h2 {
     <div>Bakari-Soale group, Univ Nottingham UK</div>
     <div>Balbino group, Federal Univ Pernambuco BR</div>
     <div>Bangs group, Univ Buffalo US</div>
+    <div>Barber group, Friedrich Schiller Univ Jena DE</div>
     <div>Barrett group, Univ Glasgow UK</div>
     <div>Bartfai group, Radboud Univ NL</div>
     <div>Bastin group, Institut Pasteur FR</div>
@@ -168,6 +169,7 @@ h1, h2 {
     <div>Culleton group, Ehime Univ JP</div>
     <div>Daily group, Albert Einstein College of Medicine US</div>
     <div>Danae Schulz, Harvey Mudd College US</div>
+    <div>Da Rocha group, Federal Univ of Paraná BR</div>
     <div>Davis group, Univ of Nebraska at Omaha US</div>
     <div>Diallinas group, National and Kapodistrian Univ Athens GR</div>
     <div>de Miguel group, Chascomús Technol Inst (INTECH) AR</div>
@@ -179,7 +181,7 @@ h1, h2 {
     <div>Engstler group, Julius-Maximilians-Universität Würzburg DE</div>
     <div>Ersfeld group, Univ Bayreuth DE</div>
     <div>Estevez group, CSIC ES</div>
-    <div>Faso Group, Univ Bern CH</div>
+    <div>Faso group, Univ Bern CH</div>
     <div>Fidock group, Columbia Univ US</div>
     <div>Field group, Univ Dundee UK</div>
     <div>Figueiredo group, Gulbenkian Institute for Molecular Medicine PT</div>
@@ -264,7 +266,8 @@ h1, h2 {
     <div>MacLeod group, Univ Glasgow GB</div>
     <div>Maringer group, Pirbright Inst UK</div>
     <div>Marten group, Univ Maryland US</div>
-    <div>Martins lab, Univ of Brasília BR</div>
+    <div>Marti group, Univ Glasgow UK</div>
+    <div>Martins group, Univ of Brasília BR</div>
     <div>Martorelli Di Genova group, Univ Vermont US</div>
     <div>McClelland group, Wood College Osteopathic Med, Marian Univ US</div>
     <div>McConville group, Univ Melbourne AU</div>
@@ -282,10 +285,11 @@ h1, h2 {
     <div>Morrissette group, Univ California Irvine US</div>
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
     <div>Moye-Rowley group, Univ of Iowa US</div>
-    <div>Mucci lab, National Univ of San Martín AR</div>
+    <div>Mucci group, National Univ of San Martín AR</div>
     <div>Muralidharan group, Univ Georgia US</div>
     <div>Myles group, Texas A&M Univ US</div>
     <div>Nakanishi group, Matsuyama Univ JP</div>
+    <div>Nanda group, Rutgers Univ US</div>
     <div>Natl Inst Health Security (JIHS) JP</div>
     <div>Ng group, Univ Nebraska US</div>
     <div>Niikura group, Azabu Univ JP</div>
