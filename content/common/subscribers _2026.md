@@ -121,6 +121,7 @@ h1, h2 {
     <div>Alfonzo group, Brown Univ US</div>
     <div>Alsford group, LSHTM UK</div>
     <div>Alspaugh group, Duke Univ US</div>
+    <div>Andrianopoulos group, Univ Melbourne AU</div>
     <div>ANU Parasitology group, Australian National Univ AU</div>
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
     <div>Arthropod Sensory Biology group, Baylor Univ US</div>
@@ -356,6 +357,7 @@ h1, h2 {
     <div>Sundararaman group, CHOP/Univ Pennsylvania US</div>
     <div>Sunter group, Oxford Brookes Univ UK</div>
     <div>Suvorova group, Univ South Florida US</div>
+    <div>Suzuki group, Univ of Kentucky US</div>
     <div>Svärd group, Uppsala Univ SE</div>
     <div>Takashima group, Ehime Univ JP</div>
     <div>Tilley group, Univ Melbourne AU</div>
