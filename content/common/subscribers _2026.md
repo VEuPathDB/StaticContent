@@ -285,6 +285,7 @@ h1, h2 {
     <div>Mok group, Columbia Univ US</div>
     <div>Morrissette group, Univ California Irvine US</div>
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
+    <div>Mottram lab, Univ York UK</div>
     <div>Moye-Rowley group, Univ of Iowa US</div>
     <div>Mucci group, National Univ of San Martín AR</div>
     <div>Muralidharan group, Univ Georgia US</div>
@@ -307,6 +308,7 @@ h1, h2 {
     <div>Overy group, Agriculture and Agri-Food Canada CA</div>
     <div>Pain group, KAUST SA</div>
     <div>Paluzzi group, York Univ CA</div>
+    <div>Panepinto group, Univ Buffalo US</div>
     <div>Paredez group, Univ Washington US</div>
     <div>Pathak group, Univ Georgia US</div>
     <div>Pauling group, Univ Central Missouri US</div>
@@ -412,6 +414,7 @@ h1, h2 {
    <div>Czech Acad Sci CZ / Inst Parasitology, Biology Centre – Zikova, Lukes, Gahura, Paris, Obornik, Sojka, Kolisko, Perner groups</div>
    <div>Infection and Global Health Division, WEHI AU- Tonkin, Cowman, Boddey, Longley, Mueller, Jex, Doerflinger, Hill, Tham, McCarthy groups</div>
    <div>Institute of Hygiene and Tropical Medicine, NOVA Univ Lisbon PT- multiple groups</div>
+   <div>Institute of Tropical Medicine - DBS - parasitology units Antwerp BE</div>
    <div>Leibniz-HKI DE- Brakhage & Blango labs</div>
    <div>Liverpool School of Tropical Medicine</div>
    <div>Malaria and Neglected Parasitic Diseases Program, ISGLOBAL, Barcelona- Cortés, Mayor, Dobaño, Fernandez-Becerra, Moncunill, Padilla, Izquierdo, Fernandez-Busquets, del Portillo groups</div>
