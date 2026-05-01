@@ -136,6 +136,7 @@ h1, h2 {
     <div>Bastin group, Institut Pasteur FR</div>
     <div>Baum group, Univ New South Wales AU</div>
     <div>Bei group, Yale Univ</div>
+    <div>Bell-Pedersen group, Texas A&M Univ US</div>
     <div>Bhanot group, Rutgers NJMS US</div>
     <div>Biotech-advisor.com US</div>
     <div>Blair group, Earlham College US</div>
@@ -247,6 +248,7 @@ h1, h2 {
     <div>Kirkland group, Univ of California, San Diego US</div>
     <div>Klemba group, Virginia Polytechnic Institute and State Univ US</div>
     <div>Knuepfer group, Royal Veterinary College UK</div>
+    <div>Kocken group, Biomedical Primate Research Centre NL</div>
     <div>Kooij group, Radboud Univ NL</div>
     <div>Kowalinski group, EMBL Grenoble FR</div>
     <div>Kramer group, Univ Wuerzburg DE</div>
@@ -256,6 +258,7 @@ h1, h2 {
     <div>Landfear group, Oregon Health & Science Univ US</div>
     <div>Lavazec group, Inst Cochin FR</div>
     <div>Leger-Abraham group, Harvard Medical School US</div>
+    <div>Li group, Cleveland State Univ US</div>
     <div>Licon group, Univ of Utah US</div>
     <div>Lima group, Federal Univ of Rio de Janeiro BR</div>
     <div>Lin group, Univ Georgia US</div>
@@ -346,6 +349,7 @@ h1, h2 {
     <div>Segev-Zarko group, Univ of Texas Medical Branch US</div>
     <div>Sengupta group, Ahmedabad Univ IN</div>
     <div>Serre group, Univ Maryland School of Medicine US</div>
+    <div>Sharakhov group, Virginia Polytechnic Institute and State Univ US</div>
     <div>Sibley group, Washington Univ US</div>
     <div>Siddiki group, Chittagong Veterinary and Animal Sciences Univ BD</div>
     <div>Sigala group, Univ Utah US</div>
@@ -378,6 +382,7 @@ h1, h2 {
     <div>Wang group, Univ Michigan US</div>
     <div>Wang group, Univ Southern California US</div>
     <div>Wang group, Yale Univ US</div>
+    <div>Ward group, Univ Vermont US</div>
     <div>Waters group, Glasgow Univ UK</div>
     <div>Weiss group, Albert Einstein College of Medicine US</div>
     <div>Welch group, Univ of California, Berkeley US</div>
