@@ -179,6 +179,7 @@ h1, h2 {
     <div>Denny group, Durham Univ UK</div>
     <div>Dewar group, Lancaster Univ UK</div>
     <div>Diane McMahon-Pratt, US</div>
+    <div>Echeverry group, National Univ of Colombia INRS CO</div>
     <div>Elias group, Butantan Institute BR</div>
     <div>Engstler group, Julius-Maximilians-Universität Würzburg DE</div>
     <div>Ersfeld group, Univ Bayreuth DE</div>
@@ -196,6 +197,7 @@ h1, h2 {
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
     <div>Gissot group, Institut Pasteur de Lille FR</div>
     <div>Glover group, Institut Pasteur FR</div>
+    <div>Goldberg group, Washington Univ US</div>
     <div>Goldring group, Univ of KwaZulu-Natal ZA</div>
     <div>Gomez-Marin group, Univ del Quindio GEPAMOL CO</div>
     <div>Goto group, Univ Tokyo JP</div>
@@ -256,6 +258,7 @@ h1, h2 {
     <div>Lakin-Thomas group, York Univ CA</div>
     <div>Lander group, Univ Cincinnati US</div>
     <div>Landfear group, Oregon Health & Science Univ US</div>
+    <div>Lane group, Idaho State Univ US</div>
     <div>Lavazec group, Inst Cochin FR</div>
     <div>Leger-Abraham group, Harvard Medical School US</div>
     <div>Li group, Cleveland State Univ US</div>
@@ -326,6 +329,7 @@ h1, h2 {
     <div>Pöggeler group, Univ of Göttingen DE</div>
     <div>Ponts group, INRAE FR</div>
     <div>Price group, Liberty Univ US</div>
+    <div>Qiu group, Hunter College US</div>
     <div>Rajaram group, Ohio State Univ US</div>
     <div>Ramaprasad group, Univ Glasgow UK</div>
     <div>Roditi group, Univ Bern CH</div>
