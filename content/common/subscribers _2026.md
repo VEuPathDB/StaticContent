@@ -138,6 +138,7 @@ h1, h2 {
     <div>Bei group, Yale Univ</div>
     <div>Bell-Pedersen group, Texas A&M Univ US</div>
     <div>Bhanot group, Rutgers NJMS US</div>
+    <div>Billker group, Umeå Univ SE</div>
     <div>Biotech-advisor.com US</div>
     <div>Blair group, Earlham College US</div>
     <div>Blake group, Fort Lewis College US</div>
@@ -166,6 +167,7 @@ h1, h2 {
     <div>Christensen group, Northwestern Univ US</div>
     <div>Corvi group, Chascomús Technol Inst (INTECH) AR</div>
     <div>Cramer group, Dartmouth College US</div>
+    <div>Cribb group, National Univ of Rosario AR</div>
     <div>Crispim group, Fed Univ Alfenas BR</div>
     <div>Crouch group, Univ Glasgow UK</div>
     <div>Culleton group, Ehime Univ JP</div>
@@ -189,6 +191,7 @@ h1, h2 {
     <div>Field group, Univ Dundee UK</div>
     <div>Figueiredo group, Gulbenkian Institute for Molecular Medicine PT</div>
     <div>Filler group, Lundquist Inst Harbor-UCLA Medical Center US</div>
+    <div>Florentin group, Hebrew Univ IL</div>
     <div>Franke-Fayard group, Leiden Univ Medical Center NL</div>
     <div>Francia group, Inst Pasteur Montevideo UY</div>
     <div>Free group, Univ Buffalo US</div>
@@ -212,6 +215,7 @@ h1, h2 {
     <div>Hammarton group, Univ Glasgow UK</div>
     <div>Hammond group, Illinois State Univ US</div>
     <div>Harding group, Univ Glasgow GB</div>
+    <div>Hardwick group, Univ Edinburgh GB</div>
     <div>Harun group, Univ Sains Malaysia MY</div>
     <div>Hatakeyama group, Saitama Univ JP</div>
     <div>Heaslip group, Univ Connecticut US</div>
@@ -300,6 +304,7 @@ h1, h2 {
     <div>Nanda group, Rutgers Univ US</div>
     <div>Natl Inst Health Security (JIHS) JP</div>
     <div>Ng group, Univ Nebraska US</div>
+    <div>Nielsen group, Virginia Polytechnic Institute and State Univ US</div>
     <div>Niikura group, Azabu Univ JP</div>
     <div>Nowacki group, Univ Bern CH</div>
     <div>Nowrousian group, Ruhr Univ Bochum DE</div>
@@ -406,6 +411,7 @@ h1, h2 {
     <div>Young group, Univ Edinburgh UK</div>
     <div>Yuan group, Xiamen Univ CN</div>
     <div>Zappulla group, Lehigh Univ US</div>
+    <div>Zhang group, Mississippi State Univ US</div>
     <div>Zhang group, Univ of Nebraska–Lincoln US</div>
     <div>Zhang group, Washington Univ in St. Louis US</div>
     <div>Zheng group, Nanchang Univ CN</div>
