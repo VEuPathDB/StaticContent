@@ -118,10 +118,12 @@ h1, h2 {
     <div>Adelman group, Texas A&M Univ US</div>
     <div>Akiyoshi group, Univ Edinburgh UK</div>
     <div>Alday group, Oregon Health & Science Univ US</div>
+    <div>Alfonso-Parra group, CES Univ CO</div>
     <div>Alfonzo group, Brown Univ US</div>
     <div>Alsford group, LSHTM UK</div>
     <div>Alspaugh group, Duke Univ US</div>
     <div>Andrianopoulos group, Univ Melbourne AU</div>
+    <div>Antariksh Venkataramanan, Independent researcher</div>
     <div>ANU Parasitology group, Australian National Univ AU</div>
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
     <div>Arthropod Sensory Biology group, Baylor Univ US</div>
@@ -170,8 +172,10 @@ h1, h2 {
     <div>Cribb group, National Univ of Rosario AR</div>
     <div>Crispim group, Fed Univ Alfenas BR</div>
     <div>Crouch group, Univ Glasgow UK</div>
+    <div>Cui group, Univ of South Florida US</div>
     <div>Culleton group, Ehime Univ JP</div>
     <div>Daily group, Albert Einstein College of Medicine US</div>
+    <div>Damasio group / LEBIMO, State Univ Campinas BR</div>
     <div>Danae Schulz, Harvey Mudd College US</div>
     <div>Da Rocha group, Federal Univ of Paraná BR</div>
     <div>Davis group, Univ of Nebraska at Omaha US</div>
@@ -224,6 +228,7 @@ h1, h2 {
     <div>Hemphill group, Univ Bern CH</div>
     <div>Herman group, Univ California Los Angeles US</div>
     <div>Hernández Hernández group, CINVESTAV MX</div>
+    <div>Heussler group, Univ Bern CH</div>
     <div>Hill & Jackson-Hayes groups, Rhodes College US</div>
     <div>Hill group, Univ of California, Los Angeles US</div>
     <div>Holmes group, Univ of Missouri‚ Kansas City US</div>
@@ -273,6 +278,7 @@ h1, h2 {
     <div>Liu group, Southwest Univ CN</div>
     <div>Llinás group, Penn State Univ US</div>
     <div>Lourido group, Whitehead Inst US</div>
+    <div>Lüder group, Univ Göttingen DE</div>
     <div>Maclean group, Univ Edinburgh UK</div>
     <div>MacLeod group, Univ Glasgow GB</div>
     <div>Maringer group, Pirbright Inst UK</div>
@@ -298,6 +304,7 @@ h1, h2 {
     <div>Mottram lab, Univ York UK</div>
     <div>Moye-Rowley group, Univ of Iowa US</div>
     <div>Mucci group, National Univ of San Martín AR</div>
+    <div>Munro group, Univ of Aberdeen GB</div>
     <div>Muralidharan group, Univ Georgia US</div>
     <div>Myles group, Texas A&M Univ US</div>
     <div>Nakanishi group, Matsuyama Univ JP</div>
@@ -305,6 +312,7 @@ h1, h2 {
     <div>Natl Inst Health Security (JIHS) JP</div>
     <div>Ng group, Univ Nebraska US</div>
     <div>Nielsen group, Virginia Polytechnic Institute and State Univ US</div>
+    <div>Nieuwenhuis group, Ludwig Maximilian Univ of Munich, LMU DE</div>
     <div>Niikura group, Azabu Univ JP</div>
     <div>Nowacki group, Univ Bern CH</div>
     <div>Nowrousian group, Ruhr Univ Bochum DE</div>
@@ -337,6 +345,7 @@ h1, h2 {
     <div>Price group, Liberty Univ US</div>
     <div>Qiu group, Hunter College US</div>
     <div>Rajaram group, Ohio State Univ US</div>
+    <div>Ralph group, Univ Melbourne AU</div>
     <div>Ramaprasad group, Univ Glasgow UK</div>
     <div>Roditi group, Univ Bern CH</div>
     <div>Rogers group, St. Jude Children's Research Hospital US</div>
