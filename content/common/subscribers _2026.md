@@ -239,6 +239,7 @@ h1, h2 {
     <div>Huberman group, Cornell Univ US</div>
     <div>Hull group, Univ Wisconsin Madison US</div>
     <div>Inaoka group, Nagasaki Univ JP</div>
+    <div>Iriko group, Kobe Univ JP</div>
     <div>Ishino group, Tokyo Institute of Science JP</div>
     <div>Jacobson group, Grinnell College US</div>
     <div>James group, Gettysburg College US</div>
@@ -265,12 +266,14 @@ h1, h2 {
     <div>Kowalinski group, EMBL Grenoble FR</div>
     <div>Kramer group, Univ Wuerzburg DE</div>
     <div>Krysan group, Univ Iowa US</div>
+    <div>Krzywinski group, Polo GGB IT</div>
     <div>Lakin-Thomas group, York Univ CA</div>
     <div>Lander group, Univ Cincinnati US</div>
     <div>Landfear group, Oregon Health & Science Univ US</div>
     <div>Lane group, Idaho State Univ US</div>
     <div>Lavazec group, Inst Cochin FR</div>
     <div>Leger-Abraham group, Harvard Medical School US</div>
+    <div>Lewis group, Univ of Warwick GB</div>
     <div>Li group, Cleveland State Univ US</div>
     <div>Licon group, Univ of Utah US</div>
     <div>Lima group, Federal Univ of Rio de Janeiro BR</div>
@@ -372,6 +375,7 @@ h1, h2 {
     <div>Serre group, Univ Maryland School of Medicine US</div>
     <div>Sharakhov group, Virginia Polytechnic Institute and State Univ US</div>
     <div>Sibley group, Washington Univ US</div>
+    <div>Siegel group, Ludwig Maximilians Univ DE</div>
     <div>Siddiki group, Chittagong Veterinary and Animal Sciences Univ BD</div>
     <div>Sigala group, Univ Utah US</div>
     <div>Sinha group, Jhargram Raj College IN</div>
