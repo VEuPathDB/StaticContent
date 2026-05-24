@@ -139,6 +139,7 @@ h1, h2 {
     <div>Baum group, Univ New South Wales AU</div>
     <div>Bei group, Yale Univ</div>
     <div>Bell-Pedersen group, Texas A&M Univ US</div>
+    <div>Benz group, Technical Univ Munich DE</div>
     <div>Bhanot group, Rutgers NJMS US</div>
     <div>Billker group, Umeå Univ SE</div>
     <div>Biotech-advisor.com US</div>
