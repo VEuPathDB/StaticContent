@@ -134,6 +134,7 @@ h1, h2 {
     <div>Bangs group, Univ Buffalo US</div>
     <div>Barber group, Friedrich Schiller Univ Jena DE</div>
     <div>Barrett group, Univ Glasgow UK</div>
+    <div>Bartholomeu group, Federal Univ of Minas Gerais BR</div>
     <div>Bartfai group, Radboud Univ NL</div>
     <div>Bastin group, Institut Pasteur FR</div>
     <div>Baum group, Univ New South Wales AU</div>
@@ -353,12 +354,13 @@ h1, h2 {
     <div>Rajaram group, Ohio State Univ US</div>
     <div>Ralph group, Univ Melbourne AU</div>
     <div>Ramaprasad group, Univ Glasgow UK</div>
+    <div>Ramirez-Flores group, CINVESTAV MX</div>
     <div>Roditi group, Univ Bern CH</div>
     <div>Rogers group, St. Jude Children's Research Hospital US</div>
     <div>Rentsch group, Univ Bern CH</div>
     <div>Richard group, Univ Laval CA</div>
     <div>Roos group, Univ Pennsylvania US</div>
-    <div>Rosales-Encina group, CINESTAV MX</div>
+    <div>Rosales-Encina group, CINVESTAV MX</div>
     <div>Rottenberg group, Univ Bern CH</div>
     <div>Sachs group, Texas A&M Univ US</div>
     <div>Saeij group, Univ of California, Davis US</div>
