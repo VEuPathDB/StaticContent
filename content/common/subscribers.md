@@ -511,6 +511,7 @@ h1, h2 {
     <div>Pompon group, IRD FR</div>
     <div>Ponts group, Natl Res Inst Agriculture, Food & Environment (INRAE UR1264-MycSA) FR</div>
     <div>Povelones group, Villanova Univ US</div>
+    <div>Pradel group, RWTH Aachen Univ DE</div>
     <div>Przyborski group, Justus-Liebig Univ Gießen DE</div>
     <div>Rafferty group, Trent Univ CA</div>
     <div>Rajapandi group, Coppin State Univ US</div>
