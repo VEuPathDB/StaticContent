@@ -348,7 +348,7 @@ h1, h2 {
     <div>Phillips group, UT Southwestern US</div>
     <div>Pöggeler group, Univ of Göttingen DE</div>
     <div>Ponts group, INRAE FR</div>
-    <div>Pradel lab, RWTH Aachen Univ DE</div>
+    <div>Pradel group, RWTH Aachen Univ DE</div>
     <div>Price group, Liberty Univ US</div>
     <div>Przyborski group, Justus Liebig Univ Giessen DE</div>
     <div>Qiu group, Hunter College US</div>
