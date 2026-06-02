@@ -249,6 +249,7 @@ h1, h2 {
     <div>Jacobson group, Grinnell College US</div>
     <div>James group, Gettysburg College US</div>
     <div>James group, UC Irvine US</div>
+    <div>Jia group, Harbin Veterinary Research Institute CN</div>
     <div>Jimenez group, California State Univ, Fullerton US</div>
     <div>Johnston group, Johns Hopkins Univ US</div>
     <div>Jones group, Univ Liverpool UK</div>
@@ -370,6 +371,7 @@ h1, h2 {
     <div>Rottenberg group, Univ Bern CH</div>
     <div>Sachs group, Texas A&M Univ US</div>
     <div>Saeij group, Univ of California, Davis US</div>
+    <div>Salavati group, McGill Univ CA</div>
     <div>Samuelson group, Boston Univ US</div>
     <div>Santiago-Tirado group, Univ Notre Dame US</div>
     <div>Santos group, Univ Paris-Saclay FR</div>
@@ -389,6 +391,7 @@ h1, h2 {
     <div>Siddiki group, Chittagong Veterinary and Animal Sciences Univ BD</div>
     <div>Sigala group, Univ Utah US</div>
     <div>Sinha group, Jhargram Raj College IN</div>
+    <div>Slamovits lab, Dalhousie Univ CA</div>
     <div>Smircich group, Univ de la República UY</div>
     <div>Smith group, Univ Buffalo US</div>
     <div>Spaeth group, Institut Pasteur FR</div>
@@ -438,6 +441,7 @@ h1, h2 {
     <div>Young group, Univ Edinburgh UK</div>
     <div>Yuan group, Xiamen Univ CN</div>
     <div>Zappulla group, Lehigh Univ US</div>
+    <div>Zarringhalam group, Univ Massachusetts US</div>
     <div>Zhang group, Mississippi State Univ US</div>
     <div>Zhang group, Univ of Nebraska–Lincoln US</div>
     <div>Zhang group, Washington Univ in St. Louis US</div>
