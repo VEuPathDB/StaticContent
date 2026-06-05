@@ -141,6 +141,7 @@ h1, h2 {
     <div>Bei group, Yale Univ</div>
     <div>Bell-Pedersen group, Texas A&M Univ US</div>
     <div>Benz group, Technical Univ Munich DE</div>
+    <div>Besteiro group, Univ of Montpellier FR</div>
     <div>Bhanot group, Rutgers NJMS US</div>
     <div>Billker group, Umeå Univ SE</div>
     <div>Biotech-advisor.com US</div>
@@ -162,6 +163,7 @@ h1, h2 {
     <div>Bushell group, Umeå Univ SE</div>
     <div>Bzik group, Dartmouth College US</div>
     <div>Casadevall group, Johns Hopkins Univ US</div>
+    <div>Castillo group, INDICASAT AIP PA</div>
     <div>Catteruccia group, Harvard Univ US</div>
     <div>Cevallos group, Natl Autonomous Univ México MX</div>
     <div>Chakrabarti group, Univ of North Carolina at Chapel Hill US</div>
@@ -278,6 +280,7 @@ h1, h2 {
     <div>Landfear group, Oregon Health & Science Univ US</div>
     <div>Lane group, Idaho State Univ US</div>
     <div>Lavazec group, Inst Cochin FR</div>
+    <div>Lebrun group, Univ Montpellier FR</div>
     <div>León Avila group, National School of Biological Sciences MX</div>
     <div>Leger-Abraham group, Harvard Medical School US</div>
     <div>Lewis group, Univ of Warwick GB</div>
@@ -333,6 +336,7 @@ h1, h2 {
     <div>Oliveira group, Federal Univ of Rio de Janeiro BR</div>
     <div>Ohira group, Nazareth Univ US</div>
     <div>Orbach group, Univ of Arizona US</div>
+    <div>Ortega-Lopez group, Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV) MX</div>
     <div>Osorio group, Univ Alejandro de Humboldt CO</div>
     <div>Otsuki group, Tottori Univ JP</div>
     <div>Outten group, Univ of South Carolina US</div>
