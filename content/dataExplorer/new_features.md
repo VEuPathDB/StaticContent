@@ -1,7 +1,7 @@
 ---
-title: New Features in ClinEpiDB
+title: New Features in dataExplorer
 layout: null
-permalink: /ClinEpiDB/newfeatures
+permalink: /dataExplorer/newfeatures
 tags: [general]
 ---
 <div id="ce-static-content">

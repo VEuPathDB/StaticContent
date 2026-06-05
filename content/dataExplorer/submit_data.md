@@ -1,12 +1,12 @@
 ---
-title: Submit Data to ClinEpiDB
+title: Submit Data to dataExplorer
 layout: null
-permalink: /ClinEpiDB/submit
+permalink: /dataExplorer/submit
 tags: [general]
 ---
 
 <div id="ce-static-content">
-  <h1>Submit Data to ClinEpiDB</h1>
+  <h1>Submit Data to dataExplorer</h1>
 
   <h2 id="why-make-data-accessible">Why make data accessible on ClinEpiDB</h2>
     <div>

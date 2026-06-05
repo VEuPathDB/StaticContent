@@ -1,6 +1,6 @@
 ---
-title: Data Access and Use Policy for ClinEpiDB, a VEuPathDB Database
-permalink: /ClinEpiDB/access_and_use
+title: Data Access and Use Policy for dataExplorer, a VEuPathDB Database
+permalink: /dataExplorer/access_and_use
 tags: [general]
 ---
 <style>

@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: External Resources
-permalink: /ClinEpiDB/resources
+permalink: /dataExplorer/resources
 tags: [resources]
 ---
 <div id="ce-static-content">
@@ -12,7 +12,7 @@ tags: [resources]
   <details open>
     <summary class="h2">Education and Training</summary>
 <ul>
-  {% for item in site.data.clinepi_tutorials %}
+  {% for item in site.data.dexp_tutorials %}
   {% if item.type == "resource" and  item.subtype == "education" %}
   <li id="{{ item.uid }}">
     <a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
@@ -27,7 +27,7 @@ tags: [resources]
   <details open>
     <summary class="h2">Data Management</summary>
 <ul>
-  {% for item in site.data.clinepi_tutorials %}
+  {% for item in site.data.dexp_tutorials %}
   {% if item.type == "resource" and  item.subtype == "management" %}
     <li id="{{ item.uid }}"><a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
     </li>
@@ -41,7 +41,7 @@ tags: [resources]
   <details open>
     <summary class="h2">Data Visualization, Analysis, Modeling, and Simulations</summary>
 <ul>
-  {% for item in site.data.clinepi_tutorials %}
+  {% for item in site.data.dexp_tutorials %}
   {% if item.type == "resource" and  item.subtype == "visualization" %}
     <li id="{{ item.uid }}"><a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
     </li>
@@ -55,7 +55,7 @@ tags: [resources]
   <details open>
     <summary class="h2">Data Repositories</summary>
 <ul>
-  {% for item in site.data.clinepi_tutorials %}
+  {% for item in site.data.dexp_tutorials %}
   {% if item.type == "resource" and  item.subtype == "repository" %}
     <li id="{{ item.uid }}"><a target="_blank" href="{{ item.fileName }}" title="{{ item.description }}">{{ item.title }}</a> - {{ item.description }}
     </li>

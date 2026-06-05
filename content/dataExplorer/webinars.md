@@ -1,7 +1,7 @@
 ---
-title: ClinEpiDB Webinars
+title: dataExplorer Webinars
 layout: null
-permalink: /ClinEpiDB/webinars
+permalink: /dataExplorer/webinars
 tags: [general]
 ---
 <h1 style="padding:1em">ClinEpiDB Webinars</h1>
