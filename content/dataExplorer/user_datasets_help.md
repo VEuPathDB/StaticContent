@@ -13,7 +13,7 @@ img {
 
 <div class="static-content">
 
-  <h3>Overview</h3>
+  <h3>Overviewwwwwwwwwwww</h3>
     <ul>
       <li>You must be logged into your ClinEpiDB account to upload your own data</li>
       <li>Your account can accommodate a total of 10.0 GB of data as multiple separate studies. Each uploaded dataset can be a maximum of 1.0 GB</li>
