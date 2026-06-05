@@ -1,5 +1,5 @@
 ---
-permalink: /ClinEpiDB/user_datasets_help
+permalink: /dataExplorer/user_datasets_help
 title: User Data Sets Help
 ---
 <style>

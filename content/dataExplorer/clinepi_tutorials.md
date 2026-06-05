@@ -1,7 +1,7 @@
 ---
 layout: plain
-title: ClinEpiDB Tutorials
-permalink: /ClinEpiDB/tutorials
+title: dataExplorer Tutorials
+permalink: /dataExplorer/tutorials
 tags: [tutorial]
 ---
 <div id="ce-static-content">
@@ -12,7 +12,7 @@ tags: [tutorial]
   <details open>
     <summary class="h2">Tutorials</summary>
     <ul>
-      {% for item in site.data.clinepi_tutorials %}
+      {% for item in site.data.dexp_tutorials %}
       {% if item.type == "tutorial" %}
       <li id="{{ item.uid }}">
         <a target="_blank" href="{{ '/documents/clinEpi/' | append: item.fileName | absolute_url }}" title="{{ item.date  }} - {{ item.description  }}">
@@ -27,7 +27,7 @@ tags: [tutorial]
   <details open>
     <summary class="h2">Video Tutorials</summary>
     <ul>
-      {% for item in site.data.clinepi_tutorials %}
+      {% for item in site.data.dexp_tutorials %}
       {% if item.type == "video" %}
       <li id="{{ item.uid }}">
         <a target="_blank"  href="{{ item.fileName }}"  title="{{ item.date  }} - {{ item.description  }}">
@@ -42,7 +42,7 @@ tags: [tutorial]
   <details open>
     <summary class="h2">Exercises</summary>
     <ul>
-      {% for item in site.data.clinepi_tutorials %}
+      {% for item in site.data.dexp_tutorials %}
       {% if item.type == "exercise" %}
       <li id="{{ item.uid }}">
         <a target="_blank" href="{{ '/documents/clinEpi/' | append: item.fileName | absolute_url }}" title="{{ item.date  }} - {{ item.description  }}">

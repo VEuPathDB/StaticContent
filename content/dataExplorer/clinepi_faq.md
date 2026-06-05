@@ -1,7 +1,7 @@
 ---
 layout: plain
-title: ClinEpiDB Frequently Asked Questions
-permalink: /ClinEpiDB/faq
+title: dataExplorer Frequently Asked Questions
+permalink: /dataExplorer/faq
 ---
 <div id="ce-static-content">
 
@@ -10,7 +10,7 @@ permalink: /ClinEpiDB/faq
 <div id="clinepi-general">
   <h2>General</h2>
   <ul>
-    {% for item in site.data.clinepi_faq %}
+    {% for item in site.data.dexp_faq %}
     {% if item.type == "general" %}
     <li><a name="{{ item.uid }}"></a>
       <details id="{{ item.uid }}">
@@ -28,7 +28,7 @@ permalink: /ClinEpiDB/faq
 <div id="clinepi-using_site">
   <h2>Using the site</h2>
   <ul>
-    {% for item in site.data.clinepi_faq %}
+    {% for item in site.data.dexp_faq %}
     {% if item.type == "using_site" %}
     <li><a name="{{ item.uid }}"></a>
       <details id="{{ item.uid }}">
