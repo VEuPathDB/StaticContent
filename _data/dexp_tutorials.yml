@@ -1,0 +1,373 @@
+--- # dataexplorer tutorials page
+- type: tutorial
+  title: "Search for studies and variables on ClinEpiDB"
+  description: "How to perform a site-wide search for datasets and variables of interest on the ClinEpiDB platform"
+  uid: t1
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Tutorial_Search_Datasets_Variables.pdf
+  date: "Aug 12, 2022"
+- type: tutorial
+  title: "Learn the basics of a study analysis"
+  description: "Learn to navigate an analysis that you create"
+  uid: t2
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Tutorial2_NavigatingAnalysisLayout.pdf
+  date: "Feb 18, 2022"
+- type: tutorial
+  title: "Understand the size and shape of study data"
+  description: "Learn how to read the dataset diagram"
+  uid: t4
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Tutorial3_NavigatingDatasetDiagram.pdf
+  date: "Feb 18, 2022"
+- type: tutorial
+  title: "Find information on study methodology"
+  description: "Use the View Study Details tab to learn how a study was conducted"
+  uid: t5
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Tutorial4_NavigatingStudyDetails.pdf
+  date: "Feb 18, 2022"
+- type: tutorial
+  title: "Explore and subset data"
+  description: "Use the Browse and Subset tab to look for variables and filter"
+  uid: t6
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Tutorial5_NavigatingBrowseSubset.pdf
+  date: "Feb 18, 2022"
+- type: tutorial
+  title: "Create graphs and other data visualizations"
+  description: "Use the Visualize tab to create data visualizations"
+  uid: t7
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Tutorial6_NavigatingVisualize.pdf
+  date: "Feb 18, 2022"
+- type: tutorial
+  title: "Choose the right data visualization"
+  description: "Cheat sheet for choosing the best visualization tool for your data"
+  uid: t8
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Viz_tool_cheat_sheet.pdf
+  date: "April 14, 2022"
+- type: tutorial
+  title: "Add notes to an analysis"
+  description: "Keep track of your work and thoughts in the Notes tab"
+  uid: t9
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Tutorial7_NavigatingNotes.pdf
+  date: "Feb 18, 2022"
+- type: tutorial
+  title: "Download data"
+  description: "Choose to download either a subset or the entire dataset"
+  uid: t10
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Tutorial8_NavigatingDownloads.pdf
+  date: "Feb 18, 2022"
+- type: tutorial
+  title: "Explore geospatial data in the Interactive Map"
+  description: "How to explore geospatial data within the interactive map on the ClinEpiDB platform"
+  uid: t13
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Interactive_Map_tutorial_ClinEpiDB_20231127.pdf
+  date: "Nov 27, 2023"
+- type: tutorial
+  title: "Upload and explore your own data on ClinEpiDB"
+  description: "How to use the ClinEpiDB platform and tools to upload and explore your own dataset"
+  uid: t14
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/ClinEpiDB_Upload_Your_Own_Data.pdf
+  date: "Mar 21, 2024"
+- type: tutorial
+  title: "Get help and submit feedback"
+  description: "Request demos, help with a specific task, etc."
+  uid: t3
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Tutorial_GettingHelp.pdf
+  date: "Feb 18, 2022"
+- type: tutorial
+  title: "Study Teams: Active approval of data requests"
+  description: "Tutorial for study teams to use the ClinEpiDB data access dashboard to manage active approval of data requests"
+  uid: t11
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/ClinEpiDB_Data_Access_Dashboard_Protected_ACTIVE.pdf
+  date: "Aug 8, 2023"
+- type: tutorial
+  title: "Study Teams: Passive approval of data requests"
+  description: "Tutorial for study teams to use the ClinEpiDB data access dashboard to manage passive approval of data requests"
+  uid: t12
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/ClinEpiDB_Data_Access_Dashboard_Protected_PASSIVE.pdf
+  date: "Aug 8, 2023"
+- type: video
+  title: "ClinEpiDB quick start guide"
+  description: "Covers different tools the site offers to explore and visualize data"
+  uid: v1
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.youtube.com/watch?v=jfiBfhxItMc
+  date: "Feb 18, 2022"
+- type: video
+  title: "How to access and explore data from ClinEpiDB.org: A guide for students"
+  description: "30 minute introduction to exploring, accessing, and downloading data"
+  uid: v2
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.youtube.com/watch?v=wkA7A-znMVk
+  date: "August 16, 2022"
+- type: exercise
+  title: "Navigating the ClinEpiDB platform"
+  description: "Use the PRISM2 ICEMR Cohort study to explore features of ClinEpiDB"
+  uid: e1
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Exercise_Navigating_PRISM2.pdf
+  date: "Feb 18, 2022"
+- type: exercise
+  title: "GEMS1 Case Control: Are rotavirus, Cryptosporidium, and Giardia infection associated with moderate-to-severe diarrhea?"
+  description: "Exercise that includes creating a subset and multiple visualizations"
+  uid: e2
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Exercise_GEMS1_EDA.pdf
+  date: "Feb 18, 2022"
+- type: exercise
+  title: "WASH-B Kenya exercise: Do children in intervention arms have lower incidence of diarrhea compared to children in control arms?"
+  description: "Exercise that includes createing a subset and vizualizations"
+  uid: e3
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/Exercise_WASHBK_EDA.pdf
+  date: "Feb 18, 2022"
+- type: exercise
+  title: "PRISM2 ICEMR Cohort exercise"
+  description: "Use the PRISM2 ICEMR Cohort study to explore features of ClinEpiDB"
+  uid: e4
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: clinEpi_exercises/20220321_Exercise_Navigating_PRISM2.pdf
+  date: "Feb 18, 2022"
+- type: resource
+  subtype: education
+  title: "Data science specialization on Coursera"
+  description: "Free online series of 10 courses developed by faculty at Johns Hopkins University that covers the basics of data science."
+  uid: r1
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.coursera.org/specializations/jhu-data-science
+  date: "Jan 22, 2020"
+- type: resource
+  subtype: education
+  title: "Fundamentals of Data Visualization (Wilke 2018)"
+  description: "A guide covering how to make compelling figures."
+  uid: r2
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: http://serialmentor.com/dataviz/
+  date: "Jan 22, 2020"
+- type: resource
+  subtype: education
+  title: "RECON Learn"
+  description: "Training resources focused on outbreak response, health emergencies and humanitarian crises."
+  uid: r3
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.reconlearn.org/
+  date: "Jan 22, 2020"
+- type: resource
+  subtype: management
+  title: "Data Organization in Spreadsheets"
+  description: "Reviews good habits for managing data entry and storage in spreadsheet format."
+  uid: r4
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
+  date: "Jan 22, 2020"
+- type: resource
+  subtype: management
+  title: "CDC Managing Data Workbook"
+  description: "Reviews best practices for data management and cleaning."
+  uid: r5
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.cdc.gov/globalhealth/healthprotection/fetp/training_modules/10/managing-data_pw_final_09252013.pdf
+  date: "Jan 22, 2020"
+- type: resource
+  subtype: management
+  title: "Guidelines for Accurate and Transparent Health Estimates Reporting (GATHER)"
+  description: "Promotes best practices by providing a checklist of items to include for studies reporting health estimates."
+  uid: r6
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: http://gather-statement.org/
+  date: "Jan 22, 2020"
+- type: resource
+  subtype: management
+  title: "Open Science Framework (OSF)"
+  description: "Platform for research support and collaboration, it allows users to search for public datasets and papers and store their own protocols, data, code, and more."
+  uid: r7
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://osf.io
+  date: "Jan 22, 2020"
+- type: resource
+  subtype: visualization
+  title: "Disease Surveillance And Risk Monitoring (DiSARM) "
+  description: "Develops algorithms and applications that turn raw data into easily visualized, actionable outputs to support disease control programs."
+  uid: r8
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.disarm.io/ 
+  date: "Jan 22, 2020"
+- type: resource
+  subtype: visualization
+  title: "GLEAMviz"
+  description: "Downloadable epidemic simulation software that combines data on populations and human mobility with stochastic models of disease transmission."
+  uid: r9
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: http://www.gleamviz.org/
+  date: "Jan 22, 2020"
+- type: resource
+  subtype: visualization
+  title: "IHME Global Burden of Disease"
+  description: "Provides interactive data visualization tools focused on global and local burden of disease projects based on data coallated from around the world."
+  uid: r10
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: http://www.healthdata.org/gbd
+  date: "Jan 22, 2020"
+- type: resource
+  subtype: visualization
+  title: "Malaria Atlas Project (MAP)"
+  description: "Assembles data on malaria risk and intervention coverage from global sources and develops analysis tools."
+  uid: r11
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://malariaatlas.org/
+  date: "Jan 22, 2020"
+- type: resource
+  subtype: visualization
+  title: "R Epidemics CONsortium (RECON)"
+  description: "Creates and supports R packages for handling, visualising, and analyzing outbreak data. Also provides tools for data cleaning, versioning, encryption, and system infrastructure."
+  uid: r12
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: http://www.repidemicsconsortium.org/
+  date: "Jan 22, 2020"
+- type: resource
+  subtype: visualization
+  title: "Gapminder"
+  description: "Visualizations of global health, socioeconomic and other data indicators. Contains links to all source data."
+  uid: r13
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.gapminder.org/tools/#$chart-type=bubbles
+  date: "Jan 29, 2020"
+- type: resource
+  subtype: visualization
+  title: "PathogenWatch"
+  description: "Platform for genomic surveillance of microbial pathogens"
+  uid: r14
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://pathogen.watch/
+  date: "Jan 29, 2020"
+- type: resource
+  subtype: visualization
+  title: "NextStrain"
+  description: "Publicly available data alongside analytic and visualization tools for use by the community. Goal to aid epidemiological understanding and improve outbreak response."
+  uid: r15
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://nextstrain.org/
+  date: "Jan 29, 2020"
+- type: resource
+  subtype: management
+  title: "EpiCollect"
+  description: "Mobile & web application for free and straightforward data collection."
+  uid: r16
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://five.epicollect.net/
+  date: "Jan 29, 2020"
+- type: resource
+  subtype: education
+  title: "Public Health Alliance for Genomic Epidemiology"
+  description: "Newly established global coalition working to establish consensus standards; document and share best practices; improve the availability of critical bioinformatic tools and resources; and advocate for greater openness, interoperability, accessibility and reproducibility in public health microbial bioinformatics."
+  uid: r17
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://pha4ge.github.io/
+  date: "Jan 29, 2020"
+- type: resource
+  subtype: visualization
+  title: "HealthMap"
+  description: "Online source for disease outbreak monitoring and real-time surveillance of emerging public health threats. For a diverse audience including libraries, local health departments, governments, and international travelers, data collected from publicly accessible sources. "
+  uid: r18
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.healthmap.org/en/
+  date: "Jan 29, 2020"
+- type: resource
+  subtype: education
+  title: "The Missing Semester of Your CS Education"
+  description: "Series of videos that teach computing ecosystem literacy including how to master the command-line, use a powerful text editor, use fancy features of version control systems, and more."
+  uid: r19
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://missing.csail.mit.edu/
+  date: "Feb 5, 2020"
+- type: resource
+  subtype: education
+  title: "The Open-Source Data Science Masters"
+  description: "An open-source curriculum for learning Data Science that breaks down the core competencies necessary to making use of data."
+  uid: r20
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: http://datasciencemasters.org/
+  date: "Feb 13, 2020"
+- type: resource
+  subtype: repository
+  title: "ClinicalStudyDataRequest"
+  description: "Facilitates access to patient-level data from clinical studies."
+  uid: r21
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.clinicalstudydatarequest.com/Default.aspx
+  date: "Jun 4, 2020"
+- type: resource
+  subtype: repository
+  title: "Vivli"
+  description: "Center for global clinical research data. The Vivli platform acts as an independent data repository and includes an in-depth search engine and a secure research environment."
+  uid: r22
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://vivli.org/
+  date: "Jun 4, 2020"
+- type: resource
+  subtype: repository
+  title: "Dryad"
+  description: "Repository for a wide variety of scientific fields and data types."
+  uid: r23
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://datadryad.org/stash
+  date: "Jun 4, 2020"
+- type: resource
+  subtype: repository
+  title: "Harvard Dataverse"
+  description: "Repository for a wide variety of research fields."
+  uid: r24
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://dataverse.harvard.edu/
+  date: "Jun 4, 2020"
+- type: resource
+  subtype: repository
+  title: "OSF"
+  description: "Platform supporting research from inception to publication. Hosts data files, protocols, and more."
+  uid: r25
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://osf.io/
+  date: "Jun 4, 2020"
+- type: resource
+  subtype: repository
+  title: "Inter-university Consortium for Political and Social Research (ICPSR)"
+  description: "Although primarily a repository for social and behavioral science research, this resource contains some datasets relevant to human health and disease."
+  uid: r26
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://www.icpsr.umich.edu/web/pages/index.html
+  date: "Jun 4, 2020"
+- type: resource
+  subtype: repository
+  title: "Data and Specimen Hub (DASH)"
+  description: "Resource for researchers to store de-identified data and to access data and associated biospecimens from NICHD-supported studies."
+  uid: r27
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://dash.nichd.nih.gov/
+  date: "Jun 4, 2020"
+- type: resource
+  subtype: repository
+  title: "IPUMS Global Health"
+  description: "Harmonized international survey data on maternal, child, and reproductive health."
+  uid: r27
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://globalhealth.ipums.org/
+  date: "Jun 16, 2022"
+- type: resource
+  subtype: education
+  title: "The Epidemiologist R Handbook"
+  description: "R for applied epidemiology and public health"
+  uid: r28
+  projects: "ClinEpiDB,AllClinEpiDB"
+  fileName: https://epirhandbook.com/index.html
+  date: "May 10, 2021"
