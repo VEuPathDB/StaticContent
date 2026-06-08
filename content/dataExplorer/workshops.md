@@ -159,7 +159,6 @@ tags: [general]
       Part of the AccelNet Toxo Network 4-Day Workshop focused on <em>Toxoplasma</em> at the human&ndash;animal&ndash;environment interface.
       <a target="_blank" href="https://nebraskaonehealth.unl.edu/opportunities-broader-connections/global-toxoplasma-network-accelnet-toxo/june-2026-accelnet-toxo/">View full workshop agenda &nearr;</a>
     </p>
-
     <p class="exercises-label">Exercises</p>
     <ul class="ex-list">
       <li class="ex-item">
@@ -168,7 +167,7 @@ tags: [general]
           Toxoseroprevalence in animals
           <div class="ex-links">
             <a class="ex-chip" target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part4_eda.pdf' | absolute_url}}">Dataset</a>
-            <a class="ex-chip" target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part4_eda_demo.pdf' | absolute_url}}">Exercise: intro to dataExplorer</a>
+            <a class="ex-chip" target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part4_eda_demo.pdf' | absolute_url}}">Exercise: introduction to dataExplorer</a>
           </div>
         </div>
       </li>
@@ -188,7 +187,7 @@ tags: [general]
           Sea otters and carnivores: <em>Toxo</em> genotyping
           <div class="ex-links">
             <a class="ex-chip" target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part4_eda.pdf' | absolute_url}}">Dataset</a>
-            <a class="ex-chip" target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part4_eda_demo.pdf' | absolute_url}}">Exercise</a>
+            <a class="ex-chip" target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part4_eda_demo.pdf' | absolute_url}}">Exercise: land sea transmission</a>
           </div>
         </div>
       </li>
@@ -198,7 +197,7 @@ tags: [general]
           Brazil congenital toxoplasmosis case notifications
           <div class="ex-links">
             <a class="ex-chip" target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part4_eda.pdf' | absolute_url}}">Dataset</a>
-            <a class="ex-chip" target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part4_eda_demo.pdf' | absolute_url}}">Exercise</a>
+            <a class="ex-chip" target="_blank" href="{{'/documents/clinEpi/clinEpi_workshops/202210_ASTMH/Part4_eda_demo.pdf' | absolute_url}}">Exercise: public health surveillance data</a>
           </div>
         </div>
       </li>
