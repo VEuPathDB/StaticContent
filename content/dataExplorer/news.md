@@ -60,20 +60,12 @@ div.newswrapper {
 <div id="ce-static-content" class="static-content">
   <h1>News</h1>
 
-  <a name = "news-2026-06-08"></a>
-  <h2>This are news on 2026-06-08</h2>
+  <a name = "news-2026-06-10"></a>
+  <h2>dataExplorer is released for beta testing!</h2>
   ( <i>2026-06-08</i> )
   <br><br>
-  <p>blablaba </p>
-  <p>moreblas</p>
-  <hr>
-
-  <a name = "news-2026-06-07"></a>
-  <h2>This are news on 2026-06-07</h2>
-  ( <i>2026-06-07</i> )
-  <br><br>
-  <p>blablaba </p>
-  <p>moreblas</p>
+  <p>We are pleased to announce the release of the latest data platform in the VEuPathDB family of resources, dataExplorer.</p>
+  <p>More news coming soon!</p>
   <hr>
 
 </div>
