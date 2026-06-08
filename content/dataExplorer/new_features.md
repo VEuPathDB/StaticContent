@@ -8,24 +8,19 @@ tags: [general]
 
   <h1>Features coming soon</h1>
    <p style="font-size:130%">
-    We are constantly working to make ClinEpiDB an intuitive and useful data exploration platform. The features listed below are scheduled for future releases of ClinEpiDB. <i>Note: ClinEpiDB is a dynamic project and this feature list is subject to change.</i>
+    We are constantly working to make dataExplorer an intuitive and useful data exploration and data sharing platform. The features listed below are scheduled for future releases of dataExplorer. <i>Note: This is a dynamic project and this feature list is subject to change.</i>
     <br>
     <br>
-    Have an idea and don't see it listed here? Please <a href="https://clinepidb.org/ce/app/contact-us">Contact Us.</a>
-    <br>
-    <br>
-    To stay up to date on ClinEpiDB releases, sign up for our newsletter by updating your account preferences.
+    Have an idea and don't see it listed here? Please <a href="https://beta.dataexplorer.org/dexp.beta/app/contact-us">Contact Us.</a>
   </p>
   
   <!-- Feature List-->
-  <h2 id="DerivedVariables">Derive a new variable</h2>
+  <h2 id="upload">Uploading a dataset</h2>
     <div>
       <ul>
-      <li>Recode a categorical variable</li>
+      <li>Edit an uploaded dataset</li>
       <li>Convert a continuous variable into a categorical variable</li>
-      <li>Perform arithmetic operations on continuous variables</li>
-      <li>Aggregate data from Participant to Household level</li>
-      <li>Convert between units</li>
+      <li>Upload multiple files- e.g., household data and participant data</li>
       </ul>
     </div>
 
