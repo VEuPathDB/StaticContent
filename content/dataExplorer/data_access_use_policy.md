@@ -15,9 +15,9 @@ ul {
   list-style-type: circle;
 }
 
-#ce-data-access ul,
-#ce-data-access ul ul {
+#ce-data-access ul {
   font-size: 1rem;
+  padding-left: 1.5em;
 }
 </style>
 
