@@ -41,12 +41,12 @@ p.indent {
 
 <div class="static-content">
     
-  <p>The My Data Sets feature is now available on our new VEuPathDB beta.dataExplorer.org  site. There, you have the option to integrate your datasets
+  <p>The 'My Studies' workspace is now available on our new VEuPathDB beta.dataExplorer.org site. There, you have the option to integrate your datasets
 and share with the community. Follow the link below to upload, view and manage your datasets.
   </p>
   
  <div class="button" style="margin: 8px 0;">
-      <a href="https://beta.dataexplorer.org/dexp/app/workspace/datasets/new" target="_blank">Go To My Data Sets</a>
+      <a href="https://beta.dataexplorer.org/dexp/app/workspace/datasets/new" target="_blank">Go To My Datasets</a>
  </div>
  
 
