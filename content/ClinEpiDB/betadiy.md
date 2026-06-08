@@ -37,7 +37,7 @@ p.indent {
 }
 </style>
 
-<h1>My Data Sets have been moved to VEuPathDB beta.dataExplorer.org.</h1>
+<h1>My Sudies has been moved to VEuPathDB beta.data<i>Explorer</i>.org</h1>
 
 <div class="static-content">
     
