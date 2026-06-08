@@ -1,9 +1,54 @@
 ---
 layout: null
-title: My Datasets on beta sites
-permalink: :path/datasets
+title: My Datasets on dataExplorer site
+permalink: ClinEpiDB/datasets
 tags: [general]
 ---
-{% assign project = page.dir | remove: "content" | remove: "/"  %}
-{% include betadiy.md project = project %}
 
+<style>
+p.indent {
+    margin-left: 3em;
+}
+
+.button {
+    display: flex;            /* use flex for alignment */
+    flex-wrap: wrap;          /* allow buttons to wrap on small screens */
+    justify-content: center;  /* center buttons horizontally */
+    gap: 10px;                /* spacing between buttons */
+    margin-top: 5px;
+}
+
+.button a {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    display: inline-block;    /* ensure padding works correctly */
+}
+
+/* Optional: slightly smaller buttons on very small screens */
+@media (max-width: 480px) {
+    .survey-link a {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+}
+</style>
+
+<h1>My Data Sets have been moved to VEuPathDB beta.dataExplorer.org.</h1>
+
+<div class="static-content">
+    
+  <p>The My Data Sets feature is now available on our new VEuPathDB beta.dataExplorer.org  site. There, you have the option to integrate your datasets
+and share with the community. Follow the link below to upload, view and manage your datasets.
+  </p>
+  
+ <div class="button" style="margin: 8px 0;">
+      <a href="https://beta.dataexplorer.org/dexp/app/workspace/datasets/new" target="_blank">Go To My Data Sets</a>
+ </div>
+ 
+
+
+</div>
