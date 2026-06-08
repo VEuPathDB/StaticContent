@@ -25,22 +25,18 @@ dataExplorer ([https://beta.dataexplorer.org/dexp.beta/app](http://dataExplorer.
 ## Access and use agreement
   
 dataExplorer is committed to ensuring the appropriate protection of all data made available through its platform. Prior to accessing datasets through dataExplorer, the User acknowledges that data are interpretable only to the extent that the dataset’s design and context are understood and agrees:
-<ul>
-<li>To adhere to the principles presented in the data access system described below</li>
-<li>To use datasets solely for research and statistical analysis and not for investigating specific research participants</li>
-<li>To guard the confidentiality of research participants by making no attempt to identify individual participants</li>
-<li>To inform dataExplorer immediately in the case of inadvertently identifying a participant and make no further use of that knowledge</li>
-<li>To not redistribute data without the approval of dataExplorer and the data contributors</li>
-<li>To contact data contributors if considering publishing on the dataset</li>
-<li>To acknowledge in all oral or written presentations, disclosures, or publications:
-   <ul>
-   <li>The contributing investigator(s) who conducted the original study</li>
-   <li>The funding organization(s) that supported the original study</li>
-   <li>The specific dataset(s), including the dataExplorer dataset identifier(s)</li>
-   <li>dataExplorer as the platform through which the data were accessed</li>
-   </ul></li>
-<li>To adhere to any additional requirement that may be requested by the data contributors</li>
-</ul>
+- To adhere to the principles presented in the data access system described below
+- To use datasets solely for research and statistical analysis and not for investigating specific research participants
+- To guard the confidentiality of research participants by making no attempt to identify individual participants
+- To inform dataExplorer immediately in the case of inadvertently identifying a participant and make no further use of that knowledge
+- To not redistribute data without the approval of dataExplorer and the data contributors
+- To contact data contributors if considering publishing on the dataset
+- To acknowledge in all oral or written presentations, disclosures, or publications:
+  - The contributing investigator(s) who conducted the original study
+  - The funding organization(s) that supported the original study
+  - The specific dataset(s), including the dataExplorer dataset identifier(s)
+  - dataExplorer as the platform through which the data were accessed
+- To adhere to any additional requirement that may be requested by the data contributors
 
 
 ##  Data access restrictions
