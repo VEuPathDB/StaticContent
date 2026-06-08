@@ -1,7 +1,7 @@
 ---
-title: Why Use dataExplorer
+title: About dataExplorer
 layout: null
-permalink: /dataExplorer/whyDataExplorer
+permalink: /dataExplorer/about
 tags: [general]
 ---
 
