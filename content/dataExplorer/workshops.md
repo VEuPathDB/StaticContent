@@ -4,7 +4,7 @@ title: dataExplorer Workshops
 permalink: /dataExplorer/workshops
 tags: [general]
 ---
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -142,7 +142,7 @@ tags: [general]
 <body>
   <div class="page">
     <h1>dataExplorer workshops</h1>
-    <p class="page-subtitle">Hands-on sessions for working with infectious disease data</p>
+    <p class="page-subtitle">Hands-on sessions for working with <em>Toxoplasma</em> data</p>
     <p class="section-label">Upcoming</p>
     <div class="ws-card">
       <span class="ws-tag">
