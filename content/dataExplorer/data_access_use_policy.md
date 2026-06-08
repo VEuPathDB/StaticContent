@@ -14,6 +14,11 @@ table, th, td {
 ul {
   list-style-type: circle;
 }
+
+#ce-data-access ul,
+#ce-data-access ul ul {
+  font-size: 1rem;
+}
 </style>
 
 <div id="ce-data-access" markdown="1">
