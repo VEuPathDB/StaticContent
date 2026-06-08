@@ -18,39 +18,10 @@ tags: [general]
   <h2 id="upload">Uploading a dataset</h2>
     <div>
       <ul>
-      <li>Edit an uploaded dataset</li>
-      <li>Convert a continuous variable into a categorical variable</li>
+      <li>Edit an uploaded dataset to swap out data files or edit metadata</li>
       <li>Upload multiple files- e.g., household data and participant data</li>
       </ul>
     </div>
-
-  <h2 id="AdvancedSubsetting">Advanced subsetting infrastructure</h2>
-    <div>
-      <ul>
-      <li>Perform boolean operations (find the intersection, union, or difference) for two data subsets</li>
-      <li>Identify repeated measures that occurred within a specific time frame relative to another measure (e.g. all visits where a child had Shigella at least 7 days before having diarrhea)</li>
-      </ul>
-    </div>
-
-  <h2 id="Visualizations">Visualizations</h2>
-    <div>
-      <ul>
-      <li>Marginal boxplots on histograms - enhance the view of the distribution</li>
-      <li>Correlation matrix tool - highlight the most correlated variables</li>
-      <li>General heatmap tool - view data in a semi-quantitative way</li>
-      <li>Longitudinal heatmap tool - visualize longitudinal patterns</li>
-      <li>Density plot tool - plot distribution of a numeric variable</li>
-      <li>Violin plot tool - combine features of a box plot and density plot</li>
-      <li>Missingness tool - see patterns of missing data with a suite of plots including upset plot and heatmap</li>
-      </ul>
-    </div>
-
-  <h2 id="Cross-siloSearch">Cross-silo search</h2>
-  <div>
-    <p>
-    Search for participants that have both epidemiological data in ClinEpiDB and microbiome data in our sister site MicrobiomeDB
-    </p>
-  </div>
 
   <!-- END Feature List-->
 
