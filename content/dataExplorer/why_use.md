@@ -6,13 +6,11 @@ tags: [general]
 ---
 
 <div id="ce-static-content">
-  <h1>Why Use dataExplorer</h1>
-
+  
+  <h2>Why Use dataExplorer</h2>
   <div>
   <p>dataExplorer is part of the VEuPathDB family of databases, backed by more than 25 years of experience building powerful web-based data resources for the global research community.</p>
-
   <p>VEuPathDB’s websites provide access to genomics, epidemiological, and microbiome data alongside powerful bioinformatics tools used by researchers worldwide to drive discovery.</p>
-
   <p>dataExplorer extends this ecosystem by making it easy to upload, explore, share, and reuse datasets in a secure and collaborative environment.</p>
   </div>
 
