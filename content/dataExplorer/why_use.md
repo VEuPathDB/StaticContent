@@ -1,17 +1,19 @@
 ---
-title: Why Use dataExplorer
+title: About dataExplorer
 layout: null
-permalink: /dataExplorer/whyDataExplorer
+permalink: /dataExplorer/about
 tags: [general]
 ---
 
-  <h2 id="what-is-it">What is it?</h2>
-    <div>
-      <p><b>dataExplorer is an open-access platform for discovering, exploring, and sharing structured datasets.</b></p>
-      <p>Researchers can upload, organize, explore, and share their own datasets and analyses within a single, FAIR-aligned platform. Each dataset can be explored via an interactive data dictionary and point-and-click visualization tools. This enables data users to rapidly survey the dataset’s variable content, assess data completeness, and explore patterns, maximizing the value of both their own data and data shared by others.</p>
-      <p>Ongoing platform enhancements depend on continued financial support. If you are interested in sustaining or extending dataExplorer, we welcome you to <a target="_blank" href="https://clinepidb.org/ce/app/contact-us">contact us</a>.
-      </p>
-    </div>
+<div id="ce-static-content">
+  <h1>About dataExplorer</h1>
+
+  <p>dataExplorer is part of the VEuPathDB family of databases, backed by more than 25 years of experience building powerful web-based data resources for the global research community.</p>
+
+  <p>VEuPathDB’s websites provide access to genomics, epidemiological, and microbiome data alongside powerful bioinformatics tools used by researchers worldwide to drive discovery.</p>
+
+  <p>dataExplorer extends this ecosystem by making it easy to upload, explore, share, and reuse datasets in a secure and collaborative environment.</p>
+
 
   <h2 id="how-does-it-fit">How does dataExplorer fit within the VEuPathDB ecosystem?</h2>
   <div>
