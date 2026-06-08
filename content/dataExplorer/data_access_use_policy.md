@@ -20,50 +20,62 @@ ul {
 
 # Data Access and Use Policy for ClinEpiDB, a VEuPathDB Database
 
-ClinEpiDB ([http://ClinEpiDB.org](http://ClinEpiDB.org)), is charged with ensuring that epidemiologic datasets are conveniently and freely accessible to the global biomedical researcher community. This document summarizes policies associated with the access and use of datasets on ClinEpiDB..
+dataExplorer ([http://dataExplorer.org](http://dataExplorer.org)), is charged with ensuring that datasets are conveniently and freely accessible to the global research community. This document summarizes policies associated with the access and use of datasets on dataExplorer.
 
 ## Access and use agreement
   
-ClinEpiDB is committed to ensuring the appropriate protection of all study data made available through its platform.<br> 
-Prior to accessing any data provided through ClinEpiDB, the User acknowledges that study data are interpretable only to the extent that the study design and context are understood and agrees:
+dataExplorer is committed to ensuring the appropriate protection of all data made available through its platform.<br> 
+Prior to accessing datasets through dataExplorer, the User acknowledges that data are interpretable only to the extent that the dataset’s design and context are understood and agrees:
     
-* To adhere to the principles presented in the access system description below
-* To use the datasets solely for research and statistical analysis and not for investigating specific research participants
-* To guard the confidentiality of research participants by making no attempt to identify individual participants
-* To inform ClinEpiDB immediately in the case of inadvertently identifying a participant and make no further use of that knowledge
-* Not to redistribute data without the approval of ClinEpiDB and in some cases the data providers
-* To contact data providers if considering publishing on the dataset
-* To acknowledge in all oral or written presentations, disclosures, or publications the contributing investigator(s) who conducted the original study, the funding organization(s) that supported the work, the specific study(ies) and applicable study identifier(s), and ClinEpiDB as the mechanism through which the investigator accessed the data
-* To adhere to any additional requirement that may be requested by the data provider
+* To adhere to the principles presented in the data access system described below
+<ul>
+<li>To use datasets solely for research and statistical analysis and not for investigating specific research participants</li>
+<li>To guard the confidentiality of research participants by making no attempt to identify individual participants</li>
+<li>To inform dataExplorer immediately in the case of inadvertently identifying a participant and make no further use of that knowledge</li>
+<li>To not redistribute data without the approval of dataExplorer and the data contributors</li>
+<li>To contact data contributors if considering publishing on the dataset</li>
+<li>To acknowledge in all oral or written presentations, disclosures, or publications:</li>
+   <ul>
+   <li>The contributing investigator(s) who conducted the original study</li>
+   <li>The funding organization(s) that supported the original study</li>
+   <li>The specific dataset(s), including the dataExplorer dataset identifier(s)</li>
+   <li>dataExplorer as the platform through which the data were accessed</li>
+   </ul>
+<li>To adhere to any additional requirement that may be requested by the data contributors</li>
+</ul>
+
 
 ##  Data access restrictions
     
-Each dataset that is submitted to ClinEpiDB is unique and may require implementation of a different level of data access restriction even once the dataset is publicly released. Each dataset will fall into one of the five categories described in the table below: public, controlled, protected, private, and prerelease. These categories differ in what levels of access are required to see aggregated vs disaggregated data. Aggregated data includes what can be seen in the "Browse and subset" and "Visualize" tabs, while disaggregated data includes what can be seen in filed downloaded from the "Download" tab.
+Each dataset submitted to dataExplorer is unique and may require different levels of protection. Decisions about the appropriate level of access are determined by the data providers. Datasets may be kept private, shared with selected users through individual access, or made available to the broader research community as community-contributed datasets.
 
 |  __Access level__ | __Description__ |
 | :----- | :----- |
-| Public | No access restrictions. Users can view and download the data as "Guests" without logging in. |
-| Controlled | Guest users can view aggregated data via the "Browse and subset" and "Visualize" tabs, but must register and request access to download data. The request may be submitted via a form that pops up when a user logs in with a registered account and clicks on any file in the "Download" tab. Data can be downloaded by the registered user immediately following request submission. |
-| Protected | Guest users can view aggregated data via the "Browse and subset" and "Visualize" tabs, but must register, request, and obtain approval from the data providers to download data. The request may be submitted via a form that pops up when a registered user is logged in and clicks on any file in the "Download" tab. |
-| Private | A registered user must request and obtain approval to access any aspect of the data. The request may be submitted via a form that pops up when a registered user is logged in and clicks on the study. |
-| Prerelease | The study is under active development for future release, and only the study team can access the data. Guest and registered users can view the study page only. |
+| Private | Only the data contributor can access, explore, and download the dataset. The data contributor may share the dataset with selected collaborators by granting individual access. Datasets in this state may be under active development and can be released later as <b><i>Community-Contributed Datasets</i></b>. |
+| Individual Access | Datasets shared via Individual Access are available only to users explicitly granted permission by the data contributor. Users with Individual Access can discover, access, explore, and download the dataset. |
+| Community Access | Datasets that have been granted Community Access by the data contributor are publicly available. These <b><i>Community-Contributed Datasets</i></b> can be discovered, accessed, explored, and downloaded by any user. |
 
 <img alt="Data Access Levels" style="width:50em" src="/a/images/ClinEpiDB/DataAccessLevels.png" />
   
 ## General principles
 
-__Quality control__ - Data from research studies is not made publicly available until thorough quality control is carried out. Research data are displayed on an internal protected site and examined by the original data providers and ClinEpiDB to ensure accuracy and adequate representation of the data prior to public release.
+__Quality control__ - Data contributors should not grant community access to their datasets until they have carried out thorough quality control to ensure accuracy and adequate representation of the data prior to public release.
 
-__Participant confidentiality__ - Out of respect to the principles of participant confidentiality, ClinEpiDB does not make data available that allows for the identification of study participants and applies processing algorithms to obfuscate potentially identifying information.
+__Participant confidentiality__ - Out of respect to the principles of participant confidentiality, data contributors should not make data available that allows for the identification of study participants. 
 
-__Data security__ - ClinEpiDB.org websites are served over encrypted connections using secure hypertext transfer protocol (HTTPS) to protect against interception and manipulation of sensitive data. Access to development and other pre-release versions of ClinEpiDB websites is password-restricted and available only to VEuPathDB staff and scientific working group members approved by the original data provider.
+__Data security__ - dataExplorer.org websites are served over encrypted connections using secure hypertext transfer protocol (HTTPS) to protect against interception and manipulation of sensitive data. Access to development and other pre-release versions of dataExplorer websites is password-restricted and available only to VEuPathDB staff and scientific working group members approved by the original data contributors.
  
-__Contacting and acknowledging data providers__ - While ClinEpiDB aims to make data broadly accessible and reduce technical barriers to data exploration, we fully endorse proper attribution to original study principal investigators and study teams and acknowledgement of participation of study participants. ClinEpiDB aims to provide clear access to data provider information, including contact information, so that data users may contact study teams if they have any questions or concerns specific to the study.
+__Use of data for AI/ML and sharing of derived products__ - Trained models, particularly those developed using individual-level participant data, are considered derivative products that may enable reconstruction, re-identification, or inference about underlying data. Use of data obtained through dataExplorer to train machine learning (ML) or artificial intelligence (AI) models must comply with the data access level, participant consent, and dataset-specific governance requirements.<br>
+Derived outputs (e.g., trained models, model weights, predictions, embeddings, or synthetic data) must not enable re-identification or inference about individual participants and are subject to the same restrictions as the underlying data. Users must implement appropriate privacy safeguards and may not attempt to re-identify participants or infer sensitive individual-level attributes. 
+
+__Contacting the study team__ - While dataExplorer aims to make data broadly accessible and reduce technical barriers to exploration, meaningful interpretation depends on understanding a dataset’s design, context, and underlying assumptions. dataExplorer provides clear access to data contributor information, including contact details, so users can reach out to study teams with questions or concerns specific to a dataset.
       
-__Publication__ - When publishing on data you accessed via ClinEpiDB, please acknowledge the contributing investigator(s) who conducted the original study, the funding organization(s) that supported the work, the specific study, study identifier, and release number, and ClinEpiDB as the mechanism through which you accessed the data. Please consider making articles open access, when possible, and making your code publicly available as well. We also recommend creating a saved strategy and including the link in your publication so readers can easily identify the exact subset of data you analyzed.
+__Publication__ - We strongly support proper attribution of original study teams. When publishing on data accessed via dataExplorer, please acknowledge the study investigators, participants, and funding organizations, and cite dataExplorer as the platform through which the data were accessed. Please also cite the primary publication(s) and the specific dataset used, including the dataExplorer dataset identifier and release version.<br>
+We encourage making publications open access when possible, sharing code, and including a link to a saved analysis in the manuscript so readers can reproduce the exact subset of data used.
+
     
-__Ethical approval__ - The ClinEpiDB platform has received approval from the University of Pennsylvania under IRB#7, Protocol #828806. All studies that are included in ClinEpiDB have undergone ethical approval at applicable institutions prior to protocol execution and ClinEpiDB is generally not involved in this process.
+__Ethical approval__ - The dataExplorer platform has received approval from the University of Pennsylvania under IRB#7, Protocol #828806. Data providers are responsible for ensuring that appropriate ethical approvals for data collection and sharing have been obtained from applicable institutions prior to submission. dataExplorer is generally not involved in or responsible for this process.
   
-_Issued February 2017, most recent revision June 27, 2022_
+_Issued June 2026_
 
 </div>
