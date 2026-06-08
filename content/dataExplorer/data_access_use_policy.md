@@ -18,29 +18,27 @@ ul {
 
 <div id="ce-data-access" markdown="1">
 
-# Data Access and Use Policy for ClinEpiDB, a VEuPathDB Database
+# Data Access and Use Policy for dataExplorer, a VEuPathDB Database
 
-dataExplorer ([http://dataExplorer.org](http://dataExplorer.org)), is charged with ensuring that datasets are conveniently and freely accessible to the global research community. This document summarizes policies associated with the access and use of datasets on dataExplorer.
+dataExplorer ([https://beta.dataexplorer.org/dexp.beta/app](http://dataExplorer.org)) is charged with ensuring that datasets are conveniently and freely accessible to the global community. This document summarizes policies associated with the access and use of datasets on dataExplorer.
 
 ## Access and use agreement
   
-dataExplorer is committed to ensuring the appropriate protection of all data made available through its platform.<br> 
-Prior to accessing datasets through dataExplorer, the User acknowledges that data are interpretable only to the extent that the dataset’s design and context are understood and agrees:
-    
-* To adhere to the principles presented in the data access system described below
+dataExplorer is committed to ensuring the appropriate protection of all data made available through its platform. Prior to accessing datasets through dataExplorer, the User acknowledges that data are interpretable only to the extent that the dataset’s design and context are understood and agrees:
 <ul>
+<li>To adhere to the principles presented in the data access system described below</li>
 <li>To use datasets solely for research and statistical analysis and not for investigating specific research participants</li>
 <li>To guard the confidentiality of research participants by making no attempt to identify individual participants</li>
 <li>To inform dataExplorer immediately in the case of inadvertently identifying a participant and make no further use of that knowledge</li>
 <li>To not redistribute data without the approval of dataExplorer and the data contributors</li>
 <li>To contact data contributors if considering publishing on the dataset</li>
-<li>To acknowledge in all oral or written presentations, disclosures, or publications:</li>
+<li>To acknowledge in all oral or written presentations, disclosures, or publications:
    <ul>
    <li>The contributing investigator(s) who conducted the original study</li>
    <li>The funding organization(s) that supported the original study</li>
    <li>The specific dataset(s), including the dataExplorer dataset identifier(s)</li>
    <li>dataExplorer as the platform through which the data were accessed</li>
-   </ul>
+   </ul></li>
 <li>To adhere to any additional requirement that may be requested by the data contributors</li>
 </ul>
 
@@ -54,8 +52,6 @@ Each dataset submitted to dataExplorer is unique and may require different level
 | Private | Only the data contributor can access, explore, and download the dataset. The data contributor may share the dataset with selected collaborators by granting individual access. Datasets in this state may be under active development and can be released later as <b><i>Community-Contributed Datasets</i></b>. |
 | Individual Access | Datasets shared via Individual Access are available only to users explicitly granted permission by the data contributor. Users with Individual Access can discover, access, explore, and download the dataset. |
 | Community Access | Datasets that have been granted Community Access by the data contributor are publicly available. These <b><i>Community-Contributed Datasets</i></b> can be discovered, accessed, explored, and downloaded by any user. |
-
-<img alt="Data Access Levels" style="width:50em" src="/a/images/ClinEpiDB/DataAccessLevels.png" />
   
 ## General principles
 
@@ -65,7 +61,7 @@ __Participant confidentiality__ - Out of respect to the principles of participan
 
 __Data security__ - dataExplorer.org websites are served over encrypted connections using secure hypertext transfer protocol (HTTPS) to protect against interception and manipulation of sensitive data. Access to development and other pre-release versions of dataExplorer websites is password-restricted and available only to VEuPathDB staff and scientific working group members approved by the original data contributors.
  
-__Use of data for AI/ML and sharing of derived products__ - Trained models, particularly those developed using individual-level participant data, are considered derivative products that may enable reconstruction, re-identification, or inference about underlying data. Use of data obtained through dataExplorer to train machine learning (ML) or artificial intelligence (AI) models must comply with the data access level, participant consent, and dataset-specific governance requirements.<br>
+__Use of data for AI/ML and sharing of derived products__ - Trained models, particularly those developed using individual-level participant data, are considered derivative products that may enable reconstruction, re-identification, or inference about underlying data. Use of data obtained through dataExplorer to train machine learning (ML) or artificial intelligence (AI) models must comply with the data access level, participant consent, and dataset-specific governance requirements.<br><br>
 Derived outputs (e.g., trained models, model weights, predictions, embeddings, or synthetic data) must not enable re-identification or inference about individual participants and are subject to the same restrictions as the underlying data. Users must implement appropriate privacy safeguards and may not attempt to re-identify participants or infer sensitive individual-level attributes. 
 
 __Contacting the study team__ - While dataExplorer aims to make data broadly accessible and reduce technical barriers to exploration, meaningful interpretation depends on understanding a dataset’s design, context, and underlying assumptions. dataExplorer provides clear access to data contributor information, including contact details, so users can reach out to study teams with questions or concerns specific to a dataset.
