@@ -1,122 +1,56 @@
 --- # dataexplorer faq page
 - type: general
-  question: "Introductory tour"
+  question: "What is FAIR data, and how does dataExplorer help make my data FAIR?"
   answer: |
-           The video below provides a short overview of the major features of ClinEpiDB. You can also visit our [Tutorials](/a/app/static-content/ClinEpiDB/tutorials.html){:target='_blank'}, [Workshops](/a/app/static-content/ClinEpiDB/workshops.html){:target='_blank'}, and [Resources](/a/app/static-content/ClinEpiDB/resources.html){:target='_blank'} pages for additional resources.
-           <iframe style="margin-left:3em;margin-top:1em;" width="560" height="315" src="https://www.youtube.com/embed/jfiBfhxItMc"></iframe>
-  uid: g1
-  projects: "ClinEpiDB,AllClinEpiDB"
-- type: general
-  question: "How do I cite ClinEpiDB?"
-  answer: |
-           When citing a dataset that you accessed via ClinEpiDB, please include the  authors, study name, date of release and release number on ClinEpiDB, study page URL, and the fact that the data came from ClinEpiDB. For example, the citation for the PRISM Cohort study would be:
+           FAIR (Findable, Accessible, Interoperable, and Reusable) data adhere to a set of widely adopted principles that ensure datasets can be easily discovered, understood, and used by others (and by you in the future). For more information, see: https://rdcu.be/fbgiu
+           - <b>Findable</b>: Data are described with rich metadata and indexed so they can be discovered through searches
+           - <b>Accessible</b>: Data can be retrieved using clear access conditions (e.g., open, controlled, or permission-based).
+           - <b>Interoperable</b>: Data use standardized formats, consistent variable descriptions, and (where possible) shared vocabularies to support integration with other datasets.
+           -<b>Reusable</b>: Data include sufficient documentation and context (e.g., definitions, methods, provenance) to enable appropriate reuse.
+           
+           dataExplorer is designed to help you make your datasets FAIR with minimal overhead:
+           - <b>Findable</b>: Your dataset becomes searchable by dataset name, identifier, description, variables, and value labels, making it easier for others to discover relevant data.
+           - <b>Accessible</b>: You control when to grant Community Access to your dataset, which makes it open access. Once shared as a Community-Contributed Dataset, it can be discovered, explored, and downloaded by other users. Private and Individual Access levels support collaboration and early-stage data sharing. However, to be fully FAIR, datasets should be broadly discoverable and accessible.
+           - <b>Interoperable</b>: Community-Contributed datasets require you to provide variable annotations, ensuring each variable has a clear label and definition. This improves consistency and lays the foundation for future harmonization across datasets.
+           - <b>Reusable</b>: Dataset-level metadata provide essential context and establish provenance, while built-in exploratory tools allow users to assess variable coverage, data completeness, and distributions before downloading, supporting appropriate interpretation and reuse.
+           
+           By combining structured metadata, clear documentation, flexible sharing infrastructure, and interactive exploration tools, dataExplorer helps transform your dataset from a static file into a well-documented, discoverable, and reusable research resource, while you retain full control over when it is shared.
 
-           > Dorsey G, Kamya M, Greenhouse B, *et al.* Dataset: PRISM Cohort. *ClinEpiDB*. 2018, 5 (<https://clinepidb.org/ce/app/workspace/analyses/DS_0ad509829e/new/details>{:target='_blank'})
-
-           You can copy the dataset citation from the Download tab of a study. You can also find links to original study publications on the View Study Details tab, which you may also want to cite.
-
-           If you want to cite ClinEpiDB directly, please use:
-
-           > Ruhamyankaka E, Brunk BP, Dorsey G *et al.* ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. [version 2; peer review: 2 approved]. *Gates Open Res* 2019, 3:1661 (<https://gatesopenresearch.org/articles/3-1661/v2>{:target='_blank'})
-
-           If you want to reference ClinEpiDB in a presentation, please include our logo.<br><br>
-           <img src="https://static-content.veupathdb.org/assets/images/ClinEpiDB-logo-full.png" style="width:25em"/>
   uid: g2
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "Can I use ClinEpiDB to analyze my own data?"
+  question: "Do I need programming experience to use dataExplorer?"
   answer: |
-           Look for "My Studies" under the workspace menu in the site header. You can upload your own dataset in the "New Upload" tab and perform exploratory data analysis. You can also manage the release of your own study data on ClinEpiDB. After you have uploaded your dataset privately to “My Studies”, just select any studies you own from the My Studies table and click the “Manage Access” button in the upper right. From here, you can choose to share the dataset with a select group of individuals or broadly with the ClinEpiDB Community. Please note that any study data with Community Access is immediately accessible from the Studies menu in the site header and downloadable by anyone who visits ClinEpiDB.
+           No! VEuPathDB has more than 20 years of experience developing intuitive interfaces that make complex data explorations accessible through simple point-and-click tools.
   uid: g3
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "How do I submit data?"
+  question: "Do I need a VEuPathDB account to upload or explore datasets?"
   answer: |
-           To start, you should [Contact Us](/a/app/contact-us){:target='_blank'} to inquire about  having your data loaded into ClinEpiDB. Tell us about the study objectives and design, the size of the dataset (including number of observations and variables), types of variables, and your funding source. Then, check out our [Data Submission Guidelines](/documents/ClinEpiDBDatasetGuidelinesforDataProviders.pdf){:target='_blank'} to learn more about how to prepare your data for us and what additional files we need. If we are able to integrate your data, we'll give you access to a secure Box folder where you can upload your data and accompanying files.
+           Yes. A free VEuPathDB account is required to upload a dataset, access datasets privately shared with you, explore data in the analysis workspace, or save analyses.
+           
+           To create an account:
+           - Hover over the Guest icon in the upper-right corner of the page and click Register.
+           - Complete the registration form and click Register.
+           - A confirmation message will appear indicating that registration was successful.
+           - Check your email to retrieve your temporary password.
+           
+           You only need one account for all VEuPathDB websites. If you already have an account for another VEuPathDB resource, such as ClinEpiDB, PlasmoDB, or MicrobiomeDB, you can use the same credentials to log in to dataExplorer and other VEuPathDB sites.
   uid: g4
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: general
-  question: "How does ClinEpiDB protect human subject data?"
+  question: "How can I change the password associated with my VEuPathDB account?"
   answer: |
-           1. We ask all users to agree to our [Data Access and Use Policy](/documents/DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'}.
-           2. Direct identifiers such as names are removed for all studies. Dates are obfuscated, locations are generalized, and additional indirect identifiers are removed or obfuscated as needed on a case-by-case basis. For some studies, subject IDs are re-assigned to break the link to the institution's copy of the data.
-           3. Data access restrictions are implemented as needed (see [Data Access and Use Policy](/documents/DataAccessUsePolicyClinEpiDB.latest.pdf){:target='_blank'}).
+           To change your password:
+           - Log in to your account.
+           - Hover over the account icon in the upper-right corner of the page (labeled Guest before login and your username after login) and click My Account.
+           - In the left panel, click Security.
+           - Click Change your password and follow the instructions.
   uid: g5
   projects: "ClinEpiDB,AllClinEpiDB"
-- type: general
-  question: "If I want to share data via ClinEpiDB, do I need to include data sharing in my IRB proposal?"
+- type: uploading datasets 
+  question: "What types of datasets can I upload to dataExplorer?"
   answer: |
-           Yes! If you intend to make data available, it's important to include that in your consent
-           forms and your IRB proposal. Our [IRB data sharing guidance](/documents/IRBDataSharingGuidance.pdf){:target='_blank'}
-           document contains a brief summary of what to consider when putting together an IRB proposal.
+           dataExplorer supports any dataset that can be represented as a flat file (i.e., a single data table), regardless of whether the data comes from the life sciences, environmental studies, business analytics, or any other field. 
   uid: g6
-  projects: "ClinEpiDB,AllClinEpiDB"
-- type: general
-  question: "Can I access the code used for ClinEpiDB?"
-  answer: |
-           Yes! Our code is maintained using [Git](https://github.com/VEuPathDB?utf8=%E2%9C%93&q=ClinEpi&type=&language=){:target='_blank'},
-           and we welcome input from the community.
-  uid: g7
-  projects: "ClinEpiDB,AllClinEpiDB"
-- type: general
-  question: "How does ClinEpiDB use ontologies?"
-  answer: |
-           We use the [VEuPathDB ontology](http://obofoundry.org/ontology/eupath.html){:target='_blank'}, which is an Open Biological and Biomedical Ontology (OBO) Foundry ontology, to increase data interoperability. As a part of ClinEpiDB data processing, every variable within a study is assigned to a unique ontology term. Each ontology term has its own identifier, called an Internationalized Resource Identifier (IRI). For each term, we create a user-friendly label, which is what you see displayed as the variable name on ClinEpiDB and in the download files. These labels are generally consistent across studies. We don't display IRIs on the website, but you can find them in the download files. They look like "EUPATH_0000120" or "PATO_0000047".
-
-           In our annotation we use the same ontology term in every study where the same variable was collected. For instance, information on participant sex was collected in all studies we have loaded so far, and you can find "Sex [PATO_0000047]"" in the download files for every study. To learn more, check out our general [Gates Open Research article](https://doi.org/10.12688/gatesopenres.13087.2){:target='_blank'} or our [article on using ontologies](https://pdfs.semanticscholar.org/888e/a51dbb138122d39c42f863f2a1ada7976db4.pdf){:target='_blank'}.
-  uid: g8
-  projects: "ClinEpiDB,AllClinEpiDB"
-- type: general
-  question: "How do I determine an appropriate data access level for my study?"
-  answer: |
-          Data providers decide on the data access level for their study. There are currently 5 possible data access levels (public, controlled, protected, private, and prerelease). See the [Data Access and Use Policy](/a/app/static-content/ClinEpiDB/access_and_use.html){:target='_blank'} to learn more about the restrictions of each level. <br>
-           <img style="width:45em" src="https://static-content.veupathdb.org/assets/images/ClinEpiDataAccessFlowChart.png"/>
-  uid: g9
-  projects: "ClinEpiDB,AllClinEpiDB"
-- type: general
-  question: "Does ClinEpiDB assign persistent identifiers?"
-  answer: |
-           Yes! Each study is assigned their own stable identifier that begins with 'DS_'. This identifier is present in all URLs associated with that study, including the Study page. For more information on how to cite the data for a study loaded in ClinEpiDB, see [How do I cite ClinEpiDB?](#g2)
-  uid: g10
-  projects: "ClinEpiDB,AllClinEpiDB"
-- type: general
-  question: "Is ClinEpiDB a data repository?"
-  answer: |
-           ClinEpiDB is a knowledge base that makes data more FAIR (findable, accessible, interoperable, and reusable). While data can be accessed, explored, and downloaded from our website, we also recommend depositing your data in a formal repository such as [Synapse](https://www.synapse.org/){:target='_blank'} or [Harvard Dataverse](https://dataverse.harvard.edu/){:target='_blank'} to ensure long-term preservation.
-  uid: g11
-  projects: "ClinEpiDB,AllClinEpiDB"
-- type: using_site
-  question: "Create an account"
-  answer: |
-           1. Hover over the icon labeled 'Guest' in the top right-hand corner, then click 'Register.'
-           2. Fill out the registration form then click the 'Register' button.
-           3. A green text box should appear, indicating successful registration.
-           4. Check your email to retrieve your temporary password.
-
-           Note: You only need one account for all VEuPathDB websites. This means that if you have an account for other VEuPathDB resources such as PlasmoDB or MicrobiomeDB, you can log into ClinEpiDB with those credentials and vice versa.
-  uid: u1
-  projects: "ClinEpiDB,AllClinEpiDB"
-- type: using_site
-  question: "Change your password"
-  answer: |
-           1. Log in to your account.
-           2. To access your account page, hover over the icon with your name beneath it in the top right-hand corner, then click your name in the window that appears.
-           3. At the bottom of the 'My Account' page, click the blue 'Change your password' link.
-           4. Complete the form and click 'Submit.'
-           5. If you have successfully changed your password, green text will appear confirming the password change.
-  uid: u2
-  projects: "ClinEpiDB,AllClinEpiDB"
-- type: using_site
-  question: "Find a variable within a study"
-  answer: |
-           1. Start an analysis for your study of interest.
-           2. Type into the search box on the left side of the page. This will restrict variables to those that include your keyword in the label, description, or values.
-           3. Click a variable to jump directly to its data.
-  uid: u3
-  projects: "ClinEpiDB,AllClinEpiDB"
-- type: using_site
-  question: "Find a study of interest"
-  answer: |
-           No matter where you are on ClinEpiDB, you can use the search bar in the header to search for a term of interest. This search will return <b>Studies</b> that contain the term in their name or description, <b>Variables</b> that contain the term in their variable name, definition, or other metadata, and <b>Variable values</b> that contain the term as part of the value label for a variable. Each result contains links that take you directly to the study, variable, or value of interest! For example, a search for <b>Variables</b> that include "Giardia TAC" returns a number of variables, and the top hit is a variable, <b>Giardia, by TAC result</b>, that is present in 3 different studies, GEMS1, MAL-ED, and PROVIDE.
-  uid: u4
   projects: "ClinEpiDB,AllClinEpiDB"
