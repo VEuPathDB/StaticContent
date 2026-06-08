@@ -5,7 +5,7 @@ permalink: /dataExplorer/whyDataExplorer
 tags: [general]
 ---
 
-<div id="ce-static-content">
+<div> id="ce-static-content">
   <h1>Why Use dataExplorer</h1>
   <div>
   <p>dataExplorer is part of the VEuPathDB family of databases, backed by more than 25 years of experience building powerful web-based data resources for the global research community.</p>

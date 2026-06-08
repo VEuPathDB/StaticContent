@@ -5,7 +5,7 @@ permalink: /dataExplorer/about
 tags: [general]
 ---
 
-  <h2 id="what-is-it">What is it?</h2>
+  <h2> id="what-is-it">What is it?</h2>
     <div>
       <p><b>dataExplorer is an open-access platform for discovering, exploring, and sharing structured datasets.</b></p>
       <p>Researchers can upload, organize, explore, and share their own datasets and analyses within a single, FAIR-aligned platform. Each dataset can be explored via an interactive data dictionary and point-and-click visualization tools. This enables data users to rapidly survey the dataset’s variable content, assess data completeness, and explore patterns, maximizing the value of both their own data and data shared by others.</p>
@@ -13,7 +13,7 @@ tags: [general]
       </p>
     </div>
 
-  <h2 id="how-does-it-fit">How does dataExplorer fit within the VEuPathDB ecosystem?</h2>
+  <h2> id="how-does-it-fit">How does dataExplorer fit within the VEuPathDB ecosystem?</h2>
   <div>
      <!--    "{{ '/resources.html' | relative_url }}"    -->
      <!--   "/a/app/community/ClinEpiDB/resources.html"  -->
@@ -22,14 +22,14 @@ tags: [general]
     <p>Together, these platforms support the full lifecycle of research data, from private analysis and collaboration to curated integration and long-term public access.</p>
     </div>
 
-  <h2 id="why-create">Why did we create dataExplorer?</h2>
+  <h2> id="why-create">Why did we create dataExplorer?</h2>
   <div>
     <p>dataExplorer builds on the proven foundation of <a target="_blank" href="https://clinepidb.org/ce/app">ClinEpiDB.org</a>, which pioneered browser-based exploratory data analysis for complex research datasets. ClinEpiDB focuses on high-quality infectious disease epidemiology and clinical trial datasets that are carefully curated, annotated, and integrated by VEuPathDB staff. While this approach enables cross-study harmonization and consistent analysis, it also requires substantial long-term investment in data curation, annotation, quality control, and infrastructure support.</p>
     <p>dataExplorer extends the ClinEpiDB platform with a scalable, contributor-driven model that supports datasets from a wide range of domains (such as life sciences, environmental research, business analytics, and other data-driven fields). By placing dataset upload, management, and sharing directly in the hands of data contributors, dataExplorer enables rapid dissemination and interactive analysis of datasets that would not be feasible to fully curate and integrate through VEuPathDB’s centralized workflows alone.</p>
     <p>To learn more about the foundations of this work, see our paper in Gates Open Research: <a target="_blank" href="https://gatesopenresearch.org/articles/3-1661">ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies</a></p>
   </div>
 
-  <h2 id="who-is-behind-this-project">Who is behind this project?</h2>
+  <h2> id="who-is-behind-this-project">Who is behind this project?</h2>
   <div>
     <h4>Current dataExplorer Team Members</h4><br>
       <div>
@@ -58,7 +58,7 @@ tags: [general]
     </div>
   </div>
 
-  <h2 id="funding">Current Funding</h2>
+  <h2> id="funding">Current Funding</h2>
   <div>
     <p>VEuPathDB is pioneering a novel funding approach aimed at securing the long-term financial sustainability of our globally relied-upon biomedical data resources.</p>
     <p>Our current funding sources are:
