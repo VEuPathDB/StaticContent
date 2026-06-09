@@ -17,7 +17,7 @@ ul {
 
 #ce-data-access ul,
 #ce-data-access li {
-  font-size: 1rem;
+  font-size: 1rem !important;
   padding-left: 1.5em;
 }
 </style>
