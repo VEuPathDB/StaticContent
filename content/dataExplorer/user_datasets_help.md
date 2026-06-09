@@ -155,6 +155,10 @@ img {
             <ul>
               <li>Principal Investigators and Collaborators</li>
               <li>Field Study or Clinical Trial Characteristics</li>
+                 <ul>
+                 <li>If you dataset or underlying samples are from a field study or clinical trial, you must fill out all fields. </li>
+                 <li>Please enter 'N/A' for fields that are not applicable to your dataset.</li>
+                 </ul>
               <li>Dataset source</li>
               <li>Dataset usage</li>
             </ul>
