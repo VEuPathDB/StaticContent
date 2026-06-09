@@ -267,6 +267,7 @@ h1, h2 {
     <div>Kelliher group, Univ of Massachusetts US</div>
     <div>Kelly group, Louisiana State Univ HSC US</div>
     <div>Kirkland group, Univ of California, San Diego US</div>
+    <div>Kissinger group, Univ Georgia US</div>
     <div>Klemba group, Virginia Polytechnic Institute and State Univ US</div>
     <div>Knuepfer group, Royal Veterinary College UK</div>
     <div>Kocken group, Biomedical Primate Research Centre NL</div>
@@ -306,6 +307,7 @@ h1, h2 {
     <div>McLeod group, Univ of Chicago US</div>
     <div>Meetali group, Indian Inst Science IN</div>
     <div>Meissner group, Ludwig Maximilians Univ DE</div>
+    <div>Merrick group, Univ of Cambridge UK</div>
     <div>Meyers group, Saint Louis Univ US</div>
     <div>Michaeli group, Bar-Ilan University IL</div>
     <div>Michel group, Kansas State Univ US</div>
