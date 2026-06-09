@@ -110,7 +110,7 @@ img {
             <ul>
               <li>variable</li>
               <li>label</li>
-              <li>Definition</li>
+              <li>definition</li>
             </ul>
           </li>
           <li>The file must contain <b>exactly one row for each variable</b> (column) in the associated data file.
