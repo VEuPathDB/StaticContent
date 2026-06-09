@@ -37,11 +37,7 @@ dataExplorer is committed to ensuring the appropriate protection of all data mad
 - To inform dataExplorer immediately in the case of inadvertently identifying a participant and make no further use of that knowledge
 - To not redistribute data without the approval of dataExplorer and the data contributors
 - To contact data contributors if considering publishing on the dataset
-- To acknowledge in all oral or written presentations, disclosures, or publications:
-  - The contributing investigator(s) who conducted the original study
-  - The funding organization(s) that supported the original study
-  - The specific dataset(s), including the dataExplorer dataset identifier(s)
-  - dataExplorer as the platform through which the data were accessed
+- To acknowledge in all oral or written presentations, disclosures, or publications: (a) The contributing investigator(s) who conducted the original study, (b) The funding organization(s) that supported the original study, (c) The specific dataset(s), including the dataExplorer dataset identifier(s), (d) dataExplorer as the platform through which the data were accessed
 - To adhere to any additional requirement that may be requested by the data contributors
 
 
