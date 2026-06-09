@@ -15,11 +15,11 @@ img {
 
   <h3>Overview</h3>
     <ul>
-      <li>You must be logged into your VEuPathDB/dataExplorer account to upload data</li>
+      <li>You must be logged into your VEuPathDB/dataExplorer account to upload data.</li>
       <li>Each uploaded dataset can be a maximum of 1.0 GB in size. Your account can accommodate a total of 10.0 GB of data as multiple separate datasets.</li>
-      <li>Your datasets remain private unless you choose to share them with colleagues</li>
-      <li>Your datasets are always accessible when you are signed into your account, unless you delete them</li>
-      <li>You must format your files correctly in order to upload data successfully, as described below</li>
+      <li>Your datasets remain private unless you choose to share them.</li>
+      <li>Your private datasets are always accessible when you are signed into your account, unless you delete them.</li>
+      <li>You must format your files correctly in order to upload data successfully, as described below.</li>
     </ul>
   <br><hr>
 
@@ -189,18 +189,6 @@ img {
     </ul>
   <br><hr>
 
-  <h3>Explore your dataset</h3>
-    <ul>
-      <li>From <b>Workspace</b> &rarr; <b>Manage my datasets</b>, find your dataset Name/ID in the table and click on the blue link to open the dataset record page.
-        <ul>
-          <li>You can also access your dataset by clicking on the name of your dataset in the <b>Datasets</b> drop-down menu in the site header.</li>
-        </ul>
-      </li>
-      <li>Click on the <b>Explore in dataExplorer</b> link to open an analysis page for your dataset.</li>
-      <li>When data is GIS-tagged, you can also click on the <b>Explore in MapVEu</b> link to analyze your dataset on an interactive map.</li>
-    </ul>
-  <br><hr>
-
   <h3>Manage my datasets</h3>
     View, manage, share, and delete your data using the <b>Manage my datasets</b> tab under the <b>Workspace</b> menu.
     <br><br>
@@ -209,26 +197,31 @@ img {
       <li>Edit the name and summary of your dataset directly from the table using the pencil icons.</li>
       <li>Access a dataset record page by clicking its name (blue link).</li>
       <li>To delete one or more datasets, select the corresponding checkbox(es) and click <b>Delete</b> in the upper-right corner of the table.</li>
+      <li>To share a dataset, follow the instructions under 'Manage access to your dataset' (below)</li>
     </ul>
   <br><hr>
 
   <h3>Manage access to your dataset</h3>
-    <ul>
-      <li>From <b>Workspace</b> &rarr; <b>Manage my datasets</b>, find your dataset Name/ID in the table and click on the blue link to open the dataset record page.</li>
-      <li>On this page, the blue <b>Manage access</b> button on the right will allow you to grant public access or individual access.</li>
-    </ul>
-    <ol>
-      <li><b>Dataset Visibility:</b>
-        <ul>
-          <li>'Public' datasets are findable and explorable by the research community. These 'Open access' datasets have no access restrictions and can be downloaded by anyone.</li>
-          <li>'Private' datasets can only be discovered and explored by the dataset owner and collaborators the owner has explicitly invited. These 'Restricted' datasets can only be downloaded by the dataset owner and collaborators the owner has explicitly invited.</li>
-        </ul>
-      </li>
-      <li><b>Individual Access</b> to Private datasets
-        <br>We encourage you to only share your dataset once you have thoroughly QA'd it.
-      </li>
-    </ol>
-  <br><hr>
+  We encourage you to only share your dataset once you have thoroughly QA'd it.
+  <br><br>
+  <ul>
+    <li>From <b>Workspace</b> &rarr; <b>Manage my datasets</b>, find your dataset Name/ID in the table and click on the blue link to open the dataset record page.</li>
+    <li>On this page, the blue <b>Manage access</b> button on the right will allow you to grant public access or individual access.</li>
+  </ul>
+  <ol>
+    <li><b>Dataset Visibility:</b> select this option to manage visibility for this dataset.
+      <ul>
+        <li>'Public' datasets are findable and explorable by the research community. These 'Open access' datasets have no access restrictions and can be downloaded by anyone.</li>
+        <li>'Private' datasets can only be discovered and explored by the dataset owner and collaborators the owner has explicitly invited. These 'Restricted' datasets can only be downloaded by the dataset owner and collaborators the owner has explicitly invited.</li>
+      </ul>
+    </li>
+    <li><b>Individual Access:</b> Select this option to invite specific collaborators to access your Private dataset.
+      <ul>
+        <li>To send an invitation, you must enter the email address associated with their VEuPathDB account.</li>
+      </ul>
+    </li>
+  </ol>
+<br><hr>
 
   <h3>Explore your dataset</h3>
   <ul>
