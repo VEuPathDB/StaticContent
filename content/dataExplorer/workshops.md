@@ -96,29 +96,24 @@ table#hor-minimalist-a tfoot tr {
     <th>Link to exercise</th>
   </tr>
   <tr>
-    <td> Toxo Seroprevalence in animals</td>
+    <td>Toxo seroprevalence in animals</td>
     <td>Dataset</td>
     <td>Exercise: introduction to dataExplorer</td>
   </tr>
   <tr>
-    <td>Row 2</td>
-    <td>Data</td>
-    <td>Data</td>
+    <td>PCR-RFLP genotypes in Toxo</td>
+    <td>Dataset</td>
+    <td>Exercise: data harmonization</td>
   </tr>
   <tr>
-    <td>Row 3</td>
-    <td>Data</td>
-    <td>Data</td>
+    <td>Sea otters and carnivores</td>
+    <td>Dataset</td>
+    <td>Exercise: land sea transmission</td>
   </tr>
   <tr>
-    <td>Row 4</td>
-    <td>Data</td>
-    <td>Data</td>
-  </tr>
-  <tr>
-    <td>Row 5</td>
-    <td>Data</td>
-    <td>Data</td>
+    <td>Congenital toxoplasmosis</td>
+    <td>Dataset</td>
+    <td>Exercise: public health surveillance</td>
   </tr>
 </table>
 
