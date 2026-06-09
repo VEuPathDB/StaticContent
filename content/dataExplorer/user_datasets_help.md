@@ -230,4 +230,16 @@ img {
     </ol>
   <br><hr>
 
+  <h3>Explore your dataset</h3>
+  <ul>
+    <li>From <b>Workspace</b> &rarr; <b>Manage my datasets</b>, find your dataset Name/ID in the table and click on the blue link to open the dataset record page.
+      <ul>
+        <li>You can also access your dataset by clicking on the name of your dataset in the <b>Datasets</b> drop-down menu in the site header.</li>
+      </ul>
+    </li>
+    <li>Click on the <b>Explore in dataExplorer</b> link to open an analysis page for your dataset.</li>
+    <li>When data is GIS-tagged, you can also click on the <b>Explore in MapVEu</b> link to analyze your dataset on an interactive map.</li>
+  </ul>
+<br><hr>
+
 </div>
