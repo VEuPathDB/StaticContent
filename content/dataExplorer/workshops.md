@@ -92,21 +92,21 @@ table#hor-minimalist-a tfoot tr {
 <table id="hor-minimalist-a">
   <tr>
     <th>Dataset</th>
-    <th>Link to dataset on dataExplorer</th>
+    <th>Link to dataset</th>
     <th>Link to exercise</th>
   </tr>
   <tr>
-    <td>Toxo seroprevalence in animals</td>
+    <td>Toxo seroprevalence</td>
     <td>Dataset</td>
     <td>Exercise: introduction to dataExplorer</td>
   </tr>
   <tr>
-    <td>PCR-RFLP genotypes in Toxo</td>
+    <td>PCR-RFLP Toxo genotypes</td>
     <td>Dataset</td>
     <td>Exercise: data harmonization</td>
   </tr>
   <tr>
-    <td>Sea otters and carnivores</td>
+    <td>Sea otters & carnivores</td>
     <td>Dataset</td>
     <td>Exercise: land sea transmission</td>
   </tr>
