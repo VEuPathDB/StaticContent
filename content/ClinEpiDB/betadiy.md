@@ -45,16 +45,15 @@ p.indent {
 
 <h2>
     The My Studies workspace has migrated to our new VEuPathDB data exploration
-        and data sharing platform,
-        <strong>beta.dataExplorer.org</strong>
+    and data sharing platform, <strong>beta.dataExplorer.org</strong>
     </h2>
 
-<h4>
+<h3>
     Please note that analyses previously created in ClinEpiDB My Studies are
-        no longer available. You will be able to recreate these analyses in
-        dataExplorer as well as upload new datasets, explore them privately,
-        or share them with the community.
-    </h4>
+    no longer available. You will be able to recreate these analyses in
+    dataExplorer as well as upload new datasets, explore them privately,
+    or share them with the community.
+    </h3>
 
 <div class="static-content">
 
