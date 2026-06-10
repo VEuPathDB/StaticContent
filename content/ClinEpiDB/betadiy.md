@@ -5,51 +5,69 @@ permalink: ClinEpiDB/datasets
 tags: [general]
 ---
 
+```html
 <style>
 p.indent {
     margin-left: 3em;
 }
 
 .button {
-    display: flex;            /* use flex for alignment */
-    flex-wrap: wrap;          /* allow buttons to wrap on small screens */
-    justify-content: center;  /* center buttons horizontally */
-    gap: 10px;                /* spacing between buttons */
-    margin-top: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 16px;
 }
 
 .button a {
     background-color: #007BFF;
     color: white;
-    padding: 10px 20px;
+    padding: 12px 24px;
     text-decoration: none;
     border-radius: 5px;
     font-size: 16px;
-    display: inline-block;    /* ensure padding works correctly */
+    display: inline-block;
 }
 
-/* Optional: slightly smaller buttons on very small screens */
+.button a:hover {
+    opacity: 0.9;
+}
+
+/* Smaller buttons on small screens */
 @media (max-width: 480px) {
-    .survey-link a {
+    .button a {
         padding: 8px 16px;
         font-size: 14px;
     }
 }
 </style>
 
-<h1>My Studies has been moved to VEuPathDB beta.data<i>Explorer</i>.org</h1>
+<div style="max-width: 900px; margin: 40px auto; text-align: center;">
 
-<div class="static-content">
-    
-  <p style="font-size: 1.5em; font-weight: 600;">The My Studies workspace has migrated to our new VEuPathDB data exploration and data sharing platform, <b>beta.dataExplorer.org</b>.</p>
-  
-  <p style="font-size: 1.1em; font-weight: 600;">Please note that analyses previously created in ClinEpiDB My Studies are no longer available. You will be able to recreate these analyses in dataExplorer as well as upload new datasets, explore them privately, or share them with the community.</p>
-  
-  
- <div class="button" style="margin: 8px 0;">
-      <a href="https://beta.dataexplorer.org/dexp/app/workspace/datasets/new" target="_blank">Go To My Datasets</a>
- </div>
- 
+    <h2>
+        The My Studies workspace has migrated to our new VEuPathDB data exploration
+        and data sharing platform,
+        <strong>beta.dataExplorer.org</strong>
+    </h2>
 
+    <h4>
+        Please note that analyses previously created in ClinEpiDB My Studies are
+        no longer available. You will be able to recreate these analyses in
+        dataExplorer as well as upload new datasets, explore them privately,
+        or share them with the community.
+    </h4>
+
+    <div class="static-content">
+
+        <div class="button">
+            <a href="https://beta.dataexplorer.org/dexp/app/workspace/datasets/new"
+               target="_blank"
+               rel="noopener">
+                Go To My Datasets
+            </a>
+        </div>
+
+    </div>
 
 </div>
+```
