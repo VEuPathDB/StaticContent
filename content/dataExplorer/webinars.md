@@ -4,11 +4,11 @@ layout: null
 permalink: /dataExplorer/webinars
 tags: [general]
 ---
-<h1 style="padding:1em">ClinEpiDB Webinars</h1>
+<h1 style="padding:1em">dataExplorer Webinars</h1>
 <div class="static-content" style="padding:0 3em">
 
-<h3>Previous Webinars</h3>
-<br>
+<h3>Coming soon!</h3>
+<!--<br>
 <b>April 20, 2021:</b> Sam Gonahasa, MD <i>Infectious Diseases Research Collaboration, Uganda</i>
 <br>
 <a target="_blank" href="https://youtu.be/1V21DrZ0VXM" target="_blank">Effects of LLINs with and without PBO on malaria indicators in Uganda: a cluster-randomized trial embedded in a national LLIN-distribution campaign</a>
@@ -31,7 +31,7 @@ tags: [general]
 <br>
 <b>May 18, 2021:</b> Lulu M. Muhe, MD, PhD <i>Addis Ababa University, Ethiopia</i>
 <br>
-<a target="_blank" href="https://youtu.be/s90gmMZurLE" target="_blank">Major causes of death in preterm infants in selected hospitals in Ethiopia: A prospective observational study (the SIP study)</a>
+<a target="_blank" href="https://youtu.be/s90gmMZurLE" target="_blank">Major causes of death in preterm infants in selected hospitals in Ethiopia: A prospective observational study (the SIP study)</a>-->
 
 
 </div>
