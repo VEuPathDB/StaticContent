@@ -41,9 +41,10 @@ p.indent {
 
 <div class="static-content">
     
-  <p>The 'My Studies' workspace is now available on our new VEuPathDB beta.dataExplorer.org site. There, you have the option to integrate your datasets
-and share with the community. Follow the link below to upload, view and manage your datasets.
-  </p>
+  <p style="font-size: 1.5em; font-weight: 600;">The My Studies workspace has migrated to our new VEuPathDB data exploration and data sharing platform, <b>beta.dataExplorer.org</b>.</p>
+  
+  <p style="font-size: 1.1em; font-weight: 600;">Please note that analyses previously created in ClinEpiDB My Studies are no longer available. You will be able to recreate these analyses in dataExplorer as well as upload new datasets, explore them privately, or share them with the community.</p>
+  
   
  <div class="button" style="margin: 8px 0;">
       <a href="https://beta.dataexplorer.org/dexp/app/workspace/datasets/new" target="_blank">Go To My Datasets</a>
