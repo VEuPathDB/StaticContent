@@ -5,7 +5,6 @@ permalink: ClinEpiDB/datasets
 tags: [general]
 ---
 
-```html
 <style>
 p.indent {
     margin-left: 3em;
@@ -44,22 +43,22 @@ p.indent {
 
 <div style="max-width: 900px; margin: 40px auto; text-align: center;">
 
-    <h2>
-        The My Studies workspace has migrated to our new VEuPathDB data exploration
+<h2>
+    The My Studies workspace has migrated to our new VEuPathDB data exploration
         and data sharing platform,
         <strong>beta.dataExplorer.org</strong>
     </h2>
 
-    <h4>
-        Please note that analyses previously created in ClinEpiDB My Studies are
+<h4>
+    Please note that analyses previously created in ClinEpiDB My Studies are
         no longer available. You will be able to recreate these analyses in
         dataExplorer as well as upload new datasets, explore them privately,
         or share them with the community.
     </h4>
 
-    <div class="static-content">
+<div class="static-content">
 
-        <div class="button">
+<div class="button">
             <a href="https://beta.dataexplorer.org/dexp/app/workspace/datasets/new"
                target="_blank"
                rel="noopener">
@@ -67,7 +66,6 @@ p.indent {
             </a>
         </div>
 
-    </div>
+</div>
 
 </div>
-```
