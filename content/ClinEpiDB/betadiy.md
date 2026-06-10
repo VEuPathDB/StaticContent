@@ -48,7 +48,7 @@ p.indent {
     and data sharing platform, <strong>beta.dataExplorer.org</strong>
     </h2>
 
-<h3 style="font-weight: 500;">
+<h3 style="font-weight: 400;">
     Please note that analyses previously created in ClinEpiDB My Studies are
     no longer available. You will be able to recreate these analyses in
     dataExplorer as well as upload new datasets, explore them privately,
