@@ -39,6 +39,7 @@ img {
           <li>Max file size 1.0 GB</li>
           <li>The data file must be provided as a single flat file in <b>.csv</b>, <b>.tsv</b>, or <b>tab-delimited .txt</b> format. Compressed files (e.g., <b>.zip</b>) are also supported.</li>
           <li>Data must have variable names as column headers and records/observations as rows</li>
+          <li>To prevent accented letters and other special characters from displaying incorrectly, files should use UTF-8 encoding (recommended). ISO-8859-1 and Windows-1252 are also supported.</li>
           <li>The first row must be column headers (variable names)</li>
         </ul>
       </li>
