@@ -112,7 +112,7 @@ table#hor-minimalist-a tfoot tr {
   </tr>
 </table>
  <hr>
-For the PCR-RFLP Toxo genotypes, you will be uploading these files: 
+For the PCR-RFLP Toxo genotypes, you will be uploading these files. Right click and save the files to your device and then try uploading them into dataExplorer. 
 <a download href="{{'/documents/dataExplorer/toxo_workshop/RFLP_genotypes_ToxoDB_rel68_plus3.txt' | absolute_url}}">datafile: RFLP_genotypes_ToxoDB_rel68_plus3.txt</a> 
 and <a download href="{{'/documents/dataExplorer/toxo_workshop/RFLP_genotypes_toxoDB_rel68_plus_3_var_annot.txt' | absolute_url}}">variable attributes file: RFLP_genotypes_toxoDB_rel68_plus_3_var_annot.txt</a>.
 
