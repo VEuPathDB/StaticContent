@@ -1,0 +1,1532 @@
+Isolate ID	Country	Continent	Latitude	Longitude	Host_Common_Name	Host_Species	PMID	ToxoDB_Genotype	SAG1	5_3_SAG2	alt_SAG2	SAG3	CS3	BTUB	GRA6	c22-8	c29-2	L358	PK1	Apico
+TgCkMxTab1a	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:40588766	028	I	I	I	I		I	I	II	I	III	I	III
+TgCkMxTab1b	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:40588766	028	I	I	I	I		I	I	II	I	III	I	III
+TgCkMxTab2	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:40588766	028	I	I	I	I		I	I	II	I	III	I	III
+TgCkMxTab3a	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:40588766	008	I	III	III	III		III	III	II	III	III	III	III
+TgCkMxTab3b	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:40588766	008	I	III	III	III		III	III	II	III	III	III	III
+TgCkMxTab4a	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:40588766	038	I	III	III	III		I	I	I	III	I	I	III
+TgCkMxTab4b	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:40588766	038	I	III	III	III		I	I	I	III	I	I	III
+TgCkMxTab5a	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:40588766	038	I	III	III	III		I	I	I	III	I	I	III
+TgCkMxTab5b	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:40588766	038	I	III	III	III		I	I	I	III	I	I	III
+TgCkMxTab6	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:40588766	344	I	III	III	III		I	I	III	III	III	I	I
+TgCkMxTab7	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:40588766	345	I	III	III	III		III	III	II	III	III	III	I
+TgCkMxTab8	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:40588766	346	I	I	I	III		I	III	II	III	III	III	III
+AC06a	Australia	Australia	-25.274399	133.775131	"Dolphin, common"	Delphinus delphis	PMID:40048863	003	II/III	II	II	II		II	II	u-1	II	II	II	I
+AC08a	Australia	Australia	-25.274399	133.775131	"Dolphin, Bottlenose"	Tursiops truncatus	PMID:40048863	003	II/III	II	II	u-1		II	II	II	II	II	II	I
+AC09a	Australia	Australia	-25.274399	133.775131	"Dolphin, Bottlenose"	Tursiops truncatus	PMID:40048863	003	II/III	II	II	u-1		II	II	II	II	II	II	I
+TgLdBr1	Brazil	South America	-10.3333333	-53.2	"Gull, kelp"	Larus dominicanus	PMID:41081955	Undetermined	II/III	I	I	III		I	III	u-1	I	I	u-1	I
+TgLdBr2	Brazil	South America	-10.3333333	-53.2	"Gull, kelp"	Larus dominicanus	PMID:41081955	Undetermined	u-1	I	II	III		nd	III	III	III	nd	III	III
+TgLdBr3	Brazil	South America	-10.3333333	-53.2	"Gull, kelp"	Larus dominicanus	PMID:41081955	Undetermined	I	I	II	III		I	III	nd	I	I	III	I
+TgLdBr4	Brazil	South America	-10.3333333	-53.2	"Gull, kelp"	Larus dominicanus	PMID:41081955	170	II or III	III	III	III		I	III	III	III	III	III	III
+TgLdBr5	Brazil	South America	-10.3333333	-53.2	"Gull, kelp"	Larus dominicanus	PMID:41081955	Undetermined	I	nd	I	III		I	III	II	I	nd	I	III
+TgLdBr6	Brazil	South America	-10.3333333	-53.2	"Gull, kelp"	Larus dominicanus	PMID:41081955	Undetermined	II	II	nd	IIII		I	III	nd	I	nd	III	I
+TgSmBr1	Brazil	South America	-10.3333333	-53.2	"Penguin, Magellanic"	Spheniscus magellanicus	PMID:41081955	Undetermined	I	nd	I	nd		nd	nd	u-1	nd	nd	nd	I
+TgSmBr2	Brazil	South America	-10.3333333	-53.2	"Penguin, Magellanic"	Spheniscus magellanicus	PMID:41081955	Undetermined	nd	I	nd	III		II	nd	nd	I	III	nd	nd
+TgSmBr3	Brazil	South America	-10.3333333	-53.2	"Penguin, Magellanic"	Spheniscus magellanicus	PMID:41081955	Undetermined	I	II	nd	III		nd	III	nd	nd	I	nd	I
+TgLdBr7	Brazil	South America	-10.3333333	-53.2	"Gull, kelp"	Larus dominicanus	PMID:41081955	Undetermined	nd	nd	nd	III		nd	nd	nd	nd	nd	nd	III
+TgLdBr8	Brazil	South America	-10.3333333	-53.2	"Gull, kelp"	Larus dominicanus	PMID:41081955	Undetermined	I	II	III	III		I	III	nd	nd	I	nd	nd
+Cs_189_21_1	African Country	Africa	-8.783195	34.508522	Human	Homo sapiens	PMID:15380690	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_22_1	African Country	Africa	-8.783195	34.508522	Human	Homo sapiens	PMID:15380690	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_347_1	Argentina	South America	-38.416096	-63.616673	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_347_2	Argentina	South America	-38.416096	-63.616673	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_347_3	Argentina	South America	-38.416096	-63.616673	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_367_1	Argentina	South America	-38.416096	-63.616673	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_367_2	Argentina	South America	-38.416096	-63.616673	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_380_1	Argentina	South America	-38.416096	-63.616673	Chicken	Gallus gallus domesticus	PMID:22226702	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_396_1	Argentina	South America	-38.416096	-63.616673	Chicken	Gallus gallus domesticus	PMID:22226702	015	u-1	I	II	III		III	III	III	I	I	III	I
+Cs_189_399_1	Argentina	South America	-38.416096	-63.616673	Chicken	Gallus gallus domesticus	PMID:22226702	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_399_2	Argentina	South America	-38.416096	-63.616673	Chicken	Gallus gallus domesticus	PMID:22226702	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_430_1	Argentina	South America	-38.416096	-63.616673	Chicken	Gallus gallus domesticus	PMID:22226702	048	I	III	III	III		III	III	III	III	III	III	III
+Cs_189_63_1	Australia	Australia	-25.274399	133.775131	Dog	Canis lupus familiaris	PMID:19556061	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_64_1	Australia	Australia	-25.274399	133.775131	Human	Homo sapiens	PMID:7594717	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_65_1	Australia	Australia	-25.274399	133.775131	Human	Homo sapiens	PMID:7594717	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_542_1	Barbados	North America	13.193887	-59.543198	Monkey	Primates sp.	PMID:15380690	083	I	I	I	III		I	III	II	III	III	I	III
+Cs_189_73_1	Belgium	Europe	50.6402809	4.6667145	Human	Homo sapiens	PMID:7594717	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_81_1	Belgium	Europe	50.6402809	4.6667145	Human	Homo sapiens	PMID:7594717	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_82_1	Belgium	Europe	50.6402809	4.6667145	Human	Homo sapiens	PMID:7594717	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_87_1	Belgium	Europe	50.6402809	4.6667145	Human	Homo sapiens	PMID:7594717	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_274_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	002	II or III	III	III	III		III	III	III	III	III	III	III
+Cs_189_274_2	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	002	II or III	III	III	III		III	III	III	III	III	III	III
+Cs_189_274_3	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	002	II or III	III	III	III		III	III	III	III	III	III	III
+Cs_189_274_4	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	002	II or III	III	III	III		III	III	III	III	III	III	III
+Cs_189_274_5	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	002	II or III	III	III	III		III	III	III	III	III	III	III
+Cs_189_275_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_276_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_276_2	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_276_3	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_276_4	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_277_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_277_2	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_277_3	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_278_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_278_2	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_279_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	021	I	III	III	III		III	III	I	I	I	III	III
+Cs_189_280_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	033	u-1	I	II	III		I	III	u-1	I	I	I	I
+Cs_189_280_2	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	033	u-1	I	II	III		I	III	u-1	I	I	I	I
+Cs_189_281_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	034	u-1	I	II	III		III	III	II	I	I	u-1	I
+Cs_189_281_2	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	034	u-1	I	II	III		III	III	II	I	I	u-1	I
+Cs_189_281_3	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	034	u-1	I	II	III		III	III	II	I	I	u-1	I
+Cs_189_282_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	041	I	I	I	III		I	II	I	I	I	I	I
+Cs_189_282_2	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	041	I	I	I	III		I	II	I	I	I	I	I
+Cs_189_283_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	053	u-1	I	II	III		III	III	II	I	I	III	I
+Cs_189_283_2	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	053	u-1	I	II	III		III	III	II	I	I	III	I
+Cs_189_283_3	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	053	u-1	I	II	III		III	III	II	I	I	III	I
+Cs_189_284_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	067	I	III	III	III		I	III	I	III	III	u-1	III
+Cs_189_285_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	148	I	I	II	III		I	III	II	I	I	III	I
+Cs_189_286_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	162	I	III	III	III		III	III	II	I	I	III	I
+Cs_189_287_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	165	I	III	III	III		III	III	u-1	I	I	III	III
+Cs_189_288_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	173	u-1	I	II	III		III	II	u-1	I	I	III	I
+Cs_189_289_1	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	175	u-1	I	II	III		III	III	III	I	I	u-1	I
+Cs_189_289_2	Brazil	South America	-10.3333333	-53.2	Capybara	Hydrochoerus hydrochaeris	PMID:19375864	175	u-1	I	II	III		III	III	III	I	I	u-1	I
+Cs_189_294_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_294_2	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_294_3	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_294_4	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_294_5	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_294_6	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_294_7	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_294_8	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_295_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_295_2	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_295_3	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_295_4	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_295_5	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_296_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_296_2	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_296_3	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_296_4	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_296_5	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_297_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_297_2	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_300_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_300_2	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_300_3	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_300_4	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_300_5	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_300_6	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_300_7	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_300_8	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_301_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_301_2	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_303_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	014	I	III	III	III		III	III	III	I	III	III	III
+Cs_189_306_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_306_2	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_306_3	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_307_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_308_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	021	I	III	III	III		III	III	I	I	I	III	III
+Cs_189_308_2	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	021	I	III	III	III		III	III	I	I	I	III	III
+Cs_189_308_3	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	021	I	III	III	III		III	III	I	I	I	III	III
+Cs_189_308_4	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	021	I	III	III	III		III	III	I	I	I	III	III
+Cs_189_308_5	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	021	I	III	III	III		III	III	I	I	I	III	III
+Cs_189_308_6	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	021	I	III	III	III		III	III	I	I	I	III	III
+Cs_189_308_7	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	021	I	III	III	III		III	III	I	I	I	III	III
+Cs_189_309_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	026	II	III	III	III		III	III	I	III	III	I	III
+Cs_189_309_2	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	026	II	III	III	III		III	III	I	III	III	I	III
+Cs_189_311_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	034	u-1	I	II	III		III	III	II	I	I	u-1	I
+Cs_189_311_2	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	034	u-1	I	II	III		III	III	II	I	I	u-1	I
+Cs_189_311_3	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	034	u-1	I	II	III		III	III	II	I	I	u-1	I
+Cs_189_311_4	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	034	u-1	I	II	III		III	III	II	I	I	u-1	I
+Cs_189_314_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	042	I	I	I	III		III	II	I	I	I	u-1	I
+Cs_189_314_2	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	042	I	I	I	III		III	II	I	I	I	u-1	I
+Cs_189_315_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	047	I	III	III	III		III	II	u-1	I	I	II	I
+Cs_189_317_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	055	I	I	I	I		III	I	u-1	I	I	I	I
+Cs_189_317_2	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	055	I	I	I	I		III	I	u-1	I	I	I	I
+Cs_189_318_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	056	I	I	I	III		I	II	u-1	I	III	I	I
+Cs_189_318_2	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	056	I	I	I	III		I	II	u-1	I	III	I	I
+Cs_189_319_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	058	I	I	I	III		I	III	u-1	III	III	I	I
+Cs_189_322_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_323_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	067	I	III	III	III		I	III	I	III	III	u-1	III
+Cs_189_325_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	080	I	I	I	III		I	II	I	I	I	u-1	I
+Cs_189_326_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	085	I	I	I	III		III	II	u-1	I	I	II	I
+Cs_189_327_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	086	I	I	I	III		III	II	u-1	I	I	III	I
+Cs_189_328_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	092	I	I	II	I		III	II	II	I	I	II	I
+Cs_189_330_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	104	I	I	II	III		I	III	u-1	I	I	III	I
+Cs_189_331_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	108	I	I	II	III		III	III	II	I	I	III	I
+Cs_189_332_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	111	I	I	u-1	III		III	III	u-1	I	III	III	I
+Cs_189_335_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	117	I	III	III	III		I	III	u-1	I	I	u-1	III
+Cs_189_337_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	119	I	III	III	III		III	II	u-1	I	I	u-1	I
+Cs_189_338_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	120	I	III	III	III		III	III	I	I	III	III	III
+Cs_189_339_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	121	I	III	III	III		III	III	I	III	I	III	III
+Cs_189_340_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	124	I	III	III	III		III	III	II	III	I	u-1	I
+Cs_189_341_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:15359466	126	I	nd	I	III		III	II	u-1	I	I	u-1	I
+Cs_189_343_1	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus	PMID:16289158	136	u-1	I	u-1	III		III	III	II	I	I	III	I
+Cs_189_348_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_348_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_348_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_349_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_349_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_350_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_358_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_358_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_358_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_358_4	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_358_5	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_361_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_361_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_361_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_361_4	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_362_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_362_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_362_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_362_4	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_363_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_363_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_363_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_364_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_364_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_365_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_366_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_368_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_368_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_369_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_370_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_375_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_375_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_375_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_375_4	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_376_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_376_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_376_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_377_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_377_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_379_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_381_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_381_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_382_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_384_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_384_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_385_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_385_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_386_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_386_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_387_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_387_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_388_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_389_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_391_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	014	I	III	III	III		III	III	III	I	III	III	III
+Cs_189_391_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	014	I	III	III	III		III	III	III	I	III	III	III
+Cs_189_392_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	014	I	III	III	III		III	III	III	I	III	III	III
+Cs_189_397_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	015	u-1	I	II	III		III	III	III	I	I	III	I
+Cs_189_397_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	015	u-1	I	II	III		III	III	III	I	I	III	I
+Cs_189_397_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	015	u-1	I	II	III		III	III	III	I	I	III	I
+Cs_189_397_4	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	015	u-1	I	II	III		III	III	III	I	I	III	I
+Cs_189_397_5	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	015	u-1	I	II	III		III	III	III	I	I	III	I
+Cs_189_397_6	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	015	u-1	I	II	III		III	III	III	I	I	III	I
+Cs_189_397_7	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	015	u-1	I	II	III		III	III	III	I	I	III	I
+Cs_189_400_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_400_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_400_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_400_4	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_400_5	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_400_6	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_400_7	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_401_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_403_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_403_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_403_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_403_4	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_403_5	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_404_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_404_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_405_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	021	I	III	III	III		III	III	I	I	I	III	III
+Cs_189_406_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	022	u-1	I	II	III		III	III	u-1	I	III	III	III
+Cs_189_406_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	022	u-1	I	II	III		III	III	u-1	I	III	III	III
+Cs_189_406_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	022	u-1	I	II	III		III	III	u-1	I	III	III	III
+Cs_189_406_4	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	022	u-1	I	II	III		III	III	u-1	I	III	III	III
+Cs_189_406_5	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	022	u-1	I	II	III		III	III	u-1	I	III	III	III
+Cs_189_406_6	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	022	u-1	I	II	III		III	III	u-1	I	III	III	III
+Cs_189_406_7	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	022	u-1	I	II	III		III	III	u-1	I	III	III	III
+Cs_189_406_8	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	022	u-1	I	II	III		III	III	u-1	I	III	III	III
+Cs_189_409_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	025	I	III	III	I		III	III	III	III	III	I	I
+Cs_189_411_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	026	II	III	III	III		III	III	I	III	III	I	III
+Cs_189_411_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	026	II	III	III	III		III	III	I	III	III	I	III
+Cs_189_411_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	026	II	III	III	III		III	III	I	III	III	I	III
+Cs_189_411_4	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	026	II	III	III	III		III	III	I	III	III	I	III
+Cs_189_413_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	028	I	I	I	I		I	I	II	I	III	I	III
+Cs_189_413_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	028	I	I	I	I		I	I	II	I	III	I	III
+Cs_189_413_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	028	I	I	I	I		I	I	II	I	III	I	III
+Cs_189_415_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	029	I	I	II	III		I	III	II	I	III	III	I
+Cs_189_417_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	030	I	III	III	I		III	III	III	III	III	I	III
+Cs_189_420_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	033	u-1	I	II	III		I	III	u-1	I	I	I	I
+Cs_189_420_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	033	u-1	I	II	III		I	III	u-1	I	I	I	I
+Cs_189_420_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	033	u-1	I	II	III		I	III	u-1	I	I	I	I
+Cs_189_420_4	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	033	u-1	I	II	III		I	III	u-1	I	I	I	I
+Cs_189_420_5	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	033	u-1	I	II	III		I	III	u-1	I	I	I	I
+Cs_189_422_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	036	I	I	I	III		I	III	II	I	III	I	III
+Cs_189_422_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	036	I	I	I	III		I	III	II	I	III	I	III
+Cs_189_422_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	036	I	I	I	III		I	III	II	I	III	I	III
+Cs_189_422_4	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	036	I	I	I	III		I	III	II	I	III	I	III
+Cs_189_423_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	037	I	II	II	III		III	III	u-1	I	I	III	I
+Cs_189_423_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	037	I	II	II	III		III	III	u-1	I	I	III	I
+Cs_189_423_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	037	I	II	II	III		III	III	u-1	I	I	III	I
+Cs_189_423_4	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	037	I	II	II	III		III	III	u-1	I	I	III	I
+Cs_189_425_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	040	u-1	I	II	III		III	III	III	III	I	III	I
+Cs_189_425_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	040	u-1	I	II	III		III	III	III	III	I	III	I
+Cs_189_425_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	040	u-1	I	II	III		III	III	III	III	I	III	I
+Cs_189_426_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	041	I	I	I	III		I	II	I	I	I	I	I
+Cs_189_426_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	041	I	I	I	III		I	II	I	I	I	I	I
+Cs_189_426_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	041	I	I	I	III		I	II	I	I	I	I	I
+Cs_189_428_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	045	I	III	III	III		I	II	II	III	I	I	III
+Cs_189_428_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	045	I	III	III	III		I	II	II	III	I	I	III
+Cs_189_428_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	045	I	III	III	III		I	II	II	III	I	I	III
+Cs_189_429_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	047	I	III	III	III		III	II	u-1	I	I	II	I
+Cs_189_429_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	047	I	III	III	III		III	II	u-1	I	I	II	I
+Cs_189_431_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	048	I	III	III	III		III	III	III	III	III	III	III
+Cs_189_435_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	051	u-1	I	II	III		I	III	II	I	I	I	I
+Cs_189_437_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	053	u-1	I	II	III		III	III	II	I	I	III	I
+Cs_189_438_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	057	I	I	I	III		I	II	u-1	I	III	II	III
+Cs_189_438_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	057	I	I	I	III		I	II	u-1	I	III	II	III
+Cs_189_439_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	059	I	I	I	III		III	II	u-1	I	I	I	I
+Cs_189_439_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	059	I	I	I	III		III	II	u-1	I	I	I	I
+Cs_189_440_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	063	I	I	II	III		III	III	I	III	I	II	I
+Cs_189_440_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	063	I	I	II	III		III	III	I	III	I	II	I
+Cs_189_441_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	064	I	I	II	III		III	III	u-1	I	I	u-2	I
+Cs_189_441_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	064	I	I	II	III		III	III	u-1	I	I	u-2	I
+Cs_189_442_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_444_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	069	I	III	III	III		III	II	I	III	I	II	I
+Cs_189_444_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	069	I	III	III	III		III	II	I	III	I	II	I
+Cs_189_445_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	070	I	III	III	III		III	II	u-1	I	I	I	III
+Cs_189_445_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	070	I	III	III	III		III	II	u-1	I	I	I	III
+Cs_189_446_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	071	I	III	III	III		III	III	II	I	III	III	I
+Cs_189_446_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	071	I	III	III	III		III	III	II	I	III	III	I
+Cs_189_447_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	075	u-1	I	II	III		III	III	II	I	I	III	III
+Cs_189_447_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	075	u-1	I	II	III		III	III	II	I	I	III	III
+Cs_189_448_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	076	u-1	III	III	III		III	III	u-1	I	I	III	I
+Cs_189_448_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	076	u-1	III	III	III		III	III	u-1	I	I	III	I
+Cs_189_449_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	077	I	I	I	I		I	I	u-1	I	I	III	III
+Cs_189_450_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	078	I	I	I	I		I	III	II	I	III	I	III
+Cs_189_451_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	081	I	I	I	III		I	II	u-1	I	I	III	III
+Cs_189_452_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	082	I	I	I	III		I	III	II	I	I	I	III
+Cs_189_453_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	087	I	I	I	III		III	III	I	I	III	I	III
+Cs_189_454_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	088	I	I	I	III		III	III	II	I	III	I	III
+Cs_189_456_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	093	I	I	II	I		III	II	u-1	I	I	III	I
+Cs_189_457_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	094	I	I	II	I		III	III	I	I	I	II	I
+Cs_189_458_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	096	I	I	II	I		III	III	II	III	I	III	III
+Cs_189_460_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:16982151	105	I	I	II	III		III	II	u-1	III	III	III	I
+Cs_189_461_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	107	I	I	II	III		III	II	u-1	I	I	III	I
+Cs_189_462_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	109	I	I	II	III		III	III	III	I	III	III	III
+Cs_189_463_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	114	I	III	III	I		III	III	III	I	III	I	I
+Cs_189_464_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	116	I	III	III	III		I	III	II	III	III	III	III
+Cs_189_468_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	125	I	III	III	III		III	III	II	III	III	u-2	III
+Cs_189_469_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	129	II	II	II	II		III	II	II	II	II	II	II
+Cs_189_470_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	134	u-1	I	II	III		I	III	II	III	III	I	III
+Cs_189_471_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	135	u-1	I	II	III		III	III	II	I	III	III	I
+Cs_189_472_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:18804329	138	u-1	III	III	III		III	III	III	I	III	III	III
+Cs_189_474_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	142	I	I	I	I		I	II	II	II	II	I	I
+Cs_189_475_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	146	I	I	I	III		II	II	I	III	III	II	III
+Cs_189_475_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	146	I	I	I	III		II	II	I	III	III	II	III
+Cs_189_475_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	146	I	I	I	III		II	II	I	III	III	II	III
+Cs_189_475_4	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	146	I	I	I	III		II	II	I	III	III	II	III
+Cs_189_475_5	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	146	I	I	I	III		II	II	I	III	III	II	III
+Cs_189_475_6	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	146	I	I	I	III		II	II	I	III	III	II	III
+Cs_189_475_7	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	146	I	I	I	III		II	II	I	III	III	II	III
+Cs_189_475_8	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	146	I	I	I	III		II	II	I	III	III	II	III
+Cs_189_475_9	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	146	I	I	I	III		II	II	I	III	III	II	III
+Cs_189_475_10	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	146	I	I	I	III		II	II	I	III	III	II	III
+Cs_189_475_11	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	146	I	I	I	III		II	II	I	III	III	II	III
+Cs_189_475_12	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	146	I	I	I	III		II	II	I	III	III	II	III
+Cs_189_475_13	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	146	I	I	I	III		II	II	I	III	III	II	III
+Cs_189_475_14	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	146	I	I	I	III		II	II	I	III	III	II	III
+Cs_189_475_15	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	146	I	I	I	III		II	II	I	III	III	II	III
+Cs_189_476_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	153	I	II	I	III		I	III	I	III	III	II	III
+Cs_189_477_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	157	I	III	III	III		I	III	I	III	III	III	III
+Cs_189_477_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	157	I	III	III	III		I	III	I	III	III	III	III
+Cs_189_478_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	158	I	III	III	III		I	III	u-1	III	III	III	I
+Cs_189_479_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	159	I	III	III	III		III	I	I	III	I	III	III
+Cs_189_480_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	161	I	III	III	III		III	III	I	I	III	III	I
+Cs_189_481_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:20486738	163	I	III	III	III		III	III	II	I	III	III	III
+Cs_189_482_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	164	I	III	III	III		III	III	III	I	I	III	I
+Cs_189_483_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	172	u-1	I	II	I		III	II	u-1	III	III	III	I
+Cs_189_483_2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	172	u-1	I	II	I		III	II	u-1	III	III	III	I
+Cs_189_483_3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	172	u-1	I	II	I		III	II	u-1	III	III	III	I
+Cs_189_483_4	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	172	u-1	I	II	I		III	II	u-1	III	III	III	I
+Cs_189_483_5	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	172	u-1	I	II	I		III	II	u-1	III	III	III	I
+Cs_189_483_6	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	172	u-1	I	II	I		III	II	u-1	III	III	III	I
+Cs_189_484_1	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus	PMID:21255933	174	u-1	I	II	III		III	II	u-1	III	I	III	I
+Cs_189_493_1	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_494_1	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_494_2	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_495_1	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_495_2	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_497_1	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_497_2	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_498_1	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	014	I	III	III	III		III	III	III	I	III	III	III
+Cs_189_503_1	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	032	I	III	III	III		III	II	I	I	I	I	I
+Cs_189_503_2	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	032	I	III	III	III		III	II	I	I	I	I	I
+Cs_189_503_3	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	032	I	III	III	III		III	II	I	I	I	I	I
+Cs_189_504_1	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	034	u-1	I	II	III		III	III	II	I	I	u-1	I
+Cs_189_508_1	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	051	u-1	I	II	III		I	III	II	I	I	I	I
+Cs_189_508_2	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	051	u-1	I	II	III		I	III	II	I	I	I	I
+Cs_189_509_1	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	053	u-1	I	II	III		III	III	II	I	I	III	I
+Cs_189_509_2	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	053	u-1	I	II	III		III	III	II	I	I	III	I
+Cs_189_510_1	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	058	I	I	I	III		I	III	u-1	III	III	I	I
+Cs_189_511_1	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	067	I	III	III	III		I	III	I	III	III	u-1	III
+Cs_189_515_1	Brazil	South America	-10.3333333	-53.2	Dog?	Canis lupus familiaris	PMID:7594717	084	I	I	I	III		I	III	u-1	I	I	III	I
+Cs_189_516_1	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris	PMID:17436942	106	I	I	II	III		III	II	u-1	I	I	II	I
+Cs_189_520_1	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:20236768	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_520_2	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:20236768	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_520_3	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:20236768	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_520_4	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:20236768	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_521_1	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:20236768	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_522_1	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:20236768	135	u-1	I	II	III		III	III	II	I	III	III	I
+Cs_189_523_1	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:20236768	149	I	I	II	III		III	II	II	I	I	I	I
+Cs_189_523_2	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:20236768	149	I	I	II	III		III	II	II	I	I	I	I
+Cs_189_523_3	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:20236768	149	I	I	II	III		III	II	II	I	I	I	I
+Cs_189_523_4	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:20236768	149	I	I	II	III		III	II	II	I	I	I	I
+Cs_189_524_1	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:20236768	150	I	I	II	III		III	II	u-1	III	I	I	I
+Cs_189_525_1	Brazil	South America	-10.3333333	-53.2	Guinea Fowl	Numida meleagris	PMID:21506805	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_526_1	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_527_1	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:7594717	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_533_1	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_2	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_3	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_4	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_5	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_6	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_7	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_8	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_9	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_10	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_11	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_12	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_13	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_14	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_15	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_16	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_17	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_533_18	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	065	I	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_534_1	Brazil	South America	-10.3333333	-53.2	Human	Homo sapiens	PMID:21741380	071	I	III	III	III		III	III	II	I	III	III	I
+Cs_189_540_1	Brazil	South America	-10.3333333	-53.2	Jaguarundi	Herpailurus yagouaroundi	PMID:21055880	166	I	III	III	III		III	III	u-1	I	III	III	III
+Cs_189_541_1	Brazil	South America	-10.3333333	-53.2	"Monkey, Red-Handed Howler"	Alouatta belzebul	PMID:21055880	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_543_1	Brazil	South America	-10.3333333	-53.2	Mouse	Mus musculus	PMID:20869811	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_544_1	Brazil	South America	-10.3333333	-53.2	"Opposum, Black-Eared"	Didelphis marsupialis	PMID:21055880	145	I	I	I	III		I	II	I	I	I	I	III
+Cs_189_545_1	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:7594717	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_547_1	Brazil	South America	-10.3333333	-53.2	Rabbit	Oryctolagus cuniculus	PMID:21506805	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_548_1	Brazil	South America	-10.3333333	-53.2	Rabbit	Oryctolagus cuniculus	PMID:21506805	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_549_1	Brazil	South America	-10.3333333	-53.2	Rat	Rattus norvegicus	PMID:20869811	021	I	III	III	III		III	III	I	I	I	III	III
+Cs_189_550_1	Brazil	South America	-10.3333333	-53.2	Rat	Rattus norvegicus	PMID:21790367	111	I	I	u-1	III		III	III	u-1	I	III	III	I
+Cs_189_551_1	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20970257	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_551_2	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20970257	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_552_1	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_552_2	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_552_3	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_552_4	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_553_1	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_554_1	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20970257	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_556_1	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20970257	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_556_2	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20970257	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_557_1	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20970257	019	I	III	III	III		III	III	I	I	I	u-1	I
+Cs_189_558_1	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	111	I	I	u-1	III		III	III	u-1	I	III	III	I
+Cs_189_558_2	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	111	I	I	u-1	III		III	III	u-1	I	III	III	I
+Cs_189_558_3	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	111	I	I	u-1	III		III	III	u-1	I	III	III	I
+Cs_189_559_1	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20970257	111	I	I	u-1	III		III	III	u-1	I	III	III	I
+Cs_189_560_1	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	144	I	I	I	III		I	III	u-1	III	I	I	I
+Cs_189_560_2	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	144	I	I	I	III		I	III	u-1	III	I	I	I
+Cs_189_561_1	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	150	I	I	II	III		III	II	u-1	III	I	I	I
+Cs_189_561_2	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	150	I	I	II	III		III	II	u-1	III	I	I	I
+Cs_189_562_1	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	152	I	I	u-1	III		III	III	II	I	I	III	I
+Cs_189_562_2	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	152	I	I	u-1	III		III	III	II	I	I	III	I
+Cs_189_562_3	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	152	I	I	u-1	III		III	III	II	I	I	III	I
+Cs_189_563_1	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20236768	160	I	III	III	III		III	III	I	III	III	u-1	III
+Cs_189_564_1	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20970257	171	u-1	I	I	III		III	I	u-1	III	III	I	III
+Cs_189_564_2	Brazil	South America	-10.3333333	-53.2	Sheep	Ovis aries	PMID:20970257	171	u-1	I	I	III		III	I	u-1	III	III	I	III
+TgWildBrMG 1	Brazil	South America	-10.3333333	-53.2	Bird	Rupornis magnirostris	PMID:30479944	108	I	I	II	III	III	III	III	II	I	I	III	I
+TgWildBrMG 3	Brazil	South America	-10.3333333	-53.2	Bird	Colaptes campestris	PMID:30479944	011	I	I	II	III	I	III	III	I	III	I	II	III
+TgWildBrMG 5	Brazil	South America	-10.3333333	-53.2	Bird	Megascops choliba	PMID:30479944	008	I	III	III	III	III	III	III	II	III	III	III	III
+TgWildBrMG 6	Brazil	South America	-10.3333333	-53.2	Bird	Caracara plancus	PMID:30479944	013	I	I	I	I	III	I	III	II	III	III	I	III
+TgWildBrMG 2	Brazil	South America	-10.3333333	-53.2	Bird	Ramphastos toco	PMID:30479944	Undetermined	I	I	II	III	II	III	III	II	III	I	III	I
+TgWildBrMG 4	Brazil	South America	-10.3333333	-53.2	Bird	Caracara plancus	PMID:30479944	Undetermined	I	I	II	III	II	III	III	II	III	I	III	I
+TgCkBrRj2	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus		Undetermined	I	III	III	III		I	II	I	I	I	I	I
+TgCkBrRj3	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus		Undetermined	u-1	I	II	III		III	III	II	III	I	III	I
+TgCkBrRj4	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus		Undetermined	u-1	I	II	III		III	II	III	I	I	II	I
+TgCkBrRj6	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus		Undetermined	I	I	I	III		I	III	II	I	I	I	I
+TgCkBrRj9	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus		Undetermined	I	I	II	III		I	II	I	I	I	I	I
+TgCkBrRj15	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus		Undetermined	u-1	I	II	III		III	III	u-1	I	I	I	I
+TgCkBrRj21	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus		Undetermined	I	III	III	III		III	III	I	I	I	III	I
+TgCkBrRj22	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus		Undetermined	u-1	I	II	III		III	III	II	III	III	III	I
+TgCkBrRj28 	Brazil	South America	-10.3333333	-53.2	Chicken	Gallus gallus domesticus		Undetermined	u-1	I	II	III		III	I	u-1	I	I	I	I
+TgPgBrPI 1	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	163	I	III	III	III	III	III	III	II	I	III	III	III
+TgPgBrPI 8	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	163	I	III	III	III	II	III	III	II	I	III	III	III
+TgPgBrPI 2	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	008	I	III	III	III	III	III	III	II	III	III	III	III
+TgPgBrPI 3	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	109	I	I	II	III	II	III	III	III	I	III	III	III
+TgPgBrPI 5	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	109	I	I	II	III	II	III	III	III	I	III	III	III
+TgPgBrPI 13	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	109	I	I	II	III	II	III	III	III	I	III	III	III
+TgGtBrPI 1	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:29080759	109	I	I	II	III	II	III	III	III	I	III	III	III
+TgPgBrPI 4	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	033	u-1	I	II	III	II	I	III	u-1	I	I	I	I
+TgPgBrPI 6	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	007	I	III	III	III	I	III	III	III	III	III	III	I
+TgPgBrPI 7	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	013	I	I	I	I	III	I	III	II	III	III	I	III
+TgGtBrPI 2	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:29080759	013	I	I	I	I	III	I	III	II	III	III	I	III
+TgPgBrPI 10	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	116	I	III	III	III	III	I	III	II	III	III	III	III
+TgPgBrPI 12	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	057	I	I	I	III	III	I	II	u-1	I	III	II	III
+TgPgBrPI 14	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	057	I	I	I	III	III	I	II	u-1	I	III	II	III
+TgGtBrPI 9	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:29080759	057	I	I	I	III	III	I	II	u-1	I	III	II	III
+TgPgBrPI 15	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	203	I	I	I	III	III	I	II	II	III	III	I	III
+TgGtBrPI 3	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:29080759	146	I	I	I	III	III	II	II	I	III	III	II	III
+TgGtBrPI 4	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:29080759	146	I	I	I	III	III	II	II	I	III	III	II	III
+TgGtBrPI 5	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:29080759	146	I	I	I	III	III	II	II	I	III	III	II	III
+TgGtBrPI 6	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:29080759	146	I	I	I	III	III	II	II	I	III	III	II	III
+TgGtBrPI 7	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:29080759	146	I	I	I	III	III	II	II	I	III	III	II	III
+TgGtBrPI 8	Brazil	South America	-10.3333333	-53.2	Goat	Capra hircus	PMID:29080759	146	I	I	I	III	III	II	II	I	III	III	II	III
+TgPgBrPI 9	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	232	u-1	I	I	III	II	III	II	II	III	II	II	I
+TgPgBrPI 11	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	232	u-1	I	I	III	II	III	II	II	III	II	II	I
+TgPgBrPI 16	Brazil	South America	-10.3333333	-53.2	Pig	Sus scrofa	PMID:29080759	232	u-1	I	I	III	II	III	II	II	III	II	II	I
+TgDogBA22	Brazil	South America	-10.3333333	-53.2	Dog	Canis lupus familiaris		Undetermined	I	III	III	I	II	I	III	I	II	N.A.	I	III
+TgCatBr_CAT01	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus		Undetermined	I	I	I	I		III		I	III	III	I	III
+TgCatBr_CAT02	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus		Undetermined	I	I	III	III		I	I	I	III	I	I	I
+TgCatBr_CAT03	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus		Undetermined	I	I	III	I		III		II	III	III		III
+TgCatBr_CAT04	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus		Undetermined	I	I	III	III		III	III	II	III	I	I	III
+TgCatBr_CAT05	Brazil	South America	-10.3333333	-53.2	Cat	Felis catus		Undetermined	I	I	III	u-1		I	III	II	I	u-1	u-1	I
+Cs_189_9_1	Burkina Faso	Africa	12.2383	-1.5616	Chicken	Gallus gallus domesticus	PMID:18583059	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_23_1	Cameroon	Africa	6.6111	12.3547	Human	Homo sapiens	PMID:15380690	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_105_1	Canada	North America	56.1304	-106.3468	"Bear, Black"	Ursus americanus	PMID:18372620	090	I	I	I	III		III	III	III	III	III	I	III
+Cs_189_115_1	Canada	North America	56.1304	-106.3468	Cat	Felis catus	PMID:18372620	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_118_1	Canada	North America	56.1304	-106.3468	Cat	Felis catus	PMID:18372620	130	II	III	III	I		III	III	II	I	III	III	III
+Cs_189_122_1	Canada	North America	56.1304	-106.3468	Cougar	Puma concolor	PMID:7594717	066	I	II	II	III		II	II	II	u-1	I	u-2	I
+Cs_189_123_1	Canada	North America	56.1304	-106.3468	Cougar	Puma concolor	PMID:18372620	066	I	II	II	III		II	II	II	u-1	I	u-2	I
+Cs_189_219_1	Canada	North America	56.1304	-106.3468	Raccoon	Procyon lotor	PMID:18372620	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_264_1	Canada	North America	56.1304	-106.3468	Skunk	Mephitis mephitis	PMID:18372620	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_346_1	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_346_2	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_346_3	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_346_4	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_351_1	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_351_2	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_351_3	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_351_4	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_359_1	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_359_2	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_359_3	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_359_4	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_359_5	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_359_6	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_359_7	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_359_8	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_359_9	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_359_10	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_359_11	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_359_12	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_359_13	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_393_1	Chile	South America	-35.6751	-71.543	Chicken	Gallus gallus domesticus	PMID:22226702	014	I	III	III	III		III	III	III	I	III	III	III
+Cs_189_25_1	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_25_2	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_25_3	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_25_4	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_25_5	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_25_6	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_25_7	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_25_8	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_25_9	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_25_10	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_25_11	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_25_12	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_25_13	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_25_14	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_25_15	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_26_1	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:22326429	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_26_2	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:22326429	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_26_3	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:22326429	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_26_4	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:22326429	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_26_5	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:22326429	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_26_6	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:22326429	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_26_7	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:22326429	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_26_8	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:22326429	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_26_9	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:22326429	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_26_10	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:22326429	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_26_11	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:22326429	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_27_1	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:19567233	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_27_2	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:19567233	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_27_3	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:19567233	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_27_4	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:19567233	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_27_5	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:19567233	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_27_6	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:19567233	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_27_7	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:19567233	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_27_8	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:19567233	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_28_1	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	018	I	I	I	III		I	III	II	I	III	III	I
+Cs_189_28_2	China	Asia	35.8617	104.1954	Cat	Felis catus	PMID:17267132	018	I	I	I	III		I	III	II	I	III	III	I
+Cs_189_39_1	China	Asia	35.8617	104.1954	Human	Homo sapiens	PMID:19567233	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_40_1	China	Asia	35.8617	104.1954	Human	Homo sapiens	PMID:19567233	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_41_1	China	Asia	35.8617	104.1954	"Pheasant, Common"	Phasianus colchicus	PMID:22263675	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_43_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_43_2	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_43_3	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_43_4	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_43_5	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_44_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:19567233	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_45_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:19567233	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_46_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:19567233	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_47_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_48_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_48_2	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_49_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:19567233	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_50_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:19567233	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_51_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_52_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_53_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_54_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_55_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_56_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_57_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_58_1	China	Asia	35.8617	104.1954	Pig	Sus scrofa	PMID:20481661	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_61_1	China	Asia	35.8617	104.1954	Sheep	Ovis aries	PMID:19567233	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_62_1	China	Asia	35.8617	104.1954	"Sparrow, Tree"	Passer montanus	PMID:22263675	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_299_1	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_299_2	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_304_1	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	014	I	III	III	III		III	III	III	I	III	III	III
+Cs_189_305_1	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	018	I	I	I	III		I	III	II	I	III	III	I
+Cs_189_305_2	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	018	I	I	I	III		I	III	II	I	III	III	I
+Cs_189_310_1	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	028	I	I	I	I		I	I	II	I	III	I	III
+Cs_189_312_1	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	038	I	III	III	III		I	I	I	III	I	I	III
+Cs_189_312_2	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	038	I	III	III	III		I	I	I	III	I	I	III
+Cs_189_312_3	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	038	I	III	III	III		I	I	I	III	I	I	III
+Cs_189_313_1	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	040	u-1	I	II	III		III	III	III	III	I	III	I
+Cs_189_320_1	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	061	I	I	II	III		I	III	II	III	I	u-2	I
+Cs_189_320_2	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	061	I	I	II	III		I	III	II	III	I	u-2	I
+Cs_189_321_1	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	062	I	I	II	III		I	III	II	III	III	III	I
+Cs_189_321_2	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	062	I	I	II	III		I	III	II	III	III	III	I
+Cs_189_329_1	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	101	I	I	II	III		I	III	II	I	I	u-2	I
+Cs_189_342_1	Colombia	South America	4.5709	-74.2973	Cat	Felis catus	PMID:22226702	128	II	II	II	II		II	II	II	III	II	II	I
+Cs_189_394_1	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	014	I	III	III	III		III	III	III	I	III	III	III
+Cs_189_414_1	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	028	I	I	I	I		I	I	II	I	III	I	III
+Cs_189_416_1	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	029	I	I	II	III		I	III	II	I	III	III	I
+Cs_189_424_1	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	038	I	III	III	III		I	I	I	III	I	I	III
+Cs_189_424_2	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	038	I	III	III	III		I	I	I	III	I	I	III
+Cs_189_424_3	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	038	I	III	III	III		I	I	I	III	I	I	III
+Cs_189_424_4	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	038	I	III	III	III		I	I	I	III	I	I	III
+Cs_189_424_5	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	038	I	III	III	III		I	I	I	III	I	I	III
+Cs_189_424_6	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	038	I	III	III	III		I	I	I	III	I	I	III
+Cs_189_424_7	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	038	I	III	III	III		I	I	I	III	I	I	III
+Cs_189_424_8	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	038	I	III	III	III		I	I	I	III	I	I	III
+Cs_189_424_9	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	038	I	III	III	III		I	I	I	III	I	I	III
+Cs_189_485_1	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	178	I	I	I	III		I	III	II	I	I	III	I
+Cs_189_486_1	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	179	I	I	II	III		I	III	I	III	III	III	III
+Cs_189_486_2	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	179	I	I	II	III		I	III	I	III	III	III	III
+Cs_189_489_1	Colombia	South America	4.5709	-74.2973	Chicken	Gallus gallus domesticus	PMID:22226702	188	II	III	III	III		III	III	III	III	I	I	III
+Cs_189_496_1	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_499_1	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	014	I	III	III	III		III	III	III	I	III	III	III
+Cs_189_499_2	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	014	I	III	III	III		III	III	III	I	III	III	III
+Cs_189_499_3	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	014	I	III	III	III		III	III	III	I	III	III	III
+Cs_189_499_4	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	014	I	III	III	III		III	III	III	I	III	III	III
+Cs_189_500_1	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	018	I	I	I	III		I	III	II	I	III	III	I
+Cs_189_501_1	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	023	I	I	II	III		I	III	II	I	III	u-1	I
+Cs_189_502_1	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	029	I	I	II	III		I	III	II	I	III	III	I
+Cs_189_502_2	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	029	I	I	II	III		I	III	II	I	III	III	I
+Cs_189_502_3	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	029	I	I	II	III		I	III	II	I	III	III	I
+Cs_189_502_4	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	029	I	I	II	III		I	III	II	I	III	III	I
+Cs_189_505_1	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	038	I	III	III	III		I	I	I	III	I	I	III
+Cs_189_506_1	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	044	I	I	II	III		I	III	II	I	I	u-3	I
+Cs_189_506_2	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	044	I	I	II	III		I	III	II	I	I	u-3	I
+Cs_189_506_3	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	044	I	I	II	III		I	III	II	I	I	u-3	I
+Cs_189_507_1	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	046	I	III	III	III		I	III	II	I	III	III	I
+Cs_189_507_2	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	046	I	III	III	III		I	III	II	I	III	III	I
+Cs_189_507_3	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	046	I	III	III	III		I	III	II	I	III	III	I
+Cs_189_514_1	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	079	I	I	I	I		III	I	I	III	III	I	III
+Cs_189_517_1	Colombia	South America	4.5709	-74.2973	Dog	Canis lupus familiaris	PMID:17257761	122	I	III	III	III		III	III	I	III	III	I	III
+Cs_189_10_1	Congo	Africa	-0.228	15.8277	Chicken	Gallus gallus domesticus	PMID:18583059	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_10_2	Congo	Africa	-0.228	15.8277	Chicken	Gallus gallus domesticus	PMID:18583059	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_10_3	Congo	Africa	-0.228	15.8277	Chicken	Gallus gallus domesticus	PMID:18583059	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_10_4	Congo	Africa	-0.228	15.8277	Chicken	Gallus gallus domesticus	PMID:18583059	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_352_1	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_371_1	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_2	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_3	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_4	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_5	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_6	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_7	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_8	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_9	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_10	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_11	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_12	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_13	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_14	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_15	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_16	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_371_17	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_408_1	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	024	I	I	I	I		III	I	I	I	I	I	III
+Cs_189_408_2	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	024	I	I	I	I		III	I	I	I	I	I	III
+Cs_189_408_3	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	024	I	I	I	I		III	I	I	I	I	I	III
+Cs_189_408_4	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	024	I	I	I	I		III	I	I	I	I	I	III
+Cs_189_408_5	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	024	I	I	I	I		III	I	I	I	I	I	III
+Cs_189_408_6	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	024	I	I	I	I		III	I	I	I	I	I	III
+Cs_189_421_1	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	035	I	I	I	I		I	I	I	III	I	I	III
+Cs_189_421_2	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	035	I	I	I	I		I	I	I	III	I	I	III
+Cs_189_421_3	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	035	I	I	I	I		I	I	I	III	I	I	III
+Cs_189_421_4	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	035	I	I	I	I		I	I	I	III	I	I	III
+Cs_189_427_1	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	043	I	I	II	I		II	I	I	I	I	u-1	I
+Cs_189_427_2	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	043	I	I	II	I		II	I	I	I	I	u-1	I
+Cs_189_427_3	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	043	I	I	II	I		II	I	I	I	I	u-1	I
+Cs_189_455_1	Costa Rica	North America	9.7489	-83.7534	Chicken	Gallus gallus domesticus	PMID:22226702	091	I	I	II	I		I	I	II	I	I	I	I
+Cs_189_518_1	Costa Rica	North America	9.7489	-83.7534	"Dolphin, Striped"	Stenella coeruleoalba	PMID:17626370	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_565_1	Costa Rica	North America	9.7489	-83.7534	Toucan	Ramphastos sp.	PMID:18847295	052	u-1	I	II	III		I	III	u-2	I	I	III	I
+Cs_189_1_1	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_1_2	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_2_1	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_2	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_3	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_4	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_5	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_6	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_7	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_8	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_9	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_10	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_11	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_12	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_13	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_14	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_15	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_16	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_17	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_18	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_19	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_20	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_21	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_22	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_23	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_24	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_25	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_26	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_27	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_28	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_29	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_30	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_31	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_32	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_33	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_34	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_35	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_36	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_37	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_38	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_39	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_40	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_2_41	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_3_1	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_4_1	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_2	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_3	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_4	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_5	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_6	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_7	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_8	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_9	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_10	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_11	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_12	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_13	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_14	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_15	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_16	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_17	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_18	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_19	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_20	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_21	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_22	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_23	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_24	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_25	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_26	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_27	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_28	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_29	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_30	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_31	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_32	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_33	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_34	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_35	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_36	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_37	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_38	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_39	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_40	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_41	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_42	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_43	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_44	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_45	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_46	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_47	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_48	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_49	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_50	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_51	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_52	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_53	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_54	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_55	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_56	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_57	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_58	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_4_59	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_5_1	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	020	u-1	II	II	III		III	II	II	III	II	u-2	I
+Cs_189_5_2	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	020	u-1	II	II	III		III	II	II	III	II	u-2	I
+Cs_189_5_3	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	020	u-1	II	II	III		III	II	II	III	II	u-2	I
+Cs_189_5_4	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	020	u-1	II	II	III		III	II	II	III	II	u-2	I
+Cs_189_6_1	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	168	II	II	II	II		III	II	II	II	III	II	I
+Cs_189_7_1	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	169	II	II	II	III		III	III	III	III	II	II	III
+Cs_189_7_2	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	169	II	II	II	III		III	III	III	III	II	II	III
+Cs_189_8_1	Egypt	Africa	26.8206	30.8025	Cat	Felis catus	PMID:21158618	176	u-1	II	II	II		II	II	II	III	II	III	I
+Cs_189_11_1	Egypt	Africa	26.8206	30.8025	Chicken	Gallus gallus domesticus	PMID:18583059	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_11_2	Egypt	Africa	26.8206	30.8025	Chicken	Gallus gallus domesticus	PMID:18583059	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_11_3	Egypt	Africa	26.8206	30.8025	Chicken	Gallus gallus domesticus	PMID:18583059	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_11_4	Egypt	Africa	26.8206	30.8025	Chicken	Gallus gallus domesticus	PMID:18583059	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_11_5	Egypt	Africa	26.8206	30.8025	Chicken	Gallus gallus domesticus	PMID:18583059	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_13_1	Egypt	Africa	26.8206	30.8025	Chicken	Gallus gallus domesticus	PMID:18583059	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_13_2	Egypt	Africa	26.8206	30.8025	Chicken	Gallus gallus domesticus	PMID:18583059	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_77_1	France	Europe	46.2276	2.2137	Human	Homo sapiens	PMID:7594717	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_78_1	France	Europe	46.2276	2.2137	Human	Homo sapiens	PMID:15380690	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_79_1	France	Europe	46.2276	2.2137	Human	Homo sapiens	PMID:15380690	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_83_1	France	Europe	46.2276	2.2137	Human	Homo sapiens	PMID:7594717	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_84_1	France	Europe	46.2276	2.2137	Human	Homo sapiens	PMID:7594717	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_85_1	France	Europe	46.2276	2.2137	Human congenital	Homo sapiens	PMID:22431627	003	II or III	II	II	II		II	II	II	II	II	II	I
+Cs_189_86_1	France	Europe	46.2276	2.2137	Human	Homo sapiens	PMID:15380690	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_88_1	France	Europe	46.2276	2.2137	Human	Homo sapiens	PMID:7594717	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_89_1	France	Europe	46.2276	2.2137	Human	Homo sapiens	PMID:7594717	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_90_1	France	Europe	46.2276	2.2137	Human	Homo sapiens	PMID:7594717	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_91_1	France	Europe	46.2276	2.2137	Human	Homo sapiens	PMID:7594717	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_93_1	France	Europe	46.2276	2.2137	Human congenital	Homo sapiens	PMID:21072237	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_93_2	France	Europe	46.2276	2.2137	Human congenital	Homo sapiens	PMID:21072237	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_93_3	France	Europe	46.2276	2.2137	Human congenital	Homo sapiens	PMID:21072237	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_94_1	France	Europe	46.2276	2.2137	Human	Homo sapiens	PMID:7594717	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_95_1	France	Europe	46.2276	2.2137	Human	Homo sapiens	PMID:15380690	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_96_1	France	Europe	46.2276	2.2137	Human congenital	Homo sapiens	PMID:22431627	202	u-1	I	II	III		III	II	III	I	I	III	I
+Cs_189_529_1	French Guiana	South America	3.9339	-53.1258	Human	Homo sapiens	PMID:15380690	012	I	III	III	I		I	III	II	III	III	I	III
+Cs_189_531_1	French Guiana	South America	3.9339	-53.1258	Human	Homo sapiens	PMID:7594717	060	I	I	II	I		III	III	III	I	III	III	I
+Cs_189_532_1	French Guiana	South America	3.9339	-53.1258	Human	Homo sapiens	PMID:7594717	060	I	I	II	I		III	III	III	I	III	III	I
+Cs_189_535_1	French Guiana	South America	3.9339	-53.1258	Human	Homo sapiens	PMID:7594717	095	I	I	II	I		III	III	II	I	I	III	I
+Cs_189_536_1	French Guiana	South America	3.9339	-53.1258	Human	Homo sapiens	PMID:7594717	097	I	I	II	I		III	III	II	III	I	III	I
+Cs_189_537_1	French Guiana	South America	3.9339	-53.1258	Human	Homo sapiens	PMID:7594717	098	I	I	II	I		III	III	III	III	I	III	III
+Cs_189_538_1	French Guiana	South America	3.9339	-53.1258	Human	Homo sapiens	PMID:15380690	100	I	I	II	I		III	III	u-1	I	III	III	I
+Cs_189_539_1	French Guiana	South America	3.9339	-53.1258	Jaguar	Panthera onca	PMID:22431627	197	I	II	II	II		II	II	II	II	I	II	I
+Cs_189_16_1	Gabon	Africa	-0.8037	11.6094	Chicken	Gallus gallus domesticus	PMID:21072237	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_16_2	Gabon	Africa	-0.8037	11.6094	Chicken	Gallus gallus domesticus	PMID:21072237	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_20_1	Gabon	Africa	-0.8037	11.6094	Chicken	Gallus gallus domesticus	PMID:21072237	203	I	I	I	III		I	II	II	III	III	I	III
+Cs_189_20_2	Gabon	Africa	-0.8037	11.6094	Chicken	Gallus gallus domesticus	PMID:21072237	203	I	I	I	III		I	II	II	III	III	I	III
+Cs_189_20_3	Gabon	Africa	-0.8037	11.6094	Chicken	Gallus gallus domesticus	PMID:21072237	203	I	I	I	III		I	II	II	III	III	I	III
+Cs_189_20_4	Gabon	Africa	-0.8037	11.6094	Chicken	Gallus gallus domesticus	PMID:21072237	203	I	I	I	III		I	II	II	III	III	I	III
+Cs_189_74_1	Germany	Europe	51.1657	10.4515	Human	Homo sapiens	PMID:7594717	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_75_1	Germany	Europe	51.1657	10.4515	Human	Homo sapiens	PMID:7594717	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_80_1	Germany	Europe	51.1657	10.4515	Human	Homo sapiens	PMID:7594717	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_18_1	Ghana	Africa	7.9465	-1.0232	Chicken	Gallus gallus domesticus	PMID:18372623	132	II	III	III	III		II	II	II	III	III	II	III
+Cs_189_19_1	Ghana	Africa	7.9465	-1.0232	Chicken	Gallus gallus domesticus	PMID:18372623	137	u-1	II	II	III		III	II	II	III	II	III	I
+Cs_189_353_1	Grenada	North America	12.1165	-61.679	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_353_2	Grenada	North America	12.1165	-61.679	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_353_3	Grenada	North America	12.1165	-61.679	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_353_4	Grenada	North America	12.1165	-61.679	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_353_5	Grenada	North America	12.1165	-61.679	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_390_1	Grenada	North America	12.1165	-61.679	Chicken	Gallus gallus domesticus	PMID:22226702	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_390_2	Grenada	North America	12.1165	-61.679	Chicken	Gallus gallus domesticus	PMID:22226702	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_488_1	Grenada	North America	12.1165	-61.679	Chicken	Gallus gallus domesticus	PMID:22226702	187	II	III	III	III		III	III	II	III	III	III	III
+Cs_189_488_2	Grenada	North America	12.1165	-61.679	Chicken	Gallus gallus domesticus	PMID:22226702	187	II	III	III	III		III	III	II	III	III	III	III
+Cs_189_530_1	Guadeloupe Island	North America	16.265	-61.551	Human	Homo sapiens	PMID:15380690	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_372_1	Guatemala	North America	15.7835	-90.2308	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_491_1	Guatemala	North America	15.7835	-90.2308	Chicken	Gallus gallus domesticus	PMID:22226702	190	I	III	III	III		I	I	II	III	III	I	III
+Cs_189_492_1	Guatemala	North America	15.7835	-90.2308	Chicken	Gallus gallus domesticus	PMID:22226702	191	I	I	I	I		I	I	II	III	III	I	III
+Cs_189_354_1	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_354_2	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_373_1	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_373_2	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_383_1	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	012	I	III	III	I		I	III	II	III	III	I	III
+Cs_189_383_2	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	012	I	III	III	I		I	III	II	III	III	I	III
+Cs_189_383_3	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	012	I	III	III	I		I	III	II	III	III	I	III
+Cs_189_383_4	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	012	I	III	III	I		I	III	II	III	III	I	III
+Cs_189_383_5	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	012	I	III	III	I		I	III	II	III	III	I	III
+Cs_189_383_6	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	012	I	III	III	I		I	III	II	III	III	I	III
+Cs_189_383_7	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	012	I	III	III	I		I	III	II	III	III	I	III
+Cs_189_383_8	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	012	I	III	III	I		I	III	II	III	III	I	III
+Cs_189_383_9	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	012	I	III	III	I		I	III	II	III	III	I	III
+Cs_189_383_10	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	012	I	III	III	I		I	III	II	III	III	I	III
+Cs_189_383_11	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	012	I	III	III	I		I	III	II	III	III	I	III
+Cs_189_383_12	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	012	I	III	III	I		I	III	II	III	III	I	III
+Cs_189_410_1	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	025	I	III	III	I		III	III	III	III	III	I	I
+Cs_189_410_2	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	025	I	III	III	I		III	III	III	III	III	I	I
+Cs_189_410_3	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	025	I	III	III	I		III	III	III	III	III	I	I
+Cs_189_410_4	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	025	I	III	III	I		III	III	III	III	III	I	I
+Cs_189_410_5	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	025	I	III	III	I		III	III	III	III	III	I	I
+Cs_189_418_1	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	030	I	III	III	I		III	III	III	III	III	I	III
+Cs_189_418_2	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	030	I	III	III	I		III	III	III	III	III	I	III
+Cs_189_418_3	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	030	I	III	III	I		III	III	III	III	III	I	III
+Cs_189_418_4	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	030	I	III	III	I		III	III	III	III	III	I	III
+Cs_189_419_1	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	031	I	III	III	III		I	III	III	III	III	I	III
+Cs_189_419_2	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	031	I	III	III	III		I	III	III	III	III	I	III
+Cs_189_419_3	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	031	I	III	III	III		I	III	III	III	III	I	III
+Cs_189_419_4	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	031	I	III	III	III		I	III	III	III	III	I	III
+Cs_189_419_5	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	031	I	III	III	III		I	III	III	III	III	I	III
+Cs_189_432_1	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	048	I	III	III	III		III	III	III	III	III	III	III
+Cs_189_432_2	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	048	I	III	III	III		III	III	III	III	III	III	III
+Cs_189_443_1	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	068	I	III	III	III		I	III	III	III	III	III	III
+Cs_189_443_2	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	068	I	III	III	III		I	III	III	III	III	III	III
+Cs_189_467_1	Guyana	South America	4.8604	-58.9302	Chicken	Gallus gallus domesticus	PMID:17572931	123	I	III	III	III		III	III	I	III	III	III	III
+Cs_189_29_1	Indonesia	Asia	-0.7893	113.9213	Chicken	Gallus gallus domesticus	PMID:18372623	089	I	I	I	III		III	III	II	III	III	III	III
+Cs_189_66_1	Italy	Europe	41.8719	12.5674	Chicken	Gallus gallus domesticus	PMID:18372623	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_67_1	Italy	Europe	41.8719	12.5674	Chicken	Gallus gallus domesticus	PMID:18372623	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_67_2	Italy	Europe	41.8719	12.5674	Chicken	Gallus gallus domesticus	PMID:18372623	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_36_1	Japan	Asia	36.2048	138.2529	Human	Homo sapiens	PMID:7594717	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_37_1	Japan	Asia	36.2048	138.2529	Human	Homo sapiens	PMID:7594717	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_42_1	Japan	Asia	36.2048	138.2529	Pig	Sus scrofa	PMID:7594717	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_14_1	Kenya	Africa	-0.0236	37.9062	Chicken	Gallus gallus domesticus	PMID:18583059	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_12_1	Mali	Africa	17.5707	-3.9962	Chicken	Gallus gallus domesticus	PMID:18583059	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_12_2	Mali	Africa	17.5707	-3.9962	Chicken	Gallus gallus domesticus	PMID:18583059	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_12_3	Mali	Africa	17.5707	-3.9962	Chicken	Gallus gallus domesticus	PMID:18583059	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_15_1	Mali	Africa	17.5707	-3.9962	Chicken	Gallus gallus domesticus	PMID:18583059	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_298_1	Mexico	North America	23.6345	-102.5528	Cat	Felis catus	PMID:18925790	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_298_2	Mexico	North America	23.6345	-102.5528	Cat	Felis catus	PMID:18925790	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_324_1	Mexico	North America	23.6345	-102.5528	Cat	Felis catus	PMID:18925790	074	II	III	III	III		II	II	II	III	II	II	I
+Cs_189_345_1	Mexico	North America	23.6345	-102.5528	Cat	Felis catus	PMID:18925790	155	I	III	III	I		I	III	I	III	III	I	nd
+Cs_189_355_1	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:18925790	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_355_2	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:18925790	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_355_3	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:18925790	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_355_4	Mexico	North America	23.6345	-102.5528	Chicken	Gallus gallus domesticus	PMID:18925790	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_512_1	Mexico	North America	23.6345	-102.5528	Dog	Canis lupus familiaris	PMID:18925790	073	II	III	III	I		I	I	III	III	III	I	I
+Cs_189_513_1	Mexico	North America	23.6345	-102.5528	Dog	Canis lupus familiaris	PMID:18925790	074	II	III	III	III		II	II	II	III	II	II	I
+Cs_189_513_2	Mexico	North America	23.6345	-102.5528	Dog	Canis lupus familiaris	PMID:18925790	074	II	III	III	III		II	II	II	III	II	II	I
+Cs_189_546_1	Mexico	North America	23.6345	-102.5528	Pigeon	Columba livia	PMID:21612413	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_92_1	Netherlands	Europe	52.1326	5.2913	Human	Homo sapiens	PMID:7594717	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_356_1	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_356_2	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_356_3	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_356_4	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_356_5	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_356_6	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_360_1	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_360_2	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_360_3	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_374_1	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_374_2	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_374_3	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_374_4	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_374_5	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_398_1	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	016	I	I	II	III		III	I	III	I	III	III	I
+Cs_189_398_2	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	016	I	I	II	III		III	I	III	I	III	III	I
+Cs_189_398_3	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	016	I	I	II	III		III	I	III	I	III	III	I
+Cs_189_398_4	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	016	I	I	II	III		III	I	III	I	III	III	I
+Cs_189_398_5	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	016	I	I	II	III		III	I	III	I	III	III	I
+Cs_189_398_6	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	016	I	I	II	III		III	I	III	I	III	III	I
+Cs_189_398_7	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	016	I	I	II	III		III	I	III	I	III	III	I
+Cs_189_398_8	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	016	I	I	II	III		III	I	III	I	III	III	I
+Cs_189_398_9	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	016	I	I	II	III		III	I	III	I	III	III	I
+Cs_189_398_10	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	016	I	I	II	III		III	I	III	I	III	III	I
+Cs_189_398_11	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	016	I	I	II	III		III	I	III	I	III	III	I
+Cs_189_407_1	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	023	I	I	II	III		I	III	II	I	III	u-1	I
+Cs_189_407_2	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	023	I	I	II	III		I	III	II	I	III	u-1	I
+Cs_189_407_3	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	023	I	I	II	III		I	III	II	I	III	u-1	I
+Cs_189_407_4	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	023	I	I	II	III		I	III	II	I	III	u-1	I
+Cs_189_407_5	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	023	I	I	II	III		I	III	II	I	III	u-1	I
+Cs_189_407_6	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	023	I	I	II	III		I	III	II	I	III	u-1	I
+Cs_189_407_7	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	023	I	I	II	III		I	III	II	I	III	u-1	I
+Cs_189_412_1	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	027	I	I	I	I		I	I	I	III	I	I	I
+Cs_189_412_2	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	027	I	I	I	I		I	I	I	III	I	I	I
+Cs_189_412_3	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	027	I	I	I	I		I	I	I	III	I	I	I
+Cs_189_412_4	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	027	I	I	I	I		I	I	I	III	I	I	I
+Cs_189_412_5	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	027	I	I	I	I		I	I	I	III	I	I	I
+Cs_189_434_1	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	050	II	III	III	I		III	I	III	III	III	III	III
+Cs_189_434_2	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	050	II	III	III	I		III	I	III	III	III	III	III
+Cs_189_434_3	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	050	II	III	III	I		III	I	III	III	III	III	III
+Cs_189_436_1	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	052	u-1	I	II	III		I	III	u-2	I	I	III	I
+Cs_189_436_2	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	052	u-1	I	II	III		I	III	u-2	I	I	III	I
+Cs_189_459_1	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	102	I	I	II	III		I	III	II	I	III	u-1	III
+Cs_189_473_1	Nicaragua	North America	12.8654	-85.2072	Chicken	Gallus gallus domesticus	PMID:22226702	140	II	III	III	III		III	III	II	III	III	I	III
+Cs_189_17_1	Nigeria	Africa	9.082	8.6753	Chicken	Gallus gallus domesticus	PMID:18583059	015	u-1	I	II	III		III	III	III	I	I	III	I
+Cs_189_291_1	Panama	North America	8.538	-80.7821	Cat	Felis catus	PMID:7594717	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_292_1	Panama	North America	8.538	-80.7821	Cat	Felis catus	PMID:7594717	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_519_1	Panama	North America	8.538	-80.7821	Dove	Zenaida macroura	PMID:7594717	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_357_1	Peru	South America	-9.19	-75.0152	Chicken	Gallus gallus domesticus	PMID:22226702	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_402_1	Peru	South America	-9.19	-75.0152	Chicken	Gallus gallus domesticus	PMID:22226702	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_402_2	Peru	South America	-9.19	-75.0152	Chicken	Gallus gallus domesticus	PMID:22226702	017	u-1	I	II	III		III	III	u-1	I	I	III	I
+Cs_189_465_1	Peru	South America	-9.19	-75.0152	Chicken	Gallus gallus domesticus	PMID:22226702	116	I	III	III	III		I	III	II	III	III	III	III
+Cs_189_490_1	Peru	South America	-9.19	-75.0152	Chicken	Gallus gallus domesticus	PMID:22226702	189	u-1	I	II	I		I	I	I	I	I	III	I
+Cs_189_68_1	Poland	Europe	51.9194	19.1451	Chicken	Gallus gallus domesticus	PMID:18372623	015	u-1	I	II	III		III	III	III	I	I	III	I
+Cs_189_68_2	Poland	Europe	51.9194	19.1451	Chicken	Gallus gallus domesticus	PMID:18372623	015	u-1	I	II	III		III	III	III	I	I	III	I
+Cs_189_316_1	Puerto Rico	North America	18.2208	-66.5901	Cat	Felis catus	PMID:18804329	049	II	II	II	I		II	II	II	II	III	II	nd
+Cs_189_316_2	Puerto Rico	North America	18.2208	-66.5901	Cat	Felis catus	PMID:18804329	049	II	II	II	I		II	II	II	II	III	II	nd
+Cs_189_316_3	Puerto Rico	North America	18.2208	-66.5901	Cat	Felis catus	PMID:18804329	049	II	II	II	I		II	II	II	II	III	II	nd
+Cs_189_333_1	Puerto Rico	North America	18.2208	-66.5901	Cat	Felis catus	PMID:18314681	112	I	II	II	I		I	I	III	II	III	I	nd
+Cs_189_334_1	Puerto Rico	North America	18.2208	-66.5901	Cat	Felis catus	PMID:18314681	115	I	III	III	I		III	III	III	III	III	III	I
+Cs_189_336_1	Puerto Rico	North America	18.2208	-66.5901	Cat	Felis catus	PMID:18314681	118	I	III	III	III		III	I	I	III	III	I	nd
+Cs_189_59_1	Qatar	Asia	25.3548	51.1839	Sand Cat	Felis margarita	PMID:20570441	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_24_1	Reunion Island	Africa	-21.1151	55.5364	Human	Homo sapiens	PMID:15380690	099	I	I	II	I		III	III	u-1	I	I	III	I
+Cs_189_30_1	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_30_2	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_30_3	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_31_1	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_31_2	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_31_3	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_31_4	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_31_5	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_31_6	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_31_7	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_31_8	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_31_9	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_31_10	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_31_11	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_33_1	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_35_1	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	020	u-1	II	II	III		III	II	II	III	II	u-2	I
+Cs_189_35_2	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	020	u-1	II	II	III		III	II	II	III	II	u-2	I
+Cs_189_35_3	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	020	u-1	II	II	III		III	II	II	III	II	u-2	I
+Cs_189_35_4	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	020	u-1	II	II	III		III	II	II	III	II	u-2	I
+Cs_189_35_5	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	020	u-1	II	II	III		III	II	II	III	II	u-2	I
+Cs_189_35_6	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	020	u-1	II	II	III		III	II	II	III	II	u-2	I
+Cs_189_35_7	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	020	u-1	II	II	III		III	II	II	III	II	u-2	I
+Cs_189_35_8	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	020	u-1	II	II	III		III	II	II	III	II	u-2	I
+Cs_189_35_9	Sri Lanka	Asia	7.8731	80.7718	Dog	Canis lupus familiaris	PMID:17442491	020	u-1	II	II	III		III	II	II	III	II	u-2	I
+Cs_189_290_1	St. Kitts	North America	17.3578	-62.783	Cat	Felis catus	PMID:19402949	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_293_1	St. Kitts	North America	17.3578	-62.783	Cat	Felis catus	PMID:19402949	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_293_2	St. Kitts	North America	17.3578	-62.783	Cat	Felis catus	PMID:19402949	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_293_3	St. Kitts	North America	17.3578	-62.783	Cat	Felis catus	PMID:19402949	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_293_4	St. Kitts	North America	17.3578	-62.783	Cat	Felis catus	PMID:19402949	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_302_1	St. Kitts	North America	17.3578	-62.783	Cat	Felis catus	PMID:19402949	013	I	I	I	I		I	III	II	III	III	I	III
+Cs_189_344_1	St. Kitts	North America	17.3578	-62.783	Cat	Felis catus	PMID:19402949	141	II	III	III	III		III	III	III	III	III	I	III
+Cs_189_69_1	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_69_2	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_69_3	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_69_4	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_69_5	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_69_6	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_69_7	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_69_8	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_69_9	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_69_10	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_70_1	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_71_1	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_71_2	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_71_3	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_71_4	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_72_1	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_2	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_3	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_4	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_5	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_6	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_7	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_8	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_9	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_10	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_11	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_12	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_13	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_14	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_15	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_16	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_72_17	Svalbard	Europe	77.5536	23.6703	"Fox, Arctic"	Vulpes lagopus	PMID:18922642	003	II	II	II	II		II	II	II	II	II	II	I
+Scherrer_Eurasian_lynx	Switzerland	Europe	46.8182	8.2275	Lynx	Lynx canadensis		Undetermined	II/III	I/III	III	III	N.A.	III	III	II	III	II	III	I
+Scherrer_Eurasian_beaver	Switzerland	Europe	46.8182	8.2275	Beaver	Castor canadensis		Undetermined	II/III	I/II	I	II	N.A.	II	II	II	II	II	II	I
+Cs_189_38_1	Turkey	Asia	38.9637	35.2433	Human	Homo sapiens	PMID:7594717	006	I	I	I	III		I	II	u-1	I	I	I	I
+Cs_189_97_1	UK	Europe	55.3781	-3.436	Rabbit	Oryctolagus cuniculus	PMID:7594717	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_60_1	United Arab Emirates	Asia	23.4241	53.8478	Sand Cat	Felis margarita	PMID:20570441	020	u-1	II	II	III		III	II	II	III	II	u-2	I
+Cs_189_60_2	United Arab Emirates	Asia	23.4241	53.8478	Sand Cat	Felis margarita	PMID:20570441	020	u-1	II	II	III		III	II	II	III	II	u-2	I
+Cs_189_528_1	Uruguay	South America	-32.5228	-55.7658	Human	Homo sapiens	PMID:15380690	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_555_1	Uruguay	South America	-32.5228	-55.7658	Sheep	Ovis aries	PMID:7594717	015	u-1	I	II	III		III	III	III	I	I	III	I
+Cs_189_98_1	USA	North America	37.0902	-95.7129	Bear	Ursus sp.	PMID:7594717	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_99_1	USA	North America	37.0902	-95.7129	"Bear, Black"	Ursus americanus	PMID:21802422	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_99_2	USA	North America	37.0902	-95.7129	"Bear, Black"	Ursus americanus	PMID:21802422	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_100_1	USA	North America	37.0902	-95.7129	Bear	Ursus sp.	PMID:7594717	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_101_1	USA	North America	37.0902	-95.7129	"Bear, Black"	Ursus americanus	PMID:21802422	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_101_2	USA	North America	37.0902	-95.7129	"Bear, Black"	Ursus americanus	PMID:21802422	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_102_1	USA	North America	37.0902	-95.7129	Bear	Ursus sp.	PMID:7594717	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_103_1	USA	North America	37.0902	-95.7129	"Bear, Black"	Ursus americanus	PMID:21802422	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_104_1	USA	North America	37.0902	-95.7129	"Bear, Brown"	Ursus arctos	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_106_1	USA	North America	37.0902	-95.7129	Bear	Ursus sp.	PMID:7594717	127	II	II	II	II		II	II	II	II	III	III	III
+Cs_189_107_1	USA	North America	37.0902	-95.7129	"Bear, Alaska Black"	Ursus americanus	PMID:20486739	147	I	I	II	I		III	III	I	I	I	III	I
+Cs_189_108_1	USA	North America	37.0902	-95.7129	Bobcat	Lynx rufus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_108_2	USA	North America	37.0902	-95.7129	Bobcat	Lynx rufus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_108_3	USA	North America	37.0902	-95.7129	Bobcat	Lynx rufus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_108_4	USA	North America	37.0902	-95.7129	Bobcat	Lynx rufus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_109_1	USA	North America	37.0902	-95.7129	Cat	Felis catus	PMID:7594717	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_110_1	USA	North America	37.0902	-95.7129	Cat	Felis catus	PMID:21802422	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_111_1	USA	North America	37.0902	-95.7129	Cat	Felis catus	PMID:7594717	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_112_1	USA	North America	37.0902	-95.7129	Cat	Felis catus	PMID:7594717	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_113_1	USA	North America	37.0902	-95.7129	Cat	Felis catus	PMID:21802422	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_114_1	USA	North America	37.0902	-95.7129	Cat	Felis catus	PMID:21802422	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_114_2	USA	North America	37.0902	-95.7129	Cat	Felis catus	PMID:21802422	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_114_3	USA	North America	37.0902	-95.7129	Cat	Felis catus	PMID:21802422	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_114_4	USA	North America	37.0902	-95.7129	Cat	Felis catus	PMID:21802422	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_114_5	USA	North America	37.0902	-95.7129	Cat	Felis catus	PMID:21802422	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_116_1	USA	North America	37.0902	-95.7129	Cat	Felis catus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_117_1	USA	North America	37.0902	-95.7129	Cat	Felis catus	PMID:21802422	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_119_1	USA	North America	37.0902	-95.7129	Chicken	Gallus gallus domesticus	PMID:17656021	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_119_2	USA	North America	37.0902	-95.7129	Chicken	Gallus gallus domesticus	PMID:17656021	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_119_3	USA	North America	37.0902	-95.7129	Chicken	Gallus gallus domesticus	PMID:17656021	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_119_4	USA	North America	37.0902	-95.7129	Chicken	Gallus gallus domesticus	PMID:17656021	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_119_5	USA	North America	37.0902	-95.7129	Chicken	Gallus gallus domesticus	PMID:17656021	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_119_6	USA	North America	37.0902	-95.7129	Chicken	Gallus gallus domesticus	PMID:17656021	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_119_7	USA	North America	37.0902	-95.7129	Chicken	Gallus gallus domesticus	PMID:17656021	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_119_8	USA	North America	37.0902	-95.7129	Chicken	Gallus gallus domesticus	PMID:17656021	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_119_9	USA	North America	37.0902	-95.7129	Chicken	Gallus gallus domesticus	PMID:17656021	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_119_10	USA	North America	37.0902	-95.7129	Chicken	Gallus gallus domesticus	PMID:17656021	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_119_11	USA	North America	37.0902	-95.7129	Chicken	Gallus gallus domesticus	PMID:17656021	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_120_1	USA	North America	37.0902	-95.7129	Chicken	Gallus gallus domesticus	PMID:7594717	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_121_1	USA	North America	37.0902	-95.7129	Chicken	Gallus gallus domesticus	PMID:7594717	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_124_1	USA	North America	37.0902	-95.7129	Cow	Bos taurus	PMID:7594717	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_125_1	USA	North America	37.0902	-95.7129	Coyote	Canis latrans	PMID:18314705	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_125_2	USA	North America	37.0902	-95.7129	Coyote	Canis latrans	PMID:18314705	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_126_1	USA	North America	37.0902	-95.7129	Coyote	Canis latrans	PMID:21802422	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_127_1	USA	North America	37.0902	-95.7129	Coyote	Canis latrans	PMID:21802422	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_128_1	USA	North America	37.0902	-95.7129	Coyote	Canis latrans	PMID:18314705	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_129_1	USA	North America	37.0902	-95.7129	Coyote	Canis latrans	PMID:18314705	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_129_2	USA	North America	37.0902	-95.7129	Coyote	Canis latrans	PMID:18314705	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_130_1	USA	North America	37.0902	-95.7129	Coyote	Canis latrans	PMID:18314705	014	I	III	III	III		III	III	III	I	III	III	III
+Cs_189_131_1	USA	North America	37.0902	-95.7129	"Crow, Hawaiian"	Corvus hawaiiensis	PMID:21802422	177	I	I	I	I		I	I	I	III	III	I	III
+Cs_189_131_2	USA	North America	37.0902	-95.7129	"Crow, Hawaiian"	Corvus hawaiiensis	PMID:21802422	177	I	I	I	I		I	I	I	III	III	I	III
+Cs_189_132_1	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:18187136	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_132_2	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:18187136	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_132_3	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:18187136	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_132_4	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:18187136	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_133_1	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:18187136	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_133_2	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:18187136	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_134_1	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_135_1	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:18187136	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_135_2	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:18187136	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_135_3	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:18187136	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_135_4	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:18187136	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_135_5	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:18187136	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_136_1	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:18187136	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_136_2	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:18187136	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_1	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_2	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_3	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_4	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_5	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_6	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_7	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_8	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_9	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_10	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_11	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_12	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_13	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_14	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_15	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_16	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_17	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_137_18	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_138_1	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:7594717	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_138_2	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:7594717	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_139_1	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:18187136	054	II	II	II	III		III	III	III	III	III	III	II
+Cs_189_140_1	USA	North America	37.0902	-95.7129	"Deer, White-Tailed"	Odocoileus virginianus	PMID:18187136	074	II	III	III	III		II	II	II	III	II	II	I
+Cs_189_141_1	USA	North America	37.0902	-95.7129	"Dolphin, Bottlenose"	Tursiops truncatus	PMID:18576793	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_141_2	USA	North America	37.0902	-95.7129	"Dolphin, Bottlenose"	Tursiops truncatus	PMID:18576793	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_142_1	USA	North America	37.0902	-95.7129	"Dolphin, Bottlenose"	Tursiops truncatus	PMID:21802422	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_143_1	USA	North America	37.0902	-95.7129	"Dolphin, Bottlenose"	Tursiops truncatus	PMID:19245284	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_144_1	USA	North America	37.0902	-95.7129	"Dolphin, Bottlenose"	Tursiops truncatus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_144_2	USA	North America	37.0902	-95.7129	"Dolphin, Bottlenose"	Tursiops truncatus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_145_1	USA	North America	37.0902	-95.7129	"Dolphin, Bottlenose"	Tursiops truncatus	PMID:18576793	015	u-1	I	II	III		III	III	III	I	I	III	I
+Cs_189_146_1	USA	North America	37.0902	-95.7129	"Eagle, Bald"	Haliaeetus leucocephalus	PMID:21802422	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_147_1	USA	North America	37.0902	-95.7129	"Fox, Arctic"	Vulpes lagopus	PMID:21802422	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_148_1	USA	North America	37.0902	-95.7129	"Fox, Arctic"	Vulpes lagopus	PMID:21802422	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_149_1	USA	North America	37.0902	-95.7129	"Fox, Arctic"	Vulpes lagopus	PMID:21802422	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_150_1	USA	North America	37.0902	-95.7129	"Fox, Red"	Vulpes vulpes	PMID:21802422	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_151_1	USA	North America	37.0902	-95.7129	"Fox, Arctic"	Vulpes lagopus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_152_1	USA	North America	37.0902	-95.7129	"Fox, Arctic"	Vulpes lagopus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_153_1	USA	North America	37.0902	-95.7129	"Fox, Arctic"	Vulpes lagopus	PMID:21802422	167	II	I	I	I		I	I	I	III	III	III	III
+Cs_189_154_1	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_154_2	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_154_3	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_154_4	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_154_5	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_154_6	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_154_7	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_154_8	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_154_9	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_155_1	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_155_2	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_155_3	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_155_4	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_156_1	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_156_2	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_156_3	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_156_4	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_157_1	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_157_2	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_157_3	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_158_1	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_158_2	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_159_1	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:7594717	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_160_1	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	039	II	II	II	II		II	II	II	II	I	II	II
+Cs_189_161_1	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	118	I	III	III	III		III	I	I	III	III	I	III
+Cs_189_162_1	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	143	I	I	I	III		I	III	III	I	III	I	III
+Cs_189_163_1	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	154	I	II	II	III		II	II	II	u-1	III	II	I
+Cs_189_164_1	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	156	I	III	III	III		I	I	III	III	III	I	III
+Cs_189_165_1	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	167	II	I	I	I		I	I	I	III	III	III	III
+Cs_189_166_1	USA	North America	37.0902	-95.7129	Goat	Capra hircus	PMID:21515278	170	II	III	III	III		I	III	III	III	III	III	III
+Cs_189_167_1	USA	North America	37.0902	-95.7129	Goose	Anser sp.	PMID:17656021	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_168_1	USA	North America	37.0902	-95.7129	Goose	Anser sp.	PMID:21802422	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_169_1	USA	North America	37.0902	-95.7129	"Hawk, Ferruginous"	Buteo regalis	PMID:21802422	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_170_1	USA	North America	37.0902	-95.7129	"Hawk, Red-Tailed"	Buteo jamaicensis	PMID:21802422	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_171_1	USA	North America	37.0902	-95.7129	"Hawk, Swainson's"	Buteo swainsoni	PMID:21802422	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_171_2	USA	North America	37.0902	-95.7129	"Hawk, Swainson's"	Buteo swainsoni	PMID:21802422	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_172_1	USA	North America	37.0902	-95.7129	"Hawk, Rough-Legged"	Buteo lagopus	PMID:21802422	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_173_1	USA	North America	37.0902	-95.7129	"Hawk, Red-Tailed"	Buteo jamaicensis	PMID:21802422	015	u-1	I	II	III		III	III	III	I	I	III	I
+Cs_189_174_1	USA	North America	37.0902	-95.7129	"Hawk, Swainson's"	Buteo swainsoni	PMID:21802422	167	II	I	I	I		I	I	I	III	III	III	III
+Cs_189_175_1	USA	North America	37.0902	-95.7129	Human	Homo sapiens	PMID:7594717	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_176_1	USA	North America	37.0902	-95.7129	Human	Homo sapiens	PMID:7594717	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_177_1	USA	North America	37.0902	-95.7129	Human	Homo sapiens	PMID:7594717	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_178_1	USA	North America	37.0902	-95.7129	Human	Homo sapiens	PMID:7594717	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_179_1	USA	North America	37.0902	-95.7129	Human	Homo sapiens	PMID:7594717	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_180_1	USA	North America	37.0902	-95.7129	Human	Homo sapiens	PMID:7594717	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_181_1	USA	North America	37.0902	-95.7129	Human	Homo sapiens	PMID:7594717	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_182_1	USA	North America	37.0902	-95.7129	Human	Homo sapiens	PMID:7594717	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_183_1	USA	North America	37.0902	-95.7129	Human	Homo sapiens	PMID:7594717	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_184_1	USA	North America	37.0902	-95.7129	Human	Homo sapiens	PMID:7594717	010	I	I	I	I		I	I	I	I	I	I	I
+Cs_189_185_1	USA	North America	37.0902	-95.7129	Human	Homo sapiens	PMID:7594717	028	I	I	I	I		I	I	II	I	III	I	III
+Cs_189_186_1	USA	North America	37.0902	-95.7129	Human	Homo sapiens	PMID:7594717	072	I	III	III	III		III	III	III	III	III	u-2	III
+Cs_189_187_1	USA	North America	37.0902	-95.7129	Human	Homo sapiens	PMID:7594717	139	II	II	II	III		III	III	II	II	III	III	I
+Cs_189_188_1	USA	North America	37.0902	-95.7129	"Kestrel, American"	Falco sparverius	PMID:21802422	157	I	III	III	III		I	III	I	III	III	III	III
+Cs_189_189_1	USA	North America	37.0902	-95.7129	Mouse	Mus musculus	PMID:21802422	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_190_1	USA	North America	37.0902	-95.7129	"Mouse, White-Footed"	Peromyscus leucopus	PMID:21802422	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_190_2	USA	North America	37.0902	-95.7129	"Mouse, White-Footed"	Peromyscus leucopus	PMID:21802422	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_191_1	USA	North America	37.0902	-95.7129	Mouse	Mus musculus	PMID:21802422	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_192_1	USA	North America	37.0902	-95.7129	Mouse	Mus musculus	PMID:21802422	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_192_2	USA	North America	37.0902	-95.7129	Mouse	Mus musculus	PMID:21802422	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_192_3	USA	North America	37.0902	-95.7129	Mouse	Mus musculus	PMID:21802422	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_193_1	USA	North America	37.0902	-95.7129	Mouse	Mus musculus	PMID:21802422	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_194_1	USA	North America	37.0902	-95.7129	Opossum	Didelphis virginiana	PMID:21802422	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_195_1	USA	North America	37.0902	-95.7129	"Owl, Barn"	Tyto alba	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_196_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_2	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_3	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_4	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_5	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_6	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_7	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_8	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_9	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_10	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_11	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_12	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_13	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_14	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_15	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_16	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_17	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_18	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_19	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_20	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_21	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_22	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_23	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_24	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_25	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_26	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_27	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_28	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_29	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_30	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_31	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_32	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_33	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_34	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_35	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_36	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_37	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_38	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_39	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_40	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_196_41	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_197_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_197_2	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_197_3	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_197_4	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_197_5	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_197_6	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_197_7	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_197_8	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_197_9	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_197_10	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_197_11	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_198_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:22483557	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_198_2	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:22483557	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_198_3	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:22483557	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_198_4	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:22483557	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_198_5	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:22483557	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_198_6	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:22483557	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_198_7	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:22483557	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_198_8	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:22483557	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_198_9	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:22483557	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_198_10	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:22483557	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_198_11	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:22483557	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_199_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	nd
+Cs_189_199_2	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	nd
+Cs_189_199_3	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	nd
+Cs_189_199_4	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	nd
+Cs_189_199_5	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	nd
+Cs_189_199_6	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	nd
+Cs_189_199_7	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	nd
+Cs_189_199_8	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	nd
+Cs_189_199_9	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	nd
+Cs_189_199_10	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	nd
+Cs_189_200_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_200_2	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_201_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_201_2	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_202_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_2	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_3	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_4	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_5	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_6	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_7	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_8	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_9	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_10	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_11	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_12	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_13	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_14	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_15	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_16	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_17	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_18	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_19	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_20	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_21	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_22	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_23	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_24	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_25	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_26	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_27	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_28	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_29	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_30	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_31	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_32	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_33	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_34	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_35	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_36	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_37	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_38	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_39	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_202_40	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_203_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_203_2	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_203_3	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_203_4	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_203_5	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_203_6	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_204_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:22483557	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_204_2	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:22483557	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_204_3	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:22483557	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_204_4	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:22483557	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_205_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_205_2	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_205_3	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_206_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:7594717	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_207_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_2	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_3	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_4	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_5	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_6	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_7	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_8	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_9	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_10	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_11	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_12	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_13	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_14	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_15	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_16	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_17	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_18	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_19	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_20	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_21	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_22	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_23	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_207_24	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_208_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_208_2	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_208_3	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_208_4	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_208_5	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_208_6	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_208_7	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_208_8	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_208_9	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_208_10	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_208_11	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_208_12	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_209_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_2	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_3	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_4	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_5	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_6	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_7	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_8	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_9	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_10	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_11	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_12	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_13	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_14	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_15	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_16	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_209_17	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_210_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:7594717	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_211_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_212_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_212_2	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_212_3	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_213_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_213_2	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_213_3	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_213_4	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_213_5	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_213_6	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_213_7	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_213_8	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_214_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:19245283	113	I	II	II	III		II	II	II	nd	III	II	nd
+Cs_189_215_1	USA	North America	37.0902	-95.7129	Pig	Sus scrofa	PMID:7594717	231	I	III	III	III		II	III	II	II	II	III	II
+Cs_189_216_1	USA	North America	37.0902	-95.7129	Raccoon	Procyon lotor	PMID:18314705	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_217_1	USA	North America	37.0902	-95.7129	Raccoon	Procyon lotor	PMID:21802422	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_218_1	USA	North America	37.0902	-95.7129	Raccoon	Procyon lotor	PMID:18314705	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_220_1	USA	North America	37.0902	-95.7129	Raccoon	Procyon lotor	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_221_1	USA	North America	37.0902	-95.7129	Raccoon	Procyon lotor	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_222_1	USA	North America	37.0902	-95.7129	Raccoon	Procyon lotor	PMID:18314705	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_223_1	USA	North America	37.0902	-95.7129	Raccoon	Procyon lotor	PMID:21802422	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_224_1	USA	North America	37.0902	-95.7129	Raccoon	Procyon lotor	PMID:18314705	032	I	III	III	III		III	II	I	I	I	I	I
+Cs_189_224_2	USA	North America	37.0902	-95.7129	Raccoon	Procyon lotor	PMID:18314705	032	I	III	III	III		III	II	I	I	I	I	I
+Cs_189_225_1	USA	North America	37.0902	-95.7129	"Rat, Wood"	Neotoma sp.	PMID:21802422	011	I	I	II	III		III	III	I	III	I	II	III
+Cs_189_226_1	USA	North America	37.0902	-95.7129	Rodent		PMID:7594717	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_227_1	USA	North America	37.0902	-95.7129	Rodent		PMID:7594717	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_228_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_228_2	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_229_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_229_2	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_230_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:7594717	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_231_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:21802422	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_232_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_232_2	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_232_3	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_232_4	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_232_5	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_233_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_233_2	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_233_3	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_233_4	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_234_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:21802422	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_234_2	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:21802422	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_235_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:7594717	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_236_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_237_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_237_2	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_237_3	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_237_4	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_237_5	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_237_6	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_237_7	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_237_8	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_237_9	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_237_10	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_237_11	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_238_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_238_2	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_238_3	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_239_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_239_2	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_239_3	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_240_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:7594717	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_240_2	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:7594717	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_241_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_241_2	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_242_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_242_2	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_243_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_244_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_245_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	039	II	II	II	II		II	II	II	II	I	II	II
+Cs_189_245_2	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	039	II	II	II	II		II	II	II	II	I	II	II
+Cs_189_246_1	USA	North America	37.0902	-95.7129	Sea Otter	Enhydra lutris	PMID:18155841	054	II	II	II	III		III	III	III	III	III	III	II
+Cs_189_247_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_2	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_3	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_4	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_5	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_6	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_7	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_8	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_9	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_10	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_11	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_12	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_13	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_14	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_15	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_16	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_247_17	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_248_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:7594717	001	II	II	II	II		II	II	II	II	II	II	II
+Cs_189_249_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_249_2	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_249_3	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_249_4	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_249_5	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_249_6	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_249_7	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_249_8	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_250_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_250_2	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_250_3	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_250_4	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_250_5	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_250_6	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_250_7	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_250_8	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_250_9	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_251_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_251_2	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_251_3	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_251_4	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_251_5	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_251_6	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_251_7	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_251_8	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_251_9	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	004	II	II	II	II		II	II	II	II	I	II	I
+Cs_189_252_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_253_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	007	I	III	III	III		III	III	III	III	III	III	I
+Cs_189_254_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_255_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	039	II	II	II	II		II	II	II	II	I	II	II
+Cs_189_255_2	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	039	II	II	II	II		II	II	II	II	I	II	II
+Cs_189_256_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	054	II	II	II	III		III	III	III	III	III	III	II
+Cs_189_257_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	072	I	III	III	III		III	III	III	III	III	u-2	III
+Cs_189_258_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	073	II	III	III	I		I	I	III	III	III	I	I
+Cs_189_258_2	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	073	II	III	III	I		I	I	III	III	III	I	I
+Cs_189_259_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	074	II	III	III	III		II	II	II	III	II	II	I
+Cs_189_260_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	110	I	I	II	III		III	III	u-1	III	I	III	I
+Cs_189_261_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:18191859	131	II	III	III	II		II	I	III	III	II	II	I
+Cs_189_262_1	USA	North America	37.0902	-95.7129	Sheep	Ovis aries	PMID:7594717	133	II	III	III	III		III	I	III	III	III	III	III
+Cs_189_263_1	USA	North America	37.0902	-95.7129	Skunk	Mephitis mephitis	PMID:18314705	003	II	II	II	II		II	II	II	II	II	II	I
+Cs_189_265_1	USA	North America	37.0902	-95.7129	"Skunk, Striped"	Mephitis mephitis	PMID:21802422	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_266_1	USA	North America	37.0902	-95.7129	"Skunk, Striped"	Mephitis mephitis	PMID:21802422	180	I	III	III	I		I	I	II	III	III	I	I
+Cs_189_267_1	USA	North America	37.0902	-95.7129	"Starling, European"	Sturnus vulgaris	PMID:21802422	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_268_1	USA	North America	37.0902	-95.7129	Turkey	Meleagris gallopavo	PMID:7594717	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_269_1	USA	North America	37.0902	-95.7129	Wallaby	Macropus sp.	PMID:21802422	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_269_2	USA	North America	37.0902	-95.7129	Wallaby	Macropus sp.	PMID:21802422	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_269_3	USA	North America	37.0902	-95.7129	Wallaby	Macropus sp.	PMID:21802422	002	II	III	III	III		III	III	III	III	III	III	III
+Cs_189_270_1	USA	North America	37.0902	-95.7129	Wallaby	Macropus sp.	PMID:21802422	186	II	III	III	III		III	I	I	I	III	I	III
+Cs_189_271_1	USA	North America	37.0902	-95.7129	Wolf	Canis lupus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_271_2	USA	North America	37.0902	-95.7129	Wolf	Canis lupus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_271_3	USA	North America	37.0902	-95.7129	Wolf	Canis lupus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_272_1	USA	North America	37.0902	-95.7129	Wolf	Canis lupus	PMID:21802422	005	u-1	II	II	II		II	II	II	II	I	II	I
+Cs_189_273_1	USA	North America	37.0902	-95.7129	Wolf	Canis lupus	PMID:21802422	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_378_1	Venezuela	South America	6.4238	-66.5897	Chicken	Gallus gallus domesticus	PMID:22226702	008	I	III	III	III		III	III	II	III	III	III	III
+Cs_189_395_1	Venezuela	South America	6.4238	-66.5897	Chicken	Gallus gallus domesticus	PMID:22226702	014	I	III	III	III		III	III	III	I	III	III	III
+Cs_189_433_1	Venezuela	South America	6.4238	-66.5897	Chicken	Gallus gallus domesticus	PMID:22226702	048	I	III	III	III		III	III	III	III	III	III	III
+Cs_189_433_2	Venezuela	South America	6.4238	-66.5897	Chicken	Gallus gallus domesticus	PMID:22226702	048	I	III	III	III		III	III	III	III	III	III	III
+Cs_189_433_3	Venezuela	South America	6.4238	-66.5897	Chicken	Gallus gallus domesticus	PMID:22226702	048	I	III	III	III		III	III	III	III	III	III	III
+Cs_189_466_1	Venezuela	South America	6.4238	-66.5897	Chicken	Gallus gallus domesticus	PMID:22226702	116	I	III	III	III		I	III	II	III	III	III	III
+Cs_189_487_1	Venezuela	South America	6.4238	-66.5897	Chicken	Gallus gallus domesticus	PMID:22226702	185	II	II	II	III		III	II	III	III	III	u-2	III
+Cs_189_32_1	Vietnam	Asia	14.0583	108.2772	Dog	Canis lupus familiaris	PMID:17442492	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_32_2	Vietnam	Asia	14.0583	108.2772	Dog	Canis lupus familiaris	PMID:17442492	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_32_3	Vietnam	Asia	14.0583	108.2772	Dog	Canis lupus familiaris	PMID:17442492	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_32_4	Vietnam	Asia	14.0583	108.2772	Dog	Canis lupus familiaris	PMID:17442492	009	u-1	II	II	III		III	II	II	III	II	II	I
+Cs_189_34_1	Vietnam	Asia	14.0583	108.2772	Dog	Canis lupus familiaris	PMID:17442492	018	I	I	I	III		I	III	II	I	III	III	I
+Cs_189_34_2	Vietnam	Asia	14.0583	108.2772	Dog	Canis lupus familiaris	PMID:17442492	018	I	I	I	III		I	III	II	I	III	III	I
+Cs_189_34_3	Vietnam	Asia	14.0583	108.2772	Dog	Canis lupus familiaris	PMID:17442492	018	I	I	I	III		I	III	II	I	III	III	I
+Cs_189_34_4	Vietnam	Asia	14.0583	108.2772	Dog	Canis lupus familiaris	PMID:17442492	018	I	I	I	III		I	III	II	I	III	III	I
+Cs_189_76_1	Yugoslavia	Europe	44.0165	21.0059	Human	Homo sapiens	PMID:7594717	001	II	II	II	II		II	II	II	II	II	II	II

@@ -1,0 +1,22 @@
+variable	label	definition
+Isolate ID	Isolate ID	Isolate or sample identifier
+Country	Country	Country where sample was collected 
+Continent	Continent	Continent where sample was collected 
+Latitude	Latitude	Latitude of country
+Longitude	Longitude	Longitude of country
+Host_Common_Name	Host common name	Common name of host animal
+Host_Species	Host species	Scientific name of host animal
+PMID	PMID of publication	PMID of publication where data was sourced
+ToxoDB_Genotype	ToxoDB genotype	ToxoDB genotype based on RFLP marker patterns
+SAG1	SAG1 locus	SAG1 locus
+5_3_SAG2	5' 3' SAG2 locus	5' 3' SAG2 locus
+alt_SAG2	alt. SAG2 locus	alt. SAG2 locus
+SAG3	SAG3 locus	SAG3 locus
+CS3	CS3 locus	CS3 locus
+BTUB	BTUB locus	BTUB locus
+GRA6	GRA6 locus	GRA6 locus
+c22-8	c22-8 locus	c22-8 locus
+c29-2	c29-2 locus	c29-2 locus
+L358	L358 locus	L358 locus
+PK1	PK1 locus	PK1 locus
+Apico	Apico locus	Apico locus
