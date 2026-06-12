@@ -74,6 +74,16 @@ table#hor-minimalist-a tfoot {
 table#hor-minimalist-a tfoot tr {
   border:0;
 }
+table#hor-minimalist-a td {
+  color: #00; 
+  padding: 0.5em 0.5em 0.5em;
+  vertical-align: middle;
+  border-bottom: 1px solid #ddd;  /* add this */
+}
+table#hor-minimalist-a tr:last-child td {
+  border-bottom: 2px solid #000;
+}
+
 </style>
 
 <h1>dataExplorer Workshops</h1>
