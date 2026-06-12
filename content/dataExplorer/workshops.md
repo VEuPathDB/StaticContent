@@ -95,21 +95,23 @@ table#hor-minimalist-a tfoot tr {
     <th>Link to exercise</th>
   </tr>
   <tr>
-    <td>Toxo seroprevalence</td>
-    <td>Exercise: introduction to dataExplorer</td>
+    <td><a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses/EDAUD_dsI5JFEBF50ks/new/variables/ENT_275a7000/VAR_7389b3b7" target="_blank">Toxo seroprevalence</a></td>
+    <td><a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/Seroprevalence_exercise.pdf' | absolute_url}}">Exercise: intro to dataExplorer</a></td>
   </tr>
   <tr>
-    <td>PCR-RFLP Toxo genotypes</td>
-    <td>Exercise: data harmonization</td>
+    <td><a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses/EDAUD_Y9I5UEJtdp0JU/new/variables/ENT_275a7000/VAR_89f89c02" target="_blank">Sea otters & carnivores</a></td>
+    <td><a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/SeaOtter_carnivore_genotyping_exercise.pdf' | absolute_url}}">Exercise: land sea transmission</a></td>
+  </tr>
+    <td><a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses/EDAUD_EEI5woEgQl0wo/new/variables/ENT_275a7000/VAR_f3aefe5b" target="_blank">Congenital toxoplasmosis</a></td>
+    <td><a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/Congenital_toxo_exercise.pdf' | absolute_url}}">Exercise: public health surveillance</a></td>
   </tr>
   <tr>
-    <td>Sea otters & carnivores</td>
-    <td>Exercise: land sea transmission</td>
+    <td><a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses/EDAUD_1wI55kM500081/new/variables/ENT_275a7000/VAR_7bda6414" target="_blank">PCR-RFLP Toxo genotypes</a></td>
+    <td><a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/PCR_RFLP_genotyping_exercise.pdf' | absolute_url}}">Exercise: data harmonization</a></td>
   </tr>
   <tr>
-    <td>Congenital toxoplasmosis</td>
-    <td>Exercise: public health surveillance</td>
-  </tr>
 </table>
+
+For the PCR-RFLP Toxo genotypes, you will be uploading these files: <a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/RFLP_genotypes_ToxoDB_rel68_plus3.txt' | absolute_url}}">datafile: RFLP_genotypes_ToxoDB_rel68_plus3.txt</a> and <a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/RFLP_genotypes_toxoDB_rel68_plus_3_var_annot.txt' | absolute_url}}">variable attributes file: RFLP_genotypes_toxoDB_rel68_plus_3_var_annot.txt</a>.
 
 </div>  <!-- workshop -->
