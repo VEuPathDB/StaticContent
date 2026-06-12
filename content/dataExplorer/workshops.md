@@ -111,7 +111,11 @@ table#hor-minimalist-a tfoot tr {
     <td><a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/PCR_RFLP_genotyping_exercise.pdf' | absolute_url}}">Exercise: data harmonization</a></td>
   </tr>
 </table>
-
-For the PCR-RFLP Toxo genotypes, you will be uploading these files: <a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/RFLP_genotypes_ToxoDB_rel68_plus3.txt' | absolute_url}}">datafile: RFLP_genotypes_ToxoDB_rel68_plus3.txt</a> and <a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/RFLP_genotypes_toxoDB_rel68_plus_3_var_annot.txt' | absolute_url}}">variable attributes file: RFLP_genotypes_toxoDB_rel68_plus_3_var_annot.txt</a>.
+ <br>
+ <br>
+ <hr>
+For the PCR-RFLP Toxo genotypes, you will be uploading these files: 
+<a download href="{{'/documents/dataExplorer/toxo_workshop/RFLP_genotypes_ToxoDB_rel68_plus3.txt' | absolute_url}}">datafile: RFLP_genotypes_ToxoDB_rel68_plus3.txt</a> 
+and <a download href="{{'/documents/dataExplorer/toxo_workshop/RFLP_genotypes_toxoDB_rel68_plus_3_var_annot.txt' | absolute_url}}">variable attributes file: RFLP_genotypes_toxoDB_rel68_plus_3_var_annot.txt</a>.
 
 </div>  <!-- workshop -->
