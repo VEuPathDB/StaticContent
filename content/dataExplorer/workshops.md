@@ -74,6 +74,16 @@ table#hor-minimalist-a tfoot {
 table#hor-minimalist-a tfoot tr {
   border:0;
 }
+table#hor-minimalist-a td {
+  color: #00; 
+  padding: 0.5em 0.5em 0.5em;
+  vertical-align: middle;
+  border-bottom: 1px solid #ddd;  /* add this */
+}
+table#hor-minimalist-a tr:last-child td {
+  border-bottom: 2px solid #000;
+}
+
 </style>
 
 <h1>dataExplorer Workshops</h1>
@@ -91,24 +101,43 @@ table#hor-minimalist-a tfoot tr {
 
 <table id="hor-minimalist-a">
   <tr>
-    <th>Link to dataset</th>
     <th>Link to exercise</th>
+    <th>Link to dataset</th>
+    <th>Link to additional files</th>
   </tr>
   <tr>
-    <td>Toxo seroprevalence</td>
-    <td>Exercise: introduction to dataExplorer</td>
+    <td><a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/Seroprevalence_exercise.pdf' | absolute_url}}">Exercise: intro to dataExplorer</a></td>
+    <td><a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses/EDAUD_dsI5JFEBF50ks/new/variables/ENT_275a7000/VAR_7389b3b7" target="_blank">Toxo seroprevalence</a></td>
+    <td></td>
   </tr>
   <tr>
-    <td>PCR-RFLP Toxo genotypes</td>
-    <td>Exercise: data harmonization</td>
+    <td><a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/SeaOtter_carnivore_genotyping_exercise.pdf' | absolute_url}}">Exercise: land sea transmission</a></td>
+    <td><a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses/EDAUD_Y9I5UEJtdp0JU/new/variables/ENT_275a7000/VAR_89f89c02" target="_blank">Sea otters &amp; carnivores</a></td>
+    <td></td>
   </tr>
   <tr>
-    <td>Sea otters & carnivores</td>
-    <td>Exercise: land sea transmission</td>
+    <td><a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/Congenital_toxo_exercise.pdf' | absolute_url}}">Exercise: public health surveillance</a></td>
+    <td><a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses/EDAUD_EEI5woEgQl0wo/new/variables/ENT_275a7000/VAR_f3aefe5b" target="_blank">Congenital toxoplasmosis</a></td>
+    <td></td>
   </tr>
   <tr>
-    <td>Congenital toxoplasmosis</td>
-    <td>Exercise: public health surveillance</td>
+    <td><a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/PCR_RFLP_genotyping_exercise.pdf' | absolute_url}}">Exercise: data harmonization</a></td>
+    <td>
+      <strong>PCR-RFLP Toxo genotypes</strong>
+      <ul>
+        <li><a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses/EDAUD_1wI55kM500081/new/variables/ENT_275a7000/VAR_7bda6414" target="_blank">ToxoDB rel. 68 data</a></li>
+        <li><a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses/EDAUD_dFI50INM400w8/new/variables/ENT_275a7000/VAR_89f89c02" target="_blank">RAW additional data</a></li>
+        <li><a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses/EDAUD_hpI5oZNAwl0AY/new/variables/ENT_275a7000/VAR_89f89c02" target="_blank">HARMONIZED additional data</a></li>
+      </ul>
+    </td>
+    <td>
+      <strong>Additional exercise files</strong><br>
+      <em>For Exercise: data harmonization, you will be uploading these files. Right click and save the files to your device and then try uploading them into dataExplorer.</em>
+      <ul>
+        <li>datafile: <a download href="{{'/documents/dataExplorer/toxo_workshop/RFLP_genotypes_ToxoDB_rel68_plus3.txt' | absolute_url}}">RFLP_genotypes_ToxoDB_rel68_plus3.txt</a></li>
+        <li>variable attributes file: <a download href="{{'/documents/dataExplorer/toxo_workshop/RFLP_genotypes_toxoDB_rel68_plus_3_var_annot.txt' | absolute_url}}">RFLP_genotypes_toxoDB_rel68_plus_3_var_annot.txt</a></li>
+      </ul>
+    </td>
   </tr>
 </table>
 
