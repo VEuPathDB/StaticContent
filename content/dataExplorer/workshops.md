@@ -78,10 +78,10 @@ table#hor-minimalist-a td {
   color: #00; 
   padding: 0.5em 0.5em 0.5em;
   vertical-align: middle;
-  border-bottom: 1px solid #ddd;  /* add this */
+  border-bottom: 1px solid #ddd !important;;  /* add this */
 }
 table#hor-minimalist-a tr:last-child td {
-  border-bottom: 2px solid #000;
+  border-bottom: 2px solid #000 !important;;
 }
 
 </style>
@@ -106,7 +106,7 @@ table#hor-minimalist-a tr:last-child td {
     <th>Link to additional files</th>
   </tr>
   <tr>
-    <td style="border-bottom: 1px solid red"><a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/Seroprevalence_exercise.pdf' | absolute_url}}">Exercise: intro to dataExplorer</a></td>
+    <td><a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/Seroprevalence_exercise.pdf' | absolute_url}}">Exercise: intro to dataExplorer</a></td>
     <td><a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses/EDAUD_dsI5JFEBF50ks/new/variables/ENT_275a7000/VAR_7389b3b7" target="_blank">Toxo seroprevalence</a></td>
     <td></td>
   </tr>
