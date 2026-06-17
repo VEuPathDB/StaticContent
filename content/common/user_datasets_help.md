@@ -2,36 +2,11 @@
 permalink: /user_datasets_help
 title: User Data Sets Help
 ---
-<style>
-
-  div.static-content {
-
-    details {
-      margin-top: 2em;
-    }
-    summary {
-      cursor: pointer;
-    }
-    details summary > * {
-      display: inline;
-    }
-    details li {
-      margin: 0.5em 0;
-    }
-    details p {
-      margin: 0 0.5em;
-    }
-  }
-
-  div.user-dataset-help img {
-    width: 75%;
-    margin-bottom: 20px;
-  }
-
-</style>
 
 
 <div class="static-content user-dataset-help">
+
+<!-- =============================== -->
 <style>
 
   div.static-content {
@@ -59,6 +34,9 @@ title: User Data Sets Help
   }
 
 </style>
+<!-- =============================== -->
+
+
   <details closed>
     <summary><h4>My Data Sets workspace</h4></summary>
     <ul>
