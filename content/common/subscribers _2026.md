@@ -116,6 +116,7 @@ h1, h2 {
     <div>Absalon group, Indiana Univ US</div>
     <div>Adams group, Univ South Florida US</div>
     <div>Adelman group, Texas A&M Univ US</div>
+    <div>Aguirre group, National Autonomous Univ of Mexico MX</div>
     <div>Akiyoshi group, Univ Edinburgh UK</div>
     <div>Alday group, Oregon Health & Science Univ US</div>
     <div>Alfonso-Parra group, CES Univ CO</div>
@@ -136,8 +137,10 @@ h1, h2 {
     <div>Barrett group, Univ Glasgow UK</div>
     <div>Bartholomeu group, Federal Univ of Minas Gerais BR</div>
     <div>Bartfai group, Radboud Univ NL</div>
+    <div>Baptista group, Oswaldo Cruz Foundation (Fiocruz) BR</div>
     <div>Bastin group, Institut Pasteur FR</div>
     <div>Baum group, Univ New South Wales AU</div>
+    <div>Beck group, Iowa State Univ US</div>
     <div>Bei group, Yale Univ</div>
     <div>Bell-Pedersen group, Texas A&M Univ US</div>
     <div>Benz group, Technical Univ Munich DE</div>
@@ -147,6 +150,7 @@ h1, h2 {
     <div>Biotech-advisor.com US</div>
     <div>Blair group, Earlham College US</div>
     <div>Blake group, Fort Lewis College US</div>
+    <div>Blandin group (Mosquito Immune Responses / IBMC) Univ Strasbourg FR</div>
     <div>Blatch group, Univ of Notre Dame Australia AU</div>
     <div>Bonhivers group, CNRS/Univ Bordeaux FR</div>
     <div>Boshart group, LMU Munich DE</div>
@@ -187,9 +191,11 @@ h1, h2 {
     <div>de Koning-Ward group, Deakin Univ AU</div>
     <div>de Miguel group, Chascomús Technol Inst (INTECH) AR</div>
     <div>Denny group, Durham Univ UK</div>
+    <div>De Rycker group, Univ Dundee UK</div>
     <div>Dewar group, Lancaster Univ UK</div>
     <div>Diallinas group, National and Kapodistrian Univ Athens GR</div>
     <div>Diane McMahon-Pratt, US</div>
+    <div>Djamei group, Univ of Bonn DE</div>
     <div>Echeverry group, National Univ of Colombia INRS CO</div>
     <div>Egan group, Stanford Univ US</div>
     <div>Elias group, Butantan Institute BR</div>
@@ -207,6 +213,7 @@ h1, h2 {
     <div>Francia group, Inst Pasteur Montevideo UY</div>
     <div>Free group, Univ Buffalo US</div>
     <div>Freitag group, Oregon State US</div>
+    <div>Galizi group, Keele Univ GB</div>
     <div>Ghosh group, Maulana Azad College IN</div>
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
     <div>Gissot group, Institut Pasteur de Lille FR</div>
@@ -281,6 +288,7 @@ h1, h2 {
     <div>Landfear group, Oregon Health & Science Univ US</div>
     <div>Lane group, Idaho State Univ US</div>
     <div>Lavazec group, Inst Cochin FR</div>
+    <div>Lebedinec group, Mushroomplus UK</div>
     <div>Lebrun group, Univ Montpellier FR</div>
     <div>León Avila group, National School of Biological Sciences MX</div>
     <div>Leger-Abraham group, Harvard Medical School US</div>
@@ -403,6 +411,7 @@ h1, h2 {
     <div>Spaeth group, Institut Pasteur FR</div>
     <div>Stajich group, Univ California Riverside US</div>
     <div>Striepen group, Univ Pennsylvania US</div>
+    <div>Striker group, Univ of Wisconsin-Madison US</div>
     <div>Sullivan group, Indiana Univ US</div>
     <div>Sun group, Univ of Pittsburgh US</div>
     <div>Sundararaman group, CHOP/Univ Pennsylvania US</div>
@@ -429,6 +438,7 @@ h1, h2 {
     <div>Wang group, Yale Univ US</div>
     <div>Ward group, Univ Vermont US</div>
     <div>Waters group, Glasgow Univ UK</div>
+    <div>Wawiórka group, Maria Curie-Sklodowska Univ PL</div>
     <div>Weiss group, Albert Einstein College of Medicine US</div>
     <div>Welch group, Univ of California, Berkeley US</div>
     <div>Weng group, National Taiwan Univ TW</div>
@@ -474,6 +484,7 @@ h1, h2 {
    <div>TMRC India- CMC Vellore and IIPH Shillong</div>
    <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
    <div>Univ of Sevilla ES- Corrochano and Canovas groups</div>
+   <div>Univ Montpellier FR – Claessens, Cerdan, Gomes & Hollin groups</div>
    <div>Viruses and RNA Interference Unit, Institut Pasteur FR- Koh & Saleh groups</div>
   </div>
 </div>
