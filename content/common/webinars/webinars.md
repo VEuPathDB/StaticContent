@@ -109,18 +109,19 @@ tags: [general]
           </tr>
         </thead>
         <tbody>         
-         <tr>
-           <td><b>User Data Upload in VEuPathDB</b> (13 May 2026)<br>
-           <b>Webinar goals:</b> This webinar showcased a new feature that allows you to privately upload your own data — including phenotype data and gene lists — into VEuPathDB resources and connect it with our curated datasets.<br>
+			<tr>
+           	<td><b>User Data Upload in VEuPathDB</b> (13 May 2026)<br>
+           	<b>Webinar goals:</b> This webinar showcased a new feature that allows you to privately upload your own data — including phenotype data and gene lists — into VEuPathDB resources and connect it with our curated datasets.<br>
 
-The webinar will demonstrate how to:<br>
-<ul>
-<li>Upload your own data into VEuPathDB while keeping it private to your account</li>
-<li>Work with gene lists, phenotype data, and other data types</li>
-<li>Query your data alongside curated datasets to uncover new insights</li>
-</ul><br></td>
-           <td><br><iframe width="280" height="157" vertical-align="top" src="href="https://youtu.be/-H1I3fEmtIA?si=KQ1r-1l-MOE1tIfC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
-          </tr>  <tr>
+			The webinar will demonstrate how to:<br>
+			<ul>
+			<li>Upload your own data into VEuPathDB while keeping it private to your account</li>
+			<li>Work with gene lists, phenotype data, and other data types</li>
+			<li>Query your data alongside curated datasets to uncover new insights</li>
+			</ul><br></td>
+           	<td><br><iframe width="280" height="157" vertical-align="top" src="href="https://www.youtube.com/embed/-H1I3fEmtIA?si=9RHjsrA-zJTrEccW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+          	</tr> 
+         <tr>
            <td><b>OrthoMCL-7 New Features & Functionality</b> (May 6, 2025)<br>
            <b>Webinar goals:</b> This webinar features a live demonstration of the exciting new tools and features in the newly released OrthoMCL-7 platform, VEuPathDB's data resource for ortholog groups of protein sequences. Learn how to gain insights from phylogenetic trees, how to use specialized searches to mine orthology resources, find orthologs between two species, and find orthologs for your list of proteins. <br></td>
            <td><br><iframe width="280" height="157" vertical-align="top" src="https://www.youtube.com/embed/htZqbbIlBjU?si=bCPy6YFx9tfnmvoa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
