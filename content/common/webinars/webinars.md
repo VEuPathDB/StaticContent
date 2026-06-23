@@ -52,6 +52,9 @@ tags: [general]
   <details open>
     <summary><h3>Community Meetings</h3></summary>
     <ul>
+      <li><b>FungiDB Community Meeting</b> (26 March 2026): <a href="https://youtu.be/kLegKYFAXoc?si=J9hoYHXbArtHkRtH" target="_blank">https://youtu.be/kLegKYFAXoc?si=J9hoYHXbArtHkRtH</a></li>
+      <li><b>VectorBase Community Meeting</b> (27 March 2026): <a href="https://youtu.be/akoUnebizss?si=_DIELkcD9gqCUerY" target="_blank">https://youtu.be/akoUnebizss?si=_DIELkcD9gqCUerY</a></li>
+      <li><b>Protists Community Meeting</b> (31 March 2026): <a href="https://youtu.be/6--PUeawxfk?si=Y02sUC0vqyoWg0p_" target="_blank">https://youtu.be/6--PUeawxfk?si=Y02sUC0vqyoWg0p_</a></li>
       <li><b>Parasitology Community Meeting</b> (19 November 2024): <a href="https://www.youtube.com/watch?v=aSS6fiGVBG4" target="_blank">https://www.youtube.com/watch?v=aSS6fiGVBG4</a></li>
       <li><b>FungiDB Community Meeting</b> (12 November 2024): <a href="https://youtu.be/Jnmhvj5H4MA?si=Y9qDPmtumBokhGYq" target="_blank">https://youtu.be/Jnmhvj5H4MA?si=Y9qDPmtumBokhGYq</a></li>
       <li><b>VectorBase Community Meeting</b> (4 November 2024): <a href="https://www.youtube.com/watch?v=9BW93PQBxH8" target="_blank">https://www.youtube.com/watch?v=9BW93PQBxH8</a></li>
@@ -67,7 +70,8 @@ tags: [general]
 
 <br>
     <ul>
-      <li><b>Release 68 Webinar</b> (10 July 2024): <a href="https://youtu.be/fOfCN-u4CFI" target="_blank">https://youtu.be/fOfCN-u4CFI</a></li>
+      <li><b>User Data Upload in VEuPathDB</b> (13 May 2026): <a href="https://youtu.be/-H1I3fEmtIA?si=KQ1r-1l-MOE1tIfC" target="_blank">https://youtu.be/-H1I3fEmtIA?si=KQ1r-1l-MOE1tIfC</a></li>
+      <i><b>Release 68 Webinar</b> (10 July 2024): <a href="https://youtu.be/fOfCN-u4CFI" target="_blank">https://youtu.be/fOfCN-u4CFI</a></li>
       <li><b>Release 67 Webinar</b> (Feb 29, 2024): <a href="https://youtu.be/5TLm5jU8bTM" target="_blank">https://youtu.be/5TLm5jU8bTM</a></li>
       <li><b>Release 66 Webinar</b> (Dec 14, 2023): <a href="https://youtu.be/jdpRcYuQQUo?si=MmpjOVQIufZpxZiD" target="_blank">https://youtu.be/jdpRcYuQQUo?si=MmpjOVQIufZpxZiD</a></li>
       <li><b>Release 65 Webinar</b> (Sep 21, 2023): <a href="https://youtu.be/9r4TrxzerIg" target="_blank">https://youtu.be/9r4TrxzerIg</a></li>
