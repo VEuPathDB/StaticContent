@@ -119,7 +119,7 @@ tags: [general]
 			<li>Work with gene lists, phenotype data, and other data types</li>
 			<li>Query your data alongside curated datasets to uncover new insights</li>
 			</ul><br></td>
-           	<td><br><iframe width="280" height="157" vertical-align="top" src="href="https://www.youtube.com/embed/-H1I3fEmtIA?si=9RHjsrA-zJTrEccW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>
+           	<td><br><<iframe width="280" height="157" src="https://www.youtube.com/embed/-H1I3fEmtIA?si=9RHjsrA-zJTrEccW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></td>
           	</tr> 
          <tr>
            <td><b>OrthoMCL-7 New Features & Functionality</b> (May 6, 2025)<br>
