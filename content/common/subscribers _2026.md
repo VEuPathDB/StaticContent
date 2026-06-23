@@ -129,6 +129,7 @@ h1, h2 {
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
     <div>Arthropod Sensory Biology group, Baylor Univ US</div>
     <div>Asgari group, Univ Queensland AU</div>
+    <div>Athrey group, Texas A&M Univ, US</div>
     <div>Azuara group, Autonomous Univ of Mexico City MX</div>
     <div>Bakari-Soale group, Univ Nottingham UK</div>
     <div>Balbino group, Federal Univ Pernambuco BR</div>
@@ -196,6 +197,7 @@ h1, h2 {
     <div>Diallinas group, National and Kapodistrian Univ Athens GR</div>
     <div>Diane McMahon-Pratt, US</div>
     <div>Djamei group, Univ of Bonn DE</div>
+    <div>Dunlap group, Dartmouth College US</div>
     <div>Echeverry group, National Univ of Colombia INRS CO</div>
     <div>Egan group, Stanford Univ US</div>
     <div>Elias group, Butantan Institute BR</div>
@@ -323,6 +325,7 @@ h1, h2 {
     <div>Mineo group, Federal Univ Uberlândia BR</div>
     <div>Mita group, Juntendo University JP</div>
     <div>Mok group, Columbia Univ US</div>
+    <div>Mordue group, New York Medical College US</div>
     <div>Morrissette group, Univ California Irvine US</div>
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
     <div>Mottram lab, Univ York UK</div>
