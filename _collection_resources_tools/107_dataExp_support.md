@@ -35,8 +35,11 @@ p.indent {
 <br>
 
 <p>
- <div class="button">
-  <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html">Subscribe Now</a>
+<div style="display: block; text-align: center; margin-top: 5px;">
+  <a href="https://veupathdb.org/veupathdb/app/static-content/subscriptions.html" 
+     style="background-color: #0F5970; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px; display: inline-block;">
+    Subscribe Now
+  </a>
 </div>
  </p>
 
@@ -59,8 +62,11 @@ p.indent {
 <p>Please consider making a donation to help keep these vital data resources open and accessible to all. Visit <a href="https://veupathdb.org/veupathdb/app/static-content/why-support.html">this page</a> to learn why your support matters, and to read what users are saying about VEuPathDB!<b> 
 <br>
 
- <div class="button">
-  <a href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878">Donate Now</a>
+<div style="display: block; text-align: center; margin-top: 5px;">
+  <a href="https://giving.apps.upenn.edu/fund?program=SAS&fund=605878" 
+     style="background-color: #0F5970; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px; display: inline-block;">
+    Donate Now
+  </a>
 </div>
 
 

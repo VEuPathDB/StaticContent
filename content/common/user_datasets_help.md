@@ -2,6 +2,11 @@
 permalink: /user_datasets_help
 title: User Data Sets Help
 ---
+
+
+<div class="static-content user-dataset-help">
+
+<!-- =============================== -->
 <style>
 
   div.static-content {
@@ -29,9 +34,8 @@ title: User Data Sets Help
   }
 
 </style>
+<!-- =============================== -->
 
-
-<div class="static-content user-dataset-help">
 
   <details closed>
     <summary><h4>My Data Sets workspace</h4></summary>

@@ -52,6 +52,9 @@ tags: [general]
   <details open>
     <summary><h3>Community Meetings</h3></summary>
     <ul>
+      <li><b>FungiDB Community Meeting</b> (26 March 2026): <a href="https://youtu.be/kLegKYFAXoc?si=J9hoYHXbArtHkRtH" target="_blank">https://youtu.be/kLegKYFAXoc?si=J9hoYHXbArtHkRtH</a></li>
+      <li><b>VectorBase Community Meeting</b> (27 March 2026): <a href="https://youtu.be/akoUnebizss?si=_DIELkcD9gqCUerY" target="_blank">https://youtu.be/akoUnebizss?si=_DIELkcD9gqCUerY</a></li>
+      <li><b>Protists Community Meeting</b> (31 March 2026): <a href="https://youtu.be/6--PUeawxfk?si=Y02sUC0vqyoWg0p_" target="_blank">https://youtu.be/6--PUeawxfk?si=Y02sUC0vqyoWg0p_</a></li>
       <li><b>Parasitology Community Meeting</b> (19 November 2024): <a href="https://www.youtube.com/watch?v=aSS6fiGVBG4" target="_blank">https://www.youtube.com/watch?v=aSS6fiGVBG4</a></li>
       <li><b>FungiDB Community Meeting</b> (12 November 2024): <a href="https://youtu.be/Jnmhvj5H4MA?si=Y9qDPmtumBokhGYq" target="_blank">https://youtu.be/Jnmhvj5H4MA?si=Y9qDPmtumBokhGYq</a></li>
       <li><b>VectorBase Community Meeting</b> (4 November 2024): <a href="https://www.youtube.com/watch?v=9BW93PQBxH8" target="_blank">https://www.youtube.com/watch?v=9BW93PQBxH8</a></li>
@@ -105,8 +108,14 @@ tags: [general]
             <th class="recording">Recording</th>
           </tr>
         </thead>
-        <tbody>         
-          <tr>
+        <tbody>
+        <tr>
+           	<td><b>User Data Upload in VEuPathDB</b> (13 May 2026)<br>
+           	<b>Webinar goals:</b> This webinar showcased a new feature that allows you to privately upload your own data — including phenotype data and gene lists — into VEuPathDB resources and connect it with our curated datasets.
+        </td>
+           	<td><br><iframe width="280" height="157" src="https://www.youtube.com/embed/-H1I3fEmtIA?si=9RHjsrA-zJTrEccW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></td>
+          	</tr>          
+        <tr>
            <td><b>OrthoMCL-7 New Features & Functionality</b> (May 6, 2025)<br>
            <b>Webinar goals:</b> This webinar features a live demonstration of the exciting new tools and features in the newly released OrthoMCL-7 platform, VEuPathDB's data resource for ortholog groups of protein sequences. Learn how to gain insights from phylogenetic trees, how to use specialized searches to mine orthology resources, find orthologs between two species, and find orthologs for your list of proteins. <br></td>
            <td><br><iframe width="280" height="157" vertical-align="top" src="https://www.youtube.com/embed/htZqbbIlBjU?si=bCPy6YFx9tfnmvoa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></td>

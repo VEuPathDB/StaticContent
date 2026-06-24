@@ -1,0 +1,56 @@
+--- # dataexplorer faq page
+- type: general
+  question: "What is FAIR data, and how does dataExplorer help make my data FAIR?"
+  answer: |
+           FAIR (Findable, Accessible, Interoperable, and Reusable) data adhere to a set of widely adopted principles that ensure datasets can be easily discovered, understood, and used by others (and by you in the future). For more information, see: https://rdcu.be/fbgiu
+           - <b>Findable</b>: Data are described with rich metadata and indexed so they can be discovered through searches
+           - <b>Accessible</b>: Data can be retrieved using clear access conditions (e.g., open, controlled, or permission-based).
+           - <b>Interoperable</b>: Data use standardized formats, consistent variable descriptions, and (where possible) shared vocabularies to support integration with other datasets.
+           -<b>Reusable</b>: Data include sufficient documentation and context (e.g., definitions, methods, provenance) to enable appropriate reuse.
+           
+           dataExplorer is designed to help you make your datasets FAIR with minimal overhead:
+           - <b>Findable</b>: Your dataset becomes searchable by dataset name, identifier, description, variables, and value labels, making it easier for others to discover relevant data.
+           - <b>Accessible</b>: You control when to grant Community Access to your dataset, which makes it open access. Once shared as a Community-Contributed Dataset, it can be discovered, explored, and downloaded by other users. Private and Individual Access levels support collaboration and early-stage data sharing. However, to be fully FAIR, datasets should be broadly discoverable and accessible.
+           - <b>Interoperable</b>: Community-Contributed datasets require you to provide variable annotations, ensuring each variable has a clear label and definition. This improves consistency and lays the foundation for future harmonization across datasets.
+           - <b>Reusable</b>: Dataset-level metadata provide essential context and establish provenance, while built-in exploratory tools allow users to assess variable coverage, data completeness, and distributions before downloading, supporting appropriate interpretation and reuse.
+           
+           By combining structured metadata, clear documentation, flexible sharing infrastructure, and interactive exploration tools, dataExplorer helps transform your dataset from a static file into a well-documented, discoverable, and reusable research resource, while you retain full control over when it is shared.
+
+  uid: g2
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: general
+  question: "Do I need programming experience to use dataExplorer?"
+  answer: |
+           No! VEuPathDB has more than 20 years of experience developing intuitive interfaces that make complex data explorations accessible through simple point-and-click tools.
+  uid: g3
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: general
+  question: "Do I need a VEuPathDB account to upload or explore datasets?"
+  answer: |
+           Yes. A free VEuPathDB account is required to upload a dataset, access datasets privately shared with you, explore data in the analysis workspace, or save analyses.
+           
+           To create an account:
+           - Hover over the Guest icon in the upper-right corner of the page and click Register.
+           - Complete the registration form and click Register.
+           - A confirmation message will appear indicating that registration was successful.
+           - Check your email to retrieve your temporary password.
+           
+           You only need one account for all VEuPathDB websites. If you already have an account for another VEuPathDB resource, such as ClinEpiDB, PlasmoDB, or MicrobiomeDB, you can use the same credentials to log in to dataExplorer and other VEuPathDB sites.
+  uid: g4
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: general
+  question: "How can I change the password associated with my VEuPathDB account?"
+  answer: |
+           To change your password:
+           - Log in to your account.
+           - Hover over the account icon in the upper-right corner of the page (labeled Guest before login and your username after login) and click My Account.
+           - In the left panel, click Security.
+           - Click Change your password and follow the instructions.
+  uid: g5
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: uploading datasets 
+  question: "What types of datasets can I upload to dataExplorer?"
+  answer: |
+           dataExplorer supports any dataset that can be represented as a flat file (i.e., a single data table), regardless of whether the data comes from the life sciences, environmental studies, business analytics, or any other field. 
+  uid: g6
+  projects: "ClinEpiDB,AllClinEpiDB"
