@@ -38,8 +38,11 @@ p.indent {
 <br>
 
 <p>
- <div class="button">
-  <a href="https://beta.dataexplorer.org/dexp.beta/app/search/dataset/Studies/result">Select a dataset to explore</a>
+<div style="display: block; text-align: center; margin-top: 5px;">
+  <a href="https://beta.dataexplorer.org/dexp.beta/app/search/dataset/Studies/result" 
+     style="background-color: #0F5970; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px; display: inline-block;">
+    Select a dataset to explore
+  </a>
 </div>
  </p>
 <br>

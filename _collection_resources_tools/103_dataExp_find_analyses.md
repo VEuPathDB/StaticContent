@@ -33,8 +33,11 @@ p.indent {
 <br>
 
 <p>
- <div class="button">
-  <a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses">My analyses</a>
+<div style="display: block; text-align: center; margin-top: 5px;">
+  <a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses" 
+     style="background-color: #0F5970; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px; display: inline-block;">
+    My analyses
+  </a>
 </div>
  </p>
 <br>
@@ -45,8 +48,11 @@ p.indent {
  <br>
 
 <p>
- <div class="button">
-  <a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses/public">Public analyses</a>
+<div style="display: block; text-align: center; margin-top: 5px;">
+  <a href="https://beta.dataexplorer.org/dexp.beta/app/workspace/analyses/public" 
+     style="background-color: #0F5970; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px; display: inline-block;">
+    Public analyses
+  </a>
 </div>
  </p>
 <br>
