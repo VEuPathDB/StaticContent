@@ -35,7 +35,7 @@ p.indent {
 <p><b>To identify datasets of interest for deeper exploration:</b></p>
 <ul>
   <li>
-  Enter relevant keywords in the header search bar <i>(coming soon!)</i>, or
+  Enter relevant keywords in the header search bar, or
     </li>
   <li>
   Review key dataset metadata in the <b><em>Dataset Summaries</em></b> table
