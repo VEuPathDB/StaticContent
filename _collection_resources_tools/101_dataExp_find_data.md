@@ -44,7 +44,7 @@ p.indent {
 <br>
 <p>
  <div style="display: block; text-align: center; margin-top: 5px;">
-  <a href="/app/search/userdataset/AllUserDatasets/result" 
+  <a href="/a/app/search/userdataset/AllUserDatasets/result" 
      style="background-color: #0F5970; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px; display: inline-block;">
     Review Dataset Summaries
   </a>
