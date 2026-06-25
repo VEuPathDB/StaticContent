@@ -6,7 +6,9 @@ tags: [general]
 ---
 
 <div id="ce-static-content">
+
   <h2 id="what-is-it">What is it?</h2>
+
     <div>
       <p><b>dataExplorer is an open-access platform for discovering, exploring, and sharing structured datasets.</b></p>
       <p>Researchers can upload, organize, explore, and share their own datasets and analyses within a single, FAIR-aligned platform. Each dataset can be explored via an interactive data dictionary and point-and-click visualization tools. This enables data users to rapidly survey the dataset’s variable content, assess data completeness, and explore patterns, maximizing the value of both their own data and data shared by others.</p>
