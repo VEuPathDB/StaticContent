@@ -187,8 +187,10 @@ h1, h2 {
     <div>Damasio group / LEBIMO, State Univ Campinas BR</div>
     <div>Danae Schulz, Harvey Mudd College US</div>
     <div>Da Rocha group, Federal Univ of Paraná BR</div>
+    <div>Dave Anderson, Independent researcher US</div>
     <div>Davis group, Univ of Nebraska at Omaha US</div>
     <div>de Graffenried group, Brown Univ US</div>
+    <div>Deitsch group, Weill Cornell Medicine US</div>
     <div>de Koning-Ward group, Deakin Univ AU</div>
     <div>de Miguel group, Chascomús Technol Inst (INTECH) AR</div>
     <div>Denny group, Durham Univ UK</div>
@@ -334,6 +336,7 @@ h1, h2 {
     <div>Munro group, Univ of Aberdeen GB</div>
     <div>Muralidharan group, Univ Georgia US</div>
     <div>Myles group, Texas A&M Univ US</div>
+    <div>Nakagama group, Osaka Metropolitan Univ JP</div>
     <div>Nakanishi group, Matsuyama Univ JP</div>
     <div>Nanda group, Rutgers Univ US</div>
     <div>Natl Inst Health Security (JIHS) JP</div>
@@ -454,6 +457,7 @@ h1, h2 {
     <div>Wunderlich group, Univ de São Paulo BR</div>
     <div>Xiao lab, South China Agricultural Univ CN</div>
     <div>Xu group, New Mexico State Univ US</div>
+    <div>Yamagishi group, Hokkaido Univ JP</div>
     <div>Yapa group, Univ of Southern Queensland AU</div>
     <div>Yarden group, Hebrew Univ IL</div>
     <div>Yee group, Trent Univ CA</div>
