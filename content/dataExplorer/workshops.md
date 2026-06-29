@@ -91,10 +91,10 @@ table#hor-minimalist-a tr:last-child td {
 <div class="static-content">
 
 <div class="workshop">
-    <h3>CMC Vellore Data Sharing + Exploration Mini Workshop</h3>
+    <h3>CMC Vellore Mini Workshop</h3>
     <p>
       <b>Date:</b> July 1, 2026<br>
-      <b>Location:</b>Vellore, Tamil Nadu, India<br>
+      <b>Location:</b> Vellore, Tamil Nadu, India<br>
  <br>
     </p>
 
@@ -105,26 +105,26 @@ table#hor-minimalist-a tr:last-child td {
     <th>Link to additional files</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="{{'/documents/dataExplorer/vellore_workshop/ClinEpiDB_GEMS1_exercise.pdf' | absolute_url}}">Exercise: GEMS1 exploration on ClinEpiDB</a></td>
+    <td><a target="_blank" href="{{'/documents/dataExplorer/vellore_workshop/ClinEpiDB_GEMS1_exercise.pdf' | absolute_url}}">Exercise 1: GEMS1 exploration on ClinEpiDB</a></td>
     <td><a href="https://clinepidb.org/ce/app/workspace/analyses/DS_841a9f5259/new/variables/PCO_0000024/ENVO_00000009" target="_blank">GEMS1 Case Control Study</a></td>
     <td></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/PCR_RFLP_genotyping_exercise.pdf' | absolute_url}}">Exercise: Uploading data on dataExplorer</a></td>
+    <td><a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/PCR_RFLP_genotyping_exercise.pdf' | absolute_url}}">Exercise 2: Uploading data on dataExplorer</a></td>
     <td>
-      <em>Download this sample dataset to try the upload feature:</em>
+      <em>Download this sample dataset:</em>
       <ul>
-        <li>data file: <a download href="{{'/documents/dataExplorer/toxo_workshop/RFLP_genotypes_ToxoDB_rel68_plus3.txt' | absolute_url}}">RFLP_genotypes_ToxoDB_rel68_plus3.txt</a></li>
+        <li><a download href="{{'/documents/dataExplorer/vellore_workshop/datafile_washb_bangla_sth_workshop.csv' | absolute_url}}">datafile_washb_bangla_sth_workshop.csv</a></li>
       </ul>
     </td>
     <td>
       <em>Download this codebook and use the information therein to make a variable attributes file:</em>
       <ul>
-        <li>codebook: <a download href="{{'/documents/dataExplorer/toxo_workshop/RFLP_genotypes_ToxoDB_rel68_plus3.txt' | absolute_url}}">RFLP_genotypes_ToxoDB_rel68_plus3.txt</a></li>
+        <li><a download href="{{'/documents/dataExplorer/vellore_workshop/codebook-washb-bangladesh-sth-workshop.txt' | absolute_url}}">codebook-washb-bangladesh-sth-workshop.txt</a></li>
       </ul>
-      <em>If you run out of time to make the variable attributes file, download this readymade file and use it.</em>
+      <em>If you run out of time, download this readymade variable attributes file and use it:</em>
       <ul>
-        <li>variable attributes file: <a download href="{{'/documents/dataExplorer/toxo_workshop/RFLP_genotypes_ToxoDB_rel68_plus3.txt' | absolute_url}}">RFLP_genotypes_ToxoDB_rel68_plus3.txt</a></li>
+        <li><a download href="{{'/documents/dataExplorer/vellore_workshop/var_attrs_washb_bangladesh_sth.csv' | absolute_url}}">var_attrs_washb_bangladesh_sth.csv</a></li>
       </ul>
     </td>
   </tr>
