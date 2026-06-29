@@ -78,10 +78,10 @@ table#hor-minimalist-a td {
   color: #00; 
   padding: 0.5em 0.5em 0.5em;
   vertical-align: middle;
-  border-bottom: 1px solid #ddd;  /* add this */
+  border-bottom: 1px solid #ddd !important;;  /* add this */
 }
 table#hor-minimalist-a tr:last-child td {
-  border-bottom: 2px solid #000;
+  border-bottom: 2px solid #000 !important;;
 }
 
 </style>
@@ -89,6 +89,48 @@ table#hor-minimalist-a tr:last-child td {
 <h1>dataExplorer Workshops</h1>
 
 <div class="static-content">
+
+<div class="workshop">
+    <h3>CMC Vellore Mini Workshop</h3>
+    <p>
+      <b>Date:</b> July 1, 2026<br>
+      <b>Location:</b> Vellore, Tamil Nadu, India<br>
+ <br>
+    </p>
+
+<table id="hor-minimalist-a">
+  <tr>
+    <th>Link to exercise</th>
+    <th>Link to dataset</th>
+    <th>Link to additional files</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="{{'/documents/dataExplorer/vellore_workshop/ClinEpiDB_GEMS1_exercise.pdf' | absolute_url}}">Exercise 1: GEMS1 exploration on ClinEpiDB</a></td>
+    <td><a href="https://clinepidb.org/ce/app/workspace/analyses/DS_841a9f5259/new/variables/PCO_0000024/ENVO_00000009" target="_blank">GEMS1 Case Control Study</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Exercise 2: Uploading data on dataExplorer</td>
+    <td>
+      <em>Download this sample dataset:</em>
+      <ul>
+        <li><a download href="{{'/documents/dataExplorer/vellore_workshop/datafile_washb_bangla_sth_workshop.csv' | absolute_url}}">datafile_washb_bangla_sth_workshop.csv</a></li>
+      </ul>
+    </td>
+    <td>
+      <em>Download this codebook and use the information therein to make a variable attributes file:</em>
+      <ul>
+        <li><a download href="{{'/documents/dataExplorer/vellore_workshop/codebook-washb-bangladesh-sth-workshop.txt' | absolute_url}}">codebook-washb-bangladesh-sth-workshop.txt</a></li>
+      </ul>
+      <em>If you run out of time, download this readymade variable attributes file and use it:</em>
+      <ul>
+        <li><a download href="{{'/documents/dataExplorer/vellore_workshop/var_attrs_washb_bangladesh_sth.csv' | absolute_url}}">var_attrs_washb_bangladesh_sth.csv</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>  <!-- workshop -->
 
 <div class="workshop">
     <h3>Accelnet Toxo Data Harmonization Session</h3>
