@@ -1,0 +1,182 @@
+WASHB Bangladesh STH Workshop Dataset — Codebook
+Source: WASH Benefits Bangladesh trial (washb-bang-sth-public.csv) from https://osf.io/ks28a/overview. Data available on this page includes the analysis dataset used to produce figures and tables in Ercumen et al. PLOS NTDs 2019. 
+Subset: 25 variables selected for workshop use
+Observations: 10,011 (7,187 with STH outcome data; 2,824 lost to follow-up / no stool)
+------------------------------------------------------------------------------------------------------------------
+
+SECTION 1: RANDOMIZATION VARIABLES
+------------------------------------------------------------------------------------------------------------------
+
+dataid          Compound ID
+                type: numeric
+                unique values: 5,190
+
+clusterid       Cluster ID (720 clusters)
+                type: numeric
+                unique values: 720
+
+block           Randomization block (90 blocks, each containing all 7 treatment arms)
+                type: numeric
+                range: 1–90
+
+tr              Randomized treatment assignment
+                type: string (label)
+                values:
+                  Control         (n=2,518)
+                  Water           (n=1,245)  — safe water supply (chlorinated)
+                  Sanitation      (n=1,232)  — improved latrines + child feces mgmt
+                  Handwashing     (n=1,237)  — handwashing stations + soap
+                  WSH             (n=1,276)  — Water + Sanitation + Handwashing combined
+                  Nutrition       (n=1,253)  — lipid-based nutrient supplement + counseling
+                  Nutrition + WSH (n=1,250)  — combined nutrition and WSH
+
+------------------------------------------------------------------------------------------------------------------
+
+SECTION 2: DEMOGRAPHICS
+------------------------------------------------------------------------------------------------------------------
+
+sex             Sex
+                type: string (label)
+                values: female, male
+                missing: 2,824 (children without STH outcome)
+
+agey            Age of child, years
+                type: numeric (continuous)
+                range: 1.84–12.0
+                mean: 4.77
+                missing: 2,824
+
+momage          Mother's age, years
+                type: numeric (continuous)
+                range: 14–60
+                mean: 23.95
+                missing: 36
+
+momedu          Mother's education (category)
+                type: string (label)
+                values:
+                  No education     (n=1,611)
+                  Primary (1-5y)   (n=3,205)
+                  Secondary (>5y)  (n=5,195)
+
+wealth          Household wealth index (2 quantiles of asset score)
+                type: numeric
+                values: 1 = lower wealth (n=5,095), 2 = higher wealth (n=4,916)
+
+------------------------------------------------------------------------------------------------------------------
+
+SECTION 3: STH OUTCOMES
+(Missing for 2,824 children without stool sample)
+------------------------------------------------------------------------------------------------------------------
+
+sth             Any soil-transmitted helminth infection (Ascaris, Trichuris, or hookworm)
+                type: numeric (binary)
+                values: 0 = uninfected, 1 = infected
+                prevalence: 42.4%
+
+al              Any Ascaris lumbricoides eggs detected (Kato-Katz)
+                type: numeric (binary)
+                values: 0 = negative, 1 = positive
+                prevalence: 36.7%
+
+tt              Any Trichuris trichiura eggs detected (Kato-Katz)
+                type: numeric (binary)
+                values: 0 = negative, 1 = positive
+                prevalence: 7.0%
+
+hw              Any hookworm eggs detected (Kato-Katz)
+                type: numeric (binary)
+                values: 0 = negative, 1 = positive
+                prevalence: 7.7%
+
+alepg           Ascaris eggs per gram of stool (Kato-Katz, arithmetic)
+                type: numeric (continuous)
+                range: 0–281,844
+                mean: 1,159  (highly right-skewed; most values = 0)
+
+hwepg           Hookworm eggs per gram of stool
+                type: numeric (continuous)
+                range: 0–10,896
+                mean: 22.0
+
+ttepg           Trichuris trichiura eggs per gram of stool
+                type: numeric (continuous)
+                range: 0–10,572
+                mean: 21.9
+
+------------------------------------------------------------------------------------------------------------------
+
+SECTION 4: WATER TREATMENT VARIABLES
+------------------------------------------------------------------------------------------------------------------
+
+tubewell        Primary water source is a shallow tubewell
+                type: numeric (binary)
+                values: 0 = no, 1 = yes
+                prevalence: 73.4%
+
+storewat        Stores drinking water in a container
+                type: numeric (binary)
+                values: 0 = no, 1 = yes
+                prevalence: 47.8%
+
+treatwat        Reported treating water today or yesterday (e.g., boiling, chlorination)
+                type: numeric (binary)
+                values: 0 = no, 1 = yes
+                prevalence: 0.1%  (very rare at baseline)
+
+------------------------------------------------------------------------------------------------------------------
+
+SECTION 5: SANITATION VARIABLES
+------------------------------------------------------------------------------------------------------------------
+
+latown          Owns their own latrine (not shared with other households)
+                type: numeric (binary)
+                values: 0 = no, 1 = yes
+                prevalence: 51.5%
+
+latslab         Latrine has a concrete slab (hygienic barrier)
+                type: numeric (binary)
+                values: 0 = no, 1 = yes
+                prevalence: 93.6%
+                missing: 469
+
+latfeces        No visible feces observed on latrine slab/floor
+                type: numeric (binary)
+                values: 0 = feces visible (unclean), 1 = no feces (clean)
+                prevalence (clean): 48.5%
+                missing: 664
+
+humfeces        Human feces observed in house or compound (direct observation)
+                type: numeric (binary)
+                values: 0 = no, 1 = yes
+                prevalence: 8.8%
+                missing: 10
+
+------------------------------------------------------------------------------------------------------------------
+
+SECTION 6: BEHAVIORAL RISK FACTORS
+------------------------------------------------------------------------------------------------------------------
+
+geophagia       Child ate any dirt or soil in the past 7 days (caregiver report)
+                type: string (label)  — values: "no", "yes"
+                prevalence (yes): 17.3%
+                missing: 2,307
+
+shoes           Child was wearing shoes at time of observation
+                type: numeric (binary)
+                values: 0 = no, 1 = yes
+                prevalence: 22.3%
+                missing: 3,566
+
+------------------------------------------------------------------------------------------------------------------
+
+NOTES
+------------------------------------------------------------------------------------------------------------------
+- The trial enrolled children aged ~1–5y at baseline (2011–2012) in rural Bangladesh.
+- STH outcomes were measured ~3 years post-intervention (2014–2016) by Kato-Katz.
+- The WSH interventions (water, sanitation, handwashing) showed no significant reduction
+  in STH prevalence; nor did the nutrition or nutrition+WSH arms.
+- Missing data for sex, agey, and STH outcomes (n=2,824) represent children lost to
+  follow-up or without a valid stool sample.
+- Baseline covariates (momage, momedu, wealth, etc.) were measured at enrollment (2011–2013).
+------------------------------------------------------------------------------------------------------------------

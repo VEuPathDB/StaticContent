@@ -1,0 +1,26 @@
+variable,label,definition
+dataid,Compound ID,Unique identifier for the household compound
+clusterid,Cluster ID,Cluster identifier; the unit of randomization
+block,Randomization block,Randomization block number (1-90); each block contains one household from each of the 7 treatment arms
+tr,Treatment arm,Randomized treatment assignment: Control / Water / Sanitation / Handwashing / WSH (Water+Sanitation+Handwashing) / Nutrition / Nutrition+WSH
+sex,Sex,Sex of the index child (female or male)
+agey,Child age (years),Age of the index child at time of STH measurement in years (continuous)
+momage,Mother's age (years),Age of the child's mother at baseline enrollment in years
+momedu,Mother's education,Mother's highest level of education: No education / Primary (1-5 years) / Secondary (more than 5 years)
+wealth,Household wealth,Household wealth index based on asset ownership dichotomized into two quantiles: Lower wealth or Higher wealth
+sth,Any STH infection,Any soil-transmitted helminth infection detected by Kato-Katz (Ascaris or Trichuris or hookworm): Negative or Positive
+al,Ascaris infection,Ascaris lumbricoides infection detected by Kato-Katz stool examination: Negative or Positive
+tt,Trichuris infection,Trichuris trichiura infection detected by Kato-Katz stool examination: Negative or Positive
+hw,Hookworm infection,Hookworm infection detected by Kato-Katz stool examination: Negative or Positive
+alepg,Ascaris egg count (EPG),Ascaris lumbricoides eggs per gram of stool by Kato-Katz; 0 indicates no infection
+hwepg,Hookworm egg count (EPG),Hookworm eggs per gram of stool by Kato-Katz; 0 indicates no infection
+ttepg,Trichuris egg count (EPG),Trichuris trichiura eggs per gram of stool by Kato-Katz; 0 indicates no infection 
+tubewell,Tubewell water source,Primary drinking water source is a shallow tubewell (Yes or No)
+storewat,Water storage,Household stores drinking water in a container (Yes or No)
+treatwat,Water treatment,Household reported treating drinking water today or yesterday (e.g. boiling or chlorination) (Yes or No)
+latown,Latrine ownership,Household owns their latrine and does not share it with other households (Yes or No)
+latslab,Latrine slab,Latrine has a concrete slab covering the pit (Yes or No)
+latfeces,Latrine cleanliness,Feces observed on the latrine slab or floor during field visit: Feces present or No feces present
+humfeces,Human feces in compound,Human feces observed in the house or compound during field visit (Yes or No)
+geophagia,Geophagia,Child ate any dirt or soil in the past 7 days as reported by caregiver (Yes or No)
+shoes,Wearing shoes,Child was observed wearing shoes at the time of the field visit (Yes or No)
