@@ -110,7 +110,7 @@ table#hor-minimalist-a tr:last-child td {
     <td></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="{{'/documents/dataExplorer/toxo_workshop/PCR_RFLP_genotyping_exercise.pdf' | absolute_url}}">Exercise 2: Uploading data on dataExplorer</a></td>
+    <td>Exercise 2: Uploading data on dataExplorer</td>
     <td>
       <em>Download this sample dataset:</em>
       <ul>
