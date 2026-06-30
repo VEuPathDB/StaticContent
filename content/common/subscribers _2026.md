@@ -395,6 +395,7 @@ h1, h2 {
     <div>Samuelson group, Boston Univ US</div>
     <div>Santiago-Tirado group, Univ Notre Dame US</div>
     <div>Santos group, Univ Paris-Saclay FR</div>
+    <div>Sateriale group, Crick Inst UK</div>
     <div>Saxena group, Birla Institute of Technology and Science, Pilani IN</div>
     <div>Scaraffia group, Tulane Univ US</div>
     <div>Scheel group, Indiana Univ US</div>
