@@ -256,6 +256,7 @@ h1, h2 {
     <div>Howick group, Univ Glasgow UK</div>
     <div>Huberman group, Cornell Univ US</div>
     <div>Hull group, Univ Wisconsin Madison US</div>
+    <div>Huston group, Univ of Vermont US</div>
     <div>Inaoka group, Nagasaki Univ JP</div>
     <div>Iriko group, Kobe Univ JP</div>
     <div>Ishino group, Tokyo Institute of Science JP</div>
@@ -382,6 +383,7 @@ h1, h2 {
     <div>Ramaprasad group, Univ Glasgow UK</div>
     <div>Ramirez-Flores group, CINVESTAV MX</div>
     <div>Rayner group, Univ Cambridge GB</div>
+    <div>Robello group, Institut Pasteur de Montevideo UY</div>
     <div>Roditi group, Univ Bern CH</div>
     <div>Rogers group, St. Jude Children's Research Hospital US</div>
     <div>Rentsch group, Univ Bern CH</div>
@@ -412,11 +414,13 @@ h1, h2 {
     <div>Siddiki group, Chittagong Veterinary and Animal Sciences Univ BD</div>
     <div>Sigala group, Univ Utah US</div>
     <div>Sinha group, Jhargram Raj College IN</div>
+    <div>Sinnis group, Johns Hopkins Univ US</div>
     <div>Slamovits lab, Dalhousie Univ CA</div>
     <div>Smircich group, Univ de la República UY</div>
     <div>Smith group, Univ Buffalo US</div>
     <div>Spaeth group, Institut Pasteur FR</div>
     <div>Stajich group, Univ California Riverside US</div>
+    <div>Sterkers group, Univ Montpellier FR</div>
     <div>Striepen group, Univ Pennsylvania US</div>
     <div>Striker group, Univ of Wisconsin-Madison US</div>
     <div>Sullivan group, Indiana Univ US</div>
