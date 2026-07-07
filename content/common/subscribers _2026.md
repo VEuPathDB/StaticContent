@@ -232,6 +232,7 @@ h1, h2 {
     <div>Guillen group, Institut Pasteur FR</div>
     <div>Guiton group, Santa Clara Univ US</div>
     <div>Günzl group, Univ Connecticut Health US</div>
+    <div>Guy group, Public Health Agency of Canada CA</div>
     <div>Halfon group, Univ Buffalo US</div>
     <div>Hallen-Adams group, Univ Nebraska US</div>
     <div>Hansberg group, National Autonomous Univ of Mexico MX</div>
