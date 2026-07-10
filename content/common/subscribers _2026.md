@@ -179,6 +179,7 @@ h1, h2 {
     <div>Corvi group, Chascomús Technol Inst (INTECH) AR</div>
     <div>Cramer group, Dartmouth College US</div>
     <div>Cribb group, National Univ of Rosario AR</div>
+    <div>Crisanti group, Imperial College London GB</div>
     <div>Crispim group, Fed Univ Alfenas BR</div>
     <div>Crouch group, Univ Glasgow UK</div>
     <div>Cui group, Univ of South Florida US</div>
@@ -211,6 +212,7 @@ h1, h2 {
     <div>Field group, Univ Dundee UK</div>
     <div>Figueiredo group, Gulbenkian Institute for Molecular Medicine PT</div>
     <div>Filler group, Lundquist Inst Harbor-UCLA Medical Center US</div>
+    <div>Fisa group, Univ of Barcelona ES</div>
     <div>Fleissner group, Braunschweig Univ of Technology DE</div>
     <div>Florentin group, Hebrew Univ IL</div>
     <div>Franke-Fayard group, Leiden Univ Medical Center NL</div>
@@ -296,6 +298,7 @@ h1, h2 {
     <div>Lavazec group, Inst Cochin FR</div>
     <div>Lebedinec group, Mushroomplus UK</div>
     <div>Lebrun group, Univ Montpellier FR</div>
+    <div>Lee group, Rutgers Univ US</div>
     <div>León Avila group, National School of Biological Sciences MX</div>
     <div>Leger-Abraham group, Harvard Medical School US</div>
     <div>Lewis group, Univ of Warwick GB</div>
@@ -385,8 +388,10 @@ h1, h2 {
     <div>Ramirez-Flores group, CINVESTAV MX</div>
     <div>Rayner group, Univ Cambridge GB</div>
     <div>Robello group, Institut Pasteur de Montevideo UY</div>
+    <div>Roberts group, Pacific Univ US</div>
     <div>Roditi group, Univ Bern CH</div>
     <div>Rogers group, St. Jude Children's Research Hospital US</div>
+    <div>Roth group, Univ of Oxford GB</div>
     <div>Rentsch group, Univ Bern CH</div>
     <div>Richard group, Univ Laval CA</div>
     <div>Roos group, Univ Pennsylvania US</div>
@@ -419,6 +424,7 @@ h1, h2 {
     <div>Slamovits lab, Dalhousie Univ CA</div>
     <div>Smircich group, Univ de la República UY</div>
     <div>Smith group, Univ Buffalo US</div>
+    <div>Soldati-Favre group, Univ Genève CH</div>
     <div>Spaeth group, Institut Pasteur FR</div>
     <div>Stajich group, Univ California Riverside US</div>
     <div>Sterkers group, Univ Montpellier FR</div>
