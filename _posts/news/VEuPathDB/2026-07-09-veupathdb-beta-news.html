@@ -1,0 +1,147 @@
+---
+layout: post
+title: July 2026- VEuPathDB 70 Released
+category: [VEuPathDB]
+---
+
+<style>
+
+div.newswrapper-68e-Feb7-2025 {
+    h3 {
+      font-size: 160%;
+      margin: 1em 0 0.5em;
+    }
+
+    div.container {
+      display: flex;
+      align-items: stretch;
+      margin-bottom: 1em;
+    }
+    img {
+      width: 15em;
+    }
+    div.text {
+      padding: 1em 2em;
+      border-radius: 0.3em;
+      margin-left: 0.5em;
+    }
+    div.greyback {
+      background: #f9f9f9;
+    }
+
+    div.title {
+      font-family: system-ui;
+      font-size:1.0em;
+      font-weight:600;
+      font-style:italic
+    }
+    div.center {
+      text-align: stretch;
+    }
+    div.left {
+      text-align: left;
+    }
+    div.right {
+      text-align: right;
+    }
+
+    @media only screen and (max-width: 800px) {
+      div.container {
+        flex-wrap:wrap;
+      }
+      div.text {
+        margin-left: 0;
+      }
+    }
+
+} /* .newswrapper  */
+
+</style>
+
+<!-- ================================================= -->
+
+<div class="newswrapper-68e-Feb7-2025">
+
+  <h3 style="margin-top:0">VEuPathDB 70 Released- New Features</h3>  
+
+  <div class="container">
+   <img  src="{{'/assets/images/news/69_features.png' | absolute_url}}" />
+   <div class="text greyback">
+    <div class="title left">MAJOR UPDATES IN VEuPathDB 70</div>
+  New features and new datasets from VEuPathDB release 70 are now available on our beta sites! Major features include:
+  <list type="bullet">
+    <item>We have a new tool (tools menu) in PlasmoDB named <link href="https://beta.plasmodb.org/plasmo.beta/app/plasmoFAST">PlasmoFAST</link> that lets you detect Plasmodium falciparum lab strains directly from raw sequencing reads - developed by the Serre lab. </item>
+    <item>In ToxoDB, <link href="https://beta.toxodb.org/toxo.beta/app/workspace/analyses/DS_6d31c76b75/new">RFLP genotypes</link> of Toxoplasma gondii isolates compiled from multiple studies are now available through a new exploratory data analysis search. Over the coming months, we will continue to expand this genotype table by adding microsatellite markers and curating isolate data from the scientific literature to create the most comprehensive resource possible.</item>
+    <item>VEuPathDB Searches now have a new feature: Organism Presets allow you to save and apply a selection of organisms across various searches. Select a set of organisms you commonly use and click 'Save'. Then, in any search with an organism parameter, you can apply your saved selection. Additionally, there is a new option to expand the tree to show selections.</item>
+    <item>VEuPathDB gene product descriptions have been updated using the UniProt ARBA rules (https://www.uniprot.org/help/arba). For genes with uninformative descriptions (such as “hypothetical protein” or “unspecified protein”), information from InterPro and taxonomy is used to generate a description based on properties such as function, catalytic activity, pathway membership, subcellular location, or the presence of a Pfam domain.</item>
+    <item>The <link href="https://beta.veupathdb.org/veupathdb.beta/app/workspace/datasets/new">My Datasets</link><link href="https://beta.veupathdb.org/veupathdb.beta/app/workspace/datasets/new"> feature</link> continues to expand, making it easier for users to upload, explore, and share their own data within VEuPathDB. This release includes several enhancements:</item>
+    <list type="bullet">
+      <item>Dataset sharing: Users can now share the datasets they have uploaded. Datasets can be shared privately with specific collaborators, or made public to support open data access and to meet funder and journal data-sharing requirements.</item>
+      <item>Improved upload experience: The redesigned upload interface now allows users to provide meaningful metadata to describe and contextualize their uploaded dataset. Metadata is required for datasets that will be made public.</item>
+      <item>New data type: Users can now <link href="https://beta.veupathdb.org/veupathdb.beta/app/workspace/datasets/new/isasimple:1.0">upload a </link><link href="https://beta.veupathdb.org/veupathdb.beta/app/workspace/datasets/new/isasimple:1.0">Data Table</link>, a simple tabular dataset (such as a spreadsheet or CSV file) containing any type of data, for private exploration or public sharing.</item>
+      <item>Enhanced upload validation: Improved validation for RNA-Seq and bigWig files helps identify issues before upload.</item>
+      <item>Expanded upload guidance: New help content makes it easier to prepare and upload datasets.</item>
+    </list>
+    <item>VEuPathDB has launched <link href="https://beta.dataexplorer.org/dexp.beta/">dataExplorer</link>, a brand new platform designed for quick data exploration and visualization of data tables from any domain! Users can keep their uploaded datasets private, share datasets with specific people, or make the dataset public to fulfill data sharing requirements. Read more about it <link href="https://beta.dataexplorer.org/dexp.beta/app/static-content/dataExplorer/about.html">here</link>.</item>
+    <item>Please send us your feedback and bug reports using our <link href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us form</link> or by emailing us at help@veupathdb.org</item>
+  </list>
+  </div>
+  </div>
+
+
+<!-- ================ -->
+
+  <h3 style="margin-top:0">New data in VEuPathDB 70</h3>  
+
+  <div class="container">
+   <img src="{{'/assets/images/news/69_transcriptomics.png' | absolute_url}}" />
+   <div class="text greyback">
+    <div class="title left">GENOMES & ANNOTATIONS</div>
+    <list type="bullet">
+    <item>CryptoDB</item>
+    <list type="bullet">
+      <item><link href="https://beta.cryptodb.org/cryptodb.beta/app/record/dataset/TMPTX_csp43IA8">Cryptosporidium</link><link href="https://beta.cryptodb.org/cryptodb.beta/app/record/dataset/TMPTX_csp43IA8"> sp. 43IA8</link></item>
+      <item><link href="https://beta.cryptodb.org/cryptodb.beta/app/record/dataset/TMPTX_cmelTU1867">Cryptosporidium meleagridis</link><link href="https://beta.cryptodb.org/cryptodb.beta/app/record/dataset/TMPTX_cmelTU1867"> strain TU1867</link></item>
+      <item><link href="https://beta.cryptodb.org/cryptodb.beta/app/record/dataset/TMPTX_cser8845_47">Cryptosporidium serpentis</link><link href="https://beta.cryptodb.org/cryptodb.beta/app/record/dataset/TMPTX_cser8845_47"> 8845_47</link></item>
+    </list>
+    <item>FungiDB</item>
+    <list type="bullet">
+      <item><link href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/NCBITAXON_660027">Fusarium oxysporum</link><link href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/NCBITAXON_660027"> Fo47</link></item>
+      <item><link href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_ffulRace5_Kim">Fulvia fulva</link><link href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_ffulRace5_Kim"> Race5_Kim</link> </item>
+      <item><link href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_bmayC4">Bipolaris maydis</link><link href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_bmayC4"> strain C4</link></item>
+      <item><link href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_ppacMT2006">Phakopsora pachyrhizi</link><link href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_ppacMT2006">  MT2006</link> </item>
+      <item><link href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_afumA1160">Aspergillus fumigatus</link><link href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_afumA1160"> A1160</link> </item>
+      <item><link href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_cbetCb09-40">Cercospora beticola</link><link href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_cbetCb09-40"> Cb09-40</link> </item>
+      <item><link href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_ckikMAFF305040">Cercospora kikuchii </link><link href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_ckikMAFF305040">MAFF 305040</link> </item>
+    </list>
+    <item>PiroplasmaDB: <link href="https://beta.piroplasmadb.org/piro.beta/app/record/dataset/TMPTX_bgibAzabu">Babesia gibsoni Azabu</link> </item>
+    <item>PlasmoDB: <link href="https://beta.plasmodb.org/plasmo.beta/app/record/dataset/TMPTX_pchachabaudiCB">P. chaubaudi </link><link href="https://beta.plasmodb.org/plasmo.beta/app/record/dataset/TMPTX_pchachabaudiCB">chabaudi </link><link href="https://beta.plasmodb.org/plasmo.beta/app/record/dataset/TMPTX_pchachabaudiCB">CB</link></item>
+    <item>ToxoDB</item>
+    <list type="bullet">
+      <item><link href="https://beta.toxodb.org/toxo.beta/app/record/dataset/TMPTX_eflaA23">Eimeria flavescens A23</link></item>
+      <item><link href="https://beta.toxodb.org/toxo.beta/app/record/dataset/DS_b491540da5">Eimeria stiedai A26</link></item>
+      <item><link href="https://beta.toxodb.org/toxo.beta/app/record/dataset/DS_c749c86439">Eimeria media PL19_A22</link></item>
+      <item><link href="https://beta.toxodb.org/toxo.beta/app/record/dataset/DS_518759272b">Eimeria intestinalis P0_A24</link></item>
+      <item><link href="https://beta.toxodb.org/toxo.beta/app/record/dataset/DS_35447ba8c3">Eimeria magna A1</link>9</item>
+    </list>
+    <item>TriTrypDB</item>
+    <list type="bullet">
+      <item><link href="https://beta.tritrypdb.org/tritrypdb.beta/app/record/dataset/TMPTX_lguyM4147">Leishmania guyanensis M4147</link><link href="https://beta.tritrypdb.org/tritrypdb.beta/app/record/dataset/TMPTX_lguyM4147"> </link>(hybrid assembly)</item>
+      <item>Reload from INSDC: <link href="https://beta.tritrypdb.org/tritrypdb.beta/app/record/dataset/NCBITAXON_1295825">Leishmania braziliensis</link><link href="https://beta.tritrypdb.org/tritrypdb.beta/app/record/dataset/NCBITAXON_1295825"> (lbraMHOMBR75M2903)</link></item>
+    </list>
+    <item>VectorBase</item>
+    <list type="bullet">
+      <item><link href="https://beta.vectorbase.org/vectorbase.beta/app/record/dataset/TMPTX_scalidStoCalc2.1">Stomoxys calcitrans</link><link href="https://beta.vectorbase.org/vectorbase.beta/app/record/dataset/TMPTX_scalidStoCalc2.1"> idStoCalc2.1</link> (Please note that there has been an over-prediction of tRNA genes. This will be fixed in the next release.)</item>
+      <item><link href="https://beta.vectorbase.org/vectorbase.beta/app/record/dataset/TMPTX_aameF_SG_1">Amblyomma americanum</link> (Please note that there has been an over-prediction of tRNA genes. This will be fixed in the next release.)</item>
+      <item>Anopheles atroparvus Infravec2 EBRE</item>
+      <item>Biomphalaria pfeifferi</item>
+    </list>
+  </list>
+   </div>
+  </div>
+
+
+<!-- ================ -->
+
+</div>  <!--  .newswrapper   -->
+
