@@ -1,0 +1,159 @@
+---
+layout: post
+title: July 2026- FungiDB 70 Released
+category: [FungiDB]
+---
+
+<style>
+
+div.newswrapper-68e-Feb7-2025 {
+    h3 {
+      font-size: 160%;
+      margin: 1em 0 0.5em;
+    }
+
+    div.container {
+      display: flex;
+      align-items: stretch;
+      margin-bottom: 1em;
+    }
+    img {
+      width: 15em;
+    }
+    div.text {
+      padding: 1em 2em;
+      border-radius: 0.3em;
+      margin-left: 0.5em;
+    }
+    div.greyback {
+      background: #f9f9f9;
+    }
+
+    div.title {
+      font-family: system-ui;
+      font-size:1.0em;
+      font-weight:600;
+      font-style:italic
+    }
+    div.center {
+      text-align: stretch;
+    }
+    div.left {
+      text-align: left;
+    }
+    div.right {
+      text-align: right;
+    }
+
+    @media only screen and (max-width: 800px) {
+      div.container {
+        flex-wrap:wrap;
+      }
+      div.text {
+        margin-left: 0;
+      }
+    }
+
+} /* .newswrapper  */
+
+</style>
+
+<!-- ================================================= -->
+
+<div class="newswrapper-68e-Feb7-2025">
+
+   <div class="container">
+   <img  src="{{'/assets/images/news/70_features.png' | absolute_url}}" />
+   <div class="text greyback">
+    <div class="title left">MAJOR UPDATES IN FungiDB 70</div>
+  <ul>
+    <li>VEuPathDB <b>Searches</b> now have a new feature: <b>Organism Presets</b> allow you to save and apply a selection of organisms across various searches. Select a set of organisms you commonly use and click 'Save'. Then, in any search with an organism parameter, you can apply your saved selection. Additionally, there is a new option to expand the tree to show selections.</li>
+    <li>VEuPathDB <b>gene product descriptions</b> have been updated using the UniProt ARBA rules (https://www.uniprot.org/help/arba). For genes with uninformative descriptions (such as “hypothetical protein” or “unspecified protein”), information from InterPro and taxonomy is used to generate a description based on properties such as function, catalytic activity, pathway membership, subcellular location, or the presence of a Pfam domain. In build 70, the new VEuPath gene annotation pipeline has replaced over 2 million "hypothetical" gene descriptions with more informative functional annotation!</li>
+    <li>The <a href="https://beta.veupathdb.org/veupathdb.beta/app/workspace/datasets/new"><b>My Datasets</b></a> feature continues to expand, making it easier for users to upload, explore, and share their own data within VEuPathDB. This release includes several enhancements:</li>
+    <ul>
+      <li><b>Dataset sharing</b>: Users can now share the datasets they have uploaded. Datasets can be shared privately with specific collaborators, or made public to support open data access and to meet funder and journal data-sharing requirements.</li>
+      <li><b>Improved upload experience</b>: The redesigned upload interface now allows users to provide meaningful metadata to describe and contextualize their uploaded dataset. Metadata is required for datasets that will be made public.</li>
+      <li><b>New data type: </b>Users can now upload a <a href="https://beta.veupathdb.org/veupathdb.beta/app/workspace/datasets/new/isasimple:1.0"><b>Data Table</b></a>, a simple tabular dataset (such as a spreadsheet or CSV file) containing any type of data, for private exploration or public sharing.</li>
+      <li><b>Enhanced upload validation</b>: Improved validation for RNA-Seq and bigWig files helps identify issues before upload.</li>
+      <li><b>Expanded upload guidance: </b>New help content makes it easier to prepare and upload datasets.</li>
+    </ul>
+    <li>VEuPathDB has launched <a href="https://beta.dataexplorer.org/dexp.beta/"><b>dataExplorer</b></a>, <b>a brand new platform</b> designed for quick data exploration and visualization of data tables from any domain! Users can keep their uploaded datasets private, share datasets with specific people, or make the dataset public to fulfill data sharing requirements. Read more about it <a href="https://beta.dataexplorer.org/dexp.beta/app/static-content/dataExplorer/about.html">here</a>.</li>
+    <li>Please send us your feedback and bug reports using our <a href="https://veupathdb.org/veupathdb/app/contact-us">Contact Us form</a> or by emailing us at <b>help@veupathdb.org</b></li>
+  </ul>
+  </div>
+  </div>
+
+<div class="container">
+  <img  src="{{'/assets/images/news/70_data.png' | absolute_url}}" />
+  <div class="text greyback">
+    <div class="title left">New data in FungiDB 70</div>
+<ul>
+  <li>Genomes and annotations:
+    <ul>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/NCBITAXON_660027"><i>Fusarium oxysporum</i></a><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/NCBITAXON_660027"> Fo47</a></li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_ffulRace5_Kim"><i>Fulvia fulva</i></a><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_ffulRace5_Kim"> Race5_Kim</a> </li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_bmayC4"><i>Bipolaris maydis</i></a><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_bmayC4"> strain C4</a></li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_ppacMT2006"><i>Phakopsora pachyrhizi</i></a><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_ppacMT2006">  MT2006</a> </li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_afumA1160"><i>Aspergillus fumigatus</i></a><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_afumA1160"> A1160</a> </li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_cbetCb09-40"><i>Cercospora beticola</i></a><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_cbetCb09-40"> Cb09-40</a> </li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_ckikMAFF305040"><i>Cercospora kikuchii </i></a><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/TMPTX_ckikMAFF305040">MAFF 305040</a> </li>
+    </ul>
+ </li>
+<br>
+<li>RNA-Seq:
+<ul>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/DS_972d01eef2">Transcriptional profiling of Z. tritici isolates during wheat infection</a> (<a href="https://pubmed.ncbi.nlm.nih.gov/36747219/">Chen et al. 2023</a>)</li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/DS_d884777ff1">Transcriptome of Paracoccidoides in absence/presence of argentilactone</a> (<a href="https://pubmed.ncbi.nlm.nih.gov/26731732/">Porter et al. 2016</a>)</li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/DS_b024622f80">Transcriptomic response of wild-type and ChAP1 deletion mutant Cochliobolus heterostrophus to ferulic acid treatment</a> (<a href="https://pubmed.ncbi.nlm.nih.gov/31312934/">Simaan et al. 2020</a>)</li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/DS_0aeae4c324">Molecular basis of drought-induced susceptibility to the rice blast fungus Magnaporthe oryzae</a> (<a href="https://pubmed.ncbi.nlm.nih.gov/27833621/">Bidzinski et al. 2016</a>)</li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/DS_68853b2987">Transcriptome under different nitrogen fertilization conditions</a> (<a href="https://pubmed.ncbi.nlm.nih.gov/28293247/">Huang et al. 2017</a>)</li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/DS_53d4ab3c1e">TF factor responses</a> (<a href="https://pubmed.ncbi.nlm.nih.gov/41314178/">Abid et al. 2026</a>)</li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/DS_525d875813">Pdr802 regulates Titan cell production and pathogenicity</a> (<a href="https://pubmed.ncbi.nlm.nih.gov/33688010/">Reuwsaat et al. 2021</a>)</li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/DS_1d23743516">Temperature-dependent fitness in the fungal pathogen Candida albicans</a> (<a href="https://pubmed.ncbi.nlm.nih.gov/41105619/">Fu et al. 2025</a>)</li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/DS_fd51f45db2">Zymoseptoria tritici RNA-Seq across multiple growth media conditions</a> (<a href="https://pubmed.ncbi.nlm.nih.gov/40971313/">Lapalu et al. 2025</a>)</li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/DS_31724a74b9">Transcriptomes of Phytophthora sojae at mycelium stage</a> (<a href="https://pubmed.ncbi.nlm.nih.gov/30382931/">Chen et al. 2018</a>)</li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/DS_c788cd2be6">Transcriptomes of Phytophthora infestans strains at mycelium stage</a> (<a href="https://pubmed.ncbi.nlm.nih.gov/32153537/">Tzelepis et al. 2020</a>)</li>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/DS_ad77d991be">Transcriptome analysis of WT and khd4D mutant</a><i> </i>(<a href="https://pubmed.ncbi.nlm.nih.gov/37590419/">Sankaranarayanan et al. 2023</a>)</li>
+    </ul>
+  </li>
+    <br>
+  <li>
+    <b>ChIP-Seq</b>
+    <ul>
+      <li><a href="https://beta.fungidb.org/fungidb.beta/app/record/dataset/DS_7c5f2bbe0c">ChIP-Seq of H3K9 acetylation for wildtype and ada2Δ cells in Cryptococcus neoformans</a>(<a href="https://pubmed.ncbi.nlm.nih.gov/22174677/">Haynes et al. 2011</a>)</li>
+    </ul>
+    </li>
+    <br>
+    <li>
+    <b>PHENOTYPE</b>
+    <ul>
+      <li>Updated PHIbase records in FungiDB (search &amp; table on gene record pages) using the latest version 4.16</li>
+      <li>Identify genes based on CGD Curated Phenotypes</li>
+    </ul>
+    </li>
+    <br>
+    <li>
+    <b>JBrowse</b>
+    <ul>
+      <li>Optional ParaDB-derived GFF annotation tracks have been added to JBrowse for three genomes: <i>Paracoccidioides brasiliensis</i> Pb18, <i>Paracoccidioides brasiliensis</i> Pb03, and <i>Paracoccidioides lutzii</i> Pb01, allowing users to compare the GenBank annotations with the manually curated ParaDB gene models.</li>
+    </ul>
+    </li>
+    </ul>
+  </div>
+</div>
+
+<div class="container">
+   <img  src="{{'/assets/images/news/70_connect.png' | absolute_url}}" />
+   <div class="text greyback">
+    <div class="title left">SEE US IN PERSON!</div>  
+  <p><i><b>Connect with VEuPathDB at these upcoming meetings!</b></i></p>
+  <ul>
+    <li><b>KMCB</b> (Kinetoplastid Molecular Cell Biology Meeting), 8-12 September, 2026, Woods Hole, MA, USA</li>
+    <li><b>MPM XXXVII </b>(Molecular Parasitology Meeting), 13-17 September, 2026, Woods Hole, MA, USA</li>
+  </ul>
+   </div>
+  </div>
+
+
+</div>  <!--  .newswrapper   -->
+
