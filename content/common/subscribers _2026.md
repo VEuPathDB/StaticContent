@@ -167,11 +167,13 @@ h1, h2 {
     <div>Burchmore group, Univ Glasgow UK</div>
     <div>Bushell group, Umeå Univ SE</div>
     <div>Bzik group, Dartmouth College US</div>
+    <div>Campbell group, Orlando College of Osteopathic Medicine US</div>
     <div>Casadevall group, Johns Hopkins Univ US</div>
     <div>Castillo group, INDICASAT AIP PA</div>
     <div>Catteruccia group, Harvard Univ US</div>
     <div>Cevallos group, Natl Autonomous Univ México MX</div>
     <div>Chakrabarti group, Univ of North Carolina at Chapel Hill US</div>
+    <div>Chandrasegaran group, Univ of California, Riverside US</div>
     <div>Charvat group, High Point Univ US</div>
     <div>Chasen group, Univ South Alabama US</div>
     <div>Chiurillo group, Univ Cincinnati US</div>
@@ -200,6 +202,7 @@ h1, h2 {
     <div>Diallinas group, National and Kapodistrian Univ Athens GR</div>
     <div>Diane McMahon-Pratt, US</div>
     <div>Djamei group, Univ of Bonn DE</div>
+    <div>Douglas group, Justus Liebig Univ Giessen DE</div>
     <div>Dunlap group, Dartmouth College US</div>
     <div>Echeverry group, National Univ of Colombia INRS CO</div>
     <div>Egan group, Stanford Univ US</div>
@@ -229,6 +232,7 @@ h1, h2 {
     <div>Gomez-Marin group, Univ del Quindio GEPAMOL CO</div>
     <div>Goto group, Univ Tokyo JP</div>
     <div>Greigert group, Univ de Reims Champagne-Ardenne FR</div>
+    <div>Grossman Haham group, Ben-Gurion Univ of the Negev IL</div>
     <div>Gubbels group, Boston College US</div>
     <div>Guérin group, Univ of Geneva CH</div>
     <div>Guillen group, Institut Pasteur FR</div>
@@ -258,6 +262,7 @@ h1, h2 {
     <div>Hovel-Miner group, Stony Brook Univ US</div>
     <div>Howick group, Univ Glasgow UK</div>
     <div>Huberman group, Cornell Univ US</div>
+    <div>Huet group, Univ Georgia US</div>
     <div>Hull group, Univ Wisconsin Madison US</div>
     <div>Huston group, Univ of Vermont US</div>
     <div>Inaoka group, Nagasaki Univ JP</div>
@@ -415,6 +420,7 @@ h1, h2 {
     <div>Sengupta group, Ahmedabad Univ IN</div>
     <div>Serre group, Univ Maryland School of Medicine US</div>
     <div>Sharakhov group, Virginia Polytechnic Institute and State Univ US</div>
+    <div>Shen group, Huazhong Agricultural Univ CN</div>
     <div>Sibley group, Washington Univ US</div>
     <div>Siegel group, Ludwig Maximilians Univ DE</div>
     <div>Siddiki group, Chittagong Veterinary and Animal Sciences Univ BD</div>
@@ -438,6 +444,7 @@ h1, h2 {
     <div>Suzuki group, Univ of Kentucky US</div>
     <div>Svärd group, Uppsala Univ SE</div>
     <div>Takashima group, Ehime Univ JP</div>
+    <div>Tikhe group, Ball State Univ US</div>
     <div>Tilley group, Univ Melbourne AU</div>
     <div>Touz group, Instituto de Investigación Médica Mercedes y Martín Ferreyra (INIMEC-CONICET-UNC) AR</div>
     <div>Treeck group, Gulbenkian Inst Molecular Med PT</div>
@@ -462,12 +469,14 @@ h1, h2 {
     <div>Weng group, National Taiwan Univ TW</div>
     <div>West group, University of Georgia US</div>
     <div>Wiese group, Univ Strathclyde UK</div>
+    <div>Williams group, Rush Univ US</div>
     <div>Williamson group, Uniformed Services University US</div>
     <div>Wilson group, Univ Adelaide AU</div>
     <div>Wilson group, Univ of Iowa US</div>
     <div>Winzeler group, Univ California, San Diego US</div>
     <div>Wunderlich group, Univ de São Paulo BR</div>
     <div>Xiao lab, South China Agricultural Univ CN</div>
+    <div>Xu group, Murdoch Univ AU</div>
     <div>Xu group, New Mexico State Univ US</div>
     <div>Yamagishi group, Hokkaido Univ JP</div>
     <div>Yapa group, Univ of Southern Queensland AU</div>
@@ -499,6 +508,7 @@ h1, h2 {
    <div>Leibniz-HKI DE- Brakhage & Blango labs</div>
    <div>Liverpool School of Tropical Medicine</div>
    <div>Malaria and Neglected Parasitic Diseases Program, ISGLOBAL, Barcelona- Cortés, Mayor, Dobaño, Fernandez-Becerra, Moncunill, Padilla, Izquierdo, Fernandez-Busquets, del Portillo groups</div>
+   <div>Novartis – multiple groups</div>
    <div>Royal Veterinary College UK- Xia and Blake groups</div>
    <div>TMRC India- CMC Vellore and IIPH Shillong</div>
    <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
