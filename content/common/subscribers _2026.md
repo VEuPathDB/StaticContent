@@ -178,6 +178,7 @@ h1, h2 {
     <div>Chasen group, Univ South Alabama US</div>
     <div>Chiurillo group, Univ Cincinnati US</div>
     <div>Christensen group, Northwestern Univ US</div>
+    <div>Collins group, UT Southwestern US</div>
     <div>Corvi group, Chascomús Technol Inst (INTECH) AR</div>
     <div>Cramer group, Dartmouth College US</div>
     <div>Cribb group, National Univ of Rosario AR</div>
@@ -444,6 +445,7 @@ h1, h2 {
     <div>Suzuki group, Univ of Kentucky US</div>
     <div>Svärd group, Uppsala Univ SE</div>
     <div>Takashima group, Ehime Univ JP</div>
+    <div>Talman group, IRD FR</div>
     <div>Tikhe group, Ball State Univ US</div>
     <div>Tilley group, Univ Melbourne AU</div>
     <div>Touz group, Instituto de Investigación Médica Mercedes y Martín Ferreyra (INIMEC-CONICET-UNC) AR</div>
