@@ -55,16 +55,11 @@ The User acknowledges that data are interpretable only to the extent the origina
     
 dataExplorer is committed to ensuring the appropriate protection of all data made available through its platform. Each dataset submitted to dataExplorer is unique and may require different levels of protection. Decisions about the appropriate level of access are determined by the data providers. Datasets may be kept private, shared with selected users through individual access, or made publicly available to the broader research community.
 
-|  __Dataset Visibility__ | __Description__ |
-| :----- | :----- |
-| Private | Only the dataset provider can access, explore the dataset. The dataset provider may share the dataset with selected collaborators by granting individual access (see below). Datasets in this state may be under active development and can be made publicly available at a later date.
-<br>
-Data downloads are restricted to the dataset provider. |
-| Individual Access | Private datasets shared via Individual Access are available only to users explicitly granted permission by the data provider. Users with Individual Access can discover, access, and explore the dataset.<br>
-Data downloads are restricted to the dataset provider and users with Individual Access. |
-| Public | The provider can make the dataset public. Public datasets can be discovered, accessed, and explored by any user.
-<br>
-Data is open-access and can be downloaded by any user.  |
+| __Dataset Visibility__ | __Description__ |
+| :---- | :---- |
+| Private | Only the dataset provider can access, explore the dataset. The dataset provider may share the dataset with selected collaborators by granting individual access (see below). Datasets in this state may be under active development and can be made publicly available at a later date.<br><br>Data downloads are restricted to the dataset provider. |
+| Individual Access | Private datasets shared via Individual Access are available only to users explicitly granted permission by the data provider. Users with Individual Access can discover, access, and explore the dataset.<br><br>Data downloads are restricted to the dataset provider and users with Individual Access. |
+| Public | The provider can make the dataset public. Public datasets can be discovered, accessed, and explored by any user.<br><br>Data is open-access and can be downloaded by any user. |
   
 ## General principles
 
