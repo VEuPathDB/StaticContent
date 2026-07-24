@@ -13,7 +13,7 @@ tags: [general]
 <!-- testing styling priorities -->
 <style>
   ul li  {
-    font-size 200%;
+    font-size: 200%;
   }
 </style>
 
