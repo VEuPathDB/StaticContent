@@ -3,26 +3,20 @@ title: Data Access and Use Policy for dataExplorer, a VEuPathDB Database
 permalink: /dataExplorer/access_and_use
 tags: [general]
 ---
-<style>
-table {
-  border-collapse: collapse;
-}
-table, th, td {
-  border: 1px solid black;
-  padding: 0.5em;
-}
-ul {
-  list-style-type: circle;
-}
 
-#ce-data-access ul,
-#ce-data-access li {
-  font-size: 1rem !important;
-  padding-left: 1.5em;
-}
-</style>
+<!-- do not add style here; 
+     given how we insert this page in our sites using ExternalController 
+     the style added here will not be used -->
 
 <div id="ce-data-access" markdown="1">
+
+<!-- testing styling priorities -->
+<style>
+  ul li  {
+    font-size 200%;
+  }
+</style>
+
 
 # Data Access and Use Policy for dataExplorer, a VEuPathDB Database
 
