@@ -192,6 +192,7 @@ h1, h2 {
     <div>Danae Schulz, Harvey Mudd College US</div>
     <div>Da Rocha group, Federal Univ of Paraná BR</div>
     <div>Dave Anderson, Independent researcher US</div>
+    <div>Davis group, Univ Iowa US</div>
     <div>Davis group, Univ of Nebraska at Omaha US</div>
     <div>de Graffenried group, Brown Univ US</div>
     <div>Deitsch group, Weill Cornell Medicine US</div>
@@ -205,6 +206,7 @@ h1, h2 {
     <div>Djamei group, Univ of Bonn DE</div>
     <div>Douglas group, Justus Liebig Univ Giessen DE</div>
     <div>Dunlap group, Dartmouth College US</div>
+    <div>Dvorin group, Boston Children's Hosp US</div>
     <div>Echeverry group, National Univ of Colombia INRS CO</div>
     <div>Egan group, Stanford Univ US</div>
     <div>Elias group, Butantan Institute BR</div>
@@ -272,6 +274,7 @@ h1, h2 {
     <div>Jacobson group, Grinnell College US</div>
     <div>James group, Gettysburg College US</div>
     <div>James group, UC Irvine US</div>
+    <div>Jeffers group, Univ New Hampshire US</div>
     <div>Jia group, Harbin Veterinary Research Institute CN</div>
     <div>Jimenez group, California State Univ, Fullerton US</div>
     <div>Johnston group, Johns Hopkins Univ US</div>
@@ -374,6 +377,7 @@ h1, h2 {
     <div>Paredez group, Univ Washington US</div>
     <div>Pathak group, Univ Georgia US</div>
     <div>Pauling group, Univ Central Missouri US</div>
+    <div>Pawlowic group, Univ Dundee UK</div>
     <div>Pavlovic-Djuranovic group, Washington Univ US</div>
     <div>Peraza Reyes group, National Autonomous Univ of Mexico MX</div>
     <div>Pereira group, Catholic Univ of Portugal PT</div>
@@ -431,6 +435,7 @@ h1, h2 {
     <div>Slamovits lab, Dalhousie Univ CA</div>
     <div>Smircich group, Univ de la República UY</div>
     <div>Smith group, Univ Buffalo US</div>
+    <div>Soares group, Federal Univ of Piauí, BR</div>
     <div>Soldati-Favre group, Univ Genève CH</div>
     <div>Spaeth group, Institut Pasteur FR</div>
     <div>Stajich group, Univ California Riverside US</div>
