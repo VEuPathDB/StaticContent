@@ -10,13 +10,8 @@ tags: [general]
 
 <div id="ce-data-access" markdown="1">
 
-<!-- testing styling priorities -->
-<style>
-  ul li  {
-    font-size: 200%;
-  }
-</style>
-
+<!-- you could add style here;
+      depending on the selector it will be applied over the style in the main site -->
 
 # Data Access and Use Policy for dataExplorer, a VEuPathDB Database
 
