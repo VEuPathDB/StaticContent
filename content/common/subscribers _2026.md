@@ -366,7 +366,7 @@ h1, h2 {
     <div>Oliveira group, Federal Univ of Rio de Janeiro BR</div>
     <div>Ohira group, Nazareth Univ US</div>
     <div>Orbach group, Univ of Arizona US</div>
-    <div>Ortega-Lopez group, Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV) MX</div>
+    <div>Ortega-Lopez group, CINVESTAV MX</div>
     <div>Osorio group, Univ Alejandro de Humboldt CO</div>
     <div>Otsuki group, Tottori Univ JP</div>
     <div>Outten group, Univ of South Carolina US</div>
@@ -390,6 +390,7 @@ h1, h2 {
     <div>Ponts group, INRAE FR</div>
     <div>Pradel group, RWTH Aachen Univ DE</div>
     <div>Price group, Liberty Univ US</div>
+    <div>Prigge lab, Johns Hopkins Univ US</div>
     <div>Przyborski group, Justus Liebig Univ Giessen DE</div>
     <div>Qiu group, Hunter College US</div>
     <div>Rajaram group, Ohio State Univ US</div>
