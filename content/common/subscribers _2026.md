@@ -159,6 +159,7 @@ h1, h2 {
     <div>Brackney group, Connecticut Agricultural Experiment Station US</div>
     <div>Briggs group, Newcastle Univ UK</div>
     <div>Bringaud group, Univ Bordeaux FR</div>
+    <div>Brown group, Univ Oklahoma Health Sciences Center US</div>
     <div>Bryant group, Institut Pasteur FR</div>
     <div>Buchanan group, JMP Securities</div>
     <div>Buchler group, North Carolina State Univ US</div>
@@ -310,6 +311,7 @@ h1, h2 {
     <div>Lee group, Rutgers Univ US</div>
     <div>León Avila group, National School of Biological Sciences MX</div>
     <div>Leger-Abraham group, Harvard Medical School US</div>
+    <div>Le Roch group, Univ California Riverside US</div>
     <div>Lewis group, Univ of Warwick GB</div>
     <div>Li group, Cleveland State Univ US</div>
     <div>Licon group, Univ of Utah US</div>
@@ -375,6 +377,8 @@ h1, h2 {
     <div>Paluzzi group, York Univ CA</div>
     <div>Panepinto group, Univ Buffalo US</div>
     <div>Paredez group, Univ Washington US</div>
+    <div>Pastrana-Mena group, Univ Puerto Rico at Arecibo</div>
+    <div>Patankar group, Indian Institute of Technology Bombay IN</div>
     <div>Pathak group, Univ Georgia US</div>
     <div>Pauling group, Univ Central Missouri US</div>
     <div>Pawlowic group, Univ Dundee UK</div>
@@ -390,7 +394,7 @@ h1, h2 {
     <div>Ponts group, INRAE FR</div>
     <div>Pradel group, RWTH Aachen Univ DE</div>
     <div>Price group, Liberty Univ US</div>
-    <div>Prigge lab, Johns Hopkins Univ US</div>
+    <div>Prigge group, Johns Hopkins Univ US</div>
     <div>Przyborski group, Justus Liebig Univ Giessen DE</div>
     <div>Qiu group, Hunter College US</div>
     <div>Rajaram group, Ohio State Univ US</div>
@@ -445,6 +449,7 @@ h1, h2 {
     <div>Striker group, Univ of Wisconsin-Madison US</div>
     <div>Sullivan group, Indiana Univ US</div>
     <div>Sun group, Univ of Pittsburgh US</div>
+    <div>Sun group, Shanghai Jiao Tong Univ CN</div>
     <div>Sundararaman group, CHOP/Univ Pennsylvania US</div>
     <div>Sunter group, Oxford Brookes Univ UK</div>
     <div>Suvorova group, Univ South Florida US</div>
