@@ -1,8 +1,8 @@
 --- # dataexplorer faq page
-- type: general
+- type: getting_started
   question: "What is FAIR data, and how does dataExplorer help make my data FAIR?"
   answer: |
-           FAIR (Findable, Accessible, Interoperable, and Reusable) data adhere to a set of widely adopted principles that ensure datasets can be easily discovered, understood, and used by others (and by you in the future). For more information, see: https://rdcu.be/fbgiu
+           FAIR (Findable, Accessible, Interoperable, and Reusable) data adhere to a set of widely adopted principles that ensure datasets can be easily discovered, understood, and used by others (and by you in the future). For more information, see: ([https://rdcu.be/fbgiu](https://rdcu.be/fbgiu))
            - <b>Findable</b>: Data are described with rich metadata and indexed so they can be discovered through searches
            - <b>Accessible</b>: Data can be retrieved using clear access conditions (e.g., open, controlled, or permission-based).
            - <b>Interoperable</b>: Data use standardized formats, consistent variable descriptions, and (where possible) shared vocabularies to support integration with other datasets.
@@ -15,16 +15,15 @@
            - <b>Reusable</b>: Dataset-level metadata provide essential context and establish provenance, while built-in exploratory tools allow users to assess variable coverage, data completeness, and distributions before downloading, supporting appropriate interpretation and reuse.
            
            By combining structured metadata, clear documentation, flexible sharing infrastructure, and interactive exploration tools, dataExplorer helps transform your dataset from a static file into a well-documented, discoverable, and reusable research resource, while you retain full control over when it is shared.
-
   uid: g2
   projects: "ClinEpiDB,AllClinEpiDB"
-- type: general
+- type: getting_started
   question: "Do I need programming experience to use dataExplorer?"
   answer: |
            No! VEuPathDB has more than 20 years of experience developing intuitive interfaces that make complex data explorations accessible through simple point-and-click tools.
   uid: g3
   projects: "ClinEpiDB,AllClinEpiDB"
-- type: general
+- type: getting_started
   question: "Do I need a VEuPathDB account to upload or explore datasets?"
   answer: |
            Yes. A free VEuPathDB account is required to upload a dataset, access datasets privately shared with you, explore data in the analysis workspace, or save analyses.
@@ -38,7 +37,7 @@
            You only need one account for all VEuPathDB websites. If you already have an account for another VEuPathDB resource, such as ClinEpiDB, PlasmoDB, or MicrobiomeDB, you can use the same credentials to log in to dataExplorer and other VEuPathDB sites.
   uid: g4
   projects: "ClinEpiDB,AllClinEpiDB"
-- type: general
+- type: getting_started
   question: "How can I change the password associated with my VEuPathDB account?"
   answer: |
            To change your password:
@@ -48,7 +47,7 @@
            - Click Change your password and follow the instructions.
   uid: g5
   projects: "ClinEpiDB,AllClinEpiDB"
-- type: uploading datasets 
+- type: upload 
   question: "What types of datasets can I upload to dataExplorer?"
   answer: |
            dataExplorer supports any dataset that can be represented as a flat file (i.e., a single data table), regardless of whether the data comes from the life sciences, environmental studies, business analytics, or any other field. 

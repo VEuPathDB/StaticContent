@@ -7,11 +7,11 @@ permalink: /dataExplorer/faq
 
 <h1 id="FAQ">Frequently Asked Questions</h1>
 
-<div id="clinepi-general">
-  <h2>General</h2>
+<div id="dx-getting_started">
+  <h2>Getting Started</h2>
   <ul>
     {% for item in site.data.dexp_faq %}
-    {% if item.type == "general" %}
+    {% if item.type == "getting_started" %}
     <li><a name="{{ item.uid }}"></a>
       <details id="{{ item.uid }}">
         <summary>{{ item.question }}</summary>
@@ -25,11 +25,11 @@ permalink: /dataExplorer/faq
   </ul>
 </div>
 
-<div id="clinepi-using_site">
-  <h2>Using the site</h2>
+<div id="dx-upload">
+  <h2>Uploading Datasets</h2>
   <ul>
     {% for item in site.data.dexp_faq %}
-    {% if item.type == "using_site" %}
+    {% if item.type == "upload" %}
     <li><a name="{{ item.uid }}"></a>
       <details id="{{ item.uid }}">
         <summary>{{ item.question }}</summary>
