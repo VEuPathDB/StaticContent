@@ -265,6 +265,7 @@ h1, h2 {
     <div>Horn group, Univ Dundee UK</div>
     <div>Hovel-Miner group, Stony Brook Univ US</div>
     <div>Howick group, Univ Glasgow UK</div>
+    <div>Hu group, Guangxi Univ CN</div>
     <div>Huberman group, Cornell Univ US</div>
     <div>Huet group, Univ Georgia US</div>
     <div>Hull group, Univ Wisconsin Madison US</div>
@@ -343,6 +344,7 @@ h1, h2 {
     <div>Mineo group, Federal Univ Uberlândia BR</div>
     <div>Mita group, Juntendo University JP</div>
     <div>Mok group, Columbia Univ US</div>
+    <div>Moon group, London School of Hygiene & Tropical Medicine UK</div>
     <div>Mordue group, New York Medical College US</div>
     <div>Morrissette group, Univ California Irvine US</div>
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
