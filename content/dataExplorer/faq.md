@@ -43,6 +43,96 @@ permalink: /dataExplorer/faq
   </ul>
 </div>
 
+<div id="dx-sharing">
+  <h2>Data Sharing</h2>
+  <ul>
+    {% for item in site.data.dexp_faq %}
+    {% if item.type == "sharing" %}
+    <li><a name="{{ item.uid }}"></a>
+      <details id="{{ item.uid }}">
+        <summary>{{ item.question }}</summary>
+        <p>
+          {{ item.answer | markdownify}}
+        </p>
+      </details>
+    </li>
+    {% endif %}
+    {% unless forloop.last %}{% endunless %}{% endfor %}
+  </ul>
+</div>
+
+<div id="dx-explore">
+  <h2>Discovering and Exploring Datasets</h2>
+  <ul>
+    {% for item in site.data.dexp_faq %}
+    {% if item.type == "explore" %}
+    <li><a name="{{ item.uid }}"></a>
+      <details id="{{ item.uid }}">
+        <summary>{{ item.question }}</summary>
+        <p>
+          {{ item.answer | markdownify}}
+        </p>
+      </details>
+    </li>
+    {% endif %}
+    {% unless forloop.last %}{% endunless %}{% endfor %}
+  </ul>
+</div>
+
+<div id="dx-cite">
+  <h2>Dataset Publication & Citation</h2>
+  <ul>
+    {% for item in site.data.dexp_faq %}
+    {% if item.type == "cite" %}
+    <li><a name="{{ item.uid }}"></a>
+      <details id="{{ item.uid }}">
+        <summary>{{ item.question }}</summary>
+        <p>
+          {{ item.answer | markdownify}}
+        </p>
+      </details>
+    </li>
+    {% endif %}
+    {% unless forloop.last %}{% endunless %}{% endfor %}
+  </ul>
+</div>
+
+<div id="dx-data_govern">
+  <h2>Data Governance & Human Subjects</h2>
+  <ul>
+    {% for item in site.data.dexp_faq %}
+    {% if item.type == "data_govern" %}
+    <li><a name="{{ item.uid }}"></a>
+      <details id="{{ item.uid }}">
+        <summary>{{ item.question }}</summary>
+        <p>
+          {{ item.answer | markdownify}}
+        </p>
+      </details>
+    </li>
+    {% endif %}
+    {% unless forloop.last %}{% endunless %}{% endfor %}
+  </ul>
+</div>
+
+<div id="dx-technical">
+  <h2>Technical & Platform Questions</h2>
+  <ul>
+    {% for item in site.data.dexp_faq %}
+    {% if item.type == "technical" %}
+    <li><a name="{{ item.uid }}"></a>
+      <details id="{{ item.uid }}">
+        <summary>{{ item.question }}</summary>
+        <p>
+          {{ item.answer | markdownify}}
+        </p>
+      </details>
+    </li>
+    {% endif %}
+    {% unless forloop.last %}{% endunless %}{% endfor %}
+  </ul>
+</div>
+
 </div>
 
 <script>
