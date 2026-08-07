@@ -2,7 +2,7 @@
 - type: getting_started
   question: "What is FAIR data, and how does dataExplorer help make my data FAIR?"
   answer: |
-           FAIR (Findable, Accessible, Interoperable, and Reusable) data adhere to a set of widely adopted principles that ensure datasets can be easily discovered, understood, and used by others (and by you in the future). For more information, see: ([https://rdcu.be/fbgiu](https://rdcu.be/fbgiu))
+           FAIR (Findable, Accessible, Interoperable, and Reusable) data adhere to a set of widely adopted principles that ensure datasets can be easily discovered, understood, and used by others (and by you in the future). For more information, see: [https://rdcu.be/fbgiu](https://rdcu.be/fbgiu)
            - <b>Findable</b>: Data are described with rich metadata and indexed so they can be discovered through searches
            - <b>Accessible</b>: Data can be retrieved using clear access conditions (e.g., open, controlled, or permission-based).
            - <b>Interoperable</b>: Data use standardized formats, consistent variable descriptions, and (where possible) shared vocabularies to support integration with other datasets.
@@ -66,7 +66,7 @@
 - type: upload 
   question: "How should I prepare my dataset for upload to dataExplorer?"
   answer: |
-           See ([“My Datasets Help”](https://beta.dataexplorer.org/dexp.beta/app/workspace/datasets/help)) for detailed guidance on formatting requirements, supported file types, required metadata, and dataset preparation before upload. 
+           See [“My Datasets Help”](https://beta.dataexplorer.org/dexp.beta/app/workspace/datasets/help) for detailed guidance on formatting requirements, supported file types, required metadata, and dataset preparation before upload. 
   uid: u3
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: upload 
