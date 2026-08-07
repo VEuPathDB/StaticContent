@@ -106,3 +106,179 @@
            Yes! You can delete your dataset at any time. Click Manage My Datasets under the Workspace menu in the website header. From there, select the dataset you want to delete and click on the Delete button on the upper right side of the table. 
   uid: u6
   projects: "ClinEpiDB,AllClinEpiDB"
+- type: sharing 
+  question: "How do I manage who can access my dataset?"
+  answer: |
+           All datasets are private by default and visible only to the dataset owner.
+           
+           You can manage access to your dataset directly within dataExplorer. Open Manage My Datasets from the Workspace menu in the website header, select a dataset, and click the Manage Access button on the upper right side of the table.
+           
+           From there, you can choose between two access levels:
+           - Individual Access – Grant access to specific collaborators, who will be able to view, explore, and download your private dataset.
+           - Community Access – Make the dataset discoverable by the broader research community. Datasets shared with the community immediately become visible in the dataExplorer dataset catalog and can be explored and downloaded by other users of the platform.
+  uid: s1
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: sharing 
+  question: "How do I determine an appropriate access level for my dataset?"
+  answer: |
+           Dataset contributors decide who can discover, explore, and download their datasets on dataExplorer.
+           - Private datasets are accessible only to the dataset owner and collaborators whom the owner explicitly invites.
+           - Community-contributed datasets are discoverable, explorable, and downloadable by the broader research community.
+           
+           When choosing an access level, contributors should consider factors such as participant consent, IRB requirements, institutional or funder data-sharing policies, and the status of related analyses or manuscripts (for example, whether results are still being analyzed or the primary manuscript has already been published).
+  uid: s2
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: sharing 
+  question: "Can I change my dataset’s access level later?"
+  answer: |
+           Yes! You can change your dataset’s access level at any time. Many contributors keep datasets private during analysis and manuscript preparation, and then make them accessible to the community after publication. Community-contributed datasets can also be made private again if needed.
+  uid: s3
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: sharing 
+  question: "Do I have to make my dataset accessible to the community after uploading it?"
+  answer: |
+           No! dataExplorer never requires datasets to be made public. You can keep your dataset private and use dataExplorer’s tools to organize, explore, and analyze your data.
+  uid: s4
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: explore 
+  question: "How can I find datasets relevant to my research?"
+  answer: |
+           You can search for datasets using the search bar in the dataExplorer site header. Enter a keyword related to your topic of interest, and the search will return results from datasets your account has access to: those you own, datasets shared with you, and community-contributed datasets. Private datasets owned by others that have not been shared with you will not appear in search results.
+           
+           Your search will return:
+           - Datasets that contain the term in their name or description
+           - Variables that include the term in the variable name, definition, or other metadata
+           - Variable values that include the term in a value label
+           
+           Each result links directly to the dataset, variable, or value of interest, allowing you to quickly explore metadata, summary statistics, and distributions to determine whether a dataset is relevant to your research.
+           
+           To broaden your results, try searching for synonyms or related terms.
+  uid: e1
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: explore 
+  question: "How can I understand and explore the variables in a dataset?"
+  answer: |
+           Data dictionaries are essential for making datasets interpretable, reusable, and reproducible, especially for researchers who were not involved in generating the data.
+           
+           In dataExplorer, variables are documented using a variable annotation file that the data contributor uploads alongside their dataset. For each variable, the data contributor provides a human-readable label and definition in addition to the original variable name (the column header in their uploaded data file).
+           
+           This information is used by dataExplorer to generate an interactive data dictionary for the dataset. Instead of viewing variable documentation in a static spreadsheet or PDF, users can:
+           - Browse and search variables
+           - View variable definitions and value categories
+           - Explore distributions and summary statistics for continuous variables
+           - Examine value frequencies for categorical variables
+           - Assess data completeness and structure
+           
+           Users can also subset the data and instantly see how their selections affect other variables. As filters are applied, distributions, frequencies, and summary statistics update in real time, making it easy to explore relationships between variables, identify patterns, and quickly assess whether a dataset contains data relevant to a research question.
+  uid: e2
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: explore 
+  question: "Can I export visualizations or analyses created in dataExplorer?"
+  answer: |
+           Yes! Visualizations can be exported in SVG or PNG format using the Export plot button in the lower right corner of each plot.
+           
+           You can also generate a shareable URL for any analysis by clicking the Share Analysis button in the top right of the dataset workspace. This link can be shared with collaborators or included in manuscripts. Opening the link creates a copy of the analysis in the recipient’s account, allowing them to modify parameters and explore further.
+  uid: e3
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: explore 
+  question: "Can I download datasets for offline analysis?"
+  answer: |
+           Yes! You can download any dataset your account has access to. We recommend using dataExplorer’s tools for exploration and visualization, and performing more advanced analyses—such as statistical modeling—offline. Please make sure to cite the dataset and dataExplorer in your manuscript.
+  uid: e4
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: cite 
+  question: "How should datasets hosted on dataExplorer be cited?"
+  answer: |
+           When citing a dataset that you accessed via dataExplorer, you can use the “Copy citation” button on the Download tab of a dataset. Please include the authors, dataset name, date of release and release number on dataExplorer, study page URL, and the fact that the data came from dataExplorer. For example, the citation for the PRISM Cohort study would be:
+           
+           Grant Dorsey, Moses Kamya, Bryan Greenhouse, et al. Dataset: PRISM ICEMR Cohort. ClinEpiDB. 03 March 2022, Release 21 (https://clinepidb.org/ce/app/workspace/analyses/DS_0ad509829e/new)
+           
+           You can also find links to original publications using the dataset on the View Dataset Details tab, which you may also want to cite.
+  uid: c1
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: cite 
+  question: "Will my dataset receive a persistent identifier?"
+  answer: |
+           Yes! Each dataset is assigned their own stable identifier that begins with ‘DS_’. This identifier is present in all URLs associated with that dataset, and should be included when citing the dataset.
+  uid: c2
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: data_govern 
+  question: "How can dataExplorer support compliance with Data Management & Sharing Policies?"
+  answer: |
+           The U.S. National Institutes of Health (NIH) Data Management & Sharing Policy requires all funded projects to include an approved Data Management & Sharing (DMS) Plan. Similar data sharing expectations are increasingly required by funders, publishers, and research institutions worldwide.
+           
+           dataExplorer can support these requirements by providing a platform for organizing, documenting, exploring, and sharing structured datasets in a FAIR-aligned environment. Researchers can control access to their data, share datasets with collaborators or the broader community, and provide the metadata and contextual information needed to support reuse.
+           
+           We have developed guidance for researchers interested in using dataExplorer to enable access to clinical, field, and epidemiological datasets in alignment with NIH and other data sharing requirements.
+  uid: dg1
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: data_govern 
+  question: "Do I need IRB approval to share my dataset?"
+  answer: |
+           Yes. If you plan to share data through dataExplorer, this should be described in your IRB proposal and reflected in your participant consent forms. Our IRB data sharing guidance document provides a brief overview of considerations for including data sharing in your IRB submission.
+  uid: dg2
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: data_govern 
+  question: "What if my consent form did not include data sharing?"
+  answer: |
+           If your consent form does not permit data sharing, you should not share those data beyond your private workspace in dataExplorer. While datasets you upload are private by default and not accessible to others, any decision to share data with collaborators or make it publicly available must be consistent with the informed consent provided by participants and any applicable IRB or ethics approvals.
+           
+           In some cases, you may be able to share de-identified or aggregated data, or seek guidance from your IRB about whether limited sharing is permissible under your original consent. You may also consider updating consent language for future studies to allow for responsible data sharing.
+           
+           If you are unsure, consult your institution’s IRB or ethics committee before sharing data.
+  uid: dg3
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: data_govern 
+  question: "Who is responsible for removing Personally Identifiable Information (PII) from datasets?"
+  answer: |
+           Personally Identifiable Information (PII) must not be uploaded to or stored in dataExplorer.
+           
+           Dataset contributors are expected to ensure that all uploaded data have been appropriately de-identified and comply with applicable ethical, institutional, and regulatory requirements before uploading to the platform. Direct identifiers (such as names) must be removed, and indirect identifiers (such as dates or precise locations) should be generalized or obfuscated when necessary to protect participant privacy.
+           
+           If you encounter a dataset on dataExplorer that appears to contain PII, please Contact Us so we can review and remove it promptly.
+  uid: dg4
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: data_govern 
+  question: "How does dataExplorer protect human subject data?"
+  answer: |
+           Use of dataExplorer constitutes agreement to our Data Access and Use Policy.
+           
+           dataExplorer supports multiple data access levels to help protect human subject privacy. Contributors can choose whether datasets remain private, are shared only with approved collaborators, or made accessible to the broader research community.
+  uid: dg5
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: technical 
+  question: "How do I cite dataExplorer?"
+  answer: |
+           If you want to cite dataExplorer directly, please use:
+           
+           dataExplorer. VEuPathDB Bioinformatics Resource Center. Available from: https://dataexplorer.org (accessed March 2026).
+           
+           If you want to reference dataExplorer in a presentation, please include our logo (right/control click to copy).
+  uid: t1
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: technical 
+  question: "Is dataExplorer a data repository?"
+  answer: |
+           dataExplorer is a knowledgebase that makes data more FAIR (findable, accessible, interoperable, and reusable). While datasets can be accessed, explored, and downloaded from our website, we also recommend depositing your data in a formal repository such as Synapse or Harvard Dataverse to ensure long-term preservation.
+  uid: t2
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: technical 
+  question: "How does dataExplorer ensure long-term preservation of datasets?"
+  answer: |
+           UDatasets hosted on dataExplorer are preserved as part of the VEuPathDB infrastructure. The platform is supported by production servers located at the University of Pennsylvania and mirrored at partner institutions, including the University of Georgia, to provide redundancy and ensure reliable uptime.
+           
+           All systems are housed in secure, FISMA-compliant computational facilities, and regular industry-standard backups are performed to protect data integrity. If the platform were ever to close, reasonable efforts would be made to maintain the site for an additional three years and to rehouse datasets in an appropriate long-term repository where possible.
+  uid: t3
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: technical 
+  question: "Does dataExplorer harmonize variables across datasets?"
+  answer: |
+           Unlike ClinEpiDB, dataExplorer does not currently use ontologies to harmonize variable labels across datasets. However, the platform is built on the same infrastructure as ClinEpiDB, where variables are mapped to terms in the VEuPathDB ontology to improve data interoperability. We plan to introduce AI-assisted tools for variable harmonization in a future version of dataExplorer.
+  uid: t4
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: technical 
+  question: "Can I access the code used for dataExplorer?"
+  answer: |
+           Yes! Our code is maintained using Git, and we welcome input from the community.
+  uid: t5
+  projects: "ClinEpiDB,AllClinEpiDB"
