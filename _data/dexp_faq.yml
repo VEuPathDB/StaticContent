@@ -6,7 +6,7 @@
            - <b>Findable</b>: Data are described with rich metadata and indexed so they can be discovered through searches
            - <b>Accessible</b>: Data can be retrieved using clear access conditions (e.g., open, controlled, or permission-based).
            - <b>Interoperable</b>: Data use standardized formats, consistent variable descriptions, and (where possible) shared vocabularies to support integration with other datasets.
-           -<b>Reusable</b>: Data include sufficient documentation and context (e.g., definitions, methods, provenance) to enable appropriate reuse.
+           - <b>Reusable</b>: Data include sufficient documentation and context (e.g., definitions, methods, provenance) to enable appropriate reuse.
            
            dataExplorer is designed to help you make your datasets FAIR with minimal overhead:
            - <b>Findable</b>: Your dataset becomes searchable by dataset name, identifier, description, variables, and value labels, making it easier for others to discover relevant data.
