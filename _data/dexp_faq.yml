@@ -51,5 +51,58 @@
   question: "What types of datasets can I upload to dataExplorer?"
   answer: |
            dataExplorer supports any dataset that can be represented as a flat file (i.e., a single data table), regardless of whether the data comes from the life sciences, environmental studies, business analytics, or any other field. 
-  uid: g6
+  uid: u1
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: upload 
+  question: "How should I structure my data files?"
+  answer: |
+         Each file should include a single data table structured around a single primary observational unit, with one row per instance of that unit (e.g., one household, one participant, or one sample per row). Every variable should contain only one value per row.
+         
+         To avoid redundancy, store information at the appropriate observational level. For example, household-level data should be stored in a household table rather than repeated across multiple rows in a participant-level table. However, if all variables maintain a 1:1 relationship with the primary observational unit, related (child-level) data does not need to be split into a separate table.
+         
+         Each data table should be uploaded as a separate dataset. Studies composed of multiple linked tables (e.g., households, participants, and samples within a single study) are not currently supported as a single dataset, but this capability is planned for future development.
+  uid: u2
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: upload 
+  question: "How should I prepare my dataset for upload to dataExplorer?"
+  answer: |
+           See ([https://beta.dataexplorer.org/dexp.beta/app/workspace/datasets/help](“My Datasets Help”)) for detailed guidance on formatting requirements, supported file types, required metadata, and dataset preparation before upload. 
+  uid: u3
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: upload 
+  question: "What information do I need to provide when uploading a dataset?"
+  answer: |
+           To upload a dataset for private use, you will need to provide:
+           - A data file in .csv, .tsv, or tab-delimited .txt format (variables as columns and records as rows)
+           - A dataset name
+           - A brief summary (up to 400 characters)
+           
+           To share your dataset as a community-contributed dataset, you will also need to provide:
+           - A variable annotation file in .csv, .tsv, or tab-delimited .txt format, that contains the following columns: 
+             - <b>variable</b>: the variable name, exactly as it appears in the data file
+             - <b>label</b>: a human-readable name displayed throughout the website to help users identify and understand the variable
+             - <b>definition</b>: a description for each variable
+
+           - Core dataset information to establish provenance and context, including:
+             - Principal Investigator and collaborator information
+             - Field study or clinical trial details (e.g., study design, outcomes of interest, if applicable)
+             - Information about any external data sources
+             - Reuse considerations (e.g., missing data, potential biases, or other limitations that may affect interpretation or reuse)
+             
+             This additional information is not required for private datasets or those shared only with collaborators, but providing it will improve clarity, usability, and reuse.
+  uid: u4
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: upload 
+  question: "Can I upload a dataset that is not yet published?"
+  answer: |
+           Yes! If you are still analyzing your data or preparing a manuscript, you can privately upload your dataset to dataExplorer. Dataset visibility is restricted to you and collaborators you explicitly invite.
+           
+           Uploading your dataset during the analysis phase allows you to organize and explore your data, identify data errors, collaborate with co-authors, and prepare for public release. You can include the dataset’s stable identifier in your manuscript and update the dataset’s visibility when you are ready to share it.
+  uid: u5
+  projects: "ClinEpiDB,AllClinEpiDB"
+- type: upload 
+  question: "Can I delete my dataset?"
+  answer: |
+           Yes! You can delete your dataset at any time. Click Manage My Datasets under the Workspace menu in the website header. From there, select the dataset you want to delete and click on the Delete button on the upper right side of the table. 
+  uid: u6
   projects: "ClinEpiDB,AllClinEpiDB"
