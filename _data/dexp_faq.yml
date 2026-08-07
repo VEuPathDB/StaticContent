@@ -66,7 +66,7 @@
 - type: upload 
   question: "How should I prepare my dataset for upload to dataExplorer?"
   answer: |
-           See ([https://beta.dataexplorer.org/dexp.beta/app/workspace/datasets/help](“My Datasets Help”)) for detailed guidance on formatting requirements, supported file types, required metadata, and dataset preparation before upload. 
+           See ([“My Datasets Help”](https://beta.dataexplorer.org/dexp.beta/app/workspace/datasets/help)) for detailed guidance on formatting requirements, supported file types, required metadata, and dataset preparation before upload. 
   uid: u3
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: upload 
