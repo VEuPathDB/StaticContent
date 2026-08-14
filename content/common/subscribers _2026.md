@@ -269,6 +269,7 @@ h1, h2 {
     <div>Huberman group, Cornell Univ US</div>
     <div>Huet group, Univ Georgia US</div>
     <div>Hull group, Univ Wisconsin Madison US</div>
+    <div>Humphries group, Lawrence Univ US</div>
     <div>Huston group, Univ of Vermont US</div>
     <div>Inaoka group, Nagasaki Univ JP</div>
     <div>Iriko group, Kobe Univ JP</div>
