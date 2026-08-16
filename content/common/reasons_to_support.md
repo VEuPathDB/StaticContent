@@ -5,9 +5,9 @@ permalink: why-support
 tags: [general]
 ---
 
-{% include css/reasons_to_support.css  %}
 
 <div class="static-content">
+{% include css/reasons_to_support.css  %}
 
   <h1 style="text-align:center">5 reasons to support VEuPathDB</h1>
   <div class="centered">
