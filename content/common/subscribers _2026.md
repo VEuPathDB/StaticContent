@@ -298,6 +298,7 @@ h1, h2 {
     <div>Klemba group, Virginia Polytechnic Institute and State Univ US</div>
     <div>Knuepfer group, Royal Veterinary College UK</div>
     <div>Kocken group, Biomedical Primate Research Centre NL</div>
+    <div>Koepfli group, Univ Notre Dame US</div>
     <div>Kooij group, Radboud Univ NL</div>
     <div>Kowalinski group, EMBL Grenoble FR</div>
     <div>Kramer group, Univ Wuerzburg DE</div>
