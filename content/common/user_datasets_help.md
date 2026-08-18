@@ -131,6 +131,13 @@ title: User Data Sets Help
     <li>no repeated gene IDs</li>
     <li>for a stranded pair, both files must describe the same samples and the same genes (the order does not matter)</li>
     </ul>
+    <p><b>If you have count files per sample:</b></p>
+    <ul>
+    <li>many pipelines (e.g. HTSeq) produce one count file per sample, rather than the single genes-by-samples table this upload needs - if so, you will need to merge your per-sample files into that format first</li>
+    <li>when merging, match rows by gene ID, not by row position - files are not guaranteed to list genes in the same order, and a positional merge can silently mix up gene counts between samples</li>
+    <li>after merging, check that no genes were lost or duplicated, and that the number of columns matches your number of samples</li>
+    <li>if you are not comfortable writing this merge yourself, an AI coding assistant (e.g. ChatGPT, Claude) can write a short script for you - for example: <i>"Write a Python (pandas) script that merges these per-sample count files into a single tab-delimited table with genes as rows and samples as columns. Join on gene ID, not row position, and print a warning if any gene is missing from an input file or if the merged table's gene count doesn't match the inputs."</i></li>
+    </ul>
     <p><b>Sample details:</b></p>
     <ul>
     <li>describe your samples in the text box provided, either as a table (one row or one column per sample) or as free text, such as the Methods section of the associated paper</li>
