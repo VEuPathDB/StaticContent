@@ -22,7 +22,7 @@ tags: [general]
      <!--   "/a/app/community/ClinEpiDB/resources.html"  -->
     <p>dataExplorer is part of the <b>VEuPathDB family of databases</b>, a suite of integrated data resources that provide access to genomics, epidemiological, microbiome, and other biological datasets alongside powerful bioinformatics tools used by scientists worldwide.</p>
     <p>dataExplorer provides a flexible workspace where researchers can privately upload datasets, organize contextual information, and explore their data using interactive analysis tools and visualizations. Contributors can also choose to share datasets with collaborators or the broader research community while maintaining control over access and sharing decisions.</p>
-    <p>Together, these platforms support the full lifecycle of research data, from private analysis and collaboration to curated integration and long-term public access.</p>
+    <p>Together, VEuPathDB platforms support the full lifecycle of research data, from private analysis and collaboration to curated integration and long-term public access.</p>
     </div>
 
   <h2 id="why-create">Why did we create dataExplorer?</h2>
