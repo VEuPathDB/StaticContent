@@ -113,6 +113,43 @@ title: User Data Sets Help
   </details>
 
   <details closed>
+    <summary><h4>Upload your RNA-Seq raw counts data</h4></summary>
+    Upload raw (un-normalized) gene counts to run a differential expression analysis on your own data.
+    <p><b>Choose your count file(s):</b></p>
+    <ul>
+    <li>a single unstranded count file, or</li>
+    <li>a stranded pair: a sense-counts file and an antisense-counts file</li>
+    <li>do not mix these two options, and do not upload a stranded file without its pair</li>
+    <li>accepted file extensions are .txt, .tsv, .csv or .tab (upper or lower case)</li>
+    <li>your original file names are kept as they are</li>
+    </ul>
+    <p><b>Each count file should have:</b></p>
+    <ul>
+    <li>a header row naming each sample - these names become each sample's ID; for a stranded pair, the same sample names must be used, in the same way, in both the sense and antisense files</li>
+    <li>one row per gene, with gene IDs in the first column - the header of this first column is ignored, so it can be left blank</li>
+    <li>whole, non-negative numbers everywhere else (no decimals, no negative numbers, no commas)</li>
+    <li>no repeated gene IDs</li>
+    <li>for a stranded pair, both files must describe the same samples and the same genes (the order does not matter)</li>
+    </ul>
+    <p><b>If you have count files per sample:</b></p>
+    <ul>
+    <li>many pipelines (e.g. HTSeq) produce one count file per sample, rather than the single genes-by-samples table this upload needs - if so, you will need to merge your per-sample files into that format first</li>
+    <li>when merging, match rows by gene ID, not by row position - files are not guaranteed to list genes in the same order, and a positional merge can silently mix up gene counts between samples</li>
+    <li>after merging, check that no genes were lost or duplicated, and that the number of columns matches your number of samples</li>
+    <li>if you are not comfortable writing this merge yourself, an AI coding assistant (e.g. ChatGPT, Claude) can write a short script for you - for example: <i>"Write a Python (pandas) script that merges these per-sample count files into a single tab-delimited table with genes as rows and samples as columns. Join on gene ID, not row position, and print a warning if any gene is missing from an input file or if the merged table's gene count doesn't match the inputs."</i></li>
+    </ul>
+    <p><b>Sample details:</b></p>
+    <ul>
+    <li>describe your samples in the text box provided, either as a table (one row or one column per sample) or as free text, such as the Methods section of the associated paper</li>
+    <li>this description is required, and is limited to 100,000 characters (about twice the length of a typical manuscript Methods section)</li>
+    <li>if the sample names in your count file headers already describe the samples (e.g. "male_3h_rep1"), you do not need to repeat that here; but if those sample names are codes or numbers (e.g. "S001"), each one must appear somewhere in this description, along with what it means; either way, additional information such as time-series reference points (e.g. what "0h" means) or treatment details will enhance the dataset for others to use, if you choose to share it</li>
+    <li>always state the units for any numbers you mention (e.g. "age: 5 days", not "age: 5")</li>
+    <li>an AI step reads this description together with the sample names in your count file headers, and uses it to describe your samples so you can compare groups (for example, treated vs. control) in your analysis</li>
+    </ul>
+    <p>To be usable for a differential expression comparison, your samples must include at least one attribute (besides sample name) that takes at least two different values, with at least two replicate samples for each value being compared - for example, at least two samples marked "treated" and at least two marked "control".</p>
+  </details>
+
+  <details closed>
     <summary><h4>Upload your phenotype data</h4></summary>
     <ul>
     <li>Upload your phenotype data in a tab delimited .tsv or .txt file</li>
