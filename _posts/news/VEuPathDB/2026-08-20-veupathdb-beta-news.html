@@ -14,16 +14,20 @@ div.newswrapper-68e-Feb7-2025 {
 
     div.container {
       display: flex;
-      align-items: stretch;
+      align-items: flex-start;
       margin-bottom: 1em;
     }
     img {
       width: 15em;
+      height: auto;
+      flex-shrink: 0;
     }
     div.text {
       padding: 1em 2em;
       border-radius: 0.3em;
       margin-left: 0.5em;
+      flex: 1;
+      min-width: 0;
     }
     div.greyback {
       background: #f9f9f9;
