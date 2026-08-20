@@ -1,0 +1,182 @@
+---
+layout: post
+title: August 2026- FungiDB 71 Released
+category: [FungiDB]
+---
+
+<style>
+
+div.newswrapper-68e-Feb7-2025 {
+    h3 {
+      font-size: 160%;
+      margin: 1em 0 0.5em;
+    }
+
+    div.container {
+      display: flex;
+      align-items: stretch;
+      margin-bottom: 1em;
+    }
+    img {
+      width: 15em;
+      height: 100%;
+      object-fit: cover;      /* crops instead of squishing */
+      flex-shrink: 0;
+    }
+    div.text {
+      padding: 1em 2em;
+      border-radius: 0.3em;
+      margin-left: 0.5em;
+      flex: 1;
+      min-width: 0;
+    }
+    div.greyback {
+      background: #f9f9f9;
+    }
+
+    div.title {
+      font-family: system-ui;
+      font-size:1.0em;
+      font-weight:600;
+      font-style:italic
+    }
+    div.center {
+      text-align: stretch;
+    }
+    div.left {
+      text-align: left;
+    }
+    div.right {
+      text-align: right;
+    }
+
+    @media only screen and (max-width: 800px) {
+      div.container {
+        flex-wrap:wrap;
+      }
+      div.text {
+        margin-left: 0;
+      }
+    }
+
+} /* .newswrapper  */
+
+</style>
+
+<!-- ================================================= -->
+
+<div class="newswrapper-68e-Feb7-2025">
+
+   <div class="container">
+   <img  src="{{'/assets/images/news/71_features.png' | absolute_url}}" />
+   <div class="text greyback">
+    <div class="title left">MAJOR UPDATES IN FungiDB 71</div>
+    <br>
+  <div class="container">
+   <img  src="{{'/assets/images/news/71_features.png' | absolute_url}}" />
+   <div class="text greyback">
+    <div class="title left">A MILESTONE</div>
+  <p><b>Build 71 marks an important milestone for VEuPathDB/ FungiDB, </b>as our production websites are now running on new software infrastructure. These changes – nearly two years in the making and piloted on our beta-release sites over the past year – are intended to improve the long-term performance, sustainability, and cost-efficiency of VEuPathDB resources. <i>Because of the scale and scope of these changes, production sites will continue to carry the ‘beta’ designation for several months, as we monitor site performance and usability.</i></p>
+  <p>Please <a href="https://veupathdb.org/veupathdb/app/contact-us"><b>Contact Us</b></a> to report anything that you find difficult to locate or use, or that appears to be working improperly. <i>Also note that the previous VEuPathDB release remains available at <a href="https://legacy.veupathdb.org/">https://legacy.veupathdb.org/</a>.</i></p>
+  <p><b>New &amp; updated features include-</b></p>
+  <ul>
+    <li><b>Key changes in infrastructure</b>, including migration from Oracle to PostgreSQL, providing a more flexible and sustainable foundation for our databases. In addition, all genome and proteome workflows have been converted to publicly available Nextflow workflows, making VEuPathDB data-processing pipelines more reproducible, transparent, and easier to maintain and improve.</li>
+    <li><b>The VEuPathDB portal (</b><a href="https://veupathdb.org/veupathdb/app"><b>VEuPathDB.org</b></a><b>) </b> now provides full access to all gene pages, variant searches, and JBrowse views for all component sites, allowing unified exploration of data across all VEuPathDB resources.</li>
+    <li><b>Product descriptions have been updated for &gt;2.3 million genes</b> (~25% of the database), taking advantage of ARBA rules (adapted from UniProt), InterPro domain searches, and taxonomy to replace outdated or uninformative descriptions (e.g., “hypothetical protein”) with high confidence assessment of protein functions, pathways, and/or subcellular location.
+      <ul>
+        <li><i>Want to see what’s changed?</i> From the <b>Download</b> directory, you can obtain a list of all updated Gene Product Descriptions (and their previous descriptions from build 68), for each genome supported by VEuPathDB (look for “gene_product_updates_b71.txt”).</li>
+         <li>Note that manually curated sources always take priority over automatic annotations. <i>Please </i><b><i>Contact Us </i></b><i>or add a </i><b><i>User Comment </i></b><i>to further improve product descriptions or let us know of any erroneous changes!</i></li>
+      </ul></li>
+    <li><b>My Datasets: Import your own data into VEuPathDB.</b> It is now easier to upload your own datasets, seamlessly integrated with other information in VEuPathDB, letting you explore data privately and share with collaborators, in preparation for broader public release.
+      <ul>
+        <li>Supported datatypes include raw or normalized counts from RNA-seq experiments (along with tools for querying differential expression), phenotype data, generic data tables, bigWig files, gene lists, etc.</li>
+        <li>Validation helps identify problems with RNA-seq and bigWig files before upload, an updated “Help” tab guides users through preparing and uploading data, and an AI Metadata Analyzer is available for RNA-Seq raw count datasets.</li>
+        <li>Incorporate detailed metadata, making public datasets easier to discover, understand, and reuse (essential metadata is required for public release).</li>
+        <li>Users control sharing of their datasets with collaborators, and public release, advancing scientific discovery in compliance with funder &amp; journal requirements.</li>
+      </ul></li>
+    <li><b>Improved variant analysis. </b>SNP records are now represented as Short Variants (including both SNPs &amp; indels), providing a more complete view of genetic variation. The updated analysis pipeline uses modern alignment and variant-calling tools, VCF-based tracks in JBrowse make it easier to explore variants in their genomic context, and a new per-gene statistics search provides more detailed summaries of variation across genes.</li>
+    <li>A new <b>User-Comment </b>interface makes it easier to contribute evidence and update information about individual genes. AI-assisted drafting helps you turn a short note or uploaded PDF into well-formed annotations visible to the research community.</li>
+    <li><b>Web Services Access. </b>Users can now access their personal <b>VEuPathDB API key</b> directly from their user account, enabling programmatic access to VEuPathDB data and the ability to build multi-step searches, analyze data, and download results through the REST API.</li>
+    <li><b>Organism Presets.</b> Save a set of organisms you use often for convenient use in any search. A new option also permits expanding the tree to display your selections in phylogenetic context.</li>
+    </li><li><b>Additional data and analysis updates:</b> This release also includes refreshed <b>Gene Ontology, InterPro, SignalP, and IEDB epitope annotations</b>, BUSCO assessments across all organisms, and improvements in sample-detail and bulk RNA-seq searches, including new notebook-style interfaces.</li>
+    <p><b><i>150 New Datasets </i></b>have been released in builds 69, 70 &amp; 71, including 48 genomes &amp; annotation, 67 RNA-seq experiments, and 35 other datasets. Datasets released in build 71 are listed below (see prior news items for datasets from previous releases).</p>
+  </ul>
+  </div>
+  </div>
+
+<div class="container">
+  <img  src="{{'/assets/images/news/71_data.png' | absolute_url}}" />
+  <div class="text greyback">
+    <div class="title left">New data in FungiDB 71</div>
+<b>Genomes and Annotation</b>
+    <ul>
+      <li><a href="https://fungidb.org/fungidb/app/record/organism/TMPTX_enecEnFRAME01"><i>Erysiphe necator </i>EnFRAME01</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/organism/TMPTX_pcacP414"><i>Phytophthora cactorum </i>P414</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/organism/TMPTX_plinCAN1"><i>Plenodomus lingam </i>CAN1</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/organism/NCBITAXON_665912"><i>Bipolaris sorokiniana </i>ND90Pr</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/organism/TMPTX_adauA2016"><i>Alternaria dauci </i>A2016</a></li>
+      <li><i>Structural annotation update</i>: <a href="https://docs.google.com/spreadsheets/d/1vqT6Zt9qZ6fUJkpK3-b6UXwHYBI9N5u8uyPUaYahkoM/edit?gid=1112700546#gid=1112700546"><i>Fusarium graminearum </i>PH-1</a></li>
+    </ul>
+<br>
+<b>RNA-Seq</b>
+    <ul>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_cbff167710"><i>Candida albicans </i>Effects of pH on the transcriptional profile of adenylate cyclase (cyr1) mutants</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_df90ad7d51"><i>Puccinia triticina </i>growth on Lr34 resistant and susceptible wheat plants</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_7d5483e664"><i>Blumeria hordei </i>growth on Lr34 resistant and susceptible barley plants</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_265d9acbef"><i>Malassezia restricta </i>response to the treatment with ketoconazole</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_c645daa96b">RNA-seq of <i>Phytophthora infestans </i>T30-4 two infection stages</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_7d78bd262b"><i>Phytophthora cactorum </i>RNA-Seq of mycelia, zoospores and germinating cysts</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_aab0295c62"><i>Plenodomus lingam </i>RNA-Seq of KMT1 and Pf2 mutants</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_0b14ef2b45"><i>Neurospora crassa </i>Transcriptional profiling of the TF factor pp-1</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_a210408c91"><i>Sclerotinia sclerotiorum </i>1980 UF-70 Transcriptome during the colonization of plant species</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_3b1640237f"><i>Sclerotinia sclerotiorum </i>1980 UF-70 RNA-Seq (Single-end reads)</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_e9682e8acc"><i>Fusarium oxysporum </i>f. sp. lycopersici 4287 RNA-seq (paired reads)</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_ee3a10fda7">RNA-seq analysis of <i>Fusarium oxysporum </i>antifungal drug resistance</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_efa5c53377">RNA-seq dataset for <i>Fusarium solani </i>response to antifungal agents</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_2c61427692"><i>Aspergillus fumigatus </i>Af293 Transcriptomic changes during spore germination</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_a5b69f4635"><i>Aspergillus nidulans </i>FGSC A4 Transcriptomic changes during spore germination</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_38f551c036"><i>Fusarium oxysporum </i>f. sp. lycopersici 4287 Transcriptomic changes during spore germination</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_511407a930">Transcriptional response of <i>Ustilago maydis </i>to hemin treatment</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_860ef9399b">Expression profiles of <i>Verticillium dahliae </i>co-cultured with <i>Arabidopsis</i> roots</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_23800c0aa4">mRNA profiling in <i>Ustilago maydis </i>under RUS (repopulation/regrowth under starvation)</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_99097c86ef">HaCaT keratinocytes co-cultured with <i>Trichophyton</i> spp</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_61a83bf229">RNA-Seq of WT, set1 and dim-5 mutants</a></li>
+    </ul>
+<br>
+<b>Short Variants (SNPs and indels)</b>
+    <ul>
+      <li><i>Fulvia fulva </i>Race5_Kim SNPs</li>
+      <li><i>Candida albicans </i>SNPs</li>
+      <li><i>Nakaseomyces glabratus </i>SNPs</li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_d9b29fa189">Populational diversity of <i>Pyricularia oryzae</i></a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_f889931f4e"><i>Cercospora beticola </i>population genomics study</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_4e3b9ddba4">Resequencing of a global collection of <i>Pyricularia oryzae </i>isolates</a></li>
+      <li>Whole genome sequencing of <i>Pyricularia oryzae </i>fungi isolated from rice</li>
+      <li>Whole genome sequencing of 88 isolates of <i>Pyricularia oryzae </i></li>
+    </ul>
+<br>
+ <b>ChIP-seq and ATAC-seq</b>
+    <ul>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_5e8ecf943f">ATAC-seq of <i>Phytophthora infestans </i>T30-4 two infection stages</a></li>
+      <li><a href="https://fungidb.org/fungidb/app/record/dataset/DS_358e6f9003">ChIP-seq of <i>Phytophthora infestans </i>T30-4 mycelium</a></li>
+    </ul>
+  </div>
+  </div>
+  </div>
+</div>
+
+<div class="container">
+   <img  src="{{'/assets/images/news/70_connect.png' | absolute_url}}" />
+   <div class="text greyback">
+    <div class="title left">SEE US IN PERSON!</div>  
+  <p><i><b>Connect with VEuPathDB at these upcoming meetings!</b></i></p>
+  <ul>
+    <li><b>KMCB</b> (Kinetoplastid Molecular Cell Biology Meeting), 8-12 September, 2026, Woods Hole, MA, USA</li>
+    <li><b>MPM XXXVII </b>(Molecular Parasitology Meeting), 13-17 September, 2026, Woods Hole, MA, USA</li>
+  </ul>
+   </div>
+  </div>
+
+
+</div>  <!--  .newswrapper   -->
+
