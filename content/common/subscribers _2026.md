@@ -302,6 +302,7 @@ h1, h2 {
     <div>Kooij group, Radboud Univ NL</div>
     <div>Kowalinski group, EMBL Grenoble FR</div>
     <div>Kramer group, Univ Wuerzburg DE</div>
+    <div>Kritsiligkou group, Univ Liverpool GB</div>
     <div>Krysan group, Univ Iowa US</div>
     <div>Krzywinski group, Polo GGB IT</div>
     <div>Lakin-Thomas group, York Univ CA</div>
