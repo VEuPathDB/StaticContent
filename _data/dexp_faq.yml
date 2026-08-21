@@ -77,7 +77,7 @@
            - A dataset name
            - A brief summary (up to 400 characters)
            
-           To share your dataset as a community-contributed dataset, you will also need to provide:
+           To make your dataset publicly accessible for reuse by the broader research community, you will also need to provide:
            - A variable annotation file in .csv, .tsv, or tab-delimited .txt format, that contains the following columns: 
              - <b>variable</b>: the variable name, exactly as it appears in the data file
              - <b>label</b>: a human-readable name displayed throughout the website to help users identify and understand the variable
@@ -89,7 +89,7 @@
              - Information about any external data sources
              - Reuse considerations (e.g., missing data, potential biases, or other limitations that may affect interpretation or reuse)
              
-             This additional information is not required for private datasets or those shared only with collaborators, but providing it will improve clarity, usability, and reuse.
+             This additional information is not required for private datasets or those shared directly with collaborators, but providing it will improve clarity, usability, and reuse.
   uid: u4
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: upload 
@@ -115,15 +115,15 @@
            
            From there, you can choose between two access levels:
            - Individual Access – Grant access to specific collaborators, who will be able to view, explore, and download your private dataset.
-           - Community Access – Make the dataset discoverable by the broader research community. Datasets shared with the community immediately become visible in the dataExplorer dataset catalog and can be explored and downloaded by other users of the platform.
+           - Public Access – Make the dataset discoverable by the broader research community. Datasets that have been granted public access immediately become visible in the dataExplorer dataset catalog and can be explored and downloaded by other users of the platform.
   uid: s1
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: sharing 
   question: "How do I determine an appropriate access level for my dataset?"
   answer: |
            Dataset contributors decide who can discover, explore, and download their datasets on dataExplorer.
-           - Private datasets are accessible only to the dataset owner and collaborators whom the owner explicitly invites.
-           - Community-contributed datasets are discoverable, explorable, and downloadable by the broader research community.
+           - Private datasets are accessible only to the dataset owner and collaborators whom the owner explicitly invites via Individual access.
+           - Public datasets are discoverable, explorable, and downloadable by the broader research community.
            
            When choosing an access level, contributors should consider factors such as participant consent, IRB requirements, institutional or funder data-sharing policies, and the status of related analyses or manuscripts (for example, whether results are still being analyzed or the primary manuscript has already been published).
   uid: s2
@@ -131,7 +131,7 @@
 - type: sharing 
   question: "Can I change my dataset’s access level later?"
   answer: |
-           Yes! You can change your dataset’s access level at any time. Many contributors keep datasets private during analysis and manuscript preparation, and then make them accessible to the community after publication. Community-contributed datasets can also be made private again if needed.
+           Yes! You can change your dataset’s access level at any time. Many contributors keep datasets private during analysis and manuscript preparation, and then make them accessible to the community after publication. Public datasets can also be made private again if needed.
   uid: s3
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: sharing 
@@ -148,9 +148,10 @@
            Your search will return:
            - Datasets that contain the term in their name or description
            - Variables that include the term in the variable name, definition, or other metadata
-           - Variable values that include the term in a value label
+
+           Variable values are not included in the search at this time.
            
-           Each result links directly to the dataset, variable, or value of interest, allowing you to quickly explore metadata, summary statistics, and distributions to determine whether a dataset is relevant to your research.
+           Each result links directly to the dataset or variable, allowing you to quickly explore metadata, summary statistics, and distributions to determine whether a dataset is relevant to your research.
            
            To broaden your results, try searching for synonyms or related terms.
   uid: e1
@@ -160,7 +161,7 @@
   answer: |
            Data dictionaries are essential for making datasets interpretable, reusable, and reproducible, especially for researchers who were not involved in generating the data.
            
-           In dataExplorer, variables are documented using a variable annotation file that the data contributor uploads alongside their dataset. For each variable, the data contributor provides a human-readable label and definition in addition to the original variable name (the column header in their uploaded data file).
+           In dataExplorer, variables are documented using a variable attributes file that the data provider uploads alongside their dataset. For each variable, the data provider supplies a human-readable label and definition in addition to the original variable name (the column header in their uploaded data file).
            
            This information is used by dataExplorer to generate an interactive data dictionary for the dataset. Instead of viewing variable documentation in a static spreadsheet or PDF, users can:
            - Browse and search variables
@@ -189,17 +190,17 @@
 - type: cite 
   question: "How should datasets hosted on dataExplorer be cited?"
   answer: |
-           When citing a dataset that you accessed via dataExplorer, you can use the “Copy citation” button on the Download tab of a dataset. Please include the authors, dataset name, date of release and release number on dataExplorer, study page URL, and the fact that the data came from dataExplorer. For example, the citation for the PRISM Cohort study would be:
+           When citing a dataset that you accessed via dataExplorer, you can use the “Copy citation” button on the Download tab of a dataset. Please include the authors, dataset name, date of release and release number on dataExplorer, study page URL, and the fact that the data came from dataExplorer. For example, the citation for the <b><i>A. lumbricoides</i> burden in Ethiopia, 2022</b> dataset would be:
            
-           Grant Dorsey, Moses Kamya, Bryan Greenhouse, et al. Dataset: PRISM ICEMR Cohort. ClinEpiDB. 03 March 2022, Release 21 (https://clinepidb.org/ce/app/workspace/analyses/DS_0ad509829e/new)
-           
+           Toby Landeryou, Roy Anderson, Ufaysa Angulo, et al. Dataset: A. lumbricoides burden in Ethiopia, 2022. dataExplorer. 2026-06-26, v1 (https://dataexplorer.org/dexp/app/workspace/analyses/EDAUD_VcJ5w1Zdl50pJ/new/)
+
            You can also find links to original publications using the dataset on the View Dataset Details tab, which you may also want to cite.
   uid: c1
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: cite 
   question: "Will my dataset receive a persistent identifier?"
   answer: |
-           Yes! Each dataset is assigned their own stable identifier that begins with ‘DS_’. This identifier is present in all URLs associated with that dataset, and should be included when citing the dataset.
+           Yes! Each dataset is assigned their own stable identifier that begins with ‘EDAUD_’. This identifier is present in all URLs associated with that dataset, and should be included when citing the dataset.
   uid: c2
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: data_govern 
