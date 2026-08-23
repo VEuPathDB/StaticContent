@@ -29,10 +29,10 @@
            Yes. A free VEuPathDB account is required to upload a dataset, access datasets privately shared with you, explore data in the analysis workspace, or save analyses.
            
            To create an account:
-           - Hover over the Guest icon in the upper-right corner of the page and click Register.
-           - Complete the registration form and click Register.
-           - A confirmation message will appear indicating that registration was successful.
-           - Check your email to retrieve your temporary password.
+           1. Hover over the Guest icon in the upper-right corner of the page and click Register.
+           2. Complete the registration form and click Register.
+           3. A confirmation message will appear indicating that registration was successful.
+           4. Check your email to retrieve your temporary password.
            
            You only need one account for all VEuPathDB websites. If you already have an account for another VEuPathDB resource, such as ClinEpiDB, PlasmoDB, or MicrobiomeDB, you can use the same credentials to log in to dataExplorer and other VEuPathDB sites.
   uid: g4
@@ -41,10 +41,10 @@
   question: "How can I change the password associated with my VEuPathDB account?"
   answer: |
            To change your password:
-           - Log in to your account.
-           - Hover over the account icon in the upper-right corner of the page (labeled Guest before login and your username after login) and click My Account.
-           - In the left panel, click Security.
-           - Click Change your password and follow the instructions.
+           1. Log in to your account.
+           2. Hover over the account icon in the upper-right corner of the page (labeled Guest before login and your username after login) and click My Account.
+           3. In the left panel, click Security.
+           4. Click Change your password and follow the instructions.
   uid: g5
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: upload 
