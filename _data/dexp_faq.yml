@@ -28,13 +28,14 @@
   answer: |
            Yes. A free VEuPathDB account is required to upload a dataset, access datasets privately shared with you, explore data in the analysis workspace, or save analyses.
            
-           To create an account:
-           1. Hover over the Guest icon in the upper-right corner of the page and click Register.
-           2. Complete the registration form and click Register.
+           To create an account, [visit the registration page](https://dataexplorer.org/dexp/app/user/registration){:target='_blank'}, or follow these instructions from any page on dataExplorer:
+:
+           1. Hover over the <b>Guest</b> icon in the upper-right corner of the page and click <b>Register</b>.
+           2. Complete the registration form and click <b>Register</b>.
            3. A confirmation message will appear indicating that registration was successful.
            4. Check your email to retrieve your temporary password.
            
-           You only need one account for all VEuPathDB websites. If you already have an account for another VEuPathDB resource, such as ClinEpiDB, PlasmoDB, or MicrobiomeDB, you can use the same credentials to log in to dataExplorer and other VEuPathDB sites.
+           You only need <b>one account for all VEuPathDB websites</b>. If you already have an account for another VEuPathDB resource, such as ClinEpiDB, PlasmoDB, or MicrobiomeDB, you can use the same credentials to log in to dataExplorer and other VEuPathDB sites.
   uid: g4
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: getting_started
@@ -42,9 +43,9 @@
   answer: |
            To change your password:
            1. Log in to your account.
-           2. Hover over the account icon in the upper-right corner of the page (labeled Guest before login and your username after login) and click My Account.
-           3. In the left panel, click Security.
-           4. Click Change your password and follow the instructions.
+           2. Hover over the <b>account icon</b> in the upper-right corner of the page (labeled <b>Guest</b> before login and your <b>username</b> after login) and click <b>My Account</b>.
+           3. In the left panel, click <b>Security</b>.
+           4. Click <b>Change your password</b> and follow the instructions.
   uid: g5
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: upload 
@@ -103,27 +104,27 @@
 - type: upload 
   question: "Can I delete my dataset?"
   answer: |
-           Yes! You can delete your dataset at any time. Click Manage My Datasets under the Workspace menu in the website header. From there, select the dataset you want to delete and click on the Delete button on the upper right side of the table. 
+           Yes! You can delete your dataset at any time. Click <b>Manage My Datasets</b> under the <b>Workspace</b> menu in the website header. From there, select the dataset you want to delete and click on the <b>Delete</b> button on the upper right side of the table. 
   uid: u6
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: sharing 
   question: "How do I manage who can access my dataset?"
   answer: |
-           All datasets are private by default and visible only to the dataset owner.
+           All datasets are <b>private by default</b> and visible only to the dataset owner.
            
-           You can manage access to your dataset directly within dataExplorer. Open Manage My Datasets from the Workspace menu in the website header, select a dataset, and click the Manage Access button on the upper right side of the table.
+           You can manage access to your dataset directly within dataExplorer. Open <b>Manage My Datasets</b> from the <b>Workspace</b> menu in the website header, select a dataset, and click the <b>Manage Access</b> button on the upper right side of the table.
            
            From there, you can choose between two access levels:
-           - Individual Access – Grant access to specific collaborators, who will be able to view, explore, and download your private dataset.
-           - Public Access – Make the dataset discoverable by the broader research community. Datasets that have been granted public access immediately become visible in the dataExplorer dataset catalog and can be explored and downloaded by other users of the platform.
+           - <b>Individual Access</b> – Grant access to specific collaborators, who will be able to view, explore, and download your private dataset.
+           - <b>Public Access</b> – Make the dataset discoverable by the broader research community. Datasets that have been granted public access immediately become visible in the dataExplorer dataset catalog and can be explored and downloaded by other users of the platform.
   uid: s1
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: sharing 
   question: "How do I determine an appropriate access level for my dataset?"
   answer: |
            Dataset contributors decide who can discover, explore, and download their datasets on dataExplorer.
-           - Private datasets are accessible only to the dataset owner and collaborators whom the owner explicitly invites via Individual access.
-           - Public datasets are discoverable, explorable, and downloadable by the broader research community.
+           - <b>Private datasets</b> are accessible only to the dataset owner and collaborators whom the owner explicitly invites via Individual access.
+           - <b>Public datasets</b> are discoverable, explorable, and downloadable by the broader research community.
            
            When choosing an access level, contributors should consider factors such as participant consent, IRB requirements, institutional or funder data-sharing policies, and the status of related analyses or manuscripts (for example, whether results are still being analyzed or the primary manuscript has already been published).
   uid: s2
@@ -146,8 +147,8 @@
            You can search for datasets using the search bar in the dataExplorer site header. Enter a keyword related to your topic of interest, and the search will return results from datasets your account has access to: those you own, datasets shared with you, and community-contributed datasets. Private datasets owned by others that have not been shared with you will not appear in search results.
            
            Your search will return:
-           - Datasets that contain the term in their name or description
-           - Variables that include the term in the variable name, definition, or other metadata
+           - <b>Datasets</b> that contain the term in their name or description
+           - <b>Variables</b> that include the term in the variable name, definition, or other metadata
 
            Variable values are not included in the search at this time.
            
@@ -176,9 +177,9 @@
 - type: explore 
   question: "Can I export visualizations or analyses created in dataExplorer?"
   answer: |
-           Yes! Visualizations can be exported in SVG or PNG format using the Export plot button in the lower right corner of each plot.
+           Yes! Visualizations can be exported in SVG or PNG format using the <b>Export plot</b> button in the lower right corner of each plot.
            
-           You can also generate a shareable URL for any analysis by clicking the Share Analysis button in the top right of the dataset workspace. This link can be shared with collaborators or included in manuscripts. Opening the link creates a copy of the analysis in the recipient’s account, allowing them to modify parameters and explore further.
+           You can also generate a shareable URL for any analysis by clicking the <b>Share Analysis</b> button in the top right of the dataset workspace. This link can be shared with collaborators or included in manuscripts. Opening the link creates a copy of the analysis in the recipient’s account, allowing them to modify parameters and explore further.
   uid: e3
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: explore 
@@ -190,11 +191,11 @@
 - type: cite 
   question: "How should datasets hosted on dataExplorer be cited?"
   answer: |
-           When citing a dataset that you accessed via dataExplorer, you can use the “Copy citation” button on the Download tab of a dataset. Please include the authors, dataset name, date of release and release number on dataExplorer, study page URL, and the fact that the data came from dataExplorer. For example, the citation for the <b><i>A. lumbricoides</i> burden in Ethiopia, 2022</b> dataset would be:
+           When citing a dataset that you accessed via dataExplorer, you can use the “Copy citation” button on the <b>Download</b> tab of a dataset. Please include the authors, dataset name, date of release and release number on dataExplorer, study page URL, and the fact that the data came from dataExplorer. For example, the citation for the <b><i>A. lumbricoides</i> burden in Ethiopia, 2022</b> dataset would be:
            
            Toby Landeryou, Roy Anderson, Ufaysa Angulo, et al. Dataset: A. lumbricoides burden in Ethiopia, 2022. dataExplorer. 2026-06-26, v1 (https://dataexplorer.org/dexp/app/workspace/analyses/EDAUD_VcJ5w1Zdl50pJ/new/)
 
-           You can also find links to original publications using the dataset on the View Dataset Details tab, which you may also want to cite.
+           You can also find links to original publications using the dataset on the <b>View Dataset Details</b> tab, which you may also want to cite.
   uid: c1
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: cite 
@@ -236,13 +237,13 @@
            
            Dataset contributors are expected to ensure that all uploaded data have been appropriately de-identified and comply with applicable ethical, institutional, and regulatory requirements before uploading to the platform. Direct identifiers (such as names) must be removed, and indirect identifiers (such as dates or precise locations) should be generalized or obfuscated when necessary to protect participant privacy.
            
-           If you encounter a dataset on dataExplorer that appears to contain PII, please Contact Us so we can review and remove it promptly.
+           If you encounter a dataset on dataExplorer that appears to contain PII, please [<b>Contact Us</b>](https://dataexplorer.org/dexp/app/contact-us){:target='_blank'} so we can review and remove it promptly.
   uid: dg4
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: data_govern 
   question: "How does dataExplorer protect human subject data?"
   answer: |
-           Use of dataExplorer constitutes agreement to our Data Access and Use Policy.
+           Use of dataExplorer constitutes agreement to our [<b>Data Access and Use Policy</b>](https://dataexplorer.org/dexp/app/static-content/dataExplorer/access_and_use.html){:target='_blank'}.
            
            dataExplorer supports multiple data access levels to help protect human subject privacy. Contributors can choose whether datasets remain private, are shared only with approved collaborators, or made accessible to the broader research community.
   uid: dg5
@@ -260,7 +261,7 @@
 - type: technical 
   question: "Is dataExplorer a data repository?"
   answer: |
-           dataExplorer is a knowledgebase that makes data more FAIR (findable, accessible, interoperable, and reusable). While datasets can be accessed, explored, and downloaded from our website, we also recommend depositing your data in a formal repository such as Synapse or Harvard Dataverse to ensure long-term preservation.
+           dataExplorer is a knowledgebase that makes data more FAIR (findable, accessible, interoperable, and reusable). While datasets can be accessed, explored, and downloaded from our website, we also recommend depositing your data in a formal repository such as [Synapse](https://www.synapse.org/){:target='_blank'} or [Harvard Dataverse](https://dataverse.harvard.edu/){:target='_blank'} to ensure long-term preservation.
   uid: t2
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: technical 
@@ -280,6 +281,6 @@
 - type: technical 
   question: "Can I access the code used for dataExplorer?"
   answer: |
-           Yes! Our code is maintained using Git, and we welcome input from the community.
+           Yes! Our code is maintained using [Git](https://github.com/VEuPathDB){:target='_blank'}, and we welcome input from the community.
   uid: t5
   projects: "ClinEpiDB,AllClinEpiDB"
