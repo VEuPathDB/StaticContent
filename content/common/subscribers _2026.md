@@ -5,85 +5,10 @@ permalink: subscribers_2026
 tags: [general]
 ---
 
-<style>
-
-.static-content  {
-  font-family: Arial, sans-serif;
-  background: #fafafa;
-  color: #333;
-  padding: 20px;
-}
-
-.container {
-  max-width: 1200px;
-  margin: auto;
-}
-
-h1, h2 {
-  text-align: center;
-  color: #2c3e50;
-}
-
-/* ⬇️ Main column layout */
-.columns-balanced {
-  column-count: 3;
-  column-gap: 20px;
-}
-
-/* ⬇️ Styling for each name block */
-.columns-balanced {
-  break-inside: avoid;
-  padding: 10px 15px;
-  margin-bottom: 0.5em;
-  background: #fff;
-  box-shadow: 0 0 5px rgba(0,0,0,0.1);
-  border-radius: 5px;
-  margin-bottom: 0.5em;
-}
-
-.columns-balanced div {
-  padding-left: 1.5em;
-  text-indent: -1.5em; 
-}
-
-/* ⬇️ Alternate shading for even columns */
-.columns-balanced:nth-child(even) {
-  background: #f0f0f0;
-}
-
-/* ⬇️ Institutions block */
-.institutions {
-  margin-top: 40px;
-  background: #e9f7ef;
-  padding: 15px;
-  border-radius: 5px;
-  box-shadow: 0 0 5px rgba(0,0,0,0.1);
-  line-height: 1.6;
-  margin-bottom: 0.5em;
-}
-
-.institutions div {
-  padding-left: 1.5em;
-  text-indent: -1.5em; 
-}
-
-/* ⬇️ Responsive breakpoints */
-@media (max-width: 900px) {
-  .columns-balanced {
-    column-count: 2;
-  }
-}
-
-@media (max-width: 600px) {
-  .columns-balanced {
-    column-count: 1;
-  }
-}
-</style>
-
-
 
 <h1>Thank You to Our 2026 Supporters!</h1>
+
+{% include css/subscriptions_2026.css  %}
 
 <div class="static-content">
 
