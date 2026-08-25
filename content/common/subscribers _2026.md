@@ -131,6 +131,7 @@ tags: [general]
     <div>Djamei group, Univ of Bonn DE</div>
     <div>Douglas group, Justus Liebig Univ Giessen DE</div>
     <div>Dunlap group, Dartmouth College US</div>
+    <div>Duraisingh group, Harvard T. H. Chan School of Public Health US</div>
     <div>Dvorin group, Boston Children's Hosp US</div>
     <div>Echeverry group, National Univ of Colombia INRS CO</div>
     <div>Egan group, Stanford Univ US</div>
