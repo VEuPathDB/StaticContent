@@ -3,7 +3,11 @@ permalink: invoice_help
 title: How to Complete the Invoice Form
 tags: [general]
 ---
+
+<h1>How to Complete the Invoice Form</h1>
+
 <style>
+
 .help-page img {
   display: block;
   max-width: 100%;
@@ -34,11 +38,7 @@ tags: [general]
 }
 </style>
 
-
-<div class="help-page">
-
-
-<h2>How to Complete the Invoice Form</h2>
+<div class="static-content help-page">
 
 <p>This page provides instructions and guidance for filling out the <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_dd9qC4SU0SU343A" target="_blank">VEuPathDB invoice form</a>. </p>
 
