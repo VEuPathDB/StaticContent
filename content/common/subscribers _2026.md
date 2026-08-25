@@ -5,14 +5,9 @@ permalink: subscribers_2026
 tags: [general]
 ---
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Acknowledgments</title>
-
 <style>
-body {
+
+.static-content  {
   font-family: Arial, sans-serif;
   background: #fafafa;
   color: #333;
@@ -87,12 +82,13 @@ h1, h2 {
 </style>
 
 
-</head>
+
+<h1>Thank You to Our 2026 Supporters!</h1>
+
+<div class="static-content">
 
 
-<body>
   <div class="container">
-  <h1>Thank You to Our 2026 Supporters!</h1>
 
   <h3>VEuPathDB gratefully acknowledges the individuals and labs who have subscribed in 2026, helping ensure that essential informatics resources remain accessible to the entire research community. We launched our subscription system in 2025 with the goal of long-term financial sustainability. With your contributions, we are continuing to support tens of thousands of mycology, parasitology, and vector biology researchers worldwide in 2026.</h3>
 
@@ -103,7 +99,9 @@ h1, h2 {
     <li>This list is updated on a weekly basis as new subscriptions come in</li>
     <li>Some individuals/labs may be covered under pooled institutional subscriptions (see below)</li>
   </ul>
+
   </div>
+
   <br>
   <br>
 
@@ -537,7 +535,7 @@ h1, h2 {
    <div>Univ Montpellier FR – Claessens, Cerdan, Gomes & Hollin groups</div>
    <div>Viruses and RNA Interference Unit, Institut Pasteur FR- Koh & Saleh groups</div>
   </div>
+
+
 </div>
 
-</body>
-</html>
