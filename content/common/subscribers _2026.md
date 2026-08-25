@@ -114,6 +114,7 @@ h1, h2 {
 
   <div class="columns-balanced">
     <div>Absalon group, Indiana Univ US</div>
+    <div>Adams lab, Michigan State Univ US</div>
     <div>Adams group, Univ South Florida US</div>
     <div>Adelman group, Texas A&M Univ US</div>
     <div>Aguirre group, National Autonomous Univ of Mexico MX</div>
@@ -443,12 +444,14 @@ h1, h2 {
     <div>Sinha group, Jhargram Raj College IN</div>
     <div>Sinnis group, Johns Hopkins Univ US</div>
     <div>Slamovits lab, Dalhousie Univ CA</div>
+    <div>Small-Saunders group, Columbia Univ US</div>
     <div>Smircich group, Univ de la República UY</div>
     <div>Smith group, Univ Buffalo US</div>
     <div>Soares group, Federal Univ of Piauí, BR</div>
     <div>Soldati-Favre group, Univ Genève CH</div>
     <div>Spaeth group, Institut Pasteur FR</div>
     <div>Stajich group, Univ California Riverside US</div>
+    <div>Stefely group, Morgridge Inst US</div>
     <div>Sterkers group, Univ Montpellier FR</div>
     <div>Striepen group, Univ Pennsylvania US</div>
     <div>Striker group, Univ of Wisconsin-Madison US</div>
