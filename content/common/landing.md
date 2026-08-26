@@ -2,6 +2,9 @@
 permalink: /landing
 title: VEuPathDB landing
 ---
+
+<h1>Learning about VEuPathDB</h1>
+
 <style>
 
 .flex-container {
@@ -31,7 +34,6 @@ title: VEuPathDB landing
 
 </style>
 
-<h1>Learning about VEuPathDB</h1>
 
 <div class="static-content flex-container">
 
