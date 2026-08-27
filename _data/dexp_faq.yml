@@ -10,8 +10,8 @@
            
            dataExplorer is designed to help you make your datasets FAIR with minimal overhead:
            - <b>Findable</b>: Your dataset becomes searchable by dataset name, identifier, description, variables, and value labels, making it easier for others to discover relevant data.
-           - <b>Accessible</b>: You control when to grant Community Access to your dataset, which makes it open access. Once shared as a Community-Contributed Dataset, it can be discovered, explored, and downloaded by other users. Private and Individual Access levels support collaboration and early-stage data sharing. However, to be fully FAIR, datasets should be broadly discoverable and accessible.
-           - <b>Interoperable</b>: Community-Contributed datasets require you to provide variable annotations, ensuring each variable has a clear label and definition. This improves consistency and lays the foundation for future harmonization across datasets.
+           - <b>Accessible</b>: You control when to make your dataset public. Once public, your dataset becomes open-access and can be discovered, explored, and downloaded by other users. Private and Individual Access levels support collaboration and early-stage data sharing. However, to be fully FAIR, datasets should be broadly discoverable and accessible.
+           - <b>Interoperable</b>: Public datasets must have each variable annotated with a clear label and definition. This improves consistency and lays the foundation for future harmonization across datasets.
            - <b>Reusable</b>: Dataset-level metadata provide essential context and establish provenance, while built-in exploratory tools allow users to assess variable coverage, data completeness, and distributions before downloading, supporting appropriate interpretation and reuse.
            
            By combining structured metadata, clear documentation, flexible sharing infrastructure, and interactive exploration tools, dataExplorer helps transform your dataset from a static file into a well-documented, discoverable, and reusable research resource, while you retain full control over when it is shared.
@@ -79,7 +79,7 @@
            - A brief summary (up to 400 characters)
            
            To make your dataset publicly accessible for reuse by the broader research community, you will also need to provide:
-           - A variable annotation file in .csv, .tsv, or tab-delimited .txt format, that contains the following columns: 
+           - A variable attributes file in .csv, .tsv, or tab-delimited .txt format, that contains the following columns: 
              - <b>variable</b>: the variable name, exactly as it appears in the data file
              - <b>label</b>: a human-readable name displayed throughout the website to help users identify and understand the variable
              - <b>definition</b>: a description for each variable
