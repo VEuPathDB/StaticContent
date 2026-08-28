@@ -73,8 +73,11 @@ title: VEuPathDB landing
     <button><a href="/a/app/contact-us">Contact Us</a></button>
   </div>
 
+
+</div>
+
+
 <div align="center">
-<p>
 <h4>VEuPathDB Calendar of Events</h4>
 <iframe
   src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=c_qlogpapbubfhu3g7rh3ek289ac@group.calendar.google.com&color=%23039BE5&showTz=1&showCalendars=0&showTabs=0&showPrint=0&showDate=1&showNav=1&showTitle=0"
@@ -84,7 +87,5 @@ title: VEuPathDB landing
   frameborder="0"
   scrolling="no">
 </iframe>
-</p>
 </div>
 
-</div>
