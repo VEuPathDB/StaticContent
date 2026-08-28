@@ -219,6 +219,7 @@ tags: [general]
     <div>Kelliher group, Univ of Massachusetts US</div>
     <div>Kelly group, Louisiana State Univ HSC US</div>
     <div>Kirkland group, Univ of California, San Diego US</div>
+    <div>Kirkman group, Weill Cornell Medicine US</div>
     <div>Kissinger group, Univ Georgia US</div>
     <div>Klemba group, Virginia Polytechnic Institute and State Univ US</div>
     <div>Knuepfer group, Royal Veterinary College UK</div>
@@ -238,6 +239,7 @@ tags: [general]
     <div>Lebedinec group, Mushroomplus UK</div>
     <div>Lebrun group, Univ Montpellier FR</div>
     <div>Lee group, Rutgers Univ US</div>
+    <div>Leffler group, Univ of Utah US</div>
     <div>León Avila group, National School of Biological Sciences MX</div>
     <div>Leger-Abraham group, Harvard Medical School US</div>
     <div>Le Roch group, Univ California Riverside US</div>
@@ -256,6 +258,7 @@ tags: [general]
     <div>Maringer group, Pirbright Inst UK</div>
     <div>Marten group, Univ Maryland US</div>
     <div>Marti group, Univ Glasgow UK</div>
+    <div>Martínez-Calvillo group, National Autonomous Univ of Mexico MX</div>
     <div>Martins group, Univ of Brasília BR</div>
     <div>Martorelli Di Genova group, Univ Vermont US</div>
     <div>McClelland group, Wood College Osteopathic Med, Marian Univ US</div>
@@ -373,6 +376,7 @@ tags: [general]
     <div>Smith group, Univ Buffalo US</div>
     <div>Soares group, Federal Univ of Piauí, BR</div>
     <div>Soldati-Favre group, Univ Genève CH</div>
+    <div>Sorrells group, Yale Univ US</div>
     <div>Spaeth group, Institut Pasteur FR</div>
     <div>Stajich group, Univ California Riverside US</div>
     <div>Stefely group, Morgridge Inst US</div>
