@@ -4,6 +4,10 @@ title: VEuPathDB Webinars
 permalink: /webinars
 tags: [general]
 ---
+<p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> Webinars</p>
+
+<h1 id="resources">VEuPathDB Webinars</h1>
+
 <style>
   div.static-content {
     details {
@@ -27,10 +31,6 @@ tags: [general]
   }
 </style>
 
-
-<p><a href="/">Home</a> >> Help >> <a href="/a/app/static-content/landing.html">Learn how to use VEuPathDB</a> >> Webinars</p>
-
-<h1 id="resources">VEuPathDB Webinars</h1>
 
 <div class="static-content">
 
