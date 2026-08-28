@@ -136,7 +136,7 @@
   uid: s3
   projects: "ClinEpiDB,AllClinEpiDB"
 - type: sharing 
-  question: "Do I have to make my dataset accessible to the community after uploading it?"
+  question: "Do I have to make my dataset publicly accessible after uploading it?"
   answer: |
            No! dataExplorer never requires datasets to be made public. You can keep your dataset private and use dataExplorer’s tools to organize, explore, and analyze your data.
   uid: s4
@@ -144,7 +144,7 @@
 - type: explore 
   question: "How can I find datasets relevant to my research?"
   answer: |
-           You can search for datasets using the search bar in the dataExplorer site header. Enter a keyword related to your topic of interest, and the search will return results from datasets your account has access to: those you own, datasets shared with you, and community-contributed datasets. Private datasets owned by others that have not been shared with you will not appear in search results.
+           You can search for datasets using the search bar in the dataExplorer site header. Enter a keyword related to your topic of interest, and the search will return results from datasets your account has access to: those you own, datasets shared with you, and public user datasets. Private datasets owned by others that have not been shared with you will not appear in search results.
            
            Your search will return:
            - <b>Datasets</b> that contain the term in their name or description
