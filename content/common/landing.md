@@ -73,7 +73,6 @@ title: VEuPathDB landing
     <button><a href="/a/app/contact-us">Contact Us</a></button>
   </div>
 
-</div>
 <div align="center">
 <p>
 <h4>VEuPathDB Calendar of Events</h4>
@@ -88,3 +87,4 @@ title: VEuPathDB landing
 </p>
 </div>
 
+</div>
