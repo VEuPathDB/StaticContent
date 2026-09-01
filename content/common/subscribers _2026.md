@@ -249,6 +249,7 @@ tags: [general]
     <div>Lima group, Federal Univ of Rio de Janeiro BR</div>
     <div>Lin group, Univ Georgia US</div>
     <div>Lipovsek group, Univ College London GB</div>
+    <div>Liu group, China Agricultural Univ CN</div>
     <div>Liu group, Southwest Univ CN</div>
     <div>Llinás group, Penn State Univ US</div>
     <div>Lourido group, Whitehead Inst US</div>
@@ -393,14 +394,15 @@ tags: [general]
     <div>Svärd group, Uppsala Univ SE</div>
     <div>Takashima group, Ehime Univ JP</div>
     <div>Talman group, IRD FR</div>
+    <div>Teixeira group, Federal Univ of Minas Gerais BR</div>
     <div>Tikhe group, Ball State Univ US</div>
     <div>Tilley group, Univ Melbourne AU</div>
-    <div>Touz group, Instituto de Investigación Médica Mercedes y Martín Ferreyra (INIMEC-CONICET-UNC) AR</div>
+    <div>Touz group, INIMEC-CONICET-UNC AR</div>
     <div>Treeck group, Gulbenkian Inst Molecular Med PT</div>
     <div>Urbaniak group, Lancaster Univ UK</div>
     <div>Valdés group, Cinvestav MX</div>
     <div>van Hellemond group, Erasmus Univ Medical Center NL</div>
-    <div>Vargas-Muniz group, Virginia Polytechnic Institute and State Univ US</div>
+    <div>Vargas-Muniz group, Virginia Polytechnic Inst and State Univ US</div>
     <div>Veiga group, Univ of Minho PT</div>
     <div>Vembar group, Inst Bioinformatics & Applied Biotechnology IN</div>
     <div>Verjovski-Almeida group, Univ São Paulo BR</div>
