@@ -68,6 +68,7 @@ tags: [general]
     <div>Beck group, Iowa State Univ US</div>
     <div>Bei group, Yale Univ</div>
     <div>Bell-Pedersen group, Texas A&M Univ US</div>
+    <div>Beneke group, Univ Wuerzburg DE</div>
     <div>Benz group, Technical Univ Munich DE</div>
     <div>Besteiro group, Univ of Montpellier FR</div>
     <div>Bhanot group, Rutgers NJMS US</div>
@@ -151,6 +152,7 @@ tags: [general]
     <div>Francia group, Inst Pasteur Montevideo UY</div>
     <div>Free group, Univ Buffalo US</div>
     <div>Freitag group, Oregon State US</div>
+    <div>Fritz group, Univ Maryland, College Park US</div>
     <div>Galizi group, Keele Univ GB</div>
     <div>Ghosh group, Maulana Azad College IN</div>
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
@@ -395,6 +397,7 @@ tags: [general]
     <div>Takashima group, Ehime Univ JP</div>
     <div>Talman group, IRD FR</div>
     <div>Teixeira group, Federal Univ of Minas Gerais BR</div>
+    <div>Tekiel group, UNSAM - CONICET AR</div>
     <div>Tikhe group, Ball State Univ US</div>
     <div>Tilley group, Univ Melbourne AU</div>
     <div>Touz group, INIMEC-CONICET-UNC AR</div>
