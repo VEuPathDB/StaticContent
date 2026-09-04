@@ -453,6 +453,7 @@ tags: [general]
   <p style="text-align: center;"><i><sup>*</sup>We list only those who consented to be publicly listed.</i></p>
 
   <div class="institutions">
+   <div>Bernhard Nocht Institute for Tropical Medicine DE – Gilberger & Matz groups</div>
    <div>Central Drug Research Inst (CDRI), Lucknow IN – Habib, Kumar, Mishra, Prakash & Zeeshan groups</div>
    <div>Clemson Univ US / Eukaryotic Pathogens Innovation Center (EPIC) – Dhingra, Dolan, Dou, Fierro, Ingram-Smith, J Morris, M Morris, Jezewski, Smith, Temesvari & Walzer groups</div>
    <div>Czech Acad Sci CZ / Inst Parasitology, Biology Centre – Zikova, Lukes, Gahura, Paris, Obornik, Sojka, Kolisko, Perner groups</div>
