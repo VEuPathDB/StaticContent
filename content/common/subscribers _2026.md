@@ -108,7 +108,7 @@ tags: [general]
     <div>Corvi group, Chascomús Technol Inst (INTECH) AR</div>
     <div>Cramer group, Dartmouth College US</div>
     <div>Cribb group, National Univ of Rosario AR</div>
-    <div>Crisanti group, Imperial College London GB</div>
+    <div>Crisanti group, Imperial College London UK</div>
     <div>Crispim group, Fed Univ Alfenas BR</div>
     <div>Crouch group, Univ Glasgow UK</div>
     <div>Cui group, Univ of South Florida US</div>
@@ -153,7 +153,7 @@ tags: [general]
     <div>Free group, Univ Buffalo US</div>
     <div>Freitag group, Oregon State US</div>
     <div>Fritz group, Univ Maryland, College Park US</div>
-    <div>Galizi group, Keele Univ GB</div>
+    <div>Galizi group, Keele Univ UK</div>
     <div>Ghosh group, Maulana Azad College IN</div>
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
     <div>Gissot group, Institut Pasteur de Lille FR</div>
@@ -175,8 +175,8 @@ tags: [general]
     <div>Hansberg group, National Autonomous Univ of Mexico MX</div>
     <div>Hammarton group, Univ Glasgow UK</div>
     <div>Hammond group, Illinois State Univ US</div>
-    <div>Harding group, Univ Glasgow GB</div>
-    <div>Hardwick group, Univ Edinburgh GB</div>
+    <div>Harding group, Univ Glasgow UK</div>
+    <div>Hardwick group, Univ Edinburgh UK</div>
     <div>Harun group, Univ Sains Malaysia MY</div>
     <div>Hatakeyama group, Saitama Univ JP</div>
     <div>Heaslip group, Univ Connecticut US</div>
@@ -230,7 +230,7 @@ tags: [general]
     <div>Kooij group, Radboud Univ NL</div>
     <div>Kowalinski group, EMBL Grenoble FR</div>
     <div>Kramer group, Univ Wuerzburg DE</div>
-    <div>Kritsiligkou group, Univ Liverpool GB</div>
+    <div>Kritsiligkou group, Univ Liverpool UK</div>
     <div>Krysan group, Univ Iowa US</div>
     <div>Krzywinski group, Polo GGB IT</div>
     <div>Lakin-Thomas group, York Univ CA</div>
@@ -245,19 +245,19 @@ tags: [general]
     <div>León Avila group, National School of Biological Sciences MX</div>
     <div>Leger-Abraham group, Harvard Medical School US</div>
     <div>Le Roch group, Univ California Riverside US</div>
-    <div>Lewis group, Univ of Warwick GB</div>
+    <div>Lewis group, Univ of Warwick UK</div>
     <div>Li group, Cleveland State Univ US</div>
     <div>Licon group, Univ of Utah US</div>
     <div>Lima group, Federal Univ of Rio de Janeiro BR</div>
     <div>Lin group, Univ Georgia US</div>
-    <div>Lipovsek group, Univ College London GB</div>
+    <div>Lipovsek group, Univ College London UK</div>
     <div>Liu group, China Agricultural Univ CN</div>
     <div>Liu group, Southwest Univ CN</div>
     <div>Llinás group, Penn State Univ US</div>
     <div>Lourido group, Whitehead Inst US</div>
     <div>Lüder group, Univ Göttingen DE</div>
     <div>Maclean group, Univ Edinburgh UK</div>
-    <div>MacLeod group, Univ Glasgow GB</div>
+    <div>MacLeod group, Univ Glasgow UK</div>
     <div>Maringer group, Pirbright Inst UK</div>
     <div>Marten group, Univ Maryland US</div>
     <div>Marti group, Univ Glasgow UK</div>
@@ -285,7 +285,8 @@ tags: [general]
     <div>Mottram lab, Univ York UK</div>
     <div>Moye-Rowley group, Univ of Iowa US</div>
     <div>Mucci group, National Univ of San Martín AR</div>
-    <div>Munro group, Univ of Aberdeen GB</div>
+    <div>Munro group, Univ of Aberdeen UK</div>
+    <div>Mukherjee group, IIT Kharagpur IN</div>
     <div>Muralidharan group, Univ Georgia US</div>
     <div>Myles group, Texas A&M Univ US</div>
     <div>Nakagama group, Osaka Metropolitan Univ JP</div>
@@ -337,12 +338,12 @@ tags: [general]
     <div>Ralph group, Univ Melbourne AU</div>
     <div>Ramaprasad group, Univ Glasgow UK</div>
     <div>Ramirez-Flores group, CINVESTAV MX</div>
-    <div>Rayner group, Univ Cambridge GB</div>
+    <div>Rayner group, Univ Cambridge UK</div>
     <div>Robello group, Institut Pasteur de Montevideo UY</div>
     <div>Roberts group, Pacific Univ US</div>
     <div>Roditi group, Univ Bern CH</div>
     <div>Rogers group, St. Jude Children's Research Hospital US</div>
-    <div>Roth group, Univ of Oxford GB</div>
+    <div>Roth group, Univ of Oxford UK</div>
     <div>Rentsch group, Univ Bern CH</div>
     <div>Richard group, Univ Laval CA</div>
     <div>Roos group, Univ Pennsylvania US</div>
