@@ -47,6 +47,7 @@ tags: [general]
     <div>Alfonzo group, Brown Univ US</div>
     <div>Alsford group, LSHTM UK</div>
     <div>Alspaugh group, Duke Univ US</div>
+    <div>Andrade group, Univ of California, Irvine US</div>
     <div>Andrianopoulos group, Univ Melbourne AU</div>
     <div>Antariksh Venkataramanan, Independent researcher</div>
     <div>ANU Parasitology group, Australian National Univ AU</div>
