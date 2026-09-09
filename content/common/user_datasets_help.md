@@ -40,7 +40,7 @@ title: User Data Sets Help
   <details closed>
     <summary><h4>My Data Sets workspace</h4></summary>
     <ul>
-      <li>This is your workspace where you can upload your own datasets. Currently, four different file types are supported</li>
+      <li>This is your workspace where you can upload your own datasets. Currently, six different file types are supported</li>
       <li>Your data sets are private and you may share them with colleagues.</li>
       <li>Access this page from <i>My Workspace</i> in the header menu.</li>
       <li>Each user can upload up to <b>10 GB</b> data.</li>
@@ -168,5 +168,204 @@ title: User Data Sets Help
    <li>Rows with invalid gene IDs will be discarded</li>
    </ul>
   </details>
+
+  <details closed>
+    <summary><h4>Upload your Data Table</h4></summary>
+    <h2>Data Table</h2>
+<p>
+  The <strong>Data Table</strong> upload supports datasets that can be represented as a single, flat data table, with <strong>variables in columns</strong> and <strong>records or observations in rows</strong>.
+</p>
+
+<p>To upload a dataset for private use, you will need:</p>
+<ul>
+  <li>
+    <strong>Data file</strong> in <code>.csv</code>, <code>.tsv</code>, or tab-delimited <code>.txt</code> format. Compressed files such as <code>.zip</code> are also supported. The maximum file size is <strong>1.0 GB</strong>.
+  </li>
+  <li>
+    <strong>Dataset name</strong>
+  </li>
+  <li>
+    <strong>Brief summary</strong> of the dataset (up to 400 characters)
+  </li>
+  <li>
+    The first row must contain the <strong>column headers (variable names)</strong>.
+  </li>
+</ul>
+
+
+  <li>
+    <strong>UTF-8 encoding is recommended</strong> to ensure that accented letters and other special characters display correctly. ISO-8859-1 and Windows-1252 encodings are also supported.
+  </li>
+</ul>
+
+<h4>Data file name</h4>
+
+<ul>
+  <li>The file name must be no longer than <strong>50 characters</strong>.</li>
+  <li>
+    Do not use spaces or special characters in the file name. Periods (.) are allowed only as part of the file extension.For example, <code>filename_1.csv</code> is valid, while <code>filename.1.csv</code> is not.
+  </li>
+</ul>
+
+<h4>Variable names (column headers)</h4>
+
+<ul>
+  <li>The file can contain a maximum of <strong>999 columns</strong>.</li>
+  <li>
+    Each variable name must be <strong>unique</strong>. A variable name can be
+    assigned to only one column.
+  </li>
+  <li>
+    Variable names should contain only:
+    <ul>
+      <li>Letters (<code>a-z</code>, <code>A-Z</code>)</li>
+      <li>Numbers (<code>0-9</code>)</li>
+      <li>Periods (<code>.</code>)</li>
+      <li>Underscores (<code>_</code>)</li>
+    </ul>
+  </li>
+</ul>
+
+<p>
+  During import, variable names that contain unsupported characters or space will be modified automatically:
+</p>
+<ul>
+  <li>Spaces and other special characters will be replaced with underscores.</li>
+  <li>
+    An underscore will be added to the beginning of a variable name that starts
+    with a number.
+  </li>
+</ul>
+
+<h4>Data values and observations</h4>
+
+<ul>
+  <li>
+    Enter values in the format you want them to appear on the website. For example, use <code>Yes</code> and <code>No</code> rather than <code>1</code> and <code>0</code> when these values represent categories.
+  </li>
+  <li>
+    Each cell should contain fewer than <strong>1,000 characters</strong>.
+  </li>
+  <li>
+    Dates must be formatted as <code>YYYY-MM-DD</code> (for example, <code>2026-09-09</code>) to be recognized as dates.
+  </li>
+  <li>
+    Dates in other formats will be stored as text and displayed as categorical data.
+  </li>
+</ul>
+
+<p>
+  If categorical data is entered using numeric codes (for example, <code>0</code>, <code>1</code>, and <code>-9</code>), the values may be interpreted as numeric data and displayed as a histogram rather than as a data frequency table. When possible, use meaningful categorical values instead of numeric codes.
+</p>
+
+<p>During import:</p>
+
+<ul>
+  <li>Line breaks within cells will be removed.</li>
+  <li>Tab characters within cells will be replaced with spaces.</li>
+  <li>Commas in numeric values will be removed.</li>
+</ul>
+
+<h4>Geospatial data</h4>
+
+<p>
+  If your dataset contains geographic coordinates, provide latitude and longitude in <strong>separate columns</strong> named exactly: <code>Latitude</code> and <code>Longitude</code>.
+</p>
+
+<ul>
+  <li>Use the <strong>WGS-84</strong> coordinate system.</li>
+  <li>
+    Use decimal (floating-point) notation, for example <code>-6.5431</code>.
+  </li>
+  <li>
+    Do not use scientific notation such as <code>6.5431E</code>.
+  </li>
+</ul>
+
+<hr>
+
+<h3>Making your dataset publicly available</h3>
+
+<p>
+  You can upload a dataset for private use without providing detailed documentation. If you want to make your dataset <strong>publicly accessible for reuse by the broader research community</strong>, additional information is required.
+</p>
+
+<h4>Variable Attributes file</h4>
+
+<p>
+  A <strong>Variable Attributes file</strong> documents the variables in your dataset and makes the data easier for other researchers to understand and reuse.
+</p>
+
+<p>The Variable Attributes file must:</p>
+
+<ul>
+  <li>
+    Be a single flat file in <code>.csv</code>, <code>.tsv</code>, or tab-delimited <code>.txt</code> format.
+  </li>
+  <li>Have column headers in the first row.</li>
+  <li>
+    Contain exactly <strong>three columns</strong> with the following case-sensitive column headers:
+    <ul>
+      <li><code>variable</code></li>
+      <li><code>label</code></li>
+      <li><code>definition</code></li>
+    </ul>
+  </li>
+  <li>
+    Contain <strong>exactly one row for every variable</strong> (column) in the associated data file.
+  </li>
+</ul>
+
+<p>
+  The value in the <code>variable</code> column must exactly match the corresponding column name in the data file, including spelling, capitalization, and punctuation.
+</p>
+
+<p>Additional requirements:</p>
+<ul>
+  <li>Variable names in the <code>variable</code> column must be unique.</li>
+  <li>
+    The file must not contain variables that are not present in the associated data file.
+  </li>
+  <li>
+    Every column in the data file must have a corresponding entry in the Variable Attributes file.
+  </li>
+</ul>
+
+<h4>Variable Attributes file name</h4>
+<ul>
+  <li>The file name must be no longer than <strong>50 characters</strong>.</li>
+  <li>
+    Do not use spaces or special characters in the file name. Periods (<code>.</code>) are allowed only as part of the file extension.
+  </li>
+  <li>
+    For example, <code>variable_attributes.csv</code> is valid, while <code>variable.attributes.csv</code> is not.
+  </li>
+</ul>
+
+<h4>Dataset documentation and provenance</h4>
+
+<p>
+  Public datasets should include enough information for other researchers to understand where the data came from, how it were generated, and how they can be appropriately reused. Please provide, as applicable:
+</p>
+
+<ul>
+  <li>
+    <strong>Principal Investigator and collaborator information</strong>
+  </li>
+  <li>
+    <strong>Study information</strong>, such as field study or clinical trial design
+  </li>
+  <li>
+    <strong>Study outcomes</strong> or other relevant research questions
+  </li>
+  <li>
+    <strong>External data sources</strong> used to generate or supplement the dataset
+  </li>
+  <li>
+    <strong>Reuse considerations</strong>, including missing data, potential biases, or other limitations that may affect interpretation or reuse
+  </li>
+</ul>
+
+</details>
 
 </div>
