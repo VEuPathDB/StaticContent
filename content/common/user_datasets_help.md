@@ -189,7 +189,7 @@ title: User Data Sets Help
 </ul>
 
 
-<h5>Data file name</h5>
+<h4>Data file name</h4>
 <ul>
   <li>The file name must be no longer than <strong>50 characters</strong>.</li>
   <li>
@@ -197,7 +197,7 @@ title: User Data Sets Help
   </li>
 </ul>
 
-<h5>Variable names (column headers)</h5>
+<h4>Variable names (column headers)</h4>
 <ul>
   <li>The file can contain a maximum of <strong>999 columns</strong>.</li>
   <li>
@@ -224,7 +224,7 @@ title: User Data Sets Help
   </li>
 </ul>
 
-<h5>Data values and observations</h5>
+<h4>Data values and observations</h4>
 <ul>
   <li>
     Enter values in the format you want them to appear on the website. For example, use <code>Yes</code> and <code>No</code> rather than <code>1</code> and <code>0</code> when these values represent categories. If categorical data is entered using numeric codes, the values may be interpreted as numeric data and displayed as a histogram rather than as a data frequency table.
@@ -247,7 +247,7 @@ title: User Data Sets Help
   <li>Commas in numeric values will be removed.</li>
 </ul>
 
-<h5>Geospatial data</h5>
+<h4>Geospatial data</h4>
 <p>
   If your dataset contains geographic coordinates, provide latitude and longitude in <strong>separate columns</strong> named exactly: <code>Latitude</code> and <code>Longitude</code>.
 </p>
@@ -262,10 +262,10 @@ title: User Data Sets Help
   </li>
 </ul>
 
-<h5>Making your dataset publicly available</h5>
+<h4>Making your dataset publicly available</h4>
 
 <p>
-You can upload a dataset for private use without providing detailed documentation. If you want to make your dataset <strong>publicly accessible for reuse by the broader research community</strong>, additional information is required.
+You can upload a dataset for private use without providing detailed documentation. If you want to make your dataset <strong>publicly accessible for reuse by the broader research community</strong>, additional information is required, including a variable attributes file and dataset documentation and provenance as described below.
 </p>
 
 <h4>Variable Attributes file</h4>
@@ -305,7 +305,7 @@ You can upload a dataset for private use without providing detailed documentatio
   </li>
 </ul>
 
-<h5>Variable Attributes file name</h5>
+<h4>Variable Attributes file name</h4>
 <ul>
   <li>The file name must be no longer than <strong>50 characters</strong>.</li>
   <li>
@@ -316,7 +316,7 @@ You can upload a dataset for private use without providing detailed documentatio
   </li>
 </ul>
 
-<h5>Dataset documentation and provenance</h5>
+<h4>Dataset documentation and provenance</h4>
 
 <p>
   Public datasets should include enough information for other researchers to understand where the data came from, how it were generated, and how they can be appropriately reused. Please provide, as applicable:
