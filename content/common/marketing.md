@@ -1,15 +1,12 @@
 ---
-title: VEuPathDB 
+title: Quick links to VEuPathDB promotional/marketing materials 
 permalink: marketing
 tags: [general]
 category: [general]
 ---
 
+<h1>Quick links to VEuPathDB marketing materials</h1>
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Quick links to VEuPathDB promotional/marketing materials</title>
   <style>
     table {
       width: 100%;
@@ -21,7 +18,7 @@ category: [general]
       border: 1px solid #000;
       padding: 8px;
       text-align: left;
-      vertical-align: top; 
+      vertical-align: top;
     }
 
     th {
@@ -33,10 +30,8 @@ category: [general]
       height: auto;
     }
   </style>
-</head>
-<body>
 
-<h2>Quick links to VEuPathDB marketing materials</h2>
+<div class="static-content">
 
   <table>
     <thead>
@@ -134,5 +129,4 @@ category: [general]
     </tbody>
   </table>
 
-</body>
-</html>
+</div>
