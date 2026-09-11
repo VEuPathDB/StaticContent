@@ -397,6 +397,7 @@ tags: [general]
     <div>Suvorova group, Univ South Florida US</div>
     <div>Suzuki group, Univ of Kentucky US</div>
     <div>Svärd group, Uppsala Univ SE</div>
+    <div>Takagi group, National Institute of Advanced Industrial Science and Technology JP</div>
     <div>Takashima group, Ehime Univ JP</div>
     <div>Talman group, IRD FR</div>
     <div>Teixeira group, Federal Univ of Minas Gerais BR</div>
