@@ -1,98 +1,17 @@
 ---
 layout: plain
-title: VEuPathDB Subscribers
+title: VEuPathDB 2025 Subscribers
 permalink: subscribers
 tags: [general]
 ---
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Acknowledgments</title>
+<h1>Thank You to Our 2025 Supporters!</h1>
 
-<style>
-body {
-  font-family: Arial, sans-serif;
-  background: #fafafa;
-  color: #333;
-  padding: 20px;
-}
+{% include css/subscriptions_2025.css  %}
 
-.container {
-  max-width: 1200px;
-  margin: auto;
-}
+<div class="static-content">
 
-h1, h2 {
-  text-align: center;
-  color: #2c3e50;
-}
-
-/* ⬇️ Main column layout */
-.columns-balanced {
-  column-count: 3;
-  column-gap: 20px;
-}
-
-/* ⬇️ Styling for each name block */
-.columns-balanced {
-  break-inside: avoid;
-  padding: 10px 15px;
-  margin-bottom: 0.5em;
-  background: #fff;
-  box-shadow: 0 0 5px rgba(0,0,0,0.1);
-  border-radius: 5px;
-  margin-bottom: 0.5em;
-}
-
-.columns-balanced div {
-  padding-left: 1.5em;
-  text-indent: -1.5em; 
-}
-
-/* ⬇️ Alternate shading for even columns */
-.columns-balanced:nth-child(even) {
-  background: #f0f0f0;
-}
-
-/* ⬇️ Institutions block */
-.institutions {
-  margin-top: 40px;
-  background: #e9f7ef;
-  padding: 15px;
-  border-radius: 5px;
-  box-shadow: 0 0 5px rgba(0,0,0,0.1);
-  line-height: 1.6;
-  margin-bottom: 0.5em;
-}
-
-.institutions div {
-  padding-left: 1.5em;
-  text-indent: -1.5em; 
-}
-
-/* ⬇️ Responsive breakpoints */
-@media (max-width: 900px) {
-  .columns-balanced {
-    column-count: 2;
-  }
-}
-
-@media (max-width: 600px) {
-  .columns-balanced {
-    column-count: 1;
-  }
-}
-</style>
-
-
-</head>
-
-
-<body>
   <div class="container">
-  <h1>Thank You to Our 2025 Supporters!</h1>
 
   <h3>VEuPathDB gratefully acknowledges the individuals and labs who have subscribed in 2025, helping ensure that essential informatics resources remain accessible to the entire research community. <i>How will we continue to attract the best and the brightest to work in these areas unless essential research data is readily accessible?</i></h3>
 
@@ -692,6 +611,5 @@ h1, h2 {
    <div>York Biomedical Research Inst UK – multiple groups</div>
   </div>
 </div>
+</div>
 
-</body>
-</html>
