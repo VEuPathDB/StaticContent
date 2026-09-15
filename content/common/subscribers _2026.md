@@ -341,6 +341,7 @@ tags: [general]
     <div>Ramaprasad group, Univ Glasgow UK</div>
     <div>Ramirez-Flores group, CINVESTAV MX</div>
     <div>Rayner group, Univ Cambridge UK</div>
+    <div>Reece group, Univ Edinburgh UK</div>
     <div>Robello group, Institut Pasteur de Montevideo UY</div>
     <div>Roberts group, Pacific Univ US</div>
     <div>Roditi group, Univ Bern CH</div>
