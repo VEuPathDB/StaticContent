@@ -126,6 +126,7 @@ tags: [general]
     <div>de Koning-Ward group, Deakin Univ AU</div>
     <div>de Miguel group, Chascomús Technol Inst (INTECH) AR</div>
     <div>Denny group, Durham Univ UK</div>
+    <div>Derbyshire group, Duke Univ US</div>
     <div>De Rycker group, Univ Dundee UK</div>
     <div>Dewar group, Lancaster Univ UK</div>
     <div>Diallinas group, National and Kapodistrian Univ Athens GR</div>
