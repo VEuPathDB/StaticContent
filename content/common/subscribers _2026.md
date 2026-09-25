@@ -47,6 +47,7 @@ tags: [general]
     <div>Alfonzo group, Brown Univ US</div>
     <div>Alsford group, LSHTM UK</div>
     <div>Alspaugh group, Duke Univ US</div>
+    <div>Amino group, Inst Pasteur FR</div>
     <div>Andrade group, Univ of California, Irvine US</div>
     <div>Andrianopoulos group, Univ Melbourne AU</div>
     <div>Antariksh Venkataramanan, Independent researcher</div>
@@ -428,14 +429,16 @@ tags: [general]
     <div>Welch group, Univ of California, Berkeley US</div>
     <div>Weng group, National Taiwan Univ TW</div>
     <div>West group, University of Georgia US</div>
+    <div>Wetzel group, Univ of Texas Southwestern Medical Center US</div>
     <div>Wiese group, Univ Strathclyde UK</div>
     <div>Williams group, Rush Univ US</div>
     <div>Williamson group, Uniformed Services University US</div>
     <div>Wilson group, Univ Adelaide AU</div>
     <div>Wilson group, Univ of Iowa US</div>
     <div>Winzeler group, Univ California, San Diego US</div>
+    <div>Wright group, Univ York GB</div>
     <div>Wunderlich group, Univ de São Paulo BR</div>
-    <div>Xiao lab, South China Agricultural Univ CN</div>
+    <div>Xiao group, South China Agricultural Univ CN</div>
     <div>Xu group, Murdoch Univ AU</div>
     <div>Xu group, New Mexico State Univ US</div>
     <div>Yamagishi group, Hokkaido Univ JP</div>
