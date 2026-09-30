@@ -105,6 +105,7 @@ tags: [general]
     <div>Chandrasegaran group, Univ of California, Riverside US</div>
     <div>Charvat group, High Point Univ US</div>
     <div>Chasen group, Univ South Alabama US</div>
+    <div>Chitnis group, Institut Pasteur FR</div>
     <div>Chiurillo group, Univ Cincinnati US</div>
     <div>Christensen group, Northwestern Univ US</div>
     <div>Collins group, UT Southwestern US</div>
@@ -205,6 +206,7 @@ tags: [general]
     <div>Inaoka group, Nagasaki Univ JP</div>
     <div>Iriko group, Kobe Univ JP</div>
     <div>Ishino group, Tokyo Institute of Science JP</div>
+    <div>Ito group, Tottori Univ JP</div>
     <div>Jacobson group, Grinnell College US</div>
     <div>James group, Gettysburg College US</div>
     <div>James group, UC Irvine US</div>
@@ -412,6 +414,7 @@ tags: [general]
     <div>Treeck group, Gulbenkian Inst Molecular Med PT</div>
     <div>Urbaniak group, Lancaster Univ UK</div>
     <div>Valdés group, Cinvestav MX</div>
+    <div>Vaidya group, Drexel Univ US</div>
     <div>van Hellemond group, Erasmus Univ Medical Center NL</div>
     <div>Vargas-Muniz group, Virginia Polytechnic Inst and State Univ US</div>
     <div>Veiga group, Univ of Minho PT</div>
