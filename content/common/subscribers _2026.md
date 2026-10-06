@@ -96,6 +96,7 @@ tags: [general]
     <div>Bushell group, Umeå Univ SE</div>
     <div>Bzik group, Dartmouth College US</div>
     <div>Campbell group, Orlando College of Osteopathic Medicine US</div>
+    <div>Carr group, Univ of Huddersfield UK</div>
     <div>Casadevall group, Johns Hopkins Univ US</div>
     <div>Castillo group, INDICASAT AIP PA</div>
     <div>Catteruccia group, Harvard Univ US</div>
@@ -380,6 +381,7 @@ tags: [general]
     <div>Siegel group, Ludwig Maximilians Univ DE</div>
     <div>Siddiki group, Chittagong Veterinary and Animal Sciences Univ BD</div>
     <div>Sigala group, Univ Utah US</div>
+    <div>Silva group, Univ Maryland US</div>
     <div>Sinha group, Jhargram Raj College IN</div>
     <div>Sinnis group, Johns Hopkins Univ US</div>
     <div>Slamovits lab, Dalhousie Univ CA</div>
