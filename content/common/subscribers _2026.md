@@ -40,6 +40,7 @@ tags: [general]
     <div>Adams lab, Michigan State Univ US</div>
     <div>Adams group, Univ South Florida US</div>
     <div>Adelman group, Texas A&M Univ US</div>
+    <div>Afasizhev group, Boston Univ US</div>
     <div>Aguirre group, National Autonomous Univ of Mexico MX</div>
     <div>Akiyoshi group, Univ Edinburgh UK</div>
     <div>Alday group, Oregon Health & Science Univ US</div>
@@ -50,6 +51,7 @@ tags: [general]
     <div>Amino group, Inst Pasteur FR</div>
     <div>Andrade group, Univ of California, Irvine US</div>
     <div>Andrianopoulos group, Univ Melbourne AU</div>
+    <div>Angel group, National Scientific and Technical Research Council (CONICET) (Institute of Technology of Chascomús, INTECH) AR</div>
     <div>Antariksh Venkataramanan, Independent researcher</div>
     <div>ANU Parasitology group, Australian National Univ AU</div>
     <div>Artavanis-Tsakonas group, Univ Cambridge UK</div>
@@ -312,6 +314,7 @@ tags: [general]
     <div>Offmann group, Univ of Nantes FR</div>
     <div>Oliveira group, Federal Univ of Rio de Janeiro BR</div>
     <div>Ohira group, Nazareth Univ US</div>
+    <div>O'Neal group, Johns Hopkins Univ US</div>
     <div>Orbach group, Univ of Arizona US</div>
     <div>Ortega-Lopez group, CINVESTAV MX</div>
     <div>Osorio group, Univ Alejandro de Humboldt CO</div>
