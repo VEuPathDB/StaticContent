@@ -375,6 +375,7 @@ tags: [general]
     <div>Schmitz-Linneweber group, Humboldt Univ Berlin DE</div>
     <div>Schnaufer group, Univ Edinburgh UK</div>
     <div>Schruefer group, Ludwig Maximilian Univ of Munich, LMU DE</div>
+    <div>Schwartz group, Weizmann Inst IL</div>
     <div>Segev-Zarko group, Univ of Texas Medical Branch US</div>
     <div>Sengupta group, Ahmedabad Univ IN</div>
     <div>Serre group, Univ Maryland School of Medicine US</div>
@@ -413,6 +414,7 @@ tags: [general]
     <div>Talman group, IRD FR</div>
     <div>Teixeira group, Federal Univ of Minas Gerais BR</div>
     <div>Tekiel group, UNSAM - CONICET AR</div>
+    <div>Thiam group, Institut Pasteur de Dakar SN</div>
     <div>Tikhe group, Ball State Univ US</div>
     <div>Tilley group, Univ Melbourne AU</div>
     <div>Touz group, INIMEC-CONICET-UNC AR</div>
