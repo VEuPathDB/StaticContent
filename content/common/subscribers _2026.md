@@ -425,6 +425,7 @@ tags: [general]
     <div>Valdés group, Cinvestav MX</div>
     <div>Vaidya group, Drexel Univ US</div>
     <div>van Hellemond group, Erasmus Univ Medical Center NL</div>
+    <div>Varga group, Czech Academy of Sciences CZ</div>
     <div>Vargas-Muniz group, Virginia Polytechnic Inst and State Univ US</div>
     <div>Veiga group, Univ of Minho PT</div>
     <div>Vembar group, Inst Bioinformatics & Applied Biotechnology IN</div>
