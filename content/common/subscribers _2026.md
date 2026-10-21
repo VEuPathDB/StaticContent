@@ -37,11 +37,11 @@ tags: [general]
 
   <div class="columns-balanced">
     <div>Absalon group, Indiana Univ US</div>
-    <div>Adams lab, Michigan State Univ US</div>
+    <div>Adams group, Michigan State Univ US</div>
     <div>Adams group, Univ South Florida US</div>
     <div>Adelman group, Texas A&M Univ US</div>
     <div>Afasizhev group, Boston Univ US</div>
-    <div>Aguirre group, National Autonomous Univ of Mexico MX</div>
+    <div>Aguirre group, National Autonomous Univ MX</div>
     <div>Akiyoshi group, Univ Edinburgh UK</div>
     <div>Alday group, Oregon Health & Science Univ US</div>
     <div>Alfonso-Parra group, CES Univ CO</div>
@@ -58,7 +58,7 @@ tags: [general]
     <div>Arthropod Sensory Biology group, Baylor Univ US</div>
     <div>Asgari group, Univ Queensland AU</div>
     <div>Athrey group, Texas A&M Univ, US</div>
-    <div>Azuara group, Autonomous Univ of Mexico City MX</div>
+    <div>Azuara group, Autonomous Univ MX</div>
     <div>Bakari-Soale group, Univ Nottingham UK</div>
     <div>Balbino group, Federal Univ Pernambuco BR</div>
     <div>Bangs group, Univ Buffalo US</div>
@@ -70,7 +70,7 @@ tags: [general]
     <div>Bastin group, Institut Pasteur FR</div>
     <div>Baum group, Univ New South Wales AU</div>
     <div>Beck group, Iowa State Univ US</div>
-    <div>Bei group, Yale Univ</div>
+    <div>Bei group, Yale Univ US</div>
     <div>Bell-Pedersen group, Texas A&M Univ US</div>
     <div>Beneke group, Univ Wuerzburg DE</div>
     <div>Benz group, Technical Univ Munich DE</div>
@@ -103,7 +103,7 @@ tags: [general]
     <div>Castillo group, INDICASAT AIP PA</div>
     <div>Catteruccia group, Harvard Univ US</div>
     <div>Cestari group, McGill Univ CA</div>
-    <div>Cevallos group, Natl Autonomous Univ México MX</div>
+    <div>Cevallos group, Natl Autonomous Univ MX</div>
     <div>Chakrabarti group, Univ of North Carolina at Chapel Hill US</div>
     <div>Chandrasegaran group, Univ of California, Riverside US</div>
     <div>Charvat group, High Point Univ US</div>
@@ -180,7 +180,7 @@ tags: [general]
     <div>Guy group, Public Health Agency of Canada CA</div>
     <div>Halfon group, Univ Buffalo US</div>
     <div>Hallen-Adams group, Univ Nebraska US</div>
-    <div>Hansberg group, National Autonomous Univ of Mexico MX</div>
+    <div>Hansberg group, National Autonomous Univ MX</div>
     <div>Hammarton group, Univ Glasgow UK</div>
     <div>Hammond group, Illinois State Univ US</div>
     <div>Harding group, Univ Glasgow UK</div>
@@ -265,16 +265,16 @@ tags: [general]
     <div>Llinás group, Penn State Univ US</div>
     <div>Lourido group, Whitehead Inst US</div>
     <div>Lüder group, Univ Göttingen DE</div>
-    <div>Maciver group, Univ Edinburgh GB</div>
+    <div>Maciver group, Univ Edinburgh UK</div>
     <div>Maclean group, Univ Edinburgh UK</div>
     <div>MacLeod group, Univ Glasgow UK</div>
     <div>Maringer group, Pirbright Inst UK</div>
     <div>Marten group, Univ Maryland US</div>
     <div>Marti group, Univ Glasgow UK</div>
-    <div>Martínez-Calvillo group, National Autonomous Univ of Mexico MX</div>
+    <div>Martínez-Calvillo group, National Autonomous Univ MX</div>
     <div>Martins group, Univ of Brasília BR</div>
     <div>Martorelli Di Genova group, Univ Vermont US</div>
-    <div>Matthews group, Univ Edinburgh GB</div>
+    <div>Matthews group, Univ Edinburgh UK</div>
     <div>McClelland group, Wood College Osteopathic Med, Marian Univ US</div>
     <div>McConville group, Univ Melbourne AU</div>
     <div>McGraw group, Penn State Univ US</div>
@@ -293,7 +293,7 @@ tags: [general]
     <div>Mordue group, New York Medical College US</div>
     <div>Morrissette group, Univ California Irvine US</div>
     <div>Mota group, Gulbenkian Inst Molecular Medicine PT</div>
-    <div>Mottram lab, Univ York UK</div>
+    <div>Mottram group, Univ York UK</div>
     <div>Moye-Rowley group, Univ of Iowa US</div>
     <div>Mucci group, National Univ of San Martín AR</div>
     <div>Munro group, Univ of Aberdeen UK</div>
@@ -326,13 +326,13 @@ tags: [general]
     <div>Paluzzi group, York Univ CA</div>
     <div>Panepinto group, Univ Buffalo US</div>
     <div>Paredez group, Univ Washington US</div>
-    <div>Pastrana-Mena group, Univ Puerto Rico at Arecibo</div>
+    <div>Pastrana-Mena group, Univ Puerto Rico at Arecibo US</div>
     <div>Patankar group, Indian Institute of Technology Bombay IN</div>
     <div>Pathak group, Univ Georgia US</div>
     <div>Pauling group, Univ Central Missouri US</div>
     <div>Pawlowic group, Univ Dundee UK</div>
     <div>Pavlovic-Djuranovic group, Washington Univ US</div>
-    <div>Peraza Reyes group, National Autonomous Univ of Mexico MX</div>
+    <div>Peraza Reyes group, National Autonomous Univ MX</div>
     <div>Pereira group, Catholic Univ of Portugal PT</div>
     <div>Pesquisa ICC, FIOCRUZ BR</div>
     <div>Peterson group, Univ of Georgia US</div>
@@ -390,7 +390,7 @@ tags: [general]
     <div>Silva group, Univ Maryland US</div>
     <div>Sinha group, Jhargram Raj College IN</div>
     <div>Sinnis group, Johns Hopkins Univ US</div>
-    <div>Slamovits lab, Dalhousie Univ CA</div>
+    <div>Slamovits group, Dalhousie Univ CA</div>
     <div>Small-Saunders group, Columbia Univ US</div>
     <div>Smircich group, Univ de la República UY</div>
     <div>Smith group, Univ Buffalo US</div>
@@ -450,7 +450,7 @@ tags: [general]
     <div>Wilson group, Univ Adelaide AU</div>
     <div>Wilson group, Univ of Iowa US</div>
     <div>Winzeler group, Univ California, San Diego US</div>
-    <div>Wright group, Univ York GB</div>
+    <div>Wright group, Univ York UK</div>
     <div>Wunderlich group, Univ de São Paulo BR</div>
     <div>Xiao group, South China Agricultural Univ CN</div>
     <div>Xu group, Murdoch Univ AU</div>
@@ -483,9 +483,9 @@ tags: [general]
    <div>Infection and Global Health Division, WEHI AU- Tonkin, Cowman, Boddey, Longley, Mueller, Jex, Doerflinger, Hill, Tham, McCarthy groups</div>
    <div>Institute of Hygiene and Tropical Medicine, NOVA Univ Lisbon PT- multiple groups</div>
    <div>Institute of Tropical Medicine - DBS - parasitology units Antwerp BE</div>
-   <div>Leibniz-HKI DE- Brakhage & Blango labs</div>
-   <div>Liverpool School of Tropical Medicine</div>
-   <div>Malaria and Neglected Parasitic Diseases Program, ISGLOBAL, Barcelona- Cortés, Mayor, Dobaño, Fernandez-Becerra, Moncunill, Padilla, Izquierdo, Fernandez-Busquets, del Portillo groups</div>
+   <div>Leibniz-HKI DE- Brakhage & Blango groups</div>
+   <div>Liverpool School of Tropical Medicine UK</div>
+   <div>Malaria and Neglected Parasitic Diseases Program, ISGLOBAL, Barcelona ES- Cortés, Mayor, Dobaño, Fernandez-Becerra, Moncunill, Padilla, Izquierdo, Fernandez-Busquets, del Portillo groups</div>
    <div>Novartis – multiple groups</div>
    <div>Royal Veterinary College UK- Xia and Blake groups</div>
    <div>TMRC India- CMC Vellore and IIPH Shillong</div>
