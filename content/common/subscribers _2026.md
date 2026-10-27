@@ -492,6 +492,7 @@ tags: [general]
    <div>Univ Heidelberg DE / Parasitology Unit – Frischknecht, Ganter, Hentzschel, Ingham & Lanzer groups</div>
    <div>Univ of Sevilla ES- Corrochano and Canovas groups</div>
    <div>Univ Montpellier FR – Claessens, Cerdan, Gomes & Hollin groups</div>
+   <div>Univ Regensburg DE</div>
    <div>Viruses and RNA Interference Unit, Institut Pasteur FR- Koh & Saleh groups</div>
   </div>
 
