@@ -46,6 +46,7 @@ tags: [general]
     <div>Alday group, Oregon Health & Science Univ US</div>
     <div>Alfonso-Parra group, CES Univ CO</div>
     <div>Alfonzo group, Brown Univ US</div>
+    <div>Allshire group, Univ Edinburgh UK</div>
     <div>Alsford group, LSHTM UK</div>
     <div>Alspaugh group, Duke Univ US</div>
     <div>Amino group, Inst Pasteur FR</div>
@@ -77,11 +78,13 @@ tags: [general]
     <div>Bei group, Yale Univ US</div>
     <div>Bell-Pedersen group, Texas A&M Univ US</div>
     <div>Beneke group, Univ Wuerzburg DE</div>
+    <div>Ben Mamoun group, Yale Univ US</div>
     <div>Benz group, Technical Univ Munich DE</div>
     <div>Besteiro group, Univ of Montpellier FR</div>
     <div>Bhanot group, Rutgers NJMS US</div>
     <div>Billker group, Umeå Univ SE</div>
     <div>Biotech-advisor.com US</div>
+    <div>Birkenheuer group, North Carolina State Univ US</div>
     <div>Blair group, Earlham College US</div>
     <div>Blake group, Fort Lewis College US</div>
     <div>Blandin group (Mosquito Immune Responses / IBMC) Univ Strasbourg FR</div>
@@ -133,6 +136,7 @@ tags: [general]
     <div>Dave Anderson, Independent researcher US</div>
     <div>Davis group, Univ Iowa US</div>
     <div>Davis group, Univ of Nebraska at Omaha US</div>
+    <div>Debler group, Thomas Jefferson Univ US</div>
     <div>de Graffenried group, Brown Univ US</div>
     <div>Deitsch group, Weill Cornell Medicine US</div>
     <div>de Koning-Ward group, Deakin Univ AU</div>
@@ -162,6 +166,7 @@ tags: [general]
     <div>Figueiredo group, Gulbenkian Institute for Molecular Medicine PT</div>
     <div>Filler group, Lundquist Inst Harbor-UCLA Medical Center US</div>
     <div>Fisa group, Univ of Barcelona ES</div>
+    <div>Fischer group, Karlsruhe Institute of Technology DE</div>
     <div>Fleissner group, Braunschweig Univ of Technology DE</div>
     <div>Florentin group, Hebrew Univ IL</div>
     <div>Franke-Fayard group, Leiden Univ Medical Center NL</div>
@@ -177,6 +182,7 @@ tags: [general]
     <div>Goldberg group, Washington Univ US</div>
     <div>Goldring group, Univ of KwaZulu-Natal ZA</div>
     <div>Gomez-Marin group, Univ del Quindio GEPAMOL CO</div>
+    <div>Gopaul group, Inst Pasteur FR</div>
     <div>Goto group, Univ Tokyo JP</div>
     <div>Greigert group, Univ de Reims Champagne-Ardenne FR</div>
     <div>Grossman Haham group, Ben-Gurion Univ of the Negev IL</div>
@@ -302,11 +308,13 @@ tags: [general]
     <div>McLeod group, Univ of Chicago US</div>
     <div>Meetali group, Indian Inst Science IN</div>
     <div>Meissner group, Ludwig Maximilians Univ DE</div>
+    <div>Menard group, Univ of Strasbourg FR</div>
     <div>Merrick group, Univ of Cambridge UK</div>
     <div>Meyer group, Technical Univ Berlin DE</div>
     <div>Meyers group, Saint Louis Univ US</div>
     <div>Michaeli group, Bar-Ilan University IL</div>
     <div>Michel group, Kansas State Univ US</div>
+    <div>Miguel-Aliaga group, The Francis Crick Institute UK</div>
     <div>Miklos Müller & Jan Keithly, US</div>
     <div>Mineo group, Federal Univ Uberlândia BR</div>
     <div>Mita group, Juntendo University JP</div>
@@ -380,6 +388,7 @@ tags: [general]
     <div>Reece group, Univ Edinburgh UK</div>
     <div>Robello group, Institut Pasteur de Montevideo UY</div>
     <div>Roberts group, Pacific Univ US</div>
+    <div>Robledo group, Bigelow Laboratory for Ocean Sciences US</div>
     <div>Roditi group, Univ Bern CH</div>
     <div>Rogers group, St. Jude Children's Research Hospital US</div>
     <div>Roth group, Univ of Oxford UK</div>
@@ -401,6 +410,7 @@ tags: [general]
     <div>Scaraffia group, Tulane Univ US</div>
     <div>Scheel group, Indiana Univ US</div>
     <div>Schenkman group, Federal Univ São Paulo BR</div>
+    <div>Smith group, Univ St Andrews UK</div>
     <div>Schmitz-Linneweber group, Humboldt Univ Berlin DE</div>
     <div>Schnaufer group, Univ Edinburgh UK</div>
     <div>Schruefer group, Ludwig Maximilian Univ of Munich, LMU DE</div>
