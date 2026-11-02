@@ -175,6 +175,7 @@ tags: [general]
     <div>Freitag group, Oregon State US</div>
     <div>Fritz group, Univ Maryland, College Park US</div>
     <div>Galizi group, Keele Univ UK</div>
+    <div>Gendrin group, Institut Pasteur de la Guyane GF</div>
     <div>Ghosh group, Maulana Azad College IN</div>
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
     <div>Gissot group, Institut Pasteur de Lille FR</div>
