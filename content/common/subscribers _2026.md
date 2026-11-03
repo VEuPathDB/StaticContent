@@ -46,13 +46,14 @@ tags: [general]
     <div>Alday group, Oregon Health & Science Univ US</div>
     <div>Alfonso-Parra group, CES Univ CO</div>
     <div>Alfonzo group, Brown Univ US</div>
+    <div>Allinson group, Lancaster Univ UK</div>
     <div>Allshire group, Univ Edinburgh UK</div>
     <div>Alsford group, LSHTM UK</div>
     <div>Alspaugh group, Duke Univ US</div>
     <div>Amino group, Inst Pasteur FR</div>
     <div>Andrade group, Univ of California, Irvine US</div>
     <div>Andrianopoulos group, Univ Melbourne AU</div>
-    <div>Angel group, National Scientific and Technical Research Council (CONICET) (Institute of Technology of Chascomús, INTECH) AR</div>
+    <div>Angel group, CONICET AR</div>
     <div>Antariksh Venkataramanan, Independent researcher</div>
     <div>ANU Parasitology group, Australian National Univ AU</div>
     <div>Arrizabalaga group, Univ Buffalo US</div>
@@ -114,6 +115,7 @@ tags: [general]
     <div>Cevallos group, Natl Autonomous Univ MX</div>
     <div>Chakrabarti group, Univ of North Carolina at Chapel Hill US</div>
     <div>Chandrasegaran group, Univ of California, Riverside US</div>
+    <div>Chang group, Univ Pennsylvania US</div>
     <div>Charvat group, High Point Univ US</div>
     <div>Chasen group, Univ South Alabama US</div>
     <div>Chaudhuri group, Meharry Medical College US</div>
@@ -173,8 +175,10 @@ tags: [general]
     <div>Francia group, Inst Pasteur Montevideo UY</div>
     <div>Free group, Univ Buffalo US</div>
     <div>Freitag group, Oregon State US</div>
+    <div>Frischknecht group, Heidelberg Univ DE</div>
     <div>Fritz group, Univ Maryland, College Park US</div>
     <div>Galizi group, Keele Univ UK</div>
+    <div>Ganter group, Heidelberg Univ DE</div>
     <div>Gendrin group, Institut Pasteur de la Guyane GF</div>
     <div>Ghosh group, Maulana Azad College IN</div>
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
@@ -210,6 +214,7 @@ tags: [general]
     <div>Heise group, Federal Univ of Rio de Janeiro BR</div>
     <div>Heitman group, Duke Univ US</div>
     <div>Hemphill group, Univ Bern CH</div>
+    <div>Hentzschel group, Heidelberg Univ DE</div>
     <div>Herman group, Univ California Los Angeles US</div>
     <div>Hernández Hernández group, CINVESTAV MX</div>
     <div>Heussler group, Univ Bern CH</div>
@@ -227,6 +232,7 @@ tags: [general]
     <div>Humphries group, Lawrence Univ US</div>
     <div>Huston group, Univ of Vermont US</div>
     <div>Inaoka group, Nagasaki Univ JP</div>
+    <div>Ingham group, Heidelberg Univ DE</div>
     <div>Iriko group, Kobe Univ JP</div>
     <div>Ishino group, Tokyo Institute of Science JP</div>
     <div>Ito group, Tottori Univ JP</div>
@@ -268,6 +274,7 @@ tags: [general]
     <div>Lander group, Univ Cincinnati US</div>
     <div>Landfear group, Oregon Health & Science Univ US</div>
     <div>Lane group, Idaho State Univ US</div>
+    <div>Lanzer group, Heidelberg University Hospital DE</div>
     <div>Lavazec group, Inst Cochin FR</div>
     <div>Lavstsen group, Univ Copenhagen DK</div>
     <div>Lebedinec group, Mushroomplus UK</div>
@@ -524,6 +531,7 @@ tags: [general]
    <div>Clemson Univ US / Eukaryotic Pathogens Innovation Center (EPIC) – Dhingra, Dolan, Dou, Fierro, Ingram-Smith, J Morris, M Morris, Jezewski, Smith, Temesvari & Walzer groups</div>
    <div>Czech Acad Sci CZ / Inst Parasitology, Biology Centre – Zikova, Lukes, Gahura, Paris, Obornik, Sojka, Kolisko, Perner groups</div>
    <div>Dept Parasitology, Charles Univ CZ – Tachezy, Votypka, Horak, Zoltner, Dolezal, Sutak, Volf groups</div>
+    <div>Johns Hopkins Univ US – Bhabha and Ekiert groups</div>
    <div>Infection and Global Health Division, WEHI AU- Tonkin, Cowman, Boddey, Longley, Mueller, Jex, Doerflinger, Hill, Tham, McCarthy groups</div>
    <div>Institute of Hygiene and Tropical Medicine, NOVA Univ Lisbon PT- multiple groups</div>
    <div>Institute of Tropical Medicine - DBS - parasitology units Antwerp BE</div>
@@ -539,7 +547,6 @@ tags: [general]
    <div>Univ Regensburg DE</div>
    <div>Villanova University- Megan Povelones group, Michael Povelones group</div>
    <div>Viruses and RNA Interference Unit, Institut Pasteur FR- Koh & Saleh groups</div>
-   <div>York Biomedical Research Inst UK – multiple groups</div>
   </div>
 
 
