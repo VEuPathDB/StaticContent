@@ -547,6 +547,7 @@ tags: [general]
    <div>Univ Regensburg DE</div>
    <div>Villanova University- Megan Povelones group, Michael Povelones group</div>
    <div>Viruses and RNA Interference Unit, Institut Pasteur FR- Koh & Saleh groups</div>
+   <div>York Biomedical Research Inst UK – multiple groups</div>
   </div>
 
 
