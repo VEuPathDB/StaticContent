@@ -68,6 +68,7 @@ tags: [general]
     <div>Balbino group, Federal Univ Pernambuco BR</div>
     <div>Bangs group, Univ Buffalo US</div>
     <div>Barber group, Friedrich Schiller Univ Jena DE</div>
+    <div>Barker group, Northern Arizona Univ US</div>
     <div>Barrett group, Univ Glasgow UK</div>
     <div>Bartholomeu group, Federal Univ of Minas Gerais BR</div>
     <div>Bartfai group, Radboud Univ NL</div>
@@ -94,6 +95,7 @@ tags: [general]
     <div>Boshart group, LMU Munich DE</div>
     <div>Boyle group, Univ Pittsburgh US</div>
     <div>Brackney group, Connecticut Agricultural Experiment Station US</div>
+    <div>Bradley group, Univ California Los Angeles US</div>
     <div>Briggs group, Newcastle Univ UK</div>
     <div>Bringaud group, Univ Bordeaux FR</div>
     <div>Brown group, Univ Oklahoma Health Sciences Center US</div>
@@ -162,6 +164,7 @@ tags: [general]
     <div>Engstler group, Julius-Maximilians-Universität Würzburg DE</div>
     <div>Ersfeld group, Univ Bayreuth DE</div>
     <div>Estevez group, CSIC ES</div>
+    <div>Etxebeste group, Univ Basque Country ES</div>
     <div>Faso group, Univ Bern CH</div>
     <div>Fidock group, Columbia Univ US</div>
     <div>Field group, Univ Dundee UK</div>
@@ -183,6 +186,7 @@ tags: [general]
     <div>Ghosh group, Maulana Azad College IN</div>
     <div>Gilchrist & Petri groups, Univ Virginia US</div>
     <div>Gissot group, Institut Pasteur de Lille FR</div>
+    <div>Glass group, Univ of Vermont US</div>
     <div>Glover group, Institut Pasteur FR</div>
     <div>Goldberg group, Washington Univ US</div>
     <div>Goldring group, Univ of KwaZulu-Natal ZA</div>
@@ -265,6 +269,7 @@ tags: [general]
     <div>Kocken group, Biomedical Primate Research Centre NL</div>
     <div>Koepfli group, Univ Notre Dame US</div>
     <div>Kooij group, Radboud Univ NL</div>
+    <div>Koshy group, Univ Arizona US</div>
     <div>Kowalinski group, EMBL Grenoble FR</div>
     <div>Kramer group, Univ Wuerzburg DE</div>
     <div>Kritsiligkou group, Univ Liverpool UK</div>
@@ -462,6 +467,7 @@ tags: [general]
     <div>Teixeira group, Federal Univ of Minas Gerais BR</div>
     <div>Tekiel group, UNSAM - CONICET AR</div>
     <div>Thiam group, Institut Pasteur de Dakar SN</div>
+    <div>Tiengwe group, Imperial College London UK</div>
     <div>Tikhe group, Ball State Univ US</div>
     <div>Tilley group, Univ Melbourne AU</div>
     <div>Todd group, Kansas State Univ US</div>
@@ -498,6 +504,7 @@ tags: [general]
     <div>Wilson group, Univ California Riverside US</div>
     <div>Wilson group, Univ of Iowa US</div>
     <div>Winzeler group, Univ California, San Diego US</div>
+    <div>Wirth group, Harvard Univ US</div>
     <div>Wright group, Univ York UK</div>
     <div>Wunderlich group, Univ de São Paulo BR</div>
     <div>Xiao group, South China Agricultural Univ CN</div>
