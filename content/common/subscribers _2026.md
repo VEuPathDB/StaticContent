@@ -301,6 +301,7 @@ tags: [general]
     <div>Liu group, China Agricultural Univ CN</div>
     <div>Liu group, Southwest Univ CN</div>
     <div>Llinás group, Penn State Univ US</div>
+    <div>Lo group, Drexel Univ US</div>
     <div>Lourido group, Whitehead Inst US</div>
     <div>Luckhart group, Univ of Idaho US</div>
     <div>Lüder group, Univ Göttingen DE</div>
