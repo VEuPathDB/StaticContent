@@ -10,7 +10,7 @@
 }
 </style>
 
-<h1>Programmatic access: web services and file downloads</h1>
+<h1>Programmatic access: Web Services and File Downloads</h1>
 
 <div class="static-content">
 
@@ -53,9 +53,9 @@ Both need your personal <a href="#apikey"><b>API key</b></a> when the request is
 <h2 id="searches">Running searches</h2>
 
 <h3>How a request URL is put together</h3>
-<p>Here is an example request. Try it for yourself: Go to <a href="https://fungidb.org/fungidb/app/search/transcript/GenesByTransmembraneDomains">this search</a> and click <b>Build a web service URL from this search &gt;&gt;</b>.
-It finds all <i>Albugo candida</i> 2VRR genes with 5 to 12 transmembrane domains,
-and for each gene returns its ID, product description and predicted GO function, as tab-delimited text:</p>
+<p>Here is an example request. To try it for yourself, go to <a href="https://fungidb.org/fungidb/app/search/transcript/GenesByTransmembraneDomains">this search on FungiDB</a>, fill in the parameters <i>Albugo candida</i> 2VRR with 5 to 12 transmembrane domains, and click <b>Build a web service URL from this search &gt;&gt;</b>.
+
+This opens a "Build A Web Services Request" page. It finds all <i>Albugo candida</i> 2VRR genes with 5 to 12 transmembrane domains, and for each gene returns its ID, product description and predicted GO function, as tab-delimited text:</p>
 
 <pre>https://fungidb.org/fungidb/service/record-types/transcript/searches/GenesByTransmembraneDomains/reports/attributesTabular
     ?organism=["Albugo candida 2VRR"]
@@ -119,7 +119,7 @@ and spaces and symbols are encoded, for example a space becomes <code>&#37;20</c
 
 <h3>GET or POST?</h3>
 <ul>
-  <li><b>GET</b> puts everything in the URL. It's simple and works in a browser, but it's awkward when the request is long, for example when you select many organisms or paste in hundreds of gene IDs.</li>
+  <li><b>GET</b> puts everything in the URL. It's simple and works in a browser, but it may fail when the request is long, for example when you select many organisms or paste in hundreds of gene IDs, as URLs sometimes have maximum lengths in the browser or on servers.</li>
   <li><b>POST</b> sends the parameters as a JSON body to the same address. Use it for long lists or complex parameters. The <a href="#quickstart">Quick start</a> page shows the POST version of every request.
       A POST request can't be run by clicking a link or pasting the URL into a browser (that sends a GET with no parameters, and you will see "Cannot be empty" errors); use curl, a script or a tool such as Postman.</li>
 </ul>
@@ -139,7 +139,7 @@ Without one, requests are refused with the message <i>"Valid API Key required fo
     Replace <code>your_api_key</code> with your key. Keep the word <code>Bearer</code> and the space after it, and don't add brackets or quotes around the key.</li>
 </ol>
 <p>
-<b>Keep your API key private.</b> It identifies you the same way your password does.
+<b>Keep your API key private!</b> It identifies you the same way your password does.
 Don't paste it into scripts, notebooks or code repositories that you share. Store it in an environment variable instead, as in the examples below:
 </p>
 <pre>export VEUPATHDB_API_KEY="your_api_key"</pre>
