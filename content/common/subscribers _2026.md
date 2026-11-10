@@ -124,6 +124,7 @@ tags: [general]
     <div>Chitnis group, Institut Pasteur FR</div>
     <div>Chiurillo group, Univ Cincinnati US</div>
     <div>Christensen group, Northwestern Univ US</div>
+    <div>Cingoz lab, Univ Glasgow UK</div>
     <div>Collins group, UT Southwestern US</div>
     <div>Corvi group, Chascomús Technol Inst (INTECH) AR</div>
     <div>Cramer group, Dartmouth College US</div>
@@ -398,6 +399,7 @@ tags: [general]
     <div>Ralph group, Univ Melbourne AU</div>
     <div>Ramaprasad group, Univ Glasgow UK</div>
     <div>Ramirez-Flores group, CINVESTAV MX</div>
+    <div>Ramón lab, Bioquímica, Univ Republica UY</div>
     <div>Rayner group, Univ Cambridge UK</div>
     <div>Reece group, Univ Edinburgh UK</div>
     <div>Robello group, Institut Pasteur de Montevideo UY</div>
@@ -417,10 +419,11 @@ tags: [general]
     <div>Sakuma group, RIKEN JP</div>
     <div>Salavati group, McGill Univ CA</div>
     <div>Samuelson group, Boston Univ US</div>
+    <div>Sanglard lab, Univ of Lausanne CH</div>
     <div>Santiago-Tirado group, Univ Notre Dame US</div>
     <div>Santos group, Univ Paris-Saclay FR</div>
     <div>Sateriale group, Crick Inst UK</div>
-    <div>Saxena group, Birla Institute of Technology and Science, Pilani IN</div>
+    <div>Saxena group, Birla Inst of Technology and Science, Pilani IN</div>
     <div>Scaraffia group, Tulane Univ US</div>
     <div>Scheel group, Indiana Univ US</div>
     <div>Schenkman group, Federal Univ São Paulo BR</div>
