@@ -6,19 +6,16 @@ tags: [general]
 
 <div class="static-content">
 
-<h3>About this page</h3>
-
-The high-level summary of the VEuPathDB Data License is provided below for informational purposes only and is intended to outline key concepts under consideration. It does not constitute a binding agreement, does not grant any rights, and does not replace or supersede the final VEuPathDB data license. Any use of VEuPathDB data will be governed solely by the terms of the final executed licensing agreement. We welcome feedback via the <a href="/a/app/contact-us">Contact Form</a> as we finalize the full licensing agreement.<br><br>
-
-<h2>VEuPathDB Data License – High-Level Summary for Commercial Users</h2>
+<h2>VEuPathDB Terms of Use</h2>
 
 <h3>Purpose</h3><br>
-VEuPathDB is a publicly funded, open-access scientific resource that integrates, curates, and provides tools to analyze pathogen genomics and related datasets. This summary explains how commercial entities can use the database while respecting data provenance, community norms, and your rights as a subscriber.
+VEuPathDB is a publicly funded, open-access scientific resource that integrates, curates, and provides tools to analyze pathogen genomics and related datasets. These Terms of Use explain how users, including commercial entities, can use the database while respecting data provenance, community norms, and your rights as a subscriber.
 
 <h3>1. Who This Applies To</h3>
 <ul>
 <li>Academic, non-profit, and commercial users.</li>
-<li>All users must comply with the license terms for proper use of the data, tools, and analyses.</li></ul><br>
+<li>All users must comply with these Terms of Use.</li>
+</ul><br>
 
 <h3>2. Permitted Uses</h3>
 <ul>
@@ -35,7 +32,7 @@ VEuPathDB is a publicly funded, open-access scientific resource that integrates,
 <li>Respect original data source restrictions — primary raw data may be governed by external repositories, consent, or publication terms.</li></ul><br>
 
 <h3>4. Value Added by VEuPathDB</h3>
-The license governs VEuPathDB’s <b>value-added content</b>, including:
+VEuPathDB’s <b>value-added content</b> includes:
 <ul>
 <li>Aggregated and curated datasets.</li>
 <li>Metadata and standardized annotations.</li>
@@ -65,10 +62,10 @@ Note: Original raw data usually resides in external repositories (e.g., NCBI SRA
 <h3>8. Key Takeaways</h3>
 <ol>
 <li><b>Open and safe to use</b>: You can use VEuPathDB data for research and commercial innovation.</li>
-<li><b>Value-added protection</b>: The license protects the database as a curated, integrated resource.</li>
+<li><b>Value-added protection</b>: These terms protect the database as a curated, integrated resource.</li>
 <li><b>AI-friendly</b>: ML and AI applications are explicitly supported, with safeguards to prevent misuse.</li>
 <li><b>Commercial clarity</b>: Companies can build products, train models, and publish results, as long as they do not redistribute or replicate the database itself.</li>
 <li><b>Transparent and responsible</b>: Attribution and respect for upstream data rights are required.</li>
 </ol><br>
-
+<p><i>Last updated: November 10, 2026. VEuPathDB may update these terms; the version posted here applies.</i></p>
 </div>
