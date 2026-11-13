@@ -41,6 +41,7 @@ tags: [general]
     <div>Adams group, Univ South Florida US</div>
     <div>Adelman group, Texas A&M Univ US</div>
     <div>Afasizhev group, Boston Univ US</div>
+    <div>Aguero group, National Univ of San Martín AR</div>
     <div>Aguirre group, National Autonomous Univ MX</div>
     <div>Akiyoshi group, Univ Edinburgh UK</div>
     <div>Alday group, Oregon Health & Science Univ US</div>
@@ -255,6 +256,7 @@ tags: [general]
     <div>Kamaliddin group, Univ Alberta CA</div>
     <div>Kaneko group, Nagasaki Univ JP</div>
     <div>Kanzok group, Loyola Univ Chicago US</div>
+    <div>Khater group, Ain Shams Univ EG</div>
     <div>Ke group, Drexel Univ US</div>
     <div>Keith Gull, Univ Oxford UK</div>
     <div>Keller group, Univ Wisconsin Madison US</div>
