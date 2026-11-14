@@ -390,6 +390,7 @@ tags: [general]
     <div>Phadke group, California State Univ US</div>
     <div>Phan group, Seattle Children’s Research Inst US</div>
     <div>Phillips group, UT Southwestern US</div>
+    <div>Pick group, Tel-Hai Univ IL</div>
     <div>Pöggeler group, Univ of Göttingen DE</div>
     <div>Ponts group, INRAE FR</div>
     <div>Pradel group, RWTH Aachen Univ DE</div>
