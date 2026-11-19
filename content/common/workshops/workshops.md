@@ -93,6 +93,12 @@ tags: [workshop-exercise]
   <h3>Upcoming Workshops</h3>
   <br>
   <div class="contents">
+  <!--<h4><a href="/a/app/static-content/workshopDec2025.html">VEuPathDB Virtual Workshop, Dec 9-11, 2025</a></h4>-->
+  <h4>VEuPathDB Virtual Workshop, Dec 8-11, 2026</h4>
+  <p>Times: Tuesday, Dec 8 &ndash; Friday, Dec 11, 10:00 am - 1:00 pm US Eastern time every day</p>
+  <p>Location: This workshop is virtual via Zoom.</p>
+  <p>Registration is open until Friday, Dec 4, 2026: <a href="https://upenn.co1.qualtrics.com/jfe/form/SV_0SXPKVhX54zRwi2">Click here to register.</a></p>
+  <!--<p>More Information: <a href="/a/app/static-content/workshopDec2025.html">Workshop information and schedule</a></p>-->
   </div>
   
   <h3>Previous Workshops</h3>
