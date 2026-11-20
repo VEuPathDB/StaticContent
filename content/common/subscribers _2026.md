@@ -63,10 +63,11 @@ tags: [general]
     <div>Arthropod Sensory Biology group, Baylor Univ US</div>
     <div>Asada group, Obihiro Univ JP</div>
     <div>Asgari group, Univ Queensland AU</div>
-    <div>Athrey group, Texas A&M Univ, US</div>
+    <div>Athrey group, Texas A&M Univ US</div>
     <div>Azuara group, Autonomous Univ MX</div>
     <div>Bakari-Soale group, Univ Nottingham UK</div>
     <div>Balbino group, Federal Univ Pernambuco BR</div>
+    <div>Ballou group, Univ Exeter UK</div>
     <div>Bangs group, Univ Buffalo US</div>
     <div>Barber group, Friedrich Schiller Univ Jena DE</div>
     <div>Barker group, Northern Arizona Univ US</div>
@@ -494,7 +495,8 @@ tags: [general]
     <div>Vidal group, Oswaldo Cruz Foundation BR</div>
     <div>Vidilaseris group, Univ of Helsinki FI</div>
     <div>Voss group, Swiss Tropical and Public Health Inst CH</div>
-    <div>Waller group, Univ Cambridge GB</div>
+    <div>Waisberg group, Providence VA Medical Center US</div>
+    <div>Waller group, Univ Cambridge UK</div>
     <div>Wang group, Univ Michigan US</div>
     <div>Wang group, Univ Southern California US</div>
     <div>Wang group, Yale Univ US</div>
