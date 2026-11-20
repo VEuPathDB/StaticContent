@@ -346,6 +346,7 @@ tags: [general]
     <div>Mottram group, Univ York UK</div>
     <div>Moye-Rowley group, Univ of Iowa US</div>
     <div>Mucci group, National Univ of San Martín AR</div>
+    <div>Mugnier group, Johns Hopkins US</div>
     <div>Munro group, Univ of Aberdeen UK</div>
     <div>Mukherjee group, IIT Kharagpur IN</div>
     <div>Muralidharan group, Univ Georgia US</div>
