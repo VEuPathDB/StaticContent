@@ -139,6 +139,7 @@ tags: [general]
     <div>Daily group, Albert Einstein College of Medicine US</div>
     <div>Damasio group / LEBIMO, State Univ Campinas BR</div>
     <div>Danae Schulz, Harvey Mudd College US</div>
+    <div>Dara group, USTTB ML</div>
     <div>Da Rocha group, Federal Univ of Paraná BR</div>
     <div>Dave Anderson, Independent researcher US</div>
     <div>Davis group, Univ Iowa US</div>
@@ -161,6 +162,7 @@ tags: [general]
     <div>Dunlap group, Dartmouth College US</div>
     <div>Duraisingh group, Harvard T. H. Chan School of Public Health US</div>
     <div>Dvorin group, Boston Children's Hosp US</div>
+    <div>Dzikowski group, Hebrew Univ IL</div>
     <div>Echeverry group, National Univ of Colombia INRS CO</div>
     <div>Egan group, Stanford Univ US</div>
     <div>Elias group, Butantan Institute BR</div>
@@ -339,6 +341,7 @@ tags: [general]
     <div>Mita group, Juntendo University JP</div>
     <div>Mok group, Columbia Univ US</div>
     <div>Molestina group, ATCC US</div>
+    <div>Monti group, Univ Melbourne AU</div>
     <div>Moon group, London School of Hygiene & Tropical Medicine UK</div>
     <div>Mordue group, New York Medical College US</div>
     <div>Morrissette group, Univ California Irvine US</div>
