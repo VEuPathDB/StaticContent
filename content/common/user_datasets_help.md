@@ -153,10 +153,11 @@ title: User Data Sets Help
     <summary><h4>Upload your phenotype data</h4></summary>
     <ul>
     <li>Upload your phenotype data in a tab delimited .tsv or .txt file</li>
-    <li>The file should contain a gene ID column with header "geneID"</li>
-    <li>The file should contain at least one column with numeric data</li>
+    <li>The file's first column should contain gene IDs and have the header "gene"</li>
+    <li>The file should contain at least one other column with numeric or textual phenotype data</li>
+    <li>A mix of numeric and textual columns is allowed</li>
     <li>Boolean or logical values are not allowed. Columns that encode TRUE/FALSE, True/False, true/false, T/F, t/f should be converted to descriptive text, such as yes/no, before uploading.</li>
-    <li>Each row must have a unique geneID</li>
+    <li>Each row must have a unique gene ID</li>
     <li>Values no longer than 1000 characters and should not contain newlines</li>
     <li> Valid gene IDs should
       <ul>
