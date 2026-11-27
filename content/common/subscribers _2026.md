@@ -416,7 +416,9 @@ tags: [general]
     <div>Robledo group, Bigelow Laboratory for Ocean Sciences US</div>
     <div>Roditi group, Univ Bern CH</div>
     <div>Rogers group, St. Jude Children's Research Hospital US</div>
+    <div>Rono group, KEMRI-Wellcome Trust Research Programme KE</div>
     <div>Roth group, Univ of Oxford UK</div>
+    <div>Rowe group, Univ Edinburgh UK</div>
     <div>Rentsch group, Univ Bern CH</div>
     <div>Richard group, Univ Laval CA</div>
     <div>Roos group, Univ Pennsylvania US</div>
@@ -499,6 +501,7 @@ tags: [general]
     <div>Vidal group, Oswaldo Cruz Foundation BR</div>
     <div>Vidilaseris group, Univ of Helsinki FI</div>
     <div>Voss group, Swiss Tropical and Public Health Inst CH</div>
+    <div>Vosshall group, Rockefeller Univ US</div>
     <div>Waisberg group, Providence VA Medical Center US</div>
     <div>Waller group, Univ Cambridge UK</div>
     <div>Wang group, Univ Michigan US</div>
